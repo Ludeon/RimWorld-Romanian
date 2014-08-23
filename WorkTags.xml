@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>Nimic</WorkTagNone>
+  <WorkTagIntellectual>Muncă intelectuală</WorkTagIntellectual>
+  <WorkTagManualDumb>Muncă necalificată</WorkTagManualDumb>
+  <WorkTagManualSkilled>Muncă calificată</WorkTagManualSkilled>
+  <WorkTagViolent>Violenţă</WorkTagViolent>
+  <WorkTagCaring>Îngrijire</WorkTagCaring>
+  <WorkTagSocial>Socializare</WorkTagSocial>
+  <WorkTagScary>Muncă Înfricoșătaore</WorkTagScary>
+  <WorkTagArtistic>Creaţie Artistică</WorkTagArtistic>
+  <WorkTagCrafting>Meșteșugărit</WorkTagCrafting>
+  <WorkTagCooking>Gătit</WorkTagCooking>
+  <WorkTagFirefighting>Stingerea incendiilor</WorkTagFirefighting>
+  <WorkTagCleaning>Curăţenie</WorkTagCleaning>
+  <WorkTagHauling>Cărat</WorkTagHauling>
+  <WorkTagPlantWork>Agricultura</WorkTagPlantWork>
+  <WorkTagMining>Minerit</WorkTagMining>
+
+</LanguageData>
