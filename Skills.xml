@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Level>Nivel</Level>
+  <ProgressToNextLevel>Progres până la următorul nivel</ProgressToNextLevel>
+  <Passion>Pasiune</Passion>
+  <PassionNone>Inexistentă (învată greu - {0}x)</PassionNone>
+  <PassionMinor>Interesat (învată normal - {0}x)</PassionMinor>
+  <PassionMajor>Arzătoare (învată repede - {0}x)</PassionMajor>
+  <EffectsAtLevel>Efecte la nivelul {0}</EffectsAtLevel>
+  <SkillMax>MAXIM</SkillMax>
+
+
+
+  <Skill0>Incapabil</Skill0>
+  <Skill1>Incompetent</Skill1>
+  <Skill2>Cunoşţinte de bază</Skill2>
+  <Skill3>Familiaritate de bază</Skill3>
+  <Skill4>Amator</Skill4>
+  <Skill5>Mare amator</Skill5>
+  <Skill6>Practician</Skill6>
+  <Skill7>Practician calificat</Skill7>
+  <Skill8>Profesionist</Skill8>
+  <Skill9>Profesionist calificat</Skill9>
+  <Skill10>Expert</Skill10>
+  <Skill11>Expert calificat</Skill11>
+  <Skill12>Expert supracalificat</Skill12>
+  <Skill13>Maestru</Skill13>
+  <Skill14>Maestru calificat</Skill14>
+  <Skill15>Maestru planetar</Skill15>
+  <Skill16>Maestru de sistem</Skill16>
+  <Skill17>Maestru venerat</Skill17>
+  <Skill18>Vizionar</Skill18>
+  <Skill19>Legendar</Skill19>
+  <Skill20>Dumnezeiesc</Skill20>
+
+
+  
+  
+  
+</LanguageData>
