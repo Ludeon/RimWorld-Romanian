@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>Ora</ClockTime>
+  <ClockDate>Data</ClockDate>
+  <ClockYear>An</ClockYear>
+  <DateReadoutTip> Zile trecute de la aterizare: {0}\nÎn fiecare lună sunt {1} zile.</DateReadoutTip>
+
+
+
+  <FullDate>{0} {1}, Anul {2}</FullDate>
+  <MonthFullDate>{0} {1}</MonthFullDate>
+  
+  <MonthFullJanuary>Ianuarie</MonthFullJanuary>
+  <MonthFullFebruary>Februarie</MonthFullFebruary>
+  <MonthFullMarch>Martie</MonthFullMarch>
+  <MonthFullApril>Aprilie</MonthFullApril>
+  <MonthFullMay>Mai</MonthFullMay>
+  <MonthFullJune>Iunie</MonthFullJune>
+  <MonthFullJuly>Iulie</MonthFullJuly>
+  <MonthFullAugust>August</MonthFullAugust>
+  <MonthFullSeptember>Septembrie</MonthFullSeptember>
+  <MonthFullOctober>Octombrie</MonthFullOctober>
+  <MonthFullNovember>Noiembrie</MonthFullNovember>
+  <MonthFullDecember>Decembrie</MonthFullDecember>
+
+  <MonthShortJanuary>Ian</MonthShortJanuary>
+  <MonthShortFebruary>Feb</MonthShortFebruary>
+  <MonthShortMarch>Mar</MonthShortMarch>
+  <MonthShortApril>Apr</MonthShortApril>
+  <MonthShortMay>Mai</MonthShortMay>
+  <MonthShortJune>Iun</MonthShortJune>
+  <MonthShortJuly>Iul</MonthShortJuly>
+  <MonthShortAugust>Aug</MonthShortAugust>
+  <MonthShortSeptember>Sep</MonthShortSeptember>
+  <MonthShortOctober>Oct</MonthShortOctober>
+  <MonthShortNovember>Noi</MonthShortNovember>
+  <MonthShortDecember>Dec</MonthShortDecember>
+    
+    
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+ă Ă â Â î Î ş Ş ţ Ţ
+  <Prohis>lui</Prohis>
+  <Proher>ei</Proher>
+  <ProhisCap>A lui</ProhisCap>
+  <ProherCap>A ei</ProherCap>
+
+  <ProhimObj>lui</ProhimObj>
+  <ProherObj>ei</ProherObj>
+  <ProhimObjCap>A lui</ProhimObjCap>
+  <ProherObjCap>A ei</ProherObjCap>
+
+  <Prohe>el</Prohe>
+  <Proshe>ea</Proshe>
+  <ProheCap>El</ProheCap>
+  <ProsheCap>Ea</ProsheCap>
+  
+
+
+</LanguageData>
