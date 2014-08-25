@@ -45,7 +45,7 @@
   <SingleTravelerPassing>A {0} from {1} is passing by. HECAP is named {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>A group of travelers from {0} are passing by.</GroupTravelersPassing>
 
-  <SingleVisitorArrives>A {0} from {1} is visiting the colony.\n\nHECAP is named {2}.</SingleVisitorArrives>
+  <SingleVisitorArrives>Un {0} din {1} vizitează colonia.\n\nHECAP e numit/ă {2}.</SingleVisitorArrives>
   <GroupVisitorsArrive>A group from {0} are visiting the colony.</GroupVisitorsArrive>
   <VisitorsLeaving>Visitors from {0} are leaving.</VisitorsLeaving>
 

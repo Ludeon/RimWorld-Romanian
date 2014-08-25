@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
+ă Ă â Â î Î ş Ş ţ Ţ
   <!--=========== Main menu ==========-->
   <CreateWorld>Creare Lume</CreateWorld>
   <NewColony>Colonie Nouă</NewColony>
@@ -47,14 +47,14 @@
   <!--=========== Mods screen ==========-->
   <GetMods>Obține modificări</GetMods>
   <OpenModsDataFolder>Deschide dosarul cu modificări</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Sunteţi sigur că doriţi să dezactivati jocul original (core mod)? Jocul nu va mai putea funcţiona decât dacă este activată o altă modificare care îndeplineşte funcţiile de bază ale jocului original (core mod).\n\nŢineţi cont că alte modificări pot înlocui dosarele def ale jocului original (core mod) atunci când folosesc acelaşi defNume. </ConfirmDisableCoreMod>
   <Author>Autor</Author>
 
 
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Alege un povestitor</ChooseAIStoryteller>
   <HowStorytellersWork>Povestitorul creează evenimente, cum ar fi razii ale piraților, pierderi de resurse, sau animale agresive. Alegerile lor vor afecta povestea coloniei tale.</HowStorytellersWork>
-  <MustChooseChallengeScale>Please choose a challenge scale.</MustChooseChallengeScale>
+  <MustChooseChallengeScale>Vă rog alegeți nivelul provocării.</MustChooseChallengeScale>
   <ChallengeScale>Scara Provocării</ChallengeScale>
   <ChallengeScaleTip>Când povestitorul îți trimite amenințări, ele vor fi {0} faţă de cele din modul "Provocare".</ChallengeScaleTip>
   <ChallengeScale_BuilderMode>Constructor</ChallengeScale_BuilderMode>

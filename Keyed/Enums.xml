@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-
+ă Ă â Â î Î ş Ş ţ Ţ 
   <!-- glow -->
-  <Dark>Dark</Dark>
-  <Lit>Lit</Lit>
-  <LitBrightly>Brightly lit</LitBrightly>
+  <Dark>Întunecat</Dark>
+  <Lit>Iluminat</Lit>
+  <LitBrightly>Puternic iluminat</LitBrightly>
   
   <!-- food quality -->
-  <NoneQuality>None</NoneQuality>
-  <PlantQuality>Plant</PlantQuality>
-  <RawQuality>Raw</RawQuality>
-  <MealAwfulQuality>Awful</MealAwfulQuality>
-  <MealSimpleQuality>Simple</MealSimpleQuality>
-  <MealFineQuality>Fine</MealFineQuality>
-  <MealLavishLavish>Lavish</MealLavishLavish>
+  <NoneQuality>Nul</NoneQuality>
+  <PlantQuality>Plantă</PlantQuality>
+  <RawQuality>Crudă</RawQuality>
+  <MealAwfulQuality>Scârboasă</MealAwfulQuality>
+  <MealSimpleQuality>Simplă</MealSimpleQuality>
+  <MealFineQuality>Bună</MealFineQuality>
+  <MealLavishLavish>Decadentă</MealLavishLavish>
   
   <!-- diet type -->
-  <NeverEats>Never eats</NeverEats>
-  <Omnivorous>Omnivorous</Omnivorous>
-  <Herbivorous>Herbivorous</Herbivorous>
-  <Carnivorous>Carnivorous</Carnivorous>
+  <NeverEats>Nu mănâncă</NeverEats>
+  <Omnivorous>Omnivor</Omnivorous>
+  <Herbivorous>Erbivor</Herbivorous>
+  <Carnivorous>Carnivor</Carnivorous>
   
   <!-- history upload pref -->
-  <Unspecified>Undecided</Unspecified>
-  <Always>Allow</Always>
-  <Never>Do not allow</Never>
+  <Unspecified>Indecis</Unspecified>
+  <Always>Permite</Always>
+  <Never>Nu permite</Never>
   
   <!-- pawn activity -->
-  <Consciousness>Consciousness</Consciousness>
-  <Sight>Sight</Sight>
-  <Hearing>Hearing</Hearing>
-  <Moving>Moving</Moving>
-  <Working>Working</Working>
-  <Talking>Talking</Talking>
-  <Eating>Eating</Eating>
-  <Breathing>Breathing</Breathing>
-  <BloodFiltration>Blood filtration</BloodFiltration>
-  <BloodPumping>Blood pumping</BloodPumping>
+  <Consciousness>Conştiinţă</Consciousness>
+  <Sight>Văz</Sight>
+  <Hearing>Auz</Hearing>
+  <Moving>Mișcare</Moving>
+  <Working>Lucru</Working>
+  <Talking>Vorbire</Talking>
+  <Eating>Mâncare</Eating>
+  <Breathing>Respiraţie</Breathing>
+  <BloodFiltration>Filtrare sangvină</BloodFiltration>
+  <BloodPumping>Circulaţie sangvină</BloodPumping>
   <Metabolism>Metabolism</Metabolism>
 
 

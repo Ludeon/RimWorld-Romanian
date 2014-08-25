@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CommandForbiddenDesc>Forbidden - colonists will not interact with this.</CommandForbiddenDesc>
-	<CommandNotForbiddenDesc>Not forbidden - colonists may interact with this.</CommandNotForbiddenDesc>
+	<CommandForbiddenDesc>Interzis - coloniştii nu vor interacţiona cu asta.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Permis - coloniştii vor interacţiona cu asta.</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <CommandTogglePowerLabel>Toggle power</CommandTogglePowerLabel>

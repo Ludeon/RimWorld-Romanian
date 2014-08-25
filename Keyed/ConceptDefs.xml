@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+ă Ă â Â î Î ş Ş ţ Ţ 
+  <ConceptText_MoveCamera>Mută camera apăsând butonul central al mouse-ului si miscand mouse-ul sau folosind tastle WASD.</ConceptText_MoveCamera>
 
-  <ConceptText_MoveCamera>Move the camera by clicking and dragging the MIDDLE MOUSE BUTTON or with the WASD keys.</ConceptText_MoveCamera>
+  <ConceptText_RescueColonist>Pentru a salva un colonist rănit, alege un colonist sănătos şi da click dreapta pe cel rănit.</ConceptText_RescueColonist>
 
-  <ConceptText_RescueColonist>To rescue a wounded colonist, select a healthy colonist and the right-click on the wounded one.</ConceptText_RescueColonist>
-
-  <ConceptText_Capture1>An enemy has been incapacitated. You can capture them!</ConceptText_Capture1>
-  <ConceptText_Capture2>To capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use.</ConceptText_Capture2>
+  <ConceptText_Capture1>Un inamic şi-a pierdut cunoştinţa. Il poţi captura!</ConceptText_Capture1>
+  <ConceptText_Capture2>To capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nVei avea nevoie de un pat in plus marcat "Pentru prizonieri"</ConceptText_Capture2>
 
   <ConceptText_Draft1>To control colonists directly for combat, Draft them by selecting them and hitting the Draft button.</ConceptText_Draft1>
   <ConceptText_Draft2>A drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy.</ConceptText_Draft2>
