@@ -1,43 +1,49 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-ă Ă â Â î Î ş Ş ţ Ţ 
+
   <!-- glow -->
   <Dark>Întunecat</Dark>
   <Lit>Iluminat</Lit>
-  <LitBrightly>Puternic iluminat</LitBrightly>
+  <LitBrightly>Puternic Iluminat</LitBrightly>
   
   <!-- food quality -->
-  <NoneQuality>Nul</NoneQuality>
+  <NoneQuality>Nimic</NoneQuality>
   <PlantQuality>Plantă</PlantQuality>
-  <RawQuality>Crudă</RawQuality>
-  <MealAwfulQuality>Scârboasă</MealAwfulQuality>
-  <MealSimpleQuality>Simplă</MealSimpleQuality>
-  <MealFineQuality>Bună</MealFineQuality>
-  <MealLavishLavish>Decadentă</MealLavishLavish>
+  <RawQuality>Crud</RawQuality>
+  <MealAwfulQuality>Oribil</MealAwfulQuality>
+  <MealSimpleQuality>Simplu</MealSimpleQuality>
+  <MealFineQuality>Bun</MealFineQuality>
+  <MealLavishLavish>Delicios</MealLavishLavish>
   
   <!-- diet type -->
-  <NeverEats>Nu mănâncă</NeverEats>
+  <NeverEats>Nu se hrănesc</NeverEats>
   <Omnivorous>Omnivor</Omnivorous>
   <Herbivorous>Erbivor</Herbivorous>
   <Carnivorous>Carnivor</Carnivorous>
-  
+  <Dendrovorous>Dendrovor</Dendrovorous>
+
   <!-- history upload pref -->
   <Unspecified>Indecis</Unspecified>
-  <Always>Permite</Always>
-  <Never>Nu permite</Never>
+  <Always>Aprobă</Always>
+  <Never>Refuză</Never>
   
-  <!-- pawn activity -->
-  <Consciousness>Conştiinţă</Consciousness>
-  <Sight>Văz</Sight>
-  <Hearing>Auz</Hearing>
-  <Moving>Mișcare</Moving>
-  <Working>Lucru</Working>
-  <Talking>Vorbire</Talking>
-  <Eating>Mâncare</Eating>
-  <Breathing>Respiraţie</Breathing>
-  <BloodFiltration>Filtrare sangvină</BloodFiltration>
-  <BloodPumping>Circulaţie sangvină</BloodPumping>
-  <Metabolism>Metabolism</Metabolism>
+  <!-- Price types -->
+  <PriceTypeVeryCheap>foarte ieftin</PriceTypeVeryCheap>
+  <PriceTypeCheap>ieftin</PriceTypeCheap>
+  <PriceTypeNormal>normal</PriceTypeNormal>
+  <PriceTypeExpensive>scump</PriceTypeExpensive>
+  <PriceTypeExorbitant>foarte scump</PriceTypeExorbitant>
+
+  <!-- Quality category -->
+  <QualityCategory_Awful>oribil</QualityCategory_Awful>
+  <QualityCategory_Shoddy>uzat</QualityCategory_Shoddy>
+  <QualityCategory_Poor>neîngrijit</QualityCategory_Poor>
+  <QualityCategory_Normal>normal</QualityCategory_Normal>
+  <QualityCategory_Good>bun</QualityCategory_Good>
+  <QualityCategory_Superior>superior</QualityCategory_Superior>
+  <QualityCategory_Excellent>excelent</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>capodoperă</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>legendar</QualityCategory_Legendary>
 
 
 </LanguageData>
