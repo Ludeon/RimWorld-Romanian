@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>Sarcini</TabBills>
+  <TabGrowing>Creștere</TabGrowing>
+  <TabCharacter>Caracter</TabCharacter>
+  <TabPrisoner>Prizonier</TabPrisoner>
+  <TabGear>Inventar</TabGear>
+  <TabThoughts>Psihic</TabThoughts>
+  <TabStorage>Depozit</TabStorage>
+  <TabHealth>Sănătate</TabHealth>
+  <TabRace>Rasă</TabRace>
+  <TabBasics>Elementar</TabBasics>
+  <TabStats>Date</TabStats>
+
+  
+  <!-- Bills tab  -->
+  <AddBill>Adaugă sarcină</AddBill>
+  <RecipeRequiresSkills>Sarcina {0} necesită abilitățile de mai jos. Nici unul din coloniștii tăi nu dețin aceste abilități, deci sarcina este imposibil de realizat.</RecipeRequiresSkills>
+  <BillConfig>Setări</BillConfig>
+  <SuspendedCaps>SUSPENDAT</SuspendedCaps>
+  <PlantVerb>Plantare</PlantVerb>
+
+
+  <!-- Prisoner tab -->
+  <RecruitmentDifficulty>Dificultate de recrutare</RecruitmentDifficulty>
+  <PrisonerGetsFood>Mâncare</PrisonerGetsFood>
+  <DoctorsCare>Îngrijiri medicale</DoctorsCare>
+  <PrisonerGetsMedicine>Medicamente</PrisonerGetsMedicine>
+  <ShouldTryToRecruit>Recrutare</ShouldTryToRecruit>
+  <PrisonerNoInteraction>Izolare</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Conversație amicală</PrisonerFriendlyChat>
+  <PrisonerRelease>Eliberare</PrisonerRelease>
+  <PrisonerExecution>Executare</PrisonerExecution>
+
+
+  <!-- Medical - general -->
+  <MoveSpeed>Viteză</MoveSpeed>
+  <Efficiency>Eficiență</Efficiency>
+  <MissingBodyPart>Lipsă</MissingBodyPart>
+  <DestroyedBodyPart>Distrus</DestroyedBodyPart>
+  <ShatteredBodyPart>Vătămat</ShatteredBodyPart>
+  <RemovedBodyPart>Amputat</RemovedBodyPart>
+  <Healthy>Sănătos</Healthy>
+  <InPain>Suferind</InPain>
+  <PainLevel>Durere</PainLevel>
+  <Dead>Mort</Dead>
+  <Unconscious>Inconștient</Unconscious>
+  <PainShock>În șoc</PainShock>
+  <Injured>Rănit</Injured>
+  <NoInjuries>(sănătos)</NoInjuries>
+  <WholeBody>Întregul corp</WholeBody>
+  <DataProcessing>Procesare de date</DataProcessing>
+  <Communication>Comunicare</Communication>
+  <AffectsLower>afectează</AffectsLower>
+  <BleedingRate>Sângerare</BleedingRate>
+  <HealthOverview>Ansamblu</HealthOverview>
+  <MedicalOperationsShort>Operații ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Modificări ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Operații medicale</MedicalOperations>
+  <Amputate>Amputare</Amputate>
+  <Harvest>Recoltare</Harvest>
+  
+  
+
+  <!-- Medical - Body and activities condition -->
+  <None>Nimic</None>
+  <VeryPoor>Foarte slabă</VeryPoor>
+  <Poor>Slabă</Poor>
+  <Weakened>Slăbită</Weakened>
+  <GoodCondition>OK</GoodCondition>
+  <Enhanced>Îmbunătățită</Enhanced>
+  <SeriouslyImpaired>Compromisă</SeriouslyImpaired>
+  <Impaired>Deteriorată</Impaired>
+  <SlightlyImpaired>Puțin deteriorată</SlightlyImpaired>
+  <NoPain>Deloc</NoPain>
+  <LittlePain>Puțină</LittlePain>
+  <MediumPain>Medie</MediumPain>
+  <SeverePain>Severă</SeverePain>
+  <ExtremePain>Extremă</ExtremePain>
+
+
+
+
+
+
+
+
+</LanguageData>
