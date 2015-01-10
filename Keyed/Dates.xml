@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <ClockTime>Ora</ClockTime>
-  <ClockDate>Data</ClockDate>
+  <ClockDate>Dată</ClockDate>
   <ClockYear>An</ClockYear>
-  <DateReadoutTip> Zile trecute de la aterizare: {0}\nÎn fiecare lună sunt {1} zile.</DateReadoutTip>
+  <DateReadoutTip>Zile au trecut de când ați ajuns aici: {0}\nSunt {1} de zile în fiecare lună.\nAnotimpul actual: {2}</DateReadoutTip>
 
 
 
-  <FullDate>{0} {1}, Anul {2}</FullDate>
+  <FullDate>{0} {1}, anul {2}</FullDate>
   <MonthFullDate>{0} {1}</MonthFullDate>
   
   <MonthFullJanuary>Ianuarie</MonthFullJanuary>
@@ -32,7 +32,7 @@
   <MonthShortJune>Iun</MonthShortJune>
   <MonthShortJuly>Iul</MonthShortJuly>
   <MonthShortAugust>Aug</MonthShortAugust>
-  <MonthShortSeptember>Sep</MonthShortSeptember>
+  <MonthShortSeptember>Sept</MonthShortSeptember>
   <MonthShortOctober>Oct</MonthShortOctober>
   <MonthShortNovember>Noi</MonthShortNovember>
   <MonthShortDecember>Dec</MonthShortDecember>
