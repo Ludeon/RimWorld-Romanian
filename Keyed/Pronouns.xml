@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-ă Ă â Â î Î ş Ş ţ Ţ
-  <Prohis>lui</Prohis>
-  <Proher>ei</Proher>
-  <ProhisCap>A lui</ProhisCap>
-  <ProherCap>A ei</ProherCap>
+
+  <Prohis>al lui</Prohis>
+  <Proher>al ei</Proher>
+  <ProhisCap>al lui</ProhisCap>
+  <ProherCap>al ei</ProherCap>
 
   <ProhimObj>lui</ProhimObj>
   <ProherObj>ei</ProherObj>
-  <ProhimObjCap>A lui</ProhimObjCap>
-  <ProherObjCap>A ei</ProherObjCap>
+  <ProhimObjCap>lui</ProhimObjCap>
+  <ProherObjCap>ei</ProherObjCap>
 
   <Prohe>el</Prohe>
   <Proshe>ea</Proshe>
-  <ProheCap>El</ProheCap>
-  <ProsheCap>Ea</ProsheCap>
+  <ProheCap>el</ProheCap>
+  <ProsheCap>ea</ProsheCap>
   
 
 
