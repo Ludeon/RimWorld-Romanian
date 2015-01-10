@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  <StatsReport_BaseValue>Valoarea de bază</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Trăsături relevante</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Echipament relevant</StatsReport_RelevantGear>
+  <StatsReport_Material>Material</StatsReport_Material>
+  <StatsReport_CharacterQuality>Calitatea caracterului</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Abilități</StatsReport_Skills>
+  <StatsReport_OtherStats>Alte statistici</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Sănătate</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} importanță</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Procesare ulterioară curbată</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Valoare finală</StatsReport_FinalValue>
+  <StatsReport_QualityMultiplier>Multiplicator de calitate</StatsReport_QualityMultiplier>
+  <StatsReport_MarketValueFromStuffsAndWork>Valoarea de piață se calculează după materialele folosite și efortul depus.</StatsReport_MarketValueFromStuffsAndWork>
+  
+</LanguageData>
