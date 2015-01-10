@@ -1,33 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <FullCredits>
-      <![CDATA[--Ludomancer--
-    Tynan Sylvester
+  <!-- Names -->
+  <Credit_Ludomancer>Ludomancer</Credit_Ludomancer>
+  <Credit_MusicAndSound>Muzică și sunet</Credit_MusicAndSound>
+  <Credit_AdditionalProgramming>Programare suplimentară</Credit_AdditionalProgramming>
+  <Credit_GameArt>Arta jocului</Credit_GameArt>
+  <Credit_MenuArt>Arta meniului</Credit_MenuArt>
 
-    --Music and sound--
-    Alistair Lindsay
+  <Credits_TitleTesting>Echipa de testare</Credits_TitleTesting>
+  <Credit_Tester>Tester</Credit_Tester>
 
-    --Additional programming--
-    Piotr Walczak
+  <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
+  <Credit_Writer>Autor</Credit_Writer>
+  <Credit_Translator>Traducător</Credit_Translator>
+  <Credit_OpenSourceLibraries>Biblioteci libere</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Generare zgomot</Credit_NoiseGeneration>
 
-    --Game art--
-    Rhopunzel
-
-    --Menu art--
-    Ricardo Tomé
-
-    --Donated mod code--
-    Haplo
-
-    --Testers--
-    Many gracious and good-looking people!
-
-    --Translators--
-	Romanian - Cassian Amariei-Docan
-	
-    And many generous individuals! See translation files for specifics.]]>
-  </FullCredits>
-  
-  
+    
 </LanguageData>
