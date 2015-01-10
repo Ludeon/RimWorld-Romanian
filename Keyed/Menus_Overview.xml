@@ -1,48 +1,48 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
 
   <!-- Tab titles -->
-  <WorkTab>Lucru</WorkTab>
-  <FactionsTab>Facţiuni</FactionsTab>
+  <WorkTab>Muncă</WorkTab>
+  <FactionsTab>Facțiuni</FactionsTab>
   <StatisticsTab>Statistici</StatisticsTab>
-  <HistoryTab>Istorie</HistoryTab>
+  <HistoryTab>Istoric</HistoryTab>
   <WorldTab>Lume</WorldTab>
 
   <!-- Work tab -->
-  <ManualPriorities>Priorităţi manuale</ManualPriorities>
-  <HigherPriority>Prioritate crescută</HigherPriority>
-  <LowerPriority>Prioritate redusă</LowerPriority>
-  <RelevantSkills>Calificări relevante: {0}\nMedia calificărilor relevante: {1} / {2}</RelevantSkills>
-  <ClickToJumpTo>Sari la:</ClickToJumpTo>
-  <CannotDoThisWork>{0} nu poate executa acest tip de muncă.</CannotDoThisWork>
-  <NoneBrackets>(Nimic)</NoneBrackets>
+  <ManualPriorities>Priorități manuale</ManualPriorities>
+  <HigherPriority>Prioritate mare</HigherPriority>
+  <LowerPriority>Prioritate mică</LowerPriority>
+  <RelevantSkills>Abilități relevante: {0}\nMedia abilităților relevante: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Click pentru a afișa:</ClickToJumpTo>
+  <CannotDoThisWork>{0} nu poate face asta.</CannotDoThisWork>
+  <NoneBrackets>(nimic)</NoneBrackets>
 
   
   <!-- Factions tab -->
-  <Hostile>Ostili</Hostile>
+  <Hostile>Ostil</Hostile>
   <HostileTo>Inamic al {0}</HostileTo>
-  <CurrentGoodwill>Bunăvoinţa acestei facţiuni.</CurrentGoodwill>
+  <CurrentGoodwill>Relația curentă față de această facțiune.</CurrentGoodwill>
 
   
   <!-- Statistics tab -->
   <Storyteller>Povestitor</Storyteller>
-  <ColonyWealthTotal>Bogăţia coloniei</ColonyWealthTotal>
-  <ColonyWealthItems>Bogăţia coloniei în obiecte</ColonyWealthItems>
-  <ColonyWealthBuildings>Bogăţia coloniei în clădiri</ColonyWealthBuildings>
-  <NumBigThreats>Ameninţări majore</NumBigThreats>
-  <NumEnemyRaids>Razii inamice</NumEnemyRaids>
-  <DamageTaken>Daune primite</DamageTaken>
-  <ColonistsKilled>Colonisti morţi</ColonistsKilled>
-  <ColonistsLaunched>Colonisti trimisi in spaţiu</ColonistsLaunched>
+  <ColonyWealthTotal>Avuția coloniei</ColonyWealthTotal>
+  <ColonyWealthItems>Avuția coloniei (obiecte)</ColonyWealthItems>
+  <ColonyWealthBuildings>Avuția coloniei (clădiri)</ColonyWealthBuildings>
+  <NumThreatBigs>Amenințări majore</NumThreatBigs>
+  <NumEnemyRaids>Atacuri inamice</NumEnemyRaids>
+  <DamageTaken>Daune suferite</DamageTaken>
+  <ColonistsKilled>Coloniști decedați</ColonistsKilled>
+  <ColonistsLaunched>Coloniști lansați în spațiu</ColonistsLaunched>
 
 
   <!-- History tab -->
-  <SelectGraph>Alege grafic</SelectGraph>
+  <SelectGraph>Selectează grafic</SelectGraph>
   <Last30Days>Ultimele 30 de zile</Last30Days>
   <Last100Days>Ultimele 100 de zile</Last100Days>
   <Last300Days>Ultimele 300 de zile</Last300Days>
-  <AllDays>Din totdeauna</AllDays>
+  <AllDays>Tot</AllDays>
   <Day>Zi</Day>
   <Value>Valoare</Value>
   <External>Extern</External>
