@@ -1,37 +1,57 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Autosaving>Autosaving</Autosaving>
+  <Autosaving>Salvare Automată</Autosaving>
   
-  <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
+  <GameStartDialog>Voi 3 vă treziți în capsulele de crypto-somn la sunetul sirenelor de urgență și al metalului sfâșiat. Abia reușiți să ajungeți la capsulele de evacuare înainte ca nava să fie distrusă.\n\nCeva timp mai târziu, aterizați pe o planetă îndepărtată.\n\nDeși bucăți din fosta navă se prăbușesc în apropiere, deja se concepe un plan pentru supraviețuire.</GameStartDialog>
 
-  <Colony>Colony</Colony>
+  <Colony>Colonie</Colony>
   
-  <ChangeLanguageFromMainMenu>You can only change language from the options screen on the main menu.</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>Limba se poate schimba doar din meniul principal.</ChangeLanguageFromMainMenu>
 
-  <AndLower>and</AndLower>
-  <DisabledLower>disabled</DisabledLower>
+  <AndLower>și</AndLower>
+  <DisabledLower>dezactivat</DisabledLower>
 
-  <CloseButton>Close</CloseButton>
-
-
-  <VersionIndicator>Version {0}</VersionIndicator>
-  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
-  <CompiledOn>Compiled {0}</CompiledOn>
-
-	<MeatLabel>{0} meat</MeatLabel>
-  <MeatDesc>Raw flesh of a {0}.</MeatDesc>
-
-	<CorpseLabel>{0} corpse</CorpseLabel>
-	<CorpseDesc>Dead body of a {0}.</CorpseDesc>
+  <CloseButton>Închide</CloseButton>
 
 
-	<BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
-  <FrameLabelExtra> (building)</FrameLabelExtra>
+  <VersionIndicator>Versiunea {0}</VersionIndicator>
+  <DevelopmentBuildLower>versiune de dezvoltare</DevelopmentBuildLower>
+  <CompiledOn>Compilat {0}</CompiledOn>
+
+
+
+  <!-- Content generation-->
   
-  
+	<MeatLabel>Carne de {0}</MeatLabel>
+  <MeatDesc>Carne crudă de {0}.</MeatDesc>
+
+  <LeatherLabel>Piele de {0}</LeatherLabel>
+  <LeatherDesc>Piele de {0}.</LeatherDesc>
+
+  <CorpseLabel>Cadavru de {0} </CorpseLabel>
+	<CorpseDesc>Cadavru de{0}.</CorpseDesc>
+  <DeadLabel>{0} (mort)</DeadLabel>
+
+  <RoughStoneTerrainLabel>{0} rugos</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Sol {0} natural, rugos.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>{0} rugos</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Podea de {0} șlefuit imperfect.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>{0} șlefuită</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Podea de {0} natural, șlefuit.</SmoothStoneTerrainDesc>
+
+  <BlueprintLabelExtra> (schemă)</BlueprintLabelExtra>
+  <FrameLabelExtra> (construcție)</FrameLabelExtra>
+
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <VariousLabel>(variat)</VariousLabel>
+
   <!-- History events -->
-  <ColonistDied>Colonist died</ColonistDied>
+  <ColonistDied>Colonist decedat</ColonistDied>
   
   
   
