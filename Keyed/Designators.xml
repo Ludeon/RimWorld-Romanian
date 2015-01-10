@@ -1,84 +1,96 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-  <DesignatorCancel>Cancel</DesignatorCancel>
-  <DesignatorCancelDesc>Cancel designated building, mining, hauling, harvesting, and all other designations.</DesignatorCancelDesc>
+  <DesignatorCancel>Anulare</DesignatorCancel>
+  <DesignatorCancelDesc>Anulează orice acțiune desemnată.</DesignatorCancelDesc>
 
-  <DesignatorCutPlants>Cut plants</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Marks plants to be cut and destroyed. The plant will be completely removed, and any food will be harvested.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlants>Tăiere plante</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Desemnează plante pentru a fi tăiate și distruse. Planta va fi distrusă, iar orice resursă va fi dusă în depozit.</DesignatorCutPlantsDesc>
 
-  <DesignatorDeconstruct>Deconstruct</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Deconstruct buildings and reclaim part of their resources.</DesignatorDeconstructDesc>
+  <DesignatorDeconstruct>Demolare</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Demolează o construcție selectată și obține parte din resursele folosite în construirea acesteia.</DesignatorDeconstructDesc>
 
-  <DesignatorHarvestFood>Harvest food</DesignatorHarvestFood>
-  <DesignatorHarvestFoodDesc>Marks plants to be harvested for food. Food will be harvested as possible from the plant, but the plant itself will remain.</DesignatorHarvestFoodDesc>
+  <DesignatorHarvest>Recoltare</DesignatorHarvest>
+  <DesignatorHarvestDesc>Desemnează plantele pentru a recolta roade sau materie primă.</DesignatorHarvestDesc>
 
-  <DesignatorHarvestWood>Chop wood</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Marks trees to be chopped down for wood.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWood>Tăiere lemne</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Desemnează copaci pentru a fi tăiați.</DesignatorHarvestWoodDesc>
 
-  <DesignatorHaulThings>Haul things</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable.</DesignatorHaulThingsDesc>
-  <NothingToHaulHere>Nothing to haul here.</NothingToHaulHere>
-  <MustHaulHaulables>Can only designate haulable non-automatic things (like rock chunks).</MustHaulHaulables>
+  <DesignatorHaulThings>Depozitare</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Desemnează roci sau alte obiecte pentru a fi duse în haldă. Nu este necesar să desemnați cadavre sau mâncare, care pot fi transportate mereu.</DesignatorHaulThingsDesc>
+  <NothingToHaulHere>Nu este nimic de depozitat aici.</NothingToHaulHere>
+  <MustHaulHaulables>Poți desemna numai lucruri ce pot fi transportate, ne-automate (cum ar fi bucățile de rocă).</MustHaulHaulables>
 
-  <DesignatorHunt>Hunt</DesignatorHunt>
-  <DesignatorHuntDesc>Mark animals to be hunted by your hunters.</DesignatorHuntDesc>
+  <DesignatorHunt>Vânătoare</DesignatorHunt>
+  <DesignatorHuntDesc>Desemnează animale pentru a fi vânate de vânătorii coloniei.</DesignatorHuntDesc>
 
-  <DesignatorMine>Mine</DesignatorMine>
-  <DesignatorMineDesc>Designate areas of rock to be mined out.</DesignatorMineDesc>
+  <DesignatorMine>Minare</DesignatorMine>
+  <DesignatorMineDesc>Desemnează o zonă pentru a mina rocile prezente.</DesignatorMineDesc>
 
-  <DesignatorPlan>Plan</DesignatorPlan>
-  <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.</DesignatorPlanDesc>
+  <DesignatorSmoothFloor>Aplanare podea</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Desemnează pardoseala de piatră pentru a fi aplanata.</DesignatorSmoothFloorDesc>
 
-  <DesignatorPlanRemove>Remove plans</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Remove planning designations.</DesignatorPlanRemoveDesc>
+  <DesignatorPlan>Planuire</DesignatorPlan>
+  <DesignatorPlanDesc>Desemnează un plan într-o zonă. Aceasta nu face nimic în afară de a te ajuta să plănuiești viitorul coloniei tale.</DesignatorPlanDesc>
 
-  <DesignatorHomeRegionAdd>Add Home Region</DesignatorHomeRegionAdd>
-  <DesignatorHomeRegionAddDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home region.</DesignatorHomeRegionAddDesc>
+  <DesignatorPlanRemove>Anulare planuri</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Anulează planurile prezente.</DesignatorPlanRemoveDesc>
 
-  <DesignatorHomeRegionRemove>Remove Home Region</DesignatorHomeRegionRemove>
-  <DesignatorHomeRegionRemoveDesc>Removes a home region. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorHomeRegionRemoveDesc>
+  <DesignatorHomeRegionAdd>Regiune Acasă</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>Coloniștii vor repara obiecte, vor curăța și vor stinge eventuale incendii în regiunea Acasă.</DesignatorHomeRegionAddDesc>
 
-  <DesignatorRegionNoRoofAdd>Create No Roof Region</DesignatorRegionNoRoofAdd>
-  <DesignatorRegionNoRoofAddDesc>Create a region where roofs will not generate. Colonists will also tear down existing roofs here.</DesignatorRegionNoRoofAddDesc>
+  <DesignatorHomeRegionRemove>Anulare regiune Acasă</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>Anulează o regiune Acasă desemnata. Coloniștii nu vor mai repara obiecte, curăța sau stinge incendii.</DesignatorHomeRegionRemoveDesc>
 
-  <DesignatorRegionNoRoofRemove>Remove No Roof Region</DesignatorRegionNoRoofRemove>
-  <DesignatorRegionNoRoofRemoveDesc>Removes a no-roof region. Roofs will generate here, and existing roofs will not be torn down.</DesignatorRegionNoRoofRemoveDesc>
+  <DesignatorRegionNoRoofAdd>Fără acoperiș</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>Desemnează o regiune fără acoperiș. Coloniștii vor demola orice acoperiș prezent.</DesignatorRegionNoRoofAddDesc>
 
-  <DesignatorGrowingZoneDesc>Create a zone where your colonists will try to grow a certain kind of plant.</DesignatorGrowingZoneDesc>
+  <DesignatorRegionNoRoofRemove>Cu acoperiș</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>Anulează o regiune fără acoperiș. Vor fi generate acoperișuri, iar coloniștii nu vor demola un acoperiș deja existent.</DesignatorRegionNoRoofRemoveDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorRegionSnowClearAdd>Deszăpezire</DesignatorRegionSnowClearAdd>
+  <DesignatorRegionSnowClearAddDesc>Desemnează o regiune ce va fi deszăpezită.</DesignatorRegionSnowClearAddDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorRegionSnowClearRemove>Anulare deszăpezire</DesignatorRegionSnowClearRemove>
+  <DesignatorRegionSnowClearRemoveDesc>Anulează o regiune desemnată pentru deszăpezire. Coloniștii nu vor mai curăța zăpada.</DesignatorRegionSnowClearRemoveDesc>
 
+  <DesignatorGrowingZoneDesc>Creează o zonă în care coloniștii vor cultiva o anumită specie de plantă.</DesignatorGrowingZoneDesc>
 
-  <DesignatorZoneDelete>Delete zones</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Creează un depozit în care coloniștii vor stoca resurse.\nAceastă unealtă poate mări un depozit deja existent.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Creează o haldă pentru depozitarea lucrurilor ce nu pot fi folosite în mod direct.\nAceastă unealtă poate mări o haldă deja existentă.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>Anulare zone</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Anulează o zonă desemnata(depozit, haldă, zonă de cultivare).</DesignatorZoneDeleteDesc>
   
-  <DesignatorClaim>Claim</DesignatorClaim>
-  <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
+  <DesignatorClaim>Revendicare</DesignatorClaim>
+  <DesignatorClaimDesc>Revendică clădiri vechi, deja existente. Construcțiile revendicate pot fi reparate, demolate sau folosite de coloniștii tăi.</DesignatorClaimDesc>
   
   
   <!-- placement of blueprints -->
-  <TooCloseToMapEdge>Too close to map edge.</TooCloseToMapEdge>
-  <OutOfBounds>Out of bounds.</OutOfBounds>
-  <CannotPlaceInUndiscovered>Cannot place in undiscovered areas.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Interaction spot is blocked.</InteractionSpotBlocked>
-  <InteractionSpotWillBeBlocked>Interaction location will be blocked.</InteractionSpotWillBeBlocked>
-  <WouldBlockInteractionSpot>{0} would block {1}'s interaction square.</WouldBlockInteractionSpot>
-  <TerrainIsAlready>The terrain here is already {0}.</TerrainIsAlready>
-  <IdenticalThingExists>Identical thing already exists here.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Identical blueprint already exists here.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>The terrain here cannot support this.</TerrainCannotSupport>
-  <SpaceAlreadyOccupied>Space already occupied.</SpaceAlreadyOccupied>
+  <UnchosenStuff>Materialul nu a fost ales</UnchosenStuff>
+  <TooCloseToMapEdge>Prea aproape de marginea regiunii.</TooCloseToMapEdge>
+  <OutOfBounds>În afara limitelor.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Nu se poate plasa în regiuni nedescoperite.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Locul desemnat interacțiunii este blocat de {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Locul desemnat interacțiunii este în afara limitelor.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Locul desemnat interacțiunii va fi blocat de {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} va preveni {1} din a fi folosită.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Terenul de aici este deja {0}.</TerrainIsAlready>
+  <IdenticalThingExists>Un lucru identic este deja existent aici.</IdenticalThingExists>
+  <IdenticalBlueprintExists>O schemă identică este deja prezentă aici.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Terenul nu va putea susține aceasta aici.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Loc deja ocupat.</SpaceAlreadyOccupied>
 
+  
+  
   <!-- placement of zones -->
-  <ExpandOrCreateZone>Expand {0} or\nCreate new {1}</ExpandOrCreateZone>
-  <CreateNewZone>Create new {0}</CreateNewZone>
+  <ExpandOrCreateZone>Mărire {0} sau\nCreare{1}</ExpandOrCreateZone>
+  <CreateNewZone>Creare {0}</CreateNewZone>
   
   
   <!-- desc helpers -->
-  <TransmitsPower>Transmits power</TransmitsPower>
+  <TransmitsPower>Transmite curent electric</TransmitsPower>
 
 
 </LanguageData>
