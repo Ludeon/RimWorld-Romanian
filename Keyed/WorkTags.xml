@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <WorkTagNone>Nimic</WorkTagNone>
   <WorkTagIntellectual>Muncă intelectuală</WorkTagIntellectual>
-  <WorkTagManualDumb>Muncă necalificată</WorkTagManualDumb>
+  <WorkTagManualDumb>Muncă fizică</WorkTagManualDumb>
   <WorkTagManualSkilled>Muncă calificată</WorkTagManualSkilled>
-  <WorkTagViolent>Violenţă</WorkTagViolent>
-  <WorkTagCaring>Îngrijire</WorkTagCaring>
-  <WorkTagSocial>Socializare</WorkTagSocial>
-  <WorkTagScary>Muncă Înfricoșătaore</WorkTagScary>
-  <WorkTagArtistic>Creaţie Artistică</WorkTagArtistic>
+  <WorkTagViolent>Violență</WorkTagViolent>
+  <WorkTagCaring>Îngrijit</WorkTagCaring>
+  <WorkTagSocial>Socializat</WorkTagSocial>
+  <WorkTagScary>Înfricoșător</WorkTagScary>
+  <WorkTagArtistic>Artă</WorkTagArtistic>
   <WorkTagCrafting>Meșteșugărit</WorkTagCrafting>
   <WorkTagCooking>Gătit</WorkTagCooking>
-  <WorkTagFirefighting>Stingerea incendiilor</WorkTagFirefighting>
-  <WorkTagCleaning>Curăţenie</WorkTagCleaning>
-  <WorkTagHauling>Cărat</WorkTagHauling>
-  <WorkTagPlantWork>Agricultura</WorkTagPlantWork>
-  <WorkTagMining>Minerit</WorkTagMining>
+  <WorkTagFirefighting>Pompier</WorkTagFirefighting>
+  <WorkTagCleaning>Curățat</WorkTagCleaning>
+  <WorkTagHauling>Cărăuș</WorkTagHauling>
+  <WorkTagPlantWork>Grădinărit</WorkTagPlantWork>
+  <WorkTagMining>Minat</WorkTagMining>
 
 </LanguageData>
