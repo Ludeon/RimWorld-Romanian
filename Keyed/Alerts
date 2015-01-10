@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ClickToJumpToProblem>Click pentru a vedea problema</ClickToJumpToProblem>
+
+
+
+
+  <AlertNeedStockpile>Este nevoie de un depozit</AlertNeedStockpile>
+  <AlertNeedStockpileDesc> Coloniștii tăi au nevoie să depoziteze lucrurile undeva. Marchează un loc de depozitare pentru a stoca lucruri. \n\nGaseste depozitul în secțiunea ZONE a meniului ARHITECT în partea de stânga jos a ecranului. </AlertNeedStockpileDesc>
+
+  <AlertUnforbidStartingResources>Aproba resursele</AlertUnforbidStartingResources>
+  <AlertUnforbidStartingResourcesDesc>Interactiunea cu resursele de inceput de pe harta este INTERZISA\n\nPoți APROBA interacțiunea cu acestea selectându-le și dând click pe butonul APROBĂ din partea de jos a ecranului.</AlertUnforbidStartingResourcesDesc>
+
+  <AlertEquipStartingWeapons>Echipează arme</AlertEquipStartingWeapons>
+  <AlertEquipStartingWeaponsDesc>Coloniștii tăi au adus cu ei câteva arme. Echipează-le!\n\nSelectează fiecare colonist si dă click-dreapta pe arma pe care vrei sa o echipeze.</AlertEquipStartingWeaponsDesc>
+  
+  <NeedSawmill>Este nevoie de un joagăr</NeedSawmill>
+  <NeedSawmillDesc>Este nevoie de un fel de joagăr pentru a tăia buștenii în plăci de lemn mai versatile.\n\nConstruiește un JOAGĂR MANUAL sau un JOAGĂR ELECTRIC.</NeedSawmillDesc>
+
+  <MentalBreakSoon>Cedare psihică</MentalBreakSoon>
+  <MentalBreakSoonDesc>Acești coloniști se apropie de o cedare psihică:\n\n{0}\nImbunătățește-le dispoziția pentru a evita eventuale neplaceri.</MentalBreakSoonDesc>
+
+  <MentalBreakImminent>Cedare psihică iminentă</MentalBreakImminent>
+  <MentalBreakImminentDesc>Acești coloniști sunt foarte stresați și vor claca în orice moment:\n\n{0}</MentalBreakImminentDesc>
+
+  <ColonistNeedsRescue>Colonistul are nevoie de ajutor</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Coloniștii au nevoie de ajutor</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>  Acești coloniști sunt incapacitați:\n\n{0}\nTrimite un alt colonist pentru a-i aduce într-un pat.\n\n(Pentru a salva un colonist rănit, selectează un alt colonist, dă click dreapta pe cel rănit și selectează opțiunea Salvează).</ColonistsNeedRescueDesc>
+
+  <BuildARoom>Construiește o cameră</BuildARoom>
+  <BuildARoomDesc>O cameră presupune pereți separati și o ușă.\n\nFolosește meniul ARHITECT din partea de stânga jos a ecranului pentru a decide locația unde se va construi. După ce ai desemnat ceva ce trebuie construit, coloniștii tăi vor lucra atunci când vor putea.</BuildARoomDesc>
+
+  <NeedGrowingZone>Este nevoie de o zonă arabila</NeedGrowingZone>
+  <NeedGrowingZoneDesc>Nu există nici o zonă arabila.\n\nDesemnează o zonă arabila pe pământ fertil folosind meniul ARHITECT.</NeedGrowingZoneDesc>
+
+  <NeedDefenses>Este nevoie de o defensivă</NeedDefenses>
+  <NeedDefensesDesc>A trecut ceva timp și probabil că ați fost descoperiți. Pirații vor ataca în curând.\n\nAr trebui sa pregătești o defensivă.\n\nConstruiește câteva tunuri.</NeedDefensesDesc>
+
+  <NeedDoctor>Este nevoie de un doctor</NeedDoctor>
+  <NeedDoctorDesc>Acești coloniști au nevoie de îngrijiri medicale, dar nu există nici un colonist sănătos în rolul de doctor.\n\n{0}\nDesemnează un colonist sănătos în rolul de doctor. În lipsa îngrijirilor medicale, rănile nu se vor vindeca complet și pot apărea complicații permanente.</NeedDoctorDesc>
+
+  <NeedMiner>Este nevoie de un miner</NeedMiner>
+  <NeedMinerDesc>Ai desemnat câteva roci pentru a fi minate, dar nu există nici un colonist în rolul de miner.\n\nDesemnează un colonist în rolul de miner.</NeedMinerDesc>
+
+  <NeedWarden>Este nevoie de un paznic</NeedWarden>
+  <NeedWardenDesc>Ai un prizonier, dar nu există nici un colonist în rolul de paznic.\n\nDesemnează un colonist în rolul de paznic.</NeedWardenDesc>
+
+  <LowFood>Puțină mâncare</LowFood>
+  <LowFoodDesc>Ai doar {0} unități nutritive în păstrare. Este periculos de puțin.\n\nCrește, cumpără, gasește sau vânează pentru a obține mai multă mâncare.</LowFoodDesc>
+
+  <NeedColonistBeds>Este nevoie de paturi pentru coloniști</NeedColonistBeds>
+  <NeedColonistBedsDesc>Sunt mai mulți coloniști decât paturi. Cineva nu va avea unde să doarmă.\n\nFie construiește mai multe paturi sau schimbă un pat rezervat unui prizonier într-un pat pentru coloniști.\n\nDacă nu ai destule resurse, locurile de dormit sunt complet gratuite și pot fi desemnate instantaneu.</NeedColonistBedsDesc>
+
+  <HunterLacksWeapon>Vânătorul nu are armă</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Un colonist a fost desemnat ca vânător dar nu are o armă. Acesta nu va vâna până nu are o armă.\n\nPentru a reduce riscurile, este recomandată o armă ce poate fi folosită de la distanță.</HunterLacksWeaponDesc>
+
+  <Starvation>Foamete</Starvation>
+  <StarvationDesc>Acești coloniști suferă de inaniție:\n\n{0}\nObține mâncare pentru ei. Ai nevoie de un aparat de prelucrare cum ar fi dispensorul de pastă nutritivă și măncare pentru a fi prelucrată. De asemenea, asigură-te că nu sunt recrutați în cadrul serviciilor militare.</StarvationDesc>
+
+  <Exhaustion>Epuizare</Exhaustion>
+  <ExhaustionDesc>Acești coloniști sunt epuizați și au nevoie de odihnă:\n\n{0}\nOferă-le timp să se odihnească. Vor avea nevoie de câte un pat pentru coloniști. De asemenea, asigură-te că nu sunt recrutați în cadrul serviciilor militare.</ExhaustionDesc>
+
+  <NeedFoodHopper>Este nevoie de o pâlnie de încărcat mâncare</NeedFoodHopper>
+  <NeedFoodHopperDesc>Ai un dispensor de pastă nutritivă însa nu există nici o pâlnie de încărcare lângă acesta.\n\nPentru a funționa, dispensorul de pastă are nevoie de o pâlnie de încărcare cu mâncare crudă.\n\nConstruiește o pâlnie de încărcare adiacentă cu dispensorul.</NeedFoodHopperDesc>
+
+  <BuildingNeedsPower>Construcția are nevoie de electricitate</BuildingNeedsPower>
+  <BuildingsNeedPower>Construcțiile au nevoie de electricitate</BuildingsNeedPower>
+  <BuildingsNeedPowerDesc>Aceste construcții ce folosesc electricitate nu sunt conectate la nici o sursă de curent:\n\n{0}\nConectează-le la un generator sau la o baterie.</BuildingsNeedPowerDesc>
+  <AndMore>mai mult</AndMore>
+
+  <NeedMealSource>Este nevoie de o sursă de mâncare</NeedMealSource>
+  <NeedMealSourceDesc>Nu ai nici o modalitate de a găti mâncarea crudă.\n\nConstruiește un dispensor de pastă nutritivă sau o plită.\n\n(Coloniștii nu o vor putea folosi dacă este localizată într-o celulă de închisoare.)</NeedMealSourceDesc>
+
+  <NeedHomeRegion>Trebuie desemnată o regiune ACASĂ</NeedHomeRegion>
+  <NeedHomeRegionDesc>Trebuie să desemnezi o regiune ACASĂ unde coloniștii vor face curat, vor repara și vor stinge eventuale incendii.\n\nDesemnează regiunea ACASĂ folosind secțiunea ZONE a meniului ARHITECT.</NeedHomeRegionDesc>
+
+  <NeedBatteries>Este nevoie de baterii</NeedBatteries>
+  <NeedBatteriesDesc>Momentan ai doar panouri solare si nici o baterie. De îndată ce soarele apune, panourile nu vor mai produce electricitate.\n\nConstruiește cel puțin o baterie pentru a stoca electricitate.</NeedBatteriesDesc>
+
+  <NoTradingCapacity>Nu se poate face comerț</NoTradingCapacity>
+  <NoTradingCapacityDesc>Nu ai nici o modalitate de a contacta și a face comerț cu navele ce trec prin orbită.\n\nConstruiește o consolă de comunicații.</NoTradingCapacityDesc>
+
+  <BrawlerHasRangedWeapon>Bătăușul are o armă de distanță</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Unul din coloniștii tăi este bătăuș, însă acum are în posesie o armă de distanță. Aceasta îl poate face foarte nefericit.</BrawlerHasRangedWeaponDesc>
+
+  <NeedResearchProject>Este nevoie de un proiect de cercetare</NeedResearchProject>
+  <NeedResearchProjectDesc>Ai echipamentul necesar cercetării, dar nici un proiect de cercetare selectat.\n\nDeschide meniul de cercetare și alege un proiect.</NeedResearchProjectDesc>
+  
+  <NeedDump>Este nevoie de o haldă</NeedDump>
+  <NeedDumpDesc>Ai desemnat {0} pentru a fi transportat, dar coloniștii nu au un loc de depozitare specific.\n\nDesemnează o zonă de depozitare ce acceptă și {0}, sau desemnează direct o haldă.</NeedDumpDesc>
+
+  <NeedGrave>Este nevoie de un mormânt</NeedGrave>
+  <NeedGraveDesc>Un cadavru se află în apropierea coloniștilor, iar aceștia nu îl pot depozita nicăieri.\n\nConstruiește un mormânt sau modifică setările unei halde pentru a accepta cadavre.</NeedGraveDesc>
+
+  <ColonistsIdle>{0} coloniști inactivi</ColonistsIdle>
+  <ColonistsIdleDesc>Acești coloniști sunt inactivi:\n\n{0}\nAr trebui mai degrabă să facă ceva productiv.</ColonistsIdleDesc>
+
+  <HaltedConstructions>{0} construcții mai au nevoie de materiale</HaltedConstructions>
+  <HaltedConstructionsDesc>Aceste construcții au nevoie de materiale:\n\n{0}\nAr trebui să pui aceste materiale la dispoziția coloniștilor.</HaltedConstructionsDesc>
+
+  <TableNeedsChairs>Masa are nevoie de scaune</TableNeedsChairs>
+  <TableNeedsChairsDesc>Ai o masă dar nici un scaun lângă. Mesele sunt inutile pentru coloniști dacă nu se pot așeza.</TableNeedsChairsDesc>
+
+  <ColonistNeedsTreatment>Un colonist are nevoie de tratament</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Acești coloniști au nevoie de îngrijiri medicale. Fără aceasta, ar putea muri din cauza rănilor sau acestea ar putea deveni permanente.\n\n{0}\nÎngrijește-i trimițându-i într-un pat medical.\n\n(Mai întâi, desemnează un pat normal drept unul medical. Apoi, selectează colonistul rănit și dă click dreapta pe pat pentru a deveni pacient.)</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>Hipotermie</AlertHypothermia>
+  <AlertHypothermiaDesc>Acești coloniști suferă de hipotermie.\n\n{0}\nAi grijă ca îmbrăcămintea lor să fie adecvată și ca spațiile interioare să fie încălzite.</AlertHypothermiaDesc>
+  
+  <ColonistsAwaitingMedicalOperation>{0} coloniști așteaptă o operație</ColonistsAwaitingMedicalOperation>
+  <ColonistsAwaitingMedicalOperationDesc>Acești coloniști sunt în așteptarea unei operații medicale:\n\n{0}\nFii sigur că există un doctor și suficiente unelte medicale.</ColonistsAwaitingMedicalOperationDesc>
+
+  <PawnsWithLifeThreateningDisease>Boală Severă</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Acești coloniști sunt supuși unor riscuri datorită unor boli letale:\n\n{0}\nAsigură-te că primesc îngrijiri medicale.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Acești coloniști sunt supuși unor riscuri datorită unor boli letale:\n\n{0}\nDacă este posibil, ia în considerare amputarea și înlocuirea unui membru infectat cu unul artificial.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <!--<AlertAbsentMinded>{0} is lost in thought</AlertAbsentMinded>-->
+  
+</LanguageData>
