@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Overview>Ansamblu</Overview>
-  <OverviewTip>Manage colony work priorities and statistics.</OverviewTip>
-  <ResearchTip>Examine and decide on research projects.</ResearchTip>
+  <Overview>Vedere de ansamblu</Overview>
+  <OverviewTip>Statistici și priorități de muncă.</OverviewTip>
+  <ResearchTip>Proiecte de cercetare.</ResearchTip>
   <Wiki>Wiki</Wiki>
-  <WikiTip>Opens Web browser to see the RimWorld wiki and get help playing.</WikiTip>
-  <Menu>Menu</Menu>
-  <MenuTip>Save, load, or quit the game, or change options.</MenuTip>
+  <WikiTip>Deschide un browser de internet pentru ajutor de joc.</WikiTip>
+  <Menu>Meniu</Menu>
+  <MenuTip>Salvează, încarcă, închide sau modifică opțiunile jocului.</MenuTip>
 
-  <Architect>Architect</Architect>
+  <Architect>Arhitect</Architect>
 
 
 </LanguageData>
