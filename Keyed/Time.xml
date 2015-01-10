@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+<DaysLower>zile</DaysLower>
+<SecondsLower>secunde</SecondsLower>
+
+<SeasonSpring>Primăvară</SeasonSpring>
+<SeasonSummer>Vară</SeasonSummer>
+<SeasonFall>Toamnă</SeasonFall>
+<SeasonWinter>Iarnă</SeasonWinter>
+
+</LanguageData>
