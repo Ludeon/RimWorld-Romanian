@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Various -->
+  <WorkLeft>Lucru rămas</WorkLeft>
+  <Contents>Conținut</Contents>
+  <ContainedResources>Resurse conținute</ContainedResources>
+  <ForPrisonerUse>Pentru prizonieri</ForPrisonerUse>
+  <ForColonistUse>Pentru coloniști</ForColonistUse>
+  <MedicalBed>Medical</MedicalBed>
+  <Owner>Proprietar</Owner>
+  <Nobody>Nimeni</Nobody>
+  <Unowned>Liber</Unowned>
+  <DeadTime>Mort de {0}</DeadTime>
+  <WalkSpeed>Viteză {0}</WalkSpeed>
+  <DyingLower>Muribund</DyingLower>
+  <FilthOnFeet>Mizerie pe picioare:</FilthOnFeet>
+  <NotEnoughStoredLower>insuficient stocat</NotEnoughStoredLower>
+  <NothingLower>Nimic</NothingLower>
+  <Adapted>Adaptat</Adapted>
+  <Headshot>Headshot</Headshot>
+  <FreshMissingBodyPart>recent</FreshMissingBodyPart>
+  <UntreatedLower>netratat</UntreatedLower>
+  <DevelopedImmunityLower>imunitate dezvoltată</DevelopedImmunityLower>
+  <InjuryRequiresTreatment>necesită tratament pentru vindecare</InjuryRequiresTreatment>
+  <NextTreatmentAfter>următorul tratament după {0} zile</NextTreatmentAfter>
+  <MissingMedicalBillIngredient>Nu există {0}</MissingMedicalBillIngredient>
+  <ImmunityDevelopmentProgress>progres în dezvoltarea imunității</ImmunityDevelopmentProgress>
+  <Race>Rasă</Race>
+  <Description>Descriere</Description>
+  <Equipment>Echipament</Equipment>
+  <Apparel>Ținută</Apparel>
+  <Inventory>Inventar</Inventory>
+  <ThingInfo>Informații</ThingInfo>
+  <DropThing>Resurse rămase</DropThing>
+  <RenameColonist>Redenumire colonist</RenameColonist>
+  <UnknownLower>necunoscut</UnknownLower>
+  
+  <!-- Snow -->
+  <SnowNone>Fără zăpada</SnowNone>
+  <SnowDusting>Zăpadă (puțină)</SnowDusting>
+  <SnowThin>Zăpadă (strat mic)</SnowThin>
+  <SnowMedium>Zăpadă strat mediu)</SnowMedium>
+  <SnowThick>Zăpadă (strat gros)</SnowThick>
+
+  
+  <!-- Turrets -->
+  <GunInstalled>Instalat</GunInstalled>
+  <MinimumRange>Rază minimă</MinimumRange>
+  <CanFireIn>Poate trage în</CanFireIn>
+  
+  
+  <!-- Job reports -->
+	<ReportHaulingTo>Transportă {0} către {1}.</ReportHaulingTo>
+	<ReportHauling>Transportă {0}.</ReportHauling>
+  <ReportSleeping>Doarme.</ReportSleeping>
+  <ReportResting>Se odihnește.</ReportResting>
+  
+	<!-- Shooting report -->
+  <WeaponMissRadius>Rază de ratare</WeaponMissRadius>
+	<ShootReportShooterAbility>Trăgător</ShootReportShooterAbility>
+	<ShootReportWeapon>Armă</ShootReportWeapon>
+	<Darkness>Întuneric</Darkness>
+	<TargetProne>Țintă culcată</TargetProne>
+	<TargetSize>Dimensiune țintă</TargetSize>
+	<Weather>Vreme</Weather>
+	<ShootingCover>Adăpost</ShootingCover>
+	<CoverThingBlocksPercentOfShots>{0} oprește {1}</CoverThingBlocksPercentOfShots>
+	<NoCoverLower>fără adăpost</NoCoverLower>
+	
+  <!-- Generated recipes -->
+  <RecipeMake>Creează {0}</RecipeMake>
+  <RecipeMakeJobString>Creare {0}.</RecipeMakeJobString>
+  
+	<!-- Status levels -->
+  <Mood>Psihic</Mood>
+  <MoodTip>Psihicul depinde de activitatea persoanei.\n\nDacă psihicul merge în rău, aceasta poate duce la cedare psihică.</MoodTip>
+  <Food>Foame</Food>
+  <FoodTip>Cantitatea nutritivă consumată recent. Dacă ajunge la 0, atunci malnutriția poate provoca moartea în timp.</FoodTip>
+  <Rest>Odihnă</Rest>
+  <RestTip>Somnul și relaxarea obținute recent.\n\nPoate ajunge la o valoare maximă atunci când se doarme într-un pat. În timpul unei alte activități, scade treptat.</RestTip>
+  <Environment>Mediu</Environment>
+  <EnvironmentTip>Reflectă aspectul mediului înconjurător.\n\nIa o valoare mare într-un mediu spațios cu multe decorațiuni și vice-versa.</EnvironmentTip>
+  <Openness>Deschidere</Openness>
+
+  
+  <!-- Thoughts -->
+  <ThoughtExpiresIn>Dispare în: {0}</ThoughtExpiresIn>
+  <ThoughtStartsExpiringIn>Începe dispariția în: {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>Finalizează dispariția în: {0}</ThoughtFinishesExpiringIn>
+  <MentalBreakThreshold>Punct de cedare psihică</MentalBreakThreshold>
+
+
+  <!-- Pawn info readout -->
+  <Health>Sănătate</Health>
+  <PawnMainDescWithFactionGendered>{0} {1} al {2}</PawnMainDescWithFactionGendered>
+  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescWithFactionGenderless>{0} al {1}</PawnMainDescWithFactionGenderless>
+  <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
+  <Faction>Facțiune</Faction>
+  <Equipped>Echipat</Equipped>
+  <EquippedNothing>Nimic</EquippedNothing>
+  <Incapacitated>Incapacitat</Incapacitated>
+  <InRestraints>În cătușe (încetinit)</InRestraints>
+  <Carrying>Cară</Carrying>
+  <SanityDazedWander>Decompensat: amețit, năuc</SanityDazedWander>
+  <SanityGiveUpExit>Decompensat: renunță, părăsește colonia</SanityGiveUpExit>
+  <SanityPanicFlee>Decompensat: fuge panicat</SanityPanicFlee>
+  <SanityPsychotic>Decompesat: violență necontrolată</SanityPsychotic>
+
+  <!-- Inspector general stuff -->
+  <SelectNextInSquareTip>Selectează obiectul suprapus.\n\nTastă: {0}\n\nPoți face astă executând un click din nou pe aceeași regiune.</SelectNextInSquareTip>
+  <DefInfoTip>Arată informații despre acest obiect.</DefInfoTip>
+  
+  
+	<!-- like 'Blood of John' -->
+	<OfLower>lui</OfLower>
+
+	<!-- Power readout -->
+	<PowerNotConnected>Neconectat la curent.</PowerNotConnected>
+  <PowerConnectedRateStored>Curent activ/stocat: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerNeeded>Curent necesar</PowerNeeded>
+  <PowerOutput>Curent produs</PowerOutput>
+  <PowerBatteryStored>Stocat</PowerBatteryStored>
+  <PowerBatteryEfficiency>Eficiență</PowerBatteryEfficiency>
+
+  <!-- Temperature control -->
+  <TargetTemperature>Temperatură țintă</TargetTemperature>
+  <PowerConsumptionMode>Curent folosit</PowerConsumptionMode>
+  <PowerConsumptionHigh>Mare</PowerConsumptionHigh>
+  <PowerConsumptionLow>Mic</PowerConsumptionLow>
+  
+  <!-- Temperature readout -->
+  <Indoors>Înăuntru</Indoors>
+  <Outdoors>Afară</Outdoors>
+  
+  <!--Rotting-->
+	<RotStateFresh>Proaspăt</RotStateFresh>
+	<RotStateRotting>Putrezit</RotStateRotting>
+	<RotStateDessicated>Descompus</RotStateDessicated>
+	
+  <!-- Shooting tooltip -->
+  <ShotBy>Împușcat de {0}</ShotBy>
+  <CannotHit>Nu poate lovi ținta.</CannotHit>
+
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>Nestocat</StoragePriorityUnstored>
+  <StoragePriorityLow>Mică</StoragePriorityLow>
+  <StoragePriorityNormal>Normală</StoragePriorityNormal>
+  <StoragePriorityPreferred>Preferat</StoragePriorityPreferred>
+  <StoragePriorityImportant>Important</StoragePriorityImportant>
+  <StoragePriorityCritical>Critic</StoragePriorityCritical>
+
+
+  <!-- Rotting -->
+  <CurrentlyFrozen>Înghețat (nu se strică)</CurrentlyFrozen>
+  <CurrentlyRefrigerated>Rece (se strică în {0})</CurrentlyRefrigerated>
+  <NotRefrigerated>Neprezervat (se strică în {0})</NotRefrigerated>
+  <OverADecade>mai mult de un deceniu</OverADecade>
+  
+  <!-- Meal -->
+  <Ingredients>Ingrediente</Ingredients>
+
+  <!-- Plants -->
+  <PercentGrowth>{0}% crescut</PercentGrowth>
+  <Growing>Creștere</Growing>
+  <NotGrowingNow>Nu crește (trebuie să fie {0}).</NotGrowingNow>
+  <NotGrowingNowResting>Nu crește (repaus).</NotGrowingNowResting>
+  <FullyGrownIn>Creștere completă în {0}.</FullyGrownIn>
+  <OutOfIdealTemperatureRange>În afara temperaturii ideale (crește cu {0}% din viteză)</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>În afara temperaturii ideale (nu crește)</OutOfIdealTemperatureRangeNotGrowing>
+  <ReadyToHarvest>Gata de recoltat.</ReadyToHarvest>
+  <Mature>Matur.</Mature>
+  <SeedLabel>{0} sămânță</SeedLabel>
+  <OutdoorGrowingPeriod>Perioadă de creștere: {0}</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>Niciodată</NoGrowingPeriod>
+  <GrowYearRound>Anual</GrowYearRound>
+  <CannotGrowTooCold>Nu crește - prea frig.</CannotGrowTooCold>
+
+  <!-- Zones -->
+  <Zone>Zonă</Zone>
+  <GrowingZone>Zonă arabilă</GrowingZone>
+  <Stockpile>Depozit</Stockpile>
+  <DumpingStockpile>Haldă</DumpingStockpile>
+  <Priority>Prioritate</Priority>
+  <ClearAll>Anulează</ClearAll>
+
+  <!-- Mouseover indicator -->
+  <Undiscovered>Nedescoperit</Undiscovered>
+  
+  <!-- Buttons -->
+  <ZoneVisibilityToggleButton>Comută vizibilitatea zonelor.</ZoneVisibilityToggleButton>
+  <AutoHomeRegionToggleButton>Comută adăugarea automată a regiunii Acasă în jurul construcțiilor noi.</AutoHomeRegionToggleButton>
+  <CategorizedResourceReadoutToggleButton>Comută modul de afișare pe categorii al resurselor.</CategorizedResourceReadoutToggleButton>
+
+  <!-- Fire -->
+  <Fire>Foc</Fire>
+  <FireOn>Foc pe {0}</FireOn>
+  <Burning>Arde</Burning>
+  <FireSizeLower>dimensiune foc - {0}</FireSizeLower>
+ 
+  <!-- Map conditions (eclipse, solar flare, etc )-->
+  <MapConditionsTip>Condiții speciale afectează regiune în acest moment.</MapConditionsTip>
+
+  <!-- Building placement -->
+  <NoStuffsToBuildWith>Nu există materialele necesare pentru construcție.</NoStuffsToBuildWith>
+
+  <!-- Building placement restricters -->
+  <MustPlaceUnroofed>Nu poate fi plasat sub un acoperiș.</MustPlaceUnroofed>
+  <MustPlaceHeadOnShipBeam>Trebuie plasat alături de bara structurală a navei.</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>Trebuie plasat lângă ceva ce folosește o pâlnie dispensoare.</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>Trebuie plasat pe un gheizer de aburi.</MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>Ambele capete ale aparatului trebuie expuse.</MustPlaceCoolerWithFreeSpaces>
+  
+  <!-- Wind Turbine -->
+  <WindTurbine_WindPathIsBlockedBy>Blocat de</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>Blocat de acoperiș</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Cryptosleep casket -->
+  <CasketContains>Conține</CasketContains>
+  <CasketUnknownContents>NECUNOSCUT</CasketUnknownContents>
+  <CasketWarning>Atenție!\n\nNAME este ultimul colonist treaz! dacă îl lași să intre în capsulă, nu vei mai putea continua jocul. Continuă oricum?</CasketWarning>
+
+  <!-- Ship launch report -->
+  <ShipReportCannotLaunch>Nu se poate lansa.</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>Gata de lansare.</ShipReportCanLaunch>
+  <ShipReportMissingPart>Lispește o componentă critică</ShipReportMissingPart>
+  <ShipReportNoFullPods>Nu există capsule de crypto-somn utilizate</ShipReportNoFullPods>
+
+  <!-- Neurotrainer -->
+  <UseNeurotrainer>Folosește robotul neuro-antrenor pentru a învăța {0}</UseNeurotrainer>
+  <NeurotrainerUsed>{0} a folosit {1} neuro-antrenor pentru a avansa de la nivelul {2} la nivelul {3}.</NeurotrainerUsed>
+  
+  <!-- Minification -->
+  <Installed>Instalat</Installed>
+  <NotInstalled>Neinstalat</NotInstalled>
+
+  <!-- Art -->
+  <Title>Titlu</Title>
+  <Untitled>Nedenumit</Untitled>
+  
+  <!-- Unfinished thing -->
+  <UnfinishedItem>{0} nefinisat</UnfinishedItem>
+  <UnfinishedItemWithStuff>{0} {1} nefinisat</UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <Quality>Calitate</Quality>
+  <QualityDescription>Calitatea înseamnă cât de bine este făcut.</QualityDescription>
+  <QualityIs>Calitate: {0}</QualityIs>
+    
+  <!-- Game over -->
+  <GameOverEveryoneDead>Toți au murit sau au plecat. Această poveste ia sfârșit aici.\n\nPoate altcineva va găsi ruinele acestui loc.</GameOverEveryoneDead>
+  <GameOverShipLaunched>Ai lansat nava! Acești coloniști au plecat:\n\n{0}\nAcești coloniști au fost lăsați în urmă:\n\n{1}\nAI-ul va încerca să vă ghideze într-un loc sigur. Ar putea găsi o planetă prosperă în acest sistem. Sau, ar putea să călătorească sute de ani către o altă stea. Ar putea decide să se ascundă undeva până când cineva va hotărî să construiască o lume nouă aici.\n\nO să aflați când vă veți trezi.</GameOverShipLaunched>
+  <GameOverKeepPlaying>Continuă jocul</GameOverKeepPlaying>
+  <GameOverMainMenu>Meniul principal</GameOverMainMenu>
+    
+
+</LanguageData>
