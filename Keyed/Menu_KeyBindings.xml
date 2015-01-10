@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SaveButton>Salvare</SaveButton>
+  <!--<CancelButton>Cancel</CancelButton>-->
+  <ClearBinding>Anulare</ClearBinding>
+  <ResetBinding>Resetare</ResetBinding>
+  <BindingButtonToolTip>Click stânga pentru setare sau click dreapta pentru opțiuni</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Apasă orice tastă sau Esc pentru întoarcere...</PressAnyKeyOrEsc>
+
+</LanguageData>
