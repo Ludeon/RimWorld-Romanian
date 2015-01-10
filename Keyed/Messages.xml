@@ -1,51 +1,62 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
  
-  <MessageSiegersAssaulting>Sieging {0} from {1} are assaulting the colony.</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>Asediatorii {0} din {1} atacă colonia.</MessageSiegersAssaulting>
 
-  <MessageRaidersBeginningAssault>{0} from {1} are beginning their assault.</MessageRaidersBeginningAssault>
-  <MessageRaidersDetectedEarlyAssault>{0} from {1} have detected you and begun their assault early.</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} from {1} have decided to kidnap who they can and leave.</MessageRaidersKidnapping>
+  <MessageRaidersBeginningAssault>{0} din {1} își încep asaltul.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} din {1} v-au detectat și își încep asaltul imediat.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} din {1} au decis să răpească pe cine pot înainte de a se retrage.</MessageRaidersKidnapping>
 
-  <MessageRaidersLeaving>{0} from {1} are leaving.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0} from {1} have given up and are leaving.</MessageRaidersGivenUpLeaving>
-  <MessageRaidersSatisfiedLeaving>{0} from {1} are satisfied with the damage done and are leaving.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersLeaving>{0} din {1} pleacă.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0} din {1} au renunțat și pleacă.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} din {1} sunt satisfăcuți de asalt și au decis să plece.</MessageRaidersSatisfiedLeaving>
 
   
-  <MessageFightersFleeing>{0} from {1} are fleeing.</MessageFightersFleeing>
-  <MessageFriendlyFightersLeaving>Friendly {0} from {1} are leaving.</MessageFriendlyFightersLeaving>
+  <MessageFightersFleeing>{0} din {1} au început să fugă.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Aliații {0} din {1} vor pleca regiunea.</MessageFriendlyFightersLeaving>
 
+  <MessageSeasonBegun>{0} a început.</MessageSeasonBegun>
 
-
-  <MessageShipHasLeftCommsRange>{0} has left comms range.</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0} a părăsit raza de comunicații.</MessageShipHasLeftCommsRange>
 	
-	<MessageNeedBeaconToTradeWithShip>You need an orbital trade beacon to trade with a ship.</MessageNeedBeaconToTradeWithShip>
+	<MessageNeedBeaconToTradeWithShip>Este nevoie de o stație de comerț orbitală pentru a face comerț.</MessageNeedBeaconToTradeWithShip>
 	
-  <MessageBillComplete>Bill complete: {0}.</MessageBillComplete>
+  <MessageBillComplete>Sarcină îndeplinită: {0}.</MessageBillComplete>
   
-  <MessageFullyHealed>{0} is fully healed.</MessageFullyHealed>
+  <MessageFullyHealed>{0} s-a vindecat complet.</MessageFullyHealed>
 
-  <MessagePrisonerIsEscaping>Prisoner {0} is escaping.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>Prizonierul {0} încearcă să scape.</MessagePrisonerIsEscaping>
 
-  <MessageRecruitSuccess>{0} successfully recruited {1} ({2} chance).</MessageRecruitSuccess>
-	<MessageRecruitFail>{0} failed to recruit {1} ({2} chance).</MessageRecruitFail>
-	<MessageRecruitFailBecauseLoyalty>{0} failed to recruit {1} (prisoner below loyalty threshold).</MessageRecruitFailBecauseLoyalty>
+  <MessageRecruitSuccess>{0} l-a recrutat cu succes pe {1} ({2} șansă).</MessageRecruitSuccess>
+	<MessageRecruitFail>{0} nu l-a recrutat cu succes pe {1} ({2} șansă).</MessageRecruitFail>
+	<MessageRecruitFailBecauseLoyalty>{0} nu l-a recrutat cu succes pe {1} (prizonierul nu se simte suficient de bine).</MessageRecruitFailBecauseLoyalty>
 	
-  <MessagePoorlyTreated>{0} has received poor-quality treatment from {1} ({2} chance).</MessagePoorlyTreated>
-  <MessageWellTreated>{0} has received good-quality treatment from {1} ({2} chance).</MessageWellTreated>
+  <MessagePoorlyTreated>{1} l-a îngrijit pe {0} (calitate proastă, {2} șansă de calitate bună).</MessagePoorlyTreated>
+  <MessageWellTreated>{1} treated {0} (calitate bună, {2} șansă de calitate bună).</MessageWellTreated>
 	
-  <MessageTraderCannotAfford>Trader cannot afford this deal.</MessageTraderCannotAfford>
-  <MessageColonyCannotAfford>The colony cannot afford this deal.</MessageColonyCannotAfford>
-  <MessageColonyNotEnoughSilver>You do not have enough silver ready to trade.</MessageColonyNotEnoughSilver>
-  <MessageTraderNotEnoughSilver>Trader does not have enough silver.</MessageTraderNotEnoughSilver>
+  <MessageTraderCannotAfford>Comerciantul nu își poate permite această ofertă.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>Colonia nu își poate permite această tranzacție.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Nu există suficient argint ce poate fi lansat.</MessageColonyNotEnoughSilver>
+  <MessageTraderNotEnoughSilver>Comerciantul nu are suficient argint.</MessageTraderNotEnoughSilver>
 
-  <MessageCriticalAlert>Critical alert: {0}</MessageCriticalAlert>
+  <MessageCriticalAlert>Alertă critică: {0}</MessageCriticalAlert>
 
-  <MessageMustDesignateHarvestableFood>Must designate food-yielding, sufficiently-grown plants.</MessageMustDesignateHarvestableFood>
-  <MessageMustDesignateHarvestableWood>Must designate wood-yielding, sufficiently-grown trees.</MessageMustDesignateHarvestableWood>
-  <MessageMustDesignatePlants>Must designate plants.</MessageMustDesignatePlants>
-  <MessageMustDesignateHaulable>Must designate haulable items.</MessageMustDesignateHaulable>
+  <MessageMustDesignateHarvestable>Trebuie desemnate plante suficient de dezvoltate.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Trebuie desemnate plante lemnoase, suficient de dezvoltate.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Trebuie desemnate plante.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Trebuie desemnate lucruri ce pot fi transportate.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>Trebuie desemnate roci minabile.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Trebuie desemnate animale ce pot fi vânate.</MessageMustDesignateHuntable>
+  <MessageMustDesignateClaimable>Trebuie desemnate structuri artificiale abandonate.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>Trebuie desemnată dușumeaua rugoasă.</MessageMustDesignateSmoothableFloor>
+  
+  
+  <MessageNoMedicalBeds>Nu există paturi medicale disponibile.</MessageNoMedicalBeds>
+  
+  <PawnDiedBecauseOf>{0} a murit din cauza {1}.</PawnDiedBecauseOf>
+
+  <MessageNoLongerDowned>{0} nu mai este capabil să meargă.</MessageNoLongerDowned>
   
   
 </LanguageData>
