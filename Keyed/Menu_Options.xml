@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!-- Audiovisuals -->
@@ -19,17 +19,17 @@
   <ResetAdaptiveTutor>Resetare tutore</ResetAdaptiveTutor>
   <AdaptiveTutorIsReset>Tutorele a fost resetat. O va lua de la început.</AdaptiveTutorIsReset>
   <RunInBackground>Continuă jocul minimizat</RunInBackground>
-  <DevelopmentMode>Mod de debug</DevelopmentMode>
-  <LogVerbose>Verbose logging</LogVerbose>
+  <DevelopmentMode>Modul de depanare</DevelopmentMode>
+  <LogVerbose>Înregistrare tip Verbose</LogVerbose>
   <OpenSaveGameDataFolder>Deschide fișierul cu salvări</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Numele de familie ale caracterelor ce vor apărea în joc:</NamesYouWantToSee>
   <ChangeStoryteller>Alege un povestitor</ChangeStoryteller>
   
   <!-- Resolution -->
   <Resolution>Rezoluție</Resolution>
-  <Fullscreen>Ecran Întreg</Fullscreen>
-  <CurrentRes>Momentan {0}</CurrentRes>
-  <ChooseResolution>Alege rezoluție</ChooseResolution>
+  <Fullscreen>Pe tot ecranul</Fullscreen>
+  <CurrentRes>Rezoluție: {0}</CurrentRes>
+  <ChooseResolution>Alege rezoluția</ChooseResolution>
 
   
   <!-- Privacy-->
@@ -37,6 +37,6 @@
   <UserName>Nume de utilizator</UserName>
   <ChooseHistoryUploadPref>Preferințe de încărcare a istoriei jocurilor.</ChooseHistoryUploadPref>
   <CurrentHistoryUploadPref>Momentan {0}</CurrentHistoryUploadPref>
-  <AboutHistoryUpload>Istoricul jocurilor ajută programatorii în dezvoltarea acestuia. Dacă ești de acord, informațiile vor fi trimise o dată la {0} zile în joc (sau la finalul acestuia) către server-ul RimWorld, unde vor fi analizate. Aceste informații sunt doar statistici legate de joc - nu va fi trimisă nici o informație personală.</AboutHistoryUpload>
+ <AboutHistoryUpload>Istoricul jocurilor ajută programatorii în dezvoltarea acestuia. Dacă ești de acord, informațiile vor fi trimise o dată la {0} zile în joc (sau la finalul acestuia) către server-ul RimWorld, unde vor fi analizate. Aceste informații sunt doar statistici legate de joc - nu va fi trimisă nici o informație personală.</AboutHistoryUpload>
   
 </LanguageData>

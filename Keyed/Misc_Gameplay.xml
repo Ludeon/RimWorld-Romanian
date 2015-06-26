@@ -13,10 +13,10 @@
   <Unowned>Liber</Unowned>
   <DeadTime>Mort de {0}</DeadTime>
   <WalkSpeed>Viteză {0}</WalkSpeed>
-  <DyingLower>Muribund</DyingLower>
+  <DyingLower>moare</DyingLower>
   <FilthOnFeet>Mizerie pe picioare:</FilthOnFeet>
   <NotEnoughStoredLower>insuficient stocat</NotEnoughStoredLower>
-  <NothingLower>Nimic</NothingLower>
+  <NothingLower>nimic</NothingLower>
   <Adapted>Adaptat</Adapted>
   <Headshot>Headshot</Headshot>
   <FreshMissingBodyPart>recent</FreshMissingBodyPart>
@@ -40,7 +40,7 @@
   <SnowNone>Fără zăpada</SnowNone>
   <SnowDusting>Zăpadă (puțină)</SnowDusting>
   <SnowThin>Zăpadă (strat mic)</SnowThin>
-  <SnowMedium>Zăpadă strat mediu)</SnowMedium>
+  <SnowMedium>Zăpadă (strat mediu)</SnowMedium>
   <SnowThick>Zăpadă (strat gros)</SnowThick>
 
   
@@ -73,8 +73,8 @@
   <RecipeMakeJobString>Creare {0}.</RecipeMakeJobString>
   
 	<!-- Status levels -->
-  <Mood>Psihic</Mood>
-  <MoodTip>Psihicul depinde de activitatea persoanei.\n\nDacă psihicul merge în rău, aceasta poate duce la cedare psihică.</MoodTip>
+  <Mood>Moral</Mood>
+  <MoodTip>Moral depinde de activitatea persoanei.\n\nDacă moralul unei persoane scade, aceasta poate ceda psihic și nu va mai asculta ordinele tale.</MoodTip>
   <Food>Foame</Food>
   <FoodTip>Cantitatea nutritivă consumată recent. Dacă ajunge la 0, atunci malnutriția poate provoca moartea în timp.</FoodTip>
   <Rest>Odihnă</Rest>
@@ -117,10 +117,10 @@
 	<OfLower>lui</OfLower>
 
 	<!-- Power readout -->
-	<PowerNotConnected>Neconectat la curent.</PowerNotConnected>
-  <PowerConnectedRateStored>Curent activ/stocat: {0} W / {1} Wd</PowerConnectedRateStored>
-  <PowerNeeded>Curent necesar</PowerNeeded>
-  <PowerOutput>Curent produs</PowerOutput>
+	<PowerNotConnected>Nu este conectat la electriciate.</PowerNotConnected>
+  <PowerConnectedRateStored>Electriciate sursă/stocat: {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerNeeded>Electricitate necesar</PowerNeeded>
+  <PowerOutput>Electriciate produsă</PowerOutput>
   <PowerBatteryStored>Stocat</PowerBatteryStored>
   <PowerBatteryEfficiency>Eficiență</PowerBatteryEfficiency>
 
@@ -155,7 +155,7 @@
   <!-- Rotting -->
   <CurrentlyFrozen>Înghețat (nu se strică)</CurrentlyFrozen>
   <CurrentlyRefrigerated>Rece (se strică în {0})</CurrentlyRefrigerated>
-  <NotRefrigerated>Neprezervat (se strică în {0})</NotRefrigerated>
+  <NotRefrigerated>Nu este prezervat (se strică în {0})</NotRefrigerated>
   <OverADecade>mai mult de un deceniu</OverADecade>
   
   <!-- Meal -->
@@ -163,7 +163,7 @@
 
   <!-- Plants -->
   <PercentGrowth>{0}% crescut</PercentGrowth>
-  <Growing>Creștere</Growing>
+  <Growing>Crește</Growing>
   <NotGrowingNow>Nu crește (trebuie să fie {0}).</NotGrowingNow>
   <NotGrowingNowResting>Nu crește (repaus).</NotGrowingNowResting>
   <FullyGrownIn>Creștere completă în {0}.</FullyGrownIn>
@@ -179,9 +179,9 @@
 
   <!-- Zones -->
   <Zone>Zonă</Zone>
-  <GrowingZone>Zonă arabilă</GrowingZone>
+  <GrowingZone>Zonă de cultivare</GrowingZone>
   <Stockpile>Depozit</Stockpile>
-  <DumpingStockpile>Haldă</DumpingStockpile>
+  <DumpingStockpile>Zonă pentru deșeuri</DumpingStockpile>
   <Priority>Prioritate</Priority>
   <ClearAll>Anulează</ClearAll>
 
@@ -190,7 +190,7 @@
   
   <!-- Buttons -->
   <ZoneVisibilityToggleButton>Comută vizibilitatea zonelor.</ZoneVisibilityToggleButton>
-  <AutoHomeRegionToggleButton>Comută adăugarea automată a regiunii Acasă în jurul construcțiilor noi.</AutoHomeRegionToggleButton>
+  <AutoHomeRegionToggleButton>Comută adăugarea automată a regiunii ACASĂ în jurul construcțiilor noi.</AutoHomeRegionToggleButton>
   <CategorizedResourceReadoutToggleButton>Comută modul de afișare pe categorii al resurselor.</CategorizedResourceReadoutToggleButton>
 
   <!-- Fire -->
@@ -200,7 +200,7 @@
   <FireSizeLower>dimensiune foc - {0}</FireSizeLower>
  
   <!-- Map conditions (eclipse, solar flare, etc )-->
-  <MapConditionsTip>Condiții speciale afectează regiune în acest moment.</MapConditionsTip>
+  <MapConditionsTip>Această regiune este influențată de anumiți factori planetari.</MapConditionsTip>
 
   <!-- Building placement -->
   <NoStuffsToBuildWith>Nu există materialele necesare pentru construcție.</NoStuffsToBuildWith>

@@ -4,12 +4,12 @@
  
   <MessageSiegersAssaulting>Asediatorii {0} din {1} atacă colonia.</MessageSiegersAssaulting>
 
-  <MessageRaidersBeginningAssault>{0} din {1} își încep asaltul.</MessageRaidersBeginningAssault>
-  <MessageRaidersDetectedEarlyAssault>{0} din {1} v-au detectat și își încep asaltul imediat.</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} din {1} au decis să răpească pe cine pot înainte de a se retrage.</MessageRaidersKidnapping>
+  <MessageRaidersBeginningAssault>{0} din {1} își încep atacul.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} din {1} vă asediază și își încep atacul imediat.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} din {1} au decis să răpească pe cine pot si să se retragă.</MessageRaidersKidnapping>
 
   <MessageRaidersLeaving>{0} din {1} pleacă.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0} din {1} au renunțat și pleacă.</MessageRaidersGivenUpLeaving>
+	<MessageRaidersGivenUpLeaving>{0} din {1} au renunțat la asediu și se retrag.</MessageRaidersGivenUpLeaving>
   <MessageRaidersSatisfiedLeaving>{0} din {1} sunt satisfăcuți de asalt și au decis să plece.</MessageRaidersSatisfiedLeaving>
 
   
@@ -18,7 +18,7 @@
 
   <MessageSeasonBegun>{0} a început.</MessageSeasonBegun>
 
-  <MessageShipHasLeftCommsRange>{0} a părăsit raza de comunicații.</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0} a părăsit raza de comunicare.</MessageShipHasLeftCommsRange>
 	
 	<MessageNeedBeaconToTradeWithShip>Este nevoie de o stație de comerț orbitală pentru a face comerț.</MessageNeedBeaconToTradeWithShip>
 	
@@ -30,14 +30,14 @@
 
   <MessageRecruitSuccess>{0} l-a recrutat cu succes pe {1} ({2} șansă).</MessageRecruitSuccess>
 	<MessageRecruitFail>{0} nu l-a recrutat cu succes pe {1} ({2} șansă).</MessageRecruitFail>
-	<MessageRecruitFailBecauseLoyalty>{0} nu l-a recrutat cu succes pe {1} (prizonierul nu se simte suficient de bine).</MessageRecruitFailBecauseLoyalty>
+	<MessageRecruitFailBecauseLoyalty>{0} nu l-a recrutat cu succes pe {1} (Prizonierul nu se simte suficient de bine).</MessageRecruitFailBecauseLoyalty>
 	
   <MessagePoorlyTreated>{1} l-a îngrijit pe {0} (calitate proastă, {2} șansă de calitate bună).</MessagePoorlyTreated>
   <MessageWellTreated>{1} treated {0} (calitate bună, {2} șansă de calitate bună).</MessageWellTreated>
 	
-  <MessageTraderCannotAfford>Comerciantul nu își poate permite această ofertă.</MessageTraderCannotAfford>
-  <MessageColonyCannotAfford>Colonia nu își poate permite această tranzacție.</MessageColonyCannotAfford>
-  <MessageColonyNotEnoughSilver>Nu există suficient argint ce poate fi lansat.</MessageColonyNotEnoughSilver>
+  <MessageTraderCannotAfford>Comerciantul nu are suficiente resurse pentru această ofertă.</MessageTraderCannotAfford>
+  <MessageColonyCannotAfford>Colonia nu are suficiente resurse pentru această tranzacție.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Nu există suficient argint pentru a fi tranzacționat.</MessageColonyNotEnoughSilver>
   <MessageTraderNotEnoughSilver>Comerciantul nu are suficient argint.</MessageTraderNotEnoughSilver>
 
   <MessageCriticalAlert>Alertă critică: {0}</MessageCriticalAlert>
@@ -45,11 +45,11 @@
   <MessageMustDesignateHarvestable>Trebuie desemnate plante suficient de dezvoltate.</MessageMustDesignateHarvestable>
   <MessageMustDesignateHarvestableWood>Trebuie desemnate plante lemnoase, suficient de dezvoltate.</MessageMustDesignateHarvestableWood>
   <MessageMustDesignatePlants>Trebuie desemnate plante.</MessageMustDesignatePlants>
-  <MessageMustDesignateHaulable>Trebuie desemnate lucruri ce pot fi transportate.</MessageMustDesignateHaulable>
-  <MessageMustDesignateMineable>Trebuie desemnate roci minabile.</MessageMustDesignateMineable>
+  <MessageMustDesignateHaulable>Trebuie desemnate lucruri ce pot fi depozitate.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>Trebuie desemnate roci ce pot fi exploatate.</MessageMustDesignateMineable>
   <MessageMustDesignateHuntable>Trebuie desemnate animale ce pot fi vânate.</MessageMustDesignateHuntable>
   <MessageMustDesignateClaimable>Trebuie desemnate structuri artificiale abandonate.</MessageMustDesignateClaimable>
-  <MessageMustDesignateSmoothableFloor>Trebuie desemnată dușumeaua rugoasă.</MessageMustDesignateSmoothableFloor>
+  <MessageMustDesignateSmoothableFloor>Trebuie desemnată o zonă denivelată.</MessageMustDesignateSmoothableFloor>
   
   
   <MessageNoMedicalBeds>Nu există paturi medicale disponibile.</MessageNoMedicalBeds>

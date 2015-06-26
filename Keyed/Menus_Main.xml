@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
   <!--=========== Main menu ==========-->
   <CreateWorld>Creare lume</CreateWorld>
   <NewColony>Colonie nouă</NewColony>
-  <BackToGame>Înapoi la joc</BackToGame>
-  <Save>Salvare</Save>
-  <Load>Încărcare colonie precedenta</Load>
+  <BackToGame>Continuare joc</BackToGame>
+  <Save>Salvare colonie</Save>
+  <Load>Încărcare colonie precedentă</Load>
   <Options>Setări</Options>
-  <Mods>Mod-uri</Mods>
-  <Credits>Credits</Credits>
-  <QuitToMainMenu>Întoarcere la meniul principal</QuitToMainMenu>
-  <QuitToOS>Închide</QuitToOS>
+  <Mods>Îmbunătățiri</Mods>
+  <Credits>Credite</Credits>
+  <QuitToMainMenu>Întoarcere la meniul jocului</QuitToMainMenu>
+  <QuitToOS>Închide joc</QuitToOS>
   <FictionPrimer>Fiction primer</FictionPrimer>
   <LudeonBlog>Blog-ul Ludeon</LudeonBlog>
-  <Forums>Forum-uri</Forums>
+  <Forums>Forum</Forums>
   <OfficialWiki>Wiki oficial</OfficialWiki>
   <TynansTwitter>Pagina de twitter a lui Tynan</TynansTwitter>
   <TynansDesignBook>Cartea de design a lui Tynan</TynansDesignBook>
@@ -22,10 +22,10 @@
 
   <!--=========== Create/review world ================-->
   <ReviewWorld>Vizualizare lume</ReviewWorld>
-  <WorldGenerate>Generare</WorldGenerate>
-  <WorldSaveAndFinish>Salvare si finalizare</WorldSaveAndFinish>
+  <WorldGenerate>Generează lume</WorldGenerate>
+  <WorldSaveAndFinish>Salvează si finalizează</WorldSaveAndFinish>
   <Reset>Resetare</Reset>
-  <WorldSize>Marime</WorldSize>
+  <WorldSize>Mărime lume</WorldSize>
   <WorldSeed>Cod de generare</WorldSeed>
   <RandomizeSeed>Generare cod aleator</RandomizeSeed>
 
@@ -33,23 +33,22 @@
   <!--=========== Select world ===================-->
   <SelectWorld>Selectare lume</SelectWorld>
   <WorldChooseButton>Selectează</WorldChooseButton>
-  <NoWorldsFilesFound>Nu există nici o lume deja creată. Creează o lume noua mai întâi.</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Nu există nici o lume creată. Creează o lume nouă mai întâi.</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
   <BuildNowAvailable>Versiunea {0} este finalizată. Accesează www.ludeon.com pentru mai multe informații.</BuildNowAvailable>
 	<BuildUpToDate>Aceasta este cea mai nouă versiune.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Eroare in determinarea versiunii prezente: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Verificare versiune prezentă...</LoadingVersionInfo>
+	<ErrorGettingVersionInfo>Eroare în determinarea versiunii jocului: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Informații versiune prezentă</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
-  <GenerateWorld>Generare lume</GenerateWorld>
+  <GenerateWorld>Generează lume</GenerateWorld>
 
   <!--=========== Mods screen ==========-->
-  <GetMods>Adaugă mod-uri</GetMods>
-  <OpenModsDataFolder>Deschide fișierul cu mod-uri si date</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Ești sigur că vrei sa dezactivezi fisierul de bază? Jocul nu va mai funcționa deloc dacă nu există un alt mod care să înlocuiască toate funcțiile de bază.\n\nReține, alte mod-uri pot suprapune defs-uri in mod-ul de bază dacă folosesc același defName.</ConfirmDisableCoreMod>
+  <GetMods>Adaugă îmbunătățiri</GetMods>
+  <OpenModsDataFolder>Deschide fișierul cu îmbunătățiri</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Ești sigur că vrei sa dezactivezi nucleul de bază? Jocul nu va mai funcționa deloc dacă nu există un alt mod care să înlocuiască toate funcțiile de nucleului.\n\nReține, alte mod-uri pot suprapune defs-uri in mod-ul de bază dacă folosesc același defName.</ConfirmDisableCoreMod>
   <Author>Autor</Author>
-
 
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Alege un AI povestitor</ChooseAIStoryteller>
@@ -63,16 +62,6 @@
   <ChallengeScale_Challenge>Dificil</ChallengeScale_Challenge>
   <ChallengeScale_SeriousChallegne>Foarte Dificil</ChallengeScale_SeriousChallegne>
   <ChallengeScale_ExtremeChallenge>Provocare Extremă</ChallengeScale_ExtremeChallenge>
-
-
-
-
-
-
-
-
-
-
 
   <!--=========== Landing site select =========-->
   <SelectLandingSite>Alegere regiune de aterizare</SelectLandingSite>
@@ -101,8 +90,7 @@
   <HasCoast2>Coasta Sudică</HasCoast2>
   <HasCoast3>Coasta Vestică</HasCoast3>
   <FactionBase>Capitala unei facțiuni</FactionBase>
-  <StoneTypesHere>Tipuri de rocă</StoneTypesHere>
-
+  <StoneTypesHere>Tipuri de roci</StoneTypesHere>
 
   <!--=========== Character chooser ==========-->
   <CreateCharacters>Creează personaje</CreateCharacters>
@@ -111,7 +99,7 @@
   <LastNameDesc>Numele personajului.\n\nAcesta este afișat doar în anumite meniuri.</LastNameDesc>
   <Randomize>Alege aleator</Randomize>
   <AgeIndicator>vârstă {0}</AgeIndicator>
-  <Backstory>Trecut</Backstory>
+  <Backstory>Poveste</Backstory>
   <IncapableOf>Incapabil de</IncapableOf>
   <Traits>Trăsături</Traits>
   <TraitsDoNothing>Trăsăturile sunt in prezent doar de amuzament; mare parte din ele nu au nici un efect. Aceasta se va schimba în versiunile ulterioare.</TraitsDoNothing>
@@ -133,11 +121,11 @@
   
   <Gameplay>Mecanici de joc</Gameplay>
 
-  <ConfirmQuit>Sigur închizi? Orice conținut nesalvat va fi pierdut.</ConfirmQuit>
+  <ConfirmQuit>Sigur vrei să închizi? Conținutul nesalvat va fi pierdut.</ConfirmQuit>
   
   <EveryoneNeedsValidName>Fiecare persoană are nevoie de un nume valid.</EveryoneNeedsValidName>
 
-  <GeneratingWorld>Generare lume...</GeneratingWorld>
-  <GeneratingMap>Generare hartă...</GeneratingMap>
+  <GeneratingWorld>Generează lume...</GeneratingWorld>
+  <GeneratingMap>Generează hartă...</GeneratingMap>
 
 </LanguageData>

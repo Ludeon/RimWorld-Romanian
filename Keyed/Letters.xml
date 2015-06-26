@@ -3,12 +3,12 @@
 
   <JumpToLocation>Arată locația!</JumpToLocation>
 
-  <FirstSummerWarning>Vara a început! Însă iarna se apropie.\n\nCulturile nu vor crește în frigul iernii. Strânge suficiente alimente pentru câteva luni, acum cât mai poți.\n\nConstruiește o cameră frigorifică pentru a prezerva mâncarea.\n\nȘi obține câteva haine, fie că le furi sau faci, altminteri coloniștii vor îngheța afară.</FirstSummerWarning>
+  <FirstSummerWarning>Vara a început!\n\nTrebuie să te pregătești pentru iarnă deoarece culturile nu vor crește în frigul iernii. Strânge suficiente alimente pentru a supraviețui iernii.\n\nConstruiește o cameră frigorifică pentru a prezerva mâncarea.\n\nȘi obține câteva haine, fie că le furi sau faci, altminteri coloniștii vor îngheța de frig.</FirstSummerWarning>
   
-  <RelationsBrokenDown>Relațiile cu {0} au decăzut. Sunt acum ostili față de colonie.</RelationsBrokenDown>
-  <RelationsWarmed>Relațiile cu {0} s-au îmbunătățit. Nu mai sunt acum ostili față de colonie.</RelationsWarmed>
+  <RelationsBrokenDown>Relațiile cu {0} au decăzut. Sunt acum ostili față de colonia ta.</RelationsBrokenDown>
+  <RelationsWarmed>Relațiile cu {0} s-au îmbunătățit. Nu mai sunt acum ostili față de colonia ta.</RelationsWarmed>
 
-  <RelationsBrokenCapture>Pentru ca {0} a fost capturat, {1} sunt acum inamicii coloniei.</RelationsBrokenCapture>
+  <RelationsBrokenCapture>Pentru ca {0} a fost capturat, {1} sunt acum inamicii coloniei tale.</RelationsBrokenCapture>
 
   <ColonyGoodwill>Bunăvoința coloniei</ColonyGoodwill>
   <Neutral>Neutru</Neutral>
@@ -21,7 +21,7 @@
   <NothingCrushed>Nimic nu a fost distrus.</NothingCrushed>
   
   <MentalBreakRampage>{0} a cedat psihic și se manifestă violent.</MentalBreakRampage>
-  <MentalBreakDaze>{0} a cedat și se plimbă năuc prin jur.</MentalBreakDaze>
+  <MentalBreakDaze>{0} se simte amețit și se plimbă năuc prin jur.</MentalBreakDaze>
   <MentalBreakLeave>{0} a cedat și va părăsi colonia.</MentalBreakLeave>
 
   <MentalBreakRecoveryRampage>Manifestările violente ale lui {0} au luat sfârșit.</MentalBreakRecoveryRampage>
