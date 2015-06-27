@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Torso.label>Trunchi</Torso.label>
+	<UpperHead.label>Partea de sus a capului</UpperHead.label>
+	<FullHead.label>Tot capul</FullHead.label>
+	<Eyes.label>Ochi</Eyes.label>
+	<Teeth.label>Dinți</Teeth.label>
+	<Mouth.label>Gură</Mouth.label>
+	<Arms.label>Mâini</Arms.label>
+	<Hands.label>Palme</Hands.label>
+	<LeftHand.label>Mâna stângă</LeftHand.label>
+	<RightHand.label>Mâna dreaptă</RightHand.label>
+	<Legs.label>Picioare</Legs.label>
+	<Feet.label>Tălpi</Feet.label>
+	<FrontLeftPaw.label>Laba stângă din față</FrontLeftPaw.label>
+	<FrontRightPaw.label>Laba dreaptă din față</FrontRightPaw.label>
+	<HeadAttackTool.label>Cap</HeadAttackTool.label>
+	<FrontLeftLeg.label>Piciorul stâng din față</FrontLeftLeg.label>
+	<FrontRightLeg.label>Piciorul drept din față</FrontRightLeg.label>
+	<FrontLeftClaws.label>Ghearele stângi din față</FrontLeftClaws.label>
+	<FrontRightClaws.label>Ghearele drepte din față</FrontRightClaws.label>
+	<LeftKnifeProtrusion.label>Linker Messerauswuchs</LeftKnifeProtrusion.label>
+	<RightKnifeProtrusion.label>Rechter Messerauswuchs</RightKnifeProtrusion.label>
+	<CoveredByNaturalArmor.label>Acoperit de armură naturală</CoveredByNaturalArmor.label>
+	<TuskAttackTool.label>Unaltă de atac cu colți</TuskAttackTool.label>
+	<HornAttackTool.label>Unaltă de atac din corn</HornAttackTool.label>
+	<TurtleBeakAttackTool.label>Unealtă pentru spart carapacea</TurtleBeakAttackTool.label>
+		
+</LanguageData>

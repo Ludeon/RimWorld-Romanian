@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!--=============== Pure stuffs: Basics ====================-->
+
+	<Silver.label>Silber</Silver.label>
+	<Silver.description>Wird hauptsächlich als Währung beim Handeln akzeptiert, kann aber auch für attraktive Dekorationen verwendet werden.</Silver.description>
+	<Silver.stuffProps.stuffAdjective>Silber</Silver.stuffProps.stuffAdjective>
+	
+	<Gold.label>Gold</Gold.label>
+	<Gold.description>Das verführerischste aller Metalle. Millionen sind in der endlosen Gier der Menschheit nach Gold gestorben. Das weiche Metall hat fast keinen eigenen Nutzen, ist aber sehr schön und selten.</Gold.description>
+	<Gold.stuffProps.stuffAdjective>Gold</Gold.stuffProps.stuffAdjective>
+	
+	<Steel.label>Stahl</Steel.label>
+	<Steel.description>Eine Metall-Kohle-Legierung, die zum Bauen von Strukturen, Werkzeugen und Waffen verwendet wird.</Steel.description>
+	<Steel.stuffProps.stuffAdjective>Stahl</Steel.stuffProps.stuffAdjective>
+	
+	<Plasteel.label>Plastahl</Plasteel.label>
+	<Plasteel.description>Fortschrittliches Material aus der Raumfahrttechnologie. Plastahl ist aufgrund der einzigartigen molekularen Struktur extrem stark und doch leicht.</Plasteel.description>
+
+	
+	<WoodLog.label>Holz</WoodLog.label>
+	<WoodLog.description>Holz von Bäumen oder anderen holzartigen Gewächsen. Brauchbar, um hölzerne Strukturen, Waffen oder einfache Prothesen zu bauen. Im Fall der Fälle kann ein Holzstock auch als Waffe eingesetzt werden.</WoodLog.description>
+	<WoodLog.stuffProps.stuffAdjective>Holz</WoodLog.stuffProps.stuffAdjective>
+	
+	<Uranium.label>Uran</Uranium.label>
+	<Uranium.description>Ein extrem hartes und kompaktes Material. Während der Einsatzzweck als Reaktormaterial am bekanntesten ist, machen die physikalischen Eigenschaften es zu einem hervorragenden Material für Werkzeuge, Waffen und auch Rüstungen.</Uranium.description>
+	<Uranium.stuffProps.stuffAdjective>Uran</Uranium.stuffProps.stuffAdjective>
+	
+	<!--=============== Pure stuffs: Fabric, leather, etc  ====================-->
+	
+	<Cloth.label>Stoff</Cloth.label>
+	<Cloth.description>Einfacher Stoff, gewebt aus organischen Fasern.</Cloth.description>
+	
+	<Synthread.label>Syngarn</Synthread.label>
+	<Synthread.description>Stoff aus der Raumfahrttechnik, der für normale Kleidung entwickelt wurde. Er ist weich, leicht, stark und isoliert gut.</Synthread.description>
+	
+	<DevilstrandCloth.label>Teufelsgarn</DevilstrandCloth.label>
+    <DevilstrandCloth.description>Sehr strapazierfähiger Stoff aus Mikrofasern, die aus den seidenproduzierenden Teufelsgarnpilzen gewonnen wurden. Sehr zäh, aber isoliert nicht besser als Stoff.</DevilstrandCloth.description>
+	
+	<Hyperweave.label>Nanofaser</Hyperweave.label>
+	<Hyperweave.description>High-Tech-Nano-Fasern, die zu einem Stoff verwoben wurden. Das Material ist etwas schwer, ist aber kaum zu zerstören.</Hyperweave.description>
+	
+	
+	<!--=============== Plant products ====================-->
+	
+	<RawHops.label>Hopfen</RawHops.label>	
+	<RawHops.description>Roher Hopfen. Ein Aromastoff und Konservierungsmittel, das zum Herstellen von Bier benötigt wird.</RawHops.description>
+	
+	
+  	<!--=============== Raw foods ====================-->
+	
+	<RawPotatoes.label>Kartoffel</RawPotatoes.label>
+	<RawPotatoes.description>Rohe Kartoffeln.</RawPotatoes.description>
+	
+	<RawCorn.label>Mais</RawCorn.label>
+	<RawCorn.description>Roher Mais. Schmeckt lecker und kann auch roh gegessen werden.</RawCorn.description>
+	
+	<RawRice.label>Reis</RawRice.label>
+	<RawRice.description>Roher Reis.</RawRice.description>
+	
+	<RawBerries.label>Beere</RawBerries.label>
+	<RawBerries.description>Verschiedene Beeren. Sind auch roh genießbar.</RawBerries.description>
+	
+	<RawAgave.label>Agavefrucht</RawAgave.label>	
+	<RawAgave.description>Rohe Früchte der Agave.</RawAgave.description>
+	
+	
+    <!--=============== Medicine ====================-->
+	
+	<HerbalMedicine.label>Kräuter Medizin</HerbalMedicine.label>
+    <HerbalMedicine.description>Die Zutaten für die Kräutermedizin werden aus der Xerigiumpflanze gewonnen. Sie wirkt nicht ganz so gut wie industriell hergestellte Medizin.</HerbalMedicine.description>
+	
+	<Medicine.label>Medizin</Medicine.label>
+    <Medicine.description>Ärzte verwenden diese Medizin zur Behandlung von Verwundeten.</Medicine.description>
+	
+	<GlitterworldMedicine.label>Glitzerwelt Medizin</GlitterworldMedicine.label>
+    <GlitterworldMedicine.description>Fortschrittliche medizinische Versorgung von einer High-Tech-Glitzerwelt.</GlitterworldMedicine.description>
+	
+	<ArtilleryShell.label>Artillerie Geschoss</ArtilleryShell.label>
+    <ArtilleryShell.description>Wird von Artillerie verschossen.</ArtilleryShell.description>
+	
+	<!--
+	<Missiles.label>Rakete</Missiles.label>
+    <Missiles.description>Wird von Raketenwerfern abgefeuert.</Missiles.description>
+	-->
+
+	
+</LanguageData>

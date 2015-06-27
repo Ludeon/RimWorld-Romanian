@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Human.label>Om</Human.label>
+	<QuadrupedAnimalWithPaws.label>Animal</QuadrupedAnimalWithPaws.label>
+	<QuadrupedAnimalWithPawsAndTail.label>Animal</QuadrupedAnimalWithPawsAndTail.label>
+	<QuadrupedAnimalWithHooves.label>Animal</QuadrupedAnimalWithHooves.label>
+	<QuadrupedAnimalWithHoovesAndHump.label>Animal</QuadrupedAnimalWithHoovesAndHump.label>
+	<QuadrupedAnimalWithHoovesAndTusks.label>Animal</QuadrupedAnimalWithHoovesAndTusks.label>
+	<QuadrupedAnimalWithHoovesAndHorn.label>Animal</QuadrupedAnimalWithHoovesAndHorn.label>
+	<QuadrupedAnimalWithClawsTailAndJowl.label>Animal</QuadrupedAnimalWithClawsTailAndJowl.label>
+	<BeetleLike.label>Insectă</BeetleLike.label>
+	<TurtleLike.label>Broască țestoasă</TurtleLike.label>
+	<MechanicalCentipede.label>Mașinărie</MechanicalCentipede.label>
+	<Scyther.label>Mașinărie</Scyther.label>
+	<Snake.label>Șarpe</Snake.label>
+	<Monkey.label>Maimuță</Monkey.label>
+	
+</LanguageData>

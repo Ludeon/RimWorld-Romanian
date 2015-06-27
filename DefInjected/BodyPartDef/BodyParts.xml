@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<Head.label>Cap</Head.label>
+	<Skull.label>Craniu</Skull.label>
+	<Brain.label>Creier</Brain.label>
+	<LeftEye.label>Ochiul stâng</LeftEye.label>
+	<RightEye.label>Ochiul drept</RightEye.label>
+	<LeftEar.label>Urechea stângă</LeftEar.label>
+	<RightEar.label>Urechea dreaptă</RightEar.label>
+	<Nose.label>Nas</Nose.label>
+	<Jaw.label>Maxilar</Jaw.label>
+	<Neck.label>Gât</Neck.label>
+	<Torso.label>Trunchi</Torso.label>
+	<LeftClavicle.label>Clavicula stângă</LeftClavicle.label>
+	<RightClavicle.label>Clavicula dreaptă</RightClavicle.label>
+	<Sternum.label>Stern</Sternum.label>
+	<Rib.label>Coastă</Rib.label>
+	<LeftHumerus.label>Umărul stâng</LeftHumerus.label>
+	<RightHumerus.label>Umărul drept</RightHumerus.label>
+	<LeftRadius.label>Partea stângă<LeftRadius.label>
+	<RightRadius.label>Partea dreaptă</RightRadius.label>
+	<Pelvis.label>Bazin</Pelvis.label>
+	<LeftFemur.label>Femurul stâng</LeftFemur.label>
+	<RightFemur.label>Femurul drept</RightFemur.label>
+	<LeftTibia.label>Tibia stângă</LeftTibia.label>
+	<RightTibia.label>Tibia dreaptă</RightTibia.label>
+	<Heart.label>Inimă</Heart.label>
+	<LeftLung.label>Plămânul stâng</LeftLung.label>
+	<RightLung.label>Plămânul drept</RightLung.label>
+	<LeftKidney.label>Rinichiul stâng</LeftKidney.label>
+	<RightKidney.label>Rinichiul drept</RightKidney.label>
+	<Liver.label>Ficat</Liver.label>
+	<Stomach.label>Stomac</Stomach.label>
+	<Spine.label>Coloana verterbală</Spine.label>
+	<LeftShoulder.label>Umărul stâng</LeftShoulder.label>
+	<LeftArm.label>Brațul stâng</LeftArm.label>
+	<LeftHand.label>Mâna stângă</LeftHand.label>
+	<LeftHandPinky.label>Degetul mic (mâna stângă)</LeftHandPinky.label>
+	<LeftHandRingFinger.label>Degetul inelar (mâna stângă)</LeftHandRingFinger.label>
+	<LeftHandMiddleFinger.label>Degetul mijlociu (mâna stângă)</LeftHandMiddleFinger.label>
+	<LeftHandIndexFinger.label>Degetul arătător (mâna stângă)</LeftHandIndexFinger.label>
+	<LeftHandThumb.label>Degetul mare (mâna stângă)</LeftHandThumb.label>
+	<RightShoulder.label>Umărul drept</RightShoulder.label>
+	<RightArm.label>Brațul drept</RightArm.label>
+	<RightHand.label>Mâna dreaptă</RightHand.label>
+	<RightHandPinky.label>Degetul mic (mâna dreaptă)</RightHandPinky.label>
+	<RightHandRingFinger.label>Degetul inelar (mâna dreaptă)</RightHandRingFinger.label>
+	<RightHandMiddleFinger.label>Degetul mijlociu (mâna dreaptă)</RightHandMiddleFinger.label>
+	<RightHandIndexFinger.label>Degetul arătător (mâna dreaptă)</RightHandIndexFinger.label>
+	<RightHandThumb.label>Degetul mare (mâna dreaptă)</RightHandThumb.label>
+	<LeftLeg.label>Piciorul stâng</LeftLeg.label>
+	<LeftFoot.label>Talpa stângă</LeftFoot.label>
+	<LeftFootLittleToe.label>Degetul mic (piciorul stâng)</LeftFootLittleToe.label>
+	<LeftFootFourthToe.label>Al patrulea deget (piciorul stâng)</LeftFootFourthToe.label>
+	<LeftFootMiddleToe.label>Degetul din mijloc (piciorul stâng)</LeftFootMiddleToe.label>
+	<LeftFootSecondToe.label>Al doilea deget (piciorul stâng)</LeftFootSecondToe.label>
+	<LeftFootBigToe.label>Degetul mare (piciorul stâng)</LeftFootBigToe.label>
+	<RightLeg.label>Piciorul drept</RightLeg.label>
+	<RightFoot.label>Talpa dreaptă</RightFoot.label>
+	<RightFootLittleToe.label>Degetul mic (piciorul drept)</RightFootLittleToe.label>
+	<RightFootFourthToe.label>Al patrulea deget (piciorul drept)</RightFootFourthToe.label>
+	<RightFootMiddleToe.label>Degetul din mijloc (piciorul drept)</RightFootMiddleToe.label>
+	<RightFootSecondToe.label>Al doilea deget (piciorul drept)</RightFootSecondToe.label>
+	<RightFootBigToe.label>Degetul mare (piciorul drept)</RightFootBigToe.label>
+  
+  <!-- animal -->
+	
+	<InsectHead.label>Cap de insectă</InsectHead.label>
+	<SnakeHead.label>Capu de șarpe</SnakeHead.label>
+	<SnakeMouth.label>Gură de șarpe</SnakeMouth.label>
+	<SnakeBody.label>Corpul șarpelui</SnakeBody.label>
+	<InsectHeart.label>Inima insecte</InsectHeart.label>
+	<InsectNostril.label>Nara insecte</InsectNostril.label>
+	<InsectMouth.label>Grua insectei</InsectMouth.label>
+	<Body.label>Corp</Body.label>
+	<Jowl.label>Obraz</Jowl.label>
+	<Tail.label>Coadă</Tail.label>
+	<LeftAntenna.label>Antena stângă</LeftAntenna.label>
+	<RightAntenna.label>Antena dreaptă</RightAntenna.label>
+	<Pronotum.label>Pronotum</Pronotum.label>
+	<Shell.label>Carapace</Shell.label>
+	<LeftElytra.label>Aripa stângă</LeftElytra.label>
+	<RightElytra.label>Aripa dreaptă</RightElytra.label>
+	<LeftTusk.label>Colțul stâng</LeftTusk.label>
+	<RightTusk.label>Colțul drept</RightTusk.label>
+	<Horn.label>Corn</Horn.label>
+	<Hump.label>Cocoașă</Hump.label>
+	<TurtleShell.label>Carapace</TurtleShell.label>
+	<Plastron.label>Plastron</Plastron.label>
+	<TurtleBeak.label>Carapace spartă</TurtleBeak.label>
+	
+  <!-- animals legs -->
+  
+	<FrontLeftLeg.label>Piciorul stâng din față</FrontLeftLeg.label>
+	<FrontRightLeg.label>Piciorul drept din față</FrontRightLeg.label>
+	<MiddleLeftLeg.label>Piciorul stâng din mijloc</MiddleLeftLeg.label>
+	<MiddleRightLeg.label>Piciorul drept din mijloc</MiddleRightLeg.label>
+	<RearLeftLeg.label>Piciorul stâng din spate</RearLeftLeg.label>
+	<RearRightLeg.label>Piciorul drept din spate</RearRightLeg.label>
+	
+	<FrontLeftInsectLeg.label>Piciorul stâng din față</FrontLeftInsectLeg.label>
+	<FrontRightInsectLeg.label>Piciorul drept din față</FrontRightInsectLeg.label>
+	<MiddleLeftInsectLeg.label>Piciorul stâng din mijloc</MiddleLeftInsectLeg.label>
+	<MiddleRightInsectLeg.label>Piciorul drept din mijloc</MiddleRightInsectLeg.label>
+	<RearLeftInsectLeg.label>Piciorul stâng din spate</RearLeftInsectLeg.label>
+	<RearRightInsectLeg.label>Piciorul drept din spate</RearRightInsectLeg.label>
+	
+	<FrontLeftPaw.label>Laba stângă din față</FrontLeftPaw.label>
+	<FrontRightPaw.label>Laba dreaptă din față</FrontRightPaw.label>
+	<RearLeftPaw.label>Laba stângă din spate</RearLeftPaw.label>
+	<RearRightPaw.label>Laba dreaptă din spate</RearRightPaw.label>
+	<FrontLeftHoof.label>Copita stângă din față</FrontLeftHoof.label>
+	<FrontRightHoof.label>Copita dreaptă din față</FrontRightHoof.label>
+	<RearLeftHoof.label>Copita stângă din spate</RearLeftHoof.label>
+	<RearRightHoof.label>Copita dreaptă din spate</RearRightHoof.label>
+	
+	<FrontLeftLegFirstClaw.label>Piciorul stâng din față, prima gheară</FrontLeftLegFirstClaw.label>
+	<FrontLeftLegSecondClaw.label>Piciorul stâng din față, a doua gheară</FrontLeftLegSecondClaw.label>
+	<FrontLeftLegThirdClaw.label>Piciorul stâng din față, a treia gheară</FrontLeftLegThirdClaw.label>
+	<FrontLeftLegFourthClaw.label>Piciorul stâng din față, a patra gheară</FrontLeftLegFourthClaw.label>
+	<FrontLeftLegFifthClaw.label>Piciorul stâng din față, a cincia gheară</FrontLeftLegFifthClaw.label>
+	<FrontRightLegFirstClaw.label>Piciorul drept din față, prima gheară</FrontRightLegFirstClaw.label>
+	<FrontRightLegSecondClaw.label>Piciorul drept din față, a doua gheară</FrontRightLegSecondClaw.label>
+	<FrontRightLegThirdClaw.label>Piciorul drept din față, a treia gheară</FrontRightLegThirdClaw.label>
+	<FrontRightLegFourthClaw.label>Piciorul drept din față, a patra gheară</FrontRightLegFourthClaw.label>
+	<FrontRightLegFifthClaw.label>Piciorul drept din față, a cincia gheară</FrontRightLegFifthClaw.label>
+	
+	<RearLeftLegFirstClaw.label>Piciorul stâng din spate, prima gheară</RearLeftLegFirstClaw.label>
+	<RearLeftLegSecondClaw.label>Piciorul stâng din spate, a doua gheară</RearLeftLegSecondClaw.label>
+	<RearLeftLegThirdClaw.label>Piciorul stâng din spate, a treia gheară</RearLeftLegThirdClaw.label>
+	<RearLeftLegFourthClaw.label>Piciorul stâng din spate, a patra gheară</RearLeftLegFourthClaw.label>
+	<RearLeftLegFifthClaw.label>Piciorul stâng din spate, a cincia gheară</RearLeftLegFifthClaw.label>
+	<RearRightLegFirstClaw.label>Piciorul drept din spate, prima gheară</RearRightLegFirstClaw.label>
+	<RearRightLegSecondClaw.label>Piciorul drept din spate, a doua gheară</RearRightLegSecondClaw.label>
+	<RearRightLegThirdClaw.label>Piciorul drept din spate, a treia gheară</RearRightLegThirdClaw.label>
+	<RearRightLegFourthClaw.label>Piciorul drept din spate, a patra gheară</RearRightLegFourthClaw.label>
+	<RearRightLegFifthClaw.label>Piciorul drept din spate, a cincia gheară</RearRightLegFifthClaw.label>
+  
+  <!-- mechanical -->
+	
+	<MechanicalThorax.label>Torace</MechanicalThorax.label>
+	<LeftKnifeProtrusion.label>Linker Messerauswuchs</LeftKnifeProtrusion.label>
+	<RightKnifeProtrusion.label>Rechter Messerauswuchs</RightKnifeProtrusion.label>
+	<MechanicalNeck.label>Gât mecanic</MechanicalNeck.label>
+	<MechanicalHead.label>Cap mecanic</MechanicalHead.label>
+	<LeftSightSensor.label>Senzor vizual stâng</LeftSightSensor.label>
+	<RightSightSensor.label>Senzor vizual drept</RightSightSensor.label>
+	<LeftHearingSensor.label>Senzor auditiv stâng</LeftHearingSensor.label>
+	<RightHearingSensor.label>Senzor vizual drept</RightHearingSensor.label>
+	<SmellSensor.label>Senzor olfactiv</SmellSensor.label>
+	<LeftMechanicalShoulder.label>Umărul stâng</LeftMechanicalShoulder.label>
+	<LeftMechanicalArm.label>Brațul bionic stâng</LeftMechanicalArm.label>
+	<LeftMechanicalHand.label>Mâna bionică stângă</LeftMechanicalHand.label>
+	<LeftHandMechanicalPinky.label>Degetul mic (mâna stângă)</LeftHandMechanicalPinky.label>
+	<LeftHandMechanicalRingFinger.label>Degetul inelar (mâna stângă)</LeftHandMechanicalRingFinger.label>
+	<LeftHandMechanicalMiddleFinger.label>Degetul mijlociu (mâna stângă)</LeftHandMechanicalMiddleFinger.label>
+	<LeftHandMechanicalIndexFinger.label>Degetul arătător (mâna stângă)</LeftHandMechanicalIndexFinger.label>
+	<LeftHandMechanicalThumb.label>Degetul mare (mâna stângă)</LeftHandMechanicalThumb.label>
+	<RightMechanicalShoulder.label>Umărul bionic drept</RightMechanicalShoulder.label>
+	<RightMechanicalArm.label>Brațul bionic drept</RightMechanicalArm.label>
+	<RightMechanicalHand.label>Mâna bionică dreaptă</RightMechanicalHand.label>
+	<RightHandMechanicalPinky.label>Degetul mic (mâna dreaptă)</RightHandMechanicalPinky.label>
+	<LeftHandMechanicalRingFinger.label>Degetul inelar (mâna dreaptă)</LeftHandMechanicalRingFinger.label>
+	<RightHandMechanicalMiddleFinger.label>Degetul mijlociul (mâna dreaptă)</RightHandMechanicalMiddleFinger.label>
+	<RightHandMechanicalIndexFinger.label>Degetul arătător (mâna dreaptă)</RightHandMechanicalIndexFinger.label>
+	<RightHandMechanicalThumb.label>Degetul mare (mâna dreaptă)</RightHandMechanicalThumb.label>
+	
+	<LeftMechanicalLeg.label>Piciorul bionic stâng</LeftMechanicalLeg.label>
+	<LeftMechanicalFoot.label>Talpa bionică stângă</LeftMechanicalFoot.label>
+	<RightMechanicalLeg.label>Piciorul bionic drept</RightMechanicalLeg.label>
+	<RightMechanicalFoot.label>Talpa bionică dreptă</RightMechanicalFoot.label>
+	
+	<MechanicalCentipedeBodyFirstRing.label>Primul inel de corp</MechanicalCentipedeBodyFirstRing.label>
+	<MechanicalCentipedeBodySecondRing.label>Al doilea inel de corp</MechanicalCentipedeBodySecondRing.label>
+	<MechanicalCentipedeBodyThirdRing.label>Al treilea inel de corp</MechanicalCentipedeBodyThirdRing.label>
+	<MechanicalCentipedeBodyFourthRing.label>Al patrulea inel de corp</MechanicalCentipedeBodyFourthRing.label>
+	<MechanicalCentipedeBodyFifthRing.label>Al cincilea inel de corp</MechanicalCentipedeBodyFifthRing.label>
+	<MechanicalCentipedeBodySixthRing.label>Al șaselea inel de corp</MechanicalCentipedeBodySixthRing.label>
+	
+	<ArtificialBrain.label>Creier artificial</ArtificialBrain.label>
+	
+</LanguageData>

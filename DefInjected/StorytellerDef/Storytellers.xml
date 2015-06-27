@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Cassandra.label>Cassandra Clasic</Cassandra.label>
+    <Cassandra.description>Cassandra spune povestea astfel încât seamănă cu o grafic pe care nivelul de de stres si dificultati crește în mod constant odată cu trecerea timpului.</Cassandra.description>
+    <Cassandra.quotation>Esența povestiri bune este progresul perfect al unei lupte tot mai acerbă.</Cassandra.quotation>
+	
+	<Phoebe.label>Phoebe Zen</Phoebe.label>
+	<Phoebe.description>Phoebe vă oferă o mulțime de timp între evenimente, astfel încât să vă puteți relaxa și construi colonia.</Phoebe.description>
+	<Phoebe.quotation>Un joc relaxat și bazat pe construcția unei baze.</Phoebe.quotation>
+	
+	<Randy.label>Reiner Aleator</Randy.label>
+	<Randy.description>Reiner nu urmeaza reguli. Acesta generează evenimente aleatorii și nu-i pasă dacă povestea este un triumf sau o infrangere dezastruasă \ nPentru el totul este dramă.</Randy.description>
+	<Randy.quotation>Lumea este formată din coincidențe! Deci, povestea trebuie să fie una bună! Hei, ai un foc?</Randy.quotation>
+
+</LanguageData>

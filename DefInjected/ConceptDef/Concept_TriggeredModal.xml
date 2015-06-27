@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <rep>
+    <path>TradeGoodsMustBeNearBeacon.helpTexts[0]</path>
+    <trans>Pentru a face tranzacționa obiecte sau argint cu o stație orbitală trebuie să plasați TRADE BEACON și să creați un stoc de obiecte pentru a putea tranzacționa.</trans>
+  </rep>
+  
+  <rep>
+    <path>ArrestingCreatesEnemies.helpTexts[0]</path>
+    <trans>Atenție: Persoana care doriți să o capturați, aparține unei alte colonii. Dacă luați pe cineva prizonier veți deveni inamic cu facțiunea din care face parte.</trans>
+  </rep>
+  
+  <rep>
+    <path>SwitchFlickingDesignation.helpTexts[0]</path>
+    <trans>Notă: Această acțiune determină dacă un colonist poate opera stingerea sau oprirea luminilor, stațiilor de lucru, etc. \ n \ nEste  atâta timp cât nu se întâmplă nimic până la o colonist (cu activitatea de tip switch) vine peste și acționează comutatorul de mână ..</trans>
+  </rep>
+  
+</LanguageData>

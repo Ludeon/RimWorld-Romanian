@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+		<Shooting.skillLabel>Țintaș</Shooting.skillLabel>
+		<Shooting.pawnLabel>Țintaș</Shooting.pawnLabel>
+	
+		<Melee.skillLabel>Luptător</Melee.skillLabel>
+		<Melee.pawnLabel>Luptător</Melee.pawnLabel>
+	
+		<Social.skillLabel>Sociabil</Social.skillLabel>
+		<Social.pawnLabel>Comunicativ</Social.pawnLabel>
+	
+		<Medicine.skillLabel>Medic</Medicine.skillLabel>
+		<Medicine.pawnLabel>Doctor</Medicine.pawnLabel>
+	
+		<Cooking.skillLabel>Bucătar</Cooking.skillLabel>
+		<Cooking.pawnLabel>Bucătar</Cooking.pawnLabel>
+	
+		<Construction.skillLabel>Constructor</Construction.skillLabel>
+		<Construction.pawnLabel>Constructor</Construction.pawnLabel>
+	
+		<Growing.skillLabel>Agricultor</Growing.skillLabel>
+		<Growing.pawnLabel>Agricultură</Growing.pawnLabel>
+	
+		<Mining.skillLabel>Miner</Mining.skillLabel>
+		<Mining.pawnLabel>Miner</Mining.pawnLabel>
+	
+		<Artistic.skillLabel>Artist</Artistic.skillLabel>
+		<Artistic.pawnLabel>Künstler</Artistic.pawnLabel>
+	
+		<Crafting.skillLabel>Meșteșugar</Crafting.skillLabel>
+		<Crafting.pawnLabel>Meșteșugar</Crafting.pawnLabel>
+	
+		<Research.skillLabel>Savant</Research.skillLabel>
+		<Research.pawnLabel>Cercetător</Research.pawnLabel>
+	
+
+	
+</LanguageData>
