@@ -1,30 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<MakeStoneBlocks.label>Stelle Steinblöcke her</MakeStoneBlocks.label>
-	<MakeStoneBlocks.description>Verarbeite Felsbrocken zu nutzbaren Steinblöcken.</MakeStoneBlocks.description>
-	<MakeStoneBlocks.jobString>Verarbeitet Felsbrocken.</MakeStoneBlocks.jobString>
-	
-	<ExtractMetalFromSlag.label>Schmelze Schlacke</ExtractMetalFromSlag.label>
-	<ExtractMetalFromSlag.description>Benutze Wärme und starke Elektromagnete, um nützliches Metall aus Schlackebrocken zu extrahieren.</ExtractMetalFromSlag.description>
-	<ExtractMetalFromSlag.jobString>Verarbeitet Schlackebrocken zu Metall.</ExtractMetalFromSlag.jobString>
-	
-	<SmeltWeapon.label>Schmelze Waffe</SmeltWeapon.label>
-	<SmeltWeapon.description>Benutzt Wärme und starke Elektromagnete um Waffen in Metall einzuschmelzen.</SmeltWeapon.description>
-	<SmeltWeapon.jobString>Verarbeitet Waffe zu Metall.</SmeltWeapon.jobString>
 
-	<MakeArtilleryShell.label>Produziere Artilleriegeschoss</MakeArtilleryShell.label>
-	<MakeArtilleryShell.description>Produziere ein Geschoss für die Artillerie.</MakeArtilleryShell.description>
-	<MakeArtilleryShell.jobString>Produziert Artilleriegeschoss.</MakeArtilleryShell.jobString>	
+  <MakeStoneBlocks.label>make stone blocks</MakeStoneBlocks.label>
+  <MakeStoneBlocks.description>Cuts rock chunks into usable stone blocks.</MakeStoneBlocks.description>
+  <MakeStoneBlocks.jobString>Stonecutting.</MakeStoneBlocks.jobString>
 
-	
-	<!--
-	<MakeWoodPlanks_Hand.label>Stelle Holzbalken her</MakeWoodPlanks_Hand.label>
-	<MakeWoodPlanks_Hand.description>Zersäge von Hand 10 Stämme in 25 Holzbalken. Ziemlich langsam.</MakeWoodPlanks_Hand.description>
-	<MakeWoodPlanks_Hand.jobString>Produziert Holzbalken.</MakeWoodPlanks_Hand.jobString>
-	
-	<MakeWoodPlanks_Electric.label>Stelle Holzbalken her</MakeWoodPlanks_Electric.label>
-	<MakeWoodPlanks_Electric.description>Zersägt 10 Stämme in 25 Holzbalken.</MakeWoodPlanks_Electric.description>
-	<MakeWoodPlanks_Electric.jobString>Produziert Holzbalken.</MakeWoodPlanks_Electric.jobString>
-	-->
-	
+  <ExtractMetalFromSlag.label>smelt metal from slag</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>Use heat and strong electromagnets to separate useful metal from slag chunks.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>Smelting metal from slag.</ExtractMetalFromSlag.jobString>
+
+  <SmeltWeapon.label>smelt metal from weapon</SmeltWeapon.label>
+  <SmeltWeapon.description>Use heat and strong electromagnets to separate useful metal from weapons.</SmeltWeapon.description>
+  <SmeltWeapon.jobString>Smelting metal from weapon.</SmeltWeapon.jobString>
+
+  <MakeArtilleryShell.label>make artillery shell</MakeArtilleryShell.label>
+  <MakeArtilleryShell.description>Craft an artillery shell.</MakeArtilleryShell.description>
+  <MakeArtilleryShell.jobString>Making artillery shell.</MakeArtilleryShell.jobString>
+
+  <MakeComponent.label>make component</MakeComponent.label>
+  <MakeComponent.description>Make a component.</MakeComponent.description>
+  <MakeComponent.jobString>Making component.</MakeComponent.jobString>
+
+
 </LanguageData>

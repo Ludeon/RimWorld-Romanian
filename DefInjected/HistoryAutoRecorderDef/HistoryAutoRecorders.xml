@@ -1,16 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
-	<WealthTotal.label>Wert (Gesamt)</WealthTotal.label>
-	
-	<WealthItems.label>Wert (Gegenstände)</WealthItems.label>
-	
-	<WealthBuildings.label>Wert (Gebäude)</WealthBuildings.label>
-	
-	<FreeColonists.label>Freie Kolonisten</FreeColonists.label>
-	
-	<Prisoners.label>Gefangene</Prisoners.label>
-	
-	<ColonistMood.label>Stimmung</ColonistMood.label>
-  
+
+  <WealthTotal.label>wealth (total)</WealthTotal.label>
+  <WealthItems.label>wealth (items)</WealthItems.label>
+  <WealthBuildings.label>wealth (buildings)</WealthBuildings.label>
+  <FreeColonists.label>free colonists</FreeColonists.label>
+  <Prisoners.label>prisoners</Prisoners.label>
+  <ColonistMood.label>mood</ColonistMood.label>
+
+
 </LanguageData>

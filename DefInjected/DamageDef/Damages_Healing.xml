@@ -1,12 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
-	<Repair.label>Repară</Repair.label>
 
-	<HealInjury.label>Vindecă leziunea</HealInjury.label>
+  <Repair.label>repairing</Repair.label>
+  <HealInjury.label>heal injury</HealInjury.label>
+  <HealGlobal.label>heal global</HealGlobal.label>
+  <RestoreBodyPart.label>restore body part</RestoreBodyPart.label>
 
-	<HealGlobal.label>Vindecă toate leziunile</HealGlobal.label>
 
-	<RestoreBodyPart.label>Restabiliți parte a corpului</RestoreBodyPart.label>
-	
 </LanguageData>

@@ -1,74 +1,76 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
-    <!--============= Item hauling ===============-->
-	
-	<HaulToCell.reportString>Trägt TargetA.</HaulToCell.reportString>
-	
-	<HaulToContainer.reportString>Trägt TargetA.</HaulToContainer.reportString>
-	
-    <!--============= Pawn hauling ===============-->
-	
-	<Rescue.reportString>Rettet TargetA.</Rescue.reportString>
-	
-	<CarryToCryptosleepCasket.reportString>Trägt TargetA zur Kryoschlafkapsel.</CarryToCryptosleepCasket.reportString>
-	
-	<Capture.reportString>Fängt TargetA.</Capture.reportString>
-	
-	<Arrest.reportString>Nimmt TargetA gefangen.</Arrest.reportString>
-	
-	<ReleasePrisoner.reportString>Lässt TargetA frei.</ReleasePrisoner.reportString>
-	
-	<EscortPrisonerToBed.reportString>Eskortiert Gefangenen TargetA zum Bett.</EscortPrisonerToBed.reportString>
-	
-	<TakeWoundedPrisonerToBed.reportString>Bringt verwundeten Gefangenen TargetA weg.</TakeWoundedPrisonerToBed.reportString>
-	
-	<TakeToBedToOperate.reportString>Bringt TargetA ins Bett.</TakeToBedToOperate.reportString>
-	
-	<Kidnap.reportString>Entführt TargetA.</Kidnap.reportString>
-	
-	
-	
-	
-	<DeliverFood.reportString>Bringt TargetB zu TargetA.</DeliverFood.reportString>
-	
-	<FeedPatient.reportString>Füttert TargetB mit TargetA.</FeedPatient.reportString>
-	
-	<TreatPatient.reportString>Versorgt TargetA.</TreatPatient.reportString>
-	
-	<PlaceNoCostFrame.reportString>Baut TargetA.</PlaceNoCostFrame.reportString>
-	
-	<DoBill.reportString>Macht Aufgabe am TargetA.</DoBill.reportString>
-	
-	<Clean.reportString>Säubert TargetA.</Clean.reportString>
-	
-	<Research.reportString>Forscht.</Research.reportString>
-	
-	<Hunt.reportString>Jagt TargetA.</Hunt.reportString>
-	
-	<UseCommsConsole.reportString>Funkt.</UseCommsConsole.reportString>
-	
-	<Mine.reportString>Baut TargetA ab.</Mine.reportString>
-	
-	<SmoothFloor.reportString>Glättet Boden.</SmoothFloor.reportString>
-	
-	<Repair.reportString>Repariert TargetA.</Repair.reportString>
-	
-	<FinishFrame.reportString>Baut TargetA.</FinishFrame.reportString>
-	
-	<Sow.reportString>Sät TargetA.</Sow.reportString>
-	
-	<Harvest.reportString>Erntet TargetA.</Harvest.reportString>
-	
-	<CutPlant.reportString>Schneidet TargetA.</CutPlant.reportString>
-	
-	<Deconstruct.reportString>Reißt TargetA ab.</Deconstruct.reportString>
-	
-	<PrisonerFriendlyChat.reportString>Redet mit Gefangenem TargetA.</PrisonerFriendlyChat.reportString>
-	
-	<PrisonerExecution.reportString>Exekutiert TargetA.</PrisonerExecution.reportString>
-	
-	
-	
-	
+
+  <!-- Item hauling -->
+
+  <HaulToCell.reportString>hauling TargetA.</HaulToCell.reportString>
+  <HaulToContainer.reportString>hauling TargetA.</HaulToContainer.reportString>
+
+
+  <!-- Special hauling -->
+
+  <Steal.reportString>stealing TargetA.</Steal.reportString>
+  <Kidnap.reportString>kidnapping TargetA.</Kidnap.reportString>
+
+
+  <!-- Pawn hauling -->
+
+  <Rescue.reportString>rescuing TargetA.</Rescue.reportString>
+  <CarryToCryptosleepCasket.reportString>carrying TargetA to cryptosleep casket.</CarryToCryptosleepCasket.reportString>
+  <Capture.reportString>capturing TargetA.</Capture.reportString>
+  <Arrest.reportString>arresting TargetA.</Arrest.reportString>
+  <ReleasePrisoner.reportString>releasing TargetA.</ReleasePrisoner.reportString>
+  <EscortPrisonerToBed.reportString>escorting prisoner TargetA.</EscortPrisonerToBed.reportString>
+  <TakeWoundedPrisonerToBed.reportString>taking wounded prisoner TargetA.</TakeWoundedPrisonerToBed.reportString>
+  <TakeToBedToOperate.reportString>taking TargetA to bed.</TakeToBedToOperate.reportString>
+
+
+  <!-- Animal handling -->
+
+  <Slaughter.reportString>slaughtering TargetA.</Slaughter.reportString>
+  <Milk.reportString>milking TargetA.</Milk.reportString>
+  <Shear.reportString>shearing TargetA.</Shear.reportString>
+  <Tame.reportString>taming TargetA.</Tame.reportString>
+  <Train.reportString>training TargetA.</Train.reportString>
+
+
+  <!-- Construction and repair -->
+
+  <PlaceNoCostFrame.reportString>building TargetA.</PlaceNoCostFrame.reportString>
+  <FinishFrame.reportString>building TargetA.</FinishFrame.reportString>
+  <Deconstruct.reportString>deconstructing TargetA.</Deconstruct.reportString>
+  <Uninstall.reportString>uninstalling TargetA.</Uninstall.reportString>
+  <Repair.reportString>repairing TargetA.</Repair.reportString>
+  <FixBrokenDownBuilding.reportString>replacing broken components in TargetA.</FixBrokenDownBuilding.reportString>
+  <BuildRoof.reportString>building roof.</BuildRoof.reportString>
+  <RemoveRoof.reportString>removing roof.</RemoveRoof.reportString>
+
+
+  <!-- Medical -->
+
+  <FeedPatient.reportString>feeding TargetA to TargetB.</FeedPatient.reportString>
+  <TendPatient.reportString>tending to TargetA.</TendPatient.reportString>
+
+
+  <!-- Misc -->
+
+  <DeliverFood.reportString>feeding TargetA to TargetB.</DeliverFood.reportString>
+  <DoBill.reportString>doing bill at TargetA.</DoBill.reportString>
+  <OperateDeepDrill.reportString>drilling at TargetA.</OperateDeepDrill.reportString>
+  <Clean.reportString>cleaning TargetA.</Clean.reportString>
+  <Research.reportString>researching.</Research.reportString>
+  <Hunt.reportString>hunting TargetA.</Hunt.reportString>
+  <UseCommsConsole.reportString>using comms console.</UseCommsConsole.reportString>
+  <Mine.reportString>digging at TargetA.</Mine.reportString>
+  <SmoothFloor.reportString>smoothing floor.</SmoothFloor.reportString>
+  <RemoveFloor.reportString>removing floor.</RemoveFloor.reportString>
+  <Sow.reportString>sowing TargetA.</Sow.reportString>
+  <Harvest.reportString>harvesting TargetA.</Harvest.reportString>
+  <CutPlant.reportString>cutting TargetA.</CutPlant.reportString>
+  <PrisonerFriendlyChat.reportString>chatting with prisoner TargetA.</PrisonerFriendlyChat.reportString>
+  <PrisonerAttemptRecruit.reportString>attempting to recruit TargetA.</PrisonerAttemptRecruit.reportString>
+  <PrisonerExecution.reportString>executing TargetA.</PrisonerExecution.reportString>
+  <BuryCorpse.reportString>burying TargetA.</BuryCorpse.reportString>
+
+
 </LanguageData>

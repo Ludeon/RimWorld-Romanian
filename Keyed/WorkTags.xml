@@ -1,21 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WorkTagNone>Nimic</WorkTagNone>
-  <WorkTagIntellectual>Muncă intelectuală</WorkTagIntellectual>
-  <WorkTagManualDumb>Muncă fizică</WorkTagManualDumb>
-  <WorkTagManualSkilled>Muncă calificată</WorkTagManualSkilled>
-  <WorkTagViolent>Violență</WorkTagViolent>
-  <WorkTagCaring>Îngrijit</WorkTagCaring>
-  <WorkTagSocial>Socializare</WorkTagSocial>
-  <WorkTagScary>Înfricoșător</WorkTagScary>
-  <WorkTagArtistic>Artă</WorkTagArtistic>
-  <WorkTagCrafting>Meșteșugărit</WorkTagCrafting>
-  <WorkTagCooking>Gătit</WorkTagCooking>
-  <WorkTagFirefighting>Pompier</WorkTagFirefighting>
-  <WorkTagCleaning>Curățat</WorkTagCleaning>
-  <WorkTagHauling>Cărăuș</WorkTagHauling>
-  <WorkTagPlantWork>Grădinărit</WorkTagPlantWork>
-  <WorkTagMining>Miner</WorkTagMining>
+  <WorkTagNone>None</WorkTagNone>
+  <WorkTagIntellectual>Intellectual</WorkTagIntellectual>
+  <WorkTagManualDumb>Dumb labor</WorkTagManualDumb>
+  <WorkTagManualSkilled>Skilled labor</WorkTagManualSkilled>
+  <WorkTagViolent>Violent</WorkTagViolent>
+  <WorkTagCaring>Caring</WorkTagCaring>
+  <WorkTagSocial>Social</WorkTagSocial>
+  <WorkTagScary>Scary</WorkTagScary>
+  <WorkTagAnimals>Animals</WorkTagAnimals>
+  <WorkTagArtistic>Artistic</WorkTagArtistic>
+  <WorkTagCrafting>Crafting</WorkTagCrafting>
+  <WorkTagCooking>Cooking</WorkTagCooking>
+  <WorkTagFirefighting>Firefighting</WorkTagFirefighting>
+  <WorkTagCleaning>Cleaning</WorkTagCleaning>
+  <WorkTagHauling>Hauling</WorkTagHauling>
+  <WorkTagPlantWork>Plant work</WorkTagPlantWork>
+  <WorkTagMining>Mining</WorkTagMining>
 
 </LanguageData>

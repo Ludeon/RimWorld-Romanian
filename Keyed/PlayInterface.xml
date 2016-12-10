@@ -1,15 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Overview>Vedere de ansamblu</Overview>
-  <OverviewTip>Statistici și priorități de muncă.</OverviewTip>
-  <ResearchTip>Proiecte de cercetare.</ResearchTip>
   <Wiki>Wiki</Wiki>
-  <WikiTip>Deschide un browser de internet pentru ajutor de joc.</WikiTip>
-  <Menu>Meniu</Menu>
-  <MenuTip>Salvează, încarcă, închide sau modifică opțiunile jocului.</MenuTip>
-
-  <Architect>Arhitect</Architect>
-
+  <WikiTip>Opens Web browser to see the RimWorld wiki and get help playing.</WikiTip>
+  <Menu>Menu</Menu>
 
 </LanguageData>

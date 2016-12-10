@@ -1,20 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
-	<Deterioration.label>Deteriorare</Deterioration.label>
-	
-	<Mining.label>Exploatare</Mining.label>
-	
-	<Rotting.label>Putrezește</Rotting.label>
-	
-	<Extinguish.label>Stinge</Extinguish.label>
-	
+
+  <Deterioration.label>deterioration</Deterioration.label>
+  <Mining.label>mining</Mining.label>
+  <Rotting.label>rotting</Rotting.label>
+  <Extinguish.label>extinguish</Extinguish.label>
+
+
   <!-- Stun -->
-  
-	<Stun.label>Anesteziat</Stun.label>
-	<Stun.deathMessage>{0} a murit în urma anestezierii.</Stun.deathMessage>
-	
-	<EMP.label>EMP</EMP.label>
-	<EMP.deathMessage>{0} a fost ucis de un dispozitiv EMP.</EMP.deathMessage>
-	
+
+  <Stun.label>stun</Stun.label>
+  <Stun.deathMessage>{0} has been stunned to death.</Stun.deathMessage>
+
+  <EMP.label>EMP</EMP.label>
+  <EMP.deathMessage>{0} has been EMPed to death.</EMP.deathMessage>
+
+
 </LanguageData>

@@ -1,24 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-	<PowerConduit.label>Stromkabel</PowerConduit.label>
-	<PowerConduit.description>Leitet Strom zu den Verbrauchern. Kann unter Wänden und anderen Gegenständen verlegt werden.</PowerConduit.description>
-	
-	<PowerSwitch.label>Schalter</PowerSwitch.label>
-	<PowerSwitch.description>Schaltet Strom ein/aus.</PowerSwitch.description>
-	
-	<SolarGenerator.label>Solaranlage</SolarGenerator.label>
-	<SolarGenerator.description>Produziert Strom aus Sonnenlicht. Im Dunkeln ohne Funktion.</SolarGenerator.description>
-	
-	<GeothermalGenerator.label>Geothermie Generator</GeothermalGenerator.label>
-	<GeothermalGenerator.description>Produziert Strom mit Hilfe eines Dampfgeysires. Muss auf einem Geysir plaziert werden.</GeothermalGenerator.description>
 
-	<Battery.label>Batterie</Battery.label>
-	<Battery.description>Speichert Strom, wenn ein Überschuss besteht und gibt ihn wieder ab, wenn er fehlt. Warnung - geladene Batterien können explodieren, wenn sie nass oder heiß werden.</Battery.description>
+  <PowerConduit.label>power conduit</PowerConduit.label>
+  <PowerConduit.description>A set of electrical cables for moving power around. Can be placed under walls and other buildings.</PowerConduit.description>
 
-	<!--
-	<CapsuleReactor.label>Kapsel Reaktor</CapsuleReactor.label>
-	<CapsuleReactor.description>Ein tragbarer High-Tech Reaktor. Er ist eine stetige Stromquelle, die unabhängig von äußeren Einflüssen ist.</CapsuleReactor.description>
-	-->
+  <PowerSwitch.label>power switch</PowerSwitch.label>
+  <PowerSwitch.description>Switches power on/off.</PowerSwitch.description>
+
+  <FueledGenerator.label>fueled generator</FueledGenerator.label>
+  <FueledGenerator.description>Produces power by consuming wood fuel. Must be fueled by hand.</FueledGenerator.description>
+
+  <Battery.label>battery</Battery.label>
+  <Battery.description>Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when heated or wet.</Battery.description>
+
+  <SolarGenerator.label>solar generator</SolarGenerator.label>
+  <SolarGenerator.description>Produces electricity from sunlight. Does not work in the dark.</SolarGenerator.description>
+
+  <GeothermalGenerator.label>geothermal generator</GeothermalGenerator.label>
+  <GeothermalGenerator.description>Produces electricity from geothermal steam geysers. Must be placed on a geyser.</GeothermalGenerator.description>
+
 
 </LanguageData>

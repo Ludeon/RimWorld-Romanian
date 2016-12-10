@@ -1,103 +1,124 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <CallOnRadio>Call {0}</CallOnRadio>
+  <CannotUseReason>Cannot use ({0})</CannotUseReason>
+  <CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
+  <CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
+  <CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
+  <CannotUseReserved>Cannot use (reserved)</CannotUseReserved>
+  <CannotUseFull>Cannot use (full)</CannotUseFull>
 
-  
-	<CallOnRadio>Contactează {0}</CallOnRadio>
-	<CannotUseSolarFlare>Imposibil de utilizat (erupție solară)</CannotUseSolarFlare>
-	<CannotUseNoPower>Imposibil de utilizat (nealimentat)</CannotUseNoPower>
-	<CannotUseNoPath>Imposibil de utilizat (nu poate fi ajuns)</CannotUseNoPath>
-  <CannotUseReserved>Imposibil de utilizat (rezervat)</CannotUseReserved>
-  <CannotUseFull>Imposibil de utilizat (plin)</CannotUseFull>
-  
-  <FireAt>Trage în {0}</FireAt>
+  <FireAt>Fire at {0}</FireAt>
 
-  <OutOfRange>în afara razei de acțiune</OutOfRange>
-  <CannotHitTarget>nu se poate nimeri ținta</CannotHitTarget>
-  <CannotFight>{0} nu poate lupta</CannotFight>
+  <OutOfRange>out of range</OutOfRange>
+  <CannotHitTarget>cannot hit target</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
 
-  <OrderManThing>Om {0}</OrderManThing>
-  
-  <MeleeAttack>Atacă în meleu {0}</MeleeAttack>
-  <MeleeAttackToDeath>Atacă {0} în meleu până la moarte</MeleeAttackToDeath>
-  <NoPath>nu poate fi ajuns</NoPath>
+  <OrderManThing>Man {0}</OrderManThing>
 
-	<ForbiddenLower>Interzis</ForbiddenLower>
-	<SociallyImproperLower>inadecvat social</SociallyImproperLower>
-  <PrisonerRoomLower>cameră pentru prizonier</PrisonerRoomLower>
-	<BurningLower>arde</BurningLower>
-	<NoEmptyPlaceLower>nu există un spațiu gol în care poate fi depozitat</NoEmptyPlaceLower>
-	<AlreadyFilledLower>deja suficient de plin</AlreadyFilledLower>
-	<MissingMaterials>este nevoie de materiale</MissingMaterials>
-	
-	
-  <CannotGoNoPath>Nu se poate merge acolo (nu poate fi ajuns)</CannotGoNoPath>
-  <GoHere>Du-te aici</GoHere>
-  
-  <Arrest>Arestează-l pe {0}</Arrest>
-  <CannotArrest>Nu poate fi arestat</CannotArrest>
+  <MeleeAttack>Melee attack {0}</MeleeAttack>
+  <MeleeAttackToDeath>Melee attack {0} to death</MeleeAttackToDeath>
+  <NoPath>no path</NoPath>
 
-  <Capture>Capturează-l pe {0}</Capture>
-  <CannotCapture>Nu poate fi capturat</CannotCapture>
+  <ForbiddenLower>forbidden</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
+  <SociallyImproperLower>socially improper</SociallyImproperLower>
+  <PrisonerRoomLower>prisoner room</PrisonerRoomLower>
+  <BurningLower>burning</BurningLower>
+  <NoEmptyPlaceLower>no empty place configured to store it</NoEmptyPlaceLower>
+  <AlreadyFilledLower>already filled enough</AlreadyFilledLower>
+  <MissingMaterials>need materials</MissingMaterials>
+  <MissingSkill>skill too low</MissingSkill>
+  <NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
+  <NoUsableFood>no usable food</NoUsableFood>
+  <NoFood>no food</NoFood>
+  <AnimalsSkillTooLow>Animals skill too low</AnimalsSkillTooLow>
+  <NoComponentsToRepair>need components</NoComponentsToRepair>
+  <NoFuelToRefuel>need {0}</NoFuelToRefuel>
+  <NoWort>need wort</NoWort>
 
-  <Rescue>Salvează-l pe {0}</Rescue>
-  <CannotRescue>Nu poate fi salvat</CannotRescue>
+  <ConsumeThing>Consume {0}</ConsumeThing>
 
-  <CarryToCryptosleepCasket>Transportă-l pe {0} în camera de crypto-somn</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>Nu poate fi transportat în camera de crypto-somn</CannotCarryToCryptosleepCasket>
+  <CannotGoNoPath>Cannot go here (no path)</CannotGoNoPath>
+  <GoHere>Go here</GoHere>
 
-  <NoCryptosleepCasket>Nu există o cameră de crypto-somn disponibilă.</NoCryptosleepCasket>
-  <NoPrisonerBed>Nu este disponibil un pat izolat pentru prizonieri .</NoPrisonerBed>
-  <NoNonPrisonerBed>Nu este disponibil un pat utilizabil.</NoNonPrisonerBed>
-  <Reserved>Rezervat de altcineva.</Reserved>
-  <ReservedBy>Rezervat de {0}</ReservedBy>
-  <IsReservedBy>{0} este rezervat de {1}.</IsReservedBy>
+  <Arrest>Arrest {0}</Arrest>
+  <TryToArrest>Try to arrest {0}</TryToArrest>
+  <CannotArrest>Cannot arrest</CannotArrest>
 
-  <NoManipulationSkill>incapabil</NoManipulationSkill>
+  <Capture>Capture {0}</Capture>
+  <CannotCapture>Cannot capture</CannotCapture>
 
-  <Equip>Echipează {0}</Equip>
-  <EquipWarningBrawler>(bătăușul va fi nefericit)</EquipWarningBrawler>
-  <CannotEquip>Nu se poate echipa {0}</CannotEquip>
-  
-  <Wear>Îmbracă {0}</Wear>
-  <CannotWear>Nu se poate îmbrăca {0}</CannotWear>
-  
-  <Strip>Dezbracă {0}</Strip>
-  <CannotStrip>Nu se poate dezbrăca {0}</CannotStrip>
+  <Rescue>Rescue {0}</Rescue>
+  <CannotRescue>Cannot rescue</CannotRescue>
 
-  <Deposit>Depozitează {0} în {1}</Deposit>
-  <CannotDeposit>Nu se poate depozita {0} în {1}</CannotDeposit>
+  <CarryToCryptosleepCasket>Carry {0} to cryptosleep casket</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
 
-  <SelfDestructHere>Auto-distruge aici</SelfDestructHere>
-  
-  <Drop>Lasă {0}</Drop>
-  
-  <UseMedicalBed>Odihnă până la vindecare</UseMedicalBed>
-  <NotInjured>Nu este rănit</NotInjured>
-  <SomeoneElseSleeping>Ocupat</SomeoneElseSleeping>
+  <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
+  <NoPrisonerBed>No reachable, un-reserved, enclosed prisoner-marked bed.</NoPrisonerBed>
+  <NoNonPrisonerBed>No reachable, un-reserved non-prisoner bed.</NoNonPrisonerBed>
+  <NoAnimalBed>No reachable, un-reserved animal bed.</NoAnimalBed>
+  <Reserved>Reserved by someone else.</Reserved>
+  <ReservedBy>Reserved by {0}</ReservedBy>
+  <IsReservedBy>{0} is reserved by {1}.</IsReservedBy>
+
+  <Incapable>incapable</Incapable>
+  <IncapableOfCapacity>incapable of {0}</IncapableOfCapacity>
+
+  <MinSkill>min skill</MinSkill>
+
+  <Equip>Equip {0}</Equip>
+  <EquipWarningBrawler>(brawler will be unhappy)</EquipWarningBrawler>
+  <CannotEquip>Cannot equip {0}</CannotEquip>
+
+  <ForceWear>Force wear {0}</ForceWear>
+  <CannotWear>Cannot wear {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
+
+  <Strip>Strip {0}</Strip>
+  <CannotStrip>Cannot strip {0}</CannotStrip>
+
+  <Deposit>Deposit {0} in {1}</Deposit>
+  <CannotDeposit>Cannot deposit {0} in {1}</CannotDeposit>
+
+  <SelfDestructHere>Self-destruct here</SelfDestructHere>
+
+  <Drop>Drop {0}</Drop>
+
+  <UseMedicalBed>Rest until healed</UseMedicalBed>
+  <NotInjured>Not injured</NotInjured>
+  <SomeoneElseSleeping>Occupied</SomeoneElseSleeping>
+
+  <TradeWith>Trade with {0}</TradeWith>
+  <CannotTrade>Cannot trade</CannotTrade>
 
   <!-- Specific thing interactions -->
-  <EnterCryptosleepCasket>Folosește camera de crypto-somn</EnterCryptosleepCasket>
-  <OpenCryptosleepCasket>Deschide camera de crypto-somn</OpenCryptosleepCasket>
-
-
+  <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-  <CannotGenericWork>Nu se poate {0} {1}</CannotGenericWork>
+  <CannotGenericWork>Cannot {0} {1}</CannotGenericWork>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotMissingHealthActivities>Nu se poate prioritiza (Problemă de sănătate: {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Cannot prioritize (incapable of {0})</CannotMissingHealthActivities>
 
-  <CannotGenericAlreadyAm>Deja se {0} {1}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Already {0} {1}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeIsNotA>Nu se poate prioritiza ({0} nu este {1})</CannotPrioritizeIsNotA>
+  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
 
-  <CannotPrioritizeResearch>Nu se poate prioritiza (cercetarea este o sarcină pe termen lung)</CannotPrioritizeResearch>
+  <CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
 
-  <CannotPrioritizeForbidden>Nu se poate prioritiza ({0} este interzis)</CannotPrioritizeForbidden>
-  
-  
+  <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Cannot prioritize ({0} is forbidden)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
+
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-  <PrioritizeGeneric>Prioritizează {0} {1}</PrioritizeGeneric>
-  
+  <PrioritizeGeneric>Prioritize {0} {1}</PrioritizeGeneric>
+
 </LanguageData>

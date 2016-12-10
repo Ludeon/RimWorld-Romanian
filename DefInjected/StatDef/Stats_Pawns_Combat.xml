@@ -1,13 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
-	<MeleeHitChance.label>Nahkampf Trefferwahrscheinlichkeit</MeleeHitChance.label>
-	<MeleeHitChance.description>Die Basiswahrscheinlichkeit, ein Ziel im Nahkampf zu treffen.</MeleeHitChance.description>
-	
-	<ShootingAccuracy.label>Fernkampf Treffgenauigkeit</ShootingAccuracy.label>
-	<ShootingAccuracy.description>Die Basiswahrscheinlichkeit, pro Quadrat Entfernung ein Ziel nicht zu verfehlen.</ShootingAccuracy.description>
-	
-	<AimingDelayFactor.label>Fernkampf Anvisierungsverzögerungsfaktor</AimingDelayFactor.label>
-	<AimingDelayFactor.description>Wie lange das Zielen dauert, bevor geschossen wird.</AimingDelayFactor.description>
-	
+
+  <MeleeDPS.label>melee DPS</MeleeDPS.label>
+  <MeleeDPS.description>Average damage per second in melee combat.</MeleeDPS.description>
+
+  <ShootingAccuracy.label>shooting accuracy</ShootingAccuracy.label>
+  <ShootingAccuracy.description>Base chance to not miss per square of shot distance.</ShootingAccuracy.description>
+
+  <AimingDelayFactor.label>aiming time</AimingDelayFactor.label>
+  <AimingDelayFactor.description>How long it takes to strike after aiming.</AimingDelayFactor.description>
+
+  <MeleeHitChance.label>melee hit chance</MeleeHitChance.label>
+  <MeleeHitChance.description>Base chance to hit a target in melee.</MeleeHitChance.description>
+
+
 </LanguageData>

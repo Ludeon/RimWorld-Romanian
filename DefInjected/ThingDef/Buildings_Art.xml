@@ -1,16 +1,22 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-	<SculptureSmall.label>kleine Skulptur</SculptureSmall.label>
-	<SculptureSmall.description>Ein büstengroßes Stück eines Materials, das zu einem Kunstwerk geformt wurde.</SculptureSmall.description>
-	
-	<SculptureLarge.label>große Skulptur</SculptureLarge.label>
-	<SculptureLarge.description>Ein menschengroßes Stück eines Materials, das zu einem Kunstwerk geformt wurde.</SculptureLarge.description>
-	
-	<SculptureGrand.label>gewaltige Skulptur</SculptureGrand.label>
-	<SculptureGrand.description>Ein fahrzeuggroßes Stück eines Materials, das zu einem Kunstwerk geformt wurde.</SculptureGrand.description>
-	
-	<Snowman.label>Schneemann</Snowman.label>
-	<Snowman.description>Zwei bis drei aufeinander gestellte Schneekugeln wurden so geformt, dass sie eine Person darstellen.</Snowman.description>
-  
+
+  <!-- Sculptures -->
+
+  <SculptureSmall.label>small sculpture</SculptureSmall.label>
+  <SculptureSmall.description>A torso-sized piece of material sculpted into an artistic form.</SculptureSmall.description>
+
+  <SculptureLarge.label>large sculpture</SculptureLarge.label>
+  <SculptureLarge.description>A person-sized piece of material sculpted into an artistic form.</SculptureLarge.description>
+
+  <SculptureGrand.label>grand sculpture</SculptureGrand.label>
+  <SculptureGrand.description>A car-sized piece of material sculpted into an artistic form.</SculptureGrand.description>
+
+
+  <!-- Snowman -->
+
+  <Snowman.label>snowman</Snowman.label>
+  <Snowman.description>A set of large snowballs piled and shaped to resemble a person.</Snowman.description>
+
+
 </LanguageData>

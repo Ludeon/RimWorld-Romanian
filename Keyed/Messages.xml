@@ -1,62 +1,138 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
- 
-  <MessageSiegersAssaulting>Asediatorii {0} din {1} atacă colonia.</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>Sieging {0} from {1} are assaulting the colony.</MessageSiegersAssaulting>
 
-  <MessageRaidersBeginningAssault>{0} din {1} își încep atacul.</MessageRaidersBeginningAssault>
-  <MessageRaidersDetectedEarlyAssault>{0} din {1} vă asediază și își încep atacul imediat.</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>{0} din {1} au decis să răpească pe cine pot si să se retragă.</MessageRaidersKidnapping>
+  <MessageRaidersBeginningAssault>{0} from {1} are beginning their assault.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} from {1} have detected you and begun their assault early.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} from {1} have decided to kidnap who they can and leave.</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{0} from {1} have decided to steal what they can and leave.</MessageRaidersStealing>
 
-  <MessageRaidersLeaving>{0} din {1} pleacă.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0} din {1} au renunțat la asediu și se retrag.</MessageRaidersGivenUpLeaving>
-  <MessageRaidersSatisfiedLeaving>{0} din {1} sunt satisfăcuți de asalt și au decis să plece.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersLeaving>{0} from {1} are leaving.</MessageRaidersLeaving>
+  <MessageRaidersGivenUpLeaving>{0} from {1} have given up and are leaving.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} from {1} are satisfied with the damage done and are leaving.</MessageRaidersSatisfiedLeaving>
 
-  
-  <MessageFightersFleeing>{0} din {1} au început să fugă.</MessageFightersFleeing>
-  <MessageFriendlyFightersLeaving>Aliații {0} din {1} vor pleca regiunea.</MessageFriendlyFightersLeaving>
+  <MessageFightersFleeing>{0} from {1} are fleeing.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Friendly {0} from {1} are leaving.</MessageFriendlyFightersLeaving>
 
-  <MessageSeasonBegun>{0} a început.</MessageSeasonBegun>
+  <MessageVisitorsTakingWounded>{0} from {1} are taking a wounded guest.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{0} from {1} have been trapped and are digging out to escape.</MessageVisitorsTrappedLeaving>
 
-  <MessageShipHasLeftCommsRange>{0} a părăsit raza de comunicare.</MessageShipHasLeftCommsRange>
-	
-	<MessageNeedBeaconToTradeWithShip>Este nevoie de o stație de comerț orbitală pentru a face comerț.</MessageNeedBeaconToTradeWithShip>
-	
-  <MessageBillComplete>Sarcină îndeplinită: {0}.</MessageBillComplete>
-  
-  <MessageFullyHealed>{0} s-a vindecat complet.</MessageFullyHealed>
+  <MessageWornApparelDeterioratedAway>{0} worn by {1} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
 
-  <MessagePrisonerIsEscaping>Prizonierul {0} încearcă să scape.</MessagePrisonerIsEscaping>
+  <MessageSeasonBegun>{0} has begun.</MessageSeasonBegun>
 
-  <MessageRecruitSuccess>{0} l-a recrutat cu succes pe {1} ({2} șansă).</MessageRecruitSuccess>
-	<MessageRecruitFail>{0} nu l-a recrutat cu succes pe {1} ({2} șansă).</MessageRecruitFail>
-	<MessageRecruitFailBecauseLoyalty>{0} nu l-a recrutat cu succes pe {1} (Prizonierul nu se simte suficient de bine).</MessageRecruitFailBecauseLoyalty>
-	
-  <MessagePoorlyTreated>{1} l-a îngrijit pe {0} (calitate proastă, {2} șansă de calitate bună).</MessagePoorlyTreated>
-  <MessageWellTreated>{1} treated {0} (calitate bună, {2} șansă de calitate bună).</MessageWellTreated>
-	
-  <MessageTraderCannotAfford>Comerciantul nu are suficiente resurse pentru această ofertă.</MessageTraderCannotAfford>
-  <MessageColonyCannotAfford>Colonia nu are suficiente resurse pentru această tranzacție.</MessageColonyCannotAfford>
-  <MessageColonyNotEnoughSilver>Nu există suficient argint pentru a fi tranzacționat.</MessageColonyNotEnoughSilver>
-  <MessageTraderNotEnoughSilver>Comerciantul nu are suficient argint.</MessageTraderNotEnoughSilver>
+  <MessageShipHasLeftCommsRange>{0} has left comms range.</MessageShipHasLeftCommsRange>
 
-  <MessageCriticalAlert>Alertă critică: {0}</MessageCriticalAlert>
+  <MessageNeedBeaconToTradeWithShip>You need an orbital trade beacon to trade with a ship.\n\nThe beacon needs to be powered.</MessageNeedBeaconToTradeWithShip>
 
-  <MessageMustDesignateHarvestable>Trebuie desemnate plante suficient de dezvoltate.</MessageMustDesignateHarvestable>
-  <MessageMustDesignateHarvestableWood>Trebuie desemnate plante lemnoase, suficient de dezvoltate.</MessageMustDesignateHarvestableWood>
-  <MessageMustDesignatePlants>Trebuie desemnate plante.</MessageMustDesignatePlants>
-  <MessageMustDesignateHaulable>Trebuie desemnate lucruri ce pot fi depozitate.</MessageMustDesignateHaulable>
-  <MessageMustDesignateMineable>Trebuie desemnate roci ce pot fi exploatate.</MessageMustDesignateMineable>
-  <MessageMustDesignateHuntable>Trebuie desemnate animale ce pot fi vânate.</MessageMustDesignateHuntable>
-  <MessageMustDesignateClaimable>Trebuie desemnate structuri artificiale abandonate.</MessageMustDesignateClaimable>
-  <MessageMustDesignateSmoothableFloor>Trebuie desemnată o zonă denivelată.</MessageMustDesignateSmoothableFloor>
-  
-  
-  <MessageNoMedicalBeds>Nu există paturi medicale disponibile.</MessageNoMedicalBeds>
-  
-  <PawnDiedBecauseOf>{0} a murit din cauza {1}.</PawnDiedBecauseOf>
+  <MessageBillComplete>Bill complete: {0}.</MessageBillComplete>
 
-  <MessageNoLongerDowned>{0} nu mai este capabil să meargă.</MessageNoLongerDowned>
-  
-  
+  <MessageFullyHealed>{0} is fully healed.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>Prisoner {0} is escaping.</MessagePrisonerIsEscaping>
+
+  <MessageOutOfNearbyShellsFor>{0} found no nearby unreserved shells for {1}.</MessageOutOfNearbyShellsFor>
+
+  <MessageAnimalsGoPsychoHunted>Warning: {0}s will often attack when harmed.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Warning: {0}s may attack upon a failed taming attempt ({1} chance).</MessageAnimalManhuntsOnTameFailed>
+
+  <LetterLabelMessageRecruitSuccess>New recruit</LetterLabelMessageRecruitSuccess>
+  <MessageRecruitSuccess>{0} successfully recruited {1} ({2} chance).</MessageRecruitSuccess>
+  <MessageTameSuccess>{0} successfully tamed {1} ({2} chance).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{0} successfully tamed {1} ({2} chance) and named HIM {3}.</MessageTameAndNameSuccess>
+
+  <MessageColonyCannotAfford>The colony cannot afford this deal.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>You do not have enough silver ready to trade.</MessageColonyNotEnoughSilver>
+
+  <MessageCriticalAlert>Critical alert: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestable>Must designate harvestable sufficiently-grown plants.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Must designate wood-yielding, sufficiently-grown plants.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Must designate plants.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Must designate haulable items. Some items are always haulable and can't be designated.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>Must designate impassable mineable rocks.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Must designate huntable animals.</MessageMustDesignateHuntable>
+  <MessageMustDesignateTameable>Must designate tameable animals.</MessageMustDesignateTameable>
+  <MessageMustDesignateClaimable>Must designate abandoned artificial structures.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>Must designate rough stone terrain.</MessageMustDesignateSmoothableFloor>
+  <MessageNothingCanRemoveThickRoofs>Nothing can remove thick roofs.</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>This is already in storage and will be moved to high-priority storage as necessary.</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>Must designate corpse or downed character with strippable apparel.</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>Must designate tame animal that belongs to the colony.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>Must designate full graves or containers.</MessageMustDesignateOpenable>
+
+  <MessageRefusedArrest>{0} has refused to be arrested!</MessageRefusedArrest>
+
+  <MessageNoMedicalBeds>There are no medical beds available.</MessageNoMedicalBeds>
+  <MessageNoAnimalBeds>There are no animal beds available.</MessageNoAnimalBeds>
+  <MessageTooLowMedCare>Operation requires {0} or better, but {1}'s current medical care mode is "{2}".</MessageTooLowMedCare>
+
+  <PawnDiedBecauseOf>{0} has died because of {1}.</PawnDiedBecauseOf>
+
+  <MessageNoLongerDowned>{0} is no longer incapable of walking.</MessageNoLongerDowned>
+
+  <MessageInvoluntarySleep>{0} has collapsed due to extreme exhaustion.</MessageInvoluntarySleep>
+
+  <MessageMedicalOperationFailureCatastrophic>{0} has failed catastrophically while operating on {1}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureMinor>{0} has failed in a minor way while operating on {1}.</MessageMedicalOperationFailureMinor>
+
+  <MessageMedicalOperationWillAngerFaction>This operation will anger {0}.</MessageMedicalOperationWillAngerFaction>
+
+  <MessagePawnExitMapRelationsGain>Because {0} exited the map healthy, relations with {1} have improved by {2}.</MessagePawnExitMapRelationsGain>
+
+  <MessageMiscarriedStarvation>{0} has miscarried due to starvation.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} has miscarried due to poor health.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} has given birth.</MessageGaveBirth>
+
+  <MessageNuzzledPawnGaveNameTo>{0} has named {1} {2} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
+
+  <MessageNoHandlerSkilledEnough>No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}).</MessageNoHandlerSkilledEnough>
+
+  <MessageEatenByPredator>{0} has been eaten by {1}.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{0} is being attacked by {1}!</MessageAttackedByPredator>
+
+  <MessageHiveReproduced>A bug hive has reproduced itself.</MessageHiveReproduced>
+
+  <MessageTraderCaravanLeaving>The trade caravan from {0} is leaving.</MessageTraderCaravanLeaving>
+
+  <MessageCantSelectDeadPawn>{0} is dead.</MessageCantSelectDeadPawn>
+  <MessageCantSelectOffMapPawn>{0} is off the map.</MessageCantSelectOffMapPawn>
+
+  <MessageSocialFight>{0} started a social fight with {1}. Reason: {2}.</MessageSocialFight>
+
+  <MessageNewMarriageCeremony>Colonists are gathering to celebrate {0} and {1}’s marriage.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{0} and {1} are beginning their marriage ceremony!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>The marriage ceremony for {0} and {1} has been called off.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{0} and {1} have married. Colonists are now celebrating the occasion.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>The marriage ceremony for {0} and {1} has finished.</MessageMarriageCeremonyAfterPartyFinished>
+
+  <MessageNewBondRelation>{0} and {1} have formed a bond.</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{0} and {1} have formed a bond. {0} has named HIM {2}.</MessageNewBondRelationNewName>
+
+  <MessageBondedAnimalMentalBreak>{0} has a mental break because of {1}'s death.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{0} named {1} has a mental break because of {2}'s death.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} animals have a mental break because of {1}'s death.</MessageBondedAnimalsMentalBreak>
+
+  <MessageSuccessfullyRemovedHediff>{0} has successfully removed {1}'s {2}.</MessageSuccessfullyRemovedHediff>
+
+  <MessageShipChunkDrop>A chunk of a spacecraft has fallen from space and landed nearby.</MessageShipChunkDrop>
+
+  <MessagePartyCalledOff>The party has been called off.</MessagePartyCalledOff>
+  <MessagePartyFinished>The party has finished.</MessagePartyFinished>
+
+  <MessageCannotSellItemsReason>Some items cannot be traded because of: </MessageCannotSellItemsReason>
+
+  <MessageConstructionFailed>{1} failed while constructing {0}. Some resources have been wasted.</MessageConstructionFailed>
+
+  <MessageScreenshotSavedAs>Screenshot saved as: {0}</MessageScreenshotSavedAs>
+
+  <MessageNoLongerSocialFighting>{0} and {1} are no longer social fighting.</MessageNoLongerSocialFighting>
+
+  <MessageNoLongerBingingOnDrug>{0} is no longer binging on {1}.</MessageNoLongerBingingOnDrug>
+
+  <MessageRottedAwayInStorage>{0} has rotted away in storage.</MessageRottedAwayInStorage>
+
+  <MessageFoodPoisoning>{0} has gotten food poisoning from: {1}.</MessageFoodPoisoning>
+
 </LanguageData>

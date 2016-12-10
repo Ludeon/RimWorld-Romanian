@@ -1,14 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-	<FilthBlood.label>Blut</FilthBlood.label>
-	<FilthSlime.label>Schleim</FilthSlime.label>
-	<FilthDirt.label>Dreck</FilthDirt.label>
-	<FilthSand.label>Sand</FilthSand.label>
-	<RockRubble.label>Geröll</RockRubble.label>
-	<BuildingRubble.label>Schutt</BuildingRubble.label>
-	<SandbagRubble.label>Zerstörte Sandsäcke</SandbagRubble.label>
-	
-	
+
+  <FilthDirt.label>dirt</FilthDirt.label>
+  <FilthAnimalFilth.label>animal filth</FilthAnimalFilth.label>
+  <FilthSand.label>sand</FilthSand.label>
+  <RockRubble.label>rock rubble</RockRubble.label>
+  <BuildingRubble.label>building rubble</BuildingRubble.label>
+  <SandbagRubble.label>scattered sandbags</SandbagRubble.label>
+
+
+  <!-- Fluids etc -->
+
+  <FilthBlood.label>blood</FilthBlood.label>
+  <FilthBloodInsect.label>bugblood</FilthBloodInsect.label>
+  <FilthAmnioticFluid.label>amniotic fluid</FilthAmnioticFluid.label>
+  <FilthSlime.label>slime</FilthSlime.label>
+  <FilthVomit.label>vomit</FilthVomit.label>
+  <FilthFireFoam.label>firefoam</FilthFireFoam.label>
+
+  <FilthFuel.label>fuel puddle</FilthFuel.label>
+  <FilthFuel.description>Burns on the ground.</FilthFuel.description>
+
 
 </LanguageData>

@@ -1,90 +1,122 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
-  <TabBills>Sarcini</TabBills>
-  <TabGrowing>Creștere</TabGrowing>
-  <TabCharacter>Caracter</TabCharacter>
-  <TabPrisoner>Prizonier</TabPrisoner>
-  <TabGear>Inventar</TabGear>
-  <TabThoughts>Psihic</TabThoughts>
-  <TabStorage>Depozit</TabStorage>
-  <TabHealth>Sănătate</TabHealth>
-  <TabRace>Rasă</TabRace>
-  <TabBasics>Elementar</TabBasics>
-  <TabStats>Date</TabStats>
+  <TabBills>Bills</TabBills>
+  <TabGrowing>Growing</TabGrowing>
+  <TabCharacter>Character</TabCharacter>
+  <TabTraining>Training</TabTraining>
+  <TabPrisoner>Prisoner</TabPrisoner>
+  <TabGuest>Guest</TabGuest>
+  <TabGear>Gear</TabGear>
+  <TabNeeds>Needs</TabNeeds>
+  <TabStorage>Storage</TabStorage>
+  <TabHealth>Health</TabHealth>
+  <TabRace>Race</TabRace>
+  <TabBasics>Basics</TabBasics>
+  <TabStats>Stats</TabStats>
+  <TabRecords>Records</TabRecords>
+  <TabArt>Art</TabArt>
+  <TabSocial>Social</TabSocial>
 
-  
+
   <!-- Bills tab  -->
-  <AddBill>Adaugă sarcină</AddBill>
-  <RecipeRequiresSkills>Sarcina {0} necesită abilitățile de mai jos. Nici unul din coloniștii tăi nu dețin aceste abilități, deci sarcina este imposibil de realizat.</RecipeRequiresSkills>
-  <BillConfig>Setări</BillConfig>
-  <SuspendedCaps>SUSPENDAT</SuspendedCaps>
-  <PlantVerb>Plantare</PlantVerb>
+  <AddBill>Add bill</AddBill>
+  <RecipeRequiresSkills>The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill.</RecipeRequiresSkills>
+  <MinimumSkill>Min skill</MinimumSkill>
+  <SuspendedCaps>SUSPENDED</SuspendedCaps>
+  <BoundWorkerIs>Worker: {0}</BoundWorkerIs>
+  <PlantVerb>Plant</PlantVerb>
 
 
-  <!-- Prisoner tab -->
-  <RecruitmentDifficulty>Dificultate de recrutare</RecruitmentDifficulty>
-  <PrisonerGetsFood>Mâncare</PrisonerGetsFood>
-  <DoctorsCare>Îngrijiri medicale</DoctorsCare>
-  <PrisonerGetsMedicine>Medicamente</PrisonerGetsMedicine>
-  <ShouldTryToRecruit>Recrutare</ShouldTryToRecruit>
-  <PrisonerNoInteraction>Izolare</PrisonerNoInteraction>
-  <PrisonerFriendlyChat>Conversație amicală</PrisonerFriendlyChat>
-  <PrisonerRelease>Eliberare</PrisonerRelease>
-  <PrisonerExecution>Executare</PrisonerExecution>
+  <!-- Guest/prisoner tab -->
+  <RecruitmentDifficulty>Recruitment difficulty</RecruitmentDifficulty>
+  <GetsFood>Gets food</GetsFood>
+  <DoctorsCare>Doctors care</DoctorsCare>
+  <GetsMedicine>Gets medicine</GetsMedicine>
+  <ShouldTryToRecruit>Try to recruit</ShouldTryToRecruit>
+  <PrisonerNoInteraction>No interaction</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Friendly chat</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>Chat and recruit</PrisonerAttemptRecruit>
+  <PrisonerRelease>Release</PrisonerRelease>
+  <PrisonerExecution>Execution</PrisonerExecution>
 
 
   <!-- Medical - general -->
-  <MoveSpeed>Viteză</MoveSpeed>
-  <Efficiency>Eficiență</Efficiency>
-  <MissingBodyPart>Lipsă</MissingBodyPart>
-  <DestroyedBodyPart>Distrus</DestroyedBodyPart>
-  <ShatteredBodyPart>Vătămat</ShatteredBodyPart>
-  <RemovedBodyPart>Amputat</RemovedBodyPart>
-  <Healthy>Sănătos</Healthy>
-  <InPain>Suferind</InPain>
-  <PainLevel>Durere</PainLevel>
-  <Dead>Mort</Dead>
-  <Unconscious>Inconștient</Unconscious>
-  <PainShock>În șoc</PainShock>
-  <Injured>Rănit</Injured>
-  <NoInjuries>(sănătos)</NoInjuries>
-  <WholeBody>Întregul corp</WholeBody>
-  <DataProcessing>Procesare de date</DataProcessing>
-  <Communication>Comunicare</Communication>
-  <AffectsLower>afectează</AffectsLower>
-  <BleedingRate>Sângerare</BleedingRate>
-  <HealthOverview>Ansamblu</HealthOverview>
-  <MedicalOperationsShort>Operații ({0})</MedicalOperationsShort>
-  <MedicalOperationsMechanoidsShort>Modificări ({0})</MedicalOperationsMechanoidsShort>
-  <MedicalOperations>Operații medicale</MedicalOperations>
-  <Amputate>Amputare</Amputate>
-  <Harvest>Recoltare</Harvest>
-  
-  
+  <MoveSpeed>Move speed</MoveSpeed>
+  <Efficiency>Efficiency</Efficiency>
+  <MissingBodyPart>Gone</MissingBodyPart>
+  <DestroyedBodyPart>Destroyed</DestroyedBodyPart>
+  <ShatteredBodyPart>Shattered</ShatteredBodyPart>
+  <RemovedBodyPart>Removed</RemovedBodyPart>
+  <Healthy>Healthy</Healthy>
+  <InPain>In pain</InPain>
+  <PainLevel>Pain</PainLevel>
+  <Dead>Dead</Dead>
+  <Unconscious>Unconscious</Unconscious>
+  <PainShock>In shock</PainShock>
+  <Injured>Injured</Injured>
+  <NoInjuries>(no injuries)</NoInjuries>
+  <WholeBody>Whole body</WholeBody>
+  <DataProcessing>Data processing</DataProcessing>
+  <Communication>Communication</Communication>
+  <Affects>Affects</Affects>
+  <BleedingRate>Bleeding rate</BleedingRate>
+  <HealthOverview>Overview</HealthOverview>
+  <MedicalOperationsShort>Operations ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Modifications ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Medical operations</MedicalOperations>
+  <Amputate>Amputate</Amputate>
+  <Harvest>Harvest</Harvest>
+  <RemoveOrgan>Remove</RemoveOrgan>
+  <MemoryLower>memory</MemoryLower>
+  <SocialInteractionsLower>social interactions</SocialInteractionsLower>
+  <HungerRate>Hunger rate</HungerRate>
+  <Tiredness>Tiredness</Tiredness>
+  <PainFactor>Pain</PainFactor>
+  <PreventsInfection>Prevents infection</PreventsInfection>
+
 
   <!-- Medical - Body and activities condition -->
-  <None>Nimic</None>
-  <VeryPoor>Foarte slabă</VeryPoor>
-  <Poor>Slabă</Poor>
-  <Weakened>Slăbită</Weakened>
+  <None>None</None>
+  <VeryPoor>Very poor</VeryPoor>
+  <Poor>Poor</Poor>
+  <Weakened>Weakened</Weakened>
   <GoodCondition>OK</GoodCondition>
-  <Enhanced>Îmbunătățită</Enhanced>
-  <SeriouslyImpaired>Compromisă</SeriouslyImpaired>
-  <Impaired>Deteriorată</Impaired>
-  <SlightlyImpaired>Puțin deteriorată</SlightlyImpaired>
-  <NoPain>Deloc</NoPain>
-  <LittlePain>Puțină</LittlePain>
-  <MediumPain>Medie</MediumPain>
-  <SeverePain>Severă</SeverePain>
-  <ExtremePain>Extremă</ExtremePain>
+  <Enhanced>Enhanced</Enhanced>
+  <SeriouslyImpaired>Seriously impaired</SeriouslyImpaired>
+  <Impaired>Impaired</Impaired>
+  <SlightlyImpaired>Slightly impaired</SlightlyImpaired>
+  <NoPain>None</NoPain>
+  <LittlePain>Little</LittlePain>
+  <MediumPain>Medium</MediumPain>
+  <SeverePain>Severe</SeverePain>
+  <ExtremePain>Extreme</ExtremePain>
 
 
+  <!-- Training tab-->
+  <TrainableIntelligence>Trainable intelligence</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Requires trainable intelligence {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} is too small to train this.</CannotTrainTooSmall>
 
+  <TrainingNeedsPrerequisite>Prerequisite needed: {0}</TrainingNeedsPrerequisite>
 
+  <!-- Social tab -->
+  <NoRelationships>(no relationships)</NoRelationships>
+  <Kidnapped>Kidnapped</Kidnapped>
+  <Slave>Slave</Slave>
+  <FactionLeader>Faction leader</FactionLeader>
+  <OpinionOf>Opinion of {0}</OpinionOf>
+  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
+  <IAmDead>I'm dead</IAmDead>
+  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
 
-
-
+  <!-- Gear tab -->
+  <AverageArmor>Average armor</AverageArmor>
+  <ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>
+  <ArmorBlunt>Blunt</ArmorBlunt>
+  <ArmorSharp>Sharp</ArmorSharp>
+  <ArmorHeat>Heat</ArmorHeat>
+  <ArmorElectric>Electric</ArmorElectric>
 
 </LanguageData>

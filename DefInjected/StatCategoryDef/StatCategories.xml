@@ -1,30 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--================ General ================-->
-  
-	<Basics.label>Basis</Basics.label>
-	<BasicsPawn.label>Basis</BasicsPawn.label>
-	<BasicsNonPawn.label>Basis</BasicsNonPawn.label>
-	
-  <!--================ Non-pawn ================-->
-  
-	<Apparel.label>Kleidung</Apparel.label>
-	<Weapon.label>Waffe</Weapon.label>
-	<Building.label>Gebäude</Building.label>
+  <!-- General -->
 
-  <!--=============== Virtual categories ==============-->
-  
-	<EquippedStatOffsets.label>Anpassung, wenn ausgerüstet</EquippedStatOffsets.label>
-	<StuffStatFactors.label>Multiplikator, wenn hieraus hergestellt ist</StuffStatFactors.label>
-	<StuffStatOffsets.label>Offset, wenn hieraus hergestellt ist</StuffStatOffsets.label>
-	<StuffOfEquipmentStatFactors.label>Multiplikator, wenn hieraus Ausrüstung hergestellt ist</StuffOfEquipmentStatFactors.label>
-	
-  <!--================ Pawn ================-->
-	
-	<PawnCombat.label>Kampf</PawnCombat.label>
-	<PawnSocial.label>Sozial</PawnSocial.label>
-	<PawnMisc.label>Verschiedenes</PawnMisc.label>
-	<PawnWork.label>Arbeit</PawnWork.label>
-  
+  <Basics.label>Basics</Basics.label>
+  <BasicsPawn.label>Basics</BasicsPawn.label>
+  <BasicsNonPawn.label>Basics</BasicsNonPawn.label>
+
+
+  <!-- Non-pawn -->
+
+  <Apparel.label>Apparel</Apparel.label>
+  <Weapon.label>Weapon</Weapon.label>
+  <Building.label>Building</Building.label>
+
+
+  <!-- Virtual categories -->
+
+  <EquippedStatOffsets.label>Offsets when equipped</EquippedStatOffsets.label>
+  <StuffStatFactors.label>Multipliers when made of this</StuffStatFactors.label>
+  <StuffStatOffsets.label>Offsets when made of this</StuffStatOffsets.label>
+  <StuffOfEquipmentStatFactors.label>Multipliers when equipment made of this</StuffOfEquipmentStatFactors.label>
+
+
+  <!-- Pawn -->
+
+  <PawnCombat.label>Combat</PawnCombat.label>
+  <PawnSocial.label>Social</PawnSocial.label>
+  <PawnMisc.label>Misc</PawnMisc.label>
+  <PawnWork.label>Work</PawnWork.label>
+
+
 </LanguageData>

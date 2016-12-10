@@ -1,17 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
-	<Campfire.label>Lagerfeuer</Campfire.label>
-	<Campfire.description>Zum Grillen und Wärme erzeugen. Es brennt nach ein paar Tagen aus. Wie bei allen Wärmequellen muss es in einem geschlossenen Raum aufgestellt werden.</Campfire.description>
-	
-	<Heater.label>Heizung</Heater.label>
-	<Heater.description>Ein elektrisch betriebenes Gerät, das elektrische Energie in Wärme umwandelt. Es kann sich automatisch ein und ausschalten, um eine eingestellte Temperatur zu halten.</Heater.description>
-	
-	<Cooler.label>Kühlung</Cooler.label>
-	<Cooler.description>Ein elektrisch betriebenes Gerät, das in eine Wand integriert werden muss. Es erzeugt einerseits Kälte, aber generiert auf der anderen Seite recht viel Wärme. Die Kühlung kann benutzt werden, um im Sommer einen Raum zu kühlen, oder auch um einen Kühlraum zu betreiben.</Cooler.description>
-	
-	<Vent.label>Ventilator</Vent.label>
-	<Vent.description>Ein einfacher Ventilator zum Ausgleichen der Temperatur zwischen zwei Räumen, ohne dabei eine Öffnung zum Durchgehen zu schaffen.</Vent.description>
-  
-  
+
+  <Campfire.label>campfire</Campfire.label>
+  <Campfire.description>Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire.description>
+
+  <PassiveCooler.label>passive cooler</PassiveCooler.label>
+  <PassiveCooler.description>A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days.</PassiveCooler.description>
+
+  <Heater.label>heater</Heater.label>
+  <Heater.description>An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.</Heater.description>
+
+  <Cooler.label>cooler</Cooler.label>
+  <Cooler.description>An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during the summer months, or to create a walk-in freezer. </Cooler.description>
+
+  <Vent.label>vent</Vent.label>
+  <Vent.description>A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.</Vent.description>
+
+
 </LanguageData>

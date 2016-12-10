@@ -1,12 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
-	<CremateCorpse.label>Verbrenne Leiche</CremateCorpse.label>
-	<CremateCorpse.description>Verbrenne eine Leiche, um sie verschwinden zu lassen.</CremateCorpse.description>
-	<CremateCorpse.jobString>Verbrennt Leiche.</CremateCorpse.jobString>
-	
-	<BurnApparel.label>Verbrenne Kleidung</BurnApparel.label>
-	<BurnApparel.description>Verbrenne Kleidung, um sie zu entsorgen.</BurnApparel.description>
-	<BurnApparel.jobString>Verbrennt Kleidung.</BurnApparel.jobString>
-	
+
+  <CremateCorpse.label>cremate corpse</CremateCorpse.label>
+  <CremateCorpse.description>Cremate a corpse to completely destroy it.</CremateCorpse.description>
+  <CremateCorpse.jobString>Cremating.</CremateCorpse.jobString>
+
+  <BurnApparel.label>burn apparel</BurnApparel.label>
+  <BurnApparel.description>Burn apparel to completely destroy it.</BurnApparel.description>
+  <BurnApparel.jobString>Burning apparel.</BurnApparel.jobString>
+
+  <BurnApparelCampfire.label>burn apparel</BurnApparelCampfire.label>
+  <BurnApparelCampfire.description>Burn apparel to completely destroy it.</BurnApparelCampfire.description>
+  <BurnApparelCampfire.jobString>Burning apparel.</BurnApparelCampfire.jobString>
+
+
 </LanguageData>

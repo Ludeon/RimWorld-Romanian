@@ -1,15 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
-	<Work.label>arbeit</Work.label>
-	<Meditative.label>meditativ</Meditative.label>
-	<Lewd.label>lüstern</Lewd.label>
-	<Social.label>sozial</Social.label>
-	<Chemical.label>chemisch</Chemical.label>
-	<Gluttonous.label>gefräßig</Gluttonous.label>
-	<GamingDexterity.label>spielen (geschick)</GamingDexterity.label>
-	<GamingCerebral.label>spielen (geistig)</GamingCerebral.label>
-	<Passive.label>passiv</Passive.label>
-	<Study.label>lernen</Study.label>
-	
+
+  <Work.label>work</Work.label>
+  <Meditative.label>meditative</Meditative.label>
+  <Lewd.label>lewd</Lewd.label>
+  <Social.label>social</Social.label>
+  <Chemical.label>chemical</Chemical.label>
+  <Gluttonous.label>gluttonous</Gluttonous.label>
+  <GamingDexterity.label>gaming (dexterity)</GamingDexterity.label>
+  <GamingCerebral.label>gaming (cerebral)</GamingCerebral.label>
+  <Passive.label>passive</Passive.label>
+  <Study.label>study</Study.label>
+
+
 </LanguageData>

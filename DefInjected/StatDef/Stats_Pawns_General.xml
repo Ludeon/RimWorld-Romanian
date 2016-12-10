@@ -1,28 +1,45 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
-	<MoveSpeed.label>Bewegungsgeschwindigkeit</MoveSpeed.label>
-	<MoveSpeed.description>Die Geschwindigkeit, mit der sich dieser Charakter durch die Welt bewegt. In Zellen pro Sekunde.</MoveSpeed.description>
-	
-	<MentalBreakThreshold.label>Zusammenbruchschwelle</MentalBreakThreshold.label>
-	<MentalBreakThreshold.description>So lange die Stimmung unterhalb dieser Schwelle ist, besteht die Gefahr eines Nervenzusammenbruchs des Kolonisten.</MentalBreakThreshold.description>
-	
-	<PsychicSensitivity.label>Psychische Sensibilität</PsychicSensitivity.label>
-	<PsychicSensitivity.description>Multiplikator auf die Wirkung von psychischen Phänomenen, die diesen Kolonisten beeinflussen.</PsychicSensitivity.description>
-	
-	<GlobalLearningFactor.label>Globaler Lernfaktor</GlobalLearningFactor.label>
-	<GlobalLearningFactor.description>Globale Lerneffektivität für alle Fähigkeiten.</GlobalLearningFactor.description>
-	
-	<EatingSpeed.label>Essgeschwindigkeit</EatingSpeed.label>
-	<EatingSpeed.description>Multiplikator auf die Essgeschwindigkeit.</EatingSpeed.description>
-	
-	<ComfyTemperatureMin.label>Minimale komfortable Temperatur</ComfyTemperatureMin.label>
-	<ComfyTemperatureMin.description>Unterhalb dieser Temperatur wird der Kolonist unglücklich. Beträchtlich unterhalb dieser Temperatur läuft er Gefahr, sich zu unterkühlen oder tödliche Erfrierungen zu erleiden.</ComfyTemperatureMin.description>
-	
-	<ComfyTemperatureMax.label>Maximale komfortable Temperatur</ComfyTemperatureMax.label>
-	<ComfyTemperatureMax.description>Oberhalb dieser Temperatur wird der Kolonist unglücklich. Beträchtlich oberhalb dieser Temperatur läuft er Gefahr, einen Hitzschlag zu bekommen, was lebensgefährlich sein kann..</ComfyTemperatureMax.description>
-	
-	<ImmunityGainSpeed.label>Imunisierungsgeschwindigkeit</ImmunityGainSpeed.label>
-	<ImmunityGainSpeed.description>Die Geschwindigkeit, mit der der Kolonist eine Immunisierung gegen Krankheiten aufbaut. Wenn sie zu langsam ist, stirbt der Charakter an den Folgen der Krankheit, bevor er eine Immunisierung aufbauen kann.</ImmunityGainSpeed.description>
-	
+
+  <MoveSpeed.label>move speed</MoveSpeed.label>
+  <MoveSpeed.description>Speed of movement through the world in cells per second.</MoveSpeed.description>
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
+
+  <MentalBreakThreshold.label>mental break threshold</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>As long as someone's mood is below this level, they are in danger of having a mental break.</MentalBreakThreshold.description>
+
+  <PsychicSensitivity.label>psychic sensitivity</PsychicSensitivity.label>
+  <PsychicSensitivity.description>Multiplier on the impact of psychic phenomena affecting this person.</PsychicSensitivity.description>
+
+  <ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
+  <ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this character.</ToxicSensitivity.description>
+
+  <GlobalLearningFactor.label>global learning factor</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>Global learning efficiency for all skills.</GlobalLearningFactor.description>
+
+  <EatingSpeed.label>eating speed</EatingSpeed.label>
+  <EatingSpeed.description>Multiplier on eating speed.</EatingSpeed.description>
+
+  <ComfyTemperatureMin.label>Minimum comfortable temperature</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die.</ComfyTemperatureMin.description>
+
+  <ComfyTemperatureMax.label>Maximum comfortable temperature</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die.</ComfyTemperatureMax.description>
+
+  <ImmunityGainSpeed.label>immunity gain speed</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>Speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity.</ImmunityGainSpeed.description>
+
+  <CarryingCapacity.label>carrying capacity</CarryingCapacity.label>
+  <CarryingCapacity.description>The amount of stuff this creature can carry in its hands, mouth, or other manipulators.</CarryingCapacity.description>
+
+  <MeatAmount.label>meat amount</MeatAmount.label>
+  <MeatAmount.description>The amount of meat you will get from butchering this creature.</MeatAmount.description>
+
+  <LeatherAmount.label>leather amount</LeatherAmount.label>
+  <LeatherAmount.description>The amount of leather you will get from butchering this creature.</LeatherAmount.description>
+
+  <MinimumHandlingSkill.label>minimum handling skill</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals.</MinimumHandlingSkill.description>
+
+
 </LanguageData>

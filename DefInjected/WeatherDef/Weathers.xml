@@ -1,28 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
-	<Clear.label>Klar</Clear.label>
-	<Clear.description>Ein klarer Tag, keine Strafen oder Modifikatoren.</Clear.description>
-	
-	<Fog.label>Nebel</Fog.label>
-	<Fog.description>Nebel reduziert die Treffsicherheit von Fernkampfwaffen.</Fog.description>
-	
-	<Rain.label>Regen</Rain.label>
-	<Rain.description>Regen reduziert die Treffsicherheit von Fernkampfwaffen, reduziert die Laufgeschwindigkeiten und löscht Feuer.</Rain.description>
-	
-	<DryThunderstorm.label>Trockenes Gewitter</DryThunderstorm.label>
-	<DryThunderstorm.description>Trockene Gewitter können gefährlich sein, da die Blitze Feuer entfachen, es aber keinen Regen gibt, der sie gleich wieder löschen könnte.</DryThunderstorm.description>
-	
-	<RainyThunderstorm.label>Regnerisches Gewitter</RainyThunderstorm.label>
-	<RainyThunderstorm.description>Die Blitze entfachen Feuer, aber der Regen löscht sie auch wieder. Der Regen reduziert die Treffsicherheit und Laufgeschwindigkeit.</RainyThunderstorm.description>
-	
-	<FoggyRain.label>Nebliger Regen</FoggyRain.label>
-	<FoggyRain.description>Reduziert die Treffsicherheit und Laufgeschwindigkeit.</FoggyRain.description>
 
-	<SnowHard.label>Starker Schneefall</SnowHard.label>
-	<SnowHard.description>Schnee reduziert die Treffsicherheit von Fernkampfwaffen, die Laufgeschwindigkeit und löscht Feuer.</SnowHard.description>
-	
-	<SnowGentle.label>Leichter Schneefall</SnowGentle.label>
-	<SnowGentle.description>Schnee reduziert die Treffsicherheit von Fernkampfwaffen, die Laufgeschwindigkeit und löscht Feuer.</SnowGentle.description>
-	
+  <Clear.label>clear</Clear.label>
+  <Clear.description>A clear day. No penalties or modifiers.</Clear.description>
+
+  <Fog.label>fog</Fog.label>
+  <Fog.description>Fog reduces the accuracy of ranged weapons.</Fog.description>
+
+  <Rain.label>rain</Rain.label>
+  <Rain.description>Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</Rain.description>
+
+  <DryThunderstorm.label>dry thunderstorm</DryThunderstorm.label>
+  <DryThunderstorm.description>Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out.</DryThunderstorm.description>
+
+  <RainyThunderstorm.label>rainy thunderstorm</RainyThunderstorm.label>
+  <RainyThunderstorm.description>The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy.</RainyThunderstorm.description>
+
+  <FoggyRain.label>foggy rain</FoggyRain.label>
+  <FoggyRain.description>Reduces accuracy and movement speed.</FoggyRain.description>
+
+  <SnowHard.label>hard snow</SnowHard.label>
+  <SnowHard.description>Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</SnowHard.description>
+
+  <SnowGentle.label>gentle snow</SnowGentle.label>
+  <SnowGentle.description>Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</SnowGentle.description>
+
+
 </LanguageData>

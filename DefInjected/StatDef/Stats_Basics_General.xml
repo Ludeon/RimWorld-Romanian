@@ -1,28 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
-	<MaxHitPoints.label>Max Trefferpunkte</MaxHitPoints.label>
-	<MaxHitPoints.description>Die maximalen Trefferpunkte des Gegenstandes. Dieser Wert gibt an, wieviel Schaden verkraftet werden kann, bevor der Gegenstand zerstört wird.</MaxHitPoints.description>
-	
-	<MarketValue.label>Marktwert</MarketValue.label>
-	<MarketValue.description>Der Marktwert des Gegenstandes. Der genaue Handelspreis wird weiterhin durch das Verhältnis der Beziehung und dem Verhandlungsgeschick bestimmt.</MarketValue.description>
-	
-	<SellPriceFactor.label>Verkaufswertmultiplikator</SellPriceFactor.label>
-	<SellPriceFactor.description>Ein Multiplikator des Preises, zu dem du Gegenstände verkaufen kannst.</SellPriceFactor.description>
 
-	<Flammability.label>Brennbarkeit</Flammability.label>
-	<Flammability.description>Wie schnell der Gegenstand Feuer fängt und wie schnell er verbrennt.</Flammability.description>
-	
-	<WorkToMake.label>Benötigte Arbeit</WorkToMake.label>
-	<WorkToMake.description>Die benötigte Arbeit, die zum Herstellen dieses Gegenstandes benötigt wird, wenn alle Materialien und Werkzeuge vorhanden sind.</WorkToMake.description>
-	
-	<DeteriorationRate.label>Verwitterungsrate</DeteriorationRate.label>
-	<DeteriorationRate.description>Die Geschwindigkeit, mit der der Gegenstand im Freien verwittert. Das betrifft besonders das Liegen im Regen.</DeteriorationRate.description>
-	
-	<Beauty.label>Aussehen</Beauty.label>
-	<Beauty.description>Wie angenehm es ist, diesen Gegenstand zu sehen und in der Nähe zu haben.</Beauty.description>
-	
-	<Comfort.label>Komfort</Comfort.label>
-	<Comfort.description>Wie bequem es ist, auf diesem Gegenstand zu liegen oder zu sitzen.</Comfort.description>
-	
+  <MaxHitPoints.label>max hit points</MaxHitPoints.label>
+  <MaxHitPoints.description>The maximum hit points of an object. This represents how much damage it can take before being destroyed.</MaxHitPoints.description>
+
+  <MarketValue.label>market value</MarketValue.label>
+  <MarketValue.description>The market value of an object. The actual trade price will be further modified by relationship status and negotitation skill.</MarketValue.description>
+  <MarketValue.formatString>${0}</MarketValue.formatString>
+
+  <SellPriceFactor.label>sell price multiplier</SellPriceFactor.label>
+  <SellPriceFactor.description>A multiplier on the price at which you can sell items.</SellPriceFactor.description>
+
+  <Flammability.label>flammability</Flammability.label>
+  <Flammability.description>How easily an object catches fire and how strongly it burns.</Flammability.description>
+
+  <WorkToMake.label>work to make</WorkToMake.label>
+  <WorkToMake.description>The base amount of work it takes to make this, once all materials and tools are gathered.</WorkToMake.description>
+
+  <DeteriorationRate.label>deterioration rate</DeteriorationRate.label>
+  <DeteriorationRate.description>The rate at which this item deteriorates when left outside, especially in the rain.</DeteriorationRate.description>
+  <DeteriorationRate.formatString>{0}/d</DeteriorationRate.formatString>
+
+  <Beauty.label>beauty</Beauty.label>
+  <Beauty.description>How enjoyable an object is to be around and look at.</Beauty.description>
+
+  <Cleanliness.label>cleanliness</Cleanliness.label>
+  <Cleanliness.description>How clean an object is.</Cleanliness.description>
+
+  <Comfort.label>comfort</Comfort.label>
+  <Comfort.description>How comfortble an object is to sit or lay on.</Comfort.description>
+
+
 </LanguageData>
