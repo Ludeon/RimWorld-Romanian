@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BorealForest.label>Pădurea boreală</BorealForest.label>
+  <BorealForest.description>Păduri nordice de conifere.In ciuda iernilor aspre ,pădurile boreale susțin o diversă populație de animale mici si mari.</BorealForest.description>
+
+  <Tundra.label>Tundra</Tundra.label>
+  <Tundra.description>Aceasta include în principal peisaj înghețat câțiva copaci și câteva plante. Aici se găsesc câteva animale de dimensiuni mai mici și turme individuale mari de animale ierbivore ce tanzitează către alte zone calde.</Tundra.description>
+
+  <IceSheet.label>Ghețar</IceSheet.label>
+  <IceSheet.description>Terenul este acoperit de o falie groasă de gheață. Aici nu există acces la sol sau roci, astfel încât nu există plante. Singurele animale care pot fi gasite aici sunt în tranzit în către alte climate - sau sunt rătăcite pentru todeauna.</IceSheet.description>
+
+
+</LanguageData>

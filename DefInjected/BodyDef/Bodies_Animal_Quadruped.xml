@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QuadrupedAnimalWithPaws.label>Animal patruped cu labe</QuadrupedAnimalWithPaws.label>
+  <QuadrupedAnimalWithPawsAndTail.label>Animal patruped cu labe și coadă</QuadrupedAnimalWithPawsAndTail.label>
+  <QuadrupedAnimalWithHooves.label>Animal patruped cu copite</QuadrupedAnimalWithHooves.label>
+  <QuadrupedAnimalWithHoovesAndHump.label>Animal patruped cu copite și cocoașă</QuadrupedAnimalWithHoovesAndHump.label>
+  <QuadrupedAnimalWithHoovesAndTusks.label>Animal patruped cu copite și colți din fildeș</QuadrupedAnimalWithHoovesAndTusks.label>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>Animal patruped cu copite ,colti din fildeș și trompă</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <QuadrupedAnimalWithHoovesAndHorn.label>Animal patruped cu copite și corn</QuadrupedAnimalWithHoovesAndHorn.label>
+  <QuadrupedAnimalWithClawsTailAndJowl.label>Animal patruped cu gheare și maxilar inferior cu colți</QuadrupedAnimalWithClawsTailAndJowl.label>
+  <TurtleLike.label>Broască țestoasă</TurtleLike.label>
+  <Monkey.label>Maimuța</Monkey.label>
+
+
+</LanguageData>

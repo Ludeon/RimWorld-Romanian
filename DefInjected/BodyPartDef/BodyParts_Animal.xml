@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- torso for animals -->
+
+  <Body.label>corp</Body.label>
+  <Beak.label>cioc</Beak.label>
+  <InsectHead.label>Cap de insectă</InsectHead.label>
+  <SnakeBody.label>Corpul șarpelui</SnakeBody.label>
+  <SnakeHead.label>Cap de șarpe</SnakeHead.label>
+  <SnakeMouth.label>Gură de șarpe</SnakeMouth.label>
+  <InsectHeart.label>Inima insectei</InsectHeart.label>
+  <InsectNostril.label>Nara insectei</InsectNostril.label>
+  <InsectMouth.label>Gura insectei</InsectMouth.label>
+  <Jowl.label>Obraz</Jowl.label>
+  <Tail.label>Coadă</Tail.label>
+  <LeftAntenna.label>Antena stângă</LeftAntenna.label>
+  <RightAntenna.label>Antena dreaptă</RightAntenna.label>
+  <Pronotum.label>pronotum</Pronotum.label>
+  <Shell.label>Carapace</Shell.label>
+  <LeftElytra.label>Aripa stângă</LeftElytra.label>
+  <RightElytra.label>Aripa dreaptă</RightElytra.label>
+  <LeftTusk.label>Colțul stâng</LeftTusk.label>
+  <RightTusk.label>Colțul drept</RightTusk.label>
+  <Trunk.label>Trompă</Trunk.label>
+  <Horn.label>Corn</Horn.label>
+  <HeadClaw.label>cap gheară</HeadClaw.label>
+  <Hump.label>Cocoașă</Hump.label>
+  <TurtleShell.label>carapace de broască</TurtleShell.label>
+  <Plastron.label>plastron</Plastron.label>
+  <TurtleBeak.label>cioc</TurtleBeak.label>
+
+
+  <!-- animals legs -->
+
+  <FrontLeftLeg.label>Piciorul stâng din față</FrontLeftLeg.label>
+  <FrontRightLeg.label>Piciorul drept din față</FrontRightLeg.label>
+  <MiddleLeftLeg.label>Piciorul stâng din mijloc</MiddleLeftLeg.label>
+  <MiddleRightLeg.label>Piciorul drept din mijloc</MiddleRightLeg.label>
+  <RearLeftLeg.label>Piciorul stâng din spate</RearLeftLeg.label>
+  <RearRightLeg.label>Piciorul drept din spate</RearRightLeg.label>
+  <FrontLeftInsectLeg.label>Piciorul stâng din față</FrontLeftInsectLeg.label>
+  <FrontRightInsectLeg.label>Piciorul drept din față</FrontRightInsectLeg.label>
+  <MiddleLeftInsectLeg.label>Piciorul stâng din mijloc</MiddleLeftInsectLeg.label>
+  <MiddleRightInsectLeg.label>Piciorul drept din mijloc</MiddleRightInsectLeg.label>
+  <RearLeftInsectLeg.label>Piciorul stâng din spate</RearLeftInsectLeg.label>
+  <RearRightInsectLeg.label>Piciorul drept din spate</RearRightInsectLeg.label>
+  <FrontLeftPaw.label>Laba stângă din față</FrontLeftPaw.label>
+  <FrontRightPaw.label>Laba dreaptă din față</FrontRightPaw.label>
+  <RearLeftPaw.label>Laba stângă din spate</RearLeftPaw.label>
+  <RearRightPaw.label>Laba dreaptă din spate</RearRightPaw.label>
+  <FrontLeftHoof.label>Copita stângă din față</FrontLeftHoof.label>
+  <FrontRightHoof.label>Copita dreaptă din față</FrontRightHoof.label>
+  <RearLeftHoof.label>Copita stângă din spate</RearLeftHoof.label>
+  <RearRightHoof.label>Copita dreaptă din spate</RearRightHoof.label>
+  <FrontLeftLegFirstClaw.label>Piciorul stâng din față, prima gheară</FrontLeftLegFirstClaw.label>
+  <FrontLeftLegSecondClaw.label>Piciorul stâng din față, a doua gheară</FrontLeftLegSecondClaw.label>
+  <FrontLeftLegThirdClaw.label>Piciorul stâng din față, a treia gheară</FrontLeftLegThirdClaw.label>
+  <FrontLeftLegFourthClaw.label>Piciorul stâng din față, a patra gheară</FrontLeftLegFourthClaw.label>
+  <FrontLeftLegFifthClaw.label>Piciorul stâng din față, a cincia gheară</FrontLeftLegFifthClaw.label>
+  <FrontRightLegFirstClaw.label>Piciorul drept din față, prima gheară</FrontRightLegFirstClaw.label>
+  <FrontRightLegSecondClaw.label>Piciorul drept din față, a doua gheară</FrontRightLegSecondClaw.label>
+  <FrontRightLegThirdClaw.label>Piciorul drept din față, a treia gheară</FrontRightLegThirdClaw.label>
+  <FrontRightLegFourthClaw.label>Piciorul drept din față, a patra gheară</FrontRightLegFourthClaw.label>
+  <FrontRightLegFifthClaw.label>Piciorul drept din față, a cincia gheară</FrontRightLegFifthClaw.label>
+  <RearLeftLegFirstClaw.label>Piciorul stâng din spate, prima gheară</RearLeftLegFirstClaw.label>
+  <RearLeftLegSecondClaw.label>Piciorul stâng din spate, a doua gheară</RearLeftLegSecondClaw.label>
+  <RearLeftLegThirdClaw.label>Piciorul stâng din spate, a treia gheară</RearLeftLegThirdClaw.label>
+  <RearLeftLegFourthClaw.label>Piciorul stâng din spate, a patra gheară</RearLeftLegFourthClaw.label>
+  <RearLeftLegFifthClaw.label>Piciorul stâng din spate, a cincia gheară</RearLeftLegFifthClaw.label>
+  <RearRightLegFirstClaw.label>Piciorul drept din spate, prima gheară</RearRightLegFirstClaw.label>
+  <RearRightLegSecondClaw.label>Piciorul drept din spate, a doua gheară</RearRightLegSecondClaw.label>
+  <RearRightLegThirdClaw.label>Piciorul drept din spate, a treia gheară</RearRightLegThirdClaw.label>
+  <RearRightLegFourthClaw.label>Piciorul drept din spate, a patra gheară</RearRightLegFourthClaw.label>
+  <RearRightLegFifthClaw.label>Piciorul drept din spate, a cincia gheară</RearRightLegFifthClaw.label>
+
+
+</LanguageData>

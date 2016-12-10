@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Heart.label>inimă</Heart.label>
+  <LeftLung.label>plămânul stâng</LeftLung.label>
+  <RightLung.label>plămânul drept</RightLung.label>
+  <LeftKidney.label>rinichiul stâng</LeftKidney.label>
+  <RightKidney.label>rinichiul drept</RightKidney.label>
+  <Liver.label>ficat</Liver.label>
+  <Stomach.label>stomac</Stomach.label>
+
+
+</LanguageData>

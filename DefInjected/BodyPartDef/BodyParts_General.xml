@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Head.label>cap</Head.label>
+  <Skull.label>craniu</Skull.label>
+  <Brain.label>creier</Brain.label>
+  <LeftEye.label>ochiul stâng</LeftEye.label>
+  <RightEye.label>ochiul drept</RightEye.label>
+  <LeftEar.label>urechea stăngă</LeftEar.label>
+  <RightEar.label>urechea dreaptă</RightEar.label>
+  <Nose.label>nas</Nose.label>
+  <Jaw.label>falcă</Jaw.label>
+  <Neck.label>gât</Neck.label>
+  <Rib.label>coastă</Rib.label>
+  <Spine.label>coloană vertebrală</Spine.label>
+  <LeftLeg.label>piciorul stâng</LeftLeg.label>
+  <LeftFoot.label>talpa stângă</LeftFoot.label>
+  <RightLeg.label>piciorul drept</RightLeg.label>
+  <RightFoot.label>talpa dreaptă</RightFoot.label>
+
+
+</LanguageData>

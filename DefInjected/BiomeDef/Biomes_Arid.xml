@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AridShrubland.label>Vegetatie aridă cu arbuști</AridShrubland.label>
+  <AridShrubland.description>O regiune uscată ,dar nu destul de uscată sa fie un deșert adevărat.Zone intinse deschise cu iarba si arbuști impreună cu copaci impreaștiați.Plantele sunt rezistente și numărul animalelor este moderat.</AridShrubland.description>
+
+  <Desert.label>Deșert</Desert.label>
+  <Desert.description>O zonă foarte uscată și caldă în care există foarte puține animale și plante.</Desert.description>
+
+  <ExtremeDesert.label>Deșert extrem</ExtremeDesert.label>
+  <ExtremeDesert.description>O zonă extrem de caldă,uscată, lipsită de creaturi.Caldură intensă si vegetație limită fac supraviețuirea aici foarte dificilă chiar si pentru animalele bine adaptate.</ExtremeDesert.description>
+
+
+</LanguageData>

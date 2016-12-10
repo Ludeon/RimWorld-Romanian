@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Unlandable biomes -->
+
+  <Ocean.label>Ocean</Ocean.label>
+  <Ocean.description>Un ocean mare.Foarte bun pentru pești, mai degrabă pentru tine.</Ocean.description>
+
+
+  <!-- Buildable biomes -->
+
+  <TemperateForest.label>Pădurea temperată</TemperateForest.label>
+  <TemperateForest.description>Un peisaj prietenos, în care poți găsesi, în principal arbori și pajiști cu sol fertil. Multe specii de animale se deplasează prin păduri și pe câmpiile din apropiere.</TemperateForest.description>
+
+  <TropicalRainforest.label>Pădurea tropicală</TropicalRainforest.label>
+  <TropicalRainforest.description>Vegetație foarte deasă aproape de nepătruns, cu o climă caldă și umed. Densitatea mare de plante și fauna agresivă complică construcția și supraviețuirea în sine.</TropicalRainforest.description>
+
+
+</LanguageData>
