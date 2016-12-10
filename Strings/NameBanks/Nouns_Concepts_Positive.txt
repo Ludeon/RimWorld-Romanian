@@ -1,9 +1,9 @@
-﻿hope
-love
+speranță
+dragoste
 strength
-struggle
-family
-loyalty
+zbuciuma
+familist
+loialitate
 utopia
 fun
 gaiety
@@ -12,12 +12,12 @@ steadiness
 plenty
 hugs
 growth
-happiness
+fericire
 togetherness
 community
 affection
 closeness
-intimacy
+intimitate
 fellowship
 friendship
 good will
@@ -25,13 +25,13 @@ devotion
 harmony
 solidarity
 compassion
-mercy
-patience
+milostenie
+răbdare
 sympathy
-honesty
-kindness
-grace
+onestitate
+bunătate
+grație
 decency
-elegance
+eleganță
 
 

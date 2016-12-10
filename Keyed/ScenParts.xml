@@ -1,18 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- ======================== Non-grouped ========================-->
 
   <ScenPart_PlayerFaction>Your faction will be a {0}.</ScenPart_PlayerFaction>
 
-  <ScenPart_StartWithPawns>Start with {0} people.</ScenPart_StartWithPawns>
-  <RandomPet>random pet</RandomPet>
+  <ScenPart_StartWithPawns>Incepi cu  {0} oameni.</ScenPart_StartWithPawns>
+  <RandomPet>animal aleator</RandomPet>
 
-  <ScenPart_StartingResearchFinished>Start with research: {0}</ScenPart_StartingResearchFinished>
+  <ScenPart_StartingResearchFinished>Incepi cu tehnologile: {0}</ScenPart_StartingResearchFinished>
 
-  <ScenPart_ArriveInDropPods>Arrive in drop pods.</ScenPart_ArriveInDropPods>
+  <ScenPart_ArriveInDropPods>Sosești in capsule de salvare.</ScenPart_ArriveInDropPods>
 
-  <ScenPart_StatFactor>The stat "{0}" will be universally multiplied by {1}.</ScenPart_StatFactor>
+  <ScenPart_StatFactor>Atributul "{0}" va fi multiplicat universal cu {1}.</ScenPart_StatFactor>
 
 
   <!-- Pawn modifiers -->
@@ -26,18 +26,18 @@
   <ScenPart_OnPawnDeathExplode>Characters and creatures explode on death ({0}, radius {1}).</ScenPart_OnPawnDeathExplode>
 
   <!-- Pawn filters -->
-  <ScenPart_StartingPawnAgeMin>Your people will be at least {0} years old.</ScenPart_StartingPawnAgeMin>
-  <ScenPart_StartingPawnAgeMax>Your people will be at most {0} years old.</ScenPart_StartingPawnAgeMax>
-  <ScenPart_StartingPawnAgeRange>Your people will be between {0} and {1} years old.</ScenPart_StartingPawnAgeRange>
+  <ScenPart_StartingPawnAgeMin>Oameni vor avea cel puțin  {0} ani.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMax>Oameni vor avea cel mult {0} ani.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeRange>Oameni vor avea varste intre {0} și {1} ani.</ScenPart_StartingPawnAgeRange>
 
 
   <!-- ======================== Grouped ========================-->
 
-  <ScenPart_StartWith>Start with</ScenPart_StartWith>
-  <ScenPart_MapScatteredWith>Map is scattered with</ScenPart_MapScatteredWith>
-  <ScenPart_PermaMapCondition>Permanent map condition(s)</ScenPart_PermaMapCondition>
-  <ScenPart_DisableIncident>Incident(s) disabled</ScenPart_DisableIncident>
-  <ScenPart_CreateIncident>Incident created</ScenPart_CreateIncident>
-  <ScenPart_DisallowBuilding>Can never build</ScenPart_DisallowBuilding>
+  <ScenPart_StartWith>Incepti cu </ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>Harta este imprăștiată cu </ScenPart_MapScatteredWith>
+  <ScenPart_PermaMapCondition>Condiți(e) permanenta de hartă</ScenPart_PermaMapCondition>
+  <ScenPart_DisableIncident>Incident(e) dezactivat(e)</ScenPart_DisableIncident>
+  <ScenPart_CreateIncident>Incident creat</ScenPart_CreateIncident>
+  <ScenPart_DisallowBuilding>Nu poate construi</ScenPart_DisallowBuilding>
 
 </LanguageData>

@@ -1,42 +1,42 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Audiovisuals -->
-  <Audiovisuals>Audiovisuals</Audiovisuals>
-  <GameVolume>Game volume</GameVolume>
-  <MusicVolume>Music volume</MusicVolume>
+  <Audiovisuals>AudioVizual</Audiovisuals>
+  <GameVolume>Volum Joc</GameVolume>
+  <MusicVolume>Volum Muzică</MusicVolume>
   <Antialiasing>Anti-aliasing</Antialiasing>
 
   <!-- Gameplay -->
-  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
-  <PauseOnLoad>Pause on load</PauseOnLoad>
-  <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
-  <CustomCursor>Custom cursor</CustomCursor>
-  <KeyboardConfig>Keyboard configuration</KeyboardConfig>
-  <ChooseLanguage>Choose language</ChooseLanguage>
+  <EdgeScreenScroll>Deplasare cameră cu mouse</EdgeScreenScroll>
+  <PauseOnLoad>Pauză la inceperea jocului</PauseOnLoad>
+  <PauseOnUrgentLetter>Pauză la mesaj important</PauseOnUrgentLetter>
+  <CustomCursor>Curspor special</CustomCursor>
+  <KeyboardConfig>Configurare tastaturi</KeyboardConfig>
+  <ChooseLanguage>Alege limba</ChooseLanguage>
   <ResetAdaptiveTutor>Reset learning helper</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Tutor is reset. You will be now be re-taught all lessons from scratch.</AdaptiveTutorIsReset>
-  <RunInBackground>Run in background</RunInBackground>
-  <DevelopmentMode>Development mode</DevelopmentMode>
-  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
-  <LogVerbose>Verbose logging</LogVerbose>
-  <OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Last names of Name in Game or Backstory in Game characters you want to see:</NamesYouWantToSee>
-  <ChangeStoryteller>Choose storyteller</ChangeStoryteller>
-  <AutosaveInterval>Autosave interval</AutosaveInterval>
-  <TemperatureMode>Temperature mode</TemperatureMode>
-  <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
-  <PlantWindSway>Plant wind sway</PlantWindSway>
-  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
+  <AdaptiveTutorIsReset>Tutorele a fost resetat. Va preda toate lecțiile din nou.</AdaptiveTutorIsReset>
+  <RunInBackground>Continuă jocul minimizat</RunInBackground>
+  <DevelopmentMode>Modul de depanare</DevelopmentMode>
+  <ResetModsConfigOnCrash>Reseteaza configurația mods-urilor in caz de crash</ResetModsConfigOnCrash>
+  <LogVerbose>Inregistrare verbose</LogVerbose>
+  <OpenSaveGameDataFolder>Deschide folderul cu salvări</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Numele de familie pe care vrei sa le vezi in joc:</NamesYouWantToSee>
+  <ChangeStoryteller>Alege povestitor</ChangeStoryteller>
+  <AutosaveInterval>Interval autosalvare</AutosaveInterval>
+  <TemperatureMode>Modul de afisare temperatura</TemperatureMode>
+  <ShowRealtimeClock>Arată ceasul in timp real</ShowRealtimeClock>
+  <PlantWindSway>Plantele se balanseaza in vănt</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>Intervalul de autosalvare in modul moarte permanentă este de {0} zile</MaxPermadeathAutosaveIntervalInfo>
 
   <!-- Resolution -->
-  <Resolution>Resolution</Resolution>
-  <Fullscreen>Fullscreen</Fullscreen>
+  <Resolution>Rezoluție</Resolution>
+  <Fullscreen>Pe tot ecranul</Fullscreen>
 
   <!-- Privacy-->
-  <Privacy>Privacy</Privacy>
-  <UserName>User name</UserName>
-  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
+  <Privacy>Setări private</Privacy>
+  <UserName>Nume utilizator</UserName>
+  <ChooseHistoryUploadPref>Preferințe de încărcare a istoriei jocurilor.</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Istoricul jocurilor ajută programatorii în dezvoltarea acestuia. Dacă ești de acord, informațiile vor fi trimise o dată la {0} zile în joc (sau la finalul acestuia) către server-ul RimWorld, unde vor fi analizate. Aceste informații sunt doar statistici legate de joc - nu va fi trimisă nici o informație personală.</AboutHistoryUpload>
 
 </LanguageData>

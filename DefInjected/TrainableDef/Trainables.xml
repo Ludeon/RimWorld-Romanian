@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Obedience.label>obedience</Obedience.label>
-  <Obedience.description>The animal can be assigned a master who it will follow and defend.</Obedience.description>
+  <Obedience.label>supunere</Obedience.label>
+  <Obedience.description>Acest animal poate fi atribuit unui maestru pe care il va urmări și proteja.</Obedience.description>
 
-  <Release.label>release</Release.label>
-  <Release.description>The animal can be released to attack distant targets instead of just defending the master.</Release.description>
+  <Release.label>eliberare</Release.label>
+  <Release.description>Acest animal poate fi eliberat pentru a ataca ținte la distanța dar și să iși apere maestru.</Release.description>
 
-  <Rescue.label>rescue</Rescue.label>
-  <Rescue.description>The animal can rescue wounded allies and drag them to safety.</Rescue.description>
+  <Rescue.label>salvare</Rescue.label>
+  <Rescue.description>Acest animal poate salva aliați raniți și să ii ducă la siguranță.</Rescue.description>
 
-  <Haul.label>haul</Haul.label>
-  <Haul.description>The animal can haul items.</Haul.description>
+  <Haul.label>cărauș</Haul.label>
+  <Haul.description>Acest animal poate căra lucruri.</Haul.description>
 
 
 </LanguageData>

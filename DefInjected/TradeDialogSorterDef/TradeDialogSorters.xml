@@ -2,11 +2,11 @@
 <LanguageData>
 
   <None.label>none</None.label>
-  <Name.label>name</Name.label>
-  <MarketValue.label>market value</MarketValue.label>
-  <Category.label>category</Category.label>
-  <Quality.label>quality</Quality.label>
-  <HitPointsPercentage.label>hit points percentage</HitPointsPercentage.label>
+  <Name.label>Nume</Name.label>
+  <MarketValue.label>valoare de piață</MarketValue.label>
+  <Category.label>Categorie</Category.label>
+  <Quality.label>Calitate</Quality.label>
+  <HitPointsPercentage.label>puncte procentuale hit</HitPointsPercentage.label>
 
 
 </LanguageData>

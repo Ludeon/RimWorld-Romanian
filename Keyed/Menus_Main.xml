@@ -1,23 +1,23 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <Tutorial>Tutorial</Tutorial>
-  <NewColony>New colony</NewColony>
-  <BackToGame>Back to game</BackToGame>
+  <Tutorial>Invața jocul</Tutorial>
+  <NewColony>Colonie nouă</NewColony>
+  <BackToGame>Continuare joc</BackToGame>
   <ReviewScenario>Review scenario</ReviewScenario>
-  <Save>Save</Save>
-  <LoadGame>Load game</LoadGame>
-  <Options>Options</Options>
-  <Mods>Mods</Mods>
-  <Credits>Credits</Credits>
-  <QuitToMainMenu>Quit to main menu</QuitToMainMenu>
-  <SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
-  <QuitToOS>Quit to OS</QuitToOS>
-  <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
+  <Save>Salvare</Save>
+  <LoadGame>Incarcă joc precedent</LoadGame>
+  <Options>Opțiuni</Options>
+  <Mods>Module</Mods>
+  <Credits>Credite</Credits>
+  <QuitToMainMenu>Ieși la meniu</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Salvează si iesi la meniu</SaveAndQuitToMainMenu>
+  <QuitToOS>Iesi la OS</QuitToOS>
+  <SaveAndQuitToOS>Salveaza si iesi la OS</SaveAndQuitToOS>
   <FictionPrimer>Fiction primer</FictionPrimer>
   <LudeonBlog>Ludeon blog</LudeonBlog>
-  <Forums>Forums</Forums>
+  <Forums>Forumuri</Forums>
   <OfficialWiki>Official wiki</OfficialWiki>
   <TynansTwitter>Tynan's twitter</TynansTwitter>
   <TynansDesignBook>Tynan's design book</TynansDesignBook>
@@ -27,139 +27,139 @@
 
   <!--=========== Create/review world ================-->
   <ReviewWorld>Review world</ReviewWorld>
-  <WorldGenerate>Generate</WorldGenerate>
-  <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
+  <WorldGenerate>Generează</WorldGenerate>
+  <WorldSaveAndFinish>Salvează și termină</WorldSaveAndFinish>
   <Reset>Reset</Reset>
-  <WorldSize>Size</WorldSize>
-  <WorldSeed>Seed</WorldSeed>
-  <RandomizeSeed>Randomize seed</RandomizeSeed>
+  <WorldSize>Mărime lume</WorldSize>
+  <WorldSeed>Cor generare</WorldSeed>
+  <RandomizeSeed>Cod generare aleator</RandomizeSeed>
 
   <!--=========== Select world ===================-->
-  <SelectWorld>Select world</SelectWorld>
-  <WorldChooseButton>Select</WorldChooseButton>
-  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
+  <SelectWorld>Selectare lume</SelectWorld>
+  <WorldChooseButton>Selectează</WorldChooseButton>
+  <NoWorldsFilesFound>Nu există nici o lume creată. Creează o lume nouă mai întâi.</NoWorldsFilesFound>
 
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-  <BuildUpToDate>This is the latest version.</BuildUpToDate>
-  <ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-  <LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+  <BuildNowAvailable>Versiunea {0} este finalizată. Accesează www.ludeon.com pentru mai multe informații.</BuildNowAvailable>
+  <BuildUpToDate>Aceasta este cea mai nouă versiune.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Eroare în determinarea versiunii jocului: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Informații versiune prezentă....</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
-  <GenerateWorld>Generate world</GenerateWorld>
+  <GenerateWorld>Generează lume</GenerateWorld>
 
   <!--=========== Mods config ==========-->
-  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
-  <GetModsFromForum>Get mods from forum</GetModsFromForum>
-  <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
-  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
-  <Unsubscribe>Unsubscribe</Unsubscribe>
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
-  <Author>Author</Author>
-  <WorkshopPage>Workshop page</WorkshopPage>
-  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
-  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
-  <Downloading>Downloading</Downloading>
-  <Source>Source</Source>
-  <ModTargetVersion>For version: {0}</ModTargetVersion>
-  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
+  <OpenSteamWorkshop>Deschide Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Ia module de pe forum</GetModsFromForum>
+  <OpenModsDataFolder>Deschide folderul modulelor</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Ești sigur că vrei sa dezactivezi nucleul de bază? Jocul nu va mai funcționa deloc dacă nu există un alt mod care să înlocuiască toate funcțiile de nucleului.\n\nReține, alte mod-uri pot suprapune defs-uri in mod-ul de bază dacă folosesc același defName.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Ești sigur ca vrei sa ștergi conținutul {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Dezabonare</Unsubscribe>
+  <ConfirmUnsubscribe>Ești sigur ca vrei sa te dezabonezi de la {0}?</ConfirmUnsubscribe>
+  <Author>Autor</Author>
+  <WorkshopPage>Pagina de atelier</WorkshopPage>
+  <UploadToSteamWorkshop>Incarcă in  atelierul Steam</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Actualizați in atelierul Steam </UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Actualizare in progres.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Submiterea in atelier a eșuat.\n\nMotiv: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Incărcat cu succes {0}.</WorkshopUploadSucceeded>
+  <Downloading>Decărcare</Downloading>
+  <Source>Sursă</Source>
+  <ModTargetVersion>Pentru versiunea: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>Acest modul nu a fost creat pentru această versiune de RimWorld și probabil nu va funcționa corect.</ModNotMadeForThisVersion>
   <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
   <DragToReorder>Drag to reorder</DragToReorder>
 
   <!--=========== Select scenario =============-->
-  <ChooseScenario>Choose scenario</ChooseScenario>
-  <ScenariosCustom>Custom</ScenariosCustom>
-  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
-  <ScenarioEditor>Scenario editor</ScenarioEditor>
-  <Delete>Delete</Delete>
+  <ChooseScenario>Alege scenariu</ChooseScenario>
+  <ScenariosCustom>Personalizat</ScenariosCustom>
+  <ScenariosSteamWorkshop>Atelierul Steam</ScenariosSteamWorkshop>
+  <ScenarioEditor>Editor scenariu</ScenarioEditor>
+  <Delete>Șterge</Delete>
 
   <!--============ Scenario editor ===============-->
-  <Seed>seed</Seed>
-  <Load>Load</Load>
-  <EditMode>edit mode</EditMode>
-  <Summary>Summary</Summary>
-  <AddPart>Add part</AddPart>
-  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
-  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
-  <Incompatible>Incompatible</Incompatible>
-  <TooMany>Too many (max {0}): </TooMany>
-  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+  <Seed>Cod</Seed>
+  <Load>Incarcă</Load>
+  <EditMode>mod editare</EditMode>
+  <Summary>Sumar</Summary>
+  <AddPart>Adaugă partea</AddPart>
+  <TextFieldsMustBeFilled>Toate celulele text trebuie sa fie pline.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Ești sigur ca vrei sa incarci in atelierul Steam?\n\nTrebuie sa fi de acord cu termenii serviciului Steam. Gasești lista termeniilor aici:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Desigur trebuie sa incarci numai conțiunut create de tine.\n\nAi creat acest conținut tu?</ConfirmContentAuthor>
+  <Incompatible>Incompatibil</Incompatible>
+  <TooMany>Prea mult (max {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Poate fi incărcat in atelier ,de vreme ce suntețî autorul.</CanBeUpdatedOnWorkshop>
 
   <!--=========== Select storyteller ==========-->
-  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony.</HowStorytellersWork>
-  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
-  <Difficulty>Difficulty</Difficulty>
+  <ChooseAIStoryteller>Alege povestitor AI</ChooseAIStoryteller>
+  <HowStorytellersWork>Povestitorul AI creează evenimente ca raiduri de pirați,atacuri animale sau aprovizionări cu resurse.Alegerea lor va influența povestea coloniei tale.</HowStorytellersWork>
+  <MustChooseDifficulty>Alegeți un nivel de dificultate.</MustChooseDifficulty>
+  <Difficulty>Dificultate</Difficulty>
 
   <!--=========== Landing site select =========-->
-  <SelectLandingSite>Select landing site</SelectLandingSite>
-  <SelectRandomSite>Select random site</SelectRandomSite>
-  <SelectSite>Select site</SelectSite>
-  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
-  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
+  <SelectLandingSite>Alegeți terenul de aterizare</SelectLandingSite>
+  <SelectRandomSite>Alegeti teren aleator de aterizare</SelectRandomSite>
+  <SelectSite>Select teren</SelectSite>
+  <MustSelectLandingSite>Va rog alegeți terenul de aterizare.</MustSelectLandingSite>
+  <CannotLandBiome>Nu puteți ateriza in acest biom: {0}</CannotLandBiome>
   <WorldRenderMode>View mode</WorldRenderMode>
   <WorldRenderModeFull>Full</WorldRenderModeFull>
-  <WorldRenderModeTemperature>Temperature</WorldRenderModeTemperature>
-  <WorldRenderModeElevation>Elevation</WorldRenderModeElevation>
-  <WorldRenderModeFertility>Fertility</WorldRenderModeFertility>
-  <WorldRenderModeRainfall>Rainfall</WorldRenderModeRainfall>
-  <WorldRenderModeBiomes>Biomes</WorldRenderModeBiomes>
-  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
-  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
-  <Biome>Biome</Biome>
-  <Terrain>Terrain</Terrain>
-  <Elevation>Elevation</Elevation>
-  <Fertility>Fertility</Fertility>
-  <AvgTemp>Avg Temp</AvgTemp>
-  <AvgWinterTemp>Avg Temp (winter): {0}</AvgWinterTemp>
-  <AvgSummerTemp>Avg Temp (summer): {0}</AvgSummerTemp>
-  <Rainfall>Rainfall</Rainfall>
-  <HasCoast0>Northern coast</HasCoast0>
-  <HasCoast1>Eastern coast</HasCoast1>
-  <HasCoast2>Southern coast</HasCoast2>
-  <HasCoast3>Western coast</HasCoast3>
-  <FactionBase>Faction base</FactionBase>
-  <StoneTypesHere>Stone types</StoneTypesHere>
+  <WorldRenderModeTemperature>Temperatură</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Elevație</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Rodnicie</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Precipitații</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Biom</WorldRenderModeBiomes>
+  <BiomeNotImplemented>Biom neimplementat</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} deja este o baza acolo.</BaseAlreadyThere>
+  <Biome>Biom</Biome>
+  <Terrain>Teren</Terrain>
+  <Elevation>Elevație</Elevation>
+  <Fertility>Rodnicie</Fertility>
+  <AvgTemp>Temp med</AvgTemp>
+  <AvgWinterTemp>Temp med (winter): {0}</AvgWinterTemp>
+  <AvgSummerTemp>Temp med (summer): {0}</AvgSummerTemp>
+  <Rainfall>Precipitații</Rainfall>
+  <HasCoast0>Coasta de nord</HasCoast0>
+  <HasCoast1>Coasta de est</HasCoast1>
+  <HasCoast2>Coasta de sud</HasCoast2>
+  <HasCoast3>Coasta de west</HasCoast3>
+  <FactionBase>Bază facțiune</FactionBase>
+  <StoneTypesHere>Tipuri de piatră</StoneTypesHere>
 
   <!--=========== Character chooser ==========-->
-  <CreateCharacters>Create characters</CreateCharacters>
-  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-  <Randomize>Randomize</Randomize>
-  <AgeIndicator>age {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
-  <Traits>Traits</Traits>
-  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
-  <Skills>Skills</Skills>
+  <CreateCharacters>Crează caractere</CreateCharacters>
+  <FirstNameDesc>Prenumele caracterului.\n\nAcesta va fi afișat in câteva meniuri.</FirstNameDesc>
+  <ShortIdentifierDesc>Identificatorul caracterului.\n\nAcesta va fi afișat tot timpul.Poate fi numele sau prenumele,sau o poreclă.</ShortIdentifierDesc>
+  <LastNameDesc>Numele de familie al caracterului.\n\nAcesta va fi afișat in câteva meniuri.</LastNameDesc>
+  <Randomize>Aleator</Randomize>
+  <AgeIndicator>Vârsta {0}</AgeIndicator>
+  <Backstory>Biografia</Backstory>
+  <IncapableOf>Incapabil de</IncapableOf>
+  <Traits>Trăsături</Traits>
+  <PermanentMoodEffect>Efect permanent asupra dispoziției</PermanentMoodEffect>
+  <Skills>Abilitați</Skills>
   <NoneLower>none</NoneLower>
-  <Adulthood>Adulthood</Adulthood>
-  <Childhood>Childhood</Childhood>
-  <Male>male</Male>
-  <Female>female</Female>
-  <Pain>Pain</Pain>
-  <Health>Health</Health>
-  <Relations>Relations</Relations>
+  <Adulthood>Maturitate</Adulthood>
+  <Childhood>Copilărie</Childhood>
+  <Male>bărbat</Male>
+  <Female>femeie</Female>
+  <Pain>Durere</Pain>
+  <Health>Sănătate</Health>
+  <Relations>Relații</Relations>
 
   <!--=========== Misc ==========-->
   <Start>Start</Start>
-  <Advanced>Advanced</Advanced>
-  <Next>Next</Next>
-  <Back>Back</Back>
+  <Advanced>Avansat</Advanced>
+  <Next>Urmatorul</Next>
+  <Back>Inapoi</Back>
 
   <Gameplay>Gameplay</Gameplay>
 
-  <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
+  <ConfirmQuit>Chiar vrei sa ieși?O sa pierzi progresul nesalvat.</ConfirmQuit>
 
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>Fiecare persoana are nevoie de un nume valid.</EveryoneNeedsValidName>
 
-  <GeneratingWorld>Generating world</GeneratingWorld>
-  <GeneratingMap>Generating map</GeneratingMap>
+  <GeneratingWorld>Generare lume</GeneratingWorld>
+  <GeneratingMap>generare hartă</GeneratingMap>
 
 </LanguageData>
