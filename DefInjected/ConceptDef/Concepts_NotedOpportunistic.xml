@@ -3,11 +3,11 @@
 
   <!-- Concepts taught through the learning readout, when opportunities arise -->
 
-  <Rescuing.label>Rescuing</Rescuing.label>
-  <Rescuing.helpText>To rescue a wounded person, select a healthy colonist and the right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them.</Rescuing.helpText>
+  <Rescuing.label>Salva</Rescuing.label>
+  <Rescuing.helpText>Pentru a salva o persoană rănită,selectați o persoană sănătoasă și dă click dreapta pe persoana rănită.\n\nDacă salvezi o persoană străină,nu e sigur ca ei se vor alătura coloniei tale.Se poate ca ei să plece după ce se insănătoșesc.Dacă vrei ca ei să se alăture coloniei ,trebuie să ii capturezi și să ii recruiți.</Rescuing.helpText>
 
-  <Capturing.label>Capturing</Capturing.label>
-  <Capturing.helpText>When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use.</Capturing.helpText>
+  <Capturing.label>Captura</Capturing.label>
+  <Capturing.helpText>Când un inamic este incapacitat dar nu mort ,poți sa il capturezi.\n\nPentru a captura ,selectează un colonist ,dă un click dreaota pe inamicul incapacitat și selectează captura..\n\nAi nevoie de un pat extra marcat ca pat prizonier.</Capturing.helpText>
 
   <PersonalShields.label>Personal shields</PersonalShields.label>
   <PersonalShields.helpText>Personal shields stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against personal shields, either concentrate a lot of gunfire on the target, or fight hand-to-hand.</PersonalShields.helpText>
