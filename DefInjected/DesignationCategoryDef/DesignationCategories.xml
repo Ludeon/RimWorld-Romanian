@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Orders.label>orders</Orders.label>
-  <Orders.description>Designate specific interactions with specific things.</Orders.description>
+  <Orders.label>comenzi</Orders.label>
+  <Orders.description>Desemnează diferite interacţiuni cu diferite lucruri.</Orders.description>
 
-  <Zone.label>zone/Area</Zone.label>
-  <Zone.description>Designate zones and areas where colonists will do certain activities.</Zone.description>
+  <Zone.label>zona</Zone.label>
+  <Zone.description>Desemnează zone unde colonişti vor face anumite activităţi.</Zone.description>
 
-  <Structure.label>structure</Structure.label>
-  <Structure.description>Structural constructions like walls and power cables.</Structure.description>
+  <Structure.label>construcţie</Structure.label>
+  <Structure.description>Construcţii ca ziduri sau cabluri electrice.</Structure.description>
 
-  <Production.label>production</Production.label>
-  <Production.description>Structures used for producting goods.</Production.description>
+  <Production.label>Producţie</Production.label>
+  <Production.description>Construcţii folosite pentru producerea mărfurilor.</Production.description>
 
-  <Furniture.label>furniture</Furniture.label>
-  <Furniture.description>Small constructions.</Furniture.description>
+  <Furniture.label>Mobilă</Furniture.label>
+  <Furniture.description>Construcţii mici.</Furniture.description>
 
-  <Power.label>power</Power.label>
-  <Power.description>Electricity production, transmission, and management.</Power.description>
+  <Power.label>Electrice</Power.label>
+  <Power.description>Managementul cablurilor electrice şi construcţiilor electrice.</Power.description>
 
-  <Security.label>security</Security.label>
-  <Security.description>Security and combat-oriented constructions.</Security.description>
+  <Security.label>Securitate</Security.label>
+  <Security.description>Construcţii orientate pentru securitatea colonieiSecurity and combat-oriented constructions.</Security.description>
 
-  <Misc.label>misc</Misc.label>
-  <Misc.description>Miscellaneous constructibles.</Misc.description>
+  <Misc.label>Diverse</Misc.label>
+  <Misc.description>Diverse construcţii.</Misc.description>
 
-  <Floors.label>floors</Floors.label>
-  <Floors.description>Flooring.</Floors.description>
+  <Floors.label>Podele</Floors.label>
+  <Floors.description>Podele.</Floors.description>
 
-  <Joy.label>joy</Joy.label>
-  <Joy.description>Entertaining or pleasurable things for colonists to enjoy.</Joy.description>
+  <Joy.label>Distracţie</Joy.label>
+  <Joy.description>Lucruri care să le aducă zâmbetul pe buze coloniştilor.</Joy.description>
 
-  <Ship.label>ship</Ship.label>
-  <Ship.description>Components of your escape ship.</Ship.description>
+  <Ship.label>navă</Ship.label>
+  <Ship.description>Componentele navei de evacuare</Ship.description>
 
-  <Temperature.label>temperature</Temperature.label>
-  <Temperature.description>Things for controlling temperature.</Temperature.description>
+  <Temperature.label>Temperatură</Temperature.label>
+  <Temperature.description>Lucruri pentru controlarea temperaturi.</Temperature.description>
 
 
 </LanguageData>
