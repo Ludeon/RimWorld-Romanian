@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CallOnRadio>Call {0}</CallOnRadio>
+  <CallOnRadio>Sună {0}</CallOnRadio>
   <CannotUseReason>Cannot use ({0})</CannotUseReason>
   <CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
   <CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
