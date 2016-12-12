@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DesignatorCancel>Cancel</DesignatorCancel>
-  <DesignatorCancelDesc>Cancel designated building, mining, hauling, harvesting, and all other designations.</DesignatorCancelDesc>
+  <DesignatorCancel>Anulare</DesignatorCancel>
+  <DesignatorCancelDesc>Anulează construcţia,mineritul,transportul,recoltarea şi toate celelalte ordine.</DesignatorCancelDesc>
 
-  <DesignatorCutPlants>Cut plants</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlants>Taie plante</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Marchează plante  să fie tăiate sau distruse.Planta va fi complet scoasă iar orice măncare sau resurse rezultate vor fi recoltate.</DesignatorCutPlantsDesc>
 
-  <DesignatorDeconstruct>Deconstruct</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Deconstruct this and reclaim part of its resources.</DesignatorDeconstructDesc>
+  <DesignatorDeconstruct>Deconstruieşte</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Deconstuieşte şi reprimeşte o parte din resurse.</DesignatorDeconstructDesc>
 
-  <DesignatorUninstall>Uninstall</DesignatorUninstall>
-  <DesignatorUninstallDesc>Uninstall this so it can be moved, sold, or installed somewhere else.</DesignatorUninstallDesc>
+  <DesignatorUninstall>Dezinstalare</DesignatorUninstall>
+  <DesignatorUninstallDesc>Dezinstalează ca să poţi muta,vinde ,sau instalează altundeva.</DesignatorUninstallDesc>
 
-  <DesignatorHarvest>Harvest</DesignatorHarvest>
-  <DesignatorHarvestDesc>Marks plants to be harvested for their food or other products.</DesignatorHarvestDesc>
+  <DesignatorHarvest>Recoltă</DesignatorHarvest>
+  <DesignatorHarvestDesc>Marchează plante pentru a fi recoltate pentru mâncare sau alte resurse.</DesignatorHarvestDesc>
 
-  <DesignatorHarvestWood>Chop wood</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Marks trees to be chopped down for wood.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWood>Taie lemne</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Marchează copaci pentru a fi tăiaţi pentru lemn.</DesignatorHarvestWoodDesc>
 
-  <DesignatorHaulThings>Haul things</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThings>Transportă lucruri</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Marchează bucăţi de rocă şi alte lucruri pentru a fi transportate la zona de gunoi.Inutil pentru mâncare sau cadavre,care sunt transportabile intotdeauna.</DesignatorHaulThingsDesc>
   <MustHaulHaulables>Can only designate haulable but non-always-hauled things (like rock chunks).</MustHaulHaulables>
 
-  <DesignatorHunt>Hunt</DesignatorHunt>
-  <DesignatorHuntDesc>Mark animals to be hunted by your hunters.</DesignatorHuntDesc>
+  <DesignatorHunt>Vânătoare</DesignatorHunt>
+  <DesignatorHuntDesc>Marchează animale pentru a fi vânate de vânători.</DesignatorHuntDesc>
 
-  <DesignatorMine>Mine</DesignatorMine>
-  <DesignatorMineDesc>Designate areas of rock to be mined out.</DesignatorMineDesc>
+  <DesignatorMine>Mina</DesignatorMine>
+  <DesignatorMineDesc>Desemnaţi zone de rocă pentru a fi minate.</DesignatorMineDesc>
 
-  <DesignatorSmoothFloor>Smooth floor</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Designate rough stone terrain to be smoothed.</DesignatorSmoothFloorDesc>
+  <DesignatorSmoothFloor>Netezeşte podea</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Desemnaţi zone de teren cu piatră brută pentru a fi netezite.</DesignatorSmoothFloorDesc>
 
-  <DesignatorPlan>Plan</DesignatorPlan>
-  <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.</DesignatorPlanDesc>
+  <DesignatorPlan>Planuri</DesignatorPlan>
+  <DesignatorPlanDesc>Folosiţi această unealtă pentru a planifica viitoarele modificări ale coloniei.</DesignatorPlanDesc>
 
-  <DesignatorPlanRemove>Remove plans</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Remove planning designations.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemove>Sterge planuri</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Ştergeţi planurile făcute.</DesignatorPlanRemoveDesc>
 
-  <DesignatorAreaHomeExpand>Expand home area</DesignatorAreaHomeExpand>
-  <DesignatorAreaHomeExpandDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home area.</DesignatorAreaHomeExpandDesc>
-  <DesignatorAreaHomeClear>Clear home area</DesignatorAreaHomeClear>
-  <DesignatorAreaHomeClearDesc>Removes a home area. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeExpand>Extinde zona coloniei</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Colonişti vor repara clădiri,şterge podele şi stinge incendi in zona coloniei.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Şterge zona coloniei</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Colonişti nu vor mai repara clădiri,şterge podele sau stinge incendii aici.</DesignatorAreaHomeClearDesc>
 
   <DesignatorAreaBuildRoofExpand>Expand build roof area</DesignatorAreaBuildRoofExpand>
   <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
