@@ -1,58 +1,58 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Autosaving>Autosaving</Autosaving>
+  <Autosaving>Autosalvare</Autosaving>
 
-  <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
+  <GameStartDialog>Sirenele de urgență răsună pe nava mamă in timp ce nava pare că se destramă. 3 dintre persoanele de pe navă reușesc să ajungă la capsulele de evacuare înainte ca nava să fie distrusă.\n\nCeva timp mai târziu, aterizați pe o planetă îndepărtată.\n\nBucăți din fosta navă se prăbușesc în apropiere, trebuie să concepi un plan pentru supraviețuire.</GameStartDialog>
 
-  <Colony>Colony</Colony>
+  <Colony>Colonie</Colony>
 
-  <ChangeLanguageFromMainMenu>You can only change language from the options screen on the main menu.</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>Limba se poate schimba doar din meniul principal.</ChangeLanguageFromMainMenu>
 
-  <AndLower>and</AndLower>
-  <DisabledLower>disabled</DisabledLower>
+  <AndLower>şi</AndLower>
+  <DisabledLower>dezactivat</DisabledLower>
 
 
-  <VersionIndicator>Version {0}</VersionIndicator>
-  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
-  <CompiledOn>Compiled {0}</CompiledOn>
-  <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
+  <VersionIndicator>Versiune {0}</VersionIndicator>
+  <DevelopmentBuildLower>Versiune de dezvoltare</DevelopmentBuildLower>
+  <CompiledOn>Compilat {0}</CompiledOn>
+  <LoggedIntoSteamAs>Logat in steam ca {0}</LoggedIntoSteamAs>
 
   <!-- General-use words -->
-  <Yes>Yes</Yes>
-  <No>No</No>
+  <Yes>Da</Yes>
+  <No>Nu</No>
   <min>min</min>
   <max>max</max>
-  <chance>chance</chance>
+  <chance>sanşa</chance>
   <context>context</context>
   <multiplier>multiplier</multiplier>
-  <damage>damage</damage>
-  <radius>radius</radius>
-  <durationDays>duration (days)</durationDays>
-  <intervalDays>interval (days)</intervalDays>
-  <repeat>repeat</repeat>
+  <damage>daună</damage>
+  <radius>rază</radius>
+  <durationDays>durată (zile)</durationDays>
+  <intervalDays>interval (zile)</intervalDays>
+  <repeat>repetă</repeat>
 
   <!-- Content generation-->
 
-  <MeatLabel>{0} meat</MeatLabel>
-  <MeatDesc>Raw butchered flesh. Can be cooked into meals, or eaten raw.</MeatDesc>
+  <MeatLabel>Carne de {0}</MeatLabel>
+  <MeatDesc>Carne crudă.Poate fi gatită sau mâncată crud.</MeatDesc>
 
-  <LeatherLabel>{0} leather</LeatherLabel>
-  <LeatherDesc>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</LeatherDesc>
+  <LeatherLabel>Piele de {0}</LeatherLabel>
+  <LeatherDesc>Tăbăcită ,uscată piele trasă.Un material tradiţional pentru confecţionare haine şi saci.</LeatherDesc>
 
-  <CorpseLabel>{0} corpse</CorpseLabel>
-  <CorpseDesc>Dead body of a {0}.</CorpseDesc>
-  <DeadLabel>{0} (dead)</DeadLabel>
+  <CorpseLabel>Cadavru de {0}</CorpseLabel>
+  <CorpseDesc>Cadavrul lui {0}.</CorpseDesc>
+  <DeadLabel>{0} (mort)</DeadLabel>
 
-  <RoughStoneTerrainLabel>rough {0}</RoughStoneTerrainLabel>
-  <RoughStoneTerrainDesc>Rough, natural {0} ground.</RoughStoneTerrainDesc>
-  <RoughHewnStoneTerrainLabel>rough-hewn {0}</RoughHewnStoneTerrainLabel>
-  <RoughHewnStoneTerrainDesc>Roughly cut natural {0} floor.</RoughHewnStoneTerrainDesc>
-  <SmoothStoneTerrainLabel>smooth {0}</SmoothStoneTerrainLabel>
-  <SmoothStoneTerrainDesc>Smoothed natural {0} floor.</SmoothStoneTerrainDesc>
+  <RoughStoneTerrainLabel>{0} rugos </RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Sol {0} natural,rugos.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>{0} rugos</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Podea de {0} şlefuită imperfect.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>{0} şlefuitp</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Podea de  {0} natural ,şlefuită.</SmoothStoneTerrainDesc>
 
-  <BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
-  <FrameLabelExtra> (building)</FrameLabelExtra>
+  <BlueprintLabelExtra> (schema)</BlueprintLabelExtra>
+  <FrameLabelExtra> (construcţie)</FrameLabelExtra>
 
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
@@ -60,12 +60,12 @@
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
   <SomeonesRoom>{0}'s {1}</SomeonesRoom>
-  <CouplesRoom>{0} and {1}'s {2}</CouplesRoom>
+  <CouplesRoom>{2} lui {0} şi {1}</CouplesRoom>
 
-  <VariousLabel>(various)</VariousLabel>
+  <VariousLabel>(variat)</VariousLabel>
 
   <!-- History events -->
-  <ColonistDied>Colonist died</ColonistDied>
+  <ColonistDied>Colonist decedat</ColonistDied>
 
 
 

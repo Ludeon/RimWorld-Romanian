@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ClockTime>Time</ClockTime>
-  <ClockDate>Date</ClockDate>
-  <ClockYear>Year</ClockYear>
-  <DateReadoutTip>Days passed since your arrival: {0}\nThere are {1} days in each season.\nCurrent season: {2}</DateReadoutTip>
+  <ClockTime>Ora</ClockTime>
+  <ClockDate>Data</ClockDate>
+  <ClockYear>Anul</ClockYear>
+  <DateReadoutTip>{0} de zile de la sosire.\nSunt {1} de zile in fiecare anotimp.\nAnotimpul curent: {2}</DateReadoutTip>
 
   <FullDate>{0} of {1}, {2}</FullDate>
   <DateReadout>{0} of {1}, {2}</DateReadout>

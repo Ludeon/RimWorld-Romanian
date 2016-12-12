@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SaveButton>Save</SaveButton>
+  <SaveButton>Salvare</SaveButton>
   <!--<CancelButton>Cancel</CancelButton>-->
-  <ClearBinding>Clear</ClearBinding>
-  <ResetBinding>Reset to default</ResetBinding>
-  <BindingButtonToolTip>Left-click to bind this key or right-click for options</BindingButtonToolTip>
-  <PressAnyKeyOrEsc>Press any key or Esc to cancel...</PressAnyKeyOrEsc>
+  <ClearBinding>Goleşte</ClearBinding>
+  <ResetBinding>Resetare implicită</ResetBinding>
+  <BindingButtonToolTip>Click stânga pentru a lega acest buton sau click dreapta pentru opţiuni.</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Apasă orice tastă sau ESC pentru a anula...</PressAnyKeyOrEsc>
   <KeyBindingOverwritten>Key binding overwritten: {0}</KeyBindingOverwritten>
 
 </LanguageData>

@@ -33,9 +33,9 @@
 
   <!-- ======================== Grouped ========================-->
 
-  <ScenPart_StartWith>Incepti cu </ScenPart_StartWith>
-  <ScenPart_MapScatteredWith>Harta este imprăștiată cu </ScenPart_MapScatteredWith>
-  <ScenPart_PermaMapCondition>Condiți(e) permanenta de hartă</ScenPart_PermaMapCondition>
+  <ScenPart_StartWith>Incepeti cu </ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>Harta este plină cu </ScenPart_MapScatteredWith>
+  <ScenPart_PermaMapCondition>Condiți(e) permanentă de hartă</ScenPart_PermaMapCondition>
   <ScenPart_DisableIncident>Incident(e) dezactivat(e)</ScenPart_DisableIncident>
   <ScenPart_CreateIncident>Incident creat</ScenPart_CreateIncident>
   <ScenPart_DisallowBuilding>Nu poate construi</ScenPart_DisallowBuilding>

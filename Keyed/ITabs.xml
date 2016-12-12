@@ -102,21 +102,21 @@
   <TrainingNeedsPrerequisite>Conditii necesare: {0}</TrainingNeedsPrerequisite>
 
   <!-- Social tab -->
-  <NoRelationships>(no relationships)</NoRelationships>
-  <Kidnapped>Kidnapped</Kidnapped>
-  <Slave>Slave</Slave>
-  <FactionLeader>Faction leader</FactionLeader>
-  <OpinionOf>Opinion of {0}</OpinionOf>
-  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
-  <IAmDead>I'm dead</IAmDead>
-  <IAmPsychopath>I'm a psychopath</IAmPsychopath>
+  <NoRelationships>(fără relaţii)</NoRelationships>
+  <Kidnapped>Rapit</Kidnapped>
+  <Slave>Sclav</Slave>
+  <FactionLeader>Lider de facţiune</FactionLeader>
+  <OpinionOf>Opinia mea despre {0}</OpinionOf>
+  <SomeonesOpinionOfMe>Opinia lui {0} de mine</SomeonesOpinionOfMe>
+  <IAmDead>Sunt mort</IAmDead>
+  <IAmPsychopath>Sutn un psihopat</IAmPsychopath>
 
   <!-- Gear tab -->
-  <AverageArmor>Average armor</AverageArmor>
+  <AverageArmor>Armură medie</AverageArmor>
   <ComfyTemperatureRange>Comfortable temperature range</ComfyTemperatureRange>
-  <ArmorBlunt>Blunt</ArmorBlunt>
-  <ArmorSharp>Sharp</ArmorSharp>
-  <ArmorHeat>Heat</ArmorHeat>
-  <ArmorElectric>Electric</ArmorElectric>
+  <ArmorBlunt>Contondentă</ArmorBlunt>
+  <ArmorSharp>Ascutită</ArmorSharp>
+  <ArmorHeat>Caldură</ArmorHeat>
+  <ArmorElectric>Electrică</ArmorElectric>
 
 </LanguageData>

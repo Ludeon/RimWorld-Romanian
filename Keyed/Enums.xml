@@ -2,80 +2,80 @@
 <LanguageData>
 
   <!-- glow -->
-  <Dark>Dark</Dark>
-  <Lit>Lit</Lit>
-  <LitBrightly>Brightly lit</LitBrightly>
+  <Dark>Intuneric</Dark>
+  <Lit>Luminat</Lit>
+  <LitBrightly>Foarte luminat</LitBrightly>
 
   <!-- history upload pref -->
-  <Unspecified>Undecided</Unspecified>
-  <Always>Allow</Always>
-  <Never>Do not allow</Never>
+  <Unspecified>Nehotărât</Unspecified>
+  <Always>Permite</Always>
+  <Never>Nu permite</Never>
 
   <!-- Price types -->
-  <PriceTypeVeryCheap>very cheap</PriceTypeVeryCheap>
-  <PriceTypeCheap>cheap</PriceTypeCheap>
+  <PriceTypeVeryCheap>foarte ieftin</PriceTypeVeryCheap>
+  <PriceTypeCheap>ieftin</PriceTypeCheap>
   <PriceTypeNormal>normal</PriceTypeNormal>
-  <PriceTypeExpensive>expensive</PriceTypeExpensive>
+  <PriceTypeExpensive>scump</PriceTypeExpensive>
   <PriceTypeExorbitant>exorbitant</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
-  <StoragePriorityUnstored>unstored</StoragePriorityUnstored>
-  <StoragePriorityLow>low</StoragePriorityLow>
-  <StoragePriorityNormal>normal</StoragePriorityNormal>
-  <StoragePriorityPreferred>preferred</StoragePriorityPreferred>
+  <StoragePriorityUnstored>nedepozitat</StoragePriorityUnstored>
+  <StoragePriorityLow>scăzută</StoragePriorityLow>
+  <StoragePriorityNormal>normală</StoragePriorityNormal>
+  <StoragePriorityPreferred>preferat</StoragePriorityPreferred>
   <StoragePriorityImportant>important</StoragePriorityImportant>
-  <StoragePriorityCritical>critical</StoragePriorityCritical>
+  <StoragePriorityCritical>critică</StoragePriorityCritical>
 
   <!-- Food type flags -->
-  <FoodTypeFlags_VegetableOrFruit>vegetables</FoodTypeFlags_VegetableOrFruit>
-  <FoodTypeFlags_Meat>raw meat</FoodTypeFlags_Meat>
-  <FoodTypeFlags_Corpse>corpses</FoodTypeFlags_Corpse>
-  <FoodTypeFlags_Seeds>seeds</FoodTypeFlags_Seeds>
-  <FoodTypeFlags_AnimalProduct>animal products</FoodTypeFlags_AnimalProduct>
-  <FoodTypeFlags_Plant>live plants</FoodTypeFlags_Plant>
-  <FoodTypeFlags_Tree>live trees</FoodTypeFlags_Tree>
-  <FoodTypeFlags_Meal>meals</FoodTypeFlags_Meal>
-  <FoodTypeFlags_Processed>processed foods</FoodTypeFlags_Processed>
-  <FoodTypeFlags_Liquor>liquor</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_VegetableOrFruit>legume</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>carne crudă</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>cadavre</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seeds>seminţe</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_AnimalProduct>produse din animale</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>plante vii</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>copaci vii</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>mese</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>hrană procesată</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Liquor>lichior</FoodTypeFlags_Liquor>
   <FoodTypeFlags_Kibble>kibble</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
-  <QualityCategory_Awful>awful</QualityCategory_Awful>
-  <QualityCategory_Shoddy>shoddy</QualityCategory_Shoddy>
-  <QualityCategory_Poor>poor</QualityCategory_Poor>
-  <QualityCategory_Normal>normal</QualityCategory_Normal>
-  <QualityCategory_Good>good</QualityCategory_Good>
-  <QualityCategory_Superior>superior</QualityCategory_Superior>
-  <QualityCategory_Excellent>excellent</QualityCategory_Excellent>
-  <QualityCategory_Masterwork>masterwork</QualityCategory_Masterwork>
-  <QualityCategory_Legendary>legendary</QualityCategory_Legendary>
-  <QualityCategoryShort_Awful>awfl</QualityCategoryShort_Awful>
-  <QualityCategoryShort_Shoddy>shod</QualityCategoryShort_Shoddy>
-  <QualityCategoryShort_Poor>poor</QualityCategoryShort_Poor>
+  <QualityCategory_Awful>îngrozitore</QualityCategory_Awful>
+  <QualityCategory_Shoddy>inferioră</QualityCategory_Shoddy>
+  <QualityCategory_Poor>slabă</QualityCategory_Poor>
+  <QualityCategory_Normal>normală</QualityCategory_Normal>
+  <QualityCategory_Good>bună</QualityCategory_Good>
+  <QualityCategory_Superior>superioară</QualityCategory_Superior>
+  <QualityCategory_Excellent>excelentă</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>exceptională</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>legendară</QualityCategory_Legendary>
+  <QualityCategoryShort_Awful>îngro</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>inf</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>sla</QualityCategoryShort_Poor>
   <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
-  <QualityCategoryShort_Good>good</QualityCategoryShort_Good>
-  <QualityCategoryShort_Superior>supr</QualityCategoryShort_Superior>
-  <QualityCategoryShort_Excellent>exc</QualityCategoryShort_Excellent>
-  <QualityCategoryShort_Masterwork>mast</QualityCategoryShort_Masterwork>
-  <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
+  <QualityCategoryShort_Good>bun</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>supe</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>excel</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>excep</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>lege</QualityCategoryShort_Legendary>
 
   <!-- Hunger -->
-  <HungerLevel_Starving>Starving</HungerLevel_Starving>
-  <HungerLevel_UrgentlyHungry>Urgently hungry</HungerLevel_UrgentlyHungry>
-  <HungerLevel_Hungry>Hungry</HungerLevel_Hungry>
-  <HungerLevel_Fed>Fed</HungerLevel_Fed>
+  <HungerLevel_Starving>Flămând</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>Lihnit</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>Înfometat</HungerLevel_Hungry>
+  <HungerLevel_Fed>Hrănit</HungerLevel_Fed>
 
   <!-- -Fatigue -->
-  <HungerLevel_Exhausted>Exhausted</HungerLevel_Exhausted>
-  <HungerLevel_VeryTired>Very tired</HungerLevel_VeryTired>
-  <HungerLevel_Tired>Tired</HungerLevel_Tired>
-  <HungerLevel_Rested>Rested</HungerLevel_Rested>
+  <HungerLevel_Exhausted>Epuizat</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>Foarte obosit</HungerLevel_VeryTired>
+  <HungerLevel_Tired>Obosit</HungerLevel_Tired>
+  <HungerLevel_Rested>Odihnit</HungerLevel_Rested>
 
   <!-- Hilliness -->
-  <Hilliness_Flat>flat</Hilliness_Flat>
-  <Hilliness_SmallHills>small hills</Hilliness_SmallHills>
-  <Hilliness_LargeHills>large hills</Hilliness_LargeHills>
-  <Hilliness_Mountainous>mountainous</Hilliness_Mountainous>
+  <Hilliness_Flat>plat</Hilliness_Flat>
+  <Hilliness_SmallHills>dealuri mici</Hilliness_SmallHills>
+  <Hilliness_LargeHills>dealuri mari</Hilliness_LargeHills>
+  <Hilliness_Mountainous>munti</Hilliness_Mountainous>
 
   <!-- Steam workshop interaction -->
   <WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
@@ -88,54 +88,54 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
-  <ContentSource_LocalFolder>local folder</ContentSource_LocalFolder>
-  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  <ContentSource_LocalFolder>folder local</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>atelier Steam</ContentSource_SteamWorkshop>
 
   <!-- Trainable intelligence -->
-  <TrainableIntelligence_None>none</TrainableIntelligence_None>
-  <TrainableIntelligence_Simple>simple</TrainableIntelligence_Simple>
-  <TrainableIntelligence_Intermediate>intermediate</TrainableIntelligence_Intermediate>
-  <TrainableIntelligence_Advanced>advanced</TrainableIntelligence_Advanced>
+  <TrainableIntelligence_None>nici una</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>simplă</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>intermediar</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>avansată</TrainableIntelligence_Advanced>
 
   <!-- Medical care category -->
-  <MedicalCareCategory_NoCare>No medical care</MedicalCareCategory_NoCare>
-  <MedicalCareCategory_NoMeds>Doctor care, but no medicine</MedicalCareCategory_NoMeds>
-  <MedicalCareCategory_HerbalOrWorse>Herbal medicine or worse</MedicalCareCategory_HerbalOrWorse>
-  <MedicalCareCategory_NormalOrWorse>Normal medicine or worse</MedicalCareCategory_NormalOrWorse>
-  <MedicalCareCategory_Best>Best quality medical care</MedicalCareCategory_Best>
+  <MedicalCareCategory_NoCare>Fără ingrijire medicală</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>Îngrijire medicală ,fără medicamente</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>Medicamente pe bază de plante sau mai rău</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Medicamente normale sau mai rău</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Cea mai bună ingrijire medicală</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
-  <HostilityResponseMode_Ignore>Ignore</HostilityResponseMode_Ignore>
-  <HostilityResponseMode_Attack>Attack</HostilityResponseMode_Attack>
-  <HostilityResponseMode_Flee>Flee</HostilityResponseMode_Flee>
+  <HostilityResponseMode_Ignore>Ignoră</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Atacă</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Refugia</HostilityResponseMode_Flee>
 
   <!-- HediffGrowthMode -->
-  <HediffGrowthMode_Growing>growing</HediffGrowthMode_Growing>
-  <HediffGrowthMode_Stable>stable</HediffGrowthMode_Stable>
-  <HediffGrowthMode_Remission>remission</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Growing>Creşte</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>Stabilă</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>Remisie</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
-  <TechLevel_Animal>animal</TechLevel_Animal>
-  <TechLevel_Neolithic>neolithic</TechLevel_Neolithic>
-  <TechLevel_Medieval>medieval</TechLevel_Medieval>
-  <TechLevel_Industrial>industrial</TechLevel_Industrial>
-  <TechLevel_Spacer>spacer</TechLevel_Spacer>
+  <TechLevel_Animal>animala</TechLevel_Animal>
+  <TechLevel_Neolithic>neolitic</TechLevel_Neolithic>
+  <TechLevel_Medieval>medievală</TechLevel_Medieval>
+  <TechLevel_Industrial>industrială</TechLevel_Industrial>
+  <TechLevel_Spacer>spaţială</TechLevel_Spacer>
   <TechLevel_Ultra>ultra</TechLevel_Ultra>
-  <TechLevel_Transcendent>transcendent</TechLevel_Transcendent>
+  <TechLevel_Transcendent>transcendentă</TechLevel_Transcendent>
 
   <!-- Player pawns arrive method -->
-  <PlayerPawnsArriveMethod_Standing>Standing</PlayerPawnsArriveMethod_Standing>
-  <PlayerPawnsArriveMethod_DropPods>Drop pods</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_Standing>In picioare</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Capsule de salvare</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
-  <PawnGenerationContext_All>all characters</PawnGenerationContext_All>
-  <PawnGenerationContext_PlayerStarter>player starting characters</PawnGenerationContext_PlayerStarter>
-  <PawnGenerationContext_NonPlayer>non-player characters</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_All>toate caracterele</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>caracterele de inceput ale jucătorului</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>caractere neapartinând jucătorului</PawnGenerationContext_NonPlayer>
 
   <!-- Animal name display mode -->
-  <ShowAnimalNames>Show animal names</ShowAnimalNames>
-  <AnimalNameDisplayMode_TameNamed>Tame (named only)</AnimalNameDisplayMode_TameNamed>
-  <AnimalNameDisplayMode_TameAll>Tame (all)</AnimalNameDisplayMode_TameAll>
+  <ShowAnimalNames>Arată numele animalelor</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Îmblânzite (cu nume doar)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Îmblânzite (toate)</AnimalNameDisplayMode_TameAll>
 
   <!-- Temperature -->
   <Celsius>Celsius</Celsius>
@@ -143,7 +143,7 @@
   <Kelvin>Kelvin</Kelvin>
 
   <!-- Spoil reason -->
-  <SpoilReason_Freezing>Spoiled by freezing.</SpoilReason_Freezing>
-  <SpoilReason_HighTemperature>Spoiled by high temperature.</SpoilReason_HighTemperature>
+  <SpoilReason_Freezing>Distrus de frig.</SpoilReason_Freezing>
+  <SpoilReason_HighTemperature>Distrus de temperaturi ridicate.</SpoilReason_HighTemperature>
 
 </LanguageData>
