@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Sand.label>sand</Sand.label>
-  <Soil.label>soil</Soil.label>
-  <MarshyTerrain.label>marshy soil</MarshyTerrain.label>
-  <SoilRich.label>rich soil</SoilRich.label>
-  <Mud.label>mud</Mud.label>
-  <Marsh.label>marsh</Marsh.label>
-  <Gravel.label>gravel</Gravel.label>
-  <MossyTerrain.label>lichen-covered dirt</MossyTerrain.label>
-  <Ice.label>Ice</Ice.label>
+  <Sand.label>nisip</Sand.label>
+  <Soil.label>sol</Soil.label>
+  <MarshyTerrain.label>sol mlăştinos</MarshyTerrain.label>
+  <SoilRich.label>sol bogat</SoilRich.label>
+  <Mud.label>noroi</Mud.label>
+  <Marsh.label>mlaştină</Marsh.label>
+  <Gravel.label>pietriş</Gravel.label>
+  <MossyTerrain.label>pământ acoperit cu licheni</MossyTerrain.label>
+  <Ice.label>gheaţă</Ice.label>
 
 
 </LanguageData>

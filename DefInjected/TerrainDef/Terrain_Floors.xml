@@ -1,46 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Misc -->
 
-  <MetalTile.label>metal tile</MetalTile.label>
-  <MetalTile.description>Metal tiles, for that spaceship look. Pretty, but labor and material-intensive.</MetalTile.description>
+  <MetalTile.label>placă metalică</MetalTile.label>
+  <MetalTile.description>Gresie metalică pentru aspectul de navă,frumos dar costisitor şi greu de turnat.</MetalTile.description>
 
-  <SilverTile.label>silver tile</SilverTile.label>
-  <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.</SilverTile.description>
+  <SilverTile.label>placă de argint</SilverTile.label>
+  <SilverTile.description>Scumpe şi incet de turnat,dar foarte frumoase.Se potrivesc in camerele luxoase.</SilverTile.description>
 
-  <GoldTile.label>gold tile</GoldTile.label>
-  <GoldTile.description>The most beautiful and impressive kind of floor. Very expensive and requires a lot of work to build.</GoldTile.description>
+  <GoldTile.label>placă de aur</GoldTile.label>
+  <GoldTile.description>Cele mai frumoase şi impresionante plăci.Foarte scumpe şi necesită mult timp pentru turnat.</GoldTile.description>
 
-  <SterileTile.label>sterile tile</SterileTile.label>
-  <SterileTile.description>Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</SterileTile.description>
+  <SterileTile.label>placă sterilă</SterileTile.label>
+  <SterileTile.description>Plăcile sterile ţin camerele curate.Foate utile in spitale pentru a preveni infecţiile.Neutru in ceea ce priveşte aspectul şi foarte lent pentru a turna.</SterileTile.description>
 
-  <PavedTile.label>paved tile</PavedTile.label>
-  <PavedTile.description>Utilitarian concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.description>
+  <PavedTile.label>placă de pavaj</PavedTile.label>
+  <PavedTile.description>Dale din beton .Ieftine şi mobilitate ridicată pe ele dar neutre in ceea ce priveşte aspectul şi lente pentru a turna.</PavedTile.description>
 
-  <Concrete.label>concrete</Concrete.label>
-  <Concrete.description>Quick-poured concrete. Fast to walk on, cheap, and very quick to pour, but quite ugly.</Concrete.description>
+  <Concrete.label>beton</Concrete.label>
+  <Concrete.description>Beton turnat rapid.Mobilitate ridicată şi turnat repede ,dar urât.</Concrete.description>
 
-  <WoodPlankFloor.label>wood floor</WoodPlankFloor.label>
-  <WoodPlankFloor.description>Wood plank flooring. For that warm, homey feeling.</WoodPlankFloor.description>
+  <WoodPlankFloor.label>podea de lemn</WoodPlankFloor.label>
+  <WoodPlankFloor.description>Podele din scândură de lemn.Pentru aceea senzaţie caldă.</WoodPlankFloor.description>
 
 
   <!-- Carpets -->
 
-  <CarpetRed.label>red carpet</CarpetRed.label>
-  <CarpetRed.description>Plush carpet in a lovely rose hue.</CarpetRed.description>
+  <CarpetRed.label>covor roşu</CarpetRed.label>
+  <CarpetRed.description>Covor de pluş într-o nuanță de trandafir minunat.</CarpetRed.description>
 
-  <CarpetGreen.label>green carpet</CarpetGreen.label>
-  <CarpetGreen.description>Naturalistic-feeling green carpet.</CarpetGreen.description>
+  <CarpetGreen.label>covor verde</CarpetGreen.label>
+  <CarpetGreen.description>Aspect verde natural.</CarpetGreen.description>
 
-  <CarpetBlue.label>blue carpet</CarpetBlue.label>
-  <CarpetBlue.description>Toe-hugging plush carpet in a cool blue color.</CarpetBlue.description>
+  <CarpetBlue.label>covor albastru</CarpetBlue.label>
+  <CarpetBlue.description>Covor albastru de pluş care o să iţi imbrăţişeze degetele de la picioare.</CarpetBlue.description>
 
-  <CarpetCream.label>cream carpet</CarpetCream.label>
-  <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
+  <CarpetCream.label>covor cream</CarpetCream.label>
+  <CarpetCream.description>Covor de culoare cream foarte primitor.</CarpetCream.description>
 
-  <CarpetDark.label>dark carpet</CarpetDark.label>
-  <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
+  <CarpetDark.label>covor negru</CarpetDark.label>
+  <CarpetDark.description>Covor negru cu aspect profesional.</CarpetDark.description>
 
 
 </LanguageData>

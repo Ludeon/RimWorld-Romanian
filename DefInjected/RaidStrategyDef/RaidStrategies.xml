@@ -1,28 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <ImmediateAttack.letterLabelEnemy>Raid</ImmediateAttack.letterLabelEnemy>
-  <ImmediateAttack.arrivalTextEnemy>They are attacking immediately.</ImmediateAttack.arrivalTextEnemy>
-  <ImmediateAttack.letterLabelFriendly>Friendlies</ImmediateAttack.letterLabelFriendly>
-  <ImmediateAttack.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttack.arrivalTextEnemy>Ei atacă imediat.</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.letterLabelFriendly>Amici</ImmediateAttack.letterLabelFriendly>
+  <ImmediateAttack.arrivalTextFriendly>Ei se deplasează pentru a te ajuta.</ImmediateAttack.arrivalTextFriendly>
 
   <ImmediateAttackSmart.letterLabelEnemy>Raid</ImmediateAttackSmart.letterLabelEnemy>
-  <ImmediateAttackSmart.arrivalTextEnemy>They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics.</ImmediateAttackSmart.arrivalTextEnemy>
-  <ImmediateAttackSmart.letterLabelFriendly>Friendlies</ImmediateAttackSmart.letterLabelFriendly>
-  <ImmediateAttackSmart.arrivalTextFriendly>They are moving in to help you immediately.</ImmediateAttackSmart.arrivalTextFriendly>
+  <ImmediateAttackSmart.arrivalTextEnemy>Ei atacă imediat.\n\nAi grija -  par a avea o strategie.</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.letterLabelFriendly>Amici</ImmediateAttackSmart.letterLabelFriendly>
+  <ImmediateAttackSmart.arrivalTextFriendly>Ei se deplasează pentru a te ajuta.</ImmediateAttackSmart.arrivalTextFriendly>
 
   <StageThenAttack.letterLabelEnemy>Raid</StageThenAttack.letterLabelEnemy>
-  <StageThenAttack.arrivalTextEnemy>They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively.</StageThenAttack.arrivalTextEnemy>
-  <StageThenAttack.letterLabelFriendly>Friendlies</StageThenAttack.letterLabelFriendly>
-  <StageThenAttack.arrivalTextFriendly>They will prepare for a while before moving in to help you.</StageThenAttack.arrivalTextFriendly>
+  <StageThenAttack.arrivalTextEnemy>Ei se vor pregăti după aceea te vor ataca.\n\nPregăteşte apărarea sau atacăi preventiv.</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.letterLabelFriendly>Amici</StageThenAttack.letterLabelFriendly>
+  <StageThenAttack.arrivalTextFriendly>Ei se vor pregăti o vreme după aceea se vor deplasa pentru a te ajuta.</StageThenAttack.arrivalTextFriendly>
 
   <ImmediateAttackSappers.letterLabelEnemy>Raid</ImmediateAttackSappers.letterLabelEnemy>
-  <ImmediateAttackSappers.arrivalTextEnemy>It looks like they want to use sappers to tunnel around your defenses.</ImmediateAttackSappers.arrivalTextEnemy>
+  <ImmediateAttackSappers.arrivalTextEnemy>Se pare ca folosesc genişti pentru a săpa un tunel pentru a evita apărarea ta.</ImmediateAttackSappers.arrivalTextEnemy>
 
-  <Siege.letterLabelEnemy>Siege</Siege.letterLabelEnemy>
-  <Siege.arrivalTextEnemy>It looks like they want to besiege the colony and pound you with artillery from a distance. You can try to wait them out - or go get them.</Siege.arrivalTextEnemy>
-  <Siege.letterLabelFriendly>Friendlies</Siege.letterLabelFriendly>
-  <Siege.arrivalTextFriendly>It looks like they want to use siege tactics to help you.</Siege.arrivalTextFriendly>
+  <Siege.letterLabelEnemy>Asediu</Siege.letterLabelEnemy>
+  <Siege.arrivalTextEnemy>Se pare ca vor să asedieze colonia şi să atace cu artilerie de la distanţă.Poţi aştepta să te atace direct - sau poti sa ii ataci tu.</Siege.arrivalTextEnemy>
+  <Siege.letterLabelFriendly>Amici</Siege.letterLabelFriendly>
+  <Siege.arrivalTextFriendly>Se pare ca vor să folosescă tactici de asediu pentru a te ajuta.</Siege.arrivalTextFriendly>
 
 
 </LanguageData>

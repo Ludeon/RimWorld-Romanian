@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <Root.label>root</Root.label>
@@ -6,71 +6,71 @@
 
   <!-- Foods -->
 
-  <Foods.label>foods</Foods.label>
-  <FoodMeals.label>meals</FoodMeals.label>
-  <FoodRaw.label>raw food</FoodRaw.label>
-  <MeatRaw.label>meat</MeatRaw.label>
-  <PlantFoodRaw.label>vegetarian</PlantFoodRaw.label>
-  <AnimalProductRaw.label>animal products</AnimalProductRaw.label>
-  <EggsUnfertilized.label>eggs (unfert.)</EggsUnfertilized.label>
-  <EggsFertilized.label>eggs (fert.)</EggsFertilized.label>
+  <Foods.label>alimente</Foods.label>
+  <FoodMeals.label>mese</FoodMeals.label>
+  <FoodRaw.label>mâncare crudă</FoodRaw.label>
+  <MeatRaw.label>carne</MeatRaw.label>
+  <PlantFoodRaw.label>vegetariană</PlantFoodRaw.label>
+  <AnimalProductRaw.label>produse de origine animală</AnimalProductRaw.label>
+  <EggsUnfertilized.label>ouă (nefert.)</EggsUnfertilized.label>
+  <EggsFertilized.label>ouă (fert.)</EggsFertilized.label>
 
 
   <!-- Manufactured -->
 
-  <Manufactured.label>manufactured</Manufactured.label>
-  <Textiles.label>textiles</Textiles.label>
-  <Leathers.label>leathers</Leathers.label>
-  <Medicine.label>medicine</Medicine.label>
-  <Drugs.label>drugs</Drugs.label>
+  <Manufactured.label>manufacturat</Manufactured.label>
+  <Textiles.label>textile</Textiles.label>
+  <Leathers.label>articol din piele</Leathers.label>
+  <Medicine.label>medicament</Medicine.label>
+  <Drugs.label>droguri</Drugs.label>
 
 
   <!-- Raw resources -->
 
-  <ResourcesRaw.label>raw resources</ResourcesRaw.label>
-  <PlantMatter.label>plant matter</PlantMatter.label>
-  <StoneBlocks.label>stone blocks</StoneBlocks.label>
+  <ResourcesRaw.label>materii prime</ResourcesRaw.label>
+  <PlantMatter.label>materie vegetală</PlantMatter.label>
+  <StoneBlocks.label>blocuri de piatră</StoneBlocks.label>
 
 
   <!-- Items -->
 
-  <Items.label>items</Items.label>
-  <Art.label>art</Art.label>
-  <Furniture.label>furniture</Furniture.label>
-  <Unfinished.label>unfinished</Unfinished.label>
-  <Artifacts.label>artifacts</Artifacts.label>
-  <BodyParts.label>body parts</BodyParts.label>
+  <Items.label>articole</Items.label>
+  <Art.label>artă</Art.label>
+  <Furniture.label>mobilă</Furniture.label>
+  <Unfinished.label>neterminat</Unfinished.label>
+  <Artifacts.label>artefacte</Artifacts.label>
+  <BodyParts.label>părţi ale corpului</BodyParts.label>
   <BodyPartsNatural.label>natural</BodyPartsNatural.label>
   <BodyPartsArtificial.label>artificial</BodyPartsArtificial.label>
 
 
   <!-- Weapons -->
 
-  <Weapons.label>weapons</Weapons.label>
-  <WeaponsMelee.label>melee weapons</WeaponsMelee.label>
-  <WeaponsRanged.label>ranged weapons</WeaponsRanged.label>
-  <Grenades.label>grenades</Grenades.label>
+  <Weapons.label>arme</Weapons.label>
+  <WeaponsMelee.label>arme rază mică</WeaponsMelee.label>
+  <WeaponsRanged.label>arme rază mare</WeaponsRanged.label>
+  <Grenades.label>grenade</Grenades.label>
 
 
   <!-- Apparel -->
 
-  <Apparel.label>apparel</Apparel.label>
-  <Headgear.label>headgear</Headgear.label>
+  <Apparel.label>haine</Apparel.label>
+  <Headgear.label>pălări</Headgear.label>
 
 
   <!-- Chunks -->
 
-  <Chunks.label>chunks</Chunks.label>
-  <StoneChunks.label>stone chunks</StoneChunks.label>
+  <Chunks.label>bucăţi</Chunks.label>
+  <StoneChunks.label>bucăţi de piatră</StoneChunks.label>
 
 
   <!-- Corpses -->
 
-  <Corpses.label>corpses</Corpses.label>
-  <CorpsesHumanlike.label>humanlike corpses</CorpsesHumanlike.label>
-  <CorpsesAnimal.label>animal corpses</CorpsesAnimal.label>
-  <CorpsesInsect.label>insect corpses</CorpsesInsect.label>
-  <CorpsesMechanoid.label>mechanoid corpses</CorpsesMechanoid.label>
+  <Corpses.label>cadavre</Corpses.label>
+  <CorpsesHumanlike.label>cadavre umane</CorpsesHumanlike.label>
+  <CorpsesAnimal.label>cadavre de animale</CorpsesAnimal.label>
+  <CorpsesInsect.label>cadavre de insecte</CorpsesInsect.label>
+  <CorpsesMechanoid.label>cadavre mechanoid</CorpsesMechanoid.label>
 
 
 </LanguageData>

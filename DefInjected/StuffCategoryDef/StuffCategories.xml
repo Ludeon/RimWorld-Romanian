@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Metallic.label>metallic</Metallic.label>
-  <Woody.label>woody</Woody.label>
-  <Stony.label>stony</Stony.label>
-  <Fabric.label>fabric</Fabric.label>
-  <Leathery.label>leathery</Leathery.label>
+  <Metallic.label>metalic</Metallic.label>
+  <Woody.label>lemnos</Woody.label>
+  <Stony.label>pietros</Stony.label>
+  <Fabric.label>material</Fabric.label>
+  <Leathery.label>ca pielea</Leathery.label>
 
 
 </LanguageData>

@@ -2,13 +2,13 @@
 <LanguageData>
 
   <BondedWithAnimal.label>bond developed</BondedWithAnimal.label>
-  <BondedWithAnimal.rulePack.rulesStrings.0>tale_noun->[human_nameShortDef]'s bonding with [animal_nameShortDef]</BondedWithAnimal.rulePack.rulesStrings.0>
-  <BondedWithAnimal.rulePack.rulesStrings.1>image->[human_nameFull] bonding with [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.1>
-  <BondedWithAnimal.rulePack.rulesStrings.2>image->[human_nameFull] forming a deep bond with [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.2>
+  <BondedWithAnimal.rulePack.rulesStrings.0>tale_noun->[human_nameShortDef] interacţionează cu [animal_nameShortDef]</BondedWithAnimal.rulePack.rulesStrings.0>
+  <BondedWithAnimal.rulePack.rulesStrings.1>image->[human_nameFull] interacţionează cu [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.1>
+  <BondedWithAnimal.rulePack.rulesStrings.2>image->[human_nameFull] formează o legătură profundă cu [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.2>
   <BondedWithAnimal.rulePack.rulesStrings.3>image->[human_nameFull] realizing [human_possessive] truly loves [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.3>
   <BondedWithAnimal.rulePack.rulesStrings.4>circumstance_phrase->while other animals look on</BondedWithAnimal.rulePack.rulesStrings.4>
-  <BondedWithAnimal.rulePack.rulesStrings.5>circumstance_phrase->while looking into [animal_nameShortDef]'s eyes</BondedWithAnimal.rulePack.rulesStrings.5>
-  <BondedWithAnimal.rulePack.rulesStrings.6>circumstance_phrase->with a sense of satisfaction</BondedWithAnimal.rulePack.rulesStrings.6>
+  <BondedWithAnimal.rulePack.rulesStrings.5>circumstance_phrase->in timp ce se uita in ochi lui [animal_nameShortDef]</BondedWithAnimal.rulePack.rulesStrings.5>
+  <BondedWithAnimal.rulePack.rulesStrings.6>circumstance_phrase->cu un sentiment de satisfacţie</BondedWithAnimal.rulePack.rulesStrings.6>
   <BondedWithAnimal.rulePack.rulesStrings.7>desc_sentence->[animal_nameShortDef] is snuggling up against [human_nameShortDef].</BondedWithAnimal.rulePack.rulesStrings.7>
   <BondedWithAnimal.rulePack.rulesStrings.8>desc_sentence->[animal_nameShortDef] looks sleepy and drunk with love.</BondedWithAnimal.rulePack.rulesStrings.8>
   <BondedWithAnimal.rulePack.rulesStrings.9>desc_sentence->[animal_nameShortDef] stands tall and looks noble.</BondedWithAnimal.rulePack.rulesStrings.9>

@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TileSandstone.label>sandstone tile</TileSandstone.label>
-  <TileSandstone.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileSandstone.description>
+  <TileSandstone.label>placă de gresie</TileSandstone.label>
+  <TileSandstone.description>Plăci de piatră pentru aspectul de castel.Frumoase de privit ,dar durează mult pentru turnat.</TileSandstone.description>
 
-  <TileGranite.label>granite tile</TileGranite.label>
-  <TileGranite.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileGranite.description>
+  <TileGranite.label>placă de granit</TileGranite.label>
+  <TileGranite.description>Plăci de piatră pentru aspectul de castel.Frumoase de privit ,dar durează mult pentru turnat.</TileGranite.description>
 
-  <TileLimestone.label>limestone tile</TileLimestone.label>
-  <TileLimestone.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileLimestone.description>
+  <TileLimestone.label>placă de calcar</TileLimestone.label>
+  <TileLimestone.description>Plăci de piatră pentru aspectul de castel.Frumoase de privit ,dar durează mult pentru turnat.</TileLimestone.description>
 
-  <TileSlate.label>slate tile</TileSlate.label>
-  <TileSlate.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileSlate.description>
+  <TileSlate.label>placă de ardezie</TileSlate.label>
+  <TileSlate.description>Plăci de piatră pentru aspectul de castel.Frumoase de privit ,dar durează mult pentru turnat..</TileSlate.description>
 
-  <TileMarble.label>marble tile</TileMarble.label>
-  <TileMarble.description>Solid stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</TileMarble.description>
+  <TileMarble.label>placă de marmură</TileMarble.label>
+  <TileMarble.description>Plăci de piatră pentru aspectul de castel.Frumoase de privit ,dar durează mult pentru turnat.</TileMarble.description>
 
 
 </LanguageData>

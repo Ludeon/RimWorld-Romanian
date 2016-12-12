@@ -1,34 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MaxHitPoints.label>max hit points</MaxHitPoints.label>
-  <MaxHitPoints.description>The maximum hit points of an object. This represents how much damage it can take before being destroyed.</MaxHitPoints.description>
+  <MaxHitPoints.label>durabilitate maximă</MaxHitPoints.label>
+  <MaxHitPoints.description>Durabilitatea maximă a obiectului.Aceasta reprezintă dauna pe care o poate incasa obiectul până este distrus.</MaxHitPoints.description>
 
-  <MarketValue.label>market value</MarketValue.label>
-  <MarketValue.description>The market value of an object. The actual trade price will be further modified by relationship status and negotitation skill.</MarketValue.description>
+  <MarketValue.label>valoarea de piaţă</MarketValue.label>
+  <MarketValue.description>Valoarea de piaţă a obiectului.Preţul de tranzacţionare poate fi modificat de nivelul de relaţie şi nivelul de târguire.</MarketValue.description>
   <MarketValue.formatString>${0}</MarketValue.formatString>
 
   <SellPriceFactor.label>sell price multiplier</SellPriceFactor.label>
   <SellPriceFactor.description>A multiplier on the price at which you can sell items.</SellPriceFactor.description>
 
-  <Flammability.label>flammability</Flammability.label>
-  <Flammability.description>How easily an object catches fire and how strongly it burns.</Flammability.description>
+  <Flammability.label>flamabilitate</Flammability.label>
+  <Flammability.description>Cât de uşor un obiect ia foc şi cât de repede arde.</Flammability.description>
 
-  <WorkToMake.label>work to make</WorkToMake.label>
-  <WorkToMake.description>The base amount of work it takes to make this, once all materials and tools are gathered.</WorkToMake.description>
+  <WorkToMake.label>muncă necesară</WorkToMake.label>
+  <WorkToMake.description>Cată muncă este necesară pentru a construi,de când toate materialele şi uneltele sunt adunate.</WorkToMake.description>
 
-  <DeteriorationRate.label>deterioration rate</DeteriorationRate.label>
-  <DeteriorationRate.description>The rate at which this item deteriorates when left outside, especially in the rain.</DeteriorationRate.description>
+  <DeteriorationRate.label>rataa de deterioare</DeteriorationRate.label>
+  <DeteriorationRate.description>Rata in care un obiect se deteriorează când este lăsat afară in special in ploaie.</DeteriorationRate.description>
   <DeteriorationRate.formatString>{0}/d</DeteriorationRate.formatString>
 
-  <Beauty.label>beauty</Beauty.label>
-  <Beauty.description>How enjoyable an object is to be around and look at.</Beauty.description>
+  <Beauty.label>frumuseţe</Beauty.label>
+  <Beauty.description>Cât de plăcut de privit este obiectul.</Beauty.description>
 
-  <Cleanliness.label>cleanliness</Cleanliness.label>
-  <Cleanliness.description>How clean an object is.</Cleanliness.description>
+  <Cleanliness.label>curăţenie</Cleanliness.label>
+  <Cleanliness.description>Cât de curat este obiectul.</Cleanliness.description>
 
-  <Comfort.label>comfort</Comfort.label>
-  <Comfort.description>How comfortble an object is to sit or lay on.</Comfort.description>
+  <Comfort.label>confort</Comfort.label>
+  <Comfort.description>Cât de confortabil este să te aşezi sau să te intinzi.</Comfort.description>
 
 
 </LanguageData>
