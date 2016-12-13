@@ -2,19 +2,19 @@
 <LanguageData>
 
   <!-- Work tab -->
-  <ManualPriorities>Manual priorities</ManualPriorities>
-  <HigherPriority>higher priority</HigherPriority>
-  <LowerPriority>lower priority</LowerPriority>
+  <ManualPriorities>Setează priorităţile manual</ManualPriorities>
+  <HigherPriority>prioritare mare</HigherPriority>
+  <LowerPriority>prioritate mică</LowerPriority>
   <RelevantSkills>Relevant skills: {0}\nAverage of relevant skills: {1} / {2}</RelevantSkills>
-  <ClickToJumpTo>Click to jump to:</ClickToJumpTo>
-  <CannotDoThisWork>{0} cannot do this kind of work.</CannotDoThisWork>
-  <NoneBrackets>(none)</NoneBrackets>
-  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of his health condition.</IncapableOfWorkTypeBecauseOfCapacities>
+  <ClickToJumpTo>Click pentru a sări la :</ClickToJumpTo>
+  <CannotDoThisWork>{0} nu este capabil de acest lucru.</CannotDoThisWork>
+  <NoneBrackets>(nimic)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>Acest colonist nu poate lucra această categorie de muncă din cauza stării de sănătate.</IncapableOfWorkTypeBecauseOfCapacities>
   <EmergencyWorkMarker>E</EmergencyWorkMarker>
 
   <!-- Assign tab -->
-  <CurrentOutfit>Current outfit</CurrentOutfit>
-  <ManageOutfits>Manage outfits</ManageOutfits>
+  <CurrentOutfit>Ţinuta curentă</CurrentOutfit>
+  <ManageOutfits>Administrează ţinute</ManageOutfits>
   <ClearForcedApparel>Clear forced</ClearForcedApparel>
   <ApparelForcedLower>forced</ApparelForcedLower>
   <ForcedApparel>Forced apparel</ForcedApparel>
@@ -23,49 +23,49 @@
   <ManageDrugPolicies>Manage drug policies</ManageDrugPolicies>
 
   <!-- Restrictions tab -->
-  <Copy>Copy</Copy>
-  <Paste>Paste</Paste>
-  <AllowedArea>Allowed area</AllowedArea>
+  <Copy>Copiere</Copy>
+  <Paste>Lipire</Paste>
+  <AllowedArea>Zonă permisă</AllowedArea>
 
   <!-- Animals tab -->
-  <Master>Master</Master>
-  <PregnantIconDesc>Pregnant ({0} / {1})</PregnantIconDesc>
+  <Master>Dresor</Master>
+  <PregnantIconDesc>Gravidă ({0} / {1})</PregnantIconDesc>
 
   <!-- Factions tab -->
-  <Hostile>Hostile</Hostile>
-  <HostileTo>Enemy of {0}</HostileTo>
-  <CurrentGoodwill>Current goodwill with this faction.</CurrentGoodwill>
+  <Hostile>Ostilă</Hostile>
+  <HostileTo>Ostil către {0}</HostileTo>
+  <CurrentGoodwill>Relaţii bune cu aceasta facţiune.</CurrentGoodwill>
 
   <!-- History tab - subtabs -->
-  <Graph>Graph</Graph>
-  <Statistics>Statistics</Statistics>
+  <Graph>Grafic</Graph>
+  <Statistics>Statistici</Statistics>
 
   <!-- History tab - Graphs -->
-  <SelectGraph>Select graph</SelectGraph>
-  <Last30Days>Last 30 days</Last30Days>
-  <Last100Days>Last 100 days</Last100Days>
-  <Last300Days>Last 300 days</Last300Days>
-  <AllDays>All</AllDays>
-  <Day>Day</Day>
-  <Value>Value</Value>
-  <External>External</External>
+  <SelectGraph>Selectare grafic</SelectGraph>
+  <Last30Days>Ultimele 30 zile</Last30Days>
+  <Last100Days>Ultimele 100 zile</Last100Days>
+  <Last300Days>Ultimele  300 zile</Last300Days>
+  <AllDays>Toate</AllDays>
+  <Day>Ziua</Day>
+  <Value>Valoare</Value>
+  <External>Extern</External>
 
   <!-- History tab - Statistics -->
   <Playtime>Play time</Playtime>
   <Storyteller>Storyteller</Storyteller>
-  <ColonyWealthTotal>Colony wealth</ColonyWealthTotal>
-  <ColonyWealthItems>Colony wealth (items)</ColonyWealthItems>
-  <ColonyWealthBuildings>Colony wealth (buildings)</ColonyWealthBuildings>
-  <NumThreatBigs>Major threats</NumThreatBigs>
-  <NumEnemyRaids>Enemy raids</NumEnemyRaids>
-  <DamageTaken>Damage taken</DamageTaken>
-  <ColonistsKilled>Colonists killed</ColonistsKilled>
-  <ColonistsLaunched>Colonists launched into space</ColonistsLaunched>
+  <ColonyWealthTotal>Bogăţia coloniei</ColonyWealthTotal>
+  <ColonyWealthItems>Bogăţia coloniei (mărfuri)</ColonyWealthItems>
+  <ColonyWealthBuildings>Bogăţia coloniei (clădiri)</ColonyWealthBuildings>
+  <NumThreatBigs>Ameninţări majore</NumThreatBigs>
+  <NumEnemyRaids>Raiduri inamice</NumEnemyRaids>
+  <DamageTaken>Daunele primite</DamageTaken>
+  <ColonistsKilled>Colonişti omorâţi</ColonistsKilled>
+  <ColonistsLaunched>Colonişti lansaţi in spaţiu</ColonistsLaunched>
 
   <!-- Research tab -->
-  <ProjectTechLevel>project tech level</ProjectTechLevel>
-  <YourTechLevel>your tech level</YourTechLevel>
-  <ResearchCostMultiplier>cost multiplier</ResearchCostMultiplier>
-  <ResearchCostComparison>Project base cost {0} becomes {1} for you because of your tech level.</ResearchCostComparison>
+  <ProjectTechLevel>nivelul tehnologic al proiectului</ProjectTechLevel>
+  <YourTechLevel>nivelul tău tehnologic</YourTechLevel>
+  <ResearchCostMultiplier>multiplicator de cost</ResearchCostMultiplier>
+  <ResearchCostComparison>Costul proiectului  {0}  devine  {1} din cauza nivelului tehnologic.</ResearchCostComparison>
 
 </LanguageData>
