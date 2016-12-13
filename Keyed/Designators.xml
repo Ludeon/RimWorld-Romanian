@@ -43,15 +43,15 @@
   <DesignatorAreaHomeClear>Şterge zona coloniei</DesignatorAreaHomeClear>
   <DesignatorAreaHomeClearDesc>Colonişti nu vor mai repara clădiri,şterge podele sau stinge incendii aici.</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaBuildRoofExpand>Expand build roof area</DesignatorAreaBuildRoofExpand>
-  <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
-  <DesignatorAreaBuildRoofClear>Clear build roof area</DesignatorAreaBuildRoofClear>
-  <DesignatorAreaBuildRoofClearDesc>Remove the area where colonists will build roofs. Existing roofs will remain, but colonists won't build more.</DesignatorAreaBuildRoofClearDesc>
+  <DesignatorAreaBuildRoofExpand>Extinde zona de acoperiş</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Colonişti vor contrui acoperiş in zona aceasta.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Restrânge zona de acoperiş</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Restrânge zona unde colonişti vor contrui acoperişuri.Acoperişurile existente vor rămâne dar colonişti nu vor mai construi altele.</DesignatorAreaBuildRoofClearDesc>
 
-  <DesignatorAreaNoRoofExpand>Expand no roof area</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>Colonists will remove roofs in this area (except overhead mountain, which cannot be removed).</DesignatorAreaNoRoofExpandDesc>
-  <DesignatorAreaNoRoofClear>Clear no roof area</DesignatorAreaNoRoofClear>
-  <DesignatorAreaNoRoofClearDesc>Removes no-roof area, so colonists will no longer remove roofs.</DesignatorAreaNoRoofClearDesc>
+  <DesignatorAreaNoRoofExpand>Extinde zona fără acoperiş</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Colonişti vor scoate acoperişurile din această zonă(cu excepţie muntiilor unde nu se poate scoate).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>Şterge zona de acoperiş</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>Sterge zona fără acoperiş,colonişti nu vor mai scoate acoperişurile.</DesignatorAreaNoRoofClearDesc>
 
   <DesignatorAreaSnowClearExpand>Expand snow clear area</DesignatorAreaSnowClearExpand>
   <DesignatorAreaSnowClearExpandDesc>Create a area which colonists will try to keep clear of snow.</DesignatorAreaSnowClearExpandDesc>
@@ -64,7 +64,7 @@
   <DesignatorClearAreaAllowedDesc>Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorClearAreaAllowedDesc>
   <ManageAreas>Manage areas...</ManageAreas>
 
-  <DesignatorGrowingZoneDesc>Create a zone where your colonists will try to grow a certain kind of plant.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>Desemnează o zonă unde colonişti vor incerca sa cultive un tip de plantă.</DesignatorGrowingZoneDesc>
 
   <DesignatorZoneCreateStorageResourcesDesc>Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageResourcesDesc>
 

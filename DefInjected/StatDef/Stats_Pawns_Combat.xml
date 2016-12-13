@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MeleeDPS.label>melee DPS</MeleeDPS.label>
-  <MeleeDPS.description>Average damage per second in melee combat.</MeleeDPS.description>
+  <MeleeDPS.label>corp la corp DPS</MeleeDPS.label>
+  <MeleeDPS.description>Daune pe secundă in luptă corp la corp.</MeleeDPS.description>
 
-  <ShootingAccuracy.label>shooting accuracy</ShootingAccuracy.label>
-  <ShootingAccuracy.description>Base chance to not miss per square of shot distance.</ShootingAccuracy.description>
+  <ShootingAccuracy.label>precizie de tragere</ShootingAccuracy.label>
+  <ShootingAccuracy.description>Procent de bază să nu rateze ţinta per pătrat distanţă.</ShootingAccuracy.description>
 
-  <AimingDelayFactor.label>aiming time</AimingDelayFactor.label>
-  <AimingDelayFactor.description>How long it takes to strike after aiming.</AimingDelayFactor.description>
+  <AimingDelayFactor.label>timp de ochire</AimingDelayFactor.label>
+  <AimingDelayFactor.description>Cât timp trece de când este tinţa in vizor până trage.</AimingDelayFactor.description>
 
-  <MeleeHitChance.label>melee hit chance</MeleeHitChance.label>
-  <MeleeHitChance.description>Base chance to hit a target in melee.</MeleeHitChance.description>
+  <MeleeHitChance.label>şansă de lovit corp la corp</MeleeHitChance.label>
+  <MeleeHitChance.description>Şansa ca lovitura să aterizeze pe om in lupta corp la corp.</MeleeHitChance.description>
 
 
 </LanguageData>

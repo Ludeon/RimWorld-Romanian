@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MedicalOperationSpeed.label>medical operation speed</MedicalOperationSpeed.label>
-  <MedicalOperationSpeed.description>Speed at which the character performs medical operations.</MedicalOperationSpeed.description>
+  <MedicalOperationSpeed.label>viteza de operare</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.description>Viteza la care un caracter execută operaţii medicale.</MedicalOperationSpeed.description>
 
-  <SurgerySuccessChance.label>surgery success chance</SurgerySuccessChance.label>
-  <SurgerySuccessChance.description>The likelihood that a character will succeed when attempting to perform a surgery. Failures can result in simple wasted time and medicine, or catastrophic damage to the patient.</SurgerySuccessChance.description>
+  <SurgerySuccessChance.label>şansa de reuşită a operaţiei</SurgerySuccessChance.label>
+  <SurgerySuccessChance.description>Şansa ca un caracter să efectueze operaţia cu succes.Eşecurile pot pierde timpul şi medicametele sau daune catastrofice pacientului.</SurgerySuccessChance.description>
 
-  <BaseHealingQuality.label>base healing quality</BaseHealingQuality.label>
-  <BaseHealingQuality.description>Base quality of treatment given to patients when acting as a doctor.</BaseHealingQuality.description>
+  <BaseHealingQuality.label>calitatea de vindecare</BaseHealingQuality.label>
+  <BaseHealingQuality.description>Calitatea serviciilor de tratare ca doctor..</BaseHealingQuality.description>
 
-  <HealingSpeed.label>healing speed</HealingSpeed.label>
-  <HealingSpeed.description>Speed at which the character heals wounds as a doctor.</HealingSpeed.description>
+  <HealingSpeed.label>rata de vindecare</HealingSpeed.label>
+  <HealingSpeed.description>Rata la care un caracter,doctor, vindeca rănile.</HealingSpeed.description>
 
 
 </LanguageData>

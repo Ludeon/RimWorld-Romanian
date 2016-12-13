@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WealthTotal.label>wealth (total)</WealthTotal.label>
-  <WealthItems.label>wealth (items)</WealthItems.label>
-  <WealthBuildings.label>wealth (buildings)</WealthBuildings.label>
-  <FreeColonists.label>free colonists</FreeColonists.label>
-  <Prisoners.label>prisoners</Prisoners.label>
-  <ColonistMood.label>mood</ColonistMood.label>
+  <WealthTotal.label>bogăţie (total)</WealthTotal.label>
+  <WealthItems.label>bogăţie (mărfuri)</WealthItems.label>
+  <WealthBuildings.label>bogăţie (clădiri)</WealthBuildings.label>
+  <FreeColonists.label>colonişti liberi</FreeColonists.label>
+  <Prisoners.label>prizonieri</Prisoners.label>
+  <ColonistMood.label>stare de spirit</ColonistMood.label>
 
 
 </LanguageData>
