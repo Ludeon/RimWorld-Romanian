@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeStoneBlocks.label>make stone blocks</MakeStoneBlocks.label>
-  <MakeStoneBlocks.description>Cuts rock chunks into usable stone blocks.</MakeStoneBlocks.description>
+  <MakeStoneBlocks.label>fă blocuri de piatră</MakeStoneBlocks.label>
+  <MakeStoneBlocks.description>Taie bucăti de rocă in blocuri de piatră.</MakeStoneBlocks.description>
   <MakeStoneBlocks.jobString>Stonecutting.</MakeStoneBlocks.jobString>
 
-  <ExtractMetalFromSlag.label>smelt metal from slag</ExtractMetalFromSlag.label>
-  <ExtractMetalFromSlag.description>Use heat and strong electromagnets to separate useful metal from slag chunks.</ExtractMetalFromSlag.description>
-  <ExtractMetalFromSlag.jobString>Smelting metal from slag.</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.label>topește zgură in metal</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>Folosește caldură și electromagneți puternici să separe metalul folositor de zgură.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>Topește zgură in metal.</ExtractMetalFromSlag.jobString>
 
-  <SmeltWeapon.label>smelt metal from weapon</SmeltWeapon.label>
-  <SmeltWeapon.description>Use heat and strong electromagnets to separate useful metal from weapons.</SmeltWeapon.description>
+  <SmeltWeapon.label>topește arme in metal</SmeltWeapon.label>
+  <SmeltWeapon.description>Folosește caldură și electromagneți puternici să topească armele in metale.</SmeltWeapon.description>
   <SmeltWeapon.jobString>Smelting metal from weapon.</SmeltWeapon.jobString>
 
-  <MakeArtilleryShell.label>make artillery shell</MakeArtilleryShell.label>
-  <MakeArtilleryShell.description>Craft an artillery shell.</MakeArtilleryShell.description>
-  <MakeArtilleryShell.jobString>Making artillery shell.</MakeArtilleryShell.jobString>
+  <MakeArtilleryShell.label>Creează obuz de artilerie</MakeArtilleryShell.label>
+  <MakeArtilleryShell.description>Creează obuz de artilerie.</MakeArtilleryShell.description>
+  <MakeArtilleryShell.jobString>Creează obuz de artilerie.</MakeArtilleryShell.jobString>
 
-  <MakeComponent.label>make component</MakeComponent.label>
-  <MakeComponent.description>Make a component.</MakeComponent.description>
-  <MakeComponent.jobString>Making component.</MakeComponent.jobString>
+  <MakeComponent.label>creează componentă</MakeComponent.label>
+  <MakeComponent.description>Creează componentă.</MakeComponent.description>
+  <MakeComponent.jobString>Creează componentă.</MakeComponent.jobString>
 
 
 </LanguageData>

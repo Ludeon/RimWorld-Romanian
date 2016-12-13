@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ButcherCorpseFlesh.label>butcher creature</ButcherCorpseFlesh.label>
-  <ButcherCorpseFlesh.description>Butchers a creature to obtain its meat in usable form.</ButcherCorpseFlesh.description>
-  <ButcherCorpseFlesh.jobString>Butchering.</ButcherCorpseFlesh.jobString>
+  <ButcherCorpseFlesh.label>măcelărește creatură</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.description>Măcelărește creatura pentru a obține carne comestibilă.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>Măcelarește.</ButcherCorpseFlesh.jobString>
 
-  <ButcherCorpseMechanoid.label>disassemble mechanoid</ButcherCorpseMechanoid.label>
-  <ButcherCorpseMechanoid.description>Disassembles a dead mechanoid into its component parts.</ButcherCorpseMechanoid.description>
-  <ButcherCorpseMechanoid.jobString>Disassembling mechanoid.</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.label>dezansamblează mechanoid</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.description>Dezansamblează un mechanoid mort in părți componente.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.jobString>Dezansamblează mechanoid.</ButcherCorpseMechanoid.jobString>
 
 
 </LanguageData>

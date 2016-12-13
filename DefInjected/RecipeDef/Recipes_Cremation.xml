@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CremateCorpse.label>cremate corpse</CremateCorpse.label>
-  <CremateCorpse.description>Cremate a corpse to completely destroy it.</CremateCorpse.description>
-  <CremateCorpse.jobString>Cremating.</CremateCorpse.jobString>
+  <CremateCorpse.label>arde cadavru</CremateCorpse.label>
+  <CremateCorpse.description>Arde cadavru să il distrugi.</CremateCorpse.description>
+  <CremateCorpse.jobString>Incinerează.</CremateCorpse.jobString>
 
-  <BurnApparel.label>burn apparel</BurnApparel.label>
-  <BurnApparel.description>Burn apparel to completely destroy it.</BurnApparel.description>
-  <BurnApparel.jobString>Burning apparel.</BurnApparel.jobString>
+  <BurnApparel.label>arde imbrăcăminte</BurnApparel.label>
+  <BurnApparel.description>Arde inbrăcaminte să le distrugi.</BurnApparel.description>
+  <BurnApparel.jobString>Arde imbrăcăminte.</BurnApparel.jobString>
 
-  <BurnApparelCampfire.label>burn apparel</BurnApparelCampfire.label>
-  <BurnApparelCampfire.description>Burn apparel to completely destroy it.</BurnApparelCampfire.description>
-  <BurnApparelCampfire.jobString>Burning apparel.</BurnApparelCampfire.jobString>
+  <BurnApparelCampfire.label>Arde imbrăcăminte</BurnApparelCampfire.label>
+  <BurnApparelCampfire.description>Arde inbrăcaminte să le distrugi.</BurnApparelCampfire.description>
+  <BurnApparelCampfire.jobString>Arde imbrăcăminte.</BurnApparelCampfire.jobString>
 
 
 </LanguageData>

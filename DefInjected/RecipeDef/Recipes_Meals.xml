@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookMealSimple.label>cook simple meal</CookMealSimple.label>
-  <CookMealSimple.description>Cooks a straightforward meal from one ingredient.</CookMealSimple.description>
-  <CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>
+  <CookMealSimple.label>gatește masă simplă</CookMealSimple.label>
+  <CookMealSimple.description>Gătește o masă simplă dintr-un ingredient.</CookMealSimple.description>
+  <CookMealSimple.jobString>Gătește masă simplă.</CookMealSimple.jobString>
 
-  <CookMealSimpleCampfire.label>cook simple meal</CookMealSimpleCampfire.label>
-  <CookMealSimpleCampfire.description>Cooks a straightforward meal from one ingredient.</CookMealSimpleCampfire.description>
-  <CookMealSimpleCampfire.jobString>Cooking simple meal.</CookMealSimpleCampfire.jobString>
+  <CookMealSimpleCampfire.label>gătește masă simplă</CookMealSimpleCampfire.label>
+  <CookMealSimpleCampfire.description>Gătește o masă simplă dintr-un ingredient.</CookMealSimpleCampfire.description>
+  <CookMealSimpleCampfire.jobString>Gătește masă simplă.</CookMealSimpleCampfire.jobString>
 
-  <CookMealFine.label>cook fine meal</CookMealFine.label>
-  <CookMealFine.description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients.</CookMealFine.description>
-  <CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>
+  <CookMealFine.label>gătește masă bună</CookMealFine.label>
+  <CookMealFine.description>Gătește o masă un pic complicată dintr-o combinație de carne crudă și ingrediente din plante.</CookMealFine.description>
+  <CookMealFine.jobString>Gătește masă bună.</CookMealFine.jobString>
 
-  <CookMealLavish.label>cook lavish meal</CookMealLavish.label>
-  <CookMealLavish.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>
-  <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>
+  <CookMealLavish.label>gătește masă generoasă</CookMealLavish.label>
+  <CookMealLavish.description>Gătește o masă foarte complicată dintr=o combinație de carne crudă si ingrediente din plante ,multe ingrediente sunt irosite.</CookMealLavish.description>
+  <CookMealLavish.jobString>Gătește masă generoasă.</CookMealLavish.jobString>
 
 
 </LanguageData>

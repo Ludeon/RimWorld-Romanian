@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeWort.label>make wort</MakeWort.label>
-  <MakeWort.description>Make wort from hops.</MakeWort.description>
-  <MakeWort.jobString>Making wort.</MakeWort.jobString>
+  <MakeWort.label>Fă must</MakeWort.label>
+  <MakeWort.description>Produce must din struguri.</MakeWort.description>
+  <MakeWort.jobString>Fă must.</MakeWort.jobString>
 
-  <BurnDrugs.label>burn drugs</BurnDrugs.label>
-  <BurnDrugs.description>Burn drugs to completely destroy them.</BurnDrugs.description>
-  <BurnDrugs.jobString>Burning drugs.</BurnDrugs.jobString>
+  <BurnDrugs.label>arde droguri</BurnDrugs.label>
+  <BurnDrugs.description>Arde droguri să le distrugi.</BurnDrugs.description>
+  <BurnDrugs.jobString>Arde droguri.</BurnDrugs.jobString>
 
 
 </LanguageData>
