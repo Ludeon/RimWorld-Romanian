@@ -3,55 +3,55 @@
 
   <!-- General -->
 
-  <Goto.reportString>moving.</Goto.reportString>
-  <GotoSafeTemperature.reportString>seeking safe temperature.</GotoSafeTemperature.reportString>
-  <GotoWander.reportString>wandering.</GotoWander.reportString>
-  <Wait.reportString>standing.</Wait.reportString>
-  <WaitDowned.reportString>downed.</WaitDowned.reportString>
+  <Goto.reportString>in mişcare.</Goto.reportString>
+  <GotoSafeTemperature.reportString>caută loc călduros.</GotoSafeTemperature.reportString>
+  <GotoWander.reportString>rătăcitor.</GotoWander.reportString>
+  <Wait.reportString>in picioare.</Wait.reportString>
+  <WaitDowned.reportString>imobilizat.</WaitDowned.reportString>
   <WaitSafeTemperature.reportString>waiting in safe temperature.</WaitSafeTemperature.reportString>
-  <WaitWander.reportString>wandering.</WaitWander.reportString>
+  <WaitWander.reportString>rătăceşte.</WaitWander.reportString>
   <WaitCombat.reportString>watching for targets.</WaitCombat.reportString>
-  <AttackStatic.reportString>attacking TargetA.</AttackStatic.reportString>
+  <AttackStatic.reportString>atacă pe TargetA.</AttackStatic.reportString>
   <AttackMelee.reportString>melee attacking TargetA.</AttackMelee.reportString>
-  <SocialFight.reportString>fighting with TargetA.</SocialFight.reportString>
+  <SocialFight.reportString>luptă cu TargetA.</SocialFight.reportString>
   <Equip.reportString>equipping TargetA.</Equip.reportString>
   <TakeInventory.reportString>taking TargetA.</TakeInventory.reportString>
   <Wear.reportString>wearing TargetA.</Wear.reportString>
   <RemoveApparel.reportString>removing TargetA.</RemoveApparel.reportString>
   <Strip.reportString>stripping TargetA.</Strip.reportString>
-  <Open.reportString>opening TargetA.</Open.reportString>
-  <RearmTrap.reportString>rearming TargetA.</RearmTrap.reportString>
-  <Refuel.reportString>refueling TargetA.</Refuel.reportString>
+  <Open.reportString>deschide TargetA.</Open.reportString>
+  <RearmTrap.reportString>rearmează TargetA.</RearmTrap.reportString>
+  <Refuel.reportString>realimenteză TargetA.</Refuel.reportString>
   <FillFermentingBarrel.reportString>filling TargetA.</FillFermentingBarrel.reportString>
   <TakeBeerOutOfFermentingBarrel.reportString>taking beer out of TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   <ManTurret.reportString>operating turret.</ManTurret.reportString>
   <EnterCryptosleepCasket.reportString>entering cryptosleep casket.</EnterCryptosleepCasket.reportString>
   <UseNeurotrainer.reportString>using neurotrainer.</UseNeurotrainer.reportString>
-  <UseArtifact.reportString>activating artifact.</UseArtifact.reportString>
+  <UseArtifact.reportString>activează artefact.</UseArtifact.reportString>
   <TriggerFirefoamPopper.reportString>triggering firefoam popper.</TriggerFirefoamPopper.reportString>
-  <ClearSnow.reportString>clearing snow.</ClearSnow.reportString>
-  <Vomit.reportString>vomiting.</Vomit.reportString>
-  <Flick.reportString>flicking switch.</Flick.reportString>
+  <ClearSnow.reportString>curăţă zăpadă.</ClearSnow.reportString>
+  <Vomit.reportString>vomită.</Vomit.reportString>
+  <Flick.reportString>comută intrerupătorul.</Flick.reportString>
   <TradeWithPawn.reportString>trading with TargetA.</TradeWithPawn.reportString>
-  <FleeAndCower.reportString>fleeing.</FleeAndCower.reportString>
+  <FleeAndCower.reportString>fugă.</FleeAndCower.reportString>
 
 
   <!-- Fire -->
 
-  <Ignite.reportString>igniting TargetA.</Ignite.reportString>
-  <BeatFire.reportString>beating fire out.</BeatFire.reportString>
-  <ExtinguishSelf.reportString>extinguishing self.</ExtinguishSelf.reportString>
+  <Ignite.reportString>aprinde TargetA.</Ignite.reportString>
+  <BeatFire.reportString>anihilează foc.</BeatFire.reportString>
+  <ExtinguishSelf.reportString>autostingere.</ExtinguishSelf.reportString>
 
 
   <!-- Need satisfaction -->
 
-  <Ingest.reportString>consuming TargetA.</Ingest.reportString>
-  <LayDown.reportString>lying down.</LayDown.reportString>
+  <Ingest.reportString>devorează pe TargetA.</Ingest.reportString>
+  <LayDown.reportString>culcat.</LayDown.reportString>
 
 
   <!-- Love -->
 
-  <Lovin.reportString>lovin'.</Lovin.reportString>
+  <Lovin.reportString>fac dragoste.</Lovin.reportString>
 
 
 </LanguageData>

@@ -3,31 +3,31 @@
 
   <!-- Item hauling -->
 
-  <HaulToCell.reportString>hauling TargetA.</HaulToCell.reportString>
-  <HaulToContainer.reportString>hauling TargetA.</HaulToContainer.reportString>
+  <HaulToCell.reportString>escortă pe TargetA.</HaulToCell.reportString>
+  <HaulToContainer.reportString>cară la TargetA.</HaulToContainer.reportString>
 
 
   <!-- Special hauling -->
 
-  <Steal.reportString>stealing TargetA.</Steal.reportString>
-  <Kidnap.reportString>kidnapping TargetA.</Kidnap.reportString>
+  <Steal.reportString>fură TargetA.</Steal.reportString>
+  <Kidnap.reportString>răpeşte TargetA.</Kidnap.reportString>
 
 
   <!-- Pawn hauling -->
 
-  <Rescue.reportString>rescuing TargetA.</Rescue.reportString>
+  <Rescue.reportString>salvează TargetA.</Rescue.reportString>
   <CarryToCryptosleepCasket.reportString>carrying TargetA to cryptosleep casket.</CarryToCryptosleepCasket.reportString>
-  <Capture.reportString>capturing TargetA.</Capture.reportString>
-  <Arrest.reportString>arresting TargetA.</Arrest.reportString>
-  <ReleasePrisoner.reportString>releasing TargetA.</ReleasePrisoner.reportString>
-  <EscortPrisonerToBed.reportString>escorting prisoner TargetA.</EscortPrisonerToBed.reportString>
-  <TakeWoundedPrisonerToBed.reportString>taking wounded prisoner TargetA.</TakeWoundedPrisonerToBed.reportString>
-  <TakeToBedToOperate.reportString>taking TargetA to bed.</TakeToBedToOperate.reportString>
+  <Capture.reportString>capturează  TargetA.</Capture.reportString>
+  <Arrest.reportString>arestează TargetA.</Arrest.reportString>
+  <ReleasePrisoner.reportString>eliberează TargetA.</ReleasePrisoner.reportString>
+  <EscortPrisonerToBed.reportString>insoţire prizonier TargetA.</EscortPrisonerToBed.reportString>
+  <TakeWoundedPrisonerToBed.reportString>cară prizonier rănit TargetA.</TakeWoundedPrisonerToBed.reportString>
+  <TakeToBedToOperate.reportString>cară pe TargetA in pat.</TakeToBedToOperate.reportString>
 
 
   <!-- Animal handling -->
 
-  <Slaughter.reportString>slaughtering TargetA.</Slaughter.reportString>
+  <Slaughter.reportString>macelăreşte pe TargetA.</Slaughter.reportString>
   <Milk.reportString>milking TargetA.</Milk.reportString>
   <Shear.reportString>shearing TargetA.</Shear.reportString>
   <Tame.reportString>taming TargetA.</Tame.reportString>

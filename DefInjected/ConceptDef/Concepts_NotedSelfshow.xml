@@ -6,14 +6,14 @@
   <CameraDolly.label>Camera dolly</CameraDolly.label>
   <CameraDolly.helpText>Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle or right button) or with the {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} keys.</CameraDolly.helpText>
 
-  <CameraZoom.label>Camera zoom</CameraZoom.label>
-  <CameraZoom.helpText>Zoom in and out with the MOUSEWHEEL or the {Key:MapZoomIn} and {Key:MapZoomOut} keys.</CameraZoom.helpText>
+  <CameraZoom.label>Micşorarea şi mărirea imagini</CameraZoom.label>
+  <CameraZoom.helpText>Micşorarea şi mărirea cu rotiţa mouse-ului sau cu tasta {Key:MapZoomIn} sau tasta {Key:MapZoomOut} .</CameraZoom.helpText>
 
-  <TimeControls.label>Time controls</TimeControls.label>
-  <TimeControls.helpText>You can speed up time.\n\nTry controlling time with the {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, and {Key:TimeSpeedSuperfast} keys, or with the time controls in the bottom right.</TimeControls.helpText>
+  <TimeControls.label>Controlul vitezei</TimeControls.label>
+  <TimeControls.helpText>Poţi accelera  viteza timpului.\n\nPoţi controla timpul cu tastele  {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, şi {Key:TimeSpeedSuperfast} ,sau cu butoanele de control din dreapta jos.</TimeControls.helpText>
 
-  <Pause.label>Pausing</Pause.label>
-  <Pause.helpText>Hit {Key:TogglePause} to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit {Key:TogglePause}!</Pause.helpText>
+  <Pause.label>Pauză</Pause.label>
+  <Pause.helpText>Apasă tasta {Key:TogglePause} pentru a pauza sau a reporni jocul.\n\nPoţi da ordine cât timp jocul e pauzat.\n\nŢine minte - dacă acţiunea e prea haotică ,apasă {Key:TogglePause}!</Pause.helpText>
 
   <Stockpiles.label>Stockpiles</Stockpiles.label>
   <Stockpiles.helpText>Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left.</Stockpiles.helpText>

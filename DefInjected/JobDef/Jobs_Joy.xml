@@ -3,28 +3,28 @@
 
   <!-- Meditative -->
 
-  <Skygaze.reportString>skygazing.</Skygaze.reportString>
-  <Meditate.reportString>meditating.</Meditate.reportString>
-  <Pray.reportString>praying.</Pray.reportString>
-  <GoForWalk.reportString>going for a walk.</GoForWalk.reportString>
-  <BuildSnowman.reportString>building snowman.</BuildSnowman.reportString>
-  <VisitGrave.reportString>visiting grave.</VisitGrave.reportString>
-  <ViewArt.reportString>viewing art.</ViewArt.reportString>
+  <Skygaze.reportString>se uită la cer.</Skygaze.reportString>
+  <Meditate.reportString>meditează.</Meditate.reportString>
+  <Pray.reportString>se roagă.</Pray.reportString>
+  <GoForWalk.reportString>se plimbă.</GoForWalk.reportString>
+  <BuildSnowman.reportString>face un om de zăpadă.</BuildSnowman.reportString>
+  <VisitGrave.reportString>viziteză mormânt .</VisitGrave.reportString>
+  <ViewArt.reportString>apreciază arta.</ViewArt.reportString>
 
 
   <!-- Social -->
 
-  <SocialRelax.reportString>relaxing socially.</SocialRelax.reportString>
-  <VisitSickPawn.reportString>cheering up patient TargetA.</VisitSickPawn.reportString>
+  <SocialRelax.reportString>se relaxează.</SocialRelax.reportString>
+  <VisitSickPawn.reportString>incurajează pacientul TargetA.</VisitSickPawn.reportString>
 
 
   <!-- Building interaction -->
 
-  <PlayHorseshoes.reportString>playing horseshoes.</PlayHorseshoes.reportString>
-  <PlayChess.reportString>playing chess.</PlayChess.reportString>
-  <PlayBilliards.reportString>playing billiards.</PlayBilliards.reportString>
-  <WatchTelevision.reportString>watching television.</WatchTelevision.reportString>
-  <UseTelescope.reportString>using telescope.</UseTelescope.reportString>
+  <PlayHorseshoes.reportString>joacă potcoave.</PlayHorseshoes.reportString>
+  <PlayChess.reportString>joacă şah.</PlayChess.reportString>
+  <PlayBilliards.reportString>joacă biliard.</PlayBilliards.reportString>
+  <WatchTelevision.reportString>se uită la televizor.</WatchTelevision.reportString>
+  <UseTelescope.reportString>foloseşte telescopul.</UseTelescope.reportString>
 
 
 </LanguageData>
