@@ -6,8 +6,8 @@
 
 
 
-  <AlertNeedStockpile>Ai nevoie de un depozit</AlertNeedStockpile>
-  <AlertNeedStockpileDesc> Coloniștii tăi au nevoie să depoziteze lucrurile undeva. Marchează un loc de depozitare pentru a stoca lucruri. \n\nGasești depozitul în secțiunea ZONE a meniului ARHITECT jos în partea stângă a ecranului. </AlertNeedStockpileDesc>
+  <AlertNeedStockpile>Ai nevoie de un loc de depozitare</AlertNeedStockpile>
+  <AlertNeedStockpileDesc>Coloniștii tăi au nevoie să depoziteze lucrurile undeva. Marchează un loc de depozitare pentru a stoca lucruri. \n\nGasești depozitul în secțiunea ZONE a meniului ARHITECT jos în partea stângă a ecranului. </AlertNeedStockpileDesc>
 
   <AlertUnforbidStartingResources>Aprobă utilizarea resurselor</AlertUnforbidStartingResources>
   <AlertUnforbidStartingResourcesDesc>Interacțiunea cu resursele de început de pe harta este INTERZISĂ\n\nPoți APROBA interacțiunea cu acestea selectându-le și dând click pe butonul APROBĂ din partea de jos a ecranului.</AlertUnforbidStartingResourcesDesc>
@@ -26,16 +26,16 @@
 
   <ColonistNeedsRescue>Colonistul are nevoie de ajutor</ColonistNeedsRescue>
   <ColonistsNeedRescue>Coloniștii au nevoie de ajutor</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  Acești coloniști sunt incapacitați:\n\n{0}\nTrimite un colonist pentru a-i salva.\n\n(Pentru a salva un colonist rănit, selectează un colonist, dă click dreapta pe cel rănit și selectează opțiunea Salvează).</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDesc>Acești coloniști sunt incapacitați:\n\n{0}\nTrimite un colonist pentru a-i salva.\n\n(Pentru a salva un colonist rănit, selectează un colonist, dă click dreapta pe cel rănit și selectează opțiunea Salvează).</ColonistsNeedRescueDesc>
 
   <BuildARoom>Construiește o încăpere</BuildARoom>
-  <BuildARoomDesc>O încăpere presupune pereți și o ușă pentru a permite accesul coloniștilor.\n\nSelectează STRUCTURĂ din meniul ARHITECT din stânga jos a ecranului pentru a decide locația unde vrei să construiești. După ce ai desemnat planul construcției coloniștii tăi vor urma planul atunci când vor putea.</BuildARoomDesc>
+  <BuildARoomDesc>O încăpere presupune pereți și o ușă pentru a permite accesul coloniștilor.\n\nSelectează STRUCTURĂ din meniul ARHITECT din stânga jos a ecranului pentru a decide locația unde vrei să construiești. După ce ai desemnat planul construcției, coloniștii tăi vor urma planul atunci când vor putea.</BuildARoomDesc>
 
   <NeedGrowingZone>Este necesară o zonă de cultivare</NeedGrowingZone>
   <NeedGrowingZoneDesc>Nu există nici o zonă pentru cultivare.\n\nDesemnează o zonă de cultivare folosind meniul ZONĂ/PERIMETRU din ARHITECT.</NeedGrowingZoneDesc>
 
-  <NeedDefenses>Colonia ta are nevoie de o defensivă</NeedDefenses>
-  <NeedDefensesDesc>A trecut ceva timp și este foarte probabil că ați fost descoperiți. Pirații vor ataca în curând.\n\nAr trebui sa pregătești o defensivă.\n\nConstruiește câteva turete.</NeedDefensesDesc>
+  <NeedDefenses>Colonia ta are nevoie de metode de apărare</NeedDefenses>
+  <NeedDefensesDesc>A trecut ceva timp și este foarte probabil că ați fost descoperiți. Pirații vor ataca în curând.\n\nAr trebui sa pregătiți o defensivă.\n\nConstruiește câteva turete.</NeedDefensesDesc>
 
   <NeedDoctor>Colonia ta are nevoie de un doctor</NeedDoctor>
   <NeedDoctorDesc>Acești coloniști au nevoie de îngrijiri medicale, dar nu există nici un colonist sănătos în rolul de doctor.\n\n{0}\nDesemnează un colonist sănătos în rolul de doctor. În lipsa îngrijirilor medicale, rănile nu se vor vindeca complet și acestea vor deveni permanente.</NeedDoctorDesc>
@@ -56,13 +56,13 @@
   <HunterLacksWeaponDesc>Un colonist a fost desemnat ca vânător dar nu are o armă. Acesta nu va vâna până nu are o armă.\n\nPentru a reduce daunele, este recomandată o armă ce poate trage la distanță.</HunterLacksWeaponDesc>
 
   <Starvation>Foamete</Starvation>
-  <StarvationDesc>Acești coloniști suferă de inaniție:\n\n{0}\nObține mâncare pentru ei. Ai nevoie de un aparat de prelucrare cum ar fi dispensorul de pastă nutritivă și măncare pentru a fi prelucrată. De asemenea, asigură-te că nu sunt recrutați în cadrul serviciilor militare.</StarvationDesc>
+  <StarvationDesc>Acești coloniști suferă de foamete:\n\n{0}\nObține mâncare pentru ei. Ai nevoie de un aparat de prelucrare cum ar fi furnizorul de pastă nutritivă și mâncare pentru a fi prelucrată. De asemenea, asigură-te că nu sunt recrutați în cadrul serviciilor militare.</StarvationDesc>
 
   <Exhaustion>Epuizare</Exhaustion>
-  <ExhaustionDesc>Acești coloniști sunt epuizați și au nevoie de odihnă:\n\n{0}\nOferă-le timp să se odihnească. Vor avea nevoie de câte un pat pentru coloniști. De asemenea, asigură-te că nu sunt recrutați în cadrul serviciilor militare.</ExhaustionDesc>
+  <ExhaustionDesc>Acești coloniști sunt epuizați și au nevoie de odihnă:\n\n{0}\nOferă-le timp să se odihnească. Vor avea nevoie de un pat pentru coloniști. De asemenea, asigură-te că nu sunt recrutați în cadrul serviciilor militare.</ExhaustionDesc>
 
   <NeedFoodHopper>Este nevoie de o pâlnie de încărcat mâncare</NeedFoodHopper>
-  <NeedFoodHopperDesc>Ai un dispensor de pastă nutritivă însa nu există nici o pâlnie de încărcare lângă acesta.\n\nPentru a funționa, dispensorul de pastă are nevoie de o pâlnie de încărcare cu mâncare crudă.\n\nConstruiește o pâlnie de încărcare adiacentă cu dispensorul.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>Ai un furnizor de pastă nutritivă însa nu există nici o pâlnie de încărcare lângă acesta.\n\nPentru a funționa, dispensorul de pastă are nevoie de o pâlnie de încărcare cu mâncare crudă.\n\nConstruiește o pâlnie de încărcare adiacentă cu dispensorul.</NeedFoodHopperDesc>
 
   <BuildingNeedsPower>Clădirea are nevoie de electricitate</BuildingNeedsPower>
   <BuildingsNeedPower>Clădirile au nevoie de electricitate</BuildingsNeedPower>
@@ -70,13 +70,13 @@
   <AndMore>mai mult</AndMore>
 
   <NeedMealSource>Este nevoie de o sursă de mâncare</NeedMealSource>
-  <NeedMealSourceDesc>Nu ai nici o modalitate de a găti mâncarea crudă.\n\nConstruiește un dispensor de pastă nutritivă sau o plită.\n\n(Coloniștii nu o vor putea folosi dacă este localizată într-o celulă de închisoare.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Nu ai nici o modalitate de a găti mâncarea crudă.\n\nConstruiește un furnizor de pastă nutritivă sau o plită.\n\n(Coloniștii nu o vor putea folosi dacă este localizată într-o celulă de închisoare.)</NeedMealSourceDesc>
 
   <NeedHomeRegion>Trebuie desemnată o regiune care să reprezinte zona de ACASĂ</NeedHomeRegion>
   <NeedHomeRegionDesc>Trebuie să desemnezi o regiune ACASĂ unde coloniștii vor face curat, vor repara și vor stinge eventualele incendii.\n\nDesemnează regiunea ACASĂ folosind secțiunea ZONE a meniului ARHITECT.</NeedHomeRegionDesc>
 
   <NeedBatteries>Colonia are nevoie de baterii</NeedBatteries>
-  <NeedBatteriesDesc>Momentan ai doar panouri solare dar nu ai unde stoca electricitatea. De îndată ce soarele apune, panourile nu vor mai produce electricitate.\n\nConstruiește cel puțin o baterie pentru a stoca electricitate.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Momentan ai doar panouri solare, dar nu ai unde stoca electricitatea. De îndată ce soarele apune, panourile nu vor mai produce electricitate.\n\nConstruiește cel puțin o baterie pentru a stoca electricitate.</NeedBatteriesDesc>
 
   <NoTradingCapacity>Nu ai acces la comerț</NoTradingCapacity>
   <NoTradingCapacityDesc>Nu ai nici o modalitate de a lua legătura cu alte colonii și a face comerț cu navele ce trec prin orbită.\n\nConstruiește o consolă de comunicații.</NoTradingCapacityDesc>
