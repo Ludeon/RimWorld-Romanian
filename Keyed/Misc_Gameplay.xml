@@ -219,7 +219,7 @@
   <!-- Cryptosleep casket -->
   <CasketContains>Conține</CasketContains>
   <CasketUnknownContents>NECUNOSCUT</CasketUnknownContents>
-  <CasketWarning>Atenție!\n\nNAME este ultimul colonist treaz! dacă îl lași să intre în capsulă, nu vei mai putea continua jocul. Continuă oricum?</CasketWarning>
+  <CasketWarning>Atenție!\n\n[PAWN_nameDef] este ultimul colonist treaz! dacă îl lași să intre în capsulă, nu vei mai putea continua jocul. Continuă oricum?</CasketWarning>
 
   <!-- Ship launch report -->
   <ShipReportCannotLaunch>Nu se poate lansa.</ShipReportCannotLaunch>

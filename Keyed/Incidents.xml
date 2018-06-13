@@ -47,14 +47,14 @@
   
   <TraderArrival>O navă comercială trece prin apropiere.\n\nSunt cunoscuți ca {0}. Ei sunt p {1}.</TraderArrival>
 
-  <SingleTravelerPassing>Un {0} din {1} trece prin apropiere. HECAP este numit {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>Un {0} din {1} trece prin apropiere. [PAWN_pronoun] este numit {2}.</SingleTravelerPassing>
   <GroupTravelersPassing>Un grup de călători din {0} trec prin apropiere.</GroupTravelersPassing>
 
-  <SingleVisitorArrives>Un {0} din {1} vizitează colonia.\n\nHECAP este numit {2}.</SingleVisitorArrives>
+  <SingleVisitorArrives>Un {0} din {1} vizitează colonia.\n\n[PAWN_pronoun] este numit {2}.</SingleVisitorArrives>
   <GroupVisitorsArrive>Un grup din {0} vizitează colonia.</GroupVisitorsArrive>
   <VisitorsLeaving>Vizitatorii din {0} pleacă.</VisitorsLeaving>
 
-  <WandererJoin>Un {0} numit NAME a sosit și se va alătura coloniei. HECAP este un {1}.</WandererJoin>
+  <WandererJoin>Un {0} numit [PAWN_nameDef] a sosit și se va alătura coloniei. [PAWN_pronoun] este un {1}.</WandererJoin>
   
   
   <!-- Crashed ship part-->

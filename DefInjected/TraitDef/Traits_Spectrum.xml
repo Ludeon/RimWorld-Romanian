@@ -8,7 +8,7 @@
   </rep>
   <rep>
     <path>SpeedOffset.degreeDatas[0].description</path>
-    <trans>NAME fällt immer hinter der Gruppe zurück, wo immer HE auch hingeht.</trans>
+    <trans>[PAWN_nameDef] fällt immer hinter der Gruppe zurück, wo immer [PAWN_pronoun] auch hingeht.</trans>
   </rep>
     <rep>
     <path>SpeedOffset.degreeDatas[1].label</path>
@@ -16,7 +16,7 @@
   </rep>
   <rep>
     <path>SpeedOffset.degreeDatas[1].description</path>
-    <trans>NAME mag es dort hinzugehen, wo HE hingeht. HECAP geht schneller als die meisten Leute.</trans>
+    <trans>[PAWN_nameDef] mag es dort hinzugehen, wo [PAWN_pronoun] hingeht. [PAWN_pronoun] geht schneller als die meisten Leute.</trans>
   </rep>
     <rep>
     <path>SpeedOffset.degreeDatas[2].label</path>
@@ -24,7 +24,7 @@
   </rep>
   <rep>
     <path>SpeedOffset.degreeDatas[2].description</path>
-    <trans>NAME geht immer, als wenn HE es eilig hat. Andere schaffen es oft nicht, mit HIM mitzuhalten.</trans>
+    <trans>[PAWN_nameDef] geht immer, als wenn [PAWN_pronoun] es eilig hat. Andere schaffen es oft nicht, mit [PAWN_objective] mitzuhalten.</trans>
   </rep>
   
   
@@ -34,7 +34,7 @@
   </rep>
   <rep>
     <path>DrugDesire.degreeDatas[0].description</path>
-    <trans>NAME ist von alle Chemikalien begeistert. HECAP wird viel mehr davon konsumieren und es ist sehr viel wahrscheinlicher, dass HE es übertreibt.</trans>
+    <trans>[PAWN_nameDef] ist von alle Chemikalien begeistert. [PAWN_pronoun] wird viel mehr davon konsumieren und es ist sehr viel wahrscheinlicher, dass [PAWN_pronoun] es übertreibt.</trans>
   </rep>
     <rep>
     <path>DrugDesire.degreeDatas[1].label</path>
@@ -42,7 +42,7 @@
   </rep>
   <rep>
     <path>DrugDesire.degreeDatas[1].description</path>
-    <trans>NAME ist an allen Chemikalien interessiert. HECAP wird mehr davon konsumieren und es ist wahrscheinlicher, dass HE es übertreibt.</trans>
+    <trans>[PAWN_nameDef] ist an allen Chemikalien interessiert. [PAWN_pronoun] wird mehr davon konsumieren und es ist wahrscheinlicher, dass [PAWN_pronoun] es übertreibt.</trans>
   </rep>
     <rep>
     <path>DrugDesire.degreeDatas[2].label</path>
@@ -50,7 +50,7 @@
   </rep>
   <rep>
     <path>DrugDesire.degreeDatas[2].description</path>
-    <trans>NAME verachtet die Idee von chemikalisch indiziertem Vergnügen und vermeidet Alkohol und andere Drogen.</trans>
+    <trans>[PAWN_nameDef] verachtet die Idee von chemikalisch indiziertem Vergnügen und vermeidet Alkohol und andere Drogen.</trans>
   </rep>
   
 
@@ -60,7 +60,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[0].description</path>
-    <trans>NAME ist von Natur aus frohgemut. Zu jeder Zeit, egal was passiert.</trans>
+    <trans>[PAWN_nameDef] ist von Natur aus frohgemut. Zu jeder Zeit, egal was passiert.</trans>
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[1].label</path>
@@ -68,7 +68,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[1].description</path>
-    <trans>NAME ist von Natur aus optimistisch. Es ist schwer HISe Laune zu senken.</trans>
+    <trans>[PAWN_nameDef] ist von Natur aus optimistisch. Es ist schwer [PAWN_possessive]e Laune zu senken.</trans>
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[2].label</path>
@@ -76,7 +76,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[2].description</path>
-    <trans>NAME ist von Natur aus pessimistisch. HECAP tendiert dazu, die negative Seite des Lebens zu sehen.</trans>
+    <trans>[PAWN_nameDef] ist von Natur aus pessimistisch. [PAWN_pronoun] tendiert dazu, die negative Seite des Lebens zu sehen.</trans>
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[3].label</path>
@@ -84,7 +84,7 @@
   </rep>
   <rep>
     <path>NaturalMood.degreeDatas[3].description</path>
-    <trans>NAME ist ständig betrübt. HECAP hat Probleme damit fröhlich zu bleiben, selbst wenn alles reibungslos läuft.</trans>
+    <trans>[PAWN_nameDef] ist ständig betrübt. [PAWN_pronoun] hat Probleme damit fröhlich zu bleiben, selbst wenn alles reibungslos läuft.</trans>
   </rep>
 	
 	
@@ -94,7 +94,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[0].description</path>
-    <trans>Der Wille von NAME ist ein eisernes Schild. HECAP macht weiter, auch wenn Andere schon lange aufgegeben haben.</trans>
+    <trans>Der Wille von [PAWN_nameDef] ist ein eisernes Schild. [PAWN_pronoun] macht weiter, auch wenn Andere schon lange aufgegeben haben.</trans>
   </rep>
   <rep>
     <path>Nerves.degreeDatas[1].label</path>
@@ -102,7 +102,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[1].description</path>
-    <trans>NAME besitzt große mentale Stärke und hält selbst solchem Stress stand, der Andere schon lange zerbrochen hätte.</trans>
+    <trans>[PAWN_nameDef] besitzt große mentale Stärke und hält selbst solchem Stress stand, der Andere schon lange zerbrochen hätte.</trans>
   </rep>
   <rep>
     <path>Nerves.degreeDatas[2].label</path>
@@ -110,7 +110,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[2].description</path>
-    <trans>NAME tendiert dazu, unter Stress zu zerbrechen.</trans>
+    <trans>[PAWN_nameDef] tendiert dazu, unter Stress zu zerbrechen.</trans>
   </rep>
   <rep>
     <path>Nerves.degreeDatas[3].label</path>
@@ -118,7 +118,7 @@
   </rep>
   <rep>
     <path>Nerves.degreeDatas[3].description</path>
-    <trans>NAME ist ständig nervös. HECAP kann beim geringsten Stress in sich zusammenbrechen.</trans>
+    <trans>[PAWN_nameDef] ist ständig nervös. [PAWN_pronoun] kann beim geringsten Stress in sich zusammenbrechen.</trans>
   </rep>
   
   
@@ -128,7 +128,7 @@
   </rep>
   <rep>
     <path>Neurotic.degreeDatas[0].description</path>
-    <trans>NAME mag es, wenn alle Dinge erledigt sind. HECAP wird härter als Andere daran arbeiten, die Arbeit zu erledigen. Allerdings können HISe Nerven mit HIM durchgehen.</trans>
+    <trans>[PAWN_nameDef] mag es, wenn alle Dinge erledigt sind. [PAWN_pronoun] wird härter als Andere daran arbeiten, die Arbeit zu erledigen. Allerdings können [PAWN_possessive]e Nerven mit [PAWN_objective] durchgehen.</trans>
   </rep>
   <rep>
     <path>Neurotic.degreeDatas[1].label</path>
@@ -136,7 +136,7 @@
   </rep>
   <rep>
     <path>Neurotic.degreeDatas[1].description</path>
-    <trans>NAME ist ständig nervös, wenn es Dinge zu erledigen gibt. HECAP wird viel härter als Andere daran arbeiten diesen Zustand abzustellen, aber HE kann sehr leicht die Nerven verlieren.</trans>
+    <trans>[PAWN_nameDef] ist ständig nervös, wenn es Dinge zu erledigen gibt. [PAWN_pronoun] wird viel härter als Andere daran arbeiten diesen Zustand abzustellen, aber [PAWN_pronoun] kann sehr leicht die Nerven verlieren.</trans>
   </rep>
   
   
@@ -146,7 +146,7 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[0].description</path>
-    <trans>NAME läßt sich nicht leicht ablenken und erledigt dadurch HISe Aufgaben sehr viel schneller als durchschnittliche Personen.</trans>
+    <trans>[PAWN_nameDef] läßt sich nicht leicht ablenken und erledigt dadurch [PAWN_possessive]e Aufgaben sehr viel schneller als durchschnittliche Personen.</trans>
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[1].label</path>
@@ -154,7 +154,7 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[1].description</path>
-    <trans>NAME ist von Natur aus ein harter Arbeiter und erledigt HISe Arbeiten schneller als die meisten Anderen.</trans>
+    <trans>[PAWN_nameDef] ist von Natur aus ein harter Arbeiter und erledigt [PAWN_possessive]e Arbeiten schneller als die meisten Anderen.</trans>
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[2].label</path>
@@ -162,7 +162,7 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[2].description</path>
-    <trans>NAME ist ein bisschen träge.</trans>
+    <trans>[PAWN_nameDef] ist ein bisschen träge.</trans>
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[3].label</path>
@@ -170,7 +170,7 @@
   </rep>
   <rep>
     <path>Industriousness.degreeDatas[3].description</path>
-    <trans>NAME liebt es faul herumzulungern und hasst alles produktive. HECAP bewegt sich langsam und lässt sich leicht ablenken.</trans>
+    <trans>[PAWN_nameDef] liebt es faul herumzulungern und hasst alles produktive. [PAWN_pronoun] bewegt sich langsam und lässt sich leicht ablenken.</trans>
   </rep>
   
   
@@ -180,7 +180,7 @@
   </rep>
   <rep>
     <path>PsychicSensitivity.degreeDatas[0].description</path>
-    <trans>Das Gehirn von NAME ist wie eine hochsensible psychische Antenne. HECAP ist sehr empfindlich gegenüber psychischen Phänomenen.</trans>
+    <trans>Das Gehirn von [PAWN_nameDef] ist wie eine hochsensible psychische Antenne. [PAWN_pronoun] ist sehr empfindlich gegenüber psychischen Phänomenen.</trans>
   </rep>
    <rep>
     <path>PsychicSensitivity.degreeDatas[1].label</path>
@@ -188,7 +188,7 @@
   </rep>
   <rep>
     <path>PsychicSensitivity.degreeDatas[1].description</path>
-    <trans>NAME ist außergewöhnlich empfindlich gegenüber psychischen Phänomenen.</trans>
+    <trans>[PAWN_nameDef] ist außergewöhnlich empfindlich gegenüber psychischen Phänomenen.</trans>
   </rep>
    <rep>
     <path>PsychicSensitivity.degreeDatas[2].label</path>
@@ -196,7 +196,7 @@
   </rep>
   <rep>
     <path>PsychicSensitivity.degreeDatas[2].description</path>
-    <trans>NAME ist psychisch abgestumpft im Vergleich zu Anderen. HECAP ist nicht sonderlich anfällig bei psychischen Phänomenen.</trans>
+    <trans>[PAWN_nameDef] ist psychisch abgestumpft im Vergleich zu Anderen. [PAWN_pronoun] ist nicht sonderlich anfällig bei psychischen Phänomenen.</trans>
   </rep>
    <rep>
     <path>PsychicSensitivity.degreeDatas[3].label</path>
@@ -204,7 +204,7 @@
   </rep>
   <rep>
     <path>PsychicSensitivity.degreeDatas[3].description</path>
-    <trans>Das Gehirn von NAME arbeitet auf einer anderen Frequenz als das der Anderen. HECAP wird von psychischen Phänomenen nicht beeinflusst.</trans>
+    <trans>Das Gehirn von [PAWN_nameDef] arbeitet auf einer anderen Frequenz als das der Anderen. [PAWN_pronoun] wird von psychischen Phänomenen nicht beeinflusst.</trans>
   </rep>
   
   
@@ -214,7 +214,7 @@
   </rep>
   <rep>
     <path>TemperaturePreference.degreeDatas[0].description</path>
-    <trans>Der Körper von NAME produziert sehr viel Wärme. HECAP findet Temperaturen ganz angenehm, bei denen andere schon lange zittern. Aber Wärme verträgt HE nicht so gut.</trans>
+    <trans>Der Körper von [PAWN_nameDef] produziert sehr viel Wärme. [PAWN_pronoun] findet Temperaturen ganz angenehm, bei denen andere schon lange zittern. Aber Wärme verträgt [PAWN_pronoun] nicht so gut.</trans>
   </rep>
    <rep>
     <path>TemperaturePreference.degreeDatas[1].label</path>
@@ -222,7 +222,7 @@
   </rep>
   <rep>
     <path>TemperaturePreference.degreeDatas[1].description</path>
-    <trans>NAME verträgt kalte Temperaturen besser als die meisten Anderen.</trans>
+    <trans>[PAWN_nameDef] verträgt kalte Temperaturen besser als die meisten Anderen.</trans>
   </rep>
    <rep>
     <path>TemperaturePreference.degreeDatas[2].label</path>
@@ -230,7 +230,7 @@
   </rep>
   <rep>
     <path>TemperaturePreference.degreeDatas[2].description</path>
-    <trans>NAME verträgt warme Temperaturen besser als die meisten Anderen.</trans>
+    <trans>[PAWN_nameDef] verträgt warme Temperaturen besser als die meisten Anderen.</trans>
   </rep>
    <rep>
     <path>TemperaturePreference.degreeDatas[3].label</path>
@@ -238,7 +238,7 @@
   </rep>
   <rep>
     <path>TemperaturePreference.degreeDatas[3].description</path>
-    <trans>NAME liebt heißes Wetter, aber verträgt Kälte nicht sonderlich gut.</trans>
+    <trans>[PAWN_nameDef] liebt heißes Wetter, aber verträgt Kälte nicht sonderlich gut.</trans>
   </rep>
 	
 </LanguageData>
