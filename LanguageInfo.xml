@@ -3,6 +3,7 @@
   <friendlyNameNative>Română</friendlyNameNative>
   <friendlyNameEnglish>Romanian</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
+  <languageWorkerClass>LanguageWorker_Romanian</languageWorkerClass>
   <credits>
     <li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
