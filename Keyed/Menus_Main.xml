@@ -8,11 +8,11 @@
   <Save>Salvare colonie</Save>
   <Load>Încărcare colonie precedentă</Load>
   <Options>Setări</Options>
-  <Mods>Îmbunătățiri</Mods>
+  <Mods>Modificări</Mods>
   <Credits>Credite</Credits>
   <QuitToMainMenu>Întoarcere la meniul jocului</QuitToMainMenu>
   <QuitToOS>Închide joc</QuitToOS>
-  <FictionPrimer>Fiction primer</FictionPrimer>
+  <FictionPrimer>Despre universul fictiv</FictionPrimer>
   <LudeonBlog>Blog-ul Ludeon</LudeonBlog>
   <Forums>Forum</Forums>
   <OfficialWiki>Wiki oficial</OfficialWiki>
@@ -125,7 +125,7 @@
   
   <EveryoneNeedsValidName>Fiecare persoană are nevoie de un nume valid.</EveryoneNeedsValidName>
 
-  <GeneratingWorld>Generează lume...</GeneratingWorld>
-  <GeneratingMap>Generează hartă...</GeneratingMap>
+  <GeneratingWorld>Se generează lumea...</GeneratingWorld>
+  <GeneratingMap>Se generează harta...</GeneratingMap>
 
 </LanguageData>
