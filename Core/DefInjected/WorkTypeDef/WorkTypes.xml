@@ -1,118 +1,238 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Research.labelShort>Cercetare</Research.labelShort>
-	<Research.pawnLabel>Cercetător</Research.pawnLabel>
-	<Research.gerundLabel>Cercetând</Research.gerundLabel>
-	<Research.verb>Cercetează</Research.verb>
-	<Research.description>Cercetatorii analizează lucruri noi.</Research.description>
-	
-	<Cleaning.labelShort>Curățenie</Cleaning.labelShort>
-	<Cleaning.pawnLabel>Menajer</Cleaning.pawnLabel>
-	<Cleaning.gerundLabel>Curățând</Cleaning.gerundLabel>
-	<Cleaning.verb>Curăță</Cleaning.verb>
-	<Cleaning.description>Menajerii curăță zăpada, gunoiul si podelele din spațiul de locuință.</Cleaning.description>
-	
-	<Hauling.labelShort>Transport</Hauling.labelShort>
-	<Hauling.pawnLabel>Transportator</Hauling.pawnLabel>
-	<Hauling.gerundLabel>Transportând</Hauling.gerundLabel>
-	<Hauling.verb>Transportă</Hauling.verb>
-	<Hauling.description>Transportatorul mută lucrurile acolo unde le este locul.</Hauling.description>
-	
-	<Crafting.labelShort>Artizanat</Crafting.labelShort>
-	<Crafting.pawnLabel>Meșter</Crafting.pawnLabel>
-	<Crafting.gerundLabel>Meșterind</Crafting.gerundLabel>
-	<Crafting.verb>Meștereste la</Crafting.verb>
-	<Crafting.description>Meșterii creează lucruri din materii prime.</Crafting.description>
-	
-	<Art.labelShort>Artă</Art.labelShort>
-    <Art.pawnLabel>Artist</Art.pawnLabel>
-    <Art.gerundLabel>Creând</Art.gerundLabel>
-    <Art.verb>Creează</Art.verb>
-    <Art.description>Artiștii creează obiecte minunate de artă.</Art.description>
-	
-	<Tailoring.labelShort>Croitorie</Tailoring.labelShort>
-    <Tailoring.pawnLabel>Croitor</Tailoring.pawnLabel>
-    <Tailoring.gerundLabel>Croind</Tailoring.gerundLabel>
-    <Tailoring.verb>Croieste</Tailoring.verb>
-    <Tailoring.description>Croitorii creează haine din materii prime.</Tailoring.description>
-	
-	<Smithing.labelShort>Metalurgie</Smithing.labelShort>
-    <Smithing.pawnLabel>Fierar</Smithing.pawnLabel>
-    <Smithing.gerundLabel>Forjând</Smithing.gerundLabel>
-    <Smithing.verb>Forjează</Smithing.verb>
-    <Smithing.description>Fierarii crează arme și unelte din materii prime.</Smithing.description>
-	
-	<PlantCutting.labelShort>Grădinărit</PlantCutting.labelShort>
-	<PlantCutting.pawnLabel>Grădinar</PlantCutting.pawnLabel>
-	<PlantCutting.gerundLabel>Recoltând</PlantCutting.gerundLabel>
-	<PlantCutting.verb>Recoltează</PlantCutting.verb>
-	<PlantCutting.description>Grădinarii taie is recoltează plantele și copacii marcați.</PlantCutting.description>
-	
-	<Growing.labelShort>Fermă</Growing.labelShort>
-	<Growing.pawnLabel>Fermier</Growing.pawnLabel>
-	<Growing.gerundLabel>Cultivând</Growing.gerundLabel>
-	<Growing.verb>Cultivează</Growing.verb>
-	<Growing.description>Un fermier plantează semințe si recoltează culturi gata-crescute.</Growing.description>
-	
-	<Mining.labelShort>Minerit</Mining.labelShort>
-	<Mining.pawnLabel>Miner</Mining.pawnLabel>
-	<Mining.gerundLabel>Minând</Mining.gerundLabel>
-	<Mining.verb>Minează</Mining.verb>
-	<Mining.description>Un miner extrage minerale utile din câmpurile marcate.</Mining.description>
-	
-	<Repair.labelShort>Mecanică</Repair.labelShort>
-	<Repair.pawnLabel>Mecanic</Repair.pawnLabel>
-	<Repair.gerundLabel>Reparând</Repair.gerundLabel>
-	<Repair.verb>Repară</Repair.verb>
-	<Repair.description>Mecanicii repară clădiri si echipament stricat.</Repair.description>
-	
-	<Construction.labelShort>Construcție</Construction.labelShort>
-	<Construction.pawnLabel>Constructor</Construction.pawnLabel>
-	<Construction.gerundLabel>Construind</Construction.gerundLabel>
-	<Construction.verb>Construiește</Construction.verb>
-	<Construction.description>Muncitorii de constructie clădesc structurile predefinite.</Construction.description>
-	
-	<Hunting.labelShort>Vânătoare</Hunting.labelShort>
-	<Hunting.pawnLabel>Vânător</Hunting.pawnLabel>
-	<Hunting.gerundLabel>Vânând</Hunting.gerundLabel>
-	<Hunting.verb>Vânează</Hunting.verb>
-	<Hunting.description>Vânatorii omoară animalele alese.</Hunting.description>
-	
-	<Cooking.labelShort>Gătit</Cooking.labelShort>
-	<Cooking.pawnLabel>Bucătar</Cooking.pawnLabel>
-	<Cooking.gerundLabel>Gătind</Cooking.gerundLabel>
-	<Cooking.verb>Gătește</Cooking.verb>
-	<Cooking.description>Bucătarul alimentează dispensorul de pastă nutrientă si prepară mâncare.</Cooking.description>
-	
-	<Warden.labelShort>Supraveghere</Warden.labelShort>
-	<Warden.pawnLabel>Supraveghetor</Warden.pawnLabel>
-	<Warden.gerundLabel>Supravegând</Warden.gerundLabel>
-	<Warden.verb>Supraveghează pe</Warden.verb>
-	<Warden.description>Supraveghetorii vizitează prizonierii. Au conversații plăcute, îi bat, sau execută - Orice decizi. In plus hrănește prizonierii.</Warden.description>
-
-	<Flicker.labelShort>Comutare</Flicker.labelShort>
-	<Flicker.pawnLabel>Comutator</Flicker.pawnLabel>
-	<Flicker.gerundLabel>Comutând</Flicker.gerundLabel>
-	<Flicker.verb>Comută</Flicker.verb>
-	<Flicker.description>Controleaza comutarea releelor. Dacă, de exemplu, dorești să oprești curentul către o turelă automată, un colonist se duce acolo si comută intrerupătorul</Flicker.description>
-
-	<Patient.labelShort>Pacient</Patient.labelShort>
-	<Patient.pawnLabel>Pacient</Patient.pawnLabel>
-	<Patient.gerundLabel>Pacient</Patient.gerundLabel>
-	<Patient.verb>Pacient</Patient.verb>
-	<Patient.description>Pacienții se îndreaptă către un pat de spital daca au nevoie de tratament medical.</Patient.description>
-
-	<Doctor.labelShort>Medicină</Doctor.labelShort>
-	<Doctor.pawnLabel>Medic</Doctor.pawnLabel>
-	<Doctor.gerundLabel>Tratând</Doctor.gerundLabel>
-	<Doctor.verb>Tratează</Doctor.verb>
-	<Doctor.description>Medicul aduce alimente și tratează persoanele rănite din paturile de spital. Acesta ajută coloniști si prizonieri deopotrivă.</Doctor.description>
-	
-	<Firefighter.labelShort>Pompieri</Firefighter.labelShort>
-	<Firefighter.pawnLabel>Pompier</Firefighter.pawnLabel>
-	<Firefighter.gerundLabel>Stingând incendiul</Firefighter.gerundLabel>
-	<Firefighter.verb>Stinge incendiul</Firefighter.verb>
-	<Firefighter.description>Pompierul stinge incendiile în colonie.</Firefighter.description>
-
+  
+  <!-- EN: Create beautiful works of art from raw materials. -->
+  <Art.description>Artiștii creează obiecte minunate de artă.</Art.description>
+  <!-- EN: art -->
+  <Art.gerundLabel>Creând</Art.gerundLabel>
+  <!-- EN: Art -->
+  <Art.labelShort>Artă</Art.labelShort>
+  <!-- EN: Artist -->
+  <Art.pawnLabel>Artist</Art.pawnLabel>
+  <!-- EN: Do art at -->
+  <Art.verb>Creează</Art.verb>
+  
+  <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
+  <BasicWorker.description>TODO</BasicWorker.description>
+  <!-- EN: dealing with -->
+  <BasicWorker.gerundLabel>TODO</BasicWorker.gerundLabel>
+  <!-- EN: Basic -->
+  <BasicWorker.labelShort>TODO</BasicWorker.labelShort>
+  <!-- EN: Worker -->
+  <BasicWorker.pawnLabel>TODO</BasicWorker.pawnLabel>
+  <!-- EN: Deal with -->
+  <BasicWorker.verb>TODO</BasicWorker.verb>
+  
+  <!-- EN: Clear snow and clean the floor in the home area. -->
+  <Cleaning.description>Menajerii curăță zăpada, gunoiul si podelele din spațiul de locuință.</Cleaning.description>
+  <!-- EN: cleaning -->
+  <Cleaning.gerundLabel>Curățând</Cleaning.gerundLabel>
+  <!-- EN: Clean -->
+  <Cleaning.labelShort>Curățenie</Cleaning.labelShort>
+  <!-- EN: Cleaner -->
+  <Cleaning.pawnLabel>Menajer</Cleaning.pawnLabel>
+  <!-- EN: Clean -->
+  <Cleaning.verb>Curăță</Cleaning.verb>
+  
+  <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
+  <Construction.description>Muncitorii de constructie clădesc structurile predefinite.</Construction.description>
+  <!-- EN: constructing -->
+  <Construction.gerundLabel>Construind</Construction.gerundLabel>
+  <!-- EN: Construct -->
+  <Construction.labelShort>Construcție</Construction.labelShort>
+  <!-- EN: Constructor -->
+  <Construction.pawnLabel>Constructor</Construction.pawnLabel>
+  <!-- EN: Construct -->
+  <Construction.verb>Construiește</Construction.verb>
+  
+  <!-- EN: Prepare meals and butcher meat. -->
+  <Cooking.description>Bucătarul alimentează dispensorul de pastă nutrientă si prepară mâncare.</Cooking.description>
+  <!-- EN: cooking -->
+  <Cooking.gerundLabel>Gătind</Cooking.gerundLabel>
+  <!-- EN: Cook -->
+  <Cooking.labelShort>Gătit</Cooking.labelShort>
+  <!-- EN: Cook -->
+  <Cooking.pawnLabel>Bucătar</Cooking.pawnLabel>
+  <!-- EN: Cook -->
+  <Cooking.verb>Gătește</Cooking.verb>
+  
+  <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
+  <Crafting.description>Meșterii creează lucruri din materii prime.</Crafting.description>
+  <!-- EN: crafting -->
+  <Crafting.gerundLabel>Meșterind</Crafting.gerundLabel>
+  <!-- EN: Craft -->
+  <Crafting.labelShort>Artizanat</Crafting.labelShort>
+  <!-- EN: Crafter -->
+  <Crafting.pawnLabel>Meșter</Crafting.pawnLabel>
+  <!-- EN: Craft at -->
+  <Crafting.verb>Meștereste la</Crafting.verb>
+  
+  <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
+  <Doctor.description>Medicul aduce alimente și tratează persoanele rănite din paturile de spital. Acesta ajută coloniști si prizonieri deopotrivă.</Doctor.description>
+  <!-- EN: doctoring -->
+  <Doctor.gerundLabel>Tratând</Doctor.gerundLabel>
+  <!-- EN: Doctor -->
+  <Doctor.labelShort>Medicină</Doctor.labelShort>
+  <!-- EN: Doctor -->
+  <Doctor.pawnLabel>Medic</Doctor.pawnLabel>
+  <!-- EN: Care for -->
+  <Doctor.verb>Tratează</Doctor.verb>
+  
+  <!-- EN: Extinguish fires in the colony. -->
+  <Firefighter.description>Pompierul stinge incendiile în colonie.</Firefighter.description>
+  <!-- EN: firefighting -->
+  <Firefighter.gerundLabel>Stingând incendiul</Firefighter.gerundLabel>
+  <!-- EN: Firefight -->
+  <Firefighter.labelShort>Pompieri</Firefighter.labelShort>
+  <!-- EN: Firefighter -->
+  <Firefighter.pawnLabel>Pompier</Firefighter.pawnLabel>
+  <!-- EN: Extinguish -->
+  <Firefighter.verb>Stinge incendiul</Firefighter.verb>
+  
+  <!-- UNUSED -->
+  <Flicker.labelShort>Comutare</Flicker.labelShort>
+  <Flicker.pawnLabel>Comutator</Flicker.pawnLabel>
+  <Flicker.gerundLabel>Comutând</Flicker.gerundLabel>
+  <Flicker.verb>Comută</Flicker.verb>
+  <Flicker.description>Controleaza comutarea releelor. Dacă, de exemplu, dorești să oprești curentul către o turelă automată, un colonist se duce acolo si comută intrerupătorul</Flicker.description>
+  
+  <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
+  <Growing.description>Un fermier plantează semințe si recoltează culturi gata-crescute.</Growing.description>
+  <!-- EN: growing -->
+  <Growing.gerundLabel>Cultivând</Growing.gerundLabel>
+  <!-- EN: Grow -->
+  <Growing.labelShort>Fermă</Growing.labelShort>
+  <!-- EN: Grower -->
+  <Growing.pawnLabel>Fermier</Growing.pawnLabel>
+  <!-- EN: Grow -->
+  <Growing.verb>Cultivează</Growing.verb>
+  
+  <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
+  <Handling.description>TODO</Handling.description>
+  <!-- EN: handling -->
+  <Handling.gerundLabel>TODO</Handling.gerundLabel>
+  <!-- EN: Handle -->
+  <Handling.labelShort>TODO</Handling.labelShort>
+  <!-- EN: Handler -->
+  <Handling.pawnLabel>TODO</Handling.pawnLabel>
+  <!-- EN: Handle -->
+  <Handling.verb>TODO</Handling.verb>
+  
+  <!-- EN: Carry things to where they need to be. -->
+  <Hauling.description>Transportatorul mută lucrurile acolo unde le este locul.</Hauling.description>
+  <!-- EN: hauling -->
+  <Hauling.gerundLabel>Transportând</Hauling.gerundLabel>
+  <!-- EN: Haul -->
+  <Hauling.labelShort>Transport</Hauling.labelShort>
+  <!-- EN: Hauler -->
+  <Hauling.pawnLabel>Transportator</Hauling.pawnLabel>
+  <!-- EN: Haul -->
+  <Hauling.verb>Transportă</Hauling.verb>
+  
+  <!-- EN: Kill animals which are designated to be hunted. -->
+  <Hunting.description>Vânatorii omoară animalele alese.</Hunting.description>
+  <!-- EN: hunting -->
+  <Hunting.gerundLabel>Vânând</Hunting.gerundLabel>
+  <!-- EN: Hunt -->
+  <Hunting.labelShort>Vânătoare</Hunting.labelShort>
+  <!-- EN: Hunter -->
+  <Hunting.pawnLabel>Vânător</Hunting.pawnLabel>
+  <!-- EN: Hunt -->
+  <Hunting.verb>Vânează</Hunting.verb>
+  
+  <!-- EN: Digging and drilling. -->
+  <Mining.description>Un miner extrage minerale utile din câmpurile marcate.</Mining.description>
+  <!-- EN: mining -->
+  <Mining.gerundLabel>Minând</Mining.gerundLabel>
+  <!-- EN: Mine -->
+  <Mining.labelShort>Minerit</Mining.labelShort>
+  <!-- EN: Miner -->
+  <Mining.pawnLabel>Miner</Mining.pawnLabel>
+  <!-- EN: Mine -->
+  <Mining.verb>Minează</Mining.verb>
+  
+  <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
+  <Patient.description>Pacienții se îndreaptă către un pat de spital daca au nevoie de tratament medical.</Patient.description>
+  <!-- EN: patienting -->
+  <Patient.gerundLabel>Pacient</Patient.gerundLabel>
+  <!-- EN: Patient -->
+  <Patient.labelShort>Pacient</Patient.labelShort>
+  <!-- EN: Patient -->
+  <Patient.pawnLabel>Pacient</Patient.pawnLabel>
+  <!-- EN: Become patient -->
+  <Patient.verb>Pacient</Patient.verb>
+  
+  <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
+  <PatientBedRest.description>TODO</PatientBedRest.description>
+  <!-- EN: resting in bed -->
+  <PatientBedRest.gerundLabel>TODO</PatientBedRest.gerundLabel>
+  <!-- EN: Bed rest -->
+  <PatientBedRest.labelShort>TODO</PatientBedRest.labelShort>
+  <!-- EN: Bed rester -->
+  <PatientBedRest.pawnLabel>TODO</PatientBedRest.pawnLabel>
+  <!-- EN: Become patient -->
+  <PatientBedRest.verb>TODO</PatientBedRest.verb>
+  
+  <!-- EN: Cut or harvest plants as designated. -->
+  <PlantCutting.description>Grădinarii taie is recoltează plantele și copacii marcați.</PlantCutting.description>
+  <!-- EN: plant cutting -->
+  <PlantCutting.gerundLabel>Recoltând</PlantCutting.gerundLabel>
+  <!-- EN: Plant cut -->
+  <PlantCutting.labelShort>Grădinărit</PlantCutting.labelShort>
+  <!-- EN: Plant cutter -->
+  <PlantCutting.pawnLabel>Grădinar</PlantCutting.pawnLabel>
+  <!-- EN: Cut -->
+  <PlantCutting.verb>Recoltează</PlantCutting.verb>
+  
+  <!-- UNUSED -->
+  <Repair.labelShort>Mecanică</Repair.labelShort>
+  <Repair.pawnLabel>Mecanic</Repair.pawnLabel>
+  <Repair.gerundLabel>Reparând</Repair.gerundLabel>
+  <Repair.verb>Repară</Repair.verb>
+  <Repair.description>Mecanicii repară clădiri si echipament stricat.</Repair.description>
+  
+  <!-- EN: Perform research work. -->
+  <Research.description>Cercetatorii analizează lucruri noi.</Research.description>
+  <!-- EN: researching -->
+  <Research.gerundLabel>Cercetând</Research.gerundLabel>
+  <!-- EN: Research -->
+  <Research.labelShort>Cercetare</Research.labelShort>
+  <!-- EN: Researcher -->
+  <Research.pawnLabel>Cercetător</Research.pawnLabel>
+  <!-- EN: Research at -->
+  <Research.verb>Cercetează</Research.verb>
+  
+  <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. -->
+  <Smithing.description>Fierarii crează arme și unelte din materii prime.</Smithing.description>
+  <!-- EN: smithing -->
+  <Smithing.gerundLabel>Forjând</Smithing.gerundLabel>
+  <!-- EN: Smith -->
+  <Smithing.labelShort>Metalurgie</Smithing.labelShort>
+  <!-- EN: Smith -->
+  <Smithing.pawnLabel>Fierar</Smithing.pawnLabel>
+  <!-- EN: Smith at -->
+  <Smithing.verb>Forjează</Smithing.verb>
+  
+  <!-- EN: Create apparel from raw materials. -->
+  <Tailoring.description>Croitorii creează haine din materii prime.</Tailoring.description>
+  <!-- EN: tailoring -->
+  <Tailoring.gerundLabel>Croind</Tailoring.gerundLabel>
+  <!-- EN: Tailor -->
+  <Tailoring.labelShort>Croitorie</Tailoring.labelShort>
+  <!-- EN: Tailor -->
+  <Tailoring.pawnLabel>Croitor</Tailoring.pawnLabel>
+  <!-- EN: Tailor at -->
+  <Tailoring.verb>Croieste</Tailoring.verb>
+  
+  <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
+  <Warden.description>Supraveghetorii vizitează prizonierii. Au conversații plăcute, îi bat, sau execută - Orice decizi. In plus hrănește prizonierii.</Warden.description>
+  <!-- EN: wardening -->
+  <Warden.gerundLabel>Supravegând</Warden.gerundLabel>
+  <!-- EN: Warden -->
+  <Warden.labelShort>Supraveghere</Warden.labelShort>
+  <!-- EN: Warden -->
+  <Warden.pawnLabel>Supraveghetor</Warden.pawnLabel>
+  <!-- EN: Handle -->
+  <Warden.verb>Supraveghează pe</Warden.verb>
+  
 </LanguageData>

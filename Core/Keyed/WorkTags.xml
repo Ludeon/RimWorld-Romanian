@@ -1,21 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: none -->
   <WorkTagNone>Nimic</WorkTagNone>
+  <!-- EN: intellectual -->
   <WorkTagIntellectual>Muncă intelectuală</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
   <WorkTagManualDumb>Muncă fizică</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
   <WorkTagManualSkilled>Muncă calificată</WorkTagManualSkilled>
+  <!-- EN: violent -->
   <WorkTagViolent>Violență</WorkTagViolent>
+  <!-- EN: caring -->
   <WorkTagCaring>Îngrijit</WorkTagCaring>
+  <!-- EN: social -->
   <WorkTagSocial>Socializare</WorkTagSocial>
-  <WorkTagScary>Înfricoșător</WorkTagScary>
+  <!-- EN: animals -->
+  <WorkTagAnimals>TODO</WorkTagAnimals>
+  <!-- EN: artistic -->
   <WorkTagArtistic>Artă</WorkTagArtistic>
+  <!-- EN: crafting -->
   <WorkTagCrafting>Meșteșugărit</WorkTagCrafting>
+  <!-- EN: cooking -->
   <WorkTagCooking>Gătit</WorkTagCooking>
+  <!-- EN: firefighting -->
   <WorkTagFirefighting>Pompier</WorkTagFirefighting>
+  <!-- EN: cleaning -->
   <WorkTagCleaning>Curățat</WorkTagCleaning>
+  <!-- EN: hauling -->
   <WorkTagHauling>Cărăuș</WorkTagHauling>
+  <!-- EN: plant work -->
   <WorkTagPlantWork>Grădinărit</WorkTagPlantWork>
+  <!-- EN: mining -->
   <WorkTagMining>Miner</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>TODO</WorkTagHunting>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>TODO</WorkTagAllWork>
+
+  <!-- UNUSED -->
+  <WorkTagScary>Înfricoșător</WorkTagScary>
 
 </LanguageData>

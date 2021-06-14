@@ -1,120 +1,293 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<ClickToJumpToProblem>Click pentru a vedea problema</ClickToJumpToProblem>
+  <!-- EN: Click to jump to problem -->
+  <ClickToJumpToProblem>Click pentru a vedea problema</ClickToJumpToProblem>
 
+  <!-- EN: Minor break risk -->
+  <BreakRiskMinor>TODO</BreakRiskMinor>
+  <!-- EN: Major break risk -->
+  <BreakRiskMajor>TODO</BreakRiskMajor>
+  <!-- EN: Extreme break risk -->
+  <BreakRiskExtreme>TODO</BreakRiskExtreme>
+  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
+  <BreakRiskMinorDesc>TODO</BreakRiskMinorDesc>
+  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
+  <BreakRiskMajorDesc>TODO</BreakRiskMajorDesc>
+  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
+  <BreakRiskExtremeDesc>TODO</BreakRiskExtremeDesc>
+  <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
+  <BreakRiskDescEnding>TODO</BreakRiskDescEnding>
 
-
-
-  <AlertNeedStockpile>Ai nevoie de un loc de depozitare</AlertNeedStockpile>
-  <AlertNeedStockpileDesc>Coloniștii tăi au nevoie să depoziteze lucrurile undeva. Marchează un loc de depozitare pentru a stoca lucruri. \n\nGasești depozitul în secțiunea ZONE a meniului ARHITECT jos în partea stângă a ecranului. </AlertNeedStockpileDesc>
-
-  <AlertUnforbidStartingResources>Aprobă utilizarea resurselor</AlertUnforbidStartingResources>
-  <AlertUnforbidStartingResourcesDesc>Interacțiunea cu resursele de început de pe harta este INTERZISĂ\n\nPoți APROBA interacțiunea cu acestea selectându-le și dând click pe butonul APROBĂ din partea de jos a ecranului.</AlertUnforbidStartingResourcesDesc>
-
-  <AlertEquipStartingWeapons>Echipează arme</AlertEquipStartingWeapons>
-  <AlertEquipStartingWeaponsDesc>Coloniștii tăi au nevoie de arme. Echipează armele aflate în zona de prăbușire!\n\nSelectează fiecare colonist si dă click-dreapta pe arma pe care vrei să o echipeze.</AlertEquipStartingWeaponsDesc>
-  
-  <NeedSawmill>Este nevoie de un fierăstrău pentru prelucrarea lemnului.</NeedSawmill>
-  <NeedSawmillDesc>Este nevoie de un fierăstrău pentru a tăia buștenii în scânduri.\n\nConstruiește un FIERĂSTRĂU ACTIONAT MANUAL sau un FIERĂSTRĂU ELECTRIC.</NeedSawmillDesc>
-
-  <MentalBreakSoon>Pericol cădere psihică</MentalBreakSoon>
-  <MentalBreakSoonDesc>Acești coloniști se apropie de o cădere psihică:\n\n{0}\nImbunătățește-le dispoziția pentru a evita pierderea controlului.</MentalBreakSoonDesc>
-
-  <MentalBreakImminent>Cădere psihică iminentă</MentalBreakImminent>
-  <MentalBreakImminentDesc>Acești coloniști sunt foarte stresați și vor claca în orice moment:\n\n{0}</MentalBreakImminentDesc>
-
+  <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>Colonistul are nevoie de ajutor</ColonistNeedsRescue>
+  <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Coloniștii au nevoie de ajutor</ColonistsNeedRescue>
+  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue. -->
   <ColonistsNeedRescueDesc>Acești coloniști sunt incapacitați:\n\n{0}\nTrimite un colonist pentru a-i salva.\n\n(Pentru a salva un colonist rănit, selectează un colonist, dă click dreapta pe cel rănit și selectează opțiunea Salvează).</ColonistsNeedRescueDesc>
 
-  <BuildARoom>Construiește o încăpere</BuildARoom>
-  <BuildARoomDesc>O încăpere presupune pereți și o ușă pentru a permite accesul coloniștilor.\n\nSelectează STRUCTURĂ din meniul ARHITECT din stânga jos a ecranului pentru a decide locația unde vrei să construiești. După ce ai desemnat planul construcției, coloniștii tăi vor urma planul atunci când vor putea.</BuildARoomDesc>
-
-  <NeedGrowingZone>Este necesară o zonă de cultivare</NeedGrowingZone>
-  <NeedGrowingZoneDesc>Nu există nici o zonă pentru cultivare.\n\nDesemnează o zonă de cultivare folosind meniul ZONĂ/PERIMETRU din ARHITECT.</NeedGrowingZoneDesc>
-
+  <!-- EN: Need defenses -->
   <NeedDefenses>Colonia ta are nevoie de metode de apărare</NeedDefenses>
+  <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
   <NeedDefensesDesc>A trecut ceva timp și este foarte probabil că ați fost descoperiți. Pirații vor ataca în curând.\n\nAr trebui sa pregătiți o defensivă.\n\nConstruiește câteva turete.</NeedDefensesDesc>
 
+  <!-- EN: Need doctor -->
   <NeedDoctor>Colonia ta are nevoie de un doctor</NeedDoctor>
+  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
   <NeedDoctorDesc>Acești coloniști au nevoie de îngrijiri medicale, dar nu există nici un colonist sănătos în rolul de doctor.\n\n{0}\nDesemnează un colonist sănătos în rolul de doctor. În lipsa îngrijirilor medicale, rănile nu se vor vindeca complet și acestea vor deveni permanente.</NeedDoctorDesc>
 
+  <!-- EN: Need miner -->
   <NeedMiner>Colonia ta are nevoie de un miner</NeedMiner>
+  <!-- EN: You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type. -->
   <NeedMinerDesc>Ai desemnat exploatarea unor roci dar nu există nici un colonist în rolul de miner.\n\nDesemnează un colonist în rolul de miner.</NeedMinerDesc>
 
+  <!-- EN: Need warden -->
   <NeedWarden>Colonia ta are nevoie de un gardian</NeedWarden>
+  <!-- EN: You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type. -->
   <NeedWardenDesc>Ai un prizonier, dar nu există nici un colonist în rolul de gardian.\n\nDesemnează un colonist în rolul de gardian.</NeedWardenDesc>
 
+  <!-- EN: Low food -->
   <LowFood>Alimente puține</LowFood>
+  <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
   <LowFoodDesc>Ai doar {0} alimente în depozit. Este periculos de puțin.\n\nPentru a obține mai multă mâncare cultivă, vânează sau cumpără.</LowFoodDesc>
 
+  <!-- EN: Low medicine -->
+  <LowMedicine>TODO</LowMedicine>
+  <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
+  <LowMedicineDesc>TODO</LowMedicineDesc>
+  <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
+  <NoMedicineDesc>TODO</NoMedicineDesc>
+  
+  <!-- EN: Need colonist beds -->
   <NeedColonistBeds>Colonia ta nu are suficiente paturi</NeedColonistBeds>
+  <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
   <NeedColonistBedsDesc>Sunt mai mulți coloniști decât paturi pentru dormit. Cineva nu va avea unde să doarmă.\n\nConstruiește mai multe paturi sau schimbă un pat rezervat unui prizonier într-un pat pentru coloniști.\n\nDacă nu ai destule resurse, poți desemna un loc pentru dormit pe jos, nu necesită resurse și poate fi desemnate instantaneu.</NeedColonistBedsDesc>
+  
+  <!-- EN: Colonist left unburied -->
+  <AlertColonistLeftUnburied>TODO</AlertColonistLeftUnburied>
+  <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
+  <AlertColonistLeftUnburiedDesc>TODO</AlertColonistLeftUnburiedDesc>
 
+  <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>Vânătorul nu are armă</HunterLacksWeapon>
+  <!-- EN: A colonist is assigned as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon. -->
   <HunterLacksWeaponDesc>Un colonist a fost desemnat ca vânător dar nu are o armă. Acesta nu va vâna până nu are o armă.\n\nPentru a reduce daunele, este recomandată o armă ce poate trage la distanță.</HunterLacksWeaponDesc>
 
+  <!-- EN: Tattered apparel -->
+  <AlertTatteredApparel>TODO</AlertTatteredApparel>
+  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <AlertTatteredApparelDesc>TODO</AlertTatteredApparelDesc>
+
+  <!-- EN: Unhappy nudity -->
+  <AlertUnhappyNudity>TODO</AlertUnhappyNudity>
+  <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <AlertUnhappyNudityDesc>TODO</AlertUnhappyNudityDesc>
+
+  <!-- EN: Starvation -->
   <Starvation>Foamete</Starvation>
+  <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
   <StarvationDesc>Acești coloniști suferă de foamete:\n\n{0}\nObține mâncare pentru ei. Ai nevoie de un aparat de prelucrare cum ar fi furnizorul de pastă nutritivă și mâncare pentru a fi prelucrată. De asemenea, asigură-te că nu sunt recrutați în cadrul serviciilor militare.</StarvationDesc>
 
+  <!-- EN: Animal starvation -->
+  <StarvationAnimals>TODO</StarvationAnimals>
+  <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
+  <StarvationAnimalsDesc>TODO</StarvationAnimalsDesc>
+
+  <!-- EN: Exhaustion -->
   <Exhaustion>Epuizare</Exhaustion>
+  <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
   <ExhaustionDesc>Acești coloniști sunt epuizați și au nevoie de odihnă:\n\n{0}\nOferă-le timp să se odihnească. Vor avea nevoie de un pat pentru coloniști. De asemenea, asigură-te că nu sunt recrutați în cadrul serviciilor militare.</ExhaustionDesc>
 
+  <!-- EN: Need food hopper -->
   <NeedFoodHopper>Este nevoie de o pâlnie de încărcat mâncare</NeedFoodHopper>
+  <!-- EN: You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser. -->
   <NeedFoodHopperDesc>Ai un furnizor de pastă nutritivă însa nu există nici o pâlnie de încărcare lângă acesta.\n\nPentru a funționa, dispensorul de pastă are nevoie de o pâlnie de încărcare cu mâncare crudă.\n\nConstruiește o pâlnie de încărcare adiacentă cu dispensorul.</NeedFoodHopperDesc>
 
+  <!-- EN: Need meal source -->
+  <NeedMealSource>Este nevoie de o sursă de mâncare</NeedMealSource>
+  <!-- EN: You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.) -->
+  <NeedMealSourceDesc>Nu ai nici o modalitate de a găti mâncarea crudă.\n\nConstruiește un furnizor de pastă nutritivă sau o plită.\n\n(Coloniștii nu o vor putea folosi dacă este localizată într-o celulă de închisoare.)</NeedMealSourceDesc>
+
+  <!-- EN: Need recreation variety -->
+  <NeedJoySource>TODO</NeedJoySource>
+  <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
+  <NeedJoySourceDesc>TODO</NeedJoySourceDesc>
+  <!-- EN: Available recreation types -->
+  <AvailableRecreationTypes>TODO</AvailableRecreationTypes>
+  <!-- EN: Missing recreation types -->
+  <MissingRecreationTypes>TODO</MissingRecreationTypes>
+  <!-- EN: At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended. -->
+  <CurrentExpectationsAndRecreation>TODO</CurrentExpectationsAndRecreation>
+  <!-- EN: bored -->
+  <bored>TODO</bored>
+
+  <!-- EN: Boredom -->
+  <Boredom>TODO</Boredom>
+  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
+  <BoredomDesc>TODO</BoredomDesc>
+
+  <!-- EN: Need batteries -->
+  <NeedBatteries>Colonia are nevoie de baterii</NeedBatteries>
+  <!-- EN: You have a solar or wind generator, but no batteries. This means you'll lose power every time the sun goes down or the wind calms.\n\nBuild a battery or two to guarantee sustained power. -->
+  <NeedBatteriesDesc>Momentan ai doar panouri solare, dar nu ai unde stoca electricitatea. De îndată ce soarele apune, panourile nu vor mai produce electricitate.\n\nConstruiește cel puțin o baterie pentru a stoca electricitate.</NeedBatteriesDesc>
+
+  <!-- EN: Brawler has ranged weapon -->
+  <BrawlerHasRangedWeapon>Luptătorul corp la corp are o armă de distanță</BrawlerHasRangedWeapon>
+  <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
+  <BrawlerHasRangedWeaponDesc>Unul din coloniștii tăi este adeptul armelor de apropiere, însă acum este echipat cu o armă de distanță. Aceast lucru îl face foarte nefericit.</BrawlerHasRangedWeaponDesc>
+
+  <!-- EN: Shield user has ranged weapon -->
+  <ShieldUserHasRangedWeapon>TODO</ShieldUserHasRangedWeapon>
+  <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
+  <ShieldUserHasRangedWeaponDesc>TODO</ShieldUserHasRangedWeaponDesc>
+
+  <!-- EN: Need research project -->
+  <NeedResearchProject>Este nevoie de un proiect de cercetare</NeedResearchProject>
+  <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
+  <NeedResearchProjectDesc>Ai echipamentul necesar cercetării, dar nici un proiect de cercetare selectat.\n\nDeschide meniul de cercetare și alege un proiect.</NeedResearchProjectDesc>
+
+  <!-- EN: {0} colonists idle -->
+  <ColonistsIdle>{0} coloniști în repaus</ColonistsIdle>
+  <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
+  <ColonistsIdleDesc>Acești coloniști sunt în repaus:\n\n{0}\nNu mai au nici o activitate desemnată de care să se ocupe.</ColonistsIdleDesc>
+  
+  <!-- EN: Caravan idle -->
+  <CaravanIdle>TODO</CaravanIdle>
+  <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
+  <CaravanIdleDesc>TODO</CaravanIdleDesc>
+
+  <!-- EN: Colonist needs treatment -->
+  <ColonistNeedsTreatment>Un colonist are nevoie de tratament</ColonistNeedsTreatment>
+  <!-- EN: These colonists need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded colonists and right-click on the medical bed to make them a patient.) -->
+  <ColonistNeedsTreatmentDesc>Acești coloniști au nevoie de îngrijiri medicale. Fără aceasta, ar putea muri din cauza rănilor sau acestea ar putea deveni permanente.\n\n{0}\nÎngrijește-i trimițându-i într-un pat medical.\n\n(Mai întâi, desemnează un pat normal drept unul medical. Apoi, selectează colonistul rănit și dă click dreapta pe pat pentru a deveni pacient.)</ColonistNeedsTreatmentDesc>
+
+  <!-- EN: Hypothermia -->
+  <AlertHypothermia>Hipotermie</AlertHypothermia>
+  <!-- EN: These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
+  <AlertHypothermiaDesc>Acești coloniști suferă de hipotermie.\n\n{0}\nAi grijă ca îmbrăcămintea lor să fie adecvată și ca spațiile interioare să fie încălzite.</AlertHypothermiaDesc>
+  
+  <!-- EN: {0} patients await medical operation -->
+  <PatientsAwaitingMedicalOperation>TODO</PatientsAwaitingMedicalOperation>
+  <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
+  <PatientsAwaitingMedicalOperationDesc>TODO</PatientsAwaitingMedicalOperationDesc>
+
+  <!-- EN: Fire! -->
+  <FireInHomeArea>TODO</FireInHomeArea>
+  <!-- EN: There is a fire in the home area. -->
+  <FireInHomeAreaDesc>TODO</FireInHomeAreaDesc>
+
+  <!-- EN: Medical emergency -->
+  <PawnsWithLifeThreateningDisease>Boală Severă</PawnsWithLifeThreateningDisease>
+  <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
+  <PawnsWithLifeThreateningDiseaseDesc>Acești coloniști riscă să moară din cauza unei boli cu risc letal:\n\n{0}\nAsigură-te că primesc îngrijiri medicale.</PawnsWithLifeThreateningDiseaseDesc>
+  <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Acești coloniști sunt infectați cu o boală ce poate fi fatală:\n\n{0}\nDacă este posibil, ia în considerare amputarea și înlocuirea organelor infectate cu unul artificial sau un organ sănătos.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <!-- EN: Billiards needs space -->
+  <BilliardsNeedsSpace>TODO</BilliardsNeedsSpace>
+  <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
+  <BilliardsNeedsSpaceDesc>TODO</BilliardsNeedsSpaceDesc>
+
+  <!-- EN: Hunter has shield and ranged weapon -->
+  <HunterHasShieldAndRangedWeapon>TODO</HunterHasShieldAndRangedWeapon>
+  <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
+  <HunterHasShieldAndRangedWeaponDesc>TODO</HunterHasShieldAndRangedWeaponDesc>
+
+  <!-- EN: Need warm clothes -->
+  <NeedWarmClothes>TODO</NeedWarmClothes>
+  <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
+  <NeedWarmClothesDesc1>TODO</NeedWarmClothesDesc1>
+  <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
+  <NeedWarmClothesDesc1All>TODO</NeedWarmClothesDesc1All>
+  <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
+  <NeedWarmClothesDesc2>TODO</NeedWarmClothesDesc2>
+
+  <!-- EN: Immobile caravan -->
+  <ImmobileCaravan>TODO</ImmobileCaravan>
+  <!-- EN: One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab. -->
+  <ImmobileCaravanDesc>TODO</ImmobileCaravanDesc>
+
+  <!-- EN: Building unusable due to roof -->
+  <BuildingCantBeUsedRoofed>TODO</BuildingCantBeUsedRoofed>
+  <!-- EN: One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof. -->
+  <BuildingCantBeUsedRoofedDesc>TODO</BuildingCantBeUsedRoofedDesc>
+
+  <!-- EN: Heatstroke -->
+  <AlertHeatstroke>TODO</AlertHeatstroke>
+  <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
+  <AlertHeatstrokeDesc>TODO</AlertHeatstrokeDesc>
+
+  <!-- EN: Guest unhappy -->
+  <QuestPartMoodBelowThreshold>TODO</QuestPartMoodBelowThreshold>
+  <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
+  <QuestPartMoodBelowThresholdDesc>TODO</QuestPartMoodBelowThresholdDesc>
+  
+  <!-- EN: Shuttle leaving in {0} -->
+  <QuestPartShuttleLeaveDelay>TODO</QuestPartShuttleLeaveDelay>
+  <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
+  <QuestPartShuttleLeaveDelayDesc>TODO</QuestPartShuttleLeaveDelayDesc>
+  <!-- EN: The shuttle will leave in {0}. -->
+  <QuestPartShuttleLeaveDelayDescHidden>TODO</QuestPartShuttleLeaveDelayDescHidden>
+
+  <!-- EN: Shuttle arriving in {0} -->
+  <QuestPartShuttleArriveDelay>TODO</QuestPartShuttleArriveDelay>
+  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
+  <QuestPartShuttleArriveDelayDesc>TODO</QuestPartShuttleArriveDelayDesc>
+  <!-- EN: A shuttle will arrive in {0}. -->
+  <QuestPartShuttleArriveDelayDescHidden>TODO</QuestPartShuttleArriveDelayDescHidden>
+
+  <!-- EN: Monument will be destroyed -->
+  <DisallowedBuildingInsideMonument>TODO</DisallowedBuildingInsideMonument>
+  <!-- EN: You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}. -->
+  <DisallowedBuildingInsideMonumentDesc>TODO</DisallowedBuildingInsideMonumentDesc>
+
+  <!-- EN: Countdown activator {0} -->
+  <ActivatorCountdown>TODO</ActivatorCountdown>
+  <!-- EN: There is a countdown activator ticking down, preparing to awaken nearby mechanoids. -->
+  <ActivatorCountdownDesc>TODO</ActivatorCountdownDesc>
+  <!-- EN: {0} countdown activators -->
+  <ActivatorCountdownMultiple>TODO</ActivatorCountdownMultiple>
+  <!-- EN: There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids. -->
+  <ActivatorCountdownDescMultiple>TODO</ActivatorCountdownDescMultiple>
+
+  <!-- EN: Quest expires in {0} -->
+  <QuestExpiresSoon>TODO</QuestExpiresSoon>
+  <!-- EN: The quest '{0}' will expire in {1}. -->
+  <QuestExpiresSoonDesc>TODO</QuestExpiresSoonDesc>
+  <!-- UNUSED -->
+  <AlertNeedStockpile>Ai nevoie de un loc de depozitare</AlertNeedStockpile>
+  <AlertNeedStockpileDesc>Coloniștii tăi au nevoie să depoziteze lucrurile undeva. Marchează un loc de depozitare pentru a stoca lucruri. \n\nGasești depozitul în secțiunea ZONE a meniului ARHITECT jos în partea stângă a ecranului. </AlertNeedStockpileDesc>
+  <AlertUnforbidStartingResources>Aprobă utilizarea resurselor</AlertUnforbidStartingResources>
+  <AlertUnforbidStartingResourcesDesc>Interacțiunea cu resursele de început de pe harta este INTERZISĂ\n\nPoți APROBA interacțiunea cu acestea selectându-le și dând click pe butonul APROBĂ din partea de jos a ecranului.</AlertUnforbidStartingResourcesDesc>
+  <AlertEquipStartingWeapons>Echipează arme</AlertEquipStartingWeapons>
+  <AlertEquipStartingWeaponsDesc>Coloniștii tăi au nevoie de arme. Echipează armele aflate în zona de prăbușire!\n\nSelectează fiecare colonist si dă click-dreapta pe arma pe care vrei să o echipeze.</AlertEquipStartingWeaponsDesc>
+  <NeedSawmill>Este nevoie de un fierăstrău pentru prelucrarea lemnului.</NeedSawmill>
+  <NeedSawmillDesc>Este nevoie de un fierăstrău pentru a tăia buștenii în scânduri.\n\nConstruiește un FIERĂSTRĂU ACTIONAT MANUAL sau un FIERĂSTRĂU ELECTRIC.</NeedSawmillDesc>
+  <MentalBreakSoon>Pericol cădere psihică</MentalBreakSoon>
+  <MentalBreakSoonDesc>Acești coloniști se apropie de o cădere psihică:\n\n{0}\nImbunătățește-le dispoziția pentru a evita pierderea controlului.</MentalBreakSoonDesc>
+  <MentalBreakImminent>Cădere psihică iminentă</MentalBreakImminent>
+  <MentalBreakImminentDesc>Acești coloniști sunt foarte stresați și vor claca în orice moment:\n\n{0}</MentalBreakImminentDesc>
+  <BuildARoom>Construiește o încăpere</BuildARoom>
+  <BuildARoomDesc>O încăpere presupune pereți și o ușă pentru a permite accesul coloniștilor.\n\nSelectează STRUCTURĂ din meniul ARHITECT din stânga jos a ecranului pentru a decide locația unde vrei să construiești. După ce ai desemnat planul construcției, coloniștii tăi vor urma planul atunci când vor putea.</BuildARoomDesc>
+  <NeedGrowingZone>Este necesară o zonă de cultivare</NeedGrowingZone>
+  <NeedGrowingZoneDesc>Nu există nici o zonă pentru cultivare.\n\nDesemnează o zonă de cultivare folosind meniul ZONĂ/PERIMETRU din ARHITECT.</NeedGrowingZoneDesc>
   <BuildingNeedsPower>Clădirea are nevoie de electricitate</BuildingNeedsPower>
   <BuildingsNeedPower>Clădirile au nevoie de electricitate</BuildingsNeedPower>
   <BuildingsNeedPowerDesc>Aceste clădiri ce folosesc electricitate nu sunt conectate la nici o sursă de curent:\n\n{0}\nConectează-le la un generator sau la o baterie.</BuildingsNeedPowerDesc>
   <AndMore>mai mult</AndMore>
-
-  <NeedMealSource>Este nevoie de o sursă de mâncare</NeedMealSource>
-  <NeedMealSourceDesc>Nu ai nici o modalitate de a găti mâncarea crudă.\n\nConstruiește un furnizor de pastă nutritivă sau o plită.\n\n(Coloniștii nu o vor putea folosi dacă este localizată într-o celulă de închisoare.)</NeedMealSourceDesc>
-
   <NeedHomeRegion>Trebuie desemnată o regiune care să reprezinte zona de ACASĂ</NeedHomeRegion>
   <NeedHomeRegionDesc>Trebuie să desemnezi o regiune ACASĂ unde coloniștii vor face curat, vor repara și vor stinge eventualele incendii.\n\nDesemnează regiunea ACASĂ folosind secțiunea ZONE a meniului ARHITECT.</NeedHomeRegionDesc>
-
-  <NeedBatteries>Colonia are nevoie de baterii</NeedBatteries>
-  <NeedBatteriesDesc>Momentan ai doar panouri solare, dar nu ai unde stoca electricitatea. De îndată ce soarele apune, panourile nu vor mai produce electricitate.\n\nConstruiește cel puțin o baterie pentru a stoca electricitate.</NeedBatteriesDesc>
-
   <NoTradingCapacity>Nu ai acces la comerț</NoTradingCapacity>
   <NoTradingCapacityDesc>Nu ai nici o modalitate de a lua legătura cu alte colonii și a face comerț cu navele ce trec prin orbită.\n\nConstruiește o consolă de comunicații.</NoTradingCapacityDesc>
-
-  <BrawlerHasRangedWeapon>Luptătorul corp la corp are o armă de distanță</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>Unul din coloniștii tăi este adeptul armelor de apropiere, însă acum este echipat cu o armă de distanță. Aceast lucru îl face foarte nefericit.</BrawlerHasRangedWeaponDesc>
-
-  <NeedResearchProject>Este nevoie de un proiect de cercetare</NeedResearchProject>
-  <NeedResearchProjectDesc>Ai echipamentul necesar cercetării, dar nici un proiect de cercetare selectat.\n\nDeschide meniul de cercetare și alege un proiect.</NeedResearchProjectDesc>
-  
   <NeedDump>Este necesară o zonă pentru deșeuri</NeedDump>
   <NeedDumpDesc>Ai desemnat {0} pentru a fi depozitat/transportat, dar coloniștii nu au un loc de depozitare specific.\n\nDesemnează o zonă de depozitare ce acceptă și {0}, sau desemnează direct o zonă pentru deșeuri.</NeedDumpDesc>
-
   <NeedGrave>Este necesar un mormânt</NeedGrave>
   <NeedGraveDesc>Un cadavru se află în apropierea coloniștilor, iar aceștia nu îl pot depozita nicăieri.\n\nConstruiește un mormânt sau modifică setările unei zone pentru deșeuri pentru a accepta cadavre.</NeedGraveDesc>
-
-  <ColonistsIdle>{0} coloniști în repaus</ColonistsIdle>
-  <ColonistsIdleDesc>Acești coloniști sunt în repaus:\n\n{0}\nNu mai au nici o activitate desemnată de care să se ocupe.</ColonistsIdleDesc>
-
   <HaltedConstructions>{0} construcții mai au nevoie de materiale</HaltedConstructions>
   <HaltedConstructionsDesc>Aceste construcții au nevoie de materiale:\n\n{0}\nAr trebui să pui aceste materiale la dispoziția coloniștilor.</HaltedConstructionsDesc>
-
   <TableNeedsChairs>Masa are nevoie de scaune</TableNeedsChairs>
   <TableNeedsChairsDesc>Ai o masă dar nici un scaun lângă. Mesele sunt inutile pentru coloniști dacă nu se pot așeza.</TableNeedsChairsDesc>
-
-  <ColonistNeedsTreatment>Un colonist are nevoie de tratament</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>Acești coloniști au nevoie de îngrijiri medicale. Fără aceasta, ar putea muri din cauza rănilor sau acestea ar putea deveni permanente.\n\n{0}\nÎngrijește-i trimițându-i într-un pat medical.\n\n(Mai întâi, desemnează un pat normal drept unul medical. Apoi, selectează colonistul rănit și dă click dreapta pe pat pentru a deveni pacient.)</ColonistNeedsTreatmentDesc>
-
-  <AlertHypothermia>Hipotermie</AlertHypothermia>
-  <AlertHypothermiaDesc>Acești coloniști suferă de hipotermie.\n\n{0}\nAi grijă ca îmbrăcămintea lor să fie adecvată și ca spațiile interioare să fie încălzite.</AlertHypothermiaDesc>
-  
   <ColonistsAwaitingMedicalOperation>{0} coloniști așteaptă o operație</ColonistsAwaitingMedicalOperation>
   <ColonistsAwaitingMedicalOperationDesc>Acești coloniști sunt în așteptarea unei operații medicale:\n\n{0}\nFii sigur că există un doctor și suficiente unelte medicale.</ColonistsAwaitingMedicalOperationDesc>
 
-  <PawnsWithLifeThreateningDisease>Boală Severă</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>Acești coloniști riscă să moară din cauza unei boli cu risc letal:\n\n{0}\nAsigură-te că primesc îngrijiri medicale.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>Acești coloniști sunt infectați cu o boală ce poate fi fatală:\n\n{0}\nDacă este posibil, ia în considerare amputarea și înlocuirea organelor infectate cu unul artificial sau un organ sănătos.</PawnsWithLifeThreateningDiseaseAmputationDesc>
-
-  <!--<AlertAbsentMinded>{0} și-a pierdut conștiința</AlertAbsentMinded>-->
-  
 </LanguageData>

@@ -1,90 +1,340 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- ITab titles -->
+  <!-- EN: Bills -->
   <TabBills>Sarcini</TabBills>
+  <!-- EN: Growing -->
   <TabGrowing>Creștere</TabGrowing>
+  <!-- EN: Bio -->
   <TabCharacter>Caracter</TabCharacter>
+  <!-- EN: Training -->
+  <TabTraining>TODO</TabTraining>
+  <!-- EN: Prisoner -->
   <TabPrisoner>Prizonier</TabPrisoner>
+  <!-- EN: Guest -->
+  <TabGuest>TODO</TabGuest>
+  <!-- EN: Gear -->
   <TabGear>Inventar</TabGear>
-  <TabThoughts>Psihic</TabThoughts>
+  <!-- EN: Needs -->
+  <TabNeeds>TODO</TabNeeds>
+  <!-- EN: Storage -->
   <TabStorage>Depozit</TabStorage>
+  <!-- EN: Shells -->
+  <TabShells>TODO</TabShells>
+  <!-- EN: Health -->
   <TabHealth>Sănătate</TabHealth>
+  <!-- EN: Race -->
   <TabRace>Rasă</TabRace>
+  <!-- EN: Basics -->
   <TabBasics>Elementar</TabBasics>
+  <!-- EN: Stats -->
   <TabStats>Date</TabStats>
-
+  <!-- EN: Records -->
+  <TabRecords>TODO</TabRecords>
+  <!-- EN: Art -->
+  <TabArt>TODO</TabArt>
+  <!-- EN: Social -->
+  <TabSocial>TODO</TabSocial>
+  <!-- EN: Log -->
+  <TabLog>TODO</TabLog>
+  <!-- EN: Caravan -->
+  <TabFormingCaravan>TODO</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>TODO</TabTransporterContents>
+  <!-- EN: Contents -->
+  <TabCasketContents>TODO</TabCasketContents>
   
   <!-- Bills tab  -->
+  <!-- EN: Add bill -->
   <AddBill>Adaugă sarcină</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
   <RecipeRequiresSkills>Sarcina {0} necesită abilitățile de mai jos. Nici unul din coloniștii tăi nu dețin aceste abilități, deci sarcina este imposibil de realizat.</RecipeRequiresSkills>
-  <BillConfig>Setări</BillConfig>
+  <!-- EN: Min skill -->
+  <MinimumSkill>TODO</MinimumSkill>
+  <!-- EN: SUSPENDED -->
   <SuspendedCaps>SUSPENDAT</SuspendedCaps>
+  <!-- EN: Worker: {1_labelShort} -->
+  <BoundWorkerIs>TODO</BoundWorkerIs>
+  <!-- EN: Plant -->
   <PlantVerb>Plantare</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here. -->
+  <ClipboardBillNotAvailableHere>TODO</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
+  <ReorderBillUpTip>TODO</ReorderBillUpTip>
+  <!-- EN: Move down -->
+  <ReorderBillDownTip>TODO</ReorderBillDownTip>
+  <!-- EN: Delete -->
+  <DeleteBillTip>TODO</DeleteBillTip>
+  <!-- EN: Copy to the clipboard -->
+  <CopyBillTip>TODO</CopyBillTip>
+  <!-- EN: Suspend -->
+  <SuspendBillTip>TODO</SuspendBillTip>
+  <!-- EN: Paste -->
+  <PasteBillTip>TODO</PasteBillTip>
+  <!-- EN: can't add more -->
+  <PasteBillTip_LimitReached>TODO</PasteBillTip_LimitReached>
 
-
-  <!-- Prisoner tab -->
+  <!-- Guest/prisoner tab -->
+  <!-- EN: Resistance remaining -->
+  <RecruitmentResistance>TODO</RecruitmentResistance>
+  <!-- EN: Recruitment difficulty -->
   <RecruitmentDifficulty>Dificultate de recrutare</RecruitmentDifficulty>
-  <PrisonerGetsFood>Mâncare</PrisonerGetsFood>
+  <!-- EN: Recruitment chance -->
+  <RecruitmentChance>TODO</RecruitmentChance>
+  <!-- EN: Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2} -->
+  <RecruitmentChanceExplanation>TODO</RecruitmentChanceExplanation>
+  <!-- EN: \n- - - - - - - - - -\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7} -->
+  <RecruitmentChanceWithLastRecruiterExplanationPart>TODO</RecruitmentChanceWithLastRecruiterExplanationPart>
+  <!-- EN: \nResistance reduction: {0} -->
+  <RecruitmentLastRecruiterResistanceReduceExplanationPart>TODO</RecruitmentLastRecruiterResistanceReduceExplanationPart>
+  <!-- EN: Relations gain on release -->
+  <PrisonerReleasePotentialRelationGains>TODO</PrisonerReleasePotentialRelationGains>
+  <!-- EN: The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition. -->
+  <PrisonerReleaseRelationGainsDesc>TODO</PrisonerReleaseRelationGainsDesc>
+  <!-- EN: Prison break interval -->
+  <PrisonBreakMTBDays>TODO</PrisonBreakMTBDays>
+  <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
+  <PrisonBreakMTBDaysDescription>TODO</PrisonBreakMTBDaysDescription>
+  <!-- EN: Never -->
+  <Never>Refuză</Never>
+  <!-- EN: Not while asleep -->
+  <NotWhileAsleep>TODO</NotWhileAsleep>
+  <!-- EN: Slave price -->
+  <SlavePrice>TODO</SlavePrice>
+  <!-- EN: Gets food -->
+  <GetsFood>TODO</GetsFood>
+  <!-- EN: Doctors care -->
   <DoctorsCare>Îngrijiri medicale</DoctorsCare>
-  <PrisonerGetsMedicine>Medicamente</PrisonerGetsMedicine>
+  <!-- EN: Gets medicine -->
+  <GetsMedicine>TODO</GetsMedicine>
+  <!-- EN: Try to recruit -->
   <ShouldTryToRecruit>Recrutare</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
+  <ConsideredGuilty>TODO</ConsideredGuilty>
+  <!-- EN: Considered guilty -->
+  <ConsideredGuiltyNoTimer>TODO</ConsideredGuiltyNoTimer>
+
+  <!-- Medical - general -->
+  <!-- EN: Move speed -->
+  <MoveSpeed>Viteză</MoveSpeed>
+  <!-- EN: Efficiency -->
+  <Efficiency>Eficiență</Efficiency>
+  <!-- EN: Part efficiency -->
+  <PartEfficiency>TODO</PartEfficiency>
+  <!-- EN: Body part efficiency -->
+  <BodyPartEfficiency>Eficacitatea părții corpului</BodyPartEfficiency>
+  <!-- EN: Gone -->
+  <MissingBodyPart>Lipsă</MissingBodyPart>
+  <!-- EN: Destroyed -->
+  <DestroyedBodyPart>Distrus</DestroyedBodyPart>
+  <!-- EN: Shattered -->
+  <ShatteredBodyPart>Vătămat</ShatteredBodyPart>
+  <!-- EN: Removed -->
+  <RemovedBodyPart>Amputat</RemovedBodyPart>
+  <!-- EN: Healthy -->
+  <Healthy>Sănătos</Healthy>
+  <!-- EN: In pain -->
+  <InPain>Suferind</InPain>
+  <!-- EN: Pain -->
+  <PainLevel>Durere</PainLevel>
+  <!-- EN: Injured -->
+  <Injured>Rănit</Injured>
+  <!-- EN: Untended injury -->
+  <UntendedInjury>TODO</UntendedInjury>
+  <!-- EN: no health conditions -->
+  <NoHealthConditions>TODO</NoHealthConditions>
+  <!-- EN: Whole body -->
+  <WholeBody>Întregul corp</WholeBody>
+  <!-- EN: Data processing -->
+  <DataProcessing>Procesare de date</DataProcessing>
+  <!-- EN: Communication -->
+  <Communication>Comunicare</Communication>
+  <!-- EN: Affects -->
+  <Affects>TODO</Affects>
+  <!-- EN: Bleeding -->
+  <BleedingRate>Sângerare</BleedingRate>
+  <!-- EN: death in {0} -->
+  <TimeToDeath>TODO</TimeToDeath>
+  <!-- EN: no immediate danger -->
+  <WontBleedOutSoon>TODO</WontBleedOutSoon>
+  <!-- EN: Overview -->
+  <HealthOverview>Ansamblu</HealthOverview>
+  <!-- EN: Operations ({0}) -->
+  <MedicalOperationsShort>Operații ({0})</MedicalOperationsShort>
+  <!-- EN: Modifications ({0}) -->
+  <MedicalOperationsMechanoidsShort>Modificări ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
+  <MedicalOperations>Operații medicale</MedicalOperations>
+  <!-- EN: amputate -->
+  <Amputate>Amputare</Amputate>
+  <!-- EN: harvest -->
+  <HarvestOrgan>TODO</HarvestOrgan>
+  <!-- EN: remove -->
+  <RemoveOrgan>TODO</RemoveOrgan>
+  <!-- EN: memory -->
+  <MemoryLower>TODO</MemoryLower>
+  <!-- EN: social interactions -->
+  <SocialInteractionsLower>TODO</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
+  <HungerRate>TODO</HungerRate>
+  <!-- EN: Tiredness -->
+  <Tiredness>TODO</Tiredness>
+  <!-- EN: Pain -->
+  <PainFactor>TODO</PainFactor>
+  <!-- EN: Prevents infection -->
+  <PreventsInfection>TODO</PreventsInfection>
+  <!-- EN: Self-tend -->
+  <SelfTend>TODO</SelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <SelfTendTip>TODO</SelfTendTip>
+  
+  <!-- Medical - Body and activities condition -->
+  <!-- EN: None -->
+  <None>Nimic</None>
+  <!-- EN: Very poor -->
+  <VeryPoor>Foarte slabă</VeryPoor>
+  <!-- EN: Poor -->
+  <Poor>Slabă</Poor>
+  <!-- EN: Weakened -->
+  <Weakened>Slăbită</Weakened>
+  <!-- EN: OK -->
+  <GoodCondition>OK</GoodCondition>
+  <!-- EN: Enhanced -->
+  <Enhanced>Îmbunătățită</Enhanced>
+  <!-- EN: Seriously impaired -->
+  <SeriouslyImpaired>Compromisă</SeriouslyImpaired>
+  <!-- EN: Impaired -->
+  <Impaired>Deteriorată</Impaired>
+  <!-- EN: Slightly impaired -->
+  <SlightlyImpaired>Puțin deteriorată</SlightlyImpaired>
+  <!-- EN: None -->
+  <NoPain>Deloc</NoPain>
+  <!-- EN: Little -->
+  <LittlePain>Puțină</LittlePain>
+  <!-- EN: Medium -->
+  <MediumPain>Medie</MediumPain>
+  <!-- EN: Severe -->
+  <SeverePain>Severă</SeverePain>
+  <!-- EN: Extreme -->
+  <ExtremePain>Extremă</ExtremePain>
+
+  <!-- Training tab -->
+  <!-- EN: Trainability -->
+  <Trainability>TODO</Trainability>
+  <!-- EN: Requires {0} trainability. -->
+  <CannotTrainNotSmartEnough>TODO</CannotTrainNotSmartEnough>
+  <!-- EN: {1_labelShort} is too small to train this. -->
+  <CannotTrainTooSmall>TODO</CannotTrainTooSmall>
+
+  <!-- EN: Prerequisite needed: {0} -->
+  <TrainingNeedsPrerequisite>TODO</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <!-- EN: (no relationships) -->
+  <NoRelationships>TODO</NoRelationships>
+  <!-- EN: Kidnapped -->
+  <Kidnapped>TODO</Kidnapped>
+  <!-- EN: Lent to {FACTION_name}, returns in {1} -->
+  <Lent>TODO</Lent>
+  <!-- EN: Missing -->
+  <Missing>TODO</Missing>
+  <!-- EN: Slave -->
+  <Slave>TODO</Slave>
+  <!-- EN: Faction leader -->
+  <FactionLeader>TODO</FactionLeader>
+  <!-- EN: Opinion of {1_labelShort} -->
+  <OpinionOf>TODO</OpinionOf>
+  <!-- EN: {1_labelShort}'s opinion of me -->
+  <SomeonesOpinionOfMe>TODO</SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
+  <IAmDead>TODO</IAmDead>
+  <!-- EN: I'm a psychopath -->
+  <IAmPsychopath>TODO</IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <!-- EN: Overall armor -->
+  <OverallArmor>TODO</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
+  <MassCarried>TODO</MassCarried>
+  <!-- EN: Comfortable temperature range -->
+  <ComfyTemperatureRange>TODO</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
+  <ArmorBlunt>TODO</ArmorBlunt>
+  <!-- EN: Sharp -->
+  <ArmorSharp>TODO</ArmorSharp>
+  <!-- EN: Heat -->
+  <ArmorHeat>TODO</ArmorHeat>
+  
+  <!-- Log tab -->
+  <!-- EN: Show all -->
+  <ShowAll>TODO</ShowAll>
+  <!-- EN: Show combat -->
+  <ShowCombat>TODO</ShowCombat>
+  <!-- EN: Show social -->
+  <ShowSocial>TODO</ShowSocial>
+  <!-- EN: no recent entries -->
+  <NoRecentEntries>TODO</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
+  <CopyLogTip>TODO</CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <!-- EN: Gathering items -->
+  <FormingCaravanStatus_GatheringItems>TODO</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause>TODO</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>TODO</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>TODO</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <!-- EN: Leaving -->
+  <FormingCaravanStatus_Leaving>TODO</FormingCaravanStatus_Leaving>
+  <!-- EN: Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause>TODO</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
+  <FormingCaravanStatus_Waiting>TODO</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
+  <CaravanMembers>TODO</CaravanMembers>
+  <!-- EN: Animals -->
+  <CaravanAnimals>TODO</CaravanAnimals>
+  <!-- EN: To load -->
+  <ItemsToLoad>TODO</ItemsToLoad>
+  <!-- EN: Loaded -->
+  <LoadedItems>TODO</LoadedItems>
+  <!-- EN: pack animals -->
+  <PackAnimalsCountLower>TODO</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
+  <InMentalStateCountLower>TODO</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>TODO</RemoveSliderText>
+  <!-- EN: Contained items -->
+  <ContainedItems>TODO</ContainedItems>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
+  
+  <!-- Quests tab -->
+  <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
+  <DismissQuest>TODO</DismissQuest>
+  <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
+  <UnDismissQuest>TODO</UnDismissQuest>
+  <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
+  <QuestDismissed>TODO</QuestDismissed>
+  <!-- EN: Delete this quest and remove it from the quest list forever. -->
+  <DeleteQuest>TODO</DeleteQuest>
+
+  <!-- UNUSED -->
+  <TabThoughts>Psihic</TabThoughts>
+  <BillConfig>Setări</BillConfig>
+  <PrisonerGetsFood>Mâncare</PrisonerGetsFood>
+  <PrisonerGetsMedicine>Medicamente</PrisonerGetsMedicine>
   <PrisonerNoInteraction>Izolare</PrisonerNoInteraction>
   <PrisonerFriendlyChat>Conversație amicală</PrisonerFriendlyChat>
   <PrisonerRelease>Eliberare</PrisonerRelease>
   <PrisonerExecution>Executare</PrisonerExecution>
-
-
-  <!-- Medical - general -->
-  <MoveSpeed>Viteză</MoveSpeed>
-  <Efficiency>Eficiență</Efficiency>
-  <MissingBodyPart>Lipsă</MissingBodyPart>
-  <DestroyedBodyPart>Distrus</DestroyedBodyPart>
-  <ShatteredBodyPart>Vătămat</ShatteredBodyPart>
-  <RemovedBodyPart>Amputat</RemovedBodyPart>
-  <Healthy>Sănătos</Healthy>
-  <InPain>Suferind</InPain>
-  <PainLevel>Durere</PainLevel>
-  <Dead>Mort</Dead>
-  <Unconscious>Inconștient</Unconscious>
-  <PainShock>În șoc</PainShock>
-  <Injured>Rănit</Injured>
   <NoInjuries>(sănătos)</NoInjuries>
-  <WholeBody>Întregul corp</WholeBody>
-  <DataProcessing>Procesare de date</DataProcessing>
-  <Communication>Comunicare</Communication>
   <AffectsLower>afectează</AffectsLower>
-  <BleedingRate>Sângerare</BleedingRate>
-  <HealthOverview>Ansamblu</HealthOverview>
-  <MedicalOperationsShort>Operații ({0})</MedicalOperationsShort>
-  <MedicalOperationsMechanoidsShort>Modificări ({0})</MedicalOperationsMechanoidsShort>
-  <MedicalOperations>Operații medicale</MedicalOperations>
-  <Amputate>Amputare</Amputate>
   <Harvest>Recoltare</Harvest>
-  
-  
-
-  <!-- Medical - Body and activities condition -->
-  <None>Nimic</None>
-  <VeryPoor>Foarte slabă</VeryPoor>
-  <Poor>Slabă</Poor>
-  <Weakened>Slăbită</Weakened>
-  <GoodCondition>OK</GoodCondition>
-  <Enhanced>Îmbunătățită</Enhanced>
-  <SeriouslyImpaired>Compromisă</SeriouslyImpaired>
-  <Impaired>Deteriorată</Impaired>
-  <SlightlyImpaired>Puțin deteriorată</SlightlyImpaired>
-  <NoPain>Deloc</NoPain>
-  <LittlePain>Puțină</LittlePain>
-  <MediumPain>Medie</MediumPain>
-  <SeverePain>Severă</SeverePain>
-  <ExtremePain>Extremă</ExtremePain>
-
-
-
-
-
-
-
 
 </LanguageData>

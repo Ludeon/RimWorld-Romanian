@@ -1,12 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	
-	<Repair.label>Repară</Repair.label>
-
-	<HealInjury.label>Vindecă leziunea</HealInjury.label>
-
-	<HealGlobal.label>Vindecă toate leziunile</HealGlobal.label>
-
-	<RestoreBodyPart.label>Restabiliți parte a corpului</RestoreBodyPart.label>
-	
+  
+  <!-- UNUSED -->
+  <HealGlobal.label>Vindecă toate leziunile</HealGlobal.label>
+  
+  <!-- UNUSED -->
+  <HealInjury.label>Vindecă leziunea</HealInjury.label>
+  
+  <!-- UNUSED -->
+  <Repair.label>Repară</Repair.label>
+  
+  <!-- UNUSED -->
+  <RestoreBodyPart.label>Restabiliți parte a corpului</RestoreBodyPart.label>
+  
 </LanguageData>

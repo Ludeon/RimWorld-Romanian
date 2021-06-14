@@ -1,79 +1,1355 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Various -->
+  <!-- EN: hit points -->
+  <HitPointsBasic>TODO</HitPointsBasic>
+  <!-- EN: Work left -->
   <WorkLeft>Lucru rămas</WorkLeft>
+  <!-- EN: Contents -->
   <Contents>Conținut</Contents>
+  <!-- EN: Contained resources -->
   <ContainedResources>Resurse conținute</ContainedResources>
+  <!-- EN: For prisoner use -->
   <ForPrisonerUse>Pentru prizonieri</ForPrisonerUse>
+  <!-- EN: In prison cell: For prisoner use -->
+  <InPrisonCell>TODO</InPrisonCell>
+  <!-- EN: For colonist use -->
   <ForColonistUse>Pentru coloniști</ForColonistUse>
+  <!-- EN: Medical -->
   <MedicalBed>Medical</MedicalBed>
+  <!-- EN: Owner -->
   <Owner>Proprietar</Owner>
+  <!-- EN: Owners -->
+  <Owners>TODO</Owners>
+  <!-- EN: Assigned colonist -->
+  <AssignedColonist>TODO</AssignedColonist>
+  <!-- EN: Died on the {0} -->
+  <DiedOn>TODO</DiedOn>
+  <!-- EN: Nobody -->
   <Nobody>Nimeni</Nobody>
+  <!-- EN: Unowned -->
   <Unowned>Liber</Unowned>
+  <!-- EN: Dead for {0} -->
   <DeadTime>Mort de {0}</DeadTime>
+  <!-- EN: walk speed {0} -->
   <WalkSpeed>Viteză {0}</WalkSpeed>
+  <!-- EN: fert. -->
+  <FertShort>TODO</FertShort>
+  <!-- EN: dying -->
   <DyingLower>moare</DyingLower>
+  <!-- EN: Filth on feet: -->
   <FilthOnFeet>Mizerie pe picioare:</FilthOnFeet>
+  <!-- EN: not enough stored -->
   <NotEnoughStoredLower>insuficient stocat</NotEnoughStoredLower>
+  <!-- EN: nothing -->
   <NothingLower>nimic</NothingLower>
+  <!-- EN: Nothing -->
+  <Nothing>TODO</Nothing>
+  <!-- EN: Adapted -->
   <Adapted>Adaptat</Adapted>
-  <Headshot>Headshot</Headshot>
+  <!-- EN: fresh -->
   <FreshMissingBodyPart>recent</FreshMissingBodyPart>
-  <UntreatedLower>netratat</UntreatedLower>
+  <!-- EN: developed immunity -->
   <DevelopedImmunityLower>imunitate dezvoltată</DevelopedImmunityLower>
-  <InjuryRequiresTreatment>necesită tratament pentru vindecare</InjuryRequiresTreatment>
-  <NextTreatmentAfter>următorul tratament după {0} zile</NextTreatmentAfter>
+  <!-- EN: Needs tending now -->
+  <NeedsTendingNow>TODO</NeedsTendingNow>
+  <!-- EN: Can tend now -->
+  <CanTendNow>TODO</CanTendNow>
+  <!-- EN: Tending expires in {0} -->
+  <TreatmentExpiresIn>TODO</TreatmentExpiresIn>
+  <!-- EN: Can be tended in {0} -->
+  <NextTendIn>TODO</NextTendIn>
+  <!-- EN: Tend quality -->
+  <TendQuality>TODO</TendQuality>
+  <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>Nu există {0}</MissingMedicalBillIngredient>
-  <ImmunityDevelopmentProgress>progres în dezvoltarea imunității</ImmunityDevelopmentProgress>
+  <!-- EN: Immunity -->
+  <Immunity>TODO</Immunity>
+  <!-- EN: {0} days to recover -->
+  <DaysToRecover>TODO</DaysToRecover>
+  <!-- EN: Ineffective -->
+  <Ineffective>TODO</Ineffective>
+  <!-- EN: illegal -->
+  <Illegal>TODO</Illegal>
+  <!-- EN: detection chance -->
+  <DetectionChance>TODO</DetectionChance>
+  <!-- EN: Race -->
   <Race>Rasă</Race>
+  <!-- EN: Description -->
   <Description>Descriere</Description>
+  <!-- EN: Equipment -->
   <Equipment>Echipament</Equipment>
+  <!-- EN: Apparel -->
   <Apparel>Ținută</Apparel>
+  <!-- EN: Inventory -->
   <Inventory>Inventar</Inventory>
+  <!-- EN: Information -->
   <ThingInfo>Informații</ThingInfo>
+  <!-- EN: Drop -->
   <DropThing>Resurse rămase</DropThing>
+  <!-- EN: Temporary faction members will not drop their items. -->
+  <DropThingLodger>TODO</DropThingLodger>
+  <!-- EN: This person refuses to drop this. -->
+  <DropThingLocked>TODO</DropThingLocked>
+  <!-- EN: Rename -->
+  <Rename>TODO</Rename>
+  <!-- EN: Rename animal -->
+  <RenameAnimal>TODO</RenameAnimal>
+  <!-- EN: Rename colonist -->
   <RenameColonist>Redenumire colonist</RenameColonist>
+  <!-- EN: Renounce title -->
+  <RenounceTitle>TODO</RenounceTitle>
+  <!-- EN: {0} of {1} -->
+  <TitleOfFaction>TODO</TitleOfFaction>
+  <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
+  <RenounceTitleDescription>TODO</RenounceTitleDescription>
+  <!-- EN: {PAWN_possessive} will lose these permissions -->
+  <RenounceTitleWillLoosePermits>TODO</RenounceTitleWillLoosePermits>
+  <!-- EN: unknown -->
   <UnknownLower>necunoscut</UnknownLower>
+  <!-- EN: On -->
+  <On>TODO</On>
+  <!-- EN: Off -->
+  <Off>TODO</Off>
+  <!-- EN: Power -->
+  <PowerSwitch_Power>TODO</PowerSwitch_Power>
+  <!-- EN: Recreation type tolerances -->
+  <JoyTolerances>TODO</JoyTolerances>
+  <!-- EN: Milk fullness -->
+  <MilkFullness>TODO</MilkFullness>
+  <!-- EN: Wool growth -->
+  <WoolGrowth>TODO</WoolGrowth>
+  <!-- EN: Egg progress -->
+  <EggProgress>TODO</EggProgress>
+  <!-- EN: Fertilized -->
+  <Fertilized>TODO</Fertilized>
+  <!-- EN: Progress stopped until fertilized -->
+  <ProgressStoppedUntilFertilized>TODO</ProgressStoppedUntilFertilized>
+  <!-- EN: need {0} level {2}, have {1} -->
+  <SkillTooLow>TODO</SkillTooLow>
+  <!-- EN: Freezing -->
+  <Freezing>TODO</Freezing>
+  <!-- EN: Overheating -->
+  <Overheating>TODO</Overheating>
+  <!-- EN: Ruined by temperature. -->
+  <RuinedByTemperature>TODO</RuinedByTemperature>
+  <!-- EN: Missing body parts -->
+  <CorpsePercentMissing>TODO</CorpsePercentMissing>
+  <!-- EN: Reproduces in -->
+  <HiveReproducesIn>TODO</HiveReproducesIn>
+  <!-- EN: Dormant: Not reproducing. -->
+  <DormantHiveNotReproducing>TODO</DormantHiveNotReproducing>
+  <!-- EN: Next {0} in -->
+  <NextSpawnedItemIn>TODO</NextSpawnedItemIn>
+  <!-- EN: Next resource in -->
+  <NextSpawnedResourceIn>TODO</NextSpawnedResourceIn>
+  <!-- EN: Broken down -->
+  <BrokenDown>TODO</BrokenDown>
+  <!-- EN: (bond) -->
+  <BondBrackets>TODO</BondBrackets>
+  <!-- EN: Fuel -->
+  <Fuel>TODO</Fuel>
+  <!-- EN: Fuel -->
+  <FuelLevelGizmoLabel>TODO</FuelLevelGizmoLabel>
+  <!-- EN: Set target fuel level to {0} -->
+  <SetTargetFuelLevel>TODO</SetTargetFuelLevel>
+  <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
+  <SetPodLauncherTargetFuelLevel>TODO</SetPodLauncherTargetFuelLevel>
+  <!-- EN: Target fuel level: {0} -->
+  <ConfiguredTargetFuelLevel>TODO</ConfiguredTargetFuelLevel>
+  <!-- EN: enemies -->
+  <Enemies>TODO</Enemies>
+  <!-- EN: time passed -->
+  <TimePassed>TODO</TimePassed>
+  <!-- EN: current radius -->
+  <CurrentRadius>TODO</CurrentRadius>
+  <!-- EN: radius expands in -->
+  <RadiusExpandsIn>TODO</RadiusExpandsIn>
+  <!-- EN: permanent -->
+  <Permanent>TODO</Permanent>
+  <!-- EN: Resting -->
+  <CaravanResting>TODO</CaravanResting>
+  <!-- EN: using 1 bedroll -->
+  <UsingBedroll>TODO</UsingBedroll>
+  <!-- EN: using {0} bedrolls -->
+  <UsingBedrolls>TODO</UsingBedrolls>
+  <!-- EN: Est. time to destination: {0} days -->
+  <CaravanEstimatedTimeToDestination>TODO</CaravanEstimatedTimeToDestination>
+  <!-- EN: Route travel time: {0} days -->
+  <CaravanEstimatedDaysToDestination>TODO</CaravanEstimatedDaysToDestination>
+  <!-- EN: Immobilized: Too much weight. -->
+  <CaravanImmobilizedByMass>TODO</CaravanImmobilizedByMass>
+  <!-- EN: Out of food. -->
+  <CaravanOutOfFood>TODO</CaravanOutOfFood>
+  <!-- EN: Days of food: {0} -->
+  <CaravanDaysOfFood>TODO</CaravanDaysOfFood>
+  <!-- EN: Days of food: {0} (rot in {1} days) -->
+  <CaravanDaysOfFoodRot>TODO</CaravanDaysOfFoodRot>
+  <!-- EN: Stopped because: Everyone is downed. -->
+  <AllCaravanMembersDowned>TODO</AllCaravanMembersDowned>
+  <!-- EN: Stopped because: Everyone is in a mental break. -->
+  <AllCaravanMembersMentalBreak>TODO</AllCaravanMembersMentalBreak>
+  <!-- EN: {0} {1} -->
+  <CaravanColonistsCount>TODO</CaravanColonistsCount>
+  <!-- EN: 1 animal -->
+  <CaravanAnimal>TODO</CaravanAnimal>
+  <!-- EN: {0} animals -->
+  <CaravanAnimalsCount>TODO</CaravanAnimalsCount>
+  <!-- EN: 1 prisoner -->
+  <CaravanPrisoner>TODO</CaravanPrisoner>
+  <!-- EN: {0} prisoners -->
+  <CaravanPrisonersCount>TODO</CaravanPrisonersCount>
+  <!-- EN: {0} in mental state -->
+  <CaravanPawnsInMentalState>TODO</CaravanPawnsInMentalState>
+  <!-- EN: {0} downed -->
+  <CaravanPawnsDowned>TODO</CaravanPawnsDowned>
+  <!-- EN: Traveling. -->
+  <CaravanTraveling>TODO</CaravanTraveling>
+  <!-- EN: Waiting. -->
+  <CaravanWaiting>TODO</CaravanWaiting>
+  <!-- EN: Being carried due to illness -->
+  <BeingCarriedDueToIllness>TODO</BeingCarriedDueToIllness>
+  <!-- EN: Using bedrolls due to illness -->
+  <UsingBedrollsDueToIllness>TODO</UsingBedrollsDueToIllness>
+  <!-- EN: Current tile movement time -->
+  <CurrentTileMovementTime>TODO</CurrentTileMovementTime>
+  <!-- EN: Visibility -->
+  <Visibility>TODO</Visibility>
+  <!-- EN: Temperature -->
+  <Temperature>TODO</Temperature>
+  <!-- EN: bad temperature -->
+  <BadTemperature>TODO</BadTemperature>
+  <!-- EN: Ideal fermenting temperature -->
+  <IdealFermentingTemperature>TODO</IdealFermentingTemperature>
+  <!-- EN: {0} effect multiplier: {1} -->
+  <DrugEffectMultiplier>TODO</DrugEffectMultiplier>
+  <!-- EN: Visiting {0}. -->
+  <CaravanVisiting>TODO</CaravanVisiting>
+  <!-- EN: Entering {0}. -->
+  <CaravanEntering>TODO</CaravanEntering>
+  <!-- EN: Attacking {0}. -->
+  <CaravanAttacking>TODO</CaravanAttacking>
+  <!-- EN: Offering gifts to {0}. -->
+  <CaravanOfferingGifts>TODO</CaravanOfferingGifts>
+  <!-- EN: Trading with {0} -->
+  <CaravanTrading>TODO</CaravanTrading>
+  <!-- EN: Tainted from being worn by a corpse. -->
+  <WasWornByCorpse>TODO</WasWornByCorpse>
+  <!-- EN: T -->
+  <WornByCorpseChar>TODO</WornByCorpseChar>
+  <!-- EN: unroofed -->
+  <DeterioratingUnroofed>TODO</DeterioratingUnroofed>
+  <!-- EN: outdoors -->
+  <DeterioratingOutdoors>TODO</DeterioratingOutdoors>
+  <!-- EN: Deteriorating because of -->
+  <DeterioratingBecauseOf>TODO</DeterioratingBecauseOf>
+  <!-- EN: Map -->
+  <Map>TODO</Map>
+  <!-- EN: {0} until enemies arrive -->
+  <CaravanDetectedRaidCountdown>TODO</CaravanDetectedRaidCountdown>
+  <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
+  <CaravanDetectedRaidCountdownTip>TODO</CaravanDetectedRaidCountdownTip>
+  <!-- EN: Room -->
+  <Room>TODO</Room>
+  <!-- EN: Beauty here -->
+  <BeautyHere>TODO</BeautyHere>
+  <!-- EN: No power -->
+  <NoPower>TODO</NoPower>
+  <!-- EN: Work speed penalty -->
+  <WorkSpeedPenalty>TODO</WorkSpeedPenalty>
+  <!-- EN: DISABLED -->
+  <DisabledCommand>TODO</DisabledCommand>
+  <!-- EN: Ready for launch. -->
+  <ReadyForLaunch>TODO</ReadyForLaunch>
+  <!-- EN: Not ready for launch -->
+  <NotReadyForLaunch>TODO</NotReadyForLaunch>
+  <!-- EN: no fueling port -->
+  <NotAllInGroupConnectedToFuelingPort>TODO</NotAllInGroupConnectedToFuelingPort>
+  <!-- EN: no fuel -->
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>TODO</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <!-- EN: loading in progress -->
+  <TransportPodInGroupHasSomethingLeftToLoad>TODO</TransportPodInGroupHasSomethingLeftToLoad>
+  <!-- EN: Beyond maximum range -->
+  <TransportPodDestinationBeyondMaximumRange>TODO</TransportPodDestinationBeyondMaximumRange>
+  <!-- EN: Not enough fuel -->
+  <TransportPodNotEnoughFuel>TODO</TransportPodNotEnoughFuel>
+  <!-- EN: {0} of {1} -->
+  <SettlementTrader>TODO</SettlementTrader>
+  <!-- EN: Surgery success chance multiplier from room -->
+  <RoomSurgerySuccessChanceFactor>TODO</RoomSurgerySuccessChanceFactor>
+  <!-- EN: Infection chance multiplier from room -->
+  <RoomInfectionChanceFactor>TODO</RoomInfectionChanceFactor>
+  <!-- EN: Closed -->
+  <VentClosed>TODO</VentClosed>
+  <!-- EN: worn by {1_labelShort} -->
+  <WornBy>TODO</WornBy>
+  <!-- EN: equipped by {1_labelShort} -->
+  <EquippedBy>TODO</EquippedBy>
+  <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
+  <QuestTargetDestroyInspectString>TODO</QuestTargetDestroyInspectString>
+  <!-- EN: {0} wants this destroyed. -->
+  <QuestTargetDestroyInspectStringShort>TODO</QuestTargetDestroyInspectStringShort>
+  <!-- EN: Departing on shuttle in {0} -->
+  <ShuttleDelayInspectString>TODO</ShuttleDelayInspectString>
+  <!-- EN: Departing in {0} -->
+  <ShuttleLeaveDelayInspectString>TODO</ShuttleLeaveDelayInspectString>
+  <!-- EN: Should depart on shuttle -->
+  <ShouldDepartOnShuttleInspectString>TODO</ShouldDepartOnShuttleInspectString>
+  <!-- EN: Time left: {0} -->
+  <WorldObjectTimeout>TODO</WorldObjectTimeout>
+  <!-- EN: Click to sort by this column. -->
+  <ClickToSortByThisColumn>TODO</ClickToSortByThisColumn>
+  <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
+  <WorkPriorityShiftClickTip>TODO</WorkPriorityShiftClickTip>
+  <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
+  <WorkPriorityShiftClickEnableDisableTip>TODO</WorkPriorityShiftClickEnableDisableTip>
+  <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
+  <AllowedAreaShiftClickTip>TODO</AllowedAreaShiftClickTip>
+  <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
+  <CheckboxShiftClickTip>TODO</CheckboxShiftClickTip>
+  <!-- EN: {0} {1} -->
+  <KnownSiteThreatEnemyCountAppend>TODO</KnownSiteThreatEnemyCountAppend>
+  <!-- EN: Skill Requirements -->
+  <SkillRequirements>TODO</SkillRequirements>
+  <!-- EN: Products -->
+  <Products>TODO</Products>
+  <!-- EN: {0} of {1} -->
+  <Relationship>TODO</Relationship>
+  <!-- EN: Prisoner -->
+  <Prisoner>TODO</Prisoner>
+  <!-- EN: Refugee -->
+  <Refugee>TODO</Refugee>
+  <!-- EN: Terrain movement difficulty -->
+  <TileMovementDifficulty>TODO</TileMovementDifficulty>
+  <!-- EN: Impassable -->
+  <Impassable>TODO</Impassable>
+  <!-- EN: Caravan movement speed -->
+  <CaravanMovementSpeedFull>TODO</CaravanMovementSpeedFull>
+  <!-- EN: downed -->
+  <DownedLower>TODO</DownedLower>
+  <!-- EN: resting -->
+  <Carried>TODO</Carried>
+  <!-- EN: Avg. person move speed -->
+  <AverageCaravanMemberMoveSpeed>TODO</AverageCaravanMemberMoveSpeed>
+  <!-- EN: Multiplier for carried mass: {0} -->
+  <MultiplierForCarriedMass>TODO</MultiplierForCarriedMass>
+  <!-- EN: Caravan members speed -->
+  <FinalCaravanPawnsMovementSpeed>TODO</FinalCaravanPawnsMovementSpeed>
+  <!-- EN: Final speed -->
+  <FinalCaravanMovementSpeed>TODO</FinalCaravanMovementSpeed>
+  <!-- EN: Winter -->
+  <Winter>TODO</Winter>
+  <!-- EN: {0} in winter -->
+  <MovementDifficultyOffsetInWinter>TODO</MovementDifficultyOffsetInWinter>
+  <!-- EN: to -->
+  <RangeTo>TODO</RangeTo>
+  <!-- EN: No letter -->
+  <NoDietCategoryLetter>TODO</NoDietCategoryLetter>
+  <!-- EN: Expires in -->
+  <ExpiresIn>TODO</ExpiresIn>
+  <!-- EN: {1_labelShort}'s caravan -->
+  <CaravanLeaderCaravanName>TODO</CaravanLeaderCaravanName>
+  <!-- EN: Reason -->
+  <Reason>TODO</Reason>
+  <!-- EN: Relations with {0} -->
+  <RelationsWith>TODO</RelationsWith>
+  <!-- EN: captured by {0} -->
+  <capturedBy>TODO</capturedBy>
+  <!-- EN: your caravan -->
+  <yourCaravan>TODO</yourCaravan>
+  <!-- EN: {0} wildness -->
+  <CreatureWildness>TODO</CreatureWildness>
+  <!-- EN: {0} trainability -->
+  <CreatureTrainability>TODO</CreatureTrainability>
+  <!-- EN: Follow master while drafted -->
+  <CreatureFollowDrafted>TODO</CreatureFollowDrafted>
+  <!-- EN: Follow master while doing field work -->
+  <CreatureFollowFieldwork>TODO</CreatureFollowFieldwork>
+  <!-- EN: {0} with {1} -->
+  <ProximitySingleGoodwillChange>TODO</ProximitySingleGoodwillChange>
+  <!-- EN: Too dangerous to re-enter for {0}. -->
+  <EnterCooldown>TODO</EnterCooldown>
+  <!-- EN: Caravan -->
+  <Caravan>TODO</Caravan>
+  <!-- EN: there may be danger there. -->
+  <HiddenOrNoSitePartDescription>TODO</HiddenOrNoSitePartDescription>
+  <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
+  <PreciousLumpHostileThreat>TODO</PreciousLumpHostileThreat>
+  <!-- EN: lump of {0} -->
+  <PreciousLumpLabel>TODO</PreciousLumpLabel>
+  <!-- EN: no active research project -->
+  <NoActiveResearchProjectToFinish>TODO</NoActiveResearchProjectToFinish>
+  <!-- EN: turret -->
+  <Turret>TODO</Turret>
+  <!-- EN: turrets -->
+  <Turrets>TODO</Turrets>
+  <!-- EN: mortar -->
+  <Mortar>TODO</Mortar>
+  <!-- EN: mortars -->
+  <Mortars>TODO</Mortars>
+  <!-- EN: enemy -->
+  <Enemy>TODO</Enemy>
+  <!-- EN: location -->
+  <Location>TODO</Location>
+  <!-- EN: animals -->
+  <AnimalsLower>TODO</AnimalsLower>
+  <!-- EN: {0} x{1} -->
+  <FilthLabel>TODO</FilthLabel>
+  <!-- EN: {0} of {1} x{2} -->
+  <FilthLabelWithSource>TODO</FilthLabelWithSource>
+  <!-- EN: Required -->
+  <Required>TODO</Required>
+  <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
+  <GiveGiftViaTransportPodsTradeRequestWarning>TODO</GiveGiftViaTransportPodsTradeRequestWarning>
+  <!-- EN: prisoner -->
+  <PrisonerLower>TODO</PrisonerLower>
+  <!-- EN: prisoners -->
+  <PrisonersLower>TODO</PrisonersLower>
+  <!-- EN: Click to view this quest in quests tab -->
+  <ClickToViewInQuestsTab>TODO</ClickToViewInQuestsTab>
+  <!-- EN: Mood -->
+  <Mood>Moral</Mood>
+  <!-- EN: Quest -->
+  <Quest>TODO</Quest>
+  <!-- EN: Brings raids every {0} -->
+  <BringsRaidsEvery>TODO</BringsRaidsEvery>
+  <!-- EN: Generates {0} every {1} -->
+  <GeneratesResourcesEvery>TODO</GeneratesResourcesEvery>
+  <!-- EN: Foliage kill radius -->
+  <FoliageKillRadius>TODO</FoliageKillRadius>
+  <!-- EN: Radius expand rate -->
+  <RadiusExpandRate>TODO</RadiusExpandRate>
+  <!-- EN: View: {0} -->
+  <ViewHyperlink>TODO</ViewHyperlink>
+  <!-- EN: Detonates in {0} days -->
+  <DetonationCountdown>TODO</DetonationCountdown>
+  <!-- EN: Large explosion if damaged -->
+  <ExplosionOnDamageWarning>TODO</ExplosionOnDamageWarning>
+  <!-- EN: Mech cluster -->
+  <MechCluster>TODO</MechCluster>
+  <!-- EN: Spawning in {0} -->
+  <SpawningNextPawnIn>TODO</SpawningNextPawnIn>
+  <!-- EN: {0} assembly completes in {1}. -->
+  <MechAssemblyCompleteIn>TODO</MechAssemblyCompleteIn>
+  <!-- EN: Will assemble -->
+  <MechAssemblyNextType>TODO</MechAssemblyNextType>
+  <!-- EN: produced -->
+  <ThingsProduced>TODO</ThingsProduced>
+  <!-- EN: harvested -->
+  <PlantsHarvested>TODO</PlantsHarvested>
+  <!-- EN: {0} killed -->
+  <PawnsKilled>TODO</PawnsKilled>
+  <!-- EN: Sent {0}, will return in {1} -->
+  <PawnsLent>TODO</PawnsLent>
+  <!-- EN: Dormant -->
+  <DormantCompInactive>TODO</DormantCompInactive>
+  <!-- EN: Sealed -->
+  <DormantCompSealed>TODO</DormantCompSealed>
+  <!-- EN: Ready to drop mechanoids -->
+  <DormantCompBeacon>TODO</DormantCompBeacon>
+  <!-- EN: Expired -->
+  <DormantCompExpired>TODO</DormantCompExpired>
+  <!-- EN: Initiates in -->
+  <InitiatesIn>TODO</InitiatesIn>
+  <!-- EN: Activates in {0} -->
+  <SendSignalOnCountdownCompTime>TODO</SendSignalOnCountdownCompTime>
+  <!-- EN: Neural heat -->
+  <PsychicEntropy>TODO</PsychicEntropy>
+  <!-- EN: Heat -->
+  <PsychicEntropyShort>TODO</PsychicEntropyShort>
+  <!-- EN: {0} pain boost -->
+  <PsychicEntropyPainFocus>TODO</PsychicEntropyPainFocus>
+  <!-- EN: radius {0} -->
+  <ConditionCauserRadius>TODO</ConditionCauserRadius>
+  <!-- EN: low psyfocus -->
+  <LowPsyfocus>TODO</LowPsyfocus>
+  <!-- EN: {0} left -->
+  <DurationLeft>TODO</DurationLeft>
+  <!-- EN: Any of -->
+  <AnyOf>TODO</AnyOf>
+  <!-- EN: Goodwill -->
+  <Goodwill>TODO</Goodwill>
+  <!-- EN: reducing resistance of {0_nameIndef} -->
+  <JobReport_ReduceResistance>TODO</JobReport_ReduceResistance>
+
+  <!-- Scanning -->
+  <!-- EN: User scanning speed -->
+  <UserScanAbility>TODO</UserScanAbility>
+  <!-- EN: Random find interval -->
+  <ScanAverageInterval>TODO</ScanAverageInterval>
+  <!-- EN: Progress to guaranteed find -->
+  <ScanningProgressToGuaranteedFind>TODO</ScanningProgressToGuaranteedFind>
   
+  <!-- Meditation -->
+  <!-- EN: meditating at -->
+  <MeditatingAt>TODO</MeditatingAt>
+
+  <!-- Fermentation barrel -->
+  <!-- EN: Contains {0} / {1} wort. -->
+  <ContainsWort>TODO</ContainsWort>
+  <!-- EN: Contains {0} / {1} beer. -->
+  <ContainsBeer>TODO</ContainsBeer>
+  <!-- EN: Fermented -->
+  <Fermented>TODO</Fermented>
+  <!-- EN: Progress: {0} ({1} left) -->
+  <FermentationProgress>TODO</FermentationProgress>
+  <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
+  <FermentationBarrelOutOfIdealTemperature>TODO</FermentationBarrelOutOfIdealTemperature>
+
+  <!-- TextMotes -->
+  <!-- EN: Headshot -->
+  <Headshot>Headshot</Headshot>
+  <!-- EN: Treatment success!\n{0} chance -->
+  <TextMote_TreatSuccess>TODO</TextMote_TreatSuccess>
+  <!-- EN: Treatment failed\n{0} chance -->
+  <TextMote_TreatFailed>TODO</TextMote_TreatFailed>
+  <!-- EN: Harvest\nbotched -->
+  <TextMote_HarvestFailed>TODO</TextMote_HarvestFailed>
+  <!-- EN: Yield\nwasted -->
+  <TextMote_YieldWasted>TODO</TextMote_YieldWasted>
+  <!-- EN: Product\nwasted -->
+  <TextMote_ProductWasted>TODO</TextMote_ProductWasted>
+  <!-- EN: Recruit failed!\n{0} chance -->
+  <TextMote_RecruitFail>TODO</TextMote_RecruitFail>
+  <!-- EN: Resistance\n{0} to {1} -->
+  <TextMote_ResistanceReduced>TODO</TextMote_ResistanceReduced>
+  <!-- EN: Tame failed\n{0} chance -->
+  <TextMote_TameFail>TODO</TextMote_TameFail>
+  <!-- EN: Tamed!\n{0} chance -->
+  <TextMote_TameSuccess>TODO</TextMote_TameSuccess>
+  <!-- EN: Failed training: {0}\n{1} chance -->
+  <TextMote_TrainFail>TODO</TextMote_TrainFail>
+  <!-- EN: Trained: {0}\n{1} chance -->
+  <TextMote_TrainSuccess>TODO</TextMote_TrainSuccess>
+  <!-- EN: Repair\nbotched -->
+  <TextMote_FixBrokenDownBuildingFail>TODO</TextMote_FixBrokenDownBuildingFail>
+  <!-- EN: Construction\nbotched -->
+  <TextMote_ConstructionFail>TODO</TextMote_ConstructionFail>
+  <!-- EN: Dodge -->
+  <TextMote_Dodge>TODO</TextMote_Dodge>
+  <!-- EN: Immune -->
+  <TextMote_Immune>TODO</TextMote_Immune>
+  <!-- EN: {0} tended -->
+  <TextMote_Tended>TODO</TextMote_Tended>
+  <!-- EN: level {0} -->
+  <TextMote_SkillUp>TODO</TextMote_SkillUp>
+  <!-- EN: low mood -->
+  <lowMood>TODO</lowMood>
+  <!-- EN: low opinion -->
+  <lowOpinion>TODO</lowOpinion>
+
+  <!-- Areas -->
+  <!-- EN: Home -->
+  <Home>TODO</Home>
+  <!-- EN: Build roof -->
+  <BuildRoof>TODO</BuildRoof>
+  <!-- EN: No roof -->
+  <NoRoof>TODO</NoRoof>
+  <!-- EN: Snow clear -->
+  <SnowClear>TODO</SnowClear>
+  <!-- EN: Area {0} -->
+  <AreaDefaultLabel>TODO</AreaDefaultLabel>
+  <!-- EN: Unrestricted -->
+  <NoAreaAllowed>TODO</NoAreaAllowed>
+  <!-- EN: New area -->
+  <NewArea>TODO</NewArea>
+  <!-- EN: Invert -->
+  <InvertArea>TODO</InvertArea>
+
+  <!-- Control -->
+  <!-- EN: Cannot order characters you do not control. -->
+  <CannotOrderNonControlled>TODO</CannotOrderNonControlled>
+  <!-- EN: {1_labelShort} is incapable of violence. -->
+  <IsIncapableOfViolence>TODO</IsIncapableOfViolence>
+  <!-- EN: incapable of violence -->
+  <IsIncapableOfViolenceShort>TODO</IsIncapableOfViolenceShort>
+  <!-- EN: {1_labelShort} is not drafted. -->
+  <IsNotDrafted>TODO</IsNotDrafted>
+
   <!-- Snow -->
+  <!-- EN: No snow -->
   <SnowNone>Fără zăpada</SnowNone>
+  <!-- EN: Snow (dusting) -->
   <SnowDusting>Zăpadă (puțină)</SnowDusting>
+  <!-- EN: Snow (thin) -->
   <SnowThin>Zăpadă (strat mic)</SnowThin>
+  <!-- EN: Snow (medium) -->
   <SnowMedium>Zăpadă (strat mediu)</SnowMedium>
+  <!-- EN: Snow (thick) -->
   <SnowThick>Zăpadă (strat gros)</SnowThick>
 
-  
   <!-- Turrets -->
+  <!-- EN: Installed -->
   <GunInstalled>Instalat</GunInstalled>
+  <!-- EN: Minimum range -->
   <MinimumRange>Rază minimă</MinimumRange>
+  <!-- EN: Can fire in -->
   <CanFireIn>Poate trage în</CanFireIn>
-  
-  
+  <!-- EN: Cannot fire -->
+  <CannotFire>TODO</CannotFire>
+  <!-- EN: roofed -->
+  <Roofed>TODO</Roofed>
+  <!-- EN: Shell loaded: {1_label} -->
+  <ShellLoaded>TODO</ShellLoaded>
+  <!-- EN: Not loaded -->
+  <ShellNotLoaded>TODO</ShellNotLoaded>
+
   <!-- Job reports -->
-	<ReportHaulingTo>Transportă {0} către {1}.</ReportHaulingTo>
-	<ReportHauling>Transportă {0}.</ReportHauling>
+  <!-- EN: hauling {THING_label} to {DESTINATION}. -->
+  <ReportHaulingTo>Transportă {0} către {1}.</ReportHaulingTo>
+  <!-- EN: burying {THING_label} in {DESTINATION}. -->
+  <ReportHaulingToGrave>TODO</ReportHaulingToGrave>
+  <!-- EN: hauling {1_label}. -->
+  <ReportHauling>Transportă {0}.</ReportHauling>
+  <!-- EN: hauling. -->
+  <ReportHaulingUnknown>TODO</ReportHaulingUnknown>
+  <!-- EN: sleeping. -->
   <ReportSleeping>Doarme.</ReportSleeping>
+  <!-- EN: resting. -->
   <ReportResting>Se odihnește.</ReportResting>
-  
-	<!-- Shooting report -->
+  <!-- EN: watching the sunrise. -->
+  <WatchingSunrise>TODO</WatchingSunrise>
+  <!-- EN: cloudwatching. -->
+  <CloudWatching>TODO</CloudWatching>
+  <!-- EN: watching the sunset. -->
+  <WatchingSunset>TODO</WatchingSunset>
+  <!-- EN: stargazing. -->
+  <Stargazing>TODO</Stargazing>
+  <!-- EN: watching the eclipse. -->
+  <WatchingEclipse>TODO</WatchingEclipse>
+  <!-- EN: watching the aurora. -->
+  <WatchingAurora>TODO</WatchingAurora>
+  <!-- EN: using {0} on {1}. -->
+  <UsingVerb>TODO</UsingVerb>
+  <!-- EN: using {0}. -->
+  <UsingVerbNoTarget>TODO</UsingVerbNoTarget>
+  <!-- EN: area -->
+  <AreaLower>TODO</AreaLower>
+  <!-- EN: cowering. -->
+  <ReportCowering>TODO</ReportCowering>
+  <!-- EN: standing. -->
+  <ReportStanding>TODO</ReportStanding>
+  <!-- EN: extinguishing fire. -->
+  <ReportExtinguishingFire>TODO</ReportExtinguishingFire>
+  <!-- EN: extinguishing fire on {TARGET_label}. -->
+  <ReportExtinguishingFireOn>TODO</ReportExtinguishingFireOn>
+  <!-- EN: digging up corpse. -->
+  <ReportDiggingUpCorpse>TODO</ReportDiggingUpCorpse>
+
+  <!-- Lord job reports -->
+  <!-- EN: Attending marriage ceremony -->
+  <LordReportAttendingMarriageCeremony>TODO</LordReportAttendingMarriageCeremony>
+  <!-- EN: Attending party -->
+  <LordReportAttendingParty>TODO</LordReportAttendingParty>
+  <!-- EN: Attending concert -->
+  <LordReportAttendingConcert>TODO</LordReportAttendingConcert>
+  <!-- EN: Holding a concert -->
+  <LordReportHoldingConcert>TODO</LordReportHoldingConcert>
+  <!-- EN: Giving a speech -->
+  <LordReportGivingSpeech>TODO</LordReportGivingSpeech>
+  <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
+  <LordReportListeningSpeech>TODO</LordReportListeningSpeech>
+  <!-- EN: Forming caravan -->
+  <LordReportFormingCaravan>TODO</LordReportFormingCaravan>
+
+  <!-- Shooting report -->
+  <!-- EN: Weapon miss radius -->
   <WeaponMissRadius>Rază de ratare</WeaponMissRadius>
-	<ShootReportShooterAbility>Trăgător</ShootReportShooterAbility>
-	<ShootReportWeapon>Armă</ShootReportWeapon>
-	<Darkness>Întuneric</Darkness>
-	<TargetProne>Țintă culcată</TargetProne>
-	<TargetSize>Dimensiune țintă</TargetSize>
-	<Weather>Vreme</Weather>
-	<ShootingCover>Adăpost</ShootingCover>
-	<CoverThingBlocksPercentOfShots>{0} oprește {1}</CoverThingBlocksPercentOfShots>
-	<NoCoverLower>fără adăpost</NoCoverLower>
-	
+  <!-- EN: Shooter -->
+  <ShootReportShooterAbility>Trăgător</ShootReportShooterAbility>
+  <!-- EN: Weapon -->
+  <ShootReportWeapon>Armă</ShootReportWeapon>
+  <!-- EN: Darkness -->
+  <Darkness>Întuneric</Darkness>
+  <!-- EN: Target lying down -->
+  <TargetProne>Țintă culcată</TargetProne>
+  <!-- EN: Target size -->
+  <TargetSize>Dimensiune țintă</TargetSize>
+  <!-- EN: Weather -->
+  <Weather>Vreme</Weather>
+  <!-- EN: Cover -->
+  <ShootingCover>Adăpost</ShootingCover>
+  <!-- EN: {COVER_label} stops {1} -->
+  <CoverThingBlocksPercentOfShots>{0} oprește {1}</CoverThingBlocksPercentOfShots>
+  <!-- EN: no cover -->
+  <NoCoverLower>fără adăpost</NoCoverLower>
+  <!-- EN: Execution -->
+  <Execution>TODO</Execution>
+
   <!-- Generated recipes -->
+  <!-- EN: make {0} -->
   <RecipeMake>Creează {0}</RecipeMake>
+  <!-- EN: Make {0}. -->
+  <RecipeMakeDescription>TODO</RecipeMakeDescription>
+  <!-- EN: Making {0}. -->
   <RecipeMakeJobString>Creare {0}.</RecipeMakeJobString>
+  <!-- EN: administer {0} -->
+  <RecipeAdminister>TODO</RecipeAdminister>
+  <!-- EN: Administering {0}. -->
+  <RecipeAdministerJobString>TODO</RecipeAdministerJobString>
+  <!-- EN: teetotaler will be unhappy -->
+  <TeetotalerUnhappy>TODO</TeetotalerUnhappy>
+  <!-- EN: body purist will be unhappy -->
+  <ProsthophobeUnhappy>TODO</ProsthophobeUnhappy>
+
+  <!-- Thoughts -->
+  <!-- EN: Expires in: {0} -->
+  <ThoughtExpiresIn>Dispare în: {0}</ThoughtExpiresIn>
+  <!-- EN: thought disabled by -->
+  <ThoughtNullifiedBy>TODO</ThoughtNullifiedBy>
+  <!-- EN: Starts expiring in: {0} -->
+  <ThoughtStartsExpiringIn>Începe dispariția în: {0}</ThoughtStartsExpiringIn>
+  <!-- EN: Finishes expiring in: {0} -->
+  <ThoughtFinishesExpiringIn>Finalizează dispariția în: {0}</ThoughtFinishesExpiringIn>
+  <!-- EN: Extreme break threshold -->
+  <MentalBreakThresholdExtreme>TODO</MentalBreakThresholdExtreme>
+  <!-- EN: Major break threshold -->
+  <MentalBreakThresholdMajor>TODO</MentalBreakThresholdMajor>
+  <!-- EN: Minor break threshold -->
+  <MentalBreakThresholdMinor>TODO</MentalBreakThresholdMinor>
+
+  <!-- Pawn info readout -->
+  <!-- EN: {PAWN_gender} {1} -->
+  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <!-- EN: {0} of {1} -->
+  <PawnMainDescFactionedWrap>TODO</PawnMainDescFactionedWrap>
+  <!-- EN: {0} in {1} -->
+  <PawnTitleDescWrap>TODO</PawnTitleDescWrap>
+  <!-- EN: {0} under {1} -->
+  <PawnMainDescUnderFactionedWrap>TODO</PawnMainDescUnderFactionedWrap>
+  <!-- EN: {0} under {1}\nHome faction: {2} -->
+  <PawnMainDescTempFactionedWrap>TODO</PawnMainDescTempFactionedWrap>
+  <!-- EN: {2_lifeStageAdjective} {0} -->
+  <PawnMainDescLifestageWrap>TODO</PawnMainDescLifestageWrap>
+  <!-- EN: Faction -->
+  <Faction>Facțiune</Faction>
+  <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
+  <FactionDesc>TODO</FactionDesc>
+  <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
+  <ExtraFactionDesc>TODO</ExtraFactionDesc>
+  <!-- EN: Equipped -->
+  <Equipped>Echipat</Equipped>
+  <!-- EN: nothing -->
+  <EquippedNothing>Nimic</EquippedNothing>
+  <!-- EN: Dead -->
+  <Dead>Mort</Dead>
+  <!-- EN: Unconscious -->
+  <Unconscious>Inconștient</Unconscious>
+  <!-- EN: In shock due to pain -->
+  <PainShock>În șoc</PainShock>
+  <!-- EN: Pain shock -->
+  <PainShockShort>TODO</PainShockShort>
+  <!-- EN: Incapacitated -->
+  <Incapacitated>Incapacitat</Incapacitated>
+  <!-- EN: In restraints (slowed) -->
+  <InRestraints>În cătușe (încetinit)</InRestraints>
+  <!-- EN: Carrying -->
+  <Carrying>Cară</Carrying>
+  <!-- EN: Affected by: -->
+  <AffectedBy>TODO</AffectedBy>
+  <!-- EN: Queued -->
+  <Queued>TODO</Queued>
+  <!-- EN: State -->
+  <State>TODO</State>
+  <!-- EN: stun -->
+  <StunLower>TODO</StunLower>
+
+  <!-- Inspector general stuff -->
+  <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTip>Selectează obiectul suprapus.\n\nTastă: {0}\n\nPoți face astă executând un click din nou pe aceeași regiune.</SelectNextInSquareTip>
+  <!-- EN: View information. -->
+  <DefInfoTip>Arată informații despre acest obiect.</DefInfoTip>
+
+  <!-- Hostility response -->
+  <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
+  <HostilityReponseTip>TODO</HostilityReponseTip>
+  <!-- EN: Current mode -->
+  <HostilityResponseCurrentMode>TODO</HostilityResponseCurrentMode>
+
+  <!-- like 'Blood of John' -->
+  <!-- EN: of -->
+  <OfLower>lui</OfLower>
+
+  <!-- Power readout -->
+  <!-- EN: Not connected to power. -->
+  <PowerNotConnected>Nu este conectat la electriciate.</PowerNotConnected>
+  <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
+  <PowerConnectedRateStored>Electriciate sursă/stocat: {0} W / {1} Wd</PowerConnectedRateStored>
+  <!-- EN: Power needed -->
+  <PowerNeeded>Electricitate necesar</PowerNeeded>
+  <!-- EN: Power output -->
+  <PowerOutput>Electriciate produsă</PowerOutput>
+  <!-- EN: Stored -->
+  <PowerBatteryStored>Stocat</PowerBatteryStored>
+  <!-- EN: Efficiency -->
+  <PowerBatteryEfficiency>Eficiență</PowerBatteryEfficiency>
+  <!-- EN: Self-discharging -->
+  <SelfDischarging>TODO</SelfDischarging>
+
+  <!-- Temperature control -->
+  <!-- EN: Target temperature -->
+  <TargetTemperature>Temperatură țintă</TargetTemperature>
+  <!-- EN: Current power use -->
+  <PowerConsumptionMode>Curent folosit</PowerConsumptionMode>
+  <!-- EN: high -->
+  <PowerConsumptionHigh>Mare</PowerConsumptionHigh>
+  <!-- EN: low -->
+  <PowerConsumptionLow>Mic</PowerConsumptionLow>
+
+  <!-- Temperature readout -->
+  <!-- EN: Indoors -->
+  <Indoors>Înăuntru</Indoors>
+  <!-- EN: Unroofed -->
+  <IndoorsUnroofed>TODO</IndoorsUnroofed>
+  <!-- EN: Outdoors -->
+  <Outdoors>Afară</Outdoors>
+
+  <!-- Rotting -->
+  <!-- EN: Fresh -->
+  <RotStateFresh>Proaspăt</RotStateFresh>
+  <!-- EN: Rotting -->
+  <RotStateRotting>Putrezit</RotStateRotting>
+  <!-- EN: Dessicated -->
+  <RotStateDessicated>Descompus</RotStateDessicated>
+  <!-- EN: Frozen (won't spoil) -->
+  <CurrentlyFrozen>Înghețat (nu se strică)</CurrentlyFrozen>
+  <!-- EN: Refrigerated (spoils in {0}) -->
+  <CurrentlyRefrigerated>Rece (se strică în {0})</CurrentlyRefrigerated>
+  <!-- EN: Not refrigerated (spoils in {0}) -->
+  <NotRefrigerated>Nu este prezervat (se strică în {0})</NotRefrigerated>
+  <!-- EN: over a decade -->
+  <OverADecade>mai mult de un deceniu</OverADecade>
+  <!-- EN: less than a day -->
+  <LessThanADay>TODO</LessThanADay>
+
+  <!-- Shooting tooltip -->
+  <!-- EN: Shot by {1_labelShort} -->
+  <ShotBy>Împușcat de {0}</ShotBy>
+  <!-- EN: Cannot hit target. -->
+  <CannotHit>Nu poate lovi ținta.</CannotHit>
+  <!-- EN: Manhunter chance per hit -->
+  <ManhunterPerHit>TODO</ManhunterPerHit>
+
+  <!-- Meal -->
+  <!-- EN: Ingredients -->
+  <Ingredients>Ingrediente</Ingredients>
+
+  <!-- Plants -->
+  <!-- EN: {0} grown -->
+  <PercentGrowth>{0}% crescut</PercentGrowth>
+  <!-- EN: Growth rate -->
+  <GrowthRate>TODO</GrowthRate>
+  <!-- EN: Fully grown in {0} of growth. -->
+  <FullyGrownIn>Creștere completă în {0}.</FullyGrownIn>
+  <!-- EN: Needs light level -->
+  <PlantNeedsLightLevel>TODO</PlantNeedsLightLevel>
+  <!-- EN: Resting -->
+  <PlantResting>TODO</PlantResting>
+  <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
+  <OutOfIdealTemperatureRange>În afara temperaturii ideale (crește cu {0}% din viteză)</OutOfIdealTemperatureRange>
+  <!-- EN: Non-ideal temperature. Not growing. -->
+  <OutOfIdealTemperatureRangeNotGrowing>În afara temperaturii ideale (nu crește)</OutOfIdealTemperatureRangeNotGrowing>
+  <!-- EN: Ready to harvest. -->
+  <ReadyToHarvest>Gata de recoltat.</ReadyToHarvest>
+  <!-- EN: Mature. -->
+  <Mature>Matur.</Mature>
+  <!-- EN: Growing period -->
+  <OutdoorGrowingPeriod>Perioadă de creștere: {0}</OutdoorGrowingPeriod>
+  <!-- EN: Never -->
+  <NoGrowingPeriod>Niciodată</NoGrowingPeriod>
+  <!-- EN: Year-round -->
+  <GrowYearRound>Anual</GrowYearRound>
+  <!-- EN: Growing season here now. -->
+  <GrowSeasonHereNow>TODO</GrowSeasonHereNow>
+  <!-- EN: Cannot grow (bad seasonal temperature). -->
+  <CannotGrowBadSeasonTemperature>TODO</CannotGrowBadSeasonTemperature>
+  <!-- EN: Blighted -->
+  <Blighted>TODO</Blighted>
+  <!-- EN: Dying because exposed to light -->
+  <DyingBecauseExposedToLight>TODO</DyingBecauseExposedToLight>
+
+  <!-- Zones -->
+  <!-- EN: Zone -->
+  <Zone>Zonă</Zone>
+  <!-- EN: Growing zone -->
+  <GrowingZone>Zonă de cultivare</GrowingZone>
+  <!-- EN: Stockpile zone -->
+  <Stockpile>Depozit</Stockpile>
+  <!-- EN: Dumping stockpile zone -->
+  <DumpingStockpile>Zonă pentru deșeuri</DumpingStockpile>
+  <!-- EN: Priority -->
+  <Priority>Prioritate</Priority>
+  <!-- EN: Clear all -->
+  <ClearAll>Anulează</ClearAll>
+  <!-- EN: Allow all -->
+  <AllowAll>TODO</AllowAll>
+
+  <!-- ThingFilter -->
+  <!-- EN: {0} hit points -->
+  <HitPoints>TODO</HitPoints>
+  <!-- EN: any quality -->
+  <AnyQuality>TODO</AnyQuality>
+  <!-- EN: {0} only -->
+  <OnlyQuality>TODO</OnlyQuality>
+
+  <!-- Mouseover indicator -->
+  <!-- EN: Undiscovered -->
+  <Undiscovered>Nedescoperit</Undiscovered>
+
+  <!-- Buttons -->
+  <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
+  <ShowLearningHelperWhenEmptyToggleButton>TODO</ShowLearningHelperWhenEmptyToggleButton>
+  <!-- EN: Toggle visiblity of zones. -->
+  <ZoneVisibilityToggleButton>Comută vizibilitatea zonelor.</ZoneVisibilityToggleButton>
+  <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
+  <ShowBeautyToggleButton>TODO</ShowBeautyToggleButton>
+  <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
+  <ShowRoomStatsToggleButton>TODO</ShowRoomStatsToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
+  <ShowColonistBarToggleButton>TODO</ShowColonistBarToggleButton>
+  <!-- EN: Toggle automatically expanding the home area around new constructions. -->
+  <AutoHomeAreaToggleButton>TODO</AutoHomeAreaToggleButton>
+  <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
+  <AutoRebuildButton>TODO</AutoRebuildButton>
+  <!-- EN: Toggle categorized mode on the resource readout. -->
+  <CategorizedResourceReadoutToggleButton>Comută modul de afișare pe categorii al resurselor.</CategorizedResourceReadoutToggleButton>
+  <!-- EN: Toggle displaying animal names for tame named animals. -->
+  <ShowAnimalNamesToggleButton>TODO</ShowAnimalNamesToggleButton>
+  <!-- EN: Toggle visibility of roofs. -->
+  <ShowRoofOverlayToggleButton>TODO</ShowRoofOverlayToggleButton>
+  <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
+  <ShowFertilityOverlayToggleButton>TODO</ShowFertilityOverlayToggleButton>
+  <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
+  <ShowTerrainAffordanceOverlayToggleButton>TODO</ShowTerrainAffordanceOverlayToggleButton>
+  <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
+  <LockNorthUpToggleButton>TODO</LockNorthUpToggleButton>
+  <!-- EN: Toggle day/night lighting on the planet view. -->
+  <UsePlanetDayNightSystemToggleButton>TODO</UsePlanetDayNightSystemToggleButton>
+  <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
+  <ShowExpandingIconsToggleButton>TODO</ShowExpandingIconsToggleButton>
+  <!-- EN: Toggle visibility of names of landforms. -->
+  <ShowWorldFeaturesToggleButton>TODO</ShowWorldFeaturesToggleButton>
+
+  <!-- Fire -->
+  <!-- EN: fire on {1_label} -->
+  <FireOn>Foc pe {0}</FireOn>
+  <!-- EN: Burning -->
+  <Burning>Arde</Burning>
+  <!-- EN: fire size {0} -->
+  <FireSizeLower>dimensiune foc - {0}</FireSizeLower>
+
+  <!-- Game conditions -->
+  <!-- EN: Special conditions affecting the area right now. -->
+  <GameConditionsTip>TODO</GameConditionsTip>
+  <!-- EN: time left -->
+  <TimeLeft>TODO</TimeLeft>
+  <!-- EN: impact date -->
+  <ImpactDate>TODO</ImpactDate>
+  <!-- EN: Source unknown. -->
+  <SourceUnknown>TODO</SourceUnknown>
+  <!-- EN: Click to jump to the source. -->
+  <ClickToJumpToSource>TODO</ClickToJumpToSource>
+  <!-- EN: Click to jump to the flashstorm. -->
+  <ClickToJumpToFlashstorm>TODO</ClickToJumpToFlashstorm>
+  <!-- EN: Caused by quest: {0} -->
+  <CausedByQuest>TODO</CausedByQuest>
+
+  <!-- Building placement -->
+  <!-- EN: You have no usable materials from which to build this. -->
+  <NoStuffsToBuildWith>Nu există materialele necesare pentru construcție.</NoStuffsToBuildWith>
+
+  <!-- Building placement restricters -->
+  <!-- EN: {0} will have work speed penalty -->
+  <WillGetWorkSpeedPenalty>TODO</WillGetWorkSpeedPenalty>
+  <!-- EN: Cannot be placed under a roof. -->
+  <MustPlaceUnroofed>Nu poate fi plasat sub un acoperiș.</MustPlaceUnroofed>
+  <!-- EN: Must place with head attached to ship structural beam. -->
+  <MustPlaceHeadOnShipBeam>Trebuie plasat alături de bara structurală a navei.</MustPlaceHeadOnShipBeam>
+  <!-- EN: Must be placed next to something that needs a hopper. -->
+  <MustPlaceNextToHopperAccepter>Trebuie plasat lângă ceva ce folosește o pâlnie dispensoare.</MustPlaceNextToHopperAccepter>
+  <!-- EN: Must be placed directly on a steam geyser. -->
+  <MustPlaceOnSteamGeyser>Trebuie plasat pe un gheizer de aburi.</MustPlaceOnSteamGeyser>
+  <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
+  <MustPlaceCoolerWithFreeSpaces>Ambele capete ale aparatului trebuie expuse.</MustPlaceCoolerWithFreeSpaces>
+  <!-- EN: Both the sides must be exposed for air to pass through. -->
+  <MustPlaceVentWithFreeSpaces>TODO</MustPlaceVentWithFreeSpaces>
+  <!-- EN: Must be placed with standable space on all sides. -->
+  <MustPlaceAdjacentStandable>TODO</MustPlaceAdjacentStandable>
+  <!-- EN: Must be placed next to a pod launcher's fueling port. -->
+  <MustPlaceNearFuelingPort>TODO</MustPlaceNearFuelingPort>
+  <!-- EN: Must be placed on drillable resources. -->
+  <MustPlaceOnDrillable>TODO</MustPlaceOnDrillable>
+  <!-- EN: Cannot be placed next to traps. -->
+  <CannotPlaceAdjacentTrap>TODO</CannotPlaceAdjacentTrap>
+
+  <!-- Wind Turbine -->
+  <!-- EN: Blocked by -->
+  <WindTurbine_WindPathIsBlockedBy>Blocat de</WindTurbine_WindPathIsBlockedBy>
+  <!-- EN: Blocked by roof -->
+  <WindTurbine_WindPathIsBlockedByRoof>Blocat de acoperiș</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Watermill generator -->
+  <!-- EN: Flow reduced: Turbulence from other watermill -->
+  <Watermill_WaterUsedTwice>TODO</Watermill_WaterUsedTwice>
+
+  <!-- Cryptosleep casket -->
+  <!-- EN: Contains -->
+  <CasketContains>Conține</CasketContains>
+  <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
+  <CasketWarning>Atenție!\n\n[PAWN_nameDef] este ultimul colonist treaz! dacă îl lași să intre în capsulă, nu vei mai putea continua jocul. Continuă oricum?</CasketWarning>
+
+  <!-- Ship launch report -->
+  <!-- EN: Cannot launch. -->
+  <ShipReportCannotLaunch>Nu se poate lansa.</ShipReportCannotLaunch>
+  <!-- EN: Ready for launch. -->
+  <ShipReportCanLaunch>Gata de lansare.</ShipReportCanLaunch>
+  <!-- EN: Missing critical component -->
+  <ShipReportMissingPart>Lispește o componentă critică</ShipReportMissingPart>
+  <!-- EN: requires -->
+  <ShipReportMissingPartRequires>TODO</ShipReportMissingPartRequires>
+  <!-- EN: No full cryptosleep caskets -->
+  <ShipReportNoFullPods>Nu există capsule de crypto-somn utilizate</ShipReportNoFullPods>
+  <!-- EN: Hibernating component -->
+  <ShipReportHibernating>TODO</ShipReportHibernating>
+  <!-- EN: Component not yet ready -->
+  <ShipReportNotReady>TODO</ShipReportNotReady>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarning>TODO</HibernateWarning>
+  <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <HibernateWarningStandalone>TODO</HibernateWarningStandalone>
+  <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
+  <HibernateWarningPacifist>TODO</HibernateWarningPacifist>
+  <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
+  <HibernateWarningStandalonePacifist>TODO</HibernateWarningStandalonePacifist>
+
+  <!-- Neurotrainer -->
+  <!-- EN: skilltrainer ({0}) -->
+  <SkillNeurotrainerLabel>TODO</SkillNeurotrainerLabel>
+  <!-- EN: Use skilltrainer to learn {0} -->
+  <SkillNeurotrainerUseLabel>TODO</SkillNeurotrainerUseLabel>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
+  <SkillNeurotrainerDescription>TODO</SkillNeurotrainerDescription>
+  <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
+  <SkillNeurotrainerUsed>TODO</SkillNeurotrainerUsed>
+
+  <!-- Minification -->
+  <!-- EN: Installed -->
+  <Installed>Instalat</Installed>
+  <!-- EN: Not installed -->
+  <NotInstalled>Neinstalat</NotInstalled>
+
+  <!-- Art -->
+  <!-- EN: Title -->
+  <Title>Titlu</Title>
+  <!-- EN: Untitled -->
+  <Untitled>Nedenumit</Untitled>
+
+  <!-- Unfinished thing -->
+  <!-- EN: Unfinished {0} -->
+  <UnfinishedItem>{0} nefinisat</UnfinishedItem>
+  <!-- EN: Unfinished {0} {1} -->
+  <UnfinishedItemWithStuff>{0} {1} nefinisat</UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <!-- EN: Quality -->
+  <Quality>Calitate</Quality>
+  <!-- EN: An item's quality is how well-made it is. -->
+  <QualityDescription>Calitatea înseamnă cât de bine este făcut.</QualityDescription>
+  <!-- EN: Quality: {0} -->
+  <QualityIs>Calitate: {0}</QualityIs>
+
+  <!-- Mood descriptions -->
+  <!-- EN: mental state -->
+  <Mood_MentalState>TODO</Mood_MentalState>
+  <!-- EN: about to break -->
+  <Mood_AboutToBreak>TODO</Mood_AboutToBreak>
+  <!-- EN: on edge -->
+  <Mood_OnEdge>TODO</Mood_OnEdge>
+  <!-- EN: stressed -->
+  <Mood_Stressed>TODO</Mood_Stressed>
+  <!-- EN: neutral -->
+  <Mood_Neutral>TODO</Mood_Neutral>
+  <!-- EN: content -->
+  <Mood_Content>TODO</Mood_Content>
+  <!-- EN: happy -->
+  <Mood_Happy>TODO</Mood_Happy>
+
+  <!-- Game over -->
+  <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
+  <GameOverEveryoneDead>Toți au murit sau au plecat. Această poveste ia sfârșit aici.\n\nPoate altcineva va găsi ruinele acestui loc.</GameOverEveryoneDead>
+  <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
+  <GameOverPlanetkillerImpact>TODO</GameOverPlanetkillerImpact>
+  <!-- EN: You've launched the ship! -->
+  <GameOverShipLaunchedIntro>TODO</GameOverShipLaunchedIntro>
+  <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
+  <GameOverShipLaunchedEnding>TODO</GameOverShipLaunchedEnding>
+  <!-- EN: These colonists escaped:\n\n{0} -->
+  <GameOverColonistsEscaped>TODO</GameOverColonistsEscaped>
+  <!-- EN: These colonists were left behind:\n\n{0} -->
+  <GameOverColonistsLeft>TODO</GameOverColonistsLeft>
+  <!-- EN: In memory of:\n -->
+  <GameOverInMemoryOf>TODO</GameOverInMemoryOf>
+  <!-- EN: Keep playing -->
+  <GameOverKeepPlaying>Continuă jocul</GameOverKeepPlaying>
+  <!-- EN: Main menu -->
+  <GameOverMainMenu>Meniul principal</GameOverMainMenu>
+
+  <!-- Generic lifespan -->
+  <!-- EN: Expires in: -->
+  <LifespanExpiry>TODO</LifespanExpiry>
+
+  <!-- Facilities -->
+  <!-- EN: inactive -->
+  <InactiveFacility>TODO</InactiveFacility>
+
+  <!-- Hediffs growth modes -->
+  <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
+  <DiseaseGrowthModeChanged_Growing>TODO</DiseaseGrowthModeChanged_Growing>
+  <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
+  <DiseaseGrowthModeChanged_Stable>TODO</DiseaseGrowthModeChanged_Stable>
+  <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
+  <DiseaseGrowthModeChanged_Remission>TODO</DiseaseGrowthModeChanged_Remission>
+
+  <!-- Marriage spot -->
+  <!-- EN: Usable now. -->
+  <MarriageSpotUsable>TODO</MarriageSpotUsable>
+  <!-- EN: Not usable: {0}. -->
+  <MarriageSpotNotUsable>TODO</MarriageSpotNotUsable>
+  <!-- EN: blocked -->
+  <MarriageSpotNotStandable>TODO</MarriageSpotNotStandable>
+  <!-- EN: too dangerous for {1_labelShort} -->
+  <MarriageSpotDangerous>TODO</MarriageSpotDangerous>
+  <!-- EN: forbidden for {1_labelShort} -->
+  <MarriageSpotForbidden>TODO</MarriageSpotForbidden>
+  <!-- EN: reserved -->
+  <MarriageSpotReserved>TODO</MarriageSpotReserved>
+  <!-- EN: unreachable for {1_labelShort} -->
+  <MarriageSpotUnreachable>TODO</MarriageSpotUnreachable>
+  <!-- EN: in prison cell -->
+  <MarriageSpotInPrisonCell>TODO</MarriageSpotInPrisonCell>
+  <!-- EN: uncomfortable temperature -->
+  <NotEnjoyableOutsideTemperature>TODO</NotEnjoyableOutsideTemperature>
+
+  <!-- Colonist bar -->
+  <!-- EN: Medical rest -->
+  <ActivityIconMedicalRest>TODO</ActivityIconMedicalRest>
+  <!-- EN: Sleeping -->
+  <ActivityIconSleeping>TODO</ActivityIconSleeping>
+  <!-- EN: Fleeing -->
+  <ActivityIconFleeing>TODO</ActivityIconFleeing>
+  <!-- EN: Fighting -->
+  <ActivityIconAttacking>TODO</ActivityIconAttacking>
+  <!-- EN: Idle -->
+  <ActivityIconIdle>TODO</ActivityIconIdle>
+  <!-- EN: Burning -->
+  <ActivityIconBurning>TODO</ActivityIconBurning>
+  <!-- EN: Forming a caravan -->
+  <ActivityIconFormingCaravan>TODO</ActivityIconFormingCaravan>
+
+  <!-- Maintainable -->
+  <!-- EN: Due for maintenance. -->
+  <DueForMaintenance>TODO</DueForMaintenance>
+  <!-- EN: Deteriorating due to lack of maintenance. -->
+  <DeterioratingDueToLackOfMaintenance>TODO</DeterioratingDueToLackOfMaintenance>
+
+  <!-- Deep drill -->
+  <!-- EN: Progress to next lump -->
+  <ProgressToNextLump>TODO</ProgressToNextLump>
+  <!-- EN: Resource below -->
+  <ResourceBelow>TODO</ResourceBelow>
+  <!-- EN: Progress to next portion -->
+  <ProgressToNextPortion>TODO</ProgressToNextPortion>
+  <!-- EN: No resources below. -->
+  <DeepDrillNoResources>TODO</DeepDrillNoResources>
+  <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
+  <DeepDrillExhausted>TODO</DeepDrillExhausted>
+  <!-- EN: Deep drill resources exhausted. -->
+  <DeepDrillExhaustedNoFallback>TODO</DeepDrillExhaustedNoFallback>
+
+  <!-- reloading ammo -->
+  <!-- EN: Remaining charges -->
+  <ChargesRemaining>TODO</ChargesRemaining>
   
-	<!-- Status levels -->
-  <Mood>Moral</Mood>
+  <!-- Learning helper -->
+  <!-- EN: Learning helper -->
+  <LearningHelper>TODO</LearningHelper>
+  <!-- EN: Mark as learned -->
+  <MarkLearned>TODO</MarkLearned>
+  <!-- EN: Already learned -->
+  <AlreadyLearned>TODO</AlreadyLearned>
+  <!-- EN: Filter -->
+  <Filter>TODO</Filter>
+
+  <!-- Compass -->
+  <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
+  <CompassTip>TODO</CompassTip>
+
+  <!-- World route planner -->
+  <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
+  <RoutePlannerButtonTip>TODO</RoutePlannerButtonTip>
+  <!-- EN: Add two or more waypoints. -->
+  <RoutePlannerAddTwoOrMoreWaypoints>TODO</RoutePlannerAddTwoOrMoreWaypoints>
+  <!-- EN: Add one or more waypoints. -->
+  <RoutePlannerAddOneOrMoreWaypoints>TODO</RoutePlannerAddOneOrMoreWaypoints>
+  <!-- EN: Total route time: {0} -->
+  <RoutePlannerEstTimeToFinalDest>TODO</RoutePlannerEstTimeToFinalDest>
+  <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
+  <RoutePlannerUsingAverageTicksPerMoveWarning>TODO</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <!-- EN: Calculating for: {0} -->
+  <RoutePlannerUsingTicksPerMoveOfCaravan>TODO</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <!-- EN: Right mouse button: Add/remove waypoints. -->
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>TODO</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <!-- EN: ESC: Exit planning mode. -->
+  <RoutePlannerPressEscapeToExit>TODO</RoutePlannerPressEscapeToExit>
+  <!-- EN: ESC: Return to the caravan formation dialog. -->
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>TODO</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToWaypoint>TODO</EstimatedTimeToWaypoint>
+  <!-- EN: Est. travel time (from previous waypoint): {0} -->
+  <EstimatedTimeToWaypointFromPrevious>TODO</EstimatedTimeToWaypointFromPrevious>
+  <!-- EN: Est. travel time: {0} -->
+  <EstimatedTimeToTile>TODO</EstimatedTimeToTile>
+  <!-- EN: Foraged food amount -->
+  <ForagedFoodAmount>TODO</ForagedFoodAmount>
+
+  <!-- Outfits -->
+  <!-- EN: Anything -->
+  <OutfitAnything>TODO</OutfitAnything>
+  <!-- EN: Worker -->
+  <OutfitWorker>TODO</OutfitWorker>
+  <!-- EN: Soldier -->
+  <OutfitSoldier>TODO</OutfitSoldier>
+  <!-- EN: Nudist -->
+  <OutfitNudist>TODO</OutfitNudist>
+
+  <!-- Hibernatable -->
+  <!-- EN: Hibernating -->
+  <HibernatableHibernating>TODO</HibernatableHibernating>
+  <!-- EN: Starting up -->
+  <HibernatableStartingUp>TODO</HibernatableStartingUp>
+
+  <!-- Transport pods -->
+  <!-- EN: {0}: See available orders... -->
+  <ClickToSeeAvailableOrders_WorldObject>TODO</ClickToSeeAvailableOrders_WorldObject>
+  <!-- EN: See available orders... -->
+  <ClickToSeeAvailableOrders_Empty>TODO</ClickToSeeAvailableOrders_Empty>
+  
+  <!-- Pawn tooltips -->
+  <!-- EN: {0} ({1})\n{2}\n{3} -->
+  <PawnTooltipWithDescAndPrimaryEquip>TODO</PawnTooltipWithDescAndPrimaryEquip>
+  <!-- EN: {0} ({1})\n{2} -->
+  <PawnTooltipWithDescNoPrimaryEquip>TODO</PawnTooltipWithDescNoPrimaryEquip>
+  <!-- EN: {0}\n{1}\n{2} -->
+  <PawnTooltipWithPrimaryEquipNoDesc>TODO</PawnTooltipWithPrimaryEquipNoDesc>
+  <!-- EN: {0}\n{1} -->
+  <PawnTooltipNoDescNoPrimaryEquip>TODO</PawnTooltipNoDescNoPrimaryEquip>
+  <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
+  <PawnTooltipPsychicEntropyStats>TODO</PawnTooltipPsychicEntropyStats>
+  <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
+  <PawnTooltipPsychicEntropyDesc>TODO</PawnTooltipPsychicEntropyDesc>
+  <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
+  <PawnTooltipPsychicEntropyPainFocus>TODO</PawnTooltipPsychicEntropyPainFocus>
+  <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
+  <PawnTooltipPsychicEntropyLimit>TODO</PawnTooltipPsychicEntropyLimit>
+  <!-- EN: Psyfocus: {0} -->
+  <PawnTooltipPsyfocus>TODO</PawnTooltipPsyfocus>
+
+  <!-- Pawn tooltip description -->
+  <!-- EN: {0} {1} -->
+  <PawnTooltipGenderAndKindLabel>TODO</PawnTooltipGenderAndKindLabel>
+
+  <!-- Rewards -->
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
+  <Reward_Pawn_DropPod>TODO</Reward_Pawn_DropPod>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_WalkIn>TODO</Reward_Pawn_WalkIn>
+  <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
+  <Reward_Pawn_Caravan>TODO</Reward_Pawn_Caravan>
+  <!-- EN: transport pods with the following resources will arrive (total value {1}):
+\n{0} -->
+  <Reward_Items>TODO</Reward_Items>
+  <!-- EN: you will receive (total value {1}):
+\n{0} -->
+  <Reward_Items_Caravan>TODO</Reward_Items_Caravan>
+  <!-- EN: your faction relations with {0_name} will improve by {1} -->
+  <Reward_Goodwill>TODO</Reward_Goodwill>
+  <!-- EN: you will be taken to the stars -->
+  <Reward_PassageOffworld>TODO</Reward_PassageOffworld>
+  <!-- EN: Passage offworld -->
+  <Reward_PassageOffworld_Label>TODO</Reward_PassageOffworld_Label>
+  <!-- EN: you can loot everything from the camp -->
+  <Reward_CampLoot>TODO</Reward_CampLoot>
+  <!-- EN: Camp loot -->
+  <Reward_CampLoot_Label>TODO</Reward_CampLoot_Label>
+  <!-- EN: the visitors will work and fight for you -->
+  <Reward_VisitorsHelp>TODO</Reward_VisitorsHelp>
+  <!-- EN: Visitors' help -->
+  <Reward_VisitorsHelp_Label>TODO</Reward_VisitorsHelp_Label>
+  <!-- EN: New psylink level -->
+  <Reward_BestowingCeremony_Label>TODO</Reward_BestowingCeremony_Label>
+  <!-- EN: {PAWNNAME} gains psylink -->
+  <Reward_BestowingCeremony>TODO</Reward_BestowingCeremony>
+  <!-- EN: Shuttle loot -->
+  <Reward_ShuttleLoot_Label>TODO</Reward_ShuttleLoot_Label>
+  <!-- EN: you can deconstruct and loot the shuttle -->
+  <Reward_ShuttleLoot>TODO</Reward_ShuttleLoot>
+  <!-- EN: Possible future reward -->
+  <Reward_PossibleFutureReward_Label>TODO</Reward_PossibleFutureReward_Label>
+  <!-- EN: a reward possibly granted in the future -->
+  <Reward_PossibleFutureReward>TODO</Reward_PossibleFutureReward>
+  <!-- EN: {TITLE} title -->
+  <Reward_Title_Label>TODO</Reward_Title_Label>
+  <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
+  <Reward_Title>TODO</Reward_Title>
+  <!-- EN: value {0} -->
+  <TotalValue>TODO</TotalValue>
+  
+  <!-- Bladelink -->
+  <!-- EN: Bonded to: {0} -->
+  <BondedWith>TODO</BondedWith>
+  <!-- EN: Not yet bonded -->
+  <NotBonded>TODO</NotBonded>
+  <!-- EN: bonded to someone else -->
+  <BladelinkBondedToSomeoneElse>TODO</BladelinkBondedToSomeoneElse>
+  <!-- EN: (existing bond) -->
+  <BladelinkAlreadyBonded>TODO</BladelinkAlreadyBonded>
+  <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
+  <BladelinkAlreadyBondedDialog>TODO</BladelinkAlreadyBondedDialog>
+  <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
+  <BladelinkAlreadyBondedMessage>TODO</BladelinkAlreadyBondedMessage>
+
+  <!-- Biocoded weapons -->
+  <!-- EN: biocoded {0} -->
+  <Biocoded>TODO</Biocoded>
+  <!-- EN: Biocoding: {0} -->
+  <CodedFor>TODO</CodedFor>
+  <!-- EN: biocoded -->
+  <BiocodedCodedForSomeoneElse>TODO</BiocodedCodedForSomeoneElse>
+
+  <!-- Projectile interceptor -->
+  <!-- EN: Intercepts {0} every {1} -->
+  <InterceptsProjectilesEvery>TODO</InterceptsProjectilesEvery>
+  <!-- EN: Intercepts {0} -->
+  <InterceptsProjectiles>TODO</InterceptsProjectiles>
+  <!-- EN: ground projectiles -->
+  <InterceptsProjectiles_GroundProjectiles>TODO</InterceptsProjectiles_GroundProjectiles>
+  <!-- EN: aerial projectiles -->
+  <InterceptsProjectiles_AerialProjectiles>TODO</InterceptsProjectiles_AerialProjectiles>
+
+  <!-- Condition causers -->
+  <!-- EN: Affected gender -->
+  <AffectedGender>TODO</AffectedGender>
+
+  <!-- Hediff misc -->
+  <!-- EN: Caused by: {0} -->
+  <CausedByHediff>TODO</CausedByHediff>
+  
+  <!-- UNUSED -->
+  <UntreatedLower>netratat</UntreatedLower>
+  <InjuryRequiresTreatment>necesită tratament pentru vindecare</InjuryRequiresTreatment>
+  <NextTreatmentAfter>următorul tratament după {0} zile</NextTreatmentAfter>
+  <ImmunityDevelopmentProgress>progres în dezvoltarea imunității</ImmunityDevelopmentProgress>
   <MoodTip>Moral depinde de activitatea persoanei.\n\nDacă moralul unei persoane scade, aceasta poate ceda psihic și nu va mai asculta ordinele tale.</MoodTip>
   <Food>Foame</Food>
   <FoodTip>Cantitatea nutritivă consumată recent. Dacă ajunge la 0, atunci malnutriția poate provoca moartea în timp.</FoodTip>
@@ -82,177 +1358,25 @@
   <Environment>Mediu</Environment>
   <EnvironmentTip>Reflectă aspectul mediului înconjurător.\n\nIa o valoare mare într-un mediu spațios cu multe decorațiuni și vice-versa.</EnvironmentTip>
   <Openness>Deschidere</Openness>
-
-  
-  <!-- Thoughts -->
-  <ThoughtExpiresIn>Dispare în: {0}</ThoughtExpiresIn>
-  <ThoughtStartsExpiringIn>Începe dispariția în: {0}</ThoughtStartsExpiringIn>
-  <ThoughtFinishesExpiringIn>Finalizează dispariția în: {0}</ThoughtFinishesExpiringIn>
   <MentalBreakThreshold>Punct de cedare psihică</MentalBreakThreshold>
-
-
-  <!-- Pawn info readout -->
-  <Health>Sănătate</Health>
   <PawnMainDescWithFactionGendered>{0} {1} al {2}</PawnMainDescWithFactionGendered>
-  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
   <PawnMainDescWithFactionGenderless>{0} al {1}</PawnMainDescWithFactionGenderless>
   <PawnMainDescGenderless>{0}</PawnMainDescGenderless>
-  <Faction>Facțiune</Faction>
-  <Equipped>Echipat</Equipped>
-  <EquippedNothing>Nimic</EquippedNothing>
-  <Incapacitated>Incapacitat</Incapacitated>
-  <InRestraints>În cătușe (încetinit)</InRestraints>
-  <Carrying>Cară</Carrying>
   <SanityDazedWander>Decompensat: amețit, năuc</SanityDazedWander>
   <SanityGiveUpExit>Decompensat: renunță, părăsește colonia</SanityGiveUpExit>
   <SanityPanicFlee>Decompensat: fuge panicat</SanityPanicFlee>
   <SanityPsychotic>Decompesat: violență necontrolată</SanityPsychotic>
-
-  <!-- Inspector general stuff -->
-  <SelectNextInSquareTip>Selectează obiectul suprapus.\n\nTastă: {0}\n\nPoți face astă executând un click din nou pe aceeași regiune.</SelectNextInSquareTip>
-  <DefInfoTip>Arată informații despre acest obiect.</DefInfoTip>
-  
-  
-	<!-- like 'Blood of John' -->
-	<OfLower>lui</OfLower>
-
-	<!-- Power readout -->
-	<PowerNotConnected>Nu este conectat la electriciate.</PowerNotConnected>
-  <PowerConnectedRateStored>Electriciate sursă/stocat: {0} W / {1} Wd</PowerConnectedRateStored>
-  <PowerNeeded>Electricitate necesar</PowerNeeded>
-  <PowerOutput>Electriciate produsă</PowerOutput>
-  <PowerBatteryStored>Stocat</PowerBatteryStored>
-  <PowerBatteryEfficiency>Eficiență</PowerBatteryEfficiency>
-
-  <!-- Temperature control -->
-  <TargetTemperature>Temperatură țintă</TargetTemperature>
-  <PowerConsumptionMode>Curent folosit</PowerConsumptionMode>
-  <PowerConsumptionHigh>Mare</PowerConsumptionHigh>
-  <PowerConsumptionLow>Mic</PowerConsumptionLow>
-  
-  <!-- Temperature readout -->
-  <Indoors>Înăuntru</Indoors>
-  <Outdoors>Afară</Outdoors>
-  
-  <!--Rotting-->
-	<RotStateFresh>Proaspăt</RotStateFresh>
-	<RotStateRotting>Putrezit</RotStateRotting>
-	<RotStateDessicated>Descompus</RotStateDessicated>
-	
-  <!-- Shooting tooltip -->
-  <ShotBy>Împușcat de {0}</ShotBy>
-  <CannotHit>Nu poate lovi ținta.</CannotHit>
-
-  <!-- Storage priority labels -->
-  <StoragePriorityUnstored>Nestocat</StoragePriorityUnstored>
-  <StoragePriorityLow>Mică</StoragePriorityLow>
-  <StoragePriorityNormal>Normală</StoragePriorityNormal>
-  <StoragePriorityPreferred>Preferat</StoragePriorityPreferred>
-  <StoragePriorityImportant>Important</StoragePriorityImportant>
-  <StoragePriorityCritical>Critic</StoragePriorityCritical>
-
-
-  <!-- Rotting -->
-  <CurrentlyFrozen>Înghețat (nu se strică)</CurrentlyFrozen>
-  <CurrentlyRefrigerated>Rece (se strică în {0})</CurrentlyRefrigerated>
-  <NotRefrigerated>Nu este prezervat (se strică în {0})</NotRefrigerated>
-  <OverADecade>mai mult de un deceniu</OverADecade>
-  
-  <!-- Meal -->
-  <Ingredients>Ingrediente</Ingredients>
-
-  <!-- Plants -->
-  <PercentGrowth>{0}% crescut</PercentGrowth>
   <Growing>Crește</Growing>
   <NotGrowingNow>Nu crește (trebuie să fie {0}).</NotGrowingNow>
   <NotGrowingNowResting>Nu crește (repaus).</NotGrowingNowResting>
-  <FullyGrownIn>Creștere completă în {0}.</FullyGrownIn>
-  <OutOfIdealTemperatureRange>În afara temperaturii ideale (crește cu {0}% din viteză)</OutOfIdealTemperatureRange>
-  <OutOfIdealTemperatureRangeNotGrowing>În afara temperaturii ideale (nu crește)</OutOfIdealTemperatureRangeNotGrowing>
-  <ReadyToHarvest>Gata de recoltat.</ReadyToHarvest>
-  <Mature>Matur.</Mature>
   <SeedLabel>{0} sămânță</SeedLabel>
-  <OutdoorGrowingPeriod>Perioadă de creștere: {0}</OutdoorGrowingPeriod>
-  <NoGrowingPeriod>Niciodată</NoGrowingPeriod>
-  <GrowYearRound>Anual</GrowYearRound>
   <CannotGrowTooCold>Nu crește - prea frig.</CannotGrowTooCold>
-
-  <!-- Zones -->
-  <Zone>Zonă</Zone>
-  <GrowingZone>Zonă de cultivare</GrowingZone>
-  <Stockpile>Depozit</Stockpile>
-  <DumpingStockpile>Zonă pentru deșeuri</DumpingStockpile>
-  <Priority>Prioritate</Priority>
-  <ClearAll>Anulează</ClearAll>
-
-  <!-- Mouseover indicator -->
-  <Undiscovered>Nedescoperit</Undiscovered>
-  
-  <!-- Buttons -->
-  <ZoneVisibilityToggleButton>Comută vizibilitatea zonelor.</ZoneVisibilityToggleButton>
   <AutoHomeRegionToggleButton>Comută adăugarea automată a regiunii ACASĂ în jurul construcțiilor noi.</AutoHomeRegionToggleButton>
-  <CategorizedResourceReadoutToggleButton>Comută modul de afișare pe categorii al resurselor.</CategorizedResourceReadoutToggleButton>
-
-  <!-- Fire -->
   <Fire>Foc</Fire>
-  <FireOn>Foc pe {0}</FireOn>
-  <Burning>Arde</Burning>
-  <FireSizeLower>dimensiune foc - {0}</FireSizeLower>
- 
-  <!-- Map conditions (eclipse, solar flare, etc )-->
   <MapConditionsTip>Această regiune este influențată de anumiți factori planetari.</MapConditionsTip>
-
-  <!-- Building placement -->
-  <NoStuffsToBuildWith>Nu există materialele necesare pentru construcție.</NoStuffsToBuildWith>
-
-  <!-- Building placement restricters -->
-  <MustPlaceUnroofed>Nu poate fi plasat sub un acoperiș.</MustPlaceUnroofed>
-  <MustPlaceHeadOnShipBeam>Trebuie plasat alături de bara structurală a navei.</MustPlaceHeadOnShipBeam>
-  <MustPlaceNextToHopperAccepter>Trebuie plasat lângă ceva ce folosește o pâlnie dispensoare.</MustPlaceNextToHopperAccepter>
-  <MustPlaceOnSteamGeyser>Trebuie plasat pe un gheizer de aburi.</MustPlaceOnSteamGeyser>
-  <MustPlaceCoolerWithFreeSpaces>Ambele capete ale aparatului trebuie expuse.</MustPlaceCoolerWithFreeSpaces>
-  
-  <!-- Wind Turbine -->
-  <WindTurbine_WindPathIsBlockedBy>Blocat de</WindTurbine_WindPathIsBlockedBy>
-  <WindTurbine_WindPathIsBlockedByRoof>Blocat de acoperiș</WindTurbine_WindPathIsBlockedByRoof>
-
-  <!-- Cryptosleep casket -->
-  <CasketContains>Conține</CasketContains>
   <CasketUnknownContents>NECUNOSCUT</CasketUnknownContents>
-  <CasketWarning>Atenție!\n\n[PAWN_nameDef] este ultimul colonist treaz! dacă îl lași să intre în capsulă, nu vei mai putea continua jocul. Continuă oricum?</CasketWarning>
-
-  <!-- Ship launch report -->
-  <ShipReportCannotLaunch>Nu se poate lansa.</ShipReportCannotLaunch>
-  <ShipReportCanLaunch>Gata de lansare.</ShipReportCanLaunch>
-  <ShipReportMissingPart>Lispește o componentă critică</ShipReportMissingPart>
-  <ShipReportNoFullPods>Nu există capsule de crypto-somn utilizate</ShipReportNoFullPods>
-
-  <!-- Neurotrainer -->
   <UseNeurotrainer>Folosește robotul neuro-antrenor pentru a învăța {0}</UseNeurotrainer>
   <NeurotrainerUsed>{0} a folosit {1} neuro-antrenor pentru a avansa de la nivelul {2} la nivelul {3}.</NeurotrainerUsed>
-  
-  <!-- Minification -->
-  <Installed>Instalat</Installed>
-  <NotInstalled>Neinstalat</NotInstalled>
-
-  <!-- Art -->
-  <Title>Titlu</Title>
-  <Untitled>Nedenumit</Untitled>
-  
-  <!-- Unfinished thing -->
-  <UnfinishedItem>{0} nefinisat</UnfinishedItem>
-  <UnfinishedItemWithStuff>{0} {1} nefinisat</UnfinishedItemWithStuff>
-
-  <!-- Quality -->
-  <Quality>Calitate</Quality>
-  <QualityDescription>Calitatea înseamnă cât de bine este făcut.</QualityDescription>
-  <QualityIs>Calitate: {0}</QualityIs>
-    
-  <!-- Game over -->
-  <GameOverEveryoneDead>Toți au murit sau au plecat. Această poveste ia sfârșit aici.\n\nPoate altcineva va găsi ruinele acestui loc.</GameOverEveryoneDead>
   <GameOverShipLaunched>Ai lansat nava! Acești coloniști au plecat:\n\n{0}\nAcești coloniști au fost lăsați în urmă:\n\n{1}\nAI-ul va încerca să vă ghideze într-un loc sigur. Ar putea găsi o planetă prosperă în acest sistem. Sau, ar putea să călătorească sute de ani către o altă stea. Ar putea decide să se ascundă undeva până când cineva va hotărî să construiască o lume nouă aici.\n\nO să aflați când vă veți trezi.</GameOverShipLaunched>
-  <GameOverKeepPlaying>Continuă jocul</GameOverKeepPlaying>
-  <GameOverMainMenu>Meniul principal</GameOverMainMenu>
-    
 
 </LanguageData>

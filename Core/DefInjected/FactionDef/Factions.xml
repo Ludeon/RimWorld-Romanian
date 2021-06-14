@@ -1,16 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-	<Colony.label>Colonie</Colony.label>
-    <Colony.description>Descrierea coloniei</Colony.description>
-    <Colony.pawnsPlural>Colonii</Colony.pawnsPlural>
-	
-	<Spacer.label>Astronaut</Spacer.label>
-    <Spacer.description>Oamenii din spațiu</Spacer.description>
-    <Spacer.pawnsPlural>Astronauți</Spacer.pawnsPlural>
-	
-	<SpacerHostile.label>Adversar din spațiu</SpacerHostile.label>
-    <SpacerHostile.description>Adversarii din spațiu.</SpacerHostile.description>
-    <SpacerHostile.pawnsPlural>Adversarii din spațiu</SpacerHostile.pawnsPlural>
-	
+  
+  <!-- UNUSED -->
+  <Colony.label>Colonie</Colony.label>
+  <Colony.description>Descrierea coloniei</Colony.description>
+  <Colony.pawnsPlural>Colonii</Colony.pawnsPlural>
+  
 </LanguageData>
