@@ -1,96 +1,95 @@
-﻿clothes
-clothing choices
-fashion knowledge
-stylishness
+﻿haine
+alegeri vestimentare
+cunoștințe de modă
+eleganță
 
-looks
-appearance
-height
-weight
-hair
-hairstyle
-facial hair
-leg hair
-face
-eyes
-nose
-ears
-jawline
-forehead
-hands
-body
-muscles
+arată
+aspect
+înălțime
+greutate
+păr
+coafură
+părul facial
+părul de pe picioare
+față
+ochi
+nas
+urechi
+maxilarul
+frunte
+mâini
+corp
+mușchi
 
-voice
-way of speaking
+voce
+modul de a vorbi
 accent
 
-shooting skills
-melee fighting skills
-social skills
-plant growing skills
-medical skill
-animal taming ability
-cooking skill
-construction skill
-mining skill
-artistic skills
-crafting skills
-intellectual skills
+abilități de fotografiere
+abilități de luptă corp la corp
+abilități sociale
+abilități de cultivare a plantelor
+abilități medicale
+abilitatea de îmblânzire a animalelor
+abilitatea de a găti
+abilitate de construcție
+abilitate de minerit
+abilități artistice
+abilități de meșteșugărit
+aptitudini intelectuale
 
-skills
-abilities
-intelligence
-judgment
-brainpower
-emotional stability
-self-control
-usefulness
-attitude
-way of walking
-way of thinking
-fighting methods
-learning ability
-diet
-eating habits
-food preferences
-relationship status
-age
-value as a human
-sense of responsibility
-sense of duty
-honor
-honesty
-courageousness
-opinions
-beliefs
-ideas
-hopes and dreams
-ambitions
-personal habits
-personal hygiene
-hardiness
-personality
-class
-culture
-recreational preferences
-punctuality
-generosity
-bravery
-loyalty
-honesty
-kindness
-eloquence
-broad-mindedness
-charm
-sincerity
-open-mindedness
+aptitudini
+abilități
+inteligență
+judecată
+puterea creierului
+stabilitate emoțională
+autocontrol
+utilitate
+atitudine
+modul de a merge
+modul de gândire
+metode de luptă
+capacitatea de învățare
+dietă
+obiceiuri alimentare
+preferințe alimentare
+statutul relației
+vârsta
+valoarea ca om
+simțul responsabilității
+simțul datoriei
+onoare
+onestitate
+curaj
+opinii
+convingeri
+idei
+speranțe și vise
+ambiții
+obiceiuri personale
+igiena personală
+tenacitate
+personalitate
+clasa
+cultură
+preferințele de recreere
+punctualitate
+generozitate
+curaj
+loialitate
+onestitate
+bunătate
+elocvență
+deschidere la minte
+farmec
+sinceritate
+deschidere de spirit
 
-origins
-parents
-grandparents
-friends
-family
-family background
-lovers
-
+origini
+părinți
+bunici
+prieteni
+familie
+mediul familial
+îndrăgostiți

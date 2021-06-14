@@ -1,27 +1,26 @@
-﻿shirt
-button-down shirt
-formal shirt
-jacket
-raincoat
-formal suit
-evening gown
+﻿cămașă
+cămașă cu nasturi
+cămașă formală
+jachetă
+haină de ploaie
+costum formal
+rochie de seară
 parka
 duster
-space suit
-power armor suit
+costum spațial
+costum armură de putere
 
-bow tie
-necktie
-belt
-jock strap
+papion
+cravată
+centură
+curea de jock
 
-hat
-bowler hat
-baseball cap
+pălărie
+pălărie bowler
+șapcă de baseball
 tuque
-top hat
+pălărie de top
 
-shoe
-boot
-sandal
-
+pantof
+cizmă
+sandală

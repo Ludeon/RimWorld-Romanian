@@ -1,52 +1,52 @@
-﻿artwork
-art
-work
-item
-piece
+﻿lucrare de artă
+artă
+lucrare
+obiect
+piesă
 
-oeuvre
-expression
-attempt
-untitled
-titled
+lucrare
+expresie
+încercare
+fără titlu
+intitulat
 
-shape
-form
-image
-shot
-picture
-portrait
-still
+contur
+formă
+imagine
+împușcat
+imagine
+portret
+încă
 
 poem
 
-lullaby
-song
-tune
-rhythm
-beat
+cântec de leagăn
+cântec
+melodie
+ritm
+bate
 
 codex
-book
+carte
 
 cuboid
 circloid
 parabolic
 cubic
-curvelike
-curve
+curbiliniu
+curbă
 
-mirror
-day
-vomit
-sweat
-shadow
+oglindă
+zi
+vomă
+transpirație
+umbră
 
-freedom
-vision
-love
-divinity
-wisdom
-shame
-death
-darkness
+libertate
+viziune
+dragoste
+divinitate
+înțelepciune
+rușine
+moarte
+întuneric

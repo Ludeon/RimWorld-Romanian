@@ -1,60 +1,60 @@
-﻿dagger
-blade
-shiv
-razor
-scythe
-sickle
+﻿pumnal
+lama
+briceag
+lama de ras
+coasă
+seceră
 
-sword
-sabre
-rapier
+sabie
+sabie
+sabie
 claymore
 scimitar
 
-spear
-pike
+suliță
+lance
 ikwa
 lance
-bayonet
-javelin
+baionetă
+suliță
 
-axe
+topor
 tomahawk
-hatchet
+toporaș
 
-whip
+bici
 
-saw
+ferăstrău
 
-club
-hammer
-sledgehammer
-mace
+bâtă
+ciocan
+baros
+buzdugan
 
-knuckleduster
-gauntlet
+ciocan de buzunar
+mănușă
 
-dart
-arrow
+săgeată
+săgeată
 
-crossbow
-bow
+arbaleta
+arc
 
-gun
+pușcă
 pistol
-rifle
-shotgun
+carabină
+pușcă de vânătoare
 revolver
 
-cannon
-mortar
-howitzer
+tun
+mortier
+obuzier
 
-bomb
-nuke
-landmine
-grenade
+bombă
+bombă nucleară
+mină de teren
+grenadă
 
-missile
-rocket
+proiectil
+rachetă
 

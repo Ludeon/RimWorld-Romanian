@@ -1,69 +1,69 @@
 ﻿//Normal outlanders
-farmer
-villager
-miller
-smith
-brewer
-weaver
-cook
-beggar
-town guard
-town councilor
-baker
-tailor
-elder
-gunsmith
-blacksmith
-fletcher
-thresher
-thatcher
-carpenter
-trader
+fermier
+sătean
+morar
+fierar
+berar
+țesător
+bucătar
+cerșetor
+paznic al orașului
+consilier municipal
+brutar
+croitor
+bătrân
+armurier
+fierar
+arcaș
+treierător
+cărăuș
+tâmplar
+comerciant
 
 //Exotic outlanders
-surgeon
+chirurg
 doctor
-explorer
-adventurer
-drunkard
-priest
+explorator
+aventurier
+bețivan
+preot
 cleric
-smuggler
-comedian
-teacher
+contrabandist
+comediant
+profesor
 acrobat
-clown
+clovn
 actor
 artist
 boxer
-chemist
-dancer
-fortune teller
-gardener
-maid
-hypnotist
-jeweler
+chimist
+dansator
+ghicitoare
+grădinar
+menajeră
+hipnotizator
+bijutier
 poet
 cowboy
-singer
-philosopher
-gunslinger
-sheriff
+cântăreț
+filozof
+pistolar
+șerif
 
 //Tech
-archaeologist
+arheolog
 hacker
-planetologist
+planetolog
 politician
-historian
-writer
-engineer
+istoric
+scriitor
+inginer
 dentist
-lawyer
+avocat
 
-//Tribals
-chief
-warrior
-archer
-witch doctor
-shaman
+//Tribale
+șef
+războinic
+arcaș
+vrăjitor
+șaman

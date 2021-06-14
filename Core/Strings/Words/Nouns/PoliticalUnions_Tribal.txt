@@ -1,16 +1,16 @@
 ﻿//Common with outlanders
-union
-nation
-confederacy
-confederation
-alliance
-kin league
-covenant
-treaty
+uniune
+națiune
+confederație
+confederație
+alianță
+liga rudelor
 pact
-coalition
+tratat
+pact
+coaliție
 
 //Tribe specific
-kinship
-people
-tribe
+rudenie
+oameni
+trib

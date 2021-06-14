@@ -1,17 +1,17 @@
 ﻿
 scyther
 lancer
-centipede
+centipedă
 
-mechanoid
+mecanoid
 robot
 automaton
-drone
-combat drone
-serving bot
-utility bot
+dronă
+dronă de luptă
+robot de servire
+robot utilitar
 sexbot
-guard bot
+robot de pază
 
-machine persona avatar
-archotech projection
+mașină persona avatar
+proiecție arhotech

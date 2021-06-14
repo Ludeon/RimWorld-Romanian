@@ -1,138 +1,138 @@
-﻿childhood
-childhood fears
-childhood loves
-childhood experiences
-life
-life challenges
-life's rewards
-life memories
-life goals
-life regrets
-life stresses
-the disappointment of life
-the pointlessness of life
-the randomness of life
-hope
-maturity
-adulthood
-children
-fear
-nightmares
-success
-the morality of poverty
-the morality of wealth
+﻿copilărie
+temerile din copilărie
+iubiri din copilărie
+experiențe din copilărie
+viață
+provocările vieții
+recompensele vieții
+amintirile vieții
+obiectivele vieții
+regretele vieții
+stresul vieții
+dezamăgirea vieții
+inutilitatea vieții
+hazardul vieții
+speranța
+maturitate
+maturitatea
+copii
+frică
+coșmaruri
+succes
+moralitatea sărăciei
+moralitatea bogăției
 
-death
-death's inevitability
-death's release
-life after death
-dead loved ones
-absent friends
+moarte
+inevitabilitatea morții
+eliberarea morții
+viața după moarte
+morții cei dragi
+prieteni absenți
 
-charity
-philanthropism
-aiding the downtrodden
-helping the sick
-helping the poor
+caritate
+filantropie
+ajutorarea celor defavorizați
+ajutorarea celor bolnavi
+ajutorarea celor săraci
 
-aliens
-alien contact
-alien conspiracies
-the absence of aliens
-government conspiracies
-religious conspiracies
+străini
+contact extraterestru
+conspirații extraterestre
+absența extratereștrilor
+conspirații guvernamentale
+conspirații religioase
 
-the stars
-other planets
-this planet
-the scale of the universe
-the age of the universe
-the fate of the universe
-man's spread through the universe
+stelele
+alte planete
+această planetă
+scara universului
+vârsta universului
+soarta universului
+răspândirea omului în univers
 
 primitivism
 luddism
-technology
-machine intelligence
-artificial intelligence
-computer technology
-weapons technology
+tehnologie
+inteligența mașinilor
+inteligența artificială
+tehnologie informatică
+tehnologia armelor
 
-society
-morality
-freedom
-law
-government
-rights
-history
-terror
-terrorism
-politics
-honor
-social issues
-the market
-freedom
-authoritarianism
-anarchy
-injustice
-justice
-truth
+societate
+moralitate
+libertate
+lege
+guvern
+drepturi
+istorie
+teroare
+terorism
+politică
+onoare
+probleme sociale
+piața
+libertate
+autoritarism
+anarhie
+nedreptate
+justiție
+adevăr
 tribalism
-ingroup preference
+preferința de grup
 
-philosophy
-reality
-culture
-culture differences
-culture shock
-human nature
-humanity
-religion
-the meaning of life
-identity
-eternity
+filosofie
+realitate
+cultură
+diferențe culturale
+șoc cultural
+natura umană
+umanitate
+religie
+sensul vieții
+identitate
+eternitate
 monism
 dualism
-epistemology
-honesty
-freedom of speech
-ethnicity
+epistemologie
+onestitate
+libertatea de exprimare
+etnie
 liberalism
-the inevitability of suffering
-the nature of knowledge
-the nature of emotion
+inevitabilitatea suferinței
+natura cunoașterii
+natura emoțiilor
 
-fate
-the fate of mankind
-the fate of the universe
+destinul
+soarta omenirii
+soarta universului
 
-art
-art movements
-artistic ambition
-human aesthetics
-artistic instincts
-art history
+artă
+mișcări artistice
+ambiția artistică
+estetica umană
+instincte artistice
+istoria artei
 
-love
-romance
-sexuality
-sexual morality
-masculinity
-femininity
+dragoste
+romantism
+sexualitate
+moralitate sexuală
+masculinitate
+feminitate
 
-self-replicating machines
-generation ships
-Von Neumann probes
+mașini care se autoreplică
+nave de generație
+sondele Von Neumann
 
-archotechnology
-archotechs
-machine personas
-the Johnson-Tanaka drive
-the Ordo Historia
-old Earth
+arhotehnologie
+arhotechs
+persoane mașină
+unitatea Johnson-Tanaka
+Ordo Historia
+vechiul Pământ
 rimworlds
 coreworlds
-cryptosleep
-cryptosleep tombs
-mechanoids
-cannibalism
+criptosomnul
+mormintele cryptosleep
+mecanoizi
+canibalism

@@ -1,10 +1,10 @@
 ﻿
 
-red
-black
-gray
-ash
+roșu
+negru
+gri
+cenușiu
 
-dark
-shadow
-night
+întunecat
+umbră
+noapte

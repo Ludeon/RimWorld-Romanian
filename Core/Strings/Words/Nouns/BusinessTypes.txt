@@ -1,18 +1,18 @@
-﻿Company
-Partners
-Corporation
-Traders
-Industries
-Incorporated
-Travelers
-Interplanetary
-Shipping
-Export Company
-Import Company
-Transport Company
-Transit Company
-Securities
-Solutions
-Consortium
+﻿Compania
+Parteneri
+Corporație
+Comercianți
+Industrii
+SRL
+Călători
+Interplanetară
+Transport maritim
+Companie de export
+Companie de import
+Companie de transport
+Companie de tranzit
+Valori mobiliare
+Soluții
+Consorțiu
 Interstellar
-Lubricants
+Lubrifianți

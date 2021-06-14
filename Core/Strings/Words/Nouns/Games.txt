@@ -1,8 +1,8 @@
 ﻿poker
-chess
-cards
+șah
+cărți
 backgammon
-dice
-craps
-roulette
+zaruri
+zaruri
+ruleta
 blackjack

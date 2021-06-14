@@ -1,40 +1,40 @@
-﻿notorious
-deadly
-deep
-poison
-jagged
-loyal
-unstoppable
+﻿notoriu
+mortal
+adânc
+otravă
+zimțat
+loial
+de neoprit
 animal
-bloody
-stonefaced
-ghostface
-suicidal
-manic
-crazy
-wild
-burning
-murderous
-fearful
-terrifying
-smoky
-nutty
-killer
-dark
-furious
-angry
-savage
-blank
-emotionless
-mindless
-awesome
+sângeros
+cu fața de piatră
+cu față de fantomă
+sinucigaș
+maniacal
+nebun
+sălbatic
+ardere
+criminal
+înfricoșător
+terifiant
+afumat
+nebunesc
+ucigaș
+întunecat
+furios
+furios
+sălbatic
+gol
+fără emoții
+fără minte
+minunat
 epic
-murderous
-supreme
-extreme
-mad
-sharp
-bladed
+criminal
+suprem
+extrem
+nebunesc:
+ascuțit
+cu spini
 
 
 
