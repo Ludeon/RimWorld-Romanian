@@ -1,41 +1,68 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- EN: Level -->
   <Level>Nivel</Level>
+  <!-- EN: Progress to next level -->
   <ProgressToNextLevel>Progres până la următorul nivel</ProgressToNextLevel>
+  <!-- EN: Experience -->
+  <Experience>TODO</Experience>
+  <!-- EN: Passion -->
   <Passion>Pasiune</Passion>
+  <!-- EN: None\n   -Learns {0} -->
   <PassionNone>Nimic (învață x{0})</PassionNone>
+  <!-- EN: Interested\n   -Learns {0} -->
   <PassionMinor>Interesat (învață x{0})</PassionMinor>
+  <!-- EN: Burning\n   -Learns {0} -->
   <PassionMajor>Ardent (învață x{0})</PassionMajor>
+  <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
+  <LearnedMaxToday>TODO</LearnedMaxToday>
+  <!-- EN: Effects at level {0} -->
   <EffectsAtLevel>Efectează la nivelul {0}</EffectsAtLevel>
+  <!-- EN: MAX -->
   <SkillMax>MAX</SkillMax>
 
-
-
+  <!-- EN: Barely heard of it -->
   <Skill0>Incapabil</Skill0>
+  <!-- EN: Utter beginner -->
   <Skill1>Incompetent</Skill1>
+  <!-- EN: Beginner -->
   <Skill2>Cunoștințe de bază</Skill2>
+  <!-- EN: Basic familiarity -->
   <Skill3>Familiaritate de bază</Skill3>
+  <!-- EN: Some familiarity -->
   <Skill4>Amator</Skill4>
+  <!-- EN: Significant familiarity -->
   <Skill5>Amator înrăit</Skill5>
+  <!-- EN: Capable amateur -->
   <Skill6>Practician</Skill6>
+  <!-- EN: Weak professional -->
   <Skill7>Practician exersat</Skill7>
+  <!-- EN: Employable professional -->
   <Skill8>Profesionist</Skill8>
+  <!-- EN: Solid professional -->
   <Skill9>Profesionist exersat</Skill9>
+  <!-- EN: Skilled professional -->
   <Skill10>Expert</Skill10>
+  <!-- EN: Very skilled professional -->
   <Skill11>Expert exersat</Skill11>
+  <!-- EN: Expert -->
   <Skill12>Expert foarte exersat</Skill12>
+  <!-- EN: Strong expert -->
   <Skill13>Maestru</Skill13>
+  <!-- EN: Master -->
   <Skill14>Maestru exersat</Skill14>
+  <!-- EN: Strong master -->
   <Skill15>Maestru planetar</Skill15>
+  <!-- EN: Region-known master -->
   <Skill16>Maestru de sistem</Skill16>
+  <!-- EN: Region-leading master -->
   <Skill17>Maestru suprem</Skill17>
+  <!-- EN: Planet-known master -->
   <Skill18>Vizionar</Skill18>
+  <!-- EN: Planet-leading master -->
   <Skill19>Legendar</Skill19>
+  <!-- EN: Legendary master -->
   <Skill20>Suprem</Skill20>
-
-
-  
-  
   
 </LanguageData>

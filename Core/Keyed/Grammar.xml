@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: a -->
+  <IndefiniteArticle>TODO</IndefiniteArticle>
+  <!-- EN: the -->
+  <DefiniteArticle>TODO</DefiniteArticle>
+  <!-- EN: a {0} -->
+  <IndefiniteForm>TODO</IndefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>TODO</DefiniteForm>
+
+  <!-- EN: its -->
+  <Proits>TODO</Proits>
+  <!-- EN: his -->
+  <Prohis>al lui</Prohis>
+  <!-- EN: her -->
+  <Proher>al ei</Proher>
+  <!-- EN: Its -->
+  <ProitsCap>TODO</ProitsCap>
+  <!-- EN: His -->
+  <ProhisCap>al lui</ProhisCap>
+  <!-- EN: Her -->
+  <ProherCap>al ei</ProherCap>
+
+  <!-- EN: it -->
+  <ProitObj>TODO</ProitObj>
+  <!-- EN: him -->
+  <ProhimObj>lui</ProhimObj>
+  <!-- EN: her -->
+  <ProherObj>ei</ProherObj>
+  <!-- EN: It -->
+  <ProitObjCap>TODO</ProitObjCap>
+  <!-- EN: Him -->
+  <ProhimObjCap>lui</ProhimObjCap>
+  <!-- EN: Her -->
+  <ProherObjCap>ei</ProherObjCap>
+
+  <!-- EN: he -->
+  <Prohe>el</Prohe>
+  <!-- EN: she -->
+  <Proshe>ea</Proshe>
+  <!-- EN: it -->
+  <Proit>TODO</Proit>
+  <!-- EN: He -->
+  <ProheCap>el</ProheCap>
+  <!-- EN: She -->
+  <ProsheCap>ea</ProsheCap>
+  <!-- EN: It -->
+  <ProitCap>TODO</ProitCap>
+
+  <!-- EN: {0} and {1}. -->
+  <ClauseSequence2>TODO</ClauseSequence2>
+  <!-- EN: {0}. Also, {1} and {2}. -->
+  <ClauseSequence3>TODO</ClauseSequence3>
+  <!-- EN: {0} and {1}. In addition {2} and {3}. -->
+  <ClauseSequence4>TODO</ClauseSequence4>
+  <!-- EN: {0} and {1}. Additionally, {2} and {3}. Finally, {4}. -->
+  <ClauseSequence5>TODO</ClauseSequence5>
+  <!-- EN: {0}. {1} and {2}. Also, {3} and {4}. Finally, {5}. -->
+  <ClauseSequence6>TODO</ClauseSequence6>
+  <!-- EN: {0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}. -->
+  <ClauseSequence7>TODO</ClauseSequence7>
+  <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->
+  <ClauseSequence8>TODO</ClauseSequence8>
+
+  <!-- EN: {0} or {1} -->
+  <XorY>TODO</XorY>
+
+</LanguageData>

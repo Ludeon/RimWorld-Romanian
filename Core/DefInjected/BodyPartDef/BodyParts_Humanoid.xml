@@ -1,49 +1,154 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Torso.label>piept</Torso.label>
-  <LeftShoulder.label>umărul stang</LeftShoulder.label>
+  
+  <!-- EN: arm -->
+  <Arm.label>TODO</Arm.label>
+  
+  <!-- EN: clavicle -->
+  <Clavicle.label>TODO</Clavicle.label>
+  
+  <!-- EN: femur -->
+  <Femur.label>TODO</Femur.label>
+  
+  <!-- EN: finger -->
+  <Finger.label>TODO</Finger.label>
+  
+  <!-- EN: hand -->
+  <Hand.label>TODO</Hand.label>
+  
+  <!-- EN: humerus -->
+  <Humerus.label>TODO</Humerus.label>
+  
+  <!-- UNUSED -->
   <LeftArm.label>brațul stâng</LeftArm.label>
-  <LeftHand.label>mâna stăngă</LeftHand.label>
-  <LeftHandPinky.label>degetul mic (mâna stângă)</LeftHandPinky.label>
-  <LeftHandRingFinger.label>degetul inelar (mâna stângă)</LeftHandRingFinger.label>
-  <LeftHandMiddleFinger.label>Degetul mijlociu (mâna stângă)</LeftHandMiddleFinger.label>
-  <LeftHandIndexFinger.label>Degetul arătător (mâna stângă)</LeftHandIndexFinger.label>
-  <LeftHandThumb.label>Degetul mare (mâna stângă)</LeftHandThumb.label>
-  <RightShoulder.label>Umărul drept</RightShoulder.label>
-  <RightArm.label>Brațul drept</RightArm.label>
-  <RightHand.label>Mâna dreaptă</RightHand.label>
-  <RightHandPinky.label>Degetul mic (mâna dreaptă)</RightHandPinky.label>
-  <RightHandRingFinger.label>Degetul inelar (mâna dreaptă)</RightHandRingFinger.label>
-  <RightHandMiddleFinger.label>Degetul mijlociu (mâna dreaptă)</RightHandMiddleFinger.label>
-  <RightHandIndexFinger.label>Degetul arătător (mâna dreaptă)</RightHandIndexFinger.label>
-  <RightHandThumb.label>Degetul mare (mâna dreaptă)</RightHandThumb.label>
-  <LeftFootLittleToe.label>Degetul mic (piciorul stâng)</LeftFootLittleToe.label>
-  <LeftFootFourthToe.label>Al patrulea deget (piciorul stâng)</LeftFootFourthToe.label>
-  <LeftFootMiddleToe.label>Degetul din mijloc (piciorul stâng)</LeftFootMiddleToe.label>
-  <LeftFootSecondToe.label>Al doilea deget (piciorul stâng)</LeftFootSecondToe.label>
-  <LeftFootBigToe.label>Degetul mare (piciorul stâng)</LeftFootBigToe.label>
-  <RightFootLittleToe.label>Degetul mic (piciorul drept)</RightFootLittleToe.label>
-  <RightFootFourthToe.label>Al patrulea deget (piciorul drept)</RightFootFourthToe.label>
-  <RightFootMiddleToe.label>Degetul din mijloc (piciorul drept)</RightFootMiddleToe.label>
-  <RightFootSecondToe.label>Al doilea deget (piciorul drept)</RightFootSecondToe.label>
-  <RightFootBigToe.label>Degetul mare (piciorul drept)</RightFootBigToe.label>
-
-
-  <!-- Bones -->
-
+  
+  <!-- UNUSED -->
   <LeftClavicle.label>Clavicula stângă</LeftClavicle.label>
-  <RightClavicle.label>Clavicula dreaptă</RightClavicle.label>
-  <Sternum.label>Stern</Sternum.label>
-  <LeftHumerus.label>Umărul stâng</LeftHumerus.label>
-  <RightHumerus.label>Umărul drept</RightHumerus.label>
-  <LeftRadius.label>Radiusul stâng</LeftRadius.label>
-  <RightRadius.label>Radiusul dreapt</RightRadius.label>
-  <Pelvis.label>pelvis</Pelvis.label>
+  
+  <!-- UNUSED -->
   <LeftFemur.label>Femurul stâng</LeftFemur.label>
-  <RightFemur.label>Femurul drept</RightFemur.label>
+  
+  <!-- UNUSED -->
+  <LeftFootBigToe.label>Degetul mare (piciorul stâng)</LeftFootBigToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootFourthToe.label>Al patrulea deget (piciorul stâng)</LeftFootFourthToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootLittleToe.label>Degetul mic (piciorul stâng)</LeftFootLittleToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootMiddleToe.label>Degetul din mijloc (piciorul stâng)</LeftFootMiddleToe.label>
+  
+  <!-- UNUSED -->
+  <LeftFootSecondToe.label>Al doilea deget (piciorul stâng)</LeftFootSecondToe.label>
+  
+  <!-- UNUSED -->
+  <LeftHand.label>mâna stăngă</LeftHand.label>
+  
+  <!-- UNUSED -->
+  <LeftHandIndexFinger.label>Degetul arătător (mâna stângă)</LeftHandIndexFinger.label>
+  
+  <!-- UNUSED -->
+  <LeftHandMiddleFinger.label>Degetul mijlociu (mâna stângă)</LeftHandMiddleFinger.label>
+  
+  <!-- UNUSED -->
+  <LeftHandPinky.label>degetul mic (mâna stângă)</LeftHandPinky.label>
+  
+  <!-- UNUSED -->
+  <LeftHandRingFinger.label>degetul inelar (mâna stângă)</LeftHandRingFinger.label>
+  
+  <!-- UNUSED -->
+  <LeftHandThumb.label>Degetul mare (mâna stângă)</LeftHandThumb.label>
+  
+  <!-- UNUSED -->
+  <LeftHumerus.label>Umărul stâng</LeftHumerus.label>
+  
+  <!-- UNUSED -->
+  <LeftRadius.label>Radiusul stâng</LeftRadius.label>
+  
+  <!-- UNUSED -->
+  <LeftShoulder.label>umărul stang</LeftShoulder.label>
+  
+  <!-- UNUSED -->
   <LeftTibia.label>Tibia stângă</LeftTibia.label>
+  
+  <!-- EN: pelvis -->
+  <Pelvis.label>pelvis</Pelvis.label>
+  
+  <!-- EN: radius -->
+  <Radius.label>TODO</Radius.label>
+  
+  <!-- UNUSED -->
+  <RightArm.label>Brațul drept</RightArm.label>
+  
+  <!-- UNUSED -->
+  <RightClavicle.label>Clavicula dreaptă</RightClavicle.label>
+  
+  <!-- UNUSED -->
+  <RightFemur.label>Femurul drept</RightFemur.label>
+  
+  <!-- UNUSED -->
+  <RightFootBigToe.label>Degetul mare (piciorul drept)</RightFootBigToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootFourthToe.label>Al patrulea deget (piciorul drept)</RightFootFourthToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootLittleToe.label>Degetul mic (piciorul drept)</RightFootLittleToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootMiddleToe.label>Degetul din mijloc (piciorul drept)</RightFootMiddleToe.label>
+  
+  <!-- UNUSED -->
+  <RightFootSecondToe.label>Al doilea deget (piciorul drept)</RightFootSecondToe.label>
+  
+  <!-- UNUSED -->
+  <RightHand.label>Mâna dreaptă</RightHand.label>
+  
+  <!-- UNUSED -->
+  <RightHandIndexFinger.label>Degetul arătător (mâna dreaptă)</RightHandIndexFinger.label>
+  
+  <!-- UNUSED -->
+  <RightHandMiddleFinger.label>Degetul mijlociu (mâna dreaptă)</RightHandMiddleFinger.label>
+  
+  <!-- UNUSED -->
+  <RightHandPinky.label>Degetul mic (mâna dreaptă)</RightHandPinky.label>
+  
+  <!-- UNUSED -->
+  <RightHandRingFinger.label>Degetul inelar (mâna dreaptă)</RightHandRingFinger.label>
+  
+  <!-- UNUSED -->
+  <RightHandThumb.label>Degetul mare (mâna dreaptă)</RightHandThumb.label>
+  
+  <!-- UNUSED -->
+  <RightHumerus.label>Umărul drept</RightHumerus.label>
+  
+  <!-- UNUSED -->
+  <RightRadius.label>Radiusul dreapt</RightRadius.label>
+  
+  <!-- UNUSED -->
+  <RightShoulder.label>Umărul drept</RightShoulder.label>
+  
+  <!-- UNUSED -->
   <RightTibia.label>Tibia dreaptă</RightTibia.label>
-
-
+  
+  <!-- EN: shoulder -->
+  <Shoulder.label>TODO</Shoulder.label>
+  
+  <!-- EN: sternum -->
+  <Sternum.label>Stern</Sternum.label>
+  
+  <!-- EN: tibia -->
+  <Tibia.label>TODO</Tibia.label>
+  
+  <!-- EN: toe -->
+  <Toe.label>TODO</Toe.label>
+  
+  <!-- EN: torso -->
+  <Torso.label>piept</Torso.label>
+  
+  <!-- EN: utility slot -->
+  <Waist.label>TODO</Waist.label>
+  
 </LanguageData>

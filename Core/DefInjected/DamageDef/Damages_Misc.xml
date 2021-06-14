@@ -1,20 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	
-	<Deterioration.label>Deteriorare</Deterioration.label>
-	
-	<Mining.label>Exploatare</Mining.label>
-	
-	<Rotting.label>Putrezește</Rotting.label>
-	
-	<Extinguish.label>Stinge</Extinguish.label>
-	
-  <!-- Stun -->
   
-	<Stun.label>Anesteziat</Stun.label>
-	<Stun.deathMessage>{0} a murit în urma anestezierii.</Stun.deathMessage>
-	
-	<EMP.label>EMP</EMP.label>
-	<EMP.deathMessage>{0} a fost ucis de un dispozitiv EMP.</EMP.deathMessage>
-	
+  <!-- EN: bomb -->
+  <Bomb.label>TODO</Bomb.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <Bomb.deathMessage>TODO</Bomb.deathMessage>
+  
+  <!-- EN: bomb -->
+  <BombSuper.label>TODO</BombSuper.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombSuper.deathMessage>TODO</BombSuper.deathMessage>
+  
+  <!-- EN: deterioration -->
+  <Deterioration.label>Deteriorare</Deterioration.label>
+  <!-- EN: {0} has been killed. -->
+  <Deterioration.deathMessage>TODO</Deterioration.deathMessage>
+  
+  <!-- EN: extinguish -->
+  <Extinguish.label>Stinge</Extinguish.label>
+  <!-- EN: {0} has been killed. -->
+  <Extinguish.deathMessage>TODO</Extinguish.deathMessage>
+  
+  <!-- EN: mining -->
+  <Mining.label>Exploatare</Mining.label>
+  <!-- EN: {0} has been killed. -->
+  <Mining.deathMessage>TODO</Mining.deathMessage>
+  
+  <!-- EN: rotting -->
+  <Rotting.label>Putrezește</Rotting.label>
+  <!-- EN: {0} has been killed. -->
+  <Rotting.deathMessage>TODO</Rotting.deathMessage>
+  
+  <!-- EN: smoke -->
+  <Smoke.label>TODO</Smoke.label>
+  <!-- EN: {0} has been killed. -->
+  <Smoke.deathMessage>TODO</Smoke.deathMessage>
+  
 </LanguageData>

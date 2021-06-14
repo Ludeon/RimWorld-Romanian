@@ -1,78 +1,233 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- torso for animals -->
-
-  <Body.label>corp</Body.label>
+  
+  <!-- EN: jaw -->
+  <AnimalJaw.label>TODO</AnimalJaw.label>
+  
+  <!-- EN: antenna -->
+  <Antenna.label>TODO</Antenna.label>
+  
+  <!-- EN: beak -->
   <Beak.label>cioc</Beak.label>
-  <InsectHead.label>Cap de insectă</InsectHead.label>
-  <SnakeBody.label>Corpul șarpelui</SnakeBody.label>
-  <SnakeHead.label>Cap de șarpe</SnakeHead.label>
-  <SnakeMouth.label>Gură de șarpe</SnakeMouth.label>
-  <InsectHeart.label>Inima insectei</InsectHeart.label>
-  <InsectNostril.label>Nara insectei</InsectNostril.label>
-  <InsectMouth.label>Gura insectei</InsectMouth.label>
-  <Jowl.label>Obraz</Jowl.label>
-  <Tail.label>Coadă</Tail.label>
-  <LeftAntenna.label>Antena stângă</LeftAntenna.label>
-  <RightAntenna.label>Antena dreaptă</RightAntenna.label>
-  <Pronotum.label>pronotum</Pronotum.label>
-  <Shell.label>Carapace</Shell.label>
-  <LeftElytra.label>Aripa stângă</LeftElytra.label>
-  <RightElytra.label>Aripa dreaptă</RightElytra.label>
-  <LeftTusk.label>Colțul stâng</LeftTusk.label>
-  <RightTusk.label>Colțul drept</RightTusk.label>
-  <Trunk.label>Trompă</Trunk.label>
-  <Horn.label>Corn</Horn.label>
-  <HeadClaw.label>cap gheară</HeadClaw.label>
-  <Hump.label>Cocoașă</Hump.label>
-  <TurtleShell.label>carapace de broască</TurtleShell.label>
-  <Plastron.label>plastron</Plastron.label>
-  <TurtleBeak.label>cioc</TurtleBeak.label>
-
-
-  <!-- animals legs -->
-
-  <FrontLeftLeg.label>Piciorul stâng din față</FrontLeftLeg.label>
-  <FrontRightLeg.label>Piciorul drept din față</FrontRightLeg.label>
-  <MiddleLeftLeg.label>Piciorul stâng din mijloc</MiddleLeftLeg.label>
-  <MiddleRightLeg.label>Piciorul drept din mijloc</MiddleRightLeg.label>
-  <RearLeftLeg.label>Piciorul stâng din spate</RearLeftLeg.label>
-  <RearRightLeg.label>Piciorul drept din spate</RearRightLeg.label>
-  <FrontLeftInsectLeg.label>Piciorul stâng din față</FrontLeftInsectLeg.label>
-  <FrontRightInsectLeg.label>Piciorul drept din față</FrontRightInsectLeg.label>
-  <MiddleLeftInsectLeg.label>Piciorul stâng din mijloc</MiddleLeftInsectLeg.label>
-  <MiddleRightInsectLeg.label>Piciorul drept din mijloc</MiddleRightInsectLeg.label>
-  <RearLeftInsectLeg.label>Piciorul stâng din spate</RearLeftInsectLeg.label>
-  <RearRightInsectLeg.label>Piciorul drept din spate</RearRightInsectLeg.label>
-  <FrontLeftPaw.label>Laba stângă din față</FrontLeftPaw.label>
-  <FrontRightPaw.label>Laba dreaptă din față</FrontRightPaw.label>
-  <RearLeftPaw.label>Laba stângă din spate</RearLeftPaw.label>
-  <RearRightPaw.label>Laba dreaptă din spate</RearRightPaw.label>
+  
+  <!-- EN: body -->
+  <Body.label>corp</Body.label>
+  
+  <!-- EN: elytra -->
+  <Elytra.label>TODO</Elytra.label>
+  
+  <!-- EN: front claw -->
+  <FrontClaw.label>TODO</FrontClaw.label>
+  <!-- EN: claw -->
+  <FrontClaw.labelShort>TODO</FrontClaw.labelShort>
+  
+  <!-- UNUSED -->
   <FrontLeftHoof.label>Copita stângă din față</FrontLeftHoof.label>
-  <FrontRightHoof.label>Copita dreaptă din față</FrontRightHoof.label>
-  <RearLeftHoof.label>Copita stângă din spate</RearLeftHoof.label>
-  <RearRightHoof.label>Copita dreaptă din spate</RearRightHoof.label>
-  <FrontLeftLegFirstClaw.label>Piciorul stâng din față, prima gheară</FrontLeftLegFirstClaw.label>
-  <FrontLeftLegSecondClaw.label>Piciorul stâng din față, a doua gheară</FrontLeftLegSecondClaw.label>
-  <FrontLeftLegThirdClaw.label>Piciorul stâng din față, a treia gheară</FrontLeftLegThirdClaw.label>
-  <FrontLeftLegFourthClaw.label>Piciorul stâng din față, a patra gheară</FrontLeftLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftInsectLeg.label>Piciorul stâng din față</FrontLeftInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLeg.label>Piciorul stâng din față</FrontLeftLeg.label>
+  
+  <!-- UNUSED -->
   <FrontLeftLegFifthClaw.label>Piciorul stâng din față, a cincia gheară</FrontLeftLegFifthClaw.label>
-  <FrontRightLegFirstClaw.label>Piciorul drept din față, prima gheară</FrontRightLegFirstClaw.label>
-  <FrontRightLegSecondClaw.label>Piciorul drept din față, a doua gheară</FrontRightLegSecondClaw.label>
-  <FrontRightLegThirdClaw.label>Piciorul drept din față, a treia gheară</FrontRightLegThirdClaw.label>
-  <FrontRightLegFourthClaw.label>Piciorul drept din față, a patra gheară</FrontRightLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegFirstClaw.label>Piciorul stâng din față, prima gheară</FrontLeftLegFirstClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegFourthClaw.label>Piciorul stâng din față, a patra gheară</FrontLeftLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegSecondClaw.label>Piciorul stâng din față, a doua gheară</FrontLeftLegSecondClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftLegThirdClaw.label>Piciorul stâng din față, a treia gheară</FrontLeftLegThirdClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontLeftPaw.label>Laba stângă din față</FrontLeftPaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightHoof.label>Copita dreaptă din față</FrontRightHoof.label>
+  
+  <!-- UNUSED -->
+  <FrontRightInsectLeg.label>Piciorul drept din față</FrontRightInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLeg.label>Piciorul drept din față</FrontRightLeg.label>
+  
+  <!-- UNUSED -->
   <FrontRightLegFifthClaw.label>Piciorul drept din față, a cincia gheară</FrontRightLegFifthClaw.label>
-  <RearLeftLegFirstClaw.label>Piciorul stâng din spate, prima gheară</RearLeftLegFirstClaw.label>
-  <RearLeftLegSecondClaw.label>Piciorul stâng din spate, a doua gheară</RearLeftLegSecondClaw.label>
-  <RearLeftLegThirdClaw.label>Piciorul stâng din spate, a treia gheară</RearLeftLegThirdClaw.label>
-  <RearLeftLegFourthClaw.label>Piciorul stâng din spate, a patra gheară</RearLeftLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegFirstClaw.label>Piciorul drept din față, prima gheară</FrontRightLegFirstClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegFourthClaw.label>Piciorul drept din față, a patra gheară</FrontRightLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegSecondClaw.label>Piciorul drept din față, a doua gheară</FrontRightLegSecondClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightLegThirdClaw.label>Piciorul drept din față, a treia gheară</FrontRightLegThirdClaw.label>
+  
+  <!-- UNUSED -->
+  <FrontRightPaw.label>Laba dreaptă din față</FrontRightPaw.label>
+  
+  <!-- EN: head claw -->
+  <HeadClaw.label>cap gheară</HeadClaw.label>
+  
+  <!-- EN: hoof -->
+  <Hoof.label>TODO</Hoof.label>
+  
+  <!-- EN: horn -->
+  <Horn.label>Corn</Horn.label>
+  
+  <!-- EN: hump -->
+  <Hump.label>Cocoașă</Hump.label>
+  
+  <!-- EN: head -->
+  <InsectHead.label>Cap de insectă</InsectHead.label>
+  
+  <!-- EN: heart -->
+  <InsectHeart.label>Inima insectei</InsectHeart.label>
+  
+  <!-- EN: leg -->
+  <InsectLeg.label>TODO</InsectLeg.label>
+  
+  <!-- EN: mouth -->
+  <InsectMouth.label>Gura insectei</InsectMouth.label>
+  
+  <!-- EN: nostril -->
+  <InsectNostril.label>Nara insectei</InsectNostril.label>
+  
+  <!-- EN: jowl -->
+  <Jowl.label>Obraz</Jowl.label>
+  
+  <!-- UNUSED -->
+  <LeftAntenna.label>Antena stângă</LeftAntenna.label>
+  
+  <!-- UNUSED -->
+  <LeftElytra.label>Aripa stângă</LeftElytra.label>
+  
+  <!-- UNUSED -->
+  <LeftTusk.label>Colțul stâng</LeftTusk.label>
+  
+  <!-- UNUSED -->
+  <MiddleLeftInsectLeg.label>Piciorul stâng din mijloc</MiddleLeftInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <MiddleLeftLeg.label>Piciorul stâng din mijloc</MiddleLeftLeg.label>
+  
+  <!-- UNUSED -->
+  <MiddleRightInsectLeg.label>Piciorul drept din mijloc</MiddleRightInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <MiddleRightLeg.label>Piciorul drept din mijloc</MiddleRightLeg.label>
+  
+  <!-- EN: paw -->
+  <Paw.label>TODO</Paw.label>
+  
+  <!-- EN: plastron -->
+  <Plastron.label>plastron</Plastron.label>
+  
+  <!-- EN: pronotum -->
+  <Pronotum.label>pronotum</Pronotum.label>
+  
+  <!-- EN: rear claw -->
+  <RearClaw.label>TODO</RearClaw.label>
+  <!-- EN: claw -->
+  <RearClaw.labelShort>TODO</RearClaw.labelShort>
+  
+  <!-- UNUSED -->
+  <RearLeftHoof.label>Copita stângă din spate</RearLeftHoof.label>
+  
+  <!-- UNUSED -->
+  <RearLeftInsectLeg.label>Piciorul stâng din spate</RearLeftInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLeg.label>Piciorul stâng din spate</RearLeftLeg.label>
+  
+  <!-- UNUSED -->
   <RearLeftLegFifthClaw.label>Piciorul stâng din spate, a cincia gheară</RearLeftLegFifthClaw.label>
-  <RearRightLegFirstClaw.label>Piciorul drept din spate, prima gheară</RearRightLegFirstClaw.label>
-  <RearRightLegSecondClaw.label>Piciorul drept din spate, a doua gheară</RearRightLegSecondClaw.label>
-  <RearRightLegThirdClaw.label>Piciorul drept din spate, a treia gheară</RearRightLegThirdClaw.label>
-  <RearRightLegFourthClaw.label>Piciorul drept din spate, a patra gheară</RearRightLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegFirstClaw.label>Piciorul stâng din spate, prima gheară</RearLeftLegFirstClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegFourthClaw.label>Piciorul stâng din spate, a patra gheară</RearLeftLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegSecondClaw.label>Piciorul stâng din spate, a doua gheară</RearLeftLegSecondClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftLegThirdClaw.label>Piciorul stâng din spate, a treia gheară</RearLeftLegThirdClaw.label>
+  
+  <!-- UNUSED -->
+  <RearLeftPaw.label>Laba stângă din spate</RearLeftPaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightHoof.label>Copita dreaptă din spate</RearRightHoof.label>
+  
+  <!-- UNUSED -->
+  <RearRightInsectLeg.label>Piciorul drept din spate</RearRightInsectLeg.label>
+  
+  <!-- UNUSED -->
+  <RearRightLeg.label>Piciorul drept din spate</RearRightLeg.label>
+  
+  <!-- UNUSED -->
   <RearRightLegFifthClaw.label>Piciorul drept din spate, a cincia gheară</RearRightLegFifthClaw.label>
-
-
+  
+  <!-- UNUSED -->
+  <RearRightLegFirstClaw.label>Piciorul drept din spate, prima gheară</RearRightLegFirstClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightLegFourthClaw.label>Piciorul drept din spate, a patra gheară</RearRightLegFourthClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightLegSecondClaw.label>Piciorul drept din spate, a doua gheară</RearRightLegSecondClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightLegThirdClaw.label>Piciorul drept din spate, a treia gheară</RearRightLegThirdClaw.label>
+  
+  <!-- UNUSED -->
+  <RearRightPaw.label>Laba dreaptă din spate</RearRightPaw.label>
+  
+  <!-- UNUSED -->
+  <RightAntenna.label>Antena dreaptă</RightAntenna.label>
+  
+  <!-- UNUSED -->
+  <RightElytra.label>Aripa dreaptă</RightElytra.label>
+  
+  <!-- UNUSED -->
+  <RightTusk.label>Colțul drept</RightTusk.label>
+  
+  <!-- EN: shell -->
+  <Shell.label>Carapace</Shell.label>
+  
+  <!-- EN: body -->
+  <SnakeBody.label>Corpul șarpelui</SnakeBody.label>
+  
+  <!-- EN: head -->
+  <SnakeHead.label>Cap de șarpe</SnakeHead.label>
+  
+  <!-- EN: mouth -->
+  <SnakeMouth.label>Gură de șarpe</SnakeMouth.label>
+  
+  <!-- EN: tail -->
+  <Tail.label>Coadă</Tail.label>
+  
+  <!-- EN: trunk -->
+  <Trunk.label>Trompă</Trunk.label>
+  
+  <!-- EN: beak -->
+  <TurtleBeak.label>cioc</TurtleBeak.label>
+  
+  <!-- EN: shell -->
+  <TurtleShell.label>carapace de broască</TurtleShell.label>
+  
+  <!-- EN: tusk -->
+  <Tusk.label>TODO</Tusk.label>
+  
 </LanguageData>

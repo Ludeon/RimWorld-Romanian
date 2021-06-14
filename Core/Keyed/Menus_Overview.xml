@@ -1,51 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-
-  <!-- Tab titles -->
+  <!-- UNUSED -->
   <WorkTab>Muncă</WorkTab>
   <FactionsTab>Facțiuni</FactionsTab>
   <StatisticsTab>Statistici</StatisticsTab>
   <HistoryTab>Istoric</HistoryTab>
   <WorldTab>Lume</WorldTab>
-
-  <!-- Work tab -->
-  <ManualPriorities>Priorități manuale</ManualPriorities>
-  <HigherPriority>Prioritate mare</HigherPriority>
-  <LowerPriority>Prioritate mică</LowerPriority>
-  <RelevantSkills>Abilități relevante: {0}\nMedia abilităților relevante: {1} / {2}</RelevantSkills>
-  <ClickToJumpTo>Click pentru a afișa:</ClickToJumpTo>
-  <CannotDoThisWork>{0} nu poate face asta.</CannotDoThisWork>
-  <NoneBrackets>(nimic)</NoneBrackets>
-
-  
-  <!-- Factions tab -->
-  <Hostile>Ostil</Hostile>
-  <HostileTo>Inamic al {0}</HostileTo>
   <CurrentGoodwill>Relația curentă față de această facțiune.</CurrentGoodwill>
-
-  
-  <!-- Statistics tab -->
-  <Storyteller>Povestitor</Storyteller>
   <ColonyWealthTotal>Avuția coloniei</ColonyWealthTotal>
   <ColonyWealthItems>Avuția coloniei (obiecte)</ColonyWealthItems>
   <ColonyWealthBuildings>Avuția coloniei (clădiri)</ColonyWealthBuildings>
-  <NumThreatBigs>Amenințări majore</NumThreatBigs>
-  <NumEnemyRaids>Atacuri inamice</NumEnemyRaids>
   <DamageTaken>Daune suferite</DamageTaken>
-  <ColonistsKilled>Coloniști decedați</ColonistsKilled>
-  <ColonistsLaunched>Coloniști lansați în spațiu</ColonistsLaunched>
-
-
-  <!-- History tab -->
-  <SelectGraph>Selectează grafic</SelectGraph>
-  <Last30Days>Ultimele 30 de zile</Last30Days>
-  <Last100Days>Ultimele 100 de zile</Last100Days>
-  <Last300Days>Ultimele 300 de zile</Last300Days>
-  <AllDays>Tot</AllDays>
-  <Day>Zi</Day>
-  <Value>Valoare</Value>
-  <External>Extern</External>
-  
   
 </LanguageData>

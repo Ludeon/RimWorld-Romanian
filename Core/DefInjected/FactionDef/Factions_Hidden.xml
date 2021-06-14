@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: neutral ancients -->
+  <Ancients.label>Astronaut</Ancients.label>
+  <Ancients.description>Oamenii din spațiu</Ancients.description>
+  <!-- EN: Ancients -->
+  <Ancients.fixedName>TODO</Ancients.fixedName>
+  <!-- EN: ancient -->
+  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <!-- EN: ancients -->
+  <Ancients.pawnsPlural>Astronauți</Ancients.pawnsPlural>
+  
+  <!-- EN: hostile ancients -->
+  <AncientsHostile.label>Adversar din spațiu</AncientsHostile.label>
+  <AncientsHostile.description>Adversarii din spațiu.</AncientsHostile.description>
+  <!-- EN: Ancients -->
+  <AncientsHostile.fixedName>TODO</AncientsHostile.fixedName>
+  <!-- EN: ancient -->
+  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <!-- EN: ancients -->
+  <AncientsHostile.pawnsPlural>Adversarii din spațiu</AncientsHostile.pawnsPlural>
+  
+  <!-- EN: insects -->
+  <Insect.label>TODO</Insect.label>
+  <!-- EN: Sorne Geneline -->
+  <Insect.fixedName>TODO</Insect.fixedName>
+  <!-- EN: insect -->
+  <Insect.pawnSingular>TODO</Insect.pawnSingular>
+  <!-- EN: insects -->
+  <Insect.pawnsPlural>TODO</Insect.pawnsPlural>
+  
+  <!-- EN: mechanoid hive -->
+  <Mechanoid.label>TODO</Mechanoid.label>
+  <!-- EN: mechanoid -->
+  <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
+  <!-- EN: mechanoids -->
+  <Mechanoid.pawnsPlural>TODO</Mechanoid.pawnsPlural>
+  
+</LanguageData>
