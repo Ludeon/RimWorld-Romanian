@@ -30,7 +30,7 @@ The following table is generated from a python script.
 |    10|  0.00|Core\DefInjected\BillStoreModeDef                                          |
 |   144| 58.33|Core\DefInjected\BiomeDef\Biomes_Cold.xml                                  |
 |   102|100.00|Core\DefInjected\BiomeDef\Biomes_WarmArid.xml                              |
-|   409| 64.30|Core\DefInjected\BiomeDef                                                  |
+|   404| 64.36|Core\DefInjected\BiomeDef                                                  |
 |   570|  3.16|Core\DefInjected\BodyDef\Bodies_Animal_Quadruped.xml                       |
 |   113|  0.88|Core\DefInjected\BodyDef\Bodies_Humanlike.xml                              |
 |   162|  1.85|Core\DefInjected\BodyDef\Bodies_Mechanoid.xml                              |
@@ -265,8 +265,8 @@ The following table is generated from a python script.
 |   287| 83.62|Core\DefInjected\WorkTypeDef\WorkTypes.xml                                 |
 |   287| 83.62|Core\DefInjected\WorkTypeDef                                               |
 |    68|  0.00|Core\DefInjected\WorldObjectDef                                            |
-| 59081|  1.93|Core\DefInjected                                                           |
-|  1411| 43.16|Core\Keyed\Alerts.xml                                                      |
+| 59076|  1.92|Core\DefInjected                                                           |
+|  1377|100.00|Core\Keyed\Alerts.xml                                                      |
 |   690| 45.07|Core\Keyed\Designators.xml                                                 |
 |  3490| 12.89|Core\Keyed\Dialogs_Various.xml                                             |
 |  1598|  1.63|Core\Keyed\Dialog_StatsReports.xml                                         |
@@ -285,8 +285,8 @@ The following table is generated from a python script.
 |  2579| 16.67|Core\Keyed\Misc_Gameplay.xml                                               |
 |   127|  0.00|Core\Keyed\ScenParts.xml                                                   |
 |   102|  0.00|Core\Keyed\WITabs.xml                                                      |
-| 22406| 18.27|Core\Keyed                                                                 |
-|113049|  4.63|Core                                                                       |
+| 22372| 21.73|Core\Keyed                                                                 |
+|113010|  5.31|Core                                                                       |
 |   919|  0.00|Royalty\DefInjected\AbilityDef\Abilities.xml                               |
 |   919|  0.00|Royalty\DefInjected\AbilityDef                                             |
 |    74|  0.00|Royalty\DefInjected\ConceptDef                                             |
@@ -382,4 +382,4 @@ The following table is generated from a python script.
 |   517|  0.00|Royalty\Keyed\Misc_Gameplay.xml                                            |
 |  2985|  0.00|Royalty\Keyed                                                              |
 | 21255|  0.00|Royalty                                                                    |
-|134304|  3.90|.                                                                          |
+|134265|  4.47|.                                                                          |
