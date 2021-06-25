@@ -28,9 +28,9 @@ The following table is generated from a python script. XML files with fewer than
 |     5|  0.00|Core\DefInjected\ApparelLayerDef                                           |
 |    10|  0.00|Core\DefInjected\BillRepeatModeDef                                         |
 |    10|  0.00|Core\DefInjected\BillStoreModeDef                                          |
-|   144| 58.33|Core\DefInjected\BiomeDef\Biomes_Cold.xml                                  |
+|   144|100.00|Core\DefInjected\BiomeDef\Biomes_Cold.xml                                  |
 |   102|100.00|Core\DefInjected\BiomeDef\Biomes_WarmArid.xml                              |
-|   404| 64.36|Core\DefInjected\BiomeDef                                                  |
+|   404|100.00|Core\DefInjected\BiomeDef                                                  |
 |   570|  3.16|Core\DefInjected\BodyDef\Bodies_Animal_Quadruped.xml                       |
 |   113|  0.88|Core\DefInjected\BodyDef\Bodies_Humanlike.xml                              |
 |   162|  1.85|Core\DefInjected\BodyDef\Bodies_Mechanoid.xml                              |
@@ -42,7 +42,7 @@ The following table is generated from a python script. XML files with fewer than
 |  1280|  0.00|Core\DefInjected\ConceptDef\Concepts_NotedSelfshow.xml                     |
 |   197| 46.70|Core\DefInjected\ConceptDef\Concepts_TriggeredModal.xml                    |
 |  2121|  5.23|Core\DefInjected\ConceptDef                                                |
-|   197| 11.17|Core\DefInjected\DamageDef                                                 |
+|   193|  9.33|Core\DefInjected\DamageDef                                                 |
 |    12|  0.00|Core\DefInjected\DesignationCategoryDef                                    |
 |    11|  0.00|Core\DefInjected\DesignatorDropdownGroupDef                                |
 |   298| 32.21|Core\DefInjected\DifficultyDef\Difficulties.xml                            |
@@ -52,7 +52,7 @@ The following table is generated from a python script. XML files with fewer than
 |   214|  0.00|Core\DefInjected\ExpansionDef                                              |
 |    11|  0.00|Core\DefInjected\ExpectationDef                                            |
 |   484|  0.00|Core\DefInjected\FactionDef\Factions_Misc.xml                              |
-|   526|  2.47|Core\DefInjected\FactionDef                                                |
+|   523|  1.91|Core\DefInjected\FactionDef                                                |
 |   718|  0.00|Core\DefInjected\GameConditionDef\GameConditions_Misc.xml                  |
 |   741|  0.00|Core\DefInjected\GameConditionDef                                          |
 |    34|  0.00|Core\DefInjected\GatheringDef                                              |
@@ -265,7 +265,7 @@ The following table is generated from a python script. XML files with fewer than
 |   287| 83.62|Core\DefInjected\WorkTypeDef\WorkTypes.xml                                 |
 |   287| 83.62|Core\DefInjected\WorkTypeDef                                               |
 |    68|  0.00|Core\DefInjected\WorldObjectDef                                            |
-| 59076|  1.92|Core\DefInjected                                                           |
+| 59069|  2.16|Core\DefInjected                                                           |
 |  1377|100.00|Core\Keyed\Alerts.xml                                                      |
 |   690| 45.07|Core\Keyed\Designators.xml                                                 |
 |  3490| 12.89|Core\Keyed\Dialogs_Various.xml                                             |
@@ -285,8 +285,8 @@ The following table is generated from a python script. XML files with fewer than
 |  2579| 16.67|Core\Keyed\Misc_Gameplay.xml                                               |
 |   127|  0.00|Core\Keyed\ScenParts.xml                                                   |
 |   102|  0.00|Core\Keyed\WITabs.xml                                                      |
-| 22372| 22.07|Core\Keyed                                                                 |
-|115182|  5.95|Core                                                                       |
+| 22342| 21.96|Core\Keyed                                                                 |
+|115145|  6.05|Core                                                                       |
 |   919|  0.00|Royalty\DefInjected\AbilityDef\Abilities.xml                               |
 |   919|  0.00|Royalty\DefInjected\AbilityDef                                             |
 |    74|  0.00|Royalty\DefInjected\ConceptDef                                             |
@@ -382,4 +382,4 @@ The following table is generated from a python script. XML files with fewer than
 |   517|  0.00|Royalty\Keyed\Misc_Gameplay.xml                                            |
 |  2985|  0.00|Royalty\Keyed                                                              |
 | 21255|  0.00|Royalty                                                                    |
-|136437|  5.02|.                                                                          |
+|136400|  5.10|.                                                                          |

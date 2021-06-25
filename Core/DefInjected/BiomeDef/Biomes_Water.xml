@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: lake -->
-  <Lake.label>TODO</Lake.label>
+  <Lake.label>lac</Lake.label>
   <!-- EN: A large lake. Beautiful to live next to. Not so beautiful to live in. -->
-  <Lake.description>TODO</Lake.description>
+  <Lake.description>Un lac larg. Plăcut de a trăi lângă el. Nu foarte plăcut de a trăi în el.</Lake.description>
   
   <!-- EN: ocean -->
-  <Ocean.label>Ocean</Ocean.label>
+  <Ocean.label>ocean</Ocean.label>
   <!-- EN: Open ocean. Great for fish. Not so great for you. -->
-  <Ocean.description>Un ocean mare.Foarte bun pentru pești, mai degrabă pentru tine.</Ocean.description>
+  <Ocean.description>Un ocean. Ideal pentru pești. Nu prea util pentru tine.</Ocean.description>
   
 </LanguageData>
