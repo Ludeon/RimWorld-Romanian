@@ -58,6 +58,8 @@ class TElement(ET.Element):
         return stats
 
 def count_words(s: str) -> int:
+    if s is None:
+        return 0
     words = s.strip().removeprefix("EN: ").split(" ")
     words = list(filter(lambda x: x != "", words))
     return len(words)

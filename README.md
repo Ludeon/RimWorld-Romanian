@@ -19,12 +19,12 @@ General Notes
 
 Progress overview
 --------------------------------------
-The following table is generated from a python script.
+The following table is generated from a python script. XML files with fewer than 100 words are hidden.
 
 |EN_words|%done|Path|
 |-:|-:|:-|
-| 31562|  0.00|Core\Backstories\Backstories.xml                                           |
-| 31562|  0.00|Core\Backstories                                                           |
+| 33734|  2.31|Core\Backstories\Backstories.xml                                           |
+| 33734|  2.31|Core\Backstories                                                           |
 |     5|  0.00|Core\DefInjected\ApparelLayerDef                                           |
 |    10|  0.00|Core\DefInjected\BillRepeatModeDef                                         |
 |    10|  0.00|Core\DefInjected\BillStoreModeDef                                          |
@@ -285,8 +285,8 @@ The following table is generated from a python script.
 |  2579| 16.67|Core\Keyed\Misc_Gameplay.xml                                               |
 |   127|  0.00|Core\Keyed\ScenParts.xml                                                   |
 |   102|  0.00|Core\Keyed\WITabs.xml                                                      |
-| 22372| 21.73|Core\Keyed                                                                 |
-|113010|  5.31|Core                                                                       |
+| 22372| 22.07|Core\Keyed                                                                 |
+|115182|  5.95|Core                                                                       |
 |   919|  0.00|Royalty\DefInjected\AbilityDef\Abilities.xml                               |
 |   919|  0.00|Royalty\DefInjected\AbilityDef                                             |
 |    74|  0.00|Royalty\DefInjected\ConceptDef                                             |
@@ -382,4 +382,4 @@ The following table is generated from a python script.
 |   517|  0.00|Royalty\Keyed\Misc_Gameplay.xml                                            |
 |  2985|  0.00|Royalty\Keyed                                                              |
 | 21255|  0.00|Royalty                                                                    |
-|134265|  4.47|.                                                                          |
+|136437|  5.02|.                                                                          |
