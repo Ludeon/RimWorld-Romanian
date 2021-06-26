@@ -16,6 +16,7 @@ General Notes
 - XML entries containing the `TODO` string are ignored by the game (the English default will be shown instead).
 - XML entries having the comment `<!-- UNUSED -->` above are outdated translations from a previous version of the game, kept as a reference. They should be integrated in the newer tags, or outright deleted altogether.
 - Romanian has gendered nouns. Some tags admit a female version (e.g. `<title>` and `<titleFemale>` in `Backstories.xml`). Cross-check the [French translation](https://github.com/Ludeon/RimWorld-fr) for inspiration.
+- [DeepL](https://www.deepl.com/translator) is a great tool to speed up the translation, especially for long bodies of text.
 
 Progress overview
 --------------------------------------

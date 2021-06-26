@@ -5,25 +5,13 @@
   <Heart.label>inimă</Heart.label>
   
   <!-- EN: kidney -->
-  <Kidney.label>TODO</Kidney.label>
-  
-  <!-- UNUSED -->
-  <LeftKidney.label>rinichiul stâng</LeftKidney.label>
-  
-  <!-- UNUSED -->
-  <LeftLung.label>plămânul stâng</LeftLung.label>
+  <Kidney.label>rinichi</Kidney.label>
   
   <!-- EN: liver -->
   <Liver.label>ficat</Liver.label>
   
   <!-- EN: lung -->
-  <Lung.label>TODO</Lung.label>
-  
-  <!-- UNUSED -->
-  <RightKidney.label>rinichiul drept</RightKidney.label>
-  
-  <!-- UNUSED -->
-  <RightLung.label>plămânul drept</RightLung.label>
+  <Lung.label>plămân</Lung.label>
   
   <!-- EN: stomach -->
   <Stomach.label>stomac</Stomach.label>

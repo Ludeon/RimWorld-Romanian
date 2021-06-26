@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: bomb -->
-  <Bomb.label>TODO</Bomb.label>
+  <Bomb.label>bombă</Bomb.label>
   <!-- EN: {0} has died in an explosion. -->
-  <Bomb.deathMessage>TODO</Bomb.deathMessage>
+  <Bomb.deathMessage>{0} a murit într-o explozie</Bomb.deathMessage>
   
   <!-- EN: bomb -->
-  <BombSuper.label>TODO</BombSuper.label>
+  <BombSuper.label>bombă</BombSuper.label>
   <!-- EN: {0} has died in an explosion. -->
-  <BombSuper.deathMessage>TODO</BombSuper.deathMessage>
+  <BombSuper.deathMessage>{0} a fost spulberat de o explozie</BombSuper.deathMessage>
   
   <!-- EN: deterioration -->
-  <Deterioration.label>Deteriorare</Deterioration.label>
+  <Deterioration.label>deteriorare</Deterioration.label>
   <!-- EN: {0} has been killed. -->
-  <Deterioration.deathMessage>TODO</Deterioration.deathMessage>
+  <Deterioration.deathMessage>{0} a murit</Deterioration.deathMessage>
   
   <!-- EN: extinguish -->
-  <Extinguish.label>Stinge</Extinguish.label>
+  <Extinguish.label>stingere</Extinguish.label>
   <!-- EN: {0} has been killed. -->
-  <Extinguish.deathMessage>TODO</Extinguish.deathMessage>
+  <Extinguish.deathMessage>{0} a murit</Extinguish.deathMessage>
   
   <!-- EN: mining -->
-  <Mining.label>Exploatare</Mining.label>
+  <Mining.label>exploatare</Mining.label>
   <!-- EN: {0} has been killed. -->
-  <Mining.deathMessage>TODO</Mining.deathMessage>
+  <Mining.deathMessage>{0} a murit</Mining.deathMessage>
   
   <!-- EN: rotting -->
-  <Rotting.label>Putrezește</Rotting.label>
+  <Rotting.label>putrezire</Rotting.label>
   <!-- EN: {0} has been killed. -->
-  <Rotting.deathMessage>TODO</Rotting.deathMessage>
+  <Rotting.deathMessage>{0} a murit</Rotting.deathMessage>
   
   <!-- EN: smoke -->
-  <Smoke.label>TODO</Smoke.label>
+  <Smoke.label>fum</Smoke.label>
   <!-- EN: {0} has been killed. -->
-  <Smoke.deathMessage>TODO</Smoke.deathMessage>
+  <Smoke.deathMessage>{0} a murit</Smoke.deathMessage>
   
 </LanguageData>

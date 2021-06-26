@@ -5,153 +5,81 @@
   <ArtificialBrain.label>creier artificial</ArtificialBrain.label>
   
   <!-- EN: blade -->
-  <Blade.label>TODO</Blade.label>
+  <Blade.label>lamă</Blade.label>
   
   <!-- EN: fluid reprocessor -->
-  <FluidReprocessor.label>TODO</FluidReprocessor.label>
+  <FluidReprocessor.label>reprocesor de fluide</FluidReprocessor.label>
   
   <!-- EN: sound sensor -->
-  <HearingSensor.label>TODO</HearingSensor.label>
-  
-  <!-- UNUSED -->
-  <LeftBlade.label>lama stângă</LeftBlade.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalIndexFinger.label>Degetul arătător (mâna stângă)</LeftHandMechanicalIndexFinger.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalMiddleFinger.label>Degetul mijlociu (mâna stângă)</LeftHandMechanicalMiddleFinger.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalPinky.label>Degetul mic (mâna stângă)</LeftHandMechanicalPinky.label>
-  
-  <!-- UNUSED -->
-  <LeftHandMechanicalThumb.label>Degetul mare (mâna stângă)</LeftHandMechanicalThumb.label>
-  
-  <!-- UNUSED -->
-  <LeftHearingSensor.label>senzorul de auz stânga</LeftHearingSensor.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalArm.label>brațul stang</LeftMechanicalArm.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalFoot.label>Talpa bionică stângă</LeftMechanicalFoot.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalHand.label>mâna stanga</LeftMechanicalHand.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalLeg.label>Piciorul bionic stâng</LeftMechanicalLeg.label>
-  
-  <!-- UNUSED -->
-  <LeftMechanicalShoulder.label>urmărul stânga</LeftMechanicalShoulder.label>
-  
-  <!-- UNUSED -->
-  <LeftSightSensor.label>senzorul de vedere stânga</LeftSightSensor.label>
+  <HearingSensor.label>senzor de sunet</HearingSensor.label>
   
   <!-- EN: arm -->
-  <MechanicalArm.label>TODO</MechanicalArm.label>
+  <MechanicalArm.label>braț</MechanicalArm.label>
   
   <!-- EN: fifth body ring -->
-  <MechanicalCentipedeBodyFifthRing.label>Al cincilea inel de corp</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodyFifthRing.label>al cincilea inel corporal</MechanicalCentipedeBodyFifthRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFifthRing.labelShort>TODO</MechanicalCentipedeBodyFifthRing.labelShort>
+  <MechanicalCentipedeBodyFifthRing.labelShort>inel corporal</MechanicalCentipedeBodyFifthRing.labelShort>
   
   <!-- EN: first body ring -->
-  <MechanicalCentipedeBodyFirstRing.label>Primul inel de corp</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodyFirstRing.label>primul inel corporal</MechanicalCentipedeBodyFirstRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFirstRing.labelShort>TODO</MechanicalCentipedeBodyFirstRing.labelShort>
+  <MechanicalCentipedeBodyFirstRing.labelShort>inel corporal</MechanicalCentipedeBodyFirstRing.labelShort>
   
   <!-- EN: fourth body ring -->
-  <MechanicalCentipedeBodyFourthRing.label>Al patrulea inel de corp</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodyFourthRing.label>al patrulea inel corporal</MechanicalCentipedeBodyFourthRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyFourthRing.labelShort>TODO</MechanicalCentipedeBodyFourthRing.labelShort>
+  <MechanicalCentipedeBodyFourthRing.labelShort>inel corporal</MechanicalCentipedeBodyFourthRing.labelShort>
   
   <!-- EN: second body ring -->
-  <MechanicalCentipedeBodySecondRing.label>Al doilea inel de corp</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodySecondRing.label>al doilea inel corporal</MechanicalCentipedeBodySecondRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodySecondRing.labelShort>TODO</MechanicalCentipedeBodySecondRing.labelShort>
+  <MechanicalCentipedeBodySecondRing.labelShort>inel corporal</MechanicalCentipedeBodySecondRing.labelShort>
   
   <!-- EN: sixth body ring -->
-  <MechanicalCentipedeBodySixthRing.label>Al șaselea inel de corp</MechanicalCentipedeBodySixthRing.label>
+  <MechanicalCentipedeBodySixthRing.label>al șaselea inel corporal</MechanicalCentipedeBodySixthRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodySixthRing.labelShort>TODO</MechanicalCentipedeBodySixthRing.labelShort>
+  <MechanicalCentipedeBodySixthRing.labelShort>inel corporal</MechanicalCentipedeBodySixthRing.labelShort>
   
   <!-- EN: third body ring -->
-  <MechanicalCentipedeBodyThirdRing.label>Al treilea inel de corp</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalCentipedeBodyThirdRing.label>al treilea inel corporal</MechanicalCentipedeBodyThirdRing.label>
   <!-- EN: body ring -->
-  <MechanicalCentipedeBodyThirdRing.labelShort>TODO</MechanicalCentipedeBodyThirdRing.labelShort>
+  <MechanicalCentipedeBodyThirdRing.labelShort>inel corporal</MechanicalCentipedeBodyThirdRing.labelShort>
   
   <!-- EN: finger -->
-  <MechanicalFinger.label>TODO</MechanicalFinger.label>
+  <MechanicalFinger.label>deget</MechanicalFinger.label>
   
   <!-- EN: foot -->
-  <MechanicalFoot.label>TODO</MechanicalFoot.label>
+  <MechanicalFoot.label>talpă</MechanicalFoot.label>
   
   <!-- EN: hand -->
-  <MechanicalHand.label>TODO</MechanicalHand.label>
+  <MechanicalHand.label>mână</MechanicalHand.label>
   
   <!-- EN: head -->
-  <MechanicalHead.label>capul mecanic</MechanicalHead.label>
+  <MechanicalHead.label>cap</MechanicalHead.label>
   
   <!-- EN: leg -->
-  <MechanicalLeg.label>TODO</MechanicalLeg.label>
+  <MechanicalLeg.label>picior</MechanicalLeg.label>
   
   <!-- EN: neck -->
-  <MechanicalNeck.label>gât mecanic</MechanicalNeck.label>
+  <MechanicalNeck.label>gât</MechanicalNeck.label>
   
   <!-- EN: shoulder -->
-  <MechanicalShoulder.label>TODO</MechanicalShoulder.label>
+  <MechanicalShoulder.label>umăr</MechanicalShoulder.label>
   
   <!-- EN: thorax -->
   <MechanicalThorax.label>torace</MechanicalThorax.label>
   
   <!-- EN: thorax -->
-  <MechanicalThoraxCanManipulate.label>TODO</MechanicalThoraxCanManipulate.label>
+  <MechanicalThoraxCanManipulate.label>torace</MechanicalThoraxCanManipulate.label>
   
   <!-- EN: reactor -->
-  <Reactor.label>TODO</Reactor.label>
-  
-  <!-- UNUSED -->
-  <RightBlade.label>lama dreaptă</RightBlade.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalIndexFinger.label>Degetul arătător (mâna dreaptă)</RightHandMechanicalIndexFinger.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalMiddleFinger.label>Degetul mijlociul (mâna dreaptă)</RightHandMechanicalMiddleFinger.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalPinky.label>Degetul mic (mâna dreaptă)</RightHandMechanicalPinky.label>
-  
-  <!-- UNUSED -->
-  <RightHandMechanicalThumb.label>Degetul mare (mâna dreaptă)</RightHandMechanicalThumb.label>
-  
-  <!-- UNUSED -->
-  <RightHearingSensor.label>senzorul de auz dreapta</RightHearingSensor.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalArm.label>Brațul bionic drept</RightMechanicalArm.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalFoot.label>Talpa bionică dreptă</RightMechanicalFoot.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalHand.label>Mâna bionică dreaptă</RightMechanicalHand.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalLeg.label>Piciorul bionic drept</RightMechanicalLeg.label>
-  
-  <!-- UNUSED -->
-  <RightMechanicalShoulder.label>Umărul bionic drept</RightMechanicalShoulder.label>
-  
-  <!-- UNUSED -->
-  <RightSightSensor.label>senzorul de vedere dreapta</RightSightSensor.label>
+  <Reactor.label>reactor</Reactor.label>
   
   <!-- EN: visual sensor -->
-  <SightSensor.label>TODO</SightSensor.label>
+  <SightSensor.label>senzor visual</SightSensor.label>
   
   <!-- EN: chemical analyzer -->
-  <SmellSensor.label>senzorul de miros</SmellSensor.label>
+  <SmellSensor.label>analizator chimic</SmellSensor.label>
   
 </LanguageData>

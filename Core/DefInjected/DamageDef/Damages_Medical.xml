@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: execution cut -->
-  <ExecutionCut.label>TODO</ExecutionCut.label>
+  <ExecutionCut.label>tăietură executată</ExecutionCut.label>
   <!-- EN: {0} has been executed by cutting. -->
-  <ExecutionCut.deathMessage>TODO</ExecutionCut.deathMessage>
+  <ExecutionCut.deathMessage>{0} a fost executat prin tăiere</ExecutionCut.deathMessage>
   
   <!-- EN: surgical cut -->
-  <SurgicalCut.label>TODO</SurgicalCut.label>
+  <SurgicalCut.label>tăietură chirurgicală</SurgicalCut.label>
   <!-- EN: {0} has died during surgery. -->
-  <SurgicalCut.deathMessage>TODO</SurgicalCut.deathMessage>
+  <SurgicalCut.deathMessage>{0} a murit în timpul operației</SurgicalCut.deathMessage>
   
 </LanguageData>

@@ -2,121 +2,87 @@
 <LanguageData>
   
   <!-- EN: animals -->
-  <Animals.label>TODO</Animals.label>
+  <Animals.label>animale</Animals.label>
   <!-- EN: Taming, training, and controlling animals. -->
-  <Animals.description>TODO</Animals.description>
+  <Animals.description>Dresare, antrenare și controlarea animalelor.</Animals.description>
   <!-- EN: animals -->
-  <Animals.skillLabel>TODO</Animals.skillLabel>
+  <Animals.skillLabel>animale</Animals.skillLabel>
   
   <!-- EN: artistic -->
-  <Artistic.label>TODO</Artistic.label>
+  <Artistic.label>artistic</Artistic.label>
   <!-- EN: Crafting art. -->
-  <Artistic.description>TODO</Artistic.description>
+  <Artistic.description>Crearea artei.</Artistic.description>
   <!-- EN: artistic -->
-  <Artistic.skillLabel>Artist</Artistic.skillLabel>
-  
-  <!-- UNUSED -->
-  <Artistic.pawnLabel>Künstler</Artistic.pawnLabel>
+  <Artistic.skillLabel>artistic</Artistic.skillLabel>
   
   <!-- EN: construction -->
-  <Construction.label>TODO</Construction.label>
+  <Construction.label>construcție</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
-  <Construction.description>TODO</Construction.description>
+  <Construction.description>Construcția și deconstrucția structurilor și mobilei.</Construction.description>
   <!-- EN: construction -->
-  <Construction.skillLabel>Constructor</Construction.skillLabel>
-  
-  <!-- UNUSED -->
-  <Construction.pawnLabel>Constructor</Construction.pawnLabel>
+  <Construction.skillLabel>construcție</Construction.skillLabel>
   
   <!-- EN: cooking -->
-  <Cooking.label>TODO</Cooking.label>
+  <Cooking.label>gătire</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
-  <Cooking.description>TODO</Cooking.description>
+  <Cooking.description>Gătirea meselor din ingrediente crude rapid și fără intoxicări alimentare accidentale.</Cooking.description>
   <!-- EN: cooking -->
-  <Cooking.skillLabel>Bucătar</Cooking.skillLabel>
-  
-  <!-- UNUSED -->
-  <Cooking.pawnLabel>Bucătar</Cooking.pawnLabel>
+  <Cooking.skillLabel>gătire</Cooking.skillLabel>
   
   <!-- EN: crafting -->
-  <Crafting.label>TODO</Crafting.label>
+  <Crafting.label>meșteșug</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
-  <Crafting.description>TODO</Crafting.description>
+  <Crafting.description>Meșteșugarea obiectelor generale cum ar fi arme, componente și resurse rafinate.</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.skillLabel>Meșteșugar</Crafting.skillLabel>
-  
-  <!-- UNUSED -->
-  <Crafting.pawnLabel>Meșteșugar</Crafting.pawnLabel>
+  <Crafting.skillLabel>meșteșug</Crafting.skillLabel>
   
   <!-- EN: intellectual -->
-  <Intellectual.label>TODO</Intellectual.label>
+  <Intellectual.label>intelectual</Intellectual.label>
   <!-- EN: Researching and drug synthesis. -->
-  <Intellectual.description>TODO</Intellectual.description>
+  <Intellectual.description>Cercetare și sintetizare de droguri.</Intellectual.description>
   <!-- EN: intellectual -->
-  <Intellectual.skillLabel>TODO</Intellectual.skillLabel>
+  <Intellectual.skillLabel>intelectual</Intellectual.skillLabel>
   
   <!-- EN: medical -->
-  <Medicine.label>TODO</Medicine.label>
+  <Medicine.label>medical</Medicine.label>
   <!-- EN: Tending wounds and diseases and performing surgery. -->
-  <Medicine.description>TODO</Medicine.description>
+  <Medicine.description>Tratarea rănilor și a bolilor și efectuarea de intervenții chirurgicale</Medicine.description>
   <!-- EN: medical -->
-  <Medicine.skillLabel>Medic</Medicine.skillLabel>
-  
-  <!-- UNUSED -->
-  <Medicine.pawnLabel>Doctor</Medicine.pawnLabel>
+  <Medicine.skillLabel>medical</Medicine.skillLabel>
   
   <!-- EN: melee -->
-  <Melee.label>TODO</Melee.label>
+  <Melee.label>luptă corporală</Melee.label>
   <!-- EN: Melee combat, both armed and unarmed. -->
-  <Melee.description>TODO</Melee.description>
+  <Melee.description>Luptă corporală, și armat și neînarmat.</Melee.description>
   <!-- EN: melee -->
-  <Melee.skillLabel>Luptător</Melee.skillLabel>
-  
-  <!-- UNUSED -->
-  <Melee.pawnLabel>Luptător</Melee.pawnLabel>
+  <Melee.skillLabel>luptă corporală</Melee.skillLabel>
   
   <!-- EN: mining -->
-  <Mining.label>TODO</Mining.label>
+  <Mining.label>minerit</Mining.label>
   <!-- EN: Digging tunnels and extracting buried resources. -->
-  <Mining.description>TODO</Mining.description>
+  <Mining.description>Săparea de tunele și extragerea resurselor.</Mining.description>
   <!-- EN: mining -->
-  <Mining.skillLabel>Miner</Mining.skillLabel>
-  
-  <!-- UNUSED -->
-  <Mining.pawnLabel>Miner</Mining.pawnLabel>
+  <Mining.skillLabel>minerit</Mining.skillLabel>
   
   <!-- EN: plants -->
-  <Plants.label>TODO</Plants.label>
+  <Plants.label>plante</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
-  <Plants.description>TODO</Plants.description>
+  <Plants.description>Însămânțarea, îngrijirea și culegerea de recolte, și procurarea hranei în călătorii.</Plants.description>
   <!-- EN: plants -->
-  <Plants.skillLabel>Agricultor</Plants.skillLabel>
-  
-  <!-- UNUSED -->
-  <Plants.pawnLabel>Agricultură</Plants.pawnLabel>
-  
-  <!-- UNUSED -->
-  <Research.skillLabel>Savant</Research.skillLabel>
-  <Research.pawnLabel>Cercetător</Research.pawnLabel>
+  <Plants.skillLabel>plante</Plants.skillLabel>
   
   <!-- EN: shooting -->
-  <Shooting.label>TODO</Shooting.label>
+  <Shooting.label>tragere</Shooting.label>
   <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
-  <Shooting.description>TODO</Shooting.description>
+  <Shooting.description>Luptă la distanță, cu arme și avansate și primitive.</Shooting.description>
   <!-- EN: shooting -->
-  <Shooting.skillLabel>Țintaș</Shooting.skillLabel>
-  
-  <!-- UNUSED -->
-  <Shooting.pawnLabel>Țintaș</Shooting.pawnLabel>
+  <Shooting.skillLabel>tragere</Shooting.skillLabel>
   
   <!-- EN: social -->
-  <Social.label>TODO</Social.label>
+  <Social.label>social</Social.label>
   <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
-  <Social.description>TODO</Social.description>
+  <Social.description>Negociere, convingere, manipulare, conducere și înveselirea altora.</Social.description>
   <!-- EN: social -->
-  <Social.skillLabel>Sociabil</Social.skillLabel>
-  
-  <!-- UNUSED -->
-  <Social.pawnLabel>Comunicativ</Social.pawnLabel>
+  <Social.skillLabel>social</Social.skillLabel>
   
 </LanguageData>

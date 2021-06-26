@@ -5,34 +5,22 @@
   <Brain.label>creier</Brain.label>
   
   <!-- EN: ear -->
-  <Ear.label>TODO</Ear.label>
+  <Ear.label>ureche</Ear.label>
   
   <!-- EN: eye -->
-  <Eye.label>TODO</Eye.label>
+  <Eye.label>ochi</Eye.label>
   
   <!-- EN: foot -->
-  <Foot.label>TODO</Foot.label>
+  <Foot.label>talpă</Foot.label>
   
   <!-- EN: head -->
   <Head.label>cap</Head.label>
   
   <!-- EN: jaw -->
-  <Jaw.label>falcă</Jaw.label>
-  
-  <!-- UNUSED -->
-  <LeftEar.label>urechea stăngă</LeftEar.label>
-  
-  <!-- UNUSED -->
-  <LeftEye.label>ochiul stâng</LeftEye.label>
-  
-  <!-- UNUSED -->
-  <LeftFoot.label>talpa stângă</LeftFoot.label>
-  
-  <!-- UNUSED -->
-  <LeftLeg.label>piciorul stâng</LeftLeg.label>
+  <Jaw.label>maxilar</Jaw.label>
   
   <!-- EN: leg -->
-  <Leg.label>TODO</Leg.label>
+  <Leg.label>picior</Leg.label>
   
   <!-- EN: neck -->
   <Neck.label>gât</Neck.label>
@@ -40,23 +28,8 @@
   <!-- EN: nose -->
   <Nose.label>nas</Nose.label>
   
-  <!-- UNUSED -->
-  <Rib.label>coastă</Rib.label>
-  
   <!-- EN: ribcage -->
-  <Ribcage.label>TODO</Ribcage.label>
-  
-  <!-- UNUSED -->
-  <RightEar.label>urechea dreaptă</RightEar.label>
-  
-  <!-- UNUSED -->
-  <RightEye.label>ochiul drept</RightEye.label>
-  
-  <!-- UNUSED -->
-  <RightFoot.label>talpa dreaptă</RightFoot.label>
-  
-  <!-- UNUSED -->
-  <RightLeg.label>piciorul drept</RightLeg.label>
+  <Ribcage.label>cutie toracică</Ribcage.label>
   
   <!-- EN: skull -->
   <Skull.label>craniu</Skull.label>

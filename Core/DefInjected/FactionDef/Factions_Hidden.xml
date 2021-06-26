@@ -2,39 +2,39 @@
 <LanguageData>
   
   <!-- EN: neutral ancients -->
-  <Ancients.label>Astronaut</Ancients.label>
-  <Ancients.description>Oamenii din spațiu</Ancients.description>
+  <Ancients.label>antici neutrii</Ancients.label>
+  <Ancients.description>persoane din zile îndepărtate.</Ancients.description>
   <!-- EN: Ancients -->
-  <Ancients.fixedName>TODO</Ancients.fixedName>
+  <Ancients.fixedName>antici</Ancients.fixedName>
   <!-- EN: ancient -->
-  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <Ancients.pawnSingular>antic</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <Ancients.pawnsPlural>Astronauți</Ancients.pawnsPlural>
+  <Ancients.pawnsPlural>anticii</Ancients.pawnsPlural>
   
   <!-- EN: hostile ancients -->
-  <AncientsHostile.label>Adversar din spațiu</AncientsHostile.label>
-  <AncientsHostile.description>Adversarii din spațiu.</AncientsHostile.description>
+  <AncientsHostile.label>antici ostili</AncientsHostile.label>
+  <AncientsHostile.description>persoane ostile din zile îndepărtate.</AncientsHostile.description>
   <!-- EN: Ancients -->
-  <AncientsHostile.fixedName>TODO</AncientsHostile.fixedName>
+  <AncientsHostile.fixedName>antici</AncientsHostile.fixedName>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnSingular>antic</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
-  <AncientsHostile.pawnsPlural>Adversarii din spațiu</AncientsHostile.pawnsPlural>
+  <AncientsHostile.pawnsPlural>anticii</AncientsHostile.pawnsPlural>
   
   <!-- EN: insects -->
-  <Insect.label>TODO</Insect.label>
+  <Insect.label>insecte</Insect.label>
   <!-- EN: Sorne Geneline -->
-  <Insect.fixedName>TODO</Insect.fixedName>
+  <Insect.fixedName>insecte</Insect.fixedName>
   <!-- EN: insect -->
-  <Insect.pawnSingular>TODO</Insect.pawnSingular>
+  <Insect.pawnSingular>insectă</Insect.pawnSingular>
   <!-- EN: insects -->
-  <Insect.pawnsPlural>TODO</Insect.pawnsPlural>
+  <Insect.pawnsPlural>insecte</Insect.pawnsPlural>
   
   <!-- EN: mechanoid hive -->
-  <Mechanoid.label>TODO</Mechanoid.label>
+  <Mechanoid.label>stup mecanoid</Mechanoid.label>
   <!-- EN: mechanoid -->
-  <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
+  <Mechanoid.pawnSingular>mecanoid</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
-  <Mechanoid.pawnsPlural>TODO</Mechanoid.pawnsPlural>
+  <Mechanoid.pawnsPlural>mecanoizi</Mechanoid.pawnsPlural>
   
 </LanguageData>
