@@ -1,0 +1,17 @@
+name: Translation Stats
+
+on: push
+
+jobs:
+  comp-stats:
+    name: Compute translation stats
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+    - name: run script
+      run: |
+        python scripts/saitu.py -i . --stats

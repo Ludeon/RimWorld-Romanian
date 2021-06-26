@@ -33,7 +33,7 @@
   <Pirate.pawnsPlural>pirați</Pirate.pawnsPlural>
   
   <!-- EN: gentle tribe -->
-  <TribeCivil.label>TODO</TribeCivil.label>
+  <TribeCivil.label>trib blând</TribeCivil.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
   <TribeCivil.description>Acești oameni sunt aici de foarte mult timp. Poate că strămoșii lor s-au prăbușit aici acum o mie de ani. Poate că au supraviețuit unui cataclism care a distrus o civilizație tehnologică aflată aici. În orice caz, tribalii sunt în mare parte oameni nomazi care trăiesc de pe pământ, care folosesc unelte și arme primitive.\n\nÎn ciuda aparentei lor slăbiciuni tehnologice, tribalii pot fi dușmani periculoși și prieteni valoroși datorită priceperii lor în războiul de joasă tehnologie, a numărului lor și a rezistenței lor.\n\nAcest trib particular urmărește un mod de viață blând acolo unde se poate. Ei sunt destul de deschiși la comerț și alianțe, chiar și cu popoare străine.</TribeCivil.description>
   <!-- EN: tribesman -->

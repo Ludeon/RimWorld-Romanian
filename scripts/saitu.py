@@ -1,5 +1,6 @@
-#!/bin/python3.10
+#!/bin/python3.9
 # S.A.I.T.U - semi automatic interactive translator utility
+# WIP
 
 from pathlib import Path
 import argparse
@@ -18,17 +19,19 @@ class TranslationStat:
     def __init__(self):
         self.t_todo = 0
         self.t_total = 0
+        self.t_unused = 0
         self.w_todo = 0
         self.w_total = 0
         self.w_trans = 0
 
     def __add__(self, other):
         new = TranslationStat()
-        new.t_todo  = self.t_todo  + other.t_todo
-        new.t_total = self.t_total + other.t_total
-        new.w_todo  = self.w_todo  + other.w_todo
-        new.w_total = self.w_total + other.w_total
-        new.w_trans = self.w_trans + other.w_trans
+        new.t_todo   = self.t_todo   + other.t_todo
+        new.t_total  = self.t_total  + other.t_total
+        new.t_unused = self.t_unused + other.t_unused
+        new.w_todo   = self.w_todo   + other.w_todo
+        new.w_total  = self.w_total  + other.w_total
+        new.w_trans  = self.w_trans  + other.w_trans
         return new
 
     @property
@@ -45,6 +48,8 @@ class TElement(ET.Element):
         for elm in filter(lambda e: len(e) == 0, self.iter()):
             if elm.tag == ET.Comment:
                 last_comment = elm
+            elif elm.tag != ET.Comment and last_comment.text == " UNUSED ":
+                stats.t_unused += 1
             elif elm.tag != ET.Comment:
                 en_words = count_words(last_comment.text)
                 stats.t_total += 1
@@ -109,13 +114,18 @@ def print_xtree(xtree, minWordThresh=None):
         yield (total_stats, path)
         return total_stats
 
-    print("|EN_words|%done|Path|")
-    print("|-:|-:|:-|")
+    print("|EN_words|%done|t_unused|Path|")
+    print("|-:|-:|-:|:-|")
 
     v = list(dfs(xtree))
     t = []
     for (s, path) in v:
-        t.append([s.w_total, f"{s.w_pct:.2f}", str(path)])
+        t.append([
+            s.w_total,
+            f"{s.w_pct:.2f}",
+            "" if s.t_unused == 0 else str(s.t_unused),
+            str(path)
+        ])
     maxws = [0] * len(t[0])
     for line in t:
         for i, e in enumerate(line):
