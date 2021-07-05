@@ -16,7 +16,7 @@ Check the GitHub action tab. Inspect the output of the latest ["Translation stat
 
 Alternatively, run locally the following python script:
 ```python
-python scripts/saitu.py -i . --stats
+python scripts/t_stats.py -i .
 ```
 
 # General Notes
@@ -40,3 +40,4 @@ This table is for keeping consistent translations of certain words.
 |Cooldown|Cooldown|
 |melee|corp la corp|
 |slaughter|măcelărește|
+|hitpoints|hitpoint-uri|
