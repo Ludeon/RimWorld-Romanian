@@ -1,6 +1,4 @@
 #!/bin/python3.9
-# S.A.I.T.U - semi automatic interactive translator utility
-# WIP
 
 from pathlib import Path
 import argparse
@@ -8,10 +6,6 @@ import xml.etree.ElementTree as ET
 from collections import defaultdict
 from typing import Union
 from copy import deepcopy
-
-XML_ROOT_PATH = Path("../")
-FR_REF_RAWGH = "https://raw.githubusercontent.com/Ludeon/RimWorld-fr/master/"
-DE_REF_RAWGH = "https://raw.githubusercontent.com/Ludeon/RimWorld-de/master/"
 
 RecDict = lambda: defaultdict(RecDict)
 
@@ -43,6 +37,7 @@ class TranslationStat:
 class TElement(ET.Element):
     @property
     def stats(self):
+        # TODO: recursivity
         stats = TranslationStat()
         last_comment = ET.Comment("")
         for elm in filter(lambda e: len(e) == 0, self.iter()):
@@ -139,20 +134,17 @@ def print_xtree(xtree, minWordThresh=None):
         fmt = "|{:<%d}|" % maxws[-1]
         print(fmt.format(line[-1]))
 
+
 def parse_args():
-    parser = argparse.ArgumentParser(description="S.A.I.T.U - semi automatic interactive translator utility")
-    parser.add_argument("-i", "--input", type=Path, default=XML_ROOT_PATH,
-                        help="XML root to process (useful for specifying only indiviual folders)", required=False)
-    parser.add_argument("--stats", action="store_const", default=False, const=True,
-                        help="Print translation statistics of the specified XML hirerarchy, as a markdown table, then exit")
+    parser = argparse.ArgumentParser(description="t_stats - obtain statistics regarding translation progress")
+    parser.add_argument("-i", "--input", type=Path, required=True,
+                        help="XML root to process (useful for specifying only indiviual folders)")
+    parser.add_argument("-t", "--thresh", type=int, required=False, default=100,
+                        help="Number of tags threshold under which to hide entries from being printed in the final stats")
 
     return parser.parse_args()
 
 if __name__ == "__main__":
     args = parse_args()
-
     xtree = load_xmls(args.input)
-    if args.stats:
-        print_xtree(xtree, 100)
-        exit()
-    #save_xmls(xtree, args.input)
+    print_xtree(xtree, args.thresh)

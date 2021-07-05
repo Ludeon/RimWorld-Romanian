@@ -12,6 +12,6 @@ jobs:
     - uses: actions/setup-python@v2
       with:
         python-version: '3.9'
-    - name: run script
+    - name: run script (t_stats.py)
       run: |
-        python scripts/saitu.py -i . --stats
+        python scripts/t_stats.py -i .
