@@ -8,44 +8,17 @@
   <!-- EN: Year -->
   <ClockYear>An</ClockYear>
   <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
-  <DateReadoutTip>Zile au trecut de când ați ajuns aici: {0}\nSunt {1} de zile în fiecare lună.\nAnotimpul actual: {2}</DateReadoutTip>
+  <DateReadoutTip>Zilele trecute de la sosirea dvs.: {0}\nQuadrum curent: {4}\nSezonul local: {2}\n\nAnul este împărțit în 4 quadrume de câte {3} zile fiecare. Quadrumurile sunt aceleași peste tot, în timp ce anotimpurile sunt diferite în diferite locuri.\n\n\nSezonurile locale pentru fiecare quadrum:\n{5}</DateReadoutTip>
 
   <!-- EN: {0} of {1}, {2} -->
-  <FullDate>{0} {1}, anul {2}</FullDate>
+  <FullDate>{1}/{0}/{2}</FullDate>
   <!-- EN: {0} {1} {2} -->
-  <ShortDate>TODO</ShortDate>
+  <ShortDate>{1} {0} {2}</ShortDate>
   <!-- EN: {0} of {1}, {2} -->
-  <DateReadout>TODO</DateReadout>
+  <DateReadout>{1} {0} {2}</DateReadout>
   <!-- EN: {0} of {1} -->
-  <SeasonFullDate>TODO</SeasonFullDate>
+  <SeasonFullDate>{0}/{1}</SeasonFullDate>
   <!-- EN: Whole year -->
-  <WholeYear>TODO</WholeYear>
-  
-  <!-- UNUSED -->
-  <MonthFullDate>{0} {1}</MonthFullDate>
-  <MonthFullJanuary>Ianuarie</MonthFullJanuary>
-  <MonthFullFebruary>Februarie</MonthFullFebruary>
-  <MonthFullMarch>Martie</MonthFullMarch>
-  <MonthFullApril>Aprilie</MonthFullApril>
-  <MonthFullMay>Mai</MonthFullMay>
-  <MonthFullJune>Iunie</MonthFullJune>
-  <MonthFullJuly>Iulie</MonthFullJuly>
-  <MonthFullAugust>August</MonthFullAugust>
-  <MonthFullSeptember>Septembrie</MonthFullSeptember>
-  <MonthFullOctober>Octombrie</MonthFullOctober>
-  <MonthFullNovember>Noiembrie</MonthFullNovember>
-  <MonthFullDecember>Decembrie</MonthFullDecember>
-  <MonthShortJanuary>Ian</MonthShortJanuary>
-  <MonthShortFebruary>Feb</MonthShortFebruary>
-  <MonthShortMarch>Mar</MonthShortMarch>
-  <MonthShortApril>Apr</MonthShortApril>
-  <MonthShortMay>Mai</MonthShortMay>
-  <MonthShortJune>Iun</MonthShortJune>
-  <MonthShortJuly>Iul</MonthShortJuly>
-  <MonthShortAugust>Aug</MonthShortAugust>
-  <MonthShortSeptember>Sept</MonthShortSeptember>
-  <MonthShortOctober>Oct</MonthShortOctober>
-  <MonthShortNovember>Noi</MonthShortNovember>
-  <MonthShortDecember>Dec</MonthShortDecember>
+  <WholeYear>Întreg anul</WholeYear>
 
 </LanguageData>

@@ -26,3 +26,17 @@ python scripts/saitu.py -i . --stats
 - XML entries having the comment `<!-- UNUSED -->` above are outdated translations from a previous version of the game, kept as a reference. They should be integrated in the newer tags, or outright deleted altogether.
 - Romanian has gendered nouns. Some tags admit a female version (e.g. `<title>` and `<titleFemale>` in `Backstories.xml`). Cross-check the [French translation](https://github.com/Ludeon/RimWorld-fr) for inspiration.
 - [DeepL](https://www.deepl.com/translator) is a great tool to speed up the translation, especially for long bodies of text. Don't just copy and paste, proofread what is translated and correct if necessary.
+
+## Choices of some translations
+This table is for keeping consistent translations of certain words.
+
+|EN word|Chosen translation|
+|-|-|
+|dumping stockpile|haldă|
+|dumping area|zona de haldă|
+|stockpile|zonă de depozitare|
+|(mining) skill|aptitudine|
+|skilled at ...|e îndemânat la ...|
+|Cooldown|Cooldown|
+|melee|corp la corp|
+|slaughter|măcelărește|
