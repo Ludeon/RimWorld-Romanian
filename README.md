@@ -48,6 +48,7 @@ This table is for keeping consistent translations of certain words.
 |mood|dispoziție|
 |blight|molimă|
 |blunt| ? |
+|backstory|biografie|
 
 |Not to be translated|
 |-|
