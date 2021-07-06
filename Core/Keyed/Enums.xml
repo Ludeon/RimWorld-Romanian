@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version='1.0' encoding='UTF-8-sig'?>
 <LanguageData>
 
   <!-- Glow -->
@@ -37,27 +37,27 @@
 
   <!-- Food type flags -->
   <!-- EN: vegetables -->
-  <FoodTypeFlags_VegetableOrFruit>TODO</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_VegetableOrFruit>legume</FoodTypeFlags_VegetableOrFruit>
   <!-- EN: raw meat -->
-  <FoodTypeFlags_Meat>TODO</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Meat>carne crudă</FoodTypeFlags_Meat>
   <!-- EN: corpses -->
-  <FoodTypeFlags_Corpse>TODO</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Corpse>cadavre</FoodTypeFlags_Corpse>
   <!-- EN: seeds -->
-  <FoodTypeFlags_Seed>TODO</FoodTypeFlags_Seed>
+  <FoodTypeFlags_Seed>semințe</FoodTypeFlags_Seed>
   <!-- EN: animal products -->
-  <FoodTypeFlags_AnimalProduct>TODO</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_AnimalProduct>produse animaliere</FoodTypeFlags_AnimalProduct>
   <!-- EN: live plants -->
-  <FoodTypeFlags_Plant>TODO</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Plant>plante vii</FoodTypeFlags_Plant>
   <!-- EN: live trees -->
-  <FoodTypeFlags_Tree>TODO</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Tree>copaci vii</FoodTypeFlags_Tree>
   <!-- EN: meals -->
-  <FoodTypeFlags_Meal>TODO</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Meal>mese</FoodTypeFlags_Meal>
   <!-- EN: processed foods -->
-  <FoodTypeFlags_Processed>TODO</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Processed>alimente procesate</FoodTypeFlags_Processed>
   <!-- EN: liquor -->
-  <FoodTypeFlags_Liquor>TODO</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Liquor>lichior</FoodTypeFlags_Liquor>
   <!-- EN: kibble -->
-  <FoodTypeFlags_Kibble>TODO</FoodTypeFlags_Kibble>
+  <FoodTypeFlags_Kibble>kibble</FoodTypeFlags_Kibble>
 
   <!-- Quality category -->
   <!-- EN: awful -->
@@ -75,261 +75,244 @@
   <!-- EN: legendary -->
   <QualityCategory_Legendary>legendar</QualityCategory_Legendary>
   <!-- EN: awfl -->
-  <QualityCategoryShort_Awful>TODO</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Awful>orib</QualityCategoryShort_Awful>
   <!-- EN: poor -->
-  <QualityCategoryShort_Poor>TODO</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Poor>slab</QualityCategoryShort_Poor>
   <!-- EN: norm -->
-  <QualityCategoryShort_Normal>TODO</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
   <!-- EN: good -->
-  <QualityCategoryShort_Good>TODO</QualityCategoryShort_Good>
+  <QualityCategoryShort_Good>bun</QualityCategoryShort_Good>
   <!-- EN: exc -->
-  <QualityCategoryShort_Excellent>TODO</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Excellent>exc</QualityCategoryShort_Excellent>
   <!-- EN: mast -->
-  <QualityCategoryShort_Masterwork>TODO</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Masterwork>capd</QualityCategoryShort_Masterwork>
   <!-- EN: legd -->
-  <QualityCategoryShort_Legendary>TODO</QualityCategoryShort_Legendary>
+  <QualityCategoryShort_Legendary>legd</QualityCategoryShort_Legendary>
   
   <!-- Hunger -->
   <!-- EN: Starving -->
-  <HungerLevel_Starving>TODO</HungerLevel_Starving>
+  <HungerLevel_Starving>Înfometat</HungerLevel_Starving>
   <!-- EN: Urgently hungry -->
-  <HungerLevel_UrgentlyHungry>TODO</HungerLevel_UrgentlyHungry>
+  <HungerLevel_UrgentlyHungry>Urgent flămând</HungerLevel_UrgentlyHungry>
   <!-- EN: Hungry -->
-  <HungerLevel_Hungry>TODO</HungerLevel_Hungry>
+  <HungerLevel_Hungry>Flămând</HungerLevel_Hungry>
   <!-- EN: Fed -->
-  <HungerLevel_Fed>TODO</HungerLevel_Fed>
+  <HungerLevel_Fed>Hrănit</HungerLevel_Fed>
 
   <!-- -Fatigue -->
   <!-- EN: Exhausted -->
-  <HungerLevel_Exhausted>TODO</HungerLevel_Exhausted>
+  <HungerLevel_Exhausted>Epuizat</HungerLevel_Exhausted>
   <!-- EN: Very tired -->
-  <HungerLevel_VeryTired>TODO</HungerLevel_VeryTired>
+  <HungerLevel_VeryTired>Foarte obosit</HungerLevel_VeryTired>
   <!-- EN: Tired -->
-  <HungerLevel_Tired>TODO</HungerLevel_Tired>
+  <HungerLevel_Tired>Obosit</HungerLevel_Tired>
   <!-- EN: Rested -->
-  <HungerLevel_Rested>TODO</HungerLevel_Rested>
+  <HungerLevel_Rested>odihnit</HungerLevel_Rested>
 
   <!-- Hilliness -->
   <!-- EN: flat -->
-  <Hilliness_Flat>TODO</Hilliness_Flat>
+  <Hilliness_Flat>plat</Hilliness_Flat>
   <!-- EN: small hills -->
-  <Hilliness_SmallHills>TODO</Hilliness_SmallHills>
+  <Hilliness_SmallHills>dealuri mici</Hilliness_SmallHills>
   <!-- EN: large hills -->
-  <Hilliness_LargeHills>TODO</Hilliness_LargeHills>
+  <Hilliness_LargeHills>dealuri mari</Hilliness_LargeHills>
   <!-- EN: mountainous -->
-  <Hilliness_Mountainous>TODO</Hilliness_Mountainous>
+  <Hilliness_Mountainous>montan</Hilliness_Mountainous>
   <!-- EN: impassable -->
-  <Hilliness_Impassable>TODO</Hilliness_Impassable>
+  <Hilliness_Impassable>impasibil</Hilliness_Impassable>
   
   <!-- Steam workshop interaction -->
   <!-- EN: Creating -->
-  <WorkshopInteractStage_CreatingItem>TODO</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_CreatingItem>Se creează</WorkshopInteractStage_CreatingItem>
   <!-- EN: Submitting -->
-  <WorkshopInteractStage_SubmittingItem>TODO</WorkshopInteractStage_SubmittingItem>
+  <WorkshopInteractStage_SubmittingItem>Se trimite</WorkshopInteractStage_SubmittingItem>
   <!-- EN: Invalid -->
-  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>TODO</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Invalid</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
   <!-- EN: Preparing config data -->
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>TODO</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Se pregătesc datele de configurare</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
   <!-- EN: Preparing content files -->
-  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>TODO</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Se pregătesc fișierele de conținut</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
   <!-- EN: Uploading content -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>TODO</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Se încarcă conținutul</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
   <!-- EN: Uploading preview file -->
-  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>TODO</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Se încarcă fișierul de previzualizare</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
   <!-- EN: Committing changes -->
-  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>TODO</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Se efectuează modificările</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
   <!-- EN: official content -->
-  <ContentSource_OfficialModsFolder>TODO</ContentSource_OfficialModsFolder>
+  <ContentSource_OfficialModsFolder>conținut oficial</ContentSource_OfficialModsFolder>
   <!-- EN: local folder -->
-  <ContentSource_ModsFolder>TODO</ContentSource_ModsFolder>
+  <ContentSource_ModsFolder>folder local</ContentSource_ModsFolder>
   <!-- EN: Steam Workshop -->
-  <ContentSource_SteamWorkshop>TODO</ContentSource_SteamWorkshop>
+  <ContentSource_SteamWorkshop>Atelierul Steam</ContentSource_SteamWorkshop>
   
   <!-- Medical care category -->
   <!-- EN: No medical care -->
-  <MedicalCareCategory_NoCare>TODO</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoCare>Fără îngrijire medicală</MedicalCareCategory_NoCare>
   <!-- EN: Doctor care, but no medicine -->
-  <MedicalCareCategory_NoMeds>TODO</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_NoMeds>Îngrijire medicală, dar fără medicamente</MedicalCareCategory_NoMeds>
   <!-- EN: Herbal medicine or worse -->
-  <MedicalCareCategory_HerbalOrWorse>TODO</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_HerbalOrWorse>Medicină pe bază de plante sau mai rău</MedicalCareCategory_HerbalOrWorse>
   <!-- EN: Industrial-tech medicine or worse -->
-  <MedicalCareCategory_NormalOrWorse>TODO</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Medicină de tehnologie industrială sau mai rău</MedicalCareCategory_NormalOrWorse>
   <!-- EN: Best quality medicine -->
-  <MedicalCareCategory_Best>TODO</MedicalCareCategory_Best>
+  <MedicalCareCategory_Best>Medicină de cea mai bună calitate</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->
-  <HostilityResponseMode_Ignore>TODO</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Ignore>Ignoră</HostilityResponseMode_Ignore>
   <!-- EN: Attack -->
-  <HostilityResponseMode_Attack>TODO</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Attack>Atac</HostilityResponseMode_Attack>
   <!-- EN: Flee -->
-  <HostilityResponseMode_Flee>TODO</HostilityResponseMode_Flee>
+  <HostilityResponseMode_Flee>Fugă</HostilityResponseMode_Flee>
   
   <!-- HediffGrowthMode -->
   <!-- EN: growing -->
-  <HediffGrowthMode_Growing>TODO</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Growing>în creștere</HediffGrowthMode_Growing>
   <!-- EN: stable -->
-  <HediffGrowthMode_Stable>TODO</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Stable>stabil</HediffGrowthMode_Stable>
   <!-- EN: remission -->
-  <HediffGrowthMode_Remission>TODO</HediffGrowthMode_Remission>
+  <HediffGrowthMode_Remission>remisiune</HediffGrowthMode_Remission>
 
   <!-- TechLevel -->
   <!-- EN: animal -->
-  <TechLevel_Animal>TODO</TechLevel_Animal>
+  <TechLevel_Animal>animal</TechLevel_Animal>
   <!-- EN: neolithic -->
-  <TechLevel_Neolithic>TODO</TechLevel_Neolithic>
+  <TechLevel_Neolithic>neolitic</TechLevel_Neolithic>
   <!-- EN: medieval -->
-  <TechLevel_Medieval>TODO</TechLevel_Medieval>
+  <TechLevel_Medieval>medieval</TechLevel_Medieval>
   <!-- EN: industrial -->
-  <TechLevel_Industrial>TODO</TechLevel_Industrial>
+  <TechLevel_Industrial>industrial</TechLevel_Industrial>
   <!-- EN: spacer -->
-  <TechLevel_Spacer>TODO</TechLevel_Spacer>
+  <TechLevel_Spacer>spațiator</TechLevel_Spacer>
   <!-- EN: ultra -->
-  <TechLevel_Ultra>TODO</TechLevel_Ultra>
+  <TechLevel_Ultra>ultra</TechLevel_Ultra>
   <!-- EN: archotech -->
-  <TechLevel_Archotech>TODO</TechLevel_Archotech>
+  <TechLevel_Archotech>archotehnologie</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
   <!-- EN: Standing -->
-  <PlayerPawnsArriveMethod_Standing>TODO</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_Standing>În picioare</PlayerPawnsArriveMethod_Standing>
   <!-- EN: Drop pods -->
-  <PlayerPawnsArriveMethod_DropPods>TODO</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_DropPods>Poduri căzătoare</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
   <!-- EN: all characters -->
-  <PawnGenerationContext_All>TODO</PawnGenerationContext_All>
+  <PawnGenerationContext_All>toate personajele</PawnGenerationContext_All>
   <!-- EN: player starting characters -->
-  <PawnGenerationContext_PlayerStarter>TODO</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_PlayerStarter>caractere ale jucătorului de început</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
-  <PawnGenerationContext_NonPlayer>TODO</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_NonPlayer>caractere non-jucător</PawnGenerationContext_NonPlayer>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
-  <ShowAnimalNames>TODO</ShowAnimalNames>
+  <ShowAnimalNames>Afișează numele animalelor</ShowAnimalNames>
   <!-- EN: Tame (named only) -->
-  <AnimalNameDisplayMode_TameNamed>TODO</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameNamed>Îmblânzire (numai cu nume)</AnimalNameDisplayMode_TameNamed>
   <!-- EN: Tame (all) -->
-  <AnimalNameDisplayMode_TameAll>TODO</AnimalNameDisplayMode_TameAll>
+  <AnimalNameDisplayMode_TameAll>Îmblânzire (toate)</AnimalNameDisplayMode_TameAll>
   
   <!-- Temperature -->
   <!-- EN: Celsius -->
-  <Celsius>TODO</Celsius>
+  <Celsius>Celsius</Celsius>
   <!-- EN: Fahrenheit -->
-  <Fahrenheit>TODO</Fahrenheit>
+  <Fahrenheit>Fahrenheit</Fahrenheit>
   <!-- EN: Kelvin -->
-  <Kelvin>TODO</Kelvin>
+  <Kelvin>Kelvin</Kelvin>
   
   <!-- Direction8Way -->
   <!-- EN: N -->
-  <Direction8Way_North_Short>TODO</Direction8Way_North_Short>
+  <Direction8Way_North_Short>N</Direction8Way_North_Short>
   <!-- EN: NE -->
-  <Direction8Way_NorthEast_Short>TODO</Direction8Way_NorthEast_Short>
+  <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
   <!-- EN: E -->
-  <Direction8Way_East_Short>TODO</Direction8Way_East_Short>
+  <Direction8Way_East_Short>E</Direction8Way_East_Short>
   <!-- EN: SE -->
-  <Direction8Way_SouthEast_Short>TODO</Direction8Way_SouthEast_Short>
+  <Direction8Way_SouthEast_Short>SE</Direction8Way_SouthEast_Short>
   <!-- EN: S -->
-  <Direction8Way_South_Short>TODO</Direction8Way_South_Short>
+  <Direction8Way_South_Short>S</Direction8Way_South_Short>
   <!-- EN: SW -->
-  <Direction8Way_SouthWest_Short>TODO</Direction8Way_SouthWest_Short>
+  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
   <!-- EN: W -->
-  <Direction8Way_West_Short>TODO</Direction8Way_West_Short>
+  <Direction8Way_West_Short>W</Direction8Way_West_Short>
   <!-- EN: NW -->
-  <Direction8Way_NorthWest_Short>TODO</Direction8Way_NorthWest_Short>
+  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
   
   <!-- Diet category -->
   <!-- EN: Never eats -->
-  <DietCategory_NeverEats>TODO</DietCategory_NeverEats>
+  <DietCategory_NeverEats>Nu mănâncă niciodată</DietCategory_NeverEats>
   <!-- EN: Herbivorous -->
-  <DietCategory_Herbivorous>TODO</DietCategory_Herbivorous>
+  <DietCategory_Herbivorous>Herbivor</DietCategory_Herbivorous>
   <!-- EN: Dendrovorous -->
-  <DietCategory_Dendrovorous>TODO</DietCategory_Dendrovorous>
+  <DietCategory_Dendrovorous>Dendrovor</DietCategory_Dendrovorous>
   <!-- EN: Ovivorous -->
-  <DietCategory_Ovivorous>TODO</DietCategory_Ovivorous>
+  <DietCategory_Ovivorous>Ovivor</DietCategory_Ovivorous>
   <!-- EN: Omnivorous -->
-  <DietCategory_Omnivorous>TODO</DietCategory_Omnivorous>
+  <DietCategory_Omnivorous>Omnivor</DietCategory_Omnivorous>
   <!-- EN: Carnivorous -->
-  <DietCategory_Carnivorous>TODO</DietCategory_Carnivorous>
+  <DietCategory_Carnivorous>Carnivor</DietCategory_Carnivorous>
   <!-- EN: - -->
-  <DietCategory_NeverEats_Short>TODO</DietCategory_NeverEats_Short>
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
   <!-- EN: H -->
-  <DietCategory_Herbivorous_Short>TODO</DietCategory_Herbivorous_Short>
+  <DietCategory_Herbivorous_Short>H</DietCategory_Herbivorous_Short>
   <!-- EN: D -->
-  <DietCategory_Dendrovorous_Short>TODO</DietCategory_Dendrovorous_Short>
+  <DietCategory_Dendrovorous_Short>D</DietCategory_Dendrovorous_Short>
   <!-- EN: Ov -->
-  <DietCategory_Ovivorous_Short>TODO</DietCategory_Ovivorous_Short>
+  <DietCategory_Ovivorous_Short>Ov</DietCategory_Ovivorous_Short>
   <!-- EN: O -->
-  <DietCategory_Omnivorous_Short>TODO</DietCategory_Omnivorous_Short>
+  <DietCategory_Omnivorous_Short>O</DietCategory_Omnivorous_Short>
   <!-- EN: C -->
-  <DietCategory_Carnivorous_Short>TODO</DietCategory_Carnivorous_Short>
+  <DietCategory_Carnivorous_Short>C</DietCategory_Carnivorous_Short>
 
   <!-- Food poison cause -->
   <!-- EN: incompetent cook -->
-  <FoodPoisonCause_IncompetentCook>TODO</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_IncompetentCook>bucătar incompetent</FoodPoisonCause_IncompetentCook>
   <!-- EN: dirty cooking area -->
-  <FoodPoisonCause_FilthyKitchen>TODO</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_FilthyKitchen>zonă de gătit murdară</FoodPoisonCause_FilthyKitchen>
   <!-- EN: rotten food -->
-  <FoodPoisonCause_Rotten>TODO</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_Rotten>alimente putrede</FoodPoisonCause_Rotten>
   <!-- EN: dangerous food type -->
-  <FoodPoisonCause_DangerousFoodType>TODO</FoodPoisonCause_DangerousFoodType>
+  <FoodPoisonCause_DangerousFoodType>tip de aliment periculos</FoodPoisonCause_DangerousFoodType>
 
   <!-- Psychic drone level -->
   <!-- EN: none -->
-  <PsychicDroneLevel_None>TODO</PsychicDroneLevel_None>
+  <PsychicDroneLevel_None>niciunul</PsychicDroneLevel_None>
   <!-- EN: medium -->
-  <PsychicDroneLevel_GoodMedium>TODO</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_GoodMedium>mediu</PsychicDroneLevel_GoodMedium>
   <!-- EN: low -->
-  <PsychicDroneLevel_BadLow>TODO</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadLow>scăzut</PsychicDroneLevel_BadLow>
   <!-- EN: medium -->
-  <PsychicDroneLevel_BadMedium>TODO</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadMedium>mediu</PsychicDroneLevel_BadMedium>
   <!-- EN: high -->
-  <PsychicDroneLevel_BadHigh>TODO</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadHigh>mare</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
-  <PsychicDroneLevel_BadExtreme>TODO</PsychicDroneLevel_BadExtreme>
+  <PsychicDroneLevel_BadExtreme>extremă</PsychicDroneLevel_BadExtreme>
   
   <!-- Automatic pause mode -->
   <!-- EN: Never -->
-  <AutomaticPauseMode_Never>TODO</AutomaticPauseMode_Never>
+  <AutomaticPauseMode_Never>Niciodată</AutomaticPauseMode_Never>
   <!-- EN: Major threats -->
-  <AutomaticPauseMode_MajorThreat>TODO</AutomaticPauseMode_MajorThreat>
+  <AutomaticPauseMode_MajorThreat>Amenințări majore</AutomaticPauseMode_MajorThreat>
   <!-- EN: Any threat -->
-  <AutomaticPauseMode_AnyThreat>TODO</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyThreat>Orice amenințare</AutomaticPauseMode_AnyThreat>
   <!-- EN: Any letter -->
-  <AutomaticPauseMode_AnyLetter>TODO</AutomaticPauseMode_AnyLetter>
+  <AutomaticPauseMode_AnyLetter>Orice literă</AutomaticPauseMode_AnyLetter>
 
   <!-- Pain category -->
   <!-- EN: itchy -->
-  <PainCategory_LowPain>TODO</PainCategory_LowPain>
+  <PainCategory_LowPain>usturător</PainCategory_LowPain>
   <!-- EN: aching -->
-  <PainCategory_MediumPain>TODO</PainCategory_MediumPain>
+  <PainCategory_MediumPain>dureros</PainCategory_MediumPain>
   <!-- EN: painful -->
-  <PainCategory_HighPain>TODO</PainCategory_HighPain>
+  <PainCategory_HighPain>chinuitor</PainCategory_HighPain>
   
   <!-- ExtraFactionType -->
   <!-- EN: home faction -->
-  <ExtraFactionType_HomeFaction>TODO</ExtraFactionType_HomeFaction>
+  <ExtraFactionType_HomeFaction>facțiune de origine</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
-  <ExtraFactionType_HostFaction>TODO</ExtraFactionType_HostFaction>
+  <ExtraFactionType_HostFaction>facțiune gazdă îndepărtată</ExtraFactionType_HostFaction>
   <!-- EN: group -->
-  <ExtraFactionType_MiniFaction>TODO</ExtraFactionType_MiniFaction>
-  <!-- UNUSED -->
-  <NoneQuality>Nimic</NoneQuality>
-  <PlantQuality>Plantă</PlantQuality>
-  <RawQuality>Crud</RawQuality>
-  <MealAwfulQuality>Oribil</MealAwfulQuality>
-  <MealSimpleQuality>Simplu</MealSimpleQuality>
-  <MealFineQuality>Bun</MealFineQuality>
-  <MealLavishLavish>Delicios</MealLavishLavish>
-  <NeverEats>Nu se hrănesc</NeverEats>
-  <Omnivorous>Omnivor</Omnivorous>
-  <Herbivorous>Erbivor</Herbivorous>
-  <Carnivorous>Carnivor</Carnivorous>
-  <Dendrovorous>Dendrovor</Dendrovorous>
-  <Unspecified>Indecis</Unspecified>
-  <Always>Aprobă</Always>
-  <QualityCategory_Shoddy>uzat</QualityCategory_Shoddy>
-  <QualityCategory_Superior>superior</QualityCategory_Superior>
+  <ExtraFactionType_MiniFaction>grup</ExtraFactionType_MiniFaction>
 
 </LanguageData>

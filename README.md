@@ -46,6 +46,7 @@ This table is for keeping consistent translations of certain words.
 |mentally broken|afectat mental|
 |lavish (meal)|somptuos|
 |mood|dispoziție|
+|blight|molimă|
 
 |Not to be translated|
 |-|

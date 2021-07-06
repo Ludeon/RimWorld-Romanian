@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version='1.0' encoding='UTF-8-sig'?>
 <LanguageData>
 
   <!-- Forbid -->
   <!-- EN: Forbid -->
-  <CommandForbid>TODO</CommandForbid>
+  <CommandForbid>Interzice</CommandForbid>
   <!-- EN: Allow -->
-  <CommandAllow>TODO</CommandAllow>
+  <CommandAllow>Permite</CommandAllow>
   <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
   <CommandForbiddenDesc>Interzis - coloniștii nu pot să interacționeze cu acest lucru.</CommandForbiddenDesc>
   <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
@@ -18,9 +18,9 @@
   <CommandTogglePowerDesc>Comută pornit/oprit.</CommandTogglePowerDesc>
   
   <!-- EN: Designate toggle power -->
-  <CommandDesignateTogglePowerLabel>TODO</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerLabel>Desemnează comutarea puterii</CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
-  <CommandDesignateTogglePowerDesc>TODO</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerDesc>Desemnează acest lucru pentru a avea puterea comutată. Un colonist va veni în curând să apese pe întrerupător.</CommandDesignateTogglePowerDesc>
   
   <!-- EN: Reconnect -->
   <CommandTryReconnectLabel>Reconectare</CommandTryReconnectLabel>
@@ -45,14 +45,14 @@
   <IsIncapped>{0} este incapacitat.</IsIncapped>
 
   <!-- EN: Fire at will -->
-  <CommandFireAtWillLabel>TODO</CommandFireAtWillLabel>
+  <CommandFireAtWillLabel>Trage în voie</CommandFireAtWillLabel>
   <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
-  <CommandFireAtWillDesc>TODO</CommandFireAtWillDesc>
+  <CommandFireAtWillDesc>Comută tragerea în voie.\n\nCând este dezactivat, acest personaj nu va trage automat asupra țintelor aflate la distanță. Nu afectează lupta corp la corp.</CommandFireAtWillDesc>
   
   <!-- EN: Clear prioritized work -->
-  <CommandClearPrioritizedWork>TODO</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWork>Șterge munca prioritizată</CommandClearPrioritizedWork>
   <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
-  <CommandClearPrioritizedWorkDesc>TODO</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWorkDesc>Șterge orice muncă prioritară pe care ai atribuit-o. Personajul se va întoarce la activitățile sale obișnuite autodirijate.</CommandClearPrioritizedWorkDesc>
   
   <!-- EN: Cancel -->
   <CommandCancelConstructionLabel>Anulare</CommandCancelConstructionLabel>
@@ -65,23 +65,23 @@
   <CommandGetOutOfBedDesc>Eliberează patul curent.</CommandGetOutOfBedDesc>
 
   <!-- EN: Set owner -->
-  <CommandThingSetOwnerLabel>TODO</CommandThingSetOwnerLabel>
+  <CommandThingSetOwnerLabel>Setează proprietarul</CommandThingSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific colonist. -->
   <CommandBedSetOwnerDesc>Oferă acest pat unui colonist spre a-l folosi.</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
-  <CommandThroneSetOwnerDesc>TODO</CommandThroneSetOwnerDesc>
+  <CommandThroneSetOwnerDesc>Atribuie acest tron să fie deținut de un anumit colonist.</CommandThroneSetOwnerDesc>
   <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
-  <CommandMeditationSpotSetOwnerDesc>TODO</CommandMeditationSpotSetOwnerDesc>
+  <CommandMeditationSpotSetOwnerDesc>Atribuie acest loc de meditație să fie deținut de un anumit colonist.</CommandMeditationSpotSetOwnerDesc>
   <!-- EN: Assign colonist -->
-  <CommandGraveAssignColonistLabel>TODO</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistLabel>Atribuire colonist</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
-  <CommandGraveAssignColonistDesc>TODO</CommandGraveAssignColonistDesc>
+  <CommandGraveAssignColonistDesc>Atribuie acest mormânt ca fiind proprietatea unui anumit colonist.</CommandGraveAssignColonistDesc>
   <!-- EN: Assign -->
-  <BuildingAssign>TODO</BuildingAssign>
+  <BuildingAssign>Atribuie</BuildingAssign>
   <!-- EN: Reassign -->
-  <BuildingReassign>TODO</BuildingReassign>
+  <BuildingReassign>Reatribuire</BuildingReassign>
   <!-- EN: Unassign -->
-  <BuildingUnassign>TODO</BuildingUnassign>
+  <BuildingUnassign>Dezatribuire</BuildingUnassign>
   <!-- EN: For prisoners -->
   <CommandBedSetForPrisonersLabel>Pat pentru prizonieri</CommandBedSetForPrisonersLabel>
   <!-- EN: Whether beds in this room should be used by prisoners. -->
@@ -91,7 +91,7 @@
   <!-- EN: Medical -->
   <CommandBedSetAsMedicalLabel>Pat medical</CommandBedSetAsMedicalLabel>
   <!-- EN: Whether this bed is for medical use. -->
-  <CommandBedSetAsMedicalDesc> Desemnează acest pat ca pat medical.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsMedicalDesc>Desemnează acest pat ca pat medical.</CommandBedSetAsMedicalDesc>
   <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
   <TurningOnPrisonerBedWarning>Setarea modului de prizonier afectează întreaga cameră (prizonierii și coloniștii nu pot dormi în aceeași cameră).\n\nAcești oameni vor rămâne fără paturi:</TurningOnPrisonerBedWarning>
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
@@ -122,19 +122,19 @@
   <CommandDeleteZoneDesc>Șterge această zonă.</CommandDeleteZoneDesc>
 
   <!-- EN: Copy settings -->
-  <CommandCopyZoneSettingsLabel>TODO</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsLabel>Copiază setările</CommandCopyZoneSettingsLabel>
   <!-- EN: Copy this zone's settings to the clipboard so you can paste them onto another zone. -->
-  <CommandCopyZoneSettingsDesc>TODO</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>Copiază setările acestei zone în clipboard pentru a le putea lipi pe o altă zonă.</CommandCopyZoneSettingsDesc>
 
   <!-- EN: Paste settings -->
-  <CommandPasteZoneSettingsLabel>TODO</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsLabel>Lipește setările</CommandPasteZoneSettingsLabel>
   <!-- EN: Overwrite this zone's settings with those previously copied to the clipboard. -->
-  <CommandPasteZoneSettingsDesc>TODO</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsDesc>Suprascrie setările acestei zone cu cele copiate anterior în clipboard.</CommandPasteZoneSettingsDesc>
 
   <!-- EN: Allow sowing -->
-  <CommandAllowSow>TODO</CommandAllowSow>
+  <CommandAllowSow>Permite însămânțarea</CommandAllowSow>
   <!-- EN: When disabled, colonists will never sow plants in this zone. They will still harvest. -->
-  <CommandAllowSowDesc>TODO</CommandAllowSowDesc>
+  <CommandAllowSowDesc>Când este dezactivat, coloniștii nu vor semăna niciodată plante în această zonă. Ei vor recolta în continuare.</CommandAllowSowDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
@@ -148,15 +148,15 @@
   <!-- EN: Not currently force-attacking. -->
   <CommandStopAttackFailNotForceAttacking>Nu atacă forțat acum.</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->
-  <CommandExtractShell>TODO</CommandExtractShell>
+  <CommandExtractShell>Extrage obuzul</CommandExtractShell>
   <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
-  <CommandExtractShellDesc>TODO</CommandExtractShellDesc>
+  <CommandExtractShellDesc>Descarcă obuzul curent pentru a putea fi înlocuit cu altă muniție.</CommandExtractShellDesc>
   <!-- EN: Target beyond maximum range. -->
   <MessageTargetBeyondMaximumRange>Țintă în afara razei maxime de acțiune.</MessageTargetBeyondMaximumRange>
   <!-- EN: Target below minimum range. -->
   <MessageTargetBelowMinimumRange>Țintă în afara razei minime de acțiune.</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
-  <MessageTurretWontFireBecauseHoldFire>TODO</MessageTurretWontFireBecauseHoldFire>
+  <MessageTurretWontFireBecauseHoldFire>Avertisment: Mortarul nu va trage pentru că este setat pe "Nu trage".</MessageTurretWontFireBecauseHoldFire>
   
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
@@ -168,9 +168,9 @@
   <!-- EN: Show a readiness report about the ship's launch capability. -->
   <CommandShipLaunchReportDesc>Arată un raport despre pregatirea navei de lansare.</CommandShipLaunchReportDesc>
   <!-- EN: Start ship -->
-  <CommandShipStartup>TODO</CommandShipStartup>
+  <CommandShipStartup>Pornește nava</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
-  <CommandShipStartupDesc>TODO</CommandShipStartupDesc>
+  <CommandShipStartupDesc>Trezește componentele navei aflate în hibernare.</CommandShipStartupDesc>
 
   <!-- Pod -->
   <!-- EN: Eject sleeper -->
@@ -182,21 +182,21 @@
 
   <!-- Door -->
   <!-- EN: Passage forbidden -->
-  <CommandToggleDoorForbid>TODO</CommandToggleDoorForbid>
+  <CommandToggleDoorForbid>Pasaj interzis</CommandToggleDoorForbid>
   <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
-  <CommandToggleDoorForbidDesc>TODO</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorForbidDesc>Când o ușă este interzisă, coloniștii și aliații nu vor trece prin ea. Acest lucru nu afectează modul în care inamicii sau animalele interacționează cu ușa.</CommandToggleDoorForbidDesc>
   <!-- EN: Hold open -->
-  <CommandToggleDoorHoldOpen>TODO</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpen>Ține ușa deschisă</CommandToggleDoorHoldOpen>
   <!-- EN: When active, your colonists will not close the door after passing through. -->
-  <CommandToggleDoorHoldOpenDesc>TODO</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorHoldOpenDesc>Atunci când este activă, coloniștii tăi nu vor închide ușa după ce trec prin ea.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
   <!-- EN: Reset -->
-  <CommandResetTemp>Resetare</CommandResetTemp>
+  <CommandResetTemp>Resetează</CommandResetTemp>
   <!-- EN: Reset the target temperature to room temperature. -->
-  <CommandResetTempDesc>Resetare temperatură țintă la temperatura camerei.</CommandResetTempDesc>
+  <CommandResetTempDesc>Resetează temperatura țintă la temperatura camerei.</CommandResetTempDesc>
   <!-- EN: Raise the target temperature. -->
-  <CommandRaiseTempDesc>Mărește temperatura țintă.</CommandRaiseTempDesc>
+  <CommandRaiseTempDesc>Ridică temperatura țintă.</CommandRaiseTempDesc>
   <!-- EN: Lower the target temperature. -->
   <CommandLowerTempDesc>Scade temperatura țintă.</CommandLowerTempDesc>
 
@@ -204,352 +204,342 @@
   <!-- EN: Install -->
   <CommandInstall>Instalează</CommandInstall>
   <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
-  <CommandInstallDesc>Acest obiect este ambalat pentru transport. Folosește această comanda pentru a instala obiectul în locul decis pentru a-l putea vizualiza sau folosi.</CommandInstallDesc>
+  <CommandInstallDesc>Acest element este în prezent împachetat pentru depozitare și transport. Folosiți această comandă pentru a instala acest articol într-o locație finală.</CommandInstallDesc>
   <!-- EN: Reinstall at... -->
-  <CommandReinstall>TODO</CommandReinstall>
+  <CommandReinstall>Reinstalează la...</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
-  <CommandReinstallDesc>TODO</CommandReinstallDesc>
+  <CommandReinstallDesc>Desemnează acest element pentru a fi dezinstalat și reinstalat în altă parte.</CommandReinstallDesc>
   
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
-  <CommandMakeBeaconStockpileDesc>TODO</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileDesc>Creează o zonă de stocare în jurul acestei clădiri care se potrivește exact cu forma razei de lansare a balizei.</CommandMakeBeaconStockpileDesc>
   <!-- EN: Create stockpile -->
-  <CommandMakeBeaconStockpileLabel>TODO</CommandMakeBeaconStockpileLabel>
+  <CommandMakeBeaconStockpileLabel>Creează stocuri</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
   <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
-  <CommandSunLampMakeGrowingZoneDesc>TODO</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneDesc>Creează o zonă de creștere în jurul acestei clădiri care să corespundă exact formei razei de lumină a lămpii.</CommandSunLampMakeGrowingZoneDesc>
   <!-- EN: Create growing zone -->
-  <CommandSunLampMakeGrowingZoneLabel>TODO</CommandSunLampMakeGrowingZoneLabel>
+  <CommandSunLampMakeGrowingZoneLabel>Creează zona de creștere</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
   <!-- EN: Auto Rearm -->
-  <CommandAutoRearm>TODO</CommandAutoRearm>
+  <CommandAutoRearm>Auto Rearmare automată</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
-  <CommandAutoRearmDesc>TODO</CommandAutoRearmDesc>
+  <CommandAutoRearmDesc>Dacă este activată, această capcană va fi înlocuită automat după ce se declanșează.</CommandAutoRearmDesc>
   
   <!-- Animal control -->
   <!-- EN: Release animals -->
-  <CommandReleaseAnimalsLabel>TODO</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsLabel>Eliberează animalele</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
-  <CommandReleaseAnimalsDesc>TODO</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsDesc>În timp ce această comandă este activată, animalele stăpânite sunt trimise să atace ținte îndepărtate. Cât timp este dezactivată, ele rămân în apropiere și îl păzesc pe stăpân.</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
-  <CommandReleaseAnimalsFail_NoAnimals>TODO</CommandReleaseAnimalsFail_NoAnimals>
+  <CommandReleaseAnimalsFail_NoAnimals>Nu există animale disponibile.</CommandReleaseAnimalsFail_NoAnimals>
   
   <!-- Squad attack -->
   <!-- EN: Attack -->
-  <CommandSquadAttack>TODO</CommandSquadAttack>
+  <CommandSquadAttack>Atac</CommandSquadAttack>
   <!-- EN: Order selected colonists to attack designated target. -->
-  <CommandSquadAttackDesc>TODO</CommandSquadAttackDesc>
+  <CommandSquadAttackDesc>Ordonă coloniștilor selectați să atace ținta desemnată.</CommandSquadAttackDesc>
   
   <!-- Melee attack -->
   <!-- EN: Melee attack -->
-  <CommandMeleeAttack>TODO</CommandMeleeAttack>
+  <CommandMeleeAttack>Atac corp la corp</CommandMeleeAttack>
   <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
-  <CommandMeleeAttackDesc>TODO</CommandMeleeAttackDesc>
+  <CommandMeleeAttackDesc>Ordonă coloniștilor selectați să atace ținta desemnată folosind doar pumnii și armele corp la corp.</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
   <!-- EN: Hold fire -->
-  <CommandHoldFire>TODO</CommandHoldFire>
+  <CommandHoldFire>Opriți focul</CommandHoldFire>
   <!-- EN: End any ongoing attacks. -->
-  <CommandHoldFireDesc>TODO</CommandHoldFireDesc>
+  <CommandHoldFireDesc>Pune capăt oricăror atacuri în curs de desfășurare.</CommandHoldFireDesc>
   
   <!-- reload -->
   <!-- EN: No {CHARGENOUN_plural} left. -->
-  <CommandReload_NoCharges>TODO</CommandReload_NoCharges>
+  <CommandReload_NoCharges>Nu mai există {CHARGENOUN_plural}.</CommandReload_NoCharges>
   <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
-  <CommandReload_NoAmmo>TODO</CommandReload_NoAmmo>
+  <CommandReload_NoAmmo>Trebuie reîncărcată cu {COUNT} {AMMO_label}.</CommandReload_NoAmmo>
   
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
-  <CommandSelectPlantToGrowMulti>TODO</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrowMulti>Selectează planta de cultivat</CommandSelectPlantToGrowMulti>
   <!-- EN: Plant: {0} -->
-  <CommandSelectPlantToGrow>TODO</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrow>Semănați: {0}</CommandSelectPlantToGrow>
   <!-- EN: Determine which plant should be sown here. -->
-  <CommandSelectPlantToGrowDesc>TODO</CommandSelectPlantToGrowDesc>
+  <CommandSelectPlantToGrowDesc>Determină ce plantă ar trebui să fie semănată aici.</CommandSelectPlantToGrowDesc>
   
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <!-- EN: Tuned to -->
-  <CommandSelectMineralToScanFor>TODO</CommandSelectMineralToScanFor>
+  <CommandSelectMineralToScanFor>Acordat pentru</CommandSelectMineralToScanFor>
 
   <!-- Build copy -->
   <!-- EN: Build copy -->
-  <CommandBuildCopy>TODO</CommandBuildCopy>
+  <CommandBuildCopy>Construiește o copie</CommandBuildCopy>
   <!-- EN: Build a copy of this building. -->
-  <CommandBuildCopyDesc>TODO</CommandBuildCopyDesc>
+  <CommandBuildCopyDesc>Construiește o copie a acestei clădiri.</CommandBuildCopyDesc>
 
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <CommandFormCaravan>TODO</CommandFormCaravan>
+  <CommandFormCaravan>Formează o caravană</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
-  <CommandFormCaravanDesc>TODO</CommandFormCaravanDesc>
+  <CommandFormCaravanDesc>Formează un grup de coloniști capabili să călătorească în zone noi. Coloniștii vor aduna toate proviziile atribuite și animalele însoțitoare, vor părăsi zona lor actuală și vor aștepta alte ordine.</CommandFormCaravanDesc>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
-  <CommandReformCaravan>TODO</CommandReformCaravan>
+  <CommandReformCaravan>Reformă caravana</CommandReformCaravan>
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
-  <CommandReformCaravanDesc>TODO</CommandReformCaravanDesc>
+  <CommandReformCaravanDesc>Reformați un grup de coloniști. Coloniștii vor părăsi zona în care se află și vor aștepta alte ordine.</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
-  <CommandReformCaravanFailHostilePawns>TODO</CommandReformCaravanFailHostilePawns>
+  <CommandReformCaravanFailHostilePawns>Mai sunt încă câțiva inamici în această zonă.</CommandReformCaravanFailHostilePawns>
   
   <!-- Split caravan -->
   <!-- EN: Split -->
-  <CommandSplitCaravan>TODO</CommandSplitCaravan>
+  <CommandSplitCaravan>Split</CommandSplitCaravan>
   <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
-  <CommandSplitCaravanDesc>TODO</CommandSplitCaravanDesc>
+  <CommandSplitCaravanDesc>Împarte această rulotă în două. Rulotele pot fi ulterior reunite din nou într-una singură, atâta timp cât sunt apropiate una de cealaltă.</CommandSplitCaravanDesc>
   
   <!-- Merge caravan -->
   <!-- EN: Merge -->
-  <CommandMergeCaravans>TODO</CommandMergeCaravans>
+  <CommandMergeCaravans>Unește</CommandMergeCaravans>
   <!-- EN: Merge selected caravans. -->
-  <CommandMergeCaravansDesc>TODO</CommandMergeCaravansDesc>
+  <CommandMergeCaravansDesc>Unește caravanele selectate.</CommandMergeCaravansDesc>
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
-  <CommandMergeCaravansFailCaravansNotSelected>TODO</CommandMergeCaravansFailCaravansNotSelected>
+  <CommandMergeCaravansFailCaravansNotSelected>Selectați toate caravanele care trebuie să fie unite. Rulotele trebuie să fie apropiate una de cealaltă.</CommandMergeCaravansFailCaravansNotSelected>
   <!-- EN: Join -->
-  <CommandJoinCaravan>TODO</CommandJoinCaravan>
+  <CommandJoinCaravan>Alăturați-vă</CommandJoinCaravan>
   
   <!-- Settle -->
   <!-- EN: Settle -->
-  <CommandSettle>TODO</CommandSettle>
+  <CommandSettle>Stabilire</CommandSettle>
   <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
-  <CommandSettleDesc>TODO</CommandSettleDesc>
+  <CommandSettleDesc>Setați-vă în această zonă. Coloniștii tăi vor intra în această zonă și vei putea începe să construiești o nouă casă.</CommandSettleDesc>
   <!-- EN: Your faction can only have one base. -->
-  <CommandSettleFailAlreadyHaveBase>TODO</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailAlreadyHaveBase>Facțiunea ta nu poate avea decât o singură bază.</CommandSettleFailAlreadyHaveBase>
   <!-- EN: Reached maximum number of colonies. -->
-  <CommandSettleFailReachedMaximumNumberOfBases>TODO</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailReachedMaximumNumberOfBases>A fost atins numărul maxim de colonii.</CommandSettleFailReachedMaximumNumberOfBases>
   <!-- EN: There isn't anybody there to claim the area. -->
-  <CommandSettleFailNoColonists>TODO</CommandSettleFailNoColonists>
+  <CommandSettleFailNoColonists>Nu există nimeni care să revendice această zonă.</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
-  <CommandSettleFailEnemies>TODO</CommandSettleFailEnemies>
+  <CommandSettleFailEnemies>Există inamici în această zonă.</CommandSettleFailEnemies>
   
   <!-- Abandon home -->
   <!-- EN: Abandon -->
-  <CommandAbandonHome>TODO</CommandAbandonHome>
+  <CommandAbandonHome>Abandonați</CommandAbandonHome>
   <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
-  <CommandAbandonHomeDesc>TODO</CommandAbandonHomeDesc>
+  <CommandAbandonHomeDesc>Abandonați această zonă. Zona va deveni inaccesibilă și nu vă veți mai putea întoarce niciodată aici. După ce îți abandonezi căminul, vei putea să comanzi uneia dintre caravanele tale să se stabilească într-o zonă nouă.</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
-  <CommandAbandonHomeFailAllColonistsThere>TODO</CommandAbandonHomeFailAllColonistsThere>
+  <CommandAbandonHomeFailAllColonistsThere>Toți coloniștii tăi sunt acolo.</CommandAbandonHomeFailAllColonistsThere>
   
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
-  <CommandCancelFormingCaravan>TODO</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravan>Anulează formarea caravanei</CommandCancelFormingCaravan>
   <!-- EN: Terminate the caravan formation process. -->
-  <CommandCancelFormingCaravanDesc>TODO</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravanDesc>Încheie procesul de formare a caravanei.</CommandCancelFormingCaravanDesc>
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->
-  <CommandRemoveFromCaravan>TODO</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravan>Îndepărtează din rulotă</CommandRemoveFromCaravan>
   <!-- EN: Remove this person or animal from the caravan. -->
-  <CommandRemoveFromCaravanDesc>TODO</CommandRemoveFromCaravanDesc>
+  <CommandRemoveFromCaravanDesc>Îndepărtează această persoană sau acest animal din caravană.</CommandRemoveFromCaravanDesc>
   
   <!-- Add to caravan -->
   <!-- EN: Add to caravan -->
-  <CommandAddToCaravan>TODO</CommandAddToCaravan>
+  <CommandAddToCaravan>Adaugă la caravană</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
-  <CommandAddToCaravanDesc>TODO</CommandAddToCaravanDesc>
+  <CommandAddToCaravanDesc>Adaugă această persoană sau acest animal la caravana care se formează.</CommandAddToCaravanDesc>
   
   <!-- Show map -->
   <!-- EN: Zoom in -->
-  <CommandShowMap>TODO</CommandShowMap>
+  <CommandShowMap>Mărește în</CommandShowMap>
   <!-- EN: Zoom in on this area. -->
-  <CommandShowMapDesc>TODO</CommandShowMapDesc>
+  <CommandShowMapDesc>Mărește această zonă.</CommandShowMapDesc>
   
   <!-- Trade -->
   <!-- EN: Trade -->
-  <CommandTrade>TODO</CommandTrade>
+  <CommandTrade>Comerț</CommandTrade>
   <!-- EN: Trade with this faction. -->
-  <CommandTradeDesc>TODO</CommandTradeDesc>
+  <CommandTradeDesc>Faceți comerț cu această facțiune.</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
-  <CommandTradeFailNoNegotiator>TODO</CommandTradeFailNoNegotiator>
+  <CommandTradeFailNoNegotiator>Nu există niciun negociator conștient și capabil.</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
-  <CommandTradeFailNeedPermit>TODO</CommandTradeFailNeedPermit>
+  <CommandTradeFailNeedPermit>Niciunul dintre oamenii tăi nu are permisiunea necesară pentru facțiune: {0}</CommandTradeFailNeedPermit>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
-  <CommandOfferGifts>TODO</CommandOfferGifts>
+  <CommandOfferGifts>Oferă cadouri</CommandOfferGifts>
   <!-- EN: Offer gifts to this faction. -->
-  <CommandOfferGiftsDesc>TODO</CommandOfferGiftsDesc>
+  <CommandOfferGiftsDesc>Oferă cadouri acestei facțiuni.</CommandOfferGiftsDesc>
 
   <!-- Fulfill request -->
   <!-- EN: Fulfill trade offer -->
-  <CommandFulfillTradeOffer>TODO</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOffer>Îndeplinește oferta comercială</CommandFulfillTradeOffer>
   <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
-  <CommandFulfillTradeOfferDesc>TODO</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferDesc>Îndeplinește cererea de bunuri a așezării și revendică-ți recompensa.</CommandFulfillTradeOfferDesc>
   <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
-  <CommandFulfillTradeOfferFailInsufficient>TODO</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferFailInsufficient>Caravana ta trebuie să aibă {0} pentru a îndeplini această ofertă comercială.</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Give {0}? -->
-  <CommandFulfillTradeOfferConfirm>TODO</CommandFulfillTradeOfferConfirm>
+  <CommandFulfillTradeOfferConfirm>Dați {0}?</CommandFulfillTradeOfferConfirm>
   
   <!-- Take off -->
   <!-- EN: Take off -->
-  <CommandTakeOff>TODO</CommandTakeOff>
+  <CommandTakeOff>Decolează</CommandTakeOff>
   <!-- EN: Get on board the ship and escape the planet. -->
-  <CommandTakeOffDesc>TODO</CommandTakeOffDesc>
+  <CommandTakeOffDesc>Urcați-vă la bordul navei și scăpați de pe planetă.</CommandTakeOffDesc>
   <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
-  <CommandTakeOffConfirmation>TODO</CommandTakeOffConfirmation>
+  <CommandTakeOffConfirmation>Ești sigur că vrei să lansezi nava?\n\nToată lumea din această zonă va scăpa de pe planetă. Toți ceilalți vor fi lăsați în urmă.</CommandTakeOffConfirmation>
 
   <!-- Set target fuel level -->
   <!-- EN: Set target fuel level -->
-  <CommandSetTargetFuelLevel>TODO</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevel>Setează nivelul țintă de combustibil</CommandSetTargetFuelLevel>
   <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
-  <CommandSetTargetFuelLevelDesc>TODO</CommandSetTargetFuelLevelDesc>
+  <CommandSetTargetFuelLevelDesc>Stabilește nivelul țintă de combustibil. Coloniștii vor încerca să îl umple până la nivelul țintă de combustibil.</CommandSetTargetFuelLevelDesc>
 
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
-  <CommandToggleAllowAutoRefuel>TODO</CommandToggleAllowAutoRefuel>
+  <CommandToggleAllowAutoRefuel>Comută realimentarea automată</CommandToggleAllowAutoRefuel>
   <!-- EN: Sets whether or not automatic refueling is allowed. -->
-  <CommandToggleAllowAutoRefuelDesc>TODO</CommandToggleAllowAutoRefuelDesc>
+  <CommandToggleAllowAutoRefuelDesc>Stabilește dacă este permisă sau nu realimentarea automată.</CommandToggleAllowAutoRefuelDesc>
   
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
-  <CommandCancelLoad>TODO</CommandCancelLoad>
+  <CommandCancelLoad>Anulează încărcarea</CommandCancelLoad>
   <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
-  <CommandCancelLoadDesc>TODO</CommandCancelLoadDesc>
+  <CommandCancelLoadDesc>Anulează încărcarea acesteia cu oameni sau obiecte și ejectează tot ce este deja încărcat.</CommandCancelLoadDesc>
   
   <!-- Launch group -->
   <!-- EN: Launch -->
-  <CommandLaunchGroup>TODO</CommandLaunchGroup>
+  <CommandLaunchGroup>Lansare</CommandLaunchGroup>
   <!-- EN: Take off and fly to a destination. -->
-  <CommandLaunchGroupDesc>TODO</CommandLaunchGroupDesc>
+  <CommandLaunchGroupDesc>Decolează și zboară spre o destinație.</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
-  <CommandLaunchGroupFailNotConnectedToFuelingPort>TODO</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Unele navete de transport din acest grup de încărcare nu sunt conectate la un port de alimentare cu combustibil.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Some pod launchers in this group have no fuel. -->
-  <CommandLaunchGroupFailNoFuel>TODO</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailNoFuel>Unele lansatoare de capsule din acest grup nu au combustibil.</CommandLaunchGroupFailNoFuel>
   <!-- EN: Some pod launchers are under a roof. -->
-  <CommandLaunchGroupFailUnderRoof>TODO</CommandLaunchGroupFailUnderRoof>
+  <CommandLaunchGroupFailUnderRoof>Unele lansatoare de capsule se află sub un acoperiș.</CommandLaunchGroupFailUnderRoof>
   
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
-  <CommandLoadTransporter>TODO</CommandLoadTransporter>
+  <CommandLoadTransporter>Încarcă grupul de lansare din {0}</CommandLoadTransporter>
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterDesc>TODO</CommandLoadTransporterDesc>
+  <CommandLoadTransporterDesc>Definește transportorul (transportorii) selectat(i) ca grup de lansare. Deschide dialogul de încărcare pentru a putea decide cine și ce trebuie încărcat înăuntru.</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
-  <CommandLoadTransporterFailNotConnectedToFuelingPort>TODO</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>Capsula de transport nu este conectată la un port de alimentare cu combustibil.</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
-  <CommandLoadTransporterFailNoFuel>TODO</CommandLoadTransporterFailNoFuel>
+  <CommandLoadTransporterFailNoFuel>Lansatorul de capsule nu are combustibil.</CommandLoadTransporterFailNoFuel>
   
   <!-- Load transporter (single) -->
   <!-- EN: Load -->
-  <CommandLoadTransporterSingle>TODO</CommandLoadTransporterSingle>
+  <CommandLoadTransporterSingle>Încarcă</CommandLoadTransporterSingle>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterSingleDesc>TODO</CommandLoadTransporterSingleDesc>
+  <CommandLoadTransporterSingleDesc>Deschide fereastra de dialog de încărcare astfel încât să puteți decide cine și ce ar trebui să fie încărcat înăuntru.</CommandLoadTransporterSingleDesc>
   
   <!-- Transporters set to load -->
   <!-- EN: Set to load -->
-  <CommandSetToLoadTransporter>TODO</CommandSetToLoadTransporter>
+  <CommandSetToLoadTransporter>Setează pentru încărcare</CommandSetToLoadTransporter>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandSetToLoadTransporterDesc>TODO</CommandSetToLoadTransporterDesc>
+  <CommandSetToLoadTransporterDesc>Deschide dialogul de încărcare, astfel încât să puteți decide cine și ce ar trebui să fie încărcat înăuntru.</CommandSetToLoadTransporterDesc>
   
   <!-- Autoload transporters -->
   <!-- EN: Autoload -->
-  <CommandAutoloadTransporters>TODO</CommandAutoloadTransporters>
+  <CommandAutoloadTransporters>Autoîncărcare automată</CommandAutoloadTransporters>
   <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
-  <CommandAutoloadTransportersDesc>TODO</CommandAutoloadTransportersDesc>
+  <CommandAutoloadTransportersDesc>Comută încărcarea automată a tuturor încărcăturilor necesare de îndată ce acestea devin disponibile.</CommandAutoloadTransportersDesc>
   
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
-  <CommandSelectPreviousTransporter>TODO</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporter>Selectează precedentul în grupul de lansare</CommandSelectPreviousTransporter>
   <!-- EN: Select previous transport pod in this launch group. -->
-  <CommandSelectPreviousTransporterDesc>TODO</CommandSelectPreviousTransporterDesc>
+  <CommandSelectPreviousTransporterDesc>Selectează capsula de transport anterioară din acest grup de lansare.</CommandSelectPreviousTransporterDesc>
   
   <!-- Select all transporters -->
   <!-- EN: Select launch group -->
-  <CommandSelectAllTransporters>TODO</CommandSelectAllTransporters>
+  <CommandSelectAllTransporters>Selectează grupul de lansare</CommandSelectAllTransporters>
   <!-- EN: Select all transport pods in this launch group. -->
-  <CommandSelectAllTransportersDesc>TODO</CommandSelectAllTransportersDesc>
+  <CommandSelectAllTransportersDesc>Selectează toate capsulele de transport din acest grup de lansare.</CommandSelectAllTransportersDesc>
   
   <!-- Select next transporter -->
   <!-- EN: Select next in launch group -->
-  <CommandSelectNextTransporter>TODO</CommandSelectNextTransporter>
+  <CommandSelectNextTransporter>Selectează următorul în grupul de lansare</CommandSelectNextTransporter>
   <!-- EN: Select next transport pod in this launch group. -->
-  <CommandSelectNextTransporterDesc>TODO</CommandSelectNextTransporterDesc>
+  <CommandSelectNextTransporterDesc>Selectează următoarea capsulă de transport din acest grup de lansare.</CommandSelectNextTransporterDesc>
   
   <!-- Vent -->
   <!-- EN: Designate open/close -->
-  <CommandDesignateOpenCloseVentLabel>TODO</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentLabel>Desemnează deschiderea/închiderea</CommandDesignateOpenCloseVentLabel>
   <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
-  <CommandDesignateOpenCloseVentDesc>TODO</CommandDesignateOpenCloseVentDesc>
+  <CommandDesignateOpenCloseVentDesc>Desemnează această gură de aerisire pentru a fi deschisă sau închisă. Un colonist va veni în curând pentru a îndeplini această sarcină.</CommandDesignateOpenCloseVentDesc>
   
   <!-- Remove waypoint -->
   <!-- EN: Remove -->
-  <CommandRemoveWaypointLabel>TODO</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointLabel>Șterge</CommandRemoveWaypointLabel>
   <!-- EN: Remove this waypoint. -->
-  <CommandRemoveWaypointDesc>TODO</CommandRemoveWaypointDesc>
+  <CommandRemoveWaypointDesc>Îndepărtează acest punct intermediar.</CommandRemoveWaypointDesc>
 
   <!-- Pause caravan -->
   <!-- EN: Rest -->
-  <CommandPauseCaravan>TODO</CommandPauseCaravan>
+  <CommandPauseCaravan>Odihnire</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
-  <CommandToggleCaravanPauseDesc>TODO</CommandToggleCaravanPauseDesc>
+  <CommandToggleCaravanPauseDesc>Începe odihna. Acest lucru are următoarele beneficii:\n\n - Oamenii pot interacționa social\n - Căutați hrană de {0} ori mai repede\n - Vizibilitatea multiplicată cu {1}.</CommandToggleCaravanPauseDesc>
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
-  <CommandShowSellableItems>TODO</CommandShowSellableItems>
+  <CommandShowSellableItems>Arată ce va cumpăra</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
-  <CommandShowSellableItemsDesc>TODO</CommandShowSellableItemsDesc>
+  <CommandShowSellableItemsDesc>Afișează tot ce vrea să cumpere acest comerciant.</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
   <!-- EN: Attack -->
-  <CommandAttackSettlement>TODO</CommandAttackSettlement>
+  <CommandAttackSettlement>Atacă</CommandAttackSettlement>
   <!-- EN: Attack this settlement. -->
-  <CommandAttackSettlementDesc>TODO</CommandAttackSettlementDesc>
+  <CommandAttackSettlementDesc>Atacă această așezare.</CommandAttackSettlementDesc>
 
   <!-- Send shuttle -->
   <!-- EN: Send -->
-  <CommandSendShuttle>TODO</CommandSendShuttle>
+  <CommandSendShuttle>Trimiteți</CommandSendShuttle>
   <!-- EN: Initiate takeoff and have the shuttle fly to its destination. -->
-  <CommandSendShuttleDesc>TODO</CommandSendShuttleDesc>
+  <CommandSendShuttleDesc>Inițiază decolarea și pune naveta să zboare spre destinație.</CommandSendShuttleDesc>
   <!-- EN: The shuttle is under a roof. -->
-  <CommandSendShuttleFailUnderRoof>TODO</CommandSendShuttleFailUnderRoof>
+  <CommandSendShuttleFailUnderRoof>Naveta se află sub un acoperiș.</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
-  <CommandSendShuttleFailMissingRequiredThing>TODO</CommandSendShuttleFailMissingRequiredThing>
+  <CommandSendShuttleFailMissingRequiredThing>Lipsesc unele dintre obiectele sau persoanele necesare.</CommandSendShuttleFailMissingRequiredThing>
   
   <!-- Dismiss shuttle -->
   <!-- EN: Dismiss -->
-  <CommandShuttleDismiss>TODO</CommandShuttleDismiss>
+  <CommandShuttleDismiss>Desființează</CommandShuttleDismiss>
   <!-- EN: Unload all contents and send the shuttle away. -->
-  <CommandShuttleDismissDesc>TODO</CommandShuttleDismissDesc>
+  <CommandShuttleDismissDesc>Descărcați tot conținutul și trimiteți naveta departe.</CommandShuttleDismissDesc>
 
   <!-- Place blueprints -->
   <!-- EN: Place blueprints -->
-  <CommandPlaceBlueprints>TODO</CommandPlaceBlueprints>
+  <CommandPlaceBlueprints>Plasează schițele</CommandPlaceBlueprints>
   <!-- EN: Place all required blueprints where possible. -->
-  <CommandPlaceBlueprintsDesc>TODO</CommandPlaceBlueprintsDesc>
+  <CommandPlaceBlueprintsDesc>Plasează toate schițele necesare acolo unde este posibil.</CommandPlaceBlueprintsDesc>
   <!-- EN: Place {0} blueprints -->
-  <CommandPlaceBlueprintsSpecific>TODO</CommandPlaceBlueprintsSpecific>
+  <CommandPlaceBlueprintsSpecific>Plasează schițele {0}</CommandPlaceBlueprintsSpecific>
   <!-- EN: Place all {0} blueprints where possible. -->
-  <CommandPlaceBlueprintsSpecificDesc>TODO</CommandPlaceBlueprintsSpecificDesc>
+  <CommandPlaceBlueprintsSpecificDesc>Plasează toate schițele {0} acolo unde este posibil.</CommandPlaceBlueprintsSpecificDesc>
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
-  <CommandCancelMonumentMarker>TODO</CommandCancelMonumentMarker>
+  <CommandCancelMonumentMarker>Anulează</CommandCancelMonumentMarker>
   <!-- EN: Permanently remove this monument marker. -->
-  <CommandCancelMonumentMarkerDesc>TODO</CommandCancelMonumentMarkerDesc>
+  <CommandCancelMonumentMarkerDesc>Înlătură permanent acest monument marker.</CommandCancelMonumentMarkerDesc>
 
   <!-- View quest -->
   <!-- EN: View quest: {0} -->
-  <CommandViewQuest>TODO</CommandViewQuest>
+  <CommandViewQuest>Vezi misiunea: {0}</CommandViewQuest>
   <!-- EN: View this quest in quests tab. -->
-  <CommandViewQuestDesc>TODO</CommandViewQuestDesc>
+  <CommandViewQuestDesc>Vizualizează această misiune în fila Misiuni.</CommandViewQuestDesc>
   <!-- EN: Open linked quest -->
-  <CommandOpenLinkedQuest>TODO</CommandOpenLinkedQuest>
+  <CommandOpenLinkedQuest>Deschideți misiunea asociată</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
-  <CommandOpenLinkedQuestDesc>TODO</CommandOpenLinkedQuestDesc>
+  <CommandOpenLinkedQuestDesc>Deschide misiunea asociată în fila de misiuni.</CommandOpenLinkedQuestDesc>
   
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
-  <TakeDrug>TODO</TakeDrug>
+  <TakeDrug>Ia drogul...</TakeDrug>
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
-  <TakeDrugDesc>TODO</TakeDrugDesc>
-  
-  <!-- UNUSED -->
-  <CommandBedSetOwnerLabel>Proprietar</CommandBedSetOwnerLabel>
-  <BedAssign>Atribuie</BedAssign>
-  <CommandBedSetForColonistsLabel>Pat pentru coloniști</CommandBedSetForColonistsLabel>
-  <CommandBedSetForColonistsDesc>Desemnează aceste paturi pentru coloniști.</CommandBedSetForColonistsDesc>
-  <CommandBedSetAsNonMedicalLabel>Pat non-medical</CommandBedSetAsNonMedicalLabel>
-  <CommandBedSetAsNonMedicalDesc> Desemnează acest pat pentru uz non-medical.</CommandBedSetAsNonMedicalDesc>
-  <CommandToggleDoorLock>Comută Încuiat/Descuiat</CommandToggleDoorLock>
-  <CommandToggleDoorLockDesc>Încuie sau descuie o ușă. Ușile încuiate nu se vor deschide pentru nimeni.</CommandToggleDoorLockDesc>
+  <TakeDrugDesc>Alege un drog din inventar pentru a-l ingera imediat.</TakeDrugDesc>
 
 </LanguageData>
