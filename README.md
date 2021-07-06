@@ -47,6 +47,7 @@ This table is for keeping consistent translations of certain words.
 |lavish (meal)|somptuos|
 |mood|dispoziție|
 |blight|molimă|
+|blunt| ? |
 
 |Not to be translated|
 |-|
