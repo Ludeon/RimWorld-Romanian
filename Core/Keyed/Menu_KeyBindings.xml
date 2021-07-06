@@ -2,16 +2,16 @@
 <LanguageData>
 
   <!-- EN: Save -->
-  <SaveButton>Salvare</SaveButton>
+  <SaveButton>Salvează</SaveButton>
   <!-- EN: Clear -->
-  <ClearBinding>Anulare</ClearBinding>
+  <ClearBinding>Anulează</ClearBinding>
   <!-- EN: Reset to default -->
-  <ResetBinding>Resetare</ResetBinding>
+  <ResetBinding>Resetează la valori implicite</ResetBinding>
   <!-- EN: Left-click to bind this key or right-click for options -->
-  <BindingButtonToolTip>Click stânga pentru a ordona sau click dreapta pentru a deschide un meniu</BindingButtonToolTip>
+  <BindingButtonToolTip>Clic stânga pentru asociere de tastă sau clic dreapta pentru opțiuni</BindingButtonToolTip>
   <!-- EN: Press any key or Esc to cancel... -->
-  <PressAnyKeyOrEsc>Apasă orice tastă pentru întoarcere...</PressAnyKeyOrEsc>
+  <PressAnyKeyOrEsc>Apasă orice tastă sau Esc pentru anulare...</PressAnyKeyOrEsc>
   <!-- EN: Key binding overwritten: {0} -->
-  <KeyBindingOverwritten>TODO</KeyBindingOverwritten>
+  <KeyBindingOverwritten>Asociere de tastă suprascrisă: {0}</KeyBindingOverwritten>
   
 </LanguageData>

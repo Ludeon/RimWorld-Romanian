@@ -4,15 +4,8 @@
   <!-- EN: Wiki -->
   <Wiki>Wiki</Wiki>
   <!-- EN: Opens Web browser to see the RimWorld wiki and get help playing. -->
-  <WikiTip>Deschide un browser de internet pentru ajutor de joc.</WikiTip>
+  <WikiTip>Deschide un browser pentru a vedea wiki-ul RimWorld și a obține ajutor.</WikiTip>
   <!-- EN: Menu -->
   <Menu>Meniu</Menu>
-
-  <!-- UNUSED -->
-  <Overview>Vedere de ansamblu</Overview>
-  <OverviewTip>Statistici și priorități de muncă.</OverviewTip>
-  <ResearchTip>Proiecte de cercetare.</ResearchTip>
-  <MenuTip>Salvează, încarcă, închide sau modifică opțiunile jocului.</MenuTip>
-  <Architect>Arhitect</Architect>
 
 </LanguageData>

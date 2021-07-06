@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- EN: d -->
-  <LetterDay>TODO</LetterDay>
+  <LetterDay>d</LetterDay>
   <!-- EN: h -->
-  <LetterHour>TODO</LetterHour>
+  <LetterHour>h</LetterHour>
   <!-- EN: m -->
-  <LetterMinute>TODO</LetterMinute>
+  <LetterMinute>m</LetterMinute>
   <!-- EN: s -->
-  <LetterSecond>TODO</LetterSecond>
+  <LetterSecond>s</LetterSecond>
   <!-- EN: y -->
-  <LetterYear>TODO</LetterYear>
+  <LetterYear>y</LetterYear>
 
   <!-- EN: days -->
   <DaysLower>zile</DaysLower>
   <!-- EN: hours -->
-  <HoursLower>TODO</HoursLower>
+  <HoursLower>ore</HoursLower>
   <!-- EN: seconds -->
   <SecondsLower>secunde</SecondsLower>
 
@@ -28,63 +28,63 @@
   <!-- EN: winter -->
   <SeasonWinter>Iarnă</SeasonWinter>
   <!-- EN: permanent summer -->
-  <SeasonPermanentSummer>TODO</SeasonPermanentSummer>
+  <SeasonPermanentSummer>vară permanentă</SeasonPermanentSummer>
   <!-- EN: permanent winter -->
-  <SeasonPermanentWinter>TODO</SeasonPermanentWinter>
+  <SeasonPermanentWinter>iarnă permanentă</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
-  <QuadrumAprimay>TODO</QuadrumAprimay>
+  <QuadrumAprimay>Aprimai</QuadrumAprimay>
   <!-- EN: Jugust -->
-  <QuadrumJugust>TODO</QuadrumJugust>
+  <QuadrumJugust>Iugust</QuadrumJugust>
   <!-- EN: Septober -->
-  <QuadrumSeptober>TODO</QuadrumSeptober>
+  <QuadrumSeptober>Septombrie</QuadrumSeptober>
   <!-- EN: Decembary -->
-  <QuadrumDecembary>TODO</QuadrumDecembary>
+  <QuadrumDecembary>Decembruarie</QuadrumDecembary>
 
   <!-- EN: Apr -->
-  <QuadrumAprimay_Short>TODO</QuadrumAprimay_Short>
+  <QuadrumAprimay_Short>Apr</QuadrumAprimay_Short>
   <!-- EN: Jug -->
-  <QuadrumJugust_Short>TODO</QuadrumJugust_Short>
+  <QuadrumJugust_Short>Jug</QuadrumJugust_Short>
   <!-- EN: Sep -->
-  <QuadrumSeptober_Short>TODO</QuadrumSeptober_Short>
+  <QuadrumSeptober_Short>Sep</QuadrumSeptober_Short>
   <!-- EN: Dec -->
-  <QuadrumDecembary_Short>TODO</QuadrumDecembary_Short>
+  <QuadrumDecembary_Short>Dec</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
-  <Born>TODO</Born>
+  <Born>Născut: {0}</Born>
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>TODO</AgeChronological>
+  <AgeChronological>Vârsta cronologică: {0} ani, {1} quadrumuri, {2} zile</AgeChronological>
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>TODO</AgeBiological>
+  <AgeBiological>Vârsta biologică: {0} ani, {1} quadrumuri, {2} zile</AgeBiological>
 
   <!-- Date periods -->
   <!-- EN: 1 year -->
-  <Period1Year>TODO</Period1Year>
+  <Period1Year>1 an</Period1Year>
   <!-- EN: {0} years -->
-  <PeriodYears>TODO</PeriodYears>
+  <PeriodYears>{0} ani</PeriodYears>
   <!-- EN: 1 quadrum -->
-  <Period1Quadrum>TODO</Period1Quadrum>
+  <Period1Quadrum>1 quadrum</Period1Quadrum>
   <!-- EN: {0} quadrums -->
-  <PeriodQuadrums>TODO</PeriodQuadrums>
+  <PeriodQuadrums>{0} quadrumuri</PeriodQuadrums>
   <!-- EN: 1 day -->
-  <Period1Day>TODO</Period1Day>
+  <Period1Day>1 zi</Period1Day>
   <!-- EN: {0} days -->
-  <PeriodDays>TODO</PeriodDays>
+  <PeriodDays>{0} zile</PeriodDays>
   <!-- EN: 1 hour -->
-  <Period1Hour>TODO</Period1Hour>
+  <Period1Hour>1 oră</Period1Hour>
   <!-- EN: {0} hours -->
-  <PeriodHours>TODO</PeriodHours>
+  <PeriodHours>{0} ore</PeriodHours>
   <!-- EN: 1 second -->
-  <Period1Second>TODO</Period1Second>
+  <Period1Second>1 secundă</Period1Second>
   <!-- EN: {0} seconds -->
-  <PeriodSeconds>TODO</PeriodSeconds>
+  <PeriodSeconds>{0} secunde</PeriodSeconds>
 
   <!-- Misc -->
   <!-- EN: Started -->
-  <Started>TODO</Started>
+  <Started>A început</Started>
   <!-- EN: Lasted -->
-  <Lasted>TODO</Lasted>
+  <Lasted>A durat</Lasted>
   <!-- EN: occurred {0} ago -->
-  <OccurredTimeAgo>TODO</OccurredTimeAgo>
+  <OccurredTimeAgo>a avut loc acum {0}</OccurredTimeAgo>
   
 </LanguageData>

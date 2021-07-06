@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- EN: Autosaving -->
@@ -17,73 +17,73 @@
   <!-- EN: Version {0} -->
   <VersionIndicator>Versiunea {0}</VersionIndicator>
   <!-- EN: Game version -->
-  <GameVersionIndicator>TODO</GameVersionIndicator>
+  <GameVersionIndicator>Versiunea jocului</GameVersionIndicator>
   <!-- EN: development build -->
   <DevelopmentBuildLower>versiune de dezvoltare</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
   <CompiledOn>Compilat {0}</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
-  <LoggedIntoSteamAs>TODO</LoggedIntoSteamAs>
+  <LoggedIntoSteamAs>Conectat la Steam ca {0}</LoggedIntoSteamAs>
   
   <!-- ToCommaList() -->
   <!-- EN: {0} and {1} -->
-  <ToCommaListAnd>TODO</ToCommaListAnd>
+  <ToCommaListAnd>{0} și {1}</ToCommaListAnd>
   
   <!-- General-use words -->
   <!-- EN: Yes -->
-  <Yes>TODO</Yes>
+  <Yes>Da</Yes>
   <!-- EN: No -->
-  <No>TODO</No>
+  <No>Nu</No>
   <!-- EN: new -->
-  <New>TODO</New>
+  <New>nou</New>
   <!-- EN: Gender -->
-  <Gender>TODO</Gender>
+  <Gender>Sex</Gender>
   <!-- EN: min -->
-  <min>TODO</min>
+  <min>min</min>
   <!-- EN: max -->
-  <max>TODO</max>
+  <max>max</max>
   <!-- EN: chance -->
-  <chance>TODO</chance>
+  <chance>șansă</chance>
   <!-- EN: context -->
-  <context>TODO</context>
+  <context>context</context>
   <!-- EN: multiplier -->
-  <multiplier>TODO</multiplier>
+  <multiplier>multiplicator</multiplier>
   <!-- EN: damage -->
-  <damage>TODO</damage>
+  <damage>daune</damage>
   <!-- EN: radius -->
-  <radius>TODO</radius>
+  <radius>radius</radius>
   <!-- EN: expired -->
-  <expired>TODO</expired>
+  <expired>expired</expired>
   <!-- EN: duration (days) -->
-  <durationDays>TODO</durationDays>
+  <durationDays>durata (zile)</durationDays>
   <!-- EN: interval (days) -->
-  <intervalDays>TODO</intervalDays>
+  <intervalDays>interval (zile)</intervalDays>
   <!-- EN: repeat -->
-  <repeat>TODO</repeat>
+  <repeat>repetă</repeat>
   <!-- EN: default -->
-  <default>TODO</default>
+  <default>implicit</default>
   <!-- EN: distance -->
-  <distance>TODO</distance>
+  <distance>distanță</distance>
   <!-- EN: YES -->
-  <YesUppercase>TODO</YesUppercase>
+  <YesUppercase>DA</YesUppercase>
   <!-- EN: NO -->
-  <NoUppercase>TODO</NoUppercase>
+  <NoUppercase>NU</NoUppercase>
   <!-- EN: kg -->
-  <kg>TODO</kg>
+  <kg>kg</kg>
   <!-- EN: Day -->
   <Day>Zi</Day>
   <!-- EN: day -->
-  <day>TODO</day>
+  <day>zi</day>
   <!-- EN: Default -->
-  <Default>TODO</Default>
+  <Default>Default</Default>
   <!-- EN: Average -->
-  <Average>TODO</Average>
+  <Average>Media</Average>
   <!-- EN: Cause -->
-  <Cause>TODO</Cause>
+  <Cause>Cauza</Cause>
   <!-- EN: etc -->
-  <Etc>TODO</Etc>
+  <Etc>etc.</Etc>
   <!-- EN: ${0} -->
-  <MoneyFormat>TODO</MoneyFormat>
+  <MoneyFormat>{0}€</MoneyFormat>
 
   <!-- Content generation-->
   
@@ -92,26 +92,26 @@
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>Carne crudă de {0}.</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <MeatInsectDesc>TODO</MeatInsectDesc>
+  <MeatInsectDesc>Carne crudă măcelărită. Dacă este necesar, poate fi gătită în mese sau chiar consumată crudă. Extrem de puțin apetisantă.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <MeatHumanDesc>TODO</MeatHumanDesc>
+  <MeatHumanDesc>Carne crudă măcelărită. Poate fi gătită în mâncare sau mâncată crudă, deși majoritatea oamenilor nu agreează ideea.</MeatHumanDesc>
 
   <!-- EN: techprint ({PROJECT_label}) -->
-  <TechprintLabel>TODO</TechprintLabel>
+  <TechprintLabel>techprint ({PROJECT_label})</TechprintLabel>
   <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
-  <TechprintDesc>TODO</TechprintDesc>
+  <TechprintDesc>Aceasta este o amprentă tehnică pentru proiectul de cercetare "{PROJECT_label}".\n\nForma fizică a techprints poate varia de la resturi de hârtie cu diagrame, până la mașini didactice autonome avansate. Indiferent de formă, ele joacă același rol. Ele oferă cercetătorilor dumneavoastră încrederea că o idee este posibilă și o idee aproximativă a modelelor utilizate în societățile mai bine stabilite.\n\nCercetătorii dvs. au nevoie de cunoștințele fundamentale oferite de techprints pentru a ști de unde să înceapă cu o anumită tehnologie. Numai după ce au fost aplicate suficiente techprints, cercetătorii dvs. pot stabili detaliile fine ale modului de utilizare a tehnologiei în situația dvs. particulară.\n\nAplicarea techprints la un proiect mulțumit îndeplinește jumătate din progresul rămas din cercetare. În plus, cercetătorii obțin întotdeauna un impuls pentru abilitățile lor intelectuale atunci când aplică techprints, chiar și în cazul tehnologiilor deja finalizate.</TechprintDesc>
   <!-- EN: Unlocks -->
-  <Unlocks>TODO</Unlocks>
+  <Unlocks>Unlocks</Unlocks>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>Cadavru de {0} </CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
-  <CorpseDesc>Cadavru de{0}.</CorpseDesc>
+  <CorpseDesc>Trupul mort al unui {0}.</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
-  <DeadLabel>{0} (mort)</DeadLabel>
+  <DeadLabel>{1_label} (mort)</DeadLabel>
 
   <!-- EN: rough {0} -->
   <RoughStoneTerrainLabel>{0} rugos</RoughStoneTerrainLabel>
@@ -127,12 +127,12 @@
   <SmoothStoneTerrainDesc>Podea de {0} natural, șlefuit.</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
-  <BlueprintLabelExtra> (schemă)</BlueprintLabelExtra>
+  <BlueprintLabelExtra> (schiță)</BlueprintLabelExtra>
   <!-- EN:  (building) -->
   <FrameLabelExtra> (construcție)</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
-  <FactionUnaffiliated>TODO</FactionUnaffiliated>
+  <FactionUnaffiliated>Neafiliat</FactionUnaffiliated>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
@@ -140,15 +140,15 @@
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <SomeonesRoom>TODO</SomeonesRoom>
+  <SomeonesRoom>{1} a lui {PAWN_labelShort}</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
-  <CouplesRoom>TODO</CouplesRoom>
+  <CouplesRoom>{2} a lui {PAWN1_labelShort} și {PAWN2_labelShort}</CouplesRoom>
   
   <!-- EN: Important for this type of room. -->
-  <StatRelatesToCurrentRoom>TODO</StatRelatesToCurrentRoom>
+  <StatRelatesToCurrentRoom>Important pentru acest tip de cameră.</StatRelatesToCurrentRoom>
   
   <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
-  <DeepResourceRemaining>TODO</DeepResourceRemaining>
+  <DeepResourceRemaining>{COUNT} {RESOURCE_label} sub pământ aici.</DeepResourceRemaining>
   
   <!-- EN: (various) -->
   <VariousLabel>(variat)</VariousLabel>
@@ -159,19 +159,15 @@
   
   <!-- Rotation -->
   <!-- EN: North -->
-  <North>TODO</North>
+  <North>Nord</North>
   <!-- EN: South -->
-  <South>TODO</South>
+  <South>Sud</South>
   <!-- EN: West -->
-  <West>TODO</West>
+  <West>Vest</West>
   <!-- EN: East -->
-  <East>TODO</East>
+  <East>Est</East>
 
   <!-- EN: applying techprint ({0}) -->
-  <ApplyingTechprint>TODO</ApplyingTechprint>
+  <ApplyingTechprint>aplicarea techprint ({0})</ApplyingTechprint>
   
-  <!-- UNUSED -->
-  <LeatherLabel>Piele de {0}</LeatherLabel>
-  <LeatherDesc>Piele de {0}.</LeatherDesc>
-
 </LanguageData>
