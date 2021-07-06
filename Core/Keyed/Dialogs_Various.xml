@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8-sig'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- EN: Confirm -->
@@ -58,7 +58,7 @@
   
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
-  <SteamClientMissing>Nu s-a putut inițializa API-ul Steam. Cauze posibile:\n\n-Steam nu rulează.\n-Lansat din afara Steam fără ca steam_appid.txt să fie la locul lui.\n- Rulând cu privilegii diferite față de clientul Steam (de exemplu, "ca administrator").\n\nÎn majoritatea cazurilor, repornirea computerului va rezolva această problemă.\n\nPoți juca oricum, dar nu vor fi înregistrate statistici Steam și caracteristicile Steam nu vor fi disponibile.</SteamClientMissing>
+  <SteamClientMissing>Nu s-a putut inițializa API-ul Steam. Cauze posibile:\n\n-Steam nu rulează.\n-Lansarea din afara Steam fără ca steam_appid.txt să fie la locul lui.\n-Rularea cu privilegii diferite față de clientul Steam (de exemplu, "ca administrator").\n\nÎn majoritatea cazurilor, repornirea computerului va rezolva această problemă.\n\nPoți juca oricum, dar nu vor fi înregistrate statistici Steam și caracteristicile Steam nu vor fi disponibile.</SteamClientMissing>
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->

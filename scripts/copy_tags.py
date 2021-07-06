@@ -93,5 +93,5 @@ if __name__ == "__main__":
     while key not in ["y", "n"]:
         key = input("Save contents to disk? (y/n): ")
     if key == "y":
-        # NOTE: "UTF-8" would save as utf-8 without the BOM
-        og_tree.write(str(args.file), encoding="UTF-8-sig", xml_declaration=True)
+        # NOTE: "UTF-8-sig" would save as utf-8 with the BOM, but rimworld does not accept that encoding for some reason
+        og_tree.write(str(args.file), encoding="UTF-8", xml_declaration=True)
