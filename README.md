@@ -37,7 +37,18 @@ This table is for keeping consistent translations of certain words.
 |stockpile|zonă de depozitare|
 |(mining) skill|aptitudine|
 |skilled at ...|e îndemânat la ...|
-|Cooldown|Cooldown|
 |melee|corp la corp|
 |slaughter|măcelărește|
+|skip, farskip|teleportare|
+|(map) tile|țiglă|
+|map|hartă|
+|mental break|cădere nervoasă|
+|mentally broken|afectat mental|
+|lavish (meal)|somptuos|
+|mood|dispoziție|
+
+|Not to be translated|
+|-|
+|Cooldown|Cooldown|
+|Psyfocus|Psyfocus|
 |hitpoints|hitpoint-uri|
