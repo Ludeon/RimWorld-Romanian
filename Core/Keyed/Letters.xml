@@ -1,562 +1,548 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- Misc -->
   <!-- EN: Jump to location -->
-  <JumpToLocation>Arată locația!</JumpToLocation>
+  <JumpToLocation>Salt la locație</JumpToLocation>
   <!-- EN: Postpone -->
-  <PostponeLetter>TODO</PostponeLetter>
+  <PostponeLetter>Amână</PostponeLetter>
   <!-- EN: Reject -->
-  <RejectLetter>TODO</RejectLetter>
+  <RejectLetter>Respingeți</RejectLetter>
   <!-- EN: Read more -->
-  <ReadMore>TODO</ReadMore>
+  <ReadMore>Citește mai mult</ReadMore>
 
   <!-- EN: Summer -->
-  <LetterLabelFirstSummerWarning>TODO</LetterLabelFirstSummerWarning>
+  <LetterLabelFirstSummerWarning>Vara</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>Vara a început!\n\nTrebuie să te pregătești pentru iarnă deoarece culturile nu vor crește în frigul iernii. Strânge suficiente alimente pentru a supraviețui iernii.\n\nConstruiește o cameră frigorifică pentru a prezerva mâncarea.\n\nȘi obține câteva haine, fie că le furi sau faci, altminteri coloniștii vor îngheța de frig.</FirstSummerWarning>
+  <FirstSummerWarning>Vara a început! Dar vine iarna.\n\nCulturile voastre nu vor crește în frigul iernii. Asigură-te că depozitezi suficientă mâncare pentru a supraviețui. Poți construi un frigider de tip walk-in pentru a preveni deteriorarea alimentelor.\n\nCumpărați, furați sau confecționați niște parka, altfel veți îngheța când veți ieși afară.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
-  <LetterRelationsChange_Hostile>TODO</LetterRelationsChange_Hostile>  
+  <LetterRelationsChange_Hostile>Relațiile cu {0} s-au rupt complet. Ei sunt acum ostili față de dumneavoastră.</LetterRelationsChange_Hostile>  
   <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
-  <LetterRelationsChange_HostileGoodwillDescription>TODO</LetterRelationsChange_HostileGoodwillDescription>  
+  <LetterRelationsChange_HostileGoodwillDescription>Vor efectua raiduri periodice asupra coloniei și caravanelor voastre și vor refuza să facă comerț cu voi. Dacă doriți să îmbunătățiți relațiile, le puteți oferi în continuare cadouri folosind caravane sau navete de transport.\n\nAceasta s-a întâmplat deoarece bunăvoința ({0}) a scăzut sub {1}. Pentru a restabili relațiile neutre, bunăvoința trebuie să ajungă din nou la {2}.</LetterRelationsChange_HostileGoodwillDescription>  
 
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
-  <LetterRelationsChange_NeutralFromHostile>TODO</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromHostile>Relațiile cu {0} s-au încălzit. Ei vă consideră acum neutru și nu vă vor mai ataca.</LetterRelationsChange_NeutralFromHostile>
   <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>TODO</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>Acest lucru s-a întâmplat deoarece bunăvoința ({1}) a crescut peste {2}. Dacă bunăvoința scade sub {3}, {0} va deveni din nou ostil. Dacă bunăvoința crește peste {4}, ei vor deveni aliații tăi și vor lupta pentru tine.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
   
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
-  <LetterRelationsChange_NeutralFromAlly>TODO</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAlly>Relațiile cu {0} s-au răcit. Ei vă consideră acum neutru în loc de aliat.</LetterRelationsChange_NeutralFromAlly>
   <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>TODO</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>Deși vor continua să interacționeze în mod pașnic cu tine, nu-ți vor mai trimite luptători pentru a te ajuta atunci când ești amenințat.\n\nAceasta s-a întâmplat deoarece bunăvoința ({1}) a scăzut sub {2}. Dacă bunăvoința scade sub {3}, {0} va deveni ostil. Dacă bunăvoința crește peste {4}, vor deveni din nou aliați.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
   
   <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
-  <LetterRelationsChange_Ally>TODO</LetterRelationsChange_Ally>
+  <LetterRelationsChange_Ally>Relațiile cu {0} au devenit foarte apropiate. Ei vă consideră acum un aliat.</LetterRelationsChange_Ally>
   <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
-  <LetterRelationsChange_AllyGoodwillDescription>TODO</LetterRelationsChange_AllyGoodwillDescription>
+  <LetterRelationsChange_AllyGoodwillDescription>Aliații vor sosi uneori pentru a vă ajuta să luptați împotriva dușmanilor atunci când sunteți atacați. De asemenea, îi poți chema oricând în ajutor, cu un cost de bunăvoință.\n\nAi devenit aliați deoarece bunăvoința ta ({0}) a trecut de {1}. Dacă bunăvoința scade sub {2}, relațiile vor reveni la neutru.</LetterRelationsChange_AllyGoodwillDescription>
 
   <!-- EN: goodwill -->
-  <goodwill>TODO</goodwill>
+  <goodwill>bunăvoință</goodwill>
   <!-- EN: Neutral -->
   <Neutral>Neutru</Neutral>
   <!-- EN: Death -->
-  <Death>TODO</Death>
+  <Death>Moarte</Death>
 
   <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
-  <ShortCircuitRain>Un {0} a fost lăsat neprotejat și s-a produs un scurtcircuit, provocând un incendiu.</ShortCircuitRain>
+  <ShortCircuitRain>O {1_etichetă} a intrat în scurtcircuit în ploaie și a provocat un incendiu.</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
-  <LetterLabelAreaRevealed>TODO</LetterLabelAreaRevealed>
+  <LetterLabelAreaRevealed>Zona dezvăluită</LetterLabelAreaRevealed>
   <!-- EN: A new area has been revealed. -->
-  <AreaRevealed>O nouă zonă a fost descoperită.</AreaRevealed>
+  <AreaRevealed>O nouă zonă a fost dezvăluită.</AreaRevealed>
   <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
-  <AreaRevealedWithMechanoids>TODO</AreaRevealedWithMechanoids>
+  <AreaRevealedWithMechanoids>O nouă zonă a fost dezvăluită. Aceasta conține mecanoizi antici și ostili.</AreaRevealedWithMechanoids>
 
   <!-- EN: A roof has collapsed because it was too far from any support. -->
-  <RoofCollapsed>Tavanul s-a prăbușit pentru că era prea departe de un punct de sprijin.</RoofCollapsed>
+  <RoofCollapsed>Un acoperiș s-a prăbușit pentru că era prea departe de orice sprijin.</RoofCollapsed>
   <!-- EN: These things were crushed: -->
-  <TheseThingsCrushed>Aceste lucruri au fost distruse:</TheseThingsCrushed>
+  <TheseThingsCrushed>Aceste lucruri au fost zdrobite:</TheseThingsCrushed>
   <!-- EN: Nothing was crushed. -->
-  <NothingCrushed>Nimic nu a fost distrus.</NothingCrushed>
+  <NothingCrushed>Nimic nu a fost zdrobit.</NothingCrushed>
   <!-- EN: Roof collapse -->
-  <LetterLabelRoofCollapsed>TODO</LetterLabelRoofCollapsed>
+  <LetterLabelRoofCollapsed>Acoperișul s-a prăbușit</LetterLabelRoofCollapsed>
 
   <!-- EN: {0} successfully recruited {1} ({2} chance). -->
-  <RecruitSuccess>{0} l-a recrutat cu succes pe {1} ({2} șansă).</RecruitSuccess>
+  <RecruitSuccess>{0} a reușit să recruteze cu succes {1} ({2} șanse).</RecruitSuccess>
   <!-- EN: {0} failed to recruit {1} ({2} chance). -->
-  <RecruitFail>{0} nu a reușit să îl recruteze pe {1} ({2} șansă).</RecruitFail>
+  <RecruitFail>{0} nu a reușit să recruteze {1} ({2} șanse).</RecruitFail>
 
   <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
-  <RelatedPawnInvolvedInQuest>TODO</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} este {1} a lui {RELATIVE_labelShort}. Dacă {PAWN_nameDef} moare, {RELATIVE_labelShort} va suferi de o durere de lungă durată. Cu toate acestea, dacă reușești să îl salvezi pe {PAWN_nameDef}, {RELATIVE_labelShort} va fi foarte fericit pentru mult timp.</RelatedPawnInvolvedInQuest>
 
   <!-- EN: Birthday -->
-  <LetterLabelBirthday>TODO</LetterLabelBirthday>
+  <LetterLabelBirthday>Ziua de naștere</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
-  <BirthdayChronological>TODO</BirthdayChronological>
+  <BirthdayChronological>Astăzi este ziua de naștere cronologică a lui {0}! Din punct de vedere biologic, {1} are {3} ani.\n\nCronologic, {1} tocmai a împlinit {2}.\n\nNotează că, deoarece oamenii nu îmbătrânesc în timpul criptosomnului, ziua de naștere cronologică este separată de cea biologică.</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
-  <BirthdayBiologicalAgeInjuries>TODO</BirthdayBiologicalAgeInjuries>
+  <BirthdayBiologicalAgeInjuries>{0_nameFull} a ajuns la vârsta biologică de {1}.\n\n\nDin păcate, {0_nameFull} a căpătat următoarele boli din cauza îmbătrânirii:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
-  <LetterLabelNewDisease>TODO</LetterLabelNewDisease>
+  <LetterLabelNewDisease>Boala</LetterLabelNewDisease>
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{0} s-a îmbolnăvit de la {1}.\n\nAsigură-te că există un pat medical și un doctor. Fii sigur că {0} primește îngrijiri medicale și stă cât este nevoie în pat.</NewDisease>
+  <NewDisease>{PAWN} s-a îmbolnăvit de la {1}.\n\nAsigură-te că ai un pat medical și un doctor. Asigură-te că {PAWN_definite} primește un tratament adecvat și petrece cât mai mult timp posibil în pat.</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>Lui {0} i s-a infectat {1}.\n\nAsigură-te că există un pat medical și un doctor. Fii sigur că {0} primește îngrijiri medicale și stă cât este nevoie în pat.</NewPartDisease>
+  <NewPartDisease>{PAWN} s-a îmbolnăvit de la {3}. Infecția se află în {PAWN_possessive} {1}.\n\nAsigură-te că ai un pat medical și un doctor. Asigură-te că {PAWN_definite} primește un tratament adecvat și petrece cât mai mult timp posibil în pat.</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
-  <NewDiseaseAnimal>TODO</NewDiseaseAnimal>
+  <NewDiseaseAnimal>{PAWN_labelShort} a dezvoltat o boală: {1}</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
-  <NewPartDiseaseAnimal>TODO</NewPartDiseaseAnimal>
+  <NewPartDiseaseAnimal>{PAWN_labelShort} a dezvoltat o boală: {3} în {1} {PAWN_possessive}</NewPartDiseaseAnimal>
 
   <!-- EN: {0} was formerly part of your faction. -->
-  <PawnWasFormerlyColonist>TODO</PawnWasFormerlyColonist>
+  <PawnWasFormerlyColonist>{0} a făcut parte anterior din facțiunea ta.</PawnWasFormerlyColonist>
   <!-- EN: You previously hosted {0}. -->
-  <PawnWasFormerlyLodger>TODO</PawnWasFormerlyLodger>
+  <PawnWasFormerlyLodger>Ai găzduit anterior {0}.</PawnWasFormerlyLodger>
   <!-- EN: {1_labelShort} has these relationships with your colonists: -->
-  <PawnHasTheseRelationshipsWithColonists>TODO</PawnHasTheseRelationshipsWithColonists>
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} are aceste relații cu coloniștii tăi:</PawnHasTheseRelationshipsWithColonists>
 
   <!-- EN: Ancient danger -->
-  <LetterLabelAncientShrineWarning>TODO</LetterLabelAncientShrineWarning>
+  <LetterLabelAncientShrineWarning>Pericol antic</LetterLabelAncientShrineWarning>
   <!-- EN: As {PAWN_nameDef} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
-  <AncientShrineWarning>TODO</AncientShrineWarning>
+  <AncientShrineWarning>Pe măsură ce {PAWN_nameDef} se apropie de zidul antic, un sentiment de presimțire îl cuprinde pe {PAWN_objectiv}. {PAWN_pronoun} nu este sigur de ce, dar {PAWN_pronoun} simte că această structură prăfuită poate conține un mare pericol.</AncientShrineWarning>
 
   <!-- EN: We have struck {0}! -->
-  <StruckMineable>TODO</StruckMineable>
+  <StruckMineable>Am dat de {0}!</StruckMineable>
 
   <!-- EN: {0} revenge -->
-  <LetterLabelAnimalManhunterRevenge>TODO</LetterLabelAnimalManhunterRevenge>
+  <LetterLabelAnimalManhunterRevenge>{0} răzbunare</LetterLabelAnimalManhunterRevenge>
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
-  <AnimalManhunterFromDamage>TODO</AnimalManhunterFromDamage>
+  <AnimalManhunterFromDamage>{1_indefinit} atacă după ce a fost rănit!\n\nVa vâna orice umanoid pe care îl poate atinge. Se va calma atunci când se va culca.</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
-  <AnimalManhunterFromTaming>TODO</AnimalManhunterFromTaming>
+  <AnimalManhunterFromTaming>{1_indefinit} atacă din cauza unei încercări ratate de îmblânzire!</AnimalManhunterFromTaming>
   <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
-  <AnimalManhunterOthers>TODO</AnimalManhunterOthers>
+  <AnimalManhunterOthers>Alți {1_kindBasePlural} din apropiere s-au înfuriat și ei!</AnimalManhunterOthers>
 
   <!-- EN: {1_labelShort} hit trap -->
-  <LetterFriendlyTrapSprungLabel>TODO</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprungLabel>{1_labelShort} a lovit capcana</LetterFriendlyTrapSprungLabel>
   <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
-  <LetterFriendlyTrapSprung>TODO</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprung>{1_labelShort} a declanșat din greșeală o capcană și a fost rănit de aceasta.</LetterFriendlyTrapSprung>
 
   <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
-  <LetterHealthComplications>TODO</LetterHealthComplications>
+  <LetterHealthComplications>{PAWN_labelShort} a dezvoltat o problemă de sănătate:\n\n {1}\n\nAceasta a fost cauzată de:\n\n {2}</LetterHealthComplications>
   <!-- EN: {PAWN_labelShort}: {1} -->
-  <LetterHealthComplicationsLabel>TODO</LetterHealthComplicationsLabel>
+  <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
   
   <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
-  <LetterHediffFromRandomHediffGiver>TODO</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} a dezvoltat o problemă de sănătate: {1}.</LetterHediffFromRandomHediffGiver>
   <!-- EN: {PAWN_labelShort}: {1} -->
-  <LetterHediffFromRandomHediffGiverLabel>TODO</LetterHediffFromRandomHediffGiverLabel>
+  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
 
   <!-- EN: {1} died: {0} -->
-  <LetterLeadersDeathLabel>TODO</LetterLeadersDeathLabel>
+  <LetterLeadersDeathLabel>{1} a murit: {0}</LetterLeadersDeathLabel>
   <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
-  <LetterLeadersDeath>TODO</LetterLeadersDeath>
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {1} din {0}, a murit.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
-  <LetterLeaderChangedLabel>TODO</LetterLeaderChangedLabel>
+  <LetterLeaderChangedLabel>Noul {1}: {0}</LetterLeaderChangedLabel>
   <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
-  <LetterLeaderChanged>TODO</LetterLeaderChanged>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} nu mai este {1} din {0}.</LetterLeaderChanged>
 
   <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
-  <LetterNewLeader>TODO</LetterNewLeader>
+  <LetterNewLeader>Noul {0} este {NEWLEADER_nameFull}.</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
-  <FinalStraw>TODO</FinalStraw>
+  <FinalStraw>Ultima picătură a fost: {0}</FinalStraw>
   <!-- EN: This happened because of poor mood. -->
-  <MentalStateReason_Mood>TODO</MentalStateReason_Mood>
+  <MentalStateReason_Mood>Acest lucru s-a întâmplat din cauza dispoziției proaste.</MentalStateReason_Mood>
   <!-- EN: This happened because of the trait: {0}. -->
-  <MentalStateReason_Trait>TODO</MentalStateReason_Trait>
+  <MentalStateReason_Trait>Acest lucru s-a întâmplat din cauza trăsăturii: {0}.</MentalStateReason_Trait>
   <!-- EN: This happened because of: {0}. -->
-  <MentalStateReason_Hediff>TODO</MentalStateReason_Hediff>
+  <MentalStateReason_Hediff>Acest lucru s-a întâmplat din cauza: {0}.</MentalStateReason_Hediff>
   <!-- EN: This happened because of {0_definite}'s death. -->
-  <MentalStateReason_BondedHumanDeath>TODO</MentalStateReason_BondedHumanDeath>
+  <MentalStateReason_BondedHumanDeath>Acest lucru s-a întâmplat din cauza morții lui {0_definite}.</MentalStateReason_BondedHumanDeath>
   <!-- EN: The last event was -->
-  <LastFactionRelationsEvent>TODO</LastFactionRelationsEvent>
+  <LastFactionRelationsEvent>Ultimul eveniment a fost</LastFactionRelationsEvent>
 
   <!-- EN: View related quest -->
-  <ViewRelatedQuest>TODO</ViewRelatedQuest>
+  <ViewRelatedQuest>Vezi misiunea legată</ViewRelatedQuest>
   <!-- EN: View quest -->
-  <ViewQuest>TODO</ViewQuest>
+  <ViewQuest>Vizualizează căutarea</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
-  <LastEventsInLife>TODO</LastEventsInLife>
+  <LastEventsInLife>Ultimele evenimente din viața lui {PAWN_definit}</LastEventsInLife>
 
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
-  <LetterInspirationBeginThanksToHighMoodPart>TODO</LetterInspirationBeginThanksToHighMoodPart>
+  <LetterInspirationBeginThanksToHighMoodPart>Mulțumită dispoziției înalte, [PAWN_nameIndef] a experimentat o inspirație!</LetterInspirationBeginThanksToHighMoodPart>
 
   <!-- Related pawns -->
   <!-- EN: Relationship -->
-  <LetterLabelNoticedRelatedPawns>TODO</LetterLabelNoticedRelatedPawns>
+  <LetterLabelNoticedRelatedPawns>Relație de rudenie</LetterLabelNoticedRelatedPawns>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
-  <LetterRelatedPawnsRaidEnemy>TODO</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidEnemy>Există oameni care au relații cu {0} sau prizonieri din grupul tău de {1} care sosește. \n\nRețineți că, deși sunt rude, tot se vor ataca între ei din cauza relațiilor proaste dintre facțiuni:</LetterRelatedPawnsRaidEnemy>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
-  <LetterRelatedPawnsRaidFriendly>TODO</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsRaidFriendly>Există persoane care au relații cu {0} sau prizonieri în grupul de sosire prietenesc {1}:</LetterRelatedPawnsRaidFriendly>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
-  <LetterRelatedPawnsNeutralGroup>TODO</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsNeutralGroup>Există oameni care au relații cu {0} sau prizonierii tăi în grupul de sosire:</LetterRelatedPawnsNeutralGroup>
   <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradeShip>TODO</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradeShip>Comerciantul orbital vinde oameni care au relații cu {0} sau prizonierii tăi:</LetterRelatedPawnsTradeShip>
   <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradingWithSettlement>TODO</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithSettlement>Așezământul vinde oameni care au relații cu {0} sau prizonierii tăi:</LetterRelatedPawnsTradingWithSettlement>
   <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradingWithOtherCaravan>TODO</LetterRelatedPawnsTradingWithOtherCaravan>
+  <LetterRelatedPawnsTradingWithOtherCaravan>Caravana vinde persoane care au relații cu {0} sau prizonierii tăi:</LetterRelatedPawnsTradingWithOtherCaravan>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the group: -->
-  <LetterRelatedPawnsGroupGeneric>TODO</LetterRelatedPawnsGroupGeneric>
+  <LetterRelatedPawnsGroupGeneric>Există persoane care au relații cu {0} sau prizonieri ai tăi în grup:</LetterRelatedPawnsGroupGeneric>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
-  <LetterRelatedPawnsInMapWherePlayerLanded>TODO</LetterRelatedPawnsInMapWherePlayerLanded>
+  <LetterRelatedPawnsInMapWherePlayerLanded>Există persoane care au relații cu {0} sau prizonieri în zona în care au aterizat {0} ai tăi.</LetterRelatedPawnsInMapWherePlayerLanded>
   <!-- EN: There are people who have relationships with your {0} or prisoners in this settlement: -->
-  <LetterRelatedPawnsSettlement>TODO</LetterRelatedPawnsSettlement>
+  <LetterRelatedPawnsSettlement>Există persoane care au relații cu {0} dvs. sau cu prizonierii în această așezare:</LetterRelatedPawnsSettlement>
   <!-- EN: There are people who have relationships with your {0} or prisoners in this area: -->
-  <LetterRelatedPawnsSite>TODO</LetterRelatedPawnsSite>
+  <LetterRelatedPawnsSite>Există persoane care au relații cu {0} sau prizonieri în acest domeniu:</LetterRelatedPawnsSite>
 
   <!-- EN: relationship -->
-  <RelationshipAppendedLetterSuffix>TODO</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterSuffix>relație</RelationshipAppendedLetterSuffix>
   <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextColonist>TODO</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} are o relație cu un colonist. {PAWN_pronoun} este {1} a lui {RELATIVE_labelShort}.</RelationshipAppendedLetterTextColonist>
   <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextPrisoner>TODO</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} are o relație cu unul dintre prizonierii dumneavoastră. {PAWN_pronoun} este {1} lui {RELATIVE_labelShort}.</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <!-- EN: Affair -->
-  <LetterLabelAffair>TODO</LetterLabelAffair>
+  <LetterLabelAffair>Afacere</LetterLabelAffair>
   <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
-  <LetterAffair>TODO</LetterAffair>
+  <LetterAffair>{PAWN1_labelShort}, căsătorită cu {SPOUSE_labelShort}, a început o aventură cu {PAWN2_labelShort}.</LetterAffair>
   <!-- EN: New lovers -->
-  <LetterLabelNewLovers>TODO</LetterLabelNewLovers>
+  <LetterLabelNewLovers>Noi iubiți</LetterLabelNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
-  <LetterNewLovers>TODO</LetterNewLovers>
+  <LetterNewLovers>{PAWN1_labelShort} și {PAWN2_labelShort} vor acum să se culce împreună. Luați în considerare posibilitatea de a le atribui un pat dublu.</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
-  <LetterNoLongerLovers>TODO</LetterNoLongerLovers>
+  <LetterNoLongerLovers>{PAWN1_labelShort} și {PAWN2_labelShort} nu mai au o relație.</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
-  <LetterNoLongerLovers_BackToBirthName>TODO</LetterNoLongerLovers_BackToBirthName>
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} își va schimba numele de familie {PAWN_posesiv} înapoi la numele de naștere {PAWN_posesiv}.</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
-  <LetterLabelBreakup>TODO</LetterLabelBreakup>
+  <LetterLabelBreakup>Despărțire</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
-  <LetterLabelAcceptedProposal>TODO</LetterLabelAcceptedProposal>
+  <LetterLabelAcceptedProposal>Căsătoria a început!</LetterLabelAcceptedProposal>
   <!-- EN: Rejected proposal -->
-  <LetterLabelRejectedProposal>TODO</LetterLabelRejectedProposal>
+  <LetterLabelRejectedProposal>Cerere în căsătorie respinsă</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>TODO</LetterAcceptedProposal>
+  <LetterAcceptedProposal>La un moment dat, în următoarele zile sau quadrumuri, vor avea ceremonia de căsătorie și vor invita toți coloniștii. Luați în considerare plasarea unui loc de căsătorie dacă doriți să controlați locul unde are loc ceremonia.</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
-  <LetterAcceptedProposal_NameChange>TODO</LetterAcceptedProposal_NameChange>
+  <LetterAcceptedProposal_NameChange>{PAWN_label} va schimba numele de familie {PAWN_posesiv} în {1}.</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
-  <LetterRejectedProposal>TODO</LetterRejectedProposal>
+  <LetterRejectedProposal>{INITIATOR_nameFull} va fi nemulțumit de acest lucru.</LetterRejectedProposal>
 
   <!-- Generalized letter labels -->
   <!-- EN: Hostile: {0} -->
-  <LetterLabelRelationsChange_Hostile>TODO</LetterLabelRelationsChange_Hostile>
+  <LetterLabelRelationsChange_Hostile>Ostil: {0}</LetterLabelRelationsChange_Hostile>
   <!-- EN: Allied: {0} -->
-  <LetterLabelRelationsChange_Ally>TODO</LetterLabelRelationsChange_Ally>
+  <LetterLabelRelationsChange_Ally>Aliat: {0}</LetterLabelRelationsChange_Ally>
   <!-- EN: Enemy now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromHostile>TODO</LetterLabelRelationsChange_NeutralFromHostile>
+  <LetterLabelRelationsChange_NeutralFromHostile>Dușman acum neutru: {0}</LetterLabelRelationsChange_NeutralFromHostile>
   <!-- EN: Ally now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromAlly>TODO</LetterLabelRelationsChange_NeutralFromAlly>
+  <LetterLabelRelationsChange_NeutralFromAlly>Aliat este acum neutu: {0}</LetterLabelRelationsChange_NeutralFromAlly>
   <!-- EN: Zzztt... -->
-  <LetterLabelShortCircuit>TODO</LetterLabelShortCircuit>
+  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
 
   <!-- Bonded animals -->
   <!-- EN: bonded -->
-  <LetterLabelSuffixBondedAnimalDied>TODO</LetterLabelSuffixBondedAnimalDied>
+  <LetterLabelSuffixBondedAnimalDied>legat</LetterLabelSuffixBondedAnimalDied>
   <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
-  <LetterPartBondedAnimalDied>TODO</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDied>{ANIMAL_definite} a fost legat de {HUMAN_labelShort}. Aceasta va afecta starea de spirit a lui {HUMAN_labelShort}.</LetterPartBondedAnimalDied>
   <!-- EN: It will affect mood of the following people:\n\n{0} -->
-  <LetterPartBondedAnimalDiedMulti>TODO</LetterPartBondedAnimalDiedMulti>
+  <LetterPartBondedAnimalDiedMulti>Va afecta starea de spirit a următoarelor persoane:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 
   <!-- Prison break -->
   <!-- EN: Prison break -->
-  <LetterLabelPrisonBreak>TODO</LetterLabelPrisonBreak>
+  <LetterLabelPrisonBreak>Evadare din închisoare</LetterLabelPrisonBreak>
   <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
-  <LetterPrisonBreak>TODO</LetterPrisonBreak>
+  <LetterPrisonBreak>Deținuții au organizat o evadare! Au învins cumva încuietorile ușilor și își croiesc drum spre ieșire. Este posibil să caute arme, să se lupte sau să încerce să evadeze. Acești deținuți sunt implicați:\n\n{0}\n\nDeținuții sunt mai predispuși să încerce evadarea atunci când sunt numeroși și sănătoși.</LetterPrisonBreak>
 
   <!-- Newly addicted -->
   <!-- EN: {0} addiction -->
-  <LetterLabelNewlyAddicted>TODO</LetterLabelNewlyAddicted>
+  <LetterLabelNewlyAddicted>{0} dependență</LetterLabelNewlyAddicted>
   <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
-  <LetterNewlyAddicted>TODO</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{PAWN_labelShort} a dezvoltat o dependență de {1}.\n\n{PAWN_pronume} are acum o nevoie de {1}, vizibilă în panoul de Nevoi al {PAWN_posesiv}. {PAWN_pronoun} va consuma automat drogul pentru a satisface nevoia {PAWN_possessive}. Dacă {PAWN_pronoun} nu poate obține {1}, {PAWN_pronoun} va intra în sevraj.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <!-- EN: {0} binge -->
-  <LetterLabelDrugBinge>TODO</LetterLabelDrugBinge>
+  <LetterLabelDrugBinge>îmbuibare cu {0}</LetterLabelDrugBinge>
   <!-- EN: {2_label} is binging on {1}. -->
-  <LetterDrugBinge>TODO</LetterDrugBinge>
+  <LetterDrugBinge>{2_label} se îmbuibează cu {1}.</LetterDrugBinge>
 
   <!-- Caravan destroyed -->
   <!-- EN: Caravan destroyed -->
-  <LetterLabelAllCaravanColonistsDied>TODO</LetterLabelAllCaravanColonistsDied>
+  <LetterLabelAllCaravanColonistsDied>Caravana a fost distrusă</LetterLabelAllCaravanColonistsDied>
   <!-- EN: All members of {0} have died. -->
-  <LetterAllCaravanColonistsDied>TODO</LetterAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>Toți membrii lui {0} au murit.</LetterAllCaravanColonistsDied>
 
   <!-- Caravan entered map -->
   <!-- EN: Caravan arrived at {0_label} -->
-  <LetterLabelCaravanEnteredMap>TODO</LetterLabelCaravanEnteredMap>
+  <LetterLabelCaravanEnteredMap>Caravana a ajuns la {0_label}</LetterLabelCaravanEnteredMap>
   <!-- EN: {0} has arrived at {1_definite}. -->
-  <LetterCaravanEnteredMap>TODO</LetterCaravanEnteredMap>
+  <LetterCaravanEnteredMap>{0} a ajuns la {1_definite}.</LetterCaravanEnteredMap>
 
   <!-- Caravan entered enemy base -->
   <!-- EN: Attack begun -->
-  <LetterLabelCaravanEnteredEnemyBase>TODO</LetterLabelCaravanEnteredEnemyBase>
+  <LetterLabelCaravanEnteredEnemyBase>Atac început</LetterLabelCaravanEnteredEnemyBase>
   <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
-  <LetterCaravanEnteredEnemyBase>TODO</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} a ajuns la {1} și este gata să înceapă atacul.</LetterCaravanEnteredEnemyBase>
 
   <!-- Transport pods landed in enemy base -->
   <!-- EN: Attack begun -->
-  <LetterLabelTransportPodsLandedInEnemyBase>TODO</LetterLabelTransportPodsLandedInEnemyBase>
+  <LetterLabelTransportPodsLandedInEnemyBase>Atacul a început</LetterLabelTransportPodsLandedInEnemyBase>
   <!-- EN: Your transport pods have arrived at {0}. -->
-  <LetterTransportPodsLandedInEnemyBase>TODO</LetterTransportPodsLandedInEnemyBase>
+  <LetterTransportPodsLandedInEnemyBase>Navele de transport au ajuns la {0}.</LetterTransportPodsLandedInEnemyBase>
   <!-- EN: The shuttle has arrived at {0}. -->
-  <LetterShuttleLandedInEnemyBase>TODO</LetterShuttleLandedInEnemyBase>
+  <LetterShuttleLandedInEnemyBase>Naveta a ajuns la {0}.</LetterShuttleLandedInEnemyBase>
 
   <!-- Faction base defeated -->
   <!-- EN: Base destroyed -->
-  <LetterLabelFactionBaseDefeated>TODO</LetterLabelFactionBaseDefeated>
+  <LetterLabelFactionBaseDefeated>Bază distrusă</LetterLabelFactionBaseDefeated>
   <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
-  <LetterFactionBaseDefeated>TODO</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated>Așezarea inamică {0} a fost distrusă.\n\nÎn {1}, caravana ta va fi atacată de inamici. Aceștia vor începe să trimită forțe pentru a ataca caravana, cu excepția cazului în care aceasta se reformează și pleacă.</LetterFactionBaseDefeated>
   <!-- EN: Since this was their last settlement, {0} has been defeated. -->
-  <LetterFactionBaseDefeated_FactionDestroyed>TODO</LetterFactionBaseDefeated_FactionDestroyed>
+  <LetterFactionBaseDefeated_FactionDestroyed>Deoarece aceasta a fost ultima lor așezare, {0} a fost învinsă.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
   <!-- EN: Quest completed -->
-  <LetterLabelDefeatAllEnemiesQuestCompleted>TODO</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Misiune încheiată</LetterLabelDefeatAllEnemiesQuestCompleted>
   <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
-  <LetterDefeatAllEnemiesQuestCompleted>TODO</LetterDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>Ați învins avanpostul inamicului!\n\n\nPlata de la {0} a sosit, iar relațiile dintre facțiuni s-au îmbunătățit cu {1}.</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Long-range mineral scanner -->
   <!-- EN: Distant resource scanned -->
-  <LetterLabelFoundPreciousLump>TODO</LetterLabelFoundPreciousLump>
+  <LetterLabelFoundPreciousLump>Resursă îndepărtată scanată</LetterLabelFoundPreciousLump>
   <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>TODO</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>Folosind scanerul de minerale cu rază lungă de acțiune, {WORKER_labelShort} a găsit o bucată de {0} la o anumită distanță.\n\nDin păcate, nu va dura mult - alții o vor extrage primii în {1} zile dacă nu o facem noi.\n\n{2}.</LetterFoundPreciousLump>
 
   <!-- Ground penetrating scanner -->
   <!-- EN: Scanned underground -->
-  <LetterLabelDeepScannerFoundLump>TODO</LetterLabelDeepScannerFoundLump>
+  <LetterLabelDeepScannerFoundLump>Scanat în subteran</LetterLabelDeepScannerFoundLump>
   <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
-  <LetterDeepScannerFoundLump>TODO</LetterDeepScannerFoundLump>
+  <LetterDeepScannerFoundLump>{FINDER_nameDef} a găsit o bucată de {0} îngropată cu ajutorul scanerului de penetrare a solului!</LetterDeepScannerFoundLump>
 
   <!-- Ambush -->
   <!-- EN: Ambush -->
-  <LetterLabelAmbushInExistingMap>TODO</LetterLabelAmbushInExistingMap>
+  <LetterLabelAmbushInExistingMap>Ambuscadă</LetterLabelAmbushInExistingMap>
   <!-- EN: Your {0} have been ambushed! -->
-  <LetterAmbushInExistingMap>TODO</LetterAmbushInExistingMap>
+  <LetterAmbushInExistingMap>{0} al tău a fost prins în ambuscadă!</LetterAmbushInExistingMap>
 
   <!-- Peace talks -->
   <!-- EN: Peace talks disaster -->
-  <LetterLabelPeaceTalks_Disaster>TODO</LetterLabelPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Disaster>Dezastrul negocierilor de pace</LetterLabelPeaceTalks_Disaster>
   <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
-  <LetterPeaceTalks_Disaster>TODO</LetterPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>Discuțiile au fost un dezastru. Delegații abia au trecut de saluturile inițiale înainte ca discuția să se rupă în insulte și recriminări.\n\nDupă ce caravana voastră a plecat mai devreme, {0} de la {1} a ajuns din urmă și a atacat!\n\nRelații cu {1}: {2}.</LetterPeaceTalks_Disaster>
   <!-- EN: Peace talks backfire -->
-  <LetterLabelPeaceTalks_Backfire>TODO</LetterLabelPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_Backfire>Negocierile de pace dau greș</LetterLabelPeaceTalks_Backfire>
   <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
-  <LetterPeaceTalks_Backfire>TODO</LetterPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>Negocierile s-au întors împotriva noastră. În ciuda schimbului de amabilități, delegații nu au făcut niciun progres în ceea ce privește problemele de fond, iar mai multe declarații au fost interpretate ca insulte.\n\nRelațiile cu {0}: {1}.</LetterPeaceTalks_Backfire>
   <!-- EN: Peace talks flounder -->
-  <LetterLabelPeaceTalks_TalksFlounder>TODO</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_TalksFlounder>Negocierile de pace eșuează</LetterLabelPeaceTalks_TalksFlounder>
   <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
-  <LetterPeaceTalks_TalksFlounder>TODO</LetterPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>Discuțiile au eșuat. Delegații au reușit să comunice în mod clar și cu un respect elementar, dar nu au reușit să înregistreze progrese în ceea ce privește nicio problemă reală.\n\nRelațiile cu {0} rămân neschimbate.</LetterPeaceTalks_TalksFlounder>
   <!-- EN: Peace talks success -->
-  <LetterLabelPeaceTalks_Success>TODO</LetterLabelPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Success>Succesul negocierilor de pace</LetterLabelPeaceTalks_Success>
   <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
-  <LetterPeaceTalks_Success>TODO</LetterPeaceTalks_Success>
+  <LetterPeaceTalks_Success>Discuțiile au fost un succes. Delegații au ajuns la noi înțelegeri reciproce cu privire la mai multe probleme substanțiale.\n\nRelațiile cu {0} s-au îmbunătățit cu {1}.</LetterPeaceTalks_Success>
   <!-- EN: Peace talks triumph -->
-  <LetterLabelPeaceTalks_Triumph>TODO</LetterLabelPeaceTalks_Triumph>
+  <LetterLabelPeaceTalks_Triumph>Negocierile de pace au triumfat</LetterLabelPeaceTalks_Triumph>
   <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
-  <LetterPeaceTalks_Triumph>TODO</LetterPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>Discuțiile au fost un mare triumf! Delegații s-au conectat rapid la nivel personal și au ajuns să vadă cu adevărat perspectiva celorlalți asupra celor mai dificile probleme ale zilei.\n\nRelațiile cu {0} s-au îmbunătățit cu {1}.\n\nÎn timp ce caravana voastră a plecat, {0} v-a oferit un cadou:\n\n{2}</LetterPeaceTalks_Triumph>
   <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
-  <PeaceTalksSocialXPGain>TODO</PeaceTalksSocialXPGain>
+  <PeaceTalksSocialXPGain>{PAWN_labelShort}, negociatorul tău, a câștigat {1} experiență socială.</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
   <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->
-  <LetterRunWildMentalBreak>TODO</LetterRunWildMentalBreak>
+  <LetterRunWildMentalBreak>{0} s-a săturat de civilizație.\n\n{PAWN_pronoun} și-a dat seama că creaturile sălbatice sunt întotdeauna libere. Așa că, {PAWN_pronoun} a decis să părăsească facțiunea ta și să trăiască cu animalele.\n\nPoți încerca să îl îmblânzești sau să îl arestezi pe {PAWN_obiectiv} pentru a-l recupera pe {PAWN_obiectiv}.</LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->
   <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days. -->
-  <LetterCatatonicMentalBreak>TODO</LetterCatatonicMentalBreak>
+  <LetterCatatonicMentalBreak>{0} a suferit o cădere nervoasă totală și a intrat într-o stare catatonică. {PAWN_pronoun} își va reveni în câteva zile.</LetterCatatonicMentalBreak>
 
   <!-- EN: Persona Core Offer -->
-  <LetterLabelAICoreOffer>TODO</LetterLabelAICoreOffer>
+  <LetterLabelAICoreOffer>Ofertă de nucleu de persoană</LetterLabelAICoreOffer>
   <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
-  <LetterAICoreOffer>TODO</LetterAICoreOffer>
+  <LetterAICoreOffer>{PAWN_definite} din {1} vă contactează cu o ofertă de informații: locația unui nucleu de persoană, de care veți avea nevoie pentru a construi o navă spațială. Ei te informează că acest obiect este destul de rar și că, de obicei, proprietarii lui îl țin sub pază strictă.\n\nSună-i cu consola de comunicații dacă ești interesat.</LetterAICoreOffer>
 
   <!-- Crafting letters -->
   <!-- EN: Legendary Work -->
-  <LetterCraftedLegendaryLabel>TODO</LetterCraftedLegendaryLabel>
+  <LetterCraftedLegendaryLabel>Muncă legendară</LetterCraftedLegendaryLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessage>TODO</LetterCraftedLegendaryMessage>
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} a creat un {CRAFTED_labelShort}.\n\nȘtiri despre acest artefact valoros se vor răspândi în întreaga lume.</LetterCraftedLegendaryMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessageArt>TODO</LetterCraftedLegendaryMessageArt>
+  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} a creat un {CRAFED_labelShort}.\n\n{0}n\nVestea despre acest artefact valoros se va răspândi în întreaga lume.</LetterCraftedLegendaryMessageArt>
 
   <!-- EN: Masterwork -->
-  <LetterCraftedMasterworkLabel>TODO</LetterCraftedMasterworkLabel>
+  <LetterCraftedMasterworkLabel>Capodoperă</LetterCraftedMasterworkLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
-  <LetterCraftedMasterworkMessage>TODO</LetterCraftedMasterworkMessage>
+  <LetterCraftedMasterworkMessage>{WORKER_labelShort} a creat un {CRAFTED_labelShort}.</LetterCraftedMasterworkMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0} -->
-  <LetterCraftedMasterworkMessageArt>TODO</LetterCraftedMasterworkMessageArt>
+  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort} a creat un {CRAFED_labelShort}.\n\n{0}.</LetterCraftedMasterworkMessageArt>
 
   <!-- Pawns lost because map closed -->
   <!-- EN: Caravan lost -->
-  <LetterLabelPawnsLostBecauseMapClosed_Caravan>TODO</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Caravana a fost pierdută</LetterLabelPawnsLostBecauseMapClosed_Caravan>
   <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
-  <LetterPawnsLostBecauseMapClosed_Caravan>TODO</LetterPawnsLostBecauseMapClosed_Caravan>
+  <LetterPawnsLostBecauseMapClosed_Caravan>Caravana ta a fost pierdută. Următoarele persoane și animale au fost pierdute odată cu ea</LetterPawnsLostBecauseMapClosed_Caravan>
   <!-- EN: Inhabitants abandoned -->
-  <LetterLabelPawnsLostBecauseMapClosed_Home>TODO</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <LetterLabelPawnsLostBecauseMapClosed_Home>Locuitori abandonați</LetterLabelPawnsLostBecauseMapClosed_Home>
   <!-- EN: The following people and animals have been abandoned -->
-  <LetterPawnsLostBecauseMapClosed_Home>TODO</LetterPawnsLostBecauseMapClosed_Home>
+  <LetterPawnsLostBecauseMapClosed_Home>Următoarele persoane și animale au fost abandonate</LetterPawnsLostBecauseMapClosed_Home>
 
   <!-- Hibernate complete -->
   <!-- EN: Reactor ready -->
-  <LetterLabelHibernateComplete>TODO</LetterLabelHibernateComplete>
+  <LetterLabelHibernateComplete>Reactorul este pregătit</LetterLabelHibernateComplete>
   <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
-  <LetterHibernateComplete>TODO</LetterHibernateComplete>
+  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name) a terminat secvența de recuperare a reactorului de hibernare. Reactorul este acum pregătit să alimenteze o lansare.</LetterHibernateComplete>
   <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
-  <LetterHibernateCompleteStandalone>TODO</LetterHibernateCompleteStandalone>
+  <LetterHibernateCompleteStandalone>Secvența de alimentare a reactorului este completă. Acum este gata să pornească.</LetterHibernateCompleteStandalone>
 
   <!-- Visitors gave gift -->
   <!-- EN: Gift from {0} -->
-  <LetterLabelVisitorsGaveGift>TODO</LetterLabelVisitorsGaveGift>
+  <LetterLabelVisitorsGaveGift>Cadou de la {0}</LetterLabelVisitorsGaveGift>
   <!-- EN: {0} from {PAWN_factionName} have left a gift:\n\n{1} -->
-  <LetterVisitorsGaveGift>TODO</LetterVisitorsGaveGift>
+  <LetterVisitorsGaveGift>{0} din {PAWN_factionName} au lăsat un cadou:\n\n{1}</LetterVisitorsGaveGift>
 
   <!-- Faction base proximity -->
   <!-- EN: Faction base proximity -->
-  <LetterLabelFactionBaseProximity>TODO</LetterLabelFactionBaseProximity>
+  <LetterLabelFactionBaseProximity>Proximitatea bazei facțiunii</LetterLabelFactionBaseProximity>
   <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
-  <LetterFactionBaseProximity>TODO</LetterFactionBaseProximity>
+  <LetterFactionBaseProximity>Pentru că sunteți atât de aproape de alte facțiuni, acestea simt că le invadați teritoriul.\n\nPentru ultimul quadrum, relațiile dintre facțiuni au fost reduse de:</LetterFactionBaseProximity>
 
   <!-- Caravans battlefield victory -->
   <!-- EN: Caravan battle won -->
-  <LetterLabelCaravansBattlefieldVictory>TODO</LetterLabelCaravansBattlefieldVictory>
+  <LetterLabelCaravansBattlefieldVictory>Bătălia caravanei a fost câștigată</LetterLabelCaravansBattlefieldVictory>
   <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
-  <LetterCaravansBattlefieldVictory>TODO</LetterCaravansBattlefieldVictory>
+  <LetterCaravansBattlefieldVictory>Caravana ta a câștigat bătălia.\n\n Poți reforma caravana acum în ecranul Lumea selectând câmpul de luptă și alegând opțiunea "Reformă caravana".\n\nNu este nevoie să colectezi manual obiecte, instrumentul de reformare a caravanei o poate face instantaneu.\n\nÎn {0}, caravana ta va fi atacată de inamici. Aceștia vor începe să trimită forțe pentru a ataca caravana, cu excepția cazului în care aceasta se reformează și pleacă.</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
   <!-- EN: Rescuee joins -->
-  <LetterLabelRescueQuestFinished>TODO</LetterLabelRescueQuestFinished>
+  <LetterLabelRescueQuestFinished>Rescuee se alătură</LetterLabelRescueQuestFinished>
   <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
-  <LetterRescueQuestFinished>TODO</LetterRescueQuestFinished>
+  <LetterRescueQuestFinished>L-ați salvat pe {PAWN_numeDef} și {PAWN_pronume} s-a alăturat grupului vostru.\n\nPuteți lua {PAWN_obiectiv} cu voi reformând caravana în ecranul Lumea, selectând această zonă și alegând opțiunea "Reformă caravana".</LetterRescueQuestFinished>
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
-  <LetterLabelPredatorHuntingColonist>TODO</LetterLabelPredatorHuntingColonist>
+  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} vânează {PREY_definite}</LetterLabelPredatorHuntingColonist>
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <LetterPredatorHuntingColonist>TODO</LetterPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>{PREDATOR} îl vânează pe {PREY_definite} pentru hrană!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
   <!-- EN: {0} blocked {1} on: {2}. -->
-  <LetterDisease_Blocked>TODO</LetterDisease_Blocked>
+  <LetterDisease_Blocked>{0} a blocat {1} pe: {2}.</LetterDisease_Blocked>
   <!-- EN: Disease: {0} -->
-  <LetterLabelTraitDisease>TODO</LetterLabelTraitDisease>
+  <LetterLabelTraitDisease>Boală: {0}</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
-  <LetterTraitDisease>TODO</LetterTraitDisease>
+  <LetterTraitDisease>{PAWN_label} s-a îmbolnăvit de la {1}.\n\nAsigură-te că ai un pat medical și un doctor. Asigură-te că {PAWN_pronunțător} primește un tratament adecvat și petrece cât mai mult timp posibil la pat.</LetterTraitDisease>
 
   <!-- Surgery -->
   <!-- EN: Surgery failed on {PATIENT_labelShort} -->
-  <LetterLabelSurgeryFailed>TODO</LetterLabelSurgeryFailed>
+  <LetterLabelSurgeryFailed>Operația chirurgicală a eșuat la {PATIENT_labelShort}</LetterLabelSurgeryFailed>
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureMinor>TODO</MessageMedicalOperationFailureMinor> <!-- NewTemp rename to LetterTextOperationFailureMinor globally-->
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} a eșuat într-un mod minor în timp ce opera pe {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureMinor> <!-- NewTemp rename to LetterTextOperationFailureMinor globally-->
   <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureCatastrophic>TODO</MessageMedicalOperationFailureCatastrophic> <!-- NewTemp rename to LetterTextOperationFailureCatastrophic globally-->
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} a eșuat în mod catastrofal în timp ce îl opera pe {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic> <!-- NewTemp rename to LetterTextOperationFailureCatastrophic globally-->
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureRidiculous>TODO</MessageMedicalOperationFailureRidiculous> <!-- NewTemp rename to LetterTextOperationFailureRidiculous globally-->
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} a eșuat într-un mod ridicol în timp ce opera pe {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous> <!-- NewTemp rename to LetterTextOperationFailureRidiculous globally-->
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}. -->
-  <MessageMedicalOperationFailureFatal>TODO</MessageMedicalOperationFailureFatal> <!-- NewTemp rename to LetterTextOperationFailureFatal globally-->
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} a comis o eroare fatală în timpul operației pe {PATIENT_labelShort} din cauza provocărilor speciale ale: {2}.</MessageMedicalOperationFailureFatal> <!-- NewTemp rename to LetterTextOperationFailureFatal globally-->
 
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
-  <LetterQuestBecameAvailable>TODO</LetterQuestBecameAvailable>
+  <LetterQuestBecameAvailable>O nouă misiune a devenit disponibilă. Se numește "{0}".</LetterQuestBecameAvailable>
   <!-- EN: If you don't accept the quest within {0}, it will expire. -->
-  <LetterQuestRequiresAcceptance>TODO</LetterQuestRequiresAcceptance>
+  <LetterQuestRequiresAcceptance>Dacă nu accepți misiunea în termen de {0}, aceasta va expira.</LetterQuestRequiresAcceptance>
   <!-- EN: A new quest has become active. It is called '{0}'. -->
-  <LetterQuestBecameActive>TODO</LetterQuestBecameActive>
+  <LetterQuestBecameActive>O nouă căutare a devenit activă. Se numește "{0}".</LetterQuestBecameActive>
   <!-- EN: Quest active: {0} -->
-  <LetterQuestAutomaticallyAcceptedTitle>TODO</LetterQuestAutomaticallyAcceptedTitle>
+  <LetterQuestAutomaticallyAcceptedTitle>Căutare activă: {0}</LetterQuestAutomaticallyAcceptedTitle>
   <!-- EN: It will expire in {0}. -->
-  <LetterQuestActiveNowTime>TODO</LetterQuestActiveNowTime>
+  <LetterQuestActiveNowTime>Acesta va expira în {0}.</LetterQuestActiveNowTime>
 
   <!-- Quest drop pods arrived -->
   <!-- EN: Pods arrived -->
-  <LetterLabelQuestDropPodsArrived>TODO</LetterLabelQuestDropPodsArrived>
+  <LetterLabelQuestDropPodsArrived>Capsulele au sosit</LetterLabelQuestDropPodsArrived>
   <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
-  <LetterQuestDropPodsArrived>TODO</LetterQuestDropPodsArrived>
+  <LetterQuestDropPodsArrived>Au sosit capsule de transport cu următorul conținut:\n\n{0}</LetterQuestDropPodsArrived>
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
-  <LetterLabelRefugeeJoins>TODO</LetterLabelRefugeeJoins>
+  <LetterLabelRefugeeJoins>{PAWN_nameDef} se alătură</LetterLabelRefugeeJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
-  <LetterRefugeeJoins>TODO</LetterRefugeeJoins>
+  <LetterRefugeeJoins>Un {PAWN_titlu} pe nume {PAWN_nameDef} a sosit și se alătură coloniei.</LetterRefugeeJoins>
   
   <!-- Rescuee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
-  <LetterLabelRescueeJoins>TODO</LetterLabelRescueeJoins>
+  <LetterLabelRescueeJoins>{PAWN_nameDef} se alătură</LetterLabelRescueeJoins>
   <!-- EN: {PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony. -->
-  <LetterRescueeJoins>TODO</LetterRescueeJoins>
+  <LetterRescueeJoins>{PAWN_nameDef} vă este recunoscător că l-ați salvat pe {PAWN_objective}. {PAWN_pronoun} a decis că {PAWN_pronoun} preferă să rămână decât să plece și se alătură coloniei voastre.</LetterRescueeJoins>
 
   <!-- Pawns arrive and join -->
   <!-- EN: People join -->
-  <LetterLabelPawnsArriveAndJoin>TODO</LetterLabelPawnsArriveAndJoin>
+  <LetterLabelPawnsArriveAndJoin>Oamenii s-au alăturat</LetterLabelPawnsArriveAndJoin>
   <!-- EN: The following people have arrived and joined the colony:\n\n{0} -->
-  <LetterPawnsArriveAndJoin>TODO</LetterPawnsArriveAndJoin>
+  <LetterPawnsArriveAndJoin>Următoarele persoane au sosit și s-au alăturat coloniei:\n\n{0}</LetterPawnsArriveAndJoin>
 
   <!-- Pawns arrive -->
   <!-- EN: People arrived -->
-  <LetterLabelPawnsArrive>TODO</LetterLabelPawnsArrive>
+  <LetterLabelPawnsArrive>Oamenii au sosit</LetterLabelPawnsArrive>
   <!-- EN: The following people have arrived:\n\n{0} -->
-  <LetterPawnsArrive>TODO</LetterPawnsArrive>
+  <LetterPawnsArrive>Au sosit următoarele persoane:\n\n{0}</LetterPawnsArrive>
 
   <!-- Pawn leaving -->
   <!-- EN: {0} leaving -->
-  <LetterLabelPawnLeaving>TODO</LetterLabelPawnLeaving>
+  <LetterLabelPawnLeaving>{0} pleacă</LetterLabelPawnLeaving>
   <!-- EN: {0} is leaving. -->
-  <LetterPawnLeaving>TODO</LetterPawnLeaving>
+  <LetterPawnLeaving>{0} pleacă.</LetterPawnLeaving>
 
   <!-- Pawns leaving -->
   <!-- EN: {0} leaving -->
-  <LetterLabelPawnsLeaving>TODO</LetterLabelPawnsLeaving>
+  <LetterLabelPawnsLeaving>{0} pleacă</LetterLabelPawnsLeaving>
   <!-- EN: {0} are leaving. -->
-  <LetterPawnsLeaving>TODO</LetterPawnsLeaving>
+  <LetterPawnsLeaving>{0} pleacă.</LetterPawnsLeaving>
   
   <!-- Colonist kidnapped -->
   <!-- EN: {PAWN_nameDef} kidnapped -->
-  <LetterLabelPawnsKidnapped>TODO</LetterLabelPawnsKidnapped>
+  <LetterLabelPawnsKidnapped>{PAWN_nameDef} răpit</LetterLabelPawnsKidnapped>
   <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
 \nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
-  <LetterPawnsKidnapped>TODO</LetterPawnsKidnapped>
+  <LetterPawnsKidnapped>{PAWN_nameDef} a fost răpit de {FACTION_name}!\n\nCu toate acestea, {PAWN_pronoun} nu este pierdut pentru totdeauna. O oportunitate de salvare a {PAWN_objective} s-ar putea să se prezinte în zilele sau anii următori.</LetterPawnsKidnapped>
   
   <!-- Techprints -->
   <!-- EN: Techprint applied: {PROJECT_label} -->
-  <LetterTechprintAppliedLabel>TODO</LetterTechprintAppliedLabel>
+  <LetterTechprintAppliedLabel>Techprint aplicat: {PROJECT_label}</LetterTechprintAppliedLabel>
   <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
-  <LetterTechprintAppliedPartIntro>TODO</LetterTechprintAppliedPartIntro>
+  <LetterTechprintAppliedPartIntro>A fost aplicată o techprint la proiectul de cercetare: {PROJECT_label}.</LetterTechprintAppliedPartIntro>
   <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
-  <LetterTechprintAppliedPartJustUnlocked>TODO</LetterTechprintAppliedPartJustUnlocked>
+  <LetterTechprintAppliedPartJustUnlocked>Ați îndeplinit cerințele techprint ale proiectului! Cercetătorii dvs. pot începe acum să cerceteze cum să utilizeze efectiv tehnologia la băncile de cercetare.</LetterTechprintAppliedPartJustUnlocked>
   <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
-  <LetterTechprintAppliedPartNotUnlockedYet>TODO</LetterTechprintAppliedPartNotUnlockedYet>
+  <LetterTechprintAppliedPartNotUnlockedYet>Cerințele techprint ale acestui proiect nu sunt încă îndeplinite. {0} techprints au fost aplicate până în prezent. Proiectul necesită {1} în total.</LetterTechprintAppliedPartNotUnlockedYet>
   <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
-  <LetterTechprintAppliedPartAlreadyUnlocked>TODO</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartAlreadyUnlocked>Cerințele techprint-ului acestui proiect au fost deja îndeplinite. Techprint-ul suplimentar a avansat eforturile dvs. de cercetare pe {PROJECT_label}. Jumătate din munca de cercetare rămasă, {0} puncte, a fost finalizată.</LetterTechprintAppliedPartAlreadyUnlocked>
   <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
-  <LetterTechprintAppliedPartAlreadyResearched>TODO</LetterTechprintAppliedPartAlreadyResearched>
+  <LetterTechprintAppliedPartAlreadyResearched>Acest proiect este deja complet cercetat, așa că techprint-ul nu ți-a avansat deloc cunoștințele.</LetterTechprintAppliedPartAlreadyResearched>
   <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
-  <LetterTechprintAppliedPartExpAwarded>TODO</LetterTechprintAppliedPartExpAwarded>
+  <LetterTechprintAppliedPartExpAwarded>Prin aplicarea techprint-ului, {PAWN_labelShort} a câștigat {0} experiență în aptitudinea {1}.</LetterTechprintAppliedPartExpAwarded>
   
   <!-- Quest Completed -->
   <!-- EN: Quest completed -->
-  <LetterQuestCompletedLabel>TODO</LetterQuestCompletedLabel>
+  <LetterQuestCompletedLabel>Misiune finalizată</LetterQuestCompletedLabel>
   <!-- EN: Quest failed -->
-  <LetterQuestFailedLabel>TODO</LetterQuestFailedLabel>
+  <LetterQuestFailedLabel>Misiunea eșuată</LetterQuestFailedLabel>
   <!-- EN: Quest concluded -->
-  <LetterQuestConcludedLabel>TODO</LetterQuestConcludedLabel>
+  <LetterQuestConcludedLabel>Misiune concluzionată</LetterQuestConcludedLabel>
   <!-- EN: You have successfully completed the quest '{0}'! -->
-  <LetterQuestCompletedSuccess>TODO</LetterQuestCompletedSuccess>
+  <LetterQuestCompletedSuccess>Ați finalizat cu succes misiunea "{0}"!</LetterQuestCompletedSuccess>
   <!-- EN: You have failed the quest '{0}'. -->
-  <LetterQuestCompletedFail>TODO</LetterQuestCompletedFail>
+  <LetterQuestCompletedFail>Ați eșuat în misiunea "{0}".</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->
-  <LetterQuestCompletedConcluded>TODO</LetterQuestCompletedConcluded>
+  <LetterQuestCompletedConcluded>Ați concluzionat misiunea '{0}'.</LetterQuestCompletedConcluded>
 
   <!-- Bladelink -->
   <!-- EN: Persona bond: {PAWN_labelShort} -->
-  <LetterBladelinkWeaponBondedLabel>TODO</LetterBladelinkWeaponBondedLabel>
+  <LetterBladelinkWeaponBondedLabel>Legătură personală: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
-  <LetterBladelinkWeaponBonded>TODO</LetterBladelinkWeaponBonded>
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} a stabilit o legătură cu persoana {WEAPON_labelShort}.\n\nDe acum încolo, {WEAPON_labelShort} va refuza să fie mânuit de oricine altcineva în afară de {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
   
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->
-  <LetterLabelMechClusterArrived>TODO</LetterLabelMechClusterArrived>
+  <LetterLabelMechClusterArrived>Mecanoizii au sosit</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
-  <LetterMechClusterArrived>TODO</LetterMechClusterArrived>
+  <LetterMechClusterArrived>Mecanoizii au sosit.</LetterMechClusterArrived>
 
   <!-- EN: Caravan detected -->
-  <LetterLabelSiteCountdownStarted>TODO</LetterLabelSiteCountdownStarted>
+  <LetterLabelSiteCountdownStarted>Caravana detectată</LetterLabelSiteCountdownStarted>
   <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
-  <LetterTextSiteCountdownStarted>TODO</LetterTextSiteCountdownStarted>
-
-  <!-- UNUSED -->
-  <RelationsBrokenDown>Relațiile cu {0} au decăzut. Sunt acum ostili față de colonia ta.</RelationsBrokenDown>
-  <RelationsWarmed>Relațiile cu {0} s-au îmbunătățit. Nu mai sunt acum ostili față de colonia ta.</RelationsWarmed>
-  <RelationsBrokenCapture>Pentru ca {0} a fost capturat, {1} sunt acum inamicii coloniei tale.</RelationsBrokenCapture>
-  <ColonyGoodwill>Bunăvoința coloniei</ColonyGoodwill>
-  <MentalBreakRampage>{0} a cedat psihic și se manifestă violent.</MentalBreakRampage>
-  <MentalBreakDaze>{0} se simte amețit și se plimbă năuc prin jur.</MentalBreakDaze>
-  <MentalBreakLeave>{0} a cedat și va părăsi colonia.</MentalBreakLeave>
-  <MentalBreakRecoveryRampage>Manifestările violente ale lui {0} au luat sfârșit.</MentalBreakRecoveryRampage>
-  <MentalBreakRecoveryDaze>{0} și-a revenit.</MentalBreakRecoveryDaze>
-  <MentalBreakRecoveryLeave>{0} s-a răzgândit și se va întoarce la colonie.</MentalBreakRecoveryLeave>
-  <Birthday>Este aniversarea lui {0} astăzi! {1} a împlinit {2} de ani.</Birthday>
-  <BirthdayWithInjuries>Este aniversarea lui {0} astăzi! {1} a împlinit {2} de ani.\n\nDin păcate, odată cu vârsta {0} a ajuns să sufere de câteva boli:\n{3}</BirthdayWithInjuries>
+  <LetterTextSiteCountdownStarted>Caravana dumneavoastră a fost detectată. În {0}, întăriri {1} de la {2} vor începe să sosească în zonă.\n\nReformează-ți caravana și începe să te deplasezi pentru a evita {1}. Un cronometru care numără până la sosirea lor este acum vizibil.</LetterTextSiteCountdownStarted>
 
 </LanguageData>
