@@ -61,6 +61,8 @@ This table is for keeping consistent translations of certain words.
 |blight|molimă|
 |backstory|biografie|
 |blunt| ? |
+|world view| ? |
+|mech cluster| ? |
 
 |Not to be translated|
 |-|
