@@ -19,9 +19,9 @@ There's still a lot to be translated. Check the issues tab.
 | 22135|100.00||Core\Keyed                                  |
 |114788| 22.00||Core                                        |
 | 18270|  0.00||Royalty\DefInjected                         |
-|  2985|  0.00||Royalty\Keyed                               |
-| 21255|  0.00||Royalty                                     |
-|136043| 18.56||.                                           |
+|  2985|100.00||Royalty\Keyed                               |
+| 21255| 14.04||Royalty                                     |
+|136043| 20.76||.                                           |
 
 For finer-grade / latest numbers, check the GitHub action tab. Inspect the output of the latest ["Translation stats"](https://github.com/Ludeon/RimWorld-Romanian/actions/workflows/translation_stats.yml) job.
 
@@ -67,6 +67,7 @@ This table is for keeping consistent translations of certain words.
 |binge|îmbuibare|
 |drafted|recrutat|
 |botched|rasolit|
+|bestower|emisar|
 
 |Not to be translated|
 |-|

@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- Royalty -->
   <!-- EN: Change heir of {HOLDER_labelShort}'s {TITLE} title from {HEIR_labelShort} -->
-  <RequestChangeRoyalHeir>TODO</RequestChangeRoyalHeir>
+  <RequestChangeRoyalHeir>Schimbă moștenitorul titlului {TITLE} al lui {HOLDER_labelShort} de la {HEIR_labelShort}.</RequestChangeRoyalHeir>
   <!-- EN: Designate heir of {HOLDER_labelShort}'s {TITLE} title -->
-  <RequestSetRoyalHeir>TODO</RequestSetRoyalHeir>
+  <RequestSetRoyalHeir>Desemnează moștenitorul titlului {TITLE} al lui {HOLDER_labelShort}.</RequestSetRoyalHeir>
   <!-- EN: already in progress for {PAWN_labelShort} -->
-  <RequestChangeRoyalHeirAlreadyInProgress>TODO</RequestChangeRoyalHeirAlreadyInProgress>
+  <RequestChangeRoyalHeirAlreadyInProgress>deja în curs pentru {PAWN_labelShort}</RequestChangeRoyalHeirAlreadyInProgress>
   
 </LanguageData>

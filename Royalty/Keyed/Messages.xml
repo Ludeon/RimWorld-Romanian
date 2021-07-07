@@ -1,41 +1,41 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- Shuttle landing zones -->
   <!-- EN: Shuttle could not land on pad: {0} -->
-  <ShuttleBlocked>TODO</ShuttleBlocked>
+  <ShuttleBlocked>Naveta nu a putut ateriza pe platformă: {0}</ShuttleBlocked>
   <!-- EN: blocked by {0_label}. -->
-  <BlockedBy>TODO</BlockedBy>
+  <BlockedBy>Blocat de {0_label}.</BlockedBy>
   <!-- EN: The shuttle has arrived. -->
-  <MessageShuttleArrived>TODO</MessageShuttleArrived>
+  <MessageShuttleArrived>Naveta a sosit.</MessageShuttleArrived>
   <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
-  <MessageShuttleArrivedContentsLost>TODO</MessageShuttleArrivedContentsLost>
+  <MessageShuttleArrivedContentsLost>Naveta a sosit, dar, deoarece înăuntru nu se aflau coloniști, conținutul a fost pierdut.</MessageShuttleArrivedContentsLost>
   <!-- EN: Cannot call shuttle -->
-  <CannotCallShuttle>TODO</CannotCallShuttle>
+  <CannotCallShuttle>Nu se poate apela la navetă</CannotCallShuttle>
 
   <!-- EN: Cannot land in undiscovered area. -->
-  <ShuttleCannotLand_Fogged>TODO</ShuttleCannotLand_Fogged>
+  <ShuttleCannotLand_Fogged>Nu poate ateriza în zona nedescoperită.</ShuttleCannotLand_Fogged>
   <!-- EN: Area must be walkable. -->
-  <ShuttleCannotLand_Unwalkable>TODO</ShuttleCannotLand_Unwalkable>
+  <ShuttleCannotLand_Unwalkable>Zona trebuie să fie circulabilă.</ShuttleCannotLand_Unwalkable>
 
   <!-- EN: Warning: Anima tree has been marked for cutting. -->
-  <MessageWarningCutAnimaTree>TODO</MessageWarningCutAnimaTree>
+  <MessageWarningCutAnimaTree>Avertisment: Arborele Anima a fost marcat pentru tăiere.</MessageWarningCutAnimaTree>
 
   <!-- EN: Select {TARGET_definite} and right-click the bestower to begin the bestowing ceremony. -->
-  <MessageBestowerWaiting>TODO</MessageBestowerWaiting>
+  <MessageBestowerWaiting>Selectați {TARGET_definite} și faceți clic dreapta pe emisar pentru a începe ceremonia de acordare.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
-  <MessageBestowerUnreachable>TODO</MessageBestowerUnreachable>
+  <MessageBestowerUnreachable>Nu se poate ajunge la emisar!</MessageBestowerUnreachable>
   <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
-  <MessageBestowingSpotUnreachable>TODO</MessageBestowingSpotUnreachable>
+  <MessageBestowingSpotUnreachable>Emisarul este supărat de interferențe și a decis să plece.</MessageBestowingSpotUnreachable>
 
   <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
-  <MessageBestowingCeremonyStarted>TODO</MessageBestowingCeremonyStarted>
+  <MessageBestowingCeremonyStarted>Ceremonia de acordare a {PAWN_definite} a început.</MessageBestowingCeremonyStarted>
   <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
-  <MessageMissionGetBackToShuttle>TODO</MessageMissionGetBackToShuttle>
+  <MessageMissionGetBackToShuttle>I-ai învins pe {FACTION_pawnsPlural}! Întoarce-te pe navetă pentru a o lansa.</MessageMissionGetBackToShuttle>
 
   <!-- EN: {FACTION_name} has dropped resources nearby. -->
-  <MessagePermitTransportDrop>TODO</MessagePermitTransportDrop>
+  <MessagePermitTransportDrop>{FACTION_name} a lăsat resurse în apropiere.</MessagePermitTransportDrop>
   <!-- EN: {FACTION_name} has sent resources to {PAWN_nameDef}'s caravan. -->
-  <MessagePermitTransportDropCaravan>TODO</MessagePermitTransportDropCaravan>
+  <MessagePermitTransportDropCaravan>{FACTION_name} a trimis resurse către caravana lui {PAWN_nameDef}.</MessagePermitTransportDropCaravan>
 
 </LanguageData>
