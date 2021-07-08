@@ -14,14 +14,14 @@ There's still a lot to be translated. Check the issues tab.
 
 |EN_words|%done|t_unused|Path|
 |-:|-:|-:|:-|
-| 33734|  2.31||Core\Backstories                            |
+| 33108|  6.46||Core\Backstories                            |
 | 58919|  3.97||Core\DefInjected                            |
 | 22135|100.00||Core\Keyed                                  |
 |114788| 22.00||Core                                        |
 | 18270|  0.00||Royalty\DefInjected                         |
 |  2985|100.00||Royalty\Keyed                               |
 | 21255| 14.04||Royalty                                     |
-|136043| 20.76||.                                           |
+|135417| 21.86||.                                           |
 
 For finer-grade / latest numbers, check the GitHub action tab. Inspect the output of the latest ["Translation stats"](https://github.com/Ludeon/RimWorld-Romanian/actions/workflows/translation_stats.yml) job.
 
@@ -30,47 +30,9 @@ Alternatively, run locally the following python script:
 python scripts/t_stats.py -i .
 ```
 
-# General Notes
+# Contributing
 
-- Each XML entry has a comment above containing the English translation. You might want to have the [French translation](https://github.com/Ludeon/RimWorld-fr) opened in a separate tab when translating, for reference.
-- XML entries containing the `TODO` string are ignored by the game (the English default will be shown instead).
-- XML entries having the comment `<!-- UNUSED -->` above are outdated translations from a previous version of the game, kept as a reference. They should be integrated in the newer tags, or outright deleted altogether.
-- Romanian has gendered nouns. Some tags admit a female version (e.g. `<title>` and `<titleFemale>` in `Backstories.xml`). Cross-check the [French translation](https://github.com/Ludeon/RimWorld-fr) for inspiration.
-- [DeepL](https://www.deepl.com/translator) is a great tool to speed up the translation, especially for long bodies of text. Don't just copy and paste, proofread what is translated and correct if necessary.
-- Check out the `scripts/copy_tags.py` script. It allows easy extraction&insertion of tag content into Google Translate / DeepL for insane translation throughput.
+Current translators:
+ - nomius10
 
-## Choices of some translations
-This table is for keeping consistent translations of certain words.
-
-|EN word|Chosen translation|
-|-|-|
-|dumping stockpile|haldă|
-|dumping area|zona de haldă|
-|stockpile|zonă de depozitare|
-|(mining) skill|aptitudine|
-|skilled at ...|e îndemânat la ...|
-|melee|corp la corp|
-|slaughter|măcelărește|
-|skip, farskip|teleportare|
-|(map) tile|țiglă|
-|map|hartă|
-|mental break|cădere nervoasă|
-|mentally broken|afectat mental|
-|lavish (meal)|somptuos|
-|mood|dispoziție|
-|blight|molimă|
-|backstory|biografie|
-|blunt| ? |
-|world view| ? |
-|mech cluster| ? |
-|persona core|nucleu de persoană|
-|binge|îmbuibare|
-|drafted|recrutat|
-|botched|rasolit|
-|bestower|emisar|
-
-|Not to be translated|
-|-|
-|Cooldown|Cooldown|
-|Psyfocus|Psyfocus|
-|hitpoints|hitpoint-uri|
+Before contributing, please check [guidelines.md](./GUIDELINES.md)
