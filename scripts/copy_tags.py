@@ -14,17 +14,26 @@ from copy import copy
 import pyperclip
 import re
 
-def get_filled_tags(root, force=False):
+def get_filled_tags(root, force=False, filt=None, trans=False):
     last_comment = ET.Comment("")
     tags = []
 
     for elm in root:
         if elm.tag == ET.Comment:
             last_comment = elm
-        elif elm.tag != ET.Comment:
-            if elm.text == "TODO" or force:
-                txt = last_comment.text.strip().removeprefix("EN: ")
-                tags += [(elm, txt)]
+        elif len(elm) > 0:
+            tags += get_filled_tags(elm, force=force, filt=filt, trans=trans)
+        elif type(elm.tag) == str:
+            if filt is None or filt.search(elm.tag):
+                if trans:
+                    if elm.text != "TODO" or force:
+                        tags += [(elm, elm.text)]
+                else:
+                    if elm.text == "TODO" or force:
+                        txt = last_comment.text.strip().removeprefix("EN: ")
+                        tags += [(elm, txt)]
+        else:
+            raise Exception(f"What tf is this? {elm} {type(elm)}")
 
     return tags
 
@@ -36,6 +45,10 @@ if __name__ == "__main__":
                         help="Copy tags to clipboard only up to a certain limit")
     parser.add_argument("--force", action="store_const", default=False, const=True,
                         help="Ignore already-existing translations")
+    parser.add_argument("-f", "--filter", type=str, required=False, default=None,
+                        help="Filter selected tags by a regex")
+    parser.add_argument("--translated", action="store_const", default=False, const=True,
+                        help="Extract the already-translated tags, not the English reference")
     args = parser.parse_args()
 
     tBuilder = ET.TreeBuilder(insert_comments=True)
@@ -43,7 +56,10 @@ if __name__ == "__main__":
     og_tree = ET.parse(str(args.file), parser)
 
 
-    tags = get_filled_tags(og_tree.getroot(), args.force)
+    filt = None
+    if args.filter != None:
+        filt = re.compile(args.filter)
+    tags = get_filled_tags(og_tree.getroot(), force=args.force, filt=filt, trans=args.translated)
     num_tags = len(tags)
     crt_num = 0
     while len(tags) > 0:
