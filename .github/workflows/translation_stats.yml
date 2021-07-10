@@ -14,4 +14,4 @@ jobs:
         python-version: '3.9'
     - name: run script (t_stats.py)
       run: |
-        python scripts/t_stats.py -i .
+        python scripts/t_stats.py .

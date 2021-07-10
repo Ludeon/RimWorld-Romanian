@@ -33,6 +33,12 @@ class TranslationStat:
         if self.w_total == 0:
             return 100.0
         return 100 - (self.w_todo / self.w_total) * 100
+    
+    @property
+    def w_density(self):
+        if self.t_total == 0:
+            return 0
+        return self.w_total / self.t_total
 
 class TElement(ET.Element):
     @property
@@ -109,16 +115,16 @@ def print_xtree(xtree, minWordThresh=None):
         yield (total_stats, path)
         return total_stats
 
-    print("|EN_words|%done|t_unused|Path|")
+    print("|%done|EN_words|w_density|Path|")
     print("|-:|-:|-:|:-|")
 
     v = list(dfs(xtree))
     t = []
     for (s, path) in v:
         t.append([
-            s.w_total,
             f"{s.w_pct:.2f}",
-            "" if s.t_unused == 0 else str(s.t_unused),
+            s.w_total,
+            f"{s.w_density:.0f}",
             str(path)
         ])
     maxws = [0] * len(t[0])
@@ -137,7 +143,7 @@ def print_xtree(xtree, minWordThresh=None):
 
 def parse_args():
     parser = argparse.ArgumentParser(description="t_stats - obtain statistics regarding translation progress")
-    parser.add_argument("-i", "--input", type=Path, required=True,
+    parser.add_argument("input", type=Path,
                         help="XML root to process (useful for specifying only indiviual folders)")
     parser.add_argument("-t", "--thresh", type=int, required=False, default=100,
                         help="Number of tags threshold under which to hide entries from being printed in the final stats")
