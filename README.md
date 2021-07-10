@@ -14,14 +14,14 @@ There's still a lot to be translated. Check the issues tab.
 
 |EN_words|%done|t_unused|Path|
 |-:|-:|-:|:-|
-| 33108|  6.46||Core\Backstories                            |
+| 32683|100.00||Core\Backstories                            |
 | 58919|  3.97||Core\DefInjected                            |
 | 22135|100.00||Core\Keyed                                  |
-|114788| 22.00||Core                                        |
+|113737| 50.26||Core                                        |
 | 18270|  0.00||Royalty\DefInjected                         |
 |  2985|100.00||Royalty\Keyed                               |
 | 21255| 14.04||Royalty                                     |
-|135417| 21.86||.                                           |
+|134992| 44.55||.                                           |
 
 For finer-grade / latest numbers, check the GitHub action tab. Inspect the output of the latest ["Translation stats"](https://github.com/Ludeon/RimWorld-Romanian/actions/workflows/translation_stats.yml) job.
 

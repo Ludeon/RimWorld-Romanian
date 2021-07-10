@@ -42,7 +42,7 @@ if __name__ == "__main__":
     parser.add_argument("file", type=Path,
                         help="Path to XML to be read/written to")
     parser.add_argument("-l", "--limit", type=int, default=4500,
-                        help="Copy tags to clipboard only up to a certain limit")
+                        help="Copy tags to clipboard only up to a certain limit. Use 0 for no limit")
     parser.add_argument("--force", action="store_const", default=False, const=True,
                         help="Ignore already-existing translations")
     parser.add_argument("-f", "--filter", type=str, required=False, default=None,
@@ -67,7 +67,7 @@ if __name__ == "__main__":
 
         # copy batch of tags to cliboard
         s = ""
-        while len(s) < args.limit and tags:
+        while (len(s) < args.limit or args.limit == 0) and tags:
             tag, txt = tags.pop()
             crt_tags.append(tag)
             s += f"#{tag.tag}\n{txt}\n\n"
