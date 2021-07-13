@@ -17,6 +17,7 @@ class TranslationStat:
         self.w_todo = 0
         self.w_total = 0
         self.w_trans = 0
+        self.w_script = 0
 
     def __add__(self, other):
         new = TranslationStat()
@@ -26,6 +27,7 @@ class TranslationStat:
         new.w_todo   = self.w_todo   + other.w_todo
         new.w_total  = self.w_total  + other.w_total
         new.w_trans  = self.w_trans  + other.w_trans
+        new.w_script = self.w_script + other.w_script
         return new
 
     @property
@@ -33,7 +35,7 @@ class TranslationStat:
         if self.w_total == 0:
             return 100.0
         return 100 - (self.w_todo / self.w_total) * 100
-    
+
     @property
     def w_density(self):
         if self.t_total == 0:
@@ -43,7 +45,6 @@ class TranslationStat:
 class TElement(ET.Element):
     @property
     def stats(self):
-        # TODO: recursivity
         stats = TranslationStat()
         last_comment = ET.Comment("")
         for elm in filter(lambda e: len(e) == 0, self.iter()):
@@ -55,6 +56,8 @@ class TElement(ET.Element):
                 en_words = count_words(last_comment.text)
                 stats.t_total += 1
                 stats.w_total += en_words
+                if is_script_tag(last_comment.text):
+                    stats.w_script += en_words
                 if elm.text == "TODO":
                     stats.t_todo += 1
                     stats.w_todo += en_words
@@ -62,6 +65,9 @@ class TElement(ET.Element):
                     stats.w_trans += count_words(elm.text)
 
         return stats
+
+def is_script_tag(s: str) -> bool:
+    return "<li>" in s
 
 def count_words(s: str) -> int:
     if s is None:
@@ -115,8 +121,8 @@ def print_xtree(xtree, minWordThresh=None):
         yield (total_stats, path)
         return total_stats
 
-    print("|%done|EN_words|w_density|Path|")
-    print("|-:|-:|-:|:-|")
+    print("|%done|EN_words|w_density|w_script|Path|")
+    print("|-:|-:|-:|-:|:-|")
 
     v = list(dfs(xtree))
     t = []
@@ -125,6 +131,7 @@ def print_xtree(xtree, minWordThresh=None):
             f"{s.w_pct:.2f}",
             s.w_total,
             f"{s.w_density:.0f}",
+            str(s.w_script) if s.w_script > 0 else "",
             str(path)
         ])
     maxws = [0] * len(t[0])
@@ -137,8 +144,7 @@ def print_xtree(xtree, minWordThresh=None):
         for i, e in enumerate(line[:-1]):
             fmt = "|{:>%d}" % maxws[i]
             print(fmt.format(e), end="")
-        fmt = "|{:<%d}|" % maxws[-1]
-        print(fmt.format(line[-1]))
+        print(f"|{line[-1]}|")
 
 
 def parse_args():

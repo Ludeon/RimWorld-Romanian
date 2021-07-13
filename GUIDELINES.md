@@ -6,7 +6,7 @@
 - XML entries having the comment `<!-- UNUSED -->` above are outdated translations from a previous version of the game, kept as a reference. They should be integrated in the newer tags, or outright deleted altogether.
 - Romanian has gendered nouns. Some tags admit a female version (e.g. `<title>` and `<titleFemale>` in `Backstories.xml`). Cross-check the [French translation](https://github.com/Ludeon/RimWorld-fr) for inspiration.
 - [DeepL](https://www.deepl.com/translator) is a great tool to speed up the translation, especially for long bodies of text. Don't just copy and paste, proofread what is translated and correct if necessary.
-- Check out the `scripts/copy_tags.py` script. It allows easy extraction&insertion of tag content into Google Translate / DeepL for insane translation throughput.
+- Check out the `scripts/tag_extract.py` script. It allows easy extraction&insertion of tag content into Google Translate / DeepL for insane translation throughput.
 
 # Choices of some translations
 This table is for keeping consistent translations of certain words.
