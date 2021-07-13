@@ -15,13 +15,13 @@ There's still a lot to be translated. Check the issues tab.
 |%done|EN_words|w_density|Path|
 |-:|-:|-:|:-|
 |100.00| 32683|10|Core\Backstories                            |
-|  3.97| 58919| 9|Core\DefInjected                            |
+| 16.65| 58919| 9|Core\DefInjected                            |
 |100.00| 22135| 6|Core\Keyed                                  |
-| 50.26|113737| 8|Core                                        |
+| 56.82|113737| 8|Core                                        |
 |  0.00| 18270|13|Royalty\DefInjected                         |
 |100.00|  2985|10|Royalty\Keyed                               |
 | 14.04| 21255|13|Royalty                                     |
-| 44.55|134992| 9|.                                           |
+| 50.09|134992| 9|.                                           |
 
 For finer-grade / latest numbers, check the GitHub action tab. Inspect the output of the latest ["Translation stats"](https://github.com/Ludeon/RimWorld-Romanian/actions/workflows/translation_stats.yml) job.
 
