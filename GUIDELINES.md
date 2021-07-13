@@ -21,6 +21,8 @@ This table is for keeping consistent translations of certain words.
 |-|-|
 |dumping stockpile|haldă|
 |dumping area|zona de haldă|
+|growing zone|zonă de cultivare|
+|WORK tab|fila MUNCĂ|
 |stockpile|zonă de depozitare|
 |(mining) skill|aptitudine|
 |skilled at ...|e îndemânat la ...|
@@ -30,6 +32,7 @@ This table is for keeping consistent translations of certain words.
 |(map) tile|țiglă|
 |map|hartă|
 |mental break|cădere nervoasă|
+|(mentally) broke down|a avut o cădere psihică|
 |mentally broken|afectat mental|
 |lavish (meal)|somptuos|
 |mood|dispoziție|
@@ -41,9 +44,13 @@ This table is for keeping consistent translations of certain words.
 |persona core|nucleu de persoană|
 |binge|îmbuibare|
 |drafted|recrutat|
+|undraft colonist|desființează recrutul|
 |botched|rasolit|
 |bestower|emisar|
 |coreworld|lumea centrală|
 |withdrawl|sevraj|
 |orbital trade beacon|baliză de comerț orbital|
 |bill|slujbă|
+|wall|perete|
+|stove|sobă|
+|tantrum|acces de furie, criză de furie|
