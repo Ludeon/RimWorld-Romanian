@@ -44,3 +44,6 @@ This table is for keeping consistent translations of certain words.
 |botched|rasolit|
 |bestower|emisar|
 |coreworld|lumea centrală|
+|withdrawl|sevraj|
+|orbital trade beacon|baliză de comerț orbital|
+|bill|slujbă|

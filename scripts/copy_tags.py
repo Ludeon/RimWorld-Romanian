@@ -83,7 +83,7 @@ if __name__ == "__main__":
 
             s = pyperclip.paste()
             lines = s.split("\n")
-            lines = list(filter(lambda x : "#" not in x and len(x) > 0, lines))
+            lines = list(filter(lambda x : "#" not in x and len(x) > 0 and "DeepL" not in x, lines))
             if len(lines) != len(crt_tags):
                 print(f"mismatched input: found {len(lines)} (vs {len(crt_tags)} expected tags)")
                 print(f"try again")
