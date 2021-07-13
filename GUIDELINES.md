@@ -13,10 +13,12 @@ This table is for keeping consistent translations of certain words.
 
 |Not to be translated|
 |-|
-|Cooldown|Cooldown|
-|Psyfocus|Psyfocus|
-|hitpoints|hitpoint-uri|
-|quadrum|quadrum|
+|Cooldown|
+|Psyfocus|
+|hitpoints|
+|quadrum|
+|go-juice|
+|greatbow|
 
 |EN word|Chosen translation|
 |-|-|
@@ -55,3 +57,5 @@ This table is for keeping consistent translations of certain words.
 |wall|perete|
 |stove|sobă|
 |tantrum|acces de furie, criză de furie|
+|devilstrand|șuvița-dracului|
+|plasteel|plastoțel|

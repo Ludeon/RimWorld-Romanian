@@ -1,129 +1,129 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: air conditioning -->
-  <AirConditioning.label>TODO</AirConditioning.label>
+  <AirConditioning.label>aer condiționat</AirConditioning.label>
   <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
-  <AirConditioning.description>TODO</AirConditioning.description>
+  <AirConditioning.description>Construiți răcitoare pentru a face oamenii să se simtă confortabil pe timp de caniculă sau construiți congelatoare pentru depozitarea bunurilor perisabile.</AirConditioning.description>
   
   <!-- EN: autodoor -->
-  <Autodoors.label>TODO</Autodoors.label>
+  <Autodoors.label>uși automate</Autodoors.label>
   <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
-  <Autodoors.description>TODO</Autodoors.description>
+  <Autodoors.description>Construiți uși automate care se deschid automat atunci când se apropie cineva, fără a încetini pe nimeni.</Autodoors.description>
   
   <!-- EN: battery -->
-  <Batteries.label>TODO</Batteries.label>
+  <Batteries.label>baterii</Batteries.label>
   <!-- EN: Build batteries for storing electricity. -->
-  <Batteries.description>TODO</Batteries.description>
+  <Batteries.description>Construiți baterii pentru stocarea energiei electrice.</Batteries.description>
   
   <!-- EN: biofuel refining -->
-  <BiofuelRefining.label>TODO</BiofuelRefining.label>
+  <BiofuelRefining.label>rafinarea biocombustibilului</BiofuelRefining.label>
   <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
-  <BiofuelRefining.description>TODO</BiofuelRefining.description>
+  <BiofuelRefining.description>Construiți rafinării de biocombustibil pentru a produce chimiocombustibil din materie biologică, cum ar fi lemnul sau produsele alimentare.</BiofuelRefining.description>
   
   <!-- EN: blowback operation -->
-  <BlowbackOperation.label>TODO</BlowbackOperation.label>
+  <BlowbackOperation.label>operațiune cu recul</BlowbackOperation.label>
   <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
-  <BlowbackOperation.description>TODO</BlowbackOperation.description>
+  <BlowbackOperation.description>Construiește arme de mică putere cu funcționare blowback, cum ar fi pistoale automate și pistoale mitralieră.</BlowbackOperation.description>
   
   <!-- EN: colored lights -->
-  <ColoredLights.label>TODO</ColoredLights.label>
+  <ColoredLights.label>lumini colorate</ColoredLights.label>
   <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
-  <ColoredLights.description>TODO</ColoredLights.description>
+  <ColoredLights.description>Construiește lumini colorate în scopuri decorative. Doar cosmetice.</ColoredLights.description>
   
   <!-- EN: electricity -->
-  <Electricity.label>TODO</Electricity.label>
+  <Electricity.label>electricitate</Electricity.label>
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
-  <Electricity.description>TODO</Electricity.description>
+  <Electricity.description>Exploatează puterea electricității pentru o sută de sarcini diferite.</Electricity.description>
   
   <!-- EN: firefoam -->
-  <Firefoam.label>TODO</Firefoam.label>
+  <Firefoam.label>spumă de foc</Firefoam.label>
   <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
-  <Firefoam.description>TODO</Firefoam.description>
+  <Firefoam.description>Construiți dispozitive automate de protecție împotriva incendiilor, care răspândesc spumă ignifugă ca răspuns la apropierea flăcărilor.</Firefoam.description>
   
   <!-- EN: flak armor -->
-  <FlakArmor.label>TODO</FlakArmor.label>
+  <FlakArmor.label>armură antiglonț</FlakArmor.label>
   <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
-  <FlakArmor.description>TODO</FlakArmor.description>
+  <FlakArmor.description>Confecționați îmbrăcăminte cu armură metalică cusută pentru a rezista la gloanțe și explozii. Această armură grea încetinește ușor mișcarea.</FlakArmor.description>
   
   <!-- EN: gas operation -->
-  <GasOperation.label>TODO</GasOperation.label>
+  <GasOperation.label>operațiune cu gaz</GasOperation.label>
   <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
-  <GasOperation.description>TODO</GasOperation.description>
+  <GasOperation.description>Meșterește arme de mare putere, cum ar fi puști cu lanț, LMG-uri și SMG-uri grele.</GasOperation.description>
   
   <!-- EN: geothermal power -->
-  <GeothermalPower.label>TODO</GeothermalPower.label>
+  <GeothermalPower.label>energie geotermală</GeothermalPower.label>
   <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
-  <GeothermalPower.description>TODO</GeothermalPower.description>
+  <GeothermalPower.description>Construiți centrale geotermale pe vârful gheizerelor de aburi, pentru energie neîntreruptă.</GeothermalPower.description>
   
   <!-- EN: gunsmithing -->
-  <Gunsmithing.label>TODO</Gunsmithing.label>
+  <Gunsmithing.label>fabricarea armelor de foc</Gunsmithing.label>
   <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
-  <Gunsmithing.description>TODO</Gunsmithing.description>
+  <Gunsmithing.description>Confecționați arme simple cu acționare manuală, cum ar fi revolvere, puști cu pompă, puști cu bolț și lansatoare incendiare.</Gunsmithing.description>
   
   <!-- EN: gun turrets -->
-  <GunTurrets.label>TODO</GunTurrets.label>
+  <GunTurrets.label>turele cu arme de foc</GunTurrets.label>
   <!-- EN: Produce simple automated gun turrets. -->
-  <GunTurrets.description>TODO</GunTurrets.description>
+  <GunTurrets.description>Produceți turele simple de tunuri automate.</GunTurrets.description>
   
   <!-- EN: hydroponics -->
-  <Hydroponics.label>TODO</Hydroponics.label>
+  <Hydroponics.label>hidroponice</Hydroponics.label>
   <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
-  <Hydroponics.description>TODO</Hydroponics.description>
+  <Hydroponics.description>Construiți bazine hidroponice pentru a crește rapid culturile în interior, indiferent de terenul sau de vremea de afară.</Hydroponics.description>
   
   <!-- EN: IEDs -->
-  <IEDs.label>TODO</IEDs.label>
+  <IEDs.label>IEDs</IEDs.label>
   <!-- EN: Build improvised traps from any kind of mortar shell. -->
-  <IEDs.description>TODO</IEDs.description>
+  <IEDs.description>Construiți capcane improvizate din orice tip de obuz de mortier.</IEDs.description>
   
   <!-- EN: machining -->
-  <Machining.label>TODO</Machining.label>
+  <Machining.label>mecanizare</Machining.label>
   <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
-  <Machining.description>TODO</Machining.description>
+  <Machining.description>Construiți mese de prelucrare pentru a fabrica arme, grenade, armuri antiglonț și pentru a toci mecanoizi morți pentru resurse.</Machining.description>
   
   <!-- EN: mortars -->
-  <Mortars.label>TODO</Mortars.label>
+  <Mortars.label>mortiere</Mortars.label>
   <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
-  <Mortars.description>TODO</Mortars.description>
+  <Mortars.description>Construiți mortiere care pot arunca obuze pe distanțe mari - chiar și peste ziduri.</Mortars.description>
   
   <!-- EN: nutrient paste -->
-  <NutrientPaste.label>TODO</NutrientPaste.label>
+  <NutrientPaste.label>pastă nutritivă</NutrientPaste.label>
   <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
-  <NutrientPaste.description>TODO</NutrientPaste.description>
+  <NutrientPaste.description>Construiți distribuitoare de pastă nutritivă care produc în mod eficient mâncăruri comestibile din materii prime nutritive brute, fără a necesita deloc muncă.</NutrientPaste.description>
   
   <!-- EN: packaged survival meal -->
-  <PackagedSurvivalMeal.label>TODO</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.label>masă de supraviețuire ambalată</PackagedSurvivalMeal.label>
   <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
-  <PackagedSurvivalMeal.description>TODO</PackagedSurvivalMeal.description>
+  <PackagedSurvivalMeal.description>Produceți mese de supraviețuire ambalate care nu se strică niciodată. Ideal pentru călătorii.</PackagedSurvivalMeal.description>
   
   <!-- EN: prosthetics -->
-  <Prosthetics.label>TODO</Prosthetics.label>
+  <Prosthetics.label>proteze</Prosthetics.label>
   <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
-  <Prosthetics.description>TODO</Prosthetics.description>
+  <Prosthetics.description>Construiți părți de corp protetice ieftine pentru a înlocui membrele pierdute. Necesită un medic priceput pentru a fi atașate.</Prosthetics.description>
   
   <!-- EN: smokepop packs -->
-  <SmokepopBelt.label>TODO</SmokepopBelt.label>
+  <SmokepopBelt.label>pachete smokepop</SmokepopBelt.label>
   <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
-  <SmokepopBelt.description>TODO</SmokepopBelt.description>
+  <SmokepopBelt.description>Construiți pachete de fum care permit purtătorului să desfășoare o perdea de fum defensivă.</SmokepopBelt.description>
   
   <!-- EN: solar panel -->
-  <SolarPanels.label>TODO</SolarPanels.label>
+  <SolarPanels.label>panou solar</SolarPanels.label>
   <!-- EN: Build solar panels for electricity generation. -->
-  <SolarPanels.description>TODO</SolarPanels.description>
+  <SolarPanels.description>Construiți panouri solare pentru generarea de energie electrică.</SolarPanels.description>
   
   <!-- EN: sterile materials -->
-  <SterileMaterials.label>TODO</SterileMaterials.label>
+  <SterileMaterials.label>materiale sterile</SterileMaterials.label>
   <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
-  <SterileMaterials.description>TODO</SterileMaterials.description>
+  <SterileMaterials.description>Construiți țigle sterile pentru a face camere curate pentru tratamente medicale, cercetare și gătit mai sigure și mai eficiente.</SterileMaterials.description>
   
   <!-- EN: tube television -->
-  <TubeTelevision.label>TODO</TubeTelevision.label>
+  <TubeTelevision.label>televizor cu tub</TubeTelevision.label>
   <!-- EN: Produce tube televisions for recreational watching. -->
-  <TubeTelevision.description>TODO</TubeTelevision.description>
+  <TubeTelevision.description>Produceți televizoare cu tub pentru vizionare în scop recreativ.</TubeTelevision.description>
   
   <!-- EN: watermill generator -->
-  <WatermillGenerator.label>TODO</WatermillGenerator.label>
+  <WatermillGenerator.label>generator cu moară de apă</WatermillGenerator.label>
   <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
-  <WatermillGenerator.description>TODO</WatermillGenerator.description>
+  <WatermillGenerator.description>Construiți generatoare de moară de apă pe râuri pentru a genera o sursă constantă de energie.</WatermillGenerator.description>
   
 </LanguageData>

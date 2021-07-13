@@ -1,38 +1,38 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: starflight basics -->
-  <ShipBasics.label>TODO</ShipBasics.label>
+  <ShipBasics.label>Bazele zborului stelar</ShipBasics.label>
   <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
-  <ShipBasics.description>TODO</ShipBasics.description>
+  <ShipBasics.description>Construiți elementele structurale și de susținere ale unei nave stelare. Acesta este primul pas în construirea unei nave care să părăsească acest sistem stelar.</ShipBasics.description>
   <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nMany desperate souls want off this planet. Ship reactors take 15 days to charge up. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures for their own mysterious reasons.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
-  <ShipBasics.discoveredLetterText>TODO</ShipBasics.discoveredLetterText>
+  <ShipBasics.discoveredLetterText>Evadarea de pe această planetă - ar însemna în sfârșit libertate și poate o întoarcere acasă.\n\nDar și incredibil de periculos.\n\nMulte suflete disperate vor să părăsească această planetă. Reactoarele navei au nevoie de 15 zile pentru a se încărca. Odată ce începeți acest proces, reactorul navei va emite o semnătură energetică detectabilă de la mii de kilometri distanță. Raiderii se vor aduna să vă atace în valuri, cu o intensitate pe care nu ați mai văzut-o niciodată. Se știe, de asemenea, că mecanoizii sunt atrași de astfel de semnături de energie din motive misterioase.\nNU va începe decât atunci când activezi reactorul navei tale, dar când o va face, va fi feroce. Va trebui să acumulezi resurse, arme și mijloace de apărare pentru acest atac dacă speri să scapi cu viață.</ShipBasics.discoveredLetterText>
   <!-- EN: About: Launching the ship -->
-  <ShipBasics.discoveredLetterTitle>TODO</ShipBasics.discoveredLetterTitle>
+  <ShipBasics.discoveredLetterTitle>Despre: Lansarea navei</ShipBasics.discoveredLetterTitle>
   
   <!-- EN: machine persuasion -->
-  <ShipComputerCore.label>TODO</ShipComputerCore.label>
+  <ShipComputerCore.label>convingerea mașinii</ShipComputerCore.label>
   <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
-  <ShipComputerCore.description>TODO</ShipComputerCore.description>
+  <ShipComputerCore.description>Construiți un sistem de semnal-recompensă pentru a convinge un nucleu de persoane existent să servească drept căpitan de mașină al navei. Deoarece oamenii dorm în timpul călătoriei interstelare, un nucleu de persoană este necesar pentru a gestiona deciziile complexe ale unui zbor stelar de ani de zile.</ShipComputerCore.description>
   
   <!-- EN: vacuum cryptosleep casket -->
-  <ShipCryptosleep.label>TODO</ShipCryptosleep.label>
+  <ShipCryptosleep.label>casetă de vid criptosomn</ShipCryptosleep.label>
   <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
-  <ShipCryptosleep.description>TODO</ShipCryptosleep.description>
+  <ShipCryptosleep.description>Construiește sicrie de criptosomn întărite, suficient de rezistente pentru a fi expuse la vid, pentru a transporta oameni în călătoria de ani de zile între stele.</ShipCryptosleep.description>
   
   <!-- EN: Johnson-Tanaka drive -->
-  <ShipEngine.label>TODO</ShipEngine.label>
+  <ShipEngine.label>Motoare Johnson-Tanaka</ShipEngine.label>
   <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
-  <ShipEngine.description>TODO</ShipEngine.description>
+  <ShipEngine.description>Construiește o unitate Johnson-Tanaka pentru o navă. Propulsorul JT te poate împinge spre alte stele prin valorificarea efectelor la scară cuantică pentru a transporta impulsul spre stelele îndepărtate. Bineînțeles, ca în cazul tuturor navelor stelare, este nevoie de mulți ani pentru a ajunge oriunde.</ShipEngine.description>
   
   <!-- EN: starship reactor -->
-  <ShipReactor.label>TODO</ShipReactor.label>
+  <ShipReactor.label>reactor de navă stelară</ShipReactor.label>
   <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
-  <ShipReactor.description>TODO</ShipReactor.description>
+  <ShipReactor.description>Construiește un reactor nuclear de lungă durată pentru a alimenta o navă stelară. Rețineți că reactoarele au un proces lung de pornire care va atrage raiderii.</ShipReactor.description>
   
   <!-- EN: starflight sensors -->
-  <ShipSensorCluster.label>TODO</ShipSensorCluster.label>
+  <ShipSensorCluster.label>senzori de zbor stelar</ShipSensorCluster.label>
   <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
-  <ShipSensorCluster.description>TODO</ShipSensorCluster.description>
+  <ShipSensorCluster.description>Construiește senzori cu rază lungă de acțiune pentru o navă stelară. Acești senzori sunt esențiali pentru navigație, comunicare și evitarea amenințărilor.</ShipSensorCluster.description>
   
 </LanguageData>

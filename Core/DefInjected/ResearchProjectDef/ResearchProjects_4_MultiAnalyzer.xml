@@ -1,58 +1,58 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: advanced fabrication -->
-  <AdvancedFabrication.label>TODO</AdvancedFabrication.label>
+  <AdvancedFabrication.label>fabricarea avansată</AdvancedFabrication.label>
   <!-- EN: Fabricate advanced components from standard components and other materials. -->
-  <AdvancedFabrication.description>TODO</AdvancedFabrication.description>
+  <AdvancedFabrication.description>Fabricați componente avansate din componente standard și alte materiale.</AdvancedFabrication.description>
   
   <!-- EN: bionic replacements -->
-  <Bionics.label>TODO</Bionics.label>
+  <Bionics.label>înlocuiri bionice</Bionics.label>
   <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
-  <Bionics.description>TODO</Bionics.description>
+  <Bionics.description>Construiți părți bionice de înaltă tehnologie pentru a înlocui membrele și ochii pierduți. Necesită un medic calificat pentru a fi atașate.</Bionics.description>
   
   <!-- EN: pulse-charged munitions -->
-  <ChargedShot.label>TODO</ChargedShot.label>
+  <ChargedShot.label>muniție încărcată cu impulsuri</ChargedShot.label>
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
-  <ChargedShot.description>TODO</ChargedShot.description>
+  <ChargedShot.description>Construiește arme care lansează muniții încărcate cu impulsuri pentru daune suplimentare. Rețineți că acestea necesită, de asemenea, componente avansate.</ChargedShot.description>
   
   <!-- EN: cryptosleep casket -->
-  <Cryptosleep.label>TODO</Cryptosleep.label>
+  <Cryptosleep.label>sicriu criptosomn</Cryptosleep.label>
   <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
-  <Cryptosleep.description>TODO</Cryptosleep.description>
+  <Cryptosleep.description>Construiește sicrie de criptosomn, care pot pune ființele vii într-o stare de animație suspendată pe termen nelimitat.</Cryptosleep.description>
   
   <!-- EN: fabrication -->
-  <Fabrication.label>TODO</Fabrication.label>
+  <Fabrication.label>fabricare</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
-  <Fabrication.description>TODO</Fabrication.description>
+  <Fabrication.description>Construiește bancuri de fabricare, capabile să realizeze proiecte de înaltă tehnologie, de la asamblarea de componente până la construirea de armuri energetice.</Fabrication.description>
   <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
-  <Fabrication.discoveredLetterText>TODO</Fabrication.discoveredLetterText>
+  <Fabrication.discoveredLetterText>Aveți acum tehnologia necesară pentru a construi o bancă de fabricare - dar este nevoie și de câteva componente avansate pentru a începe. Puteți colecta componente avansate în mai multe moduri:\n\n -Toate așezările de outlanderi vând componente avansate. Trimiteți o caravană pentru a cumpăra câteva.\n - Unii comercianți în vizită vând componente avansate. Invitați-i sau așteptați-i.\n- Unele misiuni sunt recompensate cu componente avansate.</Fabrication.discoveredLetterText>
   <!-- EN: About: Getting advanced components -->
-  <Fabrication.discoveredLetterTitle>TODO</Fabrication.discoveredLetterTitle>
+  <Fabrication.discoveredLetterTitle>Despre: Obținerea de componente avansate</Fabrication.discoveredLetterTitle>
   
   <!-- EN: multi-analyzer -->
-  <MultiAnalyzer.label>TODO</MultiAnalyzer.label>
+  <MultiAnalyzer.label>multi-analizator</MultiAnalyzer.label>
   <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
-  <MultiAnalyzer.description>TODO</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Construiți multi-analizatori care cresc viteza de cercetare și permit proiecte de cercetare de nivel superior.</MultiAnalyzer.description>
   
   <!-- EN: marine armor -->
-  <PoweredArmor.label>TODO</PoweredArmor.label>
+  <PoweredArmor.label>armură marină</PoweredArmor.label>
   <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
-  <PoweredArmor.description>TODO</PoweredArmor.description>
+  <PoweredArmor.description>Construiește armura marină, un costum de armură electrică de uz general folosit de trupele de șoc de înaltă tehnologie. Rețineți că acestea necesită, de asemenea, componente avansate.</PoweredArmor.description>
   
   <!-- EN: recon armor -->
-  <ReconArmor.label>TODO</ReconArmor.label>
+  <ReconArmor.label>armură de recunoaștere</ReconArmor.label>
   <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
-  <ReconArmor.description>TODO</ReconArmor.description>
+  <ReconArmor.description>Construiește o armură de recunoaștere, un costum de armură ușoară cu propulsie folosită de trupele de recunoaștere care au nevoie de protecție în mișcare. Rețineți că și acestea necesită componente avansate.</ReconArmor.description>
   
   <!-- EN: uranium slug turret -->
-  <SniperTurret.label>TODO</SniperTurret.label>
+  <SniperTurret.label>turelă cu gloanțe de uraniu</SniperTurret.label>
   <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
-  <SniperTurret.description>TODO</SniperTurret.description>
+  <SniperTurret.description>Produce turela cu glonț de uraniu care penetrează blindajul. Trage cu proiectile de uraniu care străpung plastoțelul ca hârtia, dar este mai puțin eficientă la distanță mică.</SniperTurret.description>
   
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>TODO</VitalsMonitor.label>
+  <VitalsMonitor.label>monitorul de semne vitale</VitalsMonitor.label>
   <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
-  <VitalsMonitor.description>TODO</VitalsMonitor.description>
+  <VitalsMonitor.description>Construiește monitoare de semne vitale care îmbunătățesc rezultatele medicale atunci când sunt plasate lângă paturile de spital.</VitalsMonitor.description>
   
 </LanguageData>
