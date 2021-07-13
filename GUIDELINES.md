@@ -16,6 +16,7 @@ This table is for keeping consistent translations of certain words.
 |Cooldown|Cooldown|
 |Psyfocus|Psyfocus|
 |hitpoints|hitpoint-uri|
+|quadrum|quadrum|
 
 |EN word|Chosen translation|
 |-|-|
