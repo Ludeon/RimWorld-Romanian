@@ -2,39 +2,39 @@
 <LanguageData>
   
   <!-- EN: floors -->
-  <Floors.label>TODO</Floors.label>
+  <Floors.label>podele</Floors.label>
   
   <!-- EN: furniture -->
-  <Furniture.label>TODO</Furniture.label>
+  <Furniture.label>mobilă</Furniture.label>
   
   <!-- EN: recreation -->
-  <Joy.label>TODO</Joy.label>
+  <Joy.label>recreere</Joy.label>
   
   <!-- EN: misc -->
-  <Misc.label>TODO</Misc.label>
+  <Misc.label>diverse</Misc.label>
   
   <!-- EN: orders -->
-  <Orders.label>TODO</Orders.label>
+  <Orders.label>ordine</Orders.label>
   
   <!-- EN: power -->
-  <Power.label>TODO</Power.label>
+  <Power.label>energie</Power.label>
   
   <!-- EN: production -->
-  <Production.label>TODO</Production.label>
+  <Production.label>producție</Production.label>
   
   <!-- EN: security -->
-  <Security.label>TODO</Security.label>
+  <Security.label>securitate</Security.label>
   
   <!-- EN: ship -->
-  <Ship.label>TODO</Ship.label>
+  <Ship.label>navă</Ship.label>
   
   <!-- EN: structure -->
-  <Structure.label>TODO</Structure.label>
+  <Structure.label>structură</Structure.label>
   
   <!-- EN: temperature -->
-  <Temperature.label>TODO</Temperature.label>
+  <Temperature.label>temperatură</Temperature.label>
   
   <!-- EN: zone -->
-  <Zone.label>TODO</Zone.label>
+  <Zone.label>zone</Zone.label>
   
 </LanguageData>
