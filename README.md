@@ -12,16 +12,16 @@ There's still a lot to be translated. Check the issues tab.
 
 ## Translation progress statistics
 
-|%done|EN_words|w_density|Path|
-|-:|-:|-:|:-|
-|100.00| 32683|10|Core\Backstories                            |
-| 16.65| 58919| 9|Core\DefInjected                            |
-|100.00| 22135| 6|Core\Keyed                                  |
-| 56.82|113737| 8|Core                                        |
-|  0.00| 18270|13|Royalty\DefInjected                         |
-|100.00|  2985|10|Royalty\Keyed                               |
-| 14.04| 21255|13|Royalty                                     |
-| 50.09|134992| 9|.                                           |
+|%done|EN_words|w_density|w_script|Path|
+|-:|-:|-:|-:|:-|
+|100.00| 32683|10|     |Core\Backstories|
+| 29.95| 58919| 9|14472|Core\DefInjected|
+|100.00| 22135| 6|   21|Core\Keyed|
+| 63.71|113737| 8|14493|Core|
+|  0.00| 18270|13| 6135|Royalty\DefInjected|
+|100.00|  2985|10|     |Royalty\Keyed|
+| 14.04| 21255|13| 6135|Royalty|
+| 55.89|134992| 9|20628|.|
 
 For finer-grade / latest numbers, check the GitHub action tab. Inspect the output of the latest ["Translation stats"](https://github.com/Ludeon/RimWorld-Romanian/actions/workflows/translation_stats.yml) job.
 
