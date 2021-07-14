@@ -1,39 +1,39 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: dirt -->
-  <DirtInEyes.label>TODO</DirtInEyes.label>
+  <DirtInEyes.label>murdărie</DirtInEyes.label>
   <!-- EN: Dirt in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <DirtInEyes.description>TODO</DirtInEyes.description>
+  <DirtInEyes.description>Murdărie în ochi. Afectează vederea, dar poate fi eliminat în câteva momente.</DirtInEyes.description>
   <!-- EN: dirt -->
-  <DirtInEyes.labelNoun>TODO</DirtInEyes.labelNoun>
+  <DirtInEyes.labelNoun>murdărie</DirtInEyes.labelNoun>
   
   <!-- EN: gravel -->
-  <GravelInEyes.label>TODO</GravelInEyes.label>
+  <GravelInEyes.label>pietriș</GravelInEyes.label>
   <!-- EN: Gravel in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <GravelInEyes.description>TODO</GravelInEyes.description>
+  <GravelInEyes.description>Pietriș în ochi. Afectează vederea, dar poate fi eliminată în câteva momente.</GravelInEyes.description>
   <!-- EN: gravel -->
-  <GravelInEyes.labelNoun>TODO</GravelInEyes.labelNoun>
+  <GravelInEyes.labelNoun>pietriș</GravelInEyes.labelNoun>
   
   <!-- EN: mud -->
-  <MudInEyes.label>TODO</MudInEyes.label>
+  <MudInEyes.label>noroi</MudInEyes.label>
   <!-- EN: Mud in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <MudInEyes.description>TODO</MudInEyes.description>
+  <MudInEyes.description>Noroi în ochi. Afectează vederea, dar poate fi eliminat în câteva momente.</MudInEyes.description>
   <!-- EN: mud -->
-  <MudInEyes.labelNoun>TODO</MudInEyes.labelNoun>
+  <MudInEyes.labelNoun>noroi</MudInEyes.labelNoun>
   
   <!-- EN: sand -->
-  <SandInEyes.label>TODO</SandInEyes.label>
+  <SandInEyes.label>nisip</SandInEyes.label>
   <!-- EN: Sand in the eyes. It impairs vision, but can be cleared within a few moments. -->
-  <SandInEyes.description>TODO</SandInEyes.description>
+  <SandInEyes.description>Nisip în ochi. Afectează vederea, dar poate fi eliminat în câteva momente.</SandInEyes.description>
   <!-- EN: sand -->
-  <SandInEyes.labelNoun>TODO</SandInEyes.labelNoun>
+  <SandInEyes.labelNoun>nisip</SandInEyes.labelNoun>
   
   <!-- EN: water -->
-  <WaterInEyes.label>TODO</WaterInEyes.label>
+  <WaterInEyes.label>apă</WaterInEyes.label>
   <!-- EN: Water in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <WaterInEyes.description>TODO</WaterInEyes.description>
+  <WaterInEyes.description>Apă în ochi. Afectează vederea, dar poate fi eliminată în câteva momente.</WaterInEyes.description>
   <!-- EN: water -->
-  <WaterInEyes.labelNoun>TODO</WaterInEyes.labelNoun>
+  <WaterInEyes.labelNoun>apă</WaterInEyes.labelNoun>
   
 </LanguageData>

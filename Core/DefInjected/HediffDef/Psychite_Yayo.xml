@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: psychite addiction -->
-  <PsychiteAddiction.label>TODO</PsychiteAddiction.label>
+  <PsychiteAddiction.label>dependență de psihită</PsychiteAddiction.label>
   <!-- EN: A chemical addiction to psychite. Long-term presence of psychite has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of psychite from drugs like flake or yayo, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <PsychiteAddiction.description>TODO</PsychiteAddiction.description>
+  <PsychiteAddiction.description>O dependență chimică de psihită. Prezența pe termen lung a psihitei a provocat adaptări neurologice la nivel celular, astfel încât creierul nu mai poate funcționa corect fără drog.\n\nFără doze regulate de psihite din droguri precum flake sau yayo, vor începe simptomele de sevraj. Cu toate acestea, o abstinență prelungită va forța creierul să se adapteze la starea sa normală, rezolvând dependența.</PsychiteAddiction.description>
   <!-- EN: withdrawal -->
-  <PsychiteAddiction.stages.withdrawal.label>TODO</PsychiteAddiction.stages.withdrawal.label>
+  <PsychiteAddiction.stages.withdrawal.label>sevraj</PsychiteAddiction.stages.withdrawal.label>
   
   <!-- EN: psychite tolerance -->
-  <PsychiteTolerance.label>TODO</PsychiteTolerance.label>
+  <PsychiteTolerance.label>toleranță la psihită</PsychiteTolerance.label>
   <!-- EN: A built-up tolerance to psychite. The more severe this tolerance is, the more psychite-based drugs like yayo or flake it takes to get the same effect. -->
-  <PsychiteTolerance.description>TODO</PsychiteTolerance.description>
+  <PsychiteTolerance.description>O toleranță acumulată la psihită. Cu cât această toleranță este mai severă, cu atât este nevoie de mai multe droguri pe bază de psihită, precum yayo sau flake, pentru a obține același efect.</PsychiteTolerance.description>
   <!-- EN: small -->
-  <PsychiteTolerance.stages.small.label>TODO</PsychiteTolerance.stages.small.label>
+  <PsychiteTolerance.stages.small.label>mică</PsychiteTolerance.stages.small.label>
   <!-- EN: large -->
-  <PsychiteTolerance.stages.large.label>TODO</PsychiteTolerance.stages.large.label>
+  <PsychiteTolerance.stages.large.label>mare</PsychiteTolerance.stages.large.label>
   <!-- EN: massive -->
-  <PsychiteTolerance.stages.massive.label>TODO</PsychiteTolerance.stages.massive.label>
+  <PsychiteTolerance.stages.massive.label>masivă</PsychiteTolerance.stages.massive.label>
   
   <!-- EN: high on yayo -->
-  <YayoHigh.label>TODO</YayoHigh.label>
+  <YayoHigh.label>sub efectele de yayo</YayoHigh.label>
   <!-- EN: Active yayo in the bloodstream. Generates an intense euphoric high. -->
-  <YayoHigh.description>TODO</YayoHigh.description>
+  <YayoHigh.description>Yayo activ în fluxul sanguin. Generează o stare euforică intensă.</YayoHigh.description>
   <!-- EN: a yayo high -->
-  <YayoHigh.labelNoun>TODO</YayoHigh.labelNoun>
+  <YayoHigh.labelNoun>o plăcere cauzată de yayo</YayoHigh.labelNoun>
   
 </LanguageData>
