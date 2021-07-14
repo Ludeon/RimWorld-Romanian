@@ -65,3 +65,4 @@ This table is for keeping consistent translations of certain words.
 |slime|mâzgă|
 |painstopper|implant analgezic|
 |alphabeaver|alfacastor|
+|stealth|furișare|
