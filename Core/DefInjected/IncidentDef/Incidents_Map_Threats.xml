@@ -1,51 +1,51 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: mass animal insanity -->
-  <AnimalInsanityMass.label>TODO</AnimalInsanityMass.label>
+  <AnimalInsanityMass.label>nebunie animală în masă</AnimalInsanityMass.label>
   
   <!-- EN: single animal insanity -->
-  <AnimalInsanitySingle.label>TODO</AnimalInsanitySingle.label>
+  <AnimalInsanitySingle.label>nebunia unui singur animal</AnimalInsanitySingle.label>
   
   <!-- EN: deep drill infestation -->
-  <DeepDrillInfestation.label>TODO</DeepDrillInfestation.label>
+  <DeepDrillInfestation.label>infestare cu burghiu adânc</DeepDrillInfestation.label>
   <!-- EN: Too deep: Infestation -->
-  <DeepDrillInfestation.letterLabel>TODO</DeepDrillInfestation.letterLabel>
+  <DeepDrillInfestation.letterLabel>Prea adânc: Infestare</DeepDrillInfestation.letterLabel>
   <!-- EN: Vibrations from your deep drills have angered some underground insects. Now they're tunneling upwards to seek revenge!\n\nBeware - the insects have been angered and will try to destroy your base. -->
-  <DeepDrillInfestation.letterText>TODO</DeepDrillInfestation.letterText>
+  <DeepDrillInfestation.letterText>Vibrațiile de la burghiile tale de adâncime au înfuriat unele insecte subterane. Acum, acestea fac tuneluri în sus pentru a se răzbuna!\n\nAtenție - insectele s-au înfuriat și vor încerca să vă distrugă baza.</DeepDrillInfestation.letterText>
   
   <!-- EN: ship part crash (defoliator) -->
-  <DefoliatorShipPartCrash.label>TODO</DefoliatorShipPartCrash.label>
+  <DefoliatorShipPartCrash.label>bucată de navă prăbușită (defoliator)</DefoliatorShipPartCrash.label>
   <!-- EN: Defoliator ship -->
-  <DefoliatorShipPartCrash.letterLabel>TODO</DefoliatorShipPartCrash.letterLabel>
+  <DefoliatorShipPartCrash.letterLabel>Nava defoliator</DefoliatorShipPartCrash.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nIts mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
-  <DefoliatorShipPartCrash.letterText>TODO</DefoliatorShipPartCrash.letterText>
+  <DefoliatorShipPartCrash.letterText>O bucată mare dintr-o navă antică s-a prăbușit în apropiere.\n\nInfluența sa misterioasă va ucide toate plantele într-un cerc care se extinde în jurul său.\n\nDistruge-o cât mai curând posibil. Dar aveți grijă - probabil că se va apăra.</DefoliatorShipPartCrash.letterText>
   
   <!-- EN: infestation -->
-  <Infestation.label>TODO</Infestation.label>
+  <Infestation.label>infestare</Infestation.label>
   <!-- EN: Infestation -->
-  <Infestation.letterLabel>TODO</Infestation.letterLabel>
+  <Infestation.letterLabel>Infestare</Infestation.letterLabel>
   <!-- EN: Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home. -->
-  <Infestation.letterText>TODO</Infestation.letterText>
+  <Infestation.letterText>Insecte gigantice fac tuneluri spre tine! Ele vor pătrunde în câteva secunde și vor planta stupi.\n\nÎn stupii vor genera mai multe insecte și mai mulți stupi.\n\nDacă nu vrei ca insectele să infesteze întreaga zonă, distruge stupii. Dar aveți grijă - insectele își vor apăra casa.</Infestation.letterText>
   
   <!-- EN: manhunter pack -->
-  <ManhunterPack.label>TODO</ManhunterPack.label>
+  <ManhunterPack.label>turmă de vânători de oameni</ManhunterPack.label>
   
   <!-- EN: mech cluster -->
-  <MechCluster.label>TODO</MechCluster.label>
+  <MechCluster.label>cluster de mecanoizi</MechCluster.label>
   <!-- EN: Mechanoid cluster -->
-  <MechCluster.letterLabel>TODO</MechCluster.letterLabel>
+  <MechCluster.letterLabel>Cluster de mecanoizi</MechCluster.letterLabel>
   <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
-  <MechCluster.letterText>TODO</MechCluster.letterText>
+  <MechCluster.letterText>Un grup de luptă mecanoid aterizează în apropiere. Clusterul va fi inițial inactiv, astfel încât să vă puteți lua timp pentru a decide cum să-l atacați.\n\nPoate rămâne inactiv până când este deranjat, sau poate avea un cronometru sau activatori de proximitate.\n\nChiar și clusterele mechi inactive nu sunt inofensive. Un cluster latent poate aduna din când în când atacatori mecanoizi sau poate avea un efect negativ mai larg care trebuie rezolvat în cele din urmă.</MechCluster.letterText>
   
   <!-- EN: ship part crash (psychic) -->
-  <PsychicEmanatorShipPartCrash.label>TODO</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.label>bucată de navă prăbușită (psihic)</PsychicEmanatorShipPartCrash.label>
   <!-- EN: Psychic ship -->
-  <PsychicEmanatorShipPartCrash.letterLabel>TODO</PsychicEmanatorShipPartCrash.letterLabel>
+  <PsychicEmanatorShipPartCrash.letterLabel>Navă psihică</PsychicEmanatorShipPartCrash.letterLabel>
   <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard machine persona with psychic projection ability. And this persona is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
-  <PsychicEmanatorShipPartCrash.letterText>TODO</PsychicEmanatorShipPartCrash.letterText>
+  <PsychicEmanatorShipPartCrash.letterText>O bucată mare dintr-o navă antică s-a prăbușit în apropiere.\n\nColoniștii tăi o pot simți în adâncul minții lor, îndemnând la acte de nedescris. Trebuie să aibă la bord o persoană-mașină cu capacitate de proiecție psihică. Și această persoană nu este prietenoasă. Distrugeți-o cât mai curând posibil. Dar aveți grijă - probabil că se va apăra.</PsychicEmanatorShipPartCrash.letterText>
   
   <!-- EN: enemy raid -->
-  <RaidEnemy.label>TODO</RaidEnemy.label>
+  <RaidEnemy.label>raid inamic</RaidEnemy.label>
   
 </LanguageData>
