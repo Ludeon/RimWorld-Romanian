@@ -41,8 +41,9 @@ This table is for keeping consistent translations of certain words.
 |mood|dispoziție|
 |blight|molimă|
 |backstory|biografie|
-|blunt| ? |
-|world view| ? |
+|blunt|contondent|
+|dodge|ferire|
+|world view|vedere mondială|
 |mech cluster| ? |
 |persona core|nucleu de persoană|
 |binge|îmbuibare|

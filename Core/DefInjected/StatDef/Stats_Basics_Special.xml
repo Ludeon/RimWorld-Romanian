@@ -1,35 +1,35 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: construction speed -->
-  <ConstructionSpeedFactor.label>TODO</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.label>viteza de construcție</ConstructionSpeedFactor.label>
   <!-- EN: The speed at which buildings made of this are constructed is multiplied by this value.\n\nSome materials, like stone, are slow to build from, while others, like wood, are fast. -->
-  <ConstructionSpeedFactor.description>TODO</ConstructionSpeedFactor.description>
+  <ConstructionSpeedFactor.description>Viteza cu care se construiesc clădirile făcute din acest material este înmulțită cu această valoare.\n\nCâteva materiale, cum ar fi piatra, se construiesc greu, în timp ce altele, cum ar fi lemnul, sunt rapide.</ConstructionSpeedFactor.description>
   <!-- EN: construction speed (material factor) -->
-  <ConstructionSpeedFactor.labelForFullStatList>TODO</ConstructionSpeedFactor.labelForFullStatList>
+  <ConstructionSpeedFactor.labelForFullStatList>viteza de construcție (factor material)</ConstructionSpeedFactor.labelForFullStatList>
   
   <!-- EN: medical potency -->
-  <MedicalPotency.label>TODO</MedicalPotency.label>
+  <MedicalPotency.label>potență medicală</MedicalPotency.label>
   <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
-  <MedicalPotency.description>TODO</MedicalPotency.description>
+  <MedicalPotency.description>Cât de eficient este acesta atunci când este folosit pentru a îngriji rănile și bolile sau pentru a face o intervenție chirurgicală.\n\nO potență medicală mai mare îmbunătățește calitatea îngrijirii și acționează ca un multiplicator al șanselor de succes în timpul intervențiilor chirurgicale.\nPuterea medicală este doar unul dintre factorii care influențează rezultatele medicale, printre mulți alții, inclusiv abilitatea medicului, echipamentul, curățenia și norocul.</MedicalPotency.description>
   
   <!-- EN: medical tend quality maximum -->
-  <MedicalQualityMax.label>TODO</MedicalQualityMax.label>
+  <MedicalQualityMax.label>calitatea maximă a tratamentului medical</MedicalQualityMax.label>
   <!-- EN: The maximum quality of medical tending that can be achieved while using this.\n\nBetter tend quality allows skilled doctors to treat wounds better, as well as more reliably. -->
-  <MedicalQualityMax.description>TODO</MedicalQualityMax.description>
+  <MedicalQualityMax.description>Calitatea maximă a îngrijirii medicale care poate fi obținută în timp ce se folosește acest lucru.\n\nO calitate mai bună a îngrijirii medicale permite medicilor calificați să trateze rănile mai bine, precum și mai fiabil.</MedicalQualityMax.description>
   
   <!-- EN: meditation psyfocus bonus -->
-  <MeditationFocusStrength.label>TODO</MeditationFocusStrength.label>
+  <MeditationFocusStrength.label>bonus de meditație psyfocus</MeditationFocusStrength.label>
   <!-- EN: The amount of extra psyfocus someone gains by focusing on this object during meditation, in addition to their own base rate of meditation psyfocus gain.\n\nFor some objects, this number can change depending on the surroundings and the person doing the meditating. -->
-  <MeditationFocusStrength.description>TODO</MeditationFocusStrength.description>
+  <MeditationFocusStrength.description>Cantitatea de psyfocus suplimentar pe care o obține cineva concentrându-se asupra acestui obiect în timpul meditației, în plus față de rata de bază a câștigului de psyfocus din meditație.\n\nPentru unele obiecte, acest număr se poate schimba în funcție de împrejurimi și de persoana care meditează.</MeditationFocusStrength.description>
   <!-- EN: {0} / day -->
-  <MeditationFocusStrength.formatString>TODO</MeditationFocusStrength.formatString>
+  <MeditationFocusStrength.formatString>{0} / zi</MeditationFocusStrength.formatString>
   <!-- EN: {0} / day -->
-  <MeditationFocusStrength.formatStringUnfinalized>TODO</MeditationFocusStrength.formatStringUnfinalized>
+  <MeditationFocusStrength.formatStringUnfinalized>{0} / zi</MeditationFocusStrength.formatStringUnfinalized>
   
   <!-- EN: psychic sensitivity offset -->
-  <PsychicSensitivityOffset.label>TODO</PsychicSensitivityOffset.label>
+  <PsychicSensitivityOffset.label>decalajul sensibilității psihice</PsychicSensitivityOffset.label>
   <!-- EN: An offset applied to the user's psychic sensitivity. -->
-  <PsychicSensitivityOffset.description>TODO</PsychicSensitivityOffset.description>
+  <PsychicSensitivityOffset.description>Un decalaj aplicat la sensibilitatea psihică a utilizatorului.</PsychicSensitivityOffset.description>
   
 </LanguageData>

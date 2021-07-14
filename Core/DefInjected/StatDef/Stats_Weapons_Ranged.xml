@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: Accuracy (long) -->
-  <AccuracyLong.label>TODO</AccuracyLong.label>
+  <AccuracyLong.label>Precizie (lungă)</AccuracyLong.label>
   <!-- EN: The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyLong.description>TODO</AccuracyLong.description>
+  <AccuracyLong.description>Acuratețea armei la o distanță de 40 de celule sau mai mult.\n\nO șansă de lovire a unei lovituri reale va fi afectată și de alți factori.</AccuracyLong.description>
   
   <!-- EN: Accuracy (medium) -->
-  <AccuracyMedium.label>TODO</AccuracyMedium.label>
+  <AccuracyMedium.label>Precizie (medie)</AccuracyMedium.label>
   <!-- EN: The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyMedium.description>TODO</AccuracyMedium.description>
+  <AccuracyMedium.description>Acuratețea armei la o distanță de 25 de celule.\n\nO șansă reală de lovire a unei lovituri va fi afectată și de alți factori.</AccuracyMedium.description>
   
   <!-- EN: Accuracy (short) -->
-  <AccuracyShort.label>TODO</AccuracyShort.label>
+  <AccuracyShort.label>Precizie (scurt)</AccuracyShort.label>
   <!-- EN: The weapon's accuracy at a distance of 12 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyShort.description>TODO</AccuracyShort.description>
+  <AccuracyShort.description>Acuratețea armei la o distanță de 12 celule.\n\nO șansă reală de lovire a unei lovituri va fi afectată și de alți factori.</AccuracyShort.description>
   
   <!-- EN: Accuracy (close) -->
-  <AccuracyTouch.label>TODO</AccuracyTouch.label>
+  <AccuracyTouch.label>Precizie (aproape)</AccuracyTouch.label>
   <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
-  <AccuracyTouch.description>TODO</AccuracyTouch.description>
+  <AccuracyTouch.description>Acuratețea armei la o distanță de 3 celule sau mai puțin.\n\nO șansă reală de lovire a unei lovituri va fi afectată și de alți factori.</AccuracyTouch.description>
   
   <!-- EN: ranged cooldown -->
-  <RangedWeapon_Cooldown.label>TODO</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.label>Răcire la distanță</RangedWeapon_Cooldown.label>
   <!-- EN: How long it takes to recover after firing this weapon. -->
-  <RangedWeapon_Cooldown.description>TODO</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.description>Cât timp durează recuperarea după ce se trage cu această armă.</RangedWeapon_Cooldown.description>
   <!-- EN: {0} s -->
-  <RangedWeapon_Cooldown.formatString>TODO</RangedWeapon_Cooldown.formatString>
+  <RangedWeapon_Cooldown.formatString>{0} s</RangedWeapon_Cooldown.formatString>
   
   <!-- EN: damage multiplier -->
-  <RangedWeapon_DamageMultiplier.label>TODO</RangedWeapon_DamageMultiplier.label>
+  <RangedWeapon_DamageMultiplier.label>multiplicator de daune</RangedWeapon_DamageMultiplier.label>
   <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
-  <RangedWeapon_DamageMultiplier.description>TODO</RangedWeapon_DamageMultiplier.description>
+  <RangedWeapon_DamageMultiplier.description>Un multiplicator al pagubelor aplicat proiectilelor trase de această armă.</RangedWeapon_DamageMultiplier.description>
   
 </LanguageData>

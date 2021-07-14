@@ -1,39 +1,39 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: Armor - Blunt -->
-  <StuffPower_Armor_Blunt.label>TODO</StuffPower_Armor_Blunt.label>
+  <StuffPower_Armor_Blunt.label>Armură - Contondent</StuffPower_Armor_Blunt.label>
   <!-- EN: Armor against blunt damage like club impacts, rock falls, and explosions. -->
-  <StuffPower_Armor_Blunt.description>TODO</StuffPower_Armor_Blunt.description>
+  <StuffPower_Armor_Blunt.description>Armură împotriva daunelor contondente, cum ar fi lovituri de bâtă, căderi de pietre și explozii.</StuffPower_Armor_Blunt.description>
   <!-- EN: Armor - Blunt (material factor) -->
-  <StuffPower_Armor_Blunt.labelForFullStatList>TODO</StuffPower_Armor_Blunt.labelForFullStatList>
+  <StuffPower_Armor_Blunt.labelForFullStatList>Armură - contondent (factor material)</StuffPower_Armor_Blunt.labelForFullStatList>
   
   <!-- EN: Armor - Heat -->
-  <StuffPower_Armor_Heat.label>TODO</StuffPower_Armor_Heat.label>
+  <StuffPower_Armor_Heat.label>Armură - Căldură</StuffPower_Armor_Heat.label>
   <!-- EN: Armor against temperature-related damage like burns. -->
-  <StuffPower_Armor_Heat.description>TODO</StuffPower_Armor_Heat.description>
+  <StuffPower_Armor_Heat.description>Armură împotriva daunelor cauzate de temperatură, cum ar fi arsurile.</StuffPower_Armor_Heat.description>
   <!-- EN: Armor - Heat (material factor) -->
-  <StuffPower_Armor_Heat.labelForFullStatList>TODO</StuffPower_Armor_Heat.labelForFullStatList>
+  <StuffPower_Armor_Heat.labelForFullStatList>Armură - Căldură (factor material)</StuffPower_Armor_Heat.labelForFullStatList>
   
   <!-- EN: Armor - Sharp -->
-  <StuffPower_Armor_Sharp.label>TODO</StuffPower_Armor_Sharp.label>
+  <StuffPower_Armor_Sharp.label>Armură - Ascuțit</StuffPower_Armor_Sharp.label>
   <!-- EN: Armor against sharp damage like bullets, knife stabs, and animal bites. -->
-  <StuffPower_Armor_Sharp.description>TODO</StuffPower_Armor_Sharp.description>
+  <StuffPower_Armor_Sharp.description>Armură împotriva daunelor ascuțite, cum ar fi gloanțe, înjunghieri de cuțit și mușcături de animale.</StuffPower_Armor_Sharp.description>
   <!-- EN: Armor - Sharp (material factor) -->
-  <StuffPower_Armor_Sharp.labelForFullStatList>TODO</StuffPower_Armor_Sharp.labelForFullStatList>
+  <StuffPower_Armor_Sharp.labelForFullStatList>Armură - Ascuțit (factor material)</StuffPower_Armor_Sharp.labelForFullStatList>
   
   <!-- EN: Insulation - Cold -->
-  <StuffPower_Insulation_Cold.label>TODO</StuffPower_Insulation_Cold.label>
+  <StuffPower_Insulation_Cold.label>Izolație - Rece</StuffPower_Insulation_Cold.label>
   <!-- EN: How much an apparel made of this material improves a wearer's minimum comfortable temperature when worn. -->
-  <StuffPower_Insulation_Cold.description>TODO</StuffPower_Insulation_Cold.description>
+  <StuffPower_Insulation_Cold.description>Cât de mult îmbunătățește o îmbrăcăminte din acest material temperatura minimă confortabilă a purtătorului atunci când este purtată.</StuffPower_Insulation_Cold.description>
   <!-- EN: Insulation - Cold (material factor) -->
-  <StuffPower_Insulation_Cold.labelForFullStatList>TODO</StuffPower_Insulation_Cold.labelForFullStatList>
+  <StuffPower_Insulation_Cold.labelForFullStatList>Izolație - Frig (factor material)</StuffPower_Insulation_Cold.labelForFullStatList>
   
   <!-- EN: Insulation - Heat -->
-  <StuffPower_Insulation_Heat.label>TODO</StuffPower_Insulation_Heat.label>
+  <StuffPower_Insulation_Heat.label>Izolație - Căldură</StuffPower_Insulation_Heat.label>
   <!-- EN: How much an apparel made of this material improves a wearer's maximum comfortable temperature when worn. -->
-  <StuffPower_Insulation_Heat.description>TODO</StuffPower_Insulation_Heat.description>
+  <StuffPower_Insulation_Heat.description>Cât de mult îmbunătățește un articol vestimentar fabricat din acest material temperatura maximă confortabilă a purtătorului atunci când este purtat.</StuffPower_Insulation_Heat.description>
   <!-- EN: Insulation - Heat (material factor) -->
-  <StuffPower_Insulation_Heat.labelForFullStatList>TODO</StuffPower_Insulation_Heat.labelForFullStatList>
+  <StuffPower_Insulation_Heat.labelForFullStatList>Izolație - căldură (factor material)</StuffPower_Insulation_Heat.labelForFullStatList>
   
 </LanguageData>

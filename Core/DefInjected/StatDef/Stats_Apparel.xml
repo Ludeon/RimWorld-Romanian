@@ -1,74 +1,74 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: Armor - Blunt -->
-  <ArmorRating_Blunt.label>TODO</ArmorRating_Blunt.label>
+  <ArmorRating_Blunt.label>Armură - Contondent</ArmorRating_Blunt.label>
   <!-- EN: The protection given against blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
-  <ArmorRating_Blunt.description>TODO</ArmorRating_Blunt.description>
+  <ArmorRating_Blunt.description>Protecția oferită împotriva daunelor contondente, cum ar fi pumnii, loviturile de bâtă și căderile de pietre.\n\nLa primirea daunelor, mai întâi acest indice de armură este redus cu valoarea de penetrare a armurii atacului.\n\nIndiferent, indicele de armură rămas este apoi comparat cu un număr aleatoriu de la 0 la 100.\n\n - Dacă numărul aleatoriu este sub jumătate din indicele de armură, daunele sunt deviate inofensiv. \n\n - Dacă numărul aleatoriu este mai mare de jumătate din valoarea armurii, dar nu mai mare decât aceasta, pagubele sunt reduse la jumătate și transformate în lovituri contondente.\n\n - Dacă numărul aleatoriu este mai mare decât valoarea armurii, armura nu are niciun efect.\n\nDe exemplu, la o valoare a armurii de 90% împotriva unui atac cu o penetrare a armurii de 10%, există 40% șanse de a devia atacul fără a fi afectat și 40% șanse de a atenua pagubele.\n\n Fiecare strat de armură este aplicat separat, din exterior spre interior.</ArmorRating_Blunt.description>
   <!-- EN: Armor - Blunt (armor stat) -->
-  <ArmorRating_Blunt.labelForFullStatList>TODO</ArmorRating_Blunt.labelForFullStatList>
+  <ArmorRating_Blunt.labelForFullStatList>Armură - Contondent (stat. de armură)</ArmorRating_Blunt.labelForFullStatList>
   
   <!-- EN: Armor - Heat -->
-  <ArmorRating_Heat.label>TODO</ArmorRating_Heat.label>
+  <ArmorRating_Heat.label>Armură - Căldură</ArmorRating_Heat.label>
   <!-- EN: The protection given against temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
-  <ArmorRating_Heat.description>TODO</ArmorRating_Heat.description>
+  <ArmorRating_Heat.description>Protecția oferită împotriva daunelor cauzate de temperatură, cum ar fi arsurile.\n\nÎn momentul în care primești o daună, mai întâi acest indice de blindaj este redus cu valoarea de penetrare a armurii atacului.\n\nÎnseamnă că indicele de blindaj rămas este comparat cu un număr aleatoriu de la 0 la 100.\n\n - Dacă numărul aleatoriu este mai mic de jumătate din indicele de blindaj, daunele sunt deviate inofensiv. \n\n - Dacă numărul aleatoriu este mai mare de jumătate din valoarea armurii, dar nu mai mare decât aceasta, pagubele sunt reduse la jumătate și transformate în lovituri contondente.\n\n - Dacă numărul aleatoriu este mai mare decât valoarea armurii, armura nu are niciun efect.\n\nDe exemplu, la o valoare a armurii de 90% împotriva unui atac cu o penetrare a armurii de 10%, există 40% șanse de a devia atacul fără a fi afectat și 40% șanse de a atenua pagubele.\n\n Fiecare strat de armură este aplicat separat, din exterior spre interior.</ArmorRating_Heat.description>
   <!-- EN: Armor - Heat (armor stat) -->
-  <ArmorRating_Heat.labelForFullStatList>TODO</ArmorRating_Heat.labelForFullStatList>
+  <ArmorRating_Heat.labelForFullStatList>Armură - Căldură (stat. de armură)</ArmorRating_Heat.labelForFullStatList>
   
   <!-- EN: Armor - Sharp -->
-  <ArmorRating_Sharp.label>TODO</ArmorRating_Sharp.label>
+  <ArmorRating_Sharp.label>Armură - Ascuțit</ArmorRating_Sharp.label>
   <!-- EN: The protection given against sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
-  <ArmorRating_Sharp.description>TODO</ArmorRating_Sharp.description>
+  <ArmorRating_Sharp.description>Protecția oferită împotriva daunelor ascuțite, cum ar fi gloanțele, înjunghierile de cuțit, exploziile și mușcăturile de animale.\n\nLa primirea daunelor, mai întâi acest indice de armură este redus cu valoarea de penetrare a armurii atacului.\n\nÎntregul indice de armură rămas este apoi comparat cu un număr aleatoriu de la 0 la 100.\n\n - Dacă numărul aleatoriu este sub jumătate din indicele de armură, daunele sunt deviate inofensiv. \n\n - Dacă numărul aleatoriu este mai mare de jumătate din valoarea armurii, dar nu mai mare decât aceasta, pagubele sunt reduse la jumătate și transformate în lovituri contondente.\n\n - Dacă numărul aleatoriu este mai mare decât valoarea armurii, armura nu are niciun efect.\n\nDe exemplu, la o valoare a armurii de 90% împotriva unui atac cu o penetrare a armurii de 10%, există 40% șanse de a devia atacul fără a fi afectat și 40% șanse de a atenua pagubele.\n\n Fiecare strat de armură este aplicat separat, din exterior spre interior.</ArmorRating_Sharp.description>
   <!-- EN: Armor - Sharp (armor stat) -->
-  <ArmorRating_Sharp.labelForFullStatList>TODO</ArmorRating_Sharp.labelForFullStatList>
+  <ArmorRating_Sharp.labelForFullStatList>Armură - Ascuțit (stat. de armură)</ArmorRating_Sharp.labelForFullStatList>
   
   <!-- EN: Shield max energy -->
-  <EnergyShieldEnergyMax.label>TODO</EnergyShieldEnergyMax.label>
+  <EnergyShieldEnergyMax.label>Energia maximă a scutului</EnergyShieldEnergyMax.label>
   <!-- EN: The maximum energy a shield belt can have at one time.\n\nMore energy absorbs more damage. -->
-  <EnergyShieldEnergyMax.description>TODO</EnergyShieldEnergyMax.description>
+  <EnergyShieldEnergyMax.description>Energia maximă pe care o poate avea o centură de scut la un moment dat.\nMai multă energie absoarbe mai multe pagube.</EnergyShieldEnergyMax.description>
   
   <!-- EN: Shield recharge rate -->
-  <EnergyShieldRechargeRate.label>TODO</EnergyShieldRechargeRate.label>
+  <EnergyShieldRechargeRate.label>Rata de reîncărcare a scutului</EnergyShieldRechargeRate.label>
   <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
-  <EnergyShieldRechargeRate.description>TODO</EnergyShieldRechargeRate.description>
+  <EnergyShieldRechargeRate.description>Rata la care un scut câștigă energie atâta timp cât nu este rupt.</EnergyShieldRechargeRate.description>
   <!-- EN: {0}/s -->
-  <EnergyShieldRechargeRate.formatString>TODO</EnergyShieldRechargeRate.formatString>
+  <EnergyShieldRechargeRate.formatString>{0}/s</EnergyShieldRechargeRate.formatString>
   
   <!-- EN: equip delay -->
-  <EquipDelay.label>TODO</EquipDelay.label>
+  <EquipDelay.label>întârziere de echipare</EquipDelay.label>
   <!-- EN: The time it takes to equip and unequip this item. -->
-  <EquipDelay.description>TODO</EquipDelay.description>
+  <EquipDelay.description>Timpul necesar pentru echiparea și dezechiparea acestui element.</EquipDelay.description>
   <!-- EN: {0} s -->
-  <EquipDelay.formatString>TODO</EquipDelay.formatString>
+  <EquipDelay.formatString>{0} s</EquipDelay.formatString>
   
   <!-- EN: Insulation - Cold -->
-  <Insulation_Cold.label>TODO</Insulation_Cold.label>
+  <Insulation_Cold.label>Izolație - Rece</Insulation_Cold.label>
   <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature.\n\nGreater values allow surviving in colder temperatures. -->
-  <Insulation_Cold.description>TODO</Insulation_Cold.description>
+  <Insulation_Cold.description>Cât de mult îmbunătățește acest articol de îmbrăcăminte temperatura minimă confortabilă a purtătorului.\n\nValoare mai mari permit supraviețuirea la temperaturi mai scăzute.</Insulation_Cold.description>
   <!-- EN: Insulation - Cold (armor stat) -->
-  <Insulation_Cold.labelForFullStatList>TODO</Insulation_Cold.labelForFullStatList>
+  <Insulation_Cold.labelForFullStatList>Izolație - Frig (stat. de armură)</Insulation_Cold.labelForFullStatList>
   
   <!-- EN: Insulation - Heat -->
-  <Insulation_Heat.label>TODO</Insulation_Heat.label>
+  <Insulation_Heat.label>Izolație - Căldură</Insulation_Heat.label>
   <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures. -->
-  <Insulation_Heat.description>TODO</Insulation_Heat.description>
+  <Insulation_Heat.description>Cât de mult îmbunătățește acest articol de îmbrăcăminte temperatura maximă confortabilă a purtătorului.\n\nValoare mai mari permit supraviețuirea la temperaturi mai ridicate.</Insulation_Heat.description>
   <!-- EN: Insulation - Heat (armor stat) -->
-  <Insulation_Heat.labelForFullStatList>TODO</Insulation_Heat.labelForFullStatList>
+  <Insulation_Heat.labelForFullStatList>Izolație - Căldură (stat. de armură)</Insulation_Heat.labelForFullStatList>
   
   <!-- EN: Smokepop pack radius -->
-  <SmokepopBeltRadius.label>TODO</SmokepopBeltRadius.label>
+  <SmokepopBeltRadius.label>Raza pachetului Smokepop</SmokepopBeltRadius.label>
   <!-- EN: The area obscured when a smokepop pack detonates. -->
-  <SmokepopBeltRadius.description>TODO</SmokepopBeltRadius.description>
+  <SmokepopBeltRadius.description>Zona întunecată atunci când un pachet de smokepop detonează.</SmokepopBeltRadius.description>
   <!-- EN: {0} c -->
-  <SmokepopBeltRadius.formatString>TODO</SmokepopBeltRadius.formatString>
+  <SmokepopBeltRadius.formatString>{0} c</SmokepopBeltRadius.formatString>
   
   <!-- EN: Armor - Material effect multiplier -->
-  <StuffEffectMultiplierArmor.label>TODO</StuffEffectMultiplierArmor.label>
+  <StuffEffectMultiplierArmor.label>Armură - multiplicator de efect al materialului</StuffEffectMultiplierArmor.label>
   
   <!-- EN: Insulation - Cold - Material effect multiplier -->
-  <StuffEffectMultiplierInsulation_Cold.label>TODO</StuffEffectMultiplierInsulation_Cold.label>
+  <StuffEffectMultiplierInsulation_Cold.label>Izolație - Frig - Multiplicator de efect al materialului</StuffEffectMultiplierInsulation_Cold.label>
   
   <!-- EN: Insulation - Heat - Material effect multiplier -->
-  <StuffEffectMultiplierInsulation_Heat.label>TODO</StuffEffectMultiplierInsulation_Heat.label>
+  <StuffEffectMultiplierInsulation_Heat.label>Izolație - Căldură - Multiplicator de efect material</StuffEffectMultiplierInsulation_Heat.label>
   
 </LanguageData>

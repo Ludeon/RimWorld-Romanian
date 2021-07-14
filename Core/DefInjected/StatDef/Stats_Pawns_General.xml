@@ -1,91 +1,91 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: carrying capacity -->
-  <CarryingCapacity.label>TODO</CarryingCapacity.label>
+  <CarryingCapacity.label>capacitate de transport</CarryingCapacity.label>
   <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
-  <CarryingCapacity.description>TODO</CarryingCapacity.description>
+  <CarryingCapacity.description>Cantitatea de lucruri pe care această creatură le poate căra în mâini, gură sau alte manipulatoare.\n\nAceasta este separată de abilitatea de a transporta încărcături în călătorii lungi de traversare a lumii.</CarryingCapacity.description>
   
   <!-- EN: Maximum comfortable temperature -->
-  <ComfyTemperatureMax.label>TODO</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.label>Temperatura maximă confortabilă</ComfyTemperatureMax.label>
   <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
-  <ComfyTemperatureMax.description>TODO</ComfyTemperatureMax.description>
+  <ComfyTemperatureMax.description>Peste această temperatură, personajele vor fi nefericite.\n\nSubiectiv peste această temperatură, ele vor face insolație și în cele din urmă vor muri.</ComfyTemperatureMax.description>
   
   <!-- EN: Minimum comfortable temperature -->
-  <ComfyTemperatureMin.label>TODO</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.label>Temperatura minimă confortabilă</ComfyTemperatureMin.label>
   <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
-  <ComfyTemperatureMin.description>TODO</ComfyTemperatureMin.description>
+  <ComfyTemperatureMin.description>Sub această temperatură, personajele vor fi nefericite.\n\nSub această temperatură, ele vor dezvolta hipotermie și degerături și în cele din urmă vor muri.</ComfyTemperatureMin.description>
   
   <!-- EN: eating speed -->
-  <EatingSpeed.label>TODO</EatingSpeed.label>
+  <EatingSpeed.label>Viteza de mâncat</EatingSpeed.label>
   <!-- EN: A multiplier on eating speed. -->
-  <EatingSpeed.description>TODO</EatingSpeed.description>
+  <EatingSpeed.description>Un multiplicator al vitezei de mâncat.</EatingSpeed.description>
   
   <!-- EN: foraged food amount -->
-  <ForagedNutritionPerDay.label>TODO</ForagedNutritionPerDay.label>
+  <ForagedNutritionPerDay.label>cantitatea de alimente furajate</ForagedNutritionPerDay.label>
   <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
-  <ForagedNutritionPerDay.description>TODO</ForagedNutritionPerDay.description>
+  <ForagedNutritionPerDay.description>Cantitatea de hrană pe care această persoană o va procura automat pe zi în timpul călătoriei cu caravana.</ForagedNutritionPerDay.description>
   
   <!-- EN: global learning factor -->
-  <GlobalLearningFactor.label>TODO</GlobalLearningFactor.label>
+  <GlobalLearningFactor.label>factor de învățare globală</GlobalLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for all skills. -->
-  <GlobalLearningFactor.description>TODO</GlobalLearningFactor.description>
+  <GlobalLearningFactor.description>Un multiplicator al ratei de învățare pentru toate abilitățile.</GlobalLearningFactor.description>
   
   <!-- EN: hunger rate multiplier -->
-  <HungerRateMultiplier.label>TODO</HungerRateMultiplier.label>
+  <HungerRateMultiplier.label>multiplicator al ratei de foame</HungerRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
-  <HungerRateMultiplier.description>TODO</HungerRateMultiplier.description>
+  <HungerRateMultiplier.description>Un multiplicator al rapidității cu care o creatură devine flămândă.</HungerRateMultiplier.description>
   
   <!-- EN: immunity gain speed -->
-  <ImmunityGainSpeed.label>TODO</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.label>viteza de câștig a imunității</ImmunityGainSpeed.label>
   <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
-  <ImmunityGainSpeed.description>TODO</ImmunityGainSpeed.description>
+  <ImmunityGainSpeed.description>Viteza cu care acest personaj câștigă imunitate la boli.\n\nDacă este prea lentă, personajul va muri din cauza unei boli înainte de a dezvolta imunitate.</ImmunityGainSpeed.description>
   
   <!-- EN: leather amount -->
-  <LeatherAmount.label>TODO</LeatherAmount.label>
+  <LeatherAmount.label>Cantitatea de piele</LeatherAmount.label>
   <!-- EN: The amount of leather yielded when butchering this creature. -->
-  <LeatherAmount.description>TODO</LeatherAmount.description>
+  <LeatherAmount.description>Cantitatea de piele obținută la măcelărirea acestei creaturi.</LeatherAmount.description>
   
   <!-- EN: meat amount -->
-  <MeatAmount.label>TODO</MeatAmount.label>
+  <MeatAmount.label>cantitatea de carne</MeatAmount.label>
   <!-- EN: The amount of meat yielded when butchering this creature. -->
-  <MeatAmount.description>TODO</MeatAmount.description>
+  <MeatAmount.description>Cantitatea de carne obținută la măcelărirea acestei creaturi.</MeatAmount.description>
   
   <!-- EN: mental break threshold -->
-  <MentalBreakThreshold.label>TODO</MentalBreakThreshold.label>
+  <MentalBreakThreshold.label>pragul de cădere nervoasă</MentalBreakThreshold.label>
   <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
-  <MentalBreakThreshold.description>TODO</MentalBreakThreshold.description>
+  <MentalBreakThreshold.description>Atâta timp cât dispoziția cuiva se află sub acest nivel, este în pericol de a avea o cădere psihică.\n\nGravitatea căderii psihice va depinde de cât de mult se află sub prag.</MentalBreakThreshold.description>
   
   <!-- EN: minimum handling skill -->
-  <MinimumHandlingSkill.label>TODO</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.label>aptitudinea minimă de manipulare</MinimumHandlingSkill.label>
   <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
-  <MinimumHandlingSkill.description>TODO</MinimumHandlingSkill.description>
+  <MinimumHandlingSkill.description>Această creatură nu poate fi îmblânzită, dresată sau comandată de cineva cu o competență mai mică decât această aptitudine la animale.</MinimumHandlingSkill.description>
   
   <!-- EN: move speed -->
-  <MoveSpeed.label>TODO</MoveSpeed.label>
+  <MoveSpeed.label>viteza de deplasare</MoveSpeed.label>
   <!-- EN: Speed of movement in cells per second. -->
-  <MoveSpeed.description>TODO</MoveSpeed.description>
+  <MoveSpeed.description>Viteza de deplasare în celule pe secundă.</MoveSpeed.description>
   <!-- EN: {0} c/s -->
-  <MoveSpeed.formatString>TODO</MoveSpeed.formatString>
+  <MoveSpeed.formatString>{0} c/s</MoveSpeed.formatString>
   
   <!-- EN: pain shock threshold -->
-  <PainShockThreshold.label>TODO</PainShockThreshold.label>
+  <PainShockThreshold.label>Pragul de șoc al durerii</PainShockThreshold.label>
   <!-- EN: The pain level at which this creature is downed from pain. -->
-  <PainShockThreshold.description>TODO</PainShockThreshold.description>
+  <PainShockThreshold.description>Nivelul de durere la care această creatură este doborâtă de durere.</PainShockThreshold.description>
   
   <!-- EN: psychic sensitivity -->
-  <PsychicSensitivity.label>TODO</PsychicSensitivity.label>
+  <PsychicSensitivity.label>sensibilitate psihică</PsychicSensitivity.label>
   <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
-  <PsychicSensitivity.description>TODO</PsychicSensitivity.description>
+  <PsychicSensitivity.description>Persoanele mai sensibile suferă mai mult de efectele psihice negative și beneficiază mai mult de cele pozitive. O sensibilitate psihică mai mare crește, de asemenea, limita de căldură neuronală.</PsychicSensitivity.description>
   
   <!-- EN: rest rate multiplier -->
-  <RestRateMultiplier.label>TODO</RestRateMultiplier.label>
+  <RestRateMultiplier.label>multiplicator al ratei de odihnă</RestRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
-  <RestRateMultiplier.description>TODO</RestRateMultiplier.description>
+  <RestRateMultiplier.description>Un multiplicator al rapidității cu care o creatură se odihnește în timp ce doarme.</RestRateMultiplier.description>
   
   <!-- EN: toxic sensitivity -->
-  <ToxicSensitivity.label>TODO</ToxicSensitivity.label>
+  <ToxicSensitivity.label>sensibilitate toxică</ToxicSensitivity.label>
   <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
-  <ToxicSensitivity.description>TODO</ToxicSensitivity.description>
+  <ToxicSensitivity.description>Multiplicator al impactului acumulării de substanțe toxice asupra acestei creaturi.</ToxicSensitivity.description>
   
 </LanguageData>
