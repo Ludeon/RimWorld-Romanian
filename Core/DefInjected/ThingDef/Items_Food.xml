@@ -1,39 +1,39 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: kibble -->
-  <Kibble.label>TODO</Kibble.label>
+  <Kibble.label>crochete</Kibble.label>
   <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
-  <Kibble.description>TODO</Kibble.description>
+  <Kibble.description>Hrană pentru animale fabricată dintr-un amestec de carne și surse vegetale. Oamenii o pot mânca, dar nu le place deloc.</Kibble.description>
   
   <!-- EN: fine meal -->
-  <MealFine.label>TODO</MealFine.label>
+  <MealFine.label>masă fină</MealFine.label>
   <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
-  <MealFine.description>TODO</MealFine.description>
+  <MealFine.description>Un fel de mâncare complex asamblat cu grijă dintr-o varietate de ingrediente.</MealFine.description>
   
   <!-- EN: lavish meal -->
-  <MealLavish.label>TODO</MealLavish.label>
+  <MealLavish.label>masă somptuoasă</MealLavish.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
-  <MealLavish.description>TODO</MealLavish.description>
+  <MealLavish.description>O capodoperă a artei culinare, această masă hrănește corpul, mintea și sufletul.</MealLavish.description>
   
   <!-- EN: nutrient paste meal -->
-  <MealNutrientPaste.label>TODO</MealNutrientPaste.label>
+  <MealNutrientPaste.label>masă cu pastă nutritivă</MealNutrientPaste.label>
   <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
-  <MealNutrientPaste.description>TODO</MealNutrientPaste.description>
+  <MealNutrientPaste.description>Un amestec sintetic de proteine, carbohidrați și vitamine, aminoacizi și minerale. Tot ce are nevoie organismul și absolut dezgustător.</MealNutrientPaste.description>
   
   <!-- EN: simple meal -->
-  <MealSimple.label>TODO</MealSimple.label>
+  <MealSimple.label>masă simplă</MealSimple.label>
   <!-- EN: A simple meal quickly cooked from one main ingredient. -->
-  <MealSimple.description>TODO</MealSimple.description>
+  <MealSimple.description>O masă simplă gătită rapid dintr-un singur ingredient principal.</MealSimple.description>
   
   <!-- EN: packaged survival meal -->
-  <MealSurvivalPack.label>TODO</MealSurvivalPack.label>
+  <MealSurvivalPack.label>mâncare de supraviețuire ambalată</MealSurvivalPack.label>
   <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
-  <MealSurvivalPack.description>TODO</MealSurvivalPack.description>
+  <MealSurvivalPack.description>O masă ambalată de înaltă calitate, fabricată pentru a fi utilizată în situații de supraviețuire. Deși nu putrezește niciodată, se poate deteriora dacă este lăsată afară. Ideal pentru călătorii.</MealSurvivalPack.description>
   
   <!-- EN: pemmican -->
-  <Pemmican.label>TODO</Pemmican.label>
+  <Pemmican.label>pemmican</Pemmican.label>
   <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
-  <Pemmican.description>TODO</Pemmican.description>
+  <Pemmican.description>Un amestec conservat de piure de grăsime și alimente vegetale. Are un gust insipid, dar nu ofensiv. Rezistă foarte mult timp fără refrigerare. Excelent pentru călătorii.</Pemmican.description>
   
 </LanguageData>

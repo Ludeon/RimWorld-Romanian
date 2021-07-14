@@ -1,24 +1,24 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: heart -->
-  <Heart.label>TODO</Heart.label>
+  <Heart.label>inimă</Heart.label>
   <!-- EN: A biological human heart. Pumps blood around the body. -->
-  <Heart.description>TODO</Heart.description>
+  <Heart.description>O inimă umană biologică. Pompează sângele în tot corpul.</Heart.description>
   
   <!-- EN: kidney -->
-  <Kidney.label>TODO</Kidney.label>
+  <Kidney.label>rinichi</Kidney.label>
   <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
-  <Kidney.description>TODO</Kidney.description>
+  <Kidney.description>Un rinichi uman biologic. Filtrează și elimină deșeurile din sânge.</Kidney.description>
   
   <!-- EN: liver -->
-  <Liver.label>TODO</Liver.label>
+  <Liver.label>ficat</Liver.label>
   <!-- EN: A biological human liver. Plays an important role in metabolism. -->
-  <Liver.description>TODO</Liver.description>
+  <Liver.description>Un ficat uman biologic. Joacă un rol important în metabolism.</Liver.description>
   
   <!-- EN: lung -->
-  <Lung.label>TODO</Lung.label>
+  <Lung.label>plămân</Lung.label>
   <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
-  <Lung.description>TODO</Lung.description>
+  <Lung.description>Un plămân uman biologic. O pereche de aceștia formează nucleul sistemului respirator uman.</Lung.description>
   
 </LanguageData>

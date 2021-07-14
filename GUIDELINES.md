@@ -60,3 +60,8 @@ This table is for keeping consistent translations of certain words.
 |tantrum|acces de furie, criză de furie|
 |devilstrand|șuvița-dracului|
 |plasteel|plastoțel|
+|wort|must|
+|duster|palton|
+|slime|mâzgă|
+|painstopper|implant analgezic|
+|alphabeaver|alfacastor|

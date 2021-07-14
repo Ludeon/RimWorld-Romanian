@@ -1,54 +1,54 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: battery -->
-  <Battery.label>TODO</Battery.label>
+  <Battery.label>baterie</Battery.label>
   <!-- EN: Stores electricity for later use. Charged batteries explode when exposed to rain or fire. -->
-  <Battery.description>TODO</Battery.description>
+  <Battery.description>Stochează energia electrică pentru a fi folosită ulterior. Bateriile încărcate explodează atunci când sunt expuse la ploaie sau la foc.</Battery.description>
   
   <!-- EN: chemfuel powered generator -->
-  <ChemfuelPoweredGenerator.label>TODO</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.label>generator alimentat cu combustibil chimic</ChemfuelPoweredGenerator.label>
   <!-- EN: Produces power by consuming chemfuel. Must be periodically refueled by hand. -->
-  <ChemfuelPoweredGenerator.description>TODO</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator.description>Produce energie electrică prin consumarea de combustibil chimic. Trebuie realimentat periodic manual.</ChemfuelPoweredGenerator.description>
   
   <!-- EN: geothermal generator -->
-  <GeothermalGenerator.label>TODO</GeothermalGenerator.label>
+  <GeothermalGenerator.label>generator geotermic</GeothermalGenerator.label>
   <!-- EN: Produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
-  <GeothermalGenerator.description>TODO</GeothermalGenerator.description>
+  <GeothermalGenerator.description>Produce energie electrică din gheizere de aburi geotermali. Trebuie amplasat pe un gheizer de aburi.</GeothermalGenerator.description>
   
   <!-- EN: power conduit -->
-  <PowerConduit.label>TODO</PowerConduit.label>
+  <PowerConduit.label>conductă electrică</PowerConduit.label>
   <!-- EN: A bundle of electrical cables for moving power around. Can be placed under walls and other buildings. -->
-  <PowerConduit.description>TODO</PowerConduit.description>
+  <PowerConduit.description>Un mănunchi de cabluri electrice pentru deplasarea energiei electrice. Poate fi plasat sub ziduri și alte clădiri.</PowerConduit.description>
   
   <!-- EN: power switch -->
-  <PowerSwitch.label>TODO</PowerSwitch.label>
+  <PowerSwitch.label>întrerupător de curent</PowerSwitch.label>
   <!-- EN: Switches power on/off. -->
-  <PowerSwitch.description>TODO</PowerSwitch.description>
+  <PowerSwitch.description>Pornește/oprește curentul electric.</PowerSwitch.description>
   
   <!-- EN: solar generator -->
-  <SolarGenerator.label>TODO</SolarGenerator.label>
+  <SolarGenerator.label>generator solar</SolarGenerator.label>
   <!-- EN: Produces electricity from sunlight. Does not work in the dark or under artificial light. -->
-  <SolarGenerator.description>TODO</SolarGenerator.description>
+  <SolarGenerator.description>Produce energie electrică din lumina soarelui. Nu funcționează în întuneric sau sub lumină artificială.</SolarGenerator.description>
   
   <!-- EN: watermill generator -->
-  <WatermillGenerator.label>TODO</WatermillGenerator.label>
+  <WatermillGenerator.label>generator cu moară de apă</WatermillGenerator.label>
   <!-- EN: Produces electricity from a river. Must be placed with its wheel in moving water. If watermills are placed too close together, the turbulence they generate will interfere and reduce power generation. -->
-  <WatermillGenerator.description>TODO</WatermillGenerator.description>
+  <WatermillGenerator.description>Produce electricitate de la un râu. Trebuie să fie plasat cu roata în apă în mișcare. Dacă morile de apă sunt plasate prea aproape una de alta, turbulențele pe care le generează vor interfera și vor reduce producția de energie.</WatermillGenerator.description>
   
   <!-- EN: waterproof conduit -->
-  <WaterproofConduit.label>TODO</WaterproofConduit.label>
+  <WaterproofConduit.label>conductă impermeabilă</WaterproofConduit.label>
   <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
-  <WaterproofConduit.description>TODO</WaterproofConduit.description>
+  <WaterproofConduit.description>Cabluri electrice izolate pentru transmiterea energiei sub ape puțin adânci.</WaterproofConduit.description>
   
   <!-- EN: wind turbine -->
-  <WindTurbine.label>TODO</WindTurbine.label>
+  <WindTurbine.label>turbină eoliană</WindTurbine.label>
   <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
-  <WindTurbine.description>TODO</WindTurbine.description>
+  <WindTurbine.description>Un generator electric acționat de vânt. Necesită un spațiu liber mare în față și în spate pentru un flux de aer optim.</WindTurbine.description>
   
   <!-- EN: wood-fired generator -->
-  <WoodFiredGenerator.label>TODO</WoodFiredGenerator.label>
+  <WoodFiredGenerator.label>generator alimentat cu lemne</WoodFiredGenerator.label>
   <!-- EN: Produces power by consuming wood. Must be periodically loaded with wood fuel by hand. -->
-  <WoodFiredGenerator.description>TODO</WoodFiredGenerator.description>
+  <WoodFiredGenerator.description>Produce energie electrică prin consumul de lemn. Trebuie să fie încărcat periodic cu combustibil lemnos, manual.</WoodFiredGenerator.description>
   
 </LanguageData>

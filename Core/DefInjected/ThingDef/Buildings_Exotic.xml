@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: ship part (defoliator) -->
-  <DefoliatorShipPart.label>TODO</DefoliatorShipPart.label>
+  <DefoliatorShipPart.label>piesă de navă (defoliator)</DefoliatorShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
-  <DefoliatorShipPart.description>TODO</DefoliatorShipPart.description>
+  <DefoliatorShipPart.description>O piesă de navă veche, smulsă de pe o navă de origine necunoscută. Ar putea avea mii de ani vechime.\n\nAceasta conține un dispozitiv care anihilează viața vegetală din apropiere fără a afecta direct creaturile de carne. Acest tip de arme sunt uneori împrăștiate pe terenurile agricole sau în păduri pentru a elimina rezervele de hrană și ascunzătorile inamicului fără a ruina definitiv teritoriul. De obicei, sunt asociate cu armatele de mecanoizi cu lansare orbitală.</DefoliatorShipPart.description>
   
   <!-- EN: ship part (psychic droner) -->
-  <PsychicDronerShipPart.label>TODO</PsychicDronerShipPart.label>
+  <PsychicDronerShipPart.label>parte de navă (dronă psihică)</PsychicDronerShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
-  <PsychicDronerShipPart.description>TODO</PsychicDronerShipPart.description>
+  <PsychicDronerShipPart.description>O piesă de navă veche, smulsă de pe o navă de origine necunoscută. Ar putea avea mii de ani vechime.\n\nAceasta conține un dispozitiv de perturbare psihică. Utilizând arhotehnologii de neînțeles, generează un semnal psihic care înnebunește oamenii și animalele pe o rază mare în jurul său.</PsychicDronerShipPart.description>
   
   <!-- EN: ship chunk -->
-  <ShipChunk.label>TODO</ShipChunk.label>
+  <ShipChunk.label>bucată de navă</ShipChunk.label>
   <!-- EN: A chunk of a spacecraft. Can be deconstructed to yield useful resources. -->
-  <ShipChunk.description>TODO</ShipChunk.description>
+  <ShipChunk.description>O bucată dintr-o navă spațială. Poate fi deconstruită pentru a produce resurse utile.</ShipChunk.description>
   
 </LanguageData>

@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: crashed ship part (incoming) -->
-  <CrashedShipPartIncoming.label>TODO</CrashedShipPartIncoming.label>
+  <CrashedShipPartIncoming.label>piesă de navă prăbușită (în sosire)</CrashedShipPartIncoming.label>
   
   <!-- EN: drop pod (incoming) -->
-  <DropPodIncoming.label>TODO</DropPodIncoming.label>
+  <DropPodIncoming.label>capsulă de lansare (intrare)</DropPodIncoming.label>
   
   <!-- EN: drop pod (leaving) -->
-  <DropPodLeaving.label>TODO</DropPodLeaving.label>
+  <DropPodLeaving.label>capsulă de lansare (plecare)</DropPodLeaving.label>
   
   <!-- EN: meteorite (incoming) -->
-  <MeteoriteIncoming.label>TODO</MeteoriteIncoming.label>
+  <MeteoriteIncoming.label>meteorit (intrare)</MeteoriteIncoming.label>
   
   <!-- EN: ship chunk (incoming) -->
-  <ShipChunkIncoming.label>TODO</ShipChunkIncoming.label>
+  <ShipChunkIncoming.label>bucată de navă (în sosire)</ShipChunkIncoming.label>
   
 </LanguageData>

@@ -1,64 +1,64 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: collapsed rocks -->
-  <CollapsedRocks.label>TODO</CollapsedRocks.label>
+  <CollapsedRocks.label>roci prăbușite</CollapsedRocks.label>
   <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
-  <CollapsedRocks.description>TODO</CollapsedRocks.description>
+  <CollapsedRocks.description>Stânci prăbușite, strânse suficient de bine pentru a susține un acoperiș.</CollapsedRocks.description>
   
   <!-- EN: glow pod -->
-  <GlowPod.label>TODO</GlowPod.label>
+  <GlowPod.label>capsulă luminoasă</GlowPod.label>
   <!-- EN: A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies. -->
-  <GlowPod.description>TODO</GlowPod.description>
+  <GlowPod.description>O păstaie bioluminescentă produsă de insecte gigantice. Strălucește sub propria lumină pentru o perioadă lungă de timp, apoi moare.</GlowPod.description>
   
   <!-- EN: hive -->
-  <Hive.label>TODO</Hive.label>
+  <Hive.label>stup</Hive.label>
   <!-- EN: A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly. -->
-  <Hive.description>TODO</Hive.description>
+  <Hive.description>Un stup de insecte gigantice. Dacă este activat, va genera în timp insecte și stupi suplimentari, precum și gelatină de insecte valoroasă.</Hive.description>
   
   <!-- EN: compacted machinery -->
-  <MineableComponentsIndustrial.label>TODO</MineableComponentsIndustrial.label>
+  <MineableComponentsIndustrial.label>utilaje compactate</MineableComponentsIndustrial.label>
   <!-- EN: Ancient machinery, compacted over time. Can be mined for useful components. -->
-  <MineableComponentsIndustrial.description>TODO</MineableComponentsIndustrial.description>
+  <MineableComponentsIndustrial.description>Utilaje vechi, compactate în timp. Poate fi exploatată pentru componente utile.</MineableComponentsIndustrial.description>
   
   <!-- EN: gold ore -->
-  <MineableGold.label>TODO</MineableGold.label>
+  <MineableGold.label>minereu de aur</MineableGold.label>
   <!-- EN: Rock containing bits of gold. -->
-  <MineableGold.description>TODO</MineableGold.description>
+  <MineableGold.description>Piatră care conține bucăți de aur.</MineableGold.description>
   
   <!-- EN: jade -->
-  <MineableJade.label>TODO</MineableJade.label>
+  <MineableJade.label>jad</MineableJade.label>
   <!-- EN: Rock containing bits of jade. -->
-  <MineableJade.description>TODO</MineableJade.description>
+  <MineableJade.description>Piatră care conține bucăți de jad.</MineableJade.description>
   
   <!-- EN: compacted plasteel -->
-  <MineablePlasteel.label>TODO</MineablePlasteel.label>
+  <MineablePlasteel.label>plastoțel compactat</MineablePlasteel.label>
   <!-- EN: Ancient compacted rubble rich in plasteel. -->
-  <MineablePlasteel.description>TODO</MineablePlasteel.description>
+  <MineablePlasteel.description>Moloz antic compactat, bogat în plastoțel.</MineablePlasteel.description>
   
   <!-- EN: silver ore -->
-  <MineableSilver.label>TODO</MineableSilver.label>
+  <MineableSilver.label>minereu de argint</MineableSilver.label>
   <!-- EN: Rock containing bits of silver. -->
-  <MineableSilver.description>TODO</MineableSilver.description>
+  <MineableSilver.description>Rocă care conține bucăți de argint.</MineableSilver.description>
   
   <!-- EN: compacted steel -->
-  <MineableSteel.label>TODO</MineableSteel.label>
+  <MineableSteel.label>oțel compactat</MineableSteel.label>
   <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
-  <MineableSteel.description>TODO</MineableSteel.description>
+  <MineableSteel.description>Rămășițele unei structuri vechi, prăbușite. Bogat în oțel.</MineableSteel.description>
   
   <!-- EN: uranium ore -->
-  <MineableUranium.label>TODO</MineableUranium.label>
+  <MineableUranium.label>minereu de uraniu</MineableUranium.label>
   <!-- EN: Rock containing bits of uranium. -->
-  <MineableUranium.description>TODO</MineableUranium.description>
+  <MineableUranium.description>Stâncă ce conține bucăți de uraniu.</MineableUranium.description>
   
   <!-- EN: raised rocks -->
-  <RaisedRocks.label>TODO</RaisedRocks.label>
+  <RaisedRocks.label>roci ridicate</RaisedRocks.label>
   <!-- EN: A fragile wall made of rubble. It will collapse in time. -->
-  <RaisedRocks.description>TODO</RaisedRocks.description>
+  <RaisedRocks.description>Un zid fragil făcut din moloz. Se va prăbuși în timp.</RaisedRocks.description>
   
   <!-- EN: steam geyser -->
-  <SteamGeyser.label>TODO</SteamGeyser.label>
+  <SteamGeyser.label>gheizer cu aburi</SteamGeyser.label>
   <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
-  <SteamGeyser.description>TODO</SteamGeyser.description>
+  <SteamGeyser.description>O sursă naturală de abur de înaltă presiune. Generatoarele geotermale pot exploata energia aburului. Încăperile construite deasupra acestuia se vor găti rapid.</SteamGeyser.description>
   
 </LanguageData>

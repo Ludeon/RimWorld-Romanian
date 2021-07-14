@@ -1,70 +1,70 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: caribou -->
-  <Caribou.label>TODO</Caribou.label>
+  <Caribou.label>caribou</Caribou.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Caribou can be milked, but refuse to carry packs. -->
-  <Caribou.description>TODO</Caribou.description>
+  <Caribou.description>Un membru mare al familiei cerbilor, bine adaptat la viața în climatele reci. Caribou poate fi muls, dar refuză să poarte rucsacuri.</Caribou.description>
   <!-- EN: left hoof -->
-  <Caribou.tools.left_hoof.label>TODO</Caribou.tools.left_hoof.label>
+  <Caribou.tools.left_hoof.label>copita stângă</Caribou.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Caribou.tools.right_hoof.label>TODO</Caribou.tools.right_hoof.label>
+  <Caribou.tools.right_hoof.label>copita dreaptă</Caribou.tools.right_hoof.label>
   <!-- EN: head -->
-  <Caribou.tools.head.label>TODO</Caribou.tools.head.label>
+  <Caribou.tools.head.label>cap</Caribou.tools.head.label>
   
   <!-- EN: deer -->
-  <Deer.label>TODO</Deer.label>
+  <Deer.label>cerb</Deer.label>
   <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
-  <Deer.description>TODO</Deer.description>
+  <Deer.description>Un erbivor de talie medie, care preferă să trăiască în păduri și câmpii mixte. Cerbii sunt foarte rapizi.</Deer.description>
   <!-- EN: venison -->
-  <Deer.race.meatLabel>TODO</Deer.race.meatLabel>
+  <Deer.race.meatLabel>carne de vânat</Deer.race.meatLabel>
   <!-- EN: left hoof -->
-  <Deer.tools.left_hoof.label>TODO</Deer.tools.left_hoof.label>
+  <Deer.tools.left_hoof.label>copita stângă</Deer.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Deer.tools.right_hoof.label>TODO</Deer.tools.right_hoof.label>
+  <Deer.tools.right_hoof.label>copita dreaptă</Deer.tools.right_hoof.label>
   <!-- EN: teeth -->
-  <Deer.tools.teeth.label>TODO</Deer.tools.teeth.label>
+  <Deer.tools.teeth.label>dinți</Deer.tools.teeth.label>
   <!-- EN: head -->
-  <Deer.tools.head.label>TODO</Deer.tools.head.label>
+  <Deer.tools.head.label>cap</Deer.tools.head.label>
   
   <!-- EN: elk -->
-  <Elk.label>TODO</Elk.label>
+  <Elk.label>elan</Elk.label>
   <!-- EN: A large member of the deer family, well-adapted to life in cold climates. Domesticated elk can be milked, but refuse to carry packs. -->
-  <Elk.description>TODO</Elk.description>
+  <Elk.description>Un membru mare al familiei cerbilor, bine adaptat la viața în climatele reci. Elanul domesticit poate fi muls, dar refuză să poarte pachete.</Elk.description>
   <!-- EN: left hoof -->
-  <Elk.tools.left_hoof.label>TODO</Elk.tools.left_hoof.label>
+  <Elk.tools.left_hoof.label>copita stângă</Elk.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Elk.tools.right_hoof.label>TODO</Elk.tools.right_hoof.label>
+  <Elk.tools.right_hoof.label>copita dreaptă</Elk.tools.right_hoof.label>
   <!-- EN: head -->
-  <Elk.tools.head.label>TODO</Elk.tools.head.label>
+  <Elk.tools.head.label>cap</Elk.tools.head.label>
   
   <!-- EN: ibex -->
-  <Ibex.label>TODO</Ibex.label>
+  <Ibex.label>ibex</Ibex.label>
   <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
-  <Ibex.description>TODO</Ibex.description>
+  <Ibex.description>Strămoșul sălbatic al caprei domestice. Ibexul trăiește pe un teritoriu marginal, unde majoritatea antilopelor nu ar putea supraviețui, mâncând licheni și plante rare de munte. Sunt renumiți pentru că țopăie cu dexteritate peste stânci goale - și pentru atacul lor violent cu lovituri de berbec.</Ibex.description>
   <!-- EN: left hoof -->
-  <Ibex.tools.left_hoof.label>TODO</Ibex.tools.left_hoof.label>
+  <Ibex.tools.left_hoof.label>copita stângă</Ibex.tools.left_hoof.label>
   <!-- EN: right hoof -->
-  <Ibex.tools.right_hoof.label>TODO</Ibex.tools.right_hoof.label>
+  <Ibex.tools.right_hoof.label>copita dreaptă</Ibex.tools.right_hoof.label>
   <!-- EN: head -->
-  <Ibex.tools.head.label>TODO</Ibex.tools.head.label>
+  <Ibex.tools.head.label>cap</Ibex.tools.head.label>
   
   <!-- EN: tortoise -->
-  <Tortoise.label>TODO</Tortoise.label>
+  <Tortoise.label>broască țestoasă</Tortoise.label>
   <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
-  <Tortoise.description>TODO</Tortoise.description>
+  <Tortoise.description>Această reptilă terestră puternic blindată este cunoscută pentru viteza cu care se deplasează încet și pentru mușcătura surprinzător de periculoasă. Datorită armurii sale naturale, este greu de ucis și poate provoca daune serioase în timpul luptelor corp la corp prelungite.</Tortoise.description>
   <!-- EN: beak -->
-  <Tortoise.tools.beak.label>TODO</Tortoise.tools.beak.label>
+  <Tortoise.tools.beak.label>cioc</Tortoise.tools.beak.label>
   <!-- EN: head -->
-  <Tortoise.tools.head.label>TODO</Tortoise.tools.head.label>
+  <Tortoise.tools.head.label>cap</Tortoise.tools.head.label>
   
   <!-- EN: wild boar -->
-  <WildBoar.label>TODO</WildBoar.label>
+  <WildBoar.label>mistreț sălbatic</WildBoar.label>
   <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
-  <WildBoar.description>TODO</WildBoar.description>
+  <WildBoar.description>Acest omnivor păros este descendent al porcilor scăpați și a evoluat pentru a trăi în sălbăticie.\n\nCu colții săi îl fac un luptător mai bun decât verii săi domesticiți porci. Din păcate, este prea indisciplinat pentru a fi antrenat în cele mai complexe sarcini.</WildBoar.description>
   <!-- EN: tusk -->
-  <WildBoar.tools.tusk.label>TODO</WildBoar.tools.tusk.label>
+  <WildBoar.tools.tusk.label>colț</WildBoar.tools.tusk.label>
   <!-- EN: head -->
-  <WildBoar.tools.head.label>TODO</WildBoar.tools.head.label>
+  <WildBoar.tools.head.label>head</WildBoar.tools.head.label>
   
 </LanguageData>

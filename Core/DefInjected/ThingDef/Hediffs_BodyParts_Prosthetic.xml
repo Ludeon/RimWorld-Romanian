@@ -1,39 +1,39 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: cochlear implant -->
-  <CochlearImplant.label>TODO</CochlearImplant.label>
+  <CochlearImplant.label>implant cohlear</CochlearImplant.label>
   <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
-  <CochlearImplant.description>TODO</CochlearImplant.description>
+  <CochlearImplant.description>Un implant care înlocuiește auzul normal. Un microfon extern transmite un semnal sonor către electrozi înfășurați în jurul nervilor senzoriali auditivi din urechea internă. Electrozii stimulează nervii în funcție de sunet, creând o senzație de auz. Nu este la fel de bun ca o ureche naturală, dar este mult mai bun decât să fii surd.</CochlearImplant.description>
   
   <!-- EN: joywire -->
-  <Joywire.label>TODO</Joywire.label>
+  <Joywire.label>joywire</Joywire.label>
   <!-- EN: A brain implant that stimulates the brain's pleasure centers. While it dramatically improves a user's mood, the blanket of happiness makes it hard to concentrate on anything real. Joywires are illegal on many worlds, and are known for destroying whole cultures. -->
-  <Joywire.description>TODO</Joywire.description>
+  <Joywire.description>Un implant cerebral care stimulează centrele de plăcere ale creierului. În timp ce îmbunătățește dramatic starea de spirit a utilizatorului, pătura de fericire face dificilă concentrarea asupra oricărui lucru real. Joywires sunt ilegale pe multe lumi și sunt cunoscute pentru distrugerea unor culturi întregi.</Joywire.description>
   
   <!-- EN: painstopper -->
-  <Painstopper.label>TODO</Painstopper.label>
+  <Painstopper.label>implant analgezic</Painstopper.label>
   <!-- EN: A brain implant which inhibits nociception, or pain sensation. While it does allow the user to accomplish more, it turns out pain has a purpose. When you don't feel it, you can get hurt really bad really easily. -->
-  <Painstopper.description>TODO</Painstopper.description>
+  <Painstopper.description>Un implant cerebral care inhibă nocicepția, sau senzația de durere. Deși îi permite utilizatorului să realizeze mai multe, se pare că durerea are un scop. Atunci când nu o simți, te poți răni foarte rău, foarte ușor.</Painstopper.description>
   
   <!-- EN: power claw -->
-  <PowerClaw.label>TODO</PowerClaw.label>
+  <PowerClaw.label>gheară energetică</PowerClaw.label>
   <!-- EN: A combat-oriented hand replacement consisting of a mechanical hand with a hooked claw on each finger. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted, making it as useful as a natural hand for non-combat tasks, however its overall ungainlyness slows down movement slightly. -->
-  <PowerClaw.description>TODO</PowerClaw.description>
+  <PowerClaw.description>Un înlocuitor de mână orientat spre luptă, care constă într-o mână mecanică cu o gheară cu cârlige pe fiecare deget. Taie adânc și este suficient de puternică pentru a zdrobi un craniu așa cum o mână zdrobește un ou. Ghearele pot fi retrase, ceea ce o face la fel de utilă ca o mână naturală pentru sarcini care nu țin de luptă, însă lipsa de greutate a acesteia încetinește ușor mișcarea.</PowerClaw.description>
   
   <!-- EN: prosthetic arm -->
-  <SimpleProstheticArm.label>TODO</SimpleProstheticArm.label>
+  <SimpleProstheticArm.label>braț protetic</SimpleProstheticArm.label>
   <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
-  <SimpleProstheticArm.description>TODO</SimpleProstheticArm.description>
+  <SimpleProstheticArm.description>O proteză de braț. Deși nu dispune de o interfață neuronală, aranjamentul său complex de articulații interne îi permite să imite mișcările naturale într-un mod destul de convingător. Cu toate acestea, este inferioară unui braț real.</SimpleProstheticArm.description>
   
   <!-- EN: prosthetic heart -->
-  <SimpleProstheticHeart.label>TODO</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.label>inimă protetică</SimpleProstheticHeart.label>
   <!-- EN: A heart prosthesis. It contains an electric motor that pumps blood smoothly around the body. Users often report feeling tired, but it's better than the alternative. -->
-  <SimpleProstheticHeart.description>TODO</SimpleProstheticHeart.description>
+  <SimpleProstheticHeart.description>O proteză de inimă. Aceasta conține un motor electric care pompează sângele fără probleme în jurul corpului. Utilizatorii raportează adesea că se simt obosiți, dar este mai bine decât alternativa.</SimpleProstheticHeart.description>
   
   <!-- EN: prosthetic leg -->
-  <SimpleProstheticLeg.label>TODO</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.label>picior protetic</SimpleProstheticLeg.label>
   <!-- EN: A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
-  <SimpleProstheticLeg.description>TODO</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.description>O proteză de picior. Deși îi lipsește o interfață neuronală, aranjamentul său complex de articulații interne îi permite să imite mișcările naturale într-un mod destul de convingător. Cu toate acestea, este inferioară unui picior real.</SimpleProstheticLeg.description>
   
 </LanguageData>

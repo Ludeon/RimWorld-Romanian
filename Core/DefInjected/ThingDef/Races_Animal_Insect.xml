@@ -1,33 +1,33 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: megascarab -->
-  <Megascarab.label>TODO</Megascarab.label>
+  <Megascarab.label>megascarab</Megascarab.label>
   <!-- EN: A large, genetically-engineered beetle. Once the worker caste of an artifical ecosystem of insectoids designed to fight mechanoid invasions, it is now often seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually. -->
-  <Megascarab.description>TODO</Megascarab.description>
+  <Megascarab.description>Un gândac mare, modificat genetic. Cândva casta muncitoare a unui ecosistem artificial de insectoizi conceput pentru a lupta împotriva invaziilor mecanoide, acum este adesea văzut fără verii săi insectoizi mai mortali. Cu toate acestea, mărimea și carapacea sa dură îl fac periculos atunci când atacă. Fiind o creatură eusocială, nu se poate reproduce individual.</Megascarab.description>
   <!-- EN: mandibles -->
-  <Megascarab.tools.mandibles.label>TODO</Megascarab.tools.mandibles.label>
+  <Megascarab.tools.mandibles.label>mandibule</Megascarab.tools.mandibles.label>
   <!-- EN: head -->
-  <Megascarab.tools.head.label>TODO</Megascarab.tools.head.label>
+  <Megascarab.tools.head.label>cap</Megascarab.tools.head.label>
   
   <!-- EN: megaspider -->
-  <Megaspider.label>TODO</Megaspider.label>
+  <Megaspider.label>megapăianjen</Megaspider.label>
   <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insectoid the size of a bear. Designed for heavy work and combat, its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain. -->
-  <Megaspider.description>TODO</Megaspider.description>
+  <Megaspider.description>Nu este de fapt un păianjen, megapăianjenul este un insectoid gigantic modificat genetic, de mărimea unui urs. Proiectat pentru muncă grea și luptă, armura sa chitinoasă groasă îl face greu de ucis, în timp ce lamele sale lungi de tip ripper îl fac mortal de aproape. Cu toate acestea, este destul de lent în teren deschis.</Megaspider.description>
   <!-- EN: insect meat -->
-  <Megaspider.race.meatLabel>TODO</Megaspider.race.meatLabel>
+  <Megaspider.race.meatLabel>carne de insectă</Megaspider.race.meatLabel>
   <!-- EN: head claw -->
-  <Megaspider.tools.head_claw.label>TODO</Megaspider.tools.head_claw.label>
+  <Megaspider.tools.head_claw.label>gheară de cap</Megaspider.tools.head_claw.label>
   <!-- EN: head -->
-  <Megaspider.tools.head.label>TODO</Megaspider.tools.head.label>
+  <Megaspider.tools.head.label>cap</Megaspider.tools.head.label>
   
   <!-- EN: spelopede -->
-  <Spelopede.label>TODO</Spelopede.label>
+  <Spelopede.label>spelopede</Spelopede.label>
   <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground. -->
-  <Spelopede.description>TODO</Spelopede.description>
+  <Spelopede.description>Un insectoid bioingineresc de dimensiuni medii, de mărimea unei oi. Spelopede este casta de mijloc a unui stup, ocupându-se de majoritatea sarcinilor de lucru, precum și de luptă cu ghearele sale de săpat. Este periculos în luptă, dar lent pe teren deschis.</Spelopede.description>
   <!-- EN: head claw -->
-  <Spelopede.tools.head_claw.label>TODO</Spelopede.tools.head_claw.label>
+  <Spelopede.tools.head_claw.label>gheară de cap</Spelopede.tools.head_claw.label>
   <!-- EN: head -->
-  <Spelopede.tools.head.label>TODO</Spelopede.tools.head.label>
+  <Spelopede.tools.head.label>cap</Spelopede.tools.head.label>
   
 </LanguageData>

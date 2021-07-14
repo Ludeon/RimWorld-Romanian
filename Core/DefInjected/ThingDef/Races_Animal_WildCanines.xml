@@ -1,76 +1,76 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: arctic fox -->
-  <Fox_Arctic.label>TODO</Fox_Arctic.label>
+  <Fox_Arctic.label>vulpe arctică</Fox_Arctic.label>
   <!-- EN: A small predator adapted for cold climates. It usually hunts small game like mice and voles, sometimes burrowing through a meter of snow to reach its prey. -->
-  <Fox_Arctic.description>TODO</Fox_Arctic.description>
+  <Fox_Arctic.description>Un prădător de mici dimensiuni, adaptat la climatele reci. De obicei, vânează vânat de mici dimensiuni, precum șoareci și popândăi, săpând uneori un metru de zăpadă pentru a ajunge la prada sa.</Fox_Arctic.description>
   <!-- EN: left claw -->
-  <Fox_Arctic.tools.left_claw.label>TODO</Fox_Arctic.tools.left_claw.label>
+  <Fox_Arctic.tools.left_claw.label>gheara stângă</Fox_Arctic.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Fox_Arctic.tools.right_claw.label>TODO</Fox_Arctic.tools.right_claw.label>
+  <Fox_Arctic.tools.right_claw.label>gheara dreaptă</Fox_Arctic.tools.right_claw.label>
   <!-- EN: head -->
-  <Fox_Arctic.tools.head.label>TODO</Fox_Arctic.tools.head.label>
+  <Fox_Arctic.tools.head.label>cap</Fox_Arctic.tools.head.label>
   
   <!-- EN: fennec fox -->
-  <Fox_Fennec.label>TODO</Fox_Fennec.label>
+  <Fox_Fennec.label>vulpe fennec</Fox_Fennec.label>
   <!-- EN: A small fox originally from the northern part of Earth's Africa continent. It hunts small creatures and has very large ears for cooling itself in the heat. -->
-  <Fox_Fennec.description>TODO</Fox_Fennec.description>
+  <Fox_Fennec.description>O vulpe mică, originară din partea de nord a continentului african. Vânează creaturi mici și are urechile foarte mari pentru a se răcori pe timp de căldură.</Fox_Fennec.description>
   <!-- EN: fox meat -->
-  <Fox_Fennec.race.meatLabel>TODO</Fox_Fennec.race.meatLabel>
+  <Fox_Fennec.race.meatLabel>carne de vulpe</Fox_Fennec.race.meatLabel>
   <!-- EN: left claw -->
-  <Fox_Fennec.tools.left_claw.label>TODO</Fox_Fennec.tools.left_claw.label>
+  <Fox_Fennec.tools.left_claw.label>gheara stângă</Fox_Fennec.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Fox_Fennec.tools.right_claw.label>TODO</Fox_Fennec.tools.right_claw.label>
+  <Fox_Fennec.tools.right_claw.label>gheara dreaptă</Fox_Fennec.tools.right_claw.label>
   <!-- EN: head -->
-  <Fox_Fennec.tools.head.label>TODO</Fox_Fennec.tools.head.label>
+  <Fox_Fennec.tools.head.label>cap</Fox_Fennec.tools.head.label>
   
   <!-- EN: red fox -->
-  <Fox_Red.label>TODO</Fox_Red.label>
+  <Fox_Red.label>vulpe roșie</Fox_Red.label>
   <!-- EN: A small solitary canine evolved for hunting small prey in temperate climates. Chicken farmers hate foxes because of their ability to destroy a whole coop in minutes. -->
-  <Fox_Red.description>TODO</Fox_Red.description>
+  <Fox_Red.description>Un canin solitar de talie mică, evoluat pentru a vâna prada mică în climatele temperate. Crescătorii de pui urăsc vulpile din cauza capacității lor de a distruge un întreg coteț în câteva minute.</Fox_Red.description>
   <!-- EN: left claw -->
-  <Fox_Red.tools.left_claw.label>TODO</Fox_Red.tools.left_claw.label>
+  <Fox_Red.tools.left_claw.label>gheara stângă</Fox_Red.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Fox_Red.tools.right_claw.label>TODO</Fox_Red.tools.right_claw.label>
+  <Fox_Red.tools.right_claw.label>gheara dreaptă</Fox_Red.tools.right_claw.label>
   <!-- EN: head -->
-  <Fox_Red.tools.head.label>TODO</Fox_Red.tools.head.label>
+  <Fox_Red.tools.head.label>cap</Fox_Red.tools.head.label>
   
   <!-- EN: warg -->
-  <Warg.label>TODO</Warg.label>
+  <Warg.label>warg</Warg.label>
   <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
-  <Warg.description>TODO</Warg.description>
+  <Warg.description>Creaturi asemănătoare lupilor, cu mușchi puternici, cu gheare vicioase și nenaturale și o mușcătură absurd de puternică. Se hrănesc doar cu carne sau cadavre. Dacă sunt deranjați în sălbăticie, este foarte probabil să atace.\n\nȘtiinții spun că wargii sunt descendenții unor animale militare înarmate, create pentru suprimarea populației. Cei superstițioși îi văd ca pe niște unelte ale unui zeu furios.</Warg.description>
   <!-- EN: left claw -->
-  <Warg.tools.left_claw.label>TODO</Warg.tools.left_claw.label>
+  <Warg.tools.left_claw.label>gheara stângă</Warg.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Warg.tools.right_claw.label>TODO</Warg.tools.right_claw.label>
+  <Warg.tools.right_claw.label>gheara dreaptă</Warg.tools.right_claw.label>
   <!-- EN: razorfangs -->
-  <Warg.tools.razorfangs.label>TODO</Warg.tools.razorfangs.label>
+  <Warg.tools.razorfangs.label>colți ascuțiți</Warg.tools.razorfangs.label>
   <!-- EN: head -->
-  <Warg.tools.head.label>TODO</Warg.tools.head.label>
+  <Warg.tools.head.label>cap</Warg.tools.head.label>
   
   <!-- EN: arctic wolf -->
-  <Wolf_Arctic.label>TODO</Wolf_Arctic.label>
+  <Wolf_Arctic.label>Lup arctic</Wolf_Arctic.label>
   <!-- EN: An arctic variant of the old Earth wolf. As pack hunters, wolves have a complex social life and are fiercely intelligent. -->
-  <Wolf_Arctic.description>TODO</Wolf_Arctic.description>
+  <Wolf_Arctic.description>O variantă arctică a vechiului lup de pe Pământ. Vânători în haită, lupii au o viață socială complexă și sunt extrem de inteligenți.</Wolf_Arctic.description>
   <!-- EN: left claw -->
-  <Wolf_Arctic.tools.left_claw.label>TODO</Wolf_Arctic.tools.left_claw.label>
+  <Wolf_Arctic.tools.left_claw.label>gheara stângă</Wolf_Arctic.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Wolf_Arctic.tools.right_claw.label>TODO</Wolf_Arctic.tools.right_claw.label>
+  <Wolf_Arctic.tools.right_claw.label>gheara dreaptă</Wolf_Arctic.tools.right_claw.label>
   <!-- EN: head -->
-  <Wolf_Arctic.tools.head.label>TODO</Wolf_Arctic.tools.head.label>
+  <Wolf_Arctic.tools.head.label>cap</Wolf_Arctic.tools.head.label>
   
   <!-- EN: timber wolf -->
-  <Wolf_Timber.label>TODO</Wolf_Timber.label>
+  <Wolf_Timber.label>lup arboricol</Wolf_Timber.label>
   <!-- EN: A rugged predator long feared by many ancient Earth cultures. As pack hunters, wolves have complex social lives and are fiercely intelligent. -->
-  <Wolf_Timber.description>TODO</Wolf_Timber.description>
+  <Wolf_Timber.description>Un prădător aspru, mult timp temut de multe culturi antice pământene. Vânători în haită, lupii au o viață socială complexă și sunt extrem de inteligenți.</Wolf_Timber.description>
   <!-- EN: wolf meat -->
-  <Wolf_Timber.race.meatLabel>TODO</Wolf_Timber.race.meatLabel>
+  <Wolf_Timber.race.meatLabel>carne de lup</Wolf_Timber.race.meatLabel>
   <!-- EN: left claw -->
-  <Wolf_Timber.tools.left_claw.label>TODO</Wolf_Timber.tools.left_claw.label>
+  <Wolf_Timber.tools.left_claw.label>gheara stângă</Wolf_Timber.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Wolf_Timber.tools.right_claw.label>TODO</Wolf_Timber.tools.right_claw.label>
+  <Wolf_Timber.tools.right_claw.label>gheara dreaptă</Wolf_Timber.tools.right_claw.label>
   <!-- EN: head -->
-  <Wolf_Timber.tools.head.label>TODO</Wolf_Timber.tools.head.label>
+  <Wolf_Timber.tools.head.label>cap</Wolf_Timber.tools.head.label>
   
 </LanguageData>

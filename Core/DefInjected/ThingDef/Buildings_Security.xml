@@ -1,49 +1,49 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: barricade -->
-  <Barricade.label>TODO</Barricade.label>
+  <Barricade.label>baricadă</Barricade.label>
   <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. -->
-  <Barricade.description>TODO</Barricade.description>
+  <Barricade.description>O barieră înaltă până la brâu pentru a fi folosită ca acoperire împotriva împușcăturilor primite. Baricadele sunt urâte, dar oferă o acoperire mai bună decât alte obiecte joase.</Barricade.description>
   
   <!-- EN: sandbags -->
-  <Sandbags.label>TODO</Sandbags.label>
+  <Sandbags.label>saci de nisip</Sandbags.label>
   <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
-  <Sandbags.description>TODO</Sandbags.description>
+  <Sandbags.description>Saci de pământ sau nisip de proveniență locală, stivuiți pentru a fi folosiți ca acoperire. Sacii de nisip sunt urâți, dar oferă o acoperire mai bună decât alte obiecte joase.</Sandbags.description>
   
   <!-- EN: IED antigrain warhead trap -->
-  <TrapIED_AntigrainWarhead.label>TODO</TrapIED_AntigrainWarhead.label>
+  <TrapIED_AntigrainWarhead.label>Capcană IED cu obuz antimaterie</TrapIED_AntigrainWarhead.label>
   <!-- EN: An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_AntigrainWarhead.description>TODO</TrapIED_AntigrainWarhead.description>
+  <TrapIED_AntigrainWarhead.description>Un obuz cu antimaterie conectat la un declanșator care detonează la atingere sau la impactul cu un glonț. Deoarece este ascunsă în terenul înconjurător, nu poate fi plasată lângă alte capcane. Animalele le pot simți atunci când sunt calme.</TrapIED_AntigrainWarhead.description>
   
   <!-- EN: IED EMP trap -->
-  <TrapIED_EMP.label>TODO</TrapIED_EMP.label>
+  <TrapIED_EMP.label>Capcană IED EMP</TrapIED_EMP.label>
   <!-- EN: A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_EMP.description>TODO</TrapIED_EMP.description>
+  <TrapIED_EMP.description>O pereche de proiectile EMP conectate la un declanșator care detonează la atingere sau la impactul cu glonțul. Explozia poate paraliza mecanoizii pentru câteva secunde. Deoarece este ascunsă în terenul înconjurător, nu poate fi plasată lângă alte capcane. Animalele le pot simți atunci când sunt calme.</TrapIED_EMP.description>
   
   <!-- EN: IED firefoam trap -->
-  <TrapIED_Firefoam.label>TODO</TrapIED_Firefoam.label>
+  <TrapIED_Firefoam.label>Capcană IED cu spumă ignifugă.</TrapIED_Firefoam.label>
   <!-- EN: A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Firefoam.description>TODO</TrapIED_Firefoam.description>
+  <TrapIED_Firefoam.description>O pereche de proiectile din spumă ignifugă conectate la un declanșator care detonează la atingere sau la impactul cu glonțul. Deoarece este ascunsă în terenul înconjurător, nu poate fi plasată adiacent altor capcane. Animalele le pot simți atunci când sunt calme.</TrapIED_Firefoam.description>
   
   <!-- EN: IED trap -->
-  <TrapIED_HighExplosive.label>TODO</TrapIED_HighExplosive.label>
+  <TrapIED_HighExplosive.label>Capcană IED</TrapIED_HighExplosive.label>
   <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_HighExplosive.description>TODO</TrapIED_HighExplosive.description>
+  <TrapIED_HighExplosive.description>O pereche de proiectile cu explozibil înalt conectate la un declanșator care detonează la atingere sau la impactul cu un glonț. Deoarece este ascunsă în terenul înconjurător, nu poate fi plasată lângă alte capcane. Animalele le pot simți atunci când sunt calme.</TrapIED_HighExplosive.description>
   
   <!-- EN: IED incendiary trap -->
-  <TrapIED_Incendiary.label>TODO</TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.label>Capcană IED incendiară </TrapIED_Incendiary.label>
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Incendiary.description>TODO</TrapIED_Incendiary.description>
+  <TrapIED_Incendiary.description>O pereche de proiectile incendiare conectate la un declanșator care detonează la atingere sau la impactul cu un glonț. Deoarece este ascunsă în terenul înconjurător, nu poate fi plasată adiacent altor capcane. Animalele le pot simți atunci când sunt calme.</TrapIED_Incendiary.description>
   
   <!-- EN: IED Smoke trap -->
-  <TrapIED_Smoke.label>TODO</TrapIED_Smoke.label>
+  <TrapIED_Smoke.label>Capcană IED de fum </TrapIED_Smoke.label>
   <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Smoke.description>TODO</TrapIED_Smoke.description>
+  <TrapIED_Smoke.description>O pereche de proiectile de fum conectate la un declanșator care explodează la atingere sau la impactul cu un glonț. Deoarece este ascunsă în terenul înconjurător, nu poate fi plasată adiacent altor capcane. Animalele le pot simți atunci când sunt calme.</TrapIED_Smoke.description>
   
   <!-- EN: spike trap -->
-  <TrapSpike.label>TODO</TrapSpike.label>
+  <TrapSpike.label>capcană cu țepi</TrapSpike.label>
   <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapSpike.description>TODO</TrapSpike.description>
+  <TrapSpike.description>Cinci țepi sub tensiune, conectați la un declanșator activat prin atingere. Când victima deranjează declanșatorul, țepușele se ridică și lovesc victima. Deoarece este ascunsă în terenul înconjurător, nu poate fi plasată lângă alte capcane. Animalele le pot simți atunci când sunt calme.</TrapSpike.description>
   
 </LanguageData>

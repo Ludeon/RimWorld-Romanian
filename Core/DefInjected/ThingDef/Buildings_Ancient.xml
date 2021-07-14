@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: ancient concrete barrier -->
-  <AncientConcreteBarrier.label>TODO</AncientConcreteBarrier.label>
+  <AncientConcreteBarrier.label>barieră de beton antic</AncientConcreteBarrier.label>
   <!-- EN: A traffic management solution from long ago. -->
-  <AncientConcreteBarrier.description>TODO</AncientConcreteBarrier.description>
+  <AncientConcreteBarrier.description>O soluție de gestionare a traficului de demult.</AncientConcreteBarrier.description>
   
   <!-- EN: ancient lamppost -->
-  <AncientLamppost.label>TODO</AncientLamppost.label>
+  <AncientLamppost.label>stâlp de iluminat antic</AncientLamppost.label>
   <!-- EN: Road lighting from long ago. No longer functional. -->
-  <AncientLamppost.description>TODO</AncientLamppost.description>
+  <AncientLamppost.description>Un sistem de iluminat rutier de demult. Nu mai este funcțional.</AncientLamppost.description>
   
   <!-- EN: urn -->
-  <Urn.label>TODO</Urn.label>
+  <Urn.label>urnă</Urn.label>
   <!-- EN: An ancient-style decorative container. -->
-  <Urn.description>TODO</Urn.description>
+  <Urn.description>Un recipient decorativ în stil antic.</Urn.description>
   
 </LanguageData>

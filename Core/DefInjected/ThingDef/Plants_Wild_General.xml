@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: brambles -->
-  <Plant_Brambles.label>TODO</Plant_Brambles.label>
+  <Plant_Brambles.label>brambure</Plant_Brambles.label>
   <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
-  <Plant_Brambles.description>TODO</Plant_Brambles.description>
+  <Plant_Brambles.description>Lăstari lemnoși încâlciți, spinoși, acoperiți cu frunze. Bramburii cresc în grupuri și încetinesc pe oricine trece peste ei.</Plant_Brambles.description>
   
   <!-- EN: bush -->
-  <Plant_Bush.label>TODO</Plant_Bush.label>
+  <Plant_Bush.label>tufiș</Plant_Bush.label>
   <!-- EN: A short shrub. Does not typically talk. -->
-  <Plant_Bush.description>TODO</Plant_Bush.description>
+  <Plant_Bush.description>Un arbust scurt. De obicei nu vorbește.</Plant_Bush.description>
   
   <!-- EN: grass -->
-  <Plant_Grass.label>TODO</Plant_Grass.label>
+  <Plant_Grass.label>iarbă</Plant_Grass.label>
   <!-- EN: Wild grass. Grows anywhere there is a little light and minimally fertile ground. -->
-  <Plant_Grass.description>TODO</Plant_Grass.description>
+  <Plant_Grass.description>Iarbă sălbatică. Crește oriunde există puțină lumină și un sol puțin fertil.</Plant_Grass.description>
   
   <!-- EN: wild healroot -->
-  <Plant_HealrootWild.label>TODO</Plant_HealrootWild.label>
+  <Plant_HealrootWild.label>healroot sălbatic</Plant_HealrootWild.label>
   <!-- EN: A slow-growing plant which yields herbal medicine when harvested.\n\nThis wild breed of healroot is hardier than domesticated healroot, but too difficult to cultivate. It is prized by tribespeople in colder climates. -->
-  <Plant_HealrootWild.description>TODO</Plant_HealrootWild.description>
+  <Plant_HealrootWild.description>O plantă cu creștere lentă care produce plante medicinale atunci când este recoltată.\nAceastă rasă sălbatică de healroot este mai rezistentă decât healrootul domesticit, dar prea dificil de cultivat. Este apreciată de triburile din climatele mai reci.</Plant_HealrootWild.description>
   
   <!-- EN: tall grass -->
-  <Plant_TallGrass.label>TODO</Plant_TallGrass.label>
+  <Plant_TallGrass.label>iarbă înaltă</Plant_TallGrass.label>
   <!-- EN: Wild tall grass. Slows down anyone moving over it. -->
-  <Plant_TallGrass.description>TODO</Plant_TallGrass.description>
+  <Plant_TallGrass.description>Iarbă înaltă sălbatică. Încetinește pe oricine se deplasează peste ea.</Plant_TallGrass.description>
   
 </LanguageData>

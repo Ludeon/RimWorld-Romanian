@@ -1,52 +1,52 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: elephant -->
-  <Elephant.label>TODO</Elephant.label>
+  <Elephant.label>elefant</Elephant.label>
   <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
-  <Elephant.description>TODO</Elephant.description>
+  <Elephant.description>Cel mai mare animal terestru nemodificat. Elefanții au o trompă lungă pe care o folosesc pentru a manipula obiecte și colți ascuțiți pe care îi folosesc pentru a-i înjunghia pe atacatori. Colții valoroși ai unui elefant mort pot fi recuperați prin măcelărirea acestuia.\n\nCreaturi inteligente cu relații sociale complexe, elefanții pot fi folosiți ca animale de povară sau dresați pentru a îndeplini cele mai complexe sarcini. Trăiesc mult timp și se știe că își amintesc evenimente și relații din urmă cu multe decenii.</Elephant.description>
   <!-- EN: tusk -->
-  <Elephant.tools.tusk.label>TODO</Elephant.tools.tusk.label>
+  <Elephant.tools.tusk.label>colț</Elephant.tools.tusk.label>
   <!-- EN: left foot -->
-  <Elephant.tools.left_foot.label>TODO</Elephant.tools.left_foot.label>
+  <Elephant.tools.left_foot.label>piciorul stâng</Elephant.tools.left_foot.label>
   <!-- EN: right foot -->
-  <Elephant.tools.right_foot.label>TODO</Elephant.tools.right_foot.label>
+  <Elephant.tools.right_foot.label>piciorul drept</Elephant.tools.right_foot.label>
   <!-- EN: head -->
-  <Elephant.tools.head.label>TODO</Elephant.tools.head.label>
+  <Elephant.tools.head.label>cap</Elephant.tools.head.label>
   
   <!-- EN: megasloth -->
-  <Megasloth.label>TODO</Megasloth.label>
+  <Megasloth.label>megasloth</Megasloth.label>
   <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws. -->
-  <Megasloth.description>TODO</Megasloth.description>
+  <Megasloth.description>Un erbivor gigantic, solitar, cu două gheare uriașe pentru a îndepărta amenințările. Dispărut de mult timp după ce a fost exterminat de către nativii continentului american de pe Pământ, megasloth a fost readus mai târziu cu ajutorul clonării avansate și al gestatorilor artificiali. Pielea sa groasă este extrem de rezistentă și izolatoare, fiind o piele excelentă pentru hainele de vreme rece. Este pașnică dacă este lăsată în pace, dar va sfâșia pe oricine o deranjează cu ghearele sale uriașe.</Megasloth.description>
   <!-- EN: left claw -->
-  <Megasloth.tools.left_claw.label>TODO</Megasloth.tools.left_claw.label>
+  <Megasloth.tools.left_claw.label>gheara stângă</Megasloth.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Megasloth.tools.right_claw.label>TODO</Megasloth.tools.right_claw.label>
+  <Megasloth.tools.right_claw.label>gheara dreaptă</Megasloth.tools.right_claw.label>
   <!-- EN: head -->
-  <Megasloth.tools.head.label>TODO</Megasloth.tools.head.label>
+  <Megasloth.tools.head.label>cap</Megasloth.tools.head.label>
   
   <!-- EN: rhinoceros -->
-  <Rhinoceros.label>TODO</Rhinoceros.label>
+  <Rhinoceros.label>rinoceron</Rhinoceros.label>
   <!-- EN: Despite being herbivorous, this large mammal is very easy to enrage. Once angered, its massive strength and sharp horn make it a brutal opponent. It has more muscle in one leg than most humans do in their whole body. -->
-  <Rhinoceros.description>TODO</Rhinoceros.description>
+  <Rhinoceros.description>În ciuda faptului că este erbivor, acest mamifer mare este foarte ușor de înfuriat. Odată înfuriat, forța sa masivă și cornul său ascuțit îl transformă într-un adversar brutal. Are mai mulți mușchi într-un singur picior decât majoritatea oamenilor în tot corpul lor.</Rhinoceros.description>
   <!-- EN: horn -->
-  <Rhinoceros.tools.horn-0.label>TODO</Rhinoceros.tools.horn-0.label>
+  <Rhinoceros.tools.horn-0.label>corn</Rhinoceros.tools.horn-0.label>
   <!-- EN: horn -->
-  <Rhinoceros.tools.horn-1.label>TODO</Rhinoceros.tools.horn-1.label>
+  <Rhinoceros.tools.horn-1.label>corn</Rhinoceros.tools.horn-1.label>
   <!-- EN: head -->
-  <Rhinoceros.tools.head.label>TODO</Rhinoceros.tools.head.label>
+  <Rhinoceros.tools.head.label>cap</Rhinoceros.tools.head.label>
   
   <!-- EN: thrumbo -->
-  <Thrumbo.label>TODO</Thrumbo.label>
+  <Thrumbo.label>thrumbo</Thrumbo.label>
   <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
-  <Thrumbo.description>TODO</Thrumbo.description>
+  <Thrumbo.description>O creatură gigantică și grațioasă de origine necunoscută. Thrumbo este blând prin natura sa, dar extrem de periculos atunci când este furios. În timp ce blana sa lungă este excepțional de frumoasă, pielea sa este, de asemenea, incredibil de rezistentă la daune. Cornul său ascuțit ca un bricior are un preț uriaș.\n\nLegendele spun că un thrumbo bătrân este cea mai înțeleaptă creatură din univers - pur și simplu alege să nu vorbească.</Thrumbo.description>
   <!-- EN: horn -->
-  <Thrumbo.tools.horn.label>TODO</Thrumbo.tools.horn.label>
+  <Thrumbo.tools.horn.label>corn</Thrumbo.tools.horn.label>
   <!-- EN: left foot -->
-  <Thrumbo.tools.left_foot.label>TODO</Thrumbo.tools.left_foot.label>
+  <Thrumbo.tools.left_foot.label>piciorul stâng</Thrumbo.tools.left_foot.label>
   <!-- EN: right foot -->
-  <Thrumbo.tools.right_foot.label>TODO</Thrumbo.tools.right_foot.label>
+  <Thrumbo.tools.right_foot.label>piciorul drept</Thrumbo.tools.right_foot.label>
   <!-- EN: head -->
-  <Thrumbo.tools.head.label>TODO</Thrumbo.tools.head.label>
+  <Thrumbo.tools.head.label>cap</Thrumbo.tools.head.label>
   
 </LanguageData>

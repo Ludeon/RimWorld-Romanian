@@ -1,54 +1,54 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: billiards table -->
-  <BilliardsTable.label>TODO</BilliardsTable.label>
+  <BilliardsTable.label>masă de biliard</BilliardsTable.label>
   <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
-  <BilliardsTable.description>TODO</BilliardsTable.description>
+  <BilliardsTable.description>O masă cu capac moale, delimitată, pentru a juca o varietate de jocuri de tip biliard. Antrenează abilitatea de a trage.</BilliardsTable.description>
   
   <!-- EN: chess table -->
-  <ChessTable.label>TODO</ChessTable.label>
+  <ChessTable.label>masă de șah</ChessTable.label>
   <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills. -->
-  <ChessTable.description>TODO</ChessTable.description>
+  <ChessTable.description>Jocul antic al regilor. Distracție pentru câteva ore ici și colo, chiar și jucând singur. Antrenează abilitățile intelectuale.</ChessTable.description>
   
   <!-- EN: flatscreen television -->
-  <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
+  <FlatscreenTelevision.label>televizor cu ecran plat</FlatscreenTelevision.label>
   <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
-  <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
+  <FlatscreenTelevision.description>Un televizor cu ecran plat de înaltă tehnologie, cu imagine clară și culori bogate. Recepționează transmisiuni de la sateliți vechi și carduri de date omniprezente.</FlatscreenTelevision.description>
   
   <!-- EN: Game-of-Ur board -->
-  <GameOfUrBoard.label>TODO</GameOfUrBoard.label>
+  <GameOfUrBoard.label>Tablă de joc de tip Game-of-Ur</GameOfUrBoard.label>
   <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
-  <GameOfUrBoard.description>TODO</GameOfUrBoard.description>
+  <GameOfUrBoard.description>Datând din anul 2500 î.Hr., acest joc de societate captivant, dar exasperant, poate fi jucat de una sau două persoane. El antrenează abilitățile intelectuale.</GameOfUrBoard.description>
   
   <!-- EN: hoopstone ring -->
-  <HoopstoneRing.label>TODO</HoopstoneRing.label>
+  <HoopstoneRing.label>inel de piatră cu cercuri</HoopstoneRing.label>
   <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
-  <HoopstoneRing.description>TODO</HoopstoneRing.description>
+  <HoopstoneRing.description>Un joc antic simplu, jucat cu pietre și un inel mare în pământ. Jucătorii încearcă să arunce pietre prin inel de la distanță. Este relaxant și antrenează abilitățile de aruncare.</HoopstoneRing.description>
   
   <!-- EN: horseshoes pin -->
-  <HorseshoesPin.label>TODO</HorseshoesPin.label>
+  <HorseshoesPin.label>ac de potcoave</HorseshoesPin.label>
   <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
-  <HorseshoesPin.description>TODO</HorseshoesPin.description>
+  <HorseshoesPin.description>Un joc antic simplu, jucat cu o potcoavă și un ac mare în pământ. Jucătorii aruncă potcoavele pentru a încerca să le facă să aterizeze pe ac. Este relaxant și antrenează abilitățile de aruncare.</HorseshoesPin.description>
   
   <!-- EN: megascreen television -->
-  <MegascreenTelevision.label>TODO</MegascreenTelevision.label>
+  <MegascreenTelevision.label>televizor cu megaecran</MegascreenTelevision.label>
   <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
-  <MegascreenTelevision.description>TODO</MegascreenTelevision.description>
+  <MegascreenTelevision.description>Un televizor uriaș, de înaltă tehnologie. Imagini gigantice, hiper-vibrante, aproape că sar din ecran. Foarte amuzant. Preia transmisiuni de la sateliți vechi și de la carduri de date omniprezente.</MegascreenTelevision.description>
   
   <!-- EN: poker table -->
-  <PokerTable.label>TODO</PokerTable.label>
+  <PokerTable.label>masă de poker</PokerTable.label>
   <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck. -->
-  <PokerTable.description>TODO</PokerTable.description>
+  <PokerTable.description>O masă concepută pentru a juca jocuri de cărți de noroc precum pokerul. O modalitate excelentă de a-ți testa abilitățile strategice și un pic de noroc.</PokerTable.description>
   
   <!-- EN: telescope -->
-  <Telescope.label>TODO</Telescope.label>
+  <Telescope.label>telescop</Telescope.label>
   <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
-  <Telescope.description>TODO</Telescope.description>
+  <Telescope.description>Un telescop pentru astronomia de amatori. Este un hobby relaxant pentru un anumit tip de persoană. Poate fi folosit doar în aer liber.</Telescope.description>
   
   <!-- EN: tube television -->
-  <TubeTelevision.label>TODO</TubeTelevision.label>
+  <TubeTelevision.label>televizor cu tuburi</TubeTelevision.label>
   <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
-  <TubeTelevision.description>TODO</TubeTelevision.description>
+  <TubeTelevision.description>Un afișaj cu tub catodic pentru afișarea imaginilor în mișcare cu sunet. Chiar și pe planetele de pe margine, există adesea un vechi emițător care difuzează ceva cel puțin marginal de interesant.</TubeTelevision.description>
   
 </LanguageData>
