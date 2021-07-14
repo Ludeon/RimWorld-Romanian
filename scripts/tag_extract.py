@@ -48,7 +48,7 @@ class TagTextExtractor:
         self.noComment = args.no_comment
         self.saveQueue = []
 
-    def __empty_save_queue(self):
+    def empty_save_queue(self):
         for (t, p) in self.saveQueue:
             # NOTE: "UTF-8-sig" would save as utf-8 with the BOM, but rimworld does not accept that encoding for some reason
             t.write(str(p), encoding="UTF-8", xml_declaration=True)
@@ -75,7 +75,7 @@ class TagTextExtractor:
 
                 if len(s) + len(s_add) > self.limit:
                     yield (crt_tags, en_texts, s)
-                    self.__empty_save_queue()
+                    self.empty_save_queue()
                     crt_tags = []
                     en_texts = []
                     s = ""
@@ -89,7 +89,7 @@ class TagTextExtractor:
 
         if crt_tags:
             yield (crt_tags, en_texts, s)
-            self.__empty_save_queue()
+            self.empty_save_queue()
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Copy/Insert tags to/from clipboard to XML file")
@@ -122,7 +122,8 @@ if __name__ == "__main__":
     abort = False
     for (tags, _, s) in extractor.get_mutable_tags():
         if abort:
-            continue
+            extractor.empty_save_queue()
+            break
         pyperclip.copy(s)
         print(f"Copied batch of {len(tags)} tags to clipboard. Translate it via GT/deepl and press enter once ready...")
 
