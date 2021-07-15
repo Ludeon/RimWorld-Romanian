@@ -19,7 +19,8 @@ def is_script(s: str) -> bool:
     return "<li>" in s
 
 def is_gendered(s: str) -> bool:
-    l = ["_nameDef]", "_pronoun]", "_gender ?", "_possesive]", "_pronoun}", "_objective}"]
+    l = ["_nameDef]", "_nameIndef]", "_pronoun]", "_objective]", "_possesive]", "_gender ?",
+         "_nameDef}", "_nameIndef}", "_pronoun}", "_objective}", "_possesive",]
     return any(map(lambda x : x in s, l)) and not is_script(s)
 
 def is_normal(s: str) -> bool:
@@ -98,7 +99,7 @@ class TagTextExtractor:
                 if len(s) + len(s_add) > self.limit:
                     yield (crt_tags, en_texts, s)
                     if self._abort:
-                        return
+                        break
                     self.empty_save_queue()
                     crt_tags = []
                     en_texts = []
@@ -110,6 +111,10 @@ class TagTextExtractor:
 
             if tag_count > 0:
                 self.saveQueue.append((tree, xmlPath))
+
+            if self._abort:
+                self.empty_save_queue()
+                return
 
         if crt_tags:
             yield (crt_tags, en_texts, s)

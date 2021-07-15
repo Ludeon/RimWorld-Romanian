@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: high on smokeleaf -->
-  <SmokeleafHigh.stages.high_on_smokeleaf.label>TODO</SmokeleafHigh.stages.high_on_smokeleaf.label>
+  <SmokeleafHigh.stages.high_on_smokeleaf.label>sub efectul smokeleaf</SmokeleafHigh.stages.high_on_smokeleaf.label>
   <!-- EN: I'm, like, stoned, man. -->
-  <SmokeleafHigh.stages.high_on_smokeleaf.description>TODO</SmokeleafHigh.stages.high_on_smokeleaf.description>
+  <SmokeleafHigh.stages.high_on_smokeleaf.description>Sunt gen, spart, frate.</SmokeleafHigh.stages.high_on_smokeleaf.description>
   
   <!-- EN: smokeleaf withdrawal -->
-  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>TODO</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>sevraj smokeleaf</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
   <!-- EN: I really wish I could smoke. I feel jittery, and my gut has that anxious sensation all the time. -->
-  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>TODO</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>Chiar aș vrea să pot fuma. Mă simt agitat, iar stomacul meu are acea senzație de anxietate tot timpul.</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>
   
 </LanguageData>

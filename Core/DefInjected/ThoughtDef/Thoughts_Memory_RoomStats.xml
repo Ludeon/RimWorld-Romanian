@@ -1,136 +1,136 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: decent dining room -->
-  <AteInImpressiveDiningRoom.stages.decent_dining_room.label>TODO</AteInImpressiveDiningRoom.stages.decent_dining_room.label>
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.label>sală de mese decentă</AteInImpressiveDiningRoom.stages.decent_dining_room.label>
   <!-- EN: I ate my meal in a decent dining room. -->
-  <AteInImpressiveDiningRoom.stages.decent_dining_room.description>TODO</AteInImpressiveDiningRoom.stages.decent_dining_room.description>
+  <AteInImpressiveDiningRoom.stages.decent_dining_room.description>Am luat masa într-o sufragerie decentă.</AteInImpressiveDiningRoom.stages.decent_dining_room.description>
   <!-- EN: slightly impressive dining room -->
-  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>TODO</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>sală de mese ușor impresionantă</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.label>
   <!-- EN: I ate my meal in a slightly impressive dining room. -->
-  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>TODO</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>
+  <AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>Am luat masa într-o sală de mese ușor impresionantă.</AteInImpressiveDiningRoom.stages.slightly_impressive_dining_room.description>
   <!-- EN: somewhat impressive dining room -->
-  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>TODO</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>sală de mese oarecum impresionantă</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.label>
   <!-- EN: I ate my meal in an impressive dining room. -->
-  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>TODO</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>
+  <AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>Am luat masa într-o sală de mese impresionantă.</AteInImpressiveDiningRoom.stages.somewhat_impressive_dining_room.description>
   <!-- EN: very impressive dining room -->
-  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>TODO</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>sală de mese foarte impresionantă</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.label>
   <!-- EN: I ate my meal in a very impressive dining room. -->
-  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>TODO</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>
+  <AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>Am luat masa într-o sală de mese foarte impresionantă.</AteInImpressiveDiningRoom.stages.very_impressive_dining_room.description>
   <!-- EN: extremely impressive dining room -->
-  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>TODO</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>sală de mese extrem de impresionantă</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.label>
   <!-- EN: I ate my meal in an extremely impressive dining room. I could stay there forever. -->
-  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>TODO</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>
+  <AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>Am luat masa într-o sală de mese extrem de impresionantă. Aș putea sta acolo pentru totdeauna.</AteInImpressiveDiningRoom.stages.extremely_impressive_dining_room.description>
   <!-- EN: unbelievably impressive dining room -->
-  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>TODO</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>sală de mese incredibil de impresionantă</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.label>
   <!-- EN: I ate my meal in an unbelievably impressive dining room. I could stay there forever. -->
-  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>TODO</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>
+  <AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>Am luat masa într-o sală de mese incredibil de impresionantă. Aș putea sta acolo pentru totdeauna.</AteInImpressiveDiningRoom.stages.unbelievably_impressive_dining_room.description>
   <!-- EN: wondrously impressive dining room -->
-  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>TODO</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>sală de mese minunat de impresionantă</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.label>
   <!-- EN: I ate my meal in a wonderful dining room. I could stay there forever. -->
-  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>TODO</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>
+  <AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>Am luat masa într-o sală de mese minunată. Aș putea sta acolo pentru totdeauna.</AteInImpressiveDiningRoom.stages.wondrously_impressive_dining_room.description>
   
   <!-- EN: decent rec room -->
-  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>TODO</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>cameră de recreere decentă</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.label>
   <!-- EN: I had fun in a decent rec room. -->
-  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>TODO</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>
+  <JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>M-am distrat într-o cameră de recreere decentă.</JoyActivityInImpressiveRecRoom.stages.decent_rec_room.description>
   <!-- EN: slightly impressive rec room -->
-  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>TODO</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>cameră de recreere ușor impresionantă</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.label>
   <!-- EN: I had fun in a nice rec room. -->
-  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>TODO</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>
+  <JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>M-am distrat într-o cameră de recreere frumoasă.</JoyActivityInImpressiveRecRoom.stages.slightly_impressive_rec_room.description>
   <!-- EN: somewhat impressive rec room -->
-  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>TODO</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>cameră de recreere oarecum impresionantă</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.label>
   <!-- EN: I had a great time in an impressive rec room. -->
-  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>TODO</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>
+  <JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>M-am simțit foarte bine într-o cameră de recreere impresionantă.</JoyActivityInImpressiveRecRoom.stages.somewhat_impressive_rec_room.description>
   <!-- EN: very impressive rec room -->
-  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>TODO</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>cameră de recreere foarte impresionantă</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.label>
   <!-- EN: I had a great time in a very impressive rec room. -->
-  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>TODO</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>
+  <JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>M-am distrat de minune într-o cameră de recreere foarte impresionantă.</JoyActivityInImpressiveRecRoom.stages.very_impressive_rec_room.description>
   <!-- EN: extremely impressive rec room -->
-  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>TODO</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>cameră de recreere extrem de impresionantă</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.label>
   <!-- EN: I had a great time in an extremely impressive rec room. I could stay there forever. -->
-  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>TODO</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>
+  <JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>M-am distrat de minune într-o cameră de recreere extrem de impresionantă. Aș putea sta acolo pentru totdeauna.</JoyActivityInImpressiveRecRoom.stages.extremely_impressive_rec_room.description>
   <!-- EN: unbelievably impressive rec room -->
-  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>TODO</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>camera de recreere incredibil de impresionantă</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.label>
   <!-- EN: I had a great time in an unbelievably impressive rec room. I could stay there forever. -->
-  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>TODO</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>
+  <JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>M-am distrat de minune într-o cameră de recreere incredibil de impresionantă. Aș putea sta acolo pentru totdeauna.</JoyActivityInImpressiveRecRoom.stages.unbelievably_impressive_rec_room.description>
   <!-- EN: wondrously impressive rec room -->
-  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>TODO</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>cameră de recreere minunat de impresionantă</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.label>
   <!-- EN: I had a great time in a wonderful rec room. I could stay there forever. -->
-  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>TODO</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
+  <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>M-am distrat de minune într-o cameră de recreere minunată. Aș putea sta acolo pentru totdeauna.</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
   
   <!-- EN: awful barrack -->
-  <SleptInBarracks.stages.awful_barrack.label>TODO</SleptInBarracks.stages.awful_barrack.label>
+  <SleptInBarracks.stages.awful_barrack.label>baracă îngrozitoare</SleptInBarracks.stages.awful_barrack.label>
   <!-- EN: I had to sleep in an awful barrack. Not only was it a horrible room, but I also had to share it! -->
-  <SleptInBarracks.stages.awful_barrack.description>TODO</SleptInBarracks.stages.awful_barrack.description>
+  <SleptInBarracks.stages.awful_barrack.description>A trebuit să dorm într-o baracă îngrozitoare. Nu numai că era o cameră oribilă, dar a trebuit să o și împart!</SleptInBarracks.stages.awful_barrack.description>
   <!-- EN: dull barrack -->
-  <SleptInBarracks.stages.dull_barrack.label>TODO</SleptInBarracks.stages.dull_barrack.label>
+  <SleptInBarracks.stages.dull_barrack.label>baracă plictisitoare</SleptInBarracks.stages.dull_barrack.label>
   <!-- EN: I had to sleep in a dull barrack. Not only that, but I also had to share it with other people. -->
-  <SleptInBarracks.stages.dull_barrack.description>TODO</SleptInBarracks.stages.dull_barrack.description>
+  <SleptInBarracks.stages.dull_barrack.description>A trebuit să dorm într-o baracă plictisitoare. Și nu numai atât, dar a trebuit să o împart și cu alți oameni.</SleptInBarracks.stages.dull_barrack.description>
   <!-- EN: mediocre barrack -->
-  <SleptInBarracks.stages.mediocre_barrack.label>TODO</SleptInBarracks.stages.mediocre_barrack.label>
+  <SleptInBarracks.stages.mediocre_barrack.label>baracă mediocră</SleptInBarracks.stages.mediocre_barrack.label>
   <!-- EN: I had to sleep in a mediocre barrack with other people around. I really don't like this. -->
-  <SleptInBarracks.stages.mediocre_barrack.description>TODO</SleptInBarracks.stages.mediocre_barrack.description>
+  <SleptInBarracks.stages.mediocre_barrack.description>A trebuit să dorm într-o baracă mediocră cu alți oameni în jur. Chiar nu-mi place asta.</SleptInBarracks.stages.mediocre_barrack.description>
   <!-- EN: decent barrack -->
-  <SleptInBarracks.stages.decent_barrack.label>TODO</SleptInBarracks.stages.decent_barrack.label>
+  <SleptInBarracks.stages.decent_barrack.label>baracă decentă</SleptInBarracks.stages.decent_barrack.label>
   <!-- EN: I slept in a decent barrack, but I really dislike sharing a sleeping space. -->
-  <SleptInBarracks.stages.decent_barrack.description>TODO</SleptInBarracks.stages.decent_barrack.description>
+  <SleptInBarracks.stages.decent_barrack.description>Am dormit într-o baracă decentă, dar chiar nu-mi place să împart un spațiu de dormit.</SleptInBarracks.stages.decent_barrack.description>
   <!-- EN: slightly impressive barrack -->
-  <SleptInBarracks.stages.slightly_impressive_barrack.label>TODO</SleptInBarracks.stages.slightly_impressive_barrack.label>
+  <SleptInBarracks.stages.slightly_impressive_barrack.label>baracă ușor impresionantă</SleptInBarracks.stages.slightly_impressive_barrack.label>
   <!-- EN: I got to sleep in a pretty nice barrack. But I really don't like sharing a room with others. -->
-  <SleptInBarracks.stages.slightly_impressive_barrack.description>TODO</SleptInBarracks.stages.slightly_impressive_barrack.description>
+  <SleptInBarracks.stages.slightly_impressive_barrack.description>Am reușit să dorm într-o baracă destul de frumoasă. Dar chiar nu-mi place să împart camera cu alții.</SleptInBarracks.stages.slightly_impressive_barrack.description>
   <!-- EN: impressive barrack -->
-  <SleptInBarracks.stages.impressive_barrack.label>TODO</SleptInBarracks.stages.impressive_barrack.label>
+  <SleptInBarracks.stages.impressive_barrack.label>baracă impresionantă</SleptInBarracks.stages.impressive_barrack.label>
   <!-- EN: I got to sleep in an impressive barrack. It sucks that I had to share it, though. -->
-  <SleptInBarracks.stages.impressive_barrack.description>TODO</SleptInBarracks.stages.impressive_barrack.description>
+  <SleptInBarracks.stages.impressive_barrack.description>Am reușit să dorm într-o baracă impresionantă. E nasol că a trebuit să o împart, totuși.</SleptInBarracks.stages.impressive_barrack.description>
   <!-- EN: very impressive barrack -->
-  <SleptInBarracks.stages.very_impressive_barrack.label>TODO</SleptInBarracks.stages.very_impressive_barrack.label>
+  <SleptInBarracks.stages.very_impressive_barrack.label>baracă foarte impresionantă</SleptInBarracks.stages.very_impressive_barrack.label>
   <!-- EN: I slept in a very impressive barrack. I don't even mind sharing it. -->
-  <SleptInBarracks.stages.very_impressive_barrack.description>TODO</SleptInBarracks.stages.very_impressive_barrack.description>
+  <SleptInBarracks.stages.very_impressive_barrack.description>Am dormit într-o baracă foarte impresionantă. Nici măcar nu mă deranjează să o împărtășesc.</SleptInBarracks.stages.very_impressive_barrack.description>
   <!-- EN: extremely impressive barrack -->
-  <SleptInBarracks.stages.extremely_impressive_barrack.label>TODO</SleptInBarracks.stages.extremely_impressive_barrack.label>
+  <SleptInBarracks.stages.extremely_impressive_barrack.label>baracă extrem de impresionantă</SleptInBarracks.stages.extremely_impressive_barrack.label>
   <!-- EN: I slept in an extremely impressive barrack. I don't even mind sharing it. -->
-  <SleptInBarracks.stages.extremely_impressive_barrack.description>TODO</SleptInBarracks.stages.extremely_impressive_barrack.description>
+  <SleptInBarracks.stages.extremely_impressive_barrack.description>Am dormit într-o baracă extrem de impresionantă. Nici măcar nu mă deranjează să o împărtășesc.</SleptInBarracks.stages.extremely_impressive_barrack.description>
   <!-- EN: unbelievably impressive barrack -->
-  <SleptInBarracks.stages.unbelievably_impressive_barrack.label>TODO</SleptInBarracks.stages.unbelievably_impressive_barrack.label>
+  <SleptInBarracks.stages.unbelievably_impressive_barrack.label>baracă incredibil de impresionantă</SleptInBarracks.stages.unbelievably_impressive_barrack.label>
   <!-- EN: The barrack I slept in was so impressive that I don't even mind sharing it. -->
-  <SleptInBarracks.stages.unbelievably_impressive_barrack.description>TODO</SleptInBarracks.stages.unbelievably_impressive_barrack.description>
+  <SleptInBarracks.stages.unbelievably_impressive_barrack.description>Baraca în care am dormit a fost atât de impresionantă încât nici măcar nu mă deranjează să o împărtășesc.</SleptInBarracks.stages.unbelievably_impressive_barrack.description>
   <!-- EN: wondrously impressive barrack -->
-  <SleptInBarracks.stages.wondrously_impressive_barrack.label>TODO</SleptInBarracks.stages.wondrously_impressive_barrack.label>
+  <SleptInBarracks.stages.wondrously_impressive_barrack.label>baraca minunată și impresionantă</SleptInBarracks.stages.wondrously_impressive_barrack.label>
   <!-- EN: I slept in a barrack that was simply wondrous. Even sharing such a space makes me happy. -->
-  <SleptInBarracks.stages.wondrously_impressive_barrack.description>TODO</SleptInBarracks.stages.wondrously_impressive_barrack.description>
+  <SleptInBarracks.stages.wondrously_impressive_barrack.description>Am dormit într-o baracă care era pur și simplu minunată. Chiar și împărțirea unui astfel de spațiu mă face bucuros.</SleptInBarracks.stages.wondrously_impressive_barrack.description>
   
   <!-- EN: awful bedroom -->
-  <SleptInBedroom.stages.awful_bedroom.label>TODO</SleptInBedroom.stages.awful_bedroom.label>
+  <SleptInBedroom.stages.awful_bedroom.label>dormitor îngrozitor</SleptInBedroom.stages.awful_bedroom.label>
   <!-- EN: I had to sleep in an awful room. -->
-  <SleptInBedroom.stages.awful_bedroom.description>TODO</SleptInBedroom.stages.awful_bedroom.description>
+  <SleptInBedroom.stages.awful_bedroom.description>A trebuit să dorm într-o cameră îngrozitoare.</SleptInBedroom.stages.awful_bedroom.description>
   <!-- EN: decent bedroom -->
-  <SleptInBedroom.stages.decent_bedroom.label>TODO</SleptInBedroom.stages.decent_bedroom.label>
+  <SleptInBedroom.stages.decent_bedroom.label>dormitor decent</SleptInBedroom.stages.decent_bedroom.label>
   <!-- EN: I got to sleep in a pretty decent bedroom. -->
-  <SleptInBedroom.stages.decent_bedroom.description>TODO</SleptInBedroom.stages.decent_bedroom.description>
+  <SleptInBedroom.stages.decent_bedroom.description>Am ajuns să dorm într-un dormitor destul de decent.</SleptInBedroom.stages.decent_bedroom.description>
   <!-- EN: slightly impressive bedroom -->
-  <SleptInBedroom.stages.slightly_impressive_bedroom.label>TODO</SleptInBedroom.stages.slightly_impressive_bedroom.label>
+  <SleptInBedroom.stages.slightly_impressive_bedroom.label>dormitor ușor impresionant</SleptInBedroom.stages.slightly_impressive_bedroom.label>
   <!-- EN: I got to sleep in a slightly impressive bedroom. I like it. -->
-  <SleptInBedroom.stages.slightly_impressive_bedroom.description>TODO</SleptInBedroom.stages.slightly_impressive_bedroom.description>
+  <SleptInBedroom.stages.slightly_impressive_bedroom.description>Am reușit să dorm într-un dormitor ușor impresionant. Îmi place.</SleptInBedroom.stages.slightly_impressive_bedroom.description>
   <!-- EN: impressive bedroom -->
-  <SleptInBedroom.stages.impressive_bedroom.label>TODO</SleptInBedroom.stages.impressive_bedroom.label>
+  <SleptInBedroom.stages.impressive_bedroom.label>dormitor impresionant</SleptInBedroom.stages.impressive_bedroom.label>
   <!-- EN: I slept in an impressive bedroom. It was great. -->
-  <SleptInBedroom.stages.impressive_bedroom.description>TODO</SleptInBedroom.stages.impressive_bedroom.description>
+  <SleptInBedroom.stages.impressive_bedroom.description>Am dormit într-un dormitor impresionant. A fost grozav.</SleptInBedroom.stages.impressive_bedroom.description>
   <!-- EN: very impressive bedroom -->
-  <SleptInBedroom.stages.very_impressive_bedroom.label>TODO</SleptInBedroom.stages.very_impressive_bedroom.label>
+  <SleptInBedroom.stages.very_impressive_bedroom.label>dormitor foarte impresionant</SleptInBedroom.stages.very_impressive_bedroom.label>
   <!-- EN: I slept in a very impressive bedroom. I love it. -->
-  <SleptInBedroom.stages.very_impressive_bedroom.description>TODO</SleptInBedroom.stages.very_impressive_bedroom.description>
+  <SleptInBedroom.stages.very_impressive_bedroom.description>Am dormit într-un dormitor foarte impresionant. Îmi place la nebunie.</SleptInBedroom.stages.very_impressive_bedroom.description>
   <!-- EN: extremely impressive bedroom -->
-  <SleptInBedroom.stages.extremely_impressive_bedroom.label>TODO</SleptInBedroom.stages.extremely_impressive_bedroom.label>
+  <SleptInBedroom.stages.extremely_impressive_bedroom.label>dormitor extrem de impresionant</SleptInBedroom.stages.extremely_impressive_bedroom.label>
   <!-- EN: I slept in an extremely impressive bedroom. It was marvelous. -->
-  <SleptInBedroom.stages.extremely_impressive_bedroom.description>TODO</SleptInBedroom.stages.extremely_impressive_bedroom.description>
+  <SleptInBedroom.stages.extremely_impressive_bedroom.description>Am dormit într-un dormitor extrem de impresionant. A fost minunat.</SleptInBedroom.stages.extremely_impressive_bedroom.description>
   <!-- EN: unbelievably impressive bedroom -->
-  <SleptInBedroom.stages.unbelievably_impressive_bedroom.label>TODO</SleptInBedroom.stages.unbelievably_impressive_bedroom.label>
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.label>dormitor incredibil de impresionant</SleptInBedroom.stages.unbelievably_impressive_bedroom.label>
   <!-- EN: I slept in an unbelievably impressive bedroom. It was truly astounding. -->
-  <SleptInBedroom.stages.unbelievably_impressive_bedroom.description>TODO</SleptInBedroom.stages.unbelievably_impressive_bedroom.description>
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.description>Am dormit într-un dormitor incredibil de impresionant. A fost cu adevărat uimitor.</SleptInBedroom.stages.unbelievably_impressive_bedroom.description>
   <!-- EN: wondrously impressive bedroom -->
-  <SleptInBedroom.stages.wondrously_impressive_bedroom.label>TODO</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.label>dormitor minunat de impresionant</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
   <!-- EN: I slept in a heavenly bedroom. It was wondrous. -->
-  <SleptInBedroom.stages.wondrously_impressive_bedroom.description>TODO</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.description>Am dormit într-un dormitor ceresc. A fost minunat.</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
   
 </LanguageData>

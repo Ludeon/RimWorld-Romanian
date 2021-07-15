@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: high on go-juice -->
-  <GoJuiceHigh.stages.high_on_gojuice.label>TODO</GoJuiceHigh.stages.high_on_gojuice.label>
+  <GoJuiceHigh.stages.high_on_gojuice.label>sub efectul go-juice</GoJuiceHigh.stages.high_on_gojuice.label>
   <!-- EN: I feel pumped but steady. I am the bullet in flight, ready to cut through you. -->
-  <GoJuiceHigh.stages.high_on_gojuice.description>TODO</GoJuiceHigh.stages.high_on_gojuice.description>
+  <GoJuiceHigh.stages.high_on_gojuice.description>Mă simt pompat, dar stabil. Sunt glonțul în zbor, gata să te străpung.</GoJuiceHigh.stages.high_on_gojuice.description>
   
   <!-- EN: go-juice withdrawal -->
-  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>TODO</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>sevraj go-juice</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
   <!-- EN: I'm all fuzzy and can't think straight. My limbs feel heavy, I'm tired and hungry, everything hurts. And why won't my eyes focus properly? -->
-  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>TODO</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>Sunt amețit și nu pot gândi limpede. Îmi simt membrele grele, sunt obosit și flămând, mă doare totul. Și de ce ochii mei nu se concentrează cum trebuie?</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
   
 </LanguageData>

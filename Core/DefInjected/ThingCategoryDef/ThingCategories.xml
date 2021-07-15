@@ -50,138 +50,138 @@
   <BuildingsArt.label>artă</BuildingsArt.label>
   
   <!-- EN: furniture -->
-  <BuildingsFurniture.label>TODO</BuildingsFurniture.label>
+  <BuildingsFurniture.label>mobilier</BuildingsFurniture.label>
   
   <!-- EN: recreation -->
-  <BuildingsJoy.label>TODO</BuildingsJoy.label>
+  <BuildingsJoy.label>recreere</BuildingsJoy.label>
   
   <!-- EN: misc -->
-  <BuildingsMisc.label>TODO</BuildingsMisc.label>
+  <BuildingsMisc.label>diverse</BuildingsMisc.label>
   
   <!-- EN: power -->
-  <BuildingsPower.label>TODO</BuildingsPower.label>
+  <BuildingsPower.label>putere</BuildingsPower.label>
   
   <!-- EN: production -->
-  <BuildingsProduction.label>TODO</BuildingsProduction.label>
+  <BuildingsProduction.label>producție</BuildingsProduction.label>
   
   <!-- EN: security -->
-  <BuildingsSecurity.label>TODO</BuildingsSecurity.label>
+  <BuildingsSecurity.label>securitate</BuildingsSecurity.label>
   
   <!-- EN: special -->
-  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
+  <BuildingsSpecial.label>special</BuildingsSpecial.label>
   
   <!-- EN: temperature -->
-  <BuildingsTemperature.label>TODO</BuildingsTemperature.label>
+  <BuildingsTemperature.label>temperatură</BuildingsTemperature.label>
   
   <!-- EN: chunks -->
-  <Chunks.label>TODO</Chunks.label>
+  <Chunks.label>bucăți</Chunks.label>
   
   <!-- EN: corpses -->
-  <Corpses.label>TODO</Corpses.label>
+  <Corpses.label>cadavre</Corpses.label>
   
   <!-- EN: animal corpses -->
-  <CorpsesAnimal.label>TODO</CorpsesAnimal.label>
+  <CorpsesAnimal.label>cadavre de animale</CorpsesAnimal.label>
   
   <!-- EN: humanlike corpses -->
-  <CorpsesHumanlike.label>TODO</CorpsesHumanlike.label>
+  <CorpsesHumanlike.label>cadavre de tip uman</CorpsesHumanlike.label>
   
   <!-- EN: insect corpses -->
-  <CorpsesInsect.label>TODO</CorpsesInsect.label>
+  <CorpsesInsect.label>cadavre de insecte</CorpsesInsect.label>
   
   <!-- EN: mechanoid corpses -->
-  <CorpsesMechanoid.label>TODO</CorpsesMechanoid.label>
+  <CorpsesMechanoid.label>cadavre mecanoide</CorpsesMechanoid.label>
   
   <!-- EN: drugs -->
-  <Drugs.label>TODO</Drugs.label>
+  <Drugs.label>droguri</Drugs.label>
   
   <!-- EN: eggs (fert.) -->
-  <EggsFertilized.label>TODO</EggsFertilized.label>
+  <EggsFertilized.label>ouă (fertilizate)</EggsFertilized.label>
   
   <!-- EN: eggs (unfert.) -->
-  <EggsUnfertilized.label>TODO</EggsUnfertilized.label>
+  <EggsUnfertilized.label>ouă (nefertilizate)</EggsUnfertilized.label>
   
   <!-- EN: meals -->
-  <FoodMeals.label>TODO</FoodMeals.label>
+  <FoodMeals.label>mese</FoodMeals.label>
   
   <!-- EN: raw food -->
-  <FoodRaw.label>TODO</FoodRaw.label>
+  <FoodRaw.label>alimente crude</FoodRaw.label>
   
   <!-- EN: foods -->
-  <Foods.label>TODO</Foods.label>
+  <Foods.label>alimente</Foods.label>
   
   <!-- EN: grenades -->
-  <Grenades.label>TODO</Grenades.label>
+  <Grenades.label>grenade</Grenades.label>
   
   <!-- EN: headgear -->
-  <Headgear.label>TODO</Headgear.label>
+  <Headgear.label>articole pentru cap</Headgear.label>
   
   <!-- EN: headgear -->
-  <HeadgearNoble.label>TODO</HeadgearNoble.label>
+  <HeadgearNoble.label>articole pentru cap</HeadgearNoble.label>
   
   <!-- EN: items -->
-  <Items.label>TODO</Items.label>
+  <Items.label>articole</Items.label>
   
   <!-- EN: leathers -->
-  <Leathers.label>TODO</Leathers.label>
+  <Leathers.label>pieili</Leathers.label>
   
   <!-- EN: manufactured -->
-  <Manufactured.label>TODO</Manufactured.label>
+  <Manufactured.label>fabricate</Manufactured.label>
   
   <!-- EN: meat -->
-  <MeatRaw.label>TODO</MeatRaw.label>
+  <MeatRaw.label>carne</MeatRaw.label>
   
   <!-- EN: medicine -->
-  <Medicine.label>TODO</Medicine.label>
+  <Medicine.label>medicină</Medicine.label>
   
   <!-- EN: mortar shells -->
-  <MortarShells.label>TODO</MortarShells.label>
+  <MortarShells.label>obuze de mortier</MortarShells.label>
   
   <!-- EN: neurotrainers -->
-  <Neurotrainers.label>TODO</Neurotrainers.label>
+  <Neurotrainers.label>neurotrainere</Neurotrainers.label>
   
   <!-- EN: psytrainers -->
-  <NeurotrainersPsycast.label>TODO</NeurotrainersPsycast.label>
+  <NeurotrainersPsycast.label>psytrainere</NeurotrainersPsycast.label>
   
   <!-- EN: skilltrainers -->
-  <NeurotrainersSkill.label>TODO</NeurotrainersSkill.label>
+  <NeurotrainersSkill.label>skilltrainere</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
-  <PlantFoodRaw.label>TODO</PlantFoodRaw.label>
+  <PlantFoodRaw.label>vegetarian</PlantFoodRaw.label>
   
   <!-- EN: plant matter -->
-  <PlantMatter.label>TODO</PlantMatter.label>
+  <PlantMatter.label>materie vegetală</PlantMatter.label>
   
   <!-- EN: raw resources -->
-  <ResourcesRaw.label>TODO</ResourcesRaw.label>
+  <ResourcesRaw.label>resurse brute</ResourcesRaw.label>
   
   <!-- EN: root -->
-  <Root.label>TODO</Root.label>
+  <Root.label>rădăcină</Root.label>
   
   <!-- EN: stone blocks -->
-  <StoneBlocks.label>TODO</StoneBlocks.label>
+  <StoneBlocks.label>blocuri de piatră</StoneBlocks.label>
   
   <!-- EN: stone chunks -->
-  <StoneChunks.label>TODO</StoneChunks.label>
+  <StoneChunks.label>blocuri de piatră</StoneChunks.label>
   
   <!-- EN: techprints -->
-  <Techprints.label>TODO</Techprints.label>
+  <Techprints.label>Techprint-uri</Techprints.label>
   
   <!-- EN: textiles -->
-  <Textiles.label>TODO</Textiles.label>
+  <Textiles.label>textile</Textiles.label>
   
   <!-- EN: unfinished -->
-  <Unfinished.label>TODO</Unfinished.label>
+  <Unfinished.label>neterminat</Unfinished.label>
   
   <!-- EN: weapons -->
-  <Weapons.label>TODO</Weapons.label>
+  <Weapons.label>arme</Weapons.label>
   
   <!-- EN: melee weapons -->
-  <WeaponsMelee.label>TODO</WeaponsMelee.label>
+  <WeaponsMelee.label>arme de luptă corp la corp</WeaponsMelee.label>
   
   <!-- EN: persona weapons -->
-  <WeaponsMeleeBladelink.label>TODO</WeaponsMeleeBladelink.label>
+  <WeaponsMeleeBladelink.label>arme persona</WeaponsMeleeBladelink.label>
   
   <!-- EN: ranged weapons -->
-  <WeaponsRanged.label>TODO</WeaponsRanged.label>
+  <WeaponsRanged.label>Arme de distanță</WeaponsRanged.label>
   
 </LanguageData>
