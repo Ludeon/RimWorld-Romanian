@@ -15,9 +15,20 @@ from typing import List, Tuple, Generator
 import pyperclip
 import re
 
-def get_filled_tags(root, force=False, filt=None, trans=False) -> List[Tuple[ET.Element, str]]:
+def is_script(s: str) -> bool:
+    return "<li>" in s
+
+def is_gendered(s: str) -> bool:
+    l = ["_nameDef]", "_pronoun]", "_gender ?", "_possesive]", "_pronoun}", "_objective}"]
+    return any(map(lambda x : x in s, l)) and not is_script(s)
+
+def is_normal(s: str) -> bool:
+    return not is_gendered(s) and not is_script(s)
+
+def get_filled_tags(root, mode, force=False, filt=None, trans=False) -> List[Tuple[ET.Element, str]]:
     last_comment = ET.Comment("")
     tags = []
+    s_test = {"normal":is_normal, "gendered":is_gendered, "script":is_script}[mode]
 
     for elm in root:
         if elm.tag == ET.Comment:
@@ -28,11 +39,13 @@ def get_filled_tags(root, force=False, filt=None, trans=False) -> List[Tuple[ET.
             if filt is None or filt.search(elm.tag):
                 if trans:
                     if elm.text != "TODO" or force:
-                        tags += [(elm, elm.text)]
+                        if s_test(elm.text):
+                            tags += [(elm, elm.text)]
                 else:
                     if elm.text == "TODO" or force:
                         txt = last_comment.text.strip().removeprefix("EN: ")
-                        tags += [(elm, txt)]
+                        if s_test(txt):
+                            tags += [(elm, txt)]
         else:
             raise Exception(f"What tf is this? {elm} {type(elm)}")
 
@@ -41,17 +54,24 @@ def get_filled_tags(root, force=False, filt=None, trans=False) -> List[Tuple[ET.
 class TagTextExtractor:
     def __init__(self, xmlPaths, args):
         self.xmlPaths = xmlPaths
+        self.mode = args.mode
         self.limit = args.limit
         self.force = args.force
         self.filter = args.filter
         self.trans = args.translated
         self.noComment = args.no_comment
         self.saveQueue = []
+        self._abort = False
 
     def empty_save_queue(self):
         for (t, p) in self.saveQueue:
             # NOTE: "UTF-8-sig" would save as utf-8 with the BOM, but rimworld does not accept that encoding for some reason
             t.write(str(p), encoding="UTF-8", xml_declaration=True)
+
+    def abort(self):
+        self.saveQueue = self.saveQueue[:1]
+        self.empty_save_queue()
+        self._abort = True
 
     def get_mutable_tags(self):
         """
@@ -66,8 +86,11 @@ class TagTextExtractor:
             tree = ET.parse(str(xmlPath), parser)
 
             tag_count = 0
-            for (tag, text) in get_filled_tags(tree.getroot(), force=self.force, filt=self.filter, trans=self.trans):
+            for (tag, text) in get_filled_tags(tree.getroot(), self.mode, force=self.force, filt=self.filter, trans=self.trans):
+                if tag_count == 0:
+                    print(f"extracting from file {xmlPath}...")
                 tag_count += 1
+
                 if self.noComment:
                     s_add = f"{text}\n\n"
                 else:
@@ -75,6 +98,8 @@ class TagTextExtractor:
 
                 if len(s) + len(s_add) > self.limit:
                     yield (crt_tags, en_texts, s)
+                    if self._abort:
+                        return
                     self.empty_save_queue()
                     crt_tags = []
                     en_texts = []
@@ -95,12 +120,14 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Copy/Insert tags to/from clipboard to XML file")
     parser.add_argument("file", type=Path, nargs="+", metavar="F",
                         help="Path to XML file (or folder of XMLs) to be read&written to")
+    parser.add_argument("-m", "--mode", type=str, choices=["normal", "gendered", "script"], default="normal",
+                        help="Type of tags to select. Non-gendered, non-script by default")
     parser.add_argument("-l", "--limit", type=int, default=4500,
                         help="Copy tags to clipboard only up to a certain limit. Use 0 for no limit")
     parser.add_argument("--force", action="store_const", default=False, const=True,
                         help="Ignore already-existing translations")
     parser.add_argument("-f", "--filter", type=str, required=False, default=None,
-                        help="Filter selected tags by a regex")
+                        help="Filter selected tag names by a regex")
     parser.add_argument("--translated", action="store_const", default=False, const=True,
                         help="Extract the already-translated tags, not the English reference")
     parser.add_argument("--no-comment", action="store_const", default=False, const=True,
@@ -121,9 +148,6 @@ if __name__ == "__main__":
     crt_num = 0
     abort = False
     for (tags, _, s) in extractor.get_mutable_tags():
-        if abort:
-            extractor.empty_save_queue()
-            break
         pyperclip.copy(s)
         print(f"Copied batch of {len(tags)} tags to clipboard. Translate it via GT/deepl and press enter once ready...")
 
@@ -132,6 +156,7 @@ if __name__ == "__main__":
         while True:
             key = input("Press enter when ready, or 'q' to stop: ")
             if key.startswith("q"):
+                extractor.abort()
                 break
 
             s = pyperclip.paste()
@@ -143,7 +168,7 @@ if __name__ == "__main__":
             else:
                 break
         if key.startswith("q"):
-            break
+            continue
 
         # merge translations into loaded XML
         for (tag, trans_text) in zip(tags, lines):
@@ -151,9 +176,5 @@ if __name__ == "__main__":
 
         crt_num += len(tags)
         print(f"{crt_num}/???? tags translated so far.")
-        if len(tags) > 0:
-            key = input("Continue with next batch? (y/n): ")
-            if not key.startswith("y"):
-                abort = True
 
     print(f"Done translating")
