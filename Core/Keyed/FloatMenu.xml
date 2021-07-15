@@ -243,7 +243,7 @@
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>Ia {1_labelShort}...</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
-  <PickUpCount>Ia {1_labelShort} x{{{0}}</PickUpCount>
+  <PickUpCount>Ia {1_labelShort} x{{0}}</PickUpCount>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
   <CannotGiveToPackAnimal>Nu se poate încărca {1_etichetă} pe un animal de povară</CannotGiveToPackAnimal>
@@ -256,7 +256,7 @@
   <!-- EN: Load {1_labelShort} onto pack animal... -->
   <GiveToPackAnimalSome>Încarcă {1_labelShort} pe animalul de povară...</GiveToPackAnimalSome>
   <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
-  <GiveToPackAnimalCount>Încarcă {1_labelShort} x{{{0}} pe un animal de povară</GiveToPackAnimalCount>
+  <GiveToPackAnimalCount>Încarcă {1_labelShort} x{{0}} pe un animal de povară</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
   <CannotLoadIntoCaravan>Nu se poate încărca {1_label} în caravană</CannotLoadIntoCaravan>
@@ -269,7 +269,7 @@
   <!-- EN: Load {1_labelShort} into caravan... -->
   <LoadIntoCaravanSome>Încarcă {1_labelShort} în rulotă...</LoadIntoCaravanSome>
   <!-- EN: Load {1_labelShort} x{{0}} -->
-  <LoadIntoCaravanCount>Încarcă {1_labelShort} x{{{0}}</LoadIntoCaravanCount>
+  <LoadIntoCaravanCount>Încarcă {1_labelShort} x{{0}}</LoadIntoCaravanCount>
   <!-- EN: overweight -->
   <OverweightLower>supraponderabilitate</OverweightLower>
 

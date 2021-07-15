@@ -4,7 +4,7 @@
   <!-- EN: Mad {ANIMAL_labelShort} -->
   <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} înnebunit</LetterLabelAnimalInsanitySingle>
   <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
-  <AnimalInsanitySingle>O {0} a înnebunit. Va ataca pe oricine vede.</AnimalInsanitySingle>
+  <AnimalInsanitySingle>O {ANIMAL_label} a înnebunit. Va ataca pe oricine vede.</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->
   <LetterLabelAnimalInsanityMultiple>{0} înnebunit</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
@@ -31,7 +31,7 @@
   <!-- EN: Transport pod crash -->
   <LetterLabelRefugeePodCrash>Accident de capsulă de transport</LetterLabelRefugeePodCrash>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
-  <RefugeePodCrash>O capsulă de salvare s-a prăbușit în apropiere.\n\nDacă cineva a supraviețuit impactului, ar putea fi foarte rănit.</RefugeePodCrash>
+  <RefugeePodCrash>{PAWN_titleIndef} numit {PAWN_nameDef} se prăbușește într-o navetă de transport din apropiere. Dacă {PAWN_pronoun} supraviețuiește impactului, {PAWN_pronoun} va fi grav rănit.</RefugeePodCrash>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
   <RefugeePodCrash_Factionless>{PAWN_nameDef} nu este afiliat cu nicio facțiune. Poți salva {PAWN_objective} și spera ca {PAWN_pronoun} să se alăture liber, sau poți captura {PAWN_objective} în scopul recrutării sau al sclaviei.</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
@@ -58,21 +58,21 @@
   <ShortCircuitWasHuge>Într-adevăr asta a fost o explozie uriașă.</ShortCircuitWasHuge>
 
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
-  <TraderArrival>O navă comercială trece prin apropiere.\n\nSunt cunoscuți ca {0}. Ei sunt p {1}.</TraderArrival>
+  <TraderArrival>O navă comercială trece prin apropiere.\n\nEi sunt cunoscuți sub numele de {0}. Ei sunt un {1}.\n\n{2}</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
   <TraderArrivalFromFaction>Sunt afiliați cu {FACTION_name}.</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
   <TraderArrivalNoFaction>Nu sunt afiliați cu nicio facțiune.</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
-  <SingleTravelerPassing>Un {0} din {1} trece prin apropiere. [PAWN_pronoun] este numit {2}.</SingleTravelerPassing>
+  <SingleTravelerPassing>Un {PAWN_title} din {1} trece pe lângă. {PAWN_pronoun} se numește {PAWN_nameFull}.</SingleTravelerPassing>
   <!-- EN: A group of travelers from {0} are passing by. -->
   <GroupTravelersPassing>Un grup de călători din {0} trec prin apropiere.</GroupTravelersPassing>
 
   <!-- EN: Visitor -->
   <LetterLabelSingleVisitorArrives>Vizitator</LetterLabelSingleVisitorArrives>
   <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
-  <SingleVisitorArrives>Un {0} din {1} vizitează colonia.\n\n[PAWN_pronoun] este numit {2}.</SingleVisitorArrives>
+  <SingleVisitorArrives>{PAWN_titleIndef} din {1} vizitează colonia.\n\n{PAWN_pronoun} se numește {PAWN_numeFull}.{3}{4}</SingleVisitorArrives>
   <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
   <SingleVisitorArrivesTraderInfo>{PAWN_pronoun} pare să aibă câteva obiecte de tranzacționat.</SingleVisitorArrivesTraderInfo>
   <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
@@ -80,7 +80,7 @@
   <!-- EN: Visitors -->
   <LetterLabelGroupVisitorsArrive>Vizitatori</LetterLabelGroupVisitorsArrive>
   <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
-  <GroupVisitorsArrive>Un grup din {0} vizitează colonia.</GroupVisitorsArrive>
+  <GroupVisitorsArrive>Un grup din {0} vizitează colonia.{1}{2}</GroupVisitorsArrive>
   <!-- EN: They seem to have a few items to trade. -->
   <GroupVisitorsArriveTraderInfo>Se pare că au câteva obiecte de vândut.</GroupVisitorsArriveTraderInfo>
   <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
@@ -95,7 +95,7 @@
   
   <!-- Crashed ship part-->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
-  <MessageAnimalInsanityPulse>Structura antică a emis un câmp psihic ce a făcut animalele să înnebunească.</MessageAnimalInsanityPulse>
+  <MessageAnimalInsanityPulse>{SOURCE_label} a emis un puls psihic care a înnebunit animalele din apropiere.</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
   <LetterShipPartDroveColonistInsane>Nava prăbușită a emis un fascicol psihic focusat ce i-a luat mințile lui {0}.</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
@@ -109,7 +109,7 @@
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>Dronele se intensifică</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>Fragmentul de navă prăbușit emite acum un câmp psihic și mai puternic. Orice umanoid din regiune se simte înfricoșat, paranoic, terifiat.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Partea de navă prăbușită emană acum un fel de dronă psihică mai puternică. Fiecare {0} om din zonă se simte acum mai tulburat, mai îngrozit și mai paranoic.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->

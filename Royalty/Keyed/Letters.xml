@@ -21,7 +21,7 @@
   <LetterRoyalTitleConceitedTrait>Pentru că {PAWN_labelShort} este {1}, {PAWN_pronoun} va cere ca privilegiile acestui titlu să fie pe deplin respectate. {PAWN_pronoun} poate refuza să facă anumite tipuri de muncă, va mânca mâncare de clasă inferioară și va emite decrete.</LetterRoyalTitleConceitedTrait>
 
   <!-- EN: {PAWN_labelShort} received the title of {TITLE} from {FACTION_name}! -->
-  <LetterGainedRoyalTitle>{PAWN_labelShort} a primit titlul de {TITLU} de la {FACTION_name}!</LetterGainedRoyalTitle>
+  <LetterGainedRoyalTitle>{PAWN_labelShort} a primit titlul de {TITLE} de la {FACTION_name}!</LetterGainedRoyalTitle>
   <!-- EN: {PAWN_labelShort} no longer holds the title of {TITLE} with {FACTION_name}. -->
   <LetterLostRoyalTitle>{PAWN_labelShort} nu mai deține titlul de {TITLE} cu {FACTION_name}.</LetterLostRoyalTitle>
   <!-- EN: Title rewards -->

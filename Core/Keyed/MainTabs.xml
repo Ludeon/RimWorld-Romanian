@@ -281,7 +281,7 @@
   <!-- EN: a free bedroom that satisfies the title requirements of -->
   <QuestBedroomRequirementsUnsatisfiedSingle>un dormitor liber care satisface cerințele titlului de</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
-  <QuestThroneRoomRequirementsUnsatisfied>o cameră tronsonică care îndeplinește cerințele din titlul {PAWN_definite} al lui {PAWN_definite}.</QuestThroneRoomRequirementsUnsatisfied>
+  <QuestThroneRoomRequirementsUnsatisfied>o cameră de tron care îndeplinește cerințele din titlul {TITLE} al lui {PAWN_definite}.</QuestThroneRoomRequirementsUnsatisfied>
   <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
   <QuestNoThroneRoom>o cameră de tron care îndeplinește cerințele titlului {TITLE} al lui {PAWN_definite} </QuestNoThroneRoom>
   <!-- EN: a colonist with the title of {0} -->

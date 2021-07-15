@@ -103,7 +103,7 @@
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} din {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>Această acțiune va face ca {PAWN_nameDef} să-și piardă titlul {TITLE}. Nu veți primi nicio compensație pentru renunțarea la titlu.\n\nAcest lucru va avea următoarele efecte:\n\n{EFFECTE}</RenounceTitleDescription>
+  <RenounceTitleDescription>Această acțiune va face ca {PAWN_nameDef} să-și piardă titlul {TITLE}. Nu veți primi nicio compensație pentru renunțarea la titlu.\n\nAcest lucru va avea următoarele efecte:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_possessive} will lose these permissions -->
   <RenounceTitleWillLoosePermits>{PAWN_possessive} va pierde aceste permisiuni</RenounceTitleWillLoosePermits>
   <!-- EN: unknown -->
@@ -597,7 +597,7 @@
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>cară {THTHING_label} la {DESTINATION}.</ReportHaulingTo>
+  <ReportHaulingTo>cară {THING_label} la {DESTINATION}.</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
   <ReportHaulingToGrave>îngroapă {THING_label} în {DESTINATION}.</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
@@ -711,7 +711,7 @@
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
-  <PawnMainDescGendered>{0} {1}</PawnMainDescGendered>
+  <PawnMainDescGendered>{1} {PAWN_gender}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
   <PawnMainDescFactionedWrap>{0} din {1}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
@@ -933,7 +933,7 @@
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>Foc pe {0}</FireOn>
+  <FireOn>Foc pe {1_label}</FireOn>
   <!-- EN: Burning -->
   <Burning>Arde</Burning>
   <!-- EN: fire size {0} -->

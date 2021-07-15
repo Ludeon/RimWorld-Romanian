@@ -42,7 +42,7 @@
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
   <CommandToggleDraftDesc>Recrutare pentru servicii militare.\n\nColoniștii recrutați iau ordine și luptă. Ei nu mănâncă, nu muncesc și nu se odihnesc.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
-  <IsIncapped>{0} este incapacitat.</IsIncapped>
+  <IsIncapped>{1_labelShort} nu poate merge.</IsIncapped>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Trage în voie</CommandFireAtWillLabel>
