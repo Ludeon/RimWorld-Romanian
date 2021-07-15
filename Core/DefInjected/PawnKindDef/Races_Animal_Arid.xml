@@ -1,26 +1,26 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: dromedary -->
-  <Dromedary.label>TODO</Dromedary.label>
+  <Dromedary.label>dromader</Dromedary.label>
   <!-- EN: dromedaries -->
-  <Dromedary.labelPlural>TODO</Dromedary.labelPlural>
+  <Dromedary.labelPlural>dromadari</Dromedary.labelPlural>
   <!-- EN: dromedary calf -->
-  <Dromedary.lifeStages.dromedary_calf.label>TODO</Dromedary.lifeStages.dromedary_calf.label>
+  <Dromedary.lifeStages.dromedary_calf.label>vițel dromader</Dromedary.lifeStages.dromedary_calf.label>
   <!-- EN: dromedary calves -->
-  <Dromedary.lifeStages.dromedary_calf.labelPlural>TODO</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>viței de dromader</Dromedary.lifeStages.dromedary_calf.labelPlural>
   
   <!-- EN: gazelle -->
-  <Gazelle.label>TODO</Gazelle.label>
+  <Gazelle.label>gazelă</Gazelle.label>
   
   <!-- EN: iguana -->
-  <Iguana.label>TODO</Iguana.label>
+  <Iguana.label>iguana</Iguana.label>
   
   <!-- EN: muffalo -->
-  <Muffalo.label>TODO</Muffalo.label>
+  <Muffalo.label>muffalo</Muffalo.label>
   <!-- EN: muffalo calf -->
-  <Muffalo.lifeStages.muffalo_calf.label>TODO</Muffalo.lifeStages.muffalo_calf.label>
+  <Muffalo.lifeStages.muffalo_calf.label>vițel muffalo</Muffalo.lifeStages.muffalo_calf.label>
   <!-- EN: muffalo calves -->
-  <Muffalo.lifeStages.muffalo_calf.labelPlural>TODO</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>viței de muffalo</Muffalo.lifeStages.muffalo_calf.labelPlural>
   
 </LanguageData>

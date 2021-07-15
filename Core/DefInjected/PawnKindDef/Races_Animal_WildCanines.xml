@@ -1,56 +1,56 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: arctic fox -->
-  <Fox_Arctic.label>TODO</Fox_Arctic.label>
+  <Fox_Arctic.label>vulpe arctică</Fox_Arctic.label>
   <!-- EN: arctic foxes -->
-  <Fox_Arctic.labelPlural>TODO</Fox_Arctic.labelPlural>
+  <Fox_Arctic.labelPlural>vulpi arctice</Fox_Arctic.labelPlural>
   <!-- EN: arctic fox puppy -->
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>TODO</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>pui de vulpe arctică</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
   <!-- EN: arctic fox puppies -->
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>TODO</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>pui de vulpe arctică</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
   
   <!-- EN: fennec fox -->
-  <Fox_Fennec.label>TODO</Fox_Fennec.label>
+  <Fox_Fennec.label>vulpe fennec</Fox_Fennec.label>
   <!-- EN: fennec foxes -->
-  <Fox_Fennec.labelPlural>TODO</Fox_Fennec.labelPlural>
+  <Fox_Fennec.labelPlural>vulpi fennec</Fox_Fennec.labelPlural>
   <!-- EN: fennec fox puppy -->
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>TODO</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>cățeluș de vulpe fennec</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
   <!-- EN: fennec fox puppies -->
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>TODO</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>cățeluși de vulpe fennec</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
   
   <!-- EN: red fox -->
-  <Fox_Red.label>TODO</Fox_Red.label>
+  <Fox_Red.label>vulpe roșie</Fox_Red.label>
   <!-- EN: red foxes -->
-  <Fox_Red.labelPlural>TODO</Fox_Red.labelPlural>
+  <Fox_Red.labelPlural>vulpi roșii</Fox_Red.labelPlural>
   <!-- EN: red fox puppy -->
-  <Fox_Red.lifeStages.red_fox_puppy.label>TODO</Fox_Red.lifeStages.red_fox_puppy.label>
+  <Fox_Red.lifeStages.red_fox_puppy.label>cățeluș de vulpe roșie</Fox_Red.lifeStages.red_fox_puppy.label>
   <!-- EN: red fox puppies -->
-  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>TODO</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>cățeluși de vulpe roșie</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
   
   <!-- EN: warg -->
-  <Warg.label>TODO</Warg.label>
+  <Warg.label>warg</Warg.label>
   <!-- EN: warg puppy -->
-  <Warg.lifeStages.warg_puppy.label>TODO</Warg.lifeStages.warg_puppy.label>
+  <Warg.lifeStages.warg_puppy.label>cățeluș warg</Warg.lifeStages.warg_puppy.label>
   <!-- EN: warg puppies -->
-  <Warg.lifeStages.warg_puppy.labelPlural>TODO</Warg.lifeStages.warg_puppy.labelPlural>
+  <Warg.lifeStages.warg_puppy.labelPlural>cățeluși warg</Warg.lifeStages.warg_puppy.labelPlural>
   
   <!-- EN: arctic wolf -->
-  <Wolf_Arctic.label>TODO</Wolf_Arctic.label>
+  <Wolf_Arctic.label>lup arctic</Wolf_Arctic.label>
   <!-- EN: arctic wolves -->
-  <Wolf_Arctic.labelPlural>TODO</Wolf_Arctic.labelPlural>
+  <Wolf_Arctic.labelPlural>lupi arctici</Wolf_Arctic.labelPlural>
   <!-- EN: arctic wolf puppy -->
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>TODO</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>cățeluș de lup arctic</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
   <!-- EN: arctic wolf puppies -->
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>TODO</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>cățeluși de lup arctic</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
   
   <!-- EN: timber wolf -->
-  <Wolf_Timber.label>TODO</Wolf_Timber.label>
+  <Wolf_Timber.label>lup forestier</Wolf_Timber.label>
   <!-- EN: timber wolves -->
-  <Wolf_Timber.labelPlural>TODO</Wolf_Timber.labelPlural>
+  <Wolf_Timber.labelPlural>lupi forestieri</Wolf_Timber.labelPlural>
   <!-- EN: timber wolf puppy -->
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>TODO</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>cățeluș de lup forestier</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
   <!-- EN: timber wolf puppies -->
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>TODO</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>cățeluși de lup forestier</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
   
 </LanguageData>

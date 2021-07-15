@@ -1,154 +1,154 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: accept -->
-  <Accept.label>TODO</Accept.label>
+  <Accept.label>acceptă</Accept.label>
   
   <!-- EN: cancel -->
-  <Cancel.label>TODO</Cancel.label>
+  <Cancel.label>anulează</Cancel.label>
   
   <!-- EN: draft -->
-  <Command_ColonistDraft.label>TODO</Command_ColonistDraft.label>
+  <Command_ColonistDraft.label>recrutează</Command_ColonistDraft.label>
   
   <!-- EN: toggle forbidden -->
-  <Command_ItemForbid.label>TODO</Command_ItemForbid.label>
+  <Command_ItemForbid.label>comută interzis</Command_ItemForbid.label>
   
   <!-- EN: toggle power -->
-  <Command_TogglePower.label>TODO</Command_TogglePower.label>
+  <Command_TogglePower.label>comută putere</Command_TogglePower.label>
   
   <!-- EN: cancel -->
-  <Designator_Cancel.label>TODO</Designator_Cancel.label>
+  <Designator_Cancel.label>anulează</Designator_Cancel.label>
   
   <!-- EN: deconstruct -->
-  <Designator_Deconstruct.label>TODO</Designator_Deconstruct.label>
+  <Designator_Deconstruct.label>deconstruiește</Designator_Deconstruct.label>
   
   <!-- EN: rotate left -->
-  <Designator_RotateLeft.label>TODO</Designator_RotateLeft.label>
+  <Designator_RotateLeft.label>rotește la stânga</Designator_RotateLeft.label>
   
   <!-- EN: rotate right -->
-  <Designator_RotateRight.label>TODO</Designator_RotateRight.label>
+  <Designator_RotateRight.label>rotește la dreapta</Designator_RotateRight.label>
   
   <!-- EN: change selected debug action -->
-  <Dev_ChangeSelectedDebugAction.label>TODO</Dev_ChangeSelectedDebugAction.label>
+  <Dev_ChangeSelectedDebugAction.label>modifică acțiunea de depanare selectată</Dev_ChangeSelectedDebugAction.label>
   
   <!-- EN: tick once -->
-  <Dev_TickOnce.label>TODO</Dev_TickOnce.label>
+  <Dev_TickOnce.label>bifează o dată</Dev_TickOnce.label>
   
   <!-- EN: toggle debug actions menu -->
-  <Dev_ToggleDebugActionsMenu.label>TODO</Dev_ToggleDebugActionsMenu.label>
+  <Dev_ToggleDebugActionsMenu.label>comută meniul acțiunilor de depanare</Dev_ToggleDebugActionsMenu.label>
   
   <!-- EN: toggle debug inspector -->
-  <Dev_ToggleDebugInspector.label>TODO</Dev_ToggleDebugInspector.label>
+  <Dev_ToggleDebugInspector.label>comută inspectorul de depanare</Dev_ToggleDebugInspector.label>
   
   <!-- EN: toggle debug log -->
-  <Dev_ToggleDebugLog.label>TODO</Dev_ToggleDebugLog.label>
+  <Dev_ToggleDebugLog.label>comută jurnalul de depanare</Dev_ToggleDebugLog.label>
   
   <!-- EN: toggle debug log menu -->
-  <Dev_ToggleDebugLogMenu.label>TODO</Dev_ToggleDebugLogMenu.label>
+  <Dev_ToggleDebugLogMenu.label>comută meniul jurnalului de depanare</Dev_ToggleDebugLogMenu.label>
   
   <!-- EN: toggle debug settings menu -->
-  <Dev_ToggleDebugSettingsMenu.label>TODO</Dev_ToggleDebugSettingsMenu.label>
+  <Dev_ToggleDebugSettingsMenu.label>comută meniul setărilor de depanare</Dev_ToggleDebugSettingsMenu.label>
   
   <!-- EN: toggle god mode -->
-  <Dev_ToggleGodMode.label>TODO</Dev_ToggleGodMode.label>
+  <Dev_ToggleGodMode.label>comută modul Dumnezeu</Dev_ToggleGodMode.label>
   
   <!-- EN: dolly down -->
-  <MapDolly_Down.label>TODO</MapDolly_Down.label>
+  <MapDolly_Down.label>coboară</MapDolly_Down.label>
   
   <!-- EN: dolly left -->
-  <MapDolly_Left.label>TODO</MapDolly_Left.label>
+  <MapDolly_Left.label>stânga</MapDolly_Left.label>
   
   <!-- EN: dolly right -->
-  <MapDolly_Right.label>TODO</MapDolly_Right.label>
+  <MapDolly_Right.label>dreapta</MapDolly_Right.label>
   
   <!-- EN: dolly up -->
-  <MapDolly_Up.label>TODO</MapDolly_Up.label>
+  <MapDolly_Up.label>urcă</MapDolly_Up.label>
   
   <!-- EN: zoom in -->
-  <MapZoom_In.label>TODO</MapZoom_In.label>
+  <MapZoom_In.label>mărește</MapZoom_In.label>
   
   <!-- EN: zoom out -->
-  <MapZoom_Out.label>TODO</MapZoom_Out.label>
+  <MapZoom_Out.label>micșorează</MapZoom_Out.label>
   
   <!-- EN: Misc 1 -->
-  <Misc1.label>TODO</Misc1.label>
+  <Misc1.label>Diverse 1</Misc1.label>
   
   <!-- EN: Misc 10 -->
-  <Misc10.label>TODO</Misc10.label>
+  <Misc10.label>Diverse 10</Misc10.label>
   
   <!-- EN: Misc 11 -->
-  <Misc11.label>TODO</Misc11.label>
+  <Misc11.label>Diverse 11</Misc11.label>
   
   <!-- EN: Misc 12 -->
-  <Misc12.label>TODO</Misc12.label>
+  <Misc12.label>Diverse 12</Misc12.label>
   
   <!-- EN: Misc 2 -->
-  <Misc2.label>TODO</Misc2.label>
+  <Misc2.label>Diverse 2</Misc2.label>
   
   <!-- EN: Misc 3 -->
-  <Misc3.label>TODO</Misc3.label>
+  <Misc3.label>Diverse 3</Misc3.label>
   
   <!-- EN: Misc 4 -->
-  <Misc4.label>TODO</Misc4.label>
+  <Misc4.label>Diverse 4</Misc4.label>
   
   <!-- EN: Misc 5 -->
-  <Misc5.label>TODO</Misc5.label>
+  <Misc5.label>Diverse 5</Misc5.label>
   
   <!-- EN: Misc 6 -->
-  <Misc6.label>TODO</Misc6.label>
+  <Misc6.label>Diverse 6</Misc6.label>
   
   <!-- EN: Misc 7 -->
-  <Misc7.label>TODO</Misc7.label>
+  <Misc7.label>Diverse 7</Misc7.label>
   
   <!-- EN: Misc 8 -->
-  <Misc8.label>TODO</Misc8.label>
+  <Misc8.label>Diverse 8</Misc8.label>
   
   <!-- EN: Misc 9 -->
-  <Misc9.label>TODO</Misc9.label>
+  <Misc9.label>Diverse 9</Misc9.label>
   
   <!-- EN: increment 100x -->
-  <ModifierIncrement_100x.label>TODO</ModifierIncrement_100x.label>
+  <ModifierIncrement_100x.label>increment 100x</ModifierIncrement_100x.label>
   
   <!-- EN: increment 10x -->
-  <ModifierIncrement_10x.label>TODO</ModifierIncrement_10x.label>
+  <ModifierIncrement_10x.label>increment 10x</ModifierIncrement_10x.label>
   
   <!-- EN: next colonist -->
-  <NextColonist.label>TODO</NextColonist.label>
+  <NextColonist.label>următorul colonist</NextColonist.label>
   
   <!-- EN: previous colonist -->
-  <PreviousColonist.label>TODO</PreviousColonist.label>
+  <PreviousColonist.label>colonistul anterior</PreviousColonist.label>
   
   <!-- EN: queue order -->
-  <QueueOrder.label>TODO</QueueOrder.label>
+  <QueueOrder.label>ordine în coadă</QueueOrder.label>
   
   <!-- EN: select next in cell -->
-  <SelectNextInCell.label>TODO</SelectNextInCell.label>
+  <SelectNextInCell.label>selectează următorul în celulă</SelectNextInCell.label>
   
   <!-- EN: take screenshot -->
-  <TakeScreenshot.label>TODO</TakeScreenshot.label>
+  <TakeScreenshot.label>faceți o captură de ecran</TakeScreenshot.label>
   
   <!-- EN: game speed: Fast -->
-  <TimeSpeed_Fast.label>TODO</TimeSpeed_Fast.label>
+  <TimeSpeed_Fast.label>viteza jocului: Rapid</TimeSpeed_Fast.label>
   
   <!-- EN: game speed: Normal -->
-  <TimeSpeed_Normal.label>TODO</TimeSpeed_Normal.label>
+  <TimeSpeed_Normal.label>viteza jocului: Normal</TimeSpeed_Normal.label>
   
   <!-- EN: game speed: Super fast -->
-  <TimeSpeed_Superfast.label>TODO</TimeSpeed_Superfast.label>
+  <TimeSpeed_Superfast.label>viteza jocului: Super rapid</TimeSpeed_Superfast.label>
   
   <!-- EN: game speed: Ultra fast (debug) -->
-  <TimeSpeed_Ultrafast.label>TODO</TimeSpeed_Ultrafast.label>
+  <TimeSpeed_Ultrafast.label>viteza jocului: Ultra rapid (depanare)</TimeSpeed_Ultrafast.label>
   
   <!-- EN: toggle beauty display -->
-  <ToggleBeautyDisplay.label>TODO</ToggleBeautyDisplay.label>
+  <ToggleBeautyDisplay.label>comutare afișaj frumusețe</ToggleBeautyDisplay.label>
   
   <!-- EN: pause/resume game -->
-  <TogglePause.label>TODO</TogglePause.label>
+  <TogglePause.label>pauză/continuă jocul</TogglePause.label>
   
   <!-- EN: toggle room stats display -->
-  <ToggleRoomStatsDisplay.label>TODO</ToggleRoomStatsDisplay.label>
+  <ToggleRoomStatsDisplay.label>comută afișarea statisticilor de cameră</ToggleRoomStatsDisplay.label>
   
   <!-- EN: toggle screenshot mode -->
-  <ToggleScreenshotMode.label>TODO</ToggleScreenshotMode.label>
+  <ToggleScreenshotMode.label>comută modul de captură de ecran</ToggleScreenshotMode.label>
   
 </LanguageData>

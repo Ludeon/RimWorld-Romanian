@@ -1,25 +1,25 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: alphabeaver -->
-  <Alphabeaver.label>TODO</Alphabeaver.label>
+  <Alphabeaver.label>alphabeaver</Alphabeaver.label>
   
   <!-- EN: boomrat -->
-  <Boomrat.label>TODO</Boomrat.label>
+  <Boomrat.label>boomrat</Boomrat.label>
   
   <!-- EN: capybara -->
-  <Capybara.label>TODO</Capybara.label>
+  <Capybara.label>capybara</Capybara.label>
   
   <!-- EN: chinchilla -->
-  <Chinchilla.label>TODO</Chinchilla.label>
+  <Chinchilla.label>chinchilla</Chinchilla.label>
   
   <!-- EN: raccoon -->
-  <Raccoon.label>TODO</Raccoon.label>
+  <Raccoon.label>raton</Raccoon.label>
   
   <!-- EN: rat -->
-  <Rat.label>TODO</Rat.label>
+  <Rat.label>șobolan</Rat.label>
   
   <!-- EN: squirrel -->
-  <Squirrel.label>TODO</Squirrel.label>
+  <Squirrel.label>veveriță</Squirrel.label>
   
 </LanguageData>

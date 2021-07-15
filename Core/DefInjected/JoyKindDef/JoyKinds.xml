@@ -1,28 +1,28 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: chemical consumption -->
-  <Chemical.label>TODO</Chemical.label>
+  <Chemical.label>consumă substanțe chimice</Chemical.label>
   
   <!-- EN: cerebral play -->
-  <Gaming_Cerebral.label>TODO</Gaming_Cerebral.label>
+  <Gaming_Cerebral.label>joc cerebral</Gaming_Cerebral.label>
   
   <!-- EN: dexterity play -->
-  <Gaming_Dexterity.label>TODO</Gaming_Dexterity.label>
+  <Gaming_Dexterity.label>joc de dexteritate</Gaming_Dexterity.label>
   
   <!-- EN: food consumption -->
-  <Gluttonous.label>TODO</Gluttonous.label>
+  <Gluttonous.label>consumă alimente</Gluttonous.label>
   
   <!-- EN: solitary relaxation -->
-  <Meditative.label>TODO</Meditative.label>
+  <Meditative.label>se relaxează solitar</Meditative.label>
   
   <!-- EN: social interaction -->
-  <Social.label>TODO</Social.label>
+  <Social.label>interacționează social</Social.label>
   
   <!-- EN: telescope study -->
-  <Telescope.label>TODO</Telescope.label>
+  <Telescope.label>studiu telescopic</Telescope.label>
   
   <!-- EN: television watching -->
-  <Television.label>TODO</Television.label>
+  <Television.label>se uită la televizor</Television.label>
   
 </LanguageData>

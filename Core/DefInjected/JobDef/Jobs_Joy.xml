@@ -1,55 +1,55 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: building snowman. -->
-  <BuildSnowman.reportString>TODO</BuildSnowman.reportString>
+  <BuildSnowman.reportString>construiește un om de zăpadă.</BuildSnowman.reportString>
   
   <!-- EN: going for a walk. -->
-  <GoForWalk.reportString>TODO</GoForWalk.reportString>
+  <GoForWalk.reportString>merge la plimbare.</GoForWalk.reportString>
   
   <!-- EN: meditating. -->
-  <Meditate.reportString>TODO</Meditate.reportString>
+  <Meditate.reportString>meditează.</Meditate.reportString>
   
   <!-- EN: playing billiards. -->
-  <Play_Billiards.reportString>TODO</Play_Billiards.reportString>
+  <Play_Billiards.reportString>joacă biliard.</Play_Billiards.reportString>
   
   <!-- EN: playing chess. -->
-  <Play_Chess.reportString>TODO</Play_Chess.reportString>
+  <Play_Chess.reportString>joacă șah.</Play_Chess.reportString>
   
   <!-- EN: playing the game of Ur. -->
-  <Play_GameOfUr.reportString>TODO</Play_GameOfUr.reportString>
+  <Play_GameOfUr.reportString>joacă jocul de Ur.</Play_GameOfUr.reportString>
   
   <!-- EN: playing hoopstone. -->
-  <Play_Hoopstone.reportString>TODO</Play_Hoopstone.reportString>
+  <Play_Hoopstone.reportString>joacă hoopstone.</Play_Hoopstone.reportString>
   
   <!-- EN: playing horseshoes. -->
-  <Play_Horseshoes.reportString>TODO</Play_Horseshoes.reportString>
+  <Play_Horseshoes.reportString>se joacă cu potcoavele.</Play_Horseshoes.reportString>
   
   <!-- EN: playing poker. -->
-  <Play_Poker.reportString>TODO</Play_Poker.reportString>
+  <Play_Poker.reportString>joacă poker.</Play_Poker.reportString>
   
   <!-- EN: praying. -->
-  <Pray.reportString>TODO</Pray.reportString>
+  <Pray.reportString>se roagă.</Pray.reportString>
   
   <!-- EN: skygazing. -->
-  <Skygaze.reportString>TODO</Skygaze.reportString>
+  <Skygaze.reportString>privește cerul.</Skygaze.reportString>
   
   <!-- EN: relaxing socially. -->
-  <SocialRelax.reportString>TODO</SocialRelax.reportString>
+  <SocialRelax.reportString>se relaxează social.</SocialRelax.reportString>
   
   <!-- EN: using telescope. -->
-  <UseTelescope.reportString>TODO</UseTelescope.reportString>
+  <UseTelescope.reportString>folosește telescopul.</UseTelescope.reportString>
   
   <!-- EN: viewing art. -->
-  <ViewArt.reportString>TODO</ViewArt.reportString>
+  <ViewArt.reportString>privește arta.</ViewArt.reportString>
   
   <!-- EN: visiting grave. -->
-  <VisitGrave.reportString>TODO</VisitGrave.reportString>
+  <VisitGrave.reportString>vizitează mormântul.</VisitGrave.reportString>
   
   <!-- EN: cheering up patient TargetA. -->
-  <VisitSickPawn.reportString>TODO</VisitSickPawn.reportString>
+  <VisitSickPawn.reportString>înveselește pacientul TargetA.</VisitSickPawn.reportString>
   
   <!-- EN: watching television. -->
-  <WatchTelevision.reportString>TODO</WatchTelevision.reportString>
+  <WatchTelevision.reportString>se uită la televizor.</WatchTelevision.reportString>
   
 </LanguageData>

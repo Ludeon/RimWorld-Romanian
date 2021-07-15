@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: cassowary -->
-  <Cassowary.label>TODO</Cassowary.label>
+  <Cassowary.label>cassowary</Cassowary.label>
   <!-- EN: cassowaries -->
-  <Cassowary.labelPlural>TODO</Cassowary.labelPlural>
+  <Cassowary.labelPlural>cassowaries</Cassowary.labelPlural>
   
   <!-- EN: emu -->
-  <Emu.label>TODO</Emu.label>
+  <Emu.label>emu</Emu.label>
   
   <!-- EN: ostrich -->
-  <Ostrich.label>TODO</Ostrich.label>
+  <Ostrich.label>struț</Ostrich.label>
   <!-- EN: ostriches -->
-  <Ostrich.labelPlural>TODO</Ostrich.labelPlural>
+  <Ostrich.labelPlural>struți</Ostrich.labelPlural>
   
   <!-- EN: turkey -->
-  <Turkey.label>TODO</Turkey.label>
+  <Turkey.label>curcan</Turkey.label>
   
 </LanguageData>
