@@ -1,60 +1,60 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: cook fine meal -->
-  <CookMealFine.label>TODO</CookMealFine.label>
+  <CookMealFine.label>gătește mâncare fină</CookMealFine.label>
   <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
-  <CookMealFine.description>TODO</CookMealFine.description>
+  <CookMealFine.description>Gătește o mâncare oarecum complexă dintr-o combinație de ingrediente din carne și plante.</CookMealFine.description>
   <!-- EN: Cooking fine meal. -->
-  <CookMealFine.jobString>TODO</CookMealFine.jobString>
+  <CookMealFine.jobString>Gătește mâncare fină.</CookMealFine.jobString>
   
   <!-- EN: cook fine meal x4 -->
-  <CookMealFineBulk.label>TODO</CookMealFineBulk.label>
+  <CookMealFineBulk.label>gătește mâncare fină x4</CookMealFineBulk.label>
   <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
-  <CookMealFineBulk.description>TODO</CookMealFineBulk.description>
+  <CookMealFineBulk.description>Gătește 4 mese oarecum complexe dintr-o combinație de ingrediente din carne și plante.</CookMealFineBulk.description>
   <!-- EN: Cooking 4 fine meals. -->
-  <CookMealFineBulk.jobString>TODO</CookMealFineBulk.jobString>
+  <CookMealFineBulk.jobString>Gătește 4 mese fine.</CookMealFineBulk.jobString>
   
   <!-- EN: cook lavish meal -->
-  <CookMealLavish.label>TODO</CookMealLavish.label>
+  <CookMealLavish.label>Gătește o masă somptuoasă</CookMealLavish.label>
   <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavish.description>TODO</CookMealLavish.description>
+  <CookMealLavish.description>Gătește o masă foarte complexă dintr-o combinație de ingrediente din carne și plante. O mare parte din ingrediente sunt irosite.</CookMealLavish.description>
   <!-- EN: Cooking lavish meal. -->
-  <CookMealLavish.jobString>TODO</CookMealLavish.jobString>
+  <CookMealLavish.jobString>Gătește o masă somptuoasă.</CookMealLavish.jobString>
   
   <!-- EN: cook lavish meal x4 -->
-  <CookMealLavishBulk.label>TODO</CookMealLavishBulk.label>
+  <CookMealLavishBulk.label>Gătește o masă somptuoasă x4</CookMealLavishBulk.label>
   <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavishBulk.description>TODO</CookMealLavishBulk.description>
+  <CookMealLavishBulk.description>Gătește 4 mese foarte complexe dintr-o combinație de ingrediente din carne și plante. O mare parte din ingrediente sunt irosite.</CookMealLavishBulk.description>
   <!-- EN: Cooking 4 lavish meals. -->
-  <CookMealLavishBulk.jobString>TODO</CookMealLavishBulk.jobString>
+  <CookMealLavishBulk.jobString>Gătește 4 mese somptuoase.</CookMealLavishBulk.jobString>
   
   <!-- EN: cook simple meal -->
-  <CookMealSimple.label>TODO</CookMealSimple.label>
+  <CookMealSimple.label>Gătește o masă simplă</CookMealSimple.label>
   <!-- EN: Cook a straightforward meal from one ingredient. -->
-  <CookMealSimple.description>TODO</CookMealSimple.description>
+  <CookMealSimple.description>Gătește o masă simplă dintr-un singur ingredient.</CookMealSimple.description>
   <!-- EN: Cooking simple meal. -->
-  <CookMealSimple.jobString>TODO</CookMealSimple.jobString>
+  <CookMealSimple.jobString>Gătește o masă simplă.</CookMealSimple.jobString>
   
   <!-- EN: cook simple meal x4 -->
-  <CookMealSimpleBulk.label>TODO</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.label>Gătește o masă simplă x4</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
-  <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.description>Gătește 4 mese simple dintr-un singur ingredient.</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
-  <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.jobString>Gătește 4 mese simple.</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
-  <CookMealSurvival.label>TODO</CookMealSurvival.label>
+  <CookMealSurvival.label>Gătește o masă de supraviețuire la pachet</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvival.description>TODO</CookMealSurvival.description>
+  <CookMealSurvival.description>Pregătiți o masă de supraviețuire ambalată dintr-o combinație de ingrediente din carne și plante. O mare parte din ingrediente se irosesc în procesul de conservare.</CookMealSurvival.description>
   <!-- EN: Cooking survival meal. -->
-  <CookMealSurvival.jobString>TODO</CookMealSurvival.jobString>
+  <CookMealSurvival.jobString>Gătește masa de supraviețuire.</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
-  <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.label>Gătește mâncare de supraviețuire ambalată x4</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.description>Pregătește 4 mese de supraviețuire ambalate dintr-o combinație de ingrediente din carne și plante. O mare parte din ingrediente se irosesc în procesul de conservare.</CookMealSurvivalBulk.description>
   <!-- EN: Cooking 4 survival meals. -->
-  <CookMealSurvivalBulk.jobString>TODO</CookMealSurvivalBulk.jobString>
+  <CookMealSurvivalBulk.jobString>Gătește 4 mese de supraviețuire.</CookMealSurvivalBulk.jobString>
   
 </LanguageData>

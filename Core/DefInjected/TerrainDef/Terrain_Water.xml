@@ -1,41 +1,41 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: marsh -->
-  <Marsh.label>TODO</Marsh.label>
+  <Marsh.label>mlaștină</Marsh.label>
   <!-- EN: water -->
-  <Marsh.tools.water.label>TODO</Marsh.tools.water.label>
+  <Marsh.tools.water.label>apă</Marsh.tools.water.label>
   <!-- EN: mud -->
-  <Marsh.tools.mud.label>TODO</Marsh.tools.mud.label>
+  <Marsh.tools.mud.label>noroi</Marsh.tools.mud.label>
   
   <!-- EN: deep water -->
-  <WaterDeep.label>TODO</WaterDeep.label>
+  <WaterDeep.label>apă adâncă</WaterDeep.label>
   <!-- EN: water -->
-  <WaterDeep.tools.water.label>TODO</WaterDeep.tools.water.label>
+  <WaterDeep.tools.water.label>apă</WaterDeep.tools.water.label>
   
   <!-- EN: chest-deep moving water -->
-  <WaterMovingChestDeep.label>TODO</WaterMovingChestDeep.label>
+  <WaterMovingChestDeep.label>apă în mișcare până la piept</WaterMovingChestDeep.label>
   <!-- EN: water -->
-  <WaterMovingChestDeep.tools.water.label>TODO</WaterMovingChestDeep.tools.water.label>
+  <WaterMovingChestDeep.tools.water.label>apă</WaterMovingChestDeep.tools.water.label>
   
   <!-- EN: shallow moving water -->
-  <WaterMovingShallow.label>TODO</WaterMovingShallow.label>
+  <WaterMovingShallow.label>apă în mișcare la mică adâncime</WaterMovingShallow.label>
   <!-- EN: water -->
-  <WaterMovingShallow.tools.water.label>TODO</WaterMovingShallow.tools.water.label>
+  <WaterMovingShallow.tools.water.label>apă</WaterMovingShallow.tools.water.label>
   
   <!-- EN: deep ocean water -->
-  <WaterOceanDeep.label>TODO</WaterOceanDeep.label>
+  <WaterOceanDeep.label>apă oceanică adâncă</WaterOceanDeep.label>
   <!-- EN: water -->
-  <WaterOceanDeep.tools.water.label>TODO</WaterOceanDeep.tools.water.label>
+  <WaterOceanDeep.tools.water.label>apă</WaterOceanDeep.tools.water.label>
   
   <!-- EN: shallow ocean water -->
-  <WaterOceanShallow.label>TODO</WaterOceanShallow.label>
+  <WaterOceanShallow.label>apă oceanică de mică adâncime</WaterOceanShallow.label>
   <!-- EN: water -->
-  <WaterOceanShallow.tools.water.label>TODO</WaterOceanShallow.tools.water.label>
+  <WaterOceanShallow.tools.water.label>apă</WaterOceanShallow.tools.water.label>
   
   <!-- EN: shallow water -->
-  <WaterShallow.label>TODO</WaterShallow.label>
+  <WaterShallow.label>apă de mică adâncime</WaterShallow.label>
   <!-- EN: water -->
-  <WaterShallow.tools.water.label>TODO</WaterShallow.tools.water.label>
+  <WaterShallow.tools.water.label>apă</WaterShallow.tools.water.label>
   
 </LanguageData>

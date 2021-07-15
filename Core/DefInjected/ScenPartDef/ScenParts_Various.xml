@@ -1,78 +1,78 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: create incident -->
-  <CreateIncident.label>TODO</CreateIncident.label>
+  <CreateIncident.label>creează un incident</CreateIncident.label>
   
   <!-- EN: disable incident -->
-  <DisableIncident.label>TODO</DisableIncident.label>
+  <DisableIncident.label>dezactivează incidentul</DisableIncident.label>
   
   <!-- EN: forced health condition -->
-  <ForcedHediff.label>TODO</ForcedHediff.label>
+  <ForcedHediff.label>stare de sănătate forțată</ForcedHediff.label>
   
   <!-- EN: forced trait -->
-  <ForcedTrait.label>TODO</ForcedTrait.label>
+  <ForcedTrait.label>trăsătură forțată</ForcedTrait.label>
   
   <!-- EN: planetkiller weapon incoming -->
-  <GameCondition_Planetkiller.label>TODO</GameCondition_Planetkiller.label>
+  <GameCondition_Planetkiller.label>se apropie arma de ucigaș al planetei</GameCondition_Planetkiller.label>
   
   <!-- EN: game start dialog -->
-  <GameStartDialog.label>TODO</GameStartDialog.label>
+  <GameStartDialog.label>dialog de început de joc</GameStartDialog.label>
   
   <!-- EN: naked -->
-  <Naked.label>TODO</Naked.label>
+  <Naked.label>gol</Naked.label>
   
   <!-- EN: characters explode on death -->
-  <OnPawnDeathExplode.label>TODO</OnPawnDeathExplode.label>
+  <OnPawnDeathExplode.label>personajele explodează la moarte</OnPawnDeathExplode.label>
   
   <!-- EN: allowed age range -->
-  <PawnFilter_Age.label>TODO</PawnFilter_Age.label>
+  <PawnFilter_Age.label>intervalul de vârstă permis</PawnFilter_Age.label>
   
   <!-- EN: permanent game condition -->
-  <PermanentGameCondition.label>TODO</PermanentGameCondition.label>
+  <PermanentGameCondition.label>condiție permanentă de joc</PermanentGameCondition.label>
   
   <!-- EN: disallow building -->
-  <Rule_DisallowBuilding.label>TODO</Rule_DisallowBuilding.label>
+  <Rule_DisallowBuilding.label>nu permite construirea de clădiri</Rule_DisallowBuilding.label>
   
   <!-- EN: cannot hunt -->
-  <Rule_DisallowDesignator_Hunt.label>TODO</Rule_DisallowDesignator_Hunt.label>
+  <Rule_DisallowDesignator_Hunt.label>nu se poate vâna</Rule_DisallowDesignator_Hunt.label>
   <!-- EN: Cannot hunt. -->
-  <Rule_DisallowDesignator_Hunt.description>TODO</Rule_DisallowDesignator_Hunt.description>
+  <Rule_DisallowDesignator_Hunt.description>Nu se poate vâna.</Rule_DisallowDesignator_Hunt.description>
   
   <!-- EN: cannot mine -->
-  <Rule_DisallowDesignator_Mine.label>TODO</Rule_DisallowDesignator_Mine.label>
+  <Rule_DisallowDesignator_Mine.label>nu poate mina</Rule_DisallowDesignator_Mine.label>
   <!-- EN: Cannot mine. -->
-  <Rule_DisallowDesignator_Mine.description>TODO</Rule_DisallowDesignator_Mine.description>
+  <Rule_DisallowDesignator_Mine.description>Nu se poate mina.</Rule_DisallowDesignator_Mine.description>
   
   <!-- EN: cannot tame -->
-  <Rule_DisallowDesignator_Tame.label>TODO</Rule_DisallowDesignator_Tame.label>
+  <Rule_DisallowDesignator_Tame.label>nu poate îmblânzi</Rule_DisallowDesignator_Tame.label>
   <!-- EN: Cannot tame animals. -->
-  <Rule_DisallowDesignator_Tame.description>TODO</Rule_DisallowDesignator_Tame.description>
+  <Rule_DisallowDesignator_Tame.description>Nu pot îmblânzi animalele.</Rule_DisallowDesignator_Tame.description>
   
   <!-- EN: cannot sow -->
-  <Rule_DisallowDesignator_ZoneAdd_Growing.label>TODO</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>nu poate semăna</Rule_DisallowDesignator_ZoneAdd_Growing.label>
   <!-- EN: Cannot sow plants on the ground. -->
-  <Rule_DisallowDesignator_ZoneAdd_Growing.description>TODO</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>Nu poate semăna plante pe pământ.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
   
   <!-- EN: scattered randomly -->
-  <ScatterThingsAnywhere.label>TODO</ScatterThingsAnywhere.label>
+  <ScatterThingsAnywhere.label>împrăștiat la întâmplare</ScatterThingsAnywhere.label>
   
   <!-- EN: start near -->
-  <ScatterThingsNearPlayerStart.label>TODO</ScatterThingsNearPlayerStart.label>
+  <ScatterThingsNearPlayerStart.label>începe aproape</ScatterThingsNearPlayerStart.label>
   
   <!-- EN: set need level -->
-  <SetNeedLevel.label>TODO</SetNeedLevel.label>
+  <SetNeedLevel.label>stabilește nivelul de nevoie</SetNeedLevel.label>
   
   <!-- EN: start with animal(s) -->
-  <StartingAnimal.label>TODO</StartingAnimal.label>
+  <StartingAnimal.label>începe cu animal(e)</StartingAnimal.label>
   
   <!-- EN: start with research -->
-  <StartingResearch.label>TODO</StartingResearch.label>
+  <StartingResearch.label>începe cu cercetarea</StartingResearch.label>
   
   <!-- EN: start with -->
-  <StartingThing_Defined.label>TODO</StartingThing_Defined.label>
+  <StartingThing_Defined.label>începe cu</StartingThing_Defined.label>
   
   <!-- EN: stat multiplier -->
-  <StatFactor.label>TODO</StatFactor.label>
+  <StatFactor.label>multiplicator de stat</StatFactor.label>
   
 </LanguageData>

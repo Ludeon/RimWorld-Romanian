@@ -1,81 +1,81 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: destroy apparel -->
-  <DestroyApparel.label>TODO</DestroyApparel.label>
+  <DestroyApparel.label>distruge îmbrăcăminte</DestroyApparel.label>
   <!-- EN: Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyApparel.description>TODO</DestroyApparel.description>
+  <DestroyApparel.description>Folosește căldura pentru a distruge îmbrăcămintea nedorită. Acest procedeu este mai rapid decât topirea și funcționează pe obiectele care nu se topesc, dar nu produce resurse.</DestroyApparel.description>
   <!-- EN: Destroying apparel. -->
-  <DestroyApparel.jobString>TODO</DestroyApparel.jobString>
+  <DestroyApparel.jobString>Distruge îmbrăcăminte.</DestroyApparel.jobString>
   
   <!-- EN: destroy weapon -->
-  <DestroyWeapon.label>TODO</DestroyWeapon.label>
+  <DestroyWeapon.label>Distruge arma</DestroyWeapon.label>
   <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
-  <DestroyWeapon.description>TODO</DestroyWeapon.description>
+  <DestroyWeapon.description>Utilizați căldura pentru a distruge armele nedorite. Acest proces este mai rapid decât topirea și funcționează pe obiectele care nu pot fi topite, dar nu produce resurse.</DestroyWeapon.description>
   <!-- EN: Destroying weapon. -->
-  <DestroyWeapon.jobString>TODO</DestroyWeapon.jobString>
+  <DestroyWeapon.jobString>Distruge arma.</DestroyWeapon.jobString>
   
   <!-- EN: smelt metal from slag -->
-  <ExtractMetalFromSlag.label>TODO</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.label>Topește metalul din zgură</ExtractMetalFromSlag.label>
   <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
-  <ExtractMetalFromSlag.description>TODO</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.description>Folosește căldura și electromagnetul puternic pentru a extrage metalul util din bucățile de zgură.</ExtractMetalFromSlag.description>
   <!-- EN: Smelting metal from slag. -->
-  <ExtractMetalFromSlag.jobString>TODO</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.jobString>Topește metalul din zgură.</ExtractMetalFromSlag.jobString>
   
   <!-- EN: make chemfuel from organics -->
-  <Make_ChemfuelFromOrganics.label>TODO</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.label>produce carburant chimic din substanțe organice</Make_ChemfuelFromOrganics.label>
   <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
-  <Make_ChemfuelFromOrganics.description>TODO</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.description>Produce un lot de combustibil chimic prin extragerea biocombustibilului din materii prime organice.</Make_ChemfuelFromOrganics.description>
   <!-- EN: Refining chemfuel from organics. -->
-  <Make_ChemfuelFromOrganics.jobString>TODO</Make_ChemfuelFromOrganics.jobString>
+  <Make_ChemfuelFromOrganics.jobString>Rafinarea combustibilului chimic din substanțe organice.</Make_ChemfuelFromOrganics.jobString>
   
   <!-- EN: make chemfuel from wood -->
-  <Make_ChemfuelFromWood.label>TODO</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.label>fabricarea de combustibil chimic din lemn</Make_ChemfuelFromWood.label>
   <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
-  <Make_ChemfuelFromWood.description>TODO</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.description>Realizează un lot de combustibil chimic prin extragerea și condensarea gazului de lemn din bușteni.</Make_ChemfuelFromWood.description>
   <!-- EN: Refining chemfuel from wood. -->
-  <Make_ChemfuelFromWood.jobString>TODO</Make_ChemfuelFromWood.jobString>
+  <Make_ChemfuelFromWood.jobString>Rafinarea combustibilului chimic din lemn.</Make_ChemfuelFromWood.jobString>
   
   <!-- EN: make component -->
-  <Make_ComponentIndustrial.label>TODO</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.label>fă componentă</Make_ComponentIndustrial.label>
   <!-- EN: Make a component. -->
-  <Make_ComponentIndustrial.description>TODO</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.description>Realizează o componentă.</Make_ComponentIndustrial.description>
   <!-- EN: Making component. -->
-  <Make_ComponentIndustrial.jobString>TODO</Make_ComponentIndustrial.jobString>
+  <Make_ComponentIndustrial.jobString>Face o componentă.</Make_ComponentIndustrial.jobString>
   
   <!-- EN: make advanced component -->
-  <Make_ComponentSpacer.label>TODO</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.label>fă componentă avansată</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
-  <Make_ComponentSpacer.description>TODO</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.description>Realizează o componentă avansată.</Make_ComponentSpacer.description>
   <!-- EN: Making advanced component. -->
-  <Make_ComponentSpacer.jobString>TODO</Make_ComponentSpacer.jobString>
+  <Make_ComponentSpacer.jobString>face o componentă avansată.</Make_ComponentSpacer.jobString>
   
   <!-- EN: make patchleather -->
-  <Make_Patchleather.label>TODO</Make_Patchleather.label>
+  <Make_Patchleather.label>fă un petic de piele</Make_Patchleather.label>
   <!-- EN: Combine various types of leather to create weak patchleather. -->
-  <Make_Patchleather.description>TODO</Make_Patchleather.description>
+  <Make_Patchleather.description>Combină diferite tipuri de piele pentru a crea petice de piele slabă.</Make_Patchleather.description>
   <!-- EN: Making patchleather. -->
-  <Make_Patchleather.jobString>TODO</Make_Patchleather.jobString>
+  <Make_Patchleather.jobString>face petice de piele.</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
-  <Make_StoneBlocksAny.label>TODO</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.label>Fă orice fel de blocuri de piatră</Make_StoneBlocksAny.label>
   <!-- EN: Cut rock chunks into usable stone blocks. -->
-  <Make_StoneBlocksAny.description>TODO</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.description>Tăiați bucăți de rocă în blocuri de piatră utilizabile.</Make_StoneBlocksAny.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksAny.jobString>TODO</Make_StoneBlocksAny.jobString>
+  <Make_StoneBlocksAny.jobString>Taie blocuri de piatră din bucăți.</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt apparel -->
-  <SmeltApparel.label>TODO</SmeltApparel.label>
+  <SmeltApparel.label>topește îmbrăcămintea</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
-  <SmeltApparel.description>TODO</SmeltApparel.description>
+  <SmeltApparel.description>Folosiți căldura și electromagneți puternici pentru a descompune îmbrăcămintea metalică, cum ar fi armura, în resurse utile.</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
-  <SmeltApparel.jobString>TODO</SmeltApparel.jobString>
+  <SmeltApparel.jobString>topește îmbrăcămintea.</SmeltApparel.jobString>
   
   <!-- EN: smelt weapon -->
-  <SmeltWeapon.label>TODO</SmeltWeapon.label>
+  <SmeltWeapon.label>topește armă</SmeltWeapon.label>
   <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
-  <SmeltWeapon.description>TODO</SmeltWeapon.description>
+  <SmeltWeapon.description>Folosește căldura și electromagneții puternici pentru a descompune armele în resurse utile.</SmeltWeapon.description>
   <!-- EN: Smelting weapon. -->
-  <SmeltWeapon.jobString>TODO</SmeltWeapon.jobString>
+  <SmeltWeapon.jobString>Topește armă.</SmeltWeapon.jobString>
   
 </LanguageData>

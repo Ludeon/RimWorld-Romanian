@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: became lover -->
-  <BecameLover.label>TODO</BecameLover.label>
+  <BecameLover.label>a devenit iubitor</BecameLover.label>
   <!-- EN:
     <li>tale_noun->[PURSUER_nameDef] and [ACCEPTER_nameDef] becoming lovers</li>
     <li>image->[PURSUER_nameFull] whispering sweet nothings into [ACCEPTER_nameFull]'s ear [circumstance_group]</li>
@@ -23,7 +23,7 @@
   <BecameLover.rulePack.rulesStrings>TODO</BecameLover.rulePack.rulesStrings>
   
   <!-- EN: bond developed -->
-  <BondedWithAnimal.label>TODO</BondedWithAnimal.label>
+  <BondedWithAnimal.label>legătură dezvoltată</BondedWithAnimal.label>
   <!-- EN:
     <li>tale_noun->[HUMAN_nameDef]'s bonding with [ANIMAL_nameDef]</li>
     <li>image->[HUMAN_nameFull] bonding with [ANIMAL_nameFull] [circumstance_group]</li>
@@ -40,7 +40,7 @@
   <BondedWithAnimal.rulePack.rulesStrings>TODO</BondedWithAnimal.rulePack.rulesStrings>
   
   <!-- EN: breakup -->
-  <Breakup.label>TODO</Breakup.label>
+  <Breakup.label>despărțire</Breakup.label>
   <!-- EN:
     <li>tale_noun->the breakup of [DUMPER_nameDef] and [REJECTED_nameDef]</li>
     <li>image->[DUMPER_nameFull] sitting [REJECTED_nameFull] down for an unpleasant talk [circumstance_group]</li>
@@ -60,7 +60,7 @@
   <Breakup.rulePack.rulesStrings>TODO</Breakup.rulePack.rulesStrings>
   
   <!-- EN: marriage -->
-  <Marriage.label>TODO</Marriage.label>
+  <Marriage.label>căsătorie</Marriage.label>
   <!-- EN:
     <li>tale_noun->the marriage of [SPOUSE1_nameDef] and [SPOUSE2_nameDef]</li>
     <li>image->[SPOUSE1_nameFull] marrying [SPOUSE2_nameFull] [circumstance_group]</li>

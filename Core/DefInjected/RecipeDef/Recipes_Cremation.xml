@@ -1,32 +1,32 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: burn apparel -->
-  <BurnApparel.label>TODO</BurnApparel.label>
+  <BurnApparel.label>arde îmbrăcăminte</BurnApparel.label>
   <!-- EN: Burn unwanted apparel to completely destroy it. -->
-  <BurnApparel.description>TODO</BurnApparel.description>
+  <BurnApparel.description>Arde îmbrăcămintea nedorită pentru a o distruge complet.</BurnApparel.description>
   <!-- EN: Burning apparel. -->
-  <BurnApparel.jobString>TODO</BurnApparel.jobString>
+  <BurnApparel.jobString>Arde îmbrăcămintea.</BurnApparel.jobString>
   
   <!-- EN: burn drugs -->
-  <BurnDrugs.label>TODO</BurnDrugs.label>
+  <BurnDrugs.label>arde droguri</BurnDrugs.label>
   <!-- EN: Burn unwanted drugs to completely destroy them. -->
-  <BurnDrugs.description>TODO</BurnDrugs.description>
+  <BurnDrugs.description>Ardeți drogurile nedorite pentru a le distruge complet.</BurnDrugs.description>
   <!-- EN: Burning drugs. -->
-  <BurnDrugs.jobString>TODO</BurnDrugs.jobString>
+  <BurnDrugs.jobString>Arde droguri.</BurnDrugs.jobString>
   
   <!-- EN: burn weapon -->
-  <BurnWeapon.label>TODO</BurnWeapon.label>
+  <BurnWeapon.label>arde armă.</BurnWeapon.label>
   <!-- EN: Burn unwanted weapon to completely destroy it. -->
-  <BurnWeapon.description>TODO</BurnWeapon.description>
+  <BurnWeapon.description>Arde arma nedorită pentru a o distruge complet.</BurnWeapon.description>
   <!-- EN: Burning weapon. -->
-  <BurnWeapon.jobString>TODO</BurnWeapon.jobString>
+  <BurnWeapon.jobString>Arde arma.</BurnWeapon.jobString>
   
   <!-- EN: cremate corpse -->
-  <CremateCorpse.label>TODO</CremateCorpse.label>
+  <CremateCorpse.label>Cremează cadavrul</CremateCorpse.label>
   <!-- EN: Cremate a corpse to completely destroy it. -->
-  <CremateCorpse.description>TODO</CremateCorpse.description>
+  <CremateCorpse.description>Incinerează un cadavru pentru a-l distruge complet.</CremateCorpse.description>
   <!-- EN: Cremating. -->
-  <CremateCorpse.jobString>TODO</CremateCorpse.jobString>
+  <CremateCorpse.jobString>Cremează.</CremateCorpse.jobString>
   
 </LanguageData>

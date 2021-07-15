@@ -1,54 +1,54 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: granite flagstone -->
-  <FlagstoneGranite.label>TODO</FlagstoneGranite.label>
+  <FlagstoneGranite.label>dale brute de granit</FlagstoneGranite.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneGranite.description>TODO</FlagstoneGranite.description>
+  <FlagstoneGranite.description>Plăci de piatră tăiate grosier. Acestea nu sunt frumoase, dar sunt suprafețe bune pentru drumuri și alei exterioare. Deconstruirea dalei nu produce resurse.</FlagstoneGranite.description>
   
   <!-- EN: limestone flagstone -->
-  <FlagstoneLimestone.label>TODO</FlagstoneLimestone.label>
+  <FlagstoneLimestone.label>dale brute de calcar</FlagstoneLimestone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneLimestone.description>TODO</FlagstoneLimestone.description>
+  <FlagstoneLimestone.description>Dalele de piatră tăiate grosier. Acestea nu sunt frumoase, dar sunt suprafețe bune pentru drumuri și alei exterioare. Deconstruirea dalei nu produce resurse.</FlagstoneLimestone.description>
   
   <!-- EN: marble flagstone -->
-  <FlagstoneMarble.label>TODO</FlagstoneMarble.label>
+  <FlagstoneMarble.label>dale brute de marmură</FlagstoneMarble.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneMarble.description>TODO</FlagstoneMarble.description>
+  <FlagstoneMarble.description>Plăci de piatră tăiate grosier. Acestea nu sunt frumoase, dar sunt suprafețe bune pentru drumuri și alei exterioare. Deconstruirea dalei nu produce resurse.</FlagstoneMarble.description>
   
   <!-- EN: sandstone flagstone -->
-  <FlagstoneSandstone.label>TODO</FlagstoneSandstone.label>
+  <FlagstoneSandstone.label>dale brute de gresie</FlagstoneSandstone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneSandstone.description>TODO</FlagstoneSandstone.description>
+  <FlagstoneSandstone.description>Plăci de piatră tăiate grosier. Acestea nu sunt frumoase, dar sunt suprafețe bune pentru drumuri și alei exterioare. Deconstruirea dalei nu produce resurse.</FlagstoneSandstone.description>
   
   <!-- EN: slate flagstone -->
-  <FlagstoneSlate.label>TODO</FlagstoneSlate.label>
+  <FlagstoneSlate.label>dale brute de ardezie</FlagstoneSlate.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneSlate.description>TODO</FlagstoneSlate.description>
+  <FlagstoneSlate.description>Plăci de piatră tăiate grosier. Acestea nu sunt frumoase, dar sunt suprafețe bune pentru drumuri și alei exterioare. Deconstruirea dalei nu produce resurse.</FlagstoneSlate.description>
   
   <!-- EN: granite tile -->
-  <TileGranite.label>TODO</TileGranite.label>
+  <TileGranite.label>dale de granit</TileGranite.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileGranite.description>TODO</TileGranite.description>
+  <TileGranite.description>Plăci de piatră tăiate cu grijă și montate pentru o senzație de castel. Sunt drăguțe la vedere, dar durează mult timp pentru a fi așezate.</TileGranite.description>
   
   <!-- EN: limestone tile -->
-  <TileLimestone.label>TODO</TileLimestone.label>
+  <TileLimestone.label>dale de calcar</TileLimestone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileLimestone.description>TODO</TileLimestone.description>
+  <TileLimestone.description>Plăci de piatră tăiate cu grijă și potrivite pentru o senzație de castel. Sunt drăguțe la vedere, dar durează mult timp pentru a fi așezate.</TileLimestone.description>
   
   <!-- EN: marble tile -->
-  <TileMarble.label>TODO</TileMarble.label>
+  <TileMarble.label>dale de marmură</TileMarble.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileMarble.description>TODO</TileMarble.description>
+  <TileMarble.description>Plăci de piatră tăiate cu grijă și montate cu grijă pentru o senzație de castel. Sunt drăguțe la vedere, dar durează mult timp pentru a fi așezate.</TileMarble.description>
   
   <!-- EN: sandstone tile -->
-  <TileSandstone.label>TODO</TileSandstone.label>
+  <TileSandstone.label>dale de gresie</TileSandstone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSandstone.description>TODO</TileSandstone.description>
+  <TileSandstone.description>Plăci de piatră tăiate cu grijă și potrivite pentru o senzație de castel. Sunt drăguțe la vedere, dar durează mult timp pentru a fi așezate.</TileSandstone.description>
   
   <!-- EN: slate tile -->
-  <TileSlate.label>TODO</TileSlate.label>
+  <TileSlate.label>dale de ardezie</TileSlate.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSlate.description>TODO</TileSlate.description>
+  <TileSlate.description>Plăci de piatră tăiate cu grijă și potrivite pentru o senzație de castel. Sunt drăguțe la vedere, dar durează mult timp pentru a fi așezate.</TileSlate.description>
   
 </LanguageData>

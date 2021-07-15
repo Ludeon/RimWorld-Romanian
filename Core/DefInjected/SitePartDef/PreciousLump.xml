@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: lump of precious resources -->
-  <PreciousLump.label>TODO</PreciousLump.label>
+  <PreciousLump.label>bucată de resurse prețioase</PreciousLump.label>
   <!-- EN: A mineable lump of precious resources. -->
-  <PreciousLump.description>TODO</PreciousLump.description>
+  <PreciousLump.description>O bucată de resurse prețioase care poate fi exploatată.</PreciousLump.description>
   <!-- EN: Hostile activity detected. -->
-  <PreciousLump.mainPartAllThreatsLabel>TODO</PreciousLump.mainPartAllThreatsLabel>
+  <PreciousLump.mainPartAllThreatsLabel>Activitate ostilă detectată.</PreciousLump.mainPartAllThreatsLabel>
   
 </LanguageData>

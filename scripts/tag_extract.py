@@ -69,7 +69,6 @@ class TagTextExtractor:
             t.write(str(p), encoding="UTF-8", xml_declaration=True)
 
     def abort(self):
-        self.saveQueue = self.saveQueue[:1]
         self.empty_save_queue()
         self._abort = True
 

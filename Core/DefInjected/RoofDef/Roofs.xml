@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: constructed roof -->
-  <RoofConstructed.label>TODO</RoofConstructed.label>
+  <RoofConstructed.label>acoperiș construit</RoofConstructed.label>
   
   <!-- EN: overhead mountain -->
-  <RoofRockThick.label>TODO</RoofRockThick.label>
+  <RoofRockThick.label>munte suspendat</RoofRockThick.label>
   
   <!-- EN: rock roof (thin) -->
-  <RoofRockThin.label>TODO</RoofRockThin.label>
+  <RoofRockThin.label>acoperiș de piatră (subțire)</RoofRockThin.label>
   
 </LanguageData>

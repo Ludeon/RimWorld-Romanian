@@ -1,25 +1,25 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: anesthetize -->
-  <Anesthetize.label>TODO</Anesthetize.label>
+  <Anesthetize.label>anesteziază</Anesthetize.label>
   <!-- EN: Render a creature unconscious by administering general anesthetic. -->
-  <Anesthetize.description>TODO</Anesthetize.description>
+  <Anesthetize.description>Lasă o creatură inconștientă prin administrarea unui anestezic general.</Anesthetize.description>
   <!-- EN: Anesthetizing. -->
-  <Anesthetize.jobString>TODO</Anesthetize.jobString>
+  <Anesthetize.jobString>Anesteziază.</Anesthetize.jobString>
   
   <!-- EN: euthanize by cut -->
-  <Euthanize.label>TODO</Euthanize.label>
+  <Euthanize.label>eutanasiere prin tăiere</Euthanize.label>
   <!-- EN: Euthanize a creature by cutting. -->
-  <Euthanize.description>TODO</Euthanize.description>
+  <Euthanize.description>Eutanasierea unei creaturi prin tăiere.</Euthanize.description>
   <!-- EN: Euthanizing by cutting. -->
-  <Euthanize.jobString>TODO</Euthanize.jobString>
+  <Euthanize.jobString>Eutanasiere prin tăiere.</Euthanize.jobString>
   
   <!-- EN: remove part -->
-  <RemoveBodyPart.label>TODO</RemoveBodyPart.label>
+  <RemoveBodyPart.label>înlătură o parte</RemoveBodyPart.label>
   <!-- EN: Remove a body part. -->
-  <RemoveBodyPart.description>TODO</RemoveBodyPart.description>
+  <RemoveBodyPart.description>Îndepărtarea unei părți a corpului.</RemoveBodyPart.description>
   <!-- EN: Removing body part. -->
-  <RemoveBodyPart.jobString>TODO</RemoveBodyPart.jobString>
+  <RemoveBodyPart.jobString>Înlătură o parte a corpului.</RemoveBodyPart.jobString>
   
 </LanguageData>

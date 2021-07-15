@@ -1,53 +1,53 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: animal products -->
-  <AnimalProductRaw.label>TODO</AnimalProductRaw.label>
+  <AnimalProductRaw.label>produse animale</AnimalProductRaw.label>
   
   <!-- EN: apparel -->
-  <Apparel.label>TODO</Apparel.label>
+  <Apparel.label>îmbrăcăminte</Apparel.label>
   
   <!-- EN: armor -->
-  <ApparelArmor.label>TODO</ApparelArmor.label>
+  <ApparelArmor.label>armură</ApparelArmor.label>
   
   <!-- EN: noble apparel -->
-  <ApparelNoble.label>TODO</ApparelNoble.label>
+  <ApparelNoble.label>îmbrăcăminte nobilă</ApparelNoble.label>
   
   <!-- EN: utility -->
-  <ApparelUtility.label>TODO</ApparelUtility.label>
+  <ApparelUtility.label>utilitate</ApparelUtility.label>
   
   <!-- EN: headgear -->
-  <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
+  <ArmorHeadgear.label>articole pentru cap</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
-  <Artifacts.label>TODO</Artifacts.label>
+  <Artifacts.label>artefacte</Artifacts.label>
   
   <!-- EN: body parts -->
-  <BodyParts.label>TODO</BodyParts.label>
+  <BodyParts.label>părți ale corpului</BodyParts.label>
   
   <!-- EN: archotech -->
-  <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
+  <BodyPartsArchotech.label>archotech</BodyPartsArchotech.label>
   
   <!-- EN: bionic -->
-  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  <BodyPartsBionic.label>bionic</BodyPartsBionic.label>
   
   <!-- EN: natural -->
-  <BodyPartsNatural.label>TODO</BodyPartsNatural.label>
+  <BodyPartsNatural.label>natural</BodyPartsNatural.label>
   
   <!-- EN: prosthetic -->
-  <BodyPartsProsthetic.label>TODO</BodyPartsProsthetic.label>
+  <BodyPartsProsthetic.label>protetic</BodyPartsProsthetic.label>
   
   <!-- EN: simple parts -->
-  <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
+  <BodyPartsSimple.label>părți simple</BodyPartsSimple.label>
   
   <!-- EN: ultratech -->
-  <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
+  <BodyPartsUltra.label>ultratech</BodyPartsUltra.label>
   
   <!-- EN: buildings -->
-  <Buildings.label>TODO</Buildings.label>
+  <Buildings.label>clădiri</Buildings.label>
   
   <!-- EN: art -->
-  <BuildingsArt.label>TODO</BuildingsArt.label>
+  <BuildingsArt.label>artă</BuildingsArt.label>
   
   <!-- EN: furniture -->
   <BuildingsFurniture.label>TODO</BuildingsFurniture.label>

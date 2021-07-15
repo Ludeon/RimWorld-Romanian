@@ -1,45 +1,45 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: stony soil -->
-  <Gravel.label>TODO</Gravel.label>
+  <Gravel.label>sol pietros</Gravel.label>
   <!-- EN: gravel -->
-  <Gravel.tools.gravel.label>TODO</Gravel.tools.gravel.label>
+  <Gravel.tools.gravel.label>pietriș</Gravel.tools.gravel.label>
   
   <!-- EN: Ice -->
-  <Ice.label>TODO</Ice.label>
+  <Ice.label>Gheață</Ice.label>
   
   <!-- EN: marshy soil -->
-  <MarshyTerrain.label>TODO</MarshyTerrain.label>
+  <MarshyTerrain.label>sol mlăștinos</MarshyTerrain.label>
   <!-- EN: mud -->
-  <MarshyTerrain.tools.mud.label>TODO</MarshyTerrain.tools.mud.label>
+  <MarshyTerrain.tools.mud.label>noroi</MarshyTerrain.tools.mud.label>
   
   <!-- EN: lichen-covered soil -->
-  <MossyTerrain.label>TODO</MossyTerrain.label>
+  <MossyTerrain.label>sol acoperit de licheni</MossyTerrain.label>
   
   <!-- EN: mud -->
-  <Mud.label>TODO</Mud.label>
+  <Mud.label>noroi</Mud.label>
   <!-- EN: mud -->
-  <Mud.tools.mud.label>TODO</Mud.tools.mud.label>
+  <Mud.tools.mud.label>noroi</Mud.tools.mud.label>
   
   <!-- EN: sand -->
-  <Sand.label>TODO</Sand.label>
+  <Sand.label>nisip</Sand.label>
   <!-- EN: sand -->
-  <Sand.tools.sand.label>TODO</Sand.tools.sand.label>
+  <Sand.tools.sand.label>nisip</Sand.tools.sand.label>
   
   <!-- EN: soft sand -->
-  <SoftSand.label>TODO</SoftSand.label>
+  <SoftSand.label>nisip moale</SoftSand.label>
   <!-- EN: sand -->
-  <SoftSand.tools.sand.label>TODO</SoftSand.tools.sand.label>
+  <SoftSand.tools.sand.label>nisip</SoftSand.tools.sand.label>
   
   <!-- EN: soil -->
-  <Soil.label>TODO</Soil.label>
+  <Soil.label>sol</Soil.label>
   <!-- EN: dirt -->
-  <Soil.tools.dirt.label>TODO</Soil.tools.dirt.label>
+  <Soil.tools.dirt.label>murdărie</Soil.tools.dirt.label>
   
   <!-- EN: rich soil -->
-  <SoilRich.label>TODO</SoilRich.label>
+  <SoilRich.label>sol bogat</SoilRich.label>
   <!-- EN: dirt -->
-  <SoilRich.tools.dirt.label>TODO</SoilRich.tools.dirt.label>
+  <SoilRich.tools.dirt.label>murdărie</SoilRich.tools.dirt.label>
   
 </LanguageData>
