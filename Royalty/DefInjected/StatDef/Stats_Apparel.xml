@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: Jump range -->
-  <JumpRange.label>TODO</JumpRange.label>
+  <JumpRange.label>Distanța de salt</JumpRange.label>
   <!-- EN: The maximum jump distance. -->
-  <JumpRange.description>TODO</JumpRange.description>
+  <JumpRange.description>Distanța maximă de salt.</JumpRange.description>
   <!-- EN: {0} c -->
-  <JumpRange.formatString>TODO</JumpRange.formatString>
+  <JumpRange.formatString>{0} c</JumpRange.formatString>
   
 </LanguageData>

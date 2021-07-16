@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: aggression judgement scramble -->
-  <BerserkMechanoid.label>TODO</BerserkMechanoid.label>
+  <BerserkMechanoid.label>alterare de gestiunea de agresivitate</BerserkMechanoid.label>
   <!-- EN: Aggression judgment scrambled -->
-  <BerserkMechanoid.baseInspectLine>TODO</BerserkMechanoid.baseInspectLine>
+  <BerserkMechanoid.baseInspectLine>gestiunea de agresivitate alterată</BerserkMechanoid.baseInspectLine>
   
 </LanguageData>

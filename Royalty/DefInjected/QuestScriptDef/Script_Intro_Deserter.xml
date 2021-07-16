@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN:
@@ -12,12 +12,12 @@
   <!-- EN: {BASETEXT}\n\nBecause you accepted [asker_nameDef], [asker_factionName] has become hostile.\n\nThe loyalty squad that is hunting [asker_objective] will arrive soon. -->
   <Intro_Deserter.LetterLabelAskerBecameHostile.slateRef>TODO</Intro_Deserter.LetterLabelAskerBecameHostile.slateRef>
   <!-- EN: {BASELABEL}: Loyalty squad -->
-  <Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>TODO</Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>
+  <Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>{BASELABEL}: Escadronul de loialitate</Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>
   <!-- EN: {BASETEXT}\n\nThis is the loyalty squad that was hunting [../asker_nameFull].\n               -->
-  <Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>TODO</Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>
+  <Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>{BASETEXT}\n\nAceasta este escadrila de loialitate care a vânat [../asker_nameFull].\n</Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <Intro_Deserter.LetterLabelQuestExpired.slateRef>TODO</Intro_Deserter.LetterLabelQuestExpired.slateRef>
+  <Intro_Deserter.LetterLabelQuestExpired.slateRef>Misiunea a expirat: [resolvedQuestName]</Intro_Deserter.LetterLabelQuestExpired.slateRef>
   <!-- EN: The key imperial outpost, containing items needed for secret psychic powers, has packed up and moved on. -->
-  <Intro_Deserter.LetterTextQuestExpired.slateRef>TODO</Intro_Deserter.LetterTextQuestExpired.slateRef>
+  <Intro_Deserter.LetterTextQuestExpired.slateRef>Avanpostul imperial cheie, care conținea obiectele necesare pentru puterile psihice secrete, și-a făcut bagajele și s-a mutat.</Intro_Deserter.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

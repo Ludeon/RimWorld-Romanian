@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN:
@@ -12,8 +12,8 @@
   -->
   <ProblemCauser.questNameRules.rulesStrings>TODO</ProblemCauser.questNameRules.rulesStrings>
   <!-- EN: [problemCauserLabel] destroyed -->
-  <ProblemCauser.LetterLabelSuccess.slateRef>TODO</ProblemCauser.LetterLabelSuccess.slateRef>
+  <ProblemCauser.LetterLabelSuccess.slateRef>[problemCauserLabel] distrus</ProblemCauser.LetterLabelSuccess.slateRef>
   <!-- EN: You have destroyed the [problemCauserLabel] that was affecting [map_definite]! -->
-  <ProblemCauser.LetterTextSuccess.slateRef>TODO</ProblemCauser.LetterTextSuccess.slateRef>
+  <ProblemCauser.LetterTextSuccess.slateRef>Ați distrus [problemCauserLabel] care afecta [map_definite]!</ProblemCauser.LetterTextSuccess.slateRef>
   
 </LanguageData>

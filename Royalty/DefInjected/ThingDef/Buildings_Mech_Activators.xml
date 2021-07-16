@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: count-down activator -->
-  <ActivatorCountdown.label>TODO</ActivatorCountdown.label>
+  <ActivatorCountdown.label>activator de numărătoare inversă</ActivatorCountdown.label>
   <!-- EN: A timed mechanoid activation unit. After counting down, it will wake nearby dormant mechanoids and structures. -->
-  <ActivatorCountdown.description>TODO</ActivatorCountdown.description>
+  <ActivatorCountdown.description>O unitate de activare cronometrată a mecanoizilor. După numărătoarea inversă, aceasta va trezi mecanoizii și structurile adormite din apropiere.</ActivatorCountdown.description>
   
   <!-- EN: proximity activator -->
-  <ActivatorProximity.label>TODO</ActivatorProximity.label>
+  <ActivatorProximity.label>activator de proximitate</ActivatorProximity.label>
   <!-- EN: A proximity alarm for dormant mechanoids. If it detects a human-like threat nearby, it will awaken any nearby dormant mechanoids or structures. -->
-  <ActivatorProximity.description>TODO</ActivatorProximity.description>
+  <ActivatorProximity.description>O alarmă de proximitate pentru mecanoizi adormiți. Dacă detectează o amenințare de tip uman în apropiere, va trezi toți mecanoizii sau structurile adormite din apropiere.</ActivatorProximity.description>
   
 </LanguageData>

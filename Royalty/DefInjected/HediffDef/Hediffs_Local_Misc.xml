@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: paralytic abasia -->
-  <Abasia.label>TODO</Abasia.label>
+  <Abasia.label>abasie paralitică</Abasia.label>
   <!-- EN: A condition that makes a person unable to walk by interfering with the motor cortex. After enough time, patients recover naturally as the brain rewires itself, but the process is slow. There is also a chance of a lucky early recovery. This illness can be completely cured with a special procedure, but the procedure requires large amounts of glitterworld medicine. -->
-  <Abasia.description>TODO</Abasia.description>
+  <Abasia.description>Afecțiune care face ca o persoană să nu poată merge prin interferența cu cortexul motor. După o perioadă suficientă de timp, pacienții se recuperează în mod natural, deoarece creierul se reconectează singur, dar procesul este lent. Există, de asemenea, o șansă de recuperare timpurie norocoasă. Această boală poate fi vindecată complet cu o procedură specială, dar procedura necesită cantități mari de medicamente din lumea centrală.</Abasia.description>
   
   <!-- EN: blood rot -->
-  <BloodRot.label>TODO</BloodRot.label>
+  <BloodRot.label>putrezirea sângelui</BloodRot.label>
   <!-- EN: A slow-growing bacterial disease. The bacteria have little effect on the victim during their growing phase, but upon reaching saturation levels will induce a toxin storm that leads to immediate death.\n\nThe body's immune system will clear blood rot eventually, so the standard treatment is to use normal medicine to suppress it until that happens. Glitterworld doctors can use a massive mechanite dose to clear the infection immediately, but it is expensive. -->
-  <BloodRot.description>TODO</BloodRot.description>
+  <BloodRot.description>O boală bacteriană cu creștere lentă. Bacteria are un efect redus asupra victimei în timpul fazei de creștere, dar când ajunge la un nivel de saturație va induce o furtună de toxine care duce la moarte imediată.\n\nSistemul imunitar al organismului va elimina în cele din urmă putregaiul sângelui, așa că tratamentul standard constă în folosirea medicamentelor normale pentru a o suprima până când se întâmplă acest lucru. Medicii din lumea centrală pot folosi o doză masivă de mecanită pentru a elimina imediat infecția, dar este costisitoare.</BloodRot.description>
   <!-- EN: minor -->
-  <BloodRot.stages.minor.label>TODO</BloodRot.stages.minor.label>
+  <BloodRot.stages.minor.label>minoră</BloodRot.stages.minor.label>
   <!-- EN: major -->
-  <BloodRot.stages.major.label>TODO</BloodRot.stages.major.label>
+  <BloodRot.stages.major.label>majoră</BloodRot.stages.major.label>
   <!-- EN: extreme -->
-  <BloodRot.stages.extreme.label>TODO</BloodRot.stages.extreme.label>
+  <BloodRot.stages.extreme.label>extremă</BloodRot.stages.extreme.label>
   
 </LanguageData>

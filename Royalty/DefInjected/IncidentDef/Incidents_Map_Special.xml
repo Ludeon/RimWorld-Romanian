@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: anima tree -->
-  <AnimaTreeSpawn.label>TODO</AnimaTreeSpawn.label>
+  <AnimaTreeSpawn.label>copac anima</AnimaTreeSpawn.label>
   <!-- EN: Anima tree -->
-  <AnimaTreeSpawn.letterLabel>TODO</AnimaTreeSpawn.letterLabel>
+  <AnimaTreeSpawn.letterLabel>Copac anima</AnimaTreeSpawn.letterLabel>
   <!-- EN: An anima tree has sprouted nearby.\n\nTribal peoples can use this as a powerful meditation focus, but only if artificial structures are not placed nearby. -->
-  <AnimaTreeSpawn.letterText>TODO</AnimaTreeSpawn.letterText>
+  <AnimaTreeSpawn.letterText>Un copac anima a răsărit în apropiere.\n\nPopoarele tribale pot folosi acest copac ca un puternic focar de meditație, dar numai dacă nu sunt amplasate structuri artificiale în apropiere.</AnimaTreeSpawn.letterText>
   
   <!-- EN: tribute collector caravan arrival -->
-  <CaravanArrivalTributeCollector.label>TODO</CaravanArrivalTributeCollector.label>
+  <CaravanArrivalTributeCollector.label>sosirea de caravană de colectare a tributurilor</CaravanArrivalTributeCollector.label>
   
 </LanguageData>

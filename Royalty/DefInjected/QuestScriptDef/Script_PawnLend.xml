@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN:
@@ -34,20 +34,20 @@
   <!-- EN: <rulesStrings><li>dutyDescription->gather the harvest</li><li>dutyDescription->fortify a settlement</li><li>dutyDescription->set up a settlement</li><li>dutyDescription->watch for raiders</li><li>dutyDescription->set up a hospital</li><li>dutyDescription->contain an outbreak of [disease]</li></rulesStrings> -->
   <PawnLend.DutyRulesAny.slateRef>TODO</PawnLend.DutyRulesAny.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_nameFull] of [asker_faction_name] to [dutyDescription]. -->
-  <PawnLend.LetterTextReturnAfterHelping.slateRef>TODO</PawnLend.LetterTextReturnAfterHelping.slateRef>
+  <PawnLend.LetterTextReturnAfterHelping.slateRef>{PAWNS} [pawnListHaveConjugation] s-a întors după ce l-a ajutat pe [asker_nameFull] din [asker_faction_name] la [dutyDescription].</PawnLend.LetterTextReturnAfterHelping.slateRef>
   <!-- EN: <rulesStrings><li>dutyRoyalDescription->prepare a ceremony</li><li>dutyRoyalDescription->negotiate with a tribe</li><li>dutyRoyalDescription->explore a swamp</li><li>dutyRoyalDescription->translate a book</li><li>dutyRoyalDescription->set up a training ground</li><li>dutyRoyalDescription->harvest crops</li></rulesStrings> -->
   <PawnLend.DutyRulesRoyal.slateRef>TODO</PawnLend.DutyRulesRoyal.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] to [dutyRoyalDescription]. -->
-  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>TODO</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
+  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>{PAWNS} [pawnListHaveConjugation] returnat după ce a ajutat [asker_royalTitleInCurrentFaction] [asker_nameFull] din [asker_faction_name] la [dutyRoyalDescription].</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
   <!-- EN: Shuttle arrived -->
-  <PawnLend.LetterLabelShuttleArrived.slateRef>TODO</PawnLend.LetterLabelShuttleArrived.slateRef>
+  <PawnLend.LetterLabelShuttleArrived.slateRef>A sosit naveta</PawnLend.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect [colonistsToLendCount] of your colonists. -->
-  <PawnLend.LetterTextShuttleArrived.slateRef>TODO</PawnLend.LetterTextShuttleArrived.slateRef>
+  <PawnLend.LetterTextShuttleArrived.slateRef>Naveta a sosit pentru a colecta [colonistsToLendCount] dintre coloniștii tăi.</PawnLend.LetterTextShuttleArrived.slateRef>
   <!-- EN: Shuttle destroyed -->
-  <PawnLend.LetterLabelShuttleDestroyed.slateRef>TODO</PawnLend.LetterLabelShuttleDestroyed.slateRef>
+  <PawnLend.LetterLabelShuttleDestroyed.slateRef>Naveta a fost distrusă</PawnLend.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect colonists has been destroyed. -->
-  <PawnLend.LetterTextShuttleDestroyed.slateRef>TODO</PawnLend.LetterTextShuttleDestroyed.slateRef>
+  <PawnLend.LetterTextShuttleDestroyed.slateRef>Naveta trimisă pentru a colecta coloniști a fost distrusă.</PawnLend.LetterTextShuttleDestroyed.slateRef>
   <!-- EN: Colonists returned -->
-  <PawnLend.LetterLabelColonistsReturned.slateRef>TODO</PawnLend.LetterLabelColonistsReturned.slateRef>
+  <PawnLend.LetterLabelColonistsReturned.slateRef>Coloniștii s-au întors</PawnLend.LetterLabelColonistsReturned.slateRef>
   
 </LanguageData>

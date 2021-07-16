@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN:
@@ -16,13 +16,13 @@
   -->
   <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>TODO</Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
   <!-- EN: [helpersLabelSingOrPlural] arrived -->
-  <Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>TODO</Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>
+  <Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>[helpersLabelSingOrPlural] a sosit</Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>
   <!-- EN: The [helpersLabelSingOrPlural] sent by [asker_nameDef] [helpersHasHave] arrived to aid you with the quest '[resolvedQuestName]'. -->
   <Util_MaybeGenerateHelpers.LetterTextHelpersArrived.value.slateRef>TODO</Util_MaybeGenerateHelpers.LetterTextHelpersArrived.value.slateRef>
   <!-- EN: the [helpersLabelSingOrPlural] -->
   <Util_MaybeGenerateHelpers.ArrivingPawnsLabelDefinite.value.slateRef>TODO</Util_MaybeGenerateHelpers.ArrivingPawnsLabelDefinite.value.slateRef>
   <!-- EN: [helpersLabelSingOrPlural] leaving -->
-  <Util_MaybeGenerateHelpers.LetterLabelHelpersLeaving.slateRef>TODO</Util_MaybeGenerateHelpers.LetterLabelHelpersLeaving.slateRef>
+  <Util_MaybeGenerateHelpers.LetterLabelHelpersLeaving.slateRef>[helpersLabelSingOrPlural] pleacă</Util_MaybeGenerateHelpers.LetterLabelHelpersLeaving.slateRef>
   <!-- EN: The [helpersLabelSingOrPlural] sent by [asker_nameDef] to aid you [helpersHasHave] spent too much time with you, and [helpersIsAre] now leaving. -->
   <Util_MaybeGenerateHelpers.LetterTextHelpersLeaving.slateRef>TODO</Util_MaybeGenerateHelpers.LetterTextHelpersLeaving.slateRef>
   

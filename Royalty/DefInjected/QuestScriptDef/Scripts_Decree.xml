@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN:
@@ -10,23 +10,23 @@
   -->
   <Decree_BuildMonument.questNameRules.rulesStrings>TODO</Decree_BuildMonument.questNameRules.rulesStrings>
   <!-- EN: New monument marker arrived -->
-  <Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>TODO</Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>
+  <Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>A sosit noul marker al monumentului</Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>
   <!-- EN: Since the monument marker has been destroyed, a new one has been sent. -->
-  <Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>TODO</Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>
+  <Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>Deoarece markerul monumentului a fost distrus, a fost trimis unul nou.</Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>
   <!-- EN: Monument completed -->
-  <Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>TODO</Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>
+  <Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>Monument finalizat</Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>
   <!-- EN: You have completed construction of the monument.\n\nYou must keep it safe for [keepMonumentTicks_duration], otherwise [asker_nameDef] will be displeased. -->
   <Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>TODO</Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>
   <!-- EN: Monument destroyed -->
-  <Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>TODO</Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>
+  <Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>Monument distrus</Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>
   <!-- EN: [asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\n[asker_pronoun] will be unhappy about this. -->
   <Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>TODO</Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
-  <Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>TODO</Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>
+  <Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>Nu distrugeți monumentul pentru {0}</Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
-  <Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>TODO</Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>
+  <Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>Nu distrugeți monumentul pentru {0}</Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>
   <!-- EN: Keep monument {0} -->
-  <Decree_BuildMonument.KeepMonument.slateRef>TODO</Decree_BuildMonument.KeepMonument.slateRef>
+  <Decree_BuildMonument.KeepMonument.slateRef>Păstrează monumentul {0}</Decree_BuildMonument.KeepMonument.slateRef>
   
   <!-- EN:
     <li>questDescription->[decreeIntro]\n\nYou must harvest [plantToHarvest_label] x[harvestItemCount].\n\nYou may need to plant and grow the [plantToHarvest_label] first.\n\n[decreeThreatInfo]</li>

@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: mech low-shield -->
-  <ShieldGeneratorBullets.label>TODO</ShieldGeneratorBullets.label>
+  <ShieldGeneratorBullets.label>scut jos de mech</ShieldGeneratorBullets.label>
   <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in.\n\nThis one is tuned to low angles, so it will block ground-level projectiles like bullets.\n\nThe unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. -->
-  <ShieldGeneratorBullets.description>TODO</ShieldGeneratorBullets.description>
+  <ShieldGeneratorBullets.description>Un dispozitiv de scut care proiectează un câmp de respingere a impulsului. Împușcăturile pot ieși, dar nu și intra.\n\nAceasta este reglată pentru unghiuri joase, așa că va bloca proiectilele de la nivelul solului, precum gloanțele.\n\nUnitatea poate fi temporar dezactivată de atacuri EMP, fie prin șocarea unității de proiecție în sine, fie prin folosirea munițiilor EMP asupra scutului.</ShieldGeneratorBullets.description>
   
   <!-- EN: mech high-shield -->
-  <ShieldGeneratorMortar.label>TODO</ShieldGeneratorMortar.label>
+  <ShieldGeneratorMortar.label>scut înalt de mech</ShieldGeneratorMortar.label>
   <!-- EN: A shielding device which projects a momentum repulsor field. Shots can go out, but not in.\n\nThis one is tuned to high angles, so it will block mortar rounds.\n\nThe unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. -->
-  <ShieldGeneratorMortar.description>TODO</ShieldGeneratorMortar.description>
+  <ShieldGeneratorMortar.description>Un dispozitiv de scut care proiectează un câmp de respingere a impulsului. Împușcăturile pot ieși, dar nu și intra.\n\nAceasta este reglată pentru unghiuri înalte, astfel încât va bloca gloanțele de mortier.\n\nUnitatea poate fi temporar dezactivată de atacurile EMP, fie prin șocarea unității de proiecție în sine, fie prin folosirea munițiilor EMP pe scut.</ShieldGeneratorMortar.description>
   
 </LanguageData>

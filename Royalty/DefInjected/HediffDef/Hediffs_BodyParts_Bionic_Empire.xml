@@ -1,123 +1,123 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: aesthetic nose -->
-  <AestheticNose.label>TODO</AestheticNose.label>
+  <AestheticNose.label>nas estetic</AestheticNose.label>
   <!-- EN: An installed aesthetic nose. -->
-  <AestheticNose.description>TODO</AestheticNose.description>
+  <AestheticNose.description>Un nas estetic instalat.</AestheticNose.description>
   <!-- EN: an aesthetic nose -->
-  <AestheticNose.labelNoun>TODO</AestheticNose.labelNoun>
+  <AestheticNose.labelNoun>un nas estetic</AestheticNose.labelNoun>
   
   <!-- EN: aesthetic shaper -->
-  <AestheticShaper.label>TODO</AestheticShaper.label>
+  <AestheticShaper.label>modelator estetic</AestheticShaper.label>
   <!-- EN: An installed aesthetic shaper. -->
-  <AestheticShaper.description>TODO</AestheticShaper.description>
+  <AestheticShaper.description>Un modelator estetic instalat.</AestheticShaper.description>
   <!-- EN: an aesthetic shaper -->
-  <AestheticShaper.labelNoun>TODO</AestheticShaper.labelNoun>
+  <AestheticShaper.labelNoun>un modelator estetic</AestheticShaper.labelNoun>
   
   <!-- EN: armorskin gland -->
-  <ArmorskinGland.label>TODO</ArmorskinGland.label>
+  <ArmorskinGland.label>glandă de piele de armură</ArmorskinGland.label>
   <!-- EN: An installed armorskin gland. -->
-  <ArmorskinGland.description>TODO</ArmorskinGland.description>
+  <ArmorskinGland.description>O glandă de piele de armură instalată.</ArmorskinGland.description>
   <!-- EN: a armorskin gland -->
-  <ArmorskinGland.labelNoun>TODO</ArmorskinGland.labelNoun>
+  <ArmorskinGland.labelNoun>o glandă pentru piele de armură</ArmorskinGland.labelNoun>
   
   <!-- EN: circadian assistant -->
-  <CircadianAssistant.label>TODO</CircadianAssistant.label>
+  <CircadianAssistant.label>asistent circadian</CircadianAssistant.label>
   <!-- EN: An installed circadian assistant. -->
-  <CircadianAssistant.description>TODO</CircadianAssistant.description>
+  <CircadianAssistant.description>Un asistent circadian instalat.</CircadianAssistant.description>
   <!-- EN: a circadian assistant -->
-  <CircadianAssistant.labelNoun>TODO</CircadianAssistant.labelNoun>
+  <CircadianAssistant.labelNoun>un asistent circadian</CircadianAssistant.labelNoun>
   
   <!-- EN: circadian half-cycler -->
-  <CircadianHalfCycler.label>TODO</CircadianHalfCycler.label>
+  <CircadianHalfCycler.label>semiciclator circadian</CircadianHalfCycler.label>
   <!-- EN: An installed circadian half-cycler. -->
-  <CircadianHalfCycler.description>TODO</CircadianHalfCycler.description>
+  <CircadianHalfCycler.description>Un semiciclator circadian instalat.</CircadianHalfCycler.description>
   <!-- EN: a circadian half-cycler -->
-  <CircadianHalfCycler.labelNoun>TODO</CircadianHalfCycler.labelNoun>
+  <CircadianHalfCycler.labelNoun>un semiciclator circadian</CircadianHalfCycler.labelNoun>
   
   <!-- EN: coagulator -->
-  <Coagulator.label>TODO</Coagulator.label>
+  <Coagulator.label>coagulator</Coagulator.label>
   <!-- EN: An installed coagulator implant. -->
-  <Coagulator.description>TODO</Coagulator.description>
+  <Coagulator.description>Un implant de coagulator instalat.</Coagulator.description>
   <!-- EN: a coagulator -->
-  <Coagulator.labelNoun>TODO</Coagulator.labelNoun>
+  <Coagulator.labelNoun>un coagulator</Coagulator.labelNoun>
   
   <!-- EN: detoxifier stomach -->
-  <DetoxifierStomach.label>TODO</DetoxifierStomach.label>
+  <DetoxifierStomach.label>stomac detoxifiant</DetoxifierStomach.label>
   <!-- EN: An installed detoxifier stomach. -->
-  <DetoxifierStomach.description>TODO</DetoxifierStomach.description>
+  <DetoxifierStomach.description>Un stomac detoxifiant instalat.</DetoxifierStomach.description>
   <!-- EN: a detoxifier stomach -->
-  <DetoxifierStomach.labelNoun>TODO</DetoxifierStomach.labelNoun>
+  <DetoxifierStomach.labelNoun>un stomac detoxifiant</DetoxifierStomach.labelNoun>
   
   <!-- EN: gastro-analyzer -->
-  <GastroAnalyzer.label>TODO</GastroAnalyzer.label>
+  <GastroAnalyzer.label>gastro-analizator</GastroAnalyzer.label>
   <!-- EN: An installed gastro-analyzer. -->
-  <GastroAnalyzer.description>TODO</GastroAnalyzer.description>
+  <GastroAnalyzer.description>Un gastro-analizator instalat.</GastroAnalyzer.description>
   <!-- EN: a gastro-analyzer -->
-  <GastroAnalyzer.labelNoun>TODO</GastroAnalyzer.labelNoun>
+  <GastroAnalyzer.labelNoun>un gastro-analizator</GastroAnalyzer.labelNoun>
   
   <!-- EN: healing enhancer -->
-  <HealingEnhancer.label>TODO</HealingEnhancer.label>
+  <HealingEnhancer.label>un amplificator de vindecare</HealingEnhancer.label>
   <!-- EN: An installed healing enhancer implant. -->
-  <HealingEnhancer.description>TODO</HealingEnhancer.description>
+  <HealingEnhancer.description>Un implant de ameliorator de vindecare instalat.</HealingEnhancer.description>
   <!-- EN: a healing enhancer -->
-  <HealingEnhancer.labelNoun>TODO</HealingEnhancer.labelNoun>
+  <HealingEnhancer.labelNoun>un stimulator de vindecare</HealingEnhancer.labelNoun>
   
   <!-- EN: immunoenhancer -->
-  <Immunoenhancer.label>TODO</Immunoenhancer.label>
+  <Immunoenhancer.label>imunoamplificator</Immunoenhancer.label>
   <!-- EN: An installed immunoenhancer. -->
-  <Immunoenhancer.description>TODO</Immunoenhancer.description>
+  <Immunoenhancer.description>Un imunoamplificator instalat.</Immunoenhancer.description>
   <!-- EN: an immunoenhancer -->
-  <Immunoenhancer.labelNoun>TODO</Immunoenhancer.labelNoun>
+  <Immunoenhancer.labelNoun>un imunoamplificator</Immunoenhancer.labelNoun>
   
   <!-- EN: learning assistant -->
-  <LearningAssistant.label>TODO</LearningAssistant.label>
+  <LearningAssistant.label>asistent de învățare</LearningAssistant.label>
   <!-- EN: An installed learning assistant. -->
-  <LearningAssistant.description>TODO</LearningAssistant.description>
+  <LearningAssistant.description>Un asistent de învățare instalat.</LearningAssistant.description>
   <!-- EN: a learning assistant -->
-  <LearningAssistant.labelNoun>TODO</LearningAssistant.labelNoun>
+  <LearningAssistant.labelNoun>un asistent de învățare</LearningAssistant.labelNoun>
   
   <!-- EN: love enhancer -->
-  <LoveEnhancer.label>TODO</LoveEnhancer.label>
+  <LoveEnhancer.label>stimulator de dragoste</LoveEnhancer.label>
   <!-- EN: An installed love enhancer. -->
-  <LoveEnhancer.description>TODO</LoveEnhancer.description>
+  <LoveEnhancer.description>Un stimulator de dragoste instalat.</LoveEnhancer.description>
   <!-- EN: a love enhancer -->
-  <LoveEnhancer.labelNoun>TODO</LoveEnhancer.labelNoun>
+  <LoveEnhancer.labelNoun>un stimulator de dragoste</LoveEnhancer.labelNoun>
   
   <!-- EN: neurocalculator -->
-  <Neurocalculator.label>TODO</Neurocalculator.label>
+  <Neurocalculator.label>neurocalculator</Neurocalculator.label>
   <!-- EN: An installed neurocalculator. -->
-  <Neurocalculator.description>TODO</Neurocalculator.description>
+  <Neurocalculator.description>Un neurocalculator instalat.</Neurocalculator.description>
   <!-- EN: a neurocalculator -->
-  <Neurocalculator.labelNoun>TODO</Neurocalculator.labelNoun>
+  <Neurocalculator.labelNoun>un neurocalculator</Neurocalculator.labelNoun>
   
   <!-- EN: nuclear stomach -->
-  <NuclearStomach.label>TODO</NuclearStomach.label>
+  <NuclearStomach.label>stomac nuclear</NuclearStomach.label>
   <!-- EN: An installed nuclear stomach. -->
-  <NuclearStomach.description>TODO</NuclearStomach.description>
+  <NuclearStomach.description>Un stomac nuclear instalat.</NuclearStomach.description>
   <!-- EN: a nuclear stomach -->
-  <NuclearStomach.labelNoun>TODO</NuclearStomach.labelNoun>
+  <NuclearStomach.labelNoun>un stomac nuclear</NuclearStomach.labelNoun>
   
   <!-- EN: reprocessor stomach -->
-  <ReprocessorStomach.label>TODO</ReprocessorStomach.label>
+  <ReprocessorStomach.label>stomac reprocesor</ReprocessorStomach.label>
   <!-- EN: An installed reprocessor stomach. -->
-  <ReprocessorStomach.description>TODO</ReprocessorStomach.description>
+  <ReprocessorStomach.description>Un stomac reprocesor instalat.</ReprocessorStomach.description>
   <!-- EN: a reprocessor stomach -->
-  <ReprocessorStomach.labelNoun>TODO</ReprocessorStomach.labelNoun>
+  <ReprocessorStomach.labelNoun>un stomac reprocesor</ReprocessorStomach.labelNoun>
   
   <!-- EN: stoneskin gland -->
-  <StoneskinGland.label>TODO</StoneskinGland.label>
+  <StoneskinGland.label>glandă cu piele de piatră</StoneskinGland.label>
   <!-- EN: An installed stoneskin gland. -->
-  <StoneskinGland.description>TODO</StoneskinGland.description>
+  <StoneskinGland.description>O glandă de piele de piatră instalată.</StoneskinGland.description>
   <!-- EN: a stoneskin gland -->
-  <StoneskinGland.labelNoun>TODO</StoneskinGland.labelNoun>
+  <StoneskinGland.labelNoun>o glandă din piele de piatră</StoneskinGland.labelNoun>
   
   <!-- EN: toughskin gland -->
-  <ToughskinGland.label>TODO</ToughskinGland.label>
+  <ToughskinGland.label>glanda de piele dură</ToughskinGland.label>
   <!-- EN: An installed toughskin gland. -->
-  <ToughskinGland.description>TODO</ToughskinGland.description>
+  <ToughskinGland.description>O glandă de piele dură instalată.</ToughskinGland.description>
   <!-- EN: a toughskin gland -->
-  <ToughskinGland.labelNoun>TODO</ToughskinGland.labelNoun>
+  <ToughskinGland.labelNoun>o glandă de piele dură</ToughskinGland.labelNoun>
   
 </LanguageData>

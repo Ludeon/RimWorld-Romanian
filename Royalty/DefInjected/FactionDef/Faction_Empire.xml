@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: shattered empire -->
-  <Empire.label>TODO</Empire.label>
+  <Empire.label>imperiu sfărâmat</Empire.label>
   <!-- EN: An ultratech refugee society from another planet, organized along feudal lines.\n\nThey lived for thousands of years in a stable multi-planet empire with a strict caste system, an intricate code of warrior ethics, and enforced cultural stasis. Invaded by powerful outsiders, they fled. Despite losing almost all of their people, their fleet and technology still make them powerful.\n\nThey will refuse to trade with anyone who lacks the appropriate royal title. -->
-  <Empire.description>TODO</Empire.description>
+  <Empire.description>O societate de refugiați ultratehnologici de pe o altă planetă, organizată pe linii feudale.\nAu trăit timp de mii de ani într-un imperiu stabil pe mai multe planete, cu un sistem strict de caste, un cod complicat de etică a războinicilor și o stază culturală impusă. Invadați de străinii puternici, au fugit. În ciuda faptului că și-au pierdut aproape toți locuitorii, flota și tehnologia lor îi fac încă puternici.\n\nEi vor refuza să facă comerț cu oricine nu are titlul regal corespunzător.</Empire.description>
   <!-- EN: high stellarch -->
-  <Empire.leaderTitle>TODO</Empire.leaderTitle>
+  <Empire.leaderTitle>mare stelarh</Empire.leaderTitle>
   <!-- EN: imperial -->
-  <Empire.pawnSingular>TODO</Empire.pawnSingular>
+  <Empire.pawnSingular>imperial</Empire.pawnSingular>
   <!-- EN: imperials -->
-  <Empire.pawnsPlural>TODO</Empire.pawnsPlural>
+  <Empire.pawnsPlural>imperiali</Empire.pawnsPlural>
   <!-- EN: honor -->
-  <Empire.royalFavorLabel>TODO</Empire.royalFavorLabel>
+  <Empire.royalFavorLabel>onoare</Empire.royalFavorLabel>
   
 </LanguageData>

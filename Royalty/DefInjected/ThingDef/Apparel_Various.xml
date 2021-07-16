@@ -1,82 +1,82 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: cataphract armor -->
-  <Apparel_ArmorCataphract.label>TODO</Apparel_ArmorCataphract.label>
+  <Apparel_ArmorCataphract.label>armură cataphract</Apparel_ArmorCataphract.label>
   <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
-  <Apparel_ArmorCataphract.description>TODO</Apparel_ArmorCataphract.description>
+  <Apparel_ArmorCataphract.description>Un costum de armură grea cu motor, construit pentru protecție maximă cu prețul mobilității. Plăcile grele din plastel cu straturi de plastel cu straturi ablative solide opresc toate atacurile, cu excepția celor mai bine țintite sau puternice. Asistenții neuro-memetici împiedică greutatea masivă a costumului să imobilizeze complet purtătorul, dar costumul este totuși destul de greu de purtat.\n\nO armură ca aceasta este folosită de catafracții imperiali pentru a sparge poziții puternic fortificate în atacuri frontale, atunci când nu există altă opțiune.</Apparel_ArmorCataphract.description>
   
   <!-- EN: phoenix armor -->
-  <Apparel_ArmorCataphractPhoenix.label>TODO</Apparel_ArmorCataphractPhoenix.label>
+  <Apparel_ArmorCataphractPhoenix.label>armură phoenix</Apparel_ArmorCataphractPhoenix.label>
   <!-- EN: A variant of cataphract armor with a shoulder-mounted flamebolt launcher. This armor is slightly less protective than standard cataphract armor against normal damage, but is especially flame-resistant. The flamebolt launcher has very limited ammo and must be reloaded after use.\n\nPhoenixes specialize in clearing out very confined spaces full of enemies, as in underground or shipborne operations. They can absorb hits while moving down a corridor, fill rooms with flame, and emerge from the smoke unscathed. -->
-  <Apparel_ArmorCataphractPhoenix.description>TODO</Apparel_ArmorCataphractPhoenix.description>
+  <Apparel_ArmorCataphractPhoenix.description>O variantă a armurii cataphract cu un lansator de flăcări montat pe umăr. Această armură este puțin mai puțin protectoare decât armura cataphract standard împotriva daunelor normale, dar este deosebit de rezistentă la flăcări. Lansatorul de flăcări are o muniție foarte limitată și trebuie reîncărcată după utilizare.\n\nPhoenixii sunt specializați în curățarea spațiilor foarte înguste pline de inamici, ca în operațiunile subterane sau pe navă. Ei pot absorbi lovituri în timp ce se deplasează pe un coridor, pot umple încăperile cu flăcări și pot ieși din fum nevătămați.</Apparel_ArmorCataphractPhoenix.description>
   <!-- EN: incendiary -->
-  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>TODO</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>incendiară</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
   <!-- EN: launch incendiary -->
-  <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>TODO</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
+  <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>lansare incendiară</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
   
   <!-- EN: prestige cataphract armor -->
-  <Apparel_ArmorCataphractPrestige.label>TODO</Apparel_ArmorCataphractPrestige.label>
+  <Apparel_ArmorCataphractPrestige.label>armură de prestigiu cataphract</Apparel_ArmorCataphractPrestige.label>
   <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorCataphractPrestige.description>TODO</Apparel_ArmorCataphractPrestige.description>
+  <Apparel_ArmorCataphractPrestige.description>Un costum de armură grea cu motor, construit pentru protecție maximă cu prețul mobilității. Plăcile grele din țesătură de plastel, cu straturi grele și acoperiri ablative solide, opresc toate atacurile, cu excepția celor mai bine țintite sau puternice. Asistenții neuro-memetici împiedică greutatea masivă a costumului să imobilizeze complet purtătorul, dar costumul este totuși destul de greoi.\n\nScumpă și frumoasă, o armură de prestigiu ca aceasta este de obicei făcută pentru cei cu statut înalt. Firele de eltex încorporate sporesc, de asemenea, sensibilitatea psihică a purtătorului.</Apparel_ArmorCataphractPrestige.description>
   
   <!-- EN: cataphract helmet -->
-  <Apparel_ArmorHelmetCataphract.label>TODO</Apparel_ArmorHelmetCataphract.label>
+  <Apparel_ArmorHelmetCataphract.label>cască cataphract</Apparel_ArmorHelmetCataphract.label>
   <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
-  <Apparel_ArmorHelmetCataphract.description>TODO</Apparel_ArmorHelmetCataphract.description>
+  <Apparel_ArmorHelmetCataphract.description>O cască de înaltă tehnologie puternic blindată, cu o carcasă solidă din plastel-weave și sistem vizual indirect pentru unghiuri de vedere non-frontale. Protejează împotriva tuturor, cu excepția celor mai puternice sau a celor mai bine țintite lovituri de noroc.\n\nArme ca aceasta este folosită de catafracții imperiali pentru a sparge poziții puternic fortificate în atacuri frontale, atunci când nu există altă opțiune.</Apparel_ArmorHelmetCataphract.description>
   
   <!-- EN: prestige cataphract helmet -->
-  <Apparel_ArmorHelmetCataphractPrestige.label>TODO</Apparel_ArmorHelmetCataphractPrestige.label>
+  <Apparel_ArmorHelmetCataphractPrestige.label>cască de prestigiu de cataphract</Apparel_ArmorHelmetCataphractPrestige.label>
   <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorHelmetCataphractPrestige.description>TODO</Apparel_ArmorHelmetCataphractPrestige.description>
+  <Apparel_ArmorHelmetCataphractPrestige.description>O cască de înaltă tehnologie puternic blindată, cu o carcasă solidă din plastel-weave și sistem vizual indirect pentru unghiuri de vedere non-frontale. Protejează împotriva tuturor, cu excepția celor mai puternice sau a celor mai norocoase lovituri de armă.\n\nScumpă și frumoasă, o armură de prestigiu ca aceasta este de obicei făcută pentru cei cu statut înalt. Firele de eltex încorporate sporesc, de asemenea, sensibilitatea psihică a purtătorului.</Apparel_ArmorHelmetCataphractPrestige.description>
   
   <!-- EN: prestige recon helmet -->
-  <Apparel_ArmorHelmetReconPrestige.label>TODO</Apparel_ArmorHelmetReconPrestige.label>
+  <Apparel_ArmorHelmetReconPrestige.label>cască de prestigiu pentru recunoaștere</Apparel_ArmorHelmetReconPrestige.label>
   <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorHelmetReconPrestige.description>TODO</Apparel_ArmorHelmetReconPrestige.description>
+  <Apparel_ArmorHelmetReconPrestige.description>O cască blindată de înaltă tehnologie, cu un computer de stare încorporat și o placă protectoare din plastel-weave.\n\nScumpă și frumoasă, o armură de prestigiu ca aceasta este de obicei făcută pentru cei cu statut înalt. Firele de eltex încorporate sporesc, de asemenea, sensibilitatea psihică a purtătorului.</Apparel_ArmorHelmetReconPrestige.description>
   
   <!-- EN: locust armor -->
-  <Apparel_ArmorLocust.label>TODO</Apparel_ArmorLocust.label>
+  <Apparel_ArmorLocust.label>armură Locust</Apparel_ArmorLocust.label>
   <!-- EN: A variant of recon armor with an integrated burst rocket for short-ranged flight. Locust armor is slightly less protective than standard recon armor. Each jump consumes a burst of fuel, so the armor must be reloaded after several uses.\n\nUnlike most ultratech military units, locusts train primarily with melee weapons. They usually avoid static shootouts, preferring to jump straight into enemy fortifications and fight hand-to-hand. They do poorly in static defense or confined quarters, but excel in mixed cover or shipcracking operations. -->
-  <Apparel_ArmorLocust.description>TODO</Apparel_ArmorLocust.description>
+  <Apparel_ArmorLocust.description>O variantă de armură de recunoaștere cu o rachetă de explozie integrată pentru zboruri de scurtă distanță. Armura Locust este puțin mai puțin protectoare decât armura de recunoaștere standard. Fiecare salt consumă o rafală de combustibil, așa că armura trebuie reîncărcată după mai multe utilizări.\n\nÎn comparație cu majoritatea unităților militare ultratehnice, lăcustele se antrenează în principal cu arme de luptă corp la corp. De obicei evită împușcăturile statice, preferând să sară direct în fortificațiile inamice și să lupte corp la corp. Se descurcă prost în apărarea statică sau în spații închise, dar excelează în operațiuni mixte de acoperire sau de spargere a navelor.</Apparel_ArmorLocust.description>
   <!-- EN: jump -->
-  <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>TODO</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>salt</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
   <!-- EN: jump -->
-  <Apparel_ArmorLocust.verbs.jump.label>TODO</Apparel_ArmorLocust.verbs.jump.label>
+  <Apparel_ArmorLocust.verbs.jump.label>salt</Apparel_ArmorLocust.verbs.jump.label>
   
   <!-- EN: grenadier armor -->
-  <Apparel_ArmorMarineGrenadier.label>TODO</Apparel_ArmorMarineGrenadier.label>
+  <Apparel_ArmorMarineGrenadier.label>armură de grenadier</Apparel_ArmorMarineGrenadier.label>
   <!-- EN: A variant of marine armor with an integrated frag launcher on the shoulder. The armor is slightly less protective than standard marine armor. The launcher can only hold a limited amount of ammo and must be reloaded after use.\n\nGrenadiers usually specialize in breaching buildings or internal ship bulkheads. While not effective at very long range, grenadiers can be surprisingly deadly in confined quarters. -->
-  <Apparel_ArmorMarineGrenadier.description>TODO</Apparel_ArmorMarineGrenadier.description>
+  <Apparel_ArmorMarineGrenadier.description>O variantă de armură marinărească cu un lansator de fragmente integrat pe umăr. Armura este puțin mai puțin protectoare decât armura marinărească standard. Lansatorul poate conține doar o cantitate limitată de muniție și trebuie reîncărcat după folosire.\n\nGrenadierii sunt de obicei specializați în spargerea clădirilor sau a pereților interiori ai navelor. Deși nu sunt eficienți la distanțe foarte mari, grenadierii pot fi surprinzător de letali în spații restrânse.</Apparel_ArmorMarineGrenadier.description>
   <!-- EN: grenade -->
-  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>TODO</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>grenadă</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
   <!-- EN: launch frag grenade -->
-  <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>TODO</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
+  <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>lansare grenadă frag</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
   
   <!-- EN: prestige marine helmet -->
-  <Apparel_ArmorMarineHelmetPrestige.label>TODO</Apparel_ArmorMarineHelmetPrestige.label>
+  <Apparel_ArmorMarineHelmetPrestige.label>cască marinărească de prestigiu</Apparel_ArmorMarineHelmetPrestige.label>
   <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorMarineHelmetPrestige.description>TODO</Apparel_ArmorMarineHelmetPrestige.description>
+  <Apparel_ArmorMarineHelmetPrestige.description>O cască de armură marină, cu un computer de stare încorporat și plăci stratificate din țesătură de plastel.\n\nScumpă și frumoasă, o armură de prestigiu ca aceasta este de obicei făcută pentru cei cu statut înalt. Firele de eltex încorporate sporesc, de asemenea, sensibilitatea psihică a purtătorului.</Apparel_ArmorMarineHelmetPrestige.description>
   
   <!-- EN: prestige marine armor -->
-  <Apparel_ArmorMarinePrestige.label>TODO</Apparel_ArmorMarinePrestige.label>
+  <Apparel_ArmorMarinePrestige.label>armură marină de prestigiu</Apparel_ArmorMarinePrestige.label>
   <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorMarinePrestige.description>TODO</Apparel_ArmorMarinePrestige.description>
+  <Apparel_ArmorMarinePrestige.description>Un costum de armură cu motor. Plăcile stratificate cu țesătură de plastel sunt foarte eficiente în oprirea atacurilor, cu puține secțiuni de îmbinare vulnerabile. Asistenții neuro-memetici permit unui om să poarte armura și să se miște cu ușurință.\n\nScumpă și frumoasă, o armură de prestigiu ca aceasta este de obicei făcută pentru cei cu statut înalt. Firele de eltex încorporate sporesc, de asemenea, sensibilitatea psihică a purtătorului.</Apparel_ArmorMarinePrestige.description>
   
   <!-- EN: prestige recon armor -->
-  <Apparel_ArmorReconPrestige.label>TODO</Apparel_ArmorReconPrestige.label>
+  <Apparel_ArmorReconPrestige.label>armură de recunoaștere de prestigiu</Apparel_ArmorReconPrestige.label>
   <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
-  <Apparel_ArmorReconPrestige.description>TODO</Apparel_ArmorReconPrestige.description>
+  <Apparel_ArmorReconPrestige.description>Un costum de armură ușoară cu putere parțială, conceput pentru a permite mișcări rapide. Plăcile țesute din plastel blochează atacurile fără a compromite mobilitatea, iar asistenții neuro-memetici din partea inferioară a corpului permit unui om să poarte armura și să se miște cu ușurință.\n\nScumpă și frumoasă, o armură de prestigiu ca aceasta este de obicei făcută pentru cei cu statut înalt. Firele de eltex încorporate sporesc, de asemenea, sensibilitatea psihică a purtătorului.</Apparel_ArmorReconPrestige.description>
   
   <!-- EN: gunlink -->
-  <Apparel_Gunlink.label>TODO</Apparel_Gunlink.label>
+  <Apparel_Gunlink.label>gunlink</Apparel_Gunlink.label>
   <!-- EN: A targeting computer that helps the user aim. It detects and analyzes targets using infrared, visible, and millimeter-wave electromagnetic sensors. An onboard targeting computer displays firing solutions on a retinal projection. It offers no protection at all. -->
-  <Apparel_Gunlink.description>TODO</Apparel_Gunlink.description>
+  <Apparel_Gunlink.description>Un computer de țintire care ajută utilizatorul să țintească. Acesta detectează și analizează țintele folosind senzori electromagnetici cu infraroșu, vizibili și cu unde milimetrice. Un computer de țintire de la bord afișează soluțiile de tragere pe o proiecție retiniană. Nu oferă niciun fel de protecție.</Apparel_Gunlink.description>
   
   <!-- EN: incendiary grenade -->
-  <Proj_GrenadePhoenixFire.label>TODO</Proj_GrenadePhoenixFire.label>
+  <Proj_GrenadePhoenixFire.label>grenadă incendiară</Proj_GrenadePhoenixFire.label>
   
   <!-- EN: frag grenade -->
-  <Proj_GrenadierGrenade.label>TODO</Proj_GrenadierGrenade.label>
+  <Proj_GrenadierGrenade.label>grenadă cu fragmente</Proj_GrenadierGrenade.label>
   
 </LanguageData>

@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: eltex skullcap -->
-  <Apparel_EltexSkullcap.label>TODO</Apparel_EltexSkullcap.label>
+  <Apparel_EltexSkullcap.label>cască de craniu eltex</Apparel_EltexSkullcap.label>
   <!-- EN: A tight skullcap designed for psychic focusing. It provides no physical protection, but its special materials enhance the wearer's psychic sensitivity and dissipate neural heat. -->
-  <Apparel_EltexSkullcap.description>TODO</Apparel_EltexSkullcap.description>
+  <Apparel_EltexSkullcap.description>O cască de craniu strâmtă, concepută pentru focalizarea psihică. Nu oferă protecție fizică, dar materialele sale speciale sporesc sensibilitatea psihică a purtătorului și disipă căldura neuronală.</Apparel_EltexSkullcap.description>
   
   <!-- EN: eltex helmet -->
-  <Apparel_PsyfocusHelmet.label>TODO</Apparel_PsyfocusHelmet.label>
+  <Apparel_PsyfocusHelmet.label>cască din eltex</Apparel_PsyfocusHelmet.label>
   <!-- EN: A lightweight helmet designed for psychic focusing. While it provides little physical protection, its special materials enhance the wearer's psychic sensitivity and dissipate neural heat. -->
-  <Apparel_PsyfocusHelmet.description>TODO</Apparel_PsyfocusHelmet.description>
+  <Apparel_PsyfocusHelmet.description>O cască ușoară concepută pentru focalizarea psihică. Deși oferă puțină protecție fizică, materialele sale speciale sporesc sensibilitatea psihică a purtătorului și disipă căldura neuronală.</Apparel_PsyfocusHelmet.description>
   
   <!-- EN: eltex robe -->
-  <Apparel_PsyfocusRobe.label>TODO</Apparel_PsyfocusRobe.label>
+  <Apparel_PsyfocusRobe.label>halat din eltex</Apparel_PsyfocusRobe.label>
   <!-- EN: A long robe embedded with special psychic focusing materials. These enhance psychic sensitivity and help dissipate neural heat. -->
-  <Apparel_PsyfocusRobe.description>TODO</Apparel_PsyfocusRobe.description>
+  <Apparel_PsyfocusRobe.description>O haină lungă, în care sunt încorporate materiale speciale de focalizare psihică. Acestea sporesc sensibilitatea psihică și ajută la disiparea căldurii neuronale.</Apparel_PsyfocusRobe.description>
   
   <!-- EN: eltex shirt -->
-  <Apparel_PsyfocusShirt.label>TODO</Apparel_PsyfocusShirt.label>
+  <Apparel_PsyfocusShirt.label>cămașă din eltex</Apparel_PsyfocusShirt.label>
   <!-- EN: A shirt embedded with special psychic focusing materials. These enhance psychic sensitivity and help dissipate neural heat. -->
-  <Apparel_PsyfocusShirt.description>TODO</Apparel_PsyfocusShirt.description>
+  <Apparel_PsyfocusShirt.description>O cămașă încorporată cu materiale speciale de focalizare psihică. Acestea sporesc sensibilitatea psihică și ajută la disiparea căldurii neuronale.</Apparel_PsyfocusShirt.description>
   
   <!-- EN: eltex vest -->
-  <Apparel_PsyfocusVest.label>TODO</Apparel_PsyfocusVest.label>
+  <Apparel_PsyfocusVest.label>vestă eltex</Apparel_PsyfocusVest.label>
   <!-- EN: A thin vest embedded with special psychic focusing materials. These enhance psychic sensitivity and help dissipate neural heat. -->
-  <Apparel_PsyfocusVest.description>TODO</Apparel_PsyfocusVest.description>
+  <Apparel_PsyfocusVest.description>O vestă subțire încorporată cu materiale speciale de focalizare psihică. Acestea sporesc sensibilitatea psihică și ajută la disiparea căldurii neuronale.</Apparel_PsyfocusVest.description>
   
 </LanguageData>

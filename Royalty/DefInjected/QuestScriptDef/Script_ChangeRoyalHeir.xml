@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN:
@@ -10,21 +10,21 @@
   -->
   <ChangeRoyalHeir.questNameRules.rulesStrings>TODO</ChangeRoyalHeir.questNameRules.rulesStrings>
   <!-- EN: Time left: {0} -->
-  <ChangeRoyalHeir.InspectStringTimeLeft.slateRef>TODO</ChangeRoyalHeir.InspectStringTimeLeft.slateRef>
+  <ChangeRoyalHeir.InspectStringTimeLeft.slateRef>Timp rămas: {0}</ChangeRoyalHeir.InspectStringTimeLeft.slateRef>
   <!-- EN: [titleHolder_nameDef]'s heir change failed -->
   <ChangeRoyalHeir.LetterTextAskerOffended.slateRef>TODO</ChangeRoyalHeir.LetterTextAskerOffended.slateRef>
   <!-- EN: [asker_nameDef] is offended that you promised to consecrate the new inheritance, but did not build the monument within the prescribed time.\n\nYou lost 25 goodwill with [asker_faction_name]. -->
   <ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>TODO</ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>
   <!-- EN: Title holder died: {SUBJECT_definite} -->
-  <ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>TODO</ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>
+  <ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>Titularul titlului a murit: {SUBJECT_definite}</ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>
   <!-- EN: {SUBJECT_definite}, whose heir was in the process of being changed, has died. -->
-  <ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>TODO</ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>
+  <ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>{SUBJECT_definite}, al cărui moștenitor era în curs de a fi schimbat, a murit.</ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>
   <!-- EN: Designated heir died: {SUBJECT_definite} -->
-  <ChangeRoyalHeir.LetterLabelDesignatedHeirDied.slateRef>TODO</ChangeRoyalHeir.LetterLabelDesignatedHeirDied.slateRef>
+  <ChangeRoyalHeir.LetterLabelDesignatedHeirDied.slateRef>Moștenitorul desemnat a murit: {SUBJECT_definite}</ChangeRoyalHeir.LetterLabelDesignatedHeirDied.slateRef>
   <!-- EN: {SUBJECT_definite}, who was supposed to become heir to a title, has died. -->
-  <ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>TODO</ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>
+  <ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>{SUBJECT_definite}, care ar fi trebuit să devină moștenitor al unui titlu, a murit.</ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>
   <!-- EN: Monument destroyed -->
-  <ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>TODO</ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>
+  <ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>Monument distrus</ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>
   <!-- EN: [asker_nameDef] is offended that you promised to consecrate the new inheritance, but allowed the monument to be ruined soon after completion.\n\nYour relations with [asker_faction_name] have fallen by [goodwillChangeIfMonumentDestroyed]. -->
   <ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>TODO</ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>
   <!-- EN: New heir: [titleHeir_nameDef] -->
@@ -32,10 +32,10 @@
   <!-- EN: [titleHeir_nameDef] is the new heir of [titleHolder_nameDef]. -->
   <ChangeRoyalHeir.LetterTextNewHeir.slateRef>TODO</ChangeRoyalHeir.LetterTextNewHeir.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
-  <ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>TODO</ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>
+  <ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>Nu distrugeți monumentul pentru {0}</ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
-  <ChangeRoyalHeir.DontDestroyMonumentForDaysTip.slateRef>TODO</ChangeRoyalHeir.DontDestroyMonumentForDaysTip.slateRef>
+  <ChangeRoyalHeir.DontDestroyMonumentForDaysTip.slateRef>Nu distrugeți monumentul pentru {0}</ChangeRoyalHeir.DontDestroyMonumentForDaysTip.slateRef>
   <!-- EN: Keep monument {0} -->
-  <ChangeRoyalHeir.KeepMonument.slateRef>TODO</ChangeRoyalHeir.KeepMonument.slateRef>
+  <ChangeRoyalHeir.KeepMonument.slateRef>Păstrează monumentul {0}</ChangeRoyalHeir.KeepMonument.slateRef>
   
 </LanguageData>

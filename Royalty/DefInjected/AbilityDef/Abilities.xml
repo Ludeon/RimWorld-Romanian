@@ -1,156 +1,156 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: beckon -->
-  <Beckon.label>TODO</Beckon.label>
+  <Beckon.label>atracție țintă</Beckon.label>
   <!-- EN: Psychically command the target to approach the caster. -->
-  <Beckon.description>TODO</Beckon.description>
+  <Beckon.description>Poruncește psihic țintei să se apropie de aruncător.</Beckon.description>
   
   <!-- EN: berserk -->
-  <Berserk.label>TODO</Berserk.label>
+  <Berserk.label>berserk</Berserk.label>
   <!-- EN: Induce an angry psychosis in the target's mind, causing them to attack anyone nearby. -->
-  <Berserk.description>TODO</Berserk.description>
+  <Berserk.description>Induce o psihoză furioasă în mintea țintei, determinând-o să atace pe oricine se află în apropiere.</Berserk.description>
   
   <!-- EN: berserk pulse -->
-  <BerserkPulse.label>TODO</BerserkPulse.label>
+  <BerserkPulse.label>puls berserk</BerserkPulse.label>
   <!-- EN: Generate an overwhelming rush of undirected rage in everyone near the target point. -->
-  <BerserkPulse.description>TODO</BerserkPulse.description>
+  <BerserkPulse.description>Generează un val copleșitor de furie nemijlocită în toți cei din apropierea punctului țintă.</BerserkPulse.description>
   
   <!-- EN: blinding pulse -->
-  <BlindingPulse.label>TODO</BlindingPulse.label>
+  <BlindingPulse.label>puls orbitor</BlindingPulse.label>
   <!-- EN: Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. -->
-  <BlindingPulse.description>TODO</BlindingPulse.description>
+  <BlindingPulse.description>Induce zgomot în centrii vizuali ai creierului, întunecând vederea tuturor celor din apropierea punctului țintă.</BlindingPulse.description>
   
   <!-- EN: skipshield -->
-  <BulletShield.label>TODO</BulletShield.label>
+  <BulletShield.label>scut de deflecție</BulletShield.label>
   <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. -->
-  <BulletShield.description>TODO</BulletShield.description>
+  <BulletShield.description>Generează un scut sferic care trimite toate proiectilele care intră și ies de la nivelul solului către un loc îndepărtat. Persoanele și obiectele nu sunt afectate.</BulletShield.description>
   
   <!-- EN: burden -->
-  <Burden.label>TODO</Burden.label>
+  <Burden.label>încărcare</Burden.label>
   <!-- EN: Slow the target for a short time by suppressing motor activity in the brain. -->
-  <Burden.description>TODO</Burden.description>
+  <Burden.description>Încetinește ținta pentru o perioadă scurtă de timp prin suprimarea activității motorii din creier.</Burden.description>
   
   <!-- EN: chaos skip -->
-  <ChaosSkip.label>TODO</ChaosSkip.label>
+  <ChaosSkip.label>salt haotic</ChaosSkip.label>
   <!-- EN: Teleport the target to a random position near where he started. -->
-  <ChaosSkip.description>TODO</ChaosSkip.description>
+  <ChaosSkip.description>Teleportează ținta într-o poziție aleatorie, aproape de locul de unde a pornit.</ChaosSkip.description>
   
   <!-- EN: chunk skip -->
-  <Chunkskip.label>TODO</Chunkskip.label>
+  <Chunkskip.label>salt de bolovani</Chunkskip.label>
   <!-- EN: Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
-  <Chunkskip.description>TODO</Chunkskip.description>
+  <Chunkskip.description>Sari peste cele 5 bolovani de piatră sau zgură pentru a le împrăștia în apropierea punctului țintă. Acest lucru este util pentru a produce acoperire în timpul operațiunilor ofensive.</Chunkskip.description>
   
   <!-- EN: neural heat dump -->
-  <EntropyDump.label>TODO</EntropyDump.label>
+  <EntropyDump.label>descărcare de căldură neuronală</EntropyDump.label>
   <!-- EN: Instantly dump all your neural heat into someone else. As a side-effect, the target will fall into a debilitating but non-damaging coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted. -->
-  <EntropyDump.description>TODO</EntropyDump.description>
+  <EntropyDump.description>Aruncă instantaneu toată căldura ta neurală în altcineva. Ca efect secundar, ținta va intra într-o comă debilitantă, dar care nu provoacă daune, timp de aproximativ o zi. Ținta trebuie să accepte în mod activ invazia psihică, așa că doar aliații conștienți pot fi ținta.</EntropyDump.description>
   
   <!-- EN: farskip -->
-  <Farskip.label>TODO</Farskip.label>
+  <Farskip.label>salt distant</Farskip.label>
   <!-- EN: Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
-  <Farskip.description>TODO</Farskip.description>
+  <Farskip.description>Saltă invocatorul, împreună cu oricine se află lângă el, către un aliat aflat într-o locație îndepărtată. Acest lucru poate trimite oamenii la mare distanță pe planetă, dar funcționează doar dacă există un aliat dispus să fie folosit ca far de navigație pe partea cealaltă. Oamenii săriți vor apărea întotdeauna lângă un aliat aleatoriu de pe harta țintă.</Farskip.description>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>TODO</Flashstorm.label>
+  <Flashstorm.label>furtună fulgerătoare</Flashstorm.label>
   <!-- EN: Use differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating. -->
-  <Flashstorm.description>TODO</Flashstorm.description>
+  <Flashstorm.description>Folosește porți de săritură cu presiune diferențială în atmosferă pentru a genera o furtună fulger localizată. Furtuna va lovi zona cu fulgere pentru o perioadă de timp înainte de a se disipa.</Flashstorm.description>
   
   <!-- EN: focus -->
-  <Focus.label>TODO</Focus.label>
+  <Focus.label>concentrare</Focus.label>
   <!-- EN: Psychically focus the target's mind, boosting their sight, hearing and moving capacities. -->
-  <Focus.description>TODO</Focus.description>
+  <Focus.description>Focalizează psihic mintea țintei, sporindu-i vederea, auzul și capacitățile de deplasare.</Focus.description>
   
   <!-- EN: invisibility -->
-  <Invisibility.label>TODO</Invisibility.label>
+  <Invisibility.label>invizibilitate</Invisibility.label>
   <!-- EN: Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time. -->
-  <Invisibility.description>TODO</Invisibility.description>
+  <Invisibility.description>Manipulează psihic centrele vizuale ale tuturor celor din apropiere, făcându-i incapabili să perceapă un anumit individ pentru o perioadă scurtă de timp.</Invisibility.description>
   
   <!-- EN: manhunter pulse -->
-  <ManhunterPulse.label>TODO</ManhunterPulse.label>
+  <ManhunterPulse.label>puls de vânător de oameni</ManhunterPulse.label>
   <!-- EN: Drive nearby animals into a manhunting rage using a psychic pulse. -->
-  <ManhunterPulse.description>TODO</ManhunterPulse.description>
+  <ManhunterPulse.description>Conduce animalele din apropiere într-o furie de vânător de oameni folosind un puls psihic.</ManhunterPulse.description>
   
   <!-- EN: mass chaos skip -->
-  <MassChaosSkip.label>TODO</MassChaosSkip.label>
+  <MassChaosSkip.label>salt haotic în masă</MassChaosSkip.label>
   <!-- EN: Skip everyone near a target point to a random location nearby. -->
-  <MassChaosSkip.description>TODO</MassChaosSkip.description>
+  <MassChaosSkip.description>Sari toată lumea din apropierea unui punct țintă către o locație aleatorie din apropiere.</MassChaosSkip.description>
   
   <!-- EN: neuroquake -->
-  <Neuroquake.label>TODO</Neuroquake.label>
+  <Neuroquake.label>cutremur neuronal</Neuroquake.label>
   <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature on the map outside of a safe circle near the caster will be driven violently insane. Casting this takes three hours of meditation, and afterwards, the caster will go into a three-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
-  <Neuroquake.description>TODO</Neuroquake.description>
+  <Neuroquake.description>Găsește o discontinuitate în câmpul psihic și desfașoară-l, eliberând o cantitate masivă de energie psihică. Fiecare creatură de pe hartă aflată în afara unui cerc de siguranță din apropierea celui care a aruncat va fi înnebunită violent. Aruncarea acestuia necesită trei ore de meditație, iar după aceea, aruncătorul va intra într-o comă psihică de trei zile. Ecourile tulburătoare ale neurocutremurului vor provoca durere tuturor pe o rază de mulți kilometri în jur, provocând consecințe diplomatice cu toate facțiunile.</Neuroquake.description>
   <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes three hours to cast, and cannot be interrupted. The caster will also fall into a psychic coma for several days.\n\nEveryone on the map except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
-  <Neuroquake.confirmationDialogText>TODO</Neuroquake.confirmationDialogText>
+  <Neuroquake.confirmationDialogText>Dacă folosești neuroquake, toată lumea din această regiune va simți ecoul neuroquake, vei pierde bunăvoința cu fiecare facțiune ne-hostilă.\n\nNeuroquake durează trei ore pentru a fi lansat și nu poate fi întrerupt. De asemenea, aruncătorul va intra într-o comă psihică timp de câteva zile.\n\nToată lumea de pe hartă, cu excepția celor dintr-un mic cerc în jurul aruncătorului, va fi afectată.\n\nVrei cu adevărat să arunci neuroquake?</Neuroquake.confirmationDialogText>
   
   <!-- EN: painblock -->
-  <Painblock.label>TODO</Painblock.label>
+  <Painblock.label>blocaj de durere</Painblock.label>
   <!-- EN: Block pain pathways in the target's brain for a short time. This can allow a person to move and act even with grievous injuries which would normally incapacitate them. -->
-  <Painblock.description>TODO</Painblock.description>
+  <Painblock.description>Blochează căile durerii din creierul țintei pentru o perioadă scurtă de timp. Acest lucru poate permite unei persoane să se miște și să acționeze chiar și în cazul unor răni grave care în mod normal i-ar incapacita.</Painblock.description>
   
   <!-- EN: skip -->
-  <Skip.label>TODO</Skip.label>
+  <Skip.label>salt</Skip.label>
   <!-- EN: Teleport the target to a desired position not too far from his starting point. -->
-  <Skip.description>TODO</Skip.description>
+  <Skip.description>Teleportează ținta într-o poziție dorită, nu prea departe de punctul său de plecare.</Skip.description>
   
   <!-- EN: smokepop -->
-  <Smokepop.label>TODO</Smokepop.label>
+  <Smokepop.label>fumigenă</Smokepop.label>
   <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and preventing turrets from locking on entirely. -->
-  <Smokepop.description>TODO</Smokepop.description>
+  <Smokepop.description>Sări particule de praf de sub suprafața solului pentru a forma un nor gros. Acest lucru reduce acuratețea oricărei împușcături trase prin el și împiedică turelele să se blocheze în întregime.</Smokepop.description>
   
   <!-- EN: solar pinhole -->
-  <SolarPinhole.label>TODO</SolarPinhole.label>
+  <SolarPinhole.label>gaură solară</SolarPinhole.label>
   <!-- EN: Generate a microscopic skipgate linked to the core of a nearby star. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants. -->
-  <SolarPinhole.description>TODO</SolarPinhole.description>
+  <SolarPinhole.description>Generează un poartă de salt microscopic legat de miezul unei stele din apropiere. Materialul solar se scurge prin înțepătura în spațiu-timp, luminând și încălzind zona înconjurătoare până când se închide. Lumina este suficientă pentru a lucra prin ea, dar nu și pentru a crește plante.</SolarPinhole.description>
   
   <!-- EN: throne speech -->
-  <Speech.label>TODO</Speech.label>
+  <Speech.label>Discurs al tronului</Speech.label>
   <!-- EN: Initiate a speech from the throne. All colonists will come and listen. If it goes well, listeners will feel inspired, and gain respect for the speaker. If it goes poorly, the speech will do social damage. The outcome depends on the speaker's social abilities. -->
-  <Speech.description>TODO</Speech.description>
+  <Speech.description>Inițiază un discurs de la tron. Toți coloniștii vor veni și vor asculta. Dacă va merge bine, ascultătorii se vor simți inspirați și vor câștiga respect pentru vorbitor. Dacă merge prost, discursul va aduce daune sociale. Rezultatul depinde de abilitățile sociale ale vorbitorului.</Speech.description>
   
   <!-- EN: stun -->
-  <Stun.label>TODO</Stun.label>
+  <Stun.label>paralizează</Stun.label>
   <!-- EN: Momentarily disrupt motor function in target's brain, preventing any movement. -->
-  <Stun.description>TODO</Stun.description>
+  <Stun.description>Întrerupe momentan funcțiile motorii din creierul țintei, împiedicând orice mișcare.</Stun.description>
   
   <!-- EN: vertigo pulse -->
-  <VertigoPulse.label>TODO</VertigoPulse.label>
+  <VertigoPulse.label>puls de vertij</VertigoPulse.label>
   <!-- EN: Interfere with the spatial orientation sense of everyone near the target point, causing intermittent loss of balance. Flesh creatures will become extremely nauseous as well. -->
-  <VertigoPulse.description>TODO</VertigoPulse.description>
+  <VertigoPulse.description>Interferează cu simțul orientării spațiale a tuturor celor aflați în apropierea punctului țintă, provocând pierderea intermitentă a echilibrului. Creaturile de carne vor deveni și ele extrem de grețoase.</VertigoPulse.description>
   
   <!-- EN: wallraise -->
-  <Wallraise.label>TODO</Wallraise.label>
+  <Wallraise.label>ridică perete</Wallraise.label>
   <!-- EN: Form a temporary wall by skipping rubble and soil up from deep under the ground. -->
-  <Wallraise.description>TODO</Wallraise.description>
+  <Wallraise.description>Formează un zid temporar sărind moloz și pământ la suprafață din adâncurile solului.</Wallraise.description>
   
   <!-- EN: waterskip -->
-  <Waterskip.label>TODO</Waterskip.label>
+  <Waterskip.label>salt de apă</Waterskip.label>
   <!-- EN: Douse a target area in water, extinguishing fires. The water is archotechnologically skipped from distant bodies of water or underground aquifers. -->
-  <Waterskip.description>TODO</Waterskip.description>
+  <Waterskip.description>Inundă o zonă țintă în apă, stingând incendiile. Apa este sărită arhotehnologic din corpuri de apă îndepărtate sau din acvifere subterane.</Waterskip.description>
   
   <!-- EN: word of inspiration -->
-  <WordOfInspiration.label>TODO</WordOfInspiration.label>
+  <WordOfInspiration.label>cuvânt de inspirație</WordOfInspiration.label>
   <!-- EN: Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them. -->
-  <WordOfInspiration.description>TODO</WordOfInspiration.description>
+  <WordOfInspiration.description>Rostește cuvinte care încurajează creativitatea în timp ce hiperîncarci psihic mintea țintei cu idei noi. Ținta va experimenta o inspirație aleatorie potrivită pentru ea.</WordOfInspiration.description>
   
   <!-- EN: word of joy -->
-  <WordOfJoy.label>TODO</WordOfJoy.label>
+  <WordOfJoy.label>cuvânt de bucurie</WordOfJoy.label>
   <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
-  <WordOfJoy.description>TODO</WordOfJoy.description>
+  <WordOfJoy.description>Spuneți cuvinte vesele și liniștitoare cuiva în timp ce folosiți sugestia psihică pentru a implanta o buclă de joyfuzz în mintea sa. Joyfuzz va suprima gândurile și senzațiile inconfortabile din țintă pentru a îmbunătăți starea de spirit. Acest lucru are ca efect secundar opacifierea senzațiilor și a procesului de luare a deciziilor, ceea ce reduce gradul de conștiință.</WordOfJoy.description>
   
   <!-- EN: word of love -->
-  <WordOfLove.label>TODO</WordOfLove.label>
+  <WordOfLove.label>cuvântul iubirii</WordOfLove.label>
   <!-- EN: Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another. -->
-  <WordOfLove.description>TODO</WordOfLove.description>
+  <WordOfLove.description>Vorbiți despre virtuțile romantice ale cuiva în timp ce folosiți sugestia psihică pentru a implanta dorința romantică în ascultător. Timp de câteva zile după aceea, ascultătorul va simți o atracție romantică indusă psihic față de cealaltă persoană. Acest lucru sporește foarte mult opinia și îi face mult mai probabil să încerce avansuri romantice și cereri în căsătorie dacă au ocazia. Această putere poate fi folosită pentru a conecta alte două persoane, pentru a induce dragostea pentru cel care o lansează sau pentru a se forța pe sine să iubească pe altcineva.</WordOfLove.description>
   
   <!-- EN: word of serenity -->
-  <WordOfSerenity.label>TODO</WordOfSerenity.label>
+  <WordOfSerenity.label>cuvânt al seninătății</WordOfSerenity.label>
   <!-- EN: Use calming words and psychic suggestion to end a mental break on a person or animal. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
-  <WordOfSerenity.description>TODO</WordOfSerenity.description>
+  <WordOfSerenity.description>Folosește cuvinte liniștitoare și sugestie psihică pentru a pune capăt unei căderi psihice asupra unei persoane sau a unui animal. Ținta va cădea într-un scurt somn psihic. Costul psihofocalizării depinde de intensitatea pauzei mentale a țintei.</WordOfSerenity.description>
   
   <!-- EN: word of trust -->
-  <WordOfTrust.label>TODO</WordOfTrust.label>
+  <WordOfTrust.label>cuvânt de încredere</WordOfTrust.label>
   <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit him. -->
-  <WordOfTrust.description>TODO</WordOfTrust.description>
+  <WordOfTrust.description>Vorbește cu prizonierul în timp ce folosești sugestia psihică pentru a-i reduce rezistența la recrutare. Acest lucru poate reduce doar rezistența unui prizonier, dar nu îl poate recruta.</WordOfTrust.description>
   
 </LanguageData>

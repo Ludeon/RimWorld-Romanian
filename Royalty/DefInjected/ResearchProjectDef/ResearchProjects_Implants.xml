@@ -1,59 +1,59 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: artificial metabolism -->
-  <ArtificialMetabolism.label>TODO</ArtificialMetabolism.label>
+  <ArtificialMetabolism.label>metabolism artificial</ArtificialMetabolism.label>
   <!-- EN: Craft bionics that process food more safely or efficiently than a biological stomach. -->
-  <ArtificialMetabolism.description>TODO</ArtificialMetabolism.description>
+  <ArtificialMetabolism.description>Artizanat bionic care procesează mâncarea mai sigur sau mai eficient decât un stomac biologic.</ArtificialMetabolism.description>
   
   <!-- EN: brain wiring -->
-  <BrainWiring.label>TODO</BrainWiring.label>
+  <BrainWiring.label>cablarea creierului</BrainWiring.label>
   <!-- EN: Craft brain implants that induce or prevent blunt sensations like joy or pain. -->
-  <BrainWiring.description>TODO</BrainWiring.description>
+  <BrainWiring.description>Creați implanturi cerebrale care să inducă sau să prevină senzațiile bruște precum bucuria sau durerea.</BrainWiring.description>
   
   <!-- EN: circadian influence -->
-  <CircadianInfluence.label>TODO</CircadianInfluence.label>
+  <CircadianInfluence.label>influență circadiană</CircadianInfluence.label>
   <!-- EN: Craft brain implants that chemically manipulate the circadian rhythm, reducing or altering the need to sleep. -->
-  <CircadianInfluence.description>TODO</CircadianInfluence.description>
+  <CircadianInfluence.description>Creați implanturi cerebrale care manipulează chimic ritmul circadian, reducând sau modificând nevoia de a dormi.</CircadianInfluence.description>
   
   <!-- EN: compact weaponry -->
-  <CompactWeaponry.label>TODO</CompactWeaponry.label>
+  <CompactWeaponry.label>armament compact</CompactWeaponry.label>
   <!-- EN: Craft compact, concealable bionic weapons which can be embedded in various body parts. -->
-  <CompactWeaponry.description>TODO</CompactWeaponry.description>
+  <CompactWeaponry.description>Creează arme bionice compacte și ușor de ascuns, care pot fi încorporate în diferite părți ale corpului.</CompactWeaponry.description>
   
   <!-- EN: flesh shaping -->
-  <FleshShaping.label>TODO</FleshShaping.label>
+  <FleshShaping.label>modelarea cărnii</FleshShaping.label>
   <!-- EN: Craft bionics which induce the reshaping or natural flesh, usually for the purposes of aesthetic enhancement or personal pleasure. -->
-  <FleshShaping.description>TODO</FleshShaping.description>
+  <FleshShaping.description>Realizează obiecte bionice care induc remodelarea cărnii naturale, de obicei în scopul îmbunătățirii estetice sau al plăcerii personale.</FleshShaping.description>
   
   <!-- EN: healing factors -->
-  <HealingFactors.label>TODO</HealingFactors.label>
+  <HealingFactors.label>factori de vindecare</HealingFactors.label>
   <!-- EN: Craft bionics that enhance natural healing processes. -->
-  <HealingFactors.description>TODO</HealingFactors.description>
+  <HealingFactors.description>Creați bionici care îmbunătățesc procesele naturale de vindecare.</HealingFactors.description>
   
   <!-- EN: molecular analysis -->
-  <MolecularAnalysis.label>TODO</MolecularAnalysis.label>
+  <MolecularAnalysis.label>analiză moleculară</MolecularAnalysis.label>
   <!-- EN: Craft bionics with molecular analyzers for assisting the immune system or analyzing food. -->
-  <MolecularAnalysis.description>TODO</MolecularAnalysis.description>
+  <MolecularAnalysis.description>Meșteșugărește bionici cu analizatori moleculari pentru asistarea sistemului imunitar sau pentru analizarea alimentelor.</MolecularAnalysis.description>
   
   <!-- EN: neural computation -->
-  <NeuralComputation.label>TODO</NeuralComputation.label>
+  <NeuralComputation.label>calcul neuronal</NeuralComputation.label>
   <!-- EN: Craft brain implants that assist thought and learning by use of a direct, shallow brain-computer interface. -->
-  <NeuralComputation.description>TODO</NeuralComputation.description>
+  <NeuralComputation.description>Crearea de implanturi cerebrale care să ajute la gândire și învățare prin utilizarea unei interfețe directe și superficiale între creier și calculator.</NeuralComputation.description>
   
   <!-- EN: skin hardening -->
-  <SkinHardening.label>TODO</SkinHardening.label>
+  <SkinHardening.label>întărirea pielii</SkinHardening.label>
   <!-- EN: Craft bionic implants which induce the toughening of natural skin, producing an armor-like effect. -->
-  <SkinHardening.description>TODO</SkinHardening.description>
+  <SkinHardening.description>Realizează implanturi bionice care induc întărirea pielii naturale, producând un efect asemănător unei armuri.</SkinHardening.description>
   
   <!-- EN: specialized limbs -->
-  <SpecializedLimbs.label>TODO</SpecializedLimbs.label>
+  <SpecializedLimbs.label>membre specializate</SpecializedLimbs.label>
   <!-- EN: Craft specialized bionic limbs built for specific purposes - both combat and labor. -->
-  <SpecializedLimbs.description>TODO</SpecializedLimbs.description>
+  <SpecializedLimbs.description>Creați membre bionice specializate, construite pentru scopuri specifice - atât pentru luptă, cât și pentru muncă.</SpecializedLimbs.description>
   
   <!-- EN: poison synthesis -->
-  <VenomSynthesis.label>TODO</VenomSynthesis.label>
+  <VenomSynthesis.label>sinteză de otravă</VenomSynthesis.label>
   <!-- EN: Craft bionics that synthesize venom from internal chemical reactors for use in toxifying attacks. -->
-  <VenomSynthesis.description>TODO</VenomSynthesis.description>
+  <VenomSynthesis.description>Artizanat bionic care sintetizează venin din reactoare chimice interne pentru a fi folosit în atacuri toxice.</VenomSynthesis.description>
   
 </LanguageData>
