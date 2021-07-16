@@ -67,3 +67,4 @@ This non-exhaustive table is for keeping consistent translations of certain word
 |alphabeaver|alfacastor|
 |stealth|furișare|
 |nuzzle|giugiulit|
+|outlaw|proscris|
