@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->Using your long-range mineral scanner, [worker_definite] has found a lump of [targetMineable_label] nearby.\n\nUnfortunately, it won't last - others will mine it first in [timeoutTicks_duration] if we don't.[lumpThreatDescription]</li>
   -->
-  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>TODO</LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+    <li>questDescription->Folosind scanerul tău de minerale cu rază lungă de acțiune, [worker_definite] a găsit o bucată de [targetMineable_label] în apropiere.\n\nDin păcate, nu va dura mult - alții o vor extrage primii în [timeoutTicks_duration] dacă nu o facem noi.[lumpThreatDescription]</li>
+  </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[lump] of [targetMineableThing_label]</li>
     <li>questName->[targetMineableThing_label] [lump]</li>
@@ -26,7 +28,26 @@
     <li>discovered->found</li>
     <li>discovered->scanned</li>
   -->
-  <LongRangeMineralScannerLump.questNameRules.rulesStrings>TODO</LongRangeMineralScannerLump.questNameRules.rulesStrings>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings>
+    <li>questName->[lump] de [targetMineableThing_label]</li>
+    <li>questName->[targetMineableThing_label] în [lump]</li>
+    <li>questName->[adj] [targetMineableThing_label]</li>
+    <li>questName->[targetMineableThing_label] [discovered]</li>
+    <li>lump->masă</li>
+    <li>lump->grămadă</li>
+    <li>lump->depozit</li>
+    <li>lump->filon</li>
+    <li>lump->bloc</li>
+    <li>lump->grămadă</li>
+    <li>adj->distant</li>
+    <li>adj->îndepărtat</li>
+    <li>adj->necunoscut</li>
+    <li>adj->scanat</li>
+    <li>discovered->descoperit</li>
+    <li>discovered->detectat</li>
+    <li>discovered->găsit</li>
+    <li>discovered->scanat</li>
+  </LongRangeMineralScannerLump.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>Misiunea a expirat: [resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
   <!-- EN: Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired. -->

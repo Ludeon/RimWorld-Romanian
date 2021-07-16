@@ -5,7 +5,10 @@
     <li>questDescription(askerIsNull==true)->We've intercepted messages about a collection of valuable items worth [itemStashContentsValue] not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
     <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a collection of valuable items worth [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
   -->
-  <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>TODO</OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+  <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Am interceptat mesaje despre o colecție de obiecte valoroase în valoare de [itemStashContentsValue] nu departe de [map_definite]. Colecția constă din:\n\n[itemStashContents]\n\nSe pare că [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] din [asker_faction_name], ne-a informat despre o colecție de obiecte valoroase în valoare de [itemStashContentsValue] nu departe de noi. Colecția constă din:\n\n[itemStashContents]\n\n[asker_label] spune că [allSitePartsDescriptionsExceptFirst]</li>
+  </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</li>
     <li>questName->[stash] of [treasure]</li>
@@ -19,7 +22,19 @@
     <li>treasure->Goodies</li>
     <li>treasure->Supplies</li>
   -->
-  <OpportunitySite_ItemStash.questNameRules.rulesStrings>TODO</OpportunitySite_ItemStash.questNameRules.rulesStrings>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[stash] de [treasure] a lui [asker_nameDef]</li>
+    <li>questName->[stash] de [treasure]</li>
+    <li>stash->Depozitul</li>
+    <li>stash->Cașeta</li>
+    <li>stash->Colecția</li>
+    <li>stash->Coliba</li>
+    <li>treasure->Comoară</li>
+    <li>treasure->Obiecte de valoare</li>
+    <li>treasure->Fortună</li>
+    <li>treasure->Bunătăți</li>
+    <li>treasure->Consumabile</li>
+  </OpportunitySite_ItemStash.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>Misiune expirată: [resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->

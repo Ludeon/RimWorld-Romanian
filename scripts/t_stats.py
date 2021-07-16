@@ -54,10 +54,11 @@ class TElement(ET.Element):
                 stats.t_unused += 1
             elif elm.tag != ET.Comment:
                 en_words = count_words(last_comment.text)
-                stats.t_total += 1
-                stats.w_total += en_words
                 if is_script_tag(last_comment.text):
                     stats.w_script += en_words
+                last_comment = ET.Comment("")   # hotfix
+                stats.t_total += 1
+                stats.w_total += en_words
                 if elm.text == "TODO":
                     stats.t_todo += 1
                     stats.w_todo += en_words
