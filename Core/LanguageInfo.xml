@@ -9,9 +9,5 @@
       <roleKey>Credit_Translator</roleKey>
       <creditee>Neculai 'nomius' Balaban</creditee>
     </li>
-    <li Class="CreditRecord_Role">
-      <roleKey>Credit_Translator</roleKey>
-      <creditee>Răzvan Simion</creditee>
-    </li>
   </credits>
 </LanguageInfo>

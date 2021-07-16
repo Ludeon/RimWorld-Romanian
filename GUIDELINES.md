@@ -9,7 +9,7 @@
 - Check out the `scripts/tag_extract.py` script. It allows easy extraction&insertion of tag content into Google Translate / DeepL for insane translation throughput.
 
 # Choices of some translations
-This table is for keeping consistent translations of certain words.
+This non-exhaustive table is for keeping consistent translations of certain words.
 
 |Not to be translated|
 |-|
