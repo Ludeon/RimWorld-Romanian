@@ -57,7 +57,7 @@
   <Dresser.description>O comodă. Conferă un mic bonus de confort tuturor paturilor din apropiere. Amplasarea mai multor comode în apropierea aceluiași pat nu are niciun efect.</Dresser.description>
   
   <!-- EN: end table -->
-  <EndTable.label>noptieră.</EndTable.label>
+  <EndTable.label>noptieră</EndTable.label>
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
   <EndTable.description>O mică noptieră care face ca paturile din apropiere să fie un pic mai confortabile. Trebuie să fie plasată direct lângă capul patului. Amplasarea mai multor noptiere lângă același pat nu are niciun efect.</EndTable.description>
   

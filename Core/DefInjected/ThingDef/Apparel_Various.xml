@@ -7,7 +7,7 @@
   <Apparel_ArmorRecon.description>Un costum de armură ușoară cu propulsie parțială, conceput pentru a permite mișcări rapide. Plăcile ușoare, țesute din plastel, blochează atacurile fără a compromite mobilitatea, iar asistenții neuro-memetici din partea inferioară a corpului permit unui om să poarte armura și să se miște cu ușurință.\n\nArmajul de acest tip este adesea folosit de trupele imperiale de recunoaștere și de forțele de poliție ale lumii centrale</Apparel_ArmorRecon.description>
   
   <!-- EN: T-shirt -->
-  <Apparel_BasicShirt.label>Tricou</Apparel_BasicShirt.label>
+  <Apparel_BasicShirt.label>tricou</Apparel_BasicShirt.label>
   <!-- EN: A simple T-shirt. -->
   <Apparel_BasicShirt.description>Un tricou simplu.</Apparel_BasicShirt.description>
   
@@ -47,9 +47,9 @@
   <Apparel_Pants.description>Un set simplu de pantaloni.</Apparel_Pants.description>
   
   <!-- EN: parka -->
-  <Apparel_Parka.label>parkă</Apparel_Parka.label>
+  <Apparel_Parka.label>geacă</Apparel_Parka.label>
   <!-- EN: A parka for staying warm in even the coldest of temperatures. -->
-  <Apparel_Parka.description>O parcă pentru a sta la căldură chiar și la cele mai scăzute temperaturi.</Apparel_Parka.description>
+  <Apparel_Parka.description>O geacă pentru a sta la căldură chiar și la cele mai scăzute temperaturi.</Apparel_Parka.description>
   
   <!-- EN: plate armor -->
   <Apparel_PlateArmor.label>armură cu plăci</Apparel_PlateArmor.label>
@@ -62,7 +62,7 @@
   <Apparel_PowerArmor.description>Un costum de armură cu motor. Plăcile stratificate cu țesătură de plastel sunt foarte eficiente în oprirea atacurilor, cu puține secțiuni de articulații vulnerabile. Asistenții neuro-memetici permit unui om să poarte armura și să se miște cu ușurință.\n\nArmajul de acest tip este adesea folosit de către ienicerii imperiali și pușcașii marini spațiali cu incursiune rapidă.</Apparel_PowerArmor.description>
   
   <!-- EN: tribalwear -->
-  <Apparel_TribalA.label>tribalwear</Apparel_TribalA.label>
+  <Apparel_TribalA.label>veșmânt tribal</Apparel_TribalA.label>
   <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
   <Apparel_TribalA.description>O haină pentru tot corpul realizată cu ajutorul uneltelor neolitice. Deși poate părea primitiv, este eficient în izolarea purtătorului.</Apparel_TribalA.description>
   

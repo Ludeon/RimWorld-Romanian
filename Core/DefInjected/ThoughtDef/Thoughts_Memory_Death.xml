@@ -161,9 +161,9 @@
   <MyWifeDied.stages.my_wife_died.description>Soția mea este moartă. Am rămas singur...</MyWifeDied.stages.my_wife_died.description>
   
   <!-- EN: my rival {0} died -->
-  <PawnWithBadOpinionDied.stages.my_rival_died.label>dușmanul meu, {0}, a murit</PawnWithBadOpinionDied.stages.my_rival_died.label>
+  <PawnWithBadOpinionDied.stages.my_rival_died.label>rivalul meu, {0}, a murit</PawnWithBadOpinionDied.stages.my_rival_died.label>
   <!-- EN: Serves them right. At least there's some justice in this world. -->
-  <PawnWithBadOpinionDied.stages.my_rival_died.description>Așa merită. Mai există puțină dreptate în această lume...</PawnWithBadOpinionDied.stages.my_rival_died.description>
+  <PawnWithBadOpinionDied.stages.my_rival_died.description>Așa merită. Mai există puțină dreptate pe lumea asta...</PawnWithBadOpinionDied.stages.my_rival_died.description>
   
   <!-- EN: my friend {0} died -->
   <PawnWithGoodOpinionDied.stages.my_friend_died.label>prietenul meu, {0}, a murit </PawnWithGoodOpinionDied.stages.my_friend_died.label>
