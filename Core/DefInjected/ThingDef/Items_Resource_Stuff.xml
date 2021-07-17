@@ -55,6 +55,8 @@
   <WoodLog.label>lemn</WoodLog.label>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
   <WoodLog.description>Lemn din copaci sau din alte plante fibroase. Util pentru construirea de structuri și arme. Este un combustibil bun pentru focuri de tabără și generatoare și poate fi rafinat în combustibil chimic. La nevoie, o bucată de lemn poate fi folosită ca armă sau ca picior.</WoodLog.description>
+  <!-- EN: wooden -->
+  <WoodLog.stuffProps.stuffAdjective>lemn</WoodLog.stuffProps.stuffAdjective>
   <!-- EN: log -->
   <WoodLog.tools.log.label>buștean</WoodLog.tools.log.label>
   
