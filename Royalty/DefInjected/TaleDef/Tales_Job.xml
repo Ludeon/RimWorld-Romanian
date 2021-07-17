@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: attended concert -->
-  <AttendedConcert.label>a participat la un concert</AttendedConcert.label>
+  <AttendedConcert.label>participare la concert</AttendedConcert.label>
   <!-- EN:
     <li>tale_noun->[ATTENDER_nameDef] attending [ORGANIZER_nameDef]'s concert</li>
     <li>tale_noun->[ATTENDER_nameDef] listening to [ORGANIZER_nameDef]'s performance</li>
@@ -14,7 +14,17 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s dance along.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s listen attentively.</li>
   -->
-  <AttendedConcert.rulePack.rulesStrings>TODO</AttendedConcert.rulePack.rulesStrings>
+  <AttendedConcert.rulePack.rulesStrings>
+    <li>tale_noun->[ATTENDER_nameDef] participă la concertul lui [ORGANIZER_nameDef]</li>
+    <li>tale_noun->[ATTENDER_nameDef] ascultă concertul lui [ORGANIZER_nameDef]</li>
+    <li>image->[ATTENDER_nameFull] ascultând în liniște, [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] se bucură de spectacolul lui [ORGANIZATOR_numeleFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] legănându-se pe muzică [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] absorbit în sunetul [circumstance_group]</li>
+    <li>circumstance_phrase->în timp ce aplaudă</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_AnyPlural] dansează împreună.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal_AnyPlural] ascultă cu atenție.</li>
+  </AttendedConcert.rulePack.rulesStrings>
   
   <!-- EN: held concert -->
   <HeldConcert.label>concert susținut</HeldConcert.label>
@@ -28,6 +38,15 @@
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s listen nearby.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s listen nearby.</li>
   -->
-  <HeldConcert.rulePack.rulesStrings>TODO</HeldConcert.rulePack.rulesStrings>
+  <HeldConcert.rulePack.rulesStrings>
+    <li>tale_noun->[ORGANIZER_nameDef] susținând un concert</li>
+    <li>image->[ORGANIZER_nameFull] cântând cântecul lor emblematic [circumstance_group]</li>
+    <li>image->[ORGANIZER_nameFull] invitând mulțimea să cânte împreună cu ei</li>
+    <li>image->[ORGANIZER_nameFull] interpretând un cântec inspirat</li>
+    <li>image->[ORGANIZER_nameFull] interpretând o piesă dificilă [circumstance_group]</li>
+    <li>circumstance_phrase->cu o expresie intensă</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob_AnyPlural] ascultă în apropiere.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal_AnyPlural] ascultă în apropiere.</li>
+  </HeldConcert.rulePack.rulesStrings>
   
 </LanguageData>
