@@ -301,11 +301,11 @@
 
   <!-- Pain category -->
   <!-- EN: itchy -->
-  <PainCategory_LowPain>usturător</PainCategory_LowPain>
+  <PainCategory_LowPain>mă irită</PainCategory_LowPain>
   <!-- EN: aching -->
-  <PainCategory_MediumPain>dureros</PainCategory_MediumPain>
+  <PainCategory_MediumPain>ustură</PainCategory_MediumPain>
   <!-- EN: painful -->
-  <PainCategory_HighPain>chinuitor</PainCategory_HighPain>
+  <PainCategory_HighPain>doare</PainCategory_HighPain>
   
   <!-- ExtraFactionType -->
   <!-- EN: home faction -->
