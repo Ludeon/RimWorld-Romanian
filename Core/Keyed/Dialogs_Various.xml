@@ -249,7 +249,7 @@
   <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
   <RecipeCannotHaveTargetCount>(Această rețetă nu poate avea un număr țintă deoarece are produse multiple sau imprevizibile).</RecipeCannotHaveTargetCount>
   <!-- EN: Work amount -->
-  <WorkAmount>Suma de lucru</WorkAmount>
+  <WorkAmount>Cantitatea de muncă</WorkAmount>
   <!-- EN: Minimum skills: -->
   <MinimumSkills>Competențe minime:</MinimumSkills>
   <!-- EN: Requires {0} {1} -->

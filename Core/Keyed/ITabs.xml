@@ -159,7 +159,7 @@
   <!-- EN: no immediate danger -->
   <WontBleedOutSoon>fără pericol imediat</WontBleedOutSoon>
   <!-- EN: Overview -->
-  <HealthOverview>Prezentare generală</HealthOverview>
+  <HealthOverview>Sumar</HealthOverview>
   <!-- EN: Operations ({0}) -->
   <MedicalOperationsShort>Operațiuni ({0})</MedicalOperationsShort>
   <!-- EN: Modifications ({0}) -->

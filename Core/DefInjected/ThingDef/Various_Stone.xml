@@ -5,56 +5,61 @@
   <BlocksGranite.label>blocuri de granit</BlocksGranite.label>
   <!-- EN: Blocks of solid granite. Granite is a very hard stone. -->
   <BlocksGranite.description>Blocuri de granit masiv. Granitul este o piatră foarte dură.</BlocksGranite.description>
+  <BlocksGranite.stuffProps.stuffAdjective>granit</BlocksGranite.stuffProps.stuffAdjective>
   
   <!-- EN: limestone blocks -->
   <BlocksLimestone.label>blocuri de calcar</BlocksLimestone.label>
   <!-- EN: Blocks of solid limestone. -->
   <BlocksLimestone.description>Blocuri de calcar masiv.</BlocksLimestone.description>
+  <BlocksLimestone.stuffProps.stuffAdjective>calcar</BlocksLimestone.stuffProps.stuffAdjective>
   
   <!-- EN: marble blocks -->
   <BlocksMarble.label>blocuri de marmură</BlocksMarble.label>
   <!-- EN: Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt. -->
   <BlocksMarble.description>Blocuri de marmură masivă. Marmura este o piatră moale și frumoasă, cunoscută pentru faptul că este ușor de sculptat.</BlocksMarble.description>
+  <BlocksMarble.stuffProps.stuffAdjective>marmură</BlocksMarble.stuffProps.stuffAdjective>
   
   <!-- EN: sandstone blocks -->
   <BlocksSandstone.label>blocuri de gresie</BlocksSandstone.label>
   <!-- EN: Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily. -->
   <BlocksSandstone.description>Blocuri de gresie masivă. Gresia este o rocă relativ moale și se sparge ușor.</BlocksSandstone.description>
+  <BlocksSandstone.stuffProps.stuffAdjective>gresie</BlocksSandstone.stuffProps.stuffAdjective>
   
   <!-- EN: slate blocks -->
   <BlocksSlate.label>blocuri de ardezie</BlocksSlate.label>
   <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
   <BlocksSlate.description>Blocuri de ardezie masivă. O rocă cu aspect plictisitor care se ciobește ușor.</BlocksSlate.description>
+  <BlocksSlate.stuffProps.stuffAdjective>ardezie</BlocksSlate.stuffProps.stuffAdjective>
   
   <!-- EN: granite chunk -->
-  <ChunkGranite.label>bucată de granit</ChunkGranite.label>
+  <ChunkGranite.label>bolovan de granit</ChunkGranite.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkGranite.description>O bucată de rocă. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkGranite.description>
+  <ChunkGranite.description>Un bolovan de rocă. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkGranite.description>
   
   <!-- EN: limestone chunk -->
-  <ChunkLimestone.label>bucată de calcar</ChunkLimestone.label>
+  <ChunkLimestone.label>bolovan de calcar</ChunkLimestone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkLimestone.description>O bucată de piatră. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkLimestone.description>
+  <ChunkLimestone.description>Un bolovan de piatră. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkLimestone.description>
   
   <!-- EN: marble chunk -->
-  <ChunkMarble.label>bucată de marmură</ChunkMarble.label>
+  <ChunkMarble.label>bolovan de marmură</ChunkMarble.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkMarble.description>O bucată de piatră. Poate fi tăiată în blocuri de piatră utilizabile.</ChunkMarble.description>
+  <ChunkMarble.description>Un bolovan de piatră. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkMarble.description>
   
   <!-- EN: sandstone chunk -->
-  <ChunkSandstone.label>bucată de gresie</ChunkSandstone.label>
+  <ChunkSandstone.label>bolovan de gresie</ChunkSandstone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkSandstone.description>O bucată de piatră. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkSandstone.description>
+  <ChunkSandstone.description>Un bolovan de piatră. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkSandstone.description>
   
   <!-- EN: steel slag chunk -->
-  <ChunkSlagSteel.label>bucată de zgură de oțel</ChunkSlagSteel.label>
+  <ChunkSlagSteel.label>bolovan de zgură de oțel</ChunkSlagSteel.label>
   <!-- EN: A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel. -->
   <ChunkSlagSteel.description>O bucată de zgură de oțel. Deși este inutilă în forma sa actuală, poate fi topită pentru a recupera oțelul.</ChunkSlagSteel.description>
   
   <!-- EN: slate chunk -->
-  <ChunkSlate.label>bucată de ardezie</ChunkSlate.label>
+  <ChunkSlate.label>bolovan de ardezie</ChunkSlate.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkSlate.description>O bucată de piatră. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkSlate.description>
+  <ChunkSlate.description>Un bolovan de piatră. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkSlate.description>
   
   <!-- EN: granite -->
   <Granite.label>granit</Granite.label>
