@@ -14,7 +14,7 @@
   <!-- EN: Animal taming -->
   <AnimalTaming.label>Îmblânzirea animalelor</AnimalTaming.label>
   <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
-  <AnimalTaming.helpText>Puteți desemna coloniști să îmblânzească un animal sălbatic cu indicativul TAME.\n\nColoniștii vor oferi animalului hrană și vor încerca să-l îmblânzească.\n\n\nAtenție: Unele animale pot reacționa violent la încercările eșuate de îmblânzire.</AnimalTaming.helpText>
+  <AnimalTaming.helpText>Puteți desemna coloniști să îmblânzească un animal sălbatic cu indicativul TAME.\n\nColoniștii vor oferi animalului hrană și vor încerca să-l îmblânzească.\n\nAtenție: Unele animale pot reacționa violent la încercările eșuate de îmblânzire.</AnimalTaming.helpText>
   
   <!-- EN: Animal training -->
   <AnimalTraining.label>Antrenarea animalelor</AnimalTraining.label>

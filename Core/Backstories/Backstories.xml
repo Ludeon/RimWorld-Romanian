@@ -5405,7 +5405,7 @@
     <!-- EN: sniper -->
     <titleShort>lunetist</titleShort>
     <!-- EN: [PAWN_nameDef] didn't know why [PAWN_pronoun] joined the military, but [PAWN_pronoun] stayed to protect [PAWN_possessive] fellow soldiers.\n\nArmy life broke [PAWN_objective] down and built [PAWN_objective] back up. It taught [PAWN_objective] marksmanship, hand to hand combat and how to patch a bullet wound in a hurry. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] nu știa de ce s-a înrolat în armată, dar a rămas pentru a-și proteja camarazii.\n\nViața în armată l-a dărâmat și l-a reconstruit. L-a învățat cum să tragă la țintă, să lupte corp la corp și cum să cârpească o rană de glonț în grabă. : [PAWN_nameDef] nu știa de ce s-a înrolat în armată, dar a rămas pentru a-și proteja camarazii.\n\n\nViața militară a dărâmat-o și a reconstruit-o. A învățat să tragă la țintă, să lupte corp la corp și cum să cârpească în grabă o rană de glonț.}
+    <desc>{PAWN_gender ? [PAWN_nameDef] nu știa de ce s-a înrolat în armată, dar a rămas pentru a-și proteja camarazii.\n\nViața în armată l-a dărâmat și l-a reconstruit. L-a învățat cum să tragă la țintă, să lupte corp la corp și cum să cârpească o rană de glonț în grabă. : [PAWN_nameDef] nu știa de ce s-a înrolat în armată, dar a rămas pentru a-și proteja camarazii.\n\nViața militară a dărâmat-o și a reconstruit-o. A învățat să tragă la țintă, să lupte corp la corp și cum să cârpească în grabă o rană de glonț.}
 </desc>
   </OverwatchSniper42>
   

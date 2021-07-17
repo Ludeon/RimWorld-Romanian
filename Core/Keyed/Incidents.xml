@@ -195,7 +195,7 @@
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>Cerere de caravană</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>O așezare din apropiere, {0}, vă contactează cu o cerere specială de comerț. Ar dori să cumpere:\n\n {1} (în valoare de {2})\n\n\nÎn schimb, ei oferă:\n\n\n {3} (în valoare de {4})\n\n\nAceastă cerere expiră după: {5}\n\n\nDacă doriți să faceți acest schimb, trimiteți o caravană cu proviziile cerute. Durata estimată a călătoriei este de {6}. Puteți revizui această ofertă selectând {0} pe harta lumii.</LetterCaravanRequest>
+  <LetterCaravanRequest>O așezare din apropiere, {0}, vă contactează cu o cerere specială de comerț. Ar dori să cumpere:\n\n {1} (în valoare de {2})\n\nÎn schimb, ei oferă:\n\n {3} (în valoare de {4})\n\nAceastă cerere expiră după: {5}\n\nDacă doriți să faceți acest schimb, trimiteți o caravană cu proviziile cerute. Durata estimată a călătoriei este de {6}. Puteți revizui această ofertă selectând {0} pe harta lumii.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
   <CaravanRequestInfo>Solicitare: {0} ({2}) ({1} rămas)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->

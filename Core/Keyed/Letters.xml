@@ -75,7 +75,7 @@
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>Astăzi este ziua de naștere cronologică a lui {0}! Din punct de vedere biologic, {1} are {3} ani.\n\nCronologic, {1} tocmai a împlinit {2}.\n\nNotează că, deoarece oamenii nu îmbătrânesc în timpul criptosomnului, ziua de naștere cronologică este separată de cea biologică.</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
-  <BirthdayBiologicalAgeInjuries>{0_nameFull} a ajuns la vârsta biologică de {1}.\n\n\nDin păcate, {0_nameFull} a căpătat următoarele boli din cauza îmbătrânirii:\n{2}</BirthdayBiologicalAgeInjuries>
+  <BirthdayBiologicalAgeInjuries>{0_nameFull} a ajuns la vârsta biologică de {1}.\n\nDin păcate, {0_nameFull} a căpătat următoarele boli din cauza îmbătrânirii:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
   <LetterLabelNewDisease>Boala</LetterLabelNewDisease>
@@ -296,7 +296,7 @@
   <!-- EN: Quest completed -->
   <LetterLabelDefeatAllEnemiesQuestCompleted>Misiune încheiată</LetterLabelDefeatAllEnemiesQuestCompleted>
   <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
-  <LetterDefeatAllEnemiesQuestCompleted>Ați învins avanpostul inamicului!\n\n\nPlata de la {0} a sosit, iar relațiile dintre facțiuni s-au îmbunătățit cu {1}.</LetterDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>Ați învins avanpostul inamicului!\n\nPlata de la {0} a sosit, iar relațiile dintre facțiuni s-au îmbunătățit cu {1}.</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Long-range mineral scanner -->
   <!-- EN: Distant resource scanned -->
