@@ -10,7 +10,7 @@
   <!-- EN: You're about to change the heir of the title {HOLDER_nameIndef} received from {0_name}. This requires building a monument in a limited time, to consecrate the new inheritance. -->
   <MakeHeirConfirm>Sunteți pe cale să schimbați moștenitorul titlului {HOLDER_nameIndef} primit de la {0_name}. Acest lucru necesită construirea unui monument într-un timp limitat, pentru a consacra noua moștenire.</MakeHeirConfirm>
   <!-- EN: This will upset {HOLDER_possessive} current heir {HEIR_nameFull}. -->
-  <MakeHeirPreviousHeirWarning>Acest lucru îl va supăra pe {HOLDER_posesor} actualul moștenitor {HEIR_nameFull}.</MakeHeirPreviousHeirWarning>
+  <MakeHeirPreviousHeirWarning>Acest lucru îl va supăra pe {HOLDER_possessive} actualul moștenitor {HEIR_nameFull}.</MakeHeirPreviousHeirWarning>
 
   <!-- Call aid -->
   <!-- EN: Call aid... -->

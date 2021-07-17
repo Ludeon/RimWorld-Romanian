@@ -6,7 +6,7 @@
   <!-- EN: Mental state: Tantrum -->
   <BedroomTantrum.baseInspectLine>Stare mentală: Criză de furie</BedroomTantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
-  <BedroomTantrum.beginLetter>{0} are o criză de furie.\n\n[PAWN_pronume] va sparge lucruri în camera [PAWN_posesiv].</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetter>{0} are o criză de furie.\n\n[PAWN_pronoun] va sparge lucruri în camera [PAWN_possessive].</BedroomTantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
   <BedroomTantrum.recoveryMessage>{0} nu mai are o criză de furie.</BedroomTantrum.recoveryMessage>
   
@@ -63,7 +63,7 @@
   <!-- EN: Mental state: Given up and leaving -->
   <GiveUpExit.baseInspectLine>Stare mentală: A renunțat și pleacă</GiveUpExit.baseInspectLine>
   <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
-  <GiveUpExit.beginLetter>{0} a renunțat la această comunitate.\n\n[PAWN_pronoun] a decis să plece și să caute o viață mai bună în altă parte. Poți încerca să îl arestezi pe [PAWN_obiectiv] în timp ce [PAWN_pronoun] pleacă. În caz contrar, s-ar putea să-l mai vedeți pe [PAWN_obiectiv] într-o zi.</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetter>{0} a renunțat la această comunitate.\n\n[PAWN_pronoun] a decis să plece și să caute o viață mai bună în altă parte. Poți încerca să îl arestezi pe [PAWN_objective] în timp ce [PAWN_pronoun] pleacă. În caz contrar, s-ar putea să-l mai vedeți pe [PAWN_objective] într-o zi.</GiveUpExit.beginLetter>
   <!-- EN: gave up -->
   <GiveUpExit.beginLetterLabel>a renunțat</GiveUpExit.beginLetterLabel>
   <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
@@ -103,7 +103,7 @@
   <!-- EN: Mental state: Sadistic rage -->
   <SadisticRage.baseInspectLine>Stare mentală: Furie sadică.</SadisticRage.baseInspectLine>
   <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
-  <SadisticRage.beginLetter>{0} a intrat într-o furie sadică.\n\n[PAWN_pronume] își va vărsa furia [PAWN_posesiv] asupra prizonierilor.</SadisticRage.beginLetter>
+  <SadisticRage.beginLetter>{0} a intrat într-o furie sadică.\n\n[PAWN_pronoun] își va vărsa furia [PAWN_possessive] asupra prizonierilor.</SadisticRage.beginLetter>
   <!-- EN: {0} is no longer in a sadistic rage. -->
   <SadisticRage.recoveryMessage>{0} nu se mai află într-o furie sadică.</SadisticRage.recoveryMessage>
   
@@ -130,7 +130,7 @@
   <!-- EN: Mental state: Insulting spree against {0} -->
   <TargetedInsultingSpree.baseInspectLine>Stare mentală: criză de insulte împotriva lui {0}</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
-  <TargetedInsultingSpree.beginLetter>{0} și-a fixat furia [PAWN_posesiv] pe {1}.\n\n[PAWN_pronume] îl va urmări pe {1} de colo-colo, aruncând insulte.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetter>{0} și-a fixat furia [PAWN_possessive] pe {1}.\n\n[PAWN_pronoun] îl va urmări pe {1} de colo-colo, aruncând insulte.</TargetedInsultingSpree.beginLetter>
   
   <!-- EN: tantrum -->
   <TargetedTantrum.label>criză de furie</TargetedTantrum.label>

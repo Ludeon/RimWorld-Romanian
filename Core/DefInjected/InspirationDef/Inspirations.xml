@@ -51,7 +51,7 @@
   <!-- EN: Inspired: Inspired surgery -->
   <Inspired_Surgery.baseInspectLine>Inspirat: Chirurgie inspirată</Inspired_Surgery.baseInspectLine>
   <!-- EN: The next time [PAWN_pronoun] performs a surgery, [PAWN_possessive] chance of success will be doubled. A small minimum chance of failure still applies.\n\nThe inspiration will end after 8 days, or when the surgery is performed. -->
-  <Inspired_Surgery.beginLetter>Data viitoare când [PAWN_pronume] va efectua o operație, șansele de reușită ale [PAWN_posesiv] vor fi dublate. O mică șansă minimă de eșec se aplică în continuare.\n\nInspirația se va încheia după 8 zile, sau când operația este efectuată.</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.beginLetter>Data viitoare când [PAWN_pronoun] va efectua o operație, șansele de reușită ale [PAWN_possessive] vor fi dublate. O mică șansă minimă de eșec se aplică în continuare.\n\nInspirația se va încheia după 8 zile, sau când operația este efectuată.</Inspired_Surgery.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired surgery). -->
   <Inspired_Surgery.endMessage>{0} nu mai este inspirat (operație inspirată).</Inspired_Surgery.endMessage>
   

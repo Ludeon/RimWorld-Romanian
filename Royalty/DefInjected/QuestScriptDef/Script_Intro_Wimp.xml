@@ -20,7 +20,7 @@
   <!-- EN: Manhunting [animalKindDef_label] -->
   <Intro_Wimp.LetterLabelAngryAnimal.slateRef>[animalKindDef_label] vânătoare de oameni</Intro_Wimp.LetterLabelAngryAnimal.slateRef>
   <!-- EN: The [animalKindDef_label] which was following [asker_nameFull] has arrived in the area. -->
-  <Intro_Wimp.LetterTextAngryAnimal.slateRef>[animalKindDef_etichetă_animal] care îl urmărea pe [asker_numele_întreg] a ajuns în zonă.</Intro_Wimp.LetterTextAngryAnimal.slateRef>
+  <Intro_Wimp.LetterTextAngryAnimal.slateRef>[animalKindDef_label] care îl urmărea pe [asker_nameFull] a ajuns în zonă.</Intro_Wimp.LetterTextAngryAnimal.slateRef>
   <!-- EN: Should depart on shuttle -->
   <Intro_Wimp.InspectStringDepartShuttle.slateRef>Ar trebui să plece cu naveta</Intro_Wimp.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->

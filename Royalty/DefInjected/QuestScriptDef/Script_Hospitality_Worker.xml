@@ -10,11 +10,11 @@
   <!-- EN: Shuttle arrived -->
   <Hospitality_Util_Worker.LetterLabelShuttleArrived.slateRef>A sosit naveta</Hospitality_Util_Worker.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect [lodgersLabelSingOrPluralDef]. Be sure to have these people on the shuttle before it leaves in [shuttleLeaveDelayTicks_duration]:\n\n[lodgers] -->
-  <Hospitality_Util_Worker.LetterTextShuttleArrived.slateRef>Naveta a sosit pentru a colecta [lodgersLabelSingOrPluralDef]. Asigură-te că aceste persoane se află în navetă înainte ca aceasta să plece în [shuttleLeaveDelayveTelayTicks_duration]:\n\n[lodgers]</Hospitality_Util_Worker.LetterTextShuttleArrived.slateRef>
+  <Hospitality_Util_Worker.LetterTextShuttleArrived.slateRef>Naveta a sosit pentru a colecta [lodgersLabelSingOrPluralDef]. Asigură-te că aceste persoane se află în navetă înainte ca aceasta să plece în [shuttleLeaveDelayTicks_duration]:\n\n[lodgers]</Hospitality_Util_Worker.LetterTextShuttleArrived.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelGuestDied.slateRef>Oaspetele a murit: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestDied.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has died. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextGuestDied.slateRef>[letterSubject], pe care ai fost însărcinat să îl protejați, a murit. </Hospitality_Util_Worker.LetterTextGuestDied.slateRef>
+  <Hospitality_Util_Worker.LetterTextGuestDied.slateRef>[letterSubject], pe care ai fost însărcinat să îl protejați, a murit. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>Oaspete capturat: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingQuest] -->
@@ -26,13 +26,13 @@
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>Operație chirurgicală neautorizată: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on [letterSubject]. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>O intervenție chirurgicală neautorizată, care încalcă legea, a fost efectuată pe [letterSubiect]. </Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>
+  <Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>O intervenție chirurgicală neautorizată, care încalcă legea, a fost efectuată pe [letterSubject]. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>Oaspete pierdut: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LetterTextGuestLost.slateRef>[letterSubject], pe care ați fost însărcinat să îl protejați, a dispărut. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestLost.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>Oaspete pierdut: {SUBJECT_definit}</Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>
+  <Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>Oaspete pierdut: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has run wild. [remainingWillNowLeave][failLetterEndingCommon] -->
   <Hospitality_Util_Worker.LetterTextLodgerRanWild.slateRef>[letterSubject], pe care ai fost însărcinat să îl protejezi, a luat-o razna. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextLodgerRanWild.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
@@ -50,7 +50,7 @@
   <!-- EN: Quest completed -->
   <Hospitality_Util_Worker.LetterLabelGoodwillSuccessQuestCompleted.slateRef>Căutare finalizată</Hospitality_Util_Worker.LetterLabelGoodwillSuccessQuestCompleted.slateRef>
   <!-- EN: You have successfully completed the quest '[resolvedQuestName]'!\n\n[lodgersLabelSingOrPluralDef] said [lodgersPronoun] [lodgersWasWere] willing to reward quality accommodation. The average mood of [lodgersLabelSingOrPluralDef] was {AVERAGEMOOD} during [theirHisHer] stay, so your goodwill with [asker_faction_name] has increased by {GOODWILL} -->
-  <Hospitality_Util_Worker.LetterTextGoodwillSuccessQuestCompleted.slateRef>Ați terminat cu succes misiunea '[resolvedQuestName]'!\n\n[lodgersLabelSingOrPluralDef] a spus [lodgersPronoun] [lodgersWasWere] că este dispus să recompenseze o cazare de calitate. Starea medie de spirit a [lodgersLabelSingOrPluralDef] a fost {AVERAGEMOOD} în timpul șederii [theirHisHer], astfel că bunăvoința ta față de [nume_facțiune_care_cerere] a crescut cu {GOODWILL}.</Hospitality_Util_Worker.LetterTextGoodwillSuccessQuestCompleted.slateRef>
+  <Hospitality_Util_Worker.LetterTextGoodwillSuccessQuestCompleted.slateRef>Ați terminat cu succes misiunea '[resolvedQuestName]'!\n\n[lodgersLabelSingOrPluralDef] a spus [lodgersPronoun] [lodgersWasWere] că este dispus să recompenseze o cazare de calitate. Starea medie de spirit a [lodgersLabelSingOrPluralDef] a fost {AVERAGEMOOD} în timpul șederii [theirHisHer], astfel că bunăvoința ta față de [asker_faction_name] a crescut cu {GOODWILL}.</Hospitality_Util_Worker.LetterTextGoodwillSuccessQuestCompleted.slateRef>
   <!-- EN: Quest completed -->
   <Hospitality_Util_Worker.LetterLabelGoodwillFailedQuestCompleted.slateRef>Misiune finalizată</Hospitality_Util_Worker.LetterLabelGoodwillFailedQuestCompleted.slateRef>
   <!-- EN: You have successfully completed the quest '[resolvedQuestName]'!\n\nWhile [lodgersLabelSingOrPluralDef] [lodgersWasWere] willing to reward quality accommodation, [theirHisHer] average mood was only {AVERAGEMOOD} during [theirHisHer] stay. You will receive no faction goodwill reward. -->
@@ -63,6 +63,6 @@
   <!-- EN: Shuttle destroyed -->
   <Util_ArriveByDropPodsOrShuttle.LetterLabelShuttleDestroyed.slateRef>Navetă distrusă</Util_ArriveByDropPodsOrShuttle.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to drop off [pawnsLabelDef] has been destroyed. You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have changed by [goodwillChangeOnShuttleDestroyed]. -->
-  <Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>Naveta trimisă să lase [amanetLabelDef] a fost distrusă. Ați eșuat în misiunea '[resolvedQuestName]'.\n\nRelațiile voastre cu [asker_faction_name] s-au schimbat prin [goodwillChangeOnShuttleDestroyed].</Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>
+  <Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>Naveta trimisă să lase [pawnsLabelDef] a fost distrusă. Ați eșuat în misiunea '[resolvedQuestName]'.\n\nRelațiile voastre cu [asker_faction_name] s-au schimbat prin [goodwillChangeOnShuttleDestroyed].</Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>
   
 </LanguageData>

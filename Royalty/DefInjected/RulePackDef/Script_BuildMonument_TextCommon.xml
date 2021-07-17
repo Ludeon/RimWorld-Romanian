@@ -42,7 +42,7 @@
     <li>buildReason->pentru a comemora [asker_faction_pawnsPlural] [asker_possessive] care au căzut în luptă</li>
     <li>buildReason->pentru a onora [PersonFamily] [asker_possessive]</li>
     <li>buildReason->pentru a onora munca de [PersonJob]</li>
-    <li>buildReason->pentru a răspândi imagini de [glorie] [asker_possessive] în toată țara</li>
+    <li>buildReason->pentru a răspândi imagini de [glory] [asker_possessive] în toată țara</li>
     <li>glory->glorii</li>
     <li>glory->onoare marțială</li>
     <li>glory->victorii</li>

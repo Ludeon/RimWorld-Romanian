@@ -94,6 +94,6 @@
   <!-- EN: {PAWN_kind} wanders in -->
   <WildManWandersIn.letterLabel>{PAWN_kind} rătăcește prin apropiere</WildManWandersIn.letterLabel>
   <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
-  <WildManWandersIn.letterText>O persoană care trăiește printre animalele sălbatice s-a rătăcit în zonă. {PAWN_pronoun} se numește {0}.\n\nPuteți încerca să îmblânziți sau să arestați pe {PAWN_obiectiv}.</WildManWandersIn.letterText>
+  <WildManWandersIn.letterText>O persoană care trăiește printre animalele sălbatice s-a rătăcit în zonă. {PAWN_pronoun} se numește {0}.\n\nPuteți încerca să îmblânziți sau să arestați pe {PAWN_objective}.</WildManWandersIn.letterText>
   
 </LanguageData>

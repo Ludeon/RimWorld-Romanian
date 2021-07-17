@@ -1265,7 +1265,7 @@
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
   <Reward_Pawn_WalkIn>un tânăr {0_title} de {0_age} ani numit {0_nameDef} va sosi și ți se va alătura {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_Caravan>un bătrân {0_title} de {0_age} ani pe nume {0_nameDef} ți se va alătura {0_relationInParentheses}</Reward_Pawn_Caravan>
+  <Reward_Pawn_Caravan>un bătrân {0_title} de {0_age} ani pe nume {0_nameDef} ți se va alătura {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):
 \n{0} -->
   <Reward_Items>vor sosi navete de transport cu următoarele resurse (valoare totală {1}):\n\n{0}</Reward_Items>

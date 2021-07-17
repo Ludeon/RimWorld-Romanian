@@ -43,7 +43,7 @@
     <li>r_logentry->[INITIATOR_nameDef] psychically suggested that [RECIPIENT_nameDef] drop [RECIPIENT_possessive] guard.</li>
   -->
   <WordOfTrust.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nume_def] a sugerat psihic ca [RECIPIENT_nameDef] să lase garda [RECIPIENT_possessive] jos.</li>
+    <li>r_logentry->[INITIATOR_nameDef] a sugerat psihic ca [RECIPIENT_nameDef] să lase garda [RECIPIENT_possessive] jos.</li>
   </WordOfTrust.logRulesInitiator.rulesStrings>
   
 </LanguageData>

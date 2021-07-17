@@ -18,7 +18,7 @@
     <li>tale_noun->[ATTENDER_nameDef] participă la concertul lui [ORGANIZER_nameDef]</li>
     <li>tale_noun->[ATTENDER_nameDef] ascultă concertul lui [ORGANIZER_nameDef]</li>
     <li>image->[ATTENDER_nameFull] ascultând în liniște, [circumstance_group]</li>
-    <li>image->[ATTENDER_nameFull] se bucură de spectacolul lui [ORGANIZATOR_numeleFull] [circumstance_group]</li>
+    <li>image->[ATTENDER_nameFull] se bucură de spectacolul lui [ORGANIZER_nameFull] [circumstance_group]</li>
     <li>image->[ATTENDER_nameFull] legănându-se pe muzică [circumstance_group]</li>
     <li>image->[ATTENDER_nameFull] absorbit în sunetul [circumstance_group]</li>
     <li>circumstance_phrase->în timp ce aplaudă</li>

@@ -239,20 +239,20 @@
   <!-- EN: Pick up {1_label} -->
   <PickUp>Ridică {1_label}</PickUp>
   <!-- EN: Pick up {1_label} (all) -->
-  <PickUpAll>Ia {1_etichetă} (toate)</PickUpAll>
+  <PickUpAll>Ia {1_label} (toate)</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
   <PickUpSome>Ia {1_labelShort}...</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>Ia {1_labelShort} x{{0}}</PickUpCount>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
-  <CannotGiveToPackAnimal>Nu se poate încărca {1_etichetă} pe un animal de povară</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimal>Nu se poate încărca {1_label} pe un animal de povară</CannotGiveToPackAnimal>
   <!-- EN: Cannot load {1_label} (all) onto pack animal -->
-  <CannotGiveToPackAnimalAll>Nu se poate încărca {1_etichetă} (toate) pe animalul de povară</CannotGiveToPackAnimalAll>
+  <CannotGiveToPackAnimalAll>Nu se poate încărca {1_label} (toate) pe animalul de povară</CannotGiveToPackAnimalAll>
   <!-- EN: Load {1_label} onto pack animal -->
-  <GiveToPackAnimal>Încarcă {1_etichetă} pe animalul de povară</GiveToPackAnimal>
+  <GiveToPackAnimal>Încarcă {1_label} pe animalul de povară</GiveToPackAnimal>
   <!-- EN: Load {1_label} (all) onto pack animal -->
-  <GiveToPackAnimalAll>Încarcă {1_etichetă} (toate) pe animalul de povară</GiveToPackAnimalAll>
+  <GiveToPackAnimalAll>Încarcă {1_label} (toate) pe animalul de povară</GiveToPackAnimalAll>
   <!-- EN: Load {1_labelShort} onto pack animal... -->
   <GiveToPackAnimalSome>Încarcă {1_labelShort} pe animalul de povară...</GiveToPackAnimalSome>
   <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
@@ -263,7 +263,7 @@
   <!-- EN: Cannot load {1_label} (all) into caravan -->
   <CannotLoadIntoCaravanAll>Nu se poate încărca {1_label} (toate) în caravană</CannotLoadIntoCaravanAll>
   <!-- EN: Load {1_label} into caravan -->
-  <LoadIntoCaravan>Încarcă {1_etichetă} în rulotă</LoadIntoCaravan>
+  <LoadIntoCaravan>Încarcă {1_label} în rulotă</LoadIntoCaravan>
   <!-- EN: Load {1_label} (all) into caravan -->
   <LoadIntoCaravanAll>Încarcă {1_label} (toate) în caravană</LoadIntoCaravanAll>
   <!-- EN: Load {1_labelShort} into caravan... -->

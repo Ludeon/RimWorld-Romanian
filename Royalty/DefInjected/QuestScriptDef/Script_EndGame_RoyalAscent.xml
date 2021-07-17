@@ -23,7 +23,7 @@
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>Misiunea a eșuat: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>
   <!-- EN: [faction_name] became hostile to you.  -->
-  <EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>[nume_facțiune] ți-a devenit ostil.</EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>
+  <EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>[faction_name] ți-a devenit ostil.</EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>
   <!-- EN: asker.NoLongerFactionLeader -->
   <EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>asker.NoLongerFactionLeader</EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>
   <!-- EN: [asker_faction_leaderTitle] arrived -->

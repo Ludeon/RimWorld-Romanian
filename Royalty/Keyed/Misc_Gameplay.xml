@@ -103,7 +103,7 @@
   <AbilityReadyText>{0_nameDef} este gata să folosească {1}.</AbilityReadyText>
   
   <!-- EN: Initiate a speech from the throne. {ORGANIZER_labelShort} will go to {ORGANIZER_possessive} throne and call all colonists to listen to a speech there. If all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <AbilitySpeechTooltip>Inițiați un discurs de pe tron. {ORGANIZER_labelShort} va merge la tronul {ORGANIZER_posessive} și va chema toți coloniștii să asculte un discurs acolo. Dacă totul merge bine, ascultătorii se vor simți inspirați și vor câștiga respect pentru {ORGANIZER_labelShort}. Dacă totul merge prost, discursul va aduce daune sociale. Rezultatul depinde de abilitățile sociale ale lui {ORGANIZER_labelShort}.</AbilitySpeechTooltip>
+  <AbilitySpeechTooltip>Inițiați un discurs de pe tron. {ORGANIZER_labelShort} va merge la tronul {ORGANIZER_possessive} și va chema toți coloniștii să asculte un discurs acolo. Dacă totul merge bine, ascultătorii se vor simți inspirați și vor câștiga respect pentru {ORGANIZER_labelShort}. Dacă totul merge prost, discursul va aduce daune sociale. Rezultatul depinde de abilitățile sociale ale lui {ORGANIZER_labelShort}.</AbilitySpeechTooltip>
   <!-- EN: no throne assigned. -->
   <AbilitySpeechDisabledNoThroneAssigned>nu există un tron atribuit.</AbilitySpeechDisabledNoThroneAssigned>
   <!-- EN: throne is not accessible. -->

@@ -86,7 +86,7 @@
   <HaulToTransporter.reportString>transportă TargetA.</HaulToTransporter.reportString>
   
   <!-- EN: igniting TargetA. -->
-  <Ignite.reportString>aprinde ȚinteiA.</Ignite.reportString>
+  <Ignite.reportString>aprinde TargetA.</Ignite.reportString>
   
   <!-- EN: inducing TargetA to escape. -->
   <InducePrisonerToEscape.reportString>induce TargetA să evadeze.</InducePrisonerToEscape.reportString>

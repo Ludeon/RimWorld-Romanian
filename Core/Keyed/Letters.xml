@@ -44,7 +44,7 @@
   <Death>Moarte</Death>
 
   <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
-  <ShortCircuitRain>O {1_etichetă} a intrat în scurtcircuit în ploaie și a provocat un incendiu.</ShortCircuitRain>
+  <ShortCircuitRain>O {1_label} a intrat în scurtcircuit în ploaie și a provocat un incendiu.</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
   <LetterLabelAreaRevealed>Zona dezvăluită</LetterLabelAreaRevealed>
@@ -98,7 +98,7 @@
   <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>Pericol antic</LetterLabelAncientShrineWarning>
   <!-- EN: As {PAWN_nameDef} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
-  <AncientShrineWarning>Pe măsură ce {PAWN_nameDef} se apropie de zidul antic, un sentiment de presimțire îl cuprinde pe {PAWN_objectiv}. {PAWN_pronoun} nu este sigur de ce, dar {PAWN_pronoun} simte că această structură prăfuită poate conține un mare pericol.</AncientShrineWarning>
+  <AncientShrineWarning>Pe măsură ce {PAWN_nameDef} se apropie de zidul antic, un sentiment de presimțire îl cuprinde pe {PAWN_objective}. {PAWN_pronoun} nu este sigur de ce, dar {PAWN_pronoun} simte că această structură prăfuită poate conține un mare pericol.</AncientShrineWarning>
 
   <!-- EN: We have struck {0}! -->
   <StruckMineable>Am dat de {0}!</StruckMineable>
@@ -106,9 +106,9 @@
   <!-- EN: {0} revenge -->
   <LetterLabelAnimalManhunterRevenge>{0} răzbunare</LetterLabelAnimalManhunterRevenge>
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
-  <AnimalManhunterFromDamage>{1_indefinit} atacă după ce a fost rănit!\n\nVa vâna orice umanoid pe care îl poate atinge. Se va calma atunci când se va culca.</AnimalManhunterFromDamage>
+  <AnimalManhunterFromDamage>{1_indefinite} atacă după ce a fost rănit!\n\nVa vâna orice umanoid pe care îl poate atinge. Se va calma atunci când se va culca.</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
-  <AnimalManhunterFromTaming>{1_indefinit} atacă din cauza unei încercări ratate de îmblânzire!</AnimalManhunterFromTaming>
+  <AnimalManhunterFromTaming>{1_indefinite} atacă din cauza unei încercări ratate de îmblânzire!</AnimalManhunterFromTaming>
   <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
   <AnimalManhunterOthers>Alți {1_kindBasePlural} din apropiere s-au înfuriat și ei!</AnimalManhunterOthers>
 
@@ -158,7 +158,7 @@
   <!-- EN: View quest -->
   <ViewQuest>Vizualizează căutarea</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
-  <LastEventsInLife>Ultimele evenimente din viața lui {PAWN_definit}</LastEventsInLife>
+  <LastEventsInLife>Ultimele evenimente din viața lui {PAWN_definite}</LastEventsInLife>
 
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
   <LetterInspirationBeginThanksToHighMoodPart>Mulțumită dispoziției înalte, [PAWN_nameIndef] a experimentat o inspirație!</LetterInspirationBeginThanksToHighMoodPart>
@@ -206,7 +206,7 @@
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
   <LetterNoLongerLovers>{PAWN1_labelShort} și {PAWN2_labelShort} nu mai au o relație.</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
-  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} își va schimba numele de familie {PAWN_posesiv} înapoi la numele de naștere {PAWN_posesiv}.</LetterNoLongerLovers_BackToBirthName>
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} își va schimba numele de familie {PAWN_possessive} înapoi la numele de naștere {PAWN_possessive}.</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
   <LetterLabelBreakup>Despărțire</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
@@ -216,7 +216,7 @@
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
   <LetterAcceptedProposal>La un moment dat, în următoarele zile sau quadrumuri, vor avea ceremonia de căsătorie și vor invita toți coloniștii. Luați în considerare plasarea unui loc de căsătorie dacă doriți să controlați locul unde are loc ceremonia.</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
-  <LetterAcceptedProposal_NameChange>{PAWN_label} va schimba numele de familie {PAWN_posesiv} în {1}.</LetterAcceptedProposal_NameChange>
+  <LetterAcceptedProposal_NameChange>{PAWN_label} va schimba numele de familie {PAWN_possessive} în {1}.</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
   <LetterRejectedProposal>{INITIATOR_nameFull} va fi nemulțumit de acest lucru.</LetterRejectedProposal>
 
@@ -250,7 +250,7 @@
   <!-- EN: {0} addiction -->
   <LetterLabelNewlyAddicted>{0} dependență</LetterLabelNewlyAddicted>
   <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
-  <LetterNewlyAddicted>{PAWN_labelShort} a dezvoltat o dependență de {1}.\n\n{PAWN_pronume} are acum o nevoie de {1}, vizibilă în panoul de Nevoi al {PAWN_posesiv}. {PAWN_pronoun} va consuma automat drogul pentru a satisface nevoia {PAWN_possessive}. Dacă {PAWN_pronoun} nu poate obține {1}, {PAWN_pronoun} va intra în sevraj.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>{PAWN_labelShort} a dezvoltat o dependență de {1}.\n\n{PAWN_pronoun} are acum o nevoie de {1}, vizibilă în panoul de Nevoi al {PAWN_possessive}. {PAWN_pronoun} va consuma automat drogul pentru a satisface nevoia {PAWN_possessive}. Dacă {PAWN_pronoun} nu poate obține {1}, {PAWN_pronoun} va intra în sevraj.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <!-- EN: {0} binge -->
@@ -342,7 +342,7 @@
 
   <!-- Run wild mental break -->
   <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->
-  <LetterRunWildMentalBreak>{0} s-a săturat de civilizație.\n\n{PAWN_pronoun} și-a dat seama că creaturile sălbatice sunt întotdeauna libere. Așa că, {PAWN_pronoun} a decis să părăsească facțiunea ta și să trăiască cu animalele.\n\nPoți încerca să îl îmblânzești sau să îl arestezi pe {PAWN_obiectiv} pentru a-l recupera pe {PAWN_obiectiv}.</LetterRunWildMentalBreak>
+  <LetterRunWildMentalBreak>{0} s-a săturat de civilizație.\n\n{PAWN_pronoun} și-a dat seama că creaturile sălbatice sunt întotdeauna libere. Așa că, {PAWN_pronoun} a decis să părăsească facțiunea ta și să trăiască cu animalele.\n\nPoți încerca să îl îmblânzești sau să îl arestezi pe {PAWN_objective} pentru a-l recupera pe {PAWN_objective}.</LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->
   <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days. -->
@@ -408,7 +408,7 @@
   <!-- EN: Rescuee joins -->
   <LetterLabelRescueQuestFinished>Rescuee se alătură</LetterLabelRescueQuestFinished>
   <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
-  <LetterRescueQuestFinished>L-ați salvat pe {PAWN_numeDef} și {PAWN_pronume} s-a alăturat grupului vostru.\n\nPuteți lua {PAWN_obiectiv} cu voi reformând caravana în ecranul Lumea, selectând această zonă și alegând opțiunea "Reformă caravana".</LetterRescueQuestFinished>
+  <LetterRescueQuestFinished>L-ați salvat pe {PAWN_nameDef} și {PAWN_pronoun} s-a alăturat grupului vostru.\n\nPuteți lua {PAWN_objective} cu voi reformând caravana în ecranul Lumea, selectând această zonă și alegând opțiunea "Reformă caravana".</LetterRescueQuestFinished>
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
@@ -422,7 +422,7 @@
   <!-- EN: Disease: {0} -->
   <LetterLabelTraitDisease>Boală: {0}</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
-  <LetterTraitDisease>{PAWN_label} s-a îmbolnăvit de la {1}.\n\nAsigură-te că ai un pat medical și un doctor. Asigură-te că {PAWN_pronunțător} primește un tratament adecvat și petrece cât mai mult timp posibil la pat.</LetterTraitDisease>
+  <LetterTraitDisease>{PAWN_label} s-a îmbolnăvit de la {1}.\n\nAsigură-te că ai un pat medical și un doctor. Asigură-te că {PAWN_pronoun} primește un tratament adecvat și petrece cât mai mult timp posibil la pat.</LetterTraitDisease>
 
   <!-- Surgery -->
   <!-- EN: Surgery failed on {PATIENT_labelShort} -->
@@ -458,7 +458,7 @@
   <!-- EN: {PAWN_nameDef} joins -->
   <LetterLabelRefugeeJoins>{PAWN_nameDef} se alătură</LetterLabelRefugeeJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
-  <LetterRefugeeJoins>Un {PAWN_titlu} pe nume {PAWN_nameDef} a sosit și se alătură coloniei.</LetterRefugeeJoins>
+  <LetterRefugeeJoins>Un {PAWN_title} pe nume {PAWN_nameDef} a sosit și se alătură coloniei.</LetterRefugeeJoins>
   
   <!-- Rescuee joins -->
   <!-- EN: {PAWN_nameDef} joins -->

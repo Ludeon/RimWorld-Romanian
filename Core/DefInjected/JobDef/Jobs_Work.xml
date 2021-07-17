@@ -104,7 +104,7 @@
   <Research.reportString>cercetează.</Research.reportString>
   
   <!-- EN: shearing TargetA. -->
-  <Shear.reportString>tunde ȚinteiA.</Shear.reportString>
+  <Shear.reportString>tunde TargetA.</Shear.reportString>
   
   <!-- EN: slaughtering TargetA. -->
   <Slaughter.reportString>măcelărește TargetA.</Slaughter.reportString>
@@ -128,10 +128,10 @@
   <TakeWoundedPrisonerToBed.reportString>ia prizonierul rănit TargetA.</TakeWoundedPrisonerToBed.reportString>
   
   <!-- EN: taming TargetA. -->
-  <Tame.reportString>îmblânzește ȚinteiA.</Tame.reportString>
+  <Tame.reportString>îmblânzește TargetA.</Tame.reportString>
   
   <!-- EN: tending to TargetA. -->
-  <TendPatient.reportString>îngrijește ținteiA.</TendPatient.reportString>
+  <TendPatient.reportString>îngrijește TargetA.</TendPatient.reportString>
   
   <!-- EN: training TargetA. -->
   <Train.reportString>antrenează TargetA.</Train.reportString>

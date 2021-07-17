@@ -88,11 +88,11 @@
   <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles will be transferred to {PAWN_possessive} heirs. -->
   <LetterTitleInheritance_Base>Deoarece {PAWN_nameFull} a murit, titlurile {PAWN_possessive} vor fi transferate moștenitorilor {PAWN_possessive}.</LetterTitleInheritance_Base>
   <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It will replace {HEIR_possessive} {REPLACEDTITLE} title upon completion of a bestowing ceremony. -->
-  <LetterTitleInheritance_AsReplacement>Titlul {PAWN_posesiv} de {TITLE} a fost moștenit de {HEIR_nameFull}, în conformitate cu legile de succesiune ale {FACTION_name}. Acesta va înlocui {HEIR_possessive} titlul {REPLACEDTITLE} la încheierea unei ceremonii de acordare.</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_AsReplacement>Titlul {PAWN_possessive} de {TITLE} a fost moștenit de {HEIR_nameFull}, în conformitate cu legile de succesiune ale {FACTION_name}. Acesta va înlocui {HEIR_possessive} titlul {REPLACEDTITLE} la încheierea unei ceremonii de acordare.</LetterTitleInheritance_AsReplacement>
   <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
-  <LetterTitleInheritance_NoEffectHigherTitle>Titlul {PAWN_posessive} de {TITLE} ar fi fost moștenit de către {HEIR_nameFull} în conformitate cu legile succesorale ale {FACTION_name}, dar {HEIR_pronoun} avea deja un titlu {HIGHERTITLE}.</LetterTitleInheritance_NoEffectHigherTitle>
+  <LetterTitleInheritance_NoEffectHigherTitle>Titlul {PAWN_possessive} de {TITLE} ar fi fost moștenit de către {HEIR_nameFull} în conformitate cu legile succesorale ale {FACTION_name}, dar {HEIR_pronoun} avea deja un titlu {HIGHERTITLE}.</LetterTitleInheritance_NoEffectHigherTitle>
   <!-- EN: {PAWN_possessive} {TITLE} title will be inherited by {HEIR_nameFull} upon completion of a bestowing ceremony, according to the succession laws of {FACTION_name}. -->
-  <LetterTitleInheritance_WasInherited>Titlul {PAWN_posessive} de {TITLE} va fi moștenit de către {HEIR_nameFull} la finalizarea unei ceremonii de acordare, în conformitate cu legile de succesiune din {FACTION_name}.</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_WasInherited>Titlul {PAWN_possessive} de {TITLE} va fi moștenit de către {HEIR_nameFull} la finalizarea unei ceremonii de acordare, în conformitate cu legile de succesiune din {FACTION_name}.</LetterTitleInheritance_WasInherited>
   <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
   <LetterTitleInheritance_NoHeirFound>Titlul {PAWN_possessive} de {TITLE} nu a fost moștenit de nimeni, deoarece {PAWN_pronoun} nu a avut un moștenitor desemnat pentru acest titlu.</LetterTitleInheritance_NoHeirFound>
 
@@ -131,10 +131,10 @@
   <LetterLabelRandomDecree>{0_nameIndef} emite un decret</LetterLabelRandomDecree>
   <!-- EN: {0_nameIndef}, in an attempt to release {0_possessive} stress, has issued a wild royal decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterDecreeMentalBreak>{0_numeIndef}, în încercarea de a elibera {0_posesiv} de stres, a emis un decret regal sălbatic și cere acum ca acesta să fie pus în aplicare.\n\nDacă nu este executat la timp, {0_nameIndef} va deveni foarte nefericit.</LetterDecreeMentalBreak>
+  <LetterDecreeMentalBreak>{0_nameIndef}, în încercarea de a elibera {0_possessive} de stres, a emis un decret regal sălbatic și cere acum ca acesta să fie pus în aplicare.\n\nDacă nu este executat la timp, {0_nameIndef} va deveni foarte nefericit.</LetterDecreeMentalBreak>
   <!-- EN: {0_nameIndef}, in order to affirm {0_possessive} title of {0_bestRoyalTitleIndef}, has issued a decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterRandomDecree>{0_numeIndef}, pentru a afirma titlul {0_posesiv} de {0_bestRoyalTitleIndef}, a emis un decret și cere acum ca acesta să fie îndeplinit.\n\nDacă nu este executat la timp, {0_nameIndef} va fi foarte nemulțumit.</LetterRandomDecree>
+  <LetterRandomDecree>{0_nameIndef}, pentru a afirma titlul {0_possessive} de {0_bestRoyalTitleIndef}, a emis un decret și cere acum ca acesta să fie îndeplinit.\n\nDacă nu este executat la timp, {0_nameIndef} va fi foarte nemulțumit.</LetterRandomDecree>
   <!-- EN: The decree is titled "{0}". -->
   <LetterDecree_Quest>Decretul se numește "{0}".</LetterDecree_Quest>
   

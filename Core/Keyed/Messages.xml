@@ -67,7 +67,7 @@
   <MessageOutOfNearbyShellsFor>{PAWN_labelShort} nu a găsit cartușe nerezervate în apropiere pentru {GUN_label}.</MessageOutOfNearbyShellsFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
-  <MessageAnimalsGoPsychoHunted>Avertizare: {ANIMAL_kind_animalBasePlural} au o șansă de bază de {1} de a ataca atunci când sunt răniți. Șansa depinde de raza de acțiune și de statistica stealth a vânătorului.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>Avertizare: {ANIMAL_kindBasePlural} au o șansă de bază de {1} de a ataca atunci când sunt răniți. Șansa depinde de raza de acțiune și de statistica stealth a vânătorului.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
   <MessageAnimalManhuntsOnTameFailed>Avertizare: {ANIMAL_kindBasePlural} poate ataca de la încercările eșuate de îmblânzire ({1} șanse).</MessageAnimalManhuntsOnTameFailed>
   
@@ -436,13 +436,13 @@
   <MessageWarningCavePlantsExposedToLight>Avertisment: {0} nu poate trăi atunci când este expus la lumină.</MessageWarningCavePlantsExposedToLight>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} nu a putut ajunge la {OLDTARGET_label} așa că {PAWN_pronoun} a decis să redirecționeze furia {PAWN_posessive} către {TARGET_label}.</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} nu a putut ajunge la {OLDTARGET_label} așa că {PAWN_pronoun} a decis să redirecționeze furia {PAWN_possessive} către {TARGET_label}.</MessageTargetedTantrumChangedTarget>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
   <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} nu a putut ajunge la {OLDTARGET_label}, așa că {PAWN_pronoun} a decis să redirecționeze furia {PAWN_possessive} către {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
 
   <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageMurderousRageChangedTarget>{PAWN_labelShort} a decis să redirecționeze furia {PAWN_posesivă} către {TARGET_label}.</MessageMurderousRageChangedTarget>
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} a decis să redirecționeze furia {PAWN_possessive} către {TARGET_label}.</MessageMurderousRageChangedTarget>
 
   <!-- EN: {0} cannot grow underneath a roof. -->
   <MessagePlantIncompatibleWithRoof>{0} nu poate crește sub un acoperiș.</MessagePlantIncompatibleWithRoof>
@@ -616,7 +616,7 @@
   <MessageResearchMenuWithoutBench>Avertizare: Cercetarea nu va începe până când nu construiți o bancă de cercetare.</MessageResearchMenuWithoutBench>
 
   <!-- EN: {0_indefinite} has triggered a proximity activator. -->
-  <MessageActivatorProximityTriggered>{0_indefinit} a declanșat un activator de proximitate.</MessageActivatorProximityTriggered>
+  <MessageActivatorProximityTriggered>{0_indefinite} a declanșat un activator de proximitate.</MessageActivatorProximityTriggered>
 
   <!-- EN: {0_label} is currently hidden. -->
   <MessageCannotSelectInvisibleStat>{0_label} este în prezent ascuns.</MessageCannotSelectInvisibleStat>
