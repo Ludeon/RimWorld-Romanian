@@ -11,7 +11,7 @@
   <!-- EN: Review scenario -->
   <ReviewScenario>Revizuire scenariu</ReviewScenario>
   <!-- EN: Save -->
-  <Save>Salvare colonie</Save>
+  <Save>Salvează joc</Save>
   <!-- EN: Load game -->
   <LoadGame>Încarcă joc</LoadGame>
   <!-- EN: Options -->
@@ -33,13 +33,13 @@
   <!-- EN: Credits -->
   <Credits>Credite</Credits>
   <!-- EN: Quit to main menu -->
-  <QuitToMainMenu>Întoarcere la meniul jocului</QuitToMainMenu>
+  <QuitToMainMenu>Ieși la meniul jocului</QuitToMainMenu>
   <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>Salvează și ieși către meniu</SaveAndQuitToMainMenu>
   <!-- EN: Quit to OS -->
-  <QuitToOS>Închide joc</QuitToOS>
+  <QuitToOS>Ieși la SO</QuitToOS>
   <!-- EN: Save and quit to OS -->
-  <SaveAndQuitToOS>Salvează și ieși la OS</SaveAndQuitToOS>
+  <SaveAndQuitToOS>Salvează și ieși la SO</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
   <FictionPrimer>Despre universul fictiv</FictionPrimer>
   <!-- EN: Ludeon blog -->

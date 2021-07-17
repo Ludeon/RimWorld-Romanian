@@ -61,7 +61,7 @@
   <!-- EN: crafting -->
   <Crafting.gerundLabel>meșterind</Crafting.gerundLabel>
   <!-- EN: Craft -->
-  <Crafting.labelShort>Artizanat</Crafting.labelShort>
+  <Crafting.labelShort>Meșteșugărie</Crafting.labelShort>
   <!-- EN: Crafter -->
   <Crafting.pawnLabel>Meșter</Crafting.pawnLabel>
   <!-- EN: Craft at -->
@@ -83,7 +83,7 @@
   <!-- EN: firefighting -->
   <Firefighter.gerundLabel>stingând incendiul</Firefighter.gerundLabel>
   <!-- EN: Firefight -->
-  <Firefighter.labelShort>Pompieri</Firefighter.labelShort>
+  <Firefighter.labelShort>Pompier</Firefighter.labelShort>
   <!-- EN: Firefighter -->
   <Firefighter.pawnLabel>Pompier</Firefighter.pawnLabel>
   <!-- EN: Extinguish -->
@@ -160,7 +160,7 @@
   <!-- EN: resting in bed -->
   <PatientBedRest.gerundLabel>recuperându-se</PatientBedRest.gerundLabel>
   <!-- EN: Bed rest -->
-  <PatientBedRest.labelShort>Recuperare</PatientBedRest.labelShort>
+  <PatientBedRest.labelShort>Odihnă</PatientBedRest.labelShort>
   <!-- EN: Bed rester -->
   <PatientBedRest.pawnLabel>Pacient</PatientBedRest.pawnLabel>
   <!-- EN: Become patient -->
@@ -193,7 +193,7 @@
   <!-- EN: smithing -->
   <Smithing.gerundLabel>forjând</Smithing.gerundLabel>
   <!-- EN: Smith -->
-  <Smithing.labelShort>Forjar</Smithing.labelShort>
+  <Smithing.labelShort>Forjare</Smithing.labelShort>
   <!-- EN: Smith -->
   <Smithing.pawnLabel>Fierar</Smithing.pawnLabel>
   <!-- EN: Smith at -->
