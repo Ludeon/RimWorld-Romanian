@@ -13,13 +13,13 @@
   <!-- EN: Prisoner -->
   <TabPrisoner>Prizonier</TabPrisoner>
   <!-- EN: Guest -->
-  <TabGuest>Invitat</TabGuest>
+  <TabGuest>Musafir</TabGuest>
   <!-- EN: Gear -->
-  <TabGear>Echipament</TabGear>
+  <TabGear>Inventar</TabGear>
   <!-- EN: Needs -->
   <TabNeeds>Nevoi</TabNeeds>
   <!-- EN: Storage -->
-  <TabStorage>Depozitare</TabStorage>
+  <TabStorage>Depozit</TabStorage>
   <!-- EN: Shells -->
   <TabShells>Obuze</TabShells>
   <!-- EN: Health -->

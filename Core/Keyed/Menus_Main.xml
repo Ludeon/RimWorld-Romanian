@@ -13,7 +13,7 @@
   <!-- EN: Save -->
   <Save>Salvare colonie</Save>
   <!-- EN: Load game -->
-  <LoadGame>Încarcă jocul</LoadGame>
+  <LoadGame>Încarcă joc</LoadGame>
   <!-- EN: Options -->
   <Options>Setări</Options>
   <!-- EN: Mod -->
@@ -454,7 +454,7 @@
   <!-- EN: Select starting site -->
   <SelectStartingSite>Selectare loc de pornire</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite>Selectare loc aleatoriu</SelectRandomSite>
+  <SelectRandomSite>Alege loc aleatoriu</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>Alege regiunea</SelectSite>
   <!-- EN: Please select a site. -->
@@ -564,7 +564,7 @@
   <!-- EN: none -->
   <NoneLower>nimic</NoneLower>
   <!-- EN: Adulthood -->
-  <Adulthood>Viață de adult</Adulthood>
+  <Adulthood>Vț. de adult</Adulthood>
   <!-- EN: Childhood -->
   <Childhood>Copilărie</Childhood>
   <!-- EN: Current -->

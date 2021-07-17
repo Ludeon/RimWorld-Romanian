@@ -17,11 +17,11 @@
   <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Deplasare cameră cu mouse</EdgeScreenScroll>
   <!-- EN: Pause on load -->
-  <PauseOnLoad>Pauză la încărcare</PauseOnLoad>
+  <PauseOnLoad>Pune pauză la încărcare</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
-  <PauseOnUrgentLetter>Pauză la o scrisoare urgentă</PauseOnUrgentLetter>
+  <PauseOnUrgentLetter>Pune pauză la o scrisoare urgentă</PauseOnUrgentLetter>
   <!-- EN: Pause on -->
-  <AutomaticPauseModeSetting>Pauză pe</AutomaticPauseModeSetting>
+  <AutomaticPauseModeSetting>Pune pauză la</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
   <CustomCursor>Cursor special</CustomCursor>
   <!-- EN: Hats shown only on game map -->
@@ -41,11 +41,11 @@
   <!-- EN: Development mode -->
   <DevelopmentMode>Modul de depanare</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
-  <ResetModsConfigOnCrash>Resetare automată a configurației mod-urilor la accident</ResetModsConfigOnCrash>
+  <ResetModsConfigOnCrash>Auto-resetează conf. de mod la crash</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
   <SimulateNotOwningRoyalty>Simulează nedeținerea de Royalty</SimulateNotOwningRoyalty>
   <!-- EN: Verbose logging -->
-  <LogVerbose>Jurnalizare Verbose</LogVerbose>
+  <LogVerbose>Jurnalizare verboasă</LogVerbose>
   <!-- EN: Open save data folder -->
   <OpenSaveGameDataFolder>Deschide fișierul cu salvări</OpenSaveGameDataFolder>
   <!-- EN: Show save data location -->
@@ -65,9 +65,9 @@
   <!-- EN: Storyteller settings -->
   <ChangeStoryteller>Alege un povestitor</ChangeStoryteller>
   <!-- EN: Autosave interval -->
-  <AutosaveInterval>Interval de salvare automată</AutosaveInterval>
+  <AutosaveInterval>Interval auto-salvare</AutosaveInterval>
   <!-- EN: Temperature mode -->
-  <TemperatureMode>Modul de temperatură</TemperatureMode>
+  <TemperatureMode>Mod temperatură</TemperatureMode>
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Afișează ceasul în timp real</ShowRealtimeClock>
   <!-- EN: Maximum number of colonies: {0} -->
@@ -75,7 +75,7 @@
   <!-- EN: Map mouse drag sensitivity -->
   <MapDragSensitivity>Sensibilitatea de tragere a mouse-ului pe hartă</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
-  <PlantWindSway>Pendularea vântului în plante</PlantWindSway>
+  <PlantWindSway>Clătinarea plantelor în vânt</PlantWindSway>
   <!-- EN: Enable test map sizes -->
   <EnableTestMapSizes>Activează dimensiunile hărților de test</EnableTestMapSizes>
   <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
@@ -83,7 +83,7 @@
   <!-- EN: Mod Settings -->
   <ModSettings>Mod Settings</ModSettings>
   <!-- EN: Permanently disable development mode -->
-  <PermanentlyDisableDevMode>Dezactivează permanent modul de dezvoltare</PermanentlyDisableDevMode>
+  <PermanentlyDisableDevMode>Dezactivează perm. modul dezvoltare</PermanentlyDisableDevMode>
 
   <!-- Resolution -->
   <!-- EN: Resolution -->
