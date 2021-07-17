@@ -35,7 +35,7 @@ def get_filled_tags(root, mode, force=False, filt=None, trans=False) -> List[Tup
         if elm.tag == ET.Comment:
             last_comment = elm
         elif len(elm) > 0:
-            tags += get_filled_tags(elm, force=force, filt=filt, trans=trans)
+            tags += get_filled_tags(elm, mode, force=force, filt=filt, trans=trans)
         elif type(elm.tag) == str:
             if filt is None or filt.search(elm.tag):
                 if trans:
@@ -96,7 +96,7 @@ class TagTextExtractor:
                 else:
                     s_add = f"#{tag.tag}\n{text}\n\n"
 
-                if len(s) + len(s_add) > self.limit:
+                if len(s) + len(s_add) > self.limit and self.limit != 0:
                     yield (crt_tags, en_texts, s)
                     if self._abort:
                         break

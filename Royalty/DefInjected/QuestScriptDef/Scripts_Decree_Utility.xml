@@ -7,12 +7,12 @@
   -->
   <DecreeSetup.questDescriptionRules.rulesStrings>TODO</DecreeSetup.questDescriptionRules.rulesStrings>
   <!-- EN: [asker_nameDef]'s decree forgotten -->
-  <DecreeSetup.LetterLabelDecreeForgotten.slateRef>TODO</DecreeSetup.LetterLabelDecreeForgotten.slateRef>
+  <DecreeSetup.LetterLabelDecreeForgotten.slateRef>Decretul lui [asker_nameDef] a fost uitat.</DecreeSetup.LetterLabelDecreeForgotten.slateRef>
   <!-- EN: [asker_nameDef] has forgotten about [asker_possessive] decree. -->
-  <DecreeSetup.LetterTextDecreeForgotten.slateRef>TODO</DecreeSetup.LetterTextDecreeForgotten.slateRef>
+  <DecreeSetup.LetterTextDecreeForgotten.slateRef>[asker_prenumeDef] a uitat de decretul lui [asker_propriu].</DecreeSetup.LetterTextDecreeForgotten.slateRef>
   <!-- EN: Decree cancelled -->
   <DecreeSetup.LetterLabelDecreeCancelled.slateRef>Decret anulat</DecreeSetup.LetterLabelDecreeCancelled.slateRef>
   <!-- EN: [asker_nameDef] has grudgingly cancelled the decree '[resolvedQuestName]' since it cannot be completed. -->
-  <DecreeSetup.LetterTextDecreeCancelled.slateRef>TODO</DecreeSetup.LetterTextDecreeCancelled.slateRef>
+  <DecreeSetup.LetterTextDecreeCancelled.slateRef>[asker_nameDef] a anulat cu părere de rău decretul '[resolvedQuestName]', deoarece nu poate fi dus la bun sfârșit.</DecreeSetup.LetterTextDecreeCancelled.slateRef>
   
 </LanguageData>

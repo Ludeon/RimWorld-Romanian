@@ -40,11 +40,11 @@
   -->
   <ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASETEXT}\n            \n[joiner_nameDef] is soaked in insect pheromones and is fleeing from an infestation. The pursuing insects will arrive shortly. -->
-  <ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>TODO</ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>
+  <ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>{BASETEXT}\n            \n [joiner_nameDef] este îmbibat în feromoni de insecte și fuge de o infestare. Insectele care îl urmăresc vor sosi în scurt timp.</ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
-  <ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>TODO</ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>
+  <ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>{BASELABEL}: Urmărind [joiner_nameDef]</ThreatReward_Infestation_Joiner.LetterLabelChasing.value.slateRef>
   <!-- EN: {BASETEXT}\n                  \nThe insects are here for [joiner_nameDef]. -->
-  <ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>TODO</ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>
+  <ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>{BASETEXT}\n                  \nInsectele sunt aici pentru [joiner_nameDef].</ThreatReward_Infestation_Joiner.LetterTextChasing.value.slateRef>
   
   <!-- EN:
     <li>questDescription(animalCount==1)->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says (*Threat)a manhunting [animalKind_label](/Threat) is hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_nameDef], the manhunting [animalKind_label] will follow in [manhuntersDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
@@ -63,7 +63,7 @@
   -->
   <ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
-  <ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>TODO</ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>
+  <ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>{BASELABEL}: Fugărind pe [joiner_nameDef]</ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>
   <!-- EN: {BASETEXT}\n\n[manhunterArrivalLetterEnd] -->
   <ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>{BASETEXT}\n\n\n[manhunterArrivalLetterEnd]</ThreatReward_Manhunters_Joiner.LetterTextChasing.slateRef>
   
@@ -80,19 +80,19 @@
   -->
   <ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [joiner_nameDef] -->
-  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>{BASELABEL} fugăresc pe [joiner_nameDef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>
   <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_pronoun] was supposed to marry the child of [enemyFaction_leader_nameFull], leader of [enemyFaction_name]. [joiner_pronoun] became drunk before the ceremony and vomited on the altar - a flagrant insult towards [enemyFaction_leader_nameDef]'s whole family.\n    \n[enemyFaction_leader_nameDef] swore to seek revenge on [joiner_nameDef] and all those associated with [joiner_objective], and sent [enemyFaction_pawnsPlural] to carry out the task.\n    \n{BASETEXT} -->
   <ThreatReward_MysteryThreat_Joiner.LetterTextChasingRaid.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterTextChasingRaid.slateRef>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
-  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>{BASELABEL}: Fugărind pe [joiner_nameDef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingInfestation.slateRef>
   <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef], greedy for the pleasures and money insect jelly can bring, intended to destroy a massive insect hive using poison. [joiner_pronoun] failed, but was doused in insect threat pheromones. Insects have been hunting [joiner_objective] ever since. Now they've launched their final attack.\n    \n{BASETEXT} -->
   <ThreatReward_MysteryThreat_Joiner.LetterTextChasingInfestation.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterTextChasingInfestation.slateRef>
   <!-- EN: Site appeared to harass [joiner_nameDef]: [site_label] -->
-  <ThreatReward_MysteryThreat_Joiner.LetterLabelSiteAppeared.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterLabelSiteAppeared.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelSiteAppeared.slateRef>Un amplasament a apărut pentru a hărțui [joiner_nameDef]: [site_label]</ThreatReward_MysteryThreat_Joiner.LetterLabelSiteAppeared.slateRef>
   <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef] was traveling when [joiner_pronoun] happened upon [enemyFaction_leader_nameFull], leader of [enemyFaction_name], sick on the side of the road. [joiner_nameDef] insulted [enemyFaction_leader_nameDef] by comparing [enemyFaction_leader_objective] to a [Animal].\n    \nNow [enemyFaction_leader_nameDef]'s [enemyFaction_pawnsPlural] are activating a site nearby to harass you.\n    \n[allSitePartsDescriptions] -->
   <ThreatReward_MysteryThreat_Joiner.LetterTextSiteAppeared.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterTextSiteAppeared.slateRef>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
-  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>
+  <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>{BASELABEL}: Fugărind pe [joiner_nameDef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingManhunter.slateRef>
   <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_nameDef] was traveling when [joiner_pronoun] came upon a lost group of [animalKind_labelPlural]. [joiner_pronoun], in a bad mood, goaded the [animalKind_labelPlural]. Unexpectedly, they attacked [joiner_objective]. And they have followed [joiner_objective] a long distance.\n    \n{BASETEXT} -->
   <ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>TODO</ThreatReward_MysteryThreat_Joiner.LetterTextChasingManhunter.slateRef>
   
@@ -106,11 +106,11 @@
   -->
   <ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
-  <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>TODO</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>
+  <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>{BASELABEL} fugărind pe [../joiner_nameDef]</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>
   <!-- EN: {BASETEXT}\n                  \nThe [enemyFaction_pawnsPlural] are coming for [../joiner_nameFull]. -->
   <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid1.value.slateRef>{BASETEXT}\n                  \nCei [enemyFaction_pawnsPlural] vin după [../joiner_nameFull].</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid1.value.slateRef>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
-  <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>TODO</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>
+  <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>{BASELABEL} fugărind pe [../joiner_nameDef]</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid2.value.slateRef>
   <!-- EN: {BASETEXT}\n                        \nThe [enemyFaction_pawnsPlural] are coming for [../joiner_nameFull]. -->
   <ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>{BASETEXT}\n                  \nCei din [enemyFaction_pawnsPlural] vin pentru [../joiner_nameFull].</ThreatReward_RaidMultiFaction_Joiner.LetterTextChasingRaid2.value.slateRef>
   
@@ -133,6 +133,6 @@
   -->
   <ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>
   <!-- EN: Since you accepted [../joiner_nameDef], [../threat] have set up a nearby site to harass you.\n                    \n[allSitePartsDescriptions] -->
-  <ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>TODO</ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>
+  <ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>De când ați acceptat [../joiner_nameDef], [../threat] au înființat un amplasament în apropiere pentru a vă hărțui.\n                    \n[allSitePartsDescriptions]</ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>
   
 </LanguageData>

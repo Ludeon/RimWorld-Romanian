@@ -16,11 +16,11 @@
   <!-- EN: Monument completed -->
   <Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>Monument finalizat</Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>
   <!-- EN: You have completed construction of the monument.\n\nYou must keep it safe for [keepMonumentTicks_duration], otherwise [asker_nameDef] will be displeased. -->
-  <Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>TODO</Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>
+  <Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>Ați terminat construcția monumentului.\n\nTrebuie să-l păstrați în siguranță pentru [keepMonumentTicks_duration], altfel [asker_nameDef] va fi nemulțumit.</Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>
   <!-- EN: Monument destroyed -->
   <Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>Monument distrus</Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>
   <!-- EN: [asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\n[asker_pronoun] will be unhappy about this. -->
-  <Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>TODO</Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>
+  <Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>[asker_nameDef] este jignit că ați permis ca monumentul să fie distrus atât de repede după finalizare.\n\n[asker_pronoun] va fi nemulțumit de acest lucru.</Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
   <Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>Nu distrugeți monumentul pentru {0}</Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->

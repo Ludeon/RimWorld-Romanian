@@ -16,7 +16,7 @@
   <!-- EN: [animalKindDef_label] arrived -->
   <Intro_Wimp.LetterLabelAnimalArrived.slateRef>[animalKindDef_label] a sosit</Intro_Wimp.LetterLabelAnimalArrived.slateRef>
   <!-- EN: The [animalKindDef_label] that [asker_nameDef] was fleeing has arrived.\n\nIt turned out to be quite gentle and not aggressive at all. -->
-  <Intro_Wimp.LetterTextAnimalArrived.slateRef>TODO</Intro_Wimp.LetterTextAnimalArrived.slateRef>
+  <Intro_Wimp.LetterTextAnimalArrived.slateRef>A sosit animalul [animalKindDef_label] de care fugea [asker_nameDef].\n\nSe pare că este destul de blând și nu e deloc agresiv.</Intro_Wimp.LetterTextAnimalArrived.slateRef>
   <!-- EN: Manhunting [animalKindDef_label] -->
   <Intro_Wimp.LetterLabelAngryAnimal.slateRef>[animalKindDef_label] vânătoare de oameni</Intro_Wimp.LetterLabelAngryAnimal.slateRef>
   <!-- EN: The [animalKindDef_label] which was following [asker_nameFull] has arrived in the area. -->
@@ -26,7 +26,7 @@
   <!-- EN: Shuttle arrived -->
   <Intro_Wimp.LetterLabelShuttleArrived.slateRef>A sosit naveta</Intro_Wimp.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect [asker_nameDef]. -->
-  <Intro_Wimp.LetterTextShuttleArrived.slateRef>TODO</Intro_Wimp.LetterTextShuttleArrived.slateRef>
+  <Intro_Wimp.LetterTextShuttleArrived.slateRef>Naveta a sosit pentru a-l lua pe [asker_nameDef].</Intro_Wimp.LetterTextShuttleArrived.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
   <Intro_Wimp.LetterLabelGuestDied.slateRef>Oaspetele a murit: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestDied.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
@@ -34,7 +34,7 @@
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
   <Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>Operație chirurgicală neautorizată: {SUBJECT_definite}</Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. Because of this violation, [asker_pronoun] will now attempt to leave. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>TODO</Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>
+  <Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>O intervenție chirurgicală neautorizată și violatoare a fost efectuată asupra {SUBJECT_definite}, pe care ați fost însărcinat să îl protejați. Din cauza acestei încălcări, [asker_pronoun] va încerca acum să plece. [failLetterEndingCommon]</Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>
   <!-- EN: Captured: {SUBJECT_definite} -->
   <Intro_Wimp.LetterLabelCaptured.slateRef>Capturat: {SUBJECT_definite}</Intro_Wimp.LetterLabelCaptured.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to host, has been arrested. [failLetterEndingCommon] -->
@@ -50,10 +50,10 @@
   <!-- EN: Shuttle destroyed -->
   <Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>Navetă distrusă</Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect [asker_nameDef] has been destroyed. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>TODO</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
+  <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>Naveta trimisă pentru a-l prelua pe [asker_nameDef] a fost distrusă. [asker_pronoun] va pleca acum pe jos. [failLetterEndingCommon]</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <Intro_Wimp.LetterLabelQuestFailed.slateRef>Căutarea a eșuat: [resolvedQuestName]</Intro_Wimp.LetterLabelQuestFailed.slateRef>
   <!-- EN: The shuttle sent to collect [asker_nameDef] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <Intro_Wimp.LetterTextQuestFailed.slateRef>TODO</Intro_Wimp.LetterTextQuestFailed.slateRef>
+  <Intro_Wimp.LetterTextQuestFailed.slateRef>Naveta trimisă pentru a colecta [asker_nameDef] a plecat fără [asker_objective]. [asker_pronoun] va pleca acum pe jos. [failLetterEndingCommon]</Intro_Wimp.LetterTextQuestFailed.slateRef>
   
 </LanguageData>

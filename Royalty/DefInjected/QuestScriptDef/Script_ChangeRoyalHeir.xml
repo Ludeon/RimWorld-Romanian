@@ -12,9 +12,9 @@
   <!-- EN: Time left: {0} -->
   <ChangeRoyalHeir.InspectStringTimeLeft.slateRef>Timp rămas: {0}</ChangeRoyalHeir.InspectStringTimeLeft.slateRef>
   <!-- EN: [titleHolder_nameDef]'s heir change failed -->
-  <ChangeRoyalHeir.LetterTextAskerOffended.slateRef>TODO</ChangeRoyalHeir.LetterTextAskerOffended.slateRef>
+  <ChangeRoyalHeir.LetterTextAskerOffended.slateRef>Schimbarea moștenitorului [titleHolder_nameDef] a eșuat.</ChangeRoyalHeir.LetterTextAskerOffended.slateRef>
   <!-- EN: [asker_nameDef] is offended that you promised to consecrate the new inheritance, but did not build the monument within the prescribed time.\n\nYou lost 25 goodwill with [asker_faction_name]. -->
-  <ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>TODO</ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>
+  <ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>[asker_nameDef] este jignit de faptul că ați promis să consacrați noua moștenire, dar nu ați construit monumentul în termenul stabilit.\n\nAi pierdut 25 de bunăvoință cu [asker_faction_name].</ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>
   <!-- EN: Title holder died: {SUBJECT_definite} -->
   <ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>Titularul titlului a murit: {SUBJECT_definite}</ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>
   <!-- EN: {SUBJECT_definite}, whose heir was in the process of being changed, has died. -->
@@ -26,11 +26,11 @@
   <!-- EN: Monument destroyed -->
   <ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>Monument distrus</ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>
   <!-- EN: [asker_nameDef] is offended that you promised to consecrate the new inheritance, but allowed the monument to be ruined soon after completion.\n\nYour relations with [asker_faction_name] have fallen by [goodwillChangeIfMonumentDestroyed]. -->
-  <ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>TODO</ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>
+  <ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>[asker_nameDef] este jignit că ați promis să consacrați noua moștenire, dar ați permis ca monumentul să fie distrus la scurt timp după finalizare.\n\nRelațiile dumneavoastră cu [asker_faction_name] au scăzut cu [goodwillChangeIfMonumentDestroyed].</ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>
   <!-- EN: New heir: [titleHeir_nameDef] -->
-  <ChangeRoyalHeir.LetterLabelNewHeir.slateRef>TODO</ChangeRoyalHeir.LetterLabelNewHeir.slateRef>
+  <ChangeRoyalHeir.LetterLabelNewHeir.slateRef>Noul moștenitor: [titleHeir_nameDef]</ChangeRoyalHeir.LetterLabelNewHeir.slateRef>
   <!-- EN: [titleHeir_nameDef] is the new heir of [titleHolder_nameDef]. -->
-  <ChangeRoyalHeir.LetterTextNewHeir.slateRef>TODO</ChangeRoyalHeir.LetterTextNewHeir.slateRef>
+  <ChangeRoyalHeir.LetterTextNewHeir.slateRef>[titleHeir_nameDef] este noul moștenitor al [titleHolder_nameDef].</ChangeRoyalHeir.LetterTextNewHeir.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
   <ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>Nu distrugeți monumentul pentru {0}</ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->

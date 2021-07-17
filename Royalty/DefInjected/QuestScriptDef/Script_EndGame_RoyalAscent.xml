@@ -71,6 +71,6 @@
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>Căutarea a eșuat: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>
   <!-- EN: The shuttle sent to collect the [asker_faction_leaderTitle] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>TODO</EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>
+  <EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>Naveta trimisă pentru a colecta [asker_faction_leaderTitle] a plecat fără [asker_objective]. [asker_pronoun] va pleca acum pe jos. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>
   
 </LanguageData>

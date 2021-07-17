@@ -87,13 +87,13 @@
   <!-- EN: Wanderer joins: {PAWN_nameDef} -->
   <WandererJoin.letterLabel>Un rătăcitor se alătură: {PAWN_nameDef}</WandererJoin.letterLabel>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
-  <WandererJoin.letterText>TODO</WandererJoin.letterText>
+  <WandererJoin.letterText>{PAWN_gender ? Un {PAWN_title} pe nume {PAWN_nameDef} a sosit și se alătură coloniei.\n\nEste dispus să contribuie, dar nu va pleca de bună voie. Dacă nu-l vreți pe {PAWN_nameDef}, îl puteți alunga, îl puteți vinde ca sclav sau pur și simplu îl puteți ucide. Cu toate acestea, ceilalți coloniști ar putea găsi acest lucru deranjant. : O {PAWN_titleFemale} pe nume {PAWN_nameDef} a sosit și se alătură coloniei.\n\n\nEste dispusă să contribuie, dar nu va pleca de bunăvoie. Dacă nu o vreți pe {PAWN_nameDef}, o puteți alunga, o puteți vinde ca sclavă sau pur și simplu o puteți ucide. Cu toate acestea, ceilalți coloniști ar putea găsi acest lucru deranjant.}</WandererJoin.letterText>
   
   <!-- EN: wild man wanders in -->
   <WildManWandersIn.label>un om sălbatic rătăcește prin zonă</WildManWandersIn.label>
   <!-- EN: {PAWN_kind} wanders in -->
-  <WildManWandersIn.letterLabel>{PAWN_kind} rătăcește în</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterLabel>{PAWN_kind} rătăcește prin apropiere</WildManWandersIn.letterLabel>
   <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
-  <WildManWandersIn.letterText>TODO</WildManWandersIn.letterText>
+  <WildManWandersIn.letterText>O persoană care trăiește printre animalele sălbatice s-a rătăcit în zonă. {PAWN_pronoun} se numește {0}.\n\nPuteți încerca să îmblânziți sau să arestați pe {PAWN_obiectiv}.</WildManWandersIn.letterText>
   
 </LanguageData>

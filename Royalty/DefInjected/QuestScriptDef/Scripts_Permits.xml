@@ -31,7 +31,7 @@
   <!-- EN: Shuttle arrived -->
   <Permit_CallShuttle.LetterLabelPermitShuttleArrived.slateRef>A sosit naveta</Permit_CallShuttle.LetterLabelPermitShuttleArrived.slateRef>
   <!-- EN: The shuttle called by [asker_nameDef] has arrived.\n\nIf you don't use the shuttle, it will return to [permitFaction_name] in [shuttleReturnDays] days. -->
-  <Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>TODO</Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>
+  <Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>A sosit naveta chemată de [solicitant_numeleDef].\n\nDacă nu folosiți naveta, aceasta se va întoarce la [permitFaction_name] în [shuttleReturnDays] zile.</Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>
   <!-- EN: shuttle destroyed -->
   <Permit_CallShuttle.GoodwillChangeReasonShuttleDestroyed.slateRef>navetă distrusă</Permit_CallShuttle.GoodwillChangeReasonShuttleDestroyed.slateRef>
   <!-- EN: Shuttle left -->
