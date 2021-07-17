@@ -24,7 +24,7 @@
   <DeteriorationRate.formatString>{0} / zi</DeteriorationRate.formatString>
   
   <!-- EN: flammability -->
-  <Flammability.label>flammability</Flammability.label>
+  <Flammability.label>inflamabilitate</Flammability.label>
   <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
   <Flammability.description>Cât de ușor se aprinde un obiect și cât de repede se va dezvolta un incendiu pe măsură ce arde.</Flammability.description>
   

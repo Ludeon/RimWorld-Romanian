@@ -279,13 +279,13 @@
   <!-- EN: The things this terrain supports. -->
   <Stat_Thing_Terrain_Supports_Desc>Lucrurile pe care le suportă acest teren.</Stat_Thing_Terrain_Supports_Desc>
   <!-- EN: This can only be placed on terrain of these types. -->
-  <Stat_Thing_TerrainRequirement_Desc>Aceasta poate fi plasată numai pe terenuri de aceste tipuri.</Stat_Thing_TerrainRequirement_Desc>
+  <Stat_Thing_TerrainRequirement_Desc>Un obiect sau o structură poate fi plasată numai pe terenuri de un anumit fel. De exemplu, un perete de piatră nu va putea fi construit decât pe terenuri care nu sunt mlăștinoase, noroioase sau foarte nisipoase. </Stat_Thing_TerrainRequirement_Desc>
   <!-- EN: Considered -->
   <Stat_Thing_Terrain_Fine_Name>Considerat</Stat_Thing_Terrain_Fine_Name>
   <!-- EN: Fine -->
   <Stat_Thing_Terrain_Fine_Value>În regulă</Stat_Thing_Terrain_Fine_Value>
   <!-- EN: This floor is considered fine and suitable for royalty. -->
-  <Stat_Thing_Terrain_Fine_Desc>Acest etaj este considerat fin și potrivit pentru regalitate.</Stat_Thing_Terrain_Fine_Desc>
+  <Stat_Thing_Terrain_Fine_Desc>Acest tip de podea este considerat fin și pe gusturile regalității.</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
   <Stat_Thing_PowerConsumption_Desc>Cantitatea de energie pe care această clădire o va extrage din rețeaua electrică.</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: {CHARGENOUN_plural} remaining -->
