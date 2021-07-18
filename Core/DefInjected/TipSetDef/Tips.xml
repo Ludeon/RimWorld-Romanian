@@ -20,9 +20,9 @@
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
   <GameplayTips.WorkTabDecreasePriority>Dacă faceți clic dreapta pe un număr din fila Muncă folosind priorități manuale, prioritatea va fi redusă în loc să fie mărită.</GameplayTips.WorkTabDecreasePriority>
   <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
-  <GameplayTips.GunfightCover>Într-un schimb de focuri de armă, fiți întotdeauna în spatele unei acoperiri!</GameplayTips.GunfightCover>
+  <GameplayTips.GunfightCover>Într-un schimb de focuri de armă, fiți întotdeauna la adăpost! Faceți clic dreapta și trageți pentru ca luptătorii dumneavoastră să formeze o linie.</GameplayTips.GunfightCover>
   <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
-  <GameplayTips.GunfightSpread>Într-un schimb de focuri, împrăștiați-vă coloniștii! Țintele îngrămădite sunt ușor de lovit.</GameplayTips.GunfightSpread>
+  <GameplayTips.GunfightSpread>Faceți clic dreapta și trageți pentru ca luptătorii recrutați să formeze o linie. Țintele grupate sunt ușor de lovit!</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
   <GameplayTips.ShootingAccuracySmoke>Fumul împiedică total turelele să detecteze țintele, dar oamenii pot trage în continuare cu o precizie redusă.</GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->

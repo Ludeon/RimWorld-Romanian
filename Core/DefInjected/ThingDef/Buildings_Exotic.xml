@@ -14,6 +14,6 @@
   <!-- EN: ship chunk -->
   <ShipChunk.label>bucată de navă</ShipChunk.label>
   <!-- EN: A chunk of a spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nHaving landed not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
-  <ShipChunk.description>O bucată dintr-o navă spațială. Poate fi deconstruită pentru a produce resurse utile.</ShipChunk.description>
+  <ShipChunk.description>O bucată de navă spațială. Se pare că a fost smulsă fie de forțele necontrolate de reintrare în atmosferă, fie de un fel de armă.\n\nAterizând nu cu mult timp în urmă, încă mai conține resurse utile pe care le puteți obține prin deconstrucția ei.</ShipChunk.description>
   
 </LanguageData>

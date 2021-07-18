@@ -25,7 +25,7 @@
   <!-- EN: cook fine meal x4 -->
   <CookMealFineBulk.label>gătește mâncare fină x4</CookMealFineBulk.label>
   <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
-  <CookMealFineBulk.description>Gătește 4 mese oarecum complexe dintr-o combinație de ingrediente din carne și plante.</CookMealFineBulk.description>
+  <CookMealFineBulk.description>Gătește 4 mese oarecum complexe dintr-o combinație de carne și ingrediente vegetale. Unele dintre ingrediente sunt irosite pentru a crea o experiență culinară bună.</CookMealFineBulk.description>
   <!-- EN: Cooking 4 fine meals. -->
   <CookMealFineBulk.jobString>Gătește 4 mese fine.</CookMealFineBulk.jobString>
   
@@ -46,7 +46,7 @@
   <!-- EN: cook lavish meal -->
   <CookMealLavish.label>Gătește o masă somptuoasă</CookMealLavish.label>
   <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
-  <CookMealLavish.description>Gătește o masă foarte complexă dintr-o combinație de ingrediente din carne și plante. O mare parte din ingrediente sunt irosite.</CookMealLavish.description>
+  <CookMealLavish.description>Gătește o masă foarte complexă dintr-o combinație de ingrediente din carne și plante. O mare parte din ingrediente sunt irosite pentru a crea cea mai bună experiență culinară.</CookMealLavish.description>
   <!-- EN: Cooking lavish meal. -->
   <CookMealLavish.jobString>Gătește o masă somptuoasă.</CookMealLavish.jobString>
   
@@ -67,7 +67,7 @@
   <!-- EN: cook lavish meal x4 -->
   <CookMealLavishBulk.label>Gătește o masă somptuoasă x4</CookMealLavishBulk.label>
   <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
-  <CookMealLavishBulk.description>Gătește 4 mese foarte complexe dintr-o combinație de ingrediente din carne și plante. O mare parte din ingrediente sunt irosite.</CookMealLavishBulk.description>
+  <CookMealLavishBulk.description>Gătește 4 mese foarte complexe dintr-o combinație de carne și ingrediente vegetale. O mare parte din ingrediente sunt irosite pentru a crea cea mai bună experiență culinară.</CookMealLavishBulk.description>
   <!-- EN: Cooking 4 lavish meals. -->
   <CookMealLavishBulk.jobString>Gătește 4 mese somptuoase.</CookMealLavishBulk.jobString>
   

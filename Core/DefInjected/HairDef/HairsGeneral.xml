@@ -122,10 +122,11 @@
   <Senorita.label>senorita</Senorita.label>
   
   <!-- EN: shaved -->
-  <Shaved.label>rasă</Shaved.label>
+  <Shaved.label>ras</Shaved.label>
+  <ShavedFemale.label>rasă</ShavedFemale.label>
   
   <!-- EN: shave top braid -->
-  <ShaveTopBraid.label>ras sus cu împletitură</ShaveTopBraid.label>
+  <ShaveTopBraid.label>ras deasupra cu împletitură</ShaveTopBraid.label>
   
   <!-- EN: snazzy -->
   <Snazzy.label>snazzy</Snazzy.label>

@@ -101,7 +101,7 @@
   <!-- EN: tool cabinet -->
   <ToolCabinet.label>dulap de scule</ToolCabinet.label>
   <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
-  <ToolCabinet.description>Crește viteza de lucru atunci când este plasat lângă un banc de lucru. O utilizare a unui banc de lucru la până la două dulapuri de scule.</ToolCabinet.description>
+  <ToolCabinet.description>Crește viteza de lucru atunci când este plasat lângă un banc de lucru. Un banc de lucru poate utiliza până la două dulapuri pentru scule.</ToolCabinet.description>
   
   <!-- EN: transport pod -->
   <TransportPod.label>capsulă de transport</TransportPod.label>

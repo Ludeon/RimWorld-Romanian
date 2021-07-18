@@ -9,7 +9,7 @@
   <!-- EN: lower priority -->
   <LowerPriority>prioritate inferioară</LowerPriority>
   <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
-  <RelevantSkills>Competențe relevante: {0}\nMedia competențelor relevante: {1} / {2}</RelevantSkills>
+  <RelevantSkills>Competențe relevante: {0}\nMedia competențelor relevante: {1}</RelevantSkills>
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Faceți clic pentru a sări la:</ClickToJumpTo>
   <!-- EN: {1_labelShort} cannot do this kind of work. -->
@@ -293,7 +293,7 @@
   <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
   <QuestThroneRoomRequirementsUnsatisfied>o cameră de tron care îndeplinește cerințele din titlul {TITLE} al lui {PAWN_definite}.</QuestThroneRoomRequirementsUnsatisfied>
   <!-- EN: assign a throne for {PAWN_definite} -->
-  <QuestNoThroneRoom>o cameră de tron care îndeplinește cerințele titlului {TITLE} al lui {PAWN_definite} </QuestNoThroneRoom>
+  <QuestNoThroneRoom>asignează un tron pentru {PAWN_definite}</QuestNoThroneRoom>
   <!-- EN: a colonist with the title of {0} -->
   <QuestNoColonistWithTitle>un colonist cu titlul de {0}</QuestNoColonistWithTitle>
   <!-- EN: {PAWN_definite} to be in your home colony -->

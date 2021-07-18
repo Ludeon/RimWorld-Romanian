@@ -4,7 +4,7 @@
   <!-- EN: barricade -->
   <Barricade.label>baricadă</Barricade.label>
   <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
-  <Barricade.description>O barieră înaltă până la brâu pentru a fi folosită ca acoperire împotriva împușcăturilor primite. Baricadele sunt urâte, dar oferă o acoperire mai bună decât alte obiecte joase.</Barricade.description>
+  <Barricade.description>O barieră până la talie, care poate fi folosită ca acoperire împotriva loviturilor de armă. Baricadele sunt urâte, dar oferă o acoperire mai bună decât alte obiecte joase. Baricadele vor bloca anumite tipuri de animale în același mod în care o fac gardurile.</Barricade.description>
   
   <!-- EN: sandbags -->
   <Sandbags.label>saci de nisip</Sandbags.label>
