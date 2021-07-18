@@ -1,69 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: alpaca -->
   <Alpaca.label>alpaca</Alpaca.label>
-  
-  <!-- EN: bison -->
-  <Bison.label>bison</Bison.label>
-  <!-- EN: bison calf -->
-  <Bison.lifeStages.bison_calf.label>vițel de bizon</Bison.lifeStages.bison_calf.label>
-  <!-- EN: bison calves -->
-  <Bison.lifeStages.bison_calf.labelPlural>viței de bizon</Bison.lifeStages.bison_calf.labelPlural>
-  
-  <!-- EN: chicken -->
-  <Chicken.label>pui</Chicken.label>
-  <!-- EN: hen -->
-  <Chicken.labelFemale>găină</Chicken.labelFemale>
-  <!-- EN: rooster -->
-  <Chicken.labelMale>cocoș</Chicken.labelMale>
-  <!-- EN: chick -->
-  <Chicken.lifeStages.chick.label>Pui</Chicken.lifeStages.chick.label>
-  <!-- EN: cockerel -->
-  <Chicken.lifeStages.cockerel.labelMale>cocoș</Chicken.lifeStages.cockerel.labelMale>
-  
-  <!-- EN: cow -->
-  <Cow.label>vacă</Cow.label>
-  <!-- EN: bull -->
-  <Cow.labelMale>taur</Cow.labelMale>
-  <!-- EN: calf -->
-  <Cow.lifeStages.calf.label>vițel</Cow.lifeStages.calf.label>
-  <!-- EN: calves -->
-  <Cow.lifeStages.calf.labelPlural>viței</Cow.lifeStages.calf.labelPlural>
-  
-  <!-- EN: donkey -->
-  <Donkey.label>măgar</Donkey.label>
-  <!-- EN: donkey foal -->
-  <Donkey.lifeStages.donkey_foal.label>mânz de măgar</Donkey.lifeStages.donkey_foal.label>
-  
-  <!-- EN: duck -->
-  <Duck.label>rață</Duck.label>
-  <!-- EN: duckling -->
-  <Duck.lifeStages.duckling.label>rățușcă</Duck.lifeStages.duckling.label>
-  
-  <!-- EN: goat -->
-  <Goat.label>capră</Goat.label>
-  <!-- EN: goat doe -->
-  <Goat.labelFemale>căprioară capră</Goat.labelFemale>
-  <!-- EN: baby goat -->
-  <Goat.lifeStages.baby_goat.label>pui de capră</Goat.lifeStages.baby_goat.label>
-  
-  <!-- EN: goose -->
-  <Goose.label>gâscă</Goose.label>
-  <!-- EN: geese -->
-  <Goose.labelPlural>gâște</Goose.labelPlural>
-  
-  <!-- EN: guinea pig -->
-  <GuineaPig.label>cobai</GuineaPig.label>
-  
-  <!-- EN: horse -->
-  <Horse.label>cal</Horse.label>
-  <!-- EN: mare -->
-  <Horse.labelFemale>iapă</Horse.labelFemale>
-  <!-- EN: stallion -->
-  <Horse.labelMale>armăsar</Horse.labelMale>
-  <!-- EN: foal -->
-  <Horse.lifeStages.foal.label>mânz</Horse.lifeStages.foal.label>
   
   <!-- EN: pig -->
   <Pig.label>porc</Pig.label>
@@ -84,14 +23,5 @@
   <Sheep.lifeStages.lamb.label>miel</Sheep.lifeStages.lamb.label>
   <!-- EN: lambs -->
   <Sheep.lifeStages.lamb.labelPlural>miei</Sheep.lifeStages.lamb.labelPlural>
-  
-  <!-- EN: yak -->
-  <Yak.label>yak</Yak.label>
-  <!-- EN: yak -->
-  <Yak.labelMale>yak</Yak.labelMale>
-  <!-- EN: yak calf -->
-  <Yak.lifeStages.yak_calf.label>vițel de yak</Yak.lifeStages.yak_calf.label>
-  <!-- EN: yak calves -->
-  <Yak.lifeStages.yak_calf.labelPlural>viței de yak</Yak.lifeStages.yak_calf.labelPlural>
   
 </LanguageData>

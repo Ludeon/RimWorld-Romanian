@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: construction speed -->
@@ -7,6 +7,11 @@
   <ConstructionSpeedFactor.description>Viteza cu care se construiesc clădirile făcute din acest material este înmulțită cu această valoare.\n\nCâteva materiale, cum ar fi piatra, se construiesc greu, în timp ce altele, cum ar fi lemnul, sunt rapide.</ConstructionSpeedFactor.description>
   <!-- EN: construction speed (material factor) -->
   <ConstructionSpeedFactor.labelForFullStatList>viteza de construcție (factor material)</ConstructionSpeedFactor.labelForFullStatList>
+  
+  <!-- EN: filth multiplier -->
+  <FilthMultiplier.label>TODO</FilthMultiplier.label>
+  <!-- EN: How susceptible this surface is to filth. If this is less than 100%, some of the filth deposited here will disappear on contact. -->
+  <FilthMultiplier.description>TODO</FilthMultiplier.description>
   
   <!-- EN: medical potency -->
   <MedicalPotency.label>potență medicală</MedicalPotency.label>

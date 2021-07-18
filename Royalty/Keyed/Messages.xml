@@ -1,11 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Shuttle landing zones -->
   <!-- EN: Shuttle could not land on pad: {0} -->
   <ShuttleBlocked>Naveta nu a putut ateriza pe platformă: {0}</ShuttleBlocked>
-  <!-- EN: blocked by {0_label}. -->
-  <BlockedBy>Blocat de {0_label}.</BlockedBy>
   <!-- EN: The shuttle has arrived. -->
   <MessageShuttleArrived>Naveta a sosit.</MessageShuttleArrived>
   <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
@@ -21,12 +19,18 @@
   <!-- EN: Warning: Anima tree has been marked for cutting. -->
   <MessageWarningCutAnimaTree>Avertisment: Arborele Anima a fost marcat pentru tăiere.</MessageWarningCutAnimaTree>
 
-  <!-- EN: Select {TARGET_definite} and right-click the bestower to begin the bestowing ceremony. -->
+  <!-- EN: Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony. -->
   <MessageBestowerWaiting>Selectați {TARGET_definite} și faceți clic dreapta pe emisar pentru a începe ceremonia de acordare.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
   <MessageBestowerUnreachable>Nu se poate ajunge la emisar!</MessageBestowerUnreachable>
+  <!-- EN: {0} is busy. -->
+  <MessageBestowingTargetIsBusy>TODO</MessageBestowingTargetIsBusy>
   <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
   <MessageBestowingSpotUnreachable>Emisarul este supărat de interferențe și a decis să plece.</MessageBestowingSpotUnreachable>
+  <!-- EN: The bestower is leaving due to life-threatening danger. -->
+  <MessageBestowingDanger>TODO</MessageBestowingDanger>
+  <!-- EN: The bestowing ceremony has been interrupted. -->
+  <MessageBestowingInterrupted>TODO</MessageBestowingInterrupted>
 
   <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
   <MessageBestowingCeremonyStarted>Ceremonia de acordare a {PAWN_definite} a început.</MessageBestowingCeremonyStarted>
@@ -37,5 +41,8 @@
   <MessagePermitTransportDrop>{FACTION_name} a lăsat resurse în apropiere.</MessagePermitTransportDrop>
   <!-- EN: {FACTION_name} has sent resources to {PAWN_nameDef}'s caravan. -->
   <MessagePermitTransportDropCaravan>{FACTION_name} a trimis resurse către caravana lui {PAWN_nameDef}.</MessagePermitTransportDropCaravan>
+
+  <!-- EN: No orbiting mechanoids found. -->
+  <MessageNoFactionForVerbMechCluster>TODO</MessageNoFactionForVerbMechCluster>
 
 </LanguageData>

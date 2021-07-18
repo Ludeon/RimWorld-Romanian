@@ -1,5 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: animals learning factor -->
+  <AnimalsLearningFactor.label>TODO</AnimalsLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for animals skill. -->
+  <AnimalsLearningFactor.description>TODO</AnimalsLearningFactor.description>
+  
+  <!-- EN: caravan riding speed -->
+  <CaravanRidingSpeedFactor.label>TODO</CaravanRidingSpeedFactor.label>
+  <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
+  <CaravanRidingSpeedFactor.description>TODO</CaravanRidingSpeedFactor.description>
   
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>capacitate de transport</CarryingCapacity.label>
@@ -21,6 +31,11 @@
   <!-- EN: A multiplier on eating speed. -->
   <EatingSpeed.description>Un multiplicator al vitezei de mâncat.</EatingSpeed.description>
   
+  <!-- EN: filth rate -->
+  <FilthRate.label>TODO</FilthRate.label>
+  <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
+  <FilthRate.description>TODO</FilthRate.description>
+  
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>cantitatea de alimente furajate</ForagedNutritionPerDay.label>
   <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
@@ -41,14 +56,19 @@
   <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
   <ImmunityGainSpeed.description>Viteza cu care acest personaj câștigă imunitate la boli.\n\nDacă este prea lentă, personajul va muri din cauza unei boli înainte de a dezvolta imunitate.</ImmunityGainSpeed.description>
   
+  <!-- EN: injury healing factor -->
+  <InjuryHealingFactor.label>TODO</InjuryHealingFactor.label>
+  <!-- EN: The multiplier applied to a person's injury healing rate. -->
+  <InjuryHealingFactor.description>TODO</InjuryHealingFactor.description>
+  
   <!-- EN: leather amount -->
   <LeatherAmount.label>Cantitatea de piele</LeatherAmount.label>
-  <!-- EN: The amount of leather yielded when butchering this creature. -->
+  <!-- EN: The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
   <LeatherAmount.description>Cantitatea de piele obținută la măcelărirea acestei creaturi.</LeatherAmount.description>
   
   <!-- EN: meat amount -->
   <MeatAmount.label>cantitatea de carne</MeatAmount.label>
-  <!-- EN: The amount of meat yielded when butchering this creature. -->
+  <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
   <MeatAmount.description>Cantitatea de carne obținută la măcelărirea acestei creaturi.</MeatAmount.description>
   
   <!-- EN: mental break threshold -->

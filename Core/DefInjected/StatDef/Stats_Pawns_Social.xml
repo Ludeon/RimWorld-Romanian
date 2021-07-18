@@ -1,10 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Arrest success chance -->
   <ArrestSuccessChance.label>șansa de reușită a arestării</ArrestSuccessChance.label>
   <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
   <ArrestSuccessChance.description>Cât de eficientă este această persoană în arestarea oamenilor. Aceasta afectează șansa ca această persoană să poată aresta pe cineva fără rezistență.</ArrestSuccessChance.description>
+  
+  <!-- EN: bond chance factor -->
+  <BondAnimalChanceFactor.label>TODO</BondAnimalChanceFactor.label>
+  <!-- EN: A multiplier on the chance to bond with an animal when interacting with it. -->
+  <BondAnimalChanceFactor.description>TODO</BondAnimalChanceFactor.description>
+  
+  <!-- EN: drug sell price improvement -->
+  <DrugSellPriceImprovement.label>TODO</DrugSellPriceImprovement.label>
+  <!-- EN: When this person sells non-medical drugs, prices are improved by this percentage. -->
+  <DrugSellPriceImprovement.description>TODO</DrugSellPriceImprovement.description>
   
   <!-- EN: negotiation ability -->
   <NegotiationAbility.label>capacitatea de negociere</NegotiationAbility.label>

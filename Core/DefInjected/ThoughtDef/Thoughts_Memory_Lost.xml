@@ -1,10 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: bonded animal {0} lost -->
   <BondedAnimalLost.stages.bonded_animal_lost.label>animal legat de {0} pierdut</BondedAnimalLost.stages.bonded_animal_lost.label>
   <!-- EN: Such a tender, unique animal. This universe is evil! -->
   <BondedAnimalLost.stages.bonded_animal_lost.description>Un animal atât de tandru și unic. Acest univers este malefic!</BondedAnimalLost.stages.bonded_animal_lost.description>
+  
+  <!-- EN: bonded animal {0} released -->
+  <BondedAnimalReleased.stages.bonded_animal_released.label>TODO</BondedAnimalReleased.stages.bonded_animal_released.label>
+  <!-- EN: Such a tender, unique animal. Why did it have to go? -->
+  <BondedAnimalReleased.stages.bonded_animal_released.description>TODO</BondedAnimalReleased.stages.bonded_animal_released.description>
   
   <!-- EN: colonist lost -->
   <ColonistLost.stages.colonist_lost.label>colonist pierdut</ColonistLost.stages.colonist_lost.label>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: arresting TargetA. -->
@@ -11,10 +11,19 @@
   <Capture.reportString>capturează TargetA.</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnDrafted.reportString>TODO</CarryDownedPawnDrafted.reportString>
+  
+  <!-- EN: carrying TargetA. -->
   <CarryDownedPawnToExit.reportString>transportă TargetA.</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
   <CarryToCryptosleepCasket.reportString>transportă TargetA în sicriul de criptosomn.</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasketDrafted.reportString>TODO</CarryToCryptosleepCasketDrafted.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <CarryToPrisonerBedDrafted.reportString>TODO</CarryToPrisonerBedDrafted.reportString>
   
   <!-- EN: cleaning TargetA. -->
   <Clean.reportString>curăță TargetA.</Clean.reportString>
@@ -45,6 +54,9 @@
   
   <!-- EN: replacing broken components in TargetA. -->
   <FixBrokenDownBuilding.reportString>înlocuiește componentele stricate din TargetA.</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <GuiltyColonistExecution.reportString>TODO</GuiltyColonistExecution.reportString>
   
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>recoltă TargetA.</Harvest.reportString>
@@ -85,6 +97,9 @@
   <!-- EN: executing TargetA. -->
   <PrisonerExecution.reportString>execută TargetA.</PrisonerExecution.reportString>
   
+  <!-- EN: releasing TargetA into the wild. -->
+  <ReleaseAnimalToWild.reportString>TODO</ReleaseAnimalToWild.reportString>
+  
   <!-- EN: releasing TargetA. -->
   <ReleasePrisoner.reportString>eliberează TargetA.</ReleasePrisoner.reportString>
   
@@ -102,6 +117,12 @@
   
   <!-- EN: researching. -->
   <Research.reportString>cercetează.</Research.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeRoamerToUnenclosedPen.reportString>TODO</RopeRoamerToUnenclosedPen.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeToPen.reportString>TODO</RopeToPen.reportString>
   
   <!-- EN: shearing TargetA. -->
   <Shear.reportString>tunde TargetA.</Shear.reportString>
@@ -121,6 +142,12 @@
   <!-- EN: stealing TargetA. -->
   <Steal.reportString>fură TargetA.</Steal.reportString>
   
+  <!-- EN: Studying TargetA. -->
+  <StudyThing.reportString>TODO</StudyThing.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeDownedPawnToBedDrafted.reportString>TODO</TakeDownedPawnToBedDrafted.reportString>
+  
   <!-- EN: taking TargetA to bed. -->
   <TakeToBedToOperate.reportString>ia TargetA la culcare.</TakeToBedToOperate.reportString>
   
@@ -138,6 +165,9 @@
   
   <!-- EN: uninstalling TargetA. -->
   <Uninstall.reportString>dezinstalează TargetA.</Uninstall.reportString>
+  
+  <!-- EN: unroping TargetA. -->
+  <Unrope.reportString>TODO</Unrope.reportString>
   
   <!-- EN: using comms console. -->
   <UseCommsConsole.reportString>utilizează consola de comunicații.</UseCommsConsole.reportString>

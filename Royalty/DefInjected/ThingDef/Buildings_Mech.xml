@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: defoliator -->
@@ -6,9 +6,9 @@
   <!-- EN: An area-denial device which annihilates nearby plants without affecting animals.\n\nIn planetary wars, these weapons are scattered across farmlands or jungles to deny the enemy food or cover. They're usually associated with orbital-drop mechanoid swarms. -->
   <Defoliator.description>Un dispozitiv de negare a zonei care anihilează plantele din apropiere fără a afecta animalele.\nÎn războaiele planetare, aceste arme sunt împrăștiate pe terenurile agricole sau în jungle pentru a interzice inamicului hrana sau acoperirea. De obicei, sunt asociate cu roiurile de mecanoizi cu lansare orbitală.</Defoliator.description>
   
-  <!-- EN: gloomlight -->
+  <!-- EN: mech node -->
   <Gloomlight.label>lumină crepusculară</Gloomlight.label>
-  <!-- EN: A self-powered mechanoid light. Gloomlights can be deconstructed to yield valuable resources, or used as lights - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
+  <!-- EN: A self-powered mechanoid node of unknown function. Mech nodes can be deconstructed to yield valuable resources - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
   <Gloomlight.description>O lumină mecanoidă autoalimentată. Luminile crepusculare pot fi deconstruite pentru a produce resurse valoroase sau pot fi folosite ca lumini - dar numai dacă sunt capturate intacte. Microcelula de energie internă se va arde și va distruge materialele dacă unitatea primește prea multe daune.</Gloomlight.description>
   
   <!-- EN: unstable power cell -->

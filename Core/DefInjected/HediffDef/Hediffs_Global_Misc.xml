@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: anesthetic -->
@@ -91,10 +91,6 @@
   <Pregnant.label>gravidă</Pregnant.label>
   <!-- EN: This creature is gestating offspring. It will give birth if the pregnancy comes to term. If starved or injured, there may be a miscarriage. -->
   <Pregnant.description>Această creatură este în gestație. Va da naștere dacă sarcina ajunge la termen. Dacă este înfometată sau rănită, se poate produce un avort spontan.</Pregnant.description>
-  <!-- EN: {0} pregnant -->
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} gravidă</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
-  <!-- EN: {0} is pregnant! -->
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} este gravidă!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
   <!-- EN: pregnancy -->
   <Pregnant.labelNoun>sarcină</Pregnant.labelNoun>
   <!-- EN: early-stage -->
@@ -103,6 +99,10 @@
   <Pregnant.stages.middlestage.label>etapa de mijloc</Pregnant.stages.middlestage.label>
   <!-- EN: late-stage -->
   <Pregnant.stages.latestage.label>etapa târzie</Pregnant.stages.latestage.label>
+  
+  <!-- UNUSED -->
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} gravidă</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} este gravidă!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
   
   <!-- EN: psychic coma -->
   <PsychicComa.label>comă psihică</PsychicComa.label>

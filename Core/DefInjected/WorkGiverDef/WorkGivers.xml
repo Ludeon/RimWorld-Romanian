@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: release prisoners -->
@@ -152,7 +152,7 @@
   <DoBillsFabricationBench.label>fabrică lucruri</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>fabricând lucruri la</DoBillsFabricationBench.gerund>
-  <!-- EN: fabricating things -->
+  <!-- EN: fabricate -->
   <DoBillsFabricationBench.verb>fabrică lucruri</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
@@ -297,9 +297,9 @@
   
   <!-- EN: execute prisoners -->
   <DoExecution.label>execută prizonieri</DoExecution.label>
-  <!-- EN: doing execution on -->
+  <!-- EN: executing -->
   <DoExecution.gerund>executând pe</DoExecution.gerund>
-  <!-- EN: do execution on -->
+  <!-- EN: execute -->
   <DoExecution.verb>execută pe</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
@@ -308,6 +308,20 @@
   <Drill.gerund>forând</Drill.gerund>
   <!-- EN: drill -->
   <Drill.verb>forează</Drill.verb>
+  
+  <!-- EN: empty egg box -->
+  <EmptyEggBox.label>TODO</EmptyEggBox.label>
+  <!-- EN: emptying -->
+  <EmptyEggBox.gerund>TODO</EmptyEggBox.gerund>
+  <!-- EN: empty -->
+  <EmptyEggBox.verb>TODO</EmptyEggBox.verb>
+  
+  <!-- EN: execute guilty colonists -->
+  <ExecuteGuiltyColonist.label>TODO</ExecuteGuiltyColonist.label>
+  <!-- EN: executing -->
+  <ExecuteGuiltyColonist.gerund>TODO</ExecuteGuiltyColonist.gerund>
+  <!-- EN: execute -->
+  <ExecuteGuiltyColonist.verb>TODO</ExecuteGuiltyColonist.verb>
   
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>hrănește prizonieri</FeedPrisoner.label>
@@ -477,6 +491,13 @@
   <!-- EN: rearm -->
   <RearmTurrets.verb>reînarmează</RearmTurrets.verb>
   
+  <!-- EN: rebalance penned animals -->
+  <RebalanceAnimalsInPens.label>TODO</RebalanceAnimalsInPens.label>
+  <!-- EN: roping -->
+  <RebalanceAnimalsInPens.gerund>TODO</RebalanceAnimalsInPens.gerund>
+  <!-- EN: rope -->
+  <RebalanceAnimalsInPens.verb>TODO</RebalanceAnimalsInPens.verb>
+  
   <!-- EN: refuel fuelable buildings -->
   <Refuel.label>alimentează clădirile cu combustibil</Refuel.label>
   <!-- EN: refueling -->
@@ -490,6 +511,13 @@
   <ReleasePrisoner.gerund>eliberând</ReleasePrisoner.gerund>
   <!-- EN: release -->
   <ReleasePrisoner.verb>eliberează</ReleasePrisoner.verb>
+  
+  <!-- EN: release to wild -->
+  <ReleaseToWild.label>TODO</ReleaseToWild.label>
+  <!-- EN: releasing -->
+  <ReleaseToWild.gerund>TODO</ReleaseToWild.gerund>
+  <!-- EN: release -->
+  <ReleaseToWild.verb>TODO</ReleaseToWild.verb>
   
   <!-- EN: remove roofs -->
   <RemoveRoofs.label>îndepărtează acoperișuri</RemoveRoofs.label>
@@ -533,6 +561,13 @@
   <!-- EN: strip -->
   <Strip.verb>dezbracă</Strip.verb>
   
+  <!-- EN: study -->
+  <StudyThing.label>TODO</StudyThing.label>
+  <!-- EN: studying -->
+  <StudyThing.gerund>TODO</StudyThing.gerund>
+  <!-- EN: research -->
+  <StudyThing.verb>TODO</StudyThing.verb>
+  
   <!-- EN: take beer out of fermenting barrels -->
   <TakeBeerOutOfFermentingBarrel.label>scoate berea din butoaiele de fermentare</TakeBeerOutOfFermentingBarrel.label>
   <!-- EN: taking beer from -->
@@ -547,12 +582,26 @@
   <!-- EN: take to bed -->
   <TakePrisonerToBed.verb>du la culcare pe</TakePrisonerToBed.verb>
   
+  <!-- EN: rope roaming animals -->
+  <TakeRoamingAnimalsToPen.label>TODO</TakeRoamingAnimalsToPen.label>
+  <!-- EN: roping -->
+  <TakeRoamingAnimalsToPen.gerund>TODO</TakeRoamingAnimalsToPen.gerund>
+  <!-- EN: rope -->
+  <TakeRoamingAnimalsToPen.verb>TODO</TakeRoamingAnimalsToPen.verb>
+  
   <!-- EN: take patients to bed for operations -->
   <TakeToBedToOperate.label>du pacienții la pat pentru operații</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
   <TakeToBedToOperate.gerund>ducând spre operație</TakeToBedToOperate.gerund>
   <!-- EN: take to operate -->
   <TakeToBedToOperate.verb>du pentru operație</TakeToBedToOperate.verb>
+  
+  <!-- EN: rope animals -->
+  <TakeToPen.label>TODO</TakeToPen.label>
+  <!-- EN: roping -->
+  <TakeToPen.gerund>TODO</TakeToPen.gerund>
+  <!-- EN: rope -->
+  <TakeToPen.verb>TODO</TakeToPen.verb>
   
   <!-- EN: tame animals -->
   <Tame.label>îmblânzește animalele</Tame.label>

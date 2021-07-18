@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Animals will attack doors -->
@@ -45,6 +45,11 @@
   <DrugPolicies.label>Politici privind drogurile</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
   <DrugPolicies.helpText>Puteți să le atribuiți coloniștilor să ia anumite medicamente într-un anumit program. De exemplu, îi puteți face să ia regulat medicamente care blochează infecțiile sau să bea o bere pe zi pentru a fi fericiți.\n\nDeschideți fila ASIGNARE și apăsați butonul "Gestionare politici de medicamente". Creați o nouă politică privind medicamentele. Apoi, puteți atribui această politică coloniștilor.\n\nColoniștii pot lua în continuare medicamente care nu sunt în politica lor. Le puteți spune ce să facă, dar ei își urmează și propriile dorințe!</DrugPolicies.helpText>
+  
+  <!-- EN: Positioning fighters -->
+  <GroupGotoHereDragging.label>TODO</GroupGotoHereDragging.label>
+  <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpText>TODO</GroupGotoHereDragging.helpText>
   
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>Interacțiunea cu comercianții</InteractingWithTraders.label>

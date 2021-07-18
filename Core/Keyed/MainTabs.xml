@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Work tab -->
@@ -8,7 +8,7 @@
   <HigherPriority>prioritate mai mare</HigherPriority>
   <!-- EN: lower priority -->
   <LowerPriority>prioritate inferioară</LowerPriority>
-  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} / {2} -->
+  <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
   <RelevantSkills>Competențe relevante: {0}\nMedia competențelor relevante: {1} / {2}</RelevantSkills>
   <!-- EN: Click to jump to: -->
   <ClickToJumpTo>Faceți clic pentru a sări la:</ClickToJumpTo>
@@ -36,6 +36,12 @@
   <Priority4>Prioritate scăzută</Priority4>
   <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
   <PawnFactionInfo>{0}\n\nFacțiunea de care aparține în prezent e {1_nameDef}.\n\nClick pentru a vedea facțiunea.</PawnFactionInfo>
+  <!-- EN: Disabled by backstory: {0} -->
+  <WorkDisabledByBackstory>TODO</WorkDisabledByBackstory>
+  <!-- EN: Disabled by trait: {0} -->
+  <WorkDisabledByTrait>TODO</WorkDisabledByTrait>
+  <!-- EN: Disabled by quest: {0} -->
+  <WorkDisabledByQuest>TODO</WorkDisabledByQuest>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->
@@ -84,16 +90,20 @@
   <Hostile>Ostil</Hostile>
   <!-- EN: Ally -->
   <Ally>Aliat</Ally>
+  <!-- EN: hostile -->
+  <HostileLower>TODO</HostileLower>
+  <!-- EN: ally -->
+  <AllyLower>TODO</AllyLower>
   <!-- EN: defeated -->
   <DefeatedLower>învins</DefeatedLower>
   <!-- EN: Enemy of {0} -->
   <HostileTo>Dușman al {0}</HostileTo>
   <!-- EN: Enemy of:  -->
   <EnemyOf>Dușman al:</EnemyOf>
-  <!-- EN: Current goodwill and relations status with this faction. -->
-  <CurrentGoodwillTip>Starea actuală a bunăvoinței și a relațiilor cu această facțiune.</CurrentGoodwillTip>
-  <!-- EN: Current relations with this faction. -->
-  <CurrentRelationTip>Relațiile actuale cu această facțiune.</CurrentRelationTip>
+  <!-- EN: Recent events -->
+  <RecentEvents>TODO</RecentEvents>
+  <!-- EN: Ongoing events -->
+  <OngoingEvents>TODO</OngoingEvents>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
   <CurrentGoodwillTip_PermanentEnemy>Această facțiune este permanent ostilă. Îți vor ataca așezările și caravanele. Relațiile cu ei nu se vor îmbunătăți niciodată, indiferent de motiv.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
@@ -102,13 +112,7 @@
   <CurrentGoodwillTip_Neutral>Această facțiune este neutră. Vor face comerț și vor discuta cu tine în mod liber. Dacă relațiile scad sub {0}, vor deveni ostile. Dacă relațiile cresc peste {1}, vor deveni aliați și vor începe să lucreze activ pentru a vă ajuta.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
   <CurrentGoodwillTip_Hostile>Această facțiune este ostilă. Îți vor ataca așezările și caravanele. Dacă relațiile se ridică peste {0}, vor deveni neutre.</CurrentGoodwillTip_Hostile>
-  <!-- EN: This faction has a natural goodwill range from {0} to {1}. -->
-  <CurrentGoodwillTip_NaturalGoodwill>Această facțiune are un interval de bunăvoință naturală de la {0} la {1}.</CurrentGoodwillTip_NaturalGoodwill>
-  <!-- EN: If goodwill is under {0}, it will rise by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillRise>Dacă fondul de comerț este sub {0}, acesta va crește cu {1} pe an.</CurrentGoodwillTip_NaturalGoodwillRise>
-  <!-- EN: If goodwill is over {0}, it will fall by {1} per year. -->
-  <CurrentGoodwillTip_NaturalGoodwillFall>Dacă fondul de comerț este mai mare de {0}, acesta va scădea cu {1} pe an.</CurrentGoodwillTip_NaturalGoodwillFall>
-  
+
   <!-- Social tab -->
   <!-- EN: Friend -->
   <Friend>Prieten</Friend>
@@ -178,8 +182,8 @@
   <!-- Research tab -->
   <!-- EN: Research -->
   <Research>Cercetare</Research>
-  <!-- EN: Researched -->
-  <Researched>Cercetat</Researched>
+  <!-- EN: Study -->
+  <Study>TODO</Study>
   <!-- EN: Unresearched -->
   <Unresearched>Necercetat</Unresearched>
   <!-- EN: Finished -->
@@ -208,6 +212,12 @@
   <TechLevelTooLow>Nivelul tehnologic al facțiunii tale este {0}, dar nivelul tehnologic al acestui proiect este {1}. Viteza de cercetare va fi înmulțită cu {2}.</TechLevelTooLow>
   <!-- EN: Unlocked with -->
   <UnlockedWith>Deblocat cu</UnlockedWith>
+
+  <!-- Factions tab -->
+  <!-- EN: Factions -->
+  <FactionsTab>TODO</FactionsTab>
+  <!-- EN: No known factions -->
+  <NoFactions>TODO</NoFactions>
 
   <!-- Quests tab -->
   <!-- EN: Available -->
@@ -282,7 +292,7 @@
   <QuestBedroomRequirementsUnsatisfiedSingle>un dormitor liber care satisface cerințele titlului de</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
   <QuestThroneRoomRequirementsUnsatisfied>o cameră de tron care îndeplinește cerințele din titlul {TITLE} al lui {PAWN_definite}.</QuestThroneRoomRequirementsUnsatisfied>
-  <!-- EN: a throneroom that satisfies the requirements of {PAWN_definite}'s {TITLE} title -->
+  <!-- EN: assign a throne for {PAWN_definite} -->
   <QuestNoThroneRoom>o cameră de tron care îndeplinește cerințele titlului {TITLE} al lui {PAWN_definite} </QuestNoThroneRoom>
   <!-- EN: a colonist with the title of {0} -->
   <QuestNoColonistWithTitle>un colonist cu titlul de {0}</QuestNoColonistWithTitle>
@@ -316,9 +326,27 @@
   <QuestBetrayalOffer>Ofertă de trădare: {0} tinte rămân</QuestBetrayalOffer>
   <!-- EN: {0} will grant you a reward for killing all members of the {1}. -->
   <QuestBetrayalOfferTip>{0} îți va acorda o recompensă pentru uciderea tuturor membrilor din {1}.</QuestBetrayalOfferTip>
-  
+  <!-- EN: a colony wealth of at least {0} -->
+  <QuestRequiredPlayerWealth>TODO</QuestRequiredPlayerWealth>
+  <!-- EN: alliance with {0} -->
+  <QuestAlliedTo>TODO</QuestAlliedTo>
+  <!-- EN: hostile to {0} -->
+  <QuestHostileTo>TODO</QuestHostileTo>
+  <!-- EN: neutral to {0} -->
+  <QuestNeutralTo>TODO</QuestNeutralTo>
+  <!-- EN: studied {0_labelShort} -->
+  <QuestRequiredThingStudied>TODO</QuestRequiredThingStudied>
+
   <!-- Health tab -->
   <!-- EN: Creates need -->
   <CreatesNeed>Creează nevoia</CreatesNeed>
+
+  <!-- UNUSED -->
+  <CurrentGoodwillTip>Starea actuală a bunăvoinței și a relațiilor cu această facțiune.</CurrentGoodwillTip>
+  <CurrentRelationTip>Relațiile actuale cu această facțiune.</CurrentRelationTip>
+  <CurrentGoodwillTip_NaturalGoodwill>Această facțiune are un interval de bunăvoință naturală de la {0} la {1}.</CurrentGoodwillTip_NaturalGoodwill>
+  <CurrentGoodwillTip_NaturalGoodwillRise>Dacă fondul de comerț este sub {0}, acesta va crește cu {1} pe an.</CurrentGoodwillTip_NaturalGoodwillRise>
+  <CurrentGoodwillTip_NaturalGoodwillFall>Dacă fondul de comerț este mai mare de {0}, acesta va scădea cu {1} pe an.</CurrentGoodwillTip_NaturalGoodwillFall>
+  <Researched>Cercetat</Researched>
 
 </LanguageData>

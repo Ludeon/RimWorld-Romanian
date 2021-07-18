@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: amniotic fluid -->
@@ -29,6 +29,9 @@
   <Filth_Fuel.label>baltă de combustibil chimic</Filth_Fuel.label>
   <!-- EN: A puddle of flammable chemfuel. -->
   <Filth_Fuel.description>O baltă de combustibil chimic inflamabil.</Filth_Fuel.description>
+  
+  <!-- EN: hair -->
+  <Filth_Hair.label>TODO</Filth_Hair.label>
   
   <!-- EN: machine bits -->
   <Filth_MachineBits.label>bucăți de mașini</Filth_MachineBits.label>

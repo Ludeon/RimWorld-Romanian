@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: allow biocoded apparel -->
@@ -28,10 +28,20 @@
   <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
   <AllowDeadmansApparel.description>Permiteți hainele care au fost purtate cândva de un cadavru. Majoritatea oamenilor consideră că hainele pătate de cadavre sunt deranjante, iar comercianții nu le vor accepta.</AllowDeadmansApparel.description>
   
+  <!-- EN: allow females -->
+  <AllowFemaleGender.label>TODO</AllowFemaleGender.label>
+  <!-- EN: Allow female individuals. -->
+  <AllowFemaleGender.description>TODO</AllowFemaleGender.description>
+  
   <!-- EN: allow fresh -->
   <AllowFresh.label>permite proaspăt</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
   <AllowFresh.description>Permite lucruri organice care nu au început încă să putrezească.</AllowFresh.description>
+  
+  <!-- EN: allow males -->
+  <AllowMaleGender.label>TODO</AllowMaleGender.label>
+  <!-- EN: Allow male individuals. -->
+  <AllowMaleGender.description>TODO</AllowMaleGender.description>
   
   <!-- EN: allow non-biocoded apparel -->
   <AllowNonBiocodedApparel.label>permite îmbrăcăminte fără biocodare</AllowNonBiocodedApparel.label>

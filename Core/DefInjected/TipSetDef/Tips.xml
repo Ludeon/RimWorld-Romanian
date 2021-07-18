@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: You can dismiss letters by right-clicking on them. -->
@@ -19,9 +19,9 @@
   <GameplayTips.WorkTabChangeAllColonists>Făcând Shift-clic pe numele unui tip de muncă din fila Muncă, se schimbă setările pentru toți coloniștii deodată.</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
   <GameplayTips.WorkTabDecreasePriority>Dacă faceți clic dreapta pe un număr din fila Muncă folosind priorități manuale, prioritatea va fi redusă în loc să fie mărită.</GameplayTips.WorkTabDecreasePriority>
-  <!-- EN: In a gunfight, always be behind cover! -->
+  <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
   <GameplayTips.GunfightCover>Într-un schimb de focuri de armă, fiți întotdeauna în spatele unei acoperiri!</GameplayTips.GunfightCover>
-  <!-- EN: In a gunfight, spread your colonists out! Bunched-up targets are easy to hit. -->
+  <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
   <GameplayTips.GunfightSpread>Într-un schimb de focuri, împrăștiați-vă coloniștii! Țintele îngrămădite sunt ușor de lovit.</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
   <GameplayTips.ShootingAccuracySmoke>Fumul împiedică total turelele să detecteze țintele, dar oamenii pot trage în continuare cu o precizie redusă.</GameplayTips.ShootingAccuracySmoke>
@@ -57,14 +57,16 @@
   <GameplayTips.CaravanPackingSpot>Plasați un punct de împachetare a caravanelor pentru a desemna locul în care doriți să se formeze caravanele dumneavoastră.</GameplayTips.CaravanPackingSpot>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
   <GameplayTips.CaravanSinglePerson>Caravanele cu o singură persoană pot fi foarte utile în anumite situații.</GameplayTips.CaravanSinglePerson>
-  <!-- EN: Faster animals make faster caravans. -->
-  <GameplayTips.CaravanFasterAnimals>Animalele mai rapide fac caravanele mai rapide.</GameplayTips.CaravanFasterAnimals>
-  <!-- EN: Smaller caravans will be attacked less often because they're less visible. -->
+  <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
+  <GameplayTips.CaravanRideableAnimals>TODO</GameplayTips.CaravanRideableAnimals>
+  <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>Caravanele mai mici vor fi atacate mai rar, deoarece sunt mai puțin vizibile.</GameplayTips.CaravanSmallerLessVisible>
   <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
   <GameplayTips.CaravanStockpileNearPackingSpot>Înainte de a forma o caravană, adunați obiectele pe care doriți să le trimiteți într-un stoc în apropierea locului de împachetare a caravanei. Acest lucru va face ca împachetarea să fie mult mai rapidă.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>Dacă aveți animale neantrenate în caravana dumneavoastră, le puteți împărți într-o caravană separată înainte de a ataca un inamic, pentru a le ține departe de luptă.</GameplayTips.CaravanUntrainedAnimals>
+  <!-- EN: Don't forget to pack medicine on your caravans. -->
+  <GameplayTips.tips.32>TODO</GameplayTips.tips.32>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
   <GameplayTips.StoryGenerator>RimWorld este un generator de povești, nu un test de îndemânare. O colonie ruinată este o tragedie dramatică, nu un eșec.</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
@@ -123,6 +125,12 @@
   <GameplayTips.ExtinguishFireArtillery>Exploziile sting incendiile în raza lor de explozie. Acest lucru face ca proiectilele de artilerie să fie utile pentru a opri incendiile atunci când nu există altă opțiune.</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
   <GameplayTips.BestStoriesFromDarkestSituations>Chiar și eșecurile grave nu înseamnă că jocul trebuie să se termine. Încercați să jucați o bătălie pierdută - adesea cele mai bune povești vin din cele mai întunecate situații.</GameplayTips.BestStoriesFromDarkestSituations>
+  <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
+  <GameplayTips.tips.62>TODO</GameplayTips.tips.62>
+  <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
+  <GameplayTips.tips.63>TODO</GameplayTips.tips.63>
+  <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
+  <GameplayTips.tips.64>TODO</GameplayTips.tips.64>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
   <GameplayTips.CleanLabs>Laboratoarele curate, cu plăci sterile, oferă bonusuri de viteză de cercetare.</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
@@ -133,5 +141,14 @@
   <GameplayTips.CombatDrugsFromInventory>Puteți folosi politicile privind drogurile pentru ca luptătorii dvs. să aibă asupra lor droguri de luptă, cum ar fi go-juice. O doză rapidă la începutul luptei poate câștiga bătălia.</GameplayTips.CombatDrugsFromInventory>
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
   <GameplayTips.SchedulesSetLong>Stabiliți programe cu perioade lungi de o singură activitate pentru a minimiza timpul de deplasare.</GameplayTips.SchedulesSetLong>
+  <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
+  <GameplayTips.StrawMatting>TODO</GameplayTips.StrawMatting>
+  <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
+  <GameplayTips.AnimalFilth>TODO</GameplayTips.AnimalFilth>
+  <!-- EN: Predators are less likely to hunt animals which are enclosed by fences or barricades. -->
+  <GameplayTips.PredatorsAndFences>TODO</GameplayTips.PredatorsAndFences>
+  
+  <!-- UNUSED -->
+  <GameplayTips.CaravanFasterAnimals>Animalele mai rapide fac caravanele mai rapide.</GameplayTips.CaravanFasterAnimals>
   
 </LanguageData>

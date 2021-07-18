@@ -116,6 +116,8 @@
   <DesignatorClearAreaAllowedDesc>Ștergeți celulele dintr-o zonă permisă.\n\nZonele permise sunt zone definite pe care le puteți atribui coloniștilor. Coloniștii nu vor accepta muncă sau nu își vor satisface nevoile în afara zonei permise.</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
   <ManageAreas>Gestionați zonele...</ManageAreas>
+  <!-- EN: Manage auto-slaughter... -->
+  <ManageAutoSlaughter>TODO</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>Creează o zonă în care coloniștii vor cultiva o anumită specie de plantă.</DesignatorGrowingZoneDesc>
@@ -170,6 +172,16 @@
   <DesignatorTame>Îmblânzește</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Domesticiți un animal sălbatic</DesignatorTameDesc>
+
+  <!-- EN: Release to wild -->
+  <DesignatorReleaseAnimalToWild>TODO</DesignatorReleaseAnimalToWild>
+  <!-- EN: Release an animal back into the wild. -->
+  <DesignatorReleaseAnimalToWildDesc>TODO</DesignatorReleaseAnimalToWildDesc>
+
+  <!-- EN: Study -->
+  <DesignatorStudy>TODO</DesignatorStudy>
+  <!-- EN: Study this object to learn more about it. -->
+  <DesignatorStudyDesc>TODO</DesignatorStudyDesc>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->

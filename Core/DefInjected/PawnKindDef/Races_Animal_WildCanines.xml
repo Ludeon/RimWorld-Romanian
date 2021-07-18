@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: arctic fox -->
@@ -27,13 +27,6 @@
   <Fox_Red.lifeStages.red_fox_puppy.label>cățeluș de vulpe roșie</Fox_Red.lifeStages.red_fox_puppy.label>
   <!-- EN: red fox puppies -->
   <Fox_Red.lifeStages.red_fox_puppy.labelPlural>cățeluși de vulpe roșie</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
-  
-  <!-- EN: warg -->
-  <Warg.label>warg</Warg.label>
-  <!-- EN: warg puppy -->
-  <Warg.lifeStages.warg_puppy.label>cățeluș warg</Warg.lifeStages.warg_puppy.label>
-  <!-- EN: warg puppies -->
-  <Warg.lifeStages.warg_puppy.labelPlural>cățeluși warg</Warg.lifeStages.warg_puppy.labelPlural>
   
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>lup arctic</Wolf_Arctic.label>

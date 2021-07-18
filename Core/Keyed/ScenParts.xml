@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- ======================== Non-grouped ========================-->
@@ -37,7 +37,7 @@
   <ScenPart_PawnsHaveTrait>{0} au o șansă {1} de a începe cu trăsătura: {2}</ScenPart_PawnsHaveTrait>
   <!-- EN: Characters and creatures explode on death ({0}, radius {1}). -->
   <ScenPart_OnPawnDeathExplode>Personajele și creaturile explodează la moarte ({0}, raza {1}).</ScenPart_OnPawnDeathExplode>
-  <!-- EN: {0} start naked. -->
+  <!-- EN: {0} have a {1} chance to start naked. -->
   <ScenPart_PawnsAreNaked>{0} încep dezbrăcați.</ScenPart_PawnsAreNaked>
   
   <!-- Pawn filters -->

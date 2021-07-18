@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: deep drilling -->
@@ -58,7 +58,7 @@
   
   <!-- EN: shields -->
   <ShieldBelt.label>scuturi</ShieldBelt.label>
-  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundry. -->
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundary. -->
   <ShieldBelt.description>Construiți echipamente de scut portabile. Scuturile folosesc tehnologia de respingere a impulsului pentru a împiedica proiectilele să traverseze limita câmpului.</ShieldBelt.description>
   
   <!-- EN: transport pod -->

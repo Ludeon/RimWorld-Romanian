@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Royalty and throne -->
@@ -102,8 +102,6 @@
   <!-- EN: {0_nameDef} is ready to use {1}. -->
   <AbilityReadyText>{0_nameDef} este gata să folosească {1}.</AbilityReadyText>
   
-  <!-- EN: Initiate a speech from the throne. {ORGANIZER_labelShort} will go to {ORGANIZER_possessive} throne and call all colonists to listen to a speech there. If all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <AbilitySpeechTooltip>Inițiați un discurs de pe tron. {ORGANIZER_labelShort} va merge la tronul {ORGANIZER_possessive} și va chema toți coloniștii să asculte un discurs acolo. Dacă totul merge bine, ascultătorii se vor simți inspirați și vor câștiga respect pentru {ORGANIZER_labelShort}. Dacă totul merge prost, discursul va aduce daune sociale. Rezultatul depinde de abilitățile sociale ale lui {ORGANIZER_labelShort}.</AbilitySpeechTooltip>
   <!-- EN: no throne assigned. -->
   <AbilitySpeechDisabledNoThroneAssigned>nu există un tron atribuit.</AbilitySpeechDisabledNoThroneAssigned>
   <!-- EN: throne is not accessible. -->
@@ -120,6 +118,15 @@
   <AbilitySpeechPossibleOutcomes>Șanse de rezultat</AbilitySpeechPossibleOutcomes>
   <!-- EN: {ORGANIZER_labelShort}'s {1} stat -->
   <AbilitySpeechStatInfo>Statistica {1} a lui {ORGANIZER_labelShort}</AbilitySpeechStatInfo>
+  <!-- EN: Initiated at -->
+  <AbilitySpeechTargetsLabel>TODO</AbilitySpeechTargetsLabel>
+  <!-- EN: Dignified throne -->
+  <AbilitySpeechTargetDescThrone>TODO</AbilitySpeechTargetDescThrone>
+  
+  <!-- EN: no accessible altar. -->
+  <RitualDisabledNoAltar>TODO</RitualDisabledNoAltar>
+  <!-- EN: Bestowing Ceremony -->
+  <RitualBestowingCeremony>TODO</RitualBestowingCeremony>
 
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
   <TotalMeditationToday>Meditația totală de astăzi: {0} (multiplicator de progres {1})</TotalMeditationToday>
@@ -131,23 +138,49 @@
   <BeginLinkingRitualNeedSubplants>Trebuie {0} {1} aici (aveți {2})</BeginLinkingRitualNeedSubplants>
   <!-- EN: Need {0} psylink focus type -->
   <BeginLinkingRitualNeedFocus>Trebuie tipul de focalizare psylink {0}</BeginLinkingRitualNeedFocus>
+  <!-- EN: Max psylink level -->
+  <BeginLinkingRitualMaxPsylinkLevel>TODO</BeginLinkingRitualMaxPsylinkLevel>
   <!-- EN: Need a free, reachable spot within 3 cells for linking -->
   <BeginLinkingRitualNeedLinkSpot>Trebuie un loc liber și accesibil în 3 celule pentru a face legătura.</BeginLinkingRitualNeedLinkSpot>
   <!-- EN: Linking ritual completed -->
   <LetterLabelLinkingRitualCompleted>Ritualul de legătură a fost finalizat</LetterLabelLinkingRitualCompleted>
   <!-- EN: {PAWN_labelShort} has completed the linking ritual with {LINKABLE_labelShort}.\n\n{PAWN_pronoun} now has an upgraded psylink, permitting the use of new psychic powers. -->
   <LetterTextLinkingRitualCompleted>{PAWN_labelShort} a finalizat ritualul de legare cu {LINKABLE_labelShort}.\n\n{PAWN_pronoun} are acum un psylink îmbunătățit, permițând utilizarea de noi puteri psihice.</LetterTextLinkingRitualCompleted>
+  <!-- EN: Additionally, {0} anima grass has been restored. -->
+  <LetterTextLinkingRitualCompletedAnimaGrass>TODO</LetterTextLinkingRitualCompletedAnimaGrass>
 
   <!-- EN: Land shuttle here -->
   <LandHere>Aterizează naveta aici</LandHere>
   <!-- EN: Destination is out of range. -->
   <MessageShuttleDestinationIsTooFar>Destinația este în afara razei de acțiune.</MessageShuttleDestinationIsTooFar>
 
-  <!-- EN: Do bestowing ceremony -->
+  <!-- EN: Start bestowing ceremony for {0_labelShort} -->
   <BeginCeremony>Ceremonia de acordare</BeginCeremony>
+  <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>TODO</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
   <BestowingCeremonyThroneroomRequirementsNotSatisfied>Emisarul este ofensat de faptul că sala tronului lui {PAWN_definite} nu îndeplinește cerințele titlului de {TITLE}. Ceremonia de acordare a fost anulată.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <!-- EN: bestowing ceremony -->
+  <BestowingCeremonyLabel>TODO</BestowingCeremonyLabel>
+  <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
+  <BestowingOutcomeQualitySpecific>TODO</BestowingOutcomeQualitySpecific>
+  
+  <!-- EN: No colonists that can link with anima tree right now. -->
+  <RitualTargetAnimaTreeNoPawnsToLink>TODO</RitualTargetAnimaTreeNoPawnsToLink>
+  <!-- EN: No colonists with the natural meditation focus type. -->
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>TODO</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <!-- EN: Need at least {0} anima grass. -->
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>TODO</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <!-- EN: An anima tree. -->
+  <RitualTargetAnimaTreeInfo>TODO</RitualTargetAnimaTreeInfo>
+  <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
+  <RitualTargetAnimaTreeMustBeCapableOfNature>TODO</RitualTargetAnimaTreeMustBeCapableOfNature>
 
+  <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
+  <AnimaLinkingExplanationBase>TODO</AnimaLinkingExplanationBase>
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>Nu toată încărcătura necesară este încă încărcată!</ShuttleRequiredItemsNotSatisfied>
+  <!-- UNUSED -->
+  <AbilitySpeechTooltip>Inițiați un discurs de pe tron. {ORGANIZER_labelShort} va merge la tronul {ORGANIZER_possessive} și va chema toți coloniștii să asculte un discurs acolo. Dacă totul merge bine, ascultătorii se vor simți inspirați și vor câștiga respect pentru {ORGANIZER_labelShort}. Dacă totul merge prost, discursul va aduce daune sociale. Rezultatul depinde de abilitățile sociale ale lui {ORGANIZER_labelShort}.</AbilitySpeechTooltip>
+
 </LanguageData>

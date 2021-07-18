@@ -1,10 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: dirt -->
   <DirtInEyes.label>murdărie</DirtInEyes.label>
   <!-- EN: Dirt in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <DirtInEyes.description>Murdărie în ochi. Afectează vederea, dar poate fi eliminat în câteva momente.</DirtInEyes.description>
+  <!-- EN: blind -->
+  <DirtInEyes.battleStateLabel>TODO</DirtInEyes.battleStateLabel>
   <!-- EN: dirt -->
   <DirtInEyes.labelNoun>murdărie</DirtInEyes.labelNoun>
   
@@ -12,6 +14,8 @@
   <GravelInEyes.label>pietriș</GravelInEyes.label>
   <!-- EN: Gravel in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <GravelInEyes.description>Pietriș în ochi. Afectează vederea, dar poate fi eliminată în câteva momente.</GravelInEyes.description>
+  <!-- EN: blind -->
+  <GravelInEyes.battleStateLabel>TODO</GravelInEyes.battleStateLabel>
   <!-- EN: gravel -->
   <GravelInEyes.labelNoun>pietriș</GravelInEyes.labelNoun>
   
@@ -19,6 +23,8 @@
   <MudInEyes.label>noroi</MudInEyes.label>
   <!-- EN: Mud in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <MudInEyes.description>Noroi în ochi. Afectează vederea, dar poate fi eliminat în câteva momente.</MudInEyes.description>
+  <!-- EN: blind -->
+  <MudInEyes.battleStateLabel>TODO</MudInEyes.battleStateLabel>
   <!-- EN: mud -->
   <MudInEyes.labelNoun>noroi</MudInEyes.labelNoun>
   
@@ -26,6 +32,8 @@
   <SandInEyes.label>nisip</SandInEyes.label>
   <!-- EN: Sand in the eyes. It impairs vision, but can be cleared within a few moments. -->
   <SandInEyes.description>Nisip în ochi. Afectează vederea, dar poate fi eliminat în câteva momente.</SandInEyes.description>
+  <!-- EN: blind -->
+  <SandInEyes.battleStateLabel>TODO</SandInEyes.battleStateLabel>
   <!-- EN: sand -->
   <SandInEyes.labelNoun>nisip</SandInEyes.labelNoun>
   
@@ -33,6 +41,8 @@
   <WaterInEyes.label>apă</WaterInEyes.label>
   <!-- EN: Water in the eyes. It impairs vision, but can be cleared in a few moments. -->
   <WaterInEyes.description>Apă în ochi. Afectează vederea, dar poate fi eliminată în câteva momente.</WaterInEyes.description>
+  <!-- EN: blind -->
+  <WaterInEyes.battleStateLabel>TODO</WaterInEyes.battleStateLabel>
   <!-- EN: water -->
   <WaterInEyes.labelNoun>apă</WaterInEyes.labelNoun>
   

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>pui</Chicken.label>
+  <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
+  <Chicken.description>Cea mai tradițională pasăre de fermă, găina este crescută pentru ouă și carne. Crește foarte repede și depune ouă foarte des.</Chicken.description>
+  <!-- EN: claws -->
+  <Chicken.tools.claws.label>gheare</Chicken.tools.claws.label>
+  <!-- EN: beak -->
+  <Chicken.tools.beak.label>cioc</Chicken.tools.beak.label>
+  <!-- EN: head -->
+  <Chicken.tools.head.label>cap</Chicken.tools.head.label>
+  
+  <!-- EN: duck -->
+  <Duck.label>rață</Duck.label>
+  <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely. -->
+  <Duck.description>Un tip foarte comun de pasăre de fermă, care apare și în sălbăticie, rața este crescută pentru carnea sa delicioasă. Crește rapid, dar depune ouă destul de rar.</Duck.description>
+  <!-- EN: claws -->
+  <Duck.tools.claws.label>gheare</Duck.tools.claws.label>
+  <!-- EN: beak -->
+  <Duck.tools.beak.label>cioc</Duck.tools.beak.label>
+  <!-- EN: head -->
+  <Duck.tools.head.label>cap</Duck.tools.head.label>
+  
+  <!-- EN: goose -->
+  <Goose.label>gâscă</Goose.label>
+  <!-- EN: A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch. -->
+  <Goose.description>Pasăre domesticită, crescută de oameni ca pasăre de curte pentru ouă și carne. Depune ouă foarte des, însă durează mult timp până la eclozare.</Goose.description>
+  <!-- EN: claws -->
+  <Goose.tools.claws.label>gheare</Goose.tools.claws.label>
+  <!-- EN: beak -->
+  <Goose.tools.beak.label>cioc</Goose.tools.beak.label>
+  <!-- EN: head -->
+  <Goose.tools.head.label>cap</Goose.tools.head.label>
+  
+</LanguageData>

@@ -6,7 +6,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 
 # Current status
 
-The last "structural update" (step 18. from Tynan's guide): `1.2.3005`
+The last "structural update" (step 18. from Tynan's guide): `1.3.3063`
 
 There's still a bit of untranslated text. Check [this tracking issue](https://github.com/Ludeon/RimWorld-Romanian/issues/10)
 

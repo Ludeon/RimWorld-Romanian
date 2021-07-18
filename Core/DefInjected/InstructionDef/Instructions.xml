@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
@@ -94,14 +94,16 @@
   <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
   <ChopTrees.text>Veți dori să recoltați niște lemn. Desemnați câțiva copaci care să fie tăiați.\n\nSelectați desemnatorul TAIE LEMN și desemnați 10 copaci care să fie tăiați.\n\n(Sfat pro: Puteți trage un chenar peste copaci pentru a desemna mai mulți deodată).</ChopTrees.text>
   
-  <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
+  <!-- EN: Click GENERATE to generate your world. -->
+  <CreateWorldParams.rejectInputMessage>TODO</CreateWorldParams.rejectInputMessage>
+  <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
   <CreateWorldParams.text>Bine ați venit în RimWorld! Acest tutorial vă va învăța cum să jucați jocul.\n\nPrimul pas este să generați o lume în care să vă jucați.\n\nAceastă pagină configurează modul în care lumea dvs. ar trebui să fie generată.\n\nSetările implicite de aici sunt bune - mergeți mai departe și faceți clic pe GENERARE!</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>Trimiteți coloniștii aici\nlângă sacii de nisip pentru acoperire</DownRaider.onMapInstruction>
   <!-- EN: Please focus on winning the fight! -->
   <DownRaider.rejectInputMessage>Vă rugăm să vă concentrați pe câștigarea luptei!</DownRaider.rejectInputMessage>
-  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
   <DownRaider.text>Am trimis acum un raider să atace colonia ta!\n\n1. Puneți jocul pe pauză apăsând {Key:TogglePause}!\n2. Citește scrisoarea roșie din partea dreaptă jos a ecranului.\n3. RECRUTEAZĂ coloniștii dvs. selectându-i și apăsând comanda DRAFT.\n4. Dați click dreapta pe ei pentru a-i poziționa în interiorul pătratului cu saci de nisip, atingând sacii de nisip.\n5. Dezactivează pauza.\n\nColoniștii trebuie să atingă acoperirea pentru a beneficia de ea. Odată ce vă aflați la adăpost, așteptați ca atacatorul să se apropie. Coloniștii dvs. vor trage automat.</DownRaider.text>
   
   <!-- EN: Right-click to get out of stockpile designating mode. -->
@@ -203,7 +205,7 @@
   <UnforbidStartingResources.onMapInstruction>Permiteți acest lucru</UnforbidStartingResources.onMapInstruction>
   <!-- EN: Please allow your starting items. -->
   <UnforbidStartingResources.rejectInputMessage>Vă rugăm să permiteți elementele de pornire.</UnforbidStartingResources.rejectInputMessage>
-  <!-- EN: Now, to allow your colonists to bring your items to the stockpile, you must remove their "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.) -->
+  <!-- EN: To allow your colonists to bring your items to the stockpile, you must remove the items' "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.)\n\nAlternatively, you can:\n1. Click ARCHITECT.\n2. Click ORDERS.\n3. Click ALLOW.\n4. Drag out a shape covering all forbidden items to allow them. -->
   <UnforbidStartingResources.text>Acum, pentru a le permite coloniștilor tăi să aducă obiectele tale în stoc, trebuie să le elimini desemnarea "interzis".\n\n1. Făcând clic pe obiectele tale de pornire pentru a le selecta.\n2. Faceți clic pe butonul de comutare PERMITE pentru a le permite.\n\n(Sfat profesional: Faceți dublu clic pe un element pentru a le selecta pe toate cele de pe ecran de același tip).</UnforbidStartingResources.text>
   
 </LanguageData>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: recon armor -->
@@ -58,7 +58,7 @@
   
   <!-- EN: marine armor -->
   <Apparel_PowerArmor.label>armură marină</Apparel_PowerArmor.label>
-  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
   <Apparel_PowerArmor.description>Un costum de armură cu motor. Plăcile stratificate cu țesătură de plastel sunt foarte eficiente în oprirea atacurilor, cu puține secțiuni de articulații vulnerabile. Asistenții neuro-memetici permit unui om să poarte armura și să se miște cu ușurință.\n\nArmajul de acest tip este adesea folosit de către ienicerii imperiali și pușcașii marini spațiali cu incursiune rapidă.</Apparel_PowerArmor.description>
   
   <!-- EN: tribalwear -->

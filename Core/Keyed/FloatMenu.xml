@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Call {0} -->
@@ -13,7 +13,7 @@
   <CannotUseNoPath>Nu se poate utiliza: Fără cale de acces</CannotUseNoPath>
   <!-- EN: Cannot use: Reserved -->
   <CannotUseReserved>Nu se poate utiliza: Rezervat</CannotUseReserved>
-  <!-- EN: Cannot use: full -->
+  <!-- EN: Cannot use: Full -->
   <CannotUseFull>Nu se poate utiliza: plin</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
   <LeaderUnavailable>liderul {1_labelShort} nu este disponibil</LeaderUnavailable>
@@ -35,6 +35,8 @@
   <IsIncapableOfViolenceLower>{1_labelShort} este incapabil de violență</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>incapabil de violență</IncapableOfViolenceLower>
+  <!-- EN: {0_labelShort} is incapable of shooting -->
+  <IsIncapableOfShootingLower>TODO</IsIncapableOfShootingLower>
   <!-- EN: {1_labelShort} is not drafted -->
   <IsNotDraftedLower>{1_labelShort} nu este recrutat</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
@@ -55,6 +57,8 @@
   <NoPath>fără cale</NoPath>
   <!-- EN: burying -->
   <Burying>îngropare</Burying>
+  <!-- EN: designated for {0} -->
+  <DesignatedFor>TODO</DesignatedFor>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>interzis</ForbiddenLower>
@@ -78,6 +82,8 @@
   <UnderAllowedSkill>sub nivelul de calificare permis {0}</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
   <AboveAllowedSkill>peste nivelul de calificare permis {0}</AboveAllowedSkill>
+  <!-- EN: no reachable outside cell -->
+  <NoReachableOutsideCell>TODO</NoReachableOutsideCell>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>lipsește nivelul de calificare necesar</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
@@ -96,6 +102,20 @@
   <CantInteractAnimalAsleep>animal care doarme</CantInteractAnimalAsleep>
   <!-- EN: animal busy -->
   <CantInteractAnimalBusy>animal ocupat</CantInteractAnimalBusy>
+  <!-- EN: no allowed reachable pens -->
+  <CantRopeAnimalNoUsableReachablePens>TODO</CantRopeAnimalNoUsableReachablePens>
+  <!-- EN: no enclosed pens -->
+  <CantRopeAnimalNoEnclosedPens>TODO</CantRopeAnimalNoEnclosedPens>
+  <!-- EN: no allowed pens -->
+  <CantRopeAnimalNoAllowedPens>TODO</CantRopeAnimalNoAllowedPens>
+  <!-- EN: no reachable pens -->
+  <CantRopeAnimalNoReachablePens>TODO</CantRopeAnimalNoReachablePens>
+  <!-- EN: can't touch -->
+  <CantRopeAnimalCantTouch>TODO</CantRopeAnimalCantTouch>
+  <!-- EN: no space in pen -->
+  <CantRopeAnimalNoSpace>TODO</CantRopeAnimalNoSpace>
+  <!-- EN: already in best pen -->
+  <CantRopeAnimalAlreadyInBestPen>TODO</CantRopeAnimalAlreadyInBestPen>
   <!-- EN: {0} skill too low -->
   <SkillTooLowForConstruction>{0} abilitate prea mică</SkillTooLowForConstruction>
   <!-- EN: need components -->
@@ -140,11 +160,13 @@
   <UpgradeImplant>Upgrade {0} la nivelul {1}</UpgradeImplant>
   <!-- EN: violation of faction ally -->
   <SurgeryViolationFellowFactionMember>Încălcarea unui aliat al facțiunii</SurgeryViolationFellowFactionMember>
+  <!-- EN: being carried by {0_labelShort} -->
+  <BeingCarriedBy>TODO</BeingCarriedBy>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Consumă {1_labelShort}</ConsumeThing>
   
-  <!-- EN: Cannot go here: no path -->
+  <!-- EN: Cannot go here: No path -->
   <CannotGoNoPath>Nu poți merge aici: nu există cale</CannotGoNoPath>
   <!-- EN: Go here -->
   <GoHere>Du-te aici</GoHere>
@@ -155,6 +177,8 @@
   <TryToArrest>Încearcă să-l arestezi pe {1_label} ({2} șanse)</TryToArrest>
   <!-- EN: Cannot arrest -->
   <CannotArrest>Nu se poate aresta</CannotArrest>
+  <!-- EN: {0} chance of arrest -->
+  <ArrestChance>TODO</ArrestChance>
 
   <!-- EN: Capture {1_label} -->
   <Capture>Captură {1_label}</Capture>
@@ -180,6 +204,8 @@
   <CryptosleepCasketGuestsNotAllowed>Membrii temporari ai facțiunii nu sunt permiși.</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: Hosted prisoners not allowed. -->
   <CryptosleepCasketGuestPrisonersNotAllowed>Prizonieri găzduiți nu sunt permiși.</CryptosleepCasketGuestPrisonersNotAllowed>
+  <!-- EN: Already occupied -->
+  <CryptosleepCasketOccupied>TODO</CryptosleepCasketOccupied>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
   <NoPrisonerBed>Niciun pat închis, nerezervat, accesibil, marcat ca fiind pentru deținuți, la o temperatură sigură.</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
@@ -244,6 +270,10 @@
   <PickUpSome>Ia {1_labelShort}...</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
   <PickUpCount>Ia {1_labelShort} x{{0}}</PickUpCount>
+  <!-- EN: Cannot pick up {1_labelShort} -->
+  <CannotPickUpSome>TODO</CannotPickUpSome>
+  <!-- EN: {0} {1} allowed -->
+  <MaxPickUpAllowed>TODO</MaxPickUpAllowed>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
   <CannotGiveToPackAnimal>Nu se poate încărca {1_label} pe un animal de povară</CannotGiveToPackAnimal>
@@ -286,12 +316,21 @@
   <CannotStrip>Nu se poate dezbrăca {1_label}</CannotStrip>
   <!-- EN: Cannot drop {1_label} -->
   <CannotDrop>Nu se poate arunca {1_label}</CannotDrop>
+  <!-- EN: Carry {0_label} -->
+  <Carry>TODO</Carry>
+  <!-- EN: Cannot carry {0_label} -->
+  <CannotCarry>TODO</CannotCarry>
   <!-- EN: temporary faction member -->
   <QuestRelated>membru temporar al facțiunii</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
   <QuestRelated_Outfit>Nu se pot schimba ținutele membrilor facțiunii temporare</QuestRelated_Outfit>
   <!-- EN: would replace locked apparel -->
   <WouldReplaceLockedApparel>ar înlocui îmbrăcămintea blocată</WouldReplaceLockedApparel>
+
+  <!-- EN: Cannot place {0_label} in {1_label} -->
+  <CannotPlaceIn>TODO</CannotPlaceIn>
+  <!-- EN: Place {0_label} in {1_label} -->
+  <PlaceIn>TODO</PlaceIn>
 
   <!-- EN: Self-destruct here -->
   <SelfDestructHere>Autodistrugere aici</SelfDestructHere>
@@ -349,7 +388,7 @@
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Nu se poate {0}</CannotGenericWorkCustom>
 
-  <!-- EN: Cannot prioritize: incapable of {0} -->
+  <!-- EN: Cannot prioritize: Incapable of {0} -->
   <CannotMissingHealthActivities>Nu se poate prioritiza: incapabil de {0}</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
@@ -358,30 +397,34 @@
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>Deja {0}</CannotGenericAlreadyAmCustom>
 
-  <!-- EN: Cannot prioritize: will never do {0} -->
+  <!-- EN: Cannot prioritize: Will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>Nu poate prioritiza: nu va face niciodată {0}</CannotPrioritizeWorkTypeDisabled>
-  <!-- EN: Cannot trade: lacking necessary title -->
-  <CannotTradeMissingTitleAbility>Nu se poate tranzacționa: îi lipsește titlul necesar</CannotTradeMissingTitleAbility>
+  <!-- EN: lacking necessary title -->
+  <MissingTitleAbility>TODO</MissingTitleAbility>
 
-  <!-- EN: Cannot prioritize: will never {0} -->
+  <!-- EN: Cannot prioritize: Will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>Nu se poate prioritiza: nu va fi niciodată {0}</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>nu va fi niciodată {0}</WillNever>
 
-  <!-- EN: Cannot prioritize: not assigned to {0} -->
+  <!-- EN: Cannot prioritize: Not assigned to {0} -->
   <CannotPrioritizeNotAssignedToWorkType>Nu se poate prioritiza: nu este atribuit la {0}</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>neatribuit</NotAssigned>
+  <!-- EN: not assigned to {0} -->
+  <NotAssignedToWorkType>TODO</NotAssignedToWorkType>
 
-  <!-- EN: Cannot prioritize: research is a long-term task -->
+  <!-- EN: Cannot prioritize: Research is a long-term task -->
   <CannotPrioritizeResearch>Nu se poate prioritiza: cercetarea este o sarcină pe termen lung</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize: {1_label} is forbidden -->
   <CannotPrioritizeForbidden>Nu se poate prioritiza: {1_label} este interzis</CannotPrioritizeForbidden>
-  <!-- EN: Cannot prioritize: forbidden -->
+  <!-- EN: Cannot prioritize: Forbidden -->
   <CannotPrioritizeCellForbidden>Nu se poate prioritiza: interzis</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
   <CannotPrioritizeForbiddenOutsideAllowedArea>În afara zonei permise</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <!-- EN: Cannot prioritize burying -->
+  <CannotPrioritizeBurying>TODO</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
@@ -430,6 +473,8 @@
   <GiveToCaravan>Dăruiește la {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
   <GiveGiftViaTransportPods>Oferă în dar lui {0} ({1})</GiveGiftViaTransportPods>
+  <!-- EN: Not part of launch group -->
+  <NotPartOfLaunchGroup>TODO</NotPartOfLaunchGroup>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->
@@ -442,5 +487,35 @@
 
   <!-- EN: Too dangerous -->
   <EnterCooldownBlocksEntering>Prea periculos</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <!-- EN: Nobody to call -->
+  <NoCommsTarget>TODO</NoCommsTarget>
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>TODO</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>TODO</CannotInvoke>
+  <!-- EN: power -->
+  <Power>TODO</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>TODO</AlreadyInvoked>
+
+  <!-- EN: Tend {0} -->
+  <Tend>TODO</Tend>
+  <!-- EN: Cannot tend {0} -->
+  <CannotTend>TODO</CannotTend>
+  <!-- EN: {0} does not require tending -->
+  <TendingNotRequired>TODO</TendingNotRequired>
+  <!-- EN: without medicine -->
+  <WithoutMedicine>TODO</WithoutMedicine>
+
+  <!-- EN: Repair {0} -->
+  <RepairThing>TODO</RepairThing>
+  <!-- EN: Cannot repair {0} -->
+  <CannotRepair>TODO</CannotRepair>
+  
+  <!-- UNUSED -->
+  <CannotTradeMissingTitleAbility>Nu se poate tranzacționa: îi lipsește titlul necesar</CannotTradeMissingTitleAbility>
 
 </LanguageData>

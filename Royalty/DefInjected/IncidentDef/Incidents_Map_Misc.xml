@@ -1,11 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: abasia join -->
   <WandererJoinAbasia.label>abasia se alătură</WandererJoinAbasia.label>
-  <!-- EN: Transport pod crash: {PAWN_nameDef} -->
   <WandererJoinAbasia.letterLabel>Capsulă de transport prăbușită: {PAWN_nameDef}</WandererJoinAbasia.letterLabel>
-  <!-- EN: A {PAWN_title} named {PAWN_nameDef} is crashing in a transport pod nearby.\n\n{PAWN_nameDef} is suffering from {HEDIFF_label} and will be unable to walk.\n\n{PAWN_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {HEDIFF_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n[PAWN_pronoun] is willing to contribute once {PAWN_pronoun} has recovered, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery or leave {PAWN_objective} to die. However, your other colonists may find this disturbing. -->
   <WandererJoinAbasia.letterText>{PAWN_gender ? Un [PAWN_title] pe nume [PAWN_nameDef] se prăbușește într-o navetă de transport din apropiere.\n\n[PAWN_nameDef] suferă de [HEDIFF_label] și nu va putea să meargă.\n\nEl își va reveni în mod natural după multe zile. Există, de asemenea, o șansă de recuperare rapidă și norocoasă. [HEDIFF_label] poate fi, de asemenea, vindecat printr-o operație specială care necesită o cantitate mare de medicamente de lumea centrală.\n\nEste dispus să contribuie după ce se va recupera, dar nu va pleca de bună voie. Dacă nu-l vreți pe [PAWN_nameDef], îl puteți alunga, îl puteți vinde ca sclav sau îl puteți lăsa să moară.  Cu toate acestea, ceilalți coloniști ai tăi ar putea găsi acest lucru deranjant. : Un [PAWN_title] pe nume [PAWN_nameDef] se prăbușește într-o navetă de transport din apropiere.\n\n[PAWN_nameDef] suferă de [HEDIFF_label] și nu va putea merge.\n\nEa își va reveni în mod natural după multe zile. Există, de asemenea, o șansă de recuperare rapidă. [HEDIFF_label] poate fi vindecată și printr-o operație specială care necesită o cantitate mare de medicamente de lumea centrală.\n\nEste dispusă să contribuie după ce se va recupera, dar nu va pleca de bună voie. Dacă nu o vreți pe [PAWN_nameDef], o puteți alunga, o puteți vinde ca sclavă sau o puteți lăsa să moară.  Cu toate acestea, ceilalți coloniști ai tăi ar putea găsi acest lucru deranjant.}</WandererJoinAbasia.letterText>
   
 </LanguageData>

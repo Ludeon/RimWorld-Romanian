@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Various -->
@@ -100,6 +100,12 @@
   <RenameColonist>Redenumire colonist</RenameColonist>
   <!-- EN: Renounce title -->
   <RenounceTitle>Renunță la titlu</RenounceTitle>
+  <!-- EN: Execute -->
+  <Execute>TODO</Execute>
+  <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
+  <ExecuteColonist>TODO</ExecuteColonist> <!-- text_doto -->
+  <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
+  <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} din {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
@@ -126,6 +132,8 @@
   <Fertilized>Fertilizat</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>Progres oprit până la fertilizare</ProgressStoppedUntilFertilized>
+  <!-- EN: Hatches in -->
+  <HatchesIn>TODO</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>necesită {0} nivelul {2}, are {1}</SkillTooLow>
   <!-- EN: Freezing -->
@@ -160,6 +168,8 @@
   <ConfiguredTargetFuelLevel>Nivelul de combustibil țintă: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
   <Enemies>inamici</Enemies>
+  <!-- EN: people -->
+  <People>TODO</People>
   <!-- EN: time passed -->
   <TimePassed>timpul trecut</TimePassed>
   <!-- EN: current radius -->
@@ -258,7 +268,7 @@
   <NoPower>Fără putere</NoPower>
   <!-- EN: Work speed penalty -->
   <WorkSpeedPenalty>Penalizare pentru viteza de lucru</WorkSpeedPenalty>
-  <!-- EN: DISABLED -->
+  <!-- EN: Disabled -->
   <DisabledCommand>DEZACTIVAT</DisabledCommand>
   <!-- EN: Ready for launch. -->
   <ReadyForLaunch>Gata de lansare.</ReadyForLaunch>
@@ -330,10 +340,16 @@
   <DownedLower>doborât</DownedLower>
   <!-- EN: resting -->
   <Carried>în repaus</Carried>
-  <!-- EN: Avg. person move speed -->
-  <AverageCaravanMemberMoveSpeed>Viteza medie de deplasare a persoanei</AverageCaravanMemberMoveSpeed>
+  <!-- EN: Rideable animals / people -->
+  <RideableAnimalsPerPeople>TODO</RideableAnimalsPerPeople>
+  <!-- EN: Multiplier from ridden animals -->
+  <MultiplierFromRiddenAnimals>TODO</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>Multiplicatorul pentru masa transportată: {0}</MultiplierForCarriedMass>
+  <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
+  <RideableAnimalTip>TODO</RideableAnimalTip>
+  <!-- EN: This caravan can't move because it carries too much. -->
+  <EncumberedCaravanTilesPerDayTip>TODO</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>Viteza membrilor caravanei</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
@@ -424,7 +440,7 @@
   <ViewHyperlink>Vezi: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>Detonează în {0} zile</DetonationCountdown>
-  <!-- EN: Large explosion if damaged -->
+  <!-- EN: Large fire explosion if damaged -->
   <ExplosionOnDamageWarning>Explozie mare în caz de avarie</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
   <MechCluster>Cluster Mech</MechCluster>
@@ -468,10 +484,36 @@
   <DurationLeft>{0} rămas</DurationLeft>
   <!-- EN: Any of -->
   <AnyOf>Orice din</AnyOf>
+  <!-- EN: Requires {0} trait -->
+  <TraitRequired>TODO</TraitRequired>
   <!-- EN: Goodwill -->
   <Goodwill>Bunăvoință</Goodwill>
+  <!-- EN: Natural goodwill -->
+  <NaturalGoodwill>TODO</NaturalGoodwill>
+  <!-- EN: Natural goodwill range -->
+  <NaturalGoodwillRange>TODO</NaturalGoodwillRange>
+  <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
+  <NaturalGoodwillDescription>TODO</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
   <JobReport_ReduceResistance>reducerea rezistenței lui {0_nameIndef}</JobReport_ReduceResistance>
+  <!-- EN: Too large -->
+  <TooLargeForBed>TODO</TooLargeForBed>
+  <!-- EN: Warning -->
+  <Warning>TODO</Warning>
+  <!-- EN: Has subquest -->
+  <HasSubquest>TODO</HasSubquest>
+  <!-- EN: Subquest of -->
+  <SubquestOf>TODO</SubquestOf>
+  <!-- EN: Raid -->
+  <Raid>TODO</Raid>
+  <!-- EN: Disabled by -->
+  <ApparelRequirementDisabledLabel>TODO</ApparelRequirementDisabledLabel>
+  <!-- EN: Nudism -->
+  <Nudism>TODO</Nudism>
+  <!-- EN: Study progress -->
+  <StudyProgress>TODO</StudyProgress>
+  <!-- EN: completed -->
+  <StudyCompleted>TODO</StudyCompleted>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -490,6 +532,8 @@
   <ContainsWort>Conține {0} / {1} must.</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>Conține {0} / {1} bere.</ContainsBeer>
+  <!-- EN: Contains -->
+  <Contains>TODO</Contains>
   <!-- EN: Fermented -->
   <Fermented>Fermentat</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
@@ -516,7 +560,7 @@
   <TextMote_ResistanceReduced>Rezistență\n{0} la {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
   <TextMote_TameFail>Îmblânzirea a eșuat\n{0} șansă</TextMote_TameFail>
-  <!-- EN: Tamed!\n{0} chance -->
+  <!-- EN: Tamed! -->
   <TextMote_TameSuccess>Îmblânzit!\n{0} șansă</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
   <TextMote_TrainFail>Antrenare eșuată: {0}\n{1} șansă</TextMote_TrainFail>
@@ -557,6 +601,45 @@
   <!-- EN: Invert -->
   <InvertArea>Inversează</InvertArea>
 
+  <!-- Animal pens -->
+  <!-- EN: Unenclosed -->
+  <PenUnenclosedLabel>TODO</PenUnenclosedLabel>
+  <!-- EN: open door -->
+  <PenOpenDoorLabel>TODO</PenOpenDoorLabel>
+  <!-- EN: Rename pen -->
+  <RenameAnimalPen>TODO</RenameAnimalPen>
+  <!-- EN: Pen marker {0} -->
+  <AnimalPenMarkerDefaultLabel>TODO</AnimalPenMarkerDefaultLabel>
+  <!-- EN: In pen -->
+  <InPen>TODO</InPen>
+  <!-- EN: not in a pen -->
+  <Unpenned>TODO</Unpenned>
+  <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
+  <UnpennedTooltip>TODO</UnpennedTooltip>
+  <!-- EN: Roped by -->
+  <RopedByPawn>TODO</RopedByPawn>
+  <!-- EN: Roped to -->
+  <RopedToThing>TODO</RopedToThing>
+  <!-- EN: Roped to spot. -->
+  <RopedToSpot>TODO</RopedToSpot>
+  <!-- EN: Pen size -->
+  <PenSizeLabel>TODO</PenSizeLabel>
+  <!-- EN: Very small pen -->
+  <PenSizeDesc_VerySmall>TODO</PenSizeDesc_VerySmall>
+  <!-- EN: Small pen -->
+  <PenSizeDesc_Small>TODO</PenSizeDesc_Small>
+  <!-- EN: Medium-sized pen -->
+  <PenSizeDesc_Medium>TODO</PenSizeDesc_Medium>
+  <!-- EN: Large pen -->
+  <PenSizeDesc_Large>TODO</PenSizeDesc_Large>
+  <!-- EN: Not enclosed - build fences -->
+  <PenSizeDesc_Unenclosed>TODO</PenSizeDesc_Unenclosed>
+  <!-- EN: {ANIMALDEF_label} capacity -->
+  <PenCapacityDesc>TODO</PenCapacityDesc>
+  <!-- EN: Example animals -->
+  <PenExampleAnimals>TODO</PenExampleAnimals>
+
+
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>Nu poți comanda personaje pe care nu le controlezi.</CannotOrderNonControlled>
@@ -566,6 +649,8 @@
   <IsIncapableOfViolenceShort>incapabil de violență</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{1_labelShort} nu este recrutat.</IsNotDrafted>
+  <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
+  <ApparelPreventsShooting>TODO</ApparelPreventsShooting>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -608,6 +693,8 @@
   <ReportSleeping>Doarme.</ReportSleeping>
   <!-- EN: resting. -->
   <ReportResting>Se odihnește.</ReportResting>
+  <!-- EN: laying down. -->
+  <ReportLayingDown>TODO</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
   <WatchingSunrise>urmărește răsăritul soarelui.</WatchingSunrise>
   <!-- EN: cloudwatching. -->
@@ -756,7 +843,7 @@
   <StunLower>paraliză</StunLower>
 
   <!-- Inspector general stuff -->
-  <!-- EN: Select next thing in same square.\n\nShortcut key: {0}\n\nYou can also do this by slowly clicking the same square again. -->
+  <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
   <SelectNextInSquareTip>Selectează obiectul suprapus.\n\nTastă: {0}\n\nPoți face astă executând un click din nou pe aceeași regiune.</SelectNextInSquareTip>
   <!-- EN: View information. -->
   <DefInfoTip>Arată informații despre acest obiect.</DefInfoTip>
@@ -834,6 +921,8 @@
   <!-- Meal -->
   <!-- EN: Ingredients -->
   <Ingredients>Ingrediente</Ingredients>
+  <!-- EN: only stacks with similar meals -->
+  <OnlyStacksWithCompatibleMeals>TODO</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
@@ -868,6 +957,12 @@
   <Blighted>Blighted</Blighted>
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>Moare din cauza expunerii la lumină</DyingBecauseExposedToLight>
+  <!-- EN: Cut now -->
+  <AutoCutNow>TODO</AutoCutNow>
+  <!-- EN: harvesting -->
+  <HarvestGerund>TODO</HarvestGerund>
+  <!-- EN: cutting -->
+  <CutGerund>TODO</CutGerund>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -964,6 +1059,8 @@
   <WillGetWorkSpeedPenalty>{0} va avea o penalizare a vitezei de lucru</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>Nu poate fi plasat sub un acoperiș.</MustPlaceUnroofed>
+  <!-- EN: Must be placed under thick roof. -->
+  <MustPlaceUnderThickRoof>TODO</MustPlaceUnderThickRoof>
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Trebuie plasat alături de bara structurală a navei.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
@@ -982,6 +1079,8 @@
   <MustPlaceOnDrillable>Trebuie să fie plasate pe resurse forabile.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
   <CannotPlaceAdjacentTrap>Nu poate fi plasată lângă capcane.</CannotPlaceAdjacentTrap>
+  <!-- EN: Cannot be placed next to another building of the same type. -->
+  <CannotPlaceAdjacentSameDef>TODO</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -1054,6 +1153,8 @@
   <!-- Quality -->
   <!-- EN: Quality -->
   <Quality>Calitate</Quality>
+  <!-- EN: quality -->
+  <quality>TODO</quality>
   <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>Calitatea înseamnă cât de bine este făcut.</QualityDescription>
   <!-- EN: Quality: {0} -->
@@ -1102,6 +1203,10 @@
   <!-- Facilities -->
   <!-- EN: inactive -->
   <InactiveFacility>inactiv</InactiveFacility>
+  <!-- EN: Links to -->
+  <FacilityPotentiallyLinkedTo>TODO</FacilityPotentiallyLinkedTo>
+  <!-- EN: Not linked to a building -->
+  <FacilityNoPotentialLinks>TODO</FacilityNoPotentialLinks>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
@@ -1345,4 +1450,138 @@
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>Cauzat de: {0}</CausedByHediff>
   
+  <!-- Healing -->
+  <!-- EN: {0_nameDef}'s {1} was cured. -->
+  <HealingCureHediff>TODO</HealingCureHediff>
+  <!-- EN: {0_nameDef}'s {1} was restored. -->
+  <HealingRestoreBodyPart>TODO</HealingRestoreBodyPart>
+
+  <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
+  <WarningBuildingCausesHostility>TODO</WarningBuildingCausesHostility>
+
+  <!-- EN: Choose landing site -->
+  <ChooseLandingSite>TODO</ChooseLandingSite>
+  
+  <!-- Rituals -->
+  <!-- EN: ritual -->
+  <Ritual>TODO</Ritual>
+
+  <!-- EN: Takes place at -->
+  <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
+  <!-- EN: Any {0} -->
+  <RitualTargetThingDefsInfo>TODO</RitualTargetThingDefsInfo>
+  <!-- EN: Attending -->
+  <LordReportAttending>TODO</LordReportAttending>
+  <!-- EN: {0} has been canceled. -->
+  <RitualCalledOff>TODO</RitualCalledOff>
+  <!-- EN: {0} was not completed because of lack of attendance. -->
+  <RitualNobodyAttended>TODO</RitualNobodyAttended>
+  <!-- EN: {0} has been completed. -->
+  <RitualFinished>TODO</RitualFinished>
+  <!-- EN: ends in {0} -->
+  <RitualEndsIn>TODO</RitualEndsIn>
+  <!-- EN: Organizers -->
+  <Organizers>TODO</Organizers>
+  <!-- EN: Quality factors -->
+  <QualityFactors>TODO</QualityFactors>
+  <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
+  <QualityFactorTooltipUncertain>TODO</QualityFactorTooltipUncertain>
+  <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
+  <QualityFactorTooltipNotFulfilled>TODO</QualityFactorTooltipNotFulfilled>
+  <!-- EN: Spectators -->
+  <Spectators>TODO</Spectators>
+  <!-- EN: Not participating -->
+  <NotParticipating>TODO</NotParticipating>
+  <!-- EN: Drag and drop or left/right click to move people. -->
+  <DragPawnsToRolesInfo>TODO</DragPawnsToRolesInfo>
+  <!-- EN: A slave. The human property of others. -->
+  <RitualBeginSlaveDesc>TODO</RitualBeginSlaveDesc>
+  <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
+  <RitualBeginSleepingDesc>TODO</RitualBeginSleepingDesc>
+  <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
+  <RitualBeginSleepingWarning>TODO</RitualBeginSleepingWarning>
+  <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
+  <RitualRoleRequiresSocialRole>TODO</RitualRoleRequiresSocialRole>
+  <!-- EN: No substitute available for the role of {0}. -->
+  <RitualRoleCantSubstitute>TODO</RitualRoleCantSubstitute>
+  <!-- EN: {0} progress -->
+  <RitualOutcomeProgress>TODO</RitualOutcomeProgress>
+  <!-- EN: {0} quality depends on -->
+  <RitualOutcomeQualityAbstract>TODO</RitualOutcomeQualityAbstract>
+  <!-- EN: {0} total quality was {1}, determined by these factors -->
+  <RitualOutcomeQualitySpecific>TODO</RitualOutcomeQualitySpecific>
+  <!-- EN: Outcome chances at {0} quality -->
+  <RitualOutcomeChances>TODO</RitualOutcomeChances>
+  <!-- EN: Performed recently -->
+  <RitualOutcomePerformedRecently>TODO</RitualOutcomePerformedRecently>
+  <!-- EN: {0} expectations -->
+  <RitualQualityExpectations>TODO</RitualQualityExpectations>
+  <!-- EN: Ritual ambience sound -->
+  <RitualAmbienceSound>TODO</RitualAmbienceSound>
+  <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
+  <RitualQualityLowWarning>TODO</RitualQualityLowWarning>
+  <!-- EN: No reachable appropriate place to speak. -->
+  <AbilitySpeechDisabledNoSpot>TODO</AbilitySpeechDisabledNoSpot>
+  <!-- EN: {0_labelShort} is incapable of talking. -->
+  <AbilitySpeechDisabledCantSpeak>TODO</AbilitySpeechDisabledCantSpeak>
+  <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
+  <RitualOutcomeExtraDesc_Mood>TODO</RitualOutcomeExtraDesc_Mood>
+  
+  <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
+  <ChooseParticipants>TODO</ChooseParticipants>
+  <!-- EN: Begin -->
+  <Begin>TODO</Begin>
+  <!-- EN: Begin {0} -->
+  <BeginRitual>TODO</BeginRitual>
+  <!-- EN: Begin {0} for {1} -->
+  <BeginRitualFor>TODO</BeginRitualFor>
+  <!-- EN: {0} (out of {1}) -->
+  <QualityOutOf>TODO</QualityOutOf>
+  <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
+  <DateRitualNoObligation>TODO</DateRitualNoObligation>
+
+  <!-- EN: Replace with -->
+  <PreceptReplaceWith>TODO</PreceptReplaceWith>
+  <!-- EN: Ritual seat of {IDEOS} -->
+  <RitualSeatOf>TODO</RitualSeatOf>
+  <!-- EN: Expected quality -->
+  <ExpectedRitualQuality>TODO</ExpectedRitualQuality>
+  <!-- EN: Starting quality -->
+  <StartingQuality>TODO</StartingQuality>
+  <!-- EN: Expected duration -->
+  <ExpectedRitualDuration>TODO</ExpectedRitualDuration>
+  
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <RitualPredictedOutcomeDescPawnStat>TODO</RitualPredictedOutcomeDescPawnStat>
+  <!-- EN: Room beauty -->
+  <RitualPredictedOutcomeDescRoomBeauty>TODO</RitualPredictedOutcomeDescRoomBeauty>
+  <!-- EN: Participants -->
+  <RitualPredictedOutcomeDescParticipantCount>TODO</RitualPredictedOutcomeDescParticipantCount>
+  <!-- EN: {PAWN_labelShort}'s expectations -->
+  <RitualPredictedOutcomeDescPawnExpectations>TODO</RitualPredictedOutcomeDescPawnExpectations>
+
+  <!-- EN: Any of these -->
+  <RitualOutcomeLabelAnyOfThese>TODO</RitualOutcomeLabelAnyOfThese>
+  <!-- EN: Replaces {PAWN_labelShort} -->
+  <RitualRoleReplaces>TODO</RitualRoleReplaces>
+
+  <!-- EN: present -->
+  <Present>TODO</Present>
+  <!-- EN: {0} used -->
+  <Used>TODO</Used>
+  <!-- EN: {0} starting quality -->
+  <StartingRitualQuality>TODO</StartingRitualQuality>
+
+  <!-- EN: up to {0} quality -->
+  <OutcomeBonusDesc_Quality>TODO</OutcomeBonusDesc_Quality>
+  <!-- EN: {0} quality -->
+  <OutcomeBonusDesc_QualitySingleOffset>TODO</OutcomeBonusDesc_QualitySingleOffset>
+  <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
+  <OutcomeLetterLabel>TODO</OutcomeLetterLabel>
+  <!-- EN: {0} max -->
+  <MaxValue>TODO</MaxValue>
+  
+  <!-- UNUSED -->
+  <AverageCaravanMemberMoveSpeed>Viteza medie de deplasare a persoanei</AverageCaravanMemberMoveSpeed>
+
 </LanguageData>

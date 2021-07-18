@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Misc -->
@@ -40,6 +40,8 @@
   <goodwill>bunăvoință</goodwill>
   <!-- EN: Neutral -->
   <Neutral>Neutru</Neutral>
+  <!-- EN: neutral -->
+  <NeutralLower>TODO</NeutralLower>
   <!-- EN: Death -->
   <Death>Moarte</Death>
 
@@ -428,13 +430,13 @@
   <!-- EN: Surgery failed on {PATIENT_labelShort} -->
   <LetterLabelSurgeryFailed>Operația chirurgicală a eșuat la {PATIENT_labelShort}</LetterLabelSurgeryFailed>
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} a eșuat într-un mod minor în timp ce opera pe {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureMinor> <!-- NewTemp rename to LetterTextOperationFailureMinor globally-->
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} a eșuat într-un mod minor în timp ce opera pe {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureMinor>
   <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} a eșuat în mod catastrofal în timp ce îl opera pe {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic> <!-- NewTemp rename to LetterTextOperationFailureCatastrophic globally-->
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} a eșuat în mod catastrofal în timp ce îl opera pe {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic>
   <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} a eșuat într-un mod ridicol în timp ce opera pe {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous> <!-- NewTemp rename to LetterTextOperationFailureRidiculous globally-->
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} a eșuat într-un mod ridicol în timp ce opera pe {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous>
   <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}. -->
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} a comis o eroare fatală în timpul operației pe {PATIENT_labelShort} din cauza provocărilor speciale ale: {2}.</MessageMedicalOperationFailureFatal> <!-- NewTemp rename to LetterTextOperationFailureFatal globally-->
+  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} a comis o eroare fatală în timpul operației pe {PATIENT_labelShort} din cauza provocărilor speciale ale: {2}.</MessageMedicalOperationFailureFatal>
 
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
@@ -453,6 +455,12 @@
   <LetterLabelQuestDropPodsArrived>Capsulele au sosit</LetterLabelQuestDropPodsArrived>
   <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
   <LetterQuestDropPodsArrived>Au sosit capsule de transport cu următorul conținut:\n\n{0}</LetterQuestDropPodsArrived>
+
+  <!-- Quest items added to caravan inventory -->
+  <!-- EN: {CARAVAN_label} received items -->
+  <LetterLabelQuestItemsAddedToCaravanInventory>TODO</LetterLabelQuestItemsAddedToCaravanInventory>
+  <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
+  <LetterQuestItemsAddedToCaravanInventory>TODO</LetterQuestItemsAddedToCaravanInventory>
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->

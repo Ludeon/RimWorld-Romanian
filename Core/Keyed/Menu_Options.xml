@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Audiovisuals -->
@@ -44,6 +44,8 @@
   <ResetModsConfigOnCrash>Auto-resetează conf. de mod la crash</ResetModsConfigOnCrash>
   <!-- EN: Simulate not owning Royalty -->
   <SimulateNotOwningRoyalty>Simulează nedeținerea de Royalty</SimulateNotOwningRoyalty>
+  <!-- EN: Simulate not owning Ideology -->
+  <SimulateNotOwningIdeology>TODO</SimulateNotOwningIdeology>
   <!-- EN: Verbose logging -->
   <LogVerbose>Jurnalizare verboasă</LogVerbose>
   <!-- EN: Open save data folder -->
@@ -104,5 +106,9 @@
   <ResetAndRestart>Opțiunile dvs. au fost resetate. Jocul va reporni acum automat.</ResetAndRestart>
   <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
   <ResetAndRestartConfirmationDialog>Toate setările dvs. vor fi resetate la setările implicite și jocul va fi repornit. Toate progresele nesalvate vor fi pierdute!\n\nContinuați?</ResetAndRestartConfirmationDialog>
+  
+  <!-- Background image -->
+  <!-- EN: Menu background -->
+  <SetBackgroundImage>TODO</SetBackgroundImage>
 
 </LanguageData>

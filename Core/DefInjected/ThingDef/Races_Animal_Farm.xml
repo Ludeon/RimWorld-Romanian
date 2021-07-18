@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: alpaca -->
@@ -11,105 +11,6 @@
   <Alpaca.tools.right_hoof.label>copita dreaptă</Alpaca.tools.right_hoof.label>
   <!-- EN: head -->
   <Alpaca.tools.head.label>cap</Alpaca.tools.head.label>
-  
-  <!-- EN: bison -->
-  <Bison.label>bison</Bison.label>
-  <!-- EN: A large plant eating mammal appearing in the savannah wilderness. Tamed are quite docile, but enraged are fast and dangerous. -->
-  <Bison.description>Un mamifer mare care se hrănește cu plante și care apare în sălbăticia savanei. Îmblânzit este destul de docil, dar înfuriat este rapid și periculos.</Bison.description>
-  <!-- EN: head -->
-  <Bison.tools.head.label>cap</Bison.tools.head.label>
-  <!-- EN: left hoof -->
-  <Bison.tools.left_hoof.label>copita stângă</Bison.tools.left_hoof.label>
-  <!-- EN: right hoof -->
-  <Bison.tools.right_hoof.label>copita dreaptă</Bison.tools.right_hoof.label>
-  
-  <!-- EN: chicken -->
-  <Chicken.label>pui</Chicken.label>
-  <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
-  <Chicken.description>Cea mai tradițională pasăre de fermă, găina este crescută pentru ouă și carne. Crește foarte repede și depune ouă foarte des.</Chicken.description>
-  <!-- EN: claws -->
-  <Chicken.tools.claws.label>gheare</Chicken.tools.claws.label>
-  <!-- EN: beak -->
-  <Chicken.tools.beak.label>cioc</Chicken.tools.beak.label>
-  <!-- EN: head -->
-  <Chicken.tools.head.label>cap</Chicken.tools.head.label>
-  
-  <!-- EN: cow -->
-  <Cow.label>vacă</Cow.label>
-  <!-- EN: A large domesticated ungulate, cows have been bred for millennia to produce huge amounts of milk, meat, and leather. They are exceptionally gentle creatures and will never seek revenge, no matter how many times they are harmed. Most of them are so adapted to farm life that they cannot survive in the wild. -->
-  <Cow.description>Un ungulat mare domesticit, vacile au fost crescute de milenii pentru a produce cantități uriașe de lapte, carne și piele. Sunt creaturi excepțional de blânde și nu vor căuta niciodată să se răzbune, indiferent de câte ori sunt rănite. Cele mai multe dintre ele sunt atât de adaptate la viața de fermă încât nu pot supraviețui în sălbăticie.</Cow.description>
-  <!-- EN: beef -->
-  <Cow.race.meatLabel>carne de vită</Cow.race.meatLabel>
-  <!-- EN: head -->
-  <Cow.tools.head.label>cap</Cow.tools.head.label>
-  <!-- EN: left hoof -->
-  <Cow.tools.left_hoof.label>copita stângă</Cow.tools.left_hoof.label>
-  <!-- EN: right hoof -->
-  <Cow.tools.right_hoof.label>copita dreaptă</Cow.tools.right_hoof.label>
-  
-  <!-- EN: donkey -->
-  <Donkey.label>măgar</Donkey.label>
-  <!-- EN: A small relative of the horse, domesticated in ancient times for farm work. Its goofy call is simultaneously annoying and endearing. -->
-  <Donkey.description>O rudă mică a calului, domesticită în antichitate pentru munca la fermă. Strigătul său caraghios este în același timp enervant și simpatic.</Donkey.description>
-  <!-- EN: head -->
-  <Donkey.tools.head.label>cap</Donkey.tools.head.label>
-  <!-- EN: left hoof -->
-  <Donkey.tools.left_hoof.label>copita stângă</Donkey.tools.left_hoof.label>
-  <!-- EN: right hoof -->
-  <Donkey.tools.right_hoof.label>copita dreaptă</Donkey.tools.right_hoof.label>
-  
-  <!-- EN: duck -->
-  <Duck.label>rață</Duck.label>
-  <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely. -->
-  <Duck.description>Un tip foarte comun de pasăre de fermă, care apare și în sălbăticie, rața este crescută pentru carnea sa delicioasă. Crește rapid, dar depune ouă destul de rar.</Duck.description>
-  <!-- EN: claws -->
-  <Duck.tools.claws.label>gheare</Duck.tools.claws.label>
-  <!-- EN: beak -->
-  <Duck.tools.beak.label>cioc</Duck.tools.beak.label>
-  <!-- EN: head -->
-  <Duck.tools.head.label>cap</Duck.tools.head.label>
-  
-  <!-- EN: goat -->
-  <Goat.label>capră</Goat.label>
-  <!-- EN: Naturally curious about the world, goats are among the friendliest domesticated creature bred by mankind. -->
-  <Goat.description>Curioase din fire, caprele sunt printre cele mai prietenoase creaturi domestice crescute de om.</Goat.description>
-  <!-- EN: head -->
-  <Goat.tools.head.label>cap</Goat.tools.head.label>
-  
-  <!-- EN: goose -->
-  <Goose.label>gâscă</Goose.label>
-  <!-- EN: A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch. -->
-  <Goose.description>Pasăre domesticită, crescută de oameni ca pasăre de curte pentru ouă și carne. Depune ouă foarte des, însă durează mult timp până la eclozare.</Goose.description>
-  <!-- EN: claws -->
-  <Goose.tools.claws.label>gheare</Goose.tools.claws.label>
-  <!-- EN: beak -->
-  <Goose.tools.beak.label>cioc</Goose.tools.beak.label>
-  <!-- EN: head -->
-  <Goose.tools.head.label>cap</Goose.tools.head.label>
-  
-  <!-- EN: guinea pig -->
-  <GuineaPig.label>cobai</GuineaPig.label>
-  <!-- EN: Neither a pig or a creature from Guinea, these little rodents are bred to be a household pet and a delicious dinner. -->
-  <GuineaPig.description>Nici un porc, nici o creatură din Guineea, aceste mici rozătoare sunt crescute pentru a fi un animal de casă și o cină delicioasă.</GuineaPig.description>
-  <!-- EN: left claw -->
-  <GuineaPig.tools.left_claw.label>gheara stângă</GuineaPig.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <GuineaPig.tools.right_claw.label>gheara dreaptă</GuineaPig.tools.right_claw.label>
-  <!-- EN: head -->
-  <GuineaPig.tools.head.label>cap</GuineaPig.tools.head.label>
-  
-  <!-- EN: horse -->
-  <Horse.label>cal</Horse.label>
-  <!-- EN: A large hoofed mammal with a short coat, a long mane, and a long tail. Horses have been domesticated since ancient times. -->
-  <Horse.description>Un mamifer cu copite mari, cu blană scurtă, coamă lungă și coadă lungă. Caii au fost domesticiți încă din cele mai vechi timpuri.</Horse.description>
-  <!-- EN: horse meat -->
-  <Horse.race.meatLabel>carne de cal</Horse.race.meatLabel>
-  <!-- EN: head -->
-  <Horse.tools.head.label>cap</Horse.tools.head.label>
-  <!-- EN: left hoof -->
-  <Horse.tools.left_hoof.label>copita stângă</Horse.tools.left_hoof.label>
-  <!-- EN: right hoof -->
-  <Horse.tools.right_hoof.label>copita dreaptă</Horse.tools.right_hoof.label>
   
   <!-- EN: pig -->
   <Pig.label>porc</Pig.label>
@@ -130,18 +31,5 @@
   <Sheep.tools.left_hoof.label>copita stângă</Sheep.tools.left_hoof.label>
   <!-- EN: right hoof -->
   <Sheep.tools.right_hoof.label>copita dreaptă</Sheep.tools.right_hoof.label>
-  
-  <!-- EN: yak -->
-  <Yak.label>yak</Yak.label>
-  <!-- EN: Yaks are robust cattle with a bulky frame, short but thick legs, and rounded cloven hooves that are splayed to help them walk in snow. -->
-  <Yak.description>Yacii sunt bovine robuste, cu o structură voluminoasă, picioare scurte, dar groase și copite rotunjite, care sunt împrăștiate pentru a le ajuta să meargă pe zăpadă.</Yak.description>
-  <!-- EN: yak beef -->
-  <Yak.race.meatLabel>carne de yak</Yak.race.meatLabel>
-  <!-- EN: head -->
-  <Yak.tools.head.label>cap</Yak.tools.head.label>
-  <!-- EN: left hoof -->
-  <Yak.tools.left_hoof.label>copita stângă</Yak.tools.left_hoof.label>
-  <!-- EN: right hoof -->
-  <Yak.tools.right_hoof.label>copita dreaptă</Yak.tools.right_hoof.label>
   
 </LanguageData>

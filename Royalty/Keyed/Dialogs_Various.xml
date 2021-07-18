@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Royal Titles -->
@@ -14,32 +14,22 @@
   <RoyalTitleTooltipThroneroomRequirements>Cerințe pentru camera tronului</RoyalTitleTooltipThroneroomRequirements>
   <!-- EN: Title privileges -->
   <RoyalTitleTooltipPermits>privilegii pentru titlu</RoyalTitleTooltipPermits>
-  <!-- EN: room area: {0} tiles -->
-  <RoomRequirementArea>suprafața camerei: {0} țigle</RoomRequirementArea>
-  <!-- EN: room impressiveness -->
-  <RoomRequirementImpressiveness>impresionabilitatea camerei</RoomRequirementImpressiveness>
-  <!-- EN: all floored -->
-  <RoomRequirementAllFloored>în întregime cu podea</RoomRequirementAllFloored>
-  <!-- EN: all braziers must be lit -->
-  <RoomRequirementAllBraziersMustBeLit>toate arzătoarele trebuie să fie aprinse</RoomRequirementAllBraziersMustBeLit>
-  <!-- EN: all fine floored -->
-  <RoomRequirementAllFineFloored>în întregime cu podea fină</RoomRequirementAllFineFloored>
-  <!-- EN: no work facilities allowed -->
-  <RoomRequirementNoProductionFacilities>nu sunt permise facilități de lucru</RoomRequirementNoProductionFacilities>
-  <!-- EN: no beds allowed -->
-  <RoomRequirementNoBeds>nu sunt permise paturi</RoomRequirementNoBeds>
   <!-- EN: Holders of this title must be covered in some combination of -->
   <RoyalTitleRequiredApparelStatDescription>Deținătorii acestui titlu trebuie să fie acoperiți cu o combinație de</RoyalTitleRequiredApparelStatDescription>
   <!-- EN: Any prestige armor -->
   <ApparelRequirementAnyPrestigeArmor>Orice armură de prestigiu</ApparelRequirementAnyPrestigeArmor>
   <!-- EN: Any psycaster apparel -->
   <ApparelRequirementAnyPsycasterApparel>Orice îmbrăcăminte psycaster</ApparelRequirementAnyPsycasterApparel>
+  <!-- EN: or any psycaster or prestige apparel -->
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>TODO</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
   <!-- EN: Disallowed work types -->
   <DisabledWorkTypes>Tipuri de muncă nepermise</DisabledWorkTypes>
   <!-- EN: Allowed foods -->
   <RoyalTitleRequiredMeals>Alimente permise</RoyalTitleRequiredMeals>
   <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
   <RoyalTitleRequiredMealsDesc>Un deținător al acestui titlu va mânca doar aceste alimente, cu excepția cazului în care moare de foame sau se află într-o caravană.</RoyalTitleRequiredMealsDesc>
+  <!-- EN: Choose who should participate in bestowing ceremony. -->
+  <ChooseParticipantsBestow>TODO</ChooseParticipantsBestow>
 
   <!-- Royal implants -->
   <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->

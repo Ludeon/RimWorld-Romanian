@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: animals -->
@@ -44,10 +44,14 @@
   <!-- EN: Examine and decide on research projects. -->
   <Research.description>Examinați și decideți asupra proiectelor de cercetare.</Research.description>
   
-  <!-- EN: schedule -->
+  <!-- UNUSED -->
   <Restrict.label>orar</Restrict.label>
-  <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
   <Restrict.description>Programează activitățile coloniștilor la anumite ore din zi și stabilește zonele permise acestora.</Restrict.description>
+  
+  <!-- EN: schedule -->
+  <Schedule.label>TODO</Schedule.label>
+  <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
+  <Schedule.description>TODO</Schedule.description>
   
   <!-- EN: wildlife -->
   <Wildlife.label>fauna sălbatică</Wildlife.label>

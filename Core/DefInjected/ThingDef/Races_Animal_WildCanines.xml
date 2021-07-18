@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: arctic fox -->
@@ -35,19 +35,6 @@
   <Fox_Red.tools.right_claw.label>gheara dreaptă</Fox_Red.tools.right_claw.label>
   <!-- EN: head -->
   <Fox_Red.tools.head.label>cap</Fox_Red.tools.head.label>
-  
-  <!-- EN: warg -->
-  <Warg.label>warg</Warg.label>
-  <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
-  <Warg.description>Creaturi asemănătoare lupilor, cu mușchi puternici, cu gheare vicioase și nenaturale și o mușcătură absurd de puternică. Se hrănesc doar cu carne sau cadavre. Dacă sunt deranjați în sălbăticie, este foarte probabil să atace.\n\nȘtiinții spun că wargii sunt descendenții unor animale militare înarmate, create pentru suprimarea populației. Cei superstițioși îi văd ca pe niște unelte ale unui zeu furios.</Warg.description>
-  <!-- EN: left claw -->
-  <Warg.tools.left_claw.label>gheara stângă</Warg.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <Warg.tools.right_claw.label>gheara dreaptă</Warg.tools.right_claw.label>
-  <!-- EN: razorfangs -->
-  <Warg.tools.razorfangs.label>colți ascuțiți</Warg.tools.razorfangs.label>
-  <!-- EN: head -->
-  <Warg.tools.head.label>cap</Warg.tools.head.label>
   
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>Lup arctic</Wolf_Arctic.label>

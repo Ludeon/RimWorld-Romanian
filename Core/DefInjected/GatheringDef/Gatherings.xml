@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: marriage ceremony -->
@@ -14,5 +14,10 @@
   <Party.letterText>{ORGANIZER_labelShort} organizează o petrecere! Toți cei care vor merge vor avea parte de recreere și energie socială, precum și de o creștere pozitivă de durată a dispoziției.</Party.letterText>
   <!-- EN: Party -->
   <Party.letterTitle>Petrecere</Party.letterTitle>
+  
+  <!-- UNUSED -->
+  <ThroneSpeech.label>Discurs de Tron</ThroneSpeech.label>
+  <ThroneSpeech.letterText>{ORGANIZER_labelShort} ține un discurs de la tron.\n\nDacă totul merge bine, ascultătorii se vor simți inspirați și vor câștiga respect pentru {ORGANIZER_labelShort}. Dacă totul merge prost, discursul va aduce daune sociale. Rezultatul depinde de abilitățile sociale ale lui {ORGANIZER_labelShort}.</ThroneSpeech.letterText>
+  <ThroneSpeech.letterTitle>Discurs de la tron</ThroneSpeech.letterTitle>
   
 </LanguageData>

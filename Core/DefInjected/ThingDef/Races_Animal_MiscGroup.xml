@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>alfacastor</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>O creatură mare, asemănătoare castorului, proiectată genetic pentru a recolta lemnul cu o eficiență asemănătoare cu cea a unei mașini. În absența hranei specializate, aceste animale vor intra într-o stare maniacă care le obligă să mănânce copacii întregi și sunt predispuse să atace dacă sunt deranjate.</Alphabeaver.description>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>gheara stângă</Alphabeaver.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>gheara dreaptă</Alphabeaver.tools.right_claw.label>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>cap</Alphabeaver.tools.head.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>cobra</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>Un șarpe prădător de mari dimensiuni. Cobrele pot fi foarte agresive dacă sunt provocate, iar mușcătura lor injectează venin toxic în victimă.</Cobra.description>
+  <!-- EN: cobra meat -->
+  <Cobra.race.meatLabel>carne de cobră</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>colți veninoși</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>cap</Cobra.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>broască țestoasă</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>Această reptilă terestră puternic blindată este cunoscută pentru viteza cu care se deplasează încet și pentru mușcătura surprinzător de periculoasă. Datorită armurii sale naturale, este greu de ucis și poate provoca daune serioase în timpul luptelor corp la corp prelungite.</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>cioc</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>cap</Tortoise.tools.head.label>
+  
+</LanguageData>

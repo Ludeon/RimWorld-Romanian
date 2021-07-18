@@ -1,10 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] of [faction_name], has sent us a message. [faction_leader_pronoun] wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.[favorRewardDetails]</li>
+    <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] of [faction_name], has sent us a message. [faction_leader_pronoun] wants to talk with us in a nearby location.\n\nIt could be a great opportunity to improve relations with their faction and receive gifts, but beware - a poor negotiator can cause more harm than good and may even anger them.[extraLeaderPart][favorRewardDetails]</li>
     <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nSuccessful peace talks can earn your negotiator a small amount of personal [faction_royalFavorLabel] with [faction_name].</li>
     <li>favorRewardDetails-></li>
+    <li>extraLeaderPart-></li>
+    <li>leaderRoleEffect->Other factions will respect you more if you send your leader to handle the negotiations</li>
+    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-> [playerFaction_leaderTitle] [playerFaction_leader_nameFull] will get a bonus to the chance of a successful outcome.</li>
+    <li>leaderPawnInfo-></li>
   -->
   <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
     <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] din [faction_name], ne-a trimis un mesaj. [faction_leader_pronoun] dorește să vorbească cu noi într-o locație din apropiere.\n\nAcesta ar putea fi o mare oportunitate de a îmbunătăți relațiile cu facțiunea lor și de a primi cadouri, dar aveți grijă - un negociator slab poate cauza mai mult rău decât bine și chiar îi poate înfuria.[favorRewardDetails]</li>

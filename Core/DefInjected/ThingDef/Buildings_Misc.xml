@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: ancient cryptosleep casket -->
@@ -20,6 +20,11 @@
   <CryptosleepCasket.label>sicriu de criptosomn</CryptosleepCasket.label>
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
   <CryptosleepCasket.description>Un sarcofag autoalimentat conceput pentru a menține o persoană într-o stare de animație suspendată timp de mulți ani.</CryptosleepCasket.description>
+  
+  <!-- EN: egg box -->
+  <EggBox.label>TODO</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>TODO</EggBox.description>
   
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>bombă cu spumă ignifugă</FirefoamPopper.label>
@@ -68,6 +73,11 @@
   <!-- EN: Designates a spot for throwing parties. -->
   <PartySpot.description>Desemnează un loc pentru organizarea de petreceri.</PartySpot.description>
   
+  <!-- EN: pen marker -->
+  <PenMarker.label>TODO</PenMarker.label>
+  <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
+  <PenMarker.description>TODO</PenMarker.description>
+  
   <!-- EN: pod launcher -->
   <PodLauncher.label>pod launcher</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
@@ -90,7 +100,7 @@
   
   <!-- EN: tool cabinet -->
   <ToolCabinet.label>dulap de scule</ToolCabinet.label>
-  <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
+  <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
   <ToolCabinet.description>Crește viteza de lucru atunci când este plasat lângă un banc de lucru. O utilizare a unui banc de lucru la până la două dulapuri de scule.</ToolCabinet.description>
   
   <!-- EN: transport pod -->

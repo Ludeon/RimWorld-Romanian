@@ -1,16 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: alphabeaver -->
-  <Alphabeaver.label>alfacastor</Alphabeaver.label>
-  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
-  <Alphabeaver.description>O creatură mare, asemănătoare castorului, proiectată genetic pentru a recolta lemnul cu o eficiență asemănătoare cu cea a unei mașini. În absența hranei specializate, aceste animale vor intra într-o stare maniacă care le obligă să mănânce copacii întregi și sunt predispuse să atace dacă sunt deranjate.</Alphabeaver.description>
-  <!-- EN: left claw -->
-  <Alphabeaver.tools.left_claw.label>gheara stângă</Alphabeaver.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <Alphabeaver.tools.right_claw.label>gheara dreaptă</Alphabeaver.tools.right_claw.label>
-  <!-- EN: head -->
-  <Alphabeaver.tools.head.label>cap</Alphabeaver.tools.head.label>
   
   <!-- EN: boomrat -->
   <Boomrat.label>boomrat</Boomrat.label>
@@ -33,17 +22,6 @@
   <Capybara.tools.right_claw.label>gheara dreaptă</Capybara.tools.right_claw.label>
   <!-- EN: head -->
   <Capybara.tools.head.label>cap</Capybara.tools.head.label>
-  
-  <!-- EN: chinchilla -->
-  <Chinchilla.label>chinchilla</Chinchilla.label>
-  <!-- EN: A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
-  <Chinchilla.description>O rozătoare mică și agilă. Blana sa este mai moale decât aproape orice altceva din univers, ceea ce o face foarte valoroasă ca bun comercial.</Chinchilla.description>
-  <!-- EN: left claw -->
-  <Chinchilla.tools.left_claw.label>gheara stângă</Chinchilla.tools.left_claw.label>
-  <!-- EN: right claw -->
-  <Chinchilla.tools.right_claw.label>gheara dreaptă</Chinchilla.tools.right_claw.label>
-  <!-- EN: head -->
-  <Chinchilla.tools.head.label>cap</Chinchilla.tools.head.label>
   
   <!-- EN: raccoon -->
   <Raccoon.label>raton</Raccoon.label>

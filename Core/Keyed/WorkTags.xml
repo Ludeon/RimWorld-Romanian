@@ -11,6 +11,8 @@
   <WorkTagManualSkilled>muncă calificată</WorkTagManualSkilled>
   <!-- EN: violent -->
   <WorkTagViolent>violență</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>TODO</WorkTagShooting>
   <!-- EN: caring -->
   <WorkTagCaring>îngrijit</WorkTagCaring>
   <!-- EN: social -->
@@ -35,6 +37,8 @@
   <WorkTagMining>minerit</WorkTagMining>
   <!-- EN: hunting -->
   <WorkTagHunting>vânare</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>TODO</WorkTagConstructing>
   <!-- EN: commoner work -->
   <WorkTagCommoner>muncă de jos</WorkTagCommoner>
   <!-- EN: all work -->

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: beret -->
@@ -30,11 +30,6 @@
   <Apparel_CrownStellic.label>coroană stelară</Apparel_CrownStellic.label>
   <!-- EN: A grand crown of metal with an elaborate, overbearing design. -->
   <Apparel_CrownStellic.description>O coroană grandioasă din metal, cu un design elaborat, copleșitor.</Apparel_CrownStellic.description>
-  
-  <!-- EN: hood -->
-  <Apparel_HatHood.label>glugă</Apparel_HatHood.label>
-  <!-- EN: A draped hood which covers the head and ears. -->
-  <Apparel_HatHood.description>O glugă drapată care acoperă capul și urechile.</Apparel_HatHood.description>
   
   <!-- EN: ladies hat -->
   <Apparel_HatLadies.label>pălărie de damă</Apparel_HatLadies.label>

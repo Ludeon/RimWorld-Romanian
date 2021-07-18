@@ -60,12 +60,10 @@
   <!-- EN: My brother died. My own flesh and blood... -->
   <MyBrotherDied.stages.my_brother_died.description>Fratele meu a murit. Era sânge din sângele meu...</MyBrotherDied.stages.my_brother_died.description>
   
-  <!-- EN: my cousin {0} died (male cousin)-->
+  <!-- EN: my cousin {0} died -->
   <MyCousinDied.stages.my_cousin_died.label>vărul meu, {0}, a murit</MyCousinDied.stages.my_cousin_died.label>
   <!-- EN: My cousin died. My own flesh and blood... -->
   <MyCousinDied.stages.my_cousin_died.description>Vărul meu a murit. Era sânge din sângele meu...</MyCousinDied.stages.my_cousin_died.description>
-
-  <!-- EN: my cousin {0} died (female cousin) NEEDED -->
   
   <!-- EN: my daughter {0} died -->
   <MyDaughterDied.stages.my_daughter_died.label>fiica mea, {0}, a murit</MyDaughterDied.stages.my_daughter_died.label>
@@ -87,26 +85,20 @@
   <!-- EN: My fiancée died. Such a woman... my future is gone. -->
   <MyFianceeDied.stages.my_fiance_died.description>Logodnica mea a murit. Nu voi mai întâlni pe nimeni ca ea... viitorul meu s-a dus.</MyFianceeDied.stages.my_fiance_died.description>
   
-  <!-- EN: my grandchild {0} died (male grandchild) -->
+  <!-- EN: my grandchild {0} died -->
   <MyGrandchildDied.stages.my_grandchild_died.label>nepotul meu, {0}, a murit</MyGrandchildDied.stages.my_grandchild_died.label>
   <!-- EN: My grandchild died. My own flesh and blood... -->
   <MyGrandchildDied.stages.my_grandchild_died.description>Nepotul meu a murit. Era sânge din sângele meu...</MyGrandchildDied.stages.my_grandchild_died.description>
-
-  <!-- EN: my grandchild {0} died (female grandchild) NEEDED -->
   
-  <!-- EN: my grandparent {0} died (male grandparent)-->
+  <!-- EN: my grandparent {0} died -->
   <MyGrandparentDied.stages.my_grandparent_died.label>bunicul meu, {0}, a murit</MyGrandparentDied.stages.my_grandparent_died.label>
   <!-- EN: My grandparent died. -->
   <MyGrandparentDied.stages.my_grandparent_died.description>Bunicul meu s-a stins.</MyGrandparentDied.stages.my_grandparent_died.description>
-
-  <!-- EN: my grandparent {0} died (female grandparent) NEEDED-->
   
-  <!-- EN: my half-sibling {0} died (male sibling) -->
+  <!-- EN: my half-sibling {0} died -->
   <MyHalfSiblingDied.stages.my_halfsibling_died.label>fratele meu vitreg, {0}, a murit</MyHalfSiblingDied.stages.my_halfsibling_died.label>
   <!-- EN: My half-sibling died. My own flesh and blood... -->
   <MyHalfSiblingDied.stages.my_halfsibling_died.description>Fratele meu vitreg a murit. Era sânge din sângele meu...</MyHalfSiblingDied.stages.my_halfsibling_died.description>
-
-  <!-- EN: my half-sibling {0} died (female sibling) NEEDED -->
   
   <!-- EN: my husband {0} died -->
   <MyHusbandDied.stages.my_husband_died.label>soțul meu, {0}, a murit</MyHusbandDied.stages.my_husband_died.label>
@@ -118,12 +110,10 @@
   <!-- EN: My kin died. -->
   <MyKinDied.stages.my_kin_died.description>Toate rudele mele au murit. Numai eu mai port numele acestui neam...</MyKinDied.stages.my_kin_died.description>
   
-  <!-- EN: my lover {0} died (male lover)-->
+  <!-- EN: my lover {0} died -->
   <MyLoverDied.stages.my_lover_died.label>iubitul meu, {0}, a murit</MyLoverDied.stages.my_lover_died.label>
   <!-- EN: My lover died. I am so alone. -->
   <MyLoverDied.stages.my_lover_died.description>Iubitul meu a murit. Sunt atât de singură.</MyLoverDied.stages.my_lover_died.description>
-
-  <!-- EN: my lover {0} died (male lover) NEEDED -->
   
   <!-- EN: my mother {0} died -->
   <MyMotherDied.stages.my_mother_died.label>mama mea, {0}, a murit</MyMotherDied.stages.my_mother_died.label>
@@ -169,4 +159,5 @@
   <PawnWithGoodOpinionDied.stages.my_friend_died.label>prietenul meu, {0}, a murit </PawnWithGoodOpinionDied.stages.my_friend_died.label>
   <!-- EN: Such a wonderful person, gone forever. The universe gets darker every day. -->
   <PawnWithGoodOpinionDied.stages.my_friend_died.description>O persoană atât de deosebită, s-a dus pentru totdeauna. Universul devine tot mai sumbru pe zi ce trece.</PawnWithGoodOpinionDied.stages.my_friend_died.description>
+  
 </LanguageData>

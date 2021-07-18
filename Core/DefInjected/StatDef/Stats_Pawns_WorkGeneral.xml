@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: animal gather speed -->
@@ -25,6 +25,11 @@
   <DeepDrillingSpeed.label>viteza de forare în adâncime</DeepDrillingSpeed.label>
   <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
   <DeepDrillingSpeed.description>Viteza cu care această persoană folosește o foreză de adâncime pentru a extrage resurse subterane.</DeepDrillingSpeed.description>
+  
+  <!-- EN: drug crop harvest yield -->
+  <DrugHarvestYield.label>TODO</DrugHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
+  <DrugHarvestYield.description>TODO</DrugHarvestYield.description>
   
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>șansa de reușită a reparației</FixBrokenDownBuildingSuccessChance.label>

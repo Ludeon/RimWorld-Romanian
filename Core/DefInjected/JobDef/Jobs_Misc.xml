@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: applying TargetB. -->
@@ -26,13 +26,22 @@
   <CastAbilityOnWorldTile.reportString>Face ceva.</CastAbilityOnWorldTile.reportString>
   
   <!-- EN: Doing something. -->
+  <CastAbilityTouch.reportString>TODO</CastAbilityTouch.reportString>
+  
+  <!-- EN: Doing something. -->
   <CastJump.reportString>Face ceva.</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>curăță zăpada.</ClearSnow.reportString>
   
+  <!-- EN: delivering TargetA. -->
+  <DeliverToCell.reportString>TODO</DeliverToCell.reportString>
+  
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>pune pe jos TargetA.</DropEquipment.reportString>
+  
+  <!-- EN: emptying TargetA. -->
+  <EmptyThingContainer.reportString>TODO</EmptyThingContainer.reportString>
   
   <!-- EN: entering cryptosleep casket. -->
   <EnterCryptosleepCasket.reportString>intră în coșciugul cryptosleep.</EnterCryptosleepCasket.reportString>
@@ -63,6 +72,9 @@
   
   <!-- EN: following TargetA. -->
   <FollowClose.reportString>urmărește TargetA.</FollowClose.reportString>
+  
+  <!-- EN: following TargetA. -->
+  <FollowRoper.reportString>TODO</FollowRoper.reportString>
   
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>ia TargetA.</GiveToPackAnimal.reportString>
@@ -99,6 +111,12 @@
   
   <!-- EN: lying down. -->
   <LayDown.reportString>stă culcat.</LayDown.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownAwake.reportString>TODO</LayDownAwake.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownResting.reportString>TODO</LayDownResting.reportString>
   
   <!-- EN: lovin'. -->
   <Lovin.reportString>dă iubire.</Lovin.reportString>
@@ -141,6 +159,9 @@
   
   <!-- EN: taking beer out of TargetA. -->
   <TakeBeerOutOfFermentingBarrel.reportString>scoate berii din TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeCountToInventory.reportString>TODO</TakeCountToInventory.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>ia în inventar a TargetA.</TakeInventory.reportString>

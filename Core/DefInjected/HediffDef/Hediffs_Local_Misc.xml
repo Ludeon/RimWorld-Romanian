@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: chemical damage -->
@@ -39,6 +39,11 @@
   <Scaria.label>scaria</Scaria.label>
   <!-- EN: A disease which causes affected creatures to enter berserk rages. A creature with scaria can be cured through a special medical operation, but it must be downed first. If not treated, scaria kills its host about five days after infection. The disease poisons the flesh and rots the skin, so creatures killed with scaria have a chance of rotting upon death so they cannot be butchered for meat or leather. -->
   <Scaria.description>O boală care face ca creaturile afectate să intre în furie berserk. O creatură cu scaria poate fi vindecată printr-o operație medicală specială, dar trebuie mai întâi să fie doborâtă. Dacă nu este tratată, scaria își ucide gazda la aproximativ cinci zile de la infectare. Boala otrăvește carnea și putrezește pielea, așa că creaturile ucise cu scaria au șansa de a putrezi la moarte, astfel încât nu pot fi măcelărite pentru carne sau piele.</Scaria.description>
+  
+  <!-- EN: sterilized -->
+  <Sterilized.label>TODO</Sterilized.label>
+  <!-- EN: This creature's reproductive system has been permanently shut down. -->
+  <Sterilized.description>TODO</Sterilized.description>
   
   <!-- EN: trauma savant -->
   <TraumaSavant.label>savant traumatic</TraumaSavant.label>

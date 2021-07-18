@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: advanced -->
@@ -10,7 +10,7 @@
   <!-- EN: none -->
   <None.label>niciunul</None.label>
   
-  <!-- EN: simple -->
+  <!-- UNUSED -->
   <Simple.label>simplu</Simple.label>
   
 </LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Permit_CallShuttle.LetterLabelPermitShuttleArrived.slateRef>A sosit naveta</Permit_CallShuttle.LetterLabelPermitShuttleArrived.slateRef>
+  <Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>A sosit naveta chemată de [asker_nameDef].\n\nDacă nu folosiți naveta, aceasta se va întoarce la [permitFaction_name] în [shuttleReturnDays] zile.</Permit_CallShuttle.LetterTextPermitShuttleArrived.slateRef>
+  <Permit_CallShuttle.GoodwillChangeReasonShuttleDestroyed.slateRef>navetă distrusă</Permit_CallShuttle.GoodwillChangeReasonShuttleDestroyed.slateRef>
+  <Permit_CallShuttle.LetterLabelPermitShuttleLeft.slateRef>Naveta a plecat</Permit_CallShuttle.LetterLabelPermitShuttleLeft.slateRef>
+  <Permit_CallShuttle.LetterTextPermitShuttleLeft.slateRef>Naveta de la [permitFaction_name] a plecat după ce a fost făcută să aștepte prea mult timp.</Permit_CallShuttle.LetterTextPermitShuttleLeft.slateRef>
+  
+</LanguageData>

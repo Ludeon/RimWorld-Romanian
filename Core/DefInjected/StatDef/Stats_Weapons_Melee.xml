@@ -1,9 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: detection chance -->
+  <!-- UNUSED -->
   <Bladelink_DetectionChance.label>șansă de detecție</Bladelink_DetectionChance.label>
-  <!-- EN: The likelihood of the bladelink implant being detected each time it is used to attack in combat.\n\nSome factions try to enforce laws restricting the use of the bladelink to those holding specific titles. Using the bladelink emits a psychic signature which has a chance of being detected at a distance. If it is used illegally and detected, there will be diplomatic consequences. -->
   <Bladelink_DetectionChance.description>Probabilitatea ca implantul bladelink să fie detectat de fiecare dată când este folosit pentru a ataca în luptă.\n\nCâteva facțiuni încearcă să aplice legi care restricționează utilizarea bladelink-ului la cei care dețin anumite titluri. Folosirea bladelink-ului emite o semnătură psihică care are șansa de a fi detectată la distanță. Dacă este folosit ilegal și este detectat, vor exista consecințe diplomatice.</Bladelink_DetectionChance.description>
   
   <!-- EN: blunt damage -->

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: bionic arm -->
@@ -13,7 +13,7 @@
   
   <!-- EN: bionic eye -->
   <BionicEye.label>ochi bionic</BionicEye.label>
-  <!-- EN: An advanced artifical eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
+  <!-- EN: An advanced artificial eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
   <BionicEye.description>Un ochi artifical avansat. Datorită legăturii sale nervoase din biogel, a preprocesorului de semnal intern și a senzorilor cu spectru larg, este mai bun decât un ochi biologic din aproape toate punctele de vedere. Un sistem de vindecare cu praf de grilaj îi permite să se refacă în urma deteriorării.</BionicEye.description>
   
   <!-- EN: bionic heart -->
@@ -41,7 +41,7 @@
   <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
   <DeathAcidifier.description>Un implant toracic pentru a preveni utilizarea de către inamic a echipamentelor capturate. La moartea utilizatorului, el eliberează substanțe chimice puternice care dizolvă echipamentul în contact cu corpul utilizatorului. Nu dăunează celorlalți.</DeathAcidifier.description>
   
-  <!-- EN: Mote -->
+  <!-- UNUSED -->
   <Mote_AcidCloud.label>Mote</Mote_AcidCloud.label>
   
 </LanguageData>

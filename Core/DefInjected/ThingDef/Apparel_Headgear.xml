@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: flak helmet -->
@@ -21,9 +21,14 @@
   <!-- EN: Stylish yet rugged, this hat keeps the sun and rain off - and it gives anyone who wears it a bit of extra charm. It is the most important part of traditional western attire. -->
   <Apparel_CowboyHat.description>Elegantă, dar robustă, această pălărie ține soarele și ploaia la distanță - și oferă oricui o poartă un plus de farmec. Este cea mai importantă parte a ținutei western tradiționale.</Apparel_CowboyHat.description>
   
+  <!-- EN: hood -->
+  <Apparel_HatHood.label>glugă</Apparel_HatHood.label>
+  <!-- EN: A draped hood which covers the head and ears. -->
+  <Apparel_HatHood.description>O glugă drapată care acoperă capul și urechile.</Apparel_HatHood.description>
+  
   <!-- EN: marine helmet -->
   <Apparel_PowerArmorHelmet.label>cască marinărească</Apparel_PowerArmorHelmet.label>
-  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by rapid-incursion space marines. -->
   <Apparel_PowerArmorHelmet.description>O cască de armură marină, cu un computer de stare încorporat și plăci stratificate din țesătură de plastel.\n\nO astfel de armură este adesea folosită de către ienicerii imperiali și pușcașii marini spațiali de incursiune rapidă.</Apparel_PowerArmorHelmet.description>
   
   <!-- EN: psychic foil helmet -->
@@ -51,9 +56,9 @@
   <!-- EN: An artistically terrifying war mask. It hides the wearer's face and makes them more confident. -->
   <Apparel_WarMask.description>O mască de război terifiantă din punct de vedere artistic. Ascunde fața celui care o poartă și îl face mai încrezător.</Apparel_WarMask.description>
   
-  <!-- EN: war veil -->
+  <!-- EN: veil -->
   <Apparel_WarVeil.label>voal de război</Apparel_WarVeil.label>
-  <!-- EN: A war veil, made out of reinforced cloth torn to appear damaged in combat. Some believe this functions as a talisman of courage. -->
+  <!-- EN: A piece of fabric which covers the wearer's face. -->
   <Apparel_WarVeil.description>Un voal de război, realizat din pânză întărită și ruptă pentru a părea deteriorată în luptă. Unii cred că acesta funcționează ca un talisman al curajului.</Apparel_WarVeil.description>
   
 </LanguageData>

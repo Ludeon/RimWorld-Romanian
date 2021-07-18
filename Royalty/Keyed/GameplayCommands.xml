@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: {0_labelShort} is unconscious. -->
@@ -19,6 +19,8 @@
   <CommandCallRoyalAidDesc>Cere ajutor folosind un permis special.\n\nCare tip de ajutor poate fi folosit gratuit o singură dată, după care trebuie să aștepți pentru a-l folosi din nou gratuit. Puteți folosi ajutorul mai des, dar acest lucru costă o onoare.</CommandCallRoyalAidDesc>
   <!-- EN: Guests will not use their aid permits. -->
   <CommandCallRoyalAidLodger>Oaspeții nu își vor folosi permisele de ajutor.</CommandCallRoyalAidLodger>
+  <!-- EN: Slaves cannot use their permits. -->
+  <CommandCallRoyalAidSlave>TODO</CommandCallRoyalAidSlave>
   <!-- EN: Your relations with {FACTION_name} are hostile. -->
   <CommandCallRoyalAidFactionHostile>Relațiile tale cu {FACTION_name} sunt ostile.</CommandCallRoyalAidFactionHostile>
   <!-- EN: Free -->
@@ -77,5 +79,15 @@
   <ChooseRoyalPermit>Alegeți permisul</ChooseRoyalPermit>
   <!-- EN: Open the permit selection screen and choose a new permit. -->
   <ChooseRoyalPermit_Desc>Deschideți ecranul de selectare a permisului și alegeți un nou permis.</ChooseRoyalPermit_Desc>
-  
+
+  <!-- EN: Leave bestowing ceremony -->
+  <CommandLeaveBestowingCeremony>TODO</CommandLeaveBestowingCeremony>
+  <!-- EN: Stop participating in the bestowing ceremony. -->
+  <CommandLeaveBestowingCeremonyDesc>TODO</CommandLeaveBestowingCeremonyDesc>
+  <!-- EN: Cancel bestowing ceremony -->
+  <CommandCancelBestowingCeremony>TODO</CommandCancelBestowingCeremony>
+  <!-- EN: End the bestowing ceremony immediately. The bestower will leave, but another opportunity to perform the ceremony will arise soon. -->
+  <CommandCancelBestowingCeremonyDesc>TODO</CommandCancelBestowingCeremonyDesc>
+  <!-- EN: Are you sure you want to cancel bestowing ceremony? -->
+  <CommandCancelBestowingCeremonyConfirm>TODO</CommandCancelBestowingCeremonyConfirm>
 </LanguageData>
