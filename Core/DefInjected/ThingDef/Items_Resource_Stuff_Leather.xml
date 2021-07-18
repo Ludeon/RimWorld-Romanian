@@ -68,8 +68,8 @@
   <Leather_Human.description>Piele umană tăbăcită, uscată și răzuită. Majoritatea oamenilor consideră acest material oribil. Unii îl găsesc fascinant. Deși este o piele decentă, nu protejează și nici nu izolează deosebit de bine.</Leather_Human.description>
   
   <!-- EN: lightleather -->
-  <Leather_Light.label>piele ușoară</Leather_Light.label>
-  <Leather_Light.stuffProps.stuffAdjective>piele ușoară</Leather_Light.stuffProps.stuffAdjective>
+  <Leather_Light.label>piele subțire</Leather_Light.label>
+  <Leather_Light.stuffProps.stuffAdjective>piele subțire</Leather_Light.stuffProps.stuffAdjective>
   <!-- EN: Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers. -->
   <Leather_Light.description>Piele ușoară și subțire. Probabil recoltată de la un animal mic. Nu este la fel de protectoare ca pieile mai groase.</Leather_Light.description>
   
