@@ -41,7 +41,4 @@
   <!-- EN: A chest implant for preventing enemy use of captured equipment. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
   <DeathAcidifier.description>Un implant toracic pentru a preveni utilizarea de către inamic a echipamentelor capturate. La moartea utilizatorului, el eliberează substanțe chimice puternice care dizolvă echipamentul în contact cu corpul utilizatorului. Nu dăunează celorlalți.</DeathAcidifier.description>
   
-  <!-- UNUSED -->
-  <Mote_AcidCloud.label>Mote</Mote_AcidCloud.label>
-  
 </LanguageData>

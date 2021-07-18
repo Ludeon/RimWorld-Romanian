@@ -401,11 +401,4 @@
   <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
   <AutocutUnenclosedPenTip>TODO</AutocutUnenclosedPenTip>
 
-  <!-- UNUSED -->
-  <RecruitmentDifficulty>Dificultatea recrutării</RecruitmentDifficulty>
-  <RecruitmentChance>Șansa de recrutare</RecruitmentChance>
-  <RecruitmentChanceExplanation>Factorul de dificultate al recrutării: {0}\nFactorul de dispoziție: {1}}\nSansa de bază combinată: {2}</RecruitmentChanceExplanation>
-  <RecruitmentChanceWithLastRecruiterExplanationPart>\n- - - - - - - - - - - -\nUltima încercare de recrutare\nRecrutor: {3}\nFactorul de capacitate de negociere: {4}\nFactorul de opinie: {5} ({6})\nUltima șansă pentru {3}: {7}</RecruitmentChanceWithLastRecruiterExplanationPart>
-  <RecruitmentLastRecruiterResistanceReduceExplanationPart>\nReducerea rezistenței: {0}</RecruitmentLastRecruiterResistanceReduceExplanationPart>
-
 </LanguageData>

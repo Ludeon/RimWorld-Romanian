@@ -730,10 +730,4 @@
   <!-- EN: Too close to {0_label}'s planting location. -->
   <TooCloseToOtherSeedPlantCell>TODO</TooCloseToOtherSeedPlantCell>
   
-  <!-- UNUSED -->
-  <MessageNuzzledPawnGaveNameTo>{NAMER_nameFull} a dat numele {1} {NAMEE_nameFull} după ce a fost mângâiat.</MessageNuzzledPawnGaveNameTo>
-  <MessageSiteCountdownBecauseNoMoreEnemies>Ați învins toți inamicii. În {0}, caravana va fi reformată automat.</MessageSiteCountdownBecauseNoMoreEnemies>
-  <MessageSiteCountdownBecauseNoEnemiesInitially>În {0}, caravana va fi reformată automat. Puteți reforma caravana acum în ecranul Lumea.</MessageSiteCountdownBecauseNoEnemiesInitially>
-  <GoodwillChangedReason_NaturallyOverTime>tendința naturală de a ajunge la {0} în timp</GoodwillChangedReason_NaturallyOverTime>
-
 </LanguageData>

@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- UNUSED -->
-  <Bladelink_DetectionChance.label>șansă de detecție</Bladelink_DetectionChance.label>
-  <Bladelink_DetectionChance.description>Probabilitatea ca implantul bladelink să fie detectat de fiecare dată când este folosit pentru a ataca în luptă.\n\nCâteva facțiuni încearcă să aplice legi care restricționează utilizarea bladelink-ului la cei care dețin anumite titluri. Folosirea bladelink-ului emite o semnătură psihică care are șansa de a fi detectată la distanță. Dacă este folosit ilegal și este detectat, vor exista consecințe diplomatice.</Bladelink_DetectionChance.description>
-  
   <!-- EN: blunt damage -->
   <BluntDamageMultiplier.label>daune contondente</BluntDamageMultiplier.label>
   <!-- EN: A multiplier on damage from blunt-type attacks for weapons made of this material. -->

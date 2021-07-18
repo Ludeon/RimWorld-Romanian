@@ -1164,15 +1164,4 @@
   <!-- EN: no altars allowed -->
   <RoomRequirementNoAltars>TODO</RoomRequirementNoAltars>
 
-  <!-- UNUSED -->
-  <AnimalFilthRate>Rata de murdărie a animalelor</AnimalFilthRate>
-  <AnimalFilthRateExplanation>Animalele produc mizerie atunci când se deplasează pe podele construite.\n\nAceasta este cantitatea medie de astfel de mizerie produsă la fiecare {0} celule parcurse de această creatură.\n\nAnimalele mai mari sau mai puțin asemănătoare animalelor de companie produc mai multă mizerie.</AnimalFilthRateExplanation>
-  <FoodAndMedicineTab>Proviziile de călătorie</FoodAndMedicineTab>
-  <CaravanPawnIsUnreachable>{1_labelShort} nu poate fi atins de niciunul dintre coloniștii desemnați.</CaravanPawnIsUnreachable>
-  <AutomaticallySelectFoodAndMedicine>Selectați automat proviziile de călătorie</AutomaticallySelectFoodAndMedicine>
-  <SocialDrugs>Droguri sociale</SocialDrugs>
-  <NoDrugs>Fără droguri</NoDrugs>
-  <OneDrinkPerDay>O băutură pe zi</OneDrinkPerDay>
-  <Unrestricted>Fără restricții</Unrestricted>
-
 </LanguageData>

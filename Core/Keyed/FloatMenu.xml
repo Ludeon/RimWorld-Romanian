@@ -515,7 +515,4 @@
   <!-- EN: Cannot repair {0} -->
   <CannotRepair>TODO</CannotRepair>
   
-  <!-- UNUSED -->
-  <CannotTradeMissingTitleAbility>Nu se poate tranzacționa: îi lipsește titlul necesar</CannotTradeMissingTitleAbility>
-
 </LanguageData>

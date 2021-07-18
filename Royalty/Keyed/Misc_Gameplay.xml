@@ -180,7 +180,4 @@
   <AnimaLinkingExplanationBase>TODO</AnimaLinkingExplanationBase>
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>Nu toată încărcătura necesară este încă încărcată!</ShuttleRequiredItemsNotSatisfied>
-  <!-- UNUSED -->
-  <AbilitySpeechTooltip>Inițiați un discurs de pe tron. {ORGANIZER_labelShort} va merge la tronul {ORGANIZER_possessive} și va chema toți coloniștii să asculte un discurs acolo. Dacă totul merge bine, ascultătorii se vor simți inspirați și vor câștiga respect pentru {ORGANIZER_labelShort}. Dacă totul merge prost, discursul va aduce daune sociale. Rezultatul depinde de abilitățile sociale ale lui {ORGANIZER_labelShort}.</AbilitySpeechTooltip>
-
 </LanguageData>

@@ -26,7 +26,4 @@
   <!-- EN: Multiplier for pain -->
   <StatsReport_Pain>TODO</StatsReport_Pain>
   
-  <!-- UNUSED -->
-  <Stat_Thing_MinimumRoyalTitle_ImplantWithLevel_Desc>Fiecare nivel de îmbunătățire a acestui implant necesită un titlu specific în {FACTION_name} pentru a fi utilizat în mod legal.</Stat_Thing_MinimumRoyalTitle_ImplantWithLevel_Desc>
-
 </LanguageData>

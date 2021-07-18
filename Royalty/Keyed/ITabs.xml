@@ -66,8 +66,4 @@
   <!-- EN: {HONOR} cost if used during cooldown -->
   <CooldownUseFavorCost>cost {HONOR} dacă este folosit în timpul cooldown</CooldownUseFavorCost>
   
-  <!-- UNUSED -->
-  <RecruitmentValueOffsetRoyal>Decalajul titlului regal</RecruitmentValueOffsetRoyal>
-  <RecruitmentValueFactorRoyal>Factor de titlu regal</RecruitmentValueFactorRoyal>
-
 </LanguageData>

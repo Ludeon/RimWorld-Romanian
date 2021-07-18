@@ -21,7 +21,4 @@
   <!-- EN: A laborer sent to you by [permitFaction_name] has died. Your goodwill with [permitFaction_name] has fallen by [goodwillPenaltyPawn]. -->
   <Permit_CallLaborers.LetterTextLaborerDied.slateRef>Un muncitor trimis la dumneavoastră de către [permitFaction_name] a murit. Bunăvoința ta cu [permitFaction_name] a scăzut cu [goodwillPenaltyPawn].</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
   
-  <!-- UNUSED -->
-  <Permit_CallLaborers.GoodwillChangeReasonLaborersMissedShuttle.slateRef>muncitorii au ratat naveta</Permit_CallLaborers.GoodwillChangeReasonLaborersMissedShuttle.slateRef>
-  
 </LanguageData>

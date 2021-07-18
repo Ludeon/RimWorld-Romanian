@@ -341,12 +341,4 @@
   <!-- EN: Creates need -->
   <CreatesNeed>Creează nevoia</CreatesNeed>
 
-  <!-- UNUSED -->
-  <CurrentGoodwillTip>Starea actuală a bunăvoinței și a relațiilor cu această facțiune.</CurrentGoodwillTip>
-  <CurrentRelationTip>Relațiile actuale cu această facțiune.</CurrentRelationTip>
-  <CurrentGoodwillTip_NaturalGoodwill>Această facțiune are un interval de bunăvoință naturală de la {0} la {1}.</CurrentGoodwillTip_NaturalGoodwill>
-  <CurrentGoodwillTip_NaturalGoodwillRise>Dacă fondul de comerț este sub {0}, acesta va crește cu {1} pe an.</CurrentGoodwillTip_NaturalGoodwillRise>
-  <CurrentGoodwillTip_NaturalGoodwillFall>Dacă fondul de comerț este mai mare de {0}, acesta va scădea cu {1} pe an.</CurrentGoodwillTip_NaturalGoodwillFall>
-  <Researched>Cercetat</Researched>
-
 </LanguageData>

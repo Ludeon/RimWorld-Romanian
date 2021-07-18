@@ -148,7 +148,4 @@
   <!-- EN: Predators are less likely to hunt animals which are enclosed by fences or barricades. -->
   <GameplayTips.PredatorsAndFences>TODO</GameplayTips.PredatorsAndFences>
   
-  <!-- UNUSED -->
-  <GameplayTips.CaravanFasterAnimals>Animalele mai rapide fac caravanele mai rapide.</GameplayTips.CaravanFasterAnimals>
-  
 </LanguageData>

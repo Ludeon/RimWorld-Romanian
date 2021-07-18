@@ -135,26 +135,10 @@
   <!-- EN: I asked for this. -->
   <ProsthophileHappy.stages.machine_body_is_complete.description>Eu am vrut asta.</ProsthophileHappy.stages.machine_body_is_complete.description>
   
-  <!-- UNUSED -->
-  <ProsthophileHappy.stages.transhumanist_pleased.label>transumanist mulțumit</ProsthophileHappy.stages.transhumanist_pleased.label>
-  <ProsthophileHappy.stages.transhumanist_pleased.description>Partea asta artificială e mișto. Eu vreau mai mult.</ProsthophileHappy.stages.transhumanist_pleased.description>
-  <ProsthophileHappy.stages.transhumanist_quite_pleased.label>transumanist destul de mulțumit</ProsthophileHappy.stages.transhumanist_quite_pleased.label>
-  <ProsthophileHappy.stages.transhumanist_quite_pleased.description>Două părți artificiale sunt mai bune decât una. Mi-aș dori să am mai multe.</ProsthophileHappy.stages.transhumanist_quite_pleased.description>
-  <ProsthophileHappy.stages.transhumanist_delighted.label>transumanist încântat</ProsthophileHappy.stages.transhumanist_delighted.label>
-  <ProsthophileHappy.stages.transhumanist_delighted.description>Trei părți artificiale, iar carnea mea umană slabă se retrage. Dar tot îmi doresc mai multă putere de mașină.</ProsthophileHappy.stages.transhumanist_delighted.description>
-  <ProsthophileHappy.stages.transhumanist_enchanted.label>transumanistul fermecat</ProsthophileHappy.stages.transhumanist_enchanted.label>
-  <ProsthophileHappy.stages.transhumanist_enchanted.description>Patru părți artificiale ale corpului și devin mai mult decât om. Dar mai este încă puțină carne care trebuie înlocuită.</ProsthophileHappy.stages.transhumanist_enchanted.description>
-  <ProsthophileHappy.stages.transhumanist_overjoyed.label>transumanistul bucuros</ProsthophileHappy.stages.transhumanist_overjoyed.label>
-  <ProsthophileHappy.stages.transhumanist_overjoyed.description>Cinci părți artificiale ale corpului! Cum ar putea o ființă îmbunătățită ca mine să se simtă vreodată tristă?</ProsthophileHappy.stages.transhumanist_overjoyed.description>
-  
   <!-- EN: body modder frustrated -->
   <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>TODO</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
   <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
   <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>TODO</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
-  
-  <!-- UNUSED -->
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>transumanist frustrat</ProsthophileNoProsthetic.stages.transhumanist_frustrated.label>
-  <ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>Carnea este atât de limitativă. Mi-aș dori să am un fel de parte artificială a corpului.</ProsthophileNoProsthetic.stages.transhumanist_frustrated.description>
   
   <!-- EN: body purist squeamish -->
   <ProsthophobeUnhappy.stages.body_purist_squeamish.label>purist al corpului scârbit</ProsthophobeUnhappy.stages.body_purist_squeamish.label>

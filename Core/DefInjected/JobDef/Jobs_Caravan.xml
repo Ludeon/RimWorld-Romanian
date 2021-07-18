@@ -13,9 +13,6 @@
   <!-- EN: gathering supplies. -->
   <PrepareCaravan_GatherItems.reportString>adunând provizii.</PrepareCaravan_GatherItems.reportString>
   
-  <!-- UNUSED -->
-  <PrepareCaravan_GatherPawns.reportString>pregătindu-se să plece.</PrepareCaravan_GatherPawns.reportString>
-  
   <!-- EN: taking TargetA back to a pen. -->
   <ReturnedCaravan_PenAnimals.reportString>TODO</ReturnedCaravan_PenAnimals.reportString>
   

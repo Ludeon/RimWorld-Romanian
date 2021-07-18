@@ -15,9 +15,4 @@
   <!-- EN: Party -->
   <Party.letterTitle>Petrecere</Party.letterTitle>
   
-  <!-- UNUSED -->
-  <ThroneSpeech.label>Discurs de Tron</ThroneSpeech.label>
-  <ThroneSpeech.letterText>{ORGANIZER_labelShort} ține un discurs de la tron.\n\nDacă totul merge bine, ascultătorii se vor simți inspirați și vor câștiga respect pentru {ORGANIZER_labelShort}. Dacă totul merge prost, discursul va aduce daune sociale. Rezultatul depinde de abilitățile sociale ale lui {ORGANIZER_labelShort}.</ThroneSpeech.letterText>
-  <ThroneSpeech.letterTitle>Discurs de la tron</ThroneSpeech.letterTitle>
-  
 </LanguageData>

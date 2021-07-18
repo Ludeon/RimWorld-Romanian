@@ -48,8 +48,4 @@
   <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
   <RandomDrop.textWillArrive>{0_pawnsPluralDef} vor sosi în capsule de transport.</RandomDrop.textWillArrive>
   
-  <!-- UNUSED -->
-  <Shuttle.textEnemy>Un grup de {0} din {1} au sosit într-o navetă.</Shuttle.textEnemy>
-  <Shuttle.textFriendly>Un grup prieten de {0} din {1} a sosit într-o navetă.</Shuttle.textFriendly>
-  
 </LanguageData>

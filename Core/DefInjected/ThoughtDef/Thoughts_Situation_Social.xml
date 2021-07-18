@@ -102,13 +102,6 @@
   <!-- EN: body modder appreciation -->
   <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>TODO</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
   
-  <!-- UNUSED -->
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>apreciere transumanistă</TranshumanistAppreciation.stages.transhumanist_appreciation-0.label>
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>apreciere transumanistă</TranshumanistAppreciation.stages.transhumanist_appreciation-1.label>
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>apreciere transumanistă</TranshumanistAppreciation.stages.transhumanist_appreciation-2.label>
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>apreciere transumanistă</TranshumanistAppreciation.stages.transhumanist_appreciation-3.label>
-  <TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>apreciere transumanistă</TranshumanistAppreciation.stages.transhumanist_appreciation-4.label>
-  
   <!-- EN: physically unsightly -->
   <Ugly.stages.physically_unsightly.label>fizic inestetic</Ugly.stages.physically_unsightly.label>
   <!-- EN: physically hideous -->
@@ -118,10 +111,6 @@
   <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>TODO</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
   <!-- EN: I should be sleeping with a lover or spouse. -->
   <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>TODO</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
-  
-  <!-- UNUSED -->
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>vrea să doarmă cu {0}</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.label>
-  <WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>Nu-mi place să dorm separat de partenerul meu.</WantToSleepWithSpouseOrLover.stages.want_to_sleep_with.description>
   
   <!-- EN: woman -->
   <Woman.stages.woman.label>femeie</Woman.stages.woman.label>

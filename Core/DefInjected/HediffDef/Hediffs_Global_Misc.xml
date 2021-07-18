@@ -100,10 +100,6 @@
   <!-- EN: late-stage -->
   <Pregnant.stages.latestage.label>etapa târzie</Pregnant.stages.latestage.label>
   
-  <!-- UNUSED -->
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>{0} gravidă</Pregnant.comps.HediffComp_Discoverable.discoverLetterLabel>
-  <Pregnant.comps.HediffComp_Discoverable.discoverLetterText>{0} este gravidă!</Pregnant.comps.HediffComp_Discoverable.discoverLetterText>
-  
   <!-- EN: psychic coma -->
   <PsychicComa.label>comă psihică</PsychicComa.label>
   <!-- EN: A form of benign coma during which the brain recovers from a psychic overload. -->
