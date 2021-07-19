@@ -122,7 +122,19 @@
     <li>released->then turned away and let [RECIPIENT_objective] leave the colony.</li>
     <li>released->before letting [RECIPIENT_objective] go to live in freedom.</li>
   -->
-  <ReleaseToWild.logRulesInitiator.rulesStrings>TODO</ReleaseToWild.logRulesInitiator.rulesStrings>
+  <ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] mângâie cu blândețe pe [RECIPIENT_nameDef] pentru ultima oară</li>
+    <li>farewell->[INITIATOR_nameDef] i-a spus câteva cuvinte calde lui [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] a îndepărtat zgarda lui [RECIPIENT_nameDef].</li>
+    <li>farewell->[INITIATOR_nameDef] și-a amintit de momentele frumoase pe care [INITIATOR_objective] le-a petrecut cu [RECIPIENT_nameDef]</li>
+    <li>released->și a eliberat [RECIPIENT_objective] în natură.</li>
+    <li>released->și a eliberat [RECIPIENT_objective].</li>
+    <li>released->și a trimis [RECIPIENT_objective] în libertate.</li>
+    <li>released->și a dat drumul [RECIPIENT_objective].</li>
+    <li>released->apoi s-a îndepărtat și l-a lăsat pe [RECIPIENT_objective] să părăsească colonia.</li>
+    <li>released->înainte de a-l lăsa pe [RECIPIENT_objective] să plece să trăiască în libertate.</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
   
   <!-- EN: tame attempt -->
   <TameAttempt.label>încercare de îmblânzire</TameAttempt.label>

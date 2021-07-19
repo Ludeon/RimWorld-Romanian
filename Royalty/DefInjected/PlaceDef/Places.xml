@@ -20,6 +20,24 @@
     <li>place_foeLeader->revolutionist</li>
     <li>place_foeSoldiers->rebels</li>
   -->
-  <Sophiamunda.placeRules.rulesStrings>TODO</Sophiamunda.placeRules.rulesStrings>
+  <Sophiamunda.placeRules.rulesStrings>
+    <li>place_name->Sofiamunda</li>
+    <li>place_adjective->Sofian</li>
+    <li>place_summary->lume techno-feudală</li>
+    <li>place_community->castel</li>
+    <li>place_community->palat</li>
+    <li>place_job->cavaler</li>
+    <li>place_job->scutier</li>
+    <li>place_job->duce</li>
+    <li>place_job->servitor</li>
+    <li>place_job->fierar de spade</li>
+    <li>place_personalWeapon->sabie cu plasmă persona</li>
+    <li>place_personalWeapon->warhammer</li>
+    <li>place_massWeapon->un țintaș orbital de grupări mecano-orbitale</li>
+    <li>place_massWeapon->o plagă biotehnologizată</li>
+    <li>place_massWeapon->o armată de cavaleri căzuți</li>
+    <li>place_foeLeader->revoluționar</li>
+    <li>place_foeSoldiers->rebeli</li>
+  </Sophiamunda.placeRules.rulesStrings>
   
 </LanguageData>
