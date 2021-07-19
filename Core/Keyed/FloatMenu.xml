@@ -23,7 +23,7 @@
   <NotAllowed>Nu este permis</NotAllowed>
   
   <!-- EN: Fire at {1_label} -->
-  <FireAt>Trage la {1_label}</FireAt>
+  <FireAt>Trage în {1_label}</FireAt>
 
   <!-- EN: out of range -->
   <OutOfRange>în afara ariei de acoperire</OutOfRange>

@@ -12,7 +12,7 @@
   <ReadMore>Citește mai mult</ReadMore>
 
   <!-- EN: Summer -->
-  <LetterLabelFirstSummerWarning>Vara</LetterLabelFirstSummerWarning>
+  <LetterLabelFirstSummerWarning>Vară</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
   <FirstSummerWarning>Vara a început! Dar vine iarna.\n\nCulturile voastre nu vor crește în frigul iernii. Asigură-te că depozitezi suficientă mâncare pentru a supraviețui. Poți construi un frigider de tip walk-in pentru a preveni deteriorarea alimentelor.\n\nCumpărați, furați sau confecționați niște parka, altfel veți îngheța când veți ieși afară.</FirstSummerWarning>
 
@@ -446,7 +446,7 @@
   <!-- EN: A new quest has become active. It is called '{0}'. -->
   <LetterQuestBecameActive>O nouă căutare a devenit activă. Se numește "{0}".</LetterQuestBecameActive>
   <!-- EN: Quest active: {0} -->
-  <LetterQuestAutomaticallyAcceptedTitle>Căutare activă: {0}</LetterQuestAutomaticallyAcceptedTitle>
+  <LetterQuestAutomaticallyAcceptedTitle>Misiune activă: {0}</LetterQuestAutomaticallyAcceptedTitle>
   <!-- EN: It will expire in {0}. -->
   <LetterQuestActiveNowTime>Acesta va expira în {0}.</LetterQuestActiveNowTime>
 

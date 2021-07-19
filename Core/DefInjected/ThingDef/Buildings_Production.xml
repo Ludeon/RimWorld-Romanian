@@ -12,7 +12,7 @@
   <Brewery.description>Un post de lucru cu toate echipamentele necesare pentru a amesteca mustul pentru producția de bere. Mustul trebuie să fie fermentat pentru a deveni în final bere.</Brewery.description>
   
   <!-- EN: butcher spot -->
-  <ButcherSpot.label>locul măcelarului</ButcherSpot.label>
+  <ButcherSpot.label>loc de măcelărit</ButcherSpot.label>
   <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
   <ButcherSpot.description>Un loc pentru măcelărirea animalelor. Din cauza lipsei de echipament, măcelărirea de aici produce doar 70% din carnea și pielea fiecărei creaturi.</ButcherSpot.description>
   

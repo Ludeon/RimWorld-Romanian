@@ -8,10 +8,10 @@
   <Cloth.stuffProps.stuffAdjective>cloth</Cloth.stuffProps.stuffAdjective>
   
   <!-- EN: devilstrand -->
-  <DevilstrandCloth.label>devilstrand</DevilstrandCloth.label>
+  <DevilstrandCloth.label>șuvița-dracului</DevilstrandCloth.label>
   <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
   <DevilstrandCloth.description>Țesătură țesută din microfibre extrase din ciuperci devilstrand. Este foarte rezistentă, bună la izolare și protejează excepțional de bine împotriva flăcărilor.</DevilstrandCloth.description>
-  <DevilstrandCloth.stuffProps.stuffAdjective>devilstrand</DevilstrandCloth.stuffProps.stuffAdjective>
+  <DevilstrandCloth.stuffProps.stuffAdjective>șuvița-dracului</DevilstrandCloth.stuffProps.stuffAdjective>
   
   <!-- EN: gold -->
   <Gold.label>aur</Gold.label>

@@ -12,7 +12,7 @@
   <BondedAnimalBanished.stages.bonded_animal_banished.description>Animalul meu legat a fost alungat!</BondedAnimalBanished.stages.bonded_animal_banished.description>
   
   <!-- EN: I butchered humanlike -->
-  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>Am măcelărit un animal asemănător cu un om</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>Am măcelărit un umanoid</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
   <!-- EN: I butchered someone up like an animal. -->
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Am măcelărit pe cineva ca pe un animal.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   

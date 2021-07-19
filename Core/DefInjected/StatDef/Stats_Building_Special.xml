@@ -61,7 +61,7 @@
   <WorkTableWorkSpeedFactor.description>Viteza de lucru se înmulțește cu această valoare.</WorkTableWorkSpeedFactor.description>
   
   <!-- EN: work to build -->
-  <WorkToBuild.label>munca pentru construcție</WorkToBuild.label>
+  <WorkToBuild.label>muncă pentru construcție</WorkToBuild.label>
   <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
   <WorkToBuild.description>Cantitatea de bază de muncă necesară pentru a construi o structură, odată ce toate materialele sunt adunate.</WorkToBuild.description>
   

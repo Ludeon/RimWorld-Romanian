@@ -24,17 +24,17 @@
   <ProherCap>Ei</ProherCap>
 
   <!-- EN: it -->
-  <ProitObj />
+  <ProitObj>el</ProitObj>
   <!-- EN: him -->
-  <ProhimObj />
+  <ProhimObj>el</ProhimObj>
   <!-- EN: her -->
-  <ProherObj />
+  <ProherObj>ea</ProherObj>
   <!-- EN: It -->
-  <ProitObjCap />
+  <ProitObjCap>El</ProitObjCap>
   <!-- EN: Him -->
-  <ProhimObjCap />
+  <ProhimObjCap>El</ProhimObjCap>
   <!-- EN: Her -->
-  <ProherObjCap />
+  <ProherObjCap>Ea</ProherObjCap>
 
   <!-- EN: he -->
   <Prohe>el</Prohe>
