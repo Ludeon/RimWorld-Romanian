@@ -4,7 +4,7 @@
   <!-- EN: beer brewing -->
   <Brewing.label>fabricarea berii</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
-  <Brewing.description>Construiește o fabrică de bere și cuve de fermentare pentru a transforma hameiul în bere gustoasă și savuroasă.</Brewing.description>
+  <Brewing.description>Construiește un preparator de bere și cuve de fermentare pentru a transforma hameiul în bere gustoasă și savuroasă. Consumul de bere satisface nevoia de recreere.</Brewing.description>
   
   <!-- EN: carpet making -->
   <CarpetMaking.label>fabricarea covoarelor</CarpetMaking.label>
@@ -19,12 +19,12 @@
   <!-- EN: complex clothing -->
   <ComplexClothing.label>îmbrăcăminte complexă</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
-  <ComplexClothing.description>Confecționează haine complexe, cum ar fi pantalonii, paltoane și pălăriile de cowboy.</ComplexClothing.description>
+  <ComplexClothing.description>Confecționează haine complexe, cum ar fi pantalonii, paltoanele și pălăriile de cowboy.</ComplexClothing.description>
   
   <!-- EN: complex furniture -->
   <ComplexFurniture.label>mobilier complex</ComplexFurniture.label>
   <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
-  <ComplexFurniture.description>Construiește mobilier complex, cum ar fi paturi, mese de capăt, scaune de sufragerie, fotolii, comode, dulapuri pentru scule, mese de biliard și mese de poker, guri de aerisire, sarcofage și multe altele.</ComplexFurniture.description>
+  <ComplexFurniture.description>Construiește piese de mobilier complex, cum ar fi paturile, noptierele, scaunele de sufragerie, fotoliile, comodele, dulapurile pentru scule, mesele de biliard și mesele de poker, gurile de aerisire, sarcofagele și multe altele.</ComplexFurniture.description>
   
   <!-- EN: devilstrand -->
   <Devilstrand.label>șuvița-dracului</Devilstrand.label>
@@ -39,7 +39,7 @@
   <!-- EN: go-juice production -->
   <GoJuiceProduction.label>producție de go-juice</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
-  <GoJuiceProduction.description>Produceți go-juice, un drog sintetic de îmbunătățire a performanțelor de luptă, care îmbunătățește abilitățile de tragere, de luptă corp la corp și de mișcare și atenuează durerea.</GoJuiceProduction.description>
+  <GoJuiceProduction.description>Produceți go-juice, un drog sintetic de creștere a performanțelor în luptă, care îmbunătățește abilitățile de tragere, de luptă corp la corp și de mișcare, atenuând in același timp durerea.</GoJuiceProduction.description>
   
   <!-- EN: greatbow -->
   <Greatbow.label>greatbow</Greatbow.label>
@@ -64,12 +64,12 @@
   <!-- EN: penoxycyline production -->
   <PenoxycylineProduction.label>producție de penoxicilină</PenoxycylineProduction.label>
   <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
-  <PenoxycylineProduction.description>Produceți penoxicilină, un medicament de prevenire a bolilor care blochează ciuma, malaria și altele înainte de a se declanșa.</PenoxycylineProduction.description>
+  <PenoxycylineProduction.description>Produceți penoxicilină, un medicament de prevenire a bolilor care inhibă ciuma, malaria și altele înainte de a se declanșa.</PenoxycylineProduction.description>
   
   <!-- EN: plate armor -->
   <PlateArmor.label>armură cu plăci</PlateArmor.label>
   <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
-  <PlateArmor.description>Făurește costume de armură de plăci din metal sau lemn. Această armură grea încetinește vizibil mișcarea, dar protejează foarte eficient.</PlateArmor.description>
+  <PlateArmor.description>Făurește costume de armură de plăci din metal sau lemn. Această armură grea încetinește în mod vizibil mișcarea, dar protejează foarte eficient.</PlateArmor.description>
   
   <!-- EN: psychite refining -->
   <PsychiteRefining.label>Rafinare de psihită</PsychiteRefining.label>
@@ -92,18 +92,18 @@
   <Smithing.description>Construiți fierării pentru a meșteșugi arme de metal precum cuțite, gladii și macete. Lucrați metalul pentru a obține dale de podea curate și frumoase.</Smithing.description>
   
   <!-- EN: stonecutting -->
-  <Stonecutting.label>cioplire de piatră</Stonecutting.label>
+  <Stonecutting.label>cioplire în piatră</Stonecutting.label>
   <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
-  <Stonecutting.description>Tăiați bucăți de piatră în blocuri de piatră pentru a le folosi în construcții. Construiți podele frumoase din gresie de piatră sau alei urâte din beton.</Stonecutting.description>
+  <Stonecutting.description>Tăiați bucăți de piatră în blocuri de piatră pentru a le folosi în construcții. Construiți podele frumoase din gresie sau alei sumbre din beton.</Stonecutting.description>
   
   <!-- EN: tree sowing -->
   <TreeSowing.label>însămânțarea copacilor</TreeSowing.label>
   <!-- EN: Sow the local biome's natural trees in your fields. -->
-  <TreeSowing.description>Semănați copacii naturali ai biomului local în câmpurile voastre.</TreeSowing.description>
+  <TreeSowing.description>Semănați arbuști ai copacilor care aparțin climatului local.</TreeSowing.description>
   
   <!-- EN: wake-up production -->
   <WakeUpProduction.label>producție de wake-up</WakeUpProduction.label>
   <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
-  <WakeUpProduction.description>Sintetizează wake-up, un drog care îmbunătățește performanța în muncă și care înlocuiește nevoia de somn.</WakeUpProduction.description>
+  <WakeUpProduction.description>Sintetizează wake-up, un drog care îmbunătățește performanța de muncă și care înlocuiește nevoia de somn.</WakeUpProduction.description>
   
 </LanguageData>
