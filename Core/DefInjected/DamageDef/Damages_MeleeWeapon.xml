@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: bite -->
@@ -22,9 +22,9 @@
   <Cut.deathMessage>{0} a fost tăiat până la moarte</Cut.deathMessage>
   
   <!-- EN: blunt -->
-  <Demolish.label>TODO</Demolish.label>
+  <Demolish.label>contondent</Demolish.label>
   <!-- EN: {0} has been beaten to death. -->
-  <Demolish.deathMessage>TODO</Demolish.deathMessage>
+  <Demolish.deathMessage>{0} a fost bătut până la moarte.</Demolish.deathMessage>
   
   <!-- EN: blunt -->
   <Poke.label>perforat</Poke.label>

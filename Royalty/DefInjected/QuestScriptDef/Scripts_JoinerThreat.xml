@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN:
@@ -65,7 +65,7 @@
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
   <ThreatReward_Manhunters_Joiner.root.nodes.Delay.node.nodes.ManhunterPack.customLetterLabel.slateRef>TODO</ThreatReward_Manhunters_Joiner.root.nodes.Delay.node.nodes.ManhunterPack.customLetterLabel.slateRef>
   <!-- EN: {BASETEXT}\n\n[manhunterArrivalLetterEnd] -->
-  <ThreatReward_Manhunters_Joiner.root.nodes.Delay.node.nodes.ManhunterPack.customLetterText.slateRef>TODO</ThreatReward_Manhunters_Joiner.root.nodes.Delay.node.nodes.ManhunterPack.customLetterText.slateRef>
+  <ThreatReward_Manhunters_Joiner.root.nodes.Delay.node.nodes.ManhunterPack.customLetterText.slateRef>{BASETEXT}\n\n[manhunterArrivalLetterEnd]</ThreatReward_Manhunters_Joiner.root.nodes.Delay.node.nodes.ManhunterPack.customLetterText.slateRef>
   
   <!-- EN:
     <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is begging to join you at [map_definite].[joiner_relationInfo]\n\nThere's some kind of threat following [joiner_nameDef], but [joiner_pronoun] is unwilling to say what it is or when it might follow. [joiner_pronoun] is also unwilling to tell you more about [joiner_objective]self.</li>
@@ -108,11 +108,11 @@
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
   <ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>TODO</ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>
   <!-- EN: {BASETEXT}\n                  \nThe [enemyFaction_pawnsPlural] are coming for [../joiner_nameFull]. -->
-  <ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>TODO</ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>
+  <ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>{BASETEXT}\n                  \nVine [enemyFaction_pawnsPlural] pentru [../joiner_nameFull].</ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
   <ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>TODO</ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>
   <!-- EN: {BASETEXT}\n                        \nThe [enemyFaction_pawnsPlural] are coming for [../joiner_nameFull]. -->
-  <ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>TODO</ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>
+  <ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>{BASETEXT}\n                  \nVine [enemyFaction_pawnsPlural] pentru [../joiner_nameFull].</ThreatReward_RaidMultiFaction_Joiner.root.nodes.Delay.node.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>
   
   <!-- EN:
     <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameFull] is calling from nearby. [joiner_pronoun] is hiding from [threat]. [joiner_pronoun] wants to flee [joiner_possessive] hiding spot and join you at [map_definite].[joiner_relationInfo]\n\nIf you accept [joiner_objective], [joinersEnemies] will set up a site nearby to harass you. [site/allSitePartsDescriptions]\n\nThe threat will remain until you go to destroy it.</li>

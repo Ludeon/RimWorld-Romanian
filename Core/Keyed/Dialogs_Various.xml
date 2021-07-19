@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- EN: Confirm -->
@@ -371,7 +371,7 @@
   <!-- EN: Body size -->
   <BodySize>Dimensiunea corpului</BodySize>
   <!-- EN: Growth -->
-  <Growth>TODO</Growth>
+  <Growth>Creștere</Growth>
   <!-- EN: Recruit difficulty -->
   <RecruitDifficulty>Dificultate de recrutare</RecruitDifficulty>
   <!-- EN: Base price -->
@@ -399,7 +399,7 @@
   <!-- EN: Tameness will never decay for animals of very low wildness. -->
   <TamenessWillNotDecay>Blândețea nu se va degrada niciodată.</TamenessWillNotDecay>
   <!-- EN: Tameness will never decay for animals that can be kept behind fences. -->
-  <TamenessWillNotDecayFenceBlocked>TODO</TamenessWillNotDecayFenceBlocked>
+  <TamenessWillNotDecayFenceBlocked>Blândețea nu va decădea niciodată pentru animalele care pot fi ținute în spatele gardurilor.</TamenessWillNotDecayFenceBlocked>
   <!-- EN: Time -->
   <TimeRecordsCategory>Timp</TimeRecordsCategory>
   <!-- EN: Misc -->
@@ -445,7 +445,7 @@
   <!-- EN: {0} / day -->
   <PerDay>{0} / zi</PerDay>
   <!-- EN: {0} / hour -->
-  <PerHour>TODO</PerHour>
+  <PerHour>{0} / oră</PerHour>
   <!-- EN: Pack animal -->
   <PackAnimal>Animal de povară</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
@@ -595,15 +595,15 @@
   <!-- EN: Trading with faction base bonus -->
   <TradeWithFactionBaseBonus>Tranzacționare cu bonusul de bază al facțiunii</TradeWithFactionBaseBonus>
   <!-- EN: Joins as slave -->
-  <JoinsAsSlave>TODO</JoinsAsSlave>
+  <JoinsAsSlave>Se alătură ca sclav</JoinsAsSlave>
   <!-- EN: Joins as colonist -->
-  <JoinsAsColonist>TODO</JoinsAsColonist>
+  <JoinsAsColonist>Se alătură ca colonist</JoinsAsColonist>
   <!-- EN: If purchased, this person will join your colony as a slave. -->
-  <JoinsAsSlaveDesc>TODO</JoinsAsSlaveDesc> <!--  -->
+  <JoinsAsSlaveDesc>Dacă este achiziționată, această persoană se va alătura coloniei tale ca sclav.</JoinsAsSlaveDesc> <!--  -->
   <!-- EN: If purchased, this person will join your colony as a colonist. -->
-  <JoinsAsColonistDesc>TODO</JoinsAsColonistDesc>
+  <JoinsAsColonistDesc>Dacă este achiziționată, această persoană se va alătura coloniei tale ca și colonist.</JoinsAsColonistDesc>
   <!-- EN: Trading drugs bonus -->
-  <TradingDrugsBonus>TODO</TradingDrugsBonus>
+  <TradingDrugsBonus>Bonusul de comercializare a drogurilor</TradingDrugsBonus>
   <!-- EN: minimum -->
   <minimum>minim</minimum>
   <!-- EN: Final price -->
@@ -639,7 +639,7 @@
   <!-- EN: Items -->
   <ItemsTab>Articole</ItemsTab>
   <!-- EN: Travel supplies -->
-  <TravelSupplies>TODO</TravelSupplies>
+  <TravelSupplies>Provizii de călătorie</TravelSupplies>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>Trebuie să asiguri cel puțin un colonist non-doborât.</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -649,7 +649,7 @@
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
   <CaravanCouldNotFindReachableExitSpot>Avertizare: Unii dintre coloniștii repartizați nu pot ajunge la locul de ieșire ({0}).</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unable to reach the packing spot or the exit location when led by any of the assigned colonists. -->
-  <CaravanRoamerCannotReachSpots>TODO</CaravanRoamerCannotReachSpots>
+  <CaravanRoamerCannotReachSpots>{1_labelShort} nu poate ajunge la locul de împachetare sau la locul de ieșire atunci când este condus de oricare dintre coloniștii desemnați.</CaravanRoamerCannotReachSpots>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
   <CaravanItemIsUnreachableSingle>Niciunul dintre coloniștii desemnați nu poate ajunge la {0}.</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
@@ -741,9 +741,9 @@
   <!-- EN: tiles/day -->
   <TilesPerDay>țigle/zi</TilesPerDay>
   <!-- EN: None - too heavy -->
-  <TilesPerDayImmobile>TODO</TilesPerDayImmobile>
+  <TilesPerDayImmobile>Niciunul - prea greu</TilesPerDayImmobile>
   <!-- EN: None -->
-  <TilesPerDayImmobileShort>TODO</TilesPerDayImmobileShort>
+  <TilesPerDayImmobileShort>Nici unul</TilesPerDayImmobileShort>
   <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
   <CaravanMovementSpeedTip>Viteza de deplasare depinde de viteza medie a tuturor oamenilor și animalelor, de masa transportată și de dificultatea de deplasare a terenului.</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
@@ -769,7 +769,7 @@
   <!-- EN: Total body size -->
   <TotalBodySize>Dimensiunea totală a corpului</TotalBodySize>
   <!-- EN: Automatically select travel supplies -->
-  <AutomaticallySelectTravelSupplies>TODO</AutomaticallySelectTravelSupplies>
+  <AutomaticallySelectTravelSupplies>Selectează automat proviziile de călătorie</AutomaticallySelectTravelSupplies>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -1027,15 +1027,15 @@
   <!-- EN: {0_labelShort} is not mentally broken. -->
   <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} nu este afectat mintal.</AbilityCanOnlyApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not maddened. -->
-  <AbilityCanOnlyApplyToManhunter>TODO</AbilityCanOnlyApplyToManhunter>
+  <AbilityCanOnlyApplyToManhunter>{0_labelShort} nu este înnebunit.</AbilityCanOnlyApplyToManhunter>
   <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
-  <AbilityCantApplyToScaria>TODO</AbilityCantApplyToScaria>
+  <AbilityCantApplyToScaria>{0_labelShort} are scaria, care poate fi tratată doar medical.</AbilityCantApplyToScaria>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
   <AbilityDoesntWorkOnMentalState>{0} nu funcționează pe starea mentală '{1}'.</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
   <AbilityCantApplyNoResistance>{0_labelShort} are rezistență zero.</AbilityCantApplyNoResistance>
   <!-- EN: {0_labelShort} is downed. -->
-  <AbilityCantApplyDowned>TODO</AbilityCantApplyDowned>
+  <AbilityCantApplyDowned>{0_labelShort} este doborât.</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
   <AbilityCantApplyOnAsexual>Nu se poate utiliza: {0} este asexual.</AbilityCantApplyOnAsexual>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
@@ -1047,21 +1047,21 @@
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
   <AbilityCantGetInspiredNow>{0_labelShort} nu poate primi o inspirație în acest moment.</AbilityCantGetInspiredNow>
   <!-- EN: {0_labelShort} must be of a different ideoligion than {1_labelShort}. -->
-  <AbilityMustBeNotSameIdeo>TODO</AbilityMustBeNotSameIdeo>
+  <AbilityMustBeNotSameIdeo>{0_labelShort} trebuie să fie de o ideoligie diferită de cea a lui {1_labelShort}.</AbilityMustBeNotSameIdeo>
   <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
-  <AbilityMustBeSameIdeo>TODO</AbilityMustBeSameIdeo>
+  <AbilityMustBeSameIdeo>{0_labelShort} trebuie să fie de aceeași ideoligie ca {1_labelShort}.</AbilityMustBeSameIdeo>
   <!-- EN: {0_labelShort} must be sick or injured. -->
-  <AbilityMustBeSickOrInjured>TODO</AbilityMustBeSickOrInjured>
+  <AbilityMustBeSickOrInjured>{0_labelShort} trebuie să fie bolnav sau rănit.</AbilityMustBeSickOrInjured>
   <!-- EN: {0} can only counsel {1}s. -->
-  <AbilityMustBeSameIdeoCounsel>TODO</AbilityMustBeSameIdeoCounsel>
+  <AbilityMustBeSameIdeoCounsel>{0} poate consilia doar {1}.</AbilityMustBeSameIdeoCounsel>
   <!-- EN: {0_labelShort} is already considered guilty. -->
-  <AbilityMustBeNotGuilty>TODO</AbilityMustBeNotGuilty>
+  <AbilityMustBeNotGuilty>{0_labelShort} este deja considerat vinovat.</AbilityMustBeNotGuilty>
   <!-- EN: Must target a human. -->
-  <AbilityMustBeHuman>TODO</AbilityMustBeHuman>
+  <AbilityMustBeHuman>Trebuie să vizeze un om.</AbilityMustBeHuman>
   <!-- EN: Must target a non-wild human. -->
-  <AbilityMustBeHumanNonWild>TODO</AbilityMustBeHumanNonWild>
+  <AbilityMustBeHumanNonWild>Trebuie să vizeze un om care nu este sălbatic.</AbilityMustBeHumanNonWild>
   <!-- EN: Must target an animal. -->
-  <AbilityMustBeAnimal>TODO</AbilityMustBeAnimal>
+  <AbilityMustBeAnimal>Trebuie să vizeze un animal.</AbilityMustBeAnimal>
   <!-- EN: {0_labelShort} is unconscious. -->
   <AbilityCantApplyUnconscious>{0_labelShort} este inconștient.</AbilityCantApplyUnconscious>
   <!-- EN: {0_labelShort} is asleep. -->
@@ -1092,59 +1092,59 @@
 
   <!-- Auto slaughter -->
   <!-- EN: Animal -->
-  <AutoSlaugtherHeaderColLabel>TODO</AutoSlaugtherHeaderColLabel>
+  <AutoSlaugtherHeaderColLabel>Animal</AutoSlaugtherHeaderColLabel>
   <!-- EN: Current -->
-  <AutoSlaugtherHeaderColCurrent>TODO</AutoSlaugtherHeaderColCurrent>
+  <AutoSlaugtherHeaderColCurrent>Curent</AutoSlaugtherHeaderColCurrent>
   <!-- EN: Max -->
-  <AutoSlaugtherHeaderColMax>TODO</AutoSlaugtherHeaderColMax>
+  <AutoSlaugtherHeaderColMax>Max</AutoSlaugtherHeaderColMax>
   <!-- EN: Total -->
-  <AutoSlaugtherHeaderColTotal>TODO</AutoSlaugtherHeaderColTotal>
+  <AutoSlaugtherHeaderColTotal>Total</AutoSlaugtherHeaderColTotal>
   <!-- EN: Other -->
-  <AutoSlaugtherHeaderColOther>TODO</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
+  <AutoSlaugtherHeaderColOther>Altele</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
   <!-- EN: If you have more than the max number of animals, colonists will slaughter the oldest animals until you are under the limit. -->
-  <AutoSlaugtherTip>TODO</AutoSlaugtherTip>
+  <AutoSlaugtherTip>Dacă aveți mai multe animale decât numărul maxim de animale, coloniștii vor sacrifica cele mai vechi animale până când vă veți situa sub limită.</AutoSlaugtherTip>
   <!-- EN: Male adult -->
-  <AnimalMaleAdult>TODO</AnimalMaleAdult>
+  <AnimalMaleAdult>Mascul adult</AnimalMaleAdult>
   <!-- EN: Male young -->
-  <AnimalMaleYoung>TODO</AnimalMaleYoung>
+  <AnimalMaleYoung>Mascul tânăr</AnimalMaleYoung>
   <!-- EN: Female adult -->
-  <AnimalFemaleAdult>TODO</AnimalFemaleAdult>
+  <AnimalFemaleAdult>Femelă adultă</AnimalFemaleAdult>
   <!-- EN: Female young -->
-  <AnimalFemaleYoung>TODO</AnimalFemaleYoung>
+  <AnimalFemaleYoung>Femelă tânără</AnimalFemaleYoung>
   <!-- EN: Pregnant -->
-  <AnimalPregnant>TODO</AnimalPregnant>
+  <AnimalPregnant>Gravidă</AnimalPregnant>
   <!-- EN: Slaughter -->
-  <AllowSlaughterPregnant>TODO</AllowSlaughterPregnant>
+  <AllowSlaughterPregnant>Măcelărire</AllowSlaughterPregnant>
 
   <!-- EN: The animal to be automatically slaughtered. -->
-  <AutoSlaugtherHeaderTooltipLabel>TODO</AutoSlaugtherHeaderTooltipLabel>
+  <AutoSlaugtherHeaderTooltipLabel>Animalul care urmează să fie sacrificat automat.</AutoSlaugtherHeaderTooltipLabel>
   <!-- EN: The current number of animals in the colony, both male and female. -->
-  <AutoSlaugtherHeaderTooltipCurrentTotal>TODO</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <AutoSlaugtherHeaderTooltipCurrentTotal>Numărul actual de animale din colonie, atât masculi, cât și femele.</AutoSlaugtherHeaderTooltipCurrentTotal>
   <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxTotal>TODO</AutoSlaugtherHeaderTooltipMaxTotal>
+  <AutoSlaugtherHeaderTooltipMaxTotal>Numărul maxim de animale din colonie, atât masculi, cât și femele.\n\nHandlerii vor sacrifica automat orice surplus.</AutoSlaugtherHeaderTooltipMaxTotal>
   <!-- EN: The current number of males of breeding age in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentMales>TODO</AutoSlaugtherHeaderTooltipCurrentMales>
+  <AutoSlaugtherHeaderTooltipCurrentMales>Numărul actual de masculi de vârstă de reproducere din colonie.</AutoSlaugtherHeaderTooltipCurrentMales>
   <!-- EN: The current number of baby and juvenile males in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentMalesYoung>TODO</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>Numărul actual de masculi copii și tineri din colonie.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
   <!-- EN: The maximum number of males of breeding age in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxMales>TODO</AutoSlaugtherHeaderTooltipMaxMales>
+  <AutoSlaugtherHeaderTooltipMaxMales>Numărul maxim de masculi de vârstă de reproducere din colonie.\n\nÎngrijitorii vor sacrifica automat orice surplus.</AutoSlaugtherHeaderTooltipMaxMales>
   <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaughterHeaderTooltipMaxMalesYoung>TODO</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>Numărul maxim de masculi copii și tineri din colonie.\n\nÎngrijitorii vor sacrifica automat orice figuranți.</AutoSlaughterHeaderTooltipMaxMalesYoung>
   <!-- EN: The current number of females of breeding age in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemales>TODO</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <AutoSlaugtherHeaderTooltipCurrentFemales>Numărul actual de femele de vârstă de reproducere din colonie.</AutoSlaugtherHeaderTooltipCurrentFemales>
   <!-- EN: The current number of baby and juvenile females in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>TODO</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>Numărul actual de femele tinere și tinere din colonie.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
   <!-- EN: The maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxFemales>TODO</AutoSlaugtherHeaderTooltipMaxFemales>
+  <AutoSlaugtherHeaderTooltipMaxFemales>Numărul maxim de femele din colonie.\n\nÎngrijitorii vor sacrifica automat orice surplus.</AutoSlaugtherHeaderTooltipMaxFemales>
   <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaughterHeaderTooltipMaxFemalesYoung>TODO</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>Numărul maxim de femele tinere din colonie.\n\nÎngrijitorii vor sacrifica automat orice figuranți.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
   <!-- EN: The current number of pregnant animals in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentPregnant>TODO</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <AutoSlaughterHeaderTooltipCurrentPregnant>Numărul actual de animale gestante din colonie.</AutoSlaughterHeaderTooltipCurrentPregnant>
   <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
-  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>TODO</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Permiteți ca animalele gestante să fie sacrificate împreună cu alte femele din aceeași specie.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
 
   <!-- EN: Click to set an animal count limit. -->
-  <AutoSlaughterTooltipSetLimit>TODO</AutoSlaughterTooltipSetLimit>
+  <AutoSlaughterTooltipSetLimit>Faceți clic pentru a seta o limită de număr de animale.</AutoSlaughterTooltipSetLimit>
 
   <!-- Room requirements -->
   <!-- EN: no beds allowed -->
@@ -1162,6 +1162,6 @@
   <!-- EN: no work facilities allowed -->
   <RoomRequirementNoProductionFacilities>nu sunt permise facilități de lucru</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
-  <RoomRequirementNoAltars>TODO</RoomRequirementNoAltars>
+  <RoomRequirementNoAltars>Nu sunt permise altarele</RoomRequirementNoAltars>
 
 </LanguageData>

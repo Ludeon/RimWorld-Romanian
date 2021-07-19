@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: animals learning factor -->
-  <AnimalsLearningFactor.label>TODO</AnimalsLearningFactor.label>
+  <AnimalsLearningFactor.label>factor de învățare a animalelor</AnimalsLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for animals skill. -->
-  <AnimalsLearningFactor.description>TODO</AnimalsLearningFactor.description>
+  <AnimalsLearningFactor.description>Un multiplicator al ratei de învățare pentru abilitatea animalelor.</AnimalsLearningFactor.description>
   
   <!-- EN: caravan riding speed -->
-  <CaravanRidingSpeedFactor.label>TODO</CaravanRidingSpeedFactor.label>
+  <CaravanRidingSpeedFactor.label>viteza de deplasare a caravanei</CaravanRidingSpeedFactor.label>
   <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
-  <CaravanRidingSpeedFactor.description>TODO</CaravanRidingSpeedFactor.description>
+  <CaravanRidingSpeedFactor.description>Multiplicatorul aplicat la viteza de deplasare a unei persoane atunci când călărește acest animal ca parte a unei caravane. Animalele pot fi călărit numai în caravane.</CaravanRidingSpeedFactor.description>
   
   <!-- EN: carrying capacity -->
   <CarryingCapacity.label>capacitate de transport</CarryingCapacity.label>
@@ -32,9 +32,9 @@
   <EatingSpeed.description>Un multiplicator al vitezei de mâncat.</EatingSpeed.description>
   
   <!-- EN: filth rate -->
-  <FilthRate.label>TODO</FilthRate.label>
+  <FilthRate.label>Rata de murdărie</FilthRate.label>
   <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
-  <FilthRate.description>TODO</FilthRate.description>
+  <FilthRate.description>Cât de multă mizerie produce această creatură.\n\nEste mai bine să țineți animalele care produc mizerie în aer liber sau pe așternut de paie unde mizeria lor nu va fi o problemă.</FilthRate.description>
   
   <!-- EN: foraged food amount -->
   <ForagedNutritionPerDay.label>cantitatea de alimente furajate</ForagedNutritionPerDay.label>
@@ -57,9 +57,9 @@
   <ImmunityGainSpeed.description>Viteza cu care acest personaj câștigă imunitate la boli.\n\nDacă este prea lentă, personajul va muri din cauza unei boli înainte de a dezvolta imunitate.</ImmunityGainSpeed.description>
   
   <!-- EN: injury healing factor -->
-  <InjuryHealingFactor.label>TODO</InjuryHealingFactor.label>
+  <InjuryHealingFactor.label>factor de vindecare a rănilor</InjuryHealingFactor.label>
   <!-- EN: The multiplier applied to a person's injury healing rate. -->
-  <InjuryHealingFactor.description>TODO</InjuryHealingFactor.description>
+  <InjuryHealingFactor.description>Multiplicatorul aplicat la rata de vindecare a rănilor unei persoane.</InjuryHealingFactor.description>
   
   <!-- EN: leather amount -->
   <LeatherAmount.label>Cantitatea de piele</LeatherAmount.label>

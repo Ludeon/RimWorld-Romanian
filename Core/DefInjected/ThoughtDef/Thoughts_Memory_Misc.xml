@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: ate without table -->
@@ -48,9 +48,9 @@
   <DefeatedMechCluster.stages.defeated_mech_cluster.description>Sângele bate metalul, mașini blestemate!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
   
   <!-- EN: denied joining -->
-  <DeniedJoining.stages.denied_joining.label>TODO</DeniedJoining.stages.denied_joining.label>
+  <DeniedJoining.stages.denied_joining.label>alăturare refuzată</DeniedJoining.stages.denied_joining.label>
   <!-- EN: We just denied someone's request to join us. I hope they make it. -->
-  <DeniedJoining.stages.denied_joining.description>TODO</DeniedJoining.stages.denied_joining.description>
+  <DeniedJoining.stages.denied_joining.description>Tocmai am refuzat cererea cuiva de a ni se alătura. Sper să reușească.</DeniedJoining.stages.denied_joining.description>
   
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>nu a reușit să salveze {0}</FailedToRescueRelative.stages.failed_to_rescue.label>
@@ -63,9 +63,9 @@
   <FreedFromSlavery.stages.freed_from_slavery.description>Am fost eliberat din sclavie. Sunt atât de recunoscător!</FreedFromSlavery.stages.freed_from_slavery.description>
   
   <!-- EN: bloodlust organ harvested -->
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>TODO</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>organ recoltat de pofticios de sânge</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
   <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>TODO</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>Extragerea cărnii din trupurile lor este atât de sângeroasă și satisfăcătoare.</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>a ucis pe cineva</KilledHumanlikeBloodlust.stages.killed_someone.label>

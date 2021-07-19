@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: affair -->
@@ -92,15 +92,15 @@
   <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>abstinent vs interes chimic</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
   
   <!-- EN: body modder appreciation -->
-  <TranshumanistAppreciation.stages.body_modder_appreciation-0.label>TODO</TranshumanistAppreciation.stages.body_modder_appreciation-0.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-0.label>apreciere modder corp</TranshumanistAppreciation.stages.body_modder_appreciation-0.label>
   <!-- EN: body modder appreciation -->
-  <TranshumanistAppreciation.stages.body_modder_appreciation-1.label>TODO</TranshumanistAppreciation.stages.body_modder_appreciation-1.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-1.label>apreciere modder corp</TranshumanistAppreciation.stages.body_modder_appreciation-1.label>
   <!-- EN: body modder appreciation -->
-  <TranshumanistAppreciation.stages.body_modder_appreciation-2.label>TODO</TranshumanistAppreciation.stages.body_modder_appreciation-2.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-2.label>apreciere modder corp</TranshumanistAppreciation.stages.body_modder_appreciation-2.label>
   <!-- EN: body modder appreciation -->
-  <TranshumanistAppreciation.stages.body_modder_appreciation-3.label>TODO</TranshumanistAppreciation.stages.body_modder_appreciation-3.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-3.label>apreciere modder corp</TranshumanistAppreciation.stages.body_modder_appreciation-3.label>
   <!-- EN: body modder appreciation -->
-  <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>TODO</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>apreciere modder corp</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
   
   <!-- EN: physically unsightly -->
   <Ugly.stages.physically_unsightly.label>fizic inestetic</Ugly.stages.physically_unsightly.label>
@@ -108,9 +108,9 @@
   <Ugly.stages.physically_hideous.label>fizic hidos</Ugly.stages.physically_hideous.label>
   
   <!-- EN: sleeping alone -->
-  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>TODO</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>dormit singur</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
   <!-- EN: I should be sleeping with a lover or spouse. -->
-  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>TODO</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>Ar trebui să dorm cu un iubit sau cu un soț/soție.</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
   
   <!-- EN: woman -->
   <Woman.stages.woman.label>femeie</Woman.stages.woman.label>

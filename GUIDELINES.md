@@ -19,6 +19,7 @@ This non-exhaustive table is for keeping consistent translations of certain word
 |quadrum|
 |go-juice|
 |greatbow|
+|raid|
 
 |EN word|Chosen translation|
 |-|-|
@@ -38,6 +39,7 @@ This non-exhaustive table is for keeping consistent translations of certain word
 |(mentally) broke down|a avut o cădere psihică|
 |mentally broken|afectat mental|
 |lavish (meal)|somptuos|
+|meal|masă|
 |mood|dispoziție|
 |blight|molimă|
 |backstory|biografie|
@@ -68,3 +70,4 @@ This non-exhaustive table is for keeping consistent translations of certain word
 |stealth|furișare|
 |nuzzle|giugiulit|
 |outlaw|proscris|
+|straw matting|așternut de paie|

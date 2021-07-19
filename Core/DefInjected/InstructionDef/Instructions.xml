@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
@@ -95,7 +95,7 @@
   <ChopTrees.text>Veți dori să recoltați niște lemn. Desemnați câțiva copaci care să fie tăiați.\n\nSelectați desemnatorul TAIE LEMN și desemnați 10 copaci care să fie tăiați.\n\n(Sfat pro: Puteți trage un chenar peste copaci pentru a desemna mai mulți deodată).</ChopTrees.text>
   
   <!-- EN: Click GENERATE to generate your world. -->
-  <CreateWorldParams.rejectInputMessage>TODO</CreateWorldParams.rejectInputMessage>
+  <CreateWorldParams.rejectInputMessage>Faceți clic pe GENEREAZĂ pentru a vă genera lumea.</CreateWorldParams.rejectInputMessage>
   <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
   <CreateWorldParams.text>Bine ați venit în RimWorld! Acest tutorial vă va învăța cum să jucați jocul.\n\nPrimul pas este să generați o lume în care să vă jucați.\n\nAceastă pagină configurează modul în care lumea dvs. ar trebui să fie generată.\n\nSetările implicite de aici sunt bune - mergeți mai departe și faceți clic pe GENERARE!</CreateWorldParams.text>
   

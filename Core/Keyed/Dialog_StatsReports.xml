@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- EN: Tool -->
@@ -45,7 +45,7 @@
   <!-- EN: Quality multiplier -->
   <StatsReport_QualityMultiplier>Multiplicator de calitate</StatsReport_QualityMultiplier>
   <!-- EN: Quality offset -->
-  <StatsReport_QualityOffset>TODO</StatsReport_QualityOffset>
+  <StatsReport_QualityOffset>Decalaj de calitate</StatsReport_QualityOffset>
   <!-- EN: Max gain -->
   <StatsReport_MaxGain>Câștig maxim</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
@@ -81,11 +81,11 @@
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
   <!-- EN: Blocked by fences -->
-  <StatsReport_BlockedByFences>TODO</StatsReport_BlockedByFences>
+  <StatsReport_BlockedByFences>Blocat de garduri</StatsReport_BlockedByFences>
   <!-- EN: Roam interval -->
-  <StatsReport_RoamInterval>TODO</StatsReport_RoamInterval>
+  <StatsReport_RoamInterval>Intervalul de hoinărire</StatsReport_RoamInterval>
   <!-- EN: Caravan rideable age -->
-  <StatsReport_CaravanRideableAge>TODO</StatsReport_CaravanRideableAge>
+  <StatsReport_CaravanRideableAge>Vârsta în care se poate călători cu caravana</StatsReport_CaravanRideableAge>
   <!-- EN: Life expectancy -->
   <StatsReport_LifeExpectancy>Speranță de viață</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
@@ -103,7 +103,7 @@
   <!-- EN: Permanently disabled. -->
   <StatsReport_PermanentlyDisabled>Incapacitat permanent</StatsReport_PermanentlyDisabled>
   <!-- EN: {0} -->
-  <StatsReport_Inspiration>TODO</StatsReport_Inspiration>
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
   <!-- EN: Added body parts -->
   <StatsReport_AddedBodyPartsMass>Părți ale corpului adăugate</StatsReport_AddedBodyPartsMass>
   <!-- EN: Material effect multiplier -->
@@ -115,7 +115,7 @@
   <!-- EN: work to uninstall -->
   <StatsReport_WorkToUninstall>muncă pentru dezinstalare</StatsReport_WorkToUninstall>
   <!-- EN: Fence -->
-  <StatsReport_Fence>TODO</StatsReport_Fence>
+  <StatsReport_Fence>Gardul</StatsReport_Fence>
   <!-- EN: Multiplier for growth {0} -->
   <StatsReport_PlantGrowth>multiplicator pentru cultivare {0}</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
@@ -129,9 +129,9 @@
   <!-- EN: Attack -->
   <StatsReport_NonToolAttack>Atac</StatsReport_NonToolAttack>
   <!-- EN: Ideoligion -->
-  <StatsReport_Ideoligion>TODO</StatsReport_Ideoligion>
+  <StatsReport_Ideoligion>Ideoligie</StatsReport_Ideoligion>
   <!-- EN: Multiplier for malnutrition {0} -->
-  <StatsReport_Malnutrition>TODO</StatsReport_Malnutrition>
+  <StatsReport_Malnutrition>Multiplicator pentru malnutriție {0}</StatsReport_Malnutrition>
   
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>Decalaje posibile</StatReport_PossibleOffsets>
@@ -181,7 +181,7 @@
   <!-- EN: The amount of work it takes to uninstall this. -->
   <Stat_Thing_WorkToUninstall_Desc>Cantitatea de muncă necesară pentru a dezinstala acest lucru.</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Whether this building is a type of fence. Fences block these animals -->
-  <Stat_Thing_Fence_Desc>TODO</Stat_Thing_Fence_Desc>
+  <Stat_Thing_Fence_Desc>Dacă această clădire este un tip de gard. Gardurile blochează aceste animale</Stat_Thing_Fence_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
   <Stat_Thing_CreatedAt_Desc>Ce instalații pot fi folosite pentru a produce acest lucru.</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
@@ -191,9 +191,9 @@
   <!-- EN: The attributes of this plant. -->
   <Stat_Thing_Plant_Attributes_Desc>Atributele acestei plante.</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Clothing (for nudity) -->
-  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>TODO</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>Îmbrăcăminte (pentru nuditate)</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
   <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
-  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>TODO</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>Dacă nudiștii vor considera acest obiect ca fiind o piesă de îmbrăcăminte. Dacă nu, nudiștii nu vor fi niciodată deranjați de purtarea acestuia.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
   <Stat_Thing_Apparel_Covers_Desc>Ce părți ale corpului acoperă aceasta.\n\nArma nu protejează părțile corpului pe care nu le acoperă.</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
@@ -225,15 +225,15 @@
   <!-- EN: The average life expectancy of this creature. -->
   <Stat_Race_LifeExpectancy_Desc>Speranța medie de viață a acestei creaturi.</Stat_Race_LifeExpectancy_Desc>
   <!-- EN: Whether this creature is blocked by fences and barricades. -->
-  <Stat_Race_BlockedByFences_Desc>TODO</Stat_Race_BlockedByFences_Desc>
+  <Stat_Race_BlockedByFences_Desc>Dacă această creatură este blocată de garduri și baricade.</Stat_Race_BlockedByFences_Desc>
   <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
-  <Stat_Race_RoamInterval_Desc>TODO</Stat_Race_RoamInterval_Desc>
+  <Stat_Race_RoamInterval_Desc>Cât de des va încerca un animal îmblânzit să se îndepărteze și să iasă de pe hartă.\n\nAnimalele se vor deplasa doar dacă au o cale directă către marginea hărții. Puteți folosi garduri, baricade, ziduri și uși pentru a împiedica acest lucru.\n\nCulegătorii de animale pot lega animalele hoinare cu frânghia și le pot aduce înapoi într-un țarc.</Stat_Race_RoamInterval_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
   <Stat_Thing_Ingestible_Joy_Desc>Valoarea recreativă a ingerării acestui lucru. Un număr mai mare va satisface mai mult nevoia de recreere.</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
   <Stat_Race_BodySize_Desc>Dimensiunea corpului acestei creaturi, în comparație cu cea a unui om adult mediu.</Stat_Race_BodySize_Desc>
   <!-- EN: How close this creature is to adulthood.\n\nGrowth requires nourishment. A hungry animal will grow at a slower rate compared to a well-fed one. -->
-  <Stat_Race_Growth_Desc>TODO</Stat_Race_Growth_Desc>
+  <Stat_Race_Growth_Desc>Cât de aproape este această creatură de vârsta adultă.\n\nGrowth necesită hrană. Un animal înfometat va crește într-un ritm mai lent în comparație cu unul bine hrănit.</Stat_Race_Growth_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
   <Stat_Thing_Weapon_MeleeWarmupTime_Desc>Cât timp trece între momentul în care începe un atac corp la corp cu această armă și momentul în care lovește.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
@@ -341,13 +341,13 @@
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
   <Stat_Thing_Biocoded_Desc>Acest element a fost codificat pentru a accepta doar biosemnătura unui anumit individ.</Stat_Thing_Biocoded_Desc>
   <!-- EN: Required apparel -->
-  <Stat_Pawn_RequiredApparel_Name>TODO</Stat_Pawn_RequiredApparel_Name>
+  <Stat_Pawn_RequiredApparel_Name>Îmbrăcăminte necesară</Stat_Pawn_RequiredApparel_Name>
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
   <Stat_Thing_Drug_Chemical_Desc>Substanța chimică activă din acest.\n\nÎn unele cazuri, aceeași substanță chimică este prezentă în mai multe droguri diferite. Aceste droguri diferite vor satisface aceeași dependență în moduri diferite.</Stat_Thing_Drug_Chemical_Desc>
   <!-- EN: The category this drug belongs to. -->
-  <Stat_Thing_Drug_Category_Desc>TODO</Stat_Thing_Drug_Category_Desc>
+  <Stat_Thing_Drug_Category_Desc>Categoria din care face parte acest medicament.</Stat_Thing_Drug_Category_Desc>
   <!-- EN: The intensity of high gained per dose of this drug. -->
   <Stat_Thing_Drug_HighGainPerDose_Desc>Intensitatea de high obținută per doză a acestui medicament.</Stat_Thing_Drug_HighGainPerDose_Desc>
   <!-- EN: How much this drug's high will decay each day. -->
@@ -382,108 +382,108 @@
   <Stat_Thing_Drug_AddictionCost_Desc>Valoarea de piață a drogurilor care trebuie consumate pe zi pentru a susține o dependență de acest drog fără a intra în sevraj.\n\nAceastă valoare este calculată din nevoia chimică a dependentului pe doză, rata de cădere a nevoii și valoarea de piață a acestui drog.\n\nRețineți că pot exista și alte modalități de a obține aceeași substanță chimică cu costuri diferite.</Stat_Thing_Drug_AddictionCost_Desc>
 
   <!-- EN: Style -->
-  <Stat_Thing_StyleLabel>TODO</Stat_Thing_StyleLabel>
+  <Stat_Thing_StyleLabel>Stil</Stat_Thing_StyleLabel>
   <!-- EN: An object's style determines its appearance. This has no gameplay effect. Styles often form the differing methods of construction used by people of different beliefs and cultures. -->
-  <Stat_Thing_StyleDesc>TODO</Stat_Thing_StyleDesc>
+  <Stat_Thing_StyleDesc>Stilul unui obiect determină aspectul acestuia. Acest lucru nu are niciun efect asupra jocului. Stilurile formează adesea metodele diferite de construcție folosite de oameni cu credințe și culturi diferite.</Stat_Thing_StyleDesc>
 
   <!-- EN: Gestation time -->
-  <Stat_Animal_GestationTime>TODO</Stat_Animal_GestationTime>
+  <Stat_Animal_GestationTime>Timpul de gestație</Stat_Animal_GestationTime>
   <!-- EN: The time this species takes to gestate its offspring or eggs. -->
-  <Stat_Animal_GestationTimeDesc>TODO</Stat_Animal_GestationTimeDesc>
+  <Stat_Animal_GestationTimeDesc>Timpul de care are nevoie această specie pentru a-și gesta puii sau ouăle.</Stat_Animal_GestationTimeDesc>
   <!-- EN: Litter size -->
-  <Stat_Animal_LitterSize>TODO</Stat_Animal_LitterSize>
+  <Stat_Animal_LitterSize>Mărimea puiului</Stat_Animal_LitterSize>
   <!-- EN: The number of offspring this creature creates per litter. If this is a range, any specific litter will have a random number of offspring in this range. -->
-  <Stat_Animal_LitterSizeDesc>TODO</Stat_Animal_LitterSizeDesc>
+  <Stat_Animal_LitterSizeDesc>Numărul de urmași pe care această creatură îi creează la fiecare pui. Dacă acesta este un interval, orice pui specific va avea un număr aleatoriu de descendenți în acest interval.</Stat_Animal_LitterSizeDesc>
   <!-- EN: Adult meat amount -->
-  <Stat_Animal_AdultMeatAmount>TODO</Stat_Animal_AdultMeatAmount>
+  <Stat_Animal_AdultMeatAmount>Cantitatea de carne de adult</Stat_Animal_AdultMeatAmount>
   <!-- EN: The base amount of meat yielded by butchering an adult member of this species. The actual yield is affected by other factors such as damage to the body and butcher skill. -->
-  <Stat_Animal_AdultMeatAmountDesc>TODO</Stat_Animal_AdultMeatAmountDesc>
+  <Stat_Animal_AdultMeatAmountDesc>Cantitatea de bază de carne obținută prin măcelărirea unui membru adult al acestei specii. Producția reală este influențată de alți factori, cum ar fi deteriorarea corpului și îndemânarea măcelarului.</Stat_Animal_AdultMeatAmountDesc>
   <!-- EN: Growth time -->
-  <Stat_Animal_GrowthTime>TODO</Stat_Animal_GrowthTime>
+  <Stat_Animal_GrowthTime>Timpul de creștere</Stat_Animal_GrowthTime>
   <!-- EN: How long it normally takes for this creature to reach adulthood. This time will be longer if the creature starves. -->
-  <Stat_Animal_GrowthTimeDesc>TODO</Stat_Animal_GrowthTimeDesc>
+  <Stat_Animal_GrowthTimeDesc>Cât timp îi ia în mod normal acestei creaturi să ajungă la vârsta adultă. Acest timp va fi mai lung dacă creatura moare de foame.</Stat_Animal_GrowthTimeDesc>
   <!-- EN: Meat per day during growth -->
-  <Stat_Animal_MeatPerDayDuringGrowth>TODO</Stat_Animal_MeatPerDayDuringGrowth>
+  <Stat_Animal_MeatPerDayDuringGrowth>Carne pe zi în timpul creșterii</Stat_Animal_MeatPerDayDuringGrowth>
   <!-- EN: This creature gains this amount of meat for each day it grows, up until it reaches adulthood.\n\nThis value is calculated from the meat amount and growth time. -->
-  <Stat_Animal_MeatPerDayDuringGrowthDesc>TODO</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>Această creatură câștigă această cantitate de carne pentru fiecare zi în care crește, până când ajunge la vârsta adultă.\n\nAceastă valoare este calculată din cantitatea de carne și timpul de creștere.</Stat_Animal_MeatPerDayDuringGrowthDesc>
   <!-- EN: Grass to maintain -->
-  <Stat_Animal_GrassToMaintain>TODO</Stat_Animal_GrassToMaintain>
+  <Stat_Animal_GrassToMaintain>Iarbă de întreținut</Stat_Animal_GrassToMaintain>
   <!-- EN: The typical number of grass plants that this creature needs in order to fulfill its dietary needs. This is based on normal grass at typical growth rates and ignores winter. -->
-  <Stat_Animal_GrassToMaintainDesc>TODO</Stat_Animal_GrassToMaintainDesc>
+  <Stat_Animal_GrassToMaintainDesc>Numărul tipic de plante de iarbă de care această creatură are nevoie pentru a-și satisface nevoile alimentare. Aceasta se bazează pe iarba normală la rate de creștere tipice și ignoră iarna.</Stat_Animal_GrassToMaintainDesc>
   <!-- EN: Egg type -->
-  <Stat_Animal_EggType>TODO</Stat_Animal_EggType>
+  <Stat_Animal_EggType>Tipul de ou</Stat_Animal_EggType>
   <!-- EN: The type of egg this creature lays. -->
-  <Stat_Animal_EggTypeDesc>TODO</Stat_Animal_EggTypeDesc>
+  <Stat_Animal_EggTypeDesc>Tipul de ou pe care îl depune această creatură.</Stat_Animal_EggTypeDesc>
   <!-- EN: Eggs per year -->
-  <Stat_Animal_EggsPerYear>TODO</Stat_Animal_EggsPerYear>
+  <Stat_Animal_EggsPerYear>Ouă pe an</Stat_Animal_EggsPerYear>
   <!-- EN: The number of eggs this creature will lay per year. Some creatures need to be fertilized to lay eggs. Egg laying will be slower if the creature starves. -->
-  <Stat_Animal_EggsPerYearDesc>TODO</Stat_Animal_EggsPerYearDesc>
+  <Stat_Animal_EggsPerYearDesc>Numărul de ouă pe care această creatură le va depune pe an. Unele creaturi trebuie să fie fertilizate pentru a depune ouă. Depunerea ouălor va fi mai lentă dacă creatura moare de foame.</Stat_Animal_EggsPerYearDesc>
   <!-- EN: Egg nutrition -->
-  <Stat_Animal_EggNutrition>TODO</Stat_Animal_EggNutrition>
+  <Stat_Animal_EggNutrition>Nutriția ouălor</Stat_Animal_EggNutrition>
   <!-- EN: The amount of nutrition in a single egg laid by this creature. -->
-  <Stat_Animal_EggNutritionDesc>TODO</Stat_Animal_EggNutritionDesc>
+  <Stat_Animal_EggNutritionDesc>Cantitatea de nutriție dintr-un singur ou depus de această creatură.</Stat_Animal_EggNutritionDesc>
   <!-- EN: Egg nutrition per year -->
-  <Stat_Animal_EggNutritionYearly>TODO</Stat_Animal_EggNutritionYearly>
+  <Stat_Animal_EggNutritionYearly>Nutriția ouălor pe an</Stat_Animal_EggNutritionYearly>
   <!-- EN: The amount of yearly nutrition generated by eggs laid by this creature each year.\n\nThis value is calculated from eggs per year and egg nutrition. -->
-  <Stat_Animal_EggNutritionYearlyDesc>TODO</Stat_Animal_EggNutritionYearlyDesc>
+  <Stat_Animal_EggNutritionYearlyDesc>Cantitatea de nutriție anuală generată de ouăle depuse de această creatură în fiecare an.\n\nAceastă valoare este calculată din ouă pe an și nutriția ouălor.</Stat_Animal_EggNutritionYearlyDesc>
   <!-- EN: Egg market value -->
-  <Stat_Animal_EggMarketValue>TODO</Stat_Animal_EggMarketValue>
+  <Stat_Animal_EggMarketValue>Valoarea de piață a ouălor</Stat_Animal_EggMarketValue>
   <!-- EN: The market value of a single laid egg. -->
-  <Stat_Animal_EggMarketValueDesc>TODO</Stat_Animal_EggMarketValueDesc>
+  <Stat_Animal_EggMarketValueDesc>Valoarea de piață a unui singur ou depus.</Stat_Animal_EggMarketValueDesc>
   <!-- EN: Egg value per year -->
-  <Stat_Animal_EggMarketValueYearly>TODO</Stat_Animal_EggMarketValueYearly>
+  <Stat_Animal_EggMarketValueYearly>Valoarea ouălor pe an</Stat_Animal_EggMarketValueYearly>
   <!-- EN: The total value of eggs normally laid over the course of a year.\n\nThis is calculated from eggs per year and egg market value. -->
-  <Stat_Animal_EggMarketValueYearlyDesc>TODO</Stat_Animal_EggMarketValueYearlyDesc>
+  <Stat_Animal_EggMarketValueYearlyDesc>Valoarea totală a ouălor depuse în mod normal pe parcursul unui an.\n\nSe calculează din ouă pe an și valoarea de piață a ouălor.</Stat_Animal_EggMarketValueYearlyDesc>
   <!-- EN: Milk type -->
-  <Stat_Animal_MilkType>TODO</Stat_Animal_MilkType>
+  <Stat_Animal_MilkType>Tipul de lapte</Stat_Animal_MilkType>
   <!-- EN: The type of milk this creature produces. -->
-  <Stat_Animal_MilkTypeDesc>TODO</Stat_Animal_MilkTypeDesc>
+  <Stat_Animal_MilkTypeDesc>Tipul de lapte pe care îl produce această creatură.</Stat_Animal_MilkTypeDesc>
   <!-- EN: Milk amount -->
-  <Stat_Animal_MilkAmount>TODO</Stat_Animal_MilkAmount>
+  <Stat_Animal_MilkAmount>Cantitatea de lapte</Stat_Animal_MilkAmount>
   <!-- EN: The amount of milk this creature produces each time it is milked. -->
-  <Stat_Animal_MilkAmountDesc>TODO</Stat_Animal_MilkAmountDesc>
+  <Stat_Animal_MilkAmountDesc>Cantitatea de lapte pe care această creatură o produce de fiecare dată când este mulsă.</Stat_Animal_MilkAmountDesc>
   <!-- EN: Milking inteval -->
-  <Stat_Animal_MilkGrowthTime>TODO</Stat_Animal_MilkGrowthTime>
+  <Stat_Animal_MilkGrowthTime>Inteval de muls</Stat_Animal_MilkGrowthTime>
   <!-- EN: The amount of time this creature needs between milkings. -->
-  <Stat_Animal_MilkGrowthTimeDesc>TODO</Stat_Animal_MilkGrowthTimeDesc>
+  <Stat_Animal_MilkGrowthTimeDesc>Cantitatea de timp de care are nevoie această creatură între mulsuri.</Stat_Animal_MilkGrowthTimeDesc>
   <!-- EN: Milk per year -->
-  <Stat_Animal_MilkPerYear>TODO</Stat_Animal_MilkPerYear>
+  <Stat_Animal_MilkPerYear>Lapte pe an</Stat_Animal_MilkPerYear>
   <!-- EN: The amount of milk produced by this animal over the course of a year.\n\nThis is calculated from milk amount and milking interval. -->
-  <Stat_Animal_MilkPerYearDesc>TODO</Stat_Animal_MilkPerYearDesc>
+  <Stat_Animal_MilkPerYearDesc>Cantitatea de lapte produsă de acest animal în decursul unui an.\n\nSe calculează din cantitatea de lapte și intervalul de muls.</Stat_Animal_MilkPerYearDesc>
   <!-- EN: Milk market value -->
-  <Stat_Animal_MilkValue>TODO</Stat_Animal_MilkValue>
+  <Stat_Animal_MilkValue>Valoarea de piață a laptelui</Stat_Animal_MilkValue>
   <!-- EN: The value of one unit of this creature's milk. -->
-  <Stat_Animal_MilkValueDesc>TODO</Stat_Animal_MilkValueDesc>
+  <Stat_Animal_MilkValueDesc>Valoarea unei unități de lapte al acestei creaturi.</Stat_Animal_MilkValueDesc>
   <!-- EN: Milk value per year -->
-  <Stat_Animal_MilkValuePerYear>TODO</Stat_Animal_MilkValuePerYear>
+  <Stat_Animal_MilkValuePerYear>Valoarea laptelui pe an</Stat_Animal_MilkValuePerYear>
   <!-- EN: The market value of one year's worth of milk from this creature, assuming it never goes hungry and is milked instantly at the end of each milk interval.\n\nThis is calculated from milk per year and milk market value. -->
-  <Stat_Animal_MilkValuePerYearDesc>TODO</Stat_Animal_MilkValuePerYearDesc>
+  <Stat_Animal_MilkValuePerYearDesc>Valoarea de piață a unui an de lapte de la această creatură, presupunând că nu-i este niciodată foame și că este mulsă instantaneu la sfârșitul fiecărui interval de lapte.\n\nSe calculează din laptele pe an și valoarea de piață a laptelui.</Stat_Animal_MilkValuePerYearDesc>
   <!-- EN: Wool type -->
-  <Stat_Animal_WoolType>TODO</Stat_Animal_WoolType>
+  <Stat_Animal_WoolType>Tipul de lână</Stat_Animal_WoolType>
   <!-- EN: The type of wool produced by this creature. -->
-  <Stat_Animal_WoolTypeDesc>TODO</Stat_Animal_WoolTypeDesc>
+  <Stat_Animal_WoolTypeDesc>Tipul de lână produs de această creatură.</Stat_Animal_WoolTypeDesc>
   <!-- EN: Wool amount -->
-  <Stat_Animal_WoolAmount>TODO</Stat_Animal_WoolAmount>
+  <Stat_Animal_WoolAmount>Cantitatea de lână</Stat_Animal_WoolAmount>
   <!-- EN: The amount of wool yielded by this creature each time it is shorn. -->
-  <Stat_Animal_WoolAmountDesc>TODO</Stat_Animal_WoolAmountDesc>
+  <Stat_Animal_WoolAmountDesc>Cantitatea de lână produsă de această creatură de fiecare dată când este tunsă.</Stat_Animal_WoolAmountDesc>
   <!-- EN: Wool shearing interval -->
-  <Stat_Animal_WoolGrowthTime>TODO</Stat_Animal_WoolGrowthTime>
+  <Stat_Animal_WoolGrowthTime>Intervalul de tundere a lânii</Stat_Animal_WoolGrowthTime>
   <!-- EN: The time after shearing before this creature can be shorn again. -->
-  <Stat_Animal_WoolGrowthTimeDesc>TODO</Stat_Animal_WoolGrowthTimeDesc>
+  <Stat_Animal_WoolGrowthTimeDesc>Timpul de după tundere până când această creatură poate fi tunsă din nou.</Stat_Animal_WoolGrowthTimeDesc>
   <!-- EN: Wool amount per year -->
-  <Stat_Animal_WoolPerYear>TODO</Stat_Animal_WoolPerYear>
+  <Stat_Animal_WoolPerYear>Cantitatea de lână pe an</Stat_Animal_WoolPerYear>
   <!-- EN: The amount of wool produced by this creature per year.\n\nThis is calculated from wool amount and wool shearing interval. -->
-  <Stat_Animal_WoolPerYearDesc>TODO</Stat_Animal_WoolPerYearDesc>
+  <Stat_Animal_WoolPerYearDesc>Cantitatea de lână produsă de această creatură pe an.\n\nSe calculează din cantitatea de lână și din intervalul de tundere a lânii.</Stat_Animal_WoolPerYearDesc>
   <!-- EN: Wool market value -->
-  <Stat_Animal_WoolValue>TODO</Stat_Animal_WoolValue>
+  <Stat_Animal_WoolValue>Valoarea de piață a lânii</Stat_Animal_WoolValue>
   <!-- EN: The market value of one unit of this creature's wool. -->
-  <Stat_Animal_WoolValueDesc>TODO</Stat_Animal_WoolValueDesc>
+  <Stat_Animal_WoolValueDesc>Valoarea de piață a unei unități de lână a acestei creaturi.</Stat_Animal_WoolValueDesc>
   <!-- EN: Wool value per year -->
-  <Stat_Animal_WoolValuePerYear>TODO</Stat_Animal_WoolValuePerYear>
+  <Stat_Animal_WoolValuePerYear>Valoarea lânii pe an</Stat_Animal_WoolValuePerYear>
   <!-- EN: The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value. -->
-  <Stat_Animal_WoolValuePerYearDesc>TODO</Stat_Animal_WoolValuePerYearDesc>
+  <Stat_Animal_WoolValuePerYearDesc>Valoarea de piață a unei cantități de lână de la această creatură pentru un an.\n\nSe calculează din cantitatea de lână pe an și valoarea de piață a lânii.</Stat_Animal_WoolValuePerYearDesc>
 
   <!-- EN: How much of the total possible study you have performed on this object. -->
-  <Stat_Studiable_Desc>TODO</Stat_Studiable_Desc>
+  <Stat_Studiable_Desc>Cât de mult din totalul studiilor posibile ați efectuat asupra acestui obiect.</Stat_Studiable_Desc>
   
 </LanguageData>

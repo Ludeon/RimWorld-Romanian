@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- Royal Titles -->
@@ -21,7 +21,7 @@
   <!-- EN: Any psycaster apparel -->
   <ApparelRequirementAnyPsycasterApparel>Orice îmbrăcăminte psycaster</ApparelRequirementAnyPsycasterApparel>
   <!-- EN: or any psycaster or prestige apparel -->
-  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>TODO</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>sau orice psycaster sau îmbrăcăminte de prestigiu</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
   <!-- EN: Disallowed work types -->
   <DisabledWorkTypes>Tipuri de muncă nepermise</DisabledWorkTypes>
   <!-- EN: Allowed foods -->
@@ -29,7 +29,7 @@
   <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
   <RoyalTitleRequiredMealsDesc>Un deținător al acestui titlu va mânca doar aceste alimente, cu excepția cazului în care moare de foame sau se află într-o caravană.</RoyalTitleRequiredMealsDesc>
   <!-- EN: Choose who should participate in bestowing ceremony. -->
-  <ChooseParticipantsBestow>TODO</ChooseParticipantsBestow>
+  <ChooseParticipantsBestow>Alegeți cine ar trebui să participe la ceremonia de acordare a distincțiilor.</ChooseParticipantsBestow>
 
   <!-- Royal implants -->
   <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->

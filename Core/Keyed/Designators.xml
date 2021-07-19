@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: Cancel -->
@@ -117,7 +117,7 @@
   <!-- EN: Manage areas... -->
   <ManageAreas>Gestionați zonele...</ManageAreas>
   <!-- EN: Manage auto-slaughter... -->
-  <ManageAutoSlaughter>TODO</ManageAutoSlaughter>
+  <ManageAutoSlaughter>Gestionează măcelul automat...</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
   <DesignatorGrowingZoneDesc>Creează o zonă în care coloniștii vor cultiva o anumită specie de plantă.</DesignatorGrowingZoneDesc>
@@ -174,14 +174,14 @@
   <DesignatorTameDesc>Domesticiți un animal sălbatic</DesignatorTameDesc>
 
   <!-- EN: Release to wild -->
-  <DesignatorReleaseAnimalToWild>TODO</DesignatorReleaseAnimalToWild>
+  <DesignatorReleaseAnimalToWild>Eliberați animalul în sălbăticie</DesignatorReleaseAnimalToWild>
   <!-- EN: Release an animal back into the wild. -->
-  <DesignatorReleaseAnimalToWildDesc>TODO</DesignatorReleaseAnimalToWildDesc>
+  <DesignatorReleaseAnimalToWildDesc>Eliberați un animal în sălbăticie.</DesignatorReleaseAnimalToWildDesc>
 
   <!-- EN: Study -->
-  <DesignatorStudy>TODO</DesignatorStudy>
+  <DesignatorStudy>Studiu</DesignatorStudy>
   <!-- EN: Study this object to learn more about it. -->
-  <DesignatorStudyDesc>TODO</DesignatorStudyDesc>
+  <DesignatorStudyDesc>Studiați acest obiect pentru a afla mai multe despre el.</DesignatorStudyDesc>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->

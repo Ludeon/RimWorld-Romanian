@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- EN: Autosaving -->
@@ -29,7 +29,7 @@
   <!-- EN: {0} and {1} -->
   <ToCommaListAnd>{0} și {1}</ToCommaListAnd>
   <!-- EN: {0} or {1} -->
-  <ToCommaListOr>TODO</ToCommaListOr>
+  <ToCommaListOr>{0} sau {1}</ToCommaListOr>
   
   <!-- General-use words -->
   <!-- EN: Yes -->
@@ -41,7 +41,7 @@
   <!-- EN: Gender -->
   <Gender>Sex</Gender>
   <!-- EN: Sex -->
-  <Sex>TODO</Sex>
+  <Sex>Sex</Sex>
   <!-- EN: min -->
   <min>min</min>
   <!-- EN: max -->
@@ -89,7 +89,7 @@
   <!-- EN: ${0} -->
   <MoneyFormat>{0}€</MoneyFormat>
   <!-- EN: Factors -->
-  <Factors>TODO</Factors>
+  <Factors>Factori</Factors>
 
   <!-- Content generation-->
   
@@ -178,6 +178,6 @@
 
   <!-- Apparel Looks -->
   <!-- EN: variant of -->
-  <VariantOf>TODO</VariantOf>
+  <VariantOf>variantă a</VariantOf>
   
 </LanguageData>

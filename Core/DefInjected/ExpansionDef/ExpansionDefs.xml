@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: Core -->
@@ -7,9 +7,9 @@
   <Core.description>Conținutul de bază al RimWorld.</Core.description>
   
   <!-- EN: Ideology -->
-  <Ideology.label>TODO</Ideology.label>
+  <Ideology.label>Ideologie</Ideology.label>
   <!-- EN: -Characters and factions believe in different religions, ideologies, cults, and philosophies.\n\nMore to be announced soon! -->
-  <Ideology.description>TODO</Ideology.description>
+  <Ideology.description>-Caracterele și facțiunile cred în diferite religii, ideologii, culte și filozofii.\n\nMai multe vor fi anunțate în curând!</Ideology.description>
   
   <!-- EN: Royalty -->
   <Royalty.label>Regalitate</Royalty.label>

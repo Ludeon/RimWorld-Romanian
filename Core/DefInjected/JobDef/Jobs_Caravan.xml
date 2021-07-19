@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: leading TargetA to exit. -->
-  <PrepareCaravan_CollectAnimals.reportString>TODO</PrepareCaravan_CollectAnimals.reportString>
+  <PrepareCaravan_CollectAnimals.reportString>care conduce TargetA la ieșire.</PrepareCaravan_CollectAnimals.reportString>
   
   <!-- EN: leading TargetA to caravan spot. -->
-  <PrepareCaravan_GatherAnimals.reportString>TODO</PrepareCaravan_GatherAnimals.reportString>
+  <PrepareCaravan_GatherAnimals.reportString>conducând TargetA la locul de desfășurare a caravanei.</PrepareCaravan_GatherAnimals.reportString>
   
   <!-- EN: preparing to leave. -->
   <PrepareCaravan_GatherDownedPawns.reportString>pregătindu-se să plece.</PrepareCaravan_GatherDownedPawns.reportString>
@@ -14,6 +14,6 @@
   <PrepareCaravan_GatherItems.reportString>adunând provizii.</PrepareCaravan_GatherItems.reportString>
   
   <!-- EN: taking TargetA back to a pen. -->
-  <ReturnedCaravan_PenAnimals.reportString>TODO</ReturnedCaravan_PenAnimals.reportString>
+  <ReturnedCaravan_PenAnimals.reportString>conducând TargetA înapoi la un pix.</ReturnedCaravan_PenAnimals.reportString>
   
 </LanguageData>

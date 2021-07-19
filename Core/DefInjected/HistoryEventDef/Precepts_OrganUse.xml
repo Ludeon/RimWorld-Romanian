@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: harvested colonist organ -->
-  <HarvestedOrganFromColonist.label>TODO</HarvestedOrganFromColonist.label>
+  <HarvestedOrganFromColonist.label>organ recoltat de la colonist</HarvestedOrganFromColonist.label>
   
   <!-- EN: harvested guest organ -->
-  <HarvestedOrganFromGuest.label>TODO</HarvestedOrganFromGuest.label>
+  <HarvestedOrganFromGuest.label>organ recoltat de la un oaspete</HarvestedOrganFromGuest.label>
   
 </LanguageData>

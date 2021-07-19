@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: architect -->
@@ -7,9 +7,9 @@
   <Architect.description>Comenzi de uz general pentru meniul modului arhitect.</Architect.description>
   
   <!-- EN: debug menu -->
-  <DebugMenu.label>TODO</DebugMenu.label>
+  <DebugMenu.label>meniu de depanare</DebugMenu.label>
   <!-- EN: Controls used in debug menus. Active in development mode only. -->
-  <DebugMenu.description>TODO</DebugMenu.description>
+  <DebugMenu.description>Controale utilizate în meniurile de depanare. Active numai în modul de dezvoltare.</DebugMenu.description>
   
   <!-- EN: developer tools -->
   <Development.label>instrumente de dezvoltare</Development.label>

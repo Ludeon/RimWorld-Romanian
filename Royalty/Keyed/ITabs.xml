@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- Character tab -->
@@ -32,7 +32,7 @@
   <RoyalTitleTooltipRoyalFavorTotal>{0} total</RoyalTitleTooltipRoyalFavorTotal>
 
   <!-- EN: {0} title -->
-  <RecruitmentResistanceRoyalTitleOffset>TODO</RecruitmentResistanceRoyalTitleOffset>
+  <RecruitmentResistanceRoyalTitleOffset>{0} titlu</RecruitmentResistanceRoyalTitleOffset>
   
   <!-- Permits tab -->
   <!-- EN: Permits -->

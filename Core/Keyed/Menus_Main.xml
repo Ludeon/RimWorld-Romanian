@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- Main menu -->
@@ -153,9 +153,9 @@
   <!-- EN: Auto-sort mods -->
   <ResolveModOrder>Sortare automată a mod-urilor</ResolveModOrder>
   <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
-  <ModReorderConflict_MustLoadAfter>TODO</ModReorderConflict_MustLoadAfter>
+  <ModReorderConflict_MustLoadAfter>Nu se poate muta {0}: Trebuie să fie încărcat după {1}.</ModReorderConflict_MustLoadAfter>
   <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
-  <ModReorderConflict_MustLoadBefore>TODO</ModReorderConflict_MustLoadBefore>
+  <ModReorderConflict_MustLoadBefore>Nu se poate muta {0}: Trebuie să fie încărcat înainte de {1}.</ModReorderConflict_MustLoadBefore>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Dezabonare</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
@@ -213,9 +213,9 @@
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>Acest mod a fost făcut pentru o versiune mai nouă de RimWorld decât aceasta și probabil nu va funcționa corect.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion>Modul are nevoie de informații corect formatate despre versiunea susținută în About.xml. Astfel: &lt;supportedVersions>&lt;li>{0}&lt;/li>&lt;/supportedVersions> - &lt;targetVersion> este depreciat. Verificați jurnalul pentru informații suplimentare.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Modul are nevoie de informații corect formatate despre versiunea susținută în About.xml. Astfel: &lt;supportedVersions&gt;&lt;li&gt;{0}&lt;/li&gt;&lt;/supportedVersions&gt; - &lt;targetVersion&gt; este depreciat. Verificați jurnalul pentru informații suplimentare.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>Modul are nevoie de un packageId unic și formatat corespunzător în About.xml. Acesta trebuie să îndeplinească următoarele cerințe:\n\n - Caractere alfanumerice și doar punct.\n - Fără spații.\n - Cel puțin un punct.\n - Fără puncte repetate într-un rând, sau care încep sau se termină cu un punct. \n - 60 de caractere sau mai puțin.\n - Nu poate conține cuvântul "Ludeon".\n\n De exemplu:\n&lt;packageId>AuthorName.ModName&lt;/packageId>\n&lt;packageId>AuthorName.ModName.Specific&lt;/packageId>.</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>Modul are nevoie de un packageId unic și formatat corespunzător în About.xml. Acesta trebuie să îndeplinească următoarele cerințe:\n\n - Caractere alfanumerice și doar punct.\n - Fără spații.\n - Cel puțin un punct.\n - Fără puncte repetate într-un rând, sau care încep sau se termină cu un punct. \n - 60 de caractere sau mai puțin.\n - Nu poate conține cuvântul "Ludeon".\n\n De exemplu:\n&lt;packageId&gt;AuthorName.ModName&lt;/packageId&gt;\n&lt;packageId&gt;AuthorName.ModName.Specific&lt;/packageId&gt;.</MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
   <ModHadLoadFolderIssues>Acest mod are probleme în LoadFolders.xml, pe care trebuie să le rezolvați înainte de a-l încărca:</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
@@ -231,7 +231,7 @@
   <!-- EN: Invalid version order: 'default' should be defined first. -->
   <ModLoadFolderOutOfOrderDefault>Ordinea versiunilor nu este validă: 'default' ar trebui să fie definit primul.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>Utilizarea 'default' în dosarele de încărcare este depășită. Vă rugăm să definiți folderele pentru fiecare versiune folosind etichetele &lt;v...>.</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>Utilizarea 'default' în dosarele de încărcare este depășită. Vă rugăm să definiți folderele pentru fiecare versiune folosind etichetele &lt;v...&gt;.</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
   <ModLoadFolderDefinesUnsupportedGameVersion>Versiunea {0} este definită în dosarele de încărcare, dar nu este listată în "supportedVersions" din About.xml al modului.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
@@ -435,9 +435,9 @@
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
   <Difficulty_AllowMortars_Info>Jucătorul poate construi mortiere.\n\nPuteți folosi mortierele capturate chiar dacă acest lucru este dezactivat.</Difficulty_AllowMortars_Info>
   <!-- EN: Classic mortars -->
-  <Difficulty_ClassicMortars_Label>TODO</Difficulty_ClassicMortars_Label>
+  <Difficulty_ClassicMortars_Label>Mortiere clasice</Difficulty_ClassicMortars_Label>
   <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
-  <Difficulty_ClassicMortars_Info>TODO</Difficulty_ClassicMortars_Info>
+  <Difficulty_ClassicMortars_Info>Mortierele nu vor necesita butoaie întărite pentru a fi construite sau reîncărcate și sunt echilibrate pentru această ușurință de acces.</Difficulty_ClassicMortars_Info>
   
   <!-- EN: Adaptation -->
   <DifficultyAdaptationSection>Adaptare</DifficultyAdaptationSection>
@@ -564,7 +564,7 @@
   <!-- EN: Caused by quest status: {0} -->
   <IncapableOfTooltipQuest>Cauzat de statutul misiunii: {0}</IncapableOfTooltipQuest>
   <!-- EN: Caused by role: {0} -->
-  <IncapableOfTooltipRole>TODO</IncapableOfTooltipRole>
+  <IncapableOfTooltipRole>Cauzat de rolul: {0}</IncapableOfTooltipRole>
   <!-- EN: Traits -->
   <Traits>Trăsături</Traits>
   <!-- EN: Permanent mood effect -->
@@ -584,7 +584,7 @@
   <!-- EN: female -->
   <Female>femeie</Female>
   <!-- EN: male and female -->
-  <MaleAndFemale>TODO</MaleAndFemale>
+  <MaleAndFemale>bărbat și femeie</MaleAndFemale>
   <!-- EN: male -->
   <MaleAnimal>mascul</MaleAnimal>
   <!-- EN: female -->
@@ -602,7 +602,7 @@
   <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Lăsat în urmă</StartingPawnsLeftBehind>
   <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
-  <GuiltyDesc>TODO</GuiltyDesc>
+  <GuiltyDesc>Acest colonist este considerat vinovat. Îl puteți alunga, executa sau aresta liber, iar ceilalți nu vor fi deranjați.\n\nVinovăția expiră în</GuiltyDesc>
   
   <!-- Misc -->
   <!-- EN: Start -->
@@ -645,24 +645,24 @@
 
   <!-- Factions -->
   <!-- EN: Factions -->
-  <Factions>TODO</Factions>
+  <Factions>Facțiuni</Factions>
   <!-- EN: Gameplay problems can occur with more than {0} factions. -->
-  <RecommendedFactionCount>TODO</RecommendedFactionCount>
+  <RecommendedFactionCount>Pot apărea probleme de joc cu mai mult de {0} facțiuni.</RecommendedFactionCount>
   <!-- EN: Maximum {0} visible factions allowed. -->
-  <TotalFactionsAllowed>TODO</TotalFactionsAllowed>
+  <TotalFactionsAllowed>Maximum {0} facțiuni vizibile permise.</TotalFactionsAllowed>
   <!-- EN: There can be no more than {0} {1}. -->
-  <MaxFactionsForType>TODO</MaxFactionsForType>
+  <MaxFactionsForType>Nu pot exista mai mult de {0} {1}.</MaxFactionsForType>
   <!-- EN: Restore defaults -->
-  <ResetFactionsToDefault>TODO</ResetFactionsToDefault>
+  <ResetFactionsToDefault>Restabilește valorile implicite</ResetFactionsToDefault>
   <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
-  <FactionSelectionDesc>TODO</FactionSelectionDesc>
+  <FactionSelectionDesc>Selectați facțiunile din lume. Puteți selecta până la {0} facțiuni în total.</FactionSelectionDesc>
   <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
-  <FactionDisabledContentWarning>TODO</FactionDisabledContentWarning>
+  <FactionDisabledContentWarning>Dezactivarea {0} înseamnă mai puțină varietate de misiuni și alt conținut redus.</FactionDisabledContentWarning>
   <!-- EN: Disabling {0} means less spontaneous threat variety. -->
-  <InsectsDisabledContentWarning>TODO</InsectsDisabledContentWarning>
+  <InsectsDisabledContentWarning>Dezactivarea lui {0} înseamnă mai puțină varietate de amenințări spontane.</InsectsDisabledContentWarning>
   <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
-  <MechanoidsDisabledContentWarning>TODO</MechanoidsDisabledContentWarning>
+  <MechanoidsDisabledContentWarning>Dezactivarea {0} înseamnă mai puțină varietate de misiuni și amenințări spontane.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
-  <FactionsDisabledWarning>TODO</FactionsDisabledWarning>
+  <FactionsDisabledWarning>Fără alte facțiuni, raidurile, comerțul și misiunile nu vor avea loc în mod normal.</FactionsDisabledWarning>
 
 </LanguageData>

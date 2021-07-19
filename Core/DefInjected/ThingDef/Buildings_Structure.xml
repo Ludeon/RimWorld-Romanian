@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: animal flap -->
-  <AnimalFlap.label>TODO</AnimalFlap.label>
+  <AnimalFlap.label>clapetă pentru animale</AnimalFlap.label>
   <!-- EN: A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep. -->
-  <AnimalFlap.description>TODO</AnimalFlap.description>
+  <AnimalFlap.description>O ușă atârnată cu benzi groase suprapuse de țesătură sau de piele. Permite animalelor să treacă, izolând în același timp temperatura. Clapele pentru animale sunt utilizate în mod obișnuit ca uși de hambar pentru a le oferi animalelor ținute în țarc un loc adăpostit pentru a dormi.</AnimalFlap.description>
   
   <!-- EN: autodoor -->
   <Autodoor.label>ușă automată</Autodoor.label>
@@ -22,14 +22,14 @@
   <Door.description>Împarte încăperi. Ușile simple trebuie să fie deschise manual, ceea ce încetinește oamenii. Nivelul de încetinire depinde de materialul din care este făcută ușa.</Door.description>
   
   <!-- EN: fence -->
-  <Fence.label>TODO</Fence.label>
+  <Fence.label>gard</Fence.label>
   <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Fences only block certain kinds of animals. -->
-  <Fence.description>TODO</Fence.description>
+  <Fence.description>Gard format din stâlpi uniți prin bare transversale, folosit pentru construirea de țarcuri pentru anumite tipuri de animale. Gardurile blochează doar anumite tipuri de animale.</Fence.description>
   
   <!-- EN: fence gate -->
-  <FenceGate.label>TODO</FenceGate.label>
+  <FenceGate.label>poartă de gard</FenceGate.label>
   <!-- EN: A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates. -->
-  <FenceGate.description>TODO</FenceGate.description>
+  <FenceGate.description>O poartă simplă făcută din stâlpi și bare transversale. Blochează unele animale ca un gard. Prin aceste porți, îngrijitorii pot conduce animalele în și din țarc.</FenceGate.description>
   
   <!-- EN: wall -->
   <Wall.label>perete</Wall.label>

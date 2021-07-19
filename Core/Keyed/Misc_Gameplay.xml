@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- Various -->
@@ -101,9 +101,9 @@
   <!-- EN: Renounce title -->
   <RenounceTitle>Renunță la titlu</RenounceTitle>
   <!-- EN: Execute -->
-  <Execute>TODO</Execute>
+  <Execute>Execută</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>TODO</ExecuteColonist> <!-- text_doto -->
+  <ExecuteColonist>Executare colonist vinovat\n\nDacă activați această opțiune, un gardian va proceda la executarea acestei persoane.</ExecuteColonist> <!-- text_doto -->
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
   <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
@@ -133,7 +133,7 @@
   <!-- EN: Progress stopped until fertilized -->
   <ProgressStoppedUntilFertilized>Progres oprit până la fertilizare</ProgressStoppedUntilFertilized>
   <!-- EN: Hatches in -->
-  <HatchesIn>TODO</HatchesIn>
+  <HatchesIn>Eclozează în</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
   <SkillTooLow>necesită {0} nivelul {2}, are {1}</SkillTooLow>
   <!-- EN: Freezing -->
@@ -169,7 +169,7 @@
   <!-- EN: enemies -->
   <Enemies>inamici</Enemies>
   <!-- EN: people -->
-  <People>TODO</People>
+  <People>oameni</People>
   <!-- EN: time passed -->
   <TimePassed>timpul trecut</TimePassed>
   <!-- EN: current radius -->
@@ -341,15 +341,15 @@
   <!-- EN: resting -->
   <Carried>în repaus</Carried>
   <!-- EN: Rideable animals / people -->
-  <RideableAnimalsPerPeople>TODO</RideableAnimalsPerPeople>
+  <RideableAnimalsPerPeople>Animale călare / oameni</RideableAnimalsPerPeople>
   <!-- EN: Multiplier from ridden animals -->
-  <MultiplierFromRiddenAnimals>TODO</MultiplierFromRiddenAnimals>
+  <MultiplierFromRiddenAnimals>Multiplicator de la animalele călărețe</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>Multiplicatorul pentru masa transportată: {0}</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
-  <RideableAnimalTip>TODO</RideableAnimalTip>
+  <RideableAnimalTip>Acest animal poate fi călărit. Oamenii dintr-o caravană vor călări cele mai rapide animale disponibile, îmbunătățind viteza caravanei ca întreg.</RideableAnimalTip>
   <!-- EN: This caravan can't move because it carries too much. -->
-  <EncumberedCaravanTilesPerDayTip>TODO</EncumberedCaravanTilesPerDayTip>
+  <EncumberedCaravanTilesPerDayTip>Această caravană nu se poate deplasa pentru că transportă prea mult.</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
   <FinalCaravanPawnsMovementSpeed>Viteza membrilor caravanei</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
@@ -485,35 +485,35 @@
   <!-- EN: Any of -->
   <AnyOf>Orice din</AnyOf>
   <!-- EN: Requires {0} trait -->
-  <TraitRequired>TODO</TraitRequired>
+  <TraitRequired>Necesită o trăsătură {0}</TraitRequired>
   <!-- EN: Goodwill -->
   <Goodwill>Bunăvoință</Goodwill>
   <!-- EN: Natural goodwill -->
-  <NaturalGoodwill>TODO</NaturalGoodwill>
+  <NaturalGoodwill>Bunăvoință naturală</NaturalGoodwill>
   <!-- EN: Natural goodwill range -->
-  <NaturalGoodwillRange>TODO</NaturalGoodwillRange>
+  <NaturalGoodwillRange>Gama de bunăvoință naturală</NaturalGoodwillRange>
   <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
-  <NaturalGoodwillDescription>TODO</NaturalGoodwillDescription>
+  <NaturalGoodwillDescription>Bunăvoința naturală se bazează pe identitățile și credințele facțiunilor. Dacă bunăvoința actuală este departe de bunăvoința naturală, aceasta se va îndrepta încet spre bunăvoința naturală în timp.\n\nToate efectele de bunăvoință sunt înmulțite cu {0} atunci când se îndreaptă spre bunăvoința naturală.</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
   <JobReport_ReduceResistance>reducerea rezistenței lui {0_nameIndef}</JobReport_ReduceResistance>
   <!-- EN: Too large -->
-  <TooLargeForBed>TODO</TooLargeForBed>
+  <TooLargeForBed>Prea mare</TooLargeForBed>
   <!-- EN: Warning -->
-  <Warning>TODO</Warning>
+  <Warning>Avertisment</Warning>
   <!-- EN: Has subquest -->
-  <HasSubquest>TODO</HasSubquest>
+  <HasSubquest>Are submisiune</HasSubquest>
   <!-- EN: Subquest of -->
-  <SubquestOf>TODO</SubquestOf>
+  <SubquestOf>Submisiune a</SubquestOf>
   <!-- EN: Raid -->
-  <Raid>TODO</Raid>
+  <Raid>Raid</Raid>
   <!-- EN: Disabled by -->
-  <ApparelRequirementDisabledLabel>TODO</ApparelRequirementDisabledLabel>
+  <ApparelRequirementDisabledLabel>Dezactivat de</ApparelRequirementDisabledLabel>
   <!-- EN: Nudism -->
-  <Nudism>TODO</Nudism>
+  <Nudism>Nudism</Nudism>
   <!-- EN: Study progress -->
-  <StudyProgress>TODO</StudyProgress>
+  <StudyProgress>Progresul studiului</StudyProgress>
   <!-- EN: completed -->
-  <StudyCompleted>TODO</StudyCompleted>
+  <StudyCompleted>finalizat</StudyCompleted>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -533,7 +533,7 @@
   <!-- EN: Contains {0} / {1} beer. -->
   <ContainsBeer>Conține {0} / {1} bere.</ContainsBeer>
   <!-- EN: Contains -->
-  <Contains>TODO</Contains>
+  <Contains>Conține</Contains>
   <!-- EN: Fermented -->
   <Fermented>Fermentat</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
@@ -603,41 +603,41 @@
 
   <!-- Animal pens -->
   <!-- EN: Unenclosed -->
-  <PenUnenclosedLabel>TODO</PenUnenclosedLabel>
+  <PenUnenclosedLabel>Neînchis</PenUnenclosedLabel>
   <!-- EN: open door -->
-  <PenOpenDoorLabel>TODO</PenOpenDoorLabel>
+  <PenOpenDoorLabel>ușă deschisă</PenOpenDoorLabel>
   <!-- EN: Rename pen -->
-  <RenameAnimalPen>TODO</RenameAnimalPen>
+  <RenameAnimalPen>Redenumește țarcul</RenameAnimalPen>
   <!-- EN: Pen marker {0} -->
-  <AnimalPenMarkerDefaultLabel>TODO</AnimalPenMarkerDefaultLabel>
+  <AnimalPenMarkerDefaultLabel>Marcator țarc {0}</AnimalPenMarkerDefaultLabel>
   <!-- EN: In pen -->
-  <InPen>TODO</InPen>
+  <InPen>În țarc</InPen>
   <!-- EN: not in a pen -->
-  <Unpenned>TODO</Unpenned>
+  <Unpenned>nu e în țarc</Unpenned>
   <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
-  <UnpennedTooltip>TODO</UnpennedTooltip>
+  <UnpennedTooltip>Țarcurile pentru animale pot fi create prin construirea unui marcator în interiorul unei zone închise. Îngrijitorii vor aduce animalele într-un țarc corespunzător. Țarcurile pot fi închise cu garduri, baricade, ziduri și uși.</UnpennedTooltip>
   <!-- EN: Roped by -->
-  <RopedByPawn>TODO</RopedByPawn>
+  <RopedByPawn>legat cu funie de</RopedByPawn>
   <!-- EN: Roped to -->
-  <RopedToThing>TODO</RopedToThing>
+  <RopedToThing>legat cu funie de</RopedToThing>
   <!-- EN: Roped to spot. -->
-  <RopedToSpot>TODO</RopedToSpot>
+  <RopedToSpot>legat cu funie de loc.</RopedToSpot>
   <!-- EN: Pen size -->
-  <PenSizeLabel>TODO</PenSizeLabel>
+  <PenSizeLabel>Dimensiunea țarcului</PenSizeLabel>
   <!-- EN: Very small pen -->
-  <PenSizeDesc_VerySmall>TODO</PenSizeDesc_VerySmall>
+  <PenSizeDesc_VerySmall>Țarc foarte mic</PenSizeDesc_VerySmall>
   <!-- EN: Small pen -->
-  <PenSizeDesc_Small>TODO</PenSizeDesc_Small>
+  <PenSizeDesc_Small>Țarc mic</PenSizeDesc_Small>
   <!-- EN: Medium-sized pen -->
-  <PenSizeDesc_Medium>TODO</PenSizeDesc_Medium>
+  <PenSizeDesc_Medium>Țarc de mărime medie</PenSizeDesc_Medium>
   <!-- EN: Large pen -->
-  <PenSizeDesc_Large>TODO</PenSizeDesc_Large>
+  <PenSizeDesc_Large>Țarc mare</PenSizeDesc_Large>
   <!-- EN: Not enclosed - build fences -->
-  <PenSizeDesc_Unenclosed>TODO</PenSizeDesc_Unenclosed>
+  <PenSizeDesc_Unenclosed>Nu este închis - construiți garduri</PenSizeDesc_Unenclosed>
   <!-- EN: {ANIMALDEF_label} capacity -->
-  <PenCapacityDesc>TODO</PenCapacityDesc>
+  <PenCapacityDesc>capacitate de {ANIMALDEF_label}</PenCapacityDesc>
   <!-- EN: Example animals -->
-  <PenExampleAnimals>TODO</PenExampleAnimals>
+  <PenExampleAnimals>Animale de exemplu</PenExampleAnimals>
 
 
   <!-- Control -->
@@ -694,7 +694,7 @@
   <!-- EN: resting. -->
   <ReportResting>Se odihnește.</ReportResting>
   <!-- EN: laying down. -->
-  <ReportLayingDown>TODO</ReportLayingDown>
+  <ReportLayingDown>stând pe jos.</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
   <WatchingSunrise>urmărește răsăritul soarelui.</WatchingSunrise>
   <!-- EN: cloudwatching. -->
@@ -922,7 +922,7 @@
   <!-- EN: Ingredients -->
   <Ingredients>Ingrediente</Ingredients>
   <!-- EN: only stacks with similar meals -->
-  <OnlyStacksWithCompatibleMeals>TODO</OnlyStacksWithCompatibleMeals>
+  <OnlyStacksWithCompatibleMeals>numai pe grămezi cu mese similare</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
@@ -958,11 +958,11 @@
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>Moare din cauza expunerii la lumină</DyingBecauseExposedToLight>
   <!-- EN: Cut now -->
-  <AutoCutNow>TODO</AutoCutNow>
+  <AutoCutNow>Tăiați acum</AutoCutNow>
   <!-- EN: harvesting -->
-  <HarvestGerund>TODO</HarvestGerund>
+  <HarvestGerund>recoltare</HarvestGerund>
   <!-- EN: cutting -->
-  <CutGerund>TODO</CutGerund>
+  <CutGerund>tăiere</CutGerund>
 
   <!-- Zones -->
   <!-- EN: Zone -->
@@ -1060,7 +1060,7 @@
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>Nu poate fi plasat sub un acoperiș.</MustPlaceUnroofed>
   <!-- EN: Must be placed under thick roof. -->
-  <MustPlaceUnderThickRoof>TODO</MustPlaceUnderThickRoof>
+  <MustPlaceUnderThickRoof>Trebuie să fie plasat sub un acoperiș gros.</MustPlaceUnderThickRoof>
   <!-- EN: Must place with head attached to ship structural beam. -->
   <MustPlaceHeadOnShipBeam>Trebuie plasat alături de bara structurală a navei.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
@@ -1080,7 +1080,7 @@
   <!-- EN: Cannot be placed next to traps. -->
   <CannotPlaceAdjacentTrap>Nu poate fi plasată lângă capcane.</CannotPlaceAdjacentTrap>
   <!-- EN: Cannot be placed next to another building of the same type. -->
-  <CannotPlaceAdjacentSameDef>TODO</CannotPlaceAdjacentSameDef>
+  <CannotPlaceAdjacentSameDef>Nu poate fi plasată lângă o altă clădire de același tip.</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
@@ -1154,7 +1154,7 @@
   <!-- EN: Quality -->
   <Quality>Calitate</Quality>
   <!-- EN: quality -->
-  <quality>TODO</quality>
+  <quality>calitate</quality>
   <!-- EN: An item's quality is how well-made it is. -->
   <QualityDescription>Calitatea înseamnă cât de bine este făcut.</QualityDescription>
   <!-- EN: Quality: {0} -->
@@ -1204,9 +1204,9 @@
   <!-- EN: inactive -->
   <InactiveFacility>inactiv</InactiveFacility>
   <!-- EN: Links to -->
-  <FacilityPotentiallyLinkedTo>TODO</FacilityPotentiallyLinkedTo>
+  <FacilityPotentiallyLinkedTo>Are legătură cu</FacilityPotentiallyLinkedTo>
   <!-- EN: Not linked to a building -->
-  <FacilityNoPotentialLinks>TODO</FacilityNoPotentialLinks>
+  <FacilityNoPotentialLinks>Nu are legătură cu o clădire</FacilityNoPotentialLinks>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
@@ -1457,128 +1457,128 @@
   <HealingRestoreBodyPart>TODO</HealingRestoreBodyPart>
 
   <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
-  <WarningBuildingCausesHostility>TODO</WarningBuildingCausesHostility>
+  <WarningBuildingCausesHostility>Atenție: Amplasarea unei clădiri aici va înfuria {FACTION_name}!</WarningBuildingCausesHostility>
 
   <!-- EN: Choose landing site -->
-  <ChooseLandingSite>TODO</ChooseLandingSite>
+  <ChooseLandingSite>Alegeți locul de aterizare</ChooseLandingSite>
   
   <!-- Rituals -->
   <!-- EN: ritual -->
-  <Ritual>TODO</Ritual>
+  <Ritual>ritual</Ritual>
 
   <!-- EN: Takes place at -->
-  <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
+  <RitualTakesPlaceAt>Are loc la</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
-  <RitualTargetThingDefsInfo>TODO</RitualTargetThingDefsInfo>
+  <RitualTargetThingDefsInfo>Orice {0}</RitualTargetThingDefsInfo>
   <!-- EN: Attending -->
-  <LordReportAttending>TODO</LordReportAttending>
+  <LordReportAttending>Prezent</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
-  <RitualCalledOff>TODO</RitualCalledOff>
+  <RitualCalledOff>{0} a fost anulat.</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
-  <RitualNobodyAttended>TODO</RitualNobodyAttended>
+  <RitualNobodyAttended>{0} nu a fost finalizat din cauza lipsei de prezență.</RitualNobodyAttended>
   <!-- EN: {0} has been completed. -->
-  <RitualFinished>TODO</RitualFinished>
+  <RitualFinished>{0} a fost finalizat.</RitualFinished>
   <!-- EN: ends in {0} -->
-  <RitualEndsIn>TODO</RitualEndsIn>
+  <RitualEndsIn>se termină în {0}</RitualEndsIn>
   <!-- EN: Organizers -->
-  <Organizers>TODO</Organizers>
+  <Organizers>Organizatori</Organizers>
   <!-- EN: Quality factors -->
-  <QualityFactors>TODO</QualityFactors>
+  <QualityFactors>Factori de calitate</QualityFactors>
   <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
-  <QualityFactorTooltipUncertain>TODO</QualityFactorTooltipUncertain>
+  <QualityFactorTooltipUncertain>Această condiție poate fi îndeplinită, în funcție de cum decurg lucrurile.\n\nDacă este îndeplinită, se va aplica bonusul de calitate.</QualityFactorTooltipUncertain>
   <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
-  <QualityFactorTooltipNotFulfilled>TODO</QualityFactorTooltipNotFulfilled>
+  <QualityFactorTooltipNotFulfilled>Această condiție nu este îndeplinită.\n\nBonusul de calitate nu se va aplica.</QualityFactorTooltipNotFulfilled>
   <!-- EN: Spectators -->
-  <Spectators>TODO</Spectators>
+  <Spectators>Spectatori</Spectators>
   <!-- EN: Not participating -->
-  <NotParticipating>TODO</NotParticipating>
+  <NotParticipating>Nu participă</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
-  <DragPawnsToRolesInfo>TODO</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfo>Trageți și plasați sau faceți clic stânga/dreapta pentru a muta oamenii.</DragPawnsToRolesInfo>
   <!-- EN: A slave. The human property of others. -->
-  <RitualBeginSlaveDesc>TODO</RitualBeginSlaveDesc>
+  <RitualBeginSlaveDesc>Un sclav. Proprietatea umană a altora.</RitualBeginSlaveDesc>
   <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
   <RitualBeginSleepingDesc>TODO</RitualBeginSleepingDesc>
   <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
-  <RitualBeginSleepingWarning>TODO</RitualBeginSleepingWarning>
+  <RitualBeginSleepingWarning>Unii dintre participanții selectați dorm. Ei se vor trezi odată ce vei începe ritualul.</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
-  <RitualRoleRequiresSocialRole>TODO</RitualRoleRequiresSocialRole>
+  <RitualRoleRequiresSocialRole>Această poziție este cel mai bine îndeplinită de un colonist care deține rolul social de {0}.\n\nDacă cineva fără acest rol îndeplinește această poziție, nu vei primi următorul bonus(uri)</RitualRoleRequiresSocialRole>
   <!-- EN: No substitute available for the role of {0}. -->
-  <RitualRoleCantSubstitute>TODO</RitualRoleCantSubstitute>
+  <RitualRoleCantSubstitute>Nu există înlocuitor disponibil pentru rolul de {0}.</RitualRoleCantSubstitute>
   <!-- EN: {0} progress -->
-  <RitualOutcomeProgress>TODO</RitualOutcomeProgress>
+  <RitualOutcomeProgress>Progresul {0}</RitualOutcomeProgress>
   <!-- EN: {0} quality depends on -->
-  <RitualOutcomeQualityAbstract>TODO</RitualOutcomeQualityAbstract>
+  <RitualOutcomeQualityAbstract>{0} calitatea depinde de</RitualOutcomeQualityAbstract>
   <!-- EN: {0} total quality was {1}, determined by these factors -->
-  <RitualOutcomeQualitySpecific>TODO</RitualOutcomeQualitySpecific>
+  <RitualOutcomeQualitySpecific>{0} calitatea totală a fost {1}, determinată de acești factori</RitualOutcomeQualitySpecific>
   <!-- EN: Outcome chances at {0} quality -->
-  <RitualOutcomeChances>TODO</RitualOutcomeChances>
+  <RitualOutcomeChances>Șanse de rezultat la o calitate {0}</RitualOutcomeChances>
   <!-- EN: Performed recently -->
-  <RitualOutcomePerformedRecently>TODO</RitualOutcomePerformedRecently>
+  <RitualOutcomePerformedRecently>Efectuat recent</RitualOutcomePerformedRecently>
   <!-- EN: {0} expectations -->
-  <RitualQualityExpectations>TODO</RitualQualityExpectations>
+  <RitualQualityExpectations>{0} așteptări</RitualQualityExpectations>
   <!-- EN: Ritual ambience sound -->
-  <RitualAmbienceSound>TODO</RitualAmbienceSound>
+  <RitualAmbienceSound>Sunet de ambianță rituală</RitualAmbienceSound>
   <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
-  <RitualQualityLowWarning>TODO</RitualQualityLowWarning>
+  <RitualQualityLowWarning>Calitatea totală {0} este sub {1}. Continuarea va avea cel mai probabil un impact negativ asupra coloniei tale.\n\nEști sigur?</RitualQualityLowWarning>
   <!-- EN: No reachable appropriate place to speak. -->
-  <AbilitySpeechDisabledNoSpot>TODO</AbilitySpeechDisabledNoSpot>
+  <AbilitySpeechDisabledNoSpot>Nu există un loc accesibil și adecvat pentru a vorbi.</AbilitySpeechDisabledNoSpot>
   <!-- EN: {0_labelShort} is incapable of talking. -->
-  <AbilitySpeechDisabledCantSpeak>TODO</AbilitySpeechDisabledCantSpeak>
+  <AbilitySpeechDisabledCantSpeak>{0_labelShort} este incapabil să vorbească.</AbilitySpeechDisabledCantSpeak>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
-  <RitualOutcomeExtraDesc_Mood>TODO</RitualOutcomeExtraDesc_Mood>
+  <RitualOutcomeExtraDesc_Mood>Toți cei care participă la ritual câștigă {0} dispoziție pentru {1} zile.</RitualOutcomeExtraDesc_Mood>
   
   <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
-  <ChooseParticipants>TODO</ChooseParticipants>
+  <ChooseParticipants>Alege cine ar trebui să participe la {RITUAL_labelDef}.</ChooseParticipants>
   <!-- EN: Begin -->
-  <Begin>TODO</Begin>
+  <Begin>Începe</Begin>
   <!-- EN: Begin {0} -->
-  <BeginRitual>TODO</BeginRitual>
+  <BeginRitual>Începe {0}</BeginRitual>
   <!-- EN: Begin {0} for {1} -->
-  <BeginRitualFor>TODO</BeginRitualFor>
+  <BeginRitualFor>Începe {0} pentru {1}</BeginRitualFor>
   <!-- EN: {0} (out of {1}) -->
-  <QualityOutOf>TODO</QualityOutOf>
+  <QualityOutOf>{0} (din {1})</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
-  <DateRitualNoObligation>TODO</DateRitualNoObligation>
+  <DateRitualNoObligation>{0} este un ritual specific datei. Îl vei putea începe în {1}, pe {2}.</DateRitualNoObligation>
 
   <!-- EN: Replace with -->
-  <PreceptReplaceWith>TODO</PreceptReplaceWith>
+  <PreceptReplaceWith>Înlocuiește cu</PreceptReplaceWith>
   <!-- EN: Ritual seat of {IDEOS} -->
-  <RitualSeatOf>TODO</RitualSeatOf>
+  <RitualSeatOf>Locul ritualului de {IDEOS}</RitualSeatOf>
   <!-- EN: Expected quality -->
-  <ExpectedRitualQuality>TODO</ExpectedRitualQuality>
+  <ExpectedRitualQuality>Calitatea așteptată</ExpectedRitualQuality>
   <!-- EN: Starting quality -->
-  <StartingQuality>TODO</StartingQuality>
+  <StartingQuality>Calitatea de pornire</StartingQuality>
   <!-- EN: Expected duration -->
-  <ExpectedRitualDuration>TODO</ExpectedRitualDuration>
+  <ExpectedRitualDuration>Durata așteptată</ExpectedRitualDuration>
   
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <RitualPredictedOutcomeDescPawnStat>TODO</RitualPredictedOutcomeDescPawnStat>
+  <RitualPredictedOutcomeDescPawnStat>{PAWN_labelShort} lui {1}</RitualPredictedOutcomeDescPawnStat>
   <!-- EN: Room beauty -->
-  <RitualPredictedOutcomeDescRoomBeauty>TODO</RitualPredictedOutcomeDescRoomBeauty>
+  <RitualPredictedOutcomeDescRoomBeauty>Frumusețea camerei</RitualPredictedOutcomeDescRoomBeauty>
   <!-- EN: Participants -->
-  <RitualPredictedOutcomeDescParticipantCount>TODO</RitualPredictedOutcomeDescParticipantCount>
+  <RitualPredictedOutcomeDescParticipantCount>Participanți</RitualPredictedOutcomeDescParticipantCount>
   <!-- EN: {PAWN_labelShort}'s expectations -->
-  <RitualPredictedOutcomeDescPawnExpectations>TODO</RitualPredictedOutcomeDescPawnExpectations>
+  <RitualPredictedOutcomeDescPawnExpectations>Așteptările lui {PAWN_labelShort}</RitualPredictedOutcomeDescPawnExpectations>
 
   <!-- EN: Any of these -->
-  <RitualOutcomeLabelAnyOfThese>TODO</RitualOutcomeLabelAnyOfThese>
+  <RitualOutcomeLabelAnyOfThese>Oricare dintre acestea</RitualOutcomeLabelAnyOfThese>
   <!-- EN: Replaces {PAWN_labelShort} -->
-  <RitualRoleReplaces>TODO</RitualRoleReplaces>
+  <RitualRoleReplaces>Înlocuiește {PAWN_labelShort}</RitualRoleReplaces>
 
   <!-- EN: present -->
-  <Present>TODO</Present>
+  <Present>prezent</Present>
   <!-- EN: {0} used -->
-  <Used>TODO</Used>
+  <Used>{0} folosit</Used>
   <!-- EN: {0} starting quality -->
-  <StartingRitualQuality>TODO</StartingRitualQuality>
+  <StartingRitualQuality>{0} calitate de pornire</StartingRitualQuality>
 
   <!-- EN: up to {0} quality -->
-  <OutcomeBonusDesc_Quality>TODO</OutcomeBonusDesc_Quality>
+  <OutcomeBonusDesc_Quality>până la {0} calitate</OutcomeBonusDesc_Quality>
   <!-- EN: {0} quality -->
-  <OutcomeBonusDesc_QualitySingleOffset>TODO</OutcomeBonusDesc_QualitySingleOffset>
+  <OutcomeBonusDesc_QualitySingleOffset>{0} calitate</OutcomeBonusDesc_QualitySingleOffset>
   <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
-  <OutcomeLetterLabel>TODO</OutcomeLetterLabel>
+  <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
   <!-- EN: {0} max -->
-  <MaxValue>TODO</MaxValue>
+  <MaxValue>{0} max</MaxValue>
   
 </LanguageData>

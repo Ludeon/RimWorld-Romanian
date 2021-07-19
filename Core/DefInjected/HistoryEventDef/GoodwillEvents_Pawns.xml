@@ -1,43 +1,43 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: attacked member -->
-  <AttackedMember.label>TODO</AttackedMember.label>
+  <AttackedMember.label>membru atacat</AttackedMember.label>
   
   <!-- EN: guilty prisoner died -->
-  <GuiltyPrisonerDied.label>TODO</GuiltyPrisonerDied.label>
+  <GuiltyPrisonerDied.label>prizonier vinovat a murit</GuiltyPrisonerDied.label>
   
   <!-- EN: innocent prisoner died -->
-  <InnocentPrisonerDied.label>TODO</InnocentPrisonerDied.label>
+  <InnocentPrisonerDied.label>Prizonier inocent a murit</InnocentPrisonerDied.label>
   
   <!-- EN: member captured -->
-  <MemberCaptured.label>TODO</MemberCaptured.label>
+  <MemberCaptured.label>membru capturat</MemberCaptured.label>
   
   <!-- EN: member crushed -->
-  <MemberCrushed.label>TODO</MemberCrushed.label>
+  <MemberCrushed.label>membru zdrobit</MemberCrushed.label>
   
   <!-- EN: member exited map healthy -->
-  <MemberExitedMapHealthy.label>TODO</MemberExitedMapHealthy.label>
+  <MemberExitedMapHealthy.label>membru a ieșit din hartă sănătos</MemberExitedMapHealthy.label>
   
   <!-- EN: member killed -->
-  <MemberKilled.label>TODO</MemberKilled.label>
+  <MemberKilled.label>membru ucis</MemberKilled.label>
   
   <!-- EN: member died -->
-  <MemberNeutrallyDied.label>TODO</MemberNeutrallyDied.label>
+  <MemberNeutrallyDied.label>membru mort</MemberNeutrallyDied.label>
   
   <!-- EN: member sold -->
-  <MemberSold.label>TODO</MemberSold.label>
+  <MemberSold.label>membru vândut</MemberSold.label>
   
   <!-- EN: member stripped -->
-  <MemberStripped.label>TODO</MemberStripped.label>
+  <MemberStripped.label>membru dezbrăcat</MemberStripped.label>
   
   <!-- EN: harmful surgery on member -->
-  <PerformedHarmfulSurgery.label>TODO</PerformedHarmfulSurgery.label>
+  <PerformedHarmfulSurgery.label>intervenție chirurgicală dăunătoare asupra membrului</PerformedHarmfulSurgery.label>
   
   <!-- EN: prisoner died -->
-  <PrisonerDied.label>TODO</PrisonerDied.label>
+  <PrisonerDied.label>prizonierul a murit</PrisonerDied.label>
   
   <!-- EN: harmed member -->
-  <UsedHarmfulItem.label>TODO</UsedHarmfulItem.label>
+  <UsedHarmfulItem.label>membru vătămat</UsedHarmfulItem.label>
   
 </LanguageData>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- Royalty and throne -->
@@ -119,14 +119,14 @@
   <!-- EN: {ORGANIZER_labelShort}'s {1} stat -->
   <AbilitySpeechStatInfo>Statistica {1} a lui {ORGANIZER_labelShort}</AbilitySpeechStatInfo>
   <!-- EN: Initiated at -->
-  <AbilitySpeechTargetsLabel>TODO</AbilitySpeechTargetsLabel>
+  <AbilitySpeechTargetsLabel>Inițiat la</AbilitySpeechTargetsLabel>
   <!-- EN: Dignified throne -->
-  <AbilitySpeechTargetDescThrone>TODO</AbilitySpeechTargetDescThrone>
+  <AbilitySpeechTargetDescThrone>Tron demn</AbilitySpeechTargetDescThrone>
   
   <!-- EN: no accessible altar. -->
-  <RitualDisabledNoAltar>TODO</RitualDisabledNoAltar>
+  <RitualDisabledNoAltar>fără altar accesibil.</RitualDisabledNoAltar>
   <!-- EN: Bestowing Ceremony -->
-  <RitualBestowingCeremony>TODO</RitualBestowingCeremony>
+  <RitualBestowingCeremony>Ceremonia de acordare a însemnelor</RitualBestowingCeremony>
 
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
   <TotalMeditationToday>Meditația totală de astăzi: {0} (multiplicator de progres {1})</TotalMeditationToday>
@@ -139,7 +139,7 @@
   <!-- EN: Need {0} psylink focus type -->
   <BeginLinkingRitualNeedFocus>Trebuie tipul de focalizare psylink {0}</BeginLinkingRitualNeedFocus>
   <!-- EN: Max psylink level -->
-  <BeginLinkingRitualMaxPsylinkLevel>TODO</BeginLinkingRitualMaxPsylinkLevel>
+  <BeginLinkingRitualMaxPsylinkLevel>Nivelul maxim al legăturii de tip psylink</BeginLinkingRitualMaxPsylinkLevel>
   <!-- EN: Need a free, reachable spot within 3 cells for linking -->
   <BeginLinkingRitualNeedLinkSpot>Trebuie un loc liber și accesibil în 3 celule pentru a face legătura.</BeginLinkingRitualNeedLinkSpot>
   <!-- EN: Linking ritual completed -->
@@ -147,7 +147,7 @@
   <!-- EN: {PAWN_labelShort} has completed the linking ritual with {LINKABLE_labelShort}.\n\n{PAWN_pronoun} now has an upgraded psylink, permitting the use of new psychic powers. -->
   <LetterTextLinkingRitualCompleted>{PAWN_labelShort} a finalizat ritualul de legare cu {LINKABLE_labelShort}.\n\n{PAWN_pronoun} are acum un psylink îmbunătățit, permițând utilizarea de noi puteri psihice.</LetterTextLinkingRitualCompleted>
   <!-- EN: Additionally, {0} anima grass has been restored. -->
-  <LetterTextLinkingRitualCompletedAnimaGrass>TODO</LetterTextLinkingRitualCompletedAnimaGrass>
+  <LetterTextLinkingRitualCompletedAnimaGrass>În plus, {0} iarba anima a fost restaurată.</LetterTextLinkingRitualCompletedAnimaGrass>
 
   <!-- EN: Land shuttle here -->
   <LandHere>Aterizează naveta aici</LandHere>
@@ -157,27 +157,27 @@
   <!-- EN: Start bestowing ceremony for {0_labelShort} -->
   <BeginCeremony>Ceremonia de acordare</BeginCeremony>
   <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>TODO</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>Throneroom-ul lui {PAWN_definite} nu satisface cerințele titlului de {TITLE}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
   <BestowingCeremonyThroneroomRequirementsNotSatisfied>Emisarul este ofensat de faptul că sala tronului lui {PAWN_definite} nu îndeplinește cerințele titlului de {TITLE}. Ceremonia de acordare a fost anulată.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
   <!-- EN: bestowing ceremony -->
-  <BestowingCeremonyLabel>TODO</BestowingCeremonyLabel>
+  <BestowingCeremonyLabel>ceremonie de acordare</BestowingCeremonyLabel>
   <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
-  <BestowingOutcomeQualitySpecific>TODO</BestowingOutcomeQualitySpecific>
+  <BestowingOutcomeQualitySpecific>Calitatea totală a ceremoniei de acordare a fost {0}, determinată de acești factori</BestowingOutcomeQualitySpecific>
   
   <!-- EN: No colonists that can link with anima tree right now. -->
-  <RitualTargetAnimaTreeNoPawnsToLink>TODO</RitualTargetAnimaTreeNoPawnsToLink>
+  <RitualTargetAnimaTreeNoPawnsToLink>Nu există coloniști care să se poată lega cu arborele de anima în acest moment.</RitualTargetAnimaTreeNoPawnsToLink>
   <!-- EN: No colonists with the natural meditation focus type. -->
-  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>TODO</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>Nu există coloniști cu tipul de focalizare a meditației naturale.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
   <!-- EN: Need at least {0} anima grass. -->
-  <RitualTargetAnimaTreeNotEnoughAnimaGrass>TODO</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>Aveți nevoie de cel puțin {0} iarbă de anima.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
   <!-- EN: An anima tree. -->
-  <RitualTargetAnimaTreeInfo>TODO</RitualTargetAnimaTreeInfo>
+  <RitualTargetAnimaTreeInfo>Un copac de anima.</RitualTargetAnimaTreeInfo>
   <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
-  <RitualTargetAnimaTreeMustBeCapableOfNature>TODO</RitualTargetAnimaTreeMustBeCapableOfNature>
+  <RitualTargetAnimaTreeMustBeCapableOfNature>Trebuie să fie un colonist cu tipul de focalizare a meditației naturale care se află sub nivelul maxim de psylink.</RitualTargetAnimaTreeMustBeCapableOfNature>
 
   <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
-  <AnimaLinkingExplanationBase>TODO</AnimaLinkingExplanationBase>
+  <AnimaLinkingExplanationBase>Ceremonia de legare a anima este mai puternică cu mai mulți participanți. Cu cât participă mai mulți oameni, cu atât mai puțin timp durează ceremonia și cu atât mai multă iarbă de anima va crește.\n\nCu {0} participanți suplimentari, {1} iarbă de anima va fi restaurată la sfârșitul ceremoniei.</AnimaLinkingExplanationBase>
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>Nu toată încărcătura necesară este încă încărcată!</ShuttleRequiredItemsNotSatisfied>
 </LanguageData>

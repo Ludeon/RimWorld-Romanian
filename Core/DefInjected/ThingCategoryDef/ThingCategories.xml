@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: animal products -->
   <AnimalProductRaw.label>produse animale</AnimalProductRaw.label>
   
   <!-- EN: animals -->
-  <Animals.label>TODO</Animals.label>
+  <Animals.label>animale</Animals.label>
   
   <!-- EN: apparel -->
   <Apparel.label>îmbrăcăminte</Apparel.label>
@@ -122,7 +122,7 @@
   <HeadgearNoble.label>articole pentru cap</HeadgearNoble.label>
   
   <!-- EN: inert relics -->
-  <InertRelics.label>TODO</InertRelics.label>
+  <InertRelics.label>relicve inerte</InertRelics.label>
   
   <!-- EN: items -->
   <Items.label>articole</Items.label>
@@ -158,7 +158,7 @@
   <PlantMatter.label>materie vegetală</PlantMatter.label>
   
   <!-- EN: plants -->
-  <Plants.label>TODO</Plants.label>
+  <Plants.label>plante</Plants.label>
   
   <!-- EN: raw resources -->
   <ResourcesRaw.label>resurse brute</ResourcesRaw.label>
@@ -194,6 +194,6 @@
   <WeaponsRanged.label>Arme de distanță</WeaponsRanged.label>
   
   <!-- EN: wools -->
-  <Wools.label>TODO</Wools.label>
+  <Wools.label>lână</Wools.label>
   
 </LanguageData>

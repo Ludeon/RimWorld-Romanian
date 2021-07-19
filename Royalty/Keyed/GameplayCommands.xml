@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- EN: {0_labelShort} is unconscious. -->
@@ -20,7 +20,7 @@
   <!-- EN: Guests will not use their aid permits. -->
   <CommandCallRoyalAidLodger>Oaspeții nu își vor folosi permisele de ajutor.</CommandCallRoyalAidLodger>
   <!-- EN: Slaves cannot use their permits. -->
-  <CommandCallRoyalAidSlave>TODO</CommandCallRoyalAidSlave>
+  <CommandCallRoyalAidSlave>Sclavii nu își pot folosi permisele.</CommandCallRoyalAidSlave>
   <!-- EN: Your relations with {FACTION_name} are hostile. -->
   <CommandCallRoyalAidFactionHostile>Relațiile tale cu {FACTION_name} sunt ostile.</CommandCallRoyalAidFactionHostile>
   <!-- EN: Free -->
@@ -81,13 +81,13 @@
   <ChooseRoyalPermit_Desc>Deschideți ecranul de selectare a permisului și alegeți un nou permis.</ChooseRoyalPermit_Desc>
 
   <!-- EN: Leave bestowing ceremony -->
-  <CommandLeaveBestowingCeremony>TODO</CommandLeaveBestowingCeremony>
+  <CommandLeaveBestowingCeremony>Părăsește ceremonia de acordare a distincțiilor</CommandLeaveBestowingCeremony>
   <!-- EN: Stop participating in the bestowing ceremony. -->
-  <CommandLeaveBestowingCeremonyDesc>TODO</CommandLeaveBestowingCeremonyDesc>
+  <CommandLeaveBestowingCeremonyDesc>Nu mai participați la ceremonia de acordare a distincțiilor.</CommandLeaveBestowingCeremonyDesc>
   <!-- EN: Cancel bestowing ceremony -->
-  <CommandCancelBestowingCeremony>TODO</CommandCancelBestowingCeremony>
+  <CommandCancelBestowingCeremony>Anulează ceremonia de acordare a distincției</CommandCancelBestowingCeremony>
   <!-- EN: End the bestowing ceremony immediately. The bestower will leave, but another opportunity to perform the ceremony will arise soon. -->
-  <CommandCancelBestowingCeremonyDesc>TODO</CommandCancelBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremonyDesc>Încheie imediat ceremonia de acordare a distincțiilor. Cel care a făcut ceremonia de acordare va pleca, dar în curând va apărea o altă ocazie de a o efectua.</CommandCancelBestowingCeremonyDesc>
   <!-- EN: Are you sure you want to cancel bestowing ceremony? -->
-  <CommandCancelBestowingCeremonyConfirm>TODO</CommandCancelBestowingCeremonyConfirm>
+  <CommandCancelBestowingCeremonyConfirm>Sunteți sigur că doriți să anulați ceremonia de acordare a distincției?</CommandCancelBestowingCeremonyConfirm>
 </LanguageData>

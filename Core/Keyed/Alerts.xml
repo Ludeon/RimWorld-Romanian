@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- EN: Click to jump to problem -->
@@ -256,48 +256,48 @@
   <QuestExpiresSoonDesc>Misiunea '{0}' va expira în {1}.</QuestExpiresSoonDesc>
 
   <!-- EN: Animal filth -->
-  <AlertAnimalFilth>TODO</AlertAnimalFilth>
+  <AlertAnimalFilth>Murdărie animală</AlertAnimalFilth>
   <!-- EN: A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0} -->
-  <AlertAnimalFilthDesc>TODO</AlertAnimalFilthDesc>
+  <AlertAnimalFilthDesc>Un animal care produce mizerie se află în interior pe o podea curată.\n\nAnimalele produc o cantitate foarte mare de mizerie atunci când se deplasează pe podele normale. Țineți animalele care produc mizerie în aer liber sau pe așternuturi de paie, unde vor produce mult mai puțină mizerie.\n\nPuteți verifica rata de producție de mizerie a unui animal în statisticile sale, dând click pe butonul "i".\n\nAceste animale reprezintă o problemă:\n{0}</AlertAnimalFilthDesc>
 
   <!-- EN: Pen needed -->
-  <AlertAnimalPenNeeded>TODO</AlertAnimalPenNeeded>
+  <AlertAnimalPenNeeded>Țarc necesar</AlertAnimalPenNeeded>
   <!-- EN: Some of your tame animals are roamers. If not kept in an animal pen, they will wander away. -->
-  <AlertAnimalPenNeededDesc>TODO</AlertAnimalPenNeededDesc>
+  <AlertAnimalPenNeededDesc>Unele dintre animalele dumneavoastră îmblânzite sunt vagabonde. Dacă nu sunt ținute într-un țarc pentru animale, ele se vor rătăci.</AlertAnimalPenNeededDesc>
   <!-- EN: You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type. -->
-  <AlertAnimalPenNeededNoHandlers>TODO</AlertAnimalPenNeededNoHandlers>
+  <AlertAnimalPenNeededNoHandlers>Nu aveți nici un manipulator care să ducă animalele într-un țarc.\nAsignați un colonist la tipul de muncă Manipulare.</AlertAnimalPenNeededNoHandlers>
   <!-- EN: None of your assigned handlers have the required animals skill needed to take the following animals to a pen. -->
-  <AlertAnimalPenNeededLowSkillHandlers>TODO</AlertAnimalPenNeededLowSkillHandlers>
+  <AlertAnimalPenNeededLowSkillHandlers>Niciunul dintre manipulatorii dvs. desemnați nu are abilitatea necesară pentru a duce următoarele animale într-un țarc.</AlertAnimalPenNeededLowSkillHandlers>
   <!-- EN: needs {MINSKILL}, {HANDLER_labelShort} has {BESTSKILL} -->
-  <AlertAnimalPenNeededLowSkillHandlersDetail>TODO</AlertAnimalPenNeededLowSkillHandlersDetail>
+  <AlertAnimalPenNeededLowSkillHandlersDetail>are nevoie de {MINSKILL}, {HANDLER_labelShort} are {BESTSKILL}.</AlertAnimalPenNeededLowSkillHandlersDetail>
   <!-- EN: Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals. -->
-  <AlertAnimalPenNeededDescExplanation>TODO</AlertAnimalPenNeededDescExplanation>
+  <AlertAnimalPenNeededDescExplanation>Creați un țarc pentru animale construind un marcaj în interiorul unei zone împrejmuite, baricadate sau cu ziduri. Selectați marcatorul de țarc pentru a vedea ce animale acceptă și câte poate adăposti țarcurile sale.\n\nÎntrebuințatorii dvs. de animale vor aduce automat animalele în țarcurile care le-au fost atribuite.\n\nUn țarc are nevoie de o ușă sau o poartă pentru a admite animalele.</AlertAnimalPenNeededDescExplanation>
 
   <!-- EN: Pen not enclosed -->
-  <AlertAnimalPenNotEnclosed>TODO</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosed>țarc nu este închis.</AlertAnimalPenNotEnclosed>
   <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
-  <AlertAnimalPenNotEnclosedDesc>TODO</AlertAnimalPenNotEnclosedDesc>
+  <AlertAnimalPenNotEnclosedDesc>Un marcator de țarc pentru animale nu este închis.\n\nÎnchideți țarcurile folosind garduri, baricade, porți, ziduri sau uși pentru a împiedica animalele să se rătăcească afară.\n\nDacă aveți doar marcatori de țarcuri neînchise, îngrijitorii dvs. pot totuși să conducă animalele rătăcitoare înapoi acasă - dar acest lucru trebuie repetat din când în când, când animalele se rătăcesc din nou.</AlertAnimalPenNotEnclosedDesc>
 
   <!-- EN: Animal wandering away -->
-  <AlertAnimalIsRoaming>TODO</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoaming>Animal rătăcit</AlertAnimalIsRoaming>
   <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
-  <AlertAnimalIsRoamingDesc>TODO</AlertAnimalIsRoamingDesc>
+  <AlertAnimalIsRoamingDesc>Unele dintre animalele dumneavoastră îmblânzite sunt hoinare și au început să se rătăcească. Dacă ajung la marginea hărții, ele vor pleca în cele din urmă.\n\nDacă aveți un țarc închis pentru animale, îngrijitorii dvs. pot aduce animalul înapoi. Animalele aflate într-un țarc pentru animale nu vor hoinări.\n\nUrmătoarele animale sunt hoinare:\n\n{0}</AlertAnimalIsRoamingDesc>
 
   <!-- EN: Hungry pen animals -->
-  <AlertPennedAnimalHungry>TODO</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungry>Animalele din țarc înfometate</AlertPennedAnimalHungry>
   <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
-  <AlertPennedAnimalHungryDesc>TODO</AlertPennedAnimalHungryDesc>
+  <AlertPennedAnimalHungryDesc>Unele dintre animalele din țarc sunt flămânde.\n\nSelectați un marcator de țarc și folosiți fila Hrană pentru a vedea mai multe detalii.\n\nAnimalele care mănâncă iarbă pot avea nevoie de un țarc mai mare pentru a avea suficientă iarbă. Alte animale ar putea avea nevoie să fie aprovizionate cu iarbă de fân sau hrană similară folosind o rezervă.\n\nUrmătoarele animale din coteț sunt înfometate:\n\n{0}</AlertPennedAnimalHungryDesc>
 
   <!-- EN: Raids arriving in {0} -->
-  <AlertTimedRaidsArrivingIn>TODO</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingIn>Raidurile sosesc în {0}</AlertTimedRaidsArrivingIn>
   <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
-  <AlertTimedRaidsArrivingInDesc>TODO</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingInDesc>Dușmanii au fost atrași în următoarele locuri și vor începe să sosească în forță în curând.\n\n{0}</AlertTimedRaidsArrivingInDesc>
   <!-- EN: Arriving at {0} in {1} -->
-  <AlertTimedRaidsArrivingAt>TODO</AlertTimedRaidsArrivingAt>
+  <AlertTimedRaidsArrivingAt>Sosesc la {0} în {1}</AlertTimedRaidsArrivingAt>
 
   <!-- EN: Faction will become hostile if you stay -->
-  <FactionWillBecomeHostileIfNotLeavingWithin>TODO</FactionWillBecomeHostileIfNotLeavingWithin>
+  <FactionWillBecomeHostileIfNotLeavingWithin>Facțiunea va deveni ostilă dacă rămâi</FactionWillBecomeHostileIfNotLeavingWithin>
   <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
-  <FactionWillBecomeHostileIfNotLeavingWithinDesc>TODO</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>Aceste facțiuni vor deveni ostile dacă rămâneți mai mult timp în așezarea sau avanpostul lor:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
 </LanguageData>

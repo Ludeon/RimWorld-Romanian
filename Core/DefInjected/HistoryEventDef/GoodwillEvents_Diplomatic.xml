@@ -1,28 +1,28 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: gave gift -->
-  <GaveGift.label>TODO</GaveGift.label>
+  <GaveGift.label>a dat cadou</GaveGift.label>
   
   <!-- EN: peace talks backfired -->
-  <PeaceTalksBackfire.label>TODO</PeaceTalksBackfire.label>
+  <PeaceTalksBackfire.label>negocierile de pace au eșuat</PeaceTalksBackfire.label>
   
   <!-- EN: peace talks disaster -->
-  <PeaceTalksDisaster.label>TODO</PeaceTalksDisaster.label>
+  <PeaceTalksDisaster.label>dezastru în negocierile de pace</PeaceTalksDisaster.label>
   
   <!-- EN: peace talks success -->
-  <PeaceTalksSuccess.label>TODO</PeaceTalksSuccess.label>
+  <PeaceTalksSuccess.label>succes în negocierile de pace</PeaceTalksSuccess.label>
   
   <!-- EN: peace talks triumph -->
-  <PeaceTalksTriumph.label>TODO</PeaceTalksTriumph.label>
+  <PeaceTalksTriumph.label>triumf în discuțiile de pace</PeaceTalksTriumph.label>
   
   <!-- EN: requested military aid -->
-  <RequestedMilitaryAid.label>TODO</RequestedMilitaryAid.label>
+  <RequestedMilitaryAid.label>ajutor militar solicitat</RequestedMilitaryAid.label>
   
   <!-- EN: requested trader -->
-  <RequestedTrader.label>TODO</RequestedTrader.label>
+  <RequestedTrader.label>comerciant solicitat</RequestedTrader.label>
   
   <!-- EN: traded -->
-  <Traded.label>TODO</Traded.label>
+  <Traded.label>tranzacționat</Traded.label>
   
 </LanguageData>

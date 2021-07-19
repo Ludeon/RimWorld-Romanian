@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: cure scaria -->
@@ -11,12 +11,12 @@
   <CureScaria.successfullyRemovedHediffMessage>{0} a vindecat cu succes scaria lui {1}.</CureScaria.successfullyRemovedHediffMessage>
   
   <!-- EN: sterilize -->
-  <Sterilize.label>TODO</Sterilize.label>
+  <Sterilize.label>sterilizează</Sterilize.label>
   <!-- EN: Sterilize a creature so it can no longer reproduce. -->
-  <Sterilize.description>TODO</Sterilize.description>
+  <Sterilize.description>Sterilizează o creatură pentru ca aceasta să nu se mai poată reproduce.</Sterilize.description>
   <!-- EN: sterilizing TargetA. -->
-  <Sterilize.jobString>TODO</Sterilize.jobString>
+  <Sterilize.jobString>sterilizând TargetA.</Sterilize.jobString>
   <!-- EN: {0} has successfully sterilized {1}. -->
-  <Sterilize.successfullyRemovedHediffMessage>TODO</Sterilize.successfullyRemovedHediffMessage>
+  <Sterilize.successfullyRemovedHediffMessage>{0} a sterilizat cu succes {1}.</Sterilize.successfullyRemovedHediffMessage>
   
 </LanguageData>

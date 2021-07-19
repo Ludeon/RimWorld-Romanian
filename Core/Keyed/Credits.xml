@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- EN: A story generator by Tynan Sylvester -->
@@ -26,9 +26,9 @@
   <!-- EN: Community volunteers -->
   <Credits_TitleCommunity>Voluntari ai comunității</Credits_TitleCommunity>
   <!-- EN: Community testers -->
-  <Credits_TitleTester>TODO</Credits_TitleTester>
+  <Credits_TitleTester>Testeri ai comunității</Credits_TitleTester>
   <!-- EN: Mods -->
-  <Credits_TitleMods>TODO</Credits_TitleMods>
+  <Credits_TitleMods>Mod-uri</Credits_TitleMods>
   <!-- EN: Mod donor -->
   <Credit_ModDonation>Donator de moduri</Credit_ModDonation>
   <!-- EN: Writing donor -->
@@ -38,7 +38,7 @@
   <!-- EN: Wiki master -->
   <Credit_WikiMaster>Maistru al wikiului</Credit_WikiMaster>
   <!-- EN: Test lead -->
-  <Credit_TestLead>TODO</Credit_TestLead>
+  <Credit_TestLead>Lider de test</Credit_TestLead>
 
   <!-- EN: {0} language -->
   <Credits_TitleLanguage>limba {0}</Credits_TitleLanguage>

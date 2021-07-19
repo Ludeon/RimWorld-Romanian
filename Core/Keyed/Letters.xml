@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- Misc -->
@@ -41,7 +41,7 @@
   <!-- EN: Neutral -->
   <Neutral>Neutru</Neutral>
   <!-- EN: neutral -->
-  <NeutralLower>TODO</NeutralLower>
+  <NeutralLower>neutru</NeutralLower>
   <!-- EN: Death -->
   <Death>Moarte</Death>
 
@@ -458,9 +458,9 @@
 
   <!-- Quest items added to caravan inventory -->
   <!-- EN: {CARAVAN_label} received items -->
-  <LetterLabelQuestItemsAddedToCaravanInventory>TODO</LetterLabelQuestItemsAddedToCaravanInventory>
+  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label} a primit obiecte</LetterLabelQuestItemsAddedToCaravanInventory>
   <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
-  <LetterQuestItemsAddedToCaravanInventory>TODO</LetterQuestItemsAddedToCaravanInventory>
+  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label} a primit următoarele obiecte:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->

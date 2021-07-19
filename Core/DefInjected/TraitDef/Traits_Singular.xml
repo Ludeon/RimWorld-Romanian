@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: abrasive -->
@@ -154,7 +154,7 @@
   <Tough.degreeDatas.tough.description>{PAWN_gender ? [PAWN_nameDef] are o piele groasă, o carne densă și oase durabile. El primește mult mai puține daune decât alți oameni din aceleași lovituri. El este extrem de greu de ucis. : [PAWN_nameDef] are o piele groasă, o carne densă și oase durabile. Ea primește mult mai puține daune decât alți oameni din aceleași lovituri. Ea este extrem de greu de ucis. }\n</Tough.degreeDatas.tough.description>
   
   <!-- EN: body modder -->
-  <Transhumanist.degreeDatas.body_modder.label>TODO</Transhumanist.degreeDatas.body_modder.label>
+  <Transhumanist.degreeDatas.body_modder.label>modder de corp</Transhumanist.degreeDatas.body_modder.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
   <Transhumanist.degreeDatas.body_modder.description>TODO</Transhumanist.degreeDatas.body_modder.description>
   

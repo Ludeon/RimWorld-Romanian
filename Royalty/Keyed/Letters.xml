@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- Royal titles -->
@@ -172,16 +172,16 @@
   <LetterTextBestowingCeremonyExpired>{TARGET_definite} nu s-a prezentat la ceremonia de acordare a distincțiilor. Ceremonia a fost anulată.</LetterTextBestowingCeremonyExpired>
 
   <!-- EN: {TARGET_definite}'s title changed -->
-  <LetterLabelBestowingCeremonyTitleUpdated>TODO</LetterLabelBestowingCeremonyTitleUpdated>
+  <LetterLabelBestowingCeremonyTitleUpdated>Titlul lui {TARGET_definite} a fost schimbat.</LetterLabelBestowingCeremonyTitleUpdated>
   <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
-  <LetterTextBestowingCeremonyTitleUpdated>TODO</LetterTextBestowingCeremonyTitleUpdated>
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} a dobândit un nou titlu de când a fost programată ceremonia de acordare a distincțiilor. Pentru ca ceremonia de acordare să se potrivească cu noul titlu, o altă ceremonie va fi programată în curând.\n\nNÎn noua ceremonie de acordare va include recompensele psylink pentru toate titlurile care nu au fost încă acordate.</LetterTextBestowingCeremonyTitleUpdated>
   
   <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
-  <LetterPartBestowingExtraHonor>TODO</LetterPartBestowingExtraHonor>
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort} a primit {1} onoare în semn de respect din partea {FACTION_name}, pentru că a adunat {3} spectatori.</LetterPartBestowingExtraHonor>
   <!-- EN: {PAWN_labelShort} received no extra honor since there weren't many spectators. -->
-  <LetterPartNoExtraHonor>TODO</LetterPartNoExtraHonor>
+  <LetterPartNoExtraHonor>{PAWN_labelShort} nu a primit nicio onoare în plus, deoarece nu au fost mulți spectatori.</LetterPartNoExtraHonor>
   <!-- EN: All viewers of the ceremony received a mood bonus. -->
-  <LetterPartMoodBonus>TODO</LetterPartMoodBonus>
+  <LetterPartMoodBonus>Toți spectatorii ceremoniei au primit un bonus de dispoziție.</LetterPartMoodBonus>
 
   <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
   <LetterTextHonorAward_BanditCamp>Cine ar trebui să fie creditat cu {0} pentru că a învins tabăra de bandiți?</LetterTextHonorAward_BanditCamp>

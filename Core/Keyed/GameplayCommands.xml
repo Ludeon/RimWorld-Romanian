@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- Forbid -->
@@ -44,7 +44,7 @@
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>{1_labelShort} nu poate merge.</IsIncapped>
   <!-- EN: {0_labelShort} is participating in {1}. -->
-  <ParticipatingInRitual>TODO</ParticipatingInRitual>
+  <ParticipatingInRitual>{0_labelShort} participă la {1}.</ParticipatingInRitual>
 
   <!-- EN: Fire at will -->
   <CommandFireAtWillLabel>Trage în voie</CommandFireAtWillLabel>
@@ -101,7 +101,7 @@
   <!-- EN: Are you sure you want to do this? -->
   <AreYouSure>Ești sigur că vrei să faci asta?</AreYouSure>
   <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <ChangingOwnerTypeBedWarning>TODO</ChangingOwnerTypeBedWarning>
+  <ChangingOwnerTypeBedWarning>Schimbarea utilizării patului afectează întreaga cameră (deoarece prizonierii, sclavii și coloniștii nu pot dormi în aceeași cameră).\n\nAceste persoane vor pierde proprietatea paturilor lor:</ChangingOwnerTypeBedWarning>
 
 
   <!-- EN: Detonate -->
@@ -142,9 +142,9 @@
   <CommandAllowSowDesc>Când este dezactivat, coloniștii nu vor semăna niciodată plante în această zonă. Ei vor recolta în continuare.</CommandAllowSowDesc>
 
   <!-- EN: Allow cutting -->
-  <CommandAllowCut>TODO</CommandAllowCut>
+  <CommandAllowCut>Permiteți tăierea</CommandAllowCut>
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest. -->
-  <CommandAllowCutDesc>TODO</CommandAllowCutDesc>
+  <CommandAllowCutDesc>Când este dezactivat, coloniștii nu vor tăia niciodată plantele din această zonă. Ei vor semăna în continuare plante noi în spațiile care sunt deja goale și vor recolta.</CommandAllowCutDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
@@ -550,7 +550,7 @@
   <!-- EN: Drop {0_nameDef} -->
   <CommandDropPawn>TODO</CommandDropPawn>
   <!-- EN: Drop the person being carried. -->
-  <CommandDropPawnDesc>TODO</CommandDropPawnDesc>
+  <CommandDropPawnDesc>Aruncă persoana care este transportată.</CommandDropPawnDesc>
   
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
@@ -560,21 +560,21 @@
 
   <!-- Build X -->
   <!-- EN: Build {0} -->
-  <BuildThing>TODO</BuildThing>
+  <BuildThing>Construiește {0}</BuildThing>
 
   <!-- Rituals -->
   <!-- EN: Leave {RITUAL_label} -->
-  <CommandLeaveRitual>TODO</CommandLeaveRitual>
+  <CommandLeaveRitual>Părăsește {RITUAL_label}</CommandLeaveRitual>
   <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
-  <CommandLeaveRitualDesc>TODO</CommandLeaveRitualDesc>
+  <CommandLeaveRitualDesc>Încetează să mai participi la {RITUAL_labelDef}. Ritualul va continua atâta timp cât are cel puțin un participant.</CommandLeaveRitualDesc>
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
-  <CommandLeaveLastParticipant>TODO</CommandLeaveLastParticipant>
+  <CommandLeaveLastParticipant>Acesta este ultimul participant la {RITUAL_labelDef}.</CommandLeaveLastParticipant>
 
   <!-- EN: Cancel {RITUAL_label} -->
-  <CommandCancelRitual>TODO</CommandCancelRitual>
+  <CommandCancelRitual>Anulează {RITUAL_label}</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
-  <CommandCancelRitualDesc>TODO</CommandCancelRitualDesc>
+  <CommandCancelRitualDesc>Încheie imediat {RITUAL_labelDef}. Obligația ritualului va rămâne. Puteți relua ritualul mai târziu.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
-  <CommandCancelRitualConfirm>TODO</CommandCancelRitualConfirm>
+  <CommandCancelRitualConfirm>Sunteți sigur că doriți să anulați {RITUAL_labelDef}?</CommandCancelRitualConfirm>
   
 </LanguageData>

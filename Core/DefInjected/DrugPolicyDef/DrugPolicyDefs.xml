@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: no drugs -->
-  <NoDrugs.label>TODO</NoDrugs.label>
+  <NoDrugs.label>fără droguri</NoDrugs.label>
   
   <!-- EN: one drink per day -->
-  <OneDrinkPerDay.label>TODO</OneDrinkPerDay.label>
+  <OneDrinkPerDay.label>o băutură pe zi</OneDrinkPerDay.label>
   
   <!-- EN: social drugs -->
-  <SocialDrugs.label>TODO</SocialDrugs.label>
+  <SocialDrugs.label>droguri sociale</SocialDrugs.label>
   
   <!-- EN: unrestricted -->
-  <Unrestricted.label>TODO</Unrestricted.label>
+  <Unrestricted.label>fără restricții</Unrestricted.label>
   
 </LanguageData>

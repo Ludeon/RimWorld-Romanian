@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: ancient cryptosleep casket -->
@@ -22,9 +22,9 @@
   <CryptosleepCasket.description>Un sarcofag autoalimentat conceput pentru a menține o persoană într-o stare de animație suspendată timp de mulți ani.</CryptosleepCasket.description>
   
   <!-- EN: egg box -->
-  <EggBox.label>TODO</EggBox.label>
+  <EggBox.label>cutie de ouă</EggBox.label>
   <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
-  <EggBox.description>TODO</EggBox.description>
+  <EggBox.description>O cutie cu material moale făcută pentru a ține ouă. Animalele ouătoare depun ouăle în cutii de ouă, dacă pot. Transportatorii dumneavoastră vor scoate toate ouăle doar atunci când cutia este plină, pentru a economisi timp. Cutia protejează, de asemenea, ouăle de deteriorarea în aer liber, deși nu protejează împotriva deteriorării de temperatură.</EggBox.description>
   
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>bombă cu spumă ignifugă</FirefoamPopper.label>
@@ -74,9 +74,9 @@
   <PartySpot.description>Desemnează un loc pentru organizarea de petreceri.</PartySpot.description>
   
   <!-- EN: pen marker -->
-  <PenMarker.label>TODO</PenMarker.label>
+  <PenMarker.label>marcator țarc</PenMarker.label>
   <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
-  <PenMarker.description>TODO</PenMarker.description>
+  <PenMarker.description>Un stâlp cu un semn care desemnează un țarc pentru animale. Acesta trebuie amplasat într-o zonă delimitată de garduri, baricade, ziduri și uși. Puteți atribui fiecărui pen marker un set de animale care să fie acceptate, iar îngrijitorii vor aduce animalele la un penar corespunzător.</PenMarker.description>
   
   <!-- EN: pod launcher -->
   <PodLauncher.label>pod launcher</PodLauncher.label>

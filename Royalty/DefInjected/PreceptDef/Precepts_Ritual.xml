@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: anima tree linking -->
-  <AnimaTreeLinking.label>TODO</AnimaTreeLinking.label>
+  <AnimaTreeLinking.label>legătură cu arborele de anima</AnimaTreeLinking.label>
   <!-- EN: One person will link with an anima tree. The linker will meditate in front of anima tree, forming a psychic link. Others gather in a circle to watch and add psychic strength to the ritual. -->
-  <AnimaTreeLinking.description>TODO</AnimaTreeLinking.description>
+  <AnimaTreeLinking.description>O persoană se va lega cu un arbore de anima. Persoana care face legătura va medita în fața copacului anima, formând o legătură psihică. Ceilalți se adună în cerc pentru a privi și a adăuga putere psihică la ritual.</AnimaTreeLinking.description>
   
   <!-- EN: throne speech -->
-  <ThroneSpeech.label>TODO</ThroneSpeech.label>
+  <ThroneSpeech.label>discursul tronului</ThroneSpeech.label>
   <!-- EN: Initiate a speech from the throne. {ORGANIZER_labelShort} will go to {ORGANIZER_possessive} throne and call all colonists to listen to a speech there. If all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <ThroneSpeech.description>TODO</ThroneSpeech.description>
+  <ThroneSpeech.description>Inițiați un discurs de pe tron. {ORGANIZER_labelShort} va merge la tronul {ORGANIZER_possessive} și îi va chema pe toți coloniștii să asculte un discurs acolo. Dacă totul merge bine, ascultătorii se vor simți inspirați și vor câștiga respect pentru {ORGANIZER_labelShort}. Dacă totul merge prost, discursul va aduce daune sociale. Rezultatul depinde de abilitățile sociale ale lui {ORGANIZER_labelShort}.</ThroneSpeech.description>
   
 </LanguageData>

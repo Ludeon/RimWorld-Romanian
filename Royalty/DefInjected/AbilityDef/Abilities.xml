@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: anima tree linking -->
-  <AnimaTreeLinking.label>TODO</AnimaTreeLinking.label>
+  <AnimaTreeLinking.label>legătură cu arborele anima</AnimaTreeLinking.label>
   <!-- EN: Start the anima tree linking ceremony. The linking person will meditate near the tree to gain a psylink level. Other psychically-sensitive colonists can also  help enhance the psychic link. More participants will accelerate the ceremony and cause some of the anima grass to re-grow as the ritual completes. -->
-  <AnimaTreeLinking.description>TODO</AnimaTreeLinking.description>
+  <AnimaTreeLinking.description>Începe ceremonia de legare a arborelui de anima. Persoana care face legătura va medita lângă copac pentru a obține un nivel de psylink. Alți coloniști sensibili psihic pot ajuta, de asemenea, la îmbunătățirea legăturii psihice. Mai mulți participanți vor accelera ceremonia și vor face ca o parte din iarba anima să crească din nou pe măsură ce ritualul se finalizează.</AnimaTreeLinking.description>
   
   <!-- EN: beckon -->
   <Beckon.label>atracție țintă</Beckon.label>

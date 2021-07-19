@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: executed colonist -->
-  <ExecutedColonist.label>TODO</ExecutedColonist.label>
+  <ExecutedColonist.label>colonist executat</ExecutedColonist.label>
   
   <!-- EN: executed guest -->
-  <ExecutedGuest.label>TODO</ExecutedGuest.label>
+  <ExecutedGuest.label>oaspete executat</ExecutedGuest.label>
   
   <!-- EN: executed prisoner -->
-  <ExecutedPrisoner.label>TODO</ExecutedPrisoner.label>
+  <ExecutedPrisoner.label>prizonier executat</ExecutedPrisoner.label>
   
   <!-- EN: executed guilty prisoner -->
-  <ExecutedPrisonerGuilty.label>TODO</ExecutedPrisonerGuilty.label>
+  <ExecutedPrisonerGuilty.label>prizonier executat vinovat</ExecutedPrisonerGuilty.label>
   
   <!-- EN: executed innocent prisoner -->
-  <ExecutedPrisonerInnocent.label>TODO</ExecutedPrisonerInnocent.label>
+  <ExecutedPrisonerInnocent.label>prizonier nevinovat executat</ExecutedPrisonerInnocent.label>
   
 </LanguageData>
