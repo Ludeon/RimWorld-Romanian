@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
 
   <!-- EN: Mad {ANIMAL_labelShort} -->
@@ -41,9 +41,9 @@
   <RefugeePodCrash_NonHostile>{PAWN_nameDef} este din {PAWN_factionName}. Dacă salvezi {PAWN_objective}, {PAWN_pronoun} se poate alătura liber. În caz contrar, {PAWN_pronoun} se va întoarce acasă și va răspândi bunăvoința între facțiunile voastre.\n\nDe asemenea, îl puteți captura pe {PAWN_objective} în scopul recrutării sau al sclaviei, dar acest lucru va înfuria facțiunea {PAWN_possessive}.</RefugeePodCrash_NonHostile>
 
   <!-- EN: Wanderer joins: {PAWN_nameDef} -->
-  <LetterLabelWandererJoins>TODO</LetterLabelWandererJoins>
+  <LetterLabelWandererJoins>Rătăcitor se alătură: {PAWN_nameDef}</LetterLabelWandererJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and wants to join the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily, claiming to have nowhere else to go. You can choose to turn {PAWN_objective} down and send {PAWN_objective} away. However, your colonists will be disturbed at sending someone away in need. -->
-  <LetterWandererJoins>TODO</LetterWandererJoins>
+  <LetterWandererJoins>Un {PAWN_title} numit {PAWN_nameDef} a sosit și dorește să se alăture coloniei.\n\n[PAWN_pronoun] este dispus să contribuie, dar nu va pleca de bună voie, susținând că nu are unde să se ducă. Puteți alege să îl refuzați pe {PAWN_objective} și să îl trimiteți pe {PAWN_objective} departe. Cu toate acestea, coloniștii tăi vor fi deranjați de faptul că vor trimite departe pe cineva în nevoie.</LetterWandererJoins>
 
   <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>Capsule de marfă</LetterLabelCargoPodCrash>

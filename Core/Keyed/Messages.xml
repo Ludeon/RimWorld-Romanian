@@ -156,7 +156,7 @@
   <MessageMedicalOperationWillAngerFaction>Această operație îl va înfuria pe {0}.</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {PAWN_nameDef} is pregnant! -->
-  <MessageAnimalIsPregnant>TODO</MessageAnimalIsPregnant>
+  <MessageAnimalIsPregnant>{PAWN_nameDef} este însărcinată!</MessageAnimalIsPregnant>
   <!-- EN: {0} has miscarried due to starvation. -->
   <MessageMiscarriedStarvation>{0} a pierdut sarcina din cauza foametei.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
@@ -182,7 +182,7 @@
   <MessageAttackedByPredator>{PREY_labelShort} este atacat de {PREDATOR}!</MessageAttackedByPredator>
 
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
-  <MessageRoamerLeaving>TODO</MessageRoamerLeaving>
+  <MessageRoamerLeaving>{PAWN_labelShort} a început să rătăcească! {PAWN_pronoun} va părăsi harta dacă un îngrijitor de animale nu îl va lega pe {PAWN_objective} înapoi la un țarc.</MessageRoamerLeaving>
 
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>Un stup de insecte s-a reprodus.</MessageHiveReproduced>
@@ -637,12 +637,12 @@
   <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} este un prizonier</MessagePrisonerCannotEquipWeapon>
 
   <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
-  <MessageIdeoOpposedWorkTypeSelected>TODO</MessageIdeoOpposedWorkTypeSelected>
+  <MessageIdeoOpposedWorkTypeSelected>Atenție! Credințele lui {0_nameDef} se opun lucrării {1}. {0_pronoun} poate deveni nefericit.</MessageIdeoOpposedWorkTypeSelected>
 
   <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
-  <MessageBedLostAssignment>TODO</MessageBedLostAssignment>
+  <MessageBedLostAssignment>{0} nu mai este atribuit lui {1_nameDef}.</MessageBedLostAssignment>
   <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
-  <MessageBedDestroyed>TODO</MessageBedDestroyed>
+  <MessageBedDestroyed>{0} atribuit lui {1_nameDef} a fost distrus.</MessageBedDestroyed>
 
   <!-- Rituals -->
   <!-- EN: spectate -->

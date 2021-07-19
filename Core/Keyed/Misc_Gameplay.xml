@@ -105,7 +105,7 @@
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
   <ExecuteColonist>Executare colonist vinovat\n\nDacă activați această opțiune, un gardian va proceda la executarea acestei persoane.</ExecuteColonist> <!-- text_doto -->
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
-  <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
+  <MessageColonistMarkedForExecution>{0_labelShort} este acum marcat pentru execuție. Următorul gardian disponibil va merge să execute {0_objective}.</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} din {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
@@ -650,7 +650,7 @@
   <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>{1_labelShort} nu este recrutat.</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
-  <ApparelPreventsShooting>TODO</ApparelPreventsShooting>
+  <ApparelPreventsShooting>{PAWN_nameDef} nu poate folosi arme de distanță din cauza  {APPAREL_label} {PAWN_possessive}.</ApparelPreventsShooting>
 
   <!-- Snow -->
   <!-- EN: No snow -->
@@ -1452,9 +1452,9 @@
   
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was cured. -->
-  <HealingCureHediff>TODO</HealingCureHediff>
+  <HealingCureHediff>{1} lui {0_nameDef} a fost vindecat.</HealingCureHediff>
   <!-- EN: {0_nameDef}'s {1} was restored. -->
-  <HealingRestoreBodyPart>TODO</HealingRestoreBodyPart>
+  <HealingRestoreBodyPart>{1} lui {0_nameDef} a fost restaurat.</HealingRestoreBodyPart>
 
   <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
   <WarningBuildingCausesHostility>Atenție: Amplasarea unei clădiri aici va înfuria {FACTION_name}!</WarningBuildingCausesHostility>
@@ -1497,7 +1497,7 @@
   <!-- EN: A slave. The human property of others. -->
   <RitualBeginSlaveDesc>Un sclav. Proprietatea umană a altora.</RitualBeginSlaveDesc>
   <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
-  <RitualBeginSleepingDesc>TODO</RitualBeginSleepingDesc>
+  <RitualBeginSleepingDesc>{0_labelShort} doarme. Dacă este inclus în ritual, {0_pronume} se va trezi pentru a participa.</RitualBeginSleepingDesc>
   <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
   <RitualBeginSleepingWarning>Unii dintre participanții selectați dorm. Ei se vor trezi odată ce vei începe ritualul.</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->

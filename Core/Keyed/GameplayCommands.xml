@@ -548,7 +548,7 @@
 
   <!-- Carry -->
   <!-- EN: Drop {0_nameDef} -->
-  <CommandDropPawn>TODO</CommandDropPawn>
+  <CommandDropPawn>Aruncă {0_nameDef}</CommandDropPawn>
   <!-- EN: Drop the person being carried. -->
   <CommandDropPawnDesc>Aruncă persoana care este transportată.</CommandDropPawnDesc>
   

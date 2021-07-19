@@ -156,7 +156,7 @@
   <!-- EN: body modder -->
   <Transhumanist.degreeDatas.body_modder.label>modder de corp</Transhumanist.degreeDatas.body_modder.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
-  <Transhumanist.degreeDatas.body_modder.description>TODO</Transhumanist.degreeDatas.body_modder.description>
+  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} se simte limitat în slabul {PAWN_possessive} corp uman. {PAWN_pronoun} visează la îmbunătățirea cu părți artificiale ale corpului.</Transhumanist.degreeDatas.body_modder.description>
   
   <!-- EN: undergrounder -->
   <Undergrounder.degreeDatas.undergrounder.label>subteranofil</Undergrounder.degreeDatas.undergrounder.label>
