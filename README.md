@@ -15,4 +15,4 @@ There's still a bit of untranslated text. Check [this tracking issue](https://gi
 Current translators:
  - nomius10
 
-Before contributing, please check [guidelines.md](./GUIDELINES.md)
+For a table of translation choices, as well as some guidelines, check [the wiki page](https://github.com/Ludeon/RimWorld-Romanian/wiki)
