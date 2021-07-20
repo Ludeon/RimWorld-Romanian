@@ -9,7 +9,14 @@
     <li>endingCommon(helpersCount==0)->\n\n[pawnKindsParagraph]\n\nIf you accept, the [enemyFaction_pawnsPlural] will arrive in [firstRaidDelayTicks_duration].</li>
     <li>endingCommon(helpersCount>=1)->\n\n[pawnKindsParagraph][helpersParagraph]If you accept, the [enemyFaction_pawnsPlural] will arrive in [firstRaidDelayTicks_duration].</li>
   -->
-  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>TODO</ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameFull], [asker_faction_leaderTitle] din [asker_faction_name], vrea să te ajute să salvezi una dintre caravanele [asker_possessive]. Caravana este vânată în apropiere de [map_definite] de către (*Threat)[numGroupsOf] [enemyFaction_pawnsPlural](/Threat) de la [enemyFaction_name]. [asker_nameDef] vrea să dai un semnal pentru a-i atrage pe [enemyFaction_pawnsPlural] să se îndepărteze de caravană - și să vină spre tine.[endingCommon].</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameFull], un [asker_royalTitleInCurrentFaction] al [asker_faction_name], îți face o cerere.\n\n(*Threat)[groupsOf](/Threat) de la [enemyFaction_name] au hărțuit caravanele [asker_possessive] din zonă. [asker_nameDef] vă roagă să le trimiteți un mesaj de provocare, atrăgându-i să atace și eliminând voi înșivă amenințarea.[endingCommon].</li>
+    <li>groupsOf(raidCount==1,priority=1)->[enemyFaction_pawnsPlural]</li>
+    <li>groupsOf->[numGroupsOf] de [enemyFaction_pawnsPlural]</li>
+    <li>endingCommon(helpersCount==0)->\n\n[pawnKindsParagraph]\n\nDacă acceptați, [enemyFaction_pawnsPlural] va sosi în [firstRaidDelayTelayTicks_duration].</li>
+    <li>endingCommon(helpersCount>=1)->\n\n[pawnKindsParagraph][helpersParagraph]Dacă acceptați, [enemyFaction_pawnsPlural] va sosi în [firstRaidDelayTelayTicks_duration].</li>
+  </ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[enemyFaction_pawnsPlural] of Fortune</li>
     <li>questName->[violence] of Fortune</li>
@@ -32,6 +39,26 @@
     <li>violence->Hostility</li>
     <li>violence->Warfare</li>
   -->
-  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>TODO</ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+    <li>questName->[enemyFaction_pawnsPlural] of Fortune</li>
+    <li>questName->[violence] de Avere</li>
+    <li>questName->[violence] de Angajat</li>
+    <li>questName->[violence] pentru Profit</li>
+    <li>questName->[violence] contra Recompensă</li>
+    <li>questName->[violence] Plătită</li>
+    <li>questName->[violence] Compensată</li>
+    <li>questName(reward==royalFavor)->[enemyFaction_pawnsPlural] pentru Favor</li>
+    <li>questName(reward==royalFavor)->[violence] pentru Favor</li>
+    <li>violence->Violență</li>
+    <li>violence->Bătălie</li>
+    <li>violence->Luptă</li>
+    <li>violence->Război</li>
+    <li>violence->Bătaie</li>
+    <li>violence->Vărsare de sânge</li>
+    <li>violence->Atac</li>
+    <li>violence->Apărare</li>
+    <li>violence->Conflict</li>
+    <li>violence->Ostilitate</li>
+  </ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
   
 </LanguageData>
