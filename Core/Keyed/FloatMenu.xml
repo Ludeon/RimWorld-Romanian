@@ -454,7 +454,7 @@
   <!-- EN: Cancel all designations -->
   <RemoveAllDesignations>Anulează toate desemnările</RemoveAllDesignations>
   <!-- EN: Designate all -->
-  <DesignateAll>Desemnarea tuturor</DesignateAll>
+  <DesignateAll>Desemnează pe toate</DesignateAll>
   <!-- EN: {0} affected -->
   <CountToDesignate>{0} afectat</CountToDesignate>
   <!-- EN: Forbid all items -->
@@ -464,13 +464,13 @@
 
   <!-- Transport pods -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->
-  <LandInExistingMap>Mărește vederea și alege un loc de aterizare în {0}</LandInExistingMap>
+  <LandInExistingMap>Mărește vederea cu Zoom In și alege un loc de aterizare în {0}</LandInExistingMap>
   <!-- EN: The contents will be lost -->
   <TransportPodsContentsWillBeLost>Conținutul va fi pierdut</TransportPodsContentsWillBeLost>
   <!-- EN: Form caravan here -->
   <FormCaravanHere>Formați caravana aici</FormCaravanHere>
   <!-- EN: Give to {0} -->
-  <GiveToCaravan>Dăruiește la {0}</GiveToCaravan>
+  <GiveToCaravan>Oferă un cadou pentru {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
   <GiveGiftViaTransportPods>Oferă în dar lui {0} ({1})</GiveGiftViaTransportPods>
   <!-- EN: Not part of launch group -->

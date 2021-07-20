@@ -44,7 +44,7 @@
   <!-- EN: EMP bursts instantly break personal shields. -->
   <GameplayTips.EMPDisablesPersonalShields>Rafalele EMP distrug instantaneu scuturile personale.</GameplayTips.EMPDisablesPersonalShields>
   <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
-  <GameplayTips.HunterStealth>Statistica furișare a vânătorului reduce șansele de atac ale animalelor. Ea este afectată de aptitudinile vânătorului în materie de animale și de tragere.</GameplayTips.HunterStealth>
+  <GameplayTips.HunterStealth>Statistica de furișare a vânătorului reduce șansele de atac ale animalelor. Ea este afectată de aptitudinile vânătorului în materie de animale și de tragere.</GameplayTips.HunterStealth>
   <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
   <GameplayTips.AnimalsAttackCloseRange>Animalele sunt mai predispuse să atace atunci când sunt rănite de la mică distanță. Armele cu rază lungă de acțiune și cu tragere lentă sunt cele mai sigure pentru vânătoare.</GameplayTips.AnimalsAttackCloseRange>
   <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
@@ -74,13 +74,13 @@
   <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
   <GameplayTips.MakeCaravanRunBeforeDefeat>Dacă nu te poți apăra împotriva unei amenințări, faceți o caravană și fugiți. S-ar putea să vă pierdeți casa, dar povestea voastră poate continua.</GameplayTips.MakeCaravanRunBeforeDefeat>
   <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
-  <GameplayTips.StoneDoors>Evitați să folosiți pietre pentru uși. Acestea se deschid foarte încet, ceea ce face ca coloniștii tăi să piardă timp.</GameplayTips.StoneDoors>
+  <GameplayTips.StoneDoors>Evitați să folosiți uși făcute din blocuri de piatră. Acestea se deschid foarte încet, ceea ce face ca coloniștii tăi să piardă timp.</GameplayTips.StoneDoors>
   <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
   <GameplayTips.ChairsWorkbench>Puneți scaune în fața băncilor de lucru pentru ca muncitorii să poată sta confortabil în timp ce lucrează.</GameplayTips.ChairsWorkbench>
   <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
   <GameplayTips.MechanicalBreakdown>Structurile mecanice se strică și necesită componente de înlocuire. Nu construiți lucruri de care nu aveți nevoie.</GameplayTips.MechanicalBreakdown>
   <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
-  <GameplayTips.CarefulConstructionOnBridges>Aveți grijă ce construiți pe poduri. Podurile se prăbușesc ușor sub efectul exploziilor, iar clădirile tale se vor duce cu ele.</GameplayTips.CarefulConstructionOnBridges>
+  <GameplayTips.CarefulConstructionOnBridges>Aveți grijă ce construiți pe poduri. Podurile se prăbușesc ușor sub efectul exploziilor, iar clădirile tale se vor duce odată cu ele.</GameplayTips.CarefulConstructionOnBridges>
   <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
   <GameplayTips.CleanRooms>Camerele curate cresc viteza de cercetare, îmbunătățesc rezultatele medicale și reduc intoxicațiile alimentare. Gresia sterilă conferă camerelor un plus de curățenie.</GameplayTips.CleanRooms>
   <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
