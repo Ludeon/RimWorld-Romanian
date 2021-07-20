@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <BackstoryTranslations>
   
   <AbandonedChild23>
@@ -277,8 +277,7 @@
     <titleShort>fermier</titleShort>
     <titleShortFemale>fermieră</titleShortFemale>
     <!-- EN: [PAWN_nameDef] raised a variety of animals to provide meat, milk, eggs, and leather. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a crescut o varietate de animale pentru a obține carne, lapte, ouă și piele. : [PAWN_nameDef] a crescut o varietate de animale pentru a obține carne, lapte, ouă și piele.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a crescut o varietate de animale pentru a obține carne, lapte, ouă și piele. : [PAWN_nameDef] a crescut o varietate de animale pentru a obține carne, lapte, ouă și piele.}\n</desc>
   </AnimalFarmer21>
   
   <AnimalLabTech39>
@@ -389,8 +388,7 @@
     <!-- EN: Commander -->
     <titleShort>comandant</titleShort>
     <!-- EN: Unquenchable ambition propelled [PAWN_nameDef] to the highest levels of military command.\n\n[PAWN_pronoun] satisfied [PAWN_objective]self with the power to order death and pain upon [PAWN_possessive] enemies - and upon [PAWN_possessive] own soldiers. -->
-    <desc>{PAWN_gender ? Ambiția nestăvilită l-a propulsat pe [PAWN_nameDef] la cele mai înalte niveluri de comandă militară.\n\nSe mulțumea cu puterea de a ordona moartea și durerea asupra dușmanilor săi - și asupra propriilor săi soldați. : Ambiția nestăvilită a propulsat-o pe [PAWN_nameDef] la cele mai înalte niveluri de comandă militară.\n\nEa se mulțumea cu puterea de a ordona moartea și durerea asupra dușmanilor ei - și asupra propriilor ei soldați.}
-</desc>
+    <desc>{PAWN_gender ? Ambiția nestăvilită l-a propulsat pe [PAWN_nameDef] la cele mai înalte niveluri de comandă militară.\n\nSe mulțumea cu puterea de a ordona moartea și durerea asupra dușmanilor săi - și asupra propriilor săi soldați. : Ambiția nestăvilită a propulsat-o pe [PAWN_nameDef] la cele mai înalte niveluri de comandă militară.\n\nEa se mulțumea cu puterea de a ordona moartea și durerea asupra dușmanilor ei - și asupra propriilor ei soldați.}\n</desc>
   </ArmyCommander14>
   
   <ArmyCook0>
@@ -1063,8 +1061,7 @@
     <!-- EN: butcher -->
     <titleShort>măcelar</titleShort>
     <!-- EN: [PAWN_nameDef]'s main job in the hunting party was the butchering of animals. [PAWN_pronoun] became a master with the knife, able to extract every bit of value from a carcass in a short time. -->
-    <desc>{PAWN_gender ? Principala sarcină a lui [PAWN_nameDef] în cadrul grupului de vânătoare era măcelărirea animalelor. A devenit un maestru cu cuțitul, capabil să extragă fiecare bucățică de valoare dintr-o carcasă într-un timp scurt. : Principala sarcină a lui [PAWN_nameDef] în grupul de vânătoare era măcelărirea animalelor. Ea a devenit o maestră cu cuțitul, capabilă să extragă fiecare bucățică de valoare dintr-o carcasă într-un timp scurt.}
-</desc>
+    <desc>{PAWN_gender ? Principala sarcină a lui [PAWN_nameDef] în cadrul grupului de vânătoare era măcelărirea animalelor. A devenit un maestru cu cuțitul, capabil să extragă fiecare bucățică de valoare dintr-o carcasă într-un timp scurt. : Principala sarcină a lui [PAWN_nameDef] în grupul de vânătoare era măcelărirea animalelor. Ea a devenit o maestră cu cuțitul, capabilă să extragă fiecare bucățică de valoare dintr-o carcasă într-un timp scurt.}\n</desc>
   </Butcher40>
   
   <Cadet96>
@@ -1082,8 +1079,7 @@
     <!-- EN: marshal -->
     <titleShort>mareșal</titleShort>
     <!-- EN: They say that the Caesics soldiers are recruited from the dead. Rising through such ranks, most return whence they came. [PAWN_nameDef] dominated because of [PAWN_possessive] strategic genius, machine-like focus, and tolerance for suffering - both [PAWN_objective] own and that of others. -->
-    <desc>{PAWN_gender ? Se spune că soldații lui Caesics sunt recrutați dintre cei morți. Urcând prin astfel de rânduri, majoritatea se întorc de unde au venit. [PAWN_nameDef] a dominat datorită geniului său strategic, concentrării ca o mașinărie și toleranței față de suferință - atât a lui, cât și a celorlalți. : Se spune că soldații lui Caesics sunt recrutați dintre cei morți. Urcând prin astfel de rânduri, cei mai mulți se întorc de unde au venit. [PAWN_nameDef] a dominat datorită geniului ei strategic, concentrării ca o mașină și toleranței față de suferință - atât a ei, cât și a celorlalți.}
-</desc>
+    <desc>{PAWN_gender ? Se spune că soldații lui Caesics sunt recrutați dintre cei morți. Urcând prin astfel de rânduri, majoritatea se întorc de unde au venit. [PAWN_nameDef] a dominat datorită geniului său strategic, concentrării ca o mașinărie și toleranței față de suferință - atât a lui, cât și a celorlalți. : Se spune că soldații lui Caesics sunt recrutați dintre cei morți. Urcând prin astfel de rânduri, cei mai mulți se întorc de unde au venit. [PAWN_nameDef] a dominat datorită geniului ei strategic, concentrării ca o mașină și toleranței față de suferință - atât a ei, cât și a celorlalți.}\n</desc>
   </CaesicMarshal72>
   
   <CaravanChild53>
@@ -1125,8 +1121,7 @@
     <titleShort>numărător</titleShort>
     <titleShortFemale>numărătoare</titleShortFemale>
     <!-- EN: In the urbworld underlevels, the strong kids learn to fight, the smart kids learn to cheat, and the other kids die. [PAWN_nameDef] was one of the smart kids. -->
-    <desc>{PAWN_gender ? În subteranele lumii urbane, copiii puternici învață să lupte, copiii deștepți învață să trișeze, iar ceilalți copii mor. [PAWN_nameDef] era unul dintre copiii deștepți. : În subteranele urbworld, copiii puternici învață să lupte, copiii deștepți învață să trișeze, iar ceilalți copii mor. [PAWN_nameDef] a fost unul dintre copiii deștepți.}
-</desc>
+    <desc>{PAWN_gender ? În subteranele lumii urbane, copiii puternici învață să lupte, copiii deștepți învață să trișeze, iar ceilalți copii mor. [PAWN_nameDef] era unul dintre copiii deștepți. : În subteranele urbworld, copiii puternici învață să lupte, copiii deștepți învață să trișeze, iar ceilalți copii mor. [PAWN_nameDef] a fost unul dintre copiii deștepți.}\n</desc>
   </CardCounter25>
   
   <CargoPilot58>
@@ -1197,8 +1192,7 @@
     <titleShort>constructor</titleShort>
     <titleShortFemale>constructoare</titleShortFemale>
     <!-- EN: [PAWN_nameDef] specialized in cave complex excavation and construction. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] era specializat în excavarea și construcția de complexe de peșteri. : [PAWN_nameDef] era specializată în excavarea și construcția de complexe de peșteri.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] era specializat în excavarea și construcția de complexe de peșteri. : [PAWN_nameDef] era specializată în excavarea și construcția de complexe de peșteri.}\n</desc>
   </CaveBuilder81>
   
   <CaveChild17>
@@ -1227,8 +1221,7 @@
     <titleShort>explorator</titleShort>
     <titleShortFemale>exploratoare</titleShortFemale>
     <!-- EN: [PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible crevices in search of valuable minerals. [PAWN_possessive] work was very dangerous, but the pay was good. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] își câștiga existența cartografiind tuneluri întunecate și crăpături aproape inaccesibile în căutare de minerale valoroase. munca lui era foarte periculoasă, dar era bine plătită. : [PAWN_nameDef] își câștiga existența cartografiind tuneluri întunecate și crăpături aproape inaccesibile în căutare de minerale valoroase. Munca ei era foarte periculoasă, dar era bine plătită.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] își câștiga existența cartografiind tuneluri întunecate și crăpături aproape inaccesibile în căutare de minerale valoroase. munca lui era foarte periculoasă, dar era bine plătită. : [PAWN_nameDef] își câștiga existența cartografiind tuneluri întunecate și crăpături aproape inaccesibile în căutare de minerale valoroase. Munca ei era foarte periculoasă, dar era bine plătită.}\n</desc>
   </CaveExplorer45>
   
   <CaveworldIlluminator95>
@@ -1733,8 +1726,7 @@
     <!-- EN: contract miner -->
     <titleShort>miner contractant</titleShort>
     <!-- EN: [PAWN_nameDef] moved from job to job, extracting minerals and ancient valuables in tunnels and strip-mines. The work was tough and dirty, but [PAWN_pronoun] found it rewarding. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a trecut de la o slujbă la alta, extrăgând minerale și obiecte de valoare străvechi în tuneluri și mine de striptease. Munca era dură și murdară, dar el o găsea plină de satisfacții. : [PAWN_nameDef] s-a mutat de la o slujbă la alta, extrăgând minerale și obiecte de valoare străvechi în tuneluri și mine de striptease. Munca era dură și murdară, dar ea a găsit-o plină de satisfacții.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a trecut de la o slujbă la alta, extrăgând minerale și obiecte de valoare străvechi în tuneluri și mine de striptease. Munca era dură și murdară, dar el o găsea plină de satisfacții. : [PAWN_nameDef] s-a mutat de la o slujbă la alta, extrăgând minerale și obiecte de valoare străvechi în tuneluri și mine de striptease. Munca era dură și murdară, dar ea a găsit-o plină de satisfacții.}\n</desc>
   </ContractMiner86>
   
   <ConventChild16>
@@ -2138,8 +2130,7 @@
     <titleShort>Șef</titleShort>
     <titleShortFemale>Șefă</titleShortFemale>
     <!-- EN: Seeking to satiate an unconscious thirst for power, [PAWN_nameDef] entered government. [PAWN_pronoun] rose through the ranks by ruining the careers of those around [PAWN_objective].\n\nOnce established, [PAWN_possessive] bureaucratic fief allowed him to get away with severe moral transgressions. -->
-    <desc>{PAWN_gender ? Căutând să-și satisfacă o sete inconștientă de putere, [PAWN_nameDef] a intrat în guvern. A urcat în ierarhie ruinând carierele celor din jurul său.Odată stabilit, fieful său birocratic i-a permis să scape de gravele fărădelegi morale. : Căutând să-și satisfacă o sete inconștientă de putere, [PAWN_nameDef] a intrat în guvern. A urcat în grad ruinând carierele celor din jurul ei. odată stabilită, fieful ei birocratic i-a permis să scape de grave transgresiuni morale.}
-</desc>
+    <desc>{PAWN_gender ? Căutând să-și satisfacă o sete inconștientă de putere, [PAWN_nameDef] a intrat în guvern. A urcat în ierarhie ruinând carierele celor din jurul său.Odată stabilit, fieful său birocratic i-a permis să scape de gravele fărădelegi morale. : Căutând să-și satisfacă o sete inconștientă de putere, [PAWN_nameDef] a intrat în guvern. A urcat în grad ruinând carierele celor din jurul ei. odată stabilită, fieful ei birocratic i-a permis să scape de grave transgresiuni morale.}\n</desc>
   </DepartmentHead61>
   
   <Deserter65>
@@ -2179,8 +2170,7 @@
     <titleShort>săpător</titleShort>
     <titleShortFemale>săpătoare</titleShortFemale>
     <!-- EN: [PAWN_nameDef] labored in mines and caves, digging out spaces for storing items and hiding from threats. [PAWN_possessive] work provided hiding spots for [PAWN_possessive] friends on many occasions. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a muncit în mine și peșteri, săpând spații pentru a depozita obiecte și pentru a se ascunde de amenințări. munca sa a oferit de multe ori ascunzători pentru prietenii săi. : [PAWN_nameDef] a muncit în mine și peșteri, săpând spații pentru depozitarea obiectelor și ascunzându-se de amenințări. Munca ei a oferit ascunzători pentru prietenii ei în multe ocazii.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a muncit în mine și peșteri, săpând spații pentru a depozita obiecte și pentru a se ascunde de amenințări. munca sa a oferit de multe ori ascunzători pentru prietenii săi. : [PAWN_nameDef] a muncit în mine și peșteri, săpând spații pentru depozitarea obiectelor și ascunzându-se de amenințări. Munca ei a oferit ascunzători pentru prietenii ei în multe ocazii.}\n</desc>
   </Digger31>
   
   <Digger66>
@@ -2280,8 +2270,7 @@
     <!-- EN: divorce -->
     <titleShort>divorțat</titleShort>
     <!-- EN: [PAWN_nameDef] was fortunate enough to attend one of the best private schools on [PAWN_possessive] homeworld.\n\n[PAWN_nameDef] was also unfortuante enough to see [PAWN_possessive] parents separate at a young age. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a fost suficient de norocos pentru a frecventa una dintre cele mai bune școli private de pe lumea sa natală.\n\n[PAWN_nameDef] a fost, de asemenea, suficient de nefericit pentru a-și vedea părinții despărțiți la o vârstă fragedă. : [PAWN_nameDef] a fost suficient de norocoasă să frecventeze una dintre cele mai bune școli private de pe lumea ei natală.\n\n[PAWN_nameDef] a fost, de asemenea, suficient de nefericită pentru a-și vedea părinții separați la o vârstă fragedă.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a fost suficient de norocos pentru a frecventa una dintre cele mai bune școli private de pe lumea sa natală.\n\n[PAWN_nameDef] a fost, de asemenea, suficient de nefericit pentru a-și vedea părinții despărțiți la o vârstă fragedă. : [PAWN_nameDef] a fost suficient de norocoasă să frecventeze una dintre cele mai bune școli private de pe lumea ei natală.\n\n[PAWN_nameDef] a fost, de asemenea, suficient de nefericită pentru a-și vedea părinții separați la o vârstă fragedă.}\n</desc>
   </DivorceKid95>
   
   <DoomsdayPariah18>
@@ -2468,8 +2457,7 @@
     <!-- EN: excavator -->
     <titleShort>excavator</titleShort>
     <!-- EN: [PAWN_nameDef] worked at dig sites, extracting valuable items and materials from ancient compacted ruins. [PAWN_pronoun] learned how to spot valuables in the ground and use a variety of excavating tools. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a lucrat la săpături, extrăgând obiecte și materiale valoroase din ruinele vechi compactate. A învățat cum să identifice obiectele de valoare în pământ și să folosească o varietate de instrumente de excavare. : [PAWN_nameDef] a lucrat la săpături, extrăgând obiecte și materiale valoroase din ruine vechi compactate. A învățat cum să identifice obiectele de valoare în pământ și să folosească o varietate de instrumente de excavare.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a lucrat la săpături, extrăgând obiecte și materiale valoroase din ruinele vechi compactate. A învățat cum să identifice obiectele de valoare în pământ și să folosească o varietate de instrumente de excavare. : [PAWN_nameDef] a lucrat la săpături, extrăgând obiecte și materiale valoroase din ruine vechi compactate. A învățat cum să identifice obiectele de valoare în pământ și să folosească o varietate de instrumente de excavare.}\n</desc>
   </Excavator55>
   
   <ExecutiveOfficer5>
@@ -2509,8 +2497,7 @@
     <!-- EN: ex-military -->
     <titleShort>ex-militar</titleShort>
     <!-- EN: [PAWN_nameDef] always had an appetite for risk. Military life satisfied that need for a while, but eventually it wasn't enough.\n\nSeeking greater gambles, [PAWN_nameDef] took an offer from a mysterious machine persona and traveled to an unknown rimworld with a mysterious implant in [PAWN_possessive] head. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a avut întotdeauna un apetit pentru risc. Viața militară i-a satisfăcut această nevoie pentru o vreme, dar în cele din urmă nu a fost de ajuns.\n\nÎn căutarea unor riscuri și mai mari, [PAWN_nameDef] a acceptat o ofertă de la o misterioasă persoană mașină și a călătorit pe o lume necunoscută de pe margine cu un implant misterios în cap. : [PAWN_nameDef] a avut întotdeauna un apetit pentru risc. Viața militară i-a satisfăcut această nevoie pentru o vreme, dar în cele din urmă nu a fost de ajuns.\n\nÎn căutarea unor riscuri și mai mari, [PAWN_nameDef] a acceptat o ofertă de la o misterioasă persoană mașinistă și a călătorit pe o lume necunoscută de pe margine cu un implant misterios în capul ei.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a avut întotdeauna un apetit pentru risc. Viața militară i-a satisfăcut această nevoie pentru o vreme, dar în cele din urmă nu a fost de ajuns.\n\nÎn căutarea unor riscuri și mai mari, [PAWN_nameDef] a acceptat o ofertă de la o misterioasă persoană mașină și a călătorit pe o lume necunoscută de pe margine cu un implant misterios în cap. : [PAWN_nameDef] a avut întotdeauna un apetit pentru risc. Viața militară i-a satisfăcut această nevoie pentru o vreme, dar în cele din urmă nu a fost de ajuns.\n\nÎn căutarea unor riscuri și mai mari, [PAWN_nameDef] a acceptat o ofertă de la o misterioasă persoană mașinistă și a călătorit pe o lume necunoscută de pe margine cu un implant misterios în capul ei.}\n</desc>
   </ExMilitary9>
   
   <ExoticChef96>
@@ -2830,8 +2817,7 @@
     <!-- EN: forester -->
     <titleShort>pădurar</titleShort>
     <!-- EN: [PAWN_nameDef] grew and harvested forests. [PAWN_pronoun] understood both the practical challenges of soil types, wind, and rain, as well as the long-term planning of forest growth. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a cultivat și a recoltat păduri. El a înțeles atât provocările practice ale tipurilor de sol, vântului și ploii, cât și planificarea pe termen lung a creșterii pădurilor. : [PAWN_nameDef] a cultivat și a exploatat păduri. Ea a înțeles atât provocările practice legate de tipurile de sol, vânt și ploaie, cât și planificarea pe termen lung a creșterii pădurilor.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a cultivat și a recoltat păduri. El a înțeles atât provocările practice ale tipurilor de sol, vântului și ploii, cât și planificarea pe termen lung a creșterii pădurilor. : [PAWN_nameDef] a cultivat și a exploatat păduri. Ea a înțeles atât provocările practice legate de tipurile de sol, vânt și ploaie, cât și planificarea pe termen lung a creșterii pădurilor.}\n</desc>
   </Forester96>
   
   <ForestProwler15>
@@ -2922,8 +2908,7 @@
     <titleShort>meșter</titleShort>
     <titleShortFemale>meșteră</titleShortFemale>
     <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent his time building beautiful furniture for wealthy glitterworld clients. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a crescut în apropierea pădurilor. Își petrecea timpul construind mobilier frumos pentru clienții bogați din lumea glitterului. : [PAWN_nameDef] a crescut în apropierea pădurilor. Ea și-a petrecut timpul construind mobilier frumos pentru clienții bogați din lumea glitterului.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a crescut în apropierea pădurilor. Își petrecea timpul construind mobilier frumos pentru clienții bogați din lumea glitterului. : [PAWN_nameDef] a crescut în apropierea pădurilor. Ea și-a petrecut timpul construind mobilier frumos pentru clienții bogați din lumea glitterului.}\n</desc>
   </FurnitureBuilder50>
   
   <GalacticPage37>
@@ -3179,8 +3164,7 @@
     <titleShort>coleg</titleShort>
     <titleShortFemale>colegă</titleShortFemale>
     <!-- EN: [PAWN_nameDef] was vatgrown in a hyper-expensive clinic to serve the tastes of a specific client.\n\nEngineered, raised and trained as a perfect pleasure-giving mate, [PAWN_pronoun] learned skills that would baffle even the most seductive baseline human lovers. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a fost crescut în cuve într-o clinică hiper-scumpă pentru a servi gusturile unui anumit client.\n\nProiectat, crescut și antrenat ca un partener perfect pentru a oferi plăcere, a învățat abilități care i-ar lăsa perplecși chiar și pe cei mai seducători amanți umani de bază. : [PAWN_nameDef] a fost crescută în cuvă într-o clinică hiper-scumpă pentru a servi gusturile unui anumit client.\n\nProiectată, crescută și antrenată ca o parteneră perfectă pentru a oferi plăcere, Ea a învățat abilități care i-ar deconcerta chiar și pe cei mai seducători amanți umani de bază.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a fost crescut în cuve într-o clinică hiper-scumpă pentru a servi gusturile unui anumit client.\n\nProiectat, crescut și antrenat ca un partener perfect pentru a oferi plăcere, a învățat abilități care i-ar lăsa perplecși chiar și pe cei mai seducători amanți umani de bază. : [PAWN_nameDef] a fost crescută în cuvă într-o clinică hiper-scumpă pentru a servi gusturile unui anumit client.\n\nProiectată, crescută și antrenată ca o parteneră perfectă pentru a oferi plăcere, Ea a învățat abilități care i-ar deconcerta chiar și pe cei mai seducători amanți umani de bază.}\n</desc>
   </GrownMate56>
   
   <Guardian55>
@@ -3347,8 +3331,7 @@
     <!-- EN: herder -->
     <titleShort>cioban</titleShort>
     <!-- EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a păstorit o varietate de animale pentru a ajuta la hrănirea și îmbrăcarea tribului său în timp ce era în mișcare. [PAWN_nameDef] a învățat cum să calmeze și să dirijeze animalele și cum să își vâneze propriile mese pe traseu. : [PAWN_nameDef] a păstorit o varietate de animale pentru a ajuta la hrănirea și îmbrăcarea tribului ei în timp ce era în mișcare. [PAWN_nameDef] a învățat cum să calmeze și să dirijeze animalele și cum să își vâneze singură mâncarea pe traseu.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a păstorit o varietate de animale pentru a ajuta la hrănirea și îmbrăcarea tribului său în timp ce era în mișcare. [PAWN_nameDef] a învățat cum să calmeze și să dirijeze animalele și cum să își vâneze propriile mese pe traseu. : [PAWN_nameDef] a păstorit o varietate de animale pentru a ajuta la hrănirea și îmbrăcarea tribului ei în timp ce era în mișcare. [PAWN_nameDef] a învățat cum să calmeze și să dirijeze animalele și cum să își vâneze singură mâncarea pe traseu.}\n</desc>
   </Herder33>
   
   <Hermit82>
@@ -3541,8 +3524,7 @@
     <titleShort>vânător</titleShort>
     <titleShortFemale>vânătoare</titleShortFemale>
     <!-- EN: [PAWN_nameDef] hunted wild animals to help feed [PAWN_possessive] community. When times became tough, others looked to [PAWN_objective] as the one to help people through a tough season. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a vânat animale sălbatice pentru a ajuta la hrănirea comunității sale. Când vremurile deveneau grele, ceilalți se uitau la el ca la cel care îi ajuta pe oameni să treacă peste un sezon greu. : [PAWN_nameDef] a vânat animale sălbatice pentru a ajuta la hrănirea comunității Sale. Când vremurile deveneau grele, ceilalți se uitau la ea ca la cea care îi putea ajuta pe oameni să treacă peste un sezon greu.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a vânat animale sălbatice pentru a ajuta la hrănirea comunității sale. Când vremurile deveneau grele, ceilalți se uitau la el ca la cel care îi ajuta pe oameni să treacă peste un sezon greu. : [PAWN_nameDef] a vânat animale sălbatice pentru a ajuta la hrănirea comunității Sale. Când vremurile deveneau grele, ceilalți se uitau la ea ca la cea care îi putea ajuta pe oameni să treacă peste un sezon greu.}\n</desc>
   </Hunter89>
   
   <HunterOfTheKing53>
@@ -3731,8 +3713,7 @@
     <!-- EN: broker -->
     <titleShort>broker</titleShort>
     <!-- EN: A life of insurance dealing consumed [PAWN_nameDef]'s hopes and dreams. When a mysterious machine persona offered the gambler implant, it seemed like a way to add color to a gray existence.\n\n[PAWN_nameDef] did not, however, plan on being captured by pirates and sent across the galaxy to a distant rimworld. -->
-    <desc>{PAWN_gender ? O viață de dealer de asigurări i-a consumat lui [PAWN_nameDef] speranțele și visele. Când o misterioasă persoană mașinistă i-a oferit implant jucătorului, părea o modalitate de a adăuga culoare unei existențe cenușii.\n\n[PAWN_nameDef] nu plănuia, totuși, să fie capturat de pirați și trimis peste galaxie, pe o lume îndepărtată de pe margine. : O viață de trafic de asigurări i-a consumat speranțele și visele lui [PAWN_nameDef]. Când o misterioasă persoană mașinistă i-a oferit implant de jucător, părea o modalitate de a adăuga culoare unei existențe cenușii.\n\n[PAWN_nameDef] nu plănuia, totuși, să fie capturată de pirați și trimisă peste galaxie, pe o lume de margine îndepărtată.}
-</desc>
+    <desc>{PAWN_gender ? O viață de dealer de asigurări i-a consumat lui [PAWN_nameDef] speranțele și visele. Când o misterioasă persoană mașinistă i-a oferit implant jucătorului, părea o modalitate de a adăuga culoare unei existențe cenușii.\n\n[PAWN_nameDef] nu plănuia, totuși, să fie capturat de pirați și trimis peste galaxie, pe o lume îndepărtată de pe margine. : O viață de trafic de asigurări i-a consumat speranțele și visele lui [PAWN_nameDef]. Când o misterioasă persoană mașinistă i-a oferit implant de jucător, părea o modalitate de a adăuga culoare unei existențe cenușii.\n\n[PAWN_nameDef] nu plănuia, totuși, să fie capturată de pirați și trimisă peste galaxie, pe o lume de margine îndepărtată.}\n</desc>
   </InsuranceBroker9>
   
   <IntelligenceAgent10>
@@ -3933,8 +3914,7 @@
     <titleShort>muncitor leneș</titleShort>
     <titleShortFemale>muncitoare leneșă</titleShortFemale>
     <!-- EN: When [PAWN_nameDef] was offered [PAWN_possessive] yearly salary in order to test a new implant, [PAWN_pronoun] jumped at the chance. Ever since then, [PAWN_nameDef] has been looking for a way to get it removed. -->
-    <desc>{PAWN_gender ? Când lui [PAWN_nameDef] i s-a oferit salariul său anual pentru a testa un nou implant, a profitat de ocazie. De atunci, [PAWN_nameDef] a căutat o modalitate de a i-l scoate. : Când i s-a oferit salariul ei anual pentru a testa un nou implant, [PAWN_nameDef] a profitat de ocazie. De atunci, [PAWN_nameDef] a căutat o modalitate de a i-l scoate.}
-</desc>
+    <desc>{PAWN_gender ? Când lui [PAWN_nameDef] i s-a oferit salariul său anual pentru a testa un nou implant, a profitat de ocazie. De atunci, [PAWN_nameDef] a căutat o modalitate de a i-l scoate. : Când i s-a oferit salariul ei anual pentru a testa un nou implant, [PAWN_nameDef] a profitat de ocazie. De atunci, [PAWN_nameDef] a căutat o modalitate de a i-l scoate.}\n</desc>
   </LazyWorker78>
   
   <LineInfanteer20>
@@ -3976,8 +3956,7 @@
     <titleShort>jurnalizator</titleShort>
     <titleShortFemale>jurnalizatoare</titleShortFemale>
     <!-- EN: [PAWN_nameDef] took down trees and collected wood in hilly passes and ravines. [PAWN_pronoun] learned both how to fell the trees safely, and how to manage the forest to keep it healthy. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a doborât copaci și a adunat lemne în trecători colinare și râpe. A învățat atât cum să taie copacii în siguranță, cât și cum să gestioneze pădurea pentru a o menține sănătoasă. : [PAWN_nameDef] a doborât copaci și a adunat lemne în trecători colinare și râpe. Ea a învățat atât cum să taie copacii în siguranță, cât și cum să gestioneze pădurea pentru a o menține sănătoasă.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a doborât copaci și a adunat lemne în trecători colinare și râpe. A învățat atât cum să taie copacii în siguranță, cât și cum să gestioneze pădurea pentru a o menține sănătoasă. : [PAWN_nameDef] a doborât copaci și a adunat lemne în trecători colinare și râpe. Ea a învățat atât cum să taie copacii în siguranță, cât și cum să gestioneze pădurea pentru a o menține sănătoasă.}\n</desc>
   </Logger95>
   
   <LogicalChild2>
@@ -5231,8 +5210,7 @@
     <!-- EN: pet torturer -->
     <titleShort>torționar</titleShort>
     <!-- EN: [PAWN_nameDef]'s affluent family helped conceal [PAWN_possessive] habit of torturing animals.\n\nDespite years of therapy, [PAWN_pronoun] could never bring [PAWN_objective]self to interact with the little beasts in any normal way. [PAWN_pronoun] did learn a few things about how bodies live and die. -->
-    <desc>{PAWN_gender ? Familia înstărită a lui [PAWN_nameDef] a ajutat la ascunderea obiceiului său de a tortura animalele.\nÎn ciuda anilor de terapie, [PAWN_nameDef] nu a putut niciodată să interacționeze cu micile fiare într-un mod normal. A învățat câteva lucruri despre cum trăiesc și mor corpurile. : Familia bogată a lui [PAWN_nameDef] a ajutat-o să ascundă obiceiul ei de a tortura animalele.\nÎn ciuda anilor de terapie, ea nu a putut niciodată să interacționeze cu micile animale într-un mod normal. A învățat câteva lucruri despre cum trăiesc și mor corpurile.}
-</desc>
+    <desc>{PAWN_gender ? Familia înstărită a lui [PAWN_nameDef] a ajutat la ascunderea obiceiului său de a tortura animalele.\nÎn ciuda anilor de terapie, [PAWN_nameDef] nu a putut niciodată să interacționeze cu micile fiare într-un mod normal. A învățat câteva lucruri despre cum trăiesc și mor corpurile. : Familia bogată a lui [PAWN_nameDef] a ajutat-o să ascundă obiceiul ei de a tortura animalele.\nÎn ciuda anilor de terapie, ea nu a putut niciodată să interacționeze cu micile animale într-un mod normal. A învățat câteva lucruri despre cum trăiesc și mor corpurile.}\n</desc>
   </PetTorturer60>
   
   <Philosopher82>
@@ -5450,8 +5428,7 @@
     <titleShort>tăietori de scânduri</titleShort>
     <titleShortFemale>tăietoare de scânduri</titleShortFemale>
     <!-- EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] și-a ajutat tribul să construiască structuri uriașe din lemn, tăind copaci în scânduri solide. [PAWN_nameDef] a dezvoltat o înțelegere fină a modului în care crește și se despică lemnul. : [PAWN_nameDef] și-a ajutat tribul să construiască structuri uriașe din lemn, tăind copaci în scânduri solide. [PAWN_nameDef] a dezvoltat o înțelegere fină a modului în care crește și se despică lemnul.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] și-a ajutat tribul să construiască structuri uriașe din lemn, tăind copaci în scânduri solide. [PAWN_nameDef] a dezvoltat o înțelegere fină a modului în care crește și se despică lemnul. : [PAWN_nameDef] și-a ajutat tribul să construiască structuri uriașe din lemn, tăind copaci în scânduri solide. [PAWN_nameDef] a dezvoltat o înțelegere fină a modului în care crește și se despică lemnul.}\n</desc>
   </PlankCutter72>
   
   <PoisonGardener29>
@@ -5516,8 +5493,7 @@
     <titleShort>alpinist politic</titleShort>
     <titleShortFemale>alpinistă politică</titleShortFemale>
     <!-- EN: [PAWN_nameDef] was a smart kid, so everyone encouraged [PAWN_possessive] ambition to become a politician.\n\n[PAWN_pronoun] would use any tactic to win, including direct psychological attacks.\n\nDuring one school election, the other candidate hung himself. [PAWN_nameDef] won by default. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] era un copil deștept, așa că toată lumea i-a încurajat ambiția de a deveni politician.\n\nEl ar folosi orice tactică pentru a câștiga, inclusiv atacuri psihologice directe.\n\nÎn timpul unei alegeri școlare, celălalt candidat s-a spânzurat. [PAWN_nameDef] a câștigat implicit. : [PAWN_nameDef] era un copil deștept, așa că toată lumea i-a încurajat ambiția de a deveni politician.\n\nEa ar folosi orice tactică pentru a câștiga, inclusiv atacuri psihologice directe.\n\nÎn timpul unei alegeri școlare, celălalt candidat s-a spânzurat. [PAWN_nameDef] a câștigat implicit.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] era un copil deștept, așa că toată lumea i-a încurajat ambiția de a deveni politician.\n\nEl ar folosi orice tactică pentru a câștiga, inclusiv atacuri psihologice directe.\n\nÎn timpul unei alegeri școlare, celălalt candidat s-a spânzurat. [PAWN_nameDef] a câștigat implicit. : [PAWN_nameDef] era un copil deștept, așa că toată lumea i-a încurajat ambiția de a deveni politician.\n\nEa ar folosi orice tactică pentru a câștiga, inclusiv atacuri psihologice directe.\n\nÎn timpul unei alegeri școlare, celălalt candidat s-a spânzurat. [PAWN_nameDef] a câștigat implicit.}\n</desc>
   </PoliticalClimber28>
   
   <Politician57>
@@ -5727,8 +5703,7 @@
     <titleShort>muncitor de carieră</titleShort>
     <titleShortFemale>muncitoare de carieră</titleShortFemale>
     <!-- EN: [PAWN_nameDef] worked in a quarry helping to extract valuable stone from the hillside. [PAWN_pronoun] learned to sense opportunities and dangers in the stone by sight, touch, and intuition. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a lucrat într-o carieră, ajutând la extragerea de piatră valoroasă de pe versant. A învățat să simtă oportunitățile și pericolele din piatră prin vedere, atingere și intuiție. : [PAWN_nameDef] a lucrat într-o carieră, ajutând la extragerea de piatră valoroasă de pe versant. Ea a învățat să simtă oportunitățile și pericolele din piatră prin vedere, atingere și intuiție.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a lucrat într-o carieră, ajutând la extragerea de piatră valoroasă de pe versant. A învățat să simtă oportunitățile și pericolele din piatră prin vedere, atingere și intuiție. : [PAWN_nameDef] a lucrat într-o carieră, ajutând la extragerea de piatră valoroasă de pe versant. Ea a învățat să simtă oportunitățile și pericolele din piatră prin vedere, atingere și intuiție.}\n</desc>
   </QuarryWorker29>
   
   <QuietNerd97>
@@ -5778,8 +5753,7 @@
     <!-- EN: ranger -->
     <titleShort>gardă forestieră</titleShort>
     <!-- EN: [PAWN_nameDef] tracked animals and people for a wide range of clients. [PAWN_pronoun] became adept at reading spoor, finding food in the wild, and stalking prey. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a urmărit animale și oameni pentru o gamă largă de clienți. A devenit expert în citirea urmelor, în găsirea hranei în sălbăticie și în urmărirea prăzii. : [PAWN_nameDef] a urmărit animale și oameni pentru o gamă largă de clienți. A devenit expertă în citirea mirosului, în găsirea hranei în sălbăticie și în urmărirea prăzii.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a urmărit animale și oameni pentru o gamă largă de clienți. A devenit expert în citirea urmelor, în găsirea hranei în sălbăticie și în urmărirea prăzii. : [PAWN_nameDef] a urmărit animale și oameni pentru o gamă largă de clienți. A devenit expertă în citirea mirosului, în găsirea hranei în sălbăticie și în urmărirea prăzii.}\n</desc>
   </Ranger96>
   
   <RangerChild57>
@@ -6255,8 +6229,7 @@
     <!-- EN: sewer girl -->
     <titleShortFemale>copil al canalizării</titleShortFemale>
     <!-- EN: [PAWN_nameDef] grew up in the sludge-smeared sewers of a polluted industrial world.\n\n[PAWN_pronoun] befriended the strange insects in the darkness, and learned to love them. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a crescut în canalele pline de noroi ale unei lumi industriale poluate.S-a împrietenit cu insectele ciudate din întuneric și a învățat să le iubească. : [PAWN_nameDef] a crescut în canalele pline de noroi ale unei lumi industriale poluate.\n\nS-a împrietenit cu insectele ciudate din întuneric și a învățat să le iubească.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a crescut în canalele pline de noroi ale unei lumi industriale poluate.S-a împrietenit cu insectele ciudate din întuneric și a învățat să le iubească. : [PAWN_nameDef] a crescut în canalele pline de noroi ale unei lumi industriale poluate.\n\nS-a împrietenit cu insectele ciudate din întuneric și a învățat să le iubească.}\n</desc>
   </SewerKid57>
   
   <ShadowMarine63>
@@ -6436,8 +6409,7 @@
     <!-- EN: slaughterer -->
     <titleShort>măcelar</titleShort>
     <!-- EN: [PAWN_nameDef] slaughtered animals for a living. Others looked down on this work as filthy, but the skills required to manage and cleanly slaughter large numbers of animals were never simple. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a sacrificat animale pentru a trăi. Alții priveau această muncă ca fiind murdară, dar abilitățile necesare pentru a gestiona și sacrifica în mod curat un număr mare de animale nu au fost niciodată simple. : [PAWN_nameDef] a sacrificat animale pentru a trăi. Alții priveau această muncă ca fiind murdară, dar abilitățile necesare pentru a gestiona și a sacrifica în mod curat un număr mare de animale nu au fost niciodată simple.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a sacrificat animale pentru a trăi. Alții priveau această muncă ca fiind murdară, dar abilitățile necesare pentru a gestiona și sacrifica în mod curat un număr mare de animale nu au fost niciodată simple. : [PAWN_nameDef] a sacrificat animale pentru a trăi. Alții priveau această muncă ca fiind murdară, dar abilitățile necesare pentru a gestiona și a sacrifica în mod curat un număr mare de animale nu au fost niciodată simple.}\n</desc>
   </Slaughterer58>
   
   <SlaveChemist84>
@@ -7179,8 +7151,7 @@
     <!-- EN: grifter -->
     <titleShort>golan</titleShort>
     <!-- EN: After running away from home, [PAWN_nameDef] had to live on the streets.\n\n[PAWN_pronoun] grew up fast, and learned early that [PAWN_pronoun] had to figure out how to fool people into connecting with [PAWN_objective]. -->
-    <desc>{PAWN_gender ? După ce a fugit de acasă, [PAWN_nameDef] a fost nevoit să trăiască pe străzi. a crescut repede și a învățat de timpuriu că trebuie să își dea seama cum să-i păcălească pe oameni să se conecteze cu el. : După ce a fugit de acasă, [PAWN_nameDef] a fost nevoită să trăiască pe străzi.\n\nA crescut repede și a învățat de timpuriu că trebuie să își dea seama cum să-i păcălească pe oameni să se conecteze cu ea.}
-</desc>
+    <desc>{PAWN_gender ? După ce a fugit de acasă, [PAWN_nameDef] a fost nevoit să trăiască pe străzi. a crescut repede și a învățat de timpuriu că trebuie să își dea seama cum să-i păcălească pe oameni să se conecteze cu el. : După ce a fugit de acasă, [PAWN_nameDef] a fost nevoită să trăiască pe străzi.\n\nA crescut repede și a învățat de timpuriu că trebuie să își dea seama cum să-i păcălească pe oameni să se conecteze cu ea.}\n</desc>
   </StreetUrchin74>
   
   <Student65>
@@ -7564,8 +7535,7 @@
     <titleShort>constructor</titleShort>
     <titleShortFemale>constructoare</titleShortFemale>
     <!-- EN: [PAWN_nameDef] built houses among, and sometimes suspended in, the trees for [PAWN_possessive] people to use while traveling or foraging. [PAWN_nameDef] learned how to best find and use wild plants, and how to fight off wild animals. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef] a construit case printre copaci, și uneori suspendate în copaci, pentru ca oamenii lui să le folosească în timp ce călătoreau sau căutau hrană. [PAWN_nameDef] a învățat cum să găsească și să folosească cel mai bine plantele sălbatice și cum să se lupte cu animalele sălbatice. : [PAWN_nameDef] a construit case printre copaci, și uneori suspendate în copaci, pentru ca oamenii ei să le folosească în timp ce călătoresc sau caută hrană. [PAWN_nameDef] a învățat cum să găsească și să folosească cel mai bine plantele sălbatice și cum să se lupte cu animalele sălbatice.}
-</desc>
+    <desc>{PAWN_gender ? [PAWN_nameDef] a construit case printre copaci, și uneori suspendate în copaci, pentru ca oamenii lui să le folosească în timp ce călătoreau sau căutau hrană. [PAWN_nameDef] a învățat cum să găsească și să folosească cel mai bine plantele sălbatice și cum să se lupte cu animalele sălbatice. : [PAWN_nameDef] a construit case printre copaci, și uneori suspendate în copaci, pentru ca oamenii ei să le folosească în timp ce călătoresc sau caută hrană. [PAWN_nameDef] a învățat cum să găsească și să folosească cel mai bine plantele sălbatice și cum să se lupte cu animalele sălbatice.}\n</desc>
   </TreehouseBuilder86>
   
   <TribalThunderer45>
