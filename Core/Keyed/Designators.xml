@@ -90,7 +90,7 @@
   <!-- EN: Remove roof area -->
   <DesignatorAreaNoRoofExpand>Zonă de îndepărtat acoperiș</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
-  <DesignatorAreaNoRoofExpandDesc>Coloniștii vor îndepărta acoperișurile din această zonă (cu excepția muntelui superior, care nu poate fi îndepărtat).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>Coloniștii vor îndepărta acoperișurile din această zonă (cu excepția muntelui suspendat, care nu poate fi îndepărtat).</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
   <DesignatorAreaIgnoreRoofExpand>Zonă de ignorare acoperiș</DesignatorAreaIgnoreRoofExpand>
