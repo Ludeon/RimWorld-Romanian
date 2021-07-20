@@ -8,7 +8,13 @@
     <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\nOthers will take the opportunity to try to kill the [asker_faction_leaderTitle], and will attack with great intensity. Be prepared to defend.</li>
     <li>threatsInfo-></li>
   -->
-  <EndGame_RoyalAscent.questDescriptionRules.rulesStrings>TODO</EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
+  <EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
+    <li>questDescription->[intro]Liderul [asker_faction_leaderTitle] din [asker_faction_name] va efectua o vizită obișnuită cu orice conte din domeniul său, la cerere. Invitați-l, satisfaceți-i nevoile regale timp de [shuttleDelayTicks_duration] și puteți merge cu toții cu naveta până la flotila imperială. Puteți apoi să vă alăturați curții imperiale sau să evadați spre o nouă viață printre stele.\n\nCâștigarea titlului de Conte înseamnă completarea misiunilor pentru a câștiga [asker_faction_royalFavorLabel] cu [asker_faction_name]. Poate dura ani de zile pentru a obține în cele din urmă titlul de Conte.\n\nÎn timpul vizitei sale, trebuie să-i mențineți starea de spirit peste [lodgersMoodThreshold_percent]. Acest lucru înseamnă să îi oferiți avantaje regale, cum ar fi un dormitor somptuos.[threatsInfo]\n\n[asker_faction_leaderTitle] va aduce patru dintre gărzile sale personale și le va pune sub comanda dumneavoastră. Trebuie să găzduiți aceste gărzi, dar [asker_faction_leaderTitle] nu se va plânge dacă sunt uciși sau nemulțumiți.\n\nTrebuie să păstrați vizitatorii la [map_definite] și să nu-i trimiteți în altă parte. Dacă eșuați această misiune sau migrați, veți avea o altă șansă mai târziu.</li>
+    <li>intro(sameQuestsCount==0)->Ați aflat o modalitate de a scăpa de pe această planetă!\n\n</li>
+    <li>intro(sameQuestsCount>=1)->Ți s-a dat o nouă șansă la ascensiunea regală.\n\n</li>
+    <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\nAlții vor profita de ocazie pentru a încerca să îl ucidă pe [asker_faction_leaderTleitle] și vor ataca cu mare intensitate. Fiți pregătiți să vă apărați.</li>
+    <li>threatsInfo-></li>
+  </EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(sameQuestsCount==0)->Royal Ascent</li>
     <li>questName(sameQuestsCount>=1)->Royal [titleEnd]</li>
@@ -19,7 +25,16 @@
     <li>titleEnd->Host</li>
     <li>titleEnd->Victory</li>
   -->
-  <EndGame_RoyalAscent.questNameRules.rulesStrings>TODO</EndGame_RoyalAscent.questNameRules.rulesStrings>
+  <EndGame_RoyalAscent.questNameRules.rulesStrings>
+    <li>questName(sameQuestsCount==0)->Ascensiune regală</li>
+    <li>questName(sameQuestsCount>=1)->[titleEnd] regală</li>
+    <li>titleEnd->Ascensiune</li>
+    <li>titleEnd->Înălțare</li>
+    <li>titleEnd->Vizitare</li>
+    <li>titleEnd->Primire</li>
+    <li>titleEnd->Gazdă</li>
+    <li>titleEnd->Victorie</li>
+  </EndGame_RoyalAscent.questNameRules.rulesStrings>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>Misiunea a eșuat: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>
   <!-- EN: [faction_name] became hostile to you.  -->
