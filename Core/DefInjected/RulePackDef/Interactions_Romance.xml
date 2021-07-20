@@ -4,24 +4,34 @@
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
   -->
-  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>TODO</Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] a fost de acord și acum cei 2 sunt logodiți.</li>
+  </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
   -->
-  <Sentence_MarriageProposalRejected.rulePack.rulesStrings>TODO</Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+  <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] a respins cererea de logodnă.</li>
+  </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
   -->
-  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>TODO</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+    <li>sent->A fost prea greu pentru ca relația să continue, iar acum cei doi s-au despărțit.</li>
+  </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover.</li>
     <li>sent->[RECIPIENT_nameDef] responded well and is now [INITIATOR_nameDef]'s lover.</li>
     <li>sent->[RECIPIENT_nameDef] became aroused and agreed to become [INITIATOR_nameDef]'s lover.</li>
   -->
-  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>TODO</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] a fost atras și este acum amantul lui [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] a răspuns bine și este acum amantul lui [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] a fost atras și a fost de acord să devină amantul lui [INITIATOR_nameDef].</li>
+  </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] rejected the advance.</li>
@@ -32,6 +42,14 @@
     <li>sent->[RECIPIENT_nameDef] did not respond.</li>
     <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
   -->
-  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>TODO</Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] a respins avansul.</li>
+    <li>sent->[RECIPIENT_nameDef] a ignorat avansul.</li>
+    <li>sent->[RECIPIENT_nameDef] a întors pe [RECIPIENT_possessive] înapoi.</li>
+    <li>sent->[RECIPIENT_nameDef] a întors spatele.</li>
+    <li>sent->[RECIPIENT_nameDef] a dat un răspuns minim.</li>
+    <li>sent->[RECIPIENT_nameDef] nu a răspuns.</li>
+    <li>sent->[RECIPIENT_nameDef] a refuzat pe [INITIATOR_objective].</li>
+  </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
   
 </LanguageData>
