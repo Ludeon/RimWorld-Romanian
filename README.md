@@ -6,13 +6,16 @@ http://ludeon.com/forums/index.php?topic=2933.0
 
 # Current status
 
-The last "structural update" (step 18. from Tynan's guide): `1.3.3063`
+Version being translated: `1.3.3063`
 
-There's still a bit of untranslated text. Check [this tracking issue](https://github.com/Ludeon/RimWorld-Romanian/issues/10)
+### Current translators:
+ - nomius10
+
+For an overview of the current by-file progress, [check this tracking issue](https://github.com/Ludeon/RimWorld-Romanian/issues/10)
 
 # Contributing
 
-Current translators:
- - nomius10
-
-For a table of translation choices, as well as some guidelines, check [the wiki page](https://github.com/Ludeon/RimWorld-Romanian/wiki)
+Check out these links:
+- [Scope of this translation](https://github.com/Ludeon/RimWorld-Romanian/wiki#scope)
+- [General tips for contributors](https://github.com/Ludeon/RimWorld-Romanian/wiki#general-notes-for-contributors)
+- [Table of translation choices](https://github.com/Ludeon/RimWorld-Romanian/wiki#general-notes-for-contributors)
