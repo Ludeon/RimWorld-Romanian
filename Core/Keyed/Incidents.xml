@@ -155,7 +155,7 @@
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{1} din {0}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
-  <LetterTraderCaravanArrival>O caravană din {0} se apropie. Ei sunt o {1}.</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>O caravană din {0} se apropie. Ei sunt un {1}.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
   <LetterCaravanArrivalCommonWarning>Ei vor mai rămâne în jurul coloniei pentru o perioadă de timp înainte de a pleca. Îi poți ataca - dar acest lucru va înfuria facțiunea lor!</LetterCaravanArrivalCommonWarning>
     

@@ -14,8 +14,8 @@
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameFull], un [asker_royalTitleInCurrentFaction] al [asker_faction_name], îți face o cerere.\n\n(*Threat)[groupsOf](/Threat) de la [enemyFaction_name] au hărțuit caravanele [asker_possessive] din zonă. [asker_nameDef] vă roagă să le trimiteți un mesaj de provocare, atrăgându-i să atace și eliminând voi înșivă amenințarea.[endingCommon].</li>
     <li>groupsOf(raidCount==1,priority=1)->[enemyFaction_pawnsPlural]</li>
     <li>groupsOf->[numGroupsOf] de [enemyFaction_pawnsPlural]</li>
-    <li>endingCommon(helpersCount==0)->\n\n[pawnKindsParagraph]\n\nDacă acceptați, [enemyFaction_pawnsPlural] va sosi în [firstRaidDelayTelayTicks_duration].</li>
-    <li>endingCommon(helpersCount>=1)->\n\n[pawnKindsParagraph][helpersParagraph]Dacă acceptați, [enemyFaction_pawnsPlural] va sosi în [firstRaidDelayTelayTicks_duration].</li>
+    <li>endingCommon(helpersCount==0)->\n\n[pawnKindsParagraph]\n\nDacă acceptați, [enemyFaction_pawnsPlural] va sosi în [firstRaidDelayTicks_duration].</li>
+    <li>endingCommon(helpersCount>=1)->\n\n[pawnKindsParagraph][helpersParagraph]Dacă acceptați, [enemyFaction_pawnsPlural] va sosi în [firstRaidDelayTicks_duration].</li>
   </ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[enemyFaction_pawnsPlural] of Fortune</li>

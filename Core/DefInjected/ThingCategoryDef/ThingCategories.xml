@@ -77,7 +77,7 @@
   <BuildingsTemperature.label>temperatură</BuildingsTemperature.label>
   
   <!-- EN: chunks -->
-  <Chunks.label>bucăți</Chunks.label>
+  <Chunks.label>bolovani</Chunks.label>
   
   <!-- EN: corpses -->
   <Corpses.label>cadavre</Corpses.label>
@@ -170,7 +170,7 @@
   <StoneBlocks.label>blocuri de piatră</StoneBlocks.label>
   
   <!-- EN: stone chunks -->
-  <StoneChunks.label>blocuri de piatră</StoneChunks.label>
+  <StoneChunks.label>bolovani de piatră</StoneChunks.label>
   
   <!-- EN: techprints -->
   <Techprints.label>Techprint-uri</Techprints.label>
