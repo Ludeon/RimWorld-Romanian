@@ -1,0 +1,94 @@
+// These words had their declensed form automatically generated
+
+cobrelor
+veverițelor
+iguanelor
+alpacelor
+furnicilor
+furnicarelor
+antilopelor
+maimuțelor
+baracudelor
+albinelor
+bizonurilor
+cămilelor
+pisicilor
+omizilor
+scoicilor
+codurilor
+ciorilor
+echidnelor
+tiparelor
+elanurilor
+vulpilor
+broaștelor
+gazelelor
+girafelor
+caprelor
+găștilor
+gorilelor
+acvilelor
+lăcustelor
+viespilor
+hienelor
+lamelor
+lăcustelor
+pițigoilor
+râțelor
+nurcilor
+cârtițelor
+mangustelor
+maimuțelor
+elanurilor
+catarurilor
+tritonurilor
+caracatițelor
+okapilor
+struțurilor
+vidrelor
+bufnițelor
+stridiilor
+panterelor
+potârnichilor
+prepelițelor
+salamandrelor
+sardinelor
+focilor
+sconcsurilor
+vrăbiilor
+berzelor
+lebedelor
+termitelor
+viperelor
+morselor
+viespilor
+nevăstuicilor
+balenelor
+ciocănitorilor
+zebrelor
+
+// These words were declensed in a best-effort manner
+
+chinchilla-ilor
+finch-ilor
+heron-ilor
+jay-ilor
+bluejay-ilor
+komodo-ilor
+mantis-ilor
+suricata-ilor
+opossum-ilor
+stingray-ilor
+stinkbug-ilor
+
+// These words couldn't be declensed automatically. Edit manually
+
+cocoș de câmp
+pasăre colibri
+pasăre lirică
+rață sălbatică
+porc spinos
+căluț de mare
+șoarece de mare
+broască țestoasă
+broască țestoasă

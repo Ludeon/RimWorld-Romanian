@@ -1,4 +1,4 @@
-﻿simplu
+﻿câmpie
 întindere
 pășune
 platou
@@ -10,7 +10,7 @@ pădure
 cactus
 copac
 tufiș
-tufiș
+boschet
 mărăciniș
 
 bolovan
@@ -22,26 +22,25 @@ munte
 deal
 mesa
 stâncă
-bluff
+faleză
 stâncă
 creastă
 vale
 canion
 defileu
 
-oaza
+oază
 pajiște
 
 peșteră
 
 râu
-pârâu
+pârâiaș
 pârâu
 afluent
 pârâu
 deltă
 intrare
-sunet
 golfuleț
 
 lac
@@ -51,5 +50,5 @@ bazin
 lagună
 groapă
 mlaștină
-tarpit
-mlaștină
+șanț
+băltoacă

@@ -1,0 +1,29 @@
+// These words had their declensed form automatically generated
+
+platoul
+deșertul
+câmpul
+cactusul
+copacul
+tufișul
+boschetul
+mărăcinișul
+bolovanul
+muntele
+dealul
+canionul
+defileul
+râul
+pârâiașul
+pârâul
+afluentul
+pârâul
+golfulețul
+lacul
+oceanul
+iazul
+bazinul
+șanțul
+
+// These words couldn't be declensed automatically. Edit manually
+

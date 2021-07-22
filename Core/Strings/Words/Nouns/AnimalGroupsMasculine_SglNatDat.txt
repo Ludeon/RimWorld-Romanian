@@ -1,0 +1,8 @@
+// These words had their declensed form automatically generated
+
+grup
+grup
+grup
+
+// These words couldn't be declensed automatically. Edit manually
+

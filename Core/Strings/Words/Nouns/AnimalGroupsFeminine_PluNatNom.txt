@@ -1,0 +1,14 @@
+// These words had their declensed form automatically generated
+
+haite
+haite
+haite
+grupuri
+grupuri
+grupuri
+hoarde
+găști
+multitudini
+
+// These words couldn't be declensed automatically. Edit manually
+

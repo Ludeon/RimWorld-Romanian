@@ -1,6 +1,143 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
+  <!-- EN:
+    <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
+    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <li>Letter->WordParts/CapitalLetters</li>
+    <li>SylB->WordParts/Syllables_Byzantinian</li>
+    <li>SylE->WordParts/Syllables_English</li>
+    <li>SylG->WordParts/Syllables_Galician</li>
+    <li>Color->Words/Nouns/Colors</li>
+    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
+    <li>Vegetable->Words/Nouns/Vegetables</li>
+    <li>Game->Words/Nouns/Games</li>
+    <li>Animal->Words/Nouns/Animals</li>
+    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
+    <li>Weapon->Words/Nouns/Weapons</li>
+    <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>NaturalObject->Words/Nouns/NaturalObject</li>
+    <li>TreeType->Words/Nouns/TreeTypes</li>
+    <li>PersonJob->Words/Nouns/People_Jobs</li>
+    <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonAlly->Words/Nouns/People_Allies</li>
+    <li>PersonBadass->Words/Nouns/People_Badass</li>
+    <li>Enemy->Words/Nouns/Enemies</li>
+    <li>Apparel->Words/Nouns/Apparel</li>
+    <li>Gore->Words/Nouns/Gore</li>
+    <li>Mechanoid->Words/Nouns/Mechanoid</li>
+    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
+    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
+    <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
+    <li>Community->Words/Nouns/Communities</li>
+    <li>BodyPart->Words/Nouns/Bodyparts</li>
+    <li>AdjectiveLarge->Words/Adjectives/Large</li>
+    <li>AdjectiveBadass->Words/Adjectives/Badass</li>
+    <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
+    <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
+    <li>AdjectiveNatural->Words/Adjectives/Natural</li>
+    <li>VerbFriendly->Words/Verbs/Friendly</li>
+    <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
+  -->
+  <GlobalUtility.rulePack.rulesFiles>
+    <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
+    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <li>Letter->WordParts/CapitalLetters</li>
+    <li>SylB->WordParts/Syllables_Byzantinian</li>
+    <li>SylE->WordParts/Syllables_English</li>
+    <li>SylG->WordParts/Syllables_Galician</li>
+    <!--<li>Color->Words/Nouns/Colors</li>-->
+    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
+    <li>Vegetable->Words/Nouns/Vegetables</li>
+    <li>Game->Words/Nouns/Games</li>
+    <li>Animal->Words/Nouns/Animals</li>
+    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <!--<li>AnimalGroup->Words/Nouns/AnimalGroups</li>-->
+    <li>Weapon->Words/Nouns/Weapons</li>
+    <!--<li>TerrainFeature->Words/Nouns/TerrainFeatures</li>-->
+    <li>NaturalObject->Words/Nouns/NaturalObject</li>
+    <li>TreeType->Words/Nouns/TreeTypes</li>
+    <li>PersonJob->Words/Nouns/People_Jobs</li>
+    <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonAlly->Words/Nouns/People_Allies</li>
+    <li>PersonBadass->Words/Nouns/People_Badass</li>
+    <li>Enemy->Words/Nouns/Enemies</li>
+    <li>Apparel->Words/Nouns/Apparel</li>
+    <li>Gore->Words/Nouns/Gore</li>
+    <li>Mechanoid->Words/Nouns/Mechanoid</li>
+    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
+    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
+    <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
+    <li>Community->Words/Nouns/Communities</li>
+    <li>BodyPart->Words/Nouns/Bodyparts</li>
+    <li>AdjectiveLarge->Words/Adjectives/Large</li>
+    <li>AdjectiveBadass->Words/Adjectives/Badass</li>
+    <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
+    <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
+    <li>AdjectiveNatural->Words/Adjectives/Natural</li>
+    <li>VerbFriendly->Words/Verbs/Friendly</li>
+    <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
+    <!-- Extras for Romanian language -->
+    <li>AdjectivePolitical->Words/Adjectives/PoliticalUnions</li>
+    <li>tribal_word_file_Cap->Words/Foreign/Tribal_Cap</li>
+    <li>SylB_Cap->WordParts/Syllables_Byzantinian_Cap</li>
+    <li>SylE_Cap->WordParts/Syllables_English_Cap</li>
+    <li>SylG_Cap->WordParts/Syllables_Galician_Cap</li>
+    <!-- Extras for Romanian language -->
+    <li>ColorMasculine->Words/Nouns/ColorsMasculine</li>
+    <li>ColorMasculine_Plu->Words/Nouns/ColorsMasculine_Plu</li>
+    <li>ColorFeminine->Words/Nouns/ColorsFeminine</li>
+    <li>ColorFeminine_Plu->Words/Nouns/ColorsFeminine_Plu</li>
+    <!-- Paradigm of the file AnimalGroups.xml -->
+    <li>AnimalGroupMasculine->Words/Nouns/AnimalGroupsMasculine_SglNatNom</li>
+    <li>AnimalGroupMasculine_Dat->Words/Nouns/AnimalGroupsMasculine_SglNatDat</li>
+    <li>AnimalGroupMasculine_Art->Words/Nouns/AnimalGroupsMasculine_SglArtNom</li>
+    <li>AnimalGroupMasculine_ArtDat->Words/Nouns/AnimalGroupsMasculine_SglArtDat</li>
+    <li>AnimalGroupFeminine->Words/Nouns/AnimalGroupsFeminine_SglNatNom</li>
+    <li>AnimalGroupFeminine_Dat->Words/Nouns/AnimalGroupsFeminine_SglNatDat</li>
+    <li>AnimalGroupFeminine_Art->Words/Nouns/AnimalGroupsFeminine_SglArtNom</li>
+    <li>AnimalGroupFeminine_ArtDat->Words/Nouns/AnimalGroupsFeminine_SglArtDat</li>
+    <li>AnimalGroupFeminine_Plu->Words/Nouns/AnimalGroupsFeminine_PluNatNom</li>
+    <li>AnimalGroupFeminine_PluDat->Words/Nouns/AnimalGroupsFeminine_PluNatDat</li>
+    <li>AnimalGroupFeminine_PluArt->Words/Nouns/AnimalGroupsFeminine_PluArtNom</li>
+    <li>AnimalGroupFeminine_PluArtDat->Words/Nouns/AnimalGroupsFeminine_PluArtDat</li>
+    <!-- Paradigm of the file TerrainFeatures.xml -->
+    <li>TerrainFeatureMasculine->Words/Nouns/TerrainFeaturesMasculine_SglNatNom</li>
+    <li>TerrainFeatureMasculine_Dat->Words/Nouns/TerrainFeaturesMasculine_SglNatDat</li>
+    <li>TerrainFeatureMasculine_Art->Words/Nouns/TerrainFeaturesMasculine_SglArtNom</li>
+    <li>TerrainFeatureMasculine_ArtDat->Words/Nouns/TerrainFeaturesMasculine_SglArtDat</li>
+    <li>TerrainFeatureMasculine_Plu->Words/Nouns/TerrainFeaturesMasculine_PluNatNom</li>
+    <li>TerrainFeatureMasculine_PluDat->Words/Nouns/TerrainFeaturesMasculine_PluNatDat</li>
+    <li>TerrainFeatureMasculine_PluArt->Words/Nouns/TerrainFeaturesMasculine_PluArtNom</li>
+    <li>TerrainFeatureMasculine_PluArtDat->Words/Nouns/TerrainFeaturesMasculine_PluArtDat</li>
+    <li>TerrainFeatureFeminine->Words/Nouns/TerrainFeaturesFeminine_SglNatNom</li>
+    <li>TerrainFeatureFeminine_Dat->Words/Nouns/TerrainFeaturesFeminine_SglNatDat</li>
+    <li>TerrainFeatureFeminine_Art->Words/Nouns/TerrainFeaturesFeminine_SglArtNom</li>
+    <li>TerrainFeatureFeminine_ArtDat->Words/Nouns/TerrainFeaturesFeminine_SglArtDat</li>
+    <li>TerrainFeatureFeminine_Plu->Words/Nouns/TerrainFeaturesFeminine_PluNatNom</li>
+    <li>TerrainFeatureFeminine_PluDat->Words/Nouns/TerrainFeaturesFeminine_PluNatDat</li>
+    <li>TerrainFeatureFeminine_PluArt->Words/Nouns/TerrainFeaturesFeminine_PluArtNom</li>
+    <li>TerrainFeatureFeminine_PluArtDat->Words/Nouns/TerrainFeaturesFeminine_PluArtDat</li>
+    <!-- Paradigm of the file Animals.xml -->
+    <li>AnimalMasculine->Words/Nouns/AnimalsMasculine_SglNatNom</li>
+    <li>AnimalMasculine_Dat->Words/Nouns/AnimalsMasculine_SglNatDat</li>
+    <li>AnimalMasculine_Art->Words/Nouns/AnimalsMasculine_SglArtNom</li>
+    <li>AnimalMasculine_ArtDat->Words/Nouns/AnimalsMasculine_SglArtDat</li>
+    <li>AnimalMasculine_Plu->Words/Nouns/AnimalsMasculine_PluNatNom</li>
+    <li>AnimalMasculine_PluDat->Words/Nouns/AnimalsMasculine_PluNatDat</li>
+    <li>AnimalMasculine_PluArt->Words/Nouns/AnimalsMasculine_PluArtNom</li>
+    <li>AnimalMasculine_PluArtDat->Words/Nouns/AnimalsMasculine_PluArtDat</li>
+    <li>AnimalFeminine->Words/Nouns/AnimalsFeminine_SglNatNom</li>
+    <li>AnimalFeminine_Dat->Words/Nouns/AnimalsFeminine_SglNatDat</li>
+    <li>AnimalFeminine_Art->Words/Nouns/AnimalsFeminine_SglArtNom</li>
+    <li>AnimalFeminine_ArtDat->Words/Nouns/AnimalsFeminine_SglArtDat</li>
+    <li>AnimalFeminine_Plu->Words/Nouns/AnimalsFeminine_PluNatNom</li>
+    <li>AnimalFeminine_PluDat->Words/Nouns/AnimalsFeminine_PluNatDat</li>
+    <li>AnimalFeminine_PluArt->Words/Nouns/AnimalsFeminine_PluArtNom</li>
+    <li>AnimalFeminine_PluArtDat->Words/Nouns/AnimalsFeminine_PluArtDat</li>
+  </GlobalUtility.rulePack.rulesFiles>
+
   <!-- EN:
     <li>Trans->of</li>
     <li>Trans->for</li>
@@ -50,7 +187,111 @@
     <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
     <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
   -->
-  <GlobalUtility.rulePack.rulesStrings>TODO</GlobalUtility.rulePack.rulesStrings>
+  <GlobalUtility.rulePack.rulesStrings>
+    <li>Trans->al</li>
+    <li>Trans->pentru</li>
+    <li>Trans->prin</li>
+    <li>Trans->cu</li>
+    <li>Character(p=6)->[PersonJob]</li>
+    <li>Character(p=4)->[Animal]</li>
+    <li>Character(p=3)->[Enemy]</li>
+    <li>Character->[Mechanoid]</li>
+    <li>Quantity_adjphrase_com->doi</li>
+    <li>Quantity_adjphrase_com->trei</li>
+    <li>Quantity_adjphrase_com->patru</li>
+    <li>Quantity_adjphrase_com->cinci</li>
+    <li>Quantity_adjphrase_com->șase</li>
+    <li>Quantity_adjphrase_com->șapte</li>
+    <li>Quantity_adjphrase_com->opt</li>
+    <li>Quantity_adjphrase_com->nouă</li>
+    <li>Quantity_adjphrase_com->zece</li>
+    <li>Quantity_adjphrase_com->mai multe</li>
+    <li>Quantity_adjphrase_com->un grup de</li>
+    <li>Quantity_adjphrase_com->un grup mare de</li>
+    <li>Quantity_adjphrase_com->zeci de</li>
+    <li>Quantity_adjphrase_com->sute de</li>
+    <li>Quantity_adjphrase_com->o mie</li>
+    <li>Quantity_adjphrase_com->mii de</li>
+    <li>Quantity_adjphrase->doi</li>
+    <li>Quantity_adjphrase->mai mulți</li>
+    <li>Quantity_adjphrase->[Quantity_adjphrase_com]</li>
+    <li>Quantity_adjphrase_Feminine->două</li>
+    <li>Quantity_adjphrase_Feminine->mai multe</li>
+    <li>Quantity_adjphrase_Feminine->[Quantity_adjphrase_com]</li>
+    <li>Shape->triunghi</li>
+    <li>Shape->pătrat</li>
+    <li>Shape->dreptunghi</li>
+    <li>Shape->con</li>
+    <li>Shape->linie</li>
+    <li>Shape->inimă</li>
+    <li>Shape->stea</li>
+    <li>Shape->cerc</li>
+    <li>Shape->elipsă</li>
+    <li>AdjectiveAny->[AdjectiveBadass]</li>
+    <li>AdjectiveAny->[AdjectiveAngsty]</li>
+    <li>AdjectiveAny->[AdjectiveFriendly]</li>
+    <li>AdjectiveAny->[AdjectiveNatural]</li>
+    <li>ConceptAny->[ConceptPositive]</li>
+    <li>ConceptAny->[ConceptBadass]</li>
+    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>PersonalCharacteristic(p=0.15)->genitale</li>
+    <li>PersonalCharacteristic(p=0.15)->păr pubic</li>
+    <li>PersonalCharacteristic(p=0.15)->păr corporal</li>
+    <li>PersonalCharacteristic(p=0.15)->obișnuințe de toaletă</li>
+    <li>PersonalCharacteristic(p=0.15)->performanță sexuală</li>
+    <li>PersonalCharacteristic(p=0.15)->preferințe sexuale</li>
+    <li>PersonalCharacteristic(p=0.15)->experiență sexuală</li>
+    <!-- Extras for Romanian language -->
+    <li>Color->[ColorMasculine]</li>
+    <li>Color->[ColorFeminine]</li>
+    <!-- Paradigm of the file AnimalGroups.xml -->
+    <li>AnimalGroup->[AnimalGroupFeminine]</li>
+    <li>AnimalGroup->[AnimalGroupMasculine]</li>
+    <li>AnimalGroup_Dat->[AnimalGroupFeminine_Dat]</li>
+    <li>AnimalGroup_Dat->[AnimalGroupMasculine_Dat]</li>
+    <li>AnimalGroup_Art->[AnimalGroupFeminine_Art]</li>
+    <li>AnimalGroup_Art->[AnimalGroupMasculine_Art]</li>
+    <li>AnimalGroup_ArtDat->[AnimalGroupFeminine_ArtDat]</li>
+    <li>AnimalGroup_ArtDat->[AnimalGroupMasculine_ArtDat]</li>
+    <li>AnimalGroup_Plu->[AnimalGroupFeminine_Plu]</li>
+    <li>AnimalGroup_PluDat->[AnimalGroupFeminine_PluDat]</li>
+    <li>AnimalGroup_PluArt->[AnimalGroupFeminine_PluArt]</li>
+    <li>AnimalGroup_PluArtDat->[AnimalGroupFeminine_PluArtDat]</li>
+    <!-- Paradigm of the file TerrainFeatures.xml -->
+    <li>TerrainFeature->[TerrainFeatureFeminine]</li>
+    <li>TerrainFeature->[TerrainFeatureMasculine]</li>
+    <li>TerrainFeature_Dat->[TerrainFeatureFeminine_Dat]</li>
+    <li>TerrainFeature_Dat->[TerrainFeatureMasculine_Dat]</li>
+    <li>TerrainFeature_Art->[TerrainFeatureFeminine_Art]</li>
+    <li>TerrainFeature_Art->[TerrainFeatureMasculine_Art]</li>
+    <li>TerrainFeature_ArtDat->[TerrainFeatureFeminine_ArtDat]</li>
+    <li>TerrainFeature_ArtDat->[TerrainFeatureMasculine_ArtDat]</li>
+    <li>TerrainFeature_Plu->[TerrainFeatureFeminine_Plu]</li>
+    <li>TerrainFeature_Plu->[TerrainFeatureMasculine_Plu]</li>
+    <li>TerrainFeature_PluDat->[TerrainFeatureFeminine_PluDat]</li>
+    <li>TerrainFeature_PluDat->[TerrainFeatureMasculine_PluDat]</li>
+    <li>TerrainFeature_PluArt->[TerrainFeatureFeminine_PluArt]</li>
+    <li>TerrainFeature_PluArt->[TerrainFeatureMasculine_PluArt]</li>
+    <li>TerrainFeature_PluArtDat->[TerrainFeatureFeminine_PluArtDat]</li>
+    <li>TerrainFeature_PluArtDat->[TerrainFeatureMasculine_PluArtDat]</li>
+    <!-- Paradigm of the file Animals.xml -->
+    <li>Animal->[AnimalFeminine]</li>
+    <li>Animal->[AnimalMasculine]</li>
+    <li>Animal_Dat->[AnimalFeminine_Dat]</li>
+    <li>Animal_Dat->[AnimalMasculine_Dat]</li>
+    <li>Animal_Art->[AnimalFeminine_Art]</li>
+    <li>Animal_Art->[AnimalMasculine_Art]</li>
+    <li>Animal_ArtDat->[AnimalFeminine_ArtDat]</li>
+    <li>Animal_ArtDat->[AnimalMasculine_ArtDat]</li>
+    <li>Animal_Plu->[AnimalFeminine_Plu]</li>
+    <li>Animal_Plu->[AnimalMasculine_Plu]</li>
+    <li>Animal_PluDat->[AnimalFeminine_PluDat]</li>
+    <li>Animal_PluDat->[AnimalMasculine_PluDat]</li>
+    <li>Animal_PluArt->[AnimalFeminine_PluArt]</li>
+    <li>Animal_PluArt->[AnimalMasculine_PluArt]</li>
+    <li>Animal_PluArtDat->[AnimalFeminine_PluArtDat]</li>
+    <li>Animal_PluArtDat->[AnimalMasculine_PluArtDat]</li>
+  </GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:
     <li>TalkTopicAny->[TalkTopicLight]</li>

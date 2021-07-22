@@ -1,0 +1,11 @@
+// These words had their declensed form automatically generated
+
+câmpilor
+cactușilor
+copacilor
+bolovanilor
+munților
+afluenților
+
+// These words couldn't be declensed automatically. Edit manually
+

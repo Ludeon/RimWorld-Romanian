@@ -1,16 +1,16 @@
 ﻿//Common with outlanders
-uniune
-națiune
-confederație
-confederație
-alianță
+uniunea
+națiunea
+confreria
+confederația
+alianța
 liga rudelor
-pact
-tratat
-pact
-coaliție
+convenția
+tratatul
+pactul
+coaliția
 
 //Tribe specific
-rudenie
-oameni
-trib
+rudenia
+oamenii
+tribul

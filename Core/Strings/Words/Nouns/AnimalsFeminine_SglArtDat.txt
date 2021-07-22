@@ -1,0 +1,72 @@
+// These words had their declensed form automatically generated
+
+cobrei
+veveriței
+iguanei
+alpacei
+furnicii
+antilopei
+maimuței
+baracudei
+albinei
+cămilei
+pisicii
+omizii
+scoicii
+ciorii
+echidnei
+vulpii
+broaștei
+gazelei
+girafei
+caprei
+găștii
+gorilei
+acvilei
+lăcustei
+viespii
+hienei
+lamei
+lăcustei
+pițigoii
+râței
+nurcii
+cârtiței
+mangustei
+maimuței
+caracatiței
+okapii
+vidrei
+bufniței
+stridiei
+panterei
+potârnichii
+prepeliței
+salamandrei
+sardinei
+focii
+vrabiei
+berzei
+lebedei
+termitei
+viperei
+morsei
+viespii
+nevăstuicii
+balenei
+ciocănitorii
+zebrei
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+
+pasăre colibri
+pasăre lirică
+rață sălbatică
+porc spinos
+căluț de mare
+șoarece de mare
+broască țestoasă
+broască țestoasă

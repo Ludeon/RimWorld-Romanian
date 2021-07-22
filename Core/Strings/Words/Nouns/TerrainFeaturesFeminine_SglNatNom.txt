@@ -1,0 +1,28 @@
+// These words had their declensed form automatically generated
+
+câmpie
+întindere
+pășune
+preerie
+pădure
+stâncă
+carieră
+piatră
+meșă
+stâncă
+faleză
+stâncă
+creastă
+vale
+oază
+pajiște
+peșteră
+deltă
+intrare
+lagună
+groapă
+mlaștină
+băltoacă
+
+// These words couldn't be declensed automatically. Edit manually
+

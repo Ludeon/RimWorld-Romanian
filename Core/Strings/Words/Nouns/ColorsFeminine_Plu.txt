@@ -1,0 +1,12 @@
+﻿
+//Simple colors only, no mauve and puce
+
+
+roși
+albastre
+verzi
+violete
+negre
+albe
+gri
+portocalii

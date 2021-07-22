@@ -1,20 +1,20 @@
 ﻿//Common with tribals
-uniune
-națiune
+uniunea
+națiunea
+confreria
 confederația
-confederație
-alianță
+alianța
 liga rudelor
-pact
-tratat
-pact
-coaliție
+pactul
+tratatul
+pactul
+coalițiea
 
 //Outlander specific (different from empire)
 federația
 liga
-compact
-acord
-concord
-amalgamare
+compactul
+acordul
+concordul
+amalgamarea
 unificarea
