@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <!-- EN: Multiplier for enslaved (low motivation) -->
+  <StatsReport_Slave>Multiplicator pentru sclavi (motivație scăzută)</StatsReport_Slave>
+  <!-- EN: Terror offset -->
+  <StatsReport_Terror>Decalaj pentru teroare</StatsReport_Terror>
+  <!-- EN: Faction leader bonus -->
+  <StatsReport_LeaderOffset>Bonus pentru liderul facțiunii</StatsReport_LeaderOffset>
+  <!-- EN: Contains corpse -->
+  <StatsReport_OccupiedCorpseCasket>Conține cadavrul</StatsReport_OccupiedCorpseCasket>
+
+  <!-- EN: Conversion power bonus on map -->
+  <StatsReport_InstalledRelicConvertPowerFactor>Bonus de putere de conversie pe hartă</StatsReport_InstalledRelicConvertPowerFactor>
+  <!-- EN: Mood bonus for rituals in room -->
+  <StatsReport_RelicAtRitualMoodBonus>Bonus de dispoziție pentru ritualurile din cameră</StatsReport_RelicAtRitualMoodBonus>
+
+  <!-- EN: Relic of -->
+  <Stat_Thing_RelicOf_Name>Relicva de</Stat_Thing_RelicOf_Name>
+  <!-- EN: The ideology this relic belongs to. -->
+  <Stat_Thing_RelicOf_Desc>Ideologia căreia îi aparține această relicvă.</Stat_Thing_RelicOf_Desc>
+
+  <!-- EN: Related to -->
+  <Stat_Thing_RelatedToIdeos_Name>Legat de</Stat_Thing_RelatedToIdeos_Name>
+  <!-- EN: The ideoligions this thing belongs to. -->
+  <Stat_Thing_RelatedToIdeos_Desc>Ideoligia căreia îi aparține acest lucru.</Stat_Thing_RelatedToIdeos_Desc>
+
+  <!-- EN: Holding relic -->
+  <StatsReports_HasRelic>Care deține o relicvă</StatsReports_HasRelic>
+
+  <!-- EN: Blind bonus -->
+  <StatsReport_BlindPsychicSensitivityOffset>Bonus de orbire</StatsReport_BlindPsychicSensitivityOffset>
+
+  <!-- EN: Dominating style -->
+  <Stat_Thing_StyleDominanceCategory>Stil dominant</Stat_Thing_StyleDominanceCategory>
+  <!-- EN: The style presented by this object. This style may be associated with some ideoligions. Different people respond differently to certain styles, according to their ideoligious beliefs. -->
+  <Stat_Thing_StyleDominanceCategoryDesc>Stilul prezentat de acest obiect. Acest stil poate fi asociat cu unele ideoligii. Persoane diferite răspund diferit la anumite stiluri, în funcție de convingerile lor ideoligioase.</Stat_Thing_StyleDominanceCategoryDesc>
+  <!-- EN: Satisfies ideoligions -->
+  <Stat_Thing_IdeosSatisfied>Satisface ideoligii</Stat_Thing_IdeosSatisfied>
+
+  <!-- EN: Darkness shooting accuracy -->
+  <Stat_Pawn_DarknessCombatShooting_Name>Acuratețea tragerii în întuneric</Stat_Pawn_DarknessCombatShooting_Name>
+  <!-- EN: An offset applied to the chance to hit a target based on the target's light level. -->
+  <Stat_Pawn_DarknessCombatShooting_Desc>Un decalaj aplicat șansei de a lovi o țintă în funcție de nivelul de lumină al acesteia.</Stat_Pawn_DarknessCombatShooting_Desc>
+  <!-- EN: Darkness melee dodge chance -->
+  <Stat_Pawn_DarknessMeleeDodgeChance_Name>Șansa de ferire corp la corp în întuneric</Stat_Pawn_DarknessMeleeDodgeChance_Name>
+  <!-- EN: An offset applied to the melee dodge chance based on the target's light level. -->
+  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>Un decalaj aplicat șansei de ferire corp la corp în funcție de nivelul de lumină al țintei.</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
+  <!-- EN: Darkness melee hit chance -->
+  <Stat_Pawn_DarknessMeleeHitChance_Name>Șansa de ferire în luptă corp la corp în întuneric</Stat_Pawn_DarknessMeleeHitChance_Name>
+  <!-- EN: An offset applied to the melee hit chance based on the target's light level. -->
+  <Stat_Pawn_DarknessMeleeHitChance_Desc>Un decalaj aplicat șansei de lovire în luptă corp la corp în funcție de nivelul de lumină al țintei.</Stat_Pawn_DarknessMeleeHitChance_Desc>
+  <!-- EN: The following offsets can be applied -->
+  <Stat_PawnDarkness_FollowingOffset>Se pot aplica următoarele decalaje</Stat_PawnDarkness_FollowingOffset>
+
+  <!-- EN: Biosculpting speed -->
+  <StatsReport_BiosculptingSpeedFactor>Viteza de biosculptură</StatsReport_BiosculptingSpeedFactor>
+
+  </LanguageData>
