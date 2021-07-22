@@ -514,6 +514,10 @@
   <StudyProgress>Progresul studiului</StudyProgress>
   <!-- EN: completed -->
   <StudyCompleted>finalizat</StudyCompleted>
+  <!-- EN: Attack this to destroy it. -->
+  <AttackToDestroy>Atacă asta pentru a o distruge</AttackToDestroy>
+  <!-- EN: Remove this by attacking it. -->
+  <RemoveByAttackingTooltip>Înlătură asta prin a ataca-o</RemoveByAttackingTooltip>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->

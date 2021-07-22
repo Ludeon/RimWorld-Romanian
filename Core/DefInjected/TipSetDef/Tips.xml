@@ -66,7 +66,7 @@
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>Dacă aveți animale neantrenate în caravana dumneavoastră, le puteți împărți într-o caravană separată înainte de a ataca un inamic, pentru a le ține departe de luptă.</GameplayTips.CaravanUntrainedAnimals>
   <!-- EN: Don't forget to pack medicine on your caravans. -->
-  <GameplayTips.tips.32>Nu uitați să împachetați medicamente în caravane.</GameplayTips.tips.32>
+  <GameplayTips.CaravanDontForgetMedicine>Nu uitați să împachetați medicamente în caravane.</GameplayTips.CaravanDontForgetMedicine>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
   <GameplayTips.StoryGenerator>RimWorld este un generator de povești, nu un test de îndemânare. O colonie ruinată este o tragedie dramatică, nu un eșec.</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
@@ -126,11 +126,11 @@
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
   <GameplayTips.BestStoriesFromDarkestSituations>Chiar și eșecurile grave nu înseamnă că jocul trebuie să se termine. Încercați să jucați o bătălie pierdută - adesea cele mai bune povești vin din cele mai întunecate situații.</GameplayTips.BestStoriesFromDarkestSituations>
   <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
-  <GameplayTips.tips.62>Țineți stocurile de arme departe de închisorile dvs. Evadările din închisori sunt mult mai periculoase cu arme și explozibili.</GameplayTips.tips.62>
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>Țineți stocurile de arme departe de închisorile dvs. Evadările din închisori sunt mult mai periculoase cu arme și explozibili.</GameplayTips.KeepWeaponsAwayFromPrisoners>
   <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
-  <GameplayTips.tips.63>Când îmblânziți animale, asigurați-vă că aveți suficientă mâncare de tipul corect pentru a le hrăni.</GameplayTips.tips.63>
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>Când îmblânziți animale, asigurați-vă că aveți suficientă mâncare de tipul corect pentru a le hrăni.</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
   <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
-  <GameplayTips.tips.64>Lăsând o bucată de piatră sau de zgură într-o ușă, o vei forța să se deschidă, lăsându-te vulnerabil în fața animalelor sălbatice ostile și a jefuitorilor.</GameplayTips.tips.64>
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>Lăsând o bucată de piatră sau de zgură într-o ușă, o vei forța să se deschidă, lăsându-te vulnerabil în fața animalelor sălbatice ostile și a jefuitorilor.</GameplayTips.DroppingChunksWillForceDoorsOpen>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
   <GameplayTips.CleanLabs>Laboratoarele curate, cu plăci sterile, oferă bonusuri de viteză de cercetare.</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->

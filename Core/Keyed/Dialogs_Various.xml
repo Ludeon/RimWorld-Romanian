@@ -292,6 +292,18 @@
   <ArmorPenetration>Penetrația armurii</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
   <ArmorPenetrationExplanation>Penetrarea armurii este cantitatea de armură pe care această armă o va ignora de fiecare dată când lovește ținta.\n\nDacă penetrarea armurii este mai mare decât armura țintei, este ca și cum ținta nu ar fi blindată. În caz contrar, penetrarea armurii este scăzută din armura țintei.</ArmorPenetrationExplanation>
+  <!-- EN: Building damage factor -->
+  <BuildingDamageFactor>Factorul de daune la clădiri</BuildingDamageFactor>
+  <!-- EN: Damage to all buildings is multiplied by this value. -->
+  <BuildingDamageFactorExplanation>Daunele provocate tuturor clădirilor se înmulțesc cu această valoare.</BuildingDamageFactorExplanation>
+  <!-- EN: Building damage factor (impassable) -->
+  <BuildingDamageFactorImpassable>Factor de deteriorare la clădiri (impasabile)</BuildingDamageFactorImpassable>
+  <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
+  <BuildingDamageFactorImpassableExplanation>Daunele provocate tuturor clădirilor impasabile se înmulțesc cu această valoare.</BuildingDamageFactorImpassableExplanation>
+  <!-- EN: Building damage factor (passable) -->
+  <BuildingDamageFactorPassable>Factorul de deteriorare a clădirii (pasabile)</BuildingDamageFactorPassable>
+  <!-- EN: Damage to all passable buildings is multiplied by this value. -->
+  <BuildingDamageFactorPassableExplanation>Daunele provocate tuturor clădirilor pasabile se înmulțesc cu această valoare.</BuildingDamageFactorPassableExplanation>
   <!-- EN: Accuracy -->
   <Accuracy>Precizie</Accuracy>
   <!-- EN: Burst shot count -->
@@ -1101,8 +1113,8 @@
   <AutoSlaugtherHeaderColTotal>Total</AutoSlaugtherHeaderColTotal>
   <!-- EN: Other -->
   <AutoSlaugtherHeaderColOther>Altele</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
-  <!-- EN: If you have more than the max number of animals, colonists will slaughter the oldest animals until you are under the limit. -->
-  <AutoSlaugtherTip>Dacă aveți mai multe animale decât numărul maxim de animale, coloniștii vor sacrifica cele mai vechi animale până când vă veți situa sub limită.</AutoSlaugtherTip>
+  <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
+  <AutoSlaugtherTip>Coloniștii sacrifică mai întâi animalele care nu sunt gestante, în ordine, de la cele mai bătrâne la cele mai tinere, apoi animalele gestante, de la cele mai recente la cele mai puțin recente.</AutoSlaugtherTip>
   <!-- EN: Male adult -->
   <AnimalMaleAdult>Mascul adult</AnimalMaleAdult>
   <!-- EN: Male young -->

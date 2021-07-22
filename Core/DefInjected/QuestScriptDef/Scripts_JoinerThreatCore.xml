@@ -35,8 +35,8 @@
     <li>runnerIndef->un refugiat</li>
   </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
-  <ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL} urmărind [../joiner_nameDef]</ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterLabelCashing.value.slateRef>{BASELABEL} urmărind [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelCashing.value.slateRef>
   <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
-  <ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}\n              \nCei de la [enemyFaction_pawnsPlural] au venit să prindă pe [../joiner_nameDef].</ThreatReward_Raid_Joiner.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterTextCashing.value.slateRef>{BASETEXT}\n              \nCei de la [enemyFaction_pawnsPlural] au venit să prindă pe [../joiner_nameDef].</ThreatReward_Raid_Joiner.LetterTextCashing.value.slateRef>
   
 </LanguageData>

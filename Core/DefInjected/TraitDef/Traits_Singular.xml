@@ -93,8 +93,8 @@
   
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>amabil</Kind.degreeDatas.kind.label>
-  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} never insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. -->
-  <Kind.degreeDatas.kind.description>{PAWN_gender ? [PAWN_nameDef] este excepțional de amabil. El are un mod special de a folosi cuvinte frumoase pentru a înveseli ziua cuiva. Nu îi insultă niciodată pe ceilalți și nu judecă niciodată oamenii după aspectul lor. : [PAWN_nameDef] este excepțional de amabilă. Ea are un mod special de a folosi cuvinte frumoase pentru a înveseli ziua cuiva. Ea nu îi insultă niciodată pe ceilalți și nu judecă niciodată oamenii după aspectul lor. }\n</Kind.degreeDatas.kind.description>
+  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} never insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
+  <Kind.degreeDatas.kind.description>{PAWN_gender ? [PAWN_nameDef] este excepțional de amabil. El are un mod special de a folosi cuvinte frumoase pentru a înveseli ziua cuiva. Nu îi insultă niciodată pe ceilalți și nu judecă niciodată oamenii după aspectul lor. Agreabilitatea sa îl face, de asemenea, mai predispus să se conformeze opiniilor predominante. : [PAWN_nameDef] este excepțional de amabilă. Ea are un mod special de a folosi cuvinte frumoase pentru a înveseli ziua cuiva. Ea nu îi insultă niciodată pe ceilalți și nu judecă niciodată oamenii după aspectul lor. Agreabilitatea ei o face, de asemenea, mai predispusă să se conformeze opiniilor predominante. }\n</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
   <Masochist.degreeDatas.masochist.label>masochist</Masochist.degreeDatas.masochist.label>

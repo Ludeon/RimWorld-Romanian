@@ -6,7 +6,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 
 # Current status
 
-Version being translated: `1.3.3066`
+Version being translated: `1.3.3067`
 
 ### Current translators:
  - nomius10

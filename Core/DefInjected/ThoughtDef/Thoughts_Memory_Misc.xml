@@ -34,6 +34,11 @@
   <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
   <ColonistBanishedToDie.stages.colonist_banished_to_death.description>Am alungat pe cineva în așa fel încât aproape că nu are cum să supraviețuiască.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
   
+  <!-- EN: Colonist prisoner escaped -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>Prizonier a evadat</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
+  <!-- EN: Can't we keep control of our own people? I feel like anything could happen to me here. -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>Nu putem să ținem sub control proprii noștri oameni? Simt că mi se poate întâmpla orice aici.</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
+  
   <!-- EN: defeated hostile leader {0} -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>lider ostil învins {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
   <!-- EN: They were leading efforts to destroy us, and I took them down! -->
