@@ -11,7 +11,7 @@
   <!-- EN: artistic -->
   <Artistic.label>artistic</Artistic.label>
   <!-- EN: Crafting art. -->
-  <Artistic.description>Crearea artei.</Artistic.description>
+  <Artistic.description>Crearea obiectelor artistice.</Artistic.description>
   <!-- EN: artistic -->
   <Artistic.skillLabel>artistic</Artistic.skillLabel>
   
@@ -32,7 +32,7 @@
   <!-- EN: crafting -->
   <Crafting.label>meșteșug</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
-  <Crafting.description>Meșteșugarea obiectelor generale cum ar fi arme, componente și resurse rafinate.</Crafting.description>
+  <Crafting.description>Meșteșugirea obiectelor generale cum ar fi armele, componentele și resursele rafinate.</Crafting.description>
   <!-- EN: crafting -->
   <Crafting.skillLabel>meșteșug</Crafting.skillLabel>
   

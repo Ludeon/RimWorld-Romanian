@@ -146,7 +146,7 @@
   <StudyThing.reportString>studiind TargetA.</StudyThing.reportString>
   
   <!-- EN: taking TargetA to bed. -->
-  <TakeDownedPawnToBedDrafted.reportString>ducând TargetA la pat.</TakeDownedPawnToBedDrafted.reportString>
+  <TakeDownedPawnToBedDrafted.reportString>ducând pe TargetA la pat.</TakeDownedPawnToBedDrafted.reportString>
   
   <!-- EN: taking TargetA to bed. -->
   <TakeToBedToOperate.reportString>ia TargetA la culcare.</TakeToBedToOperate.reportString>
@@ -158,16 +158,16 @@
   <Tame.reportString>îmblânzește TargetA.</Tame.reportString>
   
   <!-- EN: tending to TargetA. -->
-  <TendPatient.reportString>îngrijește TargetA.</TendPatient.reportString>
+  <TendPatient.reportString>îngrijește pe TargetA.</TendPatient.reportString>
   
   <!-- EN: training TargetA. -->
-  <Train.reportString>antrenează TargetA.</Train.reportString>
+  <Train.reportString>antrenează pe TargetA.</Train.reportString>
   
   <!-- EN: uninstalling TargetA. -->
   <Uninstall.reportString>dezinstalează TargetA.</Uninstall.reportString>
   
   <!-- EN: unroping TargetA. -->
-  <Unrope.reportString>dezlegând TargetA.</Unrope.reportString>
+  <Unrope.reportString>dezlegând pe TargetA.</Unrope.reportString>
   
   <!-- EN: using comms console. -->
   <UseCommsConsole.reportString>utilizează consola de comunicații.</UseCommsConsole.reportString>

@@ -11,7 +11,7 @@
   <AttackStatic.reportString>atacă TargetA.</AttackStatic.reportString>
   
   <!-- EN: beating fire out. -->
-  <BeatFire.reportString>bate focul.</BeatFire.reportString>
+  <BeatFire.reportString>stinge focul.</BeatFire.reportString>
   
   <!-- EN: Doing something. -->
   <CastAbilityOnThing.reportString>Face ceva.</CastAbilityOnThing.reportString>
