@@ -7,7 +7,7 @@
   <AnimalGatherSpeed.description>Viteza cu care această persoană mulge, tunde și adună în alt mod resurse de la animale.</AnimalGatherSpeed.description>
   
   <!-- EN: animal gather yield -->
-  <AnimalGatherYield.label>randamentul de colectare a animalelor</AnimalGatherYield.label>
+  <AnimalGatherYield.label>randament colectare animale</AnimalGatherYield.label>
   <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product. -->
   <AnimalGatherYield.description>Randamentul procentual pe care îl primește o persoană atunci când tunde, mulge sau adună în alt mod resurse de la un animal viu.\n\nProcentaje mai mari reduc șansele de a irosi produsul.</AnimalGatherYield.description>
   
@@ -52,7 +52,7 @@
   <MiningYield.description>Procentul de resurse minate pe care îl va produce un miner.\nAceasta se aplică atât la mineritul de pereți, cât și la mineritul prin foraje adânci.\nAceasta nu afectează rata de producție a bucăților de rocă din foraje adânci.</MiningYield.description>
   
   <!-- EN: plant harvest yield -->
-  <PlantHarvestYield.label>randamentul de recoltare a plantelor</PlantHarvestYield.label>
+  <PlantHarvestYield.label>randament recoltare plante</PlantHarvestYield.label>
   <!-- EN: The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest. -->
   <PlantHarvestYield.description>Randamentul pe care această persoană îl obține atunci când recoltează plante.\n\nUn randament scăzut oferă o șansă ca această persoană să irosească accidental recolta.</PlantHarvestYield.description>
   

@@ -40,7 +40,7 @@
   <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>Nu putem să ținem sub control proprii noștri oameni? Simt că mi se poate întâmpla orice aici.</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
   
   <!-- EN: defeated hostile leader {0} -->
-  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>lider ostil învins {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>lider ostil {0} învins</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
   <!-- EN: They were leading efforts to destroy us, and I took them down! -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>Ei conduceau eforturile de a ne distruge, iar eu i-am doborât!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
   

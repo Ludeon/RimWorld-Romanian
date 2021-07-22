@@ -112,7 +112,7 @@
   <Stool.description>O platformă simplă pe care să te așezi. Nu foarte confortabilă, dar mult mai bună decât nimic. Poate fi folosit la mese, la posturi de lucru și în alte locuri.</Stool.description>
   
   <!-- EN: sun lamp -->
-  <SunLamp.label>lampă de soare</SunLamp.label>
+  <SunLamp.label>lampă solară</SunLamp.label>
   <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
   <SunLamp.description>O lampă industrială care luminează o zonă suficient de puternic pentru a crește culturi, dar care consumă o cantitate uriașă de energie. Se stinge automat pe timp de noapte.</SunLamp.description>
   <!-- EN: Off for plant resting period -->
