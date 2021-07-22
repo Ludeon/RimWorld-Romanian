@@ -229,7 +229,7 @@
   <!-- EN: Temperature -->
   <Temperature>Temperatura</Temperature>
   <!-- EN: bad temperature -->
-  <BadTemperature>temperatură rea</BadTemperature>
+  <BadTemperature>temperatură neadecvată</BadTemperature>
   <!-- EN: Ideal fermenting temperature -->
   <IdealFermentingTemperature>Temperatura ideală de fermentare</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->

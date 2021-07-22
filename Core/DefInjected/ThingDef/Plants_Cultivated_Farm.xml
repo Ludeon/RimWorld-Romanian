@@ -24,7 +24,7 @@
   <!-- EN: healroot -->
   <Plant_Healroot.label>healroot</Plant_Healroot.label>
   <!-- EN: A slow-growing plant which yields herbal medicine when harvested. Sowing and harvesting healroot are both very labor-intensive tasks because of its delicate shoots.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues. -->
-  <Plant_Healroot.description>O plantă cu creștere lentă care produce plante medicinale atunci când este recoltată. Semănatul și recoltarea healroot sunt ambele sarcini care necesită multă muncă din cauza lăstarilor săi delicați.\n\nHealroot a fost selecționat timp de secole de către coloniști. Uneori este numit și "mâna vindecătorului" de către oamenii din triburi - o poreclă pe care o datorează celor cinci virtuți medicinale majore ale sale.</Plant_Healroot.description>
+  <Plant_Healroot.description>O plantă cu creștere lentă care produce plante medicinale atunci când este recoltată. Semănatul și recoltarea healroot-ului sunt ambele sarcini care necesită multă muncă din cauza lăstarilor săi delicați.\n\nPlanta de healroot a fost selecționată timp de secole de către coloniști. Uneori este numită și "mâna vindecătorului" de către oamenii din triburi - o poreclă pe care o datorează celor cinci virtuți medicinale majore ale sale.</Plant_Healroot.description>
   
   <!-- EN: hop plant -->
   <Plant_Hops.label>plantă de hamei</Plant_Hops.label>
@@ -54,7 +54,7 @@
   <!-- EN: strawberry plant -->
   <Plant_Strawberry.label>plantă de căpșuni</Plant_Strawberry.label>
   <!-- EN: A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw. -->
-  <Plant_Strawberry.description>O plantă joasă, asemănătoare unui tufiș, care produce căpșuni fragile, dar delicioase. Deși nu este la fel de productivă, calitativ, ca alte culturi, căpșunile sunt delicioase chiar și crude.</Plant_Strawberry.description>
+  <Plant_Strawberry.description>O plantă joasă, asemănătoare unui tufiș, care produce căpșuni fragile, dar delicioase. Deși nu sunt la fel de sățioase comparativ cu alte produse din plante, căpșunile sunt delicioase chiar și crude.</Plant_Strawberry.description>
   
   <!-- EN: cocoa tree -->
   <Plant_TreeCocoa.label>arbore de cacao</Plant_TreeCocoa.label>
