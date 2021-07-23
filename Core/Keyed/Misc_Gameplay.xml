@@ -61,7 +61,7 @@
   <!-- EN: Can be tended in {0} -->
   <NextTendIn>Poate fi îngrijit în {0}</NextTendIn>
   <!-- EN: Tend quality -->
-  <TendQuality>Tendință de calitate</TendQuality>
+  <TendQuality>Tratament de calitate</TendQuality>
   <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>Nu există {0}</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
@@ -377,7 +377,7 @@
   <!-- EN: {0} wildness -->
   <CreatureWildness>{0} sălbăticie</CreatureWildness>
   <!-- EN: {0} trainability -->
-  <CreatureTrainability>{0} capacitate de antrenament</CreatureTrainability>
+  <CreatureTrainability>{0} antrenabilitate</CreatureTrainability>
   <!-- EN: Follow master while drafted -->
   <CreatureFollowDrafted>Urmează stăpânul în timp ce este redactat</CreatureFollowDrafted>
   <!-- EN: Follow master while doing field work -->
@@ -868,7 +868,7 @@
   <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
   <PowerConnectedRateStored>Electriciate sursă/stocat: {0} W / {1} Wz</PowerConnectedRateStored>
   <!-- EN: Power needed -->
-  <PowerNeeded>Electricitate necesar</PowerNeeded>
+  <PowerNeeded>Energie necesară</PowerNeeded>
   <!-- EN: Power output -->
   <PowerOutput>Electriciate produsă</PowerOutput>
   <!-- EN: Stored -->

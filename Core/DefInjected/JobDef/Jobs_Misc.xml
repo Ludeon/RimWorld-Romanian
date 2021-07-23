@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: applying TargetB. -->
-  <ApplyTechprint.reportString>aplică ȚintaB.</ApplyTechprint.reportString>
+  <ApplyTechprint.reportString>aplică TargetB.</ApplyTechprint.reportString>
   
   <!-- EN: melee attacking TargetA. -->
   <AttackMelee.reportString>atac corp la corp atacând TargetA.</AttackMelee.reportString>

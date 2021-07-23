@@ -38,7 +38,7 @@
   <Deconstruct.reportString>deconstruiește TargetA.</Deconstruct.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
-  <DeliverFood.reportString>hrănește TargetA către ȚintaB.</DeliverFood.reportString>
+  <DeliverFood.reportString>hrănește TargetA către TargetB.</DeliverFood.reportString>
   
   <!-- EN: doing bill at TargetA. -->
   <DoBill.reportString>efectuează factura la TargetA.</DoBill.reportString>
