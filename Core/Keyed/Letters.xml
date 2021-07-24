@@ -106,7 +106,7 @@
   <StruckMineable>Am dat de {0}!</StruckMineable>
 
   <!-- EN: {0} revenge -->
-  <LetterLabelAnimalManhunterRevenge>{0} răzbunare</LetterLabelAnimalManhunterRevenge>
+  <LetterLabelAnimalManhunterRevenge>răzbunare: {0}</LetterLabelAnimalManhunterRevenge>
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
   <AnimalManhunterFromDamage>{1_indefinite} atacă după ce a fost rănit!\n\nVa vâna orice umanoid pe care îl poate atinge. Se va calma atunci când se va culca.</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
@@ -444,7 +444,7 @@
   <!-- EN: If you don't accept the quest within {0}, it will expire. -->
   <LetterQuestRequiresAcceptance>Dacă nu accepți misiunea în termen de {0}, aceasta va expira.</LetterQuestRequiresAcceptance>
   <!-- EN: A new quest has become active. It is called '{0}'. -->
-  <LetterQuestBecameActive>O nouă căutare a devenit activă. Se numește "{0}".</LetterQuestBecameActive>
+  <LetterQuestBecameActive>O nouă misiune a devenit activă. Se numește "{0}".</LetterQuestBecameActive>
   <!-- EN: Quest active: {0} -->
   <LetterQuestAutomaticallyAcceptedTitle>Misiune activă: {0}</LetterQuestAutomaticallyAcceptedTitle>
   <!-- EN: It will expire in {0}. -->

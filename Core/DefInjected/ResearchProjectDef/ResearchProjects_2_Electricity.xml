@@ -37,7 +37,7 @@
   <Electricity.description>Exploatează puterea electricității pentru o sută de sarcini diferite.</Electricity.description>
   
   <!-- EN: firefoam -->
-  <Firefoam.label>spumă de foc</Firefoam.label>
+  <Firefoam.label>spumă ignifugă</Firefoam.label>
   <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
   <Firefoam.description>Construiți dispozitive automate de protecție împotriva incendiilor, care răspândesc spumă ignifugă ca răspuns la apropierea flăcărilor.</Firefoam.description>
   

@@ -69,7 +69,7 @@
   <!-- EN: The psychic drone is ending. -->
   <PsychicDrone.endMessage>Drona psihică se termină.</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <PsychicDrone.letterText>Fiecare colonist {0} simte un val de anxietate și furie!\n\nUn motor îndepărtat de ură se agită. Acesta proiectează o dronă psihică pe acest sit prin intermediul unui amplificator orbital, reglat pentru a-i afecta doar pe {0}s. Timp de câteva zile, starea de spirit a unora se va înrăutăți.\n\nN- Nivelul dronei este {1}.</PsychicDrone.letterText>
+  <PsychicDrone.letterText>Fiecare {0} colonist simte un val de anxietate și furie!\n\nUn motor îndepărtat de ură se agită. Acesta proiectează o dronă psihică pe acest sit prin intermediul unui amplificator orbital, reglat pentru a-i afecta doar pe {0}s. Timp de câteva zile, starea de spirit a unora se va înrăutăți.\n\nNivelul dronei este {1}.</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
   <PsychicSoothe.label>calmare psihică</PsychicSoothe.label>

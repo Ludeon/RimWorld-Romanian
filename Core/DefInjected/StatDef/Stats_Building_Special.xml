@@ -12,7 +12,7 @@
   <DoorOpenSpeed.description>Viteza cu care se deschide ușa atunci când nu este alimentată.\n\nUșile lente vor încetini pe toți cei care le folosesc.</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
-  <ImmunityGainSpeedFactor.label>factor de viteză de câștig al imunității</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.label>factor de viteză de imunizare</ImmunityGainSpeedFactor.label>
   <!-- EN: Immunity gain speed is multiplied by this value. -->
   <ImmunityGainSpeedFactor.description>Viteza de câștig a imunității este înmulțită cu această valoare.</ImmunityGainSpeedFactor.description>
   

@@ -46,7 +46,7 @@
   <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>Sunt interesat de droguri. Sunt foarte mulțumit de toate drogurile pe care le-am obținut recent.</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
   
   <!-- EN: hideous environment -->
-  <NeedBeauty.stages.hideous_environment.label>Mediu odios.</NeedBeauty.stages.hideous_environment.label>
+  <NeedBeauty.stages.hideous_environment.label>Mediu odios</NeedBeauty.stages.hideous_environment.label>
   <!-- EN: This place is unbearably grotesque. I can't look at this any more. -->
   <NeedBeauty.stages.hideous_environment.description>Acest loc este insuportabil de grotesc. Nu mă mai pot uita la el.</NeedBeauty.stages.hideous_environment.description>
   <!-- EN: ugly environment -->

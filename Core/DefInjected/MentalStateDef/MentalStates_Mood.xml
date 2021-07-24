@@ -30,15 +30,15 @@
   <Binging_DrugMajor.baseInspectLine>Stare mentală: Îmbuibare cu {0}</Binging_DrugMajor.baseInspectLine>
   
   <!-- EN: binging on food -->
-  <Binging_Food.label>se înfruptă din mâncare</Binging_Food.label>
+  <Binging_Food.label>se înfruptă cu mâncare</Binging_Food.label>
   <!-- EN: Mental state: Pigging out -->
-  <Binging_Food.baseInspectLine>Stare mentală: Porcărie</Binging_Food.baseInspectLine>
+  <Binging_Food.baseInspectLine>Stare mentală: Porcăreală</Binging_Food.baseInspectLine>
   <!-- EN: {0} is pigging out on food. -->
-  <Binging_Food.beginLetter>{0} se înfruptă din mâncare.</Binging_Food.beginLetter>
+  <Binging_Food.beginLetter>{0} se înfruptă cu mâncare.</Binging_Food.beginLetter>
   <!-- EN: food binge -->
   <Binging_Food.beginLetterLabel>îmbuibare alimentară</Binging_Food.beginLetterLabel>
   <!-- EN: {0} is no longer pigging out on food. -->
-  <Binging_Food.recoveryMessage>{0} nu se mai înfruptă din mâncare.</Binging_Food.recoveryMessage>
+  <Binging_Food.recoveryMessage>{0} nu se mai înfruptă cu mâncare.</Binging_Food.recoveryMessage>
   
   <!-- EN: corpse obsession -->
   <CorpseObsession.label>obsesie de cadavre</CorpseObsession.label>

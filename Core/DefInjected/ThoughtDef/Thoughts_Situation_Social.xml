@@ -73,7 +73,7 @@
   <NotBondedAnimalMaster.stages.not_master_of.description>Ar trebui să fiu împreună cu animalele mele legate.</NotBondedAnimalMaster.stages.not_master_of.description>
   
   <!-- EN: opinion of my {0} {1} -->
-  <OpinionOfMyLover.stages.opinion_of_my.label>opinia despre {0} {1} mea</OpinionOfMyLover.stages.opinion_of_my.label>
+  <OpinionOfMyLover.stages.opinion_of_my.label>opinia despre {0} meu {1}</OpinionOfMyLover.stages.opinion_of_my.label>
   <!-- EN: Being with them makes me feel this way. -->
   <OpinionOfMyLover.stages.opinion_of_my.description>Faptul că sunt cu iubitul meu mă face să mă simt astfel.</OpinionOfMyLover.stages.opinion_of_my.description>
   

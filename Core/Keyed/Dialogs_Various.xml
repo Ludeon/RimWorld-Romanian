@@ -238,7 +238,7 @@
   <!-- EN: Infinite -->
   <Infinite>Infinit</Infinite>
   <!-- EN: Allowed {0} skill: -->
-  <AllowedSkillRange>Abilități permise {0}:</AllowedSkillRange>
+  <AllowedSkillRange>Aptitudinea {0} permisă:</AllowedSkillRange>
   <!-- EN: incompatible -->
   <IncompatibleLower>incompatibil</IncompatibleLower>
   <!-- EN: Any worker -->
@@ -739,7 +739,7 @@
   <!-- EN: Prisoners -->
   <PrisonersSection>Prizonieri</PrisonersSection>
   <!-- EN: Capture -->
-  <CaptureSection>Captură</CaptureSection>
+  <CaptureSection>Capturează</CaptureSection>
   <!-- EN: Animals -->
   <AnimalsSection>Animale</AnimalsSection>
   <!-- EN: Choose route -->
@@ -935,11 +935,11 @@
   <!-- EN: Nothing -->
   <FoodRestrictionNothing>Nimic</FoodRestrictionNothing>
   <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>Selectați restricția alimentară</SelectFoodRestriction>
+  <SelectFoodRestriction>Selectați restr. alim.</SelectFoodRestriction>
   <!-- EN: New food restriction -->
-  <NewFoodRestriction>Restricție alimentară nouă</NewFoodRestriction>
+  <NewFoodRestriction>Restr. alim. nouă</NewFoodRestriction>
   <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>Ștergeți restricția alimentară</DeleteFoodRestriction>
+  <DeleteFoodRestriction>Ștergeți restr. alim.</DeleteFoodRestriction>
   <!-- EN: No food restriction selected -->
   <NoFoodRestrictionSelected>Nu este selectată nicio restricție alimentară</NoFoodRestrictionSelected>
 

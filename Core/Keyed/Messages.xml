@@ -366,7 +366,7 @@
   <MessageReleaseBondedAnimal>Deoarece sunt legați, eliberarea lui {DESIGNATED_labelShort} îl va face pe {BONDED_labelShort} nefericit.</MessageReleaseBondedAnimal>
   
   <!-- EN: {0} has run out of food. -->
-  <MessageCaravanRanOutOfFood>{0} a rămas fără mâncare ({PAWN_label}).</MessageCaravanRanOutOfFood>
+  <MessageCaravanRanOutOfFood>{0} a rămas fără mâncare.</MessageCaravanRanOutOfFood>
   <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
   <MessageCaravanDeathCorpseAddedToInventory>Cadavrul lui {PAWN_definite} a fost preluat de caravană. Este greu și poate imobiliza caravana, dar poate fi lăsat în urmă în fila de obiecte a caravanei.</MessageCaravanDeathCorpseAddedToInventory>
 

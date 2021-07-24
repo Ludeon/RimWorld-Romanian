@@ -12,7 +12,7 @@
   <ButcheryFleshSpeed.description>Viteza cu care această persoană măcelărește creaturile din carne.</ButcheryFleshSpeed.description>
   
   <!-- EN: mechanoid shredding efficiency -->
-  <ButcheryMechanoidEfficiency.label>eficiența de mărunțire a mecanoizilor</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.label>eficiența mărunțirei mecanoizilor</ButcheryMechanoidEfficiency.label>
   <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
   <ButcheryMechanoidEfficiency.description>Cantitatea de materiale obținută atunci când această persoană mărunțește un mecanoid mort pentru resurse.\n\nCantitatea reală este, de asemenea, legată de mărimea mecanoidului.</ButcheryMechanoidEfficiency.description>
   

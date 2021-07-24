@@ -549,9 +549,9 @@
   <!-- EN: Headshot -->
   <Headshot>Headshot</Headshot>
   <!-- EN: Treatment success!\n{0} chance -->
-  <TextMote_TreatSuccess>Tratament reușit!\n{0} șansă</TextMote_TreatSuccess>
+  <TextMote_TreatSuccess>Tratament reușit!\n{0} șanse</TextMote_TreatSuccess>
   <!-- EN: Treatment failed\n{0} chance -->
-  <TextMote_TreatFailed>Tratamentul a eșuat\n{0} șansă</TextMote_TreatFailed>
+  <TextMote_TreatFailed>Tratamentul a eșuat\n{0} șanse</TextMote_TreatFailed>
   <!-- EN: Harvest\nbotched -->
   <TextMote_HarvestFailed>recoltă\nrasolită</TextMote_HarvestFailed>
   <!-- EN: Yield\nwasted -->
@@ -559,13 +559,13 @@
   <!-- EN: Product\nwasted -->
   <TextMote_ProductWasted>Produs irosit</TextMote_ProductWasted>
   <!-- EN: Recruit failed!\n{0} chance -->
-  <TextMote_RecruitFail>Recrutarea a eșuat!\n{0} șansă</TextMote_RecruitFail>
+  <TextMote_RecruitFail>Recrutarea a eșuat!\n{0} șanse</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
   <TextMote_ResistanceReduced>Rezistență\n{0} la {1}</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
-  <TextMote_TameFail>Îmblânzirea a eșuat\n{0} șansă</TextMote_TameFail>
+  <TextMote_TameFail>Îmblânzirea a eșuat\n{0} șanse</TextMote_TameFail>
   <!-- EN: Tamed! -->
-  <TextMote_TameSuccess>Îmblânzit!\n{0} șansă</TextMote_TameSuccess>
+  <TextMote_TameSuccess>Îmblânzit!</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
   <TextMote_TrainFail>Antrenare eșuată: {0}\n{1} șansă</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
@@ -884,9 +884,9 @@
   <!-- EN: Current power use -->
   <PowerConsumptionMode>Curent folosit</PowerConsumptionMode>
   <!-- EN: high -->
-  <PowerConsumptionHigh>Mare</PowerConsumptionHigh>
+  <PowerConsumptionHigh>Mult</PowerConsumptionHigh>
   <!-- EN: low -->
-  <PowerConsumptionLow>Mic</PowerConsumptionLow>
+  <PowerConsumptionLow>Puțin</PowerConsumptionLow>
 
   <!-- Temperature readout -->
   <!-- EN: Indoors -->

@@ -48,7 +48,7 @@
   <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>Capsule de marfă</LetterLabelCargoPodCrash>
   <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
-  <CargoPodCrash>Un grup de capsule cu mărfuri s-a prăbușit în apropiere.\n\nS-ar putea sa fie câte ceva folositor.</CargoPodCrash>
+  <CargoPodCrash>Un grup de capsule cu mărfuri s-a prăbușit în apropiere.\n\nS-ar putea să aibă câte ceva folositor.</CargoPodCrash>
 
   <!-- EN: an electrical conduit -->
   <AnElectricalConduit>un cablu electric</AnElectricalConduit>

@@ -22,7 +22,7 @@
   <AccuracyTouch.description>Acuratețea armei la o distanță de 3 celule sau mai puțin.\n\nO șansă reală de lovire a unei lovituri va fi afectată și de alți factori.</AccuracyTouch.description>
   
   <!-- EN: ranged cooldown -->
-  <RangedWeapon_Cooldown.label>Răcire la distanță</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.label>Cooldown după tragere</RangedWeapon_Cooldown.label>
   <!-- EN: How long it takes to recover after firing this weapon. -->
   <RangedWeapon_Cooldown.description>Cât timp durează recuperarea după ce se trage cu această armă.</RangedWeapon_Cooldown.description>
   <!-- EN: {0} s -->

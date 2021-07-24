@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: take to best stockpile -->
-  <BestStockpile.label>du-l la cel mai bun depozit</BestStockpile.label>
+  <BestStockpile.label>du la cel mai bun depozit</BestStockpile.label>
   
   <!-- EN: drop on floor -->
-  <DropOnFloor.label>lasă-l pe jos</DropOnFloor.label>
+  <DropOnFloor.label>lasă pe jos</DropOnFloor.label>
   
   <!-- EN: take to {0} -->
-  <SpecificStockpile.label>du-l la {0}</SpecificStockpile.label>
+  <SpecificStockpile.label>du la {0}</SpecificStockpile.label>
   
 </LanguageData>

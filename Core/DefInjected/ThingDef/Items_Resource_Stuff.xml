@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: cloth -->
-  <Cloth.label>cloth</Cloth.label>
+  <Cloth.label>pânză</Cloth.label>
   <!-- EN: Cloth woven from organic fibers. -->
   <Cloth.description>Pânză țesută din fibre organice.</Cloth.description>
-  <Cloth.stuffProps.stuffAdjective>cloth</Cloth.stuffProps.stuffAdjective>
+  <Cloth.stuffProps.stuffAdjective>pânză</Cloth.stuffProps.stuffAdjective>
   
   <!-- EN: devilstrand -->
   <DevilstrandCloth.label>șuvița-dracului</DevilstrandCloth.label>

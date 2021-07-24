@@ -32,7 +32,7 @@
   <Bloodlust.degreeDatas.bloodlust.description>{PAWN_gender ? [PAWN_nameDef] are o senzație de adrenalină atunci când rănește oameni și nu se supără niciodată la vederea sângelui sau a morții. Este de patru ori mai predispus decât alții să înceapă o luptă socială. : [PAWN_nameDef] are o senzație de adrenalină atunci când rănește oameni și nu o deranjează niciodată vederea sângelui sau a morții. Ea este de patru ori mai predispusă decât alții să înceapă o luptă socială. }\n</Bloodlust.degreeDatas.bloodlust.description>
   
   <!-- EN: body purist -->
-  <BodyPurist.degreeDatas.body_purist.label>corp purist</BodyPurist.degreeDatas.body_purist.label>
+  <BodyPurist.degreeDatas.body_purist.label>purist trupesc</BodyPurist.degreeDatas.body_purist.label>
   <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting. -->
   <BodyPurist.degreeDatas.body_purist.description>{PAWN_gender ? [PAWN_nameDef] crede că trupul uman este limitat cu un motiv. Pentru el, părțile artificiale ale corpului sunt lipsite de etică și dezgustătoare. : [PAWN_nameDef] crede că trupul uman este limitat cu un motiv. Pentru ea, părțile artificiale ale corpului sunt lipsite de etică și dezgustătoare. }\n</BodyPurist.degreeDatas.body_purist.description>
   
@@ -127,7 +127,7 @@
   <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_gender ? [PAWN_nameDef] iubește focul. El nu va stinge niciodată focul. Pentru a scăpa de stres, va merge ocazional la întâmplări aleatorii de aprindere a focului. Acest lucru se întâmplă mai des dacă starea lui de spirit este scăzută. : [PAWN_nameDef] iubește focul. Ea nu va stinge niciodată focul. Pentru a scăpa de stres, ea va merge ocazional la focuri aleatorii. Acest lucru se întâmplă mai des dacă starea ei de spirit este scăzută. }\n</Pyromaniac.degreeDatas.pyromaniac.description>
   
   <!-- EN: quick sleeper -->
-  <QuickSleeper.degreeDatas.quick_sleeper.label>somnoros rapid</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <QuickSleeper.degreeDatas.quick_sleeper.label>somn rapid</QuickSleeper.degreeDatas.quick_sleeper.label>
   <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
   <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_gender ? [PAWN_nameDef] nu are nevoie de atât de mult somn ca o persoană obișnuită. Fie că doarme pe un pat sau pe jos, el va fi complet odihnit în aproximativ două treimi din timpul obișnuit. : [PAWN_nameDef] nu are nevoie de atât de mult somn ca o persoană obișnuită. Fie că doarme pe un pat sau pe pământ, ea va fi complet odihnită în aproximativ două treimi din timpul obișnuit. }\n</QuickSleeper.degreeDatas.quick_sleeper.description>
   
@@ -154,7 +154,7 @@
   <Tough.degreeDatas.tough.description>{PAWN_gender ? [PAWN_nameDef] are o piele groasă, o carne densă și oase durabile. El primește mult mai puține daune decât alți oameni din aceleași lovituri. El este extrem de greu de ucis. : [PAWN_nameDef] are o piele groasă, o carne densă și oase durabile. Ea primește mult mai puține daune decât alți oameni din aceleași lovituri. Ea este extrem de greu de ucis. }\n</Tough.degreeDatas.tough.description>
   
   <!-- EN: body modder -->
-  <Transhumanist.degreeDatas.body_modder.label>modder de corp</Transhumanist.degreeDatas.body_modder.label>
+  <Transhumanist.degreeDatas.body_modder.label>modder trupesc</Transhumanist.degreeDatas.body_modder.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
   <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} se simte limitat în slabul {PAWN_possessive} corp uman. {PAWN_pronoun} visează la îmbunătățirea cu părți artificiale ale corpului.</Transhumanist.degreeDatas.body_modder.description>
   

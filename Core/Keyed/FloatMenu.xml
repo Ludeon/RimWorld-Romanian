@@ -181,7 +181,7 @@
   <ArrestChance>{0} șanse de arestare</ArrestChance>
 
   <!-- EN: Capture {1_label} -->
-  <Capture>Captură {1_label}</Capture>
+  <Capture>Capturează {1_label}</Capture>
   <!-- EN: Cannot capture -->
   <CannotCapture>Nu se poate captura</CannotCapture>
 
