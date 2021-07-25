@@ -66,8 +66,13 @@ class TagTextExtractor:
 
     def empty_save_queue(self):
         for (t, p) in self.saveQueue:
-            # NOTE: "UTF-8-sig" would save as utf-8 with the BOM, but rimworld does not accept that encoding for some reason
-            t.write(str(p), encoding="UTF-8", xml_declaration=True)
+            # "UTF-8-sig" would save as utf-8 with the BOM, but RimWorld does not accept the tag "utf-8-sig"
+            t.write(str(p), encoding="UTF-8")
+            # Just append the BOM by hand...
+            text = open(str(p), "rb").read()
+            text = b'\xEF\xBB\xBF<?xml version="1.0" encoding="UTF-8"?>\n' + text
+            with open(str(p), "wb") as f:
+                f.write(text)
 
     def abort(self):
         self.empty_save_queue()
