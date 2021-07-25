@@ -2,83 +2,83 @@
 <LanguageData>
   
   <!-- EN: berserk trance -->
-  <BerserkTrance.label>TODO</BerserkTrance.label>
+  <BerserkTrance.label>transă berserk</BerserkTrance.label>
   <!-- EN: Driven by fierce moral certainty and stories of ideoligious grievance, this person has driven him or herself into a rage. Every muscle is at peak performance, but it's hard to shut down the anger. -->
-  <BerserkTrance.description>TODO</BerserkTrance.description>
+  <BerserkTrance.description>Condusă de o certitudine morală feroce și de povești de nemulțumire ideoligioasă, această persoană a intrat în furie. Fiecare mușchi este la capacitate maximă de performanță, dar este greu să închidă furia.</BerserkTrance.description>
   
   <!-- EN: combat command -->
-  <CombatCommand.label>TODO</CombatCommand.label>
+  <CombatCommand.label>comandă de luptă</CombatCommand.label>
   <!-- EN: By encouraging and commanding nearby allies, this person can enhance their focus in combat and thus their battle performance. -->
-  <CombatCommand.description>TODO</CombatCommand.description>
+  <CombatCommand.description>Prin încurajarea și comandarea aliaților din apropiere, această persoană își poate spori concentrarea în luptă și, astfel, performanța în luptă.</CombatCommand.description>
   
   <!-- EN: combat command -->
-  <CombatCommandBuff.label>TODO</CombatCommandBuff.label>
+  <CombatCommandBuff.label>comandă de luptă</CombatCommandBuff.label>
   <!-- EN: Combat abilities are boosted thanks to being near someone who is using the combat command ability. -->
-  <CombatCommandBuff.description>TODO</CombatCommandBuff.description>
+  <CombatCommandBuff.description>Abilitățile de luptă sunt potențate datorită faptului că se află în apropierea unei persoane care folosește abilitatea de comandă de luptă.</CombatCommandBuff.description>
   
   <!-- EN: farming command -->
-  <FarmingCommand.label>TODO</FarmingCommand.label>
+  <FarmingCommand.label>comandă agricolă</FarmingCommand.label>
   <!-- EN: This person is offering guidance on farming techniques, boosting the farming abilities for everyone nearby. -->
-  <FarmingCommand.description>TODO</FarmingCommand.description>
+  <FarmingCommand.description>Această persoană oferă îndrumări privind tehnicile agricole, sporind abilitățile agricole ale tuturor celor din apropiere.</FarmingCommand.description>
   
   <!-- EN: farming command -->
-  <FarmingCommandBuff.label>TODO</FarmingCommandBuff.label>
+  <FarmingCommandBuff.label>comandă agricolă</FarmingCommandBuff.label>
   <!-- EN: This person's farming abilities are boosted thanks to being near someone who is using the farming command ability. -->
-  <FarmingCommandBuff.description>TODO</FarmingCommandBuff.description>
+  <FarmingCommandBuff.description>Abilitățile agricole ale acestei persoane sunt sporite datorită faptului că se află în apropierea cuiva care folosește abilitatea de comandă agricolă.</FarmingCommandBuff.description>
   
   <!-- EN: immunity drive -->
-  <ImmunityDrive.label>TODO</ImmunityDrive.label>
+  <ImmunityDrive.label>impuls de imunitate</ImmunityDrive.label>
   <!-- EN: This person has received moral support of an ideoligious nature. Their mental certainty has energized their body and boosted their immune system. -->
-  <ImmunityDrive.description>TODO</ImmunityDrive.description>
+  <ImmunityDrive.description>Această persoană a primit sprijin moral de natură ideoligioasă. Certitudinea lor mentală le-a energizat corpul și le-a stimulat sistemul imunitar.</ImmunityDrive.description>
   
   <!-- EN: marksman command -->
-  <MarksmanCommand.label>TODO</MarksmanCommand.label>
+  <MarksmanCommand.label>comanda trăgătorului de elită</MarksmanCommand.label>
   <!-- EN: This person is using a special ability to call out shots. Everyone within an effect radius gains shooting bonuses. -->
-  <MarksmanCommand.description>TODO</MarksmanCommand.description>
+  <MarksmanCommand.description>Această persoană folosește o abilitate specială pentru a chema focuri de armă. Toți cei aflați pe o rază de efect câștigă bonusuri la tragere.</MarksmanCommand.description>
   
   <!-- EN: marksman command -->
-  <MarksmanCommandBuff.label>TODO</MarksmanCommandBuff.label>
+  <MarksmanCommandBuff.label>comanda trăgătorului de elită</MarksmanCommandBuff.label>
   <!-- EN: Someone is using the marksman command ability nearby, boosting this person's shooting abilities. -->
-  <MarksmanCommandBuff.description>TODO</MarksmanCommandBuff.description>
+  <MarksmanCommandBuff.description>Cineva folosește în apropiere abilitatea de comandă a trăgătorului de elită, sporind abilitățile de tragere ale acestei persoane.</MarksmanCommandBuff.description>
   
   <!-- EN: mining command -->
-  <MiningCommand.label>TODO</MiningCommand.label>
+  <MiningCommand.label>comandă minieră</MiningCommand.label>
   <!-- EN: This person is offering guidance on mining techniques, boosting the mining speed for everyone nearby. -->
-  <MiningCommand.description>TODO</MiningCommand.description>
+  <MiningCommand.description>Această persoană oferă îndrumări privind tehnicile de minerit, sporind viteza de minerit pentru toți cei din apropiere.</MiningCommand.description>
   
   <!-- EN: mining command -->
-  <MiningCommandBuff.label>TODO</MiningCommandBuff.label>
+  <MiningCommandBuff.label>comandă minieră</MiningCommandBuff.label>
   <!-- EN: This person's mining speed is boosted thanks to being near someone who is using the mining command ability. -->
-  <MiningCommandBuff.description>TODO</MiningCommandBuff.description>
+  <MiningCommandBuff.description>Viteza de minerit a acestei persoane este mărită datorită faptului că se află în apropierea cuiva care folosește abilitatea de comandă minieră.</MiningCommandBuff.description>
   
   <!-- EN: preach health -->
-  <PreachHealth.label>TODO</PreachHealth.label>
+  <PreachHealth.label>predică sănătate</PreachHealth.label>
   <!-- EN: This person's will to survive was reinforced by a talk with a moral guide of their ideoligion. That moral certainty has improved their healing and immunization gain rates. -->
-  <PreachHealth.description>TODO</PreachHealth.description>
+  <PreachHealth.description>Dorința de supraviețuire a acestei persoane a fost întărită de o discuție cu un ghid moral al ideoligiei sale. Această certitudine morală le-a îmbunătățit ratele de vindecare și de obținere a imunizării.</PreachHealth.description>
   
   <!-- EN: production command -->
-  <ProductionCommand.label>TODO</ProductionCommand.label>
+  <ProductionCommand.label>comandă de producție</ProductionCommand.label>
   <!-- EN: This person is offering guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. -->
-  <ProductionCommand.description>TODO</ProductionCommand.description>
+  <ProductionCommand.description>Această persoană oferă îndrumări privind tehnicile de construcție, sporind abilitățile de construcție și meșteșugărit pentru toți cei din apropiere.</ProductionCommand.description>
   
   <!-- EN: production command -->
-  <ProductionCommandBuff.label>TODO</ProductionCommandBuff.label>
+  <ProductionCommandBuff.label>comandă de producție</ProductionCommandBuff.label>
   <!-- EN: This person's construction and crafting speeds are boosted thanks to being near someone who is using the production command ability. -->
-  <ProductionCommandBuff.description>TODO</ProductionCommandBuff.description>
+  <ProductionCommandBuff.description>Vitezele de construcție și meșteșugărit ale acestei persoane sunt sporite datorită faptului că se află în apropierea cuiva care folosește abilitatea de comandă a producției.</ProductionCommandBuff.description>
   
   <!-- EN: research command -->
-  <ResearchCommand.label>TODO</ResearchCommand.label>
+  <ResearchCommand.label>comandă de cercetare</ResearchCommand.label>
   <!-- EN: This person is using a special ability to provide suggestions and mental support, boosting the research speed of everyone nearby. -->
-  <ResearchCommand.description>TODO</ResearchCommand.description>
+  <ResearchCommand.description>Această persoană folosește o abilitate specială pentru a oferi sugestii și sprijin mental, stimulând viteza de cercetare a tuturor celor din apropiere.</ResearchCommand.description>
   
   <!-- EN: research command -->
-  <ResearchCommandBuff.label>TODO</ResearchCommandBuff.label>
+  <ResearchCommandBuff.label>comandă de cercetare</ResearchCommandBuff.label>
   <!-- EN: This person's research speed is boosted because they are near someone who is using the research command ability. -->
-  <ResearchCommandBuff.description>TODO</ResearchCommandBuff.description>
+  <ResearchCommandBuff.description>Viteza de cercetare a acestei persoane este mărită datorită faptului că se află în apropierea cuiva care folosește abilitatea de comandă a cercetării.</ResearchCommandBuff.description>
   
   <!-- EN: work drive -->
-  <WorkDrive.label>TODO</WorkDrive.label>
+  <WorkDrive.label>impuls de lucru</WorkDrive.label>
   <!-- EN: The sense of being called upon by a leader to work harder. -->
-  <WorkDrive.description>TODO</WorkDrive.description>
+  <WorkDrive.description>Sentimentul de a fi îndemnat de un lider să muncească mai mult.</WorkDrive.description>
   
 </LanguageData>

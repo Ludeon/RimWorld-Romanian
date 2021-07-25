@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: ate fungus -->
-  <AteFungus.label>TODO</AteFungus.label>
+  <AteFungus.label>a mâncat ciuperci</AteFungus.label>
   
   <!-- EN: ate meal with fungus -->
-  <AteFungusAsIngredient.label>TODO</AteFungusAsIngredient.label>
+  <AteFungusAsIngredient.label>a mâncat mâncare cu ciuperci</AteFungusAsIngredient.label>
   
   <!-- EN: ate non-fungus plant meal -->
-  <AteNonFungusMealWithPlants.label>TODO</AteNonFungusMealWithPlants.label>
+  <AteNonFungusMealWithPlants.label>a mâncat făină de plante fără ciuperci</AteNonFungusMealWithPlants.label>
   
   <!-- EN: ate non-fungus crop -->
-  <AteNonFungusPlant.label>TODO</AteNonFungusPlant.label>
+  <AteNonFungusPlant.label>a mâncat o cultură fără ciuperci</AteNonFungusPlant.label>
   
 </LanguageData>
