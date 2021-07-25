@@ -119,35 +119,36 @@
     <li>r_name->[ConceptBadass] [groupname]</li>
   -->
   <NamerFactionPirate.rulePack.rulesStrings>
-    <li>r_name->[AnimalBadass_AnyPlural]</li>
+    <li>r_name->[AnimalBadass_Plu]</li>
     <li>r_name->Oamenii-[AnimalBadass]</li>
-    <li>r_name->[AnimalBadass_AnyPlural] de [ConceptBadass]</li>
-    <li>r_name->[PersonBadass_AnyPlural] de [ConceptBadass]</li>
-    <li>r_name->[PersonBadass_AnyPlural]</li>
-    <li>r_name->[Enemy_AnyPlural]</li>
-    <li>r_name->Oamenii-[Weapon_AnyPlural]</li>
-    <li>r_name->[Weapon_AnyPlural]</li>
-    <li>r_name->[AnimalBadass_AnyPlural] [Weapon_AnyPlural]</li>
-    <li>r_name->[Enemy_AnyPlural] [Weapon_AnyPlural]</li>
-    <li>r_name->[Weapon_Plural] [ColorBadass_Plural]</li>
-    <li>r_name->[AnimalBadass_Plural] [ColorBadass_Plural]</li>
-    <li>r_name->[PersonBadass_Plural] [ColorBadass_Plural]</li>
-    <li>r_name->[Enemy_Plural] [ColorBadass_Plural]</li>
-    <li>r_name->[Weapon_FemPlural] [ColorBadass_FemPlural]</li>
-    <li>r_name->[AnimalBadass_FemPlural] [ColorBadass_FemPlural]</li>
-    <li>r_name->[PersonBadass_FemPlural] [ColorBadass_FemPlural]</li>
-    <li>r_name->[Enemy_FemPlural] [ColorBadass_FemPlural]</li>
-    <li>r_name->[groupname] de [PersonBadass_AnyPlural]</li>
-    <li>r_name->[Enemy_AnyPlural] [Enemy]</li>
-    <li>r_name->[groupname] [AdjectiveBadass]</li>
-    <li>r_name->[AnimalBadass_AnyPlural] [AdjectiveBadass_AnyPlural]</li>
-    <li>r_name->[Enemy_AnyPlural] [AdjectiveBadass_AnyPlural]</li>
-    <li>r_name->[PersonBadass_AnyPlural] [AdjectiveBadass_AnyPlural]</li>
-    <li>r_name->[PersonAlly_AnyPlural] ai [ConceptBadass]</li>
+    <li>r_name->[AnimalBadass_Plu] de [ConceptBadass]</li>
+    <li>r_name->[PersonBadass_Plu] de [ConceptBadass]</li>
+    <li>r_name->[PersonBadass_Plu]</li>
+    <li>r_name->[Enemy_PluArt]</li>
+    <li>r_name->Oamenii-[Weapon]</li>
+    <li>r_name->[Weapon_Plu]</li>
+    <li>r_name->[AnimalBadass_PluArt]-[Weapon]</li>
+    <li>r_name->[Enemy_PluArt]-[Weapon]</li>
+    <li>r_name->[WeaponMasculine_PluArt] [ColorBadassMasculine_Plu]</li>
+    <li>r_name->[AnimalBadassMasculine_PluArt] [ColorBadassMasculine_Plu]</li>
+    <li>r_name->[PersonBadassMasculine_PluArt] [ColorBadassMasculine_Plu]</li>
+    <li>r_name->[WeaponFeminine_PluArt] [ColorBadassFeminine_Plu]</li>
+    <li>r_name->[AnimalBadassFeminine_PluArt] [ColorBadassFeminine_Plu]</li>
+    <li>r_name->[PersonBadassFeminine_PluArt] [ColorBadassFeminine_Plu]</li>
+    <li>r_name->[groupname] de [PersonBadass_Plu]</li>
+    <li>r_name->[Enemy_PluArt]-[Enemy]</li>
+    <li>r_name->[groupname] [AdjectiveBadass_Plu]</li>
+    <li>r_name->[AnimalBadassMasculine_PluArt] [AdjectiveBadassMasculine_Plu]</li>
+    <li>r_name->[EnemyMasculine_PluArt] [AdjectiveBadassMasculine_Plu]</li>
+    <li>r_name->[AnimalBadassMasculine_PluArt] [AdjectiveBadassMasculine_Plu]</li>
+    <li>r_name->[AnimalBadassFeminine_PluArt] [AdjectiveBadassFeminine_Plu]</li>
+    <li>r_name->[EnemyFeminine_PluArt] [AdjectiveBadassFeminine_Plu]</li>
+    <li>r_name->[AnimalBadassFeminine_PluArt] [AdjectiveBadassFeminine_Plu]</li>
+    <li>r_name->[PersonAlly_Plu] ai [ConceptBadass_ArtDat]</li>
     <li>r_name(p=0.4)->Mâncătorii de [Gore]</li>
-    <li>r_name->[Enemy_AnyPlural] ai [NamePerson]</li>
-    <li>r_name->[AnimalBadass_AnyPlural] ai [NamePerson]</li>
-    <li>r_name->[Weapon_AnyPlural] ai [NamePerson]</li>
+    <li>r_name->[Enemy_Plu] ai [NamePerson]</li>
+    <li>r_name->[AnimalBadass_Plu] ai [NamePerson]</li>
+    <li>r_name->[Weapon_Plu] ai [NamePerson]</li>
     <li>r_name->[groupname] [Weapon] </li>
     <li>r_name->[groupname] [ConceptBadass]</li>
   </NamerFactionPirate.rulePack.rulesStrings>

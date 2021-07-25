@@ -1,0 +1,28 @@
+// These words had their declensed form automatically generated
+
+pumnalului
+briceagului
+toporului
+tomahawkului
+toporașului
+biciului
+ferăstrăului
+ciocanului
+barosului
+buzduganului
+arcului
+pistolului
+revolverului
+tunului
+mortierului
+obuzierului
+proiectilului
+
+// These words were declensed in a best-effort manner
+
+claymore-ului
+scimitar-ului
+
+// These words couldn't be declensed automatically. Edit manually
+
+ciocan de buzunar

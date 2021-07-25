@@ -1,0 +1,55 @@
+// These words had their declensed form automatically generated
+
+aligator
+castor
+liliac
+urs
+bivol
+ghepard
+gândac
+coiot
+crab
+crocodil
+dinozaur
+câine
+măgar
+dragon
+vultur
+șoim
+șoim
+șacal
+jaguar
+cangur
+leopard
+leu
+homar
+țânțar
+porc
+raton
+șobolan
+corb
+rinocer
+scorpion
+rechin
+sconcs
+șarpe
+păianjen
+calmar
+tigru
+păstrăv
+vultur
+lup
+ghiocel
+vierme
+
+// These words were declensed in a best-effort manner
+
+armadillo
+barracuda
+răpitor
+komodo
+mantis
+
+// These words couldn't be declensed automatically. Edit manually
+
+porc spinos

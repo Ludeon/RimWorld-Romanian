@@ -1,0 +1,53 @@
+// These words had their declensed form automatically generated
+
+pumnalelor
+lamelor
+bricegelor
+coaselor
+secerilor
+săbiilor
+săbiilor
+săbiilor
+sulițelor
+lăncilor
+lăncilor
+baionetelor
+sulițelor
+topoarelor
+tomahawkurilor
+toporașelor
+bicelor
+ferăstraielor
+bâtelor
+ciocanelor
+barosurilor
+buzduganelor
+mănușilor
+săgeților
+săgeților
+arbaletelor
+arcurilor
+puștilor
+pistoalelor
+carabinelor
+revolverelor
+tunurilor
+mortierelor
+obuzierelor
+bombelor
+grenadelor
+proiectilelor
+rachetelor
+
+// These words were declensed in a best-effort manner
+
+scimitar-ilor
+ikwa-ilor
+
+// These words couldn't be declensed automatically. Edit manually
+
+lama de ras
+ciocan de buzunar
+pușcă de vânătoare
+bombă nucleară
+mină de teren

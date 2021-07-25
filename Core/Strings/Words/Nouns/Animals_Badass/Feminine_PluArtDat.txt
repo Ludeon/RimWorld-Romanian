@@ -1,0 +1,35 @@
+// These words had their declensed form automatically generated
+
+maimuțelor
+cămilelor
+cobrelor
+ciorilor
+libelulelor
+vulpilor
+broaștelor
+gorilelor
+lăcustelor
+viespilor
+hienelor
+lăcustelor
+cârtițelor
+maimuțelor
+bufnițelor
+panterelor
+salamandrelor
+termitelor
+broaștelor
+viperelor
+viespilor
+nevăstuicilor
+balenelor
+
+// These words were declensed in a best-effort manner
+
+barracuda-elor
+komodo-elor
+mantis-elor
+
+// These words couldn't be declensed automatically. Edit manually
+
+broască țestoasă

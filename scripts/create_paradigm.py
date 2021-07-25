@@ -4,9 +4,10 @@ from pathlib import Path
 import requests
 import argparse
 import itertools
+from enum import Enum
 
 """
-Example exerpt of response:
+Example exerpt of response from www.pluralul.ro:
 
 [...]
 <div class=\'cont-list-title\'>Declinarea substantivului neutru mal:</div>
@@ -43,6 +44,20 @@ Example exerpt of response:
 [...]
 """
 
+class Gender(Enum):
+    Male = "Masculine"
+    Female = "Feminine"
+    Neuter = "Neuter"
+
+    def __str__(self):
+        return self.value
+
+    def parse(s : str):
+        return {
+            "m" : Gender.Male,
+            "f" : Gender.Female,
+            "n" : Gender.Neuter
+        }[s.lower()[0]]
 
 class MyHTMLParser(HTMLParser):
     def __init__(self):
@@ -96,7 +111,7 @@ def search_word(word : str) -> dict:
     for gender, table in zip(parser.genders, parser.tables):
         dic = {
             "word" : table[0],
-            "gender" : gender,
+            "gender" : Gender.parse(gender),
             "Sgl": {
                 "Nat": {
                     "Nom": table[0], "Dat": table[4]
@@ -122,7 +137,7 @@ def search_word(word : str) -> dict:
 def best_effort(word : str, gender : str) -> dict:
     dic = {
         "word" : word,
-        "gender" : gender
+        "gender" : Gender.parse(gender)
     }
 
     g = collapse_gender(gender, "Sgl")
@@ -151,11 +166,35 @@ def best_effort(word : str, gender : str) -> dict:
 
     return dic
 
-def collapse_gender(gender: str, plural: str):
-    if gender.startswith("m") or (gender.startswith("n") and plural == "Sgl"):
-        return "Masculine"
+def collapse_gender(gender: Gender, plural: str) -> Gender:
+    """
+        Romanian has three genders: Masculine, Feminine and Neuter. If we regard only the singular or plural form,
+        then there are only two, since Neuter is a combination of Masculine and Feminine.
+
+        Bascially, convert Neuter to Masculine or Feminine given whether we use the plural or not.
+    """
+    if type(gender) == str:
+        gender = Gender.parse(gender)
+    assert type(gender) == Gender
+    if gender is Gender.Male or (gender is Gender.Neuter and plural == "Sgl"):
+        return Gender.Male
     else:
-        return "Feminine"
+        return Gender.Female
+
+def compute_path(basefile: Path, tag: str) -> Path:
+    return basefile.parent / (basefile.stem) / (tag + basefile.suffix)
+
+def compute_tag(gender: Gender, plural: str, articulated: str, case: str, short=False) -> str:
+    assert gender is not Gender.Neuter, "collapse the gender first"
+    if not short:
+        return f"{str(gender)}_{plural}{articulated}{case}"
+    else:
+        short_tag = "{0}{1}{2}".format(
+            "" if a == "Sgl" else "Plu",
+            "" if b == "Nat" else "Art",
+            "" if c == "Nom" else "Dat"
+        )
+        return f"{str(gender)}_{short_tag}" if short_tag != "" else str(gender)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser("generate files with declination")
@@ -168,6 +207,7 @@ if __name__ == "__main__":
     basename_alias = ""
     while basename_alias == "":
         basename_alias = input(f"What's the singular form of {args.path.stem}? :")
+    (args.path.parent / args.path.stem).mkdir(exist_ok=True)
 
     files = {}
     backlog = []
@@ -185,7 +225,8 @@ if __name__ == "__main__":
 
         results = search_word(word)
         if len(results) > 1:
-            print("Multiple found! " + f"https://www.pluralul.ro/plural-pentru-{word}.html".replace("ă", "a").replace("â", "a").replace("î", "i").replace("ț", "t"))
+            print("Multiple found! " + f"https://www.pluralul.ro/plural-pentru-{word}.html"
+                    .replace("ă", "a").replace("â", "a").replace("î", "i").replace("ț", "t").replace("ș", "s"))
             for i, res in enumerate(results):
                 print(f"{i+1}) {res['word']}")
             while True:
@@ -209,9 +250,9 @@ if __name__ == "__main__":
 
         for (a, b, c) in itertools.product(["Sgl", "Plu"], ["Nat", "Art"], ["Nom", "Dat"]):
             g = collapse_gender(res["gender"], a)
-            tag = f"{g}_{a}{b}{c}"
+            tag = compute_tag(g, a, b, c)
             if tag not in files:
-                p = args.path.parent / (args.path.stem + tag + args.path.suffix)
+                p = compute_path(args.path, tag)
                 files[tag] = open(p, "w", encoding="utf-8")
                 files[tag].write(f"// These words had their declensed form automatically generated\n\n")
 
@@ -231,9 +272,9 @@ if __name__ == "__main__":
 
         for (a, b, c) in itertools.product(["Sgl", "Plu"], ["Nat", "Art"], ["Nom", "Dat"]):
             g = collapse_gender(gender, a)
-            tag = f"{g}_{a}{b}{c}"
+            tag = compute_tag(g, a, b, c)
             if tag not in files:
-                p = args.path.parent / (args.path.stem + tag + args.path.suffix)
+                p = compute_path(args.path, tag)
                 files[tag] = open(p, "w", encoding="utf-8")
                 files[tag].write(f"\n// These words were declensed in a best-effort manner\n\n")
 
@@ -251,9 +292,9 @@ if __name__ == "__main__":
 
         for (a, b, c) in itertools.product(["Sgl", "Plu"], ["Nat", "Art"], ["Nom", "Dat"]):
             g = collapse_gender(gender, a)
-            tag = f"{g}_{a}{b}{c}"
+            tag = compute_tag(g, a, b, c)
             if tag not in files:
-                p = args.path.parent / (args.path.stem + tag + args.path.suffix)
+                p = compute_path(args.path, tag)
                 files[tag] = open(p, "w", encoding="utf-8")
                 files[tag].write(f"\n// These words couldn't be declensed automatically. Edit manually\n\n")
 
@@ -273,19 +314,16 @@ if __name__ == "__main__":
     aliases = []
     for (g, a, b, c) in itertools.product(["m", "f"], ["Sgl", "Plu"], ["Nat", "Art"], ["Nom", "Dat"]):
         g = collapse_gender(g, a)
-        tag = f"{g}_{a}{b}{c}"
+        tag = compute_tag(g, a, b, c)
         if tag not in files:
             continue
 
-        short_tag = "{0}{1}{2}".format(
-            "" if a == "Sgl" else "Plu",
-            "" if b == "Nat" else "Art",
-            "" if c == "Nom" else "Dat"
-        )
-        short_tag = f"{g}_{short_tag}" if short_tag != "" else g
+        short_tag = compute_tag(g, a, b, c, short=True)
         alias = basename_alias + short_tag
         aliases.append(alias)
-        path = args.path.parent / (args.path.stem + tag)
+
+        path = compute_path(args.path, tag)
+        path = path.parent / path.stem
         path = path.relative_to(ref)
         print("    <li>{0}->{1}</li>".format(alias, str(path).replace('\\', '/')))
 

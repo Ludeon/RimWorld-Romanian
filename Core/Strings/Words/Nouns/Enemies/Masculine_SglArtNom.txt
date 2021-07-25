@@ -1,0 +1,30 @@
+// These words had their declensed form automatically generated
+
+banditul
+criminalul
+jefuitorul
+piratul
+tâlharul
+banditul
+escrocul
+pungașul
+hotul
+tâlharul
+teroristul
+barbarul
+canibalul
+diavolul
+demonul
+monstrul
+vampirul
+demonul
+spiridușul
+drăcușorul
+dragonul
+
+// These words were declensed in a best-effort manner
+
+nelegiuit-ul
+
+// These words couldn't be declensed automatically. Edit manually
+

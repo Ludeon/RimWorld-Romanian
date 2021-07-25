@@ -1,0 +1,34 @@
+// These words had their declensed form automatically generated
+
+lama
+coasa
+secera
+sabia
+sabia
+sabia
+sulița
+lancea
+lancea
+baioneta
+sulița
+bâta
+mănușa
+săgeata
+săgeata
+arbaleta
+pușca
+carabina
+bomba
+grenada
+racheta
+
+// These words were declensed in a best-effort manner
+
+ikwa-ul
+
+// These words couldn't be declensed automatically. Edit manually
+
+lama de ras
+pușcă de vânătoare
+bombă nucleară
+mină de teren

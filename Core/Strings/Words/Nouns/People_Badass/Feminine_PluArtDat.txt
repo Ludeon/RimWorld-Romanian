@@ -1,0 +1,10 @@
+// These words had their declensed form automatically generated
+
+criminalurilor
+zdrobitoarelor
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+

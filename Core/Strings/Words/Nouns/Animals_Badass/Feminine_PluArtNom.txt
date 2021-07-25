@@ -1,0 +1,35 @@
+// These words had their declensed form automatically generated
+
+maimuțele
+cămilele
+cobrele
+ciorile
+libelulele
+vulpile
+broaștele
+gorilele
+lăcustele
+viespile
+hienele
+lăcustele
+cârtițele
+maimuțele
+bufnițele
+panterele
+salamandrele
+termitele
+broaștele
+viperele
+viespile
+nevăstuicile
+balenele
+
+// These words were declensed in a best-effort manner
+
+barracuda-ile
+komodo-ile
+mantis-ile
+
+// These words couldn't be declensed automatically. Edit manually
+
+broască țestoasă

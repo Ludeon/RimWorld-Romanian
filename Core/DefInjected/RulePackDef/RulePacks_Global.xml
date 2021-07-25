@@ -48,21 +48,21 @@
     <li>SylE->WordParts/Syllables_English</li>
     <li>SylG->WordParts/Syllables_Galician</li>
     <!--<li>Color->Words/Nouns/Colors</li>-->
-    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
+    <!--<li>ColorBadass->Words/Nouns/Colors_Badass</li>-->
     <li>Vegetable->Words/Nouns/Vegetables</li>
     <li>Game->Words/Nouns/Games</li>
     <li>Animal->Words/Nouns/Animals</li>
-    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <!--<li>AnimalBadass->Words/Nouns/Animals_Badass</li>-->
     <!--<li>AnimalGroup->Words/Nouns/AnimalGroups</li>-->
-    <li>Weapon->Words/Nouns/Weapons</li>
+    <!--<li>Weapon->Words/Nouns/Weapons</li>-->
     <!--<li>TerrainFeature->Words/Nouns/TerrainFeatures</li>-->
     <li>NaturalObject->Words/Nouns/NaturalObject</li>
     <li>TreeType->Words/Nouns/TreeTypes</li>
     <li>PersonJob->Words/Nouns/People_Jobs</li>
     <li>PersonFamily->Words/Nouns/People_Family</li>
     <li>PersonAlly->Words/Nouns/People_Allies</li>
-    <li>PersonBadass->Words/Nouns/People_Badass</li>
-    <li>Enemy->Words/Nouns/Enemies</li>
+    <!--<li>PersonBadass->Words/Nouns/People_Badass</li>-->
+    <!--<li>Enemy->Words/Nouns/Enemies</li>-->
     <li>Apparel->Words/Nouns/Apparel</li>
     <li>Gore->Words/Nouns/Gore</li>
     <li>Mechanoid->Words/Nouns/Mechanoid</li>
@@ -85,57 +85,125 @@
     <li>SylE_Cap->WordParts/Syllables_English_Cap</li>
     <li>SylG_Cap->WordParts/Syllables_Galician_Cap</li>
     <!-- Extras for Romanian language -->
-    <li>ColorMasculine->Words/Nouns/ColorsMasculine</li>
-    <li>ColorMasculine_Plu->Words/Nouns/ColorsMasculine_Plu</li>
-    <li>ColorFeminine->Words/Nouns/ColorsFeminine</li>
-    <li>ColorFeminine_Plu->Words/Nouns/ColorsFeminine_Plu</li>
+    <li>ColorMasculine->Words/Nouns/Colors/ColorsMasculine</li>
+    <li>ColorMasculine_Plu->Words/Nouns/Colors/ColorsMasculine_Plu</li>
+    <li>ColorFeminine->Words/Nouns/Colors/ColorsFeminine</li>
+    <li>ColorFeminine_Plu->Words/Nouns/Colors/ColorsFeminine_Plu</li>
+    <li>ColorBadassMasculine->Words/Nouns/Colors_Badass/Masculine</li>
+    <li>ColorBadassMasculine_Plu->Words/Nouns/Colors_Badass/Masculine_Plu</li>
+    <li>ColorBadassFeminine->Words/Nouns/Colors_Badass/Feminine</li>
+    <li>ColorBadassFeminine_Plu->Words/Nouns/Colors_Badass/Feminine_Plu</li>
     <!-- Paradigm of the file AnimalGroups.xml -->
-    <li>AnimalGroupMasculine->Words/Nouns/AnimalGroupsMasculine_SglNatNom</li>
-    <li>AnimalGroupMasculine_Dat->Words/Nouns/AnimalGroupsMasculine_SglNatDat</li>
-    <li>AnimalGroupMasculine_Art->Words/Nouns/AnimalGroupsMasculine_SglArtNom</li>
-    <li>AnimalGroupMasculine_ArtDat->Words/Nouns/AnimalGroupsMasculine_SglArtDat</li>
-    <li>AnimalGroupFeminine->Words/Nouns/AnimalGroupsFeminine_SglNatNom</li>
-    <li>AnimalGroupFeminine_Dat->Words/Nouns/AnimalGroupsFeminine_SglNatDat</li>
-    <li>AnimalGroupFeminine_Art->Words/Nouns/AnimalGroupsFeminine_SglArtNom</li>
-    <li>AnimalGroupFeminine_ArtDat->Words/Nouns/AnimalGroupsFeminine_SglArtDat</li>
-    <li>AnimalGroupFeminine_Plu->Words/Nouns/AnimalGroupsFeminine_PluNatNom</li>
-    <li>AnimalGroupFeminine_PluDat->Words/Nouns/AnimalGroupsFeminine_PluNatDat</li>
-    <li>AnimalGroupFeminine_PluArt->Words/Nouns/AnimalGroupsFeminine_PluArtNom</li>
-    <li>AnimalGroupFeminine_PluArtDat->Words/Nouns/AnimalGroupsFeminine_PluArtDat</li>
+    <li>AnimalGroupMasculine->Words/Nouns/AnimalGroups/Masculine_SglNatNom</li>
+    <li>AnimalGroupMasculine_Dat->Words/Nouns/AnimalGroups/Masculine_SglNatDat</li>
+    <li>AnimalGroupMasculine_Art->Words/Nouns/AnimalGroups/Masculine_SglArtNom</li>
+    <li>AnimalGroupMasculine_ArtDat->Words/Nouns/AnimalGroups/Masculine_SglArtDat</li>
+    <li>AnimalGroupFeminine->Words/Nouns/AnimalGroups/Feminine_SglNatNom</li>
+    <li>AnimalGroupFeminine_Dat->Words/Nouns/AnimalGroups/Feminine_SglNatDat</li>
+    <li>AnimalGroupFeminine_Art->Words/Nouns/AnimalGroups/Feminine_SglArtNom</li>
+    <li>AnimalGroupFeminine_ArtDat->Words/Nouns/AnimalGroups/Feminine_SglArtDat</li>
+    <li>AnimalGroupFeminine_Plu->Words/Nouns/AnimalGroups/Feminine_PluNatNom</li>
+    <li>AnimalGroupFeminine_PluDat->Words/Nouns/AnimalGroups/Feminine_PluNatDat</li>
+    <li>AnimalGroupFeminine_PluArt->Words/Nouns/AnimalGroups/Feminine_PluArtNom</li>
+    <li>AnimalGroupFeminine_PluArtDat->Words/Nouns/AnimalGroups/Feminine_PluArtDat</li>
     <!-- Paradigm of the file TerrainFeatures.xml -->
-    <li>TerrainFeatureMasculine->Words/Nouns/TerrainFeaturesMasculine_SglNatNom</li>
-    <li>TerrainFeatureMasculine_Dat->Words/Nouns/TerrainFeaturesMasculine_SglNatDat</li>
-    <li>TerrainFeatureMasculine_Art->Words/Nouns/TerrainFeaturesMasculine_SglArtNom</li>
-    <li>TerrainFeatureMasculine_ArtDat->Words/Nouns/TerrainFeaturesMasculine_SglArtDat</li>
-    <li>TerrainFeatureMasculine_Plu->Words/Nouns/TerrainFeaturesMasculine_PluNatNom</li>
-    <li>TerrainFeatureMasculine_PluDat->Words/Nouns/TerrainFeaturesMasculine_PluNatDat</li>
-    <li>TerrainFeatureMasculine_PluArt->Words/Nouns/TerrainFeaturesMasculine_PluArtNom</li>
-    <li>TerrainFeatureMasculine_PluArtDat->Words/Nouns/TerrainFeaturesMasculine_PluArtDat</li>
-    <li>TerrainFeatureFeminine->Words/Nouns/TerrainFeaturesFeminine_SglNatNom</li>
-    <li>TerrainFeatureFeminine_Dat->Words/Nouns/TerrainFeaturesFeminine_SglNatDat</li>
-    <li>TerrainFeatureFeminine_Art->Words/Nouns/TerrainFeaturesFeminine_SglArtNom</li>
-    <li>TerrainFeatureFeminine_ArtDat->Words/Nouns/TerrainFeaturesFeminine_SglArtDat</li>
-    <li>TerrainFeatureFeminine_Plu->Words/Nouns/TerrainFeaturesFeminine_PluNatNom</li>
-    <li>TerrainFeatureFeminine_PluDat->Words/Nouns/TerrainFeaturesFeminine_PluNatDat</li>
-    <li>TerrainFeatureFeminine_PluArt->Words/Nouns/TerrainFeaturesFeminine_PluArtNom</li>
-    <li>TerrainFeatureFeminine_PluArtDat->Words/Nouns/TerrainFeaturesFeminine_PluArtDat</li>
+    <li>TerrainFeatureMasculine->Words/Nouns/TerrainFeatures/Masculine_SglNatNom</li>
+    <li>TerrainFeatureMasculine_Dat->Words/Nouns/TerrainFeatures/Masculine_SglNatDat</li>
+    <li>TerrainFeatureMasculine_Art->Words/Nouns/TerrainFeatures/Masculine_SglArtNom</li>
+    <li>TerrainFeatureMasculine_ArtDat->Words/Nouns/TerrainFeatures/Masculine_SglArtDat</li>
+    <li>TerrainFeatureMasculine_Plu->Words/Nouns/TerrainFeatures/Masculine_PluNatNom</li>
+    <li>TerrainFeatureMasculine_PluDat->Words/Nouns/TerrainFeatures/Masculine_PluNatDat</li>
+    <li>TerrainFeatureMasculine_PluArt->Words/Nouns/TerrainFeatures/Masculine_PluArtNom</li>
+    <li>TerrainFeatureMasculine_PluArtDat->Words/Nouns/TerrainFeatures/Masculine_PluArtDat</li>
+    <li>TerrainFeatureFeminine->Words/Nouns/TerrainFeatures/Feminine_SglNatNom</li>
+    <li>TerrainFeatureFeminine_Dat->Words/Nouns/TerrainFeatures/Feminine_SglNatDat</li>
+    <li>TerrainFeatureFeminine_Art->Words/Nouns/TerrainFeatures/Feminine_SglArtNom</li>
+    <li>TerrainFeatureFeminine_ArtDat->Words/Nouns/TerrainFeatures/Feminine_SglArtDat</li>
+    <li>TerrainFeatureFeminine_Plu->Words/Nouns/TerrainFeatures/Feminine_PluNatNom</li>
+    <li>TerrainFeatureFeminine_PluDat->Words/Nouns/TerrainFeatures/Feminine_PluNatDat</li>
+    <li>TerrainFeatureFeminine_PluArt->Words/Nouns/TerrainFeatures/Feminine_PluArtNom</li>
+    <li>TerrainFeatureFeminine_PluArtDat->Words/Nouns/TerrainFeatures/Feminine_PluArtDat</li>
     <!-- Paradigm of the file Animals.xml -->
-    <li>AnimalMasculine->Words/Nouns/AnimalsMasculine_SglNatNom</li>
-    <li>AnimalMasculine_Dat->Words/Nouns/AnimalsMasculine_SglNatDat</li>
-    <li>AnimalMasculine_Art->Words/Nouns/AnimalsMasculine_SglArtNom</li>
-    <li>AnimalMasculine_ArtDat->Words/Nouns/AnimalsMasculine_SglArtDat</li>
-    <li>AnimalMasculine_Plu->Words/Nouns/AnimalsMasculine_PluNatNom</li>
-    <li>AnimalMasculine_PluDat->Words/Nouns/AnimalsMasculine_PluNatDat</li>
-    <li>AnimalMasculine_PluArt->Words/Nouns/AnimalsMasculine_PluArtNom</li>
-    <li>AnimalMasculine_PluArtDat->Words/Nouns/AnimalsMasculine_PluArtDat</li>
-    <li>AnimalFeminine->Words/Nouns/AnimalsFeminine_SglNatNom</li>
-    <li>AnimalFeminine_Dat->Words/Nouns/AnimalsFeminine_SglNatDat</li>
-    <li>AnimalFeminine_Art->Words/Nouns/AnimalsFeminine_SglArtNom</li>
-    <li>AnimalFeminine_ArtDat->Words/Nouns/AnimalsFeminine_SglArtDat</li>
-    <li>AnimalFeminine_Plu->Words/Nouns/AnimalsFeminine_PluNatNom</li>
-    <li>AnimalFeminine_PluDat->Words/Nouns/AnimalsFeminine_PluNatDat</li>
-    <li>AnimalFeminine_PluArt->Words/Nouns/AnimalsFeminine_PluArtNom</li>
-    <li>AnimalFeminine_PluArtDat->Words/Nouns/AnimalsFeminine_PluArtDat</li>
+    <li>AnimalMasculine->Words/Nouns/Animals/Masculine_SglNatNom</li>
+    <li>AnimalMasculine_Dat->Words/Nouns/Animals/Masculine_SglNatDat</li>
+    <li>AnimalMasculine_Art->Words/Nouns/Animals/Masculine_SglArtNom</li>
+    <li>AnimalMasculine_ArtDat->Words/Nouns/Animals/Masculine_SglArtDat</li>
+    <li>AnimalMasculine_Plu->Words/Nouns/Animals/Masculine_PluNatNom</li>
+    <li>AnimalMasculine_PluDat->Words/Nouns/Animals/Masculine_PluNatDat</li>
+    <li>AnimalMasculine_PluArt->Words/Nouns/Animals/Masculine_PluArtNom</li>
+    <li>AnimalMasculine_PluArtDat->Words/Nouns/Animals/Masculine_PluArtDat</li>
+    <li>AnimalFeminine->Words/Nouns/Animals/Feminine_SglNatNom</li>
+    <li>AnimalFeminine_Dat->Words/Nouns/Animals/Feminine_SglNatDat</li>
+    <li>AnimalFeminine_Art->Words/Nouns/Animals/Feminine_SglArtNom</li>
+    <li>AnimalFeminine_ArtDat->Words/Nouns/Animals/Feminine_SglArtDat</li>
+    <li>AnimalFeminine_Plu->Words/Nouns/Animals/Feminine_PluNatNom</li>
+    <li>AnimalFeminine_PluDat->Words/Nouns/Animals/Feminine_PluNatDat</li>
+    <li>AnimalFeminine_PluArt->Words/Nouns/Animals/Feminine_PluArtNom</li>
+    <li>AnimalFeminine_PluArtDat->Words/Nouns/Animals/Feminine_PluArtDat</li>
+    <!-- Paradigm of the file Animals_Badass.xml -->
+    <li>AnimalBadassMasculine->Words/Nouns/Animals_Badass/Masculine_SglNatNom</li>
+    <li>AnimalBadassMasculine_Dat->Words/Nouns/Animals_Badass/Masculine_SglNatDat</li>
+    <li>AnimalBadassMasculine_Art->Words/Nouns/Animals_Badass/Masculine_SglArtNom</li>
+    <li>AnimalBadassMasculine_ArtDat->Words/Nouns/Animals_Badass/Masculine_SglArtDat</li>
+    <li>AnimalBadassMasculine_Plu->Words/Nouns/Animals_Badass/Masculine_PluNatNom</li>
+    <li>AnimalBadassMasculine_PluDat->Words/Nouns/Animals_Badass/Masculine_PluNatDat</li>
+    <li>AnimalBadassMasculine_PluArt->Words/Nouns/Animals_Badass/Masculine_PluArtNom</li>
+    <li>AnimalBadassMasculine_PluArtDat->Words/Nouns/Animals_Badass/Masculine_PluArtDat</li>
+    <li>AnimalBadassFeminine->Words/Nouns/Animals_Badass/Feminine_SglNatNom</li>
+    <li>AnimalBadassFeminine_Dat->Words/Nouns/Animals_Badass/Feminine_SglNatDat</li>
+    <li>AnimalBadassFeminine_Art->Words/Nouns/Animals_Badass/Feminine_SglArtNom</li>
+    <li>AnimalBadassFeminine_ArtDat->Words/Nouns/Animals_Badass/Feminine_SglArtDat</li>
+    <li>AnimalBadassFeminine_Plu->Words/Nouns/Animals_Badass/Feminine_PluNatNom</li>
+    <li>AnimalBadassFeminine_PluDat->Words/Nouns/Animals_Badass/Feminine_PluNatDat</li>
+    <li>AnimalBadassFeminine_PluArt->Words/Nouns/Animals_Badass/Feminine_PluArtNom</li>
+    <li>AnimalBadassFeminine_PluArtDat->Words/Nouns/Animals_Badass/Feminine_PluArtDat</li>
+    <!-- Paradigm of the file Enemies.xml -->
+    <li>EnemyMasculine->Words/Nouns/Enemies/Masculine_SglNatNom</li>
+    <li>EnemyMasculine_Dat->Words/Nouns/Enemies/Masculine_SglNatDat</li>
+    <li>EnemyMasculine_Art->Words/Nouns/Enemies/Masculine_SglArtNom</li>
+    <li>EnemyMasculine_ArtDat->Words/Nouns/Enemies/Masculine_SglArtDat</li>
+    <li>EnemyMasculine_Plu->Words/Nouns/Enemies/Masculine_PluNatNom</li>
+    <li>EnemyMasculine_PluDat->Words/Nouns/Enemies/Masculine_PluNatDat</li>
+    <li>EnemyMasculine_PluArt->Words/Nouns/Enemies/Masculine_PluArtNom</li>
+    <li>EnemyMasculine_PluArtDat->Words/Nouns/Enemies/Masculine_PluArtDat</li>
+    <li>EnemyFeminine->Words/Nouns/Enemies/Feminine_SglNatNom</li>
+    <li>EnemyFeminine_Dat->Words/Nouns/Enemies/Feminine_SglNatDat</li>
+    <li>EnemyFeminine_Art->Words/Nouns/Enemies/Feminine_SglArtNom</li>
+    <li>EnemyFeminine_ArtDat->Words/Nouns/Enemies/Feminine_SglArtDat</li>
+    <li>EnemyFeminine_Plu->Words/Nouns/Enemies/Feminine_PluNatNom</li>
+    <li>EnemyFeminine_PluDat->Words/Nouns/Enemies/Feminine_PluNatDat</li>
+    <li>EnemyFeminine_PluArt->Words/Nouns/Enemies/Feminine_PluArtNom</li>
+    <li>EnemyFeminine_PluArtDat->Words/Nouns/Enemies/Feminine_PluArtDat</li>
+    <!-- Paradigm of the file Weapons.xml -->
+    <li>WeaponMasculine->Words/Nouns/Weapons/Masculine_SglNatNom</li>
+    <li>WeaponMasculine_Dat->Words/Nouns/Weapons/Masculine_SglNatDat</li>
+    <li>WeaponMasculine_Art->Words/Nouns/Weapons/Masculine_SglArtNom</li>
+    <li>WeaponMasculine_ArtDat->Words/Nouns/Weapons/Masculine_SglArtDat</li>
+    <li>WeaponMasculine_Plu->Words/Nouns/Weapons/Masculine_PluNatNom</li>
+    <li>WeaponMasculine_PluDat->Words/Nouns/Weapons/Masculine_PluNatDat</li>
+    <li>WeaponMasculine_PluArt->Words/Nouns/Weapons/Masculine_PluArtNom</li>
+    <li>WeaponMasculine_PluArtDat->Words/Nouns/Weapons/Masculine_PluArtDat</li>
+    <li>WeaponFeminine->Words/Nouns/Weapons/Feminine_SglNatNom</li>
+    <li>WeaponFeminine_Dat->Words/Nouns/Weapons/Feminine_SglNatDat</li>
+    <li>WeaponFeminine_Art->Words/Nouns/Weapons/Feminine_SglArtNom</li>
+    <li>WeaponFeminine_ArtDat->Words/Nouns/Weapons/Feminine_SglArtDat</li>
+    <li>WeaponFeminine_Plu->Words/Nouns/Weapons/Feminine_PluNatNom</li>
+    <li>WeaponFeminine_PluDat->Words/Nouns/Weapons/Feminine_PluNatDat</li>
+    <li>WeaponFeminine_PluArt->Words/Nouns/Weapons/Feminine_PluArtNom</li>
+    <li>WeaponFeminine_PluArtDat->Words/Nouns/Weapons/Feminine_PluArtDat</li>
+    <!-- Paradigm of the file People_Badass.xml -->
+    <li>PersonBadassMasculine->Words/Nouns/People_Badass/Masculine_SglNatNom</li>
+    <li>PersonBadassMasculine_Dat->Words/Nouns/People_Badass/Masculine_SglNatDat</li>
+    <li>PersonBadassMasculine_Art->Words/Nouns/People_Badass/Masculine_SglArtNom</li>
+    <li>PersonBadassMasculine_ArtDat->Words/Nouns/People_Badass/Masculine_SglArtDat</li>
+    <li>PersonBadassMasculine_Plu->Words/Nouns/People_Badass/Masculine_PluNatNom</li>
+    <li>PersonBadassMasculine_PluDat->Words/Nouns/People_Badass/Masculine_PluNatDat</li>
+    <li>PersonBadassMasculine_PluArt->Words/Nouns/People_Badass/Masculine_PluArtNom</li>
+    <li>PersonBadassMasculine_PluArtDat->Words/Nouns/People_Badass/Masculine_PluArtDat</li>
+    <li>PersonBadassFeminine_Plu->Words/Nouns/People_Badass/Feminine_PluNatNom</li>
+    <li>PersonBadassFeminine_PluDat->Words/Nouns/People_Badass/Feminine_PluNatDat</li>
+    <li>PersonBadassFeminine_PluArt->Words/Nouns/People_Badass/Feminine_PluArtNom</li>
+    <li>PersonBadassFeminine_PluArtDat->Words/Nouns/People_Badass/Feminine_PluArtDat</li>
   </GlobalUtility.rulePack.rulesFiles>
 
   <!-- EN:
@@ -291,6 +359,70 @@
     <li>Animal_PluArt->[AnimalMasculine_PluArt]</li>
     <li>Animal_PluArtDat->[AnimalFeminine_PluArtDat]</li>
     <li>Animal_PluArtDat->[AnimalMasculine_PluArtDat]</li>
+    <!-- Paradigm of the file Animals_Badass.xml -->
+    <li>AnimalBadass->[AnimalBadassFeminine]</li>
+    <li>AnimalBadass->[AnimalBadassMasculine]</li>
+    <li>AnimalBadass_Dat->[AnimalBadassFeminine_Dat]</li>
+    <li>AnimalBadass_Dat->[AnimalBadassMasculine_Dat]</li>
+    <li>AnimalBadass_Art->[AnimalBadassFeminine_Art]</li>
+    <li>AnimalBadass_Art->[AnimalBadassMasculine_Art]</li>
+    <li>AnimalBadass_ArtDat->[AnimalBadassFeminine_ArtDat]</li>
+    <li>AnimalBadass_ArtDat->[AnimalBadassMasculine_ArtDat]</li>
+    <li>AnimalBadass_Plu->[AnimalBadassFeminine_Plu]</li>
+    <li>AnimalBadass_Plu->[AnimalBadassMasculine_Plu]</li>
+    <li>AnimalBadass_PluDat->[AnimalBadassFeminine_PluDat]</li>
+    <li>AnimalBadass_PluDat->[AnimalBadassMasculine_PluDat]</li>
+    <li>AnimalBadass_PluArt->[AnimalBadassFeminine_PluArt]</li>
+    <li>AnimalBadass_PluArt->[AnimalBadassMasculine_PluArt]</li>
+    <li>AnimalBadass_PluArtDat->[AnimalBadassFeminine_PluArtDat]</li>
+    <li>AnimalBadass_PluArtDat->[AnimalBadassMasculine_PluArtDat]</li>
+    <!-- Paradigm of the file Enemies.xml -->
+    <li>Enemy->[EnemyFeminine]</li>
+    <li>Enemy->[EnemyMasculine]</li>
+    <li>Enemy_Dat->[EnemyFeminine_Dat]</li>
+    <li>Enemy_Dat->[EnemyMasculine_Dat]</li>
+    <li>Enemy_Art->[EnemyFeminine_Art]</li>
+    <li>Enemy_Art->[EnemyMasculine_Art]</li>
+    <li>Enemy_ArtDat->[EnemyFeminine_ArtDat]</li>
+    <li>Enemy_ArtDat->[EnemyMasculine_ArtDat]</li>
+    <li>Enemy_Plu->[EnemyFeminine_Plu]</li>
+    <li>Enemy_Plu->[EnemyMasculine_Plu]</li>
+    <li>Enemy_PluDat->[EnemyFeminine_PluDat]</li>
+    <li>Enemy_PluDat->[EnemyMasculine_PluDat]</li>
+    <li>Enemy_PluArt->[EnemyFeminine_PluArt]</li>
+    <li>Enemy_PluArt->[EnemyMasculine_PluArt]</li>
+    <li>Enemy_PluArtDat->[EnemyFeminine_PluArtDat]</li>
+    <li>Enemy_PluArtDat->[EnemyMasculine_PluArtDat]</li>
+    <!-- Paradigm of the file Weapons.xml -->
+    <li>Weapon->[WeaponFeminine]</li>
+    <li>Weapon->[WeaponMasculine]</li>
+    <li>Weapon_Dat->[WeaponFeminine_Dat]</li>
+    <li>Weapon_Dat->[WeaponMasculine_Dat]</li>
+    <li>Weapon_Art->[WeaponFeminine_Art]</li>
+    <li>Weapon_Art->[WeaponMasculine_Art]</li>
+    <li>Weapon_ArtDat->[WeaponFeminine_ArtDat]</li>
+    <li>Weapon_ArtDat->[WeaponMasculine_ArtDat]</li>
+    <li>Weapon_Plu->[WeaponFeminine_Plu]</li>
+    <li>Weapon_Plu->[WeaponMasculine_Plu]</li>
+    <li>Weapon_PluDat->[WeaponFeminine_PluDat]</li>
+    <li>Weapon_PluDat->[WeaponMasculine_PluDat]</li>
+    <li>Weapon_PluArt->[WeaponFeminine_PluArt]</li>
+    <li>Weapon_PluArt->[WeaponMasculine_PluArt]</li>
+    <li>Weapon_PluArtDat->[WeaponFeminine_PluArtDat]</li>
+    <li>Weapon_PluArtDat->[WeaponMasculine_PluArtDat]</li>
+    <!-- Paradigm of the file People_Badass.xml -->
+    <li>PersonBadass->[PersonBadassMasculine]</li>
+    <li>PersonBadass_Dat->[PersonBadassMasculine_Dat]</li>
+    <li>PersonBadass_Art->[PersonBadassMasculine_Art]</li>
+    <li>PersonBadass_ArtDat->[PersonBadassMasculine_ArtDat]</li>
+    <li>PersonBadass_Plu->[PersonBadassFeminine_Plu]</li>
+    <li>PersonBadass_Plu->[PersonBadassMasculine_Plu]</li>
+    <li>PersonBadass_PluDat->[PersonBadassFeminine_PluDat]</li>
+    <li>PersonBadass_PluDat->[PersonBadassMasculine_PluDat]</li>
+    <li>PersonBadass_PluArt->[PersonBadassFeminine_PluArt]</li>
+    <li>PersonBadass_PluArt->[PersonBadassMasculine_PluArt]</li>
+    <li>PersonBadass_PluArtDat->[PersonBadassFeminine_PluArtDat]</li>
+    <li>PersonBadass_PluArtDat->[PersonBadassMasculine_PluArtDat]</li>
   </GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:

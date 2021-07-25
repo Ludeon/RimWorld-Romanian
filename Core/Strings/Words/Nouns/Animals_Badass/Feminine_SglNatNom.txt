@@ -1,0 +1,32 @@
+// These words had their declensed form automatically generated
+
+maimuță
+cămilă
+cobra
+cioară
+libelulă
+vulpe
+broască
+gorilă
+lăcustă
+viespe
+hienă
+lăcustă
+cârtiță
+maimuță
+bufniță
+panteră
+salamandră
+termită
+broască
+viperă
+viespe
+nevăstuică
+balenă
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+
+broască țestoasă

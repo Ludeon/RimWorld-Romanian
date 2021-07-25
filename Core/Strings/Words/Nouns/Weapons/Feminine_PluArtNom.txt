@@ -1,0 +1,53 @@
+// These words had their declensed form automatically generated
+
+pumnalele
+lamele
+bricegele
+coasele
+secerile
+săbiile
+săbiile
+săbiile
+sulițele
+lăncile
+lăncile
+baionetele
+sulițele
+topoarele
+tomahawkurile
+toporașele
+bicele
+ferăstraiele
+bâtele
+ciocanele
+barosurile
+buzduganele
+mănușile
+săgețile
+săgețile
+arbaletele
+arcurile
+puștile
+pistoalele
+carabinele
+revolverele
+tunurile
+mortierele
+obuzierele
+bombele
+grenadele
+proiectilele
+rachetele
+
+// These words were declensed in a best-effort manner
+
+scimitar-ii
+ikwa-ii
+
+// These words couldn't be declensed automatically. Edit manually
+
+lama de ras
+ciocan de buzunar
+pușcă de vânătoare
+bombă nucleară
+mină de teren
