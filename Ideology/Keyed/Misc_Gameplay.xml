@@ -4,9 +4,9 @@
   <!-- EN: Choose your faction's ideoligion -->
   <ChooseIdeoligion>Alege ideoligia facțiunii tale</ChooseIdeoligion>
   <!-- EN: Create custom -->
-  <CreateCustom>Creează un obicei</CreateCustom>
+  <CreateCustom>Creare customizată</CreateCustom>
   <!-- EN: Create new -->
-  <CreateNew>Creați un nou</CreateNew>
+  <CreateNew>Creare nouă</CreateNew>
   <!-- EN: Create custom ideoligion -->
   <CreateCustomIdeoligion>Creați o ideoligie personalizată</CreateCustomIdeoligion>
   <!-- EN: Select an ideoligion for your faction on the left, or -->
@@ -14,9 +14,9 @@
   <!-- EN: ideoligion -->
   <Ideo>Ideoligion</Ideo> 
   <!-- EN: Randomize all -->
-  <RandomizeAll>Aleatorizează toate</RandomizeAll>
+  <RandomizeAll>Randomizează toate</RandomizeAll>
   <!-- EN: Appearance -->
-  <Appearance>Apariție</Appearance>
+  <Appearance>Aspect fizic</Appearance>
   <!-- EN: Done -->
   <DoneButton>Terminat</DoneButton>
   <!-- EN: Caused by -->
@@ -44,7 +44,7 @@
   <!-- EN: total bodysize per colonist -->
   <AnimalsBodySizePerColonist>Dimensiunea corporală totală a animalelor per colonist</AnimalsBodySizePerColonist>
   <!-- EN: total nearby bodysize per colonist -->
-  <VeneratedAnimalsBodySizePerColonist>Dimensiunea totală a corpului din apropiere per colonist</VeneratedAnimalsBodySizePerColonist>
+  <VeneratedAnimalsBodySizePerColonist>Dimensiunea corporală totală din apropiere per colonist</VeneratedAnimalsBodySizePerColonist>
   <!-- EN: Expecting at least {0} body size per colonist. -->
   <MinAnimalBodySizePerColonist>Se așteaptă cel puțin {0} dimensiune corporală per colonist.</MinAnimalBodySizePerColonist>
   <!-- EN: Plant {0_label} -->

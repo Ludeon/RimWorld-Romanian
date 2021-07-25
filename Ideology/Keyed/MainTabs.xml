@@ -35,7 +35,7 @@
   <!-- EN: Preferred apparel -->
   <IdeoApparel>Îmbrăcăminte preferată</IdeoApparel>
   <!-- EN: apparel desire -->
-  <IdeoApparelDesire>îmbrăcăminte dorință</IdeoApparelDesire>
+  <IdeoApparelDesire>dorință de haine</IdeoApparelDesire>
   <!-- EN: Won't do -->
   <UnwillingToDoIdeoAction>Nu va face</UnwillingToDoIdeoAction>
   <!-- EN: Stats -->
@@ -51,9 +51,9 @@
   <!-- EN: Add precept -->
   <AddPrecept>Adaugă precept</AddPrecept>
   <!-- EN: Randomize deities -->
-  <RandomizeDeities>Randomizează zeitățile</RandomizeDeities>
+  <RandomizeDeities>Randomizează zeii</RandomizeDeities>
   <!-- EN: Add deity -->
-  <AddDeity>Adăugați zeitate</AddDeity>
+  <AddDeity>Adaugă zeitate</AddDeity>
   <!-- EN: Choose memes -->
   <ChooseMemes>Alege meme-uri</ChooseMemes>
   <!-- EN: Choose structure -->
@@ -93,7 +93,7 @@
   <!-- EN: Edit -->
   <Edit>Editare</Edit>
   <!-- EN: Randomize symbols -->
-  <RandomizeSymbols>Randomizarea simbolurilor</RandomizeSymbols>
+  <RandomizeSymbols>Randomizează simbolurile</RandomizeSymbols>
   <!-- EN: Randomize ideoligion name, icon, narrative, leader title and any other texts like ritual names or role names. This does not affect gameplay elements like memes or precepts. -->
   <RandomizeSymbolsTooltip>Randomizează numele ideoligiei, icoana, narațiunea, titlul liderului și orice alte texte, cum ar fi numele ritualurilor sau numele rolurilor. Acest lucru nu afectează elementele de joc precum meme sau precepte.</RandomizeSymbolsTooltip>
   <!-- EN: Click any element to edit it -->
@@ -135,7 +135,7 @@
   <!-- EN: Venerated animals -->
   <VeneratedAnimals>Animale venerate</VeneratedAnimals>
   <!-- EN: weapon pair -->
-  <IdeoWeapon>pereche de arme</IdeoWeapon>
+  <IdeoWeapon>arme-pereche</IdeoWeapon>
   <!-- EN: Weapons -->
   <IdeoWeapons>Arme</IdeoWeapons>
   <!-- EN: Swap noble and despised -->

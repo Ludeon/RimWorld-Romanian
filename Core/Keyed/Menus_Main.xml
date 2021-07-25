@@ -11,7 +11,7 @@
   <!-- EN: Review scenario -->
   <ReviewScenario>Revizuire scenariu</ReviewScenario>
   <!-- EN: Save -->
-  <Save>Salvează joc</Save>
+  <Save>Salvează</Save>
   <!-- EN: Load game -->
   <LoadGame>Încarcă joc</LoadGame>
   <!-- EN: Options -->
@@ -253,7 +253,7 @@
   <!-- EN: seed -->
   <Seed>cod de generare</Seed>
   <!-- EN: Load -->
-  <Load>Încărcare colonie precedentă</Load>
+  <Load>Încarcă</Load>
   <!-- EN: edit mode -->
   <EditMode>mod de editare</EditMode>
   <!-- EN: Summary -->

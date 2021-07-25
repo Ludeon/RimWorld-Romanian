@@ -39,7 +39,7 @@
   <!-- EN: No choices available -->
   <NoChoicesAvailable>Nu există opțiuni disponibile</NoChoicesAvailable>
   <!-- EN: Required by meme {0} -->
-  <RequiredByMeme>Necesar pentru meme {0}</RequiredByMeme>
+  <RequiredByMeme>Necesitat de mema {0}</RequiredByMeme>
   <!-- EN: Required -->
   <Required>Necesar</Required>
   <!-- EN: Style category -->
@@ -76,7 +76,7 @@
   <!-- EN: deity -->
   <Deity>deity</Deity>
   <!-- EN: requires meme -->
-  <RequiresMeme>necesită meme</RequiresMeme>
+  <RequiresMeme>necesită memă</RequiresMeme>
   <!-- EN: requires one of -->
   <RequiresOneOfMemes>necesită unul dintre</RequiresOneOfMemes>
   <!-- EN: conflicts with meme -->
