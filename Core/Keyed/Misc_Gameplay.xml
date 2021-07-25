@@ -1408,11 +1408,11 @@
   <!-- EN: a reward possibly granted in the future -->
   <Reward_PossibleFutureReward>o recompensă care poate fi acordată în viitor</Reward_PossibleFutureReward>
   <!-- EN: {TITLE} title -->
-  <Reward_Title_Label>{TITLE} titlu</Reward_Title_Label>
+  <Reward_Title_Label>titlul {TITLE}</Reward_Title_Label>
   <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
   <Reward_Title>{PAWNNAME} câștigă titlul {TITLE} de la {FACTION}.</Reward_Title>
   <!-- EN: value {0} -->
-  <TotalValue>valoare {0}</TotalValue>
+  <TotalValue>{0} valoare</TotalValue>
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
