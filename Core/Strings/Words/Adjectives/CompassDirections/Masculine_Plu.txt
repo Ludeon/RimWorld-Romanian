@@ -1,0 +1,17 @@
+﻿nord
+nord-est
+est
+sud-est
+sud
+sud-vest
+vest
+nord-vest
+
+nordici
+nord-estici
+estici
+sud-estici
+sudici
+sud-vestici
+vestici
+nord-vestici

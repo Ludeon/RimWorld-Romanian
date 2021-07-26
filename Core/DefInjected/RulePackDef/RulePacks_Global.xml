@@ -42,7 +42,7 @@
   -->
   <GlobalUtility.rulePack.rulesFiles>
     <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
-    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <!-- <li>Direction->Words/Adjectives/CompassDirections</li> -->
     <li>Letter->WordParts/CapitalLetters</li>
     <li>SylB->WordParts/Syllables_Byzantinian</li>
     <li>SylE->WordParts/Syllables_English</li>
@@ -71,20 +71,53 @@
     <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
     <li>Community->Words/Nouns/Communities</li>
     <li>BodyPart->Words/Nouns/Bodyparts</li>
-    <li>AdjectiveLarge->Words/Adjectives/Large</li>
-    <li>AdjectiveBadass->Words/Adjectives/Badass</li>
-    <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
-    <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
-    <li>AdjectiveNatural->Words/Adjectives/Natural</li>
+    <!-- <li>AdjectiveLarge->Words/Adjectives/Large</li> -->
+    <!-- <li>AdjectiveBadass->Words/Adjectives/Badass</li> -->
+    <!-- <li>AdjectiveAngsty->Words/Adjectives/Angsty</li> -->
+    <!-- <li>AdjectiveFriendly->Words/Adjectives/Friendly</li> -->
+    <!-- <li>AdjectiveNatural->Words/Adjectives/Natural</li> -->
     <li>VerbFriendly->Words/Verbs/Friendly</li>
     <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
-    <!-- Extras for Romanian language -->
+    <!-- ####### Extras for Romanian language ####### -->
     <li>AdjectivePolitical->Words/Adjectives/PoliticalUnions</li>
     <li>tribal_word_file_Cap->Words/Foreign/Tribal_Cap</li>
     <li>SylB_Cap->WordParts/Syllables_Byzantinian_Cap</li>
     <li>SylE_Cap->WordParts/Syllables_English_Cap</li>
     <li>SylG_Cap->WordParts/Syllables_Galician_Cap</li>
-    <!-- Extras for Romanian language -->
+    <!-- Adjectives for Romanian language -->
+    <li>AdjectiveAngstyMasculine->Words/Adjectives/Angsty/Masculine</li>
+    <li>AdjectiveAngstyFeminine->Words/Adjectives/Angsty/Feminine</li>
+    <li>AdjectiveAngstyMasculine_Plu->Words/Adjectives/Angsty/Masculine_Plu</li>
+    <li>AdjectiveAngstyFeminine_Plu->Words/Adjectives/Angsty/Feminine_Plu</li>
+    <li>AdjectiveBadassMasculine->Words/Adjectives/Badass/Masculine</li>
+    <li>AdjectiveBadassFeminine->Words/Adjectives/Badass/Feminine</li>
+    <li>AdjectiveBadassMasculine_Plu->Words/Adjectives/Badass/Masculine_Plu</li>
+    <li>AdjectiveBadassFeminine_Plu->Words/Adjectives/Badass/Feminine_Plu</li>
+    <li>DirectionMasculine->Words/Adjectives/CompassDirections/Masculine</li>
+    <li>DirectionFeminine->Words/Adjectives/CompassDirections/Feminine</li>
+    <li>DirectionMasculine_Plu->Words/Adjectives/CompassDirections/Masculine_Plu</li>
+    <li>DirectionFeminine_Plu->Words/Adjectives/CompassDirections/Feminine_Plu</li>
+    <li>adjectiveCuriousMasculine->Words/Adjectives/Curious/Masculine</li>
+    <li>adjectiveCuriousFeminine->Words/Adjectives/Curious/Feminine</li>
+    <li>adjectiveCuriousMasculine_Plu->Words/Adjectives/Curious/Masculine_Plu</li>
+    <li>adjectiveCuriousFeminine_Plu->Words/Adjectives/Curious/Feminine_Plu</li>
+    <li>AdjectiveFriendlyMasculine->Words/Adjectives/Friendly/Masculine</li>
+    <li>AdjectiveFriendlyFeminine->Words/Adjectives/Friendly/Feminine</li>
+    <li>AdjectiveFriendlyMasculine_Plu->Words/Adjectives/Friendly/Masculine_Plu</li>
+    <li>AdjectiveFriendlyFeminine_Plu->Words/Adjectives/Friendly/Feminine_Plu</li>
+    <li>AdjectiveLargeMasculine->Words/Adjectives/Large/Masculine</li>
+    <li>AdjectiveLargeFeminine->Words/Adjectives/Large/Feminine</li>
+    <li>AdjectiveLargeMasculine_Plu->Words/Adjectives/Large/Masculine_Plu</li>
+    <li>AdjectiveLargeFeminine_Plu->Words/Adjectives/Large/Feminine_Plu</li>
+    <li>AdjectiveNaturalMasculine->Words/Adjectives/Natural/Masculine</li>
+    <li>AdjectiveNaturalFeminine->Words/Adjectives/Natural/Feminine</li>
+    <li>AdjectiveNaturalMasculine_Plu->Words/Adjectives/Natural/Masculine_Plu</li>
+    <li>AdjectiveNaturalFeminine_Plu->Words/Adjectives/Natural/Feminine_Plu</li>
+    <li>AdjectivePoliticalMasculine->Words/Adjectives/PoliticalUnions/Masculine</li>
+    <li>AdjectivePoliticalFeminine->Words/Adjectives/PoliticalUnions/Feminine</li>
+    <li>AdjectivePoliticalMasculine_Plu->Words/Adjectives/PoliticalUnions/Masculine_Plu</li>
+    <li>AdjectivePoliticalFeminine_Plu->Words/Adjectives/PoliticalUnions/Feminine_Plu</li>
+    <!-- Colors for Romanian Language -->
     <li>ColorMasculine->Words/Nouns/Colors/ColorsMasculine</li>
     <li>ColorMasculine_Plu->Words/Nouns/Colors/ColorsMasculine_Plu</li>
     <li>ColorFeminine->Words/Nouns/Colors/ColorsFeminine</li>
@@ -93,6 +126,7 @@
     <li>ColorBadassMasculine_Plu->Words/Nouns/Colors_Badass/Masculine_Plu</li>
     <li>ColorBadassFeminine->Words/Nouns/Colors_Badass/Feminine</li>
     <li>ColorBadassFeminine_Plu->Words/Nouns/Colors_Badass/Feminine_Plu</li>
+    <!-- ####### Auto-generated paradigms section ####### -->
     <!-- Paradigm of the file AnimalGroups.xml -->
     <li>AnimalGroupMasculine->Words/Nouns/AnimalGroups/Masculine_SglNatNom</li>
     <li>AnimalGroupMasculine_Dat->Words/Nouns/AnimalGroups/Masculine_SglNatDat</li>
@@ -264,28 +298,27 @@
     <li>Character(p=4)->[Animal]</li>
     <li>Character(p=3)->[Enemy]</li>
     <li>Character->[Mechanoid]</li>
-    <li>Quantity_adjphrase_com->doi</li>
-    <li>Quantity_adjphrase_com->trei</li>
-    <li>Quantity_adjphrase_com->patru</li>
-    <li>Quantity_adjphrase_com->cinci</li>
-    <li>Quantity_adjphrase_com->șase</li>
-    <li>Quantity_adjphrase_com->șapte</li>
-    <li>Quantity_adjphrase_com->opt</li>
-    <li>Quantity_adjphrase_com->nouă</li>
-    <li>Quantity_adjphrase_com->zece</li>
-    <li>Quantity_adjphrase_com->mai multe</li>
-    <li>Quantity_adjphrase_com->un grup de</li>
-    <li>Quantity_adjphrase_com->un grup mare de</li>
-    <li>Quantity_adjphrase_com->zeci de</li>
-    <li>Quantity_adjphrase_com->sute de</li>
-    <li>Quantity_adjphrase_com->o mie</li>
-    <li>Quantity_adjphrase_com->mii de</li>
-    <li>Quantity_adjphrase->doi</li>
-    <li>Quantity_adjphrase->mai mulți</li>
-    <li>Quantity_adjphrase->[Quantity_adjphrase_com]</li>
-    <li>Quantity_adjphrase_Feminine->două</li>
-    <li>Quantity_adjphrase_Feminine->mai multe</li>
-    <li>Quantity_adjphrase_Feminine->[Quantity_adjphrase_com]</li>
+    <li>Quantity_adjphrase->trei</li>
+    <li>Quantity_adjphrase->patru</li>
+    <li>Quantity_adjphrase->cinci</li>
+    <li>Quantity_adjphrase->șase</li>
+    <li>Quantity_adjphrase->șapte</li>
+    <li>Quantity_adjphrase->opt</li>
+    <li>Quantity_adjphrase->nouă</li>
+    <li>Quantity_adjphrase->zece</li>
+    <li>Quantity_adjphrase->mai multe</li>
+    <li>Quantity_adjphrase->un grup de</li>
+    <li>Quantity_adjphrase->un grup mare de</li>
+    <li>Quantity_adjphrase->zeci de</li>
+    <li>Quantity_adjphrase->sute de</li>
+    <li>Quantity_adjphrase->o mie</li>
+    <li>Quantity_adjphrase->mii de</li>
+    <li>Quantity_adjphraseMasculine->doi</li>
+    <li>Quantity_adjphraseMasculine->mai mulți</li>
+    <li>Quantity_adjphraseMasculine->[Quantity_adjphrase]</li>
+    <li>Quantity_adjphraseFeminine->două</li>
+    <li>Quantity_adjphraseFeminine->mai multe</li>
+    <li>Quantity_adjphraseFeminine->[Quantity_adjphrase]</li>
     <li>Shape->triunghi</li>
     <li>Shape->pătrat</li>
     <li>Shape->dreptunghi</li>
@@ -295,13 +328,24 @@
     <li>Shape->stea</li>
     <li>Shape->cerc</li>
     <li>Shape->elipsă</li>
-    <li>AdjectiveAny->[AdjectiveBadass]</li>
-    <li>AdjectiveAny->[AdjectiveAngsty]</li>
-    <li>AdjectiveAny->[AdjectiveFriendly]</li>
-    <li>AdjectiveAny->[AdjectiveNatural]</li>
-    <li>ConceptAny->[ConceptPositive]</li>
-    <li>ConceptAny->[ConceptBadass]</li>
-    <li>ConceptAny->[ConceptAngsty]</li>
+    <li>AdjectiveAnyMasculine->[AdjectiveBadassMasculine]</li>
+    <li>AdjectiveAnyMasculine->[AdjectiveAngstyMasculine]</li>
+    <li>AdjectiveAnyMasculine->[AdjectiveFriendlyMasculine]</li>
+    <li>AdjectiveAnyMasculine->[AdjectiveNaturalMasculine]</li>
+    <li>AdjectiveAnyFeminine->[AdjectiveBadassFeminine]</li>
+    <li>AdjectiveAnyFeminine->[AdjectiveAngstyFeminine]</li>
+    <li>AdjectiveAnyFeminine->[AdjectiveFriendlyFeminine]</li>
+    <li>AdjectiveAnyFeminine->[AdjectiveNaturalFeminine]</li>
+    <li>AdjectiveAny->[AdjectiveAnyMasculine]</li>
+    <li>AdjectiveAny->[AdjectiveAnyFeminine]</li>
+    <li>ConceptAnyMasculine->[ConceptPositiveMasculine]</li>
+    <li>ConceptAnyMasculine->[ConceptBadassMasculine]</li>
+    <li>ConceptAnyMasculine->[ConceptAngstyMasculine]</li>
+    <li>ConceptAnyFeminine->[ConceptPositiveFeminine]</li>
+    <li>ConceptAnyFeminine->[ConceptBadassFeminine]</li>
+    <li>ConceptAnyFeminine->[ConceptAngstyFeminine]</li>
+    <li>ConceptAny->[ConceptAnyMasculine]</li>
+    <li>ConceptAny->[ConceptAnyFeminine]</li>
     <li>PersonalCharacteristic(p=0.15)->genitale</li>
     <li>PersonalCharacteristic(p=0.15)->păr pubic</li>
     <li>PersonalCharacteristic(p=0.15)->păr corporal</li>
@@ -309,9 +353,17 @@
     <li>PersonalCharacteristic(p=0.15)->performanță sexuală</li>
     <li>PersonalCharacteristic(p=0.15)->preferințe sexuale</li>
     <li>PersonalCharacteristic(p=0.15)->experiență sexuală</li>
-    <!-- Extras for Romanian language -->
+    <!-- ####### Extras for Romanian language ####### -->
+    <li>AdjectiveBadass->[AdjectiveBadassMasculine]</li>
+    <li>AdjectiveAngsty->[AdjectiveAngstyMasculine]</li>
+    <li>Direction->[DirectionMasculine]</li>
+    <li>adjectiveCurious->[adjectiveCuriousMasculine]</li>
+    <li>AdjectiveFriendly->[AdjectiveFriendlyMasculine]</li>
+    <li>AdjectiveLarge->[AdjectiveLargeMasculine]</li>
+    <li>AdjectiveNatural->[AdjectiveNaturalMasculine]</li>
+    <li>AdjectivePolitical->[AdjectivePoliticalMasculine]</li>
     <li>Color->[ColorMasculine]</li>
-    <li>Color->[ColorFeminine]</li>
+    <li>ColorBadass->[ColorBadassMasculine]</li>
     <!-- Paradigm of the file AnimalGroups.xml -->
     <li>AnimalGroup->[AnimalGroupFeminine]</li>
     <li>AnimalGroup->[AnimalGroupMasculine]</li>

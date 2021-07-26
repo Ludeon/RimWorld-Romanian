@@ -1,7 +1,7 @@
 ﻿notoriu
 mortal
 adânc
-otravă
+otrăvitor
 zimțat
 loial
 de neoprit
@@ -13,12 +13,12 @@ sinucigaș
 maniacal
 nebun
 sălbatic
-ardere
+arzător
 criminal
 înfricoșător
 terifiant
 afumat
-nebunesc
+aiurit
 ucigaș
 întunecat
 furios
@@ -32,9 +32,9 @@ epic
 criminal
 suprem
 extrem
-nebunesc
+înfuriat
 ascuțit
-cu spini
+spinos
 
 
 

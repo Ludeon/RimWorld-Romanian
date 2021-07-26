@@ -1,0 +1,17 @@
+﻿nord
+nord-est
+est
+sud-est
+sud
+sud-vest
+vest
+nord-vest
+
+nordică
+nord-estică
+estică
+sud-estică
+sudică
+sud-vestică
+vestică
+nord-vestică
