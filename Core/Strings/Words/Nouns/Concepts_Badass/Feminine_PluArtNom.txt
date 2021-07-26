@@ -1,0 +1,45 @@
+// These words had their declensed form automatically generated
+
+suferințele
+victoriile
+crimele
+morțile
+împingerile
+puterile
+forțele
+evlaviile
+durerile
+triumfurile
+sângiurile
+răzbunările
+răzbunările
+agoniile
+febrele
+bolile
+rănile
+chinurile
+angoasele
+mizeriile
+persecuțiile
+torturile
+suferințele
+tiraniile
+opresiunile
+cruzimile
+terorile
+haosurile
+problemele
+neliniștile
+luptele
+violențele
+războaiele
+ostilitățile
+conflictele
+luptele
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+
+vărsare de sânge

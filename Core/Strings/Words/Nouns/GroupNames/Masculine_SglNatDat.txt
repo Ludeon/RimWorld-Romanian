@@ -1,0 +1,14 @@
+// These words had their declensed form automatically generated
+
+echipaj
+grup
+pachet
+echipament
+partener
+
+// These words were declensed in a best-effort manner
+
+lineup
+
+// These words couldn't be declensed automatically. Edit manually
+

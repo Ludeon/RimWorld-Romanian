@@ -42,7 +42,7 @@
   -->
   <GlobalUtility.rulePack.rulesFiles>
     <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
-    <!-- <li>Direction->Words/Adjectives/CompassDirections</li> -->
+    <li>Direction->Words/Adjectives/CompassDirections</li>
     <li>Letter->WordParts/CapitalLetters</li>
     <li>SylB->WordParts/Syllables_Byzantinian</li>
     <li>SylE->WordParts/Syllables_English</li>
@@ -79,7 +79,6 @@
     <li>VerbFriendly->Words/Verbs/Friendly</li>
     <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
     <!-- ####### Extras for Romanian language ####### -->
-    <li>AdjectivePolitical->Words/Adjectives/PoliticalUnions</li>
     <li>tribal_word_file_Cap->Words/Foreign/Tribal_Cap</li>
     <li>SylB_Cap->WordParts/Syllables_Byzantinian_Cap</li>
     <li>SylE_Cap->WordParts/Syllables_English_Cap</li>
@@ -93,10 +92,6 @@
     <li>AdjectiveBadassFeminine->Words/Adjectives/Badass/Feminine</li>
     <li>AdjectiveBadassMasculine_Plu->Words/Adjectives/Badass/Masculine_Plu</li>
     <li>AdjectiveBadassFeminine_Plu->Words/Adjectives/Badass/Feminine_Plu</li>
-    <li>DirectionMasculine->Words/Adjectives/CompassDirections/Masculine</li>
-    <li>DirectionFeminine->Words/Adjectives/CompassDirections/Feminine</li>
-    <li>DirectionMasculine_Plu->Words/Adjectives/CompassDirections/Masculine_Plu</li>
-    <li>DirectionFeminine_Plu->Words/Adjectives/CompassDirections/Feminine_Plu</li>
     <li>adjectiveCuriousMasculine->Words/Adjectives/Curious/Masculine</li>
     <li>adjectiveCuriousFeminine->Words/Adjectives/Curious/Feminine</li>
     <li>adjectiveCuriousMasculine_Plu->Words/Adjectives/Curious/Masculine_Plu</li>
@@ -238,6 +233,57 @@
     <li>PersonBadassFeminine_PluDat->Words/Nouns/People_Badass/Feminine_PluNatDat</li>
     <li>PersonBadassFeminine_PluArt->Words/Nouns/People_Badass/Feminine_PluArtNom</li>
     <li>PersonBadassFeminine_PluArtDat->Words/Nouns/People_Badass/Feminine_PluArtDat</li>
+    <!-- Paradigm of the file People_Allies.xml -->
+    <li>PersonAllyMasculine->Words/Nouns/People_Allies/Masculine_SglNatNom</li>
+    <li>PersonAllyMasculine_Dat->Words/Nouns/People_Allies/Masculine_SglNatDat</li>
+    <li>PersonAllyMasculine_Art->Words/Nouns/People_Allies/Masculine_SglArtNom</li>
+    <li>PersonAllyMasculine_ArtDat->Words/Nouns/People_Allies/Masculine_SglArtDat</li>
+    <li>PersonAllyMasculine_Plu->Words/Nouns/People_Allies/Masculine_PluNatNom</li>
+    <li>PersonAllyMasculine_PluDat->Words/Nouns/People_Allies/Masculine_PluNatDat</li>
+    <li>PersonAllyMasculine_PluArt->Words/Nouns/People_Allies/Masculine_PluArtNom</li>
+    <li>PersonAllyMasculine_PluArtDat->Words/Nouns/People_Allies/Masculine_PluArtDat</li>
+    <li>PersonAllyFeminine->Words/Nouns/People_Allies/Feminine_SglNatNom</li>
+    <li>PersonAllyFeminine_Dat->Words/Nouns/People_Allies/Feminine_SglNatDat</li>
+    <li>PersonAllyFeminine_Art->Words/Nouns/People_Allies/Feminine_SglArtNom</li>
+    <li>PersonAllyFeminine_ArtDat->Words/Nouns/People_Allies/Feminine_SglArtDat</li>
+    <li>PersonAllyFeminine_Plu->Words/Nouns/People_Allies/Feminine_PluNatNom</li>
+    <li>PersonAllyFeminine_PluDat->Words/Nouns/People_Allies/Feminine_PluNatDat</li>
+    <li>PersonAllyFeminine_PluArt->Words/Nouns/People_Allies/Feminine_PluArtNom</li>
+    <li>PersonAllyFeminine_PluArtDat->Words/Nouns/People_Allies/Feminine_PluArtDat</li>
+    <!-- Paradigm of the file Concepts_Badass.xml -->
+    <li>ConceptBadassMasculine->Words/Nouns/Concepts_Badass/Masculine_SglNatNom</li>
+    <li>ConceptBadassMasculine_Dat->Words/Nouns/Concepts_Badass/Masculine_SglNatDat</li>
+    <li>ConceptBadassMasculine_Art->Words/Nouns/Concepts_Badass/Masculine_SglArtNom</li>
+    <li>ConceptBadassMasculine_ArtDat->Words/Nouns/Concepts_Badass/Masculine_SglArtDat</li>
+    <li>ConceptBadassMasculine_Plu->Words/Nouns/Concepts_Badass/Masculine_PluNatNom</li>
+    <li>ConceptBadassMasculine_PluDat->Words/Nouns/Concepts_Badass/Masculine_PluNatDat</li>
+    <li>ConceptBadassMasculine_PluArt->Words/Nouns/Concepts_Badass/Masculine_PluArtNom</li>
+    <li>ConceptBadassMasculine_PluArtDat->Words/Nouns/Concepts_Badass/Masculine_PluArtDat</li>
+    <li>ConceptBadassFeminine->Words/Nouns/Concepts_Badass/Feminine_SglNatNom</li>
+    <li>ConceptBadassFeminine_Dat->Words/Nouns/Concepts_Badass/Feminine_SglNatDat</li>
+    <li>ConceptBadassFeminine_Art->Words/Nouns/Concepts_Badass/Feminine_SglArtNom</li>
+    <li>ConceptBadassFeminine_ArtDat->Words/Nouns/Concepts_Badass/Feminine_SglArtDat</li>
+    <li>ConceptBadassFeminine_Plu->Words/Nouns/Concepts_Badass/Feminine_PluNatNom</li>
+    <li>ConceptBadassFeminine_PluDat->Words/Nouns/Concepts_Badass/Feminine_PluNatDat</li>
+    <li>ConceptBadassFeminine_PluArt->Words/Nouns/Concepts_Badass/Feminine_PluArtNom</li>
+    <li>ConceptBadassFeminine_PluArtDat->Words/Nouns/Concepts_Badass/Feminine_PluArtDat</li>
+    <!-- Paradigm of the file GroupNames.xml -->
+    <li>GroupNameMasculine->Words/Nouns/GroupNames/Masculine_SglNatNom</li>
+    <li>GroupNameMasculine_Dat->Words/Nouns/GroupNames/Masculine_SglNatDat</li>
+    <li>GroupNameMasculine_Art->Words/Nouns/GroupNames/Masculine_SglArtNom</li>
+    <li>GroupNameMasculine_ArtDat->Words/Nouns/GroupNames/Masculine_SglArtDat</li>
+    <li>GroupNameMasculine_Plu->Words/Nouns/GroupNames/Masculine_PluNatNom</li>
+    <li>GroupNameMasculine_PluDat->Words/Nouns/GroupNames/Masculine_PluNatDat</li>
+    <li>GroupNameMasculine_PluArt->Words/Nouns/GroupNames/Masculine_PluArtNom</li>
+    <li>GroupNameMasculine_PluArtDat->Words/Nouns/GroupNames/Masculine_PluArtDat</li>
+    <li>GroupNameFeminine->Words/Nouns/GroupNames/Feminine_SglNatNom</li>
+    <li>GroupNameFeminine_Dat->Words/Nouns/GroupNames/Feminine_SglNatDat</li>
+    <li>GroupNameFeminine_Art->Words/Nouns/GroupNames/Feminine_SglArtNom</li>
+    <li>GroupNameFeminine_ArtDat->Words/Nouns/GroupNames/Feminine_SglArtDat</li>
+    <li>GroupNameFeminine_Plu->Words/Nouns/GroupNames/Feminine_PluNatNom</li>
+    <li>GroupNameFeminine_PluDat->Words/Nouns/GroupNames/Feminine_PluNatDat</li>
+    <li>GroupNameFeminine_PluArt->Words/Nouns/GroupNames/Feminine_PluArtNom</li>
+    <li>GroupNameFeminine_PluArtDat->Words/Nouns/GroupNames/Feminine_PluArtDat</li>
   </GlobalUtility.rulePack.rulesFiles>
 
   <!-- EN:
@@ -355,15 +401,23 @@
     <li>PersonalCharacteristic(p=0.15)->experiență sexuală</li>
     <!-- ####### Extras for Romanian language ####### -->
     <li>AdjectiveBadass->[AdjectiveBadassMasculine]</li>
+    <li>AdjectiveBadass_Plu->[AdjectiveBadassMasculine_Plu]</li>
     <li>AdjectiveAngsty->[AdjectiveAngstyMasculine]</li>
-    <li>Direction->[DirectionMasculine]</li>
+    <li>AdjectiveAngsty_Plu->[AdjectiveAngstyMasculine_Plu]</li>
     <li>adjectiveCurious->[adjectiveCuriousMasculine]</li>
+    <li>adjectiveCurious_Plu->[adjectiveCuriousMasculine_Plu]</li>
     <li>AdjectiveFriendly->[AdjectiveFriendlyMasculine]</li>
+    <li>AdjectiveFriendly_Plu->[AdjectiveFriendlyMasculine_Plu]</li>
     <li>AdjectiveLarge->[AdjectiveLargeMasculine]</li>
+    <li>AdjectiveLarge_Plu->[AdjectiveLargeMasculine_Plu]</li>
     <li>AdjectiveNatural->[AdjectiveNaturalMasculine]</li>
+    <li>AdjectiveNatural_Plu->[AdjectiveNaturalMasculine_Plu]</li>
     <li>AdjectivePolitical->[AdjectivePoliticalMasculine]</li>
+    <li>AdjectivePolitical_Plu->[AdjectivePoliticalMasculine_Plu]</li>
     <li>Color->[ColorMasculine]</li>
+    <li>Color_Plu->[ColorMasculine_Plu]</li>
     <li>ColorBadass->[ColorBadassMasculine]</li>
+    <li>ColorBadass_Plu->[ColorBadassMasculine_Plu]</li>
     <!-- Paradigm of the file AnimalGroups.xml -->
     <li>AnimalGroup->[AnimalGroupFeminine]</li>
     <li>AnimalGroup->[AnimalGroupMasculine]</li>
@@ -475,6 +529,57 @@
     <li>PersonBadass_PluArt->[PersonBadassMasculine_PluArt]</li>
     <li>PersonBadass_PluArtDat->[PersonBadassFeminine_PluArtDat]</li>
     <li>PersonBadass_PluArtDat->[PersonBadassMasculine_PluArtDat]</li>
+    <!-- Paradigm of the file People_Allies.xml -->
+    <li>PersonAlly->[PersonAllyFeminine]</li>
+    <li>PersonAlly->[PersonAllyMasculine]</li>
+    <li>PersonAlly_Dat->[PersonAllyFeminine_Dat]</li>
+    <li>PersonAlly_Dat->[PersonAllyMasculine_Dat]</li>
+    <li>PersonAlly_Art->[PersonAllyFeminine_Art]</li>
+    <li>PersonAlly_Art->[PersonAllyMasculine_Art]</li>
+    <li>PersonAlly_ArtDat->[PersonAllyFeminine_ArtDat]</li>
+    <li>PersonAlly_ArtDat->[PersonAllyMasculine_ArtDat]</li>
+    <li>PersonAlly_Plu->[PersonAllyFeminine_Plu]</li>
+    <li>PersonAlly_Plu->[PersonAllyMasculine_Plu]</li>
+    <li>PersonAlly_PluDat->[PersonAllyFeminine_PluDat]</li>
+    <li>PersonAlly_PluDat->[PersonAllyMasculine_PluDat]</li>
+    <li>PersonAlly_PluArt->[PersonAllyFeminine_PluArt]</li>
+    <li>PersonAlly_PluArt->[PersonAllyMasculine_PluArt]</li>
+    <li>PersonAlly_PluArtDat->[PersonAllyFeminine_PluArtDat]</li>
+    <li>PersonAlly_PluArtDat->[PersonAllyMasculine_PluArtDat]</li>
+    <!-- Paradigm of the file Concepts_Badass.xml -->
+    <li>ConceptBadass->[ConceptBadassFeminine]</li>
+    <li>ConceptBadass->[ConceptBadassMasculine]</li>
+    <li>ConceptBadass_Dat->[ConceptBadassFeminine_Dat]</li>
+    <li>ConceptBadass_Dat->[ConceptBadassMasculine_Dat]</li>
+    <li>ConceptBadass_Art->[ConceptBadassFeminine_Art]</li>
+    <li>ConceptBadass_Art->[ConceptBadassMasculine_Art]</li>
+    <li>ConceptBadass_ArtDat->[ConceptBadassFeminine_ArtDat]</li>
+    <li>ConceptBadass_ArtDat->[ConceptBadassMasculine_ArtDat]</li>
+    <li>ConceptBadass_Plu->[ConceptBadassFeminine_Plu]</li>
+    <li>ConceptBadass_Plu->[ConceptBadassMasculine_Plu]</li>
+    <li>ConceptBadass_PluDat->[ConceptBadassFeminine_PluDat]</li>
+    <li>ConceptBadass_PluDat->[ConceptBadassMasculine_PluDat]</li>
+    <li>ConceptBadass_PluArt->[ConceptBadassFeminine_PluArt]</li>
+    <li>ConceptBadass_PluArt->[ConceptBadassMasculine_PluArt]</li>
+    <li>ConceptBadass_PluArtDat->[ConceptBadassFeminine_PluArtDat]</li>
+    <li>ConceptBadass_PluArtDat->[ConceptBadassMasculine_PluArtDat]</li>
+    <!-- Paradigm of the file GroupNames.xml -->
+    <li>GroupName->[GroupNameFeminine]</li>
+    <li>GroupName->[GroupNameMasculine]</li>
+    <li>GroupName_Dat->[GroupNameFeminine_Dat]</li>
+    <li>GroupName_Dat->[GroupNameMasculine_Dat]</li>
+    <li>GroupName_Art->[GroupNameFeminine_Art]</li>
+    <li>GroupName_Art->[GroupNameMasculine_Art]</li>
+    <li>GroupName_ArtDat->[GroupNameFeminine_ArtDat]</li>
+    <li>GroupName_ArtDat->[GroupNameMasculine_ArtDat]</li>
+    <li>GroupName_Plu->[GroupNameFeminine_Plu]</li>
+    <li>GroupName_Plu->[GroupNameMasculine_Plu]</li>
+    <li>GroupName_PluDat->[GroupNameFeminine_PluDat]</li>
+    <li>GroupName_PluDat->[GroupNameMasculine_PluDat]</li>
+    <li>GroupName_PluArt->[GroupNameFeminine_PluArt]</li>
+    <li>GroupName_PluArt->[GroupNameMasculine_PluArt]</li>
+    <li>GroupName_PluArtDat->[GroupNameFeminine_PluArtDat]</li>
+    <li>GroupName_PluArtDat->[GroupNameMasculine_PluArtDat]</li>
   </GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:

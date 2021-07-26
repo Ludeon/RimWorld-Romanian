@@ -1,0 +1,40 @@
+// These words had their declensed form automatically generated
+
+suferinței
+victoriei
+crimei
+morții
+împingerii
+puterii
+forței
+evlaviei
+durerii
+răzbunării
+răzbunării
+agoniei
+febrei
+bolii
+rănii
+angoasei
+mizeriei
+persecuției
+torturii
+suferinței
+tiraniei
+opresiunii
+cruzimii
+terorii
+problemei
+neliniștii
+anarhiei
+luptei
+violenței
+ostilității
+luptei
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+
+vărsare de sânge

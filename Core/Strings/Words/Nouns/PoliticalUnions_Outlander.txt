@@ -8,7 +8,7 @@ liga rudelor
 pactul
 tratatul
 pactul
-coalițiea
+coaliția
 
 //Outlander specific (different from empire)
 federația

@@ -197,7 +197,7 @@ def compute_tag(gender: Gender, plural: str, articulated: str, case: str, short=
         return f"{str(gender)}_{short_tag}" if short_tag != "" else str(gender)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser("generate files with declination")
+    parser = argparse.ArgumentParser("generate paradigms of words within a textfile. A paradigm is a collection of all possible inflections")
     parser.add_argument("path", type=Path,
                         help="Path towards the file to be declinat..ed?")
     args = parser.parse_args()

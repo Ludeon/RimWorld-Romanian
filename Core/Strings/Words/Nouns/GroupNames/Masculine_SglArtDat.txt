@@ -1,0 +1,14 @@
+// These words had their declensed form automatically generated
+
+echipajului
+grupului
+pachetului
+echipamentului
+partenerului
+
+// These words were declensed in a best-effort manner
+
+lineup-ului
+
+// These words couldn't be declensed automatically. Edit manually
+

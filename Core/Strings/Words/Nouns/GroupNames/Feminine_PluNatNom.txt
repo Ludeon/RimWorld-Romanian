@@ -1,0 +1,24 @@
+// These words had their declensed form automatically generated
+
+societăți
+echipaje
+grupuri
+societăți
+echipe
+pachete
+armate
+petreceri
+trupe
+echipe
+organizări
+unități
+facțiuni
+benzi
+echipamenturi
+
+// These words were declensed in a best-effort manner
+
+lineup
+
+// These words couldn't be declensed automatically. Edit manually
+
