@@ -47,35 +47,14 @@
     <li>SylB->WordParts/Syllables_Byzantinian</li>
     <li>SylE->WordParts/Syllables_English</li>
     <li>SylG->WordParts/Syllables_Galician</li>
-    <!--<li>Color->Words/Nouns/Colors</li>-->
-    <!--<li>ColorBadass->Words/Nouns/Colors_Badass</li>-->
     <li>Vegetable->Words/Nouns/Vegetables</li>
     <li>Game->Words/Nouns/Games</li>
-    <li>Animal->Words/Nouns/Animals</li>
-    <!--<li>AnimalBadass->Words/Nouns/Animals_Badass</li>-->
-    <!--<li>AnimalGroup->Words/Nouns/AnimalGroups</li>-->
-    <!--<li>Weapon->Words/Nouns/Weapons</li>-->
-    <!--<li>TerrainFeature->Words/Nouns/TerrainFeatures</li>-->
-    <li>NaturalObject->Words/Nouns/NaturalObject</li>
     <li>TreeType->Words/Nouns/TreeTypes</li>
     <li>PersonJob->Words/Nouns/People_Jobs</li>
     <li>PersonFamily->Words/Nouns/People_Family</li>
-    <li>PersonAlly->Words/Nouns/People_Allies</li>
-    <!--<li>PersonBadass->Words/Nouns/People_Badass</li>-->
-    <!--<li>Enemy->Words/Nouns/Enemies</li>-->
     <li>Apparel->Words/Nouns/Apparel</li>
-    <li>Gore->Words/Nouns/Gore</li>
     <li>Mechanoid->Words/Nouns/Mechanoid</li>
-    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
-    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
     <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
-    <li>Community->Words/Nouns/Communities</li>
-    <li>BodyPart->Words/Nouns/Bodyparts</li>
-    <!-- <li>AdjectiveLarge->Words/Adjectives/Large</li> -->
-    <!-- <li>AdjectiveBadass->Words/Adjectives/Badass</li> -->
-    <!-- <li>AdjectiveAngsty->Words/Adjectives/Angsty</li> -->
-    <!-- <li>AdjectiveFriendly->Words/Adjectives/Friendly</li> -->
-    <!-- <li>AdjectiveNatural->Words/Adjectives/Natural</li> -->
     <li>VerbFriendly->Words/Verbs/Friendly</li>
     <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
     <!-- ####### Extras for Romanian language ####### -->
@@ -310,6 +289,49 @@
     <li>CommunityFeminine_PluDat->Words/Nouns/Communities/Feminine_PluNatDat</li>
     <li>CommunityFeminine_PluArt->Words/Nouns/Communities/Feminine_PluArtNom</li>
     <li>CommunityFeminine_PluArtDat->Words/Nouns/Communities/Feminine_PluArtDat</li>
+    <!-- Paradigm of the file Gore.xml -->
+    <li>GoreMasculine->Words/Nouns/Gore/Masculine_SglNatNom</li>
+    <li>GoreMasculine_Dat->Words/Nouns/Gore/Masculine_SglNatDat</li>
+    <li>GoreMasculine_Art->Words/Nouns/Gore/Masculine_SglArtNom</li>
+    <li>GoreMasculine_ArtDat->Words/Nouns/Gore/Masculine_SglArtDat</li>
+    <li>GoreFeminine_Plu->Words/Nouns/Gore/Feminine_PluNatNom</li>
+    <li>GoreFeminine_PluDat->Words/Nouns/Gore/Feminine_PluNatDat</li>
+    <li>GoreFeminine_PluArt->Words/Nouns/Gore/Feminine_PluArtNom</li>
+    <li>GoreFeminine_PluArtDat->Words/Nouns/Gore/Feminine_PluArtDat</li>
+    <!-- Paradigm of the file Bodyparts.xml -->
+    <li>BodyPartMasculine->Words/Nouns/Bodyparts/Masculine_SglNatNom</li>
+    <li>BodyPartMasculine_Dat->Words/Nouns/Bodyparts/Masculine_SglNatDat</li>
+    <li>BodyPartMasculine_Art->Words/Nouns/Bodyparts/Masculine_SglArtNom</li>
+    <li>BodyPartMasculine_ArtDat->Words/Nouns/Bodyparts/Masculine_SglArtDat</li>
+    <li>BodyPartMasculine_Plu->Words/Nouns/Bodyparts/Masculine_PluNatNom</li>
+    <li>BodyPartMasculine_PluDat->Words/Nouns/Bodyparts/Masculine_PluNatDat</li>
+    <li>BodyPartMasculine_PluArt->Words/Nouns/Bodyparts/Masculine_PluArtNom</li>
+    <li>BodyPartMasculine_PluArtDat->Words/Nouns/Bodyparts/Masculine_PluArtDat</li>
+    <li>BodyPartFeminine->Words/Nouns/Bodyparts/Feminine_SglNatNom</li>
+    <li>BodyPartFeminine_Dat->Words/Nouns/Bodyparts/Feminine_SglNatDat</li>
+    <li>BodyPartFeminine_Art->Words/Nouns/Bodyparts/Feminine_SglArtNom</li>
+    <li>BodyPartFeminine_ArtDat->Words/Nouns/Bodyparts/Feminine_SglArtDat</li>
+    <li>BodyPartFeminine_Plu->Words/Nouns/Bodyparts/Feminine_PluNatNom</li>
+    <li>BodyPartFeminine_PluDat->Words/Nouns/Bodyparts/Feminine_PluNatDat</li>
+    <li>BodyPartFeminine_PluArt->Words/Nouns/Bodyparts/Feminine_PluArtNom</li>
+    <li>BodyPartFeminine_PluArtDat->Words/Nouns/Bodyparts/Feminine_PluArtDat</li>
+    <!-- Paradigm of the file NaturalObject.xml -->
+    <li>NaturalObjectMasculine->Words/Nouns/NaturalObject/Masculine_SglNatNom</li>
+    <li>NaturalObjectMasculine_Dat->Words/Nouns/NaturalObject/Masculine_SglNatDat</li>
+    <li>NaturalObjectMasculine_Art->Words/Nouns/NaturalObject/Masculine_SglArtNom</li>
+    <li>NaturalObjectMasculine_ArtDat->Words/Nouns/NaturalObject/Masculine_SglArtDat</li>
+    <li>NaturalObjectMasculine_Plu->Words/Nouns/NaturalObject/Masculine_PluNatNom</li>
+    <li>NaturalObjectMasculine_PluDat->Words/Nouns/NaturalObject/Masculine_PluNatDat</li>
+    <li>NaturalObjectMasculine_PluArt->Words/Nouns/NaturalObject/Masculine_PluArtNom</li>
+    <li>NaturalObjectMasculine_PluArtDat->Words/Nouns/NaturalObject/Masculine_PluArtDat</li>
+    <li>NaturalObjectFeminine->Words/Nouns/NaturalObject/Feminine_SglNatNom</li>
+    <li>NaturalObjectFeminine_Dat->Words/Nouns/NaturalObject/Feminine_SglNatDat</li>
+    <li>NaturalObjectFeminine_Art->Words/Nouns/NaturalObject/Feminine_SglArtNom</li>
+    <li>NaturalObjectFeminine_ArtDat->Words/Nouns/NaturalObject/Feminine_SglArtDat</li>
+    <li>NaturalObjectFeminine_Plu->Words/Nouns/NaturalObject/Feminine_PluNatNom</li>
+    <li>NaturalObjectFeminine_PluDat->Words/Nouns/NaturalObject/Feminine_PluNatDat</li>
+    <li>NaturalObjectFeminine_PluArt->Words/Nouns/NaturalObject/Feminine_PluArtNom</li>
+    <li>NaturalObjectFeminine_PluArtDat->Words/Nouns/NaturalObject/Feminine_PluArtDat</li>
   </GlobalUtility.rulePack.rulesFiles>
 
   <!-- EN:
@@ -632,6 +654,49 @@
     <li>Community_PluDat->[CommunityFeminine_PluDat]</li>
     <li>Community_PluArt->[CommunityFeminine_PluArt]</li>
     <li>Community_PluArtDat->[CommunityFeminine_PluArtDat]</li>
+    <!-- Paradigm of the file Gore.xml -->
+    <li>Gore->[GoreMasculine]</li>
+    <li>Gore_Dat->[GoreMasculine_Dat]</li>
+    <li>Gore_Art->[GoreMasculine_Art]</li>
+    <li>Gore_ArtDat->[GoreMasculine_ArtDat]</li>
+    <li>Gore_Plu->[GoreFeminine_Plu]</li>
+    <li>Gore_PluDat->[GoreFeminine_PluDat]</li>
+    <li>Gore_PluArt->[GoreFeminine_PluArt]</li>
+    <li>Gore_PluArtDat->[GoreFeminine_PluArtDat]</li>
+    <!-- Paradigm of the file Bodyparts.xml -->
+    <li>BodyPart->[BodyPartFeminine]</li>
+    <li>BodyPart->[BodyPartMasculine]</li>
+    <li>BodyPart_Dat->[BodyPartFeminine_Dat]</li>
+    <li>BodyPart_Dat->[BodyPartMasculine_Dat]</li>
+    <li>BodyPart_Art->[BodyPartFeminine_Art]</li>
+    <li>BodyPart_Art->[BodyPartMasculine_Art]</li>
+    <li>BodyPart_ArtDat->[BodyPartFeminine_ArtDat]</li>
+    <li>BodyPart_ArtDat->[BodyPartMasculine_ArtDat]</li>
+    <li>BodyPart_Plu->[BodyPartFeminine_Plu]</li>
+    <li>BodyPart_Plu->[BodyPartMasculine_Plu]</li>
+    <li>BodyPart_PluDat->[BodyPartFeminine_PluDat]</li>
+    <li>BodyPart_PluDat->[BodyPartMasculine_PluDat]</li>
+    <li>BodyPart_PluArt->[BodyPartFeminine_PluArt]</li>
+    <li>BodyPart_PluArt->[BodyPartMasculine_PluArt]</li>
+    <li>BodyPart_PluArtDat->[BodyPartFeminine_PluArtDat]</li>
+    <li>BodyPart_PluArtDat->[BodyPartMasculine_PluArtDat]</li>
+    <!-- Paradigm of the file NaturalObject.xml -->
+    <li>NaturalObject->[NaturalObjectFeminine]</li>
+    <li>NaturalObject->[NaturalObjectMasculine]</li>
+    <li>NaturalObject_Dat->[NaturalObjectFeminine_Dat]</li>
+    <li>NaturalObject_Dat->[NaturalObjectMasculine_Dat]</li>
+    <li>NaturalObject_Art->[NaturalObjectFeminine_Art]</li>
+    <li>NaturalObject_Art->[NaturalObjectMasculine_Art]</li>
+    <li>NaturalObject_ArtDat->[NaturalObjectFeminine_ArtDat]</li>
+    <li>NaturalObject_ArtDat->[NaturalObjectMasculine_ArtDat]</li>
+    <li>NaturalObject_Plu->[NaturalObjectFeminine_Plu]</li>
+    <li>NaturalObject_Plu->[NaturalObjectMasculine_Plu]</li>
+    <li>NaturalObject_PluDat->[NaturalObjectFeminine_PluDat]</li>
+    <li>NaturalObject_PluDat->[NaturalObjectMasculine_PluDat]</li>
+    <li>NaturalObject_PluArt->[NaturalObjectFeminine_PluArt]</li>
+    <li>NaturalObject_PluArt->[NaturalObjectMasculine_PluArt]</li>
+    <li>NaturalObject_PluArtDat->[NaturalObjectFeminine_PluArtDat]</li>
+    <li>NaturalObject_PluArtDat->[NaturalObjectMasculine_PluArtDat]</li>
   </GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:

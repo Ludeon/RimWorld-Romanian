@@ -1,0 +1,23 @@
+// These words had their declensed form automatically generated
+
+bolovanul
+copacul
+arbustul
+tufișul
+iazul
+lacul
+dealul
+trunchiul
+fructul
+acul
+gândacul
+gândacul
+cornul
+dintele
+lemnul
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+

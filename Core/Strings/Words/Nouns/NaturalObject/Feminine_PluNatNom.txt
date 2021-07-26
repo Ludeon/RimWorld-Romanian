@@ -1,0 +1,31 @@
+// These words had their declensed form automatically generated
+
+stânci
+pietre
+tufișuri
+iazuri
+piscine
+lacuri
+dealuri
+peșteri
+buturugi
+cochilii
+pene
+semințe
+trunchiuri
+fructe
+ace
+copite
+gheare
+cozi
+piei
+piei
+coarne
+aripi
+lemne
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+

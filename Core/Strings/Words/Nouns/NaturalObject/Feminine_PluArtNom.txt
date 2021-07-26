@@ -1,0 +1,31 @@
+// These words had their declensed form automatically generated
+
+stâncile
+pietrele
+tufișurile
+iazurile
+piscinele
+lacurile
+dealurile
+peșterile
+buturugile
+cochiliile
+penele
+semințele
+trunchiurile
+fructele
+acele
+copitele
+ghearele
+cozile
+pieile
+pieile
+coarnele
+aripile
+lemnele
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+

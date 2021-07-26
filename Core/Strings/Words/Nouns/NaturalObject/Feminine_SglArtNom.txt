@@ -1,0 +1,22 @@
+// These words had their declensed form automatically generated
+
+stânca
+piatra
+piscina
+peștera
+buturuga
+cochilia
+pana
+sămânța
+copita
+gheara
+coada
+pielea
+pielea
+aripa
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+

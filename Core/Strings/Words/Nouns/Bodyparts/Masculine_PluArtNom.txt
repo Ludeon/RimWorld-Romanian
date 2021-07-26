@@ -1,0 +1,15 @@
+// These words had their declensed form automatically generated
+
+capii
+ochii
+dinții
+colții
+obrajii
+umerii
+genunchii
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+

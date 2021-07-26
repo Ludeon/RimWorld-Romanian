@@ -1,0 +1,20 @@
+// These words had their declensed form automatically generated
+
+guri
+bărbii
+buze
+urechi
+mâini
+palme
+gheare
+gheare
+aripi
+glezne
+labe
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+
+încheietura mâinii
