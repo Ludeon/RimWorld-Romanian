@@ -1,0 +1,19 @@
+// These words had their declensed form automatically generated
+
+satelor
+satelor
+orașelor
+orașelor
+municipiilor
+cătunurilor
+districtelor
+orașelor
+așezărilor
+taberelor
+campingurilor
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+

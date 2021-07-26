@@ -284,6 +284,32 @@
     <li>GroupNameFeminine_PluDat->Words/Nouns/GroupNames/Feminine_PluNatDat</li>
     <li>GroupNameFeminine_PluArt->Words/Nouns/GroupNames/Feminine_PluArtNom</li>
     <li>GroupNameFeminine_PluArtDat->Words/Nouns/GroupNames/Feminine_PluArtDat</li>
+    <!-- Paradigm of the file Concepts_Positive.xml -->
+    <li>ConceptPositiveMasculine->Words/Nouns/Concepts_Positive/Masculine_SglNatNom</li>
+    <li>ConceptPositiveMasculine_Dat->Words/Nouns/Concepts_Positive/Masculine_SglNatDat</li>
+    <li>ConceptPositiveMasculine_Art->Words/Nouns/Concepts_Positive/Masculine_SglArtNom</li>
+    <li>ConceptPositiveMasculine_ArtDat->Words/Nouns/Concepts_Positive/Masculine_SglArtDat</li>
+    <li>ConceptPositiveFeminine->Words/Nouns/Concepts_Positive/Feminine_SglNatNom</li>
+    <li>ConceptPositiveFeminine_Dat->Words/Nouns/Concepts_Positive/Feminine_SglNatDat</li>
+    <li>ConceptPositiveFeminine_Art->Words/Nouns/Concepts_Positive/Feminine_SglArtNom</li>
+    <li>ConceptPositiveFeminine_ArtDat->Words/Nouns/Concepts_Positive/Feminine_SglArtDat</li>
+    <li>ConceptPositiveFeminine_Plu->Words/Nouns/Concepts_Positive/Feminine_PluNatNom</li>
+    <li>ConceptPositiveFeminine_PluDat->Words/Nouns/Concepts_Positive/Feminine_PluNatDat</li>
+    <li>ConceptPositiveFeminine_PluArt->Words/Nouns/Concepts_Positive/Feminine_PluArtNom</li>
+    <li>ConceptPositiveFeminine_PluArtDat->Words/Nouns/Concepts_Positive/Feminine_PluArtDat</li>
+    <!-- Paradigm of the file Communities.xml -->
+    <li>CommunityMasculine->Words/Nouns/Communities/Masculine_SglNatNom</li>
+    <li>CommunityMasculine_Dat->Words/Nouns/Communities/Masculine_SglNatDat</li>
+    <li>CommunityMasculine_Art->Words/Nouns/Communities/Masculine_SglArtNom</li>
+    <li>CommunityMasculine_ArtDat->Words/Nouns/Communities/Masculine_SglArtDat</li>
+    <li>CommunityFeminine->Words/Nouns/Communities/Feminine_SglNatNom</li>
+    <li>CommunityFeminine_Dat->Words/Nouns/Communities/Feminine_SglNatDat</li>
+    <li>CommunityFeminine_Art->Words/Nouns/Communities/Feminine_SglArtNom</li>
+    <li>CommunityFeminine_ArtDat->Words/Nouns/Communities/Feminine_SglArtDat</li>
+    <li>CommunityFeminine_Plu->Words/Nouns/Communities/Feminine_PluNatNom</li>
+    <li>CommunityFeminine_PluDat->Words/Nouns/Communities/Feminine_PluNatDat</li>
+    <li>CommunityFeminine_PluArt->Words/Nouns/Communities/Feminine_PluArtNom</li>
+    <li>CommunityFeminine_PluArtDat->Words/Nouns/Communities/Feminine_PluArtDat</li>
   </GlobalUtility.rulePack.rulesFiles>
 
   <!-- EN:
@@ -580,6 +606,32 @@
     <li>GroupName_PluArt->[GroupNameMasculine_PluArt]</li>
     <li>GroupName_PluArtDat->[GroupNameFeminine_PluArtDat]</li>
     <li>GroupName_PluArtDat->[GroupNameMasculine_PluArtDat]</li>
+    <!-- Paradigm of the file Concepts_Positive.xml -->
+    <li>ConceptPositive->[ConceptPositiveFeminine]</li>
+    <li>ConceptPositive->[ConceptPositiveMasculine]</li>
+    <li>ConceptPositive_Dat->[ConceptPositiveFeminine_Dat]</li>
+    <li>ConceptPositive_Dat->[ConceptPositiveMasculine_Dat]</li>
+    <li>ConceptPositive_Art->[ConceptPositiveFeminine_Art]</li>
+    <li>ConceptPositive_Art->[ConceptPositiveMasculine_Art]</li>
+    <li>ConceptPositive_ArtDat->[ConceptPositiveFeminine_ArtDat]</li>
+    <li>ConceptPositive_ArtDat->[ConceptPositiveMasculine_ArtDat]</li>
+    <li>ConceptPositive_Plu->[ConceptPositiveFeminine_Plu]</li>
+    <li>ConceptPositive_PluDat->[ConceptPositiveFeminine_PluDat]</li>
+    <li>ConceptPositive_PluArt->[ConceptPositiveFeminine_PluArt]</li>
+    <li>ConceptPositive_PluArtDat->[ConceptPositiveFeminine_PluArtDat]</li>
+    <!-- Paradigm of the file Communities.xml -->
+    <li>Community->[CommunityFeminine]</li>
+    <li>Community->[CommunityMasculine]</li>
+    <li>Community_Dat->[CommunityFeminine_Dat]</li>
+    <li>Community_Dat->[CommunityMasculine_Dat]</li>
+    <li>Community_Art->[CommunityFeminine_Art]</li>
+    <li>Community_Art->[CommunityMasculine_Art]</li>
+    <li>Community_ArtDat->[CommunityFeminine_ArtDat]</li>
+    <li>Community_ArtDat->[CommunityMasculine_ArtDat]</li>
+    <li>Community_Plu->[CommunityFeminine_Plu]</li>
+    <li>Community_PluDat->[CommunityFeminine_PluDat]</li>
+    <li>Community_PluArt->[CommunityFeminine_PluArt]</li>
+    <li>Community_PluArtDat->[CommunityFeminine_PluArtDat]</li>
   </GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:

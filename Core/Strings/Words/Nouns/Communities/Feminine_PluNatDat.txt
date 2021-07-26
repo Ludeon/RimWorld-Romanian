@@ -1,0 +1,19 @@
+// These words had their declensed form automatically generated
+
+sate
+sate
+orașe
+orașe
+municipii
+cătunuri
+districte
+orașe
+așezări
+tabere
+campinguri
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+

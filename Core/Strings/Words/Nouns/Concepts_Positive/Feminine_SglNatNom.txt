@@ -1,0 +1,40 @@
+// These words had their declensed form automatically generated
+
+speranță
+dragoste
+putere
+luptă
+familie
+loialitate
+distracție
+fericire
+abundență
+creștere
+fericire
+colectivitate
+comunitate
+afecțiune
+intimitate
+părtășie
+prietenie
+bunăvoință
+armonie
+solidaritate
+compasiune
+milă
+răbdare
+simpatie
+onestitate
+bunătate
+grație
+decență
+eleganță
+camaraderie
+fraternitate
+siguranță
+
+// These words were declensed in a best-effort manner
+
+
+// These words couldn't be declensed automatically. Edit manually
+
