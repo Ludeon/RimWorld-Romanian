@@ -19,3 +19,4 @@ Check out these links:
 - [Scope of this translation](https://github.com/Ludeon/RimWorld-Romanian/wiki#scope)
 - [General tips for contributors](https://github.com/Ludeon/RimWorld-Romanian/wiki#general-notes-for-contributors)
 - [Table of translation choices](https://github.com/Ludeon/RimWorld-Romanian/wiki#general-notes-for-contributors)
+- [Folderul de Strings și declinarea substantivelor](https://github.com/Ludeon/RimWorld-Romanian/wiki/Folderul-de-Strings-%C8%99i-declinarea-substantivelor)
