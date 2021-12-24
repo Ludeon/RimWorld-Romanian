@@ -5,8 +5,8 @@
   <Art.description>Crează frumoase piese de artă din materiale brute.</Art.description>
   <!-- EN: art -->
   <Art.gerundLabel>creând</Art.gerundLabel>
-  <!-- EN: Art -->
-  <Art.labelShort>Artă</Art.labelShort>
+  <!-- EN: art -->
+  <Art.labelShort>artă</Art.labelShort>
   <!-- EN: Artist -->
   <Art.pawnLabel>Artist</Art.pawnLabel>
   <!-- EN: Do art at -->
@@ -16,8 +16,8 @@
   <BasicWorker.description>Sarcini necalificate și ușoare. Eliberați prizonieri și apăsați întrerupătoarele de pe mașini.</BasicWorker.description>
   <!-- EN: dealing with -->
   <BasicWorker.gerundLabel>ocupându-se de</BasicWorker.gerundLabel>
-  <!-- EN: Basic -->
-  <BasicWorker.labelShort>De bază</BasicWorker.labelShort>
+  <!-- EN: basic -->
+  <BasicWorker.labelShort>de bază</BasicWorker.labelShort>
   <!-- EN: Worker -->
   <BasicWorker.pawnLabel>Muncitor</BasicWorker.pawnLabel>
   <!-- EN: Deal with -->
@@ -27,8 +27,8 @@
   <Cleaning.description>Curățați zăpada și curățați podeaua în zona casei.</Cleaning.description>
   <!-- EN: cleaning -->
   <Cleaning.gerundLabel>curățând</Cleaning.gerundLabel>
-  <!-- EN: Clean -->
-  <Cleaning.labelShort>Curățenie</Cleaning.labelShort>
+  <!-- EN: clean -->
+  <Cleaning.labelShort>curățenie</Cleaning.labelShort>
   <!-- EN: Cleaner -->
   <Cleaning.pawnLabel>Menajer</Cleaning.pawnLabel>
   <!-- EN: Clean -->
@@ -38,8 +38,8 @@
   <Construction.description>Construiți lucrurile pe care le-ați desemnat și reparați clădirile deteriorate sau stricate.</Construction.description>
   <!-- EN: constructing -->
   <Construction.gerundLabel>construind</Construction.gerundLabel>
-  <!-- EN: Construct -->
-  <Construction.labelShort>Construcție</Construction.labelShort>
+  <!-- EN: construct -->
+  <Construction.labelShort>construcție</Construction.labelShort>
   <!-- EN: Constructor -->
   <Construction.pawnLabel>Constructor</Construction.pawnLabel>
   <!-- EN: Construct -->
@@ -49,8 +49,8 @@
   <Cooking.description>Pregătiți mesele și măcelăriți carnea.</Cooking.description>
   <!-- EN: cooking -->
   <Cooking.gerundLabel>gătind</Cooking.gerundLabel>
-  <!-- EN: Cook -->
-  <Cooking.labelShort>Gătit</Cooking.labelShort>
+  <!-- EN: cook -->
+  <Cooking.labelShort>gătit</Cooking.labelShort>
   <!-- EN: Cook -->
   <Cooking.pawnLabel>Bucătar</Cooking.pawnLabel>
   <!-- EN: Cook -->
@@ -60,8 +60,8 @@
   <Crafting.description>Efectuați lucrări generale cu calificare redusă la punctele de lucru. Aceasta include tăierea pietrei, turnătoria și multe altele.</Crafting.description>
   <!-- EN: crafting -->
   <Crafting.gerundLabel>meșterind</Crafting.gerundLabel>
-  <!-- EN: Craft -->
-  <Crafting.labelShort>Meșteșugărie</Crafting.labelShort>
+  <!-- EN: craft -->
+  <Crafting.labelShort>meșteșugărie</Crafting.labelShort>
   <!-- EN: Crafter -->
   <Crafting.pawnLabel>Meșter</Crafting.pawnLabel>
   <!-- EN: Craft at -->
@@ -71,8 +71,8 @@
   <Doctor.description>Tratați bolnavii, aduceți-le mâncare, înveseliți-i și efectuați operațiile desemnate. Medicii vor avea grijă atât de coloniști, cât și de prizonieri.</Doctor.description>
   <!-- EN: doctoring -->
   <Doctor.gerundLabel>tratând</Doctor.gerundLabel>
-  <!-- EN: Doctor -->
-  <Doctor.labelShort>Medic</Doctor.labelShort>
+  <!-- EN: doctor -->
+  <Doctor.labelShort>medic</Doctor.labelShort>
   <!-- EN: Doctor -->
   <Doctor.pawnLabel>Medic</Doctor.pawnLabel>
   <!-- EN: Care for -->
@@ -82,8 +82,8 @@
   <Firefighter.description>Stingeți incendiile din colonie.</Firefighter.description>
   <!-- EN: firefighting -->
   <Firefighter.gerundLabel>stingând incendiul</Firefighter.gerundLabel>
-  <!-- EN: Firefight -->
-  <Firefighter.labelShort>Pompier</Firefighter.labelShort>
+  <!-- EN: firefight -->
+  <Firefighter.labelShort>pompier</Firefighter.labelShort>
   <!-- EN: Firefighter -->
   <Firefighter.pawnLabel>Pompier</Firefighter.pawnLabel>
   <!-- EN: Extinguish -->
@@ -93,8 +93,8 @@
   <Growing.description>Plantați semințe, recoltați culturi și căutați plante sălbatice.</Growing.description>
   <!-- EN: growing -->
   <Growing.gerundLabel>cultivând</Growing.gerundLabel>
-  <!-- EN: Grow -->
-  <Growing.labelShort>Agricultură</Growing.labelShort>
+  <!-- EN: grow -->
+  <Growing.labelShort>agricultură</Growing.labelShort>
   <!-- EN: Grower -->
   <Growing.pawnLabel>Fermier</Growing.pawnLabel>
   <!-- EN: Grow -->
@@ -104,8 +104,8 @@
   <Handling.description>Domesticiți, antrenați, recoltați resurse de la și sacrificați animale.</Handling.description>
   <!-- EN: handling -->
   <Handling.gerundLabel>mânuind</Handling.gerundLabel>
-  <!-- EN: Handle -->
-  <Handling.labelShort>Mânuire</Handling.labelShort>
+  <!-- EN: handle -->
+  <Handling.labelShort>mânuire</Handling.labelShort>
   <!-- EN: Handler -->
   <Handling.pawnLabel>Mânuitor</Handling.pawnLabel>
   <!-- EN: Handle -->
@@ -115,8 +115,8 @@
   <Hauling.description>Cărați lucrurile acolo unde trebuie să fie.</Hauling.description>
   <!-- EN: hauling -->
   <Hauling.gerundLabel>cărând</Hauling.gerundLabel>
-  <!-- EN: Haul -->
-  <Hauling.labelShort>Cărare</Hauling.labelShort>
+  <!-- EN: haul -->
+  <Hauling.labelShort>cărare</Hauling.labelShort>
   <!-- EN: Hauler -->
   <Hauling.pawnLabel>Cărător</Hauling.pawnLabel>
   <!-- EN: Haul -->
@@ -126,8 +126,8 @@
   <Hunting.description>Ucideți animalele care sunt desemnate pentru a fi vânate.</Hunting.description>
   <!-- EN: hunting -->
   <Hunting.gerundLabel>vânând</Hunting.gerundLabel>
-  <!-- EN: Hunt -->
-  <Hunting.labelShort>Vânătoare</Hunting.labelShort>
+  <!-- EN: hunt -->
+  <Hunting.labelShort>vânătoare</Hunting.labelShort>
   <!-- EN: Hunter -->
   <Hunting.pawnLabel>Vânător</Hunting.pawnLabel>
   <!-- EN: Hunt -->
@@ -137,8 +137,8 @@
   <Mining.description>Săparea și forarea.</Mining.description>
   <!-- EN: mining -->
   <Mining.gerundLabel>minând</Mining.gerundLabel>
-  <!-- EN: Mine -->
-  <Mining.labelShort>Minerit</Mining.labelShort>
+  <!-- EN: mine -->
+  <Mining.labelShort>minerit</Mining.labelShort>
   <!-- EN: Miner -->
   <Mining.pawnLabel>Miner</Mining.pawnLabel>
   <!-- EN: Mine -->
@@ -148,8 +148,8 @@
   <Patient.description>Mergeți la un pat medical pentru tratament dacă aveți o afecțiune care vă pune imediat viața în pericol.</Patient.description>
   <!-- EN: patienting -->
   <Patient.gerundLabel>pacientând</Patient.gerundLabel>
-  <!-- EN: Patient -->
-  <Patient.labelShort>Pacient</Patient.labelShort>
+  <!-- EN: patient -->
+  <Patient.labelShort>pacient</Patient.labelShort>
   <!-- EN: Patient -->
   <Patient.pawnLabel>Pacient</Patient.pawnLabel>
   <!-- EN: Become patient -->
@@ -159,8 +159,8 @@
   <PatientBedRest.description>Odihniți-vă la pat pentru a vă recupera de probleme medicale care nu vă pun viața în pericol imediat.</PatientBedRest.description>
   <!-- EN: resting in bed -->
   <PatientBedRest.gerundLabel>recuperându-se</PatientBedRest.gerundLabel>
-  <!-- EN: Bed rest -->
-  <PatientBedRest.labelShort>Odihnă</PatientBedRest.labelShort>
+  <!-- EN: bed rest -->
+  <PatientBedRest.labelShort>odihnă</PatientBedRest.labelShort>
   <!-- EN: Bed rester -->
   <PatientBedRest.pawnLabel>Pacient</PatientBedRest.pawnLabel>
   <!-- EN: Become patient -->
@@ -170,8 +170,8 @@
   <PlantCutting.description>Tăiați sau recoltați plantele conform indicațiilor.</PlantCutting.description>
   <!-- EN: plant cutting -->
   <PlantCutting.gerundLabel>recoltând</PlantCutting.gerundLabel>
-  <!-- EN: Plant cut -->
-  <PlantCutting.labelShort>Tăiat plante</PlantCutting.labelShort>
+  <!-- EN: plant cut -->
+  <PlantCutting.labelShort>tăiat plante</PlantCutting.labelShort>
   <!-- EN: Plant cutter -->
   <PlantCutting.pawnLabel>Tăietor de plante</PlantCutting.pawnLabel>
   <!-- EN: Cut -->
@@ -181,8 +181,8 @@
   <Research.description>Efectuarea de lucrări de cercetare.</Research.description>
   <!-- EN: researching -->
   <Research.gerundLabel>cercetând</Research.gerundLabel>
-  <!-- EN: Research -->
-  <Research.labelShort>Cercetare</Research.labelShort>
+  <!-- EN: research -->
+  <Research.labelShort>cercetare</Research.labelShort>
   <!-- EN: Researcher -->
   <Research.pawnLabel>Cercetător</Research.pawnLabel>
   <!-- EN: Research at -->
@@ -192,8 +192,8 @@
   <Smithing.description>Creați arme și unelte din materii prime, fie ca fierar, fie prin prelucrare.</Smithing.description>
   <!-- EN: smithing -->
   <Smithing.gerundLabel>forjând</Smithing.gerundLabel>
-  <!-- EN: Smith -->
-  <Smithing.labelShort>Forjare</Smithing.labelShort>
+  <!-- EN: smith -->
+  <Smithing.labelShort>forjare</Smithing.labelShort>
   <!-- EN: Smith -->
   <Smithing.pawnLabel>Fierar</Smithing.pawnLabel>
   <!-- EN: Smith at -->
@@ -203,8 +203,8 @@
   <Tailoring.description>Creați îmbrăcăminte din materii prime.</Tailoring.description>
   <!-- EN: tailoring -->
   <Tailoring.gerundLabel>croind</Tailoring.gerundLabel>
-  <!-- EN: Tailor -->
-  <Tailoring.labelShort>Croitorie</Tailoring.labelShort>
+  <!-- EN: tailor -->
+  <Tailoring.labelShort>croitorie</Tailoring.labelShort>
   <!-- EN: Tailor -->
   <Tailoring.pawnLabel>Croitor</Tailoring.pawnLabel>
   <!-- EN: Tailor at -->
@@ -214,8 +214,8 @@
   <Warden.description>Gestionați, hrăniți, discutați cu și recrutați prizonieri.</Warden.description>
   <!-- EN: wardening -->
   <Warden.gerundLabel>supravegând</Warden.gerundLabel>
-  <!-- EN: Warden -->
-  <Warden.labelShort>Supraveghere</Warden.labelShort>
+  <!-- EN: warden -->
+  <Warden.labelShort>supraveghere</Warden.labelShort>
   <!-- EN: Warden -->
   <Warden.pawnLabel>Supraveghetor</Warden.pawnLabel>
   <!-- EN: Handle -->

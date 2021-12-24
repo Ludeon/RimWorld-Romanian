@@ -52,6 +52,13 @@
   <!-- EN: a bionic stomach -->
   <BionicStomach.labelNoun>un stomac bionic</BionicStomach.labelNoun>
   
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>limbă bionică</BionicTongue.label>
+  <!-- EN: An installed bionic tongue. -->
+  <BionicTongue.description>O limbă bionică instalată</BionicTongue.description>
+  <!-- EN: a bionic tongue -->
+  <BionicTongue.labelNoun>o limbă bionică</BionicTongue.labelNoun>
+  
   <!-- EN: death acidifier -->
   <DeathAcidifier.label>acidificator la moarte.</DeathAcidifier.label>
   <!-- EN: An installed death acidifier. -->

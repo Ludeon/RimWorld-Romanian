@@ -236,6 +236,8 @@
   <Stat_Race_Growth_Desc>Cât de aproape este această creatură de vârsta adultă.\n\nGrowth necesită hrană. Un animal înfometat va crește într-un ritm mai lent în comparație cu unul bine hrănit.</Stat_Race_Growth_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
   <Stat_Thing_Weapon_MeleeWarmupTime_Desc>Cât timp trece între momentul în care începe un atac corp la corp cu această armă și momentul în care lovește.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <!-- EN: How much time passes between when a ranged attack begins aiming and when it fires. -->
+  <Stat_Thing_Weapon_RangedWarmupTime_Desc>TODO</Stat_Thing_Weapon_RangedWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
   <Stat_Thing_Weapon_BurstShotCount_Desc>Cantitatea de focuri pe care această armă le trage în fiecare rafală.</Stat_Thing_Weapon_BurstShotCount_Desc>
   <!-- EN: The fire rate of this weapon during each burst. -->
@@ -442,7 +444,7 @@
   <Stat_Animal_MilkAmount>Cantitatea de lapte</Stat_Animal_MilkAmount>
   <!-- EN: The amount of milk this creature produces each time it is milked. -->
   <Stat_Animal_MilkAmountDesc>Cantitatea de lapte pe care această creatură o produce de fiecare dată când este mulsă.</Stat_Animal_MilkAmountDesc>
-  <!-- EN: Milking inteval -->
+  <!-- EN: Milking interval -->
   <Stat_Animal_MilkGrowthTime>Inteval de muls</Stat_Animal_MilkGrowthTime>
   <!-- EN: The amount of time this creature needs between milkings. -->
   <Stat_Animal_MilkGrowthTimeDesc>Cantitatea de timp de care are nevoie această creatură între mulsuri.</Stat_Animal_MilkGrowthTimeDesc>
@@ -485,5 +487,12 @@
 
   <!-- EN: How much of the total possible study you have performed on this object. -->
   <Stat_Studiable_Desc>Cât de mult din totalul studiilor posibile ați efectuat asupra acestui obiect.</Stat_Studiable_Desc>
+
+  <!-- EN: Source -->
+  <Stat_Source_Label>TODO</Stat_Source_Label>
+  <!-- EN: This content came from the official expansion -->
+  <Stat_Source_OfficialExpansionReport>TODO</Stat_Source_OfficialExpansionReport>
+  <!-- EN: This content came from the mod -->
+  <Stat_Source_ModReport>TODO</Stat_Source_ModReport>
   
 </LanguageData>

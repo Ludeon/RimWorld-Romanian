@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Need slave beds -->
@@ -19,6 +19,8 @@
 
   <!-- EN: {0} expected -->
   <RitualExpected>{0} anticipat</RitualExpected>
+  <!-- EN: {0} opportunity -->
+  <RitualOpportunity>TODO</RitualOpportunity>
   <!-- EN: {0} expected for -->
   <RitualExpectedFor>{0} anticipat pentru</RitualExpectedFor>
   <!-- EN: {0} days: Ritual opportunity ends. -->
@@ -42,8 +44,8 @@
 
   <!-- EN: {0} desired -->
   <IdeoBuildingMissing>{0} dorit</IdeoBuildingMissing>
-  <!-- EN: {1} requires that you have a {0} in your colony as long as {2} or higher.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
-  <IdeoBuildingMissingDesc>{1} necesită să ai un {0} în colonie atâta timp cât {2} sau mai mare.{4}\n\nÎn cazul în care cerința nu este îndeplinită, acești credincioși vor deveni nefericiți:\n{3}</IdeoBuildingMissingDesc>
+  <!-- EN: {IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
+  <IdeoBuildingMissingDesc>{IDEO_name} necesită să ai un {0} în colonia ta atâta timp cât {2} sau mai mare.\n\nAceastă cerință este activă doar dacă {IDEO_name} este ideoligia principală a facțiunii tale, sau dacă există credincioși {MINBELIEVERS} în facțiunea ta.{4}\n\n\nDacă cerința nu este îndeplinită, acești credincioși vor deveni nefericiți:\n{3}</IdeoBuildingMissingDesc>
   <!-- EN: In order to dignify {0}, these room requirements must be met -->
   <IdeoBuildingRoomRequirementsDesc>Pentru a demniza {0}, trebuie îndeplinite aceste cerințe pentru cameră</IdeoBuildingRoomRequirementsDesc>
   <!-- EN: expectations are -->
@@ -63,8 +65,8 @@
   <IdeoRoleEmpty>{0} rol neocupat</IdeoRoleEmpty>
   <!-- EN: {0} roles unfilled -->
   <IdeoRolesEmpty>{0} roluri neocupate</IdeoRolesEmpty>
-  <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab.\n\nIf these roles remain empty, the following people will be unhappy -->
-  <IdeoRolesEmptyDesc>Aceste roluri nu sunt completate:\n{0}\n\nPuteți atribui un rol cuiva în fila Social.\n\nDacă aceste roluri rămân goale, următoarele persoane vor fi nefericite</IdeoRolesEmptyDesc>
+  <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab. You can also select a ritual spot or an altar and click 'Begin role change'. \n\nIf these roles remain empty, the following people will be unhappy -->
+  <IdeoRolesEmptyDesc>Aceste roluri nu sunt completate:\n{0}\n\nPuteți atribui un rol cuiva în fila Social. Puteți, de asemenea, să selectați un loc de ritual sau un altar și să faceți clic pe "Începeți schimbarea rolului". \n\nDacă aceste roluri rămân goale, următoarele persoane vor fi nefericite</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->
   <AncientAltarThreatsWaking>Amenințări de securitate activate în {0}</AncientAltarThreatsWaking>
@@ -134,4 +136,11 @@
   <!-- EN: Cryptosleep caskets containing unknown threats are opening soon. -->
   <AlertCasketOpeningDesc>Se deschid în curând sicrie de criptosomn care conțin amenințări necunoscute.</AlertCasketOpeningDesc>
 
+  <!-- EN: Slave rebellion likely -->
+  <AlertSlaveRebellionLikely>TODO</AlertSlaveRebellionLikely>
+  <!-- EN: There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion. -->
+  <AlertSlaveRebellionLikelyRebelliousCount>TODO</AlertSlaveRebellionLikelyRebelliousCount>
+  <!-- EN: A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. The following factors are affecting how often they will rebel: -->
+  <AlertSlaveRebellionLikelyMostRebellious>TODO</AlertSlaveRebellionLikelyMostRebellious>
+  
 </LanguageData>

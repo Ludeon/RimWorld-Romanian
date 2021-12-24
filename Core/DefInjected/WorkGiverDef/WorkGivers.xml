@@ -323,6 +323,13 @@
   <!-- EN: execute -->
   <ExecuteGuiltyColonist.verb>execută</ExecuteGuiltyColonist.verb>
   
+  <!-- EN: extract trees -->
+  <ExtractTree.label>extrage copaci</ExtractTree.label>
+  <!-- EN: extracting -->
+  <ExtractTree.gerund>extrăgând</ExtractTree.gerund>
+  <!-- EN: extract -->
+  <ExtractTree.verb>extrage</ExtractTree.verb>
+  
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>hrănește prizonieri</FeedPrisoner.label>
   <!-- EN: feeding -->
@@ -532,6 +539,13 @@
   <Repair.gerund>reparând</Repair.gerund>
   <!-- EN: repair -->
   <Repair.verb>repară</Repair.verb>
+  
+  <!-- EN: replant tree -->
+  <Replant.label>replantează copac</Replant.label>
+  <!-- EN: replanting -->
+  <Replant.gerund>replantând</Replant.gerund>
+  <!-- EN: replant -->
+  <Replant.verb>replantează</Replant.verb>
   
   <!-- EN: do research -->
   <Research.label>cercetează</Research.label>

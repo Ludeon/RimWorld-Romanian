@@ -6,6 +6,11 @@
   <!-- EN: A bowl-shaped furnishing used to hold a fire. Will light the surroundings and create heat. -->
   <Brazier.description>Un obiect de mobilier în formă de castron folosit pentru a ține focul. Va lumina împrejurimile și va crea căldură.</Brazier.description>
   
+  <!-- EN: darklight brazier -->
+  <DarklightBrazier.label>TODO</DarklightBrazier.label>
+  <!-- EN: A specially treated brazier that illuminates its surroundings with darklight and creates heat. These satisfy royal brazier requirements. -->
+  <DarklightBrazier.description>TODO</DarklightBrazier.description>
+  
   <!-- EN: drape -->
   <Drape.label>draperie</Drape.label>
   <!-- EN: A decorative sheet hanging from a vertical wooden frame. Appropriate for royal rooms. -->

@@ -6,6 +6,11 @@
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
   <Beauty.description>Cât de plăcut este un obiect la vedere.\n\nObiectele frumoase satisfac nevoia de frumusețe a personajelor.</Beauty.description>
   
+  <!-- EN: outdoor beauty -->
+  <BeautyOutdoors.label>frumusețe exterioară</BeautyOutdoors.label>
+  <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
+  <BeautyOutdoors.description>Cât de plăcut este să privești ceva dacă este afară.\n\nObiectele frumoase satisfac nevoia de frumusețe a oamenilor.</BeautyOutdoors.description>
+  
   <!-- EN: cleanliness -->
   <Cleanliness.label>curățenie</Cleanliness.label>
   <!-- EN: How much an object contributes to an area's cleanliness score. -->

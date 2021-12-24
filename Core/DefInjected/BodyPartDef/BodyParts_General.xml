@@ -37,4 +37,9 @@
   <!-- EN: spine -->
   <Spine.label>coloană vertebrală</Spine.label>
   
+  <!-- EN: tongue -->
+  <Tongue.label>limbă</Tongue.label>
+  <!-- EN: remove -->
+  <Tongue.removeRecipeLabelOverride>extrage</Tongue.removeRecipeLabelOverride>
+  
 </LanguageData>

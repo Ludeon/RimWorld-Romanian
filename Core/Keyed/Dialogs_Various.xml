@@ -312,6 +312,8 @@
   <WarmupTime>Încălzire</WarmupTime>
   <!-- EN: Melee warmup -->
   <MeleeWarmupTime>Încălzire de luptă corp la corp</MeleeWarmupTime>
+  <!-- EN: Ranged warmup -->
+  <RangedWarmupTime>TODO</RangedWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>Cooldown</CooldownTime>
   <!-- EN: Disarmed -->
@@ -494,8 +496,10 @@
   <TrapArmorPenetration>Penetrarea blindajului capcanei</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
   <RearmCost>Costul reînarmării</RearmCost>
-  <!-- EN: Resources needed to rearm this turret (affected by difficulty). -->
-  <RearmCostExplanation>Resursele necesare pentru a reînarma această turelă (afectate de dificultate).</RearmCostExplanation>
+  <!-- EN: Resources needed to rearm this turret -->
+  <RearmCostExplanation>Resursele necesare pentru a reînarma această turelă</RearmCostExplanation>
+  <!-- EN: affected by difficulty -->
+  <RearmCostExplanationDifficulty>afectate de dificultate</RearmCostExplanationDifficulty>
   <!-- EN: Shots before rearm -->
   <ShotsBeforeRearm>Împușcături înainte de rearmare</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
@@ -684,6 +688,8 @@
   <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(se ia în considerare doar primul punct de trecere)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
   <DaysWorthOfFoodWarningDialog>Caravana ta are doar {0} zile de hrană și va deveni flămândă foarte repede.</DaysWorthOfFoodWarningDialog>
+  <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
+  <DaysWorthOfFoodDietWarningDialog>TODO</DaysWorthOfFoodDietWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
   <DaysWorthOfFoodWarningDialog_NoFood>Caravana ta nu are hrană și va deveni flămândă foarte repede.</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
@@ -1125,8 +1131,10 @@
   <AnimalFemaleYoung>Femelă tânără</AnimalFemaleYoung>
   <!-- EN: Pregnant -->
   <AnimalPregnant>Gravidă</AnimalPregnant>
+  <!-- EN: Bonded -->
+  <AnimalBonded>TODO</AnimalBonded>
   <!-- EN: Slaughter -->
-  <AllowSlaughterPregnant>Măcelărire</AllowSlaughterPregnant>
+  <AllowSlaughter>TODO</AllowSlaughter>
 
   <!-- EN: The animal to be automatically slaughtered. -->
   <AutoSlaugtherHeaderTooltipLabel>Animalul care urmează să fie sacrificat automat.</AutoSlaugtherHeaderTooltipLabel>
@@ -1154,6 +1162,10 @@
   <AutoSlaughterHeaderTooltipCurrentPregnant>Numărul actual de animale gestante din colonie.</AutoSlaughterHeaderTooltipCurrentPregnant>
   <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
   <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Permiteți ca animalele gestante să fie sacrificate împreună cu alte femele din aceeași specie.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <!-- EN: The current number of bonded animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentBonded>TODO</AutoSlaughterHeaderTooltipCurrentBonded>
+  <!-- EN: Allow bonded animals to be slaughtered. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>TODO</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
 
   <!-- EN: Click to set an animal count limit. -->
   <AutoSlaughterTooltipSetLimit>Faceți clic pentru a seta o limită de număr de animale.</AutoSlaughterTooltipSetLimit>

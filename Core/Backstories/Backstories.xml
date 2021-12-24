@@ -2900,16 +2900,16 @@
     <desc>{PAWN_gender ? [PAWN_nameDef] s-a răzvrătit împotriva corporației pentru care lucra. A eșuat și a fost forțat să fugă.Era mereu în mișcare, lăsând mereu totul în urmă. A încercat să câștige susținători pentru cauza sa, dar a eșuat din cauza abilităților sale sociale slabe. : [PAWN_nameDef] s-a răzvrătit împotriva corporației pentru care lucra. A eșuat și a fost forțată să fugă.\n\nEra mereu în mișcare, lăsând mereu totul în urmă. A încercat să câștige susținători pentru cauza ei, dar a eșuat din cauza abilităților ei sociale slabe.}\n</desc>
   </Fugitive4>
   
-  <FurnitureBuilder50>
+  <FurnitureBuilder83>
     <!-- EN: furniture builder -->
     <title>meșter de mobilă</title>
     <titleFemale>meșteră de mobilă</titleFemale>
     <!-- EN: builder -->
     <titleShort>meșter</titleShort>
     <titleShortFemale>meșteră</titleShortFemale>
-    <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent his time building beautiful furniture for wealthy glitterworld clients. -->
+    <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
     <desc>{PAWN_gender ? [PAWN_nameDef] a crescut în apropierea pădurilor. Își petrecea timpul construind mobilier frumos pentru clienții bogați din lumea glitterului. : [PAWN_nameDef] a crescut în apropierea pădurilor. Ea și-a petrecut timpul construind mobilier frumos pentru clienții bogați din lumea glitterului.}\n</desc>
-  </FurnitureBuilder50>
+  </FurnitureBuilder83>
   
   <GalacticPage37>
     <!-- EN: galactic page -->
@@ -6023,16 +6023,16 @@
     <desc>{PAWN_gender ? Ca inginer autodidact, [PAWN_nameDef] a scăpat din lumea sa natală pe moarte cu o rachetă pe care și-a construit-o singur. \Ulterior și-a petrecut ani din viață pe mai multe lumi, ajutând planetele mai puțin dezvoltate să dezvolte tehnologia rachetelor. : Fiind o ingineră autodidactă, [PAWN_nameDef] a scăpat din lumea ei natală muribundă cu o rachetă pe care și-a construit-o singură. \Ulterior, și-a petrecut ani din viață pe mai multe lumi, ajutând planetele mai puțin dezvoltate să dezvolte tehnologia rachetelor.}\n</desc>
   </RocketPioneer19>
   
-  <RoyalBastard3>
+  <RoyalBastard64>
     <!-- EN: royal bastard -->
     <title>bastard regal</title>
     <titleFemale>bastardă regală</titleFemale>
     <!-- EN: bastard -->
     <titleShort>bastard</titleShort>
     <titleShortFemale>bastardă</titleShortFemale>
-    <!-- EN: [PAWN_nameDef] the child of a lord and a prostitute.\n\n[PAWN_possessive] father's line was secure and his holdings strong. Nobody ever came to [PAWN_nameDef] to endorse a bid for the title. [PAWN_pronoun] earned [PAWN_possessive] bread cleaning the brothel, but always felt [PAWN_pronoun] deserved much more. -->
-    <desc>{PAWN_gender ? [PAWN_nameDef], copilul unui lord și al unei prostituate.\n\nLinia tatălui său era sigură și proprietățile sale puternice. Nimeni nu a venit vreodată la [PAWN_nameDef] pentru a susține o ofertă pentru titlu. Își câștiga pâinea curățând bordelul, dar a simțit întotdeauna că merită mult mai mult. : [PAWN_nameDef], copilul unui lord și al unei prostituate. Linia tatălui ei era sigură și proprietățile sale puternice. Nimeni nu a venit vreodată la [PAWN_nameDef] pentru a susține o ofertă pentru titlu. Își câștiga pâinea făcând curățenie la bordel, dar întotdeauna a simțit că merita mult mai mult.}\n</desc>
-  </RoyalBastard3>
+    <!-- EN: [PAWN_nameDef] was the child of a lord and a prostitute.\n\n[PAWN_possessive] father's line was secure and his holdings strong. Nobody ever came to [PAWN_nameDef] to endorse a bid for the title. [PAWN_pronoun] earned [PAWN_possessive] bread cleaning the brothel, but always felt [PAWN_pronoun] deserved much more. -->
+    <desc>{PAWN_gender ? [PAWN_nameDef] a fost copilul unui lord și al unei prostituate.\n\nLinia tatălui său era sigură și proprietățile sale puternice. Nimeni nu a venit vreodată la [PAWN_nameDef] pentru a susține o ofertă pentru titlu. Își câștiga pâinea curățând bordelul, dar a simțit întotdeauna că merită mult mai mult. : [PAWN_nameDef], copilul unui lord și al unei prostituate. Linia tatălui ei era sigură și proprietățile sale puternice. Nimeni nu a venit vreodată la [PAWN_nameDef] pentru a susține o ofertă pentru titlu. Își câștiga pâinea făcând curățenie la bordel, dar întotdeauna a simțit că merita mult mai mult.}\n</desc>
+  </RoyalBastard64>
   
   <RoyalCook18>
     <!-- EN: royal cook -->

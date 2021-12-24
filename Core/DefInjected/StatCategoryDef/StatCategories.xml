@@ -61,6 +61,9 @@
   <!-- EN: Work -->
   <PawnWork.label>Muncă</PawnWork.label>
   
+  <!-- EN: content source -->
+  <Source.label>sursă conținut</Source.label>
+  
   <!-- EN: Multipliers when equipment made of this -->
   <StuffOfEquipmentStatFactors.label>Multiplicatori atunci când echipamentul este făcut din asta</StuffOfEquipmentStatFactors.label>
   
@@ -78,5 +81,11 @@
   
   <!-- EN: Weapon -->
   <Weapon.label>Armă</Weapon.label>
+  
+  <!-- EN: Weapon (melee) -->
+  <Weapon_Melee.label>Armă (crop la corp)</Weapon_Melee.label>
+  
+  <!-- EN: Weapon (ranged) -->
+  <Weapon_Ranged.label>Armă (de distanță)</Weapon_Ranged.label>
   
 </LanguageData>

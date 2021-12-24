@@ -16,9 +16,6 @@
   <!-- EN: Area must be walkable. -->
   <ShuttleCannotLand_Unwalkable>Zona trebuie să fie circulabilă.</ShuttleCannotLand_Unwalkable>
 
-  <!-- EN: Warning: Anima tree has been marked for cutting. -->
-  <MessageWarningCutAnimaTree>Avertisment: Arborele Anima a fost marcat pentru tăiere.</MessageWarningCutAnimaTree>
-
   <!-- EN: Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony. -->
   <MessageBestowerWaiting>Selectați {TARGET_definite} și faceți clic dreapta pe emisar pentru a începe ceremonia de acordare.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
@@ -29,6 +26,8 @@
   <MessageBestowingSpotUnreachable>Emisarul este supărat de interferențe și a decis să plece.</MessageBestowingSpotUnreachable>
   <!-- EN: The bestower is leaving due to life-threatening danger. -->
   <MessageBestowingDanger>Bestower pleacă din cauza unui pericol care pune viața în pericol.</MessageBestowingDanger>
+  <!-- EN: The bestower is leaving due to life-threatening temperature. -->
+  <MessageBestowingDangerTemperature>TODO</MessageBestowingDangerTemperature>
   <!-- EN: The bestowing ceremony has been interrupted. -->
   <MessageBestowingInterrupted>Ceremonia de acordare a distincției a fost întreruptă.</MessageBestowingInterrupted>
 

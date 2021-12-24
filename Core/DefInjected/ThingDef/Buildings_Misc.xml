@@ -6,10 +6,10 @@
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
   <AncientCryptosleepCasket.description>Acest sicriu de criptosomn pare să fie aici de foarte mult timp. Cine știe ce ar putea conține?</AncientCryptosleepCasket.description>
   
-  <!-- EN: caravan packing spot -->
-  <CaravanPackingSpot.label>locul de ambalare a caravanei</CaravanPackingSpot.label>
-  <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
-  <CaravanPackingSpot.description>Desemnează un loc pentru formarea caravanelor. Puneți acest loc în apropierea depozitelor pentru a accelera procesul de încărcare a caravanelor.</CaravanPackingSpot.description>
+  <!-- EN: caravan hitching spot -->
+  <CaravanPackingSpot.label>loc de acostare pentru rulote</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
+  <CaravanPackingSpot.description>Desemnează un loc pentru legarea animalelor și formarea caravanelor. Coloniștii vor agăța animalele aici în timp ce încarcă o caravană. De asemenea, puteți folosi aceste locuri în timpul întâlnirilor departe de casă pentru a împiedica animalele să rătăcească.</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
   <CommsConsole.label>consola de comunicații</CommsConsole.label>

@@ -3,8 +3,8 @@
   
   <!-- EN: recharge psyfocus -->
   <RechargePsyfocus.label>reîncarcă psyfocus</RechargePsyfocus.label>
-  <!-- EN: recharge psyfocus of all participants to full. -->
-  <RechargePsyfocus.effectDesc>reîncarcă psyfocus-ul tuturor participanților la maxim.</RechargePsyfocus.effectDesc>
+  <!-- EN: the psyfocus of all participants will be recharged to full. -->
+  <RechargePsyfocus.effectDesc>psyfocus-ul tuturor participanților va fi reîncărcat la maxim.</RechargePsyfocus.effectDesc>
   <!-- EN: The psyfocus of all participants has been fully recharged. -->
   <RechargePsyfocus.letterInfoText>Psyfocusul tuturor participanților a fost reîncărcat complet.</RechargePsyfocus.letterInfoText>
   

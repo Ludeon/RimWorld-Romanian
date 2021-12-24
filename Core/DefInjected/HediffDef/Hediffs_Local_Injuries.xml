@@ -133,6 +133,8 @@
   <Misc.label>misc</Misc.label>
   <!-- EN: Miscellanous injuries. -->
   <Misc.description>Răni diverse.</Misc.description>
+  <!-- EN: scar -->
+  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: an injury -->
   <Misc.labelNoun>o rană</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->

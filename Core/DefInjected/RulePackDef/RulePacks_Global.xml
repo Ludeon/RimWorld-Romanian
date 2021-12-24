@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN:
     <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
     <li>Direction->Words/Adjectives/CompassDirections</li>
@@ -333,7 +333,6 @@
     <li>NaturalObjectFeminine_PluArt->Words/Nouns/NaturalObject/Feminine_PluArtNom</li>
     <li>NaturalObjectFeminine_PluArtDat->Words/Nouns/NaturalObject/Feminine_PluArtDat</li>
   </GlobalUtility.rulePack.rulesFiles>
-
   <!-- EN:
     <li>Trans->of</li>
     <li>Trans->for</li>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Convert ideo attempt -->
@@ -41,8 +41,8 @@
   <!-- Ideo role -->
   <!-- EN: {0} role activated -->
   <LetterLabelRoleActive>{0} rol activat</LetterLabelRoleActive>
-  <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, select a colonist, go to their 'Social' tab and press the 'Choose role' button. -->
-  <LetterLabelRoleActiveDesc>Numărul de {0} din colonia ta a ajuns la {1}. Acum puteți atribui rolul de {ROLE_labelDef} unuia dintre coloniștii dumneavoastră.\n\nPentru a atribui un rol, selectați un colonist, mergeți la fila "Social" a acestuia și apăsați butonul "Alege rolul".</LetterLabelRoleActiveDesc>
+  <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, use the person's Social tab, or select a ritual spot or altar and press the 'Begin role change' button. -->
+  <LetterLabelRoleActiveDesc>Numărul de {0} din colonia ta a ajuns la {1}. Acum poți atribui rolul de {ROLE_labelDef} unuia dintre coloniștii tăi.\n\nPentru a atribui un rol, folosește fila Socială a persoanei, sau selectează un loc de ritual sau un altar și apasă butonul "Începe schimbarea rolului".</LetterLabelRoleActiveDesc>
 
   <!-- EN: {0} role deactivated -->
   <LetterLabelRoleInactive>{0} rol dezactivat</LetterLabelRoleInactive>
@@ -203,5 +203,11 @@
   <LetterLabelArchotechStructuresAbandoned>Structuri Archotech abandonate</LetterLabelArchotechStructuresAbandoned>
   <!-- EN: You have abandoned the archotech structures at {0_definite}.\n\nDistant observers say they saw a great flash emanating from this location not long after you left. -->
   <LetterTextArchotechStructuresAbandoned>Ați abandonat structurile archotech de la {0_definite}.\n\nObservatorii îndepărtați spun că au văzut o străfulgerare puternică emanând din această locație la scurt timp după ce ați plecat.</LetterTextArchotechStructuresAbandoned>
+
+  <!-- Reforming ideo -->
+  <!-- EN: Reform ideoligion -->
+  <LetterLabelReformIdeo>TODO</LetterLabelReformIdeo>
+  <!-- EN: You have enough development points to reform {0}!\n\nReforming allows you to do one of the following:\n\n- Add a meme\n- Remove a meme\n- Change structure\n- Change style\n\nYou can also make unlimited changes to precepts, deities, narrative text, and other symbols.\n\nTo reform the ideoligion, open it in the ideoligions tab. -->
+  <LetterTextReformIdeo>TODO</LetterTextReformIdeo>
 
 </LanguageData>

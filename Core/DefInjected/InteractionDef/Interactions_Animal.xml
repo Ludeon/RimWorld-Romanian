@@ -114,7 +114,7 @@
     <li>farewell->[INITIATOR_nameDef] gently pet [RECIPIENT_nameDef] one last time</li>
     <li>farewell->[INITIATOR_nameDef] said some warm words to [RECIPIENT_nameDef]</li>
     <li>farewell->[INITIATOR_nameDef] removed [RECIPIENT_nameDef]'s collar</li>
-    <li>farewell->[INITIATOR_nameDef] reminisced about the good time [INITIATOR_objective] had with [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] reminisced about the good time [INITIATOR_pronoun] had with [RECIPIENT_nameDef]</li>
     <li>released->and released [RECIPIENT_objective] to the wild.</li>
     <li>released->and set [RECIPIENT_objective] free.</li>
     <li>released->and sent [RECIPIENT_objective] off.</li>
@@ -127,7 +127,7 @@
     <li>farewell->[INITIATOR_nameDef] mângâie cu blândețe pe [RECIPIENT_nameDef] pentru ultima oară</li>
     <li>farewell->[INITIATOR_nameDef] i-a spus câteva cuvinte calde lui [RECIPIENT_nameDef]</li>
     <li>farewell->[INITIATOR_nameDef] a îndepărtat zgarda lui [RECIPIENT_nameDef].</li>
-    <li>farewell->[INITIATOR_nameDef] și-a amintit de momentele frumoase pe care [INITIATOR_objective] le-a petrecut cu [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] și-a amintit de momentele frumoase pe care [INITIATOR_pronoun] le-a petrecut cu [RECIPIENT_nameDef]</li>
     <li>released->și a eliberat [RECIPIENT_objective] în natură.</li>
     <li>released->și a eliberat [RECIPIENT_objective].</li>
     <li>released->și a trimis [RECIPIENT_objective] în libertate.</li>

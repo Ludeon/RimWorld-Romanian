@@ -16,6 +16,9 @@
   <!-- EN: cut tree -->
   <CutTree.label>tăiat copac</CutTree.label>
   
+  <!-- EN: destroyed natural wall -->
+  <DestroyedMineable.label>zid natural distrus</DestroyedMineable.label>
+  
   <!-- EN: used drug -->
   <IngestedDrug.label>folosit droguri</IngestedDrug.label>
   
@@ -30,6 +33,9 @@
   
   <!-- EN: mined -->
   <Mined.label>minat</Mined.label>
+  
+  <!-- EN: tree died -->
+  <MinifiedTreeDied.label>copac mort</MinifiedTreeDied.label>
   
   <!-- EN: researching -->
   <Researching.label>cercetare</Researching.label>

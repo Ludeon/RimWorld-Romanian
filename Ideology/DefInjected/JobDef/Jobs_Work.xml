@@ -7,6 +7,9 @@
   <!-- EN: creating cocoon. -->
   <CreateAndEnterCocoon.reportString>creând coconul.</CreateAndEnterCocoon.reportString>
   
+  <!-- EN: creating healing pod. -->
+  <CreateAndEnterHealingPod.reportString>TODO</CreateAndEnterHealingPod.reportString>
+  
   <!-- EN: extracting skull from TargetA. -->
   <ExtractSkull.reportString>extrăgând craniul de la TargetA.</ExtractSkull.reportString>
   

@@ -62,6 +62,8 @@
   <NextTendIn>Poate fi îngrijit în {0}</NextTendIn>
   <!-- EN: Tend quality -->
   <TendQuality>Tratament de calitate</TendQuality>
+  <!-- EN: Total tend quality -->
+  <DisappearsAtTotalTendQuality>TODO</DisappearsAtTotalTendQuality>
   <!-- EN: no {0} -->
   <MissingMedicalBillIngredient>Nu există {0}</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
@@ -103,15 +105,19 @@
   <!-- EN: Execute -->
   <Execute>Execută</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>Executare colonist vinovat\n\nDacă activați această opțiune, un gardian va proceda la executarea acestei persoane.</ExecuteColonist> <!-- text_doto -->
+  <ExecuteColonist>Execută colonistul vinovat\n\nDacă activați această opțiune, un gardian va executa această persoană.</ExecuteColonist>
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
   <MessageColonistMarkedForExecution>{0_labelShort} este acum marcat pentru execuție. Următorul gardian disponibil va merge să execute {0_objective}.</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
   <TitleOfFaction>{0} din {1}</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
   <RenounceTitleDescription>Această acțiune va face ca {PAWN_nameDef} să-și piardă titlul {TITLE}. Nu veți primi nicio compensație pentru renunțarea la titlu.\n\nAcest lucru va avea următoarele efecte:\n\n{EFFECTS}</RenounceTitleDescription>
-  <!-- EN: {PAWN_possessive} will lose these permissions -->
+  <!-- EN: {PAWN_pronoun} will lose these permissions -->
   <RenounceTitleWillLoosePermits>{PAWN_possessive} va pierde aceste permisiuni</RenounceTitleWillLoosePermits>
+  <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
+  <RenounceTitleWillLosePermitPoints>TODO</RenounceTitleWillLosePermitPoints>
+  <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
+  <RenounceTitleWillKeepPsylinkLevels>TODO</RenounceTitleWillKeepPsylinkLevels>
   <!-- EN: unknown -->
   <UnknownLower>necunoscut</UnknownLower>
   <!-- EN: On -->
@@ -410,6 +416,8 @@
   <Location>locație</Location>
   <!-- EN: animals -->
   <AnimalsLower>animale</AnimalsLower>
+  <!-- EN: items -->
+  <ItemsLower>TODO</ItemsLower>
   <!-- EN: {0} x{1} -->
   <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
@@ -518,6 +526,10 @@
   <AttackToDestroy>Atacă asta pentru a o distruge</AttackToDestroy>
   <!-- EN: Remove this by attacking it. -->
   <RemoveByAttackingTooltip>Înlătură asta prin a ataca-o</RemoveByAttackingTooltip>
+  <!-- EN: Food -->
+  <ThoughtFoodEatenFood>TODO</ThoughtFoodEatenFood>
+  <!-- EN: Ingredients -->
+  <ThoughtFoodEatenIngredients>TODO</ThoughtFoodEatenIngredients>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
@@ -1141,6 +1153,8 @@
   <Installed>Instalat</Installed>
   <!-- EN: Not installed -->
   <NotInstalled>Neinstalat</NotInstalled>
+  <!-- EN: Extracted tree will die in {time} unless replanted. -->
+  <MinifiedTreeWillDieIn>TODO</MinifiedTreeWillDieIn>
 
   <!-- Art -->
   <!-- EN: Title -->
@@ -1474,8 +1488,8 @@
   <RitualTakesPlaceAt>Are loc la</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
   <RitualTargetThingDefsInfo>Orice {0}</RitualTargetThingDefsInfo>
-  <!-- EN: Attending -->
-  <LordReportAttending>Prezent</LordReportAttending>
+  <!-- EN: Attending {0} -->
+  <LordReportAttending>Participând la {0}</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
   <RitualCalledOff>{0} a fost anulat.</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
@@ -1526,8 +1540,8 @@
   <RitualQualityLowWarning>Calitatea totală {0} este sub {1}. Continuarea va avea cel mai probabil un impact negativ asupra coloniei tale.\n\nEști sigur?</RitualQualityLowWarning>
   <!-- EN: No reachable appropriate place to speak. -->
   <AbilitySpeechDisabledNoSpot>Nu există un loc accesibil și adecvat pentru a vorbi.</AbilitySpeechDisabledNoSpot>
-  <!-- EN: {0_labelShort} is incapable of talking. -->
-  <AbilitySpeechDisabledCantSpeak>{0_labelShort} este incapabil să vorbească.</AbilitySpeechDisabledCantSpeak>
+  <!-- EN: {0_labelShort} is incapable of {1}. -->
+  <AbilityDisabledNoCapacity>TODO</AbilityDisabledNoCapacity>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
   <RitualOutcomeExtraDesc_Mood>Toți cei care participă la ritual câștigă {0} dispoziție pentru {1} zile.</RitualOutcomeExtraDesc_Mood>
   
@@ -1584,5 +1598,22 @@
   <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
   <!-- EN: {0} max -->
   <MaxValue>{0} max</MaxValue>
-  
+
+  <!-- EN: {0} of -->
+  <ThingOf>TODO</ThingOf>
+  <!-- EN: {0} of {1} -->
+  <ThingOfSource>TODO</ThingOfSource>
+
+  <!-- Abilities -->
+  <!-- EN: must be drafted. -->
+  <AbilityDisabledUndrafted>trebuie să fie recrutat.</AbilityDisabledUndrafted>
+  <!-- EN: ability on cooldown. It will be available in {0}. -->
+  <AbilityOnCooldown>abilitatea este în cooldown. Va fi disponibilă în {0}.</AbilityOnCooldown>
+  <!-- EN: ability already queued. -->
+  <AbilityAlreadyQueued>abilitate deja în coadă.</AbilityAlreadyQueued>
+  <!-- EN: Ability ready: {0} -->
+  <AbilityReadyLabel>Abilitate pregătită: {0}</AbilityReadyLabel>
+  <!-- EN: {0_nameDef} is ready to use {1}. -->
+  <AbilityReadyText>{0_nameDef} este gata să folosească {1}.</AbilityReadyText>
+
 </LanguageData>

@@ -62,7 +62,7 @@
   
   <!-- EN: work to build -->
   <WorkToBuild.label>muncă pentru construcție</WorkToBuild.label>
-  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
-  <WorkToBuild.description>Cantitatea de bază de muncă necesară pentru a construi o structură, odată ce toate materialele sunt adunate.</WorkToBuild.description>
+  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered.\n\nThe work required to deconstruct the structure is also based on this. -->
+  <WorkToBuild.description>Cantitatea de bază de muncă necesară pentru a construi o structură, odată ce toate materialele sunt adunate.\n\nLucrările necesare pentru a deconstrui structura se bazează, de asemenea, pe acest lucru.</WorkToBuild.description>
   
 </LanguageData>

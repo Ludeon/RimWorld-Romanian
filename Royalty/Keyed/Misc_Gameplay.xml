@@ -20,8 +20,8 @@
   <PsycastNeurotrainerLabel>psytrainer ({0})</PsycastNeurotrainerLabel>
   <!-- EN: Use psytrainer to learn {0} psycast -->
   <PsycastNeurotrainerUseLabel>Folosește psytrainer pentru a învăța {0} psycast</PsycastNeurotrainerUseLabel>
-  <!-- EN: A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed. -->
-  <PsycastNeurotrainerDescription>O superdoză de mecanite de o singură folosință care antrenează o anumită putere psihică.\n\nDoza se administrează prin orbita ochiului. Odată eliberat în creier, mecaniticii formează cunoștințele unei abilități specifice, transmutându-se în țesut neuronal după cum este necesar.</PsycastNeurotrainerDescription>
+  <!-- EN: A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION} -->
+  <PsycastNeurotrainerDescription>O superdoză de mecanite de o singură folosință care antrenează o anumită putere psihică.\n\nDoza se administrează prin orbita ochiului. Odată eliberat în creier, mecaniticii formează cunoștințele unei abilități specifice, transmutându-se în țesut neuronal după cum este necesar.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
   <AbilityNeurotrainerUsed>{USER_labelShort} a folosit neurotrainer pentru a învăța puterea {1}.</AbilityNeurotrainerUsed>
   <!-- EN: Requires psylink -->
@@ -88,20 +88,6 @@
   <!-- EN: Click to set desired psyfocus. -->
   <DesiredPsyfocusDesc>Faceți clic pentru a seta psyfocus-ul dorit.</DesiredPsyfocusDesc>
 
-  <!-- Abilities -->
-  <!-- EN: must be drafted. -->
-  <AbilityDisabledUndrafted>trebuie să fie pregătită.</AbilityDisabledUndrafted>
-  <!-- EN: ability on cooldown. It will be available in {0}. -->
-  <AbilityOnCooldown>abilitatea este în cooldown. Va fi disponibilă în {0}.</AbilityOnCooldown>
-  <!-- EN: ability already queued. -->
-  <AbilityAlreadyQueued>abilitate deja în coadă.</AbilityAlreadyQueued>
-  <!-- EN: no heat to dump. -->
-  <AbilityNoEntropyToDump>Nu există căldură de descărcat.</AbilityNoEntropyToDump>
-  <!-- EN: Ability ready: {0} -->
-  <AbilityReadyLabel>Abilitate pregătită: {0}</AbilityReadyLabel>
-  <!-- EN: {0_nameDef} is ready to use {1}. -->
-  <AbilityReadyText>{0_nameDef} este gata să folosească {1}.</AbilityReadyText>
-  
   <!-- EN: no throne assigned. -->
   <AbilitySpeechDisabledNoThroneAssigned>nu există un tron atribuit.</AbilitySpeechDisabledNoThroneAssigned>
   <!-- EN: throne is not accessible. -->
@@ -175,9 +161,15 @@
   <RitualTargetAnimaTreeInfo>Un copac de anima.</RitualTargetAnimaTreeInfo>
   <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
   <RitualTargetAnimaTreeMustBeCapableOfNature>Trebuie să fie un colonist cu tipul de focalizare a meditației naturale care se află sub nivelul maxim de psylink.</RitualTargetAnimaTreeMustBeCapableOfNature>
+  <!-- EN: Must not be psychically deaf. -->
+  <RitualTargetAnimaTreeMustBePsychicallySensitive>TODO</RitualTargetAnimaTreeMustBePsychicallySensitive>
 
   <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
   <AnimaLinkingExplanationBase>Ceremonia de legare a anima este mai puternică cu mai mulți participanți. Cu cât participă mai mulți oameni, cu atât mai puțin timp durează ceremonia și cu atât mai multă iarbă de anima va crește.\n\nCu {0} participanți suplimentari, {1} iarbă de anima va fi restaurată la sfârșitul ceremoniei.</AnimaLinkingExplanationBase>
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>Nu toată încărcătura necesară este încă încărcată!</ShuttleRequiredItemsNotSatisfied>
+
+  <!-- EN: no heat to dump. -->
+  <AbilityNoEntropyToDump>Nu există căldură de descărcat.</AbilityNoEntropyToDump>
+
 </LanguageData>

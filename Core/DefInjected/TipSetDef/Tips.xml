@@ -53,15 +53,17 @@
   <GameplayTips.AnimalDeathExplosionRain>Dacă vânați boomrats și boomalopes atunci când plouă, moartea lor nu va provoca incendii de pădure.</GameplayTips.AnimalDeathExplosionRain>
   <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
   <GameplayTips.GreaterSlaughterYield>Animalele sacrificate cu grijă produc mai multă carne și piele decât cele care au fost ucise cu violență.</GameplayTips.GreaterSlaughterYield>
-  <!-- EN: Place a caravan packing spot to designate where you want your caravans to form up. -->
-  <GameplayTips.CaravanPackingSpot>Plasați un punct de împachetare a caravanelor pentru a desemna locul în care doriți să se formeze caravanele dumneavoastră.</GameplayTips.CaravanPackingSpot>
+  <!-- EN: Place the caravan hitching spot where you want your caravans to form up. It's usually best to place it near your storage areas. -->
+  <GameplayTips.CaravanHitchingSpot>Așezați locul de acostare a caravanei acolo unde doriți să se formeze caravanele. De obicei, cel mai bine este să îl plasați în apropierea zonelor de depozitare.</GameplayTips.CaravanHitchingSpot>
+  <!-- EN: During encounters away from home, you can place a caravan hitching spot to keep your animals from wandering. -->
+  <GameplayTips.CaravanHitchingSpotRoamers>În timpul întâlnirilor departe de casă, puteți plasa un punct de acostare pentru caravane pentru a vă împiedica animalele să se rătăcească.</GameplayTips.CaravanHitchingSpotRoamers>
   <!-- EN: Single-person caravans can be very useful in certain situations. -->
   <GameplayTips.CaravanSinglePerson>Caravanele cu o singură persoană pot fi foarte utile în anumite situații.</GameplayTips.CaravanSinglePerson>
   <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
   <GameplayTips.CaravanRideableAnimals>Caravanele se deplasează mai repede dacă includ animale care pot fi călărit, cum ar fi cai, măgari și dromaderi.</GameplayTips.CaravanRideableAnimals>
   <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>Caravanele mai mici vor fi atacate mai rar, deoarece sunt mai puțin vizibile.</GameplayTips.CaravanSmallerLessVisible>
-  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing spot. This will make packing much faster. -->
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing post. This will make packing much faster. -->
   <GameplayTips.CaravanStockpileNearPackingSpot>Înainte de a forma o caravană, adunați obiectele pe care doriți să le trimiteți într-un stoc în apropierea locului de împachetare a caravanei. Acest lucru va face ca împachetarea să fie mult mai rapidă.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
   <GameplayTips.CaravanUntrainedAnimals>Dacă aveți animale neantrenate în caravana dumneavoastră, le puteți împărți într-o caravană separată înainte de a ataca un inamic, pentru a le ține departe de luptă.</GameplayTips.CaravanUntrainedAnimals>
@@ -73,6 +75,8 @@
   <GameplayTips.BadAllies>Unii coloniști sunt mai rău decât inutili. Aliații răi fac parte din provocare.</GameplayTips.BadAllies>
   <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
   <GameplayTips.MakeCaravanRunBeforeDefeat>Dacă nu te poți apăra împotriva unei amenințări, faceți o caravană și fugiți. S-ar putea să vă pierdeți casa, dar povestea voastră poate continua.</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <!-- EN: When you have more wealth, more powerful enemies attack. If you want the challenge to scale with time instead, select 'Wealth-independent progress mode' in the storyteller settings. -->
+  <GameplayTips.FixedWealthMode>Când ai mai multă bogăție, te atacă inamici mai puternici. Dacă în schimb doriți ca provocarea să crească în funcție de timp, selectați "Mod de progres independent de bogăție" în setările povestitorului.</GameplayTips.FixedWealthMode>
   <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
   <GameplayTips.StoneDoors>Evitați să folosiți uși făcute din blocuri de piatră. Acestea se deschid foarte încet, ceea ce face ca coloniștii tăi să piardă timp.</GameplayTips.StoneDoors>
   <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
@@ -145,7 +149,7 @@
   <GameplayTips.StrawMatting>Așternutul de paie ignoră mizeria. Folosește-o ca podea pentru hambarul tău.</GameplayTips.StrawMatting>
   <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
   <GameplayTips.AnimalFilth>Unele animale produc multă mizerie. Ține-ți elefanții și vitele afară.</GameplayTips.AnimalFilth>
-  <!-- EN: Predators are less likely to hunt animals which are enclosed by fences or barricades. -->
-  <GameplayTips.PredatorsAndFences>Este mai puțin probabil ca prădătorii să vâneze animalele care sunt închise de garduri sau baricade.</GameplayTips.PredatorsAndFences>
+  <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
+  <GameplayTips.PredatorsAndFences>Prădătorii nu vor vâna animale care se află de cealaltă parte a gardurilor sau baricadelor.</GameplayTips.PredatorsAndFences>
   
 </LanguageData>

@@ -35,6 +35,9 @@
   <ClearSnow.reportString>curăță zăpada.</ClearSnow.reportString>
   
   <!-- EN: delivering TargetA. -->
+  <DeliverToBed.reportString>livrând TargetA.</DeliverToBed.reportString>
+  
+  <!-- EN: delivering TargetA. -->
   <DeliverToCell.reportString>livrând TargetA.</DeliverToCell.reportString>
   
   <!-- EN: dropping TargetA. -->
@@ -162,6 +165,9 @@
   
   <!-- EN: taking TargetA to inventory. -->
   <TakeCountToInventory.reportString>luând TargetA la inventar.</TakeCountToInventory.reportString>
+  
+  <!-- EN: grabbing TargetA from TargetB. -->
+  <TakeFromOtherInventory.reportString>luând TargetA din TargetB.</TakeFromOtherInventory.reportString>
   
   <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>ia în inventar a TargetA.</TakeInventory.reportString>

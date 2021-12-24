@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Multiplier for enslaved (low motivation) -->
   <StatsReport_Slave>Multiplicator pentru sclavi (motivație scăzută)</StatsReport_Slave>
@@ -29,6 +29,8 @@
 
   <!-- EN: Blind bonus -->
   <StatsReport_BlindPsychicSensitivityOffset>Bonus de orbire</StatsReport_BlindPsychicSensitivityOffset>
+  <!-- EN: Sight bonus -->
+  <StatsReport_SightPsychicSensitivityOffset>TODO</StatsReport_SightPsychicSensitivityOffset>
 
   <!-- EN: Dominating style -->
   <Stat_Thing_StyleDominanceCategory>Stil dominant</Stat_Thing_StyleDominanceCategory>
@@ -54,5 +56,8 @@
 
   <!-- EN: Biosculpting speed -->
   <StatsReport_BiosculptingSpeedFactor>Viteza de biosculptură</StatsReport_BiosculptingSpeedFactor>
+
+  <!-- EN: The amount of progress that has been made towards hacking this object. -->
+  <Stat_Thing_HackingProgress>TODO</Stat_Thing_HackingProgress>
 
   </LanguageData>

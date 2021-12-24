@@ -3,8 +3,8 @@
   
   <!-- EN: burned tree -->
   <BurnedTree.label>copac ars</BurnedTree.label>
-  <!-- EN: A burned tree stump. It's ugly and yields no usable wood. -->
-  <BurnedTree.description>Un ciot de copac ars. Este urât și nu produce lemn utilizabil.</BurnedTree.description>
+  <!-- EN: A burned tree stump. It's ugly and yields very little usable wood. -->
+  <BurnedTree.description>Un ciot de copac ars. Este urât și produce foarte puțin lemn utilizabil.</BurnedTree.description>
   
   <!-- EN: ambrosia bush -->
   <Plant_Ambrosia.label>Arbust de ambrozie</Plant_Ambrosia.label>

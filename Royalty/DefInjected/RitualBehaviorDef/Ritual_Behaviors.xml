@@ -3,8 +3,8 @@
   
   <!-- EN: linker -->
   <AnimaTreeLinking.roles.0.label>legător</AnimaTreeLinking.roles.0.label>
-  <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level. -->
-  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>Aveți nevoie de un colonist cu tipul de focalizare naturală a meditației care se află sub nivelul maxim de psylink.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
+  <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level and not psychically deaf. -->
+  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>Aveți nevoie de un colonist cu tipul de focalizare naturală a meditației care se află sub nivelul maxim de psylink și nu este surd psihic.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
   <!-- EN: Must have natural focus type. -->
   <AnimaTreeLinking.spectatorFilter.description>Trebuie să aibă tipul de focus natural.</AnimaTreeLinking.spectatorFilter.description>
   <!-- EN: participate -->

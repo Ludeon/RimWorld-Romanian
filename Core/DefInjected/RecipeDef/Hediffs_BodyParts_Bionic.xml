@@ -50,6 +50,13 @@
   <!-- EN: Installing bionic stomach. -->
   <InstallBionicStomach.jobString>Instalează stomacul bionic.</InstallBionicStomach.jobString>
   
+  <!-- EN: install bionic tongue -->
+  <InstallBionicTongue.label>instalează limbă bionică</InstallBionicTongue.label>
+  <!-- EN: Install a bionic tongue. -->
+  <InstallBionicTongue.description>Instalează o limbă bionică</InstallBionicTongue.description>
+  <!-- EN: Installing bionic tongue. -->
+  <InstallBionicTongue.jobString>Instalează limba bionică</InstallBionicTongue.jobString>
+  
   <!-- EN: install death acidifier -->
   <InstallDeathAcidifier.label>instalează un acidificator al morții</InstallDeathAcidifier.label>
   <!-- EN: Install a death acidifier. -->
