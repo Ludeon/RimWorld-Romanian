@@ -1,6 +1,4 @@
-// Things that natural objects could conceivably be (with some flex for poetry)
-// Animals, body parts
-
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
 mare
 dur
 aspru

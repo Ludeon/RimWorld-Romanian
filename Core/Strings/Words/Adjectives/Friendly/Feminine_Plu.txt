@@ -1,4 +1,5 @@
-﻿prietenoase
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+prietenoase
 afectuoase
 amabile
 prietenoase

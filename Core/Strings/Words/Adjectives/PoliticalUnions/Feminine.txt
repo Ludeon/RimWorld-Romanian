@@ -1,4 +1,5 @@
-﻿democratică
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+democratică
 națională
 republicană
 suverană
@@ -28,6 +29,7 @@ fără rege
 convenită
 populară
 populistă
+oamenilor
 comună
 comunală
 liberală

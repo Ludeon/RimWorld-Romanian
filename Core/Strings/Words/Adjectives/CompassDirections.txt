@@ -1,8 +1,0 @@
-﻿nord
-nord-est
-est
-sud-est
-sud
-sud-vest
-vest
-nord-vest

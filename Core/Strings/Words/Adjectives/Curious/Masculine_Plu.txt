@@ -1,4 +1,5 @@
-﻿măreți
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+măreți
 naturali
 inactivi
 nesătuli

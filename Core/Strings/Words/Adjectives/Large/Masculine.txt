@@ -1,4 +1,5 @@
-﻿mare
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+mare
 masiv
 colosal
 enorm

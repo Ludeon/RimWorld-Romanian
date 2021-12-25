@@ -1,4 +1,5 @@
-﻿democratici
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+democratici
 naționali
 republicani
 suverani
@@ -28,6 +29,7 @@ fără regi
 conveniți
 populari
 populiști
+oamenilor
 comuni
 comunali
 liberali

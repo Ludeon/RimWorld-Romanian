@@ -1,4 +1,5 @@
-﻿mari
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+mari
 masivi
 colosali
 enormi

@@ -42,7 +42,7 @@
   -->
   <GlobalUtility.rulePack.rulesFiles>
     <li>RomanNumeral->Words/Misc/Numbers_SmallRoman</li>
-    <li>Direction->Words/Adjectives/CompassDirections</li>
+    <li>Direction->Words/Misc/CompassDirections</li>
     <li>Letter->WordParts/CapitalLetters</li>
     <li>SylB->WordParts/Syllables_Byzantinian</li>
     <li>SylE->WordParts/Syllables_English</li>
@@ -62,7 +62,7 @@
     <li>SylB_Cap->WordParts/Syllables_Byzantinian_Cap</li>
     <li>SylE_Cap->WordParts/Syllables_English_Cap</li>
     <li>SylG_Cap->WordParts/Syllables_Galician_Cap</li>
-    <!-- Adjectives for Romanian language -->
+    <!-- START OF Adjectives -->
     <li>AdjectiveAngstyMasculine->Words/Adjectives/Angsty/Masculine</li>
     <li>AdjectiveAngstyFeminine->Words/Adjectives/Angsty/Feminine</li>
     <li>AdjectiveAngstyMasculine_Plu->Words/Adjectives/Angsty/Masculine_Plu</li>
@@ -91,15 +91,19 @@
     <li>AdjectivePoliticalFeminine->Words/Adjectives/PoliticalUnions/Feminine</li>
     <li>AdjectivePoliticalMasculine_Plu->Words/Adjectives/PoliticalUnions/Masculine_Plu</li>
     <li>AdjectivePoliticalFeminine_Plu->Words/Adjectives/PoliticalUnions/Feminine_Plu</li>
-    <!-- Colors for Romanian Language -->
-    <li>ColorMasculine->Words/Nouns/Colors/ColorsMasculine</li>
-    <li>ColorMasculine_Plu->Words/Nouns/Colors/ColorsMasculine_Plu</li>
-    <li>ColorFeminine->Words/Nouns/Colors/ColorsFeminine</li>
-    <li>ColorFeminine_Plu->Words/Nouns/Colors/ColorsFeminine_Plu</li>
-    <li>ColorBadassMasculine->Words/Nouns/Colors_Badass/Masculine</li>
-    <li>ColorBadassMasculine_Plu->Words/Nouns/Colors_Badass/Masculine_Plu</li>
-    <li>ColorBadassFeminine->Words/Nouns/Colors_Badass/Feminine</li>
-    <li>ColorBadassFeminine_Plu->Words/Nouns/Colors_Badass/Feminine_Plu</li>
+    <li>AdjectiveDirectionMasculine->Words/Adjectives/CompassDirections/Masculine</li>
+    <li>AdjectiveDirectionMasculine_Plu->Words/Adjectives/CompassDirections/Masculine_Plu</li>
+    <li>AdjectiveDirectionFeminine->Words/Adjectives/CompassDirections/Feminine</li>
+    <li>AdjectiveDirectionFeminine_Plu->Words/Adjectives/CompassDirections/Feminine_Plu</li>
+    <li>ColorMasculine->Words/Adjectives/Colors/Masculine</li>
+    <li>ColorMasculine_Plu->Words/Adjectives/Colors/Masculine_Plu</li>
+    <li>ColorFeminine->Words/Adjectives/Colors/Feminine</li>
+    <li>ColorFeminine_Plu->Words/Adjectives/Colors/Feminine_Plu</li>
+    <li>ColorBadassMasculine->Words/Adjectives/Colors_Badass/Masculine</li>
+    <li>ColorBadassMasculine_Plu->Words/Adjectives/Colors_Badass/Masculine_Plu</li>
+    <li>ColorBadassFeminine->Words/Adjectives/Colors_Badass/Feminine</li>
+    <li>ColorBadassFeminine_Plu->Words/Adjectives/Colors_Badass/Feminine_Plu</li>
+    <!-- END OF Adjectives -->
     <!-- ####### Auto-generated paradigms section ####### -->
     <!-- Paradigm of the file AnimalGroups.xml -->
     <li>AnimalGroupMasculine->Words/Nouns/AnimalGroups/Masculine_SglNatNom</li>
@@ -447,6 +451,7 @@
     <li>PersonalCharacteristic(p=0.15)->preferințe sexuale</li>
     <li>PersonalCharacteristic(p=0.15)->experiență sexuală</li>
     <!-- ####### Extras for Romanian language ####### -->
+    <!-- START OF Adjectives -->
     <li>AdjectiveBadass->[AdjectiveBadassMasculine]</li>
     <li>AdjectiveBadass_Plu->[AdjectiveBadassMasculine_Plu]</li>
     <li>AdjectiveAngsty->[AdjectiveAngstyMasculine]</li>
@@ -461,10 +466,13 @@
     <li>AdjectiveNatural_Plu->[AdjectiveNaturalMasculine_Plu]</li>
     <li>AdjectivePolitical->[AdjectivePoliticalMasculine]</li>
     <li>AdjectivePolitical_Plu->[AdjectivePoliticalMasculine_Plu]</li>
+    <li>AdjectiveDirection->[AdjectiveDirectionMasculine]</li>
+    <li>AdjectiveDirection_Plu->[AdjectiveDirectionMasculine_Plu]</li>
     <li>Color->[ColorMasculine]</li>
     <li>Color_Plu->[ColorMasculine_Plu]</li>
     <li>ColorBadass->[ColorBadassMasculine]</li>
     <li>ColorBadass_Plu->[ColorBadassMasculine_Plu]</li>
+    <!-- END OF Adjectives -->
     <!-- Paradigm of the file AnimalGroups.xml -->
     <li>AnimalGroup->[AnimalGroupFeminine]</li>
     <li>AnimalGroup->[AnimalGroupMasculine]</li>

@@ -1,4 +1,5 @@
-﻿democratic
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+democratic
 național
 republican
 suveran
@@ -28,6 +29,7 @@ fără rege
 convenit
 popular
 populist
+oamenilor
 comun
 comunal
 liberal

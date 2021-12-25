@@ -1,4 +1,5 @@
-﻿democratice
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+democratice
 naționale
 republicane
 suverane
@@ -28,6 +29,7 @@ fără regi
 convenite
 populare
 populiste
+oamenilor
 comune
 comunale
 liberale

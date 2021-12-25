@@ -1,4 +1,5 @@
-﻿notorie
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+notorie
 mortală
 adâncă
 otrăvitoare
@@ -35,9 +36,3 @@ extremă
 înfuriată
 ascuțită
 spinoasă
-
-
-
-
-
-
