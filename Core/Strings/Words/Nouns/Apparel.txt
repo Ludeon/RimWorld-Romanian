@@ -1,0 +1,24 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+shirt
+button-down shirt
+formal shirt
+jacket
+raincoat
+formal suit
+evening gown
+parka
+duster
+space suit
+power armor suit
+bow tie
+necktie
+belt
+jock strap
+hat
+bowler hat
+baseball cap
+tuque
+top hat
+shoe
+boot
+sandal

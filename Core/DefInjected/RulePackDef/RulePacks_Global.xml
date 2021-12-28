@@ -47,14 +47,35 @@
     <li>SylB->WordParts/Syllables_Byzantinian</li>
     <li>SylE->WordParts/Syllables_English</li>
     <li>SylG->WordParts/Syllables_Galician</li>
+    <li>Color->Words/Nouns/Colors</li>
+    <li>ColorBadass->Words/Nouns/Colors_Badass</li>
     <li>Vegetable->Words/Nouns/Vegetables</li>
     <li>Game->Words/Nouns/Games</li>
+    <li>Animal->Words/Nouns/Animals</li>
+    <li>AnimalBadass->Words/Nouns/Animals_Badass</li>
+    <li>AnimalGroup->Words/Nouns/AnimalGroups</li>
+    <li>Weapon->Words/Nouns/Weapons</li>
+    <li>TerrainFeature->Words/Nouns/TerrainFeatures</li>
+    <li>NaturalObject->Words/Nouns/NaturalObject</li>
     <li>TreeType->Words/Nouns/TreeTypes</li>
     <li>PersonJob->Words/Nouns/People_Jobs</li>
     <li>PersonFamily->Words/Nouns/People_Family</li>
+    <li>PersonAlly->Words/Nouns/People_Allies</li>
+    <li>PersonBadass->Words/Nouns/People_Badass</li>
+    <li>Enemy->Words/Nouns/Enemies</li>
     <li>Apparel->Words/Nouns/Apparel</li>
+    <li>Gore->Words/Nouns/Gore</li>
     <li>Mechanoid->Words/Nouns/Mechanoid</li>
+    <li>ConceptPositive->Words/Nouns/Concepts_Positive</li>
+    <li>ConceptBadass->Words/Nouns/Concepts_Badass</li>
     <li>ConceptAngsty->Words/Nouns/Concepts_Angsty</li>
+    <li>Community->Words/Nouns/Communities</li>
+    <li>BodyPart->Words/Nouns/Bodyparts</li>
+    <li>AdjectiveLarge->Words/Adjectives/Large</li>
+    <li>AdjectiveBadass->Words/Adjectives/Badass</li>
+    <li>AdjectiveAngsty->Words/Adjectives/Angsty</li>
+    <li>AdjectiveFriendly->Words/Adjectives/Friendly</li>
+    <li>AdjectiveNatural->Words/Adjectives/Natural</li>
     <li>VerbFriendly->Words/Verbs/Friendly</li>
     <li>PersonalCharacteristic->Words/Nouns/PersonalCharacteristics</li>
     <!-- ####### Extras for Romanian language ####### -->
@@ -63,46 +84,46 @@
     <li>SylE_Cap->WordParts/Syllables_English_Cap</li>
     <li>SylG_Cap->WordParts/Syllables_Galician_Cap</li>
     <!-- START OF Adjectives -->
-    <li>AdjectiveAngstyMasculine->Words/Adjectives/Angsty/Masculine</li>
-    <li>AdjectiveAngstyFeminine->Words/Adjectives/Angsty/Feminine</li>
-    <li>AdjectiveAngstyMasculine_Plu->Words/Adjectives/Angsty/Masculine_Plu</li>
-    <li>AdjectiveAngstyFeminine_Plu->Words/Adjectives/Angsty/Feminine_Plu</li>
-    <li>AdjectiveBadassMasculine->Words/Adjectives/Badass/Masculine</li>
-    <li>AdjectiveBadassFeminine->Words/Adjectives/Badass/Feminine</li>
-    <li>AdjectiveBadassMasculine_Plu->Words/Adjectives/Badass/Masculine_Plu</li>
-    <li>AdjectiveBadassFeminine_Plu->Words/Adjectives/Badass/Feminine_Plu</li>
-    <li>adjectiveCuriousMasculine->Words/Adjectives/Curious/Masculine</li>
-    <li>adjectiveCuriousFeminine->Words/Adjectives/Curious/Feminine</li>
-    <li>adjectiveCuriousMasculine_Plu->Words/Adjectives/Curious/Masculine_Plu</li>
-    <li>adjectiveCuriousFeminine_Plu->Words/Adjectives/Curious/Feminine_Plu</li>
-    <li>AdjectiveFriendlyMasculine->Words/Adjectives/Friendly/Masculine</li>
-    <li>AdjectiveFriendlyFeminine->Words/Adjectives/Friendly/Feminine</li>
-    <li>AdjectiveFriendlyMasculine_Plu->Words/Adjectives/Friendly/Masculine_Plu</li>
-    <li>AdjectiveFriendlyFeminine_Plu->Words/Adjectives/Friendly/Feminine_Plu</li>
-    <li>AdjectiveLargeMasculine->Words/Adjectives/Large/Masculine</li>
-    <li>AdjectiveLargeFeminine->Words/Adjectives/Large/Feminine</li>
-    <li>AdjectiveLargeMasculine_Plu->Words/Adjectives/Large/Masculine_Plu</li>
-    <li>AdjectiveLargeFeminine_Plu->Words/Adjectives/Large/Feminine_Plu</li>
-    <li>AdjectiveNaturalMasculine->Words/Adjectives/Natural/Masculine</li>
-    <li>AdjectiveNaturalFeminine->Words/Adjectives/Natural/Feminine</li>
-    <li>AdjectiveNaturalMasculine_Plu->Words/Adjectives/Natural/Masculine_Plu</li>
-    <li>AdjectiveNaturalFeminine_Plu->Words/Adjectives/Natural/Feminine_Plu</li>
-    <li>AdjectivePoliticalMasculine->Words/Adjectives/PoliticalUnions/Masculine</li>
-    <li>AdjectivePoliticalFeminine->Words/Adjectives/PoliticalUnions/Feminine</li>
-    <li>AdjectivePoliticalMasculine_Plu->Words/Adjectives/PoliticalUnions/Masculine_Plu</li>
-    <li>AdjectivePoliticalFeminine_Plu->Words/Adjectives/PoliticalUnions/Feminine_Plu</li>
-    <li>AdjectiveDirectionMasculine->Words/Adjectives/CompassDirections/Masculine</li>
-    <li>AdjectiveDirectionMasculine_Plu->Words/Adjectives/CompassDirections/Masculine_Plu</li>
-    <li>AdjectiveDirectionFeminine->Words/Adjectives/CompassDirections/Feminine</li>
-    <li>AdjectiveDirectionFeminine_Plu->Words/Adjectives/CompassDirections/Feminine_Plu</li>
-    <li>ColorMasculine->Words/Adjectives/Colors/Masculine</li>
-    <li>ColorMasculine_Plu->Words/Adjectives/Colors/Masculine_Plu</li>
-    <li>ColorFeminine->Words/Adjectives/Colors/Feminine</li>
-    <li>ColorFeminine_Plu->Words/Adjectives/Colors/Feminine_Plu</li>
-    <li>ColorBadassMasculine->Words/Adjectives/Colors_Badass/Masculine</li>
-    <li>ColorBadassMasculine_Plu->Words/Adjectives/Colors_Badass/Masculine_Plu</li>
-    <li>ColorBadassFeminine->Words/Adjectives/Colors_Badass/Feminine</li>
-    <li>ColorBadassFeminine_Plu->Words/Adjectives/Colors_Badass/Feminine_Plu</li>
+    <li>AdjectiveAngsty_MscSgl->Words/Adjectives/Angsty/MscSgl</li>
+    <li>AdjectiveAngsty_MscPlu->Words/Adjectives/Angsty/MscPlu</li>
+    <li>AdjectiveAngsty_FemSgl->Words/Adjectives/Angsty/FemSgl</li>
+    <li>AdjectiveAngsty_FemPlu->Words/Adjectives/Angsty/FemPlu</li>
+    <li>AdjectiveBadass_MscSgl->Words/Adjectives/Badass/MscSgl</li>
+    <li>AdjectiveBadass_MscPlu->Words/Adjectives/Badass/MscPlu</li>
+    <li>AdjectiveBadass_FemSgl->Words/Adjectives/Badass/FemSgl</li>
+    <li>AdjectiveBadass_FemPlu->Words/Adjectives/Badass/FemPlu</li>
+    <li>adjectiveCurious_MscSgl->Words/Adjectives/Curious/MscSgl</li>
+    <li>adjectiveCurious_MscPlu->Words/Adjectives/Curious/MscPlu</li>
+    <li>adjectiveCurious_FemSgl->Words/Adjectives/Curious/FemSgl</li>
+    <li>adjectiveCurious_FemPlu->Words/Adjectives/Curious/FemPlu</li>
+    <li>AdjectiveFriendly_MscSgl->Words/Adjectives/Friendly/MscSgl</li>
+    <li>AdjectiveFriendly_MscPlu->Words/Adjectives/Friendly/MscPlu</li>
+    <li>AdjectiveFriendly_FemSgl->Words/Adjectives/Friendly/FemSgl</li>
+    <li>AdjectiveFriendly_FemPlu->Words/Adjectives/Friendly/FemPlu</li>
+    <li>AdjectiveLarge_MscSgl->Words/Adjectives/Large/MscSgl</li>
+    <li>AdjectiveLarge_MscPlu->Words/Adjectives/Large/MscPlu</li>
+    <li>AdjectiveLarge_FemSgl->Words/Adjectives/Large/FemSgl</li>
+    <li>AdjectiveLarge_FemPlu->Words/Adjectives/Large/FemPlu</li>
+    <li>AdjectiveNatural_MscSgl->Words/Adjectives/Natural/MscSgl</li>
+    <li>AdjectiveNatural_MscPlu->Words/Adjectives/Natural/MscPlu</li>
+    <li>AdjectiveNatural_FemSgl->Words/Adjectives/Natural/FemSgl</li>
+    <li>AdjectiveNatural_FemPlu->Words/Adjectives/Natural/FemPlu</li>
+    <li>political_adjective_MscSgl->Words/Adjectives/PoliticalUnions/MscSgl</li>
+    <li>political_adjective_MscPlu->Words/Adjectives/PoliticalUnions/MscPlu</li>
+    <li>political_adjective_FemSgl->Words/Adjectives/PoliticalUnions/FemSgl</li>
+    <li>political_adjective_FemPlu->Words/Adjectives/PoliticalUnions/FemPlu</li>
+    <li>AdjectiveDirection_MscSgl->Words/Adjectives/CompassDirections/MscSgl</li>
+    <li>AdjectiveDirection_MscPlu->Words/Adjectives/CompassDirections/MscPlu</li>
+    <li>AdjectiveDirection_FemSgl->Words/Adjectives/CompassDirections/FemSgl</li>
+    <li>AdjectiveDirection_FemPlu->Words/Adjectives/CompassDirections/FemPlu</li>
+    <li>AdjectiveColor_MscSgl->Words/Adjectives/Colors/MscSgl</li>
+    <li>AdjectiveColor_MscPlu->Words/Adjectives/Colors/MscPlu</li>
+    <li>AdjectiveColor_FemSgl->Words/Adjectives/Colors/FemSgl</li>
+    <li>AdjectiveColor_FemPlu->Words/Adjectives/Colors/FemPlu</li>
+    <li>AdjectiveColorBadass_MscSgl->Words/Adjectives/Colors_Badass/MscSgl</li>
+    <li>AdjectiveColorBadass_MscPlu->Words/Adjectives/Colors_Badass/MscPlu</li>
+    <li>AdjectiveColorBadass_FemSgl->Words/Adjectives/Colors_Badass/FemSgl</li>
+    <li>AdjectiveColorBadass_FemPlu->Words/Adjectives/Colors_Badass/FemPlu</li>
     <!-- END OF Adjectives -->
     <!-- START OF Nouns -->
     <li>AnimalGroup_FemSglNom->Words/Adjectives/AnimalGroups/FemSglNom</li>
@@ -515,22 +536,22 @@
     <li>Shape->stea</li>
     <li>Shape->cerc</li>
     <li>Shape->elipsă</li>
-    <li>AdjectiveAnyMasculine->[AdjectiveBadassMasculine]</li>
-    <li>AdjectiveAnyMasculine->[AdjectiveAngstyMasculine]</li>
-    <li>AdjectiveAnyMasculine->[AdjectiveFriendlyMasculine]</li>
-    <li>AdjectiveAnyMasculine->[AdjectiveNaturalMasculine]</li>
-    <li>AdjectiveAnyFeminine->[AdjectiveBadassFeminine]</li>
-    <li>AdjectiveAnyFeminine->[AdjectiveAngstyFeminine]</li>
-    <li>AdjectiveAnyFeminine->[AdjectiveFriendlyFeminine]</li>
-    <li>AdjectiveAnyFeminine->[AdjectiveNaturalFeminine]</li>
+    <li>AdjectiveAnyMasculine->[AdjectiveBadass_MscSgl]</li>
+    <li>AdjectiveAnyMasculine->[AdjectiveAngsty_MscSgl]]</li>
+    <li>AdjectiveAnyMasculine->[AdjectiveFriendly_MscSgl]]</li>
+    <li>AdjectiveAnyMasculine->[AdjectiveNatural_MscSgl]]</li>
+    <li>AdjectiveAnyFeminine->[AdjectiveBadass_FemSgl]</li>
+    <li>AdjectiveAnyFeminine->[AdjectiveAngsty_FemSgl]</li>
+    <li>AdjectiveAnyFeminine->[AdjectiveFriendly_FemSgl]</li>
+    <li>AdjectiveAnyFeminine->[AdjectiveNatural_FemSgl]</li>
     <li>AdjectiveAny->[AdjectiveAnyMasculine]</li>
     <li>AdjectiveAny->[AdjectiveAnyFeminine]</li>
-    <li>ConceptAnyMasculine->[ConceptPositiveMasculine]</li>
-    <li>ConceptAnyMasculine->[ConceptBadassMasculine]</li>
-    <li>ConceptAnyMasculine->[ConceptAngstyMasculine]</li>
-    <li>ConceptAnyFeminine->[ConceptPositiveFeminine]</li>
-    <li>ConceptAnyFeminine->[ConceptBadassFeminine]</li>
-    <li>ConceptAnyFeminine->[ConceptAngstyFeminine]</li>
+    <li>ConceptAnyMasculine->[ConceptPositive_MscSgl]</li>
+    <li>ConceptAnyMasculine->[ConceptBadass_MscSgl]</li>
+    <li>ConceptAnyMasculine->[ConceptAngsty_MscSgl]</li>
+    <li>ConceptAnyFeminine->[ConceptPositive_FemSgl]</li>
+    <li>ConceptAnyFeminine->[ConceptBadass_FemSgl]</li>
+    <li>ConceptAnyFeminine->[ConceptAngsty_FemSgl]</li>
     <li>ConceptAny->[ConceptAnyMasculine]</li>
     <li>ConceptAny->[ConceptAnyFeminine]</li>
     <li>PersonalCharacteristic(p=0.15)->genitale</li>
@@ -542,27 +563,27 @@
     <li>PersonalCharacteristic(p=0.15)->experiență sexuală</li>
     <!-- ####### Extras for Romanian language ####### -->
     <!-- START OF Adjectives; if gender is not specified, use masculine -->
-    <li>AdjectiveBadass->[AdjectiveBadassMasculine]</li>
-    <li>AdjectiveBadass_Plu->[AdjectiveBadassMasculine_Plu]</li>
-    <li>AdjectiveAngsty->[AdjectiveAngstyMasculine]</li>
-    <li>AdjectiveAngsty_Plu->[AdjectiveAngstyMasculine_Plu]</li>
-    <li>adjectiveCurious->[adjectiveCuriousMasculine]</li>
-    <li>adjectiveCurious_Plu->[adjectiveCuriousMasculine_Plu]</li>
-    <li>AdjectiveFriendly->[AdjectiveFriendlyMasculine]</li>
-    <li>AdjectiveFriendly_Plu->[AdjectiveFriendlyMasculine_Plu]</li>
-    <li>AdjectiveLarge->[AdjectiveLargeMasculine]</li>
-    <li>AdjectiveLarge_Plu->[AdjectiveLargeMasculine_Plu]</li>
-    <li>AdjectiveNatural->[AdjectiveNaturalMasculine]</li>
-    <li>AdjectiveNatural_Plu->[AdjectiveNaturalMasculine_Plu]</li>
-    <li>AdjectivePolitical->[AdjectivePoliticalMasculine]</li>
-    <li>AdjectivePolitical_Plu->[AdjectivePoliticalMasculine_Plu]</li>
-    <li>AdjectiveDirection->[AdjectiveDirectionMasculine]</li>
-    <li>AdjectiveDirection_Plu->[AdjectiveDirectionMasculine_Plu]</li>
-    <li>Color->[ColorMasculine]</li>
-    <li>Color_Plu->[ColorMasculine_Plu]</li>
-    <li>ColorBadass->[ColorBadassMasculine]</li>
-    <li>ColorBadass_Plu->[ColorBadassMasculine_Plu]</li>
-    <!-- END OF Adjectives -->
+    <li>AdjectiveAngsty_Sgl->AdjectiveAngsty_MscSgl</li>
+    <li>AdjectiveAngsty_Plu->AdjectiveAngsty_MscPlu</li>
+    <li>AdjectiveBadass_Sgl->AdjectiveBadass_MscSgl</li>
+    <li>AdjectiveBadass_Plu->AdjectiveBadass_MscPlu</li>
+    <li>adjectiveCurious_Sgl->adjectiveCurious_MscSgl</li>
+    <li>adjectiveCurious_Plu->adjectiveCurious_MscPlu</li>
+    <li>AdjectiveFriendly_Sgl->AdjectiveFriendly_MscSgl</li>
+    <li>AdjectiveFriendly_Plu->AdjectiveFriendly_MscPlu</li>
+    <li>AdjectiveLarge_Sgl->AdjectiveLarge_MscSgl</li>
+    <li>AdjectiveLarge_Plu->AdjectiveLarge_MscPlu</li>
+    <li>AdjectiveNatural_Sgl->AdjectiveNatural_MscSgl</li>
+    <li>AdjectiveNatural_Plu->AdjectiveNatural_MscPlu</li>
+    <li>political_adjective_Sgl->political_adjective_MscSgl</li>
+    <li>political_adjective_Plu->political_adjective_MscPlu</li>
+    <li>AdjectiveDirection_Sgl->AdjectiveDirection_MscSgl</li>
+    <li>AdjectiveDirection_Plu->AdjectiveDirection_MscPlu</li>
+    <li>AdjectiveColor_Sgl->AdjectiveColor_MscSgl</li>
+    <li>AdjectiveColor_Plu->AdjectiveColor_MscPlu</li>
+    <li>AdjectiveColorBadass_Sgl->AdjectiveColorBadass_MscSgl</li>
+    <li>AdjectiveColorBadass_Plu->AdjectiveColorBadass_MscPlu</li>
+    <!-- END OF Nouns -->
     <!-- START OF Nouns; if gender is not specified, use any -->
     <li>AnimalGroup_SglNom->[AnimalGroup_FemSglNom]</li>
     <li>AnimalGroup_SglArt->[AnimalGroup_FemSglArt]</li>

@@ -1,0 +1,24 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+bandit
+criminal
+raider
+outlaw
+pirate
+robber
+brigand
+crook
+rogue
+burglar
+mugger
+terrorist
+barbarian
+cannibal
+devil
+demon
+beast
+monster
+vampire
+fiend
+goblin
+imp
+dragon

@@ -1,0 +1,15 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+scyther
+lancer
+centipede
+mechanoid
+robot
+automaton
+drone
+combat drone
+serving bot
+utility bot
+sexbot
+guard bot
+machine persona avatar
+archotech projection

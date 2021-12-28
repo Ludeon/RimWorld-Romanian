@@ -1,0 +1,19 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+Company
+Partners
+Corporation
+Traders
+Industries
+Incorporated
+Travelers
+Interplanetary
+Shipping
+Export Company
+Import Company
+Transport Company
+Transit Company
+Securities
+Solutions
+Consortium
+Interstellar
+Lubricants

@@ -1,0 +1,23 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+large
+massive
+colossal
+enormous
+extensive
+gargantuan
+gigantic
+grand
+huge
+immense
+imposing
+mammoth
+impressive
+monumental
+substantial
+towering
+tremendous
+vast
+hulking
+mighty
+monstrous
+titanic

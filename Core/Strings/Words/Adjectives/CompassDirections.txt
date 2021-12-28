@@ -1,0 +1,9 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+northern
+northeastern
+eastern
+southeastern
+southern
+southwestern
+western
+northwestern

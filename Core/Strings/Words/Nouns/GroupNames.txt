@@ -1,0 +1,18 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+society
+crew
+group
+company
+team
+pack
+army
+party
+band
+rig
+organization
+lineup
+unit
+faction
+gang
+outfit
+partners

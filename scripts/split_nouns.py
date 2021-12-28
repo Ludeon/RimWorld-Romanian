@@ -101,6 +101,10 @@ if __name__ == "__main__":
 
     for filename, lines in groups.items():
         defaultPath = basePath / (filename + ".txt")
+        with open(defaultPath, "w", encoding="utf-8") as f:
+            items = list(filter(lambda x: x, map(lambda x: x["original"], lines)))
+            f.write(f"// NOTE: This file was auto-generated with data from {PATH}\n")
+            f.write("\n".join(items))
 
         for col in ECOLS:
             for gender in [Gender.Male, Gender.Female]:
