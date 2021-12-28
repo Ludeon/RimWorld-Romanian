@@ -119,7 +119,7 @@ if __name__ == "__main__":
                     continue
 
                 crtPath = basePath / filename / f"{gender}{col}.txt"
-                incRules += [f"<li>{MAPPINGS[filename]}_{gender}{col}->Words/Adjectives/{filename}/{gender}{col}</li>"]
+                incRules += [f"<li>{MAPPINGS[filename]}_{gender}{col}->Words/Nouns/{filename}/{gender}{col}</li>"]
                 anyGenderRules += [f"<li>{MAPPINGS[filename]}_{col}->[{MAPPINGS[filename]}_{gender}{col}]</li>"]
 
                 crtPath.parent.mkdir(parents=True, exist_ok=True)
