@@ -1,0 +1,10 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+haitelor
+haitelor
+haitelor
+grupurilor
+grupurilor
+grupurilor
+hoardelor
+găștilor
+multitudinilor
