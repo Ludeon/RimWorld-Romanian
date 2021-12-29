@@ -101,6 +101,7 @@ if __name__ == "__main__":
 
     for filename, lines in groups.items():
         defaultPath = basePath / (filename + ".txt")
+        defaultPath.parent.mkdir(parents=True, exist_ok=True)
         with open(defaultPath, "w", encoding="utf-8") as f:
             items = list(filter(lambda x: x, map(lambda x: x["original"], lines)))
             f.write(f"// NOTE: This file was auto-generated with data from {PATH}\n")
@@ -113,7 +114,7 @@ if __name__ == "__main__":
                     if not x["gender"] or not x["SglNom"]:
                         continue
                     crt_gender_collapsed = collapse_gender(Gender.parse(x["gender"]), col.startswith("Plu"))
-                    if gender == crt_gender_collapsed and x[col]:
+                    if gender == crt_gender_collapsed and x[col] and x[col] != "-":
                         items += [x[col]]
                 if len(items) == 0:
                     continue

@@ -14,7 +14,7 @@ Animals,megascarab,,megascarab,,,,,,,
 Animals,cobra,f,cobră,cobra,cobrei,cobră,cobre,cobrele,cobrelor,cobrelor
 Animals,deer,n,cerb,cerbul,cerbului,,cerbi,cerbii,cerbilor,
 Animals,boar,m,porc mistreț,porcul mistreț,porcului mistreț,porcule mistreț,porci mistreți,porcii mistreți,porcilor mistreți,porcilor mistreți
-Animals,,f,scroafă mistreață,scroafa mistreață,scroafei mistreață,scroafă mistreață,scroafe mistreațe,scroafele mistreațe,scroafelor mistreațe,scroafelor mistreațe
+Animals,,f,scroafă mistreață,scroafa mistreață,scroafei mistreață,scroafă mistreață,scroafe mistrețe,scroafele mistrețe,scroafelor mistrețe,scroafelor mistrețe
 Animals,squirrel,,veveriță,,,,,,,
 Animals,iguana,,iguană,,,,,,,
 Animals,aardvark,,aardvark,,,,,,,
@@ -1003,199 +1003,199 @@ Stories,scramble,,agitație,,,,,,,
 Stories,striving,,străduindu-se,,,,,,,
 Stories,toil,,truda,,,,,,,
 Stories,undertaking,,întreprindere,,,,,,,
-TalkTopics_Heavy,childhood,f,copilărie,copilăria,copilăriei,,copilării,copilăriile,copilăriilor,
-TalkTopics_Heavy,childhood fears,,temerile din copilărie,,,,,,,
-TalkTopics_Heavy,childhood loves,,iubiri din copilărie,,,,,,,
-TalkTopics_Heavy,childhood experiences,,experiențe din copilărie,,,,,,,
-TalkTopics_Heavy,life,,viață,,,,,,,
-TalkTopics_Heavy,life challenges,,provocările vieții,,,,,,,
-TalkTopics_Heavy,life's rewards,,recompensele vieții,,,,,,,
-TalkTopics_Heavy,life memories,,amintirile vieții,,,,,,,
-TalkTopics_Heavy,life goals,,obiectivele vieții,,,,,,,
-TalkTopics_Heavy,life regrets,,regretele vieții,,,,,,,
-TalkTopics_Heavy,life stresses,,stresul vieții,,,,,,,
-TalkTopics_Heavy,the disappointment of life,,dezamăgirea vieții,,,,,,,
-TalkTopics_Heavy,the pointlessness of life,,inutilitatea vieții,,,,,,,
-TalkTopics_Heavy,the randomness of life,,hazardul vieții,,,,,,,
-TalkTopics_Heavy,hope,,speranța,,,,,,,
-TalkTopics_Heavy,maturity,,maturitate,,,,,,,
-TalkTopics_Heavy,adulthood,,maturitatea,,,,,,,
-TalkTopics_Heavy,children,,copii,,,,,,,
-TalkTopics_Heavy,fear,,frică,,,,,,,
-TalkTopics_Heavy,nightmares,,coșmaruri,,,,,,,
-TalkTopics_Heavy,success,,succes,,,,,,,
-TalkTopics_Heavy,the morality of poverty,,moralitatea sărăciei,,,,,,,
-TalkTopics_Heavy,the morality of wealth,,moralitatea bogăției,,,,,,,
-TalkTopics_Heavy,death,,moarte,,,,,,,
-TalkTopics_Heavy,death's inevitability,,inevitabilitatea morții,,,,,,,
-TalkTopics_Heavy,death's release,,eliberarea morții,,,,,,,
-TalkTopics_Heavy,life after death,,viața după moarte,,,,,,,
-TalkTopics_Heavy,dead loved ones,,morții cei dragi,,,,,,,
-TalkTopics_Heavy,absent friends,,prieteni absenți,,,,,,,
-TalkTopics_Heavy,charity,,caritate,,,,,,,
-TalkTopics_Heavy,philanthropism,,filantropie,,,,,,,
-TalkTopics_Heavy,aiding the downtrodden,,ajutorarea celor defavorizați,,,,,,,
-TalkTopics_Heavy,helping the sick,,ajutorarea celor bolnavi,,,,,,,
-TalkTopics_Heavy,helping the poor,,ajutorarea celor săraci,,,,,,,
-TalkTopics_Heavy,aliens,,străini,,,,,,,
-TalkTopics_Heavy,alien contact,,contact extraterestru,,,,,,,
-TalkTopics_Heavy,alien conspiracies,,conspirații extraterestre,,,,,,,
-TalkTopics_Heavy,the absence of aliens,,absența extratereștrilor,,,,,,,
-TalkTopics_Heavy,government conspiracies,,conspirații guvernamentale,,,,,,,
-TalkTopics_Heavy,religious conspiracies,,conspirații religioase,,,,,,,
-TalkTopics_Heavy,the stars,,stelele,,,,,,,
-TalkTopics_Heavy,other planets,,alte planete,,,,,,,
-TalkTopics_Heavy,this planet,,această planetă,,,,,,,
-TalkTopics_Heavy,the scale of the universe,,scara universului,,,,,,,
-TalkTopics_Heavy,the age of the universe,,vârsta universului,,,,,,,
-TalkTopics_Heavy,the fate of the universe,,soarta universului,,,,,,,
-TalkTopics_Heavy,man's spread through the universe,,răspândirea omului în univers,,,,,,,
-TalkTopics_Heavy,primitivism,,primitivism,,,,,,,
-TalkTopics_Heavy,luddism,,luddism,,,,,,,
-TalkTopics_Heavy,technology,,tehnologie,,,,,,,
-TalkTopics_Heavy,machine intelligence,,inteligența mașinilor,,,,,,,
-TalkTopics_Heavy,artificial intelligence,,inteligența artificială,,,,,,,
-TalkTopics_Heavy,computer technology,,tehnologie informatică,,,,,,,
-TalkTopics_Heavy,weapons technology,,tehnologia armelor,,,,,,,
-TalkTopics_Heavy,society,,societate,,,,,,,
-TalkTopics_Heavy,morality,,moralitate,,,,,,,
-TalkTopics_Heavy,freedom,,libertate,,,,,,,
-TalkTopics_Heavy,law,,lege,,,,,,,
-TalkTopics_Heavy,government,,guvern,,,,,,,
-TalkTopics_Heavy,rights,,drepturi,,,,,,,
-TalkTopics_Heavy,history,,istorie,,,,,,,
-TalkTopics_Heavy,terror,,teroare,,,,,,,
-TalkTopics_Heavy,terrorism,,terorism,,,,,,,
-TalkTopics_Heavy,politics,,politică,,,,,,,
-TalkTopics_Heavy,honor,,onoare,,,,,,,
-TalkTopics_Heavy,social issues,,probleme sociale,,,,,,,
-TalkTopics_Heavy,the market,,piața,,,,,,,
-TalkTopics_Heavy,freedom,,libertate,,,,,,,
-TalkTopics_Heavy,authoritarianism,,autoritarism,,,,,,,
-TalkTopics_Heavy,anarchy,,anarhie,,,,,,,
-TalkTopics_Heavy,injustice,,nedreptate,,,,,,,
-TalkTopics_Heavy,justice,,justiție,,,,,,,
-TalkTopics_Heavy,truth,,adevăr,,,,,,,
-TalkTopics_Heavy,tribalism,,tribalism,,,,,,,
-TalkTopics_Heavy,ingroup preference,,preferința de grup,,,,,,,
-TalkTopics_Heavy,philosophy,,filosofie,,,,,,,
-TalkTopics_Heavy,reality,,realitate,,,,,,,
-TalkTopics_Heavy,culture,,cultură,,,,,,,
-TalkTopics_Heavy,culture differences,,diferențe culturale,,,,,,,
-TalkTopics_Heavy,culture shock,,șoc cultural,,,,,,,
-TalkTopics_Heavy,human nature,,natura umană,,,,,,,
-TalkTopics_Heavy,humanity,,umanitate,,,,,,,
-TalkTopics_Heavy,religion,,religie,,,,,,,
-TalkTopics_Heavy,the meaning of life,,sensul vieții,,,,,,,
-TalkTopics_Heavy,identity,,identitate,,,,,,,
-TalkTopics_Heavy,eternity,,eternitate,,,,,,,
-TalkTopics_Heavy,monism,,monism,,,,,,,
-TalkTopics_Heavy,dualism,,dualism,,,,,,,
-TalkTopics_Heavy,epistemology,,epistemologie,,,,,,,
-TalkTopics_Heavy,honesty,,onestitate,,,,,,,
-TalkTopics_Heavy,freedom of speech,,libertatea de exprimare,,,,,,,
-TalkTopics_Heavy,ethnicity,,etnie,,,,,,,
-TalkTopics_Heavy,liberalism,,liberalism,,,,,,,
-TalkTopics_Heavy,the inevitability of suffering,,inevitabilitatea suferinței,,,,,,,
-TalkTopics_Heavy,the nature of knowledge,,natura cunoașterii,,,,,,,
-TalkTopics_Heavy,the nature of emotion,,natura emoțiilor,,,,,,,
-TalkTopics_Heavy,fate,,destinul,,,,,,,
-TalkTopics_Heavy,the fate of mankind,,soarta omenirii,,,,,,,
-TalkTopics_Heavy,the fate of the universe,,soarta universului,,,,,,,
-TalkTopics_Heavy,art,,artă,,,,,,,
-TalkTopics_Heavy,art movements,,mișcări artistice,,,,,,,
-TalkTopics_Heavy,artistic ambition,,ambiția artistică,,,,,,,
-TalkTopics_Heavy,human aesthetics,,estetica umană,,,,,,,
-TalkTopics_Heavy,artistic instincts,,instincte artistice,,,,,,,
-TalkTopics_Heavy,art history,,istoria artei,,,,,,,
-TalkTopics_Heavy,love,,dragoste,,,,,,,
-TalkTopics_Heavy,romance,,romantism,,,,,,,
-TalkTopics_Heavy,sexuality,,sexualitate,,,,,,,
-TalkTopics_Heavy,sexual morality,,moralitate sexuală,,,,,,,
-TalkTopics_Heavy,masculinity,,masculinitate,,,,,,,
-TalkTopics_Heavy,femininity,,feminitate,,,,,,,
-TalkTopics_Heavy,self-replicating machines,,mașini care se autoreplică,,,,,,,
-TalkTopics_Heavy,generation ships,,nave de generație,,,,,,,
-TalkTopics_Heavy,Von Neumann probes,,sondele Von Neumann,,,,,,,
-TalkTopics_Heavy,archotechnology,,arhotehnologie,,,,,,,
-TalkTopics_Heavy,archotechs,,arhotechs,,,,,,,
-TalkTopics_Heavy,machine personas,,persoane mașină,,,,,,,
-TalkTopics_Heavy,the Johnson-Tanaka drive,,unitatea Johnson-Tanaka,,,,,,,
-TalkTopics_Heavy,the Ordo Historia,,Ordo Historia,,,,,,,
-TalkTopics_Heavy,old Earth,,vechiul Pământ,,,,,,,
-TalkTopics_Heavy,rimworlds,,rimworlds,,,,,,,
-TalkTopics_Heavy,coreworlds,,coreworlds,,,,,,,
-TalkTopics_Heavy,cryptosleep,,criptosomnul,,,,,,,
-TalkTopics_Heavy,cryptosleep tombs,,mormintele cryptosleep,,,,,,,
-TalkTopics_Heavy,mechanoids,,mecanoizi,,,,,,,
-TalkTopics_Heavy,cannibalism,,canibalism,,,,,,,
-TalkTopics_Light,the weather,f,vreme,vremea,vremei,,vremi,vremile,vremilor,
-TalkTopics_Light,breakfast cereal,,cereale pentru micul dejun,,,,,,,
-TalkTopics_Light,breakfast,,micul dejun,,,,,,,
-TalkTopics_Light,dinner,f,cină,cina,cinei,cină,cine,cinele,cinelor,cinelor
-TalkTopics_Light,food,,mâncare,,,,,,,
-TalkTopics_Light,lunchtime,,ora prânzului,,,,,,,
-TalkTopics_Light,eating habits,,obiceiuri alimentare,,,,,,,
-TalkTopics_Light,salty foods,,alimente sărate,,,,,,,
-TalkTopics_Light,sweet foods,,alimente dulci,,,,,,,
-TalkTopics_Light,savory foods,,alimente sărate,,,,,,,
-TalkTopics_Light,bitter foods,,alimente amare,,,,,,,
-TalkTopics_Light,favorite haircuts,,tunsori preferate,,,,,,,
-TalkTopics_Light,favorite clothes,,haine preferate,,,,,,,
-TalkTopics_Light,hairstyles,,coafuri,,,,,,,
-TalkTopics_Light,fashion,,modă,,,,,,,
-TalkTopics_Light,makeup,,machiaj,,,,,,,
-TalkTopics_Light,beards,,bărbi,,,,,,,
-TalkTopics_Light,facial hair,,părul facial,,,,,,,
-TalkTopics_Light,odd jobs,,locuri de muncă ciudate,,,,,,,
-TalkTopics_Light,kids' games,,jocuri pentru copii,,,,,,,
-TalkTopics_Light,entertainment,,divertisment,,,,,,,
-TalkTopics_Light,games,,jocuri,,,,,,,
-TalkTopics_Light,birthdays,,zile de naștere,,,,,,,
-TalkTopics_Light,balloons,,baloane,,,,,,,
-TalkTopics_Light,drunkenness,,beție,,,,,,,
-TalkTopics_Light,getting drunk,,a se îmbăta,,,,,,,
-TalkTopics_Light,parties,,petreceri,,,,,,,
-TalkTopics_Light,vacations,,vacanțe,,,,,,,
-TalkTopics_Light,beautiful people,,oameni frumoși,,,,,,,
-TalkTopics_Light,fat people,,oameni grași,,,,,,,
-TalkTopics_Light,tall people,,persoane înalte,,,,,,,
-TalkTopics_Light,short people,,oameni scunzi,,,,,,,
-TalkTopics_Light,guilty pleasures,,plăceri vinovate,,,,,,,
-TalkTopics_Light,vomiting,,vărsături,,,,,,,
-TalkTopics_Light,eating,,mâncarea,,,,,,,
-TalkTopics_Light,swimming,,înot,,,,,,,
-TalkTopics_Light,sports,,sport,,,,,,,
-TalkTopics_Light,beaches,,plaje,,,,,,,
-TalkTopics_Light,animals,,animale,,,,,,,
-TalkTopics_Light,cute animals,,animale drăguțe,,,,,,,
-TalkTopics_Light,fat animals,,animale grase,,,,,,,
-TalkTopics_Light,pets,,animale de companie,,,,,,,
-TalkTopics_Light,pet peeves,,animale de companie,,,,,,,
-TalkTopics_Light,life's annoyances,,neplăcerile vieții,,,,,,,
-TalkTopics_Light,laundry,,spălătorie,,,,,,,
-TalkTopics_Light,sweating,,transpirație,,,,,,,
-TalkTopics_Light,hauling,,transportând,,,,,,,
-TalkTopics_Light,cleaning,,curățenie,,,,,,,
-TalkTopics_Light,eating without tables,,mâncarea fără mese,,,,,,,
-TalkTopics_Light,comfortable furniture,,mobilier confortabil,,,,,,,
-TalkTopics_Light,fine meals,,mese fine,,,,,,,
-TalkTopics_Light,lavish meals,,mese somptuoase,,,,,,,
-TalkTopics_Light,pemmican,,pemmican,,,,,,,
-TalkTopics_Light,horseshoes,,potcoave de cai,,,,,,,
-TalkTopics_Light,recreation,,recreere,,,,,,,
-TalkTopics_Light,lovers,,iubitori,,,,,,,
-TalkTopics_Light,lovin',,iubitori,,,,,,,
-TalkTopics_Light,healroot,,healroot,,,,,,,
-TalkTopics_Light,botched surgeries,,operații ratate,,,,,,,
-TalkTopics_Light,vomiting,,vărsături,,,,,,,
-TalkTopics_Light,board games,,jocuri de masă,,,,,,,
-TalkTopics_Light,computer games,,jocuri pe calculator,,,,,,,
-TalkTopics_Light,television,,televiziune,,,,,,,
-TalkTopics_Light,poker,,poker,,,,,,,
-TalkTopics_Light,billiards,,biliard,,,,,,,
-TalkTopics_Light,spaceships,,nave spațiale,,,,,,,
-TalkTopics_Light,xenohumans,,xeno-oameni,,,,,,,
+TalkTopics_Heavy,childhood,m,copilărie,-,-,-,-,-,-,-
+TalkTopics_Heavy,childhood fears,m,temerile din copilărie,-,-,-,-,-,-,-
+TalkTopics_Heavy,childhood loves,m,iubiri din copilărie,-,-,-,-,-,-,-
+TalkTopics_Heavy,childhood experiences,m,experiențe din copilărie,-,-,-,-,-,-,-
+TalkTopics_Heavy,life,m,viață,-,-,-,-,-,-,-
+TalkTopics_Heavy,life challenges,m,provocările vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,life's rewards,m,recompensele vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,life memories,m,amintirile vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,life goals,m,obiectivele vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,life regrets,m,regretele vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,life stresses,m,stresul vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,the disappointment of life,m,dezamăgirile vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,the pointlessness of life,m,inutilitatea vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,the randomness of life,m,cât de la întâmplare e viața,-,-,-,-,-,-,-
+TalkTopics_Heavy,hope,m,speranță,-,-,-,-,-,-,-
+TalkTopics_Heavy,maturity,m,maturitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,adulthood,m,viața de adult,-,-,-,-,-,-,-
+TalkTopics_Heavy,children,m,copii,-,-,-,-,-,-,-
+TalkTopics_Heavy,fear,m,frică,-,-,-,-,-,-,-
+TalkTopics_Heavy,nightmares,m,coșmaruri,-,-,-,-,-,-,-
+TalkTopics_Heavy,success,m,succes,-,-,-,-,-,-,-
+TalkTopics_Heavy,the morality of poverty,m,moralitatea sărăciei,-,-,-,-,-,-,-
+TalkTopics_Heavy,the morality of wealth,m,moralitatea bogăției,-,-,-,-,-,-,-
+TalkTopics_Heavy,death,m,moarte,-,-,-,-,-,-,-
+TalkTopics_Heavy,death's inevitability,m,inevitabilitatea morții,-,-,-,-,-,-,-
+TalkTopics_Heavy,death's release,m,elementul elibrator al morții,-,-,-,-,-,-,-
+TalkTopics_Heavy,life after death,m,viața după moarte,-,-,-,-,-,-,-
+TalkTopics_Heavy,dead loved ones,m,morții cei dragi,-,-,-,-,-,-,-
+TalkTopics_Heavy,absent friends,m,prietenii absenți,-,-,-,-,-,-,-
+TalkTopics_Heavy,charity,m,caritate,-,-,-,-,-,-,-
+TalkTopics_Heavy,philanthropism,m,filantropie,-,-,-,-,-,-,-
+TalkTopics_Heavy,aiding the downtrodden,m,ajutorarea celor defavorizați,-,-,-,-,-,-,-
+TalkTopics_Heavy,helping the sick,m,ajutorarea celor bolnavi,-,-,-,-,-,-,-
+TalkTopics_Heavy,helping the poor,m,ajutorarea celor săraci,-,-,-,-,-,-,-
+TalkTopics_Heavy,aliens,m,străini,-,-,-,-,-,-,-
+TalkTopics_Heavy,alien contact,m,contact extraterestru,-,-,-,-,-,-,-
+TalkTopics_Heavy,alien conspiracies,m,conspirații extraterestre,-,-,-,-,-,-,-
+TalkTopics_Heavy,the absence of aliens,m,absența extratereștrilor,-,-,-,-,-,-,-
+TalkTopics_Heavy,government conspiracies,m,conspirații guvernamentale,-,-,-,-,-,-,-
+TalkTopics_Heavy,religious conspiracies,m,conspirații religioase,-,-,-,-,-,-,-
+TalkTopics_Heavy,the stars,m,stelele,-,-,-,-,-,-,-
+TalkTopics_Heavy,other planets,m,alte planete,-,-,-,-,-,-,-
+TalkTopics_Heavy,this planet,m,această planetă,-,-,-,-,-,-,-
+TalkTopics_Heavy,the scale of the universe,m,scara universului,-,-,-,-,-,-,-
+TalkTopics_Heavy,the age of the universe,m,vârsta universului,-,-,-,-,-,-,-
+TalkTopics_Heavy,the fate of the universe,m,soarta universului,-,-,-,-,-,-,-
+TalkTopics_Heavy,man's spread through the universe,m,răspândirea omului în univers,-,-,-,-,-,-,-
+TalkTopics_Heavy,primitivism,m,primitivism,-,-,-,-,-,-,-
+TalkTopics_Heavy,luddism,m,luddism,-,-,-,-,-,-,-
+TalkTopics_Heavy,technology,m,tehnologie,-,-,-,-,-,-,-
+TalkTopics_Heavy,machine intelligence,m,inteligența mașinilor,-,-,-,-,-,-,-
+TalkTopics_Heavy,artificial intelligence,m,inteligența artificială,-,-,-,-,-,-,-
+TalkTopics_Heavy,computer technology,m,tehnologie informatică,-,-,-,-,-,-,-
+TalkTopics_Heavy,weapons technology,m,tehnologia armelor,-,-,-,-,-,-,-
+TalkTopics_Heavy,society,m,societate,-,-,-,-,-,-,-
+TalkTopics_Heavy,morality,m,moralitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,freedom,m,libertate,-,-,-,-,-,-,-
+TalkTopics_Heavy,law,m,lege,-,-,-,-,-,-,-
+TalkTopics_Heavy,government,m,guvern,-,-,-,-,-,-,-
+TalkTopics_Heavy,rights,m,drepturi,-,-,-,-,-,-,-
+TalkTopics_Heavy,history,m,istorie,-,-,-,-,-,-,-
+TalkTopics_Heavy,terror,m,teroare,-,-,-,-,-,-,-
+TalkTopics_Heavy,terrorism,m,terorism,-,-,-,-,-,-,-
+TalkTopics_Heavy,politics,m,politică,-,-,-,-,-,-,-
+TalkTopics_Heavy,honor,m,onoare,-,-,-,-,-,-,-
+TalkTopics_Heavy,social issues,m,probleme sociale,-,-,-,-,-,-,-
+TalkTopics_Heavy,the market,m,piața,-,-,-,-,-,-,-
+TalkTopics_Heavy,freedom,m,libertate,-,-,-,-,-,-,-
+TalkTopics_Heavy,authoritarianism,m,autoritarism,-,-,-,-,-,-,-
+TalkTopics_Heavy,anarchy,m,anarhie,-,-,-,-,-,-,-
+TalkTopics_Heavy,injustice,m,nedreptate,-,-,-,-,-,-,-
+TalkTopics_Heavy,justice,m,justiție,-,-,-,-,-,-,-
+TalkTopics_Heavy,truth,m,adevăr,-,-,-,-,-,-,-
+TalkTopics_Heavy,tribalism,m,tribalism,-,-,-,-,-,-,-
+TalkTopics_Heavy,ingroup preference,m,preferința de grup,-,-,-,-,-,-,-
+TalkTopics_Heavy,philosophy,m,filosofie,-,-,-,-,-,-,-
+TalkTopics_Heavy,reality,m,realitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,culture,m,cultură,-,-,-,-,-,-,-
+TalkTopics_Heavy,culture differences,m,diferențe culturale,-,-,-,-,-,-,-
+TalkTopics_Heavy,culture shock,m,șoc cultural,-,-,-,-,-,-,-
+TalkTopics_Heavy,human nature,m,natura umană,-,-,-,-,-,-,-
+TalkTopics_Heavy,humanity,m,umanitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,religion,m,religie,-,-,-,-,-,-,-
+TalkTopics_Heavy,the meaning of life,m,sensul vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,identity,m,identitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,eternity,m,eternitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,monism,m,monism,-,-,-,-,-,-,-
+TalkTopics_Heavy,dualism,m,dualism,-,-,-,-,-,-,-
+TalkTopics_Heavy,epistemology,m,epistemologie,-,-,-,-,-,-,-
+TalkTopics_Heavy,honesty,m,onestitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,freedom of speech,m,libertatea de exprimare,-,-,-,-,-,-,-
+TalkTopics_Heavy,ethnicity,m,etnie,-,-,-,-,-,-,-
+TalkTopics_Heavy,liberalism,m,liberalism,-,-,-,-,-,-,-
+TalkTopics_Heavy,the inevitability of suffering,m,inevitabilitatea suferinței,-,-,-,-,-,-,-
+TalkTopics_Heavy,the nature of knowledge,m,natura cunoașterii,-,-,-,-,-,-,-
+TalkTopics_Heavy,the nature of emotion,m,natura emoțiilor,-,-,-,-,-,-,-
+TalkTopics_Heavy,fate,m,destinul,-,-,-,-,-,-,-
+TalkTopics_Heavy,the fate of mankind,m,soarta omenirii,-,-,-,-,-,-,-
+TalkTopics_Heavy,the fate of the universe,m,soarta universului,-,-,-,-,-,-,-
+TalkTopics_Heavy,art,m,artă,-,-,-,-,-,-,-
+TalkTopics_Heavy,art movements,m,mișcări artistice,-,-,-,-,-,-,-
+TalkTopics_Heavy,artistic ambition,m,ambiția artistică,-,-,-,-,-,-,-
+TalkTopics_Heavy,human aesthetics,m,estetica umană,-,-,-,-,-,-,-
+TalkTopics_Heavy,artistic instincts,m,instincte artistice,-,-,-,-,-,-,-
+TalkTopics_Heavy,art history,m,istoria artei,-,-,-,-,-,-,-
+TalkTopics_Heavy,love,m,dragoste,-,-,-,-,-,-,-
+TalkTopics_Heavy,romance,m,romantism,-,-,-,-,-,-,-
+TalkTopics_Heavy,sexuality,m,sexualitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,sexual morality,m,moralitate sexuală,-,-,-,-,-,-,-
+TalkTopics_Heavy,masculinity,m,masculinitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,femininity,m,feminitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,self-replicating machines,m,mașini care se autoreplică,-,-,-,-,-,-,-
+TalkTopics_Heavy,generation ships,m,nave de generație,-,-,-,-,-,-,-
+TalkTopics_Heavy,Von Neumann probes,m,sondele Von Neumann,-,-,-,-,-,-,-
+TalkTopics_Heavy,archotechnology,m,arhotehnologie,-,-,-,-,-,-,-
+TalkTopics_Heavy,archotechs,m,arhotechs,-,-,-,-,-,-,-
+TalkTopics_Heavy,machine personas,m,persoane mașină,-,-,-,-,-,-,-
+TalkTopics_Heavy,the Johnson-Tanaka drive,m,unitatea Johnson-Tanaka,-,-,-,-,-,-,-
+TalkTopics_Heavy,the Ordo Historia,m,Ordo Historia,-,-,-,-,-,-,-
+TalkTopics_Heavy,old Earth,m,vechiul Pământ,-,-,-,-,-,-,-
+TalkTopics_Heavy,rimworlds,m,rimworlds,-,-,-,-,-,-,-
+TalkTopics_Heavy,coreworlds,m,coreworlds,-,-,-,-,-,-,-
+TalkTopics_Heavy,cryptosleep,m,criptosomnul,-,-,-,-,-,-,-
+TalkTopics_Heavy,cryptosleep tombs,m,mormintele cryptosleep,-,-,-,-,-,-,-
+TalkTopics_Heavy,mechanoids,m,mecanoizi,-,-,-,-,-,-,-
+TalkTopics_Heavy,cannibalism,m,canibalism,-,-,-,-,-,-,-
+TalkTopics_Light,the weather,m,vreme,-,-,-,-,-,-,-
+TalkTopics_Light,breakfast cereal,m,cereale pentru micul dejun,-,-,-,-,-,-,-
+TalkTopics_Light,breakfast,m,micul dejun,-,-,-,-,-,-,-
+TalkTopics_Light,dinner,m,cină,-,-,-,-,-,-,-
+TalkTopics_Light,food,m,mâncare,-,-,-,-,-,-,-
+TalkTopics_Light,lunchtime,m,ora prânzului,-,-,-,-,-,-,-
+TalkTopics_Light,eating habits,m,obiceiuri alimentare,-,-,-,-,-,-,-
+TalkTopics_Light,salty foods,m,alimente sărate,-,-,-,-,-,-,-
+TalkTopics_Light,sweet foods,m,alimente dulci,-,-,-,-,-,-,-
+TalkTopics_Light,savory foods,m,alimente sărate,-,-,-,-,-,-,-
+TalkTopics_Light,bitter foods,m,alimente amare,-,-,-,-,-,-,-
+TalkTopics_Light,favorite haircuts,m,tunsori preferate,-,-,-,-,-,-,-
+TalkTopics_Light,favorite clothes,m,haine preferate,-,-,-,-,-,-,-
+TalkTopics_Light,hairstyles,m,coafuri,-,-,-,-,-,-,-
+TalkTopics_Light,fashion,m,modă,-,-,-,-,-,-,-
+TalkTopics_Light,makeup,m,machiaj,-,-,-,-,-,-,-
+TalkTopics_Light,beards,m,bărbi,-,-,-,-,-,-,-
+TalkTopics_Light,facial hair,m,părul facial,-,-,-,-,-,-,-
+TalkTopics_Light,odd jobs,m,locuri de muncă ciudate,-,-,-,-,-,-,-
+TalkTopics_Light,kids' games,m,jocuri pentru copii,-,-,-,-,-,-,-
+TalkTopics_Light,entertainment,m,divertisment,-,-,-,-,-,-,-
+TalkTopics_Light,games,m,jocuri,-,-,-,-,-,-,-
+TalkTopics_Light,birthdays,m,zile de naștere,-,-,-,-,-,-,-
+TalkTopics_Light,balloons,m,baloane,-,-,-,-,-,-,-
+TalkTopics_Light,drunkenness,m,beție,-,-,-,-,-,-,-
+TalkTopics_Light,getting drunk,m,a se îmbăta,-,-,-,-,-,-,-
+TalkTopics_Light,parties,m,petreceri,-,-,-,-,-,-,-
+TalkTopics_Light,vacations,m,vacanțe,-,-,-,-,-,-,-
+TalkTopics_Light,beautiful people,m,oameni frumoși,-,-,-,-,-,-,-
+TalkTopics_Light,fat people,m,oameni grași,-,-,-,-,-,-,-
+TalkTopics_Light,tall people,m,persoane înalte,-,-,-,-,-,-,-
+TalkTopics_Light,short people,m,oameni scunzi,-,-,-,-,-,-,-
+TalkTopics_Light,guilty pleasures,m,plăceri vinovate,-,-,-,-,-,-,-
+TalkTopics_Light,vomiting,m,vărsături,-,-,-,-,-,-,-
+TalkTopics_Light,eating,m,mâncarea,-,-,-,-,-,-,-
+TalkTopics_Light,swimming,m,înot,-,-,-,-,-,-,-
+TalkTopics_Light,sports,m,sport,-,-,-,-,-,-,-
+TalkTopics_Light,beaches,m,plaje,-,-,-,-,-,-,-
+TalkTopics_Light,animals,m,animale,-,-,-,-,-,-,-
+TalkTopics_Light,cute animals,m,animale drăguțe,-,-,-,-,-,-,-
+TalkTopics_Light,fat animals,m,animale grase,-,-,-,-,-,-,-
+TalkTopics_Light,pets,m,animale de companie,-,-,-,-,-,-,-
+TalkTopics_Light,pet peeves,m,animale de companie,-,-,-,-,-,-,-
+TalkTopics_Light,life's annoyances,m,neplăcerile vieții,-,-,-,-,-,-,-
+TalkTopics_Light,laundry,m,spălătorie,-,-,-,-,-,-,-
+TalkTopics_Light,sweating,m,transpirație,-,-,-,-,-,-,-
+TalkTopics_Light,hauling,m,transportând,-,-,-,-,-,-,-
+TalkTopics_Light,cleaning,m,curățenie,-,-,-,-,-,-,-
+TalkTopics_Light,eating without tables,m,mâncarea fără mese,-,-,-,-,-,-,-
+TalkTopics_Light,comfortable furniture,m,mobilier confortabil,-,-,-,-,-,-,-
+TalkTopics_Light,fine meals,m,mese fine,-,-,-,-,-,-,-
+TalkTopics_Light,lavish meals,m,mese somptuoase,-,-,-,-,-,-,-
+TalkTopics_Light,pemmican,m,pemmican,-,-,-,-,-,-,-
+TalkTopics_Light,horseshoes,m,potcoave de cai,-,-,-,-,-,-,-
+TalkTopics_Light,recreation,m,recreere,-,-,-,-,-,-,-
+TalkTopics_Light,lovers,m,iubitori,-,-,-,-,-,-,-
+TalkTopics_Light,lovin',m,iubitori,-,-,-,-,-,-,-
+TalkTopics_Light,healroot,m,healroot,-,-,-,-,-,-,-
+TalkTopics_Light,botched surgeries,m,operații ratate,-,-,-,-,-,-,-
+TalkTopics_Light,vomiting,m,vărsături,-,-,-,-,-,-,-
+TalkTopics_Light,board games,m,jocuri de masă,-,-,-,-,-,-,-
+TalkTopics_Light,computer games,m,jocuri pe calculator,-,-,-,-,-,-,-
+TalkTopics_Light,television,m,televiziune,-,-,-,-,-,-,-
+TalkTopics_Light,poker,m,poker,-,-,-,-,-,-,-
+TalkTopics_Light,billiards,m,biliard,-,-,-,-,-,-,-
+TalkTopics_Light,spaceships,m,nave spațiale,-,-,-,-,-,-,-
+TalkTopics_Light,xenohumans,m,xeno-oameni,-,-,-,-,-,-,-
 TerrainFeatures,plain,f,câmpie,câmpia,câmpiei,câmpio,câmpii,câmpiile,câmpiilor,câmpiilor
 TerrainFeatures,expanse,,întindere,,,,,,,
 TerrainFeatures,grassland,,pășune,,,,,,,

@@ -947,6 +947,44 @@
     <li>talktopicheavyfile(p=0.15)->animal sexuality</li>
     <li>talktopicheavyfile(p=0.15)->sexual fetishes</li>
   -->
-  <TalkTopicsUtility.rulePack.rulesStrings>TODO</TalkTopicsUtility.rulePack.rulesStrings>
+  <TalkTopicsUtility.rulePack.rulesStrings>
+    <li>TalkTopicAny->[TalkTopicLight]</li>
+    <li>TalkTopicAny->[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy->[talktopicheavyfile_SglNom]</li>
+    <li>TalkTopicHeavy(p=0.08)->legătura dintre [talktopicheavyfile_SglNom] și [talktopicheavyfile_SglNom]</li>
+    <li>TalkTopicHeavy(p=0.08)->conexiunea dintre [talktopicheavyfile_SglNom] și [talktopicheavyfile_SglNom]</li>
+    <li>TalkTopicHeavy(p=0.08)->relația dintre [talktopicheavyfile_SglNom] și [talktopicheavyfile_SglNom]</li>
+    <li>TalkTopicLight(p=25)->[talktopiclightfile_SglNom]</li>
+    <li>TalkTopicLight->[Vegetable_PluNom]</li>
+    <li>TalkTopicLight->mâncatul [Vegetable_PluNom]</li>
+    <li>TalkTopicLight->gătirea cu [Vegetable_PluNom]</li>
+    <li>TalkTopicLight->[Game_SglNom]</li>
+    <li>TalkTopicLight->jucatul de [Game_SglNom]</li>
+    <li>TalkTopicLight->exersarea jocului de [Game_SglNom]</li>
+    <li>TalkTopicLight->învățarea de [Game_SglNom]</li>
+    <li>TalkTopicLight->[Animal_PluNom]</li>
+    <li>TalkTopicLight->dresarea de [Animal_PluNom]</li>
+    <li>TalkTopicLight->îmblânzirea de [Animal_PluNom]</li>
+    <li>TalkTopicLight->combaterea [Animal_PluArt]</li>
+    <li>TalkTopicLight->[Animal_PluNom] nebune</li>
+    <li>TalkTopicLight->[Weapon_PluNom]</li>
+    <li>TalkTopicLight->folosirea [Weapon_PluArt]</li>
+    <li>TalkTopicLight->antrenarea cu [Weapon_PluNom]</li>
+    <li>TalkTopicLight->[TerrainFeature_PluNom]</li>
+    <li>TalkTopicLight->[NaturalObject_PluNom]</li>
+    <li>TalkTopicLight->copacii de [TreeType_SglNom]</li>
+    <li>TalkTopicLight->[PersonJob_PluNom]</li>
+    <li>TalkTopicLight->[PersonJob_PluNom] prietenoși</li>
+    <li>TalkTopicLight->[PersonJob_PluNom] ostili</li>
+    <li>TalkTopicLight->[Enemy_PluNom]</li>
+    <li>TalkTopicLight->combaterea [Enemy_PluArt]</li>
+    <li>TalkTopicLight->[Apparel_PluNom]</li>
+    <li>TalkTopicLight->purtarea [Apparel_PluArt]</li>
+    <li>TalkTopicLight->confecționarea [Apparel_PluArt]</li>
+    <li>talktopicheavyfile(p=0.15)->sex</li>
+    <li>talktopicheavyfile(p=0.15)->seducție</li>
+    <li>talktopicheavyfile(p=0.15)->sexualitatea animală</li>
+    <li>talktopicheavyfile(p=0.15)->fetișe sexuale</li>
+  </TalkTopicsUtility.rulePack.rulesStrings>
   
 </LanguageData>
