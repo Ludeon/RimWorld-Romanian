@@ -125,14 +125,18 @@
     <li>AdjectiveColorBadass_FemSgl->Words/Adjectives/Colors_Badass/FemSgl</li>
     <li>AdjectiveColorBadass_FemPlu->Words/Adjectives/Colors_Badass/FemPlu</li>
     <!-- END OF Adjectives -->
-    <!-- START OF Nouns -->
+    <!-- START OF rulesFiles.Nouns -->
     <li>AnimalGroup_FemSglNom->Words/Nouns/AnimalGroups/FemSglNom</li>
     <li>AnimalGroup_FemSglArt->Words/Nouns/AnimalGroups/FemSglArt</li>
     <li>AnimalGroup_FemSglDat->Words/Nouns/AnimalGroups/FemSglDat</li>
     <li>AnimalGroup_FemSglVoc->Words/Nouns/AnimalGroups/FemSglVoc</li>
+    <li>AnimalGroup_MscPluNom->Words/Nouns/AnimalGroups/MscPluNom</li>
     <li>AnimalGroup_FemPluNom->Words/Nouns/AnimalGroups/FemPluNom</li>
+    <li>AnimalGroup_MscPluArt->Words/Nouns/AnimalGroups/MscPluArt</li>
     <li>AnimalGroup_FemPluArt->Words/Nouns/AnimalGroups/FemPluArt</li>
+    <li>AnimalGroup_MscPluDat->Words/Nouns/AnimalGroups/MscPluDat</li>
     <li>AnimalGroup_FemPluDat->Words/Nouns/AnimalGroups/FemPluDat</li>
+    <li>AnimalGroup_MscPluVoc->Words/Nouns/AnimalGroups/MscPluVoc</li>
     <li>AnimalGroup_FemPluVoc->Words/Nouns/AnimalGroups/FemPluVoc</li>
     <li>Animal_MscSglNom->Words/Nouns/Animals/MscSglNom</li>
     <li>Animal_FemSglNom->Words/Nouns/Animals/FemSglNom</li>
@@ -178,12 +182,22 @@
     <li>Apparel_MscPluDat->Words/Nouns/Apparel/MscPluDat</li>
     <li>Apparel_FemPluDat->Words/Nouns/Apparel/FemPluDat</li>
     <li>Apparel_MscPluVoc->Words/Nouns/Apparel/MscPluVoc</li>
+    <li>Artwork_MscSglNom->Words/Nouns/Artworks/MscSglNom</li>
     <li>Artwork_FemSglNom->Words/Nouns/Artworks/FemSglNom</li>
+    <li>Artwork_MscSglArt->Words/Nouns/Artworks/MscSglArt</li>
     <li>Artwork_FemSglArt->Words/Nouns/Artworks/FemSglArt</li>
+    <li>Artwork_MscSglDat->Words/Nouns/Artworks/MscSglDat</li>
     <li>Artwork_FemSglDat->Words/Nouns/Artworks/FemSglDat</li>
+    <li>Artwork_MscSglVoc->Words/Nouns/Artworks/MscSglVoc</li>
+    <li>Artwork_FemSglVoc->Words/Nouns/Artworks/FemSglVoc</li>
+    <li>Artwork_MscPluNom->Words/Nouns/Artworks/MscPluNom</li>
     <li>Artwork_FemPluNom->Words/Nouns/Artworks/FemPluNom</li>
+    <li>Artwork_MscPluArt->Words/Nouns/Artworks/MscPluArt</li>
     <li>Artwork_FemPluArt->Words/Nouns/Artworks/FemPluArt</li>
+    <li>Artwork_MscPluDat->Words/Nouns/Artworks/MscPluDat</li>
     <li>Artwork_FemPluDat->Words/Nouns/Artworks/FemPluDat</li>
+    <li>Artwork_MscPluVoc->Words/Nouns/Artworks/MscPluVoc</li>
+    <li>Artwork_FemPluVoc->Words/Nouns/Artworks/FemPluVoc</li>
     <li>BodyPart_MscSglNom->Words/Nouns/Bodyparts/MscSglNom</li>
     <li>BodyPart_FemSglNom->Words/Nouns/Bodyparts/FemSglNom</li>
     <li>BodyPart_MscSglArt->Words/Nouns/Bodyparts/MscSglArt</li>
@@ -198,14 +212,10 @@
     <li>BodyPart_MscPluDat->Words/Nouns/Bodyparts/MscPluDat</li>
     <li>BodyPart_FemPluDat->Words/Nouns/Bodyparts/FemPluDat</li>
     <li>BodyPart_MscPluVoc->Words/Nouns/Bodyparts/MscPluVoc</li>
-    <li>businesstype_FemSglNom->Words/Nouns/BusinessTypes/FemSglNom</li>
+    <li>businesstype_MscSglArt->Words/Nouns/BusinessTypes/MscSglArt</li>
     <li>businesstype_FemSglArt->Words/Nouns/BusinessTypes/FemSglArt</li>
-    <li>businesstype_FemSglDat->Words/Nouns/BusinessTypes/FemSglDat</li>
-    <li>businesstype_FemSglVoc->Words/Nouns/BusinessTypes/FemSglVoc</li>
-    <li>businesstype_FemPluNom->Words/Nouns/BusinessTypes/FemPluNom</li>
+    <li>businesstype_MscPluArt->Words/Nouns/BusinessTypes/MscPluArt</li>
     <li>businesstype_FemPluArt->Words/Nouns/BusinessTypes/FemPluArt</li>
-    <li>businesstype_FemPluDat->Words/Nouns/BusinessTypes/FemPluDat</li>
-    <li>businesstype_FemPluVoc->Words/Nouns/BusinessTypes/FemPluVoc</li>
     <li>Color_MscSglNom->Words/Nouns/Colors/MscSglNom</li>
     <li>Color_FemSglNom->Words/Nouns/Colors/FemSglNom</li>
     <li>Color_MscSglArt->Words/Nouns/Colors/MscSglArt</li>
@@ -215,27 +225,26 @@
     <li>Color_MscSglVoc->Words/Nouns/Colors/MscSglVoc</li>
     <li>Color_FemSglVoc->Words/Nouns/Colors/FemSglVoc</li>
     <li>Color_MscPluNom->Words/Nouns/Colors/MscPluNom</li>
-    <li>Color_FemPluNom->Words/Nouns/Colors/FemPluNom</li>
     <li>Color_MscPluArt->Words/Nouns/Colors/MscPluArt</li>
-    <li>Color_FemPluArt->Words/Nouns/Colors/FemPluArt</li>
     <li>Color_MscPluDat->Words/Nouns/Colors/MscPluDat</li>
-    <li>Color_FemPluDat->Words/Nouns/Colors/FemPluDat</li>
     <li>Color_MscPluVoc->Words/Nouns/Colors/MscPluVoc</li>
-    <li>Color_FemPluVoc->Words/Nouns/Colors/FemPluVoc</li>
     <li>ColorBadass_FemSglNom->Words/Nouns/Colors_Badass/FemSglNom</li>
     <li>ColorBadass_FemSglArt->Words/Nouns/Colors_Badass/FemSglArt</li>
     <li>ColorBadass_FemSglDat->Words/Nouns/Colors_Badass/FemSglDat</li>
     <li>ColorBadass_FemSglVoc->Words/Nouns/Colors_Badass/FemSglVoc</li>
-    <li>ColorBadass_FemPluNom->Words/Nouns/Colors_Badass/FemPluNom</li>
-    <li>ColorBadass_FemPluArt->Words/Nouns/Colors_Badass/FemPluArt</li>
-    <li>ColorBadass_FemPluDat->Words/Nouns/Colors_Badass/FemPluDat</li>
-    <li>ColorBadass_FemPluVoc->Words/Nouns/Colors_Badass/FemPluVoc</li>
+    <li>ColorBadass_MscPluNom->Words/Nouns/Colors_Badass/MscPluNom</li>
+    <li>ColorBadass_MscPluArt->Words/Nouns/Colors_Badass/MscPluArt</li>
+    <li>ColorBadass_MscPluDat->Words/Nouns/Colors_Badass/MscPluDat</li>
+    <li>ColorBadass_MscPluVoc->Words/Nouns/Colors_Badass/MscPluVoc</li>
     <li>Community_FemSglNom->Words/Nouns/Communities/FemSglNom</li>
     <li>Community_FemSglArt->Words/Nouns/Communities/FemSglArt</li>
     <li>Community_FemSglDat->Words/Nouns/Communities/FemSglDat</li>
     <li>Community_FemSglVoc->Words/Nouns/Communities/FemSglVoc</li>
+    <li>Community_MscPluNom->Words/Nouns/Communities/MscPluNom</li>
     <li>Community_FemPluNom->Words/Nouns/Communities/FemPluNom</li>
+    <li>Community_MscPluArt->Words/Nouns/Communities/MscPluArt</li>
     <li>Community_FemPluArt->Words/Nouns/Communities/FemPluArt</li>
+    <li>Community_MscPluDat->Words/Nouns/Communities/MscPluDat</li>
     <li>Community_FemPluDat->Words/Nouns/Communities/FemPluDat</li>
     <li>Community_FemPluVoc->Words/Nouns/Communities/FemPluVoc</li>
     <li>ConceptAngsty_MscSglNom->Words/Nouns/Concepts_Angsty/MscSglNom</li>
@@ -292,10 +301,10 @@
     <li>Gore_FemSglArt->Words/Nouns/Gore/FemSglArt</li>
     <li>Gore_FemSglDat->Words/Nouns/Gore/FemSglDat</li>
     <li>Gore_FemSglVoc->Words/Nouns/Gore/FemSglVoc</li>
-    <li>Gore_FemPluNom->Words/Nouns/Gore/FemPluNom</li>
-    <li>Gore_FemPluArt->Words/Nouns/Gore/FemPluArt</li>
-    <li>Gore_FemPluDat->Words/Nouns/Gore/FemPluDat</li>
-    <li>Gore_FemPluVoc->Words/Nouns/Gore/FemPluVoc</li>
+    <li>Gore_MscPluNom->Words/Nouns/Gore/MscPluNom</li>
+    <li>Gore_MscPluArt->Words/Nouns/Gore/MscPluArt</li>
+    <li>Gore_MscPluDat->Words/Nouns/Gore/MscPluDat</li>
+    <li>Gore_MscPluVoc->Words/Nouns/Gore/MscPluVoc</li>
     <li>groupname_FemSglNom->Words/Nouns/GroupNames/FemSglNom</li>
     <li>groupname_FemSglArt->Words/Nouns/GroupNames/FemSglArt</li>
     <li>groupname_FemSglDat->Words/Nouns/GroupNames/FemSglDat</li>
@@ -376,9 +385,13 @@
     <li>political_union_outlander_FemSglArt->Words/Nouns/PoliticalUnions_Outlander/FemSglArt</li>
     <li>political_union_outlander_FemSglDat->Words/Nouns/PoliticalUnions_Outlander/FemSglDat</li>
     <li>political_union_outlander_FemSglVoc->Words/Nouns/PoliticalUnions_Outlander/FemSglVoc</li>
+    <li>political_union_outlander_MscPluNom->Words/Nouns/PoliticalUnions_Outlander/MscPluNom</li>
     <li>political_union_outlander_FemPluNom->Words/Nouns/PoliticalUnions_Outlander/FemPluNom</li>
+    <li>political_union_outlander_MscPluArt->Words/Nouns/PoliticalUnions_Outlander/MscPluArt</li>
     <li>political_union_outlander_FemPluArt->Words/Nouns/PoliticalUnions_Outlander/FemPluArt</li>
+    <li>political_union_outlander_MscPluDat->Words/Nouns/PoliticalUnions_Outlander/MscPluDat</li>
     <li>political_union_outlander_FemPluDat->Words/Nouns/PoliticalUnions_Outlander/FemPluDat</li>
+    <li>political_union_outlander_MscPluVoc->Words/Nouns/PoliticalUnions_Outlander/MscPluVoc</li>
     <li>political_union_outlander_FemPluVoc->Words/Nouns/PoliticalUnions_Outlander/FemPluVoc</li>
     <li>political_union_tribal_FemSglNom->Words/Nouns/PoliticalUnions_Tribal/FemSglNom</li>
     <li>political_union_tribal_FemSglArt->Words/Nouns/PoliticalUnions_Tribal/FemSglArt</li>
@@ -404,20 +417,8 @@
     <li>story_FemPluArt->Words/Nouns/Stories/FemPluArt</li>
     <li>story_FemPluDat->Words/Nouns/Stories/FemPluDat</li>
     <li>story_FemPluVoc->Words/Nouns/Stories/FemPluVoc</li>
-    <li>talktopicheavyfile_FemSglNom->Words/Nouns/TalkTopics_Heavy/FemSglNom</li>
-    <li>talktopicheavyfile_FemSglArt->Words/Nouns/TalkTopics_Heavy/FemSglArt</li>
-    <li>talktopicheavyfile_FemSglDat->Words/Nouns/TalkTopics_Heavy/FemSglDat</li>
-    <li>talktopicheavyfile_FemPluNom->Words/Nouns/TalkTopics_Heavy/FemPluNom</li>
-    <li>talktopicheavyfile_FemPluArt->Words/Nouns/TalkTopics_Heavy/FemPluArt</li>
-    <li>talktopicheavyfile_FemPluDat->Words/Nouns/TalkTopics_Heavy/FemPluDat</li>
-    <li>talktopiclightfile_FemSglNom->Words/Nouns/TalkTopics_Light/FemSglNom</li>
-    <li>talktopiclightfile_FemSglArt->Words/Nouns/TalkTopics_Light/FemSglArt</li>
-    <li>talktopiclightfile_FemSglDat->Words/Nouns/TalkTopics_Light/FemSglDat</li>
-    <li>talktopiclightfile_FemSglVoc->Words/Nouns/TalkTopics_Light/FemSglVoc</li>
-    <li>talktopiclightfile_FemPluNom->Words/Nouns/TalkTopics_Light/FemPluNom</li>
-    <li>talktopiclightfile_FemPluArt->Words/Nouns/TalkTopics_Light/FemPluArt</li>
-    <li>talktopiclightfile_FemPluDat->Words/Nouns/TalkTopics_Light/FemPluDat</li>
-    <li>talktopiclightfile_FemPluVoc->Words/Nouns/TalkTopics_Light/FemPluVoc</li>
+    <li>talktopicheavyfile_MscSglNom->Words/Nouns/TalkTopics_Heavy/MscSglNom</li>
+    <li>talktopiclightfile_MscSglNom->Words/Nouns/TalkTopics_Light/MscSglNom</li>
     <li>TerrainFeature_FemSglNom->Words/Nouns/TerrainFeatures/FemSglNom</li>
     <li>TerrainFeature_FemSglArt->Words/Nouns/TerrainFeatures/FemSglArt</li>
     <li>TerrainFeature_FemSglDat->Words/Nouns/TerrainFeatures/FemSglDat</li>
@@ -437,16 +438,16 @@
     <li>Vegetable_FemSglNom->Words/Nouns/Vegetables/FemSglNom</li>
     <li>Vegetable_FemSglArt->Words/Nouns/Vegetables/FemSglArt</li>
     <li>Vegetable_FemSglDat->Words/Nouns/Vegetables/FemSglDat</li>
-    <li>Vegetable_FemPluNom->Words/Nouns/Vegetables/FemPluNom</li>
-    <li>Vegetable_FemPluArt->Words/Nouns/Vegetables/FemPluArt</li>
-    <li>Vegetable_FemPluDat->Words/Nouns/Vegetables/FemPluDat</li>
+    <li>Vegetable_MscPluNom->Words/Nouns/Vegetables/MscPluNom</li>
+    <li>Vegetable_MscPluArt->Words/Nouns/Vegetables/MscPluArt</li>
+    <li>Vegetable_MscPluDat->Words/Nouns/Vegetables/MscPluDat</li>
     <li>Weapon_FemSglNom->Words/Nouns/Weapons/FemSglNom</li>
     <li>Weapon_FemSglArt->Words/Nouns/Weapons/FemSglArt</li>
     <li>Weapon_FemSglDat->Words/Nouns/Weapons/FemSglDat</li>
-    <li>Weapon_FemPluNom->Words/Nouns/Weapons/FemPluNom</li>
-    <li>Weapon_FemPluArt->Words/Nouns/Weapons/FemPluArt</li>
-    <li>Weapon_FemPluDat->Words/Nouns/Weapons/FemPluDat</li>
-    <!-- END OF Nouns -->
+    <li>Weapon_MscPluNom->Words/Nouns/Weapons/MscPluNom</li>
+    <li>Weapon_MscPluArt->Words/Nouns/Weapons/MscPluArt</li>
+    <li>Weapon_MscPluDat->Words/Nouns/Weapons/MscPluDat</li>
+    <!-- END OF rulesFiles.Nouns -->
   </GlobalUtility.rulePack.rulesFiles>
   <!-- EN:
     <li>Trans->of</li>
@@ -546,12 +547,12 @@
     <li>AdjectiveAnyFeminine->[AdjectiveNatural_FemSgl]</li>
     <li>AdjectiveAny->[AdjectiveAnyMasculine]</li>
     <li>AdjectiveAny->[AdjectiveAnyFeminine]</li>
-    <li>ConceptAnyMasculine->[ConceptPositive_MscSgl]</li>
-    <li>ConceptAnyMasculine->[ConceptBadass_MscSgl]</li>
-    <li>ConceptAnyMasculine->[ConceptAngsty_MscSgl]</li>
-    <li>ConceptAnyFeminine->[ConceptPositive_FemSgl]</li>
-    <li>ConceptAnyFeminine->[ConceptBadass_FemSgl]</li>
-    <li>ConceptAnyFeminine->[ConceptAngsty_FemSgl]</li>
+    <li>ConceptAnyMasculine->[ConceptPositive_MscSglNom]</li>
+    <li>ConceptAnyMasculine->[ConceptBadass_MscSglNom]</li>
+    <li>ConceptAnyMasculine->[ConceptAngsty_MscSglNom]</li>
+    <li>ConceptAnyFeminine->[ConceptPositive_FemSglNom]</li>
+    <li>ConceptAnyFeminine->[ConceptBadass_FemSglNom]</li>
+    <li>ConceptAnyFeminine->[ConceptAngsty_FemSglNom]</li>
     <li>ConceptAny->[ConceptAnyMasculine]</li>
     <li>ConceptAny->[ConceptAnyFeminine]</li>
     <li>PersonalCharacteristic(p=0.15)->genitale</li>
@@ -584,14 +585,18 @@
     <li>AdjectiveColorBadass_Sgl->AdjectiveColorBadass_MscSgl</li>
     <li>AdjectiveColorBadass_Plu->AdjectiveColorBadass_MscPlu</li>
     <!-- END OF Nouns -->
-    <!-- START OF Nouns; if gender is not specified, use any -->
+    <!-- START OF rulesStrings.Nouns -->
     <li>AnimalGroup_SglNom->[AnimalGroup_FemSglNom]</li>
     <li>AnimalGroup_SglArt->[AnimalGroup_FemSglArt]</li>
     <li>AnimalGroup_SglDat->[AnimalGroup_FemSglDat]</li>
     <li>AnimalGroup_SglVoc->[AnimalGroup_FemSglVoc]</li>
+    <li>AnimalGroup_PluNom->[AnimalGroup_MscPluNom]</li>
     <li>AnimalGroup_PluNom->[AnimalGroup_FemPluNom]</li>
+    <li>AnimalGroup_PluArt->[AnimalGroup_MscPluArt]</li>
     <li>AnimalGroup_PluArt->[AnimalGroup_FemPluArt]</li>
+    <li>AnimalGroup_PluDat->[AnimalGroup_MscPluDat]</li>
     <li>AnimalGroup_PluDat->[AnimalGroup_FemPluDat]</li>
+    <li>AnimalGroup_PluVoc->[AnimalGroup_MscPluVoc]</li>
     <li>AnimalGroup_PluVoc->[AnimalGroup_FemPluVoc]</li>
     <li>Animal_SglNom->[Animal_MscSglNom]</li>
     <li>Animal_SglNom->[Animal_FemSglNom]</li>
@@ -637,12 +642,22 @@
     <li>Apparel_PluDat->[Apparel_MscPluDat]</li>
     <li>Apparel_PluDat->[Apparel_FemPluDat]</li>
     <li>Apparel_PluVoc->[Apparel_MscPluVoc]</li>
+    <li>Artwork_SglNom->[Artwork_MscSglNom]</li>
     <li>Artwork_SglNom->[Artwork_FemSglNom]</li>
+    <li>Artwork_SglArt->[Artwork_MscSglArt]</li>
     <li>Artwork_SglArt->[Artwork_FemSglArt]</li>
+    <li>Artwork_SglDat->[Artwork_MscSglDat]</li>
     <li>Artwork_SglDat->[Artwork_FemSglDat]</li>
+    <li>Artwork_SglVoc->[Artwork_MscSglVoc]</li>
+    <li>Artwork_SglVoc->[Artwork_FemSglVoc]</li>
+    <li>Artwork_PluNom->[Artwork_MscPluNom]</li>
     <li>Artwork_PluNom->[Artwork_FemPluNom]</li>
+    <li>Artwork_PluArt->[Artwork_MscPluArt]</li>
     <li>Artwork_PluArt->[Artwork_FemPluArt]</li>
+    <li>Artwork_PluDat->[Artwork_MscPluDat]</li>
     <li>Artwork_PluDat->[Artwork_FemPluDat]</li>
+    <li>Artwork_PluVoc->[Artwork_MscPluVoc]</li>
+    <li>Artwork_PluVoc->[Artwork_FemPluVoc]</li>
     <li>BodyPart_SglNom->[BodyPart_MscSglNom]</li>
     <li>BodyPart_SglNom->[BodyPart_FemSglNom]</li>
     <li>BodyPart_SglArt->[BodyPart_MscSglArt]</li>
@@ -657,14 +672,10 @@
     <li>BodyPart_PluDat->[BodyPart_MscPluDat]</li>
     <li>BodyPart_PluDat->[BodyPart_FemPluDat]</li>
     <li>BodyPart_PluVoc->[BodyPart_MscPluVoc]</li>
-    <li>businesstype_SglNom->[businesstype_FemSglNom]</li>
+    <li>businesstype_SglArt->[businesstype_MscSglArt]</li>
     <li>businesstype_SglArt->[businesstype_FemSglArt]</li>
-    <li>businesstype_SglDat->[businesstype_FemSglDat]</li>
-    <li>businesstype_SglVoc->[businesstype_FemSglVoc]</li>
-    <li>businesstype_PluNom->[businesstype_FemPluNom]</li>
+    <li>businesstype_PluArt->[businesstype_MscPluArt]</li>
     <li>businesstype_PluArt->[businesstype_FemPluArt]</li>
-    <li>businesstype_PluDat->[businesstype_FemPluDat]</li>
-    <li>businesstype_PluVoc->[businesstype_FemPluVoc]</li>
     <li>Color_SglNom->[Color_MscSglNom]</li>
     <li>Color_SglNom->[Color_FemSglNom]</li>
     <li>Color_SglArt->[Color_MscSglArt]</li>
@@ -674,27 +685,26 @@
     <li>Color_SglVoc->[Color_MscSglVoc]</li>
     <li>Color_SglVoc->[Color_FemSglVoc]</li>
     <li>Color_PluNom->[Color_MscPluNom]</li>
-    <li>Color_PluNom->[Color_FemPluNom]</li>
     <li>Color_PluArt->[Color_MscPluArt]</li>
-    <li>Color_PluArt->[Color_FemPluArt]</li>
     <li>Color_PluDat->[Color_MscPluDat]</li>
-    <li>Color_PluDat->[Color_FemPluDat]</li>
     <li>Color_PluVoc->[Color_MscPluVoc]</li>
-    <li>Color_PluVoc->[Color_FemPluVoc]</li>
     <li>ColorBadass_SglNom->[ColorBadass_FemSglNom]</li>
     <li>ColorBadass_SglArt->[ColorBadass_FemSglArt]</li>
     <li>ColorBadass_SglDat->[ColorBadass_FemSglDat]</li>
     <li>ColorBadass_SglVoc->[ColorBadass_FemSglVoc]</li>
-    <li>ColorBadass_PluNom->[ColorBadass_FemPluNom]</li>
-    <li>ColorBadass_PluArt->[ColorBadass_FemPluArt]</li>
-    <li>ColorBadass_PluDat->[ColorBadass_FemPluDat]</li>
-    <li>ColorBadass_PluVoc->[ColorBadass_FemPluVoc]</li>
+    <li>ColorBadass_PluNom->[ColorBadass_MscPluNom]</li>
+    <li>ColorBadass_PluArt->[ColorBadass_MscPluArt]</li>
+    <li>ColorBadass_PluDat->[ColorBadass_MscPluDat]</li>
+    <li>ColorBadass_PluVoc->[ColorBadass_MscPluVoc]</li>
     <li>Community_SglNom->[Community_FemSglNom]</li>
     <li>Community_SglArt->[Community_FemSglArt]</li>
     <li>Community_SglDat->[Community_FemSglDat]</li>
     <li>Community_SglVoc->[Community_FemSglVoc]</li>
+    <li>Community_PluNom->[Community_MscPluNom]</li>
     <li>Community_PluNom->[Community_FemPluNom]</li>
+    <li>Community_PluArt->[Community_MscPluArt]</li>
     <li>Community_PluArt->[Community_FemPluArt]</li>
+    <li>Community_PluDat->[Community_MscPluDat]</li>
     <li>Community_PluDat->[Community_FemPluDat]</li>
     <li>Community_PluVoc->[Community_FemPluVoc]</li>
     <li>ConceptAngsty_SglNom->[ConceptAngsty_MscSglNom]</li>
@@ -751,10 +761,10 @@
     <li>Gore_SglArt->[Gore_FemSglArt]</li>
     <li>Gore_SglDat->[Gore_FemSglDat]</li>
     <li>Gore_SglVoc->[Gore_FemSglVoc]</li>
-    <li>Gore_PluNom->[Gore_FemPluNom]</li>
-    <li>Gore_PluArt->[Gore_FemPluArt]</li>
-    <li>Gore_PluDat->[Gore_FemPluDat]</li>
-    <li>Gore_PluVoc->[Gore_FemPluVoc]</li>
+    <li>Gore_PluNom->[Gore_MscPluNom]</li>
+    <li>Gore_PluArt->[Gore_MscPluArt]</li>
+    <li>Gore_PluDat->[Gore_MscPluDat]</li>
+    <li>Gore_PluVoc->[Gore_MscPluVoc]</li>
     <li>groupname_SglNom->[groupname_FemSglNom]</li>
     <li>groupname_SglArt->[groupname_FemSglArt]</li>
     <li>groupname_SglDat->[groupname_FemSglDat]</li>
@@ -835,9 +845,13 @@
     <li>political_union_outlander_SglArt->[political_union_outlander_FemSglArt]</li>
     <li>political_union_outlander_SglDat->[political_union_outlander_FemSglDat]</li>
     <li>political_union_outlander_SglVoc->[political_union_outlander_FemSglVoc]</li>
+    <li>political_union_outlander_PluNom->[political_union_outlander_MscPluNom]</li>
     <li>political_union_outlander_PluNom->[political_union_outlander_FemPluNom]</li>
+    <li>political_union_outlander_PluArt->[political_union_outlander_MscPluArt]</li>
     <li>political_union_outlander_PluArt->[political_union_outlander_FemPluArt]</li>
+    <li>political_union_outlander_PluDat->[political_union_outlander_MscPluDat]</li>
     <li>political_union_outlander_PluDat->[political_union_outlander_FemPluDat]</li>
+    <li>political_union_outlander_PluVoc->[political_union_outlander_MscPluVoc]</li>
     <li>political_union_outlander_PluVoc->[political_union_outlander_FemPluVoc]</li>
     <li>political_union_tribal_SglNom->[political_union_tribal_FemSglNom]</li>
     <li>political_union_tribal_SglArt->[political_union_tribal_FemSglArt]</li>
@@ -863,20 +877,8 @@
     <li>story_PluArt->[story_FemPluArt]</li>
     <li>story_PluDat->[story_FemPluDat]</li>
     <li>story_PluVoc->[story_FemPluVoc]</li>
-    <li>talktopicheavyfile_SglNom->[talktopicheavyfile_FemSglNom]</li>
-    <li>talktopicheavyfile_SglArt->[talktopicheavyfile_FemSglArt]</li>
-    <li>talktopicheavyfile_SglDat->[talktopicheavyfile_FemSglDat]</li>
-    <li>talktopicheavyfile_PluNom->[talktopicheavyfile_FemPluNom]</li>
-    <li>talktopicheavyfile_PluArt->[talktopicheavyfile_FemPluArt]</li>
-    <li>talktopicheavyfile_PluDat->[talktopicheavyfile_FemPluDat]</li>
-    <li>talktopiclightfile_SglNom->[talktopiclightfile_FemSglNom]</li>
-    <li>talktopiclightfile_SglArt->[talktopiclightfile_FemSglArt]</li>
-    <li>talktopiclightfile_SglDat->[talktopiclightfile_FemSglDat]</li>
-    <li>talktopiclightfile_SglVoc->[talktopiclightfile_FemSglVoc]</li>
-    <li>talktopiclightfile_PluNom->[talktopiclightfile_FemPluNom]</li>
-    <li>talktopiclightfile_PluArt->[talktopiclightfile_FemPluArt]</li>
-    <li>talktopiclightfile_PluDat->[talktopiclightfile_FemPluDat]</li>
-    <li>talktopiclightfile_PluVoc->[talktopiclightfile_FemPluVoc]</li>
+    <li>talktopicheavyfile_SglNom->[talktopicheavyfile_MscSglNom]</li>
+    <li>talktopiclightfile_SglNom->[talktopiclightfile_MscSglNom]</li>
     <li>TerrainFeature_SglNom->[TerrainFeature_FemSglNom]</li>
     <li>TerrainFeature_SglArt->[TerrainFeature_FemSglArt]</li>
     <li>TerrainFeature_SglDat->[TerrainFeature_FemSglDat]</li>
@@ -896,16 +898,16 @@
     <li>Vegetable_SglNom->[Vegetable_FemSglNom]</li>
     <li>Vegetable_SglArt->[Vegetable_FemSglArt]</li>
     <li>Vegetable_SglDat->[Vegetable_FemSglDat]</li>
-    <li>Vegetable_PluNom->[Vegetable_FemPluNom]</li>
-    <li>Vegetable_PluArt->[Vegetable_FemPluArt]</li>
-    <li>Vegetable_PluDat->[Vegetable_FemPluDat]</li>
+    <li>Vegetable_PluNom->[Vegetable_MscPluNom]</li>
+    <li>Vegetable_PluArt->[Vegetable_MscPluArt]</li>
+    <li>Vegetable_PluDat->[Vegetable_MscPluDat]</li>
     <li>Weapon_SglNom->[Weapon_FemSglNom]</li>
     <li>Weapon_SglArt->[Weapon_FemSglArt]</li>
     <li>Weapon_SglDat->[Weapon_FemSglDat]</li>
-    <li>Weapon_PluNom->[Weapon_FemPluNom]</li>
-    <li>Weapon_PluArt->[Weapon_FemPluArt]</li>
-    <li>Weapon_PluDat->[Weapon_FemPluDat]</li>
-    <!-- END OF Nouns -->
+    <li>Weapon_PluNom->[Weapon_MscPluNom]</li>
+    <li>Weapon_PluArt->[Weapon_MscPluArt]</li>
+    <li>Weapon_PluDat->[Weapon_MscPluDat]</li>
+    <!-- END OF rulesStrings.Nouns -->
   </GlobalUtility.rulePack.rulesStrings>
   
   <!-- EN:

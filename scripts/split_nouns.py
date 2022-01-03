@@ -4,10 +4,12 @@ from collections import defaultdict
 from enum import Enum
 import argparse
 import csv
+import re
 
 PATH=Path("Core/Strings/Words/Nouns.csv")
-COLS=["Filename","original","gender","SglNom","SglArt","SglDat","SglVoc","PluNom","PluArt","PluDat","PluVoc"]
-ECOLS=COLS[3:]
+RPACK_PATH=Path("Core/DefInjected/RulePackDef/RulePacks_Global.xml")
+COLS=["Filename", "Rulename", "original","gender","SglNom","SglArt","SglDat","SglVoc","PluNom","PluArt","PluDat","PluVoc"]
+ECOLS=COLS[4:]
 
 # Mapping from filename to include-rule-name, as it's not consistent... Some rules are even implicit
 MAPPINGS={
@@ -62,7 +64,7 @@ class Gender(Enum):
             "n" : Gender.Neuter
         }[s.lower()[0]]
 
-def collapse_gender(gender: Gender, plural: str) -> Gender:
+def collapse_gender(gender: Gender, plural: bool) -> Gender:
     """
         Romanian has three genders: Masculine, Feminine and Neuter. If we regard only the singular or plural form,
         then there are only two, since Neuter is a combination of Masculine and Feminine.
@@ -72,7 +74,7 @@ def collapse_gender(gender: Gender, plural: str) -> Gender:
     if type(gender) == str:
         gender = Gender.parse(gender)
     assert type(gender) == Gender
-    if gender is Gender.Male or (gender is Gender.Neuter and plural == "Sgl"):
+    if gender is Gender.Male or (gender is Gender.Neuter and plural):
         return Gender.Male
     else:
         return Gender.Female
@@ -128,12 +130,16 @@ if __name__ == "__main__":
                     f.write(f"// NOTE: This file was auto-generated with data from {PATH}\n")
                     f.write("\n".join(items))
 
-    print("for <GlobalUtility.rulePack.rulesFiles>:\n")
-    print("    <!-- START OF Nouns -->")
-    print("\n".join(map(lambda x: " "*4 + x, incRules)))
-    print("    <!-- END OF Nouns -->\n")
+    rulesFiles = "\n".join(map(lambda x: " "*4 + x, incRules))
+    with open(RPACK_PATH, "r", encoding="utf-8") as f:
+        txt = f.read()
+        txt = re.sub(r'(?<=<!-- START OF rulesFiles.Nouns -->\n)(.|\n)*(?=\n *<!-- END OF rulesFiles.Nouns -->)', rulesFiles, txt)
+    with open(RPACK_PATH, "w", encoding="utf-8") as f:
+        f.write(txt)
 
-    print("for <GlobalUtility.rulePack.rulesStrings>\n")
-    print("    <!-- START OF Nouns; if gender is not specified, use any -->")
-    print("\n".join(map(lambda x: " "*4 + x, anyGenderRules)))
-    print("    <!-- END OF Nouns -->\n")
+    rulesStrings = "\n".join(map(lambda x: " "*4 + x, anyGenderRules))
+    with open(RPACK_PATH, "r", encoding="utf-8") as f:
+        txt = f.read()
+        txt = re.sub(r'(?<=<!-- START OF rulesStrings.Nouns -->\n)(.|\n)*(?=\n *<!-- END OF rulesStrings.Nouns -->)', rulesStrings, txt)
+    with open(RPACK_PATH, "w", encoding="utf-8") as f:
+        f.write(txt)
