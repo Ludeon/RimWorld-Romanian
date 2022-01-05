@@ -4,6 +4,9 @@
   <!-- EN:
     <li>defaultQuestName->[adjectiveCurious] [quest]</li>
   -->
-  <NamerQuestDefault.rulePack.rulesStrings>TODO</NamerQuestDefault.rulePack.rulesStrings>
+  <NamerQuestDefault.rulePack.rulesStrings>
+    <li>defaultQuestName->[quest_MscSglArt] [adjectiveCurious_MscSgl]</li>
+    <li>defaultQuestName->[quest_FemSglArt] [adjectiveCurious_FemSgl]</li>
+  </NamerQuestDefault.rulePack.rulesStrings>
   
 </LanguageData>
