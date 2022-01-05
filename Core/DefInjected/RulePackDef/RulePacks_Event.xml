@@ -4,12 +4,16 @@
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] used [ABILITY_label] on [SUBJECT_definite].</li>
   -->
-  <Event_AbilityUsed.rulePack.rulesStrings>TODO</Event_AbilityUsed.rulePack.rulesStrings>
+  <Event_AbilityUsed.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] a folosit [ABILITY_label] pe [SUBJECT_definite].</li>
+  </Event_AbilityUsed.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] used [ITEM_indefinite] on [SUBJECT_definite].</li>
   -->
-  <Event_ItemUsed.rulePack.rulesStrings>TODO</Event_ItemUsed.rulePack.rulesStrings>
+  <Event_ItemUsed.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] a folosit [ITEM_indefinite] pe [SUBJECT_definite].</li>
+  </Event_ItemUsed.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[SUBJECT_definite] was [stunned] by the attack.</li>
@@ -32,6 +36,24 @@
     <li>stumbled->wobbled</li>
     <li>stumbled->staggered</li>
   -->
-  <Event_Stun.rulePack.rulesStrings>TODO</Event_Stun.rulePack.rulesStrings>
+  <Event_Stun.rulePack.rulesStrings>
+    <li>r_logentry->[SUBJECT_definite] a fost [stunned] de la atac.</li>
+    <li>r_logentry->[SUBJECT_definite] a fost [stunned] de la atacul lui [INITIATOR_definite].</li>
+    <li>stunned(p=3)->stupefiat</li>
+    <li>stunned->șocat</li>
+    <li>stunned->amețit</li>
+    <li>stunned->dezorientat</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered].</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] de la atac.</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] de la atacul lui [INITIATOR_definite].</li>
+    <li>staggered(p=3)->a ezitat</li>
+    <li>staggered->s-a clătinat</li>
+    <li>staggered->a șovăit</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] prin jur alandala.</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] prin jur în confuzie.</li>
+    <li>stumbled(p=3)->s-a împiedicat</li>
+    <li>stumbled->a șovăit</li>
+    <li>stumbled->s-a clătinat</li>
+  </Event_Stun.rulePack.rulesStrings>
   
 </LanguageData>

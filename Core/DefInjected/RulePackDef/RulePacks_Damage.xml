@@ -14,7 +14,18 @@
     <li>destroyed_past->annihilated</li>
     <li>destroyed_past->detonated</li>
   -->
-  <Damage_Bomb.rulePack.rulesStrings>TODO</Damage_Bomb.rulePack.rulesStrings>
+  <Damage_Bomb.rulePack.rulesStrings>
+    <li>damaged_past(p=2)->spulberat</li>
+    <li>damaged_past(p=2)->explodat</li>
+    <li>damaged_past->lezat</li>
+    <li>damaged_past->rănit</li>
+    <li>damaged_past->vătămat</li>
+    <li>destroyed_past->spulberat</li>
+    <li>destroyed_past->zdrobit</li>
+    <li>destroyed_past->obliterat</li>
+    <li>destroyed_past->anihilat</li>
+    <li>destroyed_past->detonat</li>
+  </Damage_Bomb.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->electrified</li>
@@ -22,7 +33,12 @@
     <li>damaged_past->zapped</li>
     <li>destroyed_past->damaged_past</li>
   -->
-  <Damage_EMP.rulePack.rulesStrings>TODO</Damage_EMP.rulePack.rulesStrings>
+  <Damage_EMP.rulePack.rulesStrings>
+    <li>damaged_past->electrifiat</li>
+    <li>damaged_past->șocat</li>
+    <li>damaged_past->curentat</li>
+    <li>destroyed_past->damaged_past</li>
+  </Damage_EMP.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->extinguished</li>
@@ -31,7 +47,13 @@
     <li>damaged_past->quenched</li>
     <li>destroyed_past->damaged_past</li>
   -->
-  <Damage_Extinguish.rulePack.rulesStrings>TODO</Damage_Extinguish.rulePack.rulesStrings>
+  <Damage_Extinguish.rulePack.rulesStrings>
+    <li>damaged_past->stins</li>
+    <li>damaged_past->inundat</li>
+    <li>damaged_past->spumegat</li>
+    <li>damaged_past->înăbușit</li>
+    <li>destroyed_past->damaged_past</li>
+  </Damage_Extinguish.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past(p=2)->blasted</li>
@@ -67,7 +89,38 @@
     <li>destroyed_present->annihilating</li>
     <li>destroyed_present->detonating</li>
   -->
-  <Damage_Flame.rulePack.rulesStrings>TODO</Damage_Flame.rulePack.rulesStrings>
+  <Damage_Flame.rulePack.rulesStrings>
+    <li>damaged_past(p=2)->spulberat</li>
+    <li>damaged_past(p=2)->pârjolit</li>
+    <li>damaged_past(p=2)->ars</li>
+    <li>damaged_past(p=2)->bășicat</li>
+    <li>damaged_past(p=2)->aprins</li>
+    <li>damaged_past(p=2)->prăjit</li>
+    <li>damaged_past->lezat</li>
+    <li>damaged_past->rănit</li>
+    <li>damaged_past->vătămat</li>
+    <li>damaged_present(p=2)->spulberând</li>
+    <li>damaged_present(p=2)->pârjolind</li>
+    <li>damaged_present(p=2)->arzând</li>
+    <li>damaged_present(p=2)->bășicând</li>
+    <li>damaged_present(p=2)->aprinzând</li>
+    <li>damaged_present(p=2)->prăjind</li>
+    <li>damaged_present->lezând</li>
+    <li>damaged_present->rănind</li>
+    <li>damaged_present->vătămând</li>
+    <li>destroyed_past->cremat</li>
+    <li>destroyed_past->incinerat</li>
+    <li>destroyed_past->carbonizat</li>
+    <li>destroyed_past->obliterat</li>
+    <li>destroyed_past->anihilat</li>
+    <li>destroyed_past->detonat</li>
+    <li>destroyed_present->cremând</li>
+    <li>destroyed_present->incinerând</li>
+    <li>destroyed_present->carbonizând</li>
+    <li>destroyed_present->obliterând</li>
+    <li>destroyed_present->anihilând</li>
+    <li>destroyed_present->detonând</li>
+  </Damage_Flame.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->smoked</li>
@@ -75,7 +128,12 @@
     <li>damaged_past->clouded</li>
     <li>destroyed_past->damaged_past</li>
   -->
-  <Damage_Smoke.rulePack.rulesStrings>TODO</Damage_Smoke.rulePack.rulesStrings>
+  <Damage_Smoke.rulePack.rulesStrings>
+    <li>damaged_past->fumegat</li>
+    <li>damaged_past->încețoșit</li>
+    <li>damaged_past->înnorat</li>
+    <li>destroyed_past->damaged_past</li>
+  </Damage_Smoke.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->stunned</li>
@@ -84,6 +142,12 @@
     <li>damaged_past->dizzied</li>
     <li>destroyed_past->damaged_past</li>
   -->
-  <Damage_Stun.rulePack.rulesStrings>TODO</Damage_Stun.rulePack.rulesStrings>
+  <Damage_Stun.rulePack.rulesStrings>
+    <li>damaged_past->stupefiat</li>
+    <li>damaged_past->confuzat</li>
+    <li>damaged_past->oprit</li>
+    <li>damaged_past->amețit</li>
+    <li>destroyed_past->damaged_past</li>
+  </Damage_Stun.rulePack.rulesStrings>
   
 </LanguageData>

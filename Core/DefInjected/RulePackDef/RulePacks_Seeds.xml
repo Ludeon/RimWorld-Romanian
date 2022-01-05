@@ -35,8 +35,8 @@
     <li>r_seed->[Game_SglNom]</li>
     <li>r_seed->[businessname]</li>
     <li>r_seed->[businesstype_Any]</li>
-      <li>businesstype_Any->[businesstype_SglArt]</li>
-      <li>businesstype_Any->[businesstype_PluArt]</li>
+    <li>businesstype_Any->[businesstype_SglArt]</li>
+    <li>businesstype_Any->[businesstype_PluArt]</li>
     <li>r_seed->[Community_SglNom]</li>
   </SeedGenerator.rulePack.rulesStrings>
   

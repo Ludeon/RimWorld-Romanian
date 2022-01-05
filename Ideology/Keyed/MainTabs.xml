@@ -51,7 +51,7 @@
   <!-- EN: Randomize precepts -->
   <RandomizePrecepts>Randomizează preceptele</RandomizePrecepts>
   <!-- EN: Add precept -->
-  <AddPrecept>Adaugă percept</AddPrecept>
+  <AddPrecept>adaugă {0}</AddPrecept>
   <!-- EN: Randomize deities -->
   <RandomizeDeities>Randomizează zeii</RandomizeDeities>
   <!-- EN: Add deity -->

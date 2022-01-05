@@ -33,24 +33,69 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess</li>
   -->
-  <Maneuver_Bite.rulePack.rulesStrings>TODO</Maneuver_Bite.rulePack.rulesStrings>
+  <Maneuver_Bite.rulePack.rulesStrings>
+    <li>damaged_inf->mușca</li>
+    <li>damaged_inf->mușca</li>
+    <li>damaged_inf(p=0.5)->ciupi</li>
+    <li>damaged_subst->mușcătura</li>
+    <li>damaged_subst->mușcătura</li>
+    <li>damaged_subst(p=0.5)->ciupitura</li>
+    <li>damaged_conj->muște</li>
+    <li>damaged_conj->muște</li>
+    <li>damaged_conj(p=0.5)->ciupească</li>
+    <li>damaged_past->mușcat</li>
+    <li>damaged_past->mușcat</li>
+    <li>damaged_past->ciupit</li>
+    <li>damaged_past->ronțăit</li>
+    <li>damaged_past(deflected!=True)->sfârtecat</li>
+    <li>damaged_present->mușcând</li>
+    <li>damaged_present->mușcând</li>
+    <li>damaged_present->ciupind</li>
+    <li>damaged_present->ronțăind</li>
+    <li>damaged_present(deflected!=True)->sfârtecând</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->expunând carnea de dedesubt</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->expunând mașinăria de dedesubt</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->lăsând lacrimi macabre în piele</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->lăsând lacrimi macabre în metal</li>
+    <li>destroyed_past->smuls</li>
+    <li>destroyed_past->jumulit</li>
+    <li>destroyed_past->ciopârțit</li>
+    <li>destroyed_present->smulgând</li>
+    <li>destroyed_present->jumulind</li>
+    <li>destroyed_present->ciopârțind</li>
+    <li>destroyed_suffix->[to] bucăți</li>
+    <li>destroyed_suffix->[to] bucăți</li>
+    <li>destroyed_suffix->[to] bucățele</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] cioburi</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] fâșii</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] fâșii alandala</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] fier vechi de nerecunoscut</li>
+  </Maneuver_Bite.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] dodged out of the way.</li>
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it.</li>
   -->
-  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] a încercat să șuteze [TOOL_label] în ochii lui [RECIPIENT_definite], dar [RECIPIENT_definite] s-a ferit.</li>
+    <li>r_logentry->[INITIATOR_definit] a încercat să șuteze [TOOL_label] în ochii lui [RECIPIENT_definite], dar [RECIPIENT_definite] a blocat-o.</li>
+  </Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] kicked [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
     <li>r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
   -->
-  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+    <li>[INITIATOR_definite] a șutat [TOOL_label] în ochii lui [RECIPIENT_definite].</li>
+    <li>[INITIATOR_definite] a șutat un șprei de [TOOL_label] în ochii lui [RECIPIENT_definite].</li>
+  </Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but missed.</li>
   -->
-  <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+  <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+    <li>r_logentry->[INITIATOR_definite] a încercat să șuteze [TOOL_label] în ochii lui [RECIPIENT_definite], dar a ratat.</li>
+  </Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=2)->poke</li>
@@ -87,7 +132,41 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</li>
     <li>destroyed_suffix->[to] fragments</li>
   -->
-  <Maneuver_Poke.rulePack.rulesStrings>TODO</Maneuver_Poke.rulePack.rulesStrings>
+  <Maneuver_Poke.rulePack.rulesStrings>
+    <li>damaged_inf(p=2)->înțepa</li>
+    <li>damaged_inf(p=2)->înjunghia</li>
+    <li>damaged_inf->împinge</li>
+    <li>damaged_subst(p=2)->înțepătura</li>
+    <li>damaged_subst(p=2)->înjunghierea</li>
+    <li>damaged_subst->împingerea</li>
+    <li>damaged_conj(p=2)->înțepe</li>
+    <li>damaged_conj(p=2)->înjunghe</li>
+    <li>damaged_conj->împingă</li>
+    <li>damaged_past(p=2)->înțepat</li>
+    <li>damaged_past(p=2)->înjunghiat</li>
+    <li>damaged_past->împins</li>
+    <li>damaged_present(p=2)->înțepând</li>
+    <li>damaged_present(p=2)->înjunghiând</li>
+    <li>damaged_present->împingând</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->lăsând o vânătaie enormă</li>
+    <li>flavortext_consequence->lăsând zona vizibil deformată</li>
+    <li>flavortext_consequence->dezechilibrând [RECIPIENT_objective].</li>
+    <li>flavortext_consequence->lovind [RECIPIENT_objective] în lateral</li>
+    <li>destroyed_past->spulberat</li>
+    <li>destroyed_past->zdrobit</li>
+    <li>destroyed_past->obliterat</li>
+    <li>destroyed_past->anihilat</li>
+    <li>destroyed_past->rupt</li>
+    <li>destroyed_present->spulberând</li>
+    <li>destroyed_present->zdrobind</li>
+    <li>destroyed_present->obliterând</li>
+    <li>destroyed_present->anihilând</li>
+    <li>destroyed_present->spărgând</li>
+    <li>destroyed_suffix->[to] bucăți</li>
+    <li>destroyed_suffix->[to] bucățele</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] o pulpă fină</li>
+    <li>destroyed_suffix->[to] fragmente</li>
+  </Maneuver_Poke.rulePack.rulesStrings>
   
   <!-- EN:
     <li>woundname->wound</li>
@@ -102,7 +181,19 @@
     <li>destroyed_suffix->[to] fragments</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</li>
   -->
-  <Maneuver_Scratch.rulePack.rulesStrings>TODO</Maneuver_Scratch.rulePack.rulesStrings>
+  <Maneuver_Scratch.rulePack.rulesStrings>
+    <li>woundname->rană</li>
+    <li>woundname(p=0.3)->gaură</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->și expunând carnea de dedesubt</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->și expunând mașinăria de dedesubt</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->și lăsând o [woundname] sângeroasă</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] fâșii alandala</li>
+    <li>destroyed_suffix->[to] fâșii</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] bucăți alandala</li>
+    <li>destroyed_suffix->[to] bucăți</li>
+    <li>destroyed_suffix->[to] fragmente</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] o movilă de carne</li>
+  </Maneuver_Scratch.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=4)->scratch</li>
@@ -128,7 +219,38 @@
     <li>destroyed_present->shredding</li>
     <li>destroyed_present->ripping</li>
   -->
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings>TODO</Maneuver_Scratch_Damage.rulePack.rulesStrings>
+  <Maneuver_Scratch_Damage.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)->zgâria</li>
+    <li>damaged_inf(deflected!=True)->lacera</li>
+    <li>damaged_inf(deflected!=True)->rupe</li>
+    <li>damaged_inf->tăia</li>
+    <li>damaged_subst(p=4)->zgârietura</li>
+    <li>damaged_subst(deflected!=True)->lacerarea</li>
+    <li>damaged_subst(deflected!=True)->ruptura</li>
+    <li>damaged_subst->tăietura</li>
+    <li>damaged_conj(p=4)->zgârie</li>
+    <li>damaged_conj(deflected!=True)->lacereze</li>
+    <li>damaged_conj(deflected!=True)->rupă</li>
+    <li>damaged_conj->taie</li>
+    <li>damaged_past(p=4)->zgâriat</li>
+    <li>damaged_past(deflected!=True)->lacerat</li>
+    <li>damaged_past(deflected!=True)->rupt</li>
+    <li>damaged_past->tăiat</li>
+    <li>damaged_present->zgâriind</li>
+    <li>damaged_present(deflected!=True)->lacerând</li>
+    <li>damaged_present(deflected!=True)->rupând</li>
+    <li>damaged_present->tăiând</li>
+    <li>destroyed_past->mutilat</li>
+    <li>destroyed_past->lacerat</li>
+    <li>destroyed_past->smuls</li>
+    <li>destroyed_past->sfâșiat</li>
+    <li>destroyed_past->rupt</li>
+    <li>destroyed_present->mutilând</li>
+    <li>destroyed_present->lacerând</li>
+    <li>destroyed_present->smlugând</li>
+    <li>destroyed_present->sfâșiind</li>
+    <li>destroyed_present->rupând</li>
+  </Maneuver_Scratch_Damage.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=4)->slash</li>
@@ -169,7 +291,49 @@
     <li>destroyed_suffix(target_part_destroyed_count==1)->exposing its inner workings</li>
     <li>destroyed_suffix(target_part_destroyed_count==1)->slicing it in twain</li>
   -->
-  <Maneuver_Slash.rulePack.rulesStrings>TODO</Maneuver_Slash.rulePack.rulesStrings>
+  <Maneuver_Slash.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)->tăia</li>
+    <li>damaged_inf->reteza</li>
+    <li>damaged_inf->despica</li>
+    <li>damaged_inf(deflected!=True)->incizând</li>
+    <li>damaged_subst(p=4)->tăietura</li>
+    <li>damaged_subst->retezătura</li>
+    <li>damaged_subst->despicătura</li>
+    <li>damaged_subst(deflected!=True)->incizia</li>
+    <li>damaged_conj(p=4)->taie</li>
+    <li>damaged_conj->reteze</li>
+    <li>damaged_conj->despice</li>
+    <li>damaged_conj(deflected!=True)->incizeze</li>
+    <li>damaged_past(p=4)->tăiat</li>
+    <li>damaged_past->retezat</li>
+    <li>damaged_past->despicat</li>
+    <li>damaged_past(deflected!=True)->incizat</li>
+    <li>damaged_present->tăiând</li>
+    <li>damaged_present->retezând</li>
+    <li>damaged_present->despicând</li>
+    <li>damaged_present(deflected!=True)->incizând</li>
+    <li>damaged_present(deflected!=True)->rupând</li>
+    <li>damaged_present(deflected!=True)->lacerând</li>
+    <li>woundname->rană</li>
+    <li>woundname(p=0.3)->gaură</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->expunând carnea de dedesubt</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->expunerea mașinilor de dedesubt</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->lăsând o [woundname] sângeroasă</li>
+    <li>destroyed_past->bisectat</li>
+    <li>destroyed_past->divizat</li>
+    <li>destroyed_past->înjumătățit</li>
+    <li>destroyed_past->separat</li>
+    <li>destroyed_past->despicat</li>
+    <li>destroyed_present->bisectând</li>
+    <li>destroyed_present->divizând</li>
+    <li>destroyed_present->înjumătățind</li>
+    <li>destroyed_present->separând</li>
+    <li>destroyed_present->despicând</li>
+    <li>destroyed_suffix->în bucăți egale</li>
+    <li>destroyed_suffix->într-o manieră curată</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->expunând mecanismele sale interne</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->tăind-o în două</li>
+  </Maneuver_Slash.rulePack.rulesStrings>
   
   <!-- EN:
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</li>
@@ -181,7 +345,16 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</li>
     <li>destroyed_suffix->[to] fragments</li>
   -->
-  <Maneuver_Smash.rulePack.rulesStrings>TODO</Maneuver_Smash.rulePack.rulesStrings>
+  <Maneuver_Smash.rulePack.rulesStrings>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->lăsând o vânătaie enormă</li>
+    <li>flavortext_consequence->lăsând zona vizibil deformată</li>
+    <li>flavortext_consequence->dezechilibrându-l pe [RECIPIENT_objective].</li>
+    <li>flavortext_consequence->lovind-o [RECIPIENT_objective] în lateral</li>
+    <li>destroyed_suffix->[to] bucăți</li>
+    <li>destroyed_suffix->[to] bucățele</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] o pulpă fină</li>
+    <li>destroyed_suffix->[to] fragmente</li>
+  </Maneuver_Smash.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf->hit</li>
@@ -206,7 +379,33 @@
     <li>destroyed_present->crushing</li>
     <li>destroyed_present->breaking</li>
   -->
-  <Maneuver_Smash_Damage.rulePack.rulesStrings>TODO</Maneuver_Smash_Damage.rulePack.rulesStrings>
+  <Maneuver_Smash_Damage.rulePack.rulesStrings>
+    <li>damaged_inf->lovi</li>
+    <li>damaged_inf->izbi</li>
+    <li>damaged_inf->trânti</li>
+    <li>damaged_inf->bate</li>
+    <li>damaged_subst->lovitura</li>
+    <li>damaged_subst->izbitura</li>
+    <li>damaged_subst->trântitura</li>
+    <li>damaged_subst->bătaia</li>
+    <li>damaged_conj->lovească</li>
+    <li>damaged_conj->izbească</li>
+    <li>damaged_conj->trântească</li>
+    <li>damaged_conj->bată</li>
+    <li>damaged_past->lovit</li>
+    <li>damaged_past->izbit</li>
+    <li>damaged_past->trântit</li>
+    <li>damaged_past->bătut</li>
+    <li>damaged_present->izbind</li>
+    <li>damaged_present->trântind</li>
+    <li>damaged_present(deflected!=True)->învinețind</li>
+    <li>destroyed_past->fracturat</li>
+    <li>destroyed_past->izbit</li>
+    <li>destroyed_past->spart</li>
+    <li>destroyed_present->fracturând</li>
+    <li>destroyed_present->zdrobind</li>
+    <li>destroyed_present->spărgând</li>
+  </Maneuver_Smash_Damage.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=4)->stab</li>
@@ -240,6 +439,35 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->leaving it leaking gory fluids</li>
     <li>destroyed_suffix(target_part_destroyed_count==1)->leaving it leaking unrecognizable fluids</li>
   -->
-  <Maneuver_Stab.rulePack.rulesStrings>TODO</Maneuver_Stab.rulePack.rulesStrings>
+  <Maneuver_Stab.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)->înjunghia</li>
+    <li>damaged_inf->înțepat</li>
+    <li>damaged_inf(deflected!=True)->perforat</li>
+    <li>damaged_subst(p=4)->înjunghierea</li>
+    <li>damaged_subst->înțepătura</li>
+    <li>damaged_subst(deflected!=True)->perforatura</li>
+    <li>damaged_conj(p=4)->înjunghieze</li>
+    <li>damaged_conj->înțepe</li>
+    <li>damaged_conj(deflected!=True)->perforeze</li>
+    <li>damaged_past(p=4)->înjunghiat</li>
+    <li>damaged_past->înțepat</li>
+    <li>damaged_past(deflected!=True)->perforat</li>
+    <li>damaged_present(deflected!=True)->perforând</li>
+    <li>damaged_present(deflected!=True)->penetrând</li>
+    <li>woundname->gaură</li>
+    <li>woundname->rană</li>
+    <li>woundname->fisură</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->lăsând o [woundname] sângeroasă</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->lăsând o [woundname] sfâșiată</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->lăsând o [woundname] sângerândă</li>
+    <li>destroyed_past->înțepat</li>
+    <li>destroyed_past->perforat</li>
+    <li>destroyed_present->înțepând</li>
+    <li>destroyed_present->perforând</li>
+    <li>destroyed_suffix->direct prin</li>
+    <li>destroyed_suffix->lăsând o gaură clară.</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->lăsând să curgă fluide însângerate</li>
+    <li>destroyed_suffix(target_part_destroyed_count==1)->lăsând să curgă fluide de nerecunoscut</li>
+  </Maneuver_Stab.rulePack.rulesStrings>
   
 </LanguageData>

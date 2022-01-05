@@ -166,7 +166,7 @@
     <li>collapsedmeta->[collapsed]</li>
     <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
   </Transition_Downed.rulePack.rulesStrings>
-
+  
   <!-- EN:
     <li>duetoa->due to</li>
     <li>duetoa(p=0.5)->because of</li>
@@ -176,6 +176,6 @@
     <li>duetoa->datorită</li>
     <li>duetoa(p=0.5)->din cauza</li>
     <li>duetoa(p=0.5)->mulțumită</li>
-    </Transition_Include.rulePack.rulesStrings>
+  </Transition_Include.rulePack.rulesStrings>
   
 </LanguageData>
