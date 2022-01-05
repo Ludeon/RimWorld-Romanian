@@ -21,21 +21,23 @@
   -->
   <SeedGenerator.rulePack.rulesStrings>
     <li>r_seed(p=3)->[NamePerson]</li>
-    <li>r_seed->[Animal]</li>
-    <li>r_seed->[TerrainFeature]</li>
-    <li>r_seed->[PersonJob]</li>
-    <li>r_seed->[Enemy]</li>
-    <li>r_seed->[Gore]</li>
-    <li>r_seed->[Apparel]</li>
+    <li>r_seed->[Animal_SglNom]</li>
+    <li>r_seed->[TerrainFeature_SglNom]</li>
+    <li>r_seed->[PersonJob_SglNom]</li>
+    <li>r_seed->[Enemy_SglNom]</li>
+    <li>r_seed->[Gore_SglNom]</li>
+    <li>r_seed->[Apparel_SglNom]</li>
     <li>r_seed->[AdjectiveAny]</li>
     <li>r_seed->[ConceptAny]</li>
-    <li>r_seed->[Weapon]</li>
-    <li>r_seed->[Color]</li>
-    <li>r_seed->[Vegetable]</li>
-    <li>r_seed->[Game]</li>
+    <li>r_seed->[Weapon_SglNom]</li>
+    <li>r_seed->[Color_SglNom]</li>
+    <li>r_seed->[Vegetable_SglNom]</li>
+    <li>r_seed->[Game_SglNom]</li>
     <li>r_seed->[businessname]</li>
-    <li>r_seed->[businesstype]</li>
-    <li>r_seed->[Community]</li>
+    <li>r_seed->[businesstype_Any]</li>
+      <li>businesstype_Any->[businesstype_SglArt]</li>
+      <li>businesstype_Any->[businesstype_PluArt]</li>
+    <li>r_seed->[Community_SglNom]</li>
   </SeedGenerator.rulePack.rulesStrings>
   
 </LanguageData>

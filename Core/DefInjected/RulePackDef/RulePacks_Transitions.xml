@@ -15,7 +15,20 @@
     <li>died(SUBJECT_flesh==Mechanoid)->stopped functioning</li>
     <li>died(SUBJECT_flesh==Mechanoid)->lost power</li>
   -->
-  <Transition_Died.rulePack.rulesStrings>TODO</Transition_Died.rulePack.rulesStrings>
+  <Transition_Died.rulePack.rulesStrings>
+    <li>die(SUBJECT_flesh!=Mechanoid,p=2)->moară</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->piară</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->expire</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->se stingă</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->se oprească din funcțiune</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->piardă alimentarea</li>
+    <li>died(SUBJECT_flesh!=Mechanoid,p=2)->a murit</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->a pierit</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->a expirat</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->s-a stins</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->s-a oprit din funcțiune</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->s-a deconectat</li>
+  </Transition_Died.rulePack.rulesStrings>
   
   <!-- EN:
     <li>die(p=3)->explode [flavor]</li>
@@ -46,7 +59,35 @@
     <li>everywhere->everywhere</li>
     <li>everywhere->far and wide</li>
   -->
-  <Transition_DiedExplosive.rulePack.rulesStrings>TODO</Transition_DiedExplosive.rulePack.rulesStrings>
+  <Transition_DiedExplosive.rulePack.rulesStrings>
+    <li>die(p=3)->explodeze [flavor]</li>
+    <li>die(p=3)->explodeze [flavorsuffix]</li>
+    <li>die->detoneze [flavor]</li>
+    <li>die->detoneze [flavorsuffix]</li>
+    <li>die->izbucni [flavor]</li>
+    <li>die->izbucni [flavorsuffix]</li>
+    <li>died(p=3)->a explodat [flavor]</li>
+    <li>died->s-a detonat [flavor]</li>
+    <li>died->a izbucnit [flavor]</li>
+    <li>flavor(p=0.2)->într-o [fireball] chimică</li>
+    <li>flavor->într-o [fireball] [AdjectiveColor_Sgl]</li>
+    <li>flavor->într-o [fireball] [AdjectiveLarge_Sgl]</li>
+    <li>flavor(p=4)->într-o [fireball]</li>
+    <li>flavor(p=4)-></li>
+    <li>flavorsuffix->, împrăștiind [pieces] [everywhere]</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid,p=2)->, împrăștiind [Gore_PluNom] [everywhere]</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid)->, lăsând în urmă o mică movilă de [Gore_PluNom]</li>
+    <li>flavorsuffix->, lăsând în urmă un mic crater</li>
+    <li>flavorsuffix(p=4)-></li>
+    <li>fireball(p=3)->glob de foc</li>
+    <li>fireball->minge de foc</li>
+    <li>fireball->undă de șoc</li>
+    <li>fireball->conflagrație</li>
+    <li>pieces->bucăți</li>
+    <li>pieces->fragmente</li>
+    <li>everywhere->peste tot</li>
+    <li>everywhere->în lung și-n lat</li>
+  </Transition_DiedExplosive.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [die].</li>
@@ -56,7 +97,14 @@
     <li>r_logentry->[SUBJECT_definite] [died].</li>
     <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
   -->
-  <Transition_DiedInclude.rulePack.rulesStrings>TODO</Transition_DiedInclude.rulePack.rulesStrings>
+  <Transition_DiedInclude.rulePack.rulesStrings>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] a cauzat [SUBJECT_definite] să [die].</li>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] a cauzat [SUBJECT_definite] să [die].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] lui [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] lui [CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite] [died].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
+  </Transition_DiedInclude.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [collapsemeta].</li>
@@ -88,13 +136,46 @@
     <li>collapsedmeta->[collapsed]</li>
     <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
   -->
-  <Transition_Downed.rulePack.rulesStrings>TODO</Transition_Downed.rulePack.rulesStrings>
-  
+  <Transition_Downed.rulePack.rulesStrings>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] a cauzat [SUBJECT_definite] să [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] a cauzat [SUBJECT_definite] să [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] a făcut ca [SUBJECT_definite] să [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] a făcut ca [SUBJECT_definite] să [collapsemeta].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] lui [CULPRITHEDIFF_labelNoun].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] lui [CULPRITHEDIFF_labelNounPretty].</li>
+    <li>r_logentry(p=0.1)->[SUBJECT_definite] [collapsedmeta].</li>
+    <li>collapse->se colapseze</li>
+    <li>collapse->cadă</li>
+    <li>collapse(SUBJECT_flesh!=Mechanoid)->se încremeneze</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->se prăbușească</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->se blocheze</li>
+    <li>collapse(SUBJECT_flesh==Mechanoid)->piardă alimentarea</li>
+    <li>collapsed->s-a colapsat</li>
+    <li>collapsed->a căzut</li>
+    <li>collapsed(SUBJECT_flesh!=Mechanoid)->s-a încremenit</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->s-a prăbușit</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->s-a blocat</li>
+    <li>collapsed(SUBJECT_flesh==Mechanoid)->a pierdut alimentarea</li>
+    <li>helplessly->neajutorat</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->inconștient</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->slăbuț</li>
+    <li>helplessly(SUBJECT_flesh!=Mechanoid)->firav</li>
+    <li>helplessly(SUBJECT_flesh==Mechanoid)->incontrolabil</li>
+    <li>collapsemeta->[collapse]</li>
+    <li>collapsemeta(p=0.5)->[collapse] [helplessly]</li>
+    <li>collapsedmeta->[collapsed]</li>
+    <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
+  </Transition_Downed.rulePack.rulesStrings>
+
   <!-- EN:
     <li>duetoa->due to</li>
     <li>duetoa(p=0.5)->because of</li>
     <li>duetoa(p=0.5)->thanks to</li>
   -->
-  <Transition_Include.rulePack.rulesStrings>TODO</Transition_Include.rulePack.rulesStrings>
+  <Transition_Include.rulePack.rulesStrings>
+    <li>duetoa->datorită</li>
+    <li>duetoa(p=0.5)->din cauza</li>
+    <li>duetoa(p=0.5)->mulțumită</li>
+    </Transition_Include.rulePack.rulesStrings>
   
 </LanguageData>
