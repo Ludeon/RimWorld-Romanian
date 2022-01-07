@@ -1,2 +1,11 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 uniunile
+națiunile
+confreriile
+confederațiile
+alianțele
+coalițiile
+federațiile
+ligile
+amalgamările
+unificările

@@ -1,2 +1,9 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 fermierii
+sătenii
+morarii
+fierarii
+berarii
+țesătorii
+bucătarii
+cerșetori

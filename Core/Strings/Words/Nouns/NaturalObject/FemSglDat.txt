@@ -1,2 +1,24 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 stâncii
+pietrei
+tufișului
+iazului
+piscinei
+lacului
+dealului
+peșterii
+buturugii
+cochiliei
+penei
+seminței
+trunchiului
+fructului
+acului
+copitei
+ghearei
+cozii
+pielii
+pielii
+cornului
+aripii
+lemnului

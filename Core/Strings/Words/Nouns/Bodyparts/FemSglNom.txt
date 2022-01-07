@@ -1,2 +1,22 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+cap
+nas
 gură
+bărbie
+buză
+ureche
+gât
+piept
+braț
+cot
+mână
+palmă
+deget
+gheară
+aripă
+șold
+picior
+gleznă
+picior
+călcâi
+labă

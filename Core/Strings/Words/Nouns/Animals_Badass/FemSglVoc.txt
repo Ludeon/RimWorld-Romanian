@@ -1,2 +1,19 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 maimuțo
+cămilă
+cobră
+cioară
+libelulo
+vulpe
+broasco
+gorilă
+hienă
+cârtiță
+maimuță
+bufniță
+panteră
+salamandro
+broasco
+vipero
+nevăstuică
+balenă

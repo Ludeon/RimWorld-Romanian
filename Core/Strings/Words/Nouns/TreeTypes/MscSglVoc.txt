@@ -1,2 +1,18 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 stejarule
+plopule
+pinule
+palmierule
+bambusule
+frasinule
+plopule
+fagule
+mesteacănule
+castanule
+ulmule
+bradule
+carpenule
+arțarule
+cedrule
+molidule
+nucule

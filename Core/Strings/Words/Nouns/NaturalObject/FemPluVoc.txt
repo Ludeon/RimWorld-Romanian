@@ -1,0 +1,11 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+pietrelor
+piscinelor
+buturugilor
+cochiliilor
+penelor
+semințelor
+copitelor
+ghearelor
+cozilor
+aripilor

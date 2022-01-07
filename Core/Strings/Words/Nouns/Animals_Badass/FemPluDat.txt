@@ -1,2 +1,23 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 maimuțelor
+cămilelor
+cobrelor
+ciorilor
+libelulelor
+vulpilor
+broaștelor
+gorilelor
+lăcustelor
+viespilor
+hienelor
+lăcustelor
+cârtițelor
+maimuțelor
+bufnițelor
+panterelor
+salamandrelor
+broaștelor
+viperelor
+viespilor
+nevăstuicilor
+balenelor

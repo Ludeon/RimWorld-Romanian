@@ -1,2 +1,11 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 prieten
+susținător
+partener
+prieten
+companion
+tovarăș
+ajutor
+apărător
+asistent
+discipol

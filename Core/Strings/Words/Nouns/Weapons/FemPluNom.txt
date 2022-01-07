@@ -1,0 +1,21 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+lame
+coase
+seceri
+săbii
+săbii
+săbii
+suliți
+lănci
+lănci
+baionete
+suliți
+bâte
+mănuși
+săgeți
+săgeți
+puști
+carabine
+bombe
+grenade
+rachete

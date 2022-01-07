@@ -1,0 +1,12 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+bricegelor
+tomahawkurilor
+toporașelor
+bicelor
+ferăstraielor
+ciocanelor
+baroaselor
+buzduganelor
+revolverelor
+tunurilor
+obuzierelor

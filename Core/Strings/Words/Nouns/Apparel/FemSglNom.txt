@@ -1,2 +1,11 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 cămașă
+jachetă
+papion
+cravată
+centură
+pălărie
+șapcă
+joben
+cizmă
+sandală

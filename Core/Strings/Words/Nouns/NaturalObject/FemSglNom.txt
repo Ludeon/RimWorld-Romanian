@@ -1,2 +1,24 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 stâncă
+piatră
+tufiș
+iaz
+piscină
+lac
+deal
+peșteră
+buturugă
+cochilie
+pană
+sămânță
+trunchi
+fruct
+ac
+copită
+gheară
+coadă
+piele
+piele
+corn
+aripă
+lemn

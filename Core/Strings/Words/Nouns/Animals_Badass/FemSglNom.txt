@@ -1,2 +1,23 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 maimuță
+cămilă
+cobră
+cioară
+libelulă
+vulpe
+broască
+gorilă
+lăcustă
+viespe
+hienă
+lăcustă
+cârtiță
+maimuță
+bufniță
+panteră
+salamandră
+broască
+viperă
+viespe
+nevăstuică
+balenă

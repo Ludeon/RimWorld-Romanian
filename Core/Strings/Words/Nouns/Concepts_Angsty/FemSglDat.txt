@@ -1,2 +1,17 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 tristeții
+pierderii
+goliciunii
+singurătății
+distanței
+contemplației
+singurătății
+izolării
+tăcerii
+izolării
+detașării
+singurătății
+liniștii
+decăderii
+pustietății
+distrugerii

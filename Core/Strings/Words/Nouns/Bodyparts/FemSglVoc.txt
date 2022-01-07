@@ -1,0 +1,14 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+capule
+pieptule
+cotule
+palmă
+degetule
+gheară
+aripo
+șoldule
+piciorule
+gleznă
+piciorule
+călcâiule
+labă

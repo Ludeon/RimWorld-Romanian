@@ -1,3 +1,12 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 speranțe
 dragoste
+puteri
+lupte
+familii
+loialități
+distracții
+fericiri
+abundențe
+creșteri
+fericiri

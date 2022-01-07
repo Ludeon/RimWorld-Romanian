@@ -1,2 +1,22 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+capului
+nasului
 gurii
+bărbiei
+buzei
+urechii
+gâtului
+pieptului
+brațului
+cotului
+mâinii
+palmei
+degetului
+ghearei
+aripii
+șoldului
+piciorului
+gleznei
+piciorului
+călcâiului
+labei

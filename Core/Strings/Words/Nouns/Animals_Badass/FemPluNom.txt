@@ -1,2 +1,23 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 maimuțe
+cămile
+cobre
+ciori
+libelule
+vulpi
+broaște
+gorile
+lăcuste
+viespi
+hiene
+lăcuste
+cârtițe
+maimuțe
+bufnițe
+pantere
+salamandre
+broaște
+vipere
+viespi
+nevăstuici
+balene

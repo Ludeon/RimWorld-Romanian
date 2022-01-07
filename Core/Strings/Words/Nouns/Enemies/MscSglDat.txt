@@ -1,3 +1,22 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+banditului
+criminalului
+jefuitorului
 piratului
 tâlharului
+banditului
+escrocului
+pungașului
+hoțului
+tâlharului
+teroristului
+barbarului
+canibalului
+diavolului
+demonului
+monstrului
+vampirului
+demonului
+spiridușului
+drăcușorului
+dragonului

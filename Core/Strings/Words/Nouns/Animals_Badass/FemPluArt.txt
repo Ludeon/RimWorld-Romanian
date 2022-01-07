@@ -1,2 +1,23 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 maimuțele
+cămilele
+cobrele
+ciorile
+libelulele
+vulpile
+broaștele
+gorilele
+lăcustele
+viespile
+hienele
+lăcustele
+cârtițele
+maimuțele
+bufnițele
+panterele
+salamandrele
+broaștele
+viperele
+viespile
+nevăstuicile
+balenele

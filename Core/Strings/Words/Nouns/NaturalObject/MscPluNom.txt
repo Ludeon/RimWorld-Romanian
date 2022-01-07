@@ -1,0 +1,16 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+bolovani
+copaci
+arbuști
+tufișuri
+iazuri
+lacuri
+dealuri
+trunchiuri
+fructe
+ace
+gândaci
+gândaci
+coarne
+dinți
+lemne

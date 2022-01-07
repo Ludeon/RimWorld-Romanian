@@ -1,2 +1,15 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 stâncile
+pietrele
+piscinele
+peșterile
+buturugile
+cochiliile
+penele
+semințele
+copitele
+ghearele
+cozile
+pieile
+pieile
+aripile

@@ -1,0 +1,21 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+lamele
+coasele
+secerile
+săbiile
+săbiile
+săbiile
+sulițile
+lăncile
+lăncile
+baionetele
+sulițile
+bâtele
+mănușile
+săgețile
+săgețile
+puștile
+carabinele
+bombele
+grenadele
+rachetele

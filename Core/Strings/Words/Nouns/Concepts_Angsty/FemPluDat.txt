@@ -1,2 +1,16 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 tristeților
+pierderilor
+goliciunilor
+singurătăților
+distanțelor
+contemplațiilor
+singurătăților
+izolărilor
+tăcerilor
+izolărilor
+detașărilor
+singurătăților
+decăderilor
+pustietăților
+distrugerilor

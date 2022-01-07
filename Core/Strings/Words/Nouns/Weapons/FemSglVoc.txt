@@ -1,0 +1,26 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+lamă
+briceagule
+coasă
+suliță
+lance
+lance
+baionetă
+suliță
+tomahawkule
+toporașule
+biciule
+ferăstrăule
+bâto
+ciocanule
+barosule
+buzduganule
+mănușă
+săgeată
+săgeată
+revolverule
+tunule
+obuzierule
+bombă
+grenadă
+rachetă

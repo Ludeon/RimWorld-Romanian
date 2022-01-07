@@ -1,2 +1,18 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 poveste
+poveste
+fir
+călătorie
+versiune
+abordare
+aventură
+anecdotă
+articol
+autobiografie
+biografie
+carte
+comedie
+descriere
+dramă
+fabulă
+fantezie

@@ -1,3 +1,6 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 obiectele
+contururile
+portreturile
+poemele
 cuboizii

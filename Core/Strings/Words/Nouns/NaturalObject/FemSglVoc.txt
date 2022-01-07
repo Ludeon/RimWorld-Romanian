@@ -1,0 +1,17 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+piatră
+tufișule
+...
+piscină
+dealule
+buturugă
+cochilie
+pană
+sămânță
+acule
+copito
+gheară
+coadă
+cornul
+aripo
+lemnule

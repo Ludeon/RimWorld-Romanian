@@ -1,3 +1,22 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+bandit
+criminal
+jefuitor
 pirat
 tâlhar
+bandit
+escroc
+pungaș
+hoț
+tâlhar
+terorist
+barbar
+canibal
+diavol
+demon
+monstru
+vampir
+demon
+spiriduș
+drăcușor
+dragon

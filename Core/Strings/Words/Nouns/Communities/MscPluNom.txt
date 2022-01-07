@@ -1,2 +1,10 @@
 // NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 sate
+sate
+orășele
+orășele
+municipii
+cătunuri
+districte
+orașe
+campinguri
