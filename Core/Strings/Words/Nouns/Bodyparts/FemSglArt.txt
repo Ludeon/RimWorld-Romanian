@@ -1,0 +1,22 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+capul
+nasul
+gura
+bărbia
+buza
+urechea
+gâtul
+pieptul
+brațul
+cotul
+mâna
+palma
+degetul
+gheara
+aripa
+șoldul
+piciorul
+glezna
+piciorul
+călcâiul
+laba

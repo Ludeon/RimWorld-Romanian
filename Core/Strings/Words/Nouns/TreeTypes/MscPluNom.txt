@@ -1,0 +1,19 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+stejari
+plopi
+pini
+palmieri
+bambuși
+frasini
+plopi
+fagi
+mesteceni
+cireși
+castani
+ulmi
+brazi
+carpeni
+arțari
+cedri
+molizi
+nuci

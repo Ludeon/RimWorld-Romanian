@@ -1,0 +1,22 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+artă
+lucrare
+obiect
+piesă
+operă
+expresie
+încercare
+contur
+formă
+imagine
+împușcătură
+pictură
+portret
+poem
+curbă
+oglindă
+zi
+vomă
+transpirație
+umbră
+libertate

@@ -1,0 +1,18 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+măreți
+naturali
+inactivi
+nesătuli
+intenși
+plini de viață
+cei mai mari
+simpli
+autentici
+puri
+entuziasmanți
+ciudați
+universali
+fără limite
+imenși
+lăudabili
+nesfârșiți

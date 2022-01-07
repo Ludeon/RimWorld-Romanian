@@ -1,17 +1,15 @@
-﻿
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
 scyther
 lancer
-centipedă
-
-mecanoid
+centipede
+mechanoid
 robot
 automaton
-dronă
-dronă de luptă
-robot de servire
-robot utilitar
+drone
+combat drone
+serving bot
+utility bot
 sexbot
-robot de pază
-
-mașină persona avatar
-proiecție arhotech
+guard bot
+machine persona avatar
+archotech projection

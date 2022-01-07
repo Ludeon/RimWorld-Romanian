@@ -1,0 +1,17 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+lucrare
+pieso
+operă
+expresie
+încercare
+conturule
+formă
+imagine
+împușcătură
+portretule
+poemule
+curbo
+zi
+vomă
+transpirație
+umbră

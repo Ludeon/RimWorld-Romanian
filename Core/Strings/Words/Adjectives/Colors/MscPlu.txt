@@ -1,0 +1,9 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+roși
+albaștrii
+verzi
+violeți
+negrii
+albi
+gri
+portocalii

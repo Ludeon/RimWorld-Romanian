@@ -1,0 +1,18 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+măreațe
+naturale
+inactive
+nesătule
+intense
+pline de viață
+cele mai mari
+simple
+autentice
+pure
+entuziasmante
+ciudate
+universale
+fără limite
+imense
+lăudabile
+nesfârșite

@@ -1,73 +1,68 @@
-vremea
-
-cereale pentru micul dejun
-micul dejun
-cină
-mâncare
-ora prânzului
-obiceiuri alimentare
-alimente sărate
-alimente dulci
-alimente sărate
-alimente amare
-
-tunsori preferate
-haine preferate
-coafuri
-modă
-machiaj
-bărbi
-părul facial
-
-locuri de muncă ciudate
-jocuri pentru copii
-divertisment
-jocuri
-zile de naștere
-baloane
-beție
-a se îmbăta
-petreceri
-vacanțe
-oameni frumoși
-oameni grași
-persoane înalte
-oameni scunzi
-plăceri vinovate
-vărsături
-mâncarea
-înot
-sport
-plaje
-
-animale
-animale drăguțe
-animale grase
-animale de companie
-
-animale de companie
-neplăcerile vieții
-spălătorie
-transpirație
-
-transportând
-curățenie
-mâncarea fără mese
-mobilier confortabil
-mese fine
-mese somptuoase
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+the weather
+breakfast cereal
+breakfast
+dinner
+food
+lunchtime
+eating habits
+salty foods
+sweet foods
+savory foods
+bitter foods
+favorite haircuts
+favorite clothes
+hairstyles
+fashion
+makeup
+beards
+facial hair
+odd jobs
+kids' games
+entertainment
+games
+birthdays
+balloons
+drunkenness
+getting drunk
+parties
+vacations
+beautiful people
+fat people
+tall people
+short people
+guilty pleasures
+vomiting
+eating
+swimming
+sports
+beaches
+animals
+cute animals
+fat animals
+pets
+pet peeves
+life's annoyances
+laundry
+sweating
+hauling
+cleaning
+eating without tables
+comfortable furniture
+fine meals
+lavish meals
 pemmican
-potcoave de cai
-recreere
-iubitori
-iubitori
+horseshoes
+recreation
+lovers
+lovin'
 healroot
-operații ratate
-vărsături
-jocuri de masă
-jocuri pe calculator
-televiziune
+botched surgeries
+vomiting
+board games
+computer games
+television
 poker
-biliard
-nave spațiale
-xeno-oameni
+billiards
+spaceships
+xenohumans

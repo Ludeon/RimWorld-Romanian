@@ -1,17 +1,18 @@
-﻿măreț
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+great
 natural
-inactiv
-nesătul
-intens
-plin de viață
-cel mai mare
-simplu
-autentic
-pur
-entuziasmant
-ciudat
+idle
+insatiable
+intense
+lively
+greatest
+simple
+genuine
+pure
+exciting
+strange
 universal
-fără limite
-imens
-lăudabil
-nesfârșit
+boundless
+immense
+laudable
+endless

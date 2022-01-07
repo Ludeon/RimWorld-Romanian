@@ -1,0 +1,16 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+bolovanii
+copacii
+arbuștii
+tufișurile
+iazurile
+lacurile
+dealurile
+trunchiurile
+fructele
+acele
+gândacii
+gândacii
+coarnele
+dinții
+lemnele

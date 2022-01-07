@@ -1,22 +1,20 @@
-// Things that natural objects could conceivably be (with some flex for poetry)
-// Animals, body parts
-
-mare
-dur
-aspru
-înalt
-ascuțit
-aspru
-liber
-principal
-mică
-vechi
-rotund
-ciudat
-înțelept
-înghețat
-rău
-bun
-depărtat
-mort
-tare
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+big
+rough
+harsh
+tall
+sharp
+craggy
+free
+prime
+small
+old
+round
+strange
+wise
+icy
+bad
+good
+far
+dead
+hardy

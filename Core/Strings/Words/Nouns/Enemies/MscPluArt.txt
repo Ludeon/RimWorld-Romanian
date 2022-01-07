@@ -1,0 +1,22 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+bandiții
+criminalii
+jefuitorii
+pirații
+tâlharii
+bandiții
+escrocii
+pungașii
+hoții
+tâlharii
+teroriștii
+barbarii
+canibalii
+diavolii
+demonii
+monștrii
+vampirii
+demonii
+spiridușii
+drăcușorii
+dragonii

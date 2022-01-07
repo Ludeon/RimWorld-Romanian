@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: assault rifle bullet -->
-  <Bullet_AssaultRifle.label>glonț pușcă de asalt</Bullet_AssaultRifle.label>
+  <Bullet_AssaultRifle.label>glonț de pușcă de asalt</Bullet_AssaultRifle.label>
   
   <!-- EN: autopistol bullet -->
-  <Bullet_Autopistol.label>glonț autopistol</Bullet_Autopistol.label>
+  <Bullet_Autopistol.label>glonț de autopistol</Bullet_Autopistol.label>
   
   <!-- EN: bolt-action rifle bullet -->
-  <Bullet_BoltActionRifle.label>glonț pentru pușcă cu bolt-action</Bullet_BoltActionRifle.label>
+  <Bullet_BoltActionRifle.label>glonț de pușcă cu bolt-action</Bullet_BoltActionRifle.label>
   
   <!-- EN: EMP launcher shell -->
-  <Bullet_EMPLauncher.label>cartuș EMP launcher</Bullet_EMPLauncher.label>
+  <Bullet_EMPLauncher.label>cartuș de lansator EMP</Bullet_EMPLauncher.label>
   
   <!-- EN: heavy SMG bullet -->
-  <Bullet_HeavySMG.label>glonț SMG greu</Bullet_HeavySMG.label>
+  <Bullet_HeavySMG.label>glonț de SMG greu</Bullet_HeavySMG.label>
   
   <!-- EN: incendiary bolt -->
   <Bullet_IncendiaryLauncher.label>bolț incendiar</Bullet_IncendiaryLauncher.label>
@@ -26,16 +26,16 @@
   <Bullet_MachinePistol.label>glonț de pistol mitralieră</Bullet_MachinePistol.label>
   
   <!-- EN: minigun bullet -->
-  <Bullet_Minigun.label>glonț minigun</Bullet_Minigun.label>
+  <Bullet_Minigun.label>glonț de minigun</Bullet_Minigun.label>
   
   <!-- EN: revolver bullet -->
-  <Bullet_Revolver.label>glonț revolver</Bullet_Revolver.label>
+  <Bullet_Revolver.label>glonț de revolver</Bullet_Revolver.label>
   
   <!-- EN: shotgun blast -->
   <Bullet_Shotgun.label>glonț de pușcă</Bullet_Shotgun.label>
   
   <!-- EN: smoke launcher shell -->
-  <Bullet_SmokeLauncher.label>cartuș lansator de fum</Bullet_SmokeLauncher.label>
+  <Bullet_SmokeLauncher.label>cartuș de lansator de fum</Bullet_SmokeLauncher.label>
   
   <!-- EN: sniper rifle bullet -->
   <Bullet_SniperRifle.label>glonț de pușcă cu lunetă</Bullet_SniperRifle.label>

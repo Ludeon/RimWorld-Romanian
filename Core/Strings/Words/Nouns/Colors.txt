@@ -1,12 +1,9 @@
-﻿
-//Simple colors only, no mauve and puce
-
-
-roșu
-albastru
-verde
-violet
-negru
-alb
-gri
-portocaliu
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+red
+blue
+green
+purple
+black
+white
+gray
+orange

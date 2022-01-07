@@ -1,0 +1,11 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+gurilor
+bărbiilor
+buzelor
+urechilor
+mâinilor
+palmelor
+ghearelor
+aripilor
+gleznelor
+labelor

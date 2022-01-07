@@ -1,0 +1,20 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+mare
+dură
+aspră
+înaltă
+ascuțită
+aspră
+liberă
+principală
+mică
+vechi
+rotundă
+ciudată
+înțeleptă
+înghețată
+rea
+bună
+depărtată
+moartă
+tare

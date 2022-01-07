@@ -1,0 +1,16 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+bolovanilor
+copacilor
+arbuștilor
+tufișurilor
+iazurilor
+lacurilor
+dealurilor
+trunchiurilor
+fructelor
+acelor
+gândacilor
+gândacilor
+coarnelor
+dinților
+lemnelor

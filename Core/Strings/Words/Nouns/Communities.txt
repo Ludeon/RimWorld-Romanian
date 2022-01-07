@@ -1,11 +1,12 @@
-﻿sat
-sat
-oraș
-oraș
-municipiu
-cătun
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+village
+village
+town
+town
+township
+hamlet
 district
-oraș
-așezare
-tabără
-camping
+city
+settlement
+encampment
+campsite

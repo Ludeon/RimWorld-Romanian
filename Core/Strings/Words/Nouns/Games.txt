@@ -1,8 +1,9 @@
-﻿poker
-șah
-cărți
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+poker
+chess
+cards
 backgammon
-zaruri
-zaruri
-ruleta
+dice
+craps
+roulette
 blackjack

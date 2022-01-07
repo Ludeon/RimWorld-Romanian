@@ -213,7 +213,7 @@
     <li>terrain_word->cliffs</li>
   -->
   <NamerMountainRange.rulePack.rulesStrings>
-    <li>r_name(p=0.2)->munții [narrative_name]</li>
+    <li>r_name(p=0.2)->muntele [narrative_name]</li>
     <li>terrain_word(p=5)->munții</li>
     <li>terrain_word(p=2)->lanțurile</li>
     <li>terrain_word->culmile</li>
@@ -447,22 +447,22 @@
     <li>r_name(p=0.05)->[terrain_word] [storyname]</li>
     <li>narrative_name(p=12)->[WordTribal]</li>
     <li>narrative_name(p=12)->[PlaceOutlander]</li>
-    <li>narrative_name->[NaturalObjectMasculine_Art] [ColorMasculine]</li>
-    <li>narrative_name->[NaturalObjectFeminine_Art] [ColorFeminine]</li>
-    <li>narrative_name->[BodyPartMasculine_Art] [AdjectiveNaturalMasculine]</li>
-    <li>narrative_name->[BodyPartFeminine_Art] [AdjectiveNaturalFeminine]</li>
-    <li>narrative_name->[Animal]</li>
-    <li>narrative_name->[Color]</li>
-    <li>narrative_name->[AnimalMasculine_Art] [ColorMasculine]</li>
-    <li>narrative_name->[AnimalFeminine_Art] [ColorFeminine]</li>
-    <li>narrative_name->[AnimalMasculine_Art] [AdjectiveNaturalMasculine]</li>
-    <li>narrative_name->[AnimalFeminine_Art] [AdjectiveNaturalFeminine]</li>
-    <li>narrative_name->[BodyPart]-[Animal]</li>
+    <li>narrative_name->[NaturalObject_MscSglArt] [AdjectiveColor_MscSgl]</li>
+    <li>narrative_name->[NaturalObject_FemSglArt] [AdjectiveColor_FemSgl]</li>
+    <li>narrative_name->[BodyPart_MscSglArt] [AdjectiveNatural_MscSgl]</li>
+    <li>narrative_name->[BodyPart_FemSglArt] [AdjectiveNatural_FemSgl]</li>
+    <li>narrative_name->[Animal_SglNom]</li>
+    <li>narrative_name->[Color_SglNom]</li>
+    <li>narrative_name->[Animal_MscSglArt] [AdjectiveColor_MscSgl]</li>
+    <li>narrative_name->[Animal_FemSglArt] [AdjectiveColor_FemSgl]</li>
+    <li>narrative_name->[Animal_MscSglArt] [AdjectiveNatural_MscSgl]</li>
+    <li>narrative_name->[Animal_FemSglArt] [AdjectiveNatural_FemSgl]</li>
+    <li>narrative_name->[BodyPart_SglNom]-[Animal_SglNom]</li>
     <li>storyname(p=50)->[story_result] [subject]</li>
-    <li>storyname(p=2)->[BodyPart_Art] [subject]</li>
-    <li>storyname->[Gore_Art] [subject]</li>
-    <li>subject(p=5)->[NamePerson_ArtDat]</li>
-    <li>subject->[Animal_ArtDat]</li>
+    <li>storyname(p=2)->[BodyPart_SglArt] [subject]</li>
+    <li>storyname->[Gore_SglArt] [subject]</li>
+    <li>subject(p=5)->[NamePerson]</li>
+    <li>subject->[Animal_SglDat]</li>
     <li>subject->[WordTribal]</li>
     <li>subject->din [PlaceOutlander]</li>
     <li>story_result->nebunia</li>

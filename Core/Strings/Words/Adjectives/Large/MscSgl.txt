@@ -1,0 +1,23 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+mare
+masiv
+colosal
+enorm
+extins
+gargantuan
+gigantic
+mare
+uriaș
+imens
+impunător
+mamut
+impresionant
+monumental
+substanțial
+impunător
+extraordinar
+vast
+uriaș
+măreț
+monstruos
+titanic

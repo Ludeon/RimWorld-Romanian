@@ -1,0 +1,12 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+speranță
+dragoste
+putere
+luptă
+familie
+loialitate
+distracție
+fericire
+abundență
+creștere
+fericire

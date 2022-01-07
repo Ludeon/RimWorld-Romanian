@@ -1,0 +1,20 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+mare
+dur
+aspru
+înalt
+ascuțit
+aspru
+liber
+principal
+mică
+vechi
+rotund
+ciudat
+înțelept
+înghețat
+rău
+bun
+depărtat
+mort
+tare

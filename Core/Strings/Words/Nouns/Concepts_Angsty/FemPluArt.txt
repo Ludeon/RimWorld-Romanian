@@ -1,0 +1,16 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+tristețile
+pierderile
+goliciunile
+singurătățile
+distanțele
+contemplațiile
+singurătățile
+izolările
+tăcerile
+izolările
+detașările
+singurătățile
+decăderile
+pustietățile
+distrugerile

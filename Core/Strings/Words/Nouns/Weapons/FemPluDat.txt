@@ -1,0 +1,21 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+lamelor
+coaselor
+secerilor
+săbiilor
+săbiilor
+săbiilor
+suliților
+lăncilor
+lăncilor
+baionetelor
+suliților
+bâtelor
+mănușilor
+săgeților
+săgeților
+puștilor
+carabinelor
+bombelor
+grenadelor
+rachetelor

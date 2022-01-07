@@ -1,26 +1,24 @@
-﻿cămașă
-cămașă cu nasturi
-cămașă formală
-jachetă
-haină de ploaie
-costum formal
-rochie de seară
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+shirt
+button-down shirt
+formal shirt
+jacket
+raincoat
+formal suit
+evening gown
 parka
 duster
-costum spațial
-costum armură de putere
-
-papion
-cravată
-centură
-curea de jock
-
-pălărie
-pălărie bowler
-șapcă de baseball
+space suit
+power armor suit
+bow tie
+necktie
+belt
+jock strap
+hat
+bowler hat
+baseball cap
 tuque
-pălărie de top
-
-pantof
-cizmă
-sandală
+top hat
+shoe
+boot
+sandal

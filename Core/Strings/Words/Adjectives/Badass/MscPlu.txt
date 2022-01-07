@@ -1,0 +1,38 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+notorii
+mortali
+adânci
+otrăvitori
+zimțati
+loiali
+de neoprit
+animali
+sângeroși
+cu fețele de piatră
+cu fațe de fantomă
+sinucigași
+maniacali
+nebuni
+sălbatici
+arzător
+criminal
+înfricoșător
+terifiant
+afumați
+aiuriți
+ucigași
+întunecați
+furioși
+furioși
+sălbatici
+goi
+fără emoții
+fără minte
+minunați
+epici
+criminali
+supremi
+extremi
+înfuriați
+ascuțiți
+spinoși

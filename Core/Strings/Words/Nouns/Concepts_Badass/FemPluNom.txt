@@ -1,0 +1,9 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+suferințe
+victorii
+crime
+morți
+împingeri
+puteri
+forțe
+evlavii

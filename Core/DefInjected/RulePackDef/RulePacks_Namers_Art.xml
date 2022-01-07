@@ -44,7 +44,65 @@
     <li>maybe_adjective->[AdjectiveBadass]</li>
     <li>maybe_adjective->[Color]</li>
   -->
-  <NamerArtCommon.rulePack.rulesStrings>TODO</NamerArtCommon.rulePack.rulesStrings>
+  <NamerArtCommon.rulePack.rulesStrings>
+    <li>r_art_name(p=4)->[Artwork_SglArt] [Trans] [ConceptAny]</li>
+    <li>r_art_name(p=4)->[maybe_aMasculine] [Artwork_MscSglNom] [maybe_adjectiveMasculine]</li>
+    <li>r_art_name(p=4)->[maybe_aFeminine] [Artwork_FemSglNom] [maybe_adjectiveFeminine]</li>
+    <li>r_art_name->[maybe_aMasculine] [ConceptAny_MscSglNom] [maybe_adjectiveMasculine]</li>
+    <li>r_art_name->[maybe_aFeminine] [ConceptAny_FemSglNom] [maybe_adjectiveFeminine]</li>
+    <li>r_art_name->[maybe_aMasculine] [TerrainFeature_MscSglNom] [maybe_adjectiveMasculine]</li>
+    <li>r_art_name->[maybe_aFeminine] [TerrainFeature_FemSglNom] [maybe_adjectiveFeminine]</li>
+    <li>r_art_name->[maybe_aMasculine] [Vegetable_MscSglNom] [maybe_adjectiveMasculine]</li>
+    <li>r_art_name->[maybe_aFeminine] [Vegetable_FemSglNom] [maybe_adjectiveFeminine]</li>
+    <li>r_art_name->[maybe_aMasculine] [Game_MscSglNom] [maybe_adjectiveMasculine]</li>
+    <li>r_art_name->[maybe_aFeminine] [Game_FemSglNom] [maybe_adjectiveFeminine]</li>
+    <li>r_art_name->[maybe_aMasculine] [Animal_MscSglNom] [maybe_adjectiveMasculine]</li>
+    <li>r_art_name->[maybe_aFeminine] [Animal_FemSglNom] [maybe_adjectiveFeminine]</li>
+    <li>r_art_name->[maybe_aMasculine] [Gore_MscSglNom] [maybe_adjectiveMasculine]</li>
+    <li>r_art_name->[maybe_aFeminine] [Gore_FemSglNom] [maybe_adjectiveFeminine]</li>
+    <li>r_art_name->[maybe_aMasculine] [NaturalObject_MscSglNom] [maybe_adjectiveMasculine]</li>
+    <li>r_art_name->[maybe_aFeminine] [NaturalObject_FemSglNom] [maybe_adjectiveFeminine]</li>
+    <li>r_art_name->[maybe_aMasculine] [PersonFamily_MscSglNom] [maybe_adjectiveMasculine]</li>
+    <li>r_art_name->[maybe_aFeminine] [PersonFamily_FemSglNom] [maybe_adjectiveFeminine]</li>
+    <li>r_art_name->[maybe_aMasculine] [Enemy_MscSglNom] [maybe_adjectiveMasculine]</li>
+    <li>r_art_name->[maybe_aFeminine] [Enemy_FemSglNom] [maybe_adjectiveFeminine]</li>
+    <li>r_art_name(p=2)->[Artwork_SglArt] Nr. [art_name_numeric]</li>
+    <li>r_art_name->Nr. [art_name_numeric]</li>
+    <li>r_art_name->[art_name_numeric]</li>
+    <li>r_art_name->[Artwork_SglArt] [art_name_numeric]</li>
+    <li>r_art_name->[ConceptAny_SglArt] Nr. [art_name_numeric]</li>
+    <li>r_art_name->[art_name_numeric] [Trans] [ANYPAWN_nameIndef]</li>
+    <li>r_art_name(p=6)->[Artwork_SglArt] lui [ANYPAWN_nameIndef]</li>
+    <li>r_art_name(p=3)->[maybe_aMasculine] [ANYPAWN_nameIndef] [Trans] [Color_SglNom]</li>
+    <li>r_art_name(p=6)->[PersonalCharacteristic_SglArt] lui [ANYPAWN_nameIndef]</li>
+    <li>r_art_name(p=3)->[ConceptAny_SglNom] [Trans] [ANYPAWN_nameIndef]</li>
+    <li>r_art_name(p=3)->[maybe_aMasculine] [Artwork_MscSglNom] [Trans] [ANYPAWN_nameIndef]</li>
+    <li>r_art_name(p=3)->[maybe_aFeminine] [Artwork_FemSglNom] [Trans] [ANYPAWN_nameIndef]</li>
+    <li>art_name_numeric->[maybe_letter][Digit][maybe_letter]</li>
+    <li>art_name_numeric->[maybe_letter][Digit][Digit][maybe_letter]</li>
+    <li>art_name_numeric->[maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+    <li>art_name_numeric->[maybe_letter][RomanNumeral][maybe_letter]</li>
+    <li>art_name_numeric->[maybe_letter][RomanNumeral][Digit][maybe_letter]</li>
+    <li>art_name_numeric->[maybe_letter][Digit][RomanNumeral][maybe_letter]</li>
+    <li>art_name_numeric->[maybe_letter][Digit][RomanNumeral][Digit][maybe_letter]</li>
+    <li>art_name_numeric->[maybe_letter][RomanNumeral][Digit][RomanNumeral][maybe_letter]</li>
+    <li>art_name_numeric->[maybe_letter][RomanNumeral][Digit][Digit][RomanNumeral][maybe_letter]</li>
+    <li>maybe_letter(p=8)-></li>
+    <li>maybe_letter->[Letter]</li>
+    <li>maybe_letter->[Letter][Letter]</li>
+    <li>maybe_aMasculine(p=3)-></li>
+    <li>maybe_aMasculine->un</li>
+    <li>maybe_aFeminine(p=3)-></li>
+    <li>maybe_aFeminine->o</li>
+    <li>maybe_adjectiveMasculine(p=5)-></li>
+    <li>maybe_adjectiveMasculine(p=2)->[AdjectiveAngsty_MscSgl]</li>
+    <li>maybe_adjectiveMasculine->[AdjectiveBadass_MscSgl]</li>
+    <li>maybe_adjectiveMasculine->[AdjectiveColor_MscSgl]</li>
+    <li>maybe_adjectiveFeminine(p=5)-></li>
+    <li>maybe_adjectiveFeminine(p=2)->[AdjectiveAngsty_FemSgl]</li>
+    <li>maybe_adjectiveFeminine->[AdjectiveBadass_FemSgl]</li>
+    <li>maybe_adjectiveFeminine->[AdjectiveColor_FemSgl]</li>
+  </NamerArtCommon.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_art_name->[ConceptBadass]</li>
@@ -60,6 +118,23 @@
     <li>r_art_name(p=3)->[ConceptBadass] of [ANYPAWN_nameIndef]</li>
     <li>r_art_name(p=3)->[ColorBadass] [ANYPAWN_nameIndef]</li>
   -->
-  <NamerArtWeapon.rulePack.rulesStrings>TODO</NamerArtWeapon.rulePack.rulesStrings>
+  <NamerArtWeapon.rulePack.rulesStrings>
+    <li>r_art_name->[ConceptBadass_SglNom]</li>
+    <li>r_art_name->[AnimalBadass_SglArt]</li>
+    <li>r_art_name->[AnimalBadass_MscSglArt] [AdjectiveBadass_MscSgl]</li>
+    <li>r_art_name->[AnimalBadass_FemSglArt] [AdjectiveBadass_FemSgl]</li>
+    <li>r_art_name->[AnimalBadass_MscSglArt] [AdjectiveColorBadass_MscSgl]</li>
+    <li>r_art_name->[AnimalBadass_FemSglArt] [AdjectiveColorBadass_FemSgl]</li>
+    <li>r_art_name->[ConceptBadass_MscSglArt] [AdjectiveColorBadass_MscSgl]</li>
+    <li>r_art_name->[ConceptBadass_FemSglArt] [AdjectiveColorBadass_FemSgl]</li>
+    <li>r_art_name(p=3)->[ConceptBadass] lui [ANYPAWN_nameIndef]</li>
+    <li>r_art_name(p=3)->[AnimalBadass] lui [ANYPAWN_nameIndef]</li>
+    <li>r_art_name(p=3)->[PersonBadass] lui [ANYPAWN_nameIndef]</li>
+    <li>r_art_name(p=3)->[PersonAlly] lui [ANYPAWN_nameIndef]</li>
+    <li>r_art_name(p=3)->[PersonFamily] lui [ANYPAWN_nameIndef]</li>
+    <li>r_art_name(p=3)->[ANYPAWN_nameIndef] [someadjective]</li>
+    <li>someadjective(ANYPAWN_gender==Female)->[AdjectiveColorBadass_FemSgl]</li>
+    <li>someadjective(ANYPAWN_gender!=Female)->[AdjectiveColorBadass_MscSgl]</li>
+  </NamerArtWeapon.rulePack.rulesStrings>
   
 </LanguageData>

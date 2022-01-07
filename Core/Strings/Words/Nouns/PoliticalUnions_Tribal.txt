@@ -1,16 +1,14 @@
-﻿//Common with outlanders
-uniunea
-națiunea
-confreria
-confederația
-alianța
-liga rudelor
-convenția
-tratatul
-pactul
-coaliția
-
-//Tribe specific
-rudenia
-oamenii
-tribul
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+union
+nation
+confederacy
+confederation
+alliance
+kin league
+covenant
+treaty
+pact
+coalition
+kinship
+people
+tribe

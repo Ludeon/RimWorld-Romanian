@@ -1,0 +1,8 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+roșie
+neagră
+gri
+cenușie
+întunecată
+umbroasă
+nocturnă

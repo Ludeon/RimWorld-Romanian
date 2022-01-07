@@ -1,0 +1,18 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+banditule
+criminalule
+jefuitorule
+piratule
+tâlharule
+banditule
+escrocule
+pungașule
+hoțule
+tâlharule
+teroristule
+barbarule
+canibalule
+monstrule
+vampirule
+drăcușorule
+dragonule

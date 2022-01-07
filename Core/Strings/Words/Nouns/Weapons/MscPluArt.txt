@@ -1,0 +1,18 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+cuțitele
+bricegele
+topoarele
+tomahawkurile
+toporașele
+bicele
+ferăstraiele
+ciocanele
+baroasele
+buzduganele
+arcele
+pistoalele
+revolverele
+tunurile
+mortierele
+obuzierele
+proiectilele

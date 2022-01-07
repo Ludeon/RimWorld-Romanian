@@ -1,20 +1,18 @@
-﻿//Common with tribals
-uniunea
-națiunea
-confreria
-confederația
-alianța
-liga rudelor
-pactul
-tratatul
-pactul
-coaliția
-
-//Outlander specific (different from empire)
-federația
-liga
-compactul
-acordul
-concordul
-amalgamarea
-unificarea
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+union
+nation
+confederacy
+confederation
+alliance
+kin league
+covenant
+treaty
+pact
+coalition
+federation
+league
+compact
+accord
+concord
+amalgamation
+unification

@@ -1,0 +1,1334 @@
+Filename,Rulename,original,gender,SglNom,SglArt,SglDat,SglVoc,PluNom,PluArt,PluDat,PluVoc
+AnimalGroups,AnimalGroup,pack,f,haită,haita,haitei,haită,haite,haitele,haitelor,haitelor
+AnimalGroups,AnimalGroup,pack,f,haită,haita,haitei,haită,haite,haitele,haitelor,haitelor
+AnimalGroups,AnimalGroup,pack,f,haită,haita,haitei,haită,haite,haitele,haitelor,haitelor
+AnimalGroups,AnimalGroup,group,n,grup,grupul,grupului,grupule,grupuri,grupurile,grupurilor,grupurilor
+AnimalGroups,AnimalGroup,group,n,grup,grupul,grupului,grupule,grupuri,grupurile,grupurilor,grupurilor
+AnimalGroups,AnimalGroup,group,n,grup,grupul,grupului,grupule,grupuri,grupurile,grupurilor,grupurilor
+AnimalGroups,AnimalGroup,horde,f,hoardă,hoarda,hoardei,hoardă,hoarde,hoardele,hoardelor,hoardelor
+AnimalGroups,AnimalGroup,gaggle,f,gașcă,gașca,găștii,gașcă,găști,găștile,găștilor,găștilor
+AnimalGroups,AnimalGroup,multitude,f,multitudine,multitudinea,multitudinii,-,multitudini,multitudinile,multitudinilor,-
+Animals,Animal,muffalo,,,,,,,,,
+Animals,Animal,boomrat,,,,,,,,,
+Animals,Animal,megascarab,,,,,,,,,
+Animals,Animal,cobra,f,cobră,cobra,cobrei,cobră,cobre,cobrele,cobrelor,cobrelor
+Animals,Animal,deer,m,cerb,cerbul,cerbului,-,cerbi,cerbii,cerbilor,-
+Animals,Animal,boar,m,porc mistreț,porcul mistreț,porcului mistreț,porcule mistreț,porci mistreți,porcii mistreți,porcilor mistreți,porcilor mistreți
+Animals,Animal,,f,scroafă mistreață,scroafa mistreață,scroafei mistreață,scroafă mistreață,scroafe mistrețe,scroafele mistrețe,scroafelor mistrețe,scroafelor mistrețe
+Animals,Animal,squirrel,f,veveriță,veverița,veveriței,veveriță,veverițe,veverițele,veverițelor,veverițelor
+Animals,Animal,iguana,f,iguană,iguana,iguanei,iguană,iguane,iguanele,iguanelor,iguanelor
+Animals,Animal,aardvark,,,,,,,,,
+Animals,Animal,alligator,m,aligator,aligatorul,aligatorului,-,aligatori,aligatorii,aligatorilor,-
+Animals,Animal,alpaca,f,alpaca,alpacaua,alpacalei,alpaca,alpacale,alpacalele,alpacalelor,alpacalelor
+Animals,Animal,ant,f,furnică,furnica,furnicei,furnico,furnici,furnicii,furnicilor,furnicilor
+Animals,Animal,anteater,m,furnicar,furnicarul,furnicarului,furnicarule,furnicari,furnicarii,furnicarilor,furnicarilor
+Animals,Animal,antelope,f,antilopă,antilopa,antilopei,antilopă,antilope,antilopele,antilopelor,antilopelor
+Animals,Animal,ape,,primată,,,,,,,
+Animals,Animal,armadillo,,armadillo,,,,,,,
+Animals,Animal,donkey,m,măgar,măgarul,măgarului,măgarule,măgari,măgarii,măgarilor,măgarilor
+Animals,Animal,baboon,m,babuin,babuinul,babuinului,-,babuini,babuinii,babuinilor,-
+Animals,Animal,badger,m,bursuc,bursucul,bursucului,-,bursuci,bursucii,bursucilor,-
+Animals,Animal,barracuda,,baracudă,,,,,,,
+Animals,Animal,bat,m,liliac,liliacul,liliacului,liliacule,lilieci,liliecii,liliecilor,liliecilor
+Animals,Animal,bear,m,urs,ursul,ursului,ursule,urși,urșii,urșilor,urșilor
+Animals,Animal,beaver,m,castor,castorul,castorului,-,castori,castorii,castorilor,-
+Animals,Animal,bee,f,albină,albina,albinei,albino,albine,albinele,albinelor,albinelor
+Animals,Animal,bison,m,bizon,bizonul,bizonului,-,bizoni,bizonii,bizonilor,-
+Animals,Animal,buffalo,m,bivol,bivolul,bivolului,-,bivoli,bivolii,bivolilor,-
+Animals,Animal,camel,f,cămilă,cămila,cămilei,cămilă,cămile,cămilele,cămilelor,cămilelor
+Animals,Animal,caribou,,,,,,,,,
+Animals,Animal,cat,f,pisică,pisica,pisicii,pisică,pisici,pisicile,pisicilor,pisicilor
+Animals,Animal,caterpillar,f,omidă,omida,omizii,omido,omizi,omizile,omizilor,omizilor
+Animals,Animal,cheetah,m,ghepard,ghepardul,ghepardului,-,gheparzi,gheparzii,gheparzilor,-
+Animals,Animal,chicken,m,pui,puiul,puiului,puiule,pui,puii,puilor,puilor
+Animals,Animal,chimpanzee,m,cimpanzeu,cimpanzeul,cimpanzeului,cimpanzeule,cimpanzei,cimpanzeii,cimpanzeilor,cimpanzeilor
+Animals,Animal,chinchilla,,chinchilla,,,,,,,
+Animals,Animal,clam,f,scoică,scoica,scoicii,scoică,scoici,scoicile,scoicilor,scoicilor
+Animals,Animal,cockroach,m,gândac,gândacul,gândacului,-,gândaci,gândacii,gândacilor,-
+Animals,Animal,cod,n,cod,codul,codului,codule,coduri,codurile,codurilor,codurilor
+Animals,Animal,condor,m,condor,condorul,condorului,condorule,condori,condorii,condorilor,condorilor
+Animals,Animal,coyote,m,coiot,coiotul,coiotului,coiotule,coioți,coioții,coioților,coioților
+Animals,Animal,crab,m,crab,crabul,crabului,crabule,crabi,crabii,crabilor,crabilor
+Animals,Animal,crane,,cocorul,,,,,,,
+Animals,Animal,crocodile,m,crocodil,crocodilul,crocodilului,crocodilule,crocodili,crocodilii,crocodililor,crocodililor
+Animals,Animal,crow,f,cioară,cioara,ciorii,cioară,ciori,ciorile,ciorilor,ciorilor
+Animals,Animal,dinosaur,m,dinozaur,dinozaurul,dinozaurului,-,dinozauri,dinozaurii,dinozaurilor,-
+Animals,Animal,dog,m,câine,câinele,câinelui,câine,câini,câinii,câinilor,câinilor
+Animals,Animal,dolphin,m,delfin,delfinul,delfinului,delfinule,delfini,delfinii,delfinilor,delfinilor
+Animals,Animal,donkey,m,măgar,măgarul,măgarului,măgarule,măgari,măgarii,măgarilor,măgarilor
+Animals,Animal,dove,m,porumbel,porumbelul,porumbelului,porumbelule,porumbei,porumbeii,porumbeilor,porumbeilor
+Animals,Animal,eagle,m,vultur,vulturul,vulturului,vulturule,vulturi,vulturii,vulturilor,vulturilor
+Animals,Animal,echidna,,,,,,,,,
+Animals,Animal,eel,,,,,,,,,
+Animals,Animal,elephant,m,elefant,elefantul,elefantului,elefantule,elefanți,elefanții,elefanților,elefanților
+Animals,Animal,elk,m,elan,elanul,elanului,-,elani,elanii,elanilor,-
+Animals,Animal,emu,m,emu,emuul,emuului,emuule,emu,-,-,-
+Animals,Animal,falcon,m,șoim,șoimul,șoimului,șoimule,șoimi,șoimii,șoimilor,șoimilor
+Animals,Animal,ferret,m,dihor,dihorul,dihorului,dihorule,dihori,dihorii,dihorilor,dihorilor
+Animals,Animal,finch,,,,,,,,,
+Animals,Animal,flamingo,m,flamingo,flamingoul,flamingoului,flamingoule,flamingi,flamingii,flamingilor,flamingilor
+Animals,Animal,fox,f,vulpe,vulpea,vulpii,vulpe,vulpi,vulpile,vulpilor,vulpilor
+Animals,Animal,frog,f,broască,broasca,broaștei,broasco,broaște,broaștele,broaștelor,broaștelor
+Animals,Animal,gazelle,f,gazelă,gazela,gazelei,gazelă,gazele,gazelele,gazelelor,gazelelor
+Animals,Animal,gerbil,,,,,,,,,
+Animals,Animal,panda,m,panda,pandaul,pandaului,pandaule,panda,-,-,-
+Animals,Animal,giraffe,f,girafă,girafa,girafei,girafă,girafe,girafele,girafelor,girafelor
+Animals,Animal,gnat,m,țânțar,țânțarul,țânțarului,țânțarule,țânțari,țânțarii,țânțarilor,țânțarilor
+Animals,Animal,goat,f,capră,capra,caprei,capră,capre,caprele,caprelor,caprelor
+Animals,Animal,goose,f,gâscă,gâsca,gâștei,gâscă,gâște,gâștele,gâștelor,gâștelor
+Animals,Animal,gorilla,f,gorilă,gorila,gorilei,gorilă,gorile,gorilele,gorilelor,gorilelor
+Animals,Animal,goshawk,f,acvilă,acvila,acvilei,acvilă,acvile,acvilele,acvilelor,acvilelor
+Animals,Animal,grasshopper,f,lăcustă,lăcusta,lăcustei,-,lăcuste,lăcustele,lăcustelor,-
+Animals,Animal,grouse,,cocoș de câmp,,,,,,,
+Animals,Animal,hamster,m,hamster,hamsterul,hamsterului,hamsterule,hamsteri,hamsterii,hamsterilor,hamsterilor
+Animals,Animal,hare,m,iepure,iepurele,iepurelui,iepure,iepuri,iepurii,iepurilor,iepurilor
+Animals,Animal,hawk,m,șoim,șoimul,șoimului,șoimule,șoimi,șoimii,șoimilor,șoimilor
+Animals,Animal,hedgehog,m,arici,ariciul,ariciului,-,arici,aricii,aricilor,-
+Animals,Animal,heron,,heron,,,,,,,
+Animals,Animal,herring,m,hering,heringul,heringului,heringule,heringi,heringii,heringilor,heringilor
+Animals,Animal,hippopotamus,m,hipopotam,hipopotamul,hipopotamului,-,hipopotami,hipopotamii,hipopotamilor,-
+Animals,Animal,hornet,f,viespe,viespea,viespii,-,viespi,viespile,viespilor,-
+Animals,Animal,horse,m,cal,calul,calului,calule,cai,caii,cailor,cailor
+Animals,Animal,human,m,om,omul,omului,omule,oameni,oamenii,oamenilor,oamenilor
+Animals,Animal,hummingbird,,pasăre colibri,,,,,,,
+Animals,Animal,hyena,f,hienă,hiena,hienei,hienă,hiene,hienele,hienelor,hienelor
+Animals,Animal,ibis,m,ibis,ibisul,ibisului,ibisule,ibiși,ibișii,ibișilor,ibișilor
+Animals,Animal,jackal,m,șacal,șacalul,șacalului,șacalule,șacali,șacalii,șacalilor,șacalilor
+Animals,Animal,jaguar,m,jaguar,jaguarul,jaguarului,jaguarule,jaguari,jaguarii,jaguarilor,jaguarilor
+Animals,Animal,jay,,,,,,,,,
+Animals,Animal,bluejay,,,,,,,,,
+Animals,Animal,kangaroo,m,cangur,cangurul,cangurului,-,canguri,cangurii,cangurilor,-
+Animals,Animal,koala,m,koala,koala,koalei,koalo,-,-,-,-
+Animals,Animal,komodo,,,,,,,,,
+Animals,Animal,lemur,m,lemur,lemurul,lemurului,lemurule,lemuri,lemurii,lemurilor,lemurilor
+Animals,Animal,leopard,m,leopard,leopardul,leopardului,leopardule,leoparzi,leoparzii,leoparzilor,leoparzilor
+Animals,Animal,lion,m,leu,leul,leului,leule,lei,leii,leilor,leilor
+Animals,Animal,llama,m,lama,-,-,-,-,-,-,-
+Animals,Animal,lobster,m,homar,homarul,homarului,homarule,homari,homarii,homarilor,homarilor
+Animals,Animal,locust,f,lăcustă,lăcusta,lăcustei,-,lăcuste,lăcustele,lăcustelor,-
+Animals,Animal,lyrebird,,pasăre lirică,,,,,,,
+Animals,Animal,magpie,m,pițigoi,pițigoiul,pițigoiului,pițigoiule,pițigoi,pițigoii,pițigoilor,pițigoilor
+Animals,Animal,mallard,,rață sălbatică,,,,,,,
+Animals,Animal,duck,f,rață,rața,raței,rațo,rațe,rațele,rațelor,rațelor
+Animals,Animal,manatee,m,lamantin,lamantinul,lamantinului,-,lamantini,lamantinii,lamantinilor,-
+Animals,Animal,mandrill,m,mandril,mandrilul,mandrilului,-,mandrili,mandrilii,mandrililor,-
+Animals,Animal,mantis,,,,,,,,,
+Animals,Animal,meerkat,,suricata,,,,,,,
+Animals,Animal,mink,f,nurcă,nurca,nurcii,nurcă,nurci,nurcile,nurcilor,nurcilor
+Animals,Animal,mole,f,cârtiță,cârtița,cârtiței,cârtiță,cârtițe,cârtițele,cârtițelor,cârtițelor
+Animals,Animal,mongoose,f,mangustă,mangusta,mangustei,mangustă,manguste,mangustele,mangustelor,mangustelor
+Animals,Animal,monkey,f,maimuță,maimuța,maimuței,maimuță,maimuțe,maimuțele,maimuțelor,maimuțelor
+Animals,Animal,moose,m,elan,elanul,elanului,-,elani,elanii,elanilor,-
+Animals,Animal,mouse,m,șoarece,șoarecele,șoarecelui,șoarece,șoareci,șoarecii,șoarecilor,șoarecilor
+Animals,Animal,mosquito,m,țânțar,țânțarul,țânțarului,țânțarule,țânțari,țânțarii,țânțarilor,țânțarilor
+Animals,Animal,mule,m,catâr,catârul,catârului,-,catâri,catârii,catârilor,-
+Animals,Animal,narwhal,m,narval,narvalul,narvalului,-,narvali,narvalii,narvalilor,-
+Animals,Animal,newt,m,triton,tritonul,tritonului,tritonule,tritoni,tritonii,tritonilor,tritonilor
+Animals,Animal,octopus,f,caracatiță,caracatița,caracatiței,-,caracatițe,caracatițele,caracatițelor,-
+Animals,Animal,okapi,,,,,,,,,
+Animals,Animal,opossum,,opossum,,,,,,,
+Animals,Animal,ostrich,m,struț,struțul,struțului,struțule,struți,struții,struților,struților
+Animals,Animal,otter,f,vidră,vidra,vidrei,vidră,vidre,vidrele,vidrelor,vidrelor
+Animals,Animal,owl,f,bufniță,bufnița,bufniței,bufniță,bufnițe,bufnițele,bufnițelor,bufnițelor
+Animals,Animal,oyster,f,stridie,stridia,stridiei,stridie,stridii,stridiile,stridiilor,stridiilor
+Animals,Animal,panther,f,panteră,pantera,panterei,panteră,pantere,panterele,panterelor,panterelor
+Animals,Animal,parrot,m,papagal,papagalul,papagalului,papagalule,papagali,papagalii,papagalilor,papagalilor
+Animals,Animal,partridge,f,potârniche,potârnichea,potârnichei,potârnicheo,potârnichi,potârnichile,potârnichilor,potârnichilor
+Animals,Animal,pelican,m,pelican,pelicanul,pelicanului,pelicanule,pelicani,pelicanii,pelicanilor,pelicanilor
+Animals,Animal,penguin,m,pinguin,pinguinul,pinguinului,pinguinule,pinguini,pinguinii,pinguinilor,pinguinilor
+Animals,Animal,pheasant,m,fazan,fazanul,fazanului,fazanule,fazani,fazanii,fazanilor,fazanilor
+Animals,Animal,pig,m,porc,porcul,porcului,porcule,porci,porcii,porcilor,porcilor
+Animals,Animal,pigeon,m,porumbel,porumbelul,porumbelului,porumbelule,porumbei,porumbeii,porumbeilor,porumbeilor
+Animals,Animal,porcupine,,porc spinos,,,,,,,
+Animals,Animal,porpoise,m,marsuin,marsuinul,marsuinului,-,marsuini,marsuinii,marsuinilor,-
+Animals,Animal,quail,f,prepeliță,prepelița,prepeliței,prepelițo,prepelițe,prepelițele,prepelițelor,prepelițelor
+Animals,Animal,rabbit,m,iepure,iepurele,iepurelui,iepure,iepuri,iepurii,iepurilor,iepurilor
+Animals,Animal,raccoon,m,raton,ratonul,ratonului,ratonule,ratoni,ratonii,ratonilor,ratonilor
+Animals,Animal,ram,m,berbec,berbecul,berbecului,-,berbeci,berbecii,berbecilor,-
+Animals,Animal,rat,m,șobolan,șobolanul,șobolanului,-,șobolani,șobolanii,șobolanilor,-
+Animals,Animal,raven,m,corb,corbul,corbului,corbule,corbi,corbii,corbilor,corbilor
+Animals,Animal,reindeer,m,ren,renul,renului,renule,reni,renii,renilor,renilor
+Animals,Animal,rhino,m,rinocer,rinocerul,rinocerului,rinocerule,rinoceri,rinocerii,rinocerilor,rinocerilor
+Animals,Animal,salamander,f,salamandră,salamandra,salamandrei,salamandro,salamandre,salamandrele,salamandrelor,salamandrelor
+Animals,Animal,salmon,m,somon,somonul,somonului,-,somoni,somonii,somonilor,-
+Animals,Animal,sardine,,sardină,,,,,,,
+Animals,Animal,scorpion,m,scorpion,scorpionul,scorpionului,scorpionule,scorpioni,scorpionii,scorpionilor,scorpionilor
+Animals,Animal,seahorse,,căluț de mare,,,,,,,
+Animals,Animal,seal,f,focă,foca,focii,focă,foci,focile,focilor,focilor
+Animals,Animal,shark,m,rechin,rechinul,rechinului,rechinule,rechini,rechinii,rechinilor,rechinilor
+Animals,Animal,shrew,,șoarece de mare,,,,,,,
+Animals,Animal,skunk,m,sconcs,sconcsul,sconcsului,sconcsule,sconcși,sconcșii,sconcșilor,sconcșilor
+Animals,Animal,snail,m,melc,melcul,melcului,-,melci,melcii,melcilor,-
+Animals,Animal,snake,m,șarpe,șarpele,șarpelui,-,șerpi,șerpii,șerpilor,-
+Animals,Animal,sparrow,f,vrabie,vrabia,vrabiei,vrabio,vrăbii,vrăbiile,vrăbiilor,vrăbiilor
+Animals,Animal,spider,m,păianjen,păianjenul,păianjenului,păianjenule,păianjeni,păianjenii,păianjenilor,păianjenilor
+Animals,Animal,squid,m,calmar,calmarul,calmarului,calmarule,calmari,calmarii,calmarilor,calmarilor
+Animals,Animal,stingray,,,,,,,,,
+Animals,Animal,stinkbug,,,,,,,,,
+Animals,Animal,stork,f,barză,barza,berzei,barză,berze,berzele,berzelor,berzelor
+Animals,Animal,swan,f,lebădă,lebăda,lebedei,lebădă,lebede,lebedele,lebedelor,lebedelor
+Animals,Animal,tapir,,,,,,,,,
+Animals,Animal,tarsier,,,,,,,,,
+Animals,Animal,tiger,m,tigru,tigrul,tigrului,tigrule,tigri,tigrii,tigrilor,tigrilor
+Animals,Animal,toad,,broască țestoasă,,,,,,,
+Animals,Animal,trout,m,păstrăv,păstrăvul,păstrăvului,păstrăvule,păstrăvi,păstrăvii,păstrăvilor,păstrăvilor
+Animals,Animal,turkey,m,curcan,curcanul,curcanului,curcanule,curcani,curcanii,curcanilor,curcanilor
+Animals,Animal,turtle,,broască țestoasă,,,,,,,
+Animals,Animal,viper,f,viperă,vipera,viperei,vipero,vipere,viperele,viperelor,viperelor
+Animals,Animal,vole,,șoarece de câmp,,,,,,,
+Animals,Animal,vulture,m,vultur,vulturul,vulturului,vulturule,vulturi,vulturii,vulturilor,vulturilor
+Animals,Animal,walrus,f,morsă,morsa,morsei,-,morse,morsele,morselor,-
+Animals,Animal,wasp,f,viespe,viespea,viespii,-,viespi,viespile,viespilor,-
+Animals,Animal,weasel,f,nevăstuică,nevăstuica,nevăstuicii,nevăstuică,nevăstuici,nevăstuicile,nevăstuicilor,nevăstuicilor
+Animals,Animal,whale,f,balenă,balena,balenei,balenă,balene,balenele,balenelor,balenelor
+Animals,Animal,wolverine,m,ghiocel,ghiocelul,ghiocelului,ghiocelule,ghiocei,ghioceii,ghioceilor,ghioceilor
+Animals,Animal,wombat,,,,,,,,,
+Animals,Animal,woodpecker,f,ciocănitoare,ciocănitoarea,ciocănitoarei,ciocănitoare,ciocănitori,ciocănitorii,ciocănitorilor,ciocănitorilor
+Animals,Animal,worm,m,vierme,viermele,viermelui,vierme,viermi,viermii,viermilor,viermilor
+Animals,Animal,yak,,,,,,,,,
+Animals,Animal,zebra,f,zebră,zebra,zebrei,zebră,zebre,zebrele,zebrelor,zebrelor
+Animals_Badass,AnimalBadass,alligator,m,aligator,aligatorul,aligatorului,,aligatori,aligatorii,aligatorilor,
+Animals_Badass,AnimalBadass,ape,f,maimuță,maimuța,maimuței,maimuțo,maimuțe,maimuțele,maimuțelor,maimuțelor
+Animals_Badass,AnimalBadass,armadillo,,,,,,,,,
+Animals_Badass,AnimalBadass,barracuda,,,,,,,,,
+Animals_Badass,AnimalBadass,beaver,m,castor,castorul,castorului,-,castori,castorii,castorilor,-
+Animals_Badass,AnimalBadass,bat,m,liliac,liliacul,liliacului,liliacule,lilieci,liliecii,liliecilor,liliecilor
+Animals_Badass,AnimalBadass,bear,m,urs,ursul,ursului,ursule,urși,urșii,urșilor,urșilor
+Animals_Badass,AnimalBadass,buffalo,m,bivol,bivolul,bivolului,-,bivoli,bivolii,bivolilor,-
+Animals_Badass,AnimalBadass,camel,f,cămilă,cămila,cămilei,cămilă,cămile,cămilele,cămilelor,cămilelor
+Animals_Badass,AnimalBadass,cheetah,m,ghepard,ghepardul,ghepardului,-,gheparzi,gheparzii,gheparzilor,-
+Animals_Badass,AnimalBadass,cobra,f,cobră,cobra,cobrei,cobră,cobre,cobrele,cobrelor,cobrelor
+Animals_Badass,AnimalBadass,cockroach,m,gândac,gândacul,gândacului,-,gândaci,gândacii,gândacilor,-
+Animals_Badass,AnimalBadass,coyote,m,coiot,coiotul,coiotului,coiotule,coioți,coioții,coioților,coioților
+Animals_Badass,AnimalBadass,crab,m,crab,crabul,crabului,crabule,crabi,crabii,crabilor,crabilor
+Animals_Badass,AnimalBadass,crocodile,m,crocodil,crocodilul,crocodilului,crocodilule,crocodili,crocodilii,crocodililor,crocodililor
+Animals_Badass,AnimalBadass,crow,f,cioară,cioara,ciorii,cioară,ciori,ciorile,ciorilor,ciorilor
+Animals_Badass,AnimalBadass,dinosaur,m,dinozaur,dinozaurul,dinozaurului,-,dinozauri,dinozaurii,dinozaurilor,-
+Animals_Badass,AnimalBadass,raptor,,,,,,,,,
+Animals_Badass,AnimalBadass,dog,m,câine,câinele,câinelui,câine,câini,câinii,câinilor,câinilor
+Animals_Badass,AnimalBadass,donkey,m,măgar,măgarul,măgarului,măgarule,măgari,măgarii,măgarilor,măgarilor
+Animals_Badass,AnimalBadass,dragonfly,f,libelulă,libelula,libelulei,libelulo,libelule,libelulele,libelulelor,libelulelor
+Animals_Badass,AnimalBadass,dragon,m,dragon,dragonul,dragonului,dragonule,dragoni,dragonii,dragonilor,dragonilor
+Animals_Badass,AnimalBadass,eagle,m,vultur,vulturul,vulturului,vulturule,vulturi,vulturii,vulturilor,vulturilor
+Animals_Badass,AnimalBadass,falcon,m,șoim,șoimul,șoimului,șoimule,șoimi,șoimii,șoimilor,șoimilor
+Animals_Badass,AnimalBadass,fox,f,vulpe,vulpea,vulpii,vulpe,vulpi,vulpile,vulpilor,vulpilor
+Animals_Badass,AnimalBadass,frog,f,broască,broasca,broaștei,broasco,broaște,broaștele,broaștelor,broaștelor
+Animals_Badass,AnimalBadass,gorilla,f,gorilă,gorila,gorilei,gorilă,gorile,gorilele,gorilelor,gorilelor
+Animals_Badass,AnimalBadass,grasshopper,f,lăcustă,lăcusta,lăcustei,-,lăcuste,lăcustele,lăcustelor,-
+Animals_Badass,AnimalBadass,hawk,m,șoim,șoimul,șoimului,șoimule,șoimi,șoimii,șoimilor,șoimilor
+Animals_Badass,AnimalBadass,hornet,f,viespe,viespea,viespii,-,viespi,viespile,viespilor,-
+Animals_Badass,AnimalBadass,hyena,f,hienă,hiena,hienei,hienă,hiene,hienele,hienelor,hienelor
+Animals_Badass,AnimalBadass,jackal,m,șacal,șacalul,șacalului,șacalule,șacali,șacalii,șacalilor,șacalilor
+Animals_Badass,AnimalBadass,jaguar,m,jaguar,jaguarul,jaguarului,jaguarule,jaguari,jaguarii,jaguarilor,jaguarilor
+Animals_Badass,AnimalBadass,kangaroo,m,cangur,cangurul,cangurului,-,canguri,cangurii,cangurilor,-
+Animals_Badass,AnimalBadass,komodo,,,,,,,,,
+Animals_Badass,AnimalBadass,leopard,m,leopard,leopardul,leopardului,leopardule,leoparzi,leoparzii,leoparzilor,leoparzilor
+Animals_Badass,AnimalBadass,lion,m,leu,leul,leului,leule,lei,leii,leilor,leilor
+Animals_Badass,AnimalBadass,lobster,m,homar,homarul,homarului,homarule,homari,homarii,homarilor,homarilor
+Animals_Badass,AnimalBadass,locust,f,lăcustă,lăcusta,lăcustei,-,lăcuste,lăcustele,lăcustelor,-
+Animals_Badass,AnimalBadass,mantis,,mantis,,,,,,,
+Animals_Badass,AnimalBadass,mole,f,cârtiță,cârtița,cârtiței,cârtiță,cârtițe,cârtițele,cârtițelor,cârtițelor
+Animals_Badass,AnimalBadass,monkey,f,maimuță,maimuța,maimuței,maimuță,maimuțe,maimuțele,maimuțelor,maimuțelor
+Animals_Badass,AnimalBadass,mosquito,m,țânțar,țânțarul,țânțarului,țânțarule,țânțari,țânțarii,țânțarilor,țânțarilor
+Animals_Badass,AnimalBadass,owl,f,bufniță,bufnița,bufniței,bufniță,bufnițe,bufnițele,bufnițelor,bufnițelor
+Animals_Badass,AnimalBadass,panther,f,panteră,pantera,panterei,panteră,pantere,panterele,panterelor,panterelor
+Animals_Badass,AnimalBadass,pig,m,porc,porcul,porcului,porcule,porci,porcii,porcilor,porcilor
+Animals_Badass,AnimalBadass,porcupine,,porc spinos,,,,,,,
+Animals_Badass,AnimalBadass,raccoon,m,raton,ratonul,ratonului,ratonule,ratoni,ratonii,ratonilor,ratonilor
+Animals_Badass,AnimalBadass,rat,m,șobolan,șobolanul,șobolanului,-,șobolani,șobolanii,șobolanilor,-
+Animals_Badass,AnimalBadass,raven,m,corb,corbul,corbului,corbule,corbi,corbii,corbilor,corbilor
+Animals_Badass,AnimalBadass,rhino,m,rinocer,rinocerul,rinocerului,rinocerule,rinoceri,rinocerii,rinocerilor,rinocerilor
+Animals_Badass,AnimalBadass,salamander,f,salamandră,salamandra,salamandrei,salamandro,salamandre,salamandrele,salamandrelor,salamandrelor
+Animals_Badass,AnimalBadass,scorpion,m,scorpion,scorpionul,scorpionului,scorpionule,scorpioni,scorpionii,scorpionilor,scorpionilor
+Animals_Badass,AnimalBadass,shark,m,rechin,rechinul,rechinului,rechinule,rechini,rechinii,rechinilor,rechinilor
+Animals_Badass,AnimalBadass,skunk,m,sconcs,sconcsul,sconcsului,sconcsule,sconcși,sconcșii,sconcșilor,sconcșilor
+Animals_Badass,AnimalBadass,snake,m,șarpe,șarpele,șarpelui,-,șerpi,șerpii,șerpilor,-
+Animals_Badass,AnimalBadass,spider,m,păianjen,păianjenul,păianjenului,păianjenule,păianjeni,păianjenii,păianjenilor,păianjenilor
+Animals_Badass,AnimalBadass,squid,m,calmar,calmarul,calmarului,calmarule,calmari,calmarii,calmarilor,calmarilor
+Animals_Badass,AnimalBadass,tiger,m,tigru,tigrul,tigrului,tigrule,tigri,tigrii,tigrilor,tigrilor
+Animals_Badass,AnimalBadass,toad,f,broască,broasca,broaștei,broasco,broaște,broaștele,broaștelor,broaștelor
+Animals_Badass,AnimalBadass,trout,m,păstrăv,păstrăvul,păstrăvului,păstrăvule,păstrăvi,păstrăvii,păstrăvilor,păstrăvilor
+Animals_Badass,AnimalBadass,turtle,,broască țestoasă,,,,,,,
+Animals_Badass,AnimalBadass,viper,f,viperă,vipera,viperei,vipero,vipere,viperele,viperelor,viperelor
+Animals_Badass,AnimalBadass,vulture,m,vultur,vulturul,vulturului,vulturule,vulturi,vulturii,vulturilor,vulturilor
+Animals_Badass,AnimalBadass,wasp,f,viespe,viespea,viespii,-,viespi,viespile,viespilor,-
+Animals_Badass,AnimalBadass,weasel,f,nevăstuică,nevăstuica,nevăstuicii,nevăstuică,nevăstuici,nevăstuicile,nevăstuicilor,nevăstuicilor
+Animals_Badass,AnimalBadass,whale,f,balenă,balena,balenei,balenă,balene,balenele,balenelor,balenelor
+Animals_Badass,AnimalBadass,wolf,m,lup,lupul,lupului,lupule,lupi,lupii,lupilor,lupilor
+Animals_Badass,AnimalBadass,wolverine,,,,,,,,,
+Animals_Badass,AnimalBadass,worm,m,vierme,viermele,viermelui,vierme,viermi,viermii,viermilor,viermilor
+Apparel,Apparel,shirt,f,cămașă,cămașa,cămășii,-,cămăși,cămășile,cămășilor,-
+Apparel,Apparel,button-down shirt,,cămașă cu nasturi,,,,,,,
+Apparel,Apparel,formal shirt,,cămașă formală,,,,,,,
+Apparel,Apparel,jacket,f,jachetă,jacheta,jachetei,-,jachete,jachetele,jachetelor,-
+Apparel,Apparel,raincoat,,haină de ploaie,,,,,,,
+Apparel,Apparel,formal suit,,costum formal,,,,,,,
+Apparel,Apparel,evening gown,,rochie de seară,,,,,,,
+Apparel,Apparel,parka,,,,,,,,,
+Apparel,Apparel,duster,,,,,,,,,
+Apparel,Apparel,space suit,,costum spațial,,,,,,,
+Apparel,Apparel,power armor suit,,costum armură de putere,,,,,,,
+Apparel,Apparel,bow tie,n,papion,papionul,papionului,papionule,papioane,papioanele,papioanelor,papioanelor
+Apparel,Apparel,necktie,f,cravată,cravata,cravatei,cravată,cravate,cravatele,cravatelor,cravatelor
+Apparel,Apparel,belt,f,centură,centura,centurii,centură,centuri,centurile,centurilor,centurilor
+Apparel,Apparel,jock strap,,curea de jock,,,,,,,
+Apparel,Apparel,hat,f,pălărie,pălăria,pălăriei,pălărie,pălării,pălăriile,pălăriilor,pălăriilor
+Apparel,Apparel,bowler hat,,pălărie bowler,,,,,,,
+Apparel,Apparel,baseball cap,f,șapcă,șapca,șepcii,șapcă,șepci,șepcile,șepcilor,șepcilor
+Apparel,Apparel,tuque,,,,,,,,,
+Apparel,Apparel,top hat,n,joben,jobenul,jobenului,jobenule,jobenuri,jobenurile,jobenurilor,jobenurilor
+Apparel,Apparel,shoe,m,pantof,pantoful,pantofului,pantofule,pantofi,pantofii,pantofilor,pantofilor
+Apparel,Apparel,boot,f,cizmă,cizma,cizmei,cizmă,cizme,cizmele,cizmelor,cizmelor
+Apparel,Apparel,sandal,f,sandală,sandala,sandalei,sandală,sandale,sandalele,sandalelor,sandalelor
+Artworks,Artwork,artwork,,lucrare de artă,,,,,,,
+Artworks,Artwork,art,f,artă,arta,artei,-,arte,artele,artelor,-
+Artworks,Artwork,work,f,lucrare,lucrarea,lucrării,lucrare,lucrări,lucrările,lucrărilor,lucrărilor
+Artworks,Artwork,item,n,obiect,obiectul,obiectului,-,obiecte,obiectele,obiectelor,-
+Artworks,Artwork,piece,f,piesă,piesa,piesei,pieso,piese,piesele,pieselor,pieselor
+Artworks,Artwork,oeuvre,f,operă,opera,operei,operă,opere,operele,operelor,operelor
+Artworks,Artwork,expression,f,expresie,expresia,expresiei,expresie,expresii,expresiile,expresiilor,expresiilor
+Artworks,Artwork,attempt,f,încercare,încercarea,încercării,încercare,încercări,încercările,încercărilor,încercărilor
+Artworks,Artwork,untitled,,neintitulat,,,,,,,
+Artworks,Artwork,titled,,intitulat,,,,,,,
+Artworks,Artwork,shape,n,contur,conturul,conturului,conturule,contururi,contururile,contururilor,contururilor
+Artworks,Artwork,form,f,formă,forma,formei,formă,forme,formele,formelor,formelor
+Artworks,Artwork,image,f,imagine,imaginea,imaginii,imagine,imagini,imaginile,imaginilor,imaginilor
+Artworks,Artwork,shot,f,împușcătură,împușcătura,împușcăturii,împușcătură,împușcături,împușcăturile,împușcăturilor,împușcăturilor
+Artworks,Artwork,picture,f,pictură,pictura,picturii,-,picturi,picturile,picturilor,-
+Artworks,Artwork,portrait,n,portret,portretul,portretului,portretule,portreturi,portreturile,portreturilor,portreturilor
+Artworks,Artwork,still,,statornic,,,,,,,
+Artworks,Artwork,poem,n,poem,poemul,poemului,poemule,poeme,poemele,poemelor,poemelor
+Artworks,Artwork,lullaby,,cântec de leagăn,,,,,,,
+Artworks,Artwork,song,,cântec,,,,,,,
+Artworks,Artwork,tune,,melodie,,,,,,,
+Artworks,Artwork,rhythm,,ritm,,,,,,,
+Artworks,Artwork,beat,,bate,,,,,,,
+Artworks,Artwork,codex,,codex,,,,,,,
+Artworks,Artwork,book,,carte,,,,,,,
+Artworks,Artwork,cuboid,m,cuboid,cuboidul,cuboidului,cuboidule,cuboizi,cuboizii,cuboizilor,cuboizilor
+Artworks,Artwork,circloid,,circloid,,,,,,,
+Artworks,Artwork,parabolic,,parabolic,,,,,,,
+Artworks,Artwork,cubic,,cubic,,,,,,,
+Artworks,Artwork,curvelike,,curbiliniu,,,,,,,
+Artworks,Artwork,curve,f,curbă,curba,curbei,curbo,curbe,curbele,curbelor,curbelor
+Artworks,Artwork,mirror,f,oglindă,oglinda,oglinzii,-,oglinzi,oglinzile,oglinzilor,-
+Artworks,Artwork,day,f,zi,ziua,zilei,zi,zile,zilele,zilelor,zilelor
+Artworks,Artwork,vomit,f,vomă,voma,vomei,vomă,vome,vomele,vomelor,vomelor
+Artworks,Artwork,sweat,f,transpirație,transpirația,transpirației,transpirație,transpirații,transpirațiile,transpirațiilor,transpirațiilor
+Artworks,Artwork,shadow,f,umbră,umbra,umbrei,umbră,umbre,umbrele,umbrelor,umbrelor
+Artworks,Artwork,freedom,f,libertate,libertatea,libertății,-,libertăți,libertățile,libertăților,-
+Artworks,Artwork,vision,,viziune,,,,,,,
+Artworks,Artwork,love,,dragoste,,,,,,,
+Artworks,Artwork,divinity,,divinitate,,,,,,,
+Artworks,Artwork,wisdom,,înțelepciune,,,,,,,
+Artworks,Artwork,shame,,rușine,,,,,,,
+Artworks,Artwork,death,,moarte,,,,,,,
+Artworks,Artwork,darkness,,întuneric,,,,,,,
+Bodyparts,BodyPart,head,n,cap,capul,capului,capule,capuri,capurile,capurilor,capurilor
+Bodyparts,BodyPart,eye,m,ochi,ochiul,ochiului,ochiule,ochi,ochii,ochilor,ochilor
+Bodyparts,BodyPart,nose,n,nas,nasul,nasului,-,nasuri,nasurile,nasurilor,-
+Bodyparts,BodyPart,mouth,f,gură,gura,gurii,-,guri,gurile,gurilor,-
+Bodyparts,BodyPart,tooth,m,dinte,dintele,dintelui,dinte,dinți,dinții,dinților,dinților
+Bodyparts,BodyPart,fang,m,colț,colțul,colțului,colțule,colți,colții,colților,colților
+Bodyparts,BodyPart,cheek,m,obraz,obrazul,obrazului,obrazule,obraji,obrajii,obrajilor,obrajilor
+Bodyparts,BodyPart,chin,f,bărbie,bărbia,bărbiei,-,bărbii,bărbiile,bărbiilor,-
+Bodyparts,BodyPart,lip,f,buză,buza,buzei,-,buze,buzele,buzelor,-
+Bodyparts,BodyPart,ear,f,ureche,urechea,urechii,-,urechi,urechile,urechilor,-
+Bodyparts,BodyPart,neck,n,gât,gâtul,gâtului,-,gâturi,gâturile,gâturilor,-
+Bodyparts,BodyPart,body,,corp,,,,,,,
+Bodyparts,BodyPart,chest,n,piept,pieptul,pieptului,pieptule,piepturi,piepturile,piepturilor,piepturilor
+Bodyparts,BodyPart,shoulder,m,umăr,umărul,umărului,umărule,umeri,umerii,umerilor,umerilor
+Bodyparts,BodyPart,arm,n,braț,brațul,brațului,-,brațe,brațele,brațelor,-
+Bodyparts,BodyPart,elbow,n,cot,cotul,cotului,cotule,coturi,coturile,coturilor,coturilor
+Bodyparts,BodyPart,wrist,,încheietura mâinii,,,,,,,
+Bodyparts,BodyPart,hand,f,mână,mâna,mâinii,-,mâini,mâinile,mâinilor,-
+Bodyparts,BodyPart,palm,f,palmă,palma,palmei,palmă,palme,palmele,palmelor,palmelor
+Bodyparts,BodyPart,finger,n,deget,degetul,degetului,degetule,degete,degetele,degetelor,degetelor
+Bodyparts,BodyPart,claw,f,gheară,gheara,ghearei,gheară,gheare,ghearele,ghearelor,ghearelor
+Bodyparts,BodyPart,talon,,,,,,,,,
+Bodyparts,BodyPart,wing,f,aripă,aripa,aripii,aripo,aripi,aripile,aripilor,aripilor
+Bodyparts,BodyPart,hip,n,șold,șoldul,șoldului,șoldule,șolduri,șoldurile,șoldurilor,șoldurilor
+Bodyparts,BodyPart,leg,n,picior,piciorul,piciorului,piciorule,picioare,picioarele,picioarelor,picioarelor
+Bodyparts,BodyPart,knee,m,genunchi,genunchiul,genunchiului,genunchiule,genunchi,genunchii,genunchilor,genunchilor
+Bodyparts,BodyPart,ankle,f,gleznă,glezna,gleznei,gleznă,glezne,gleznele,gleznelor,gleznelor
+Bodyparts,BodyPart,foot,n,picior,piciorul,piciorului,piciorule,picioare,picioarele,picioarelor,picioarelor
+Bodyparts,BodyPart,heel,n,călcâi,călcâiul,călcâiului,călcâiule,călcâie,călcâiele,călcâielor,călcâielor
+Bodyparts,BodyPart,toe,,deget de la picior,,,,,,,
+Bodyparts,BodyPart,paw,f,labă,laba,labei,labă,labe,labele,labelor,labelor
+BusinessTypes,businesstype,Company,f,-,Compania,-,-,-,-,-,-
+BusinessTypes,businesstype,Partners,n,-,-,-,-,-,Parteneriatele,-,-
+BusinessTypes,businesstype,Corporation,f,-,Corporația,-,-,-,-,-,-
+BusinessTypes,businesstype,Traders,n,-,-,-,-,-,Comercianții,-,-
+BusinessTypes,businesstype,Industries,f,-,-,-,-,-,Industriile,-,-
+BusinessTypes,businesstype,Incorporated,f,-,Incorporated,-,-,-,-,-,-
+BusinessTypes,businesstype,Travelers,m,-,-,-,-,-,Călătorii,-,-
+BusinessTypes,businesstype,Interplanetary,m,-,Interplanetara,-,-,-,-,-,-
+BusinessTypes,businesstype,Shipping,n,-,Transportul,-,-,-,-,-,-
+BusinessTypes,businesstype,Export Company,f,-,Compania de export,-,-,-,-,-,-
+BusinessTypes,businesstype,Import Company,f,-,Compania de inport,-,-,-,-,-,-
+BusinessTypes,businesstype,Transport Company,f,-,Compania de transport,-,-,-,-,-,-
+BusinessTypes,businesstype,Transit Company,f,-,Compania de tranzit,-,-,-,-,-,-
+BusinessTypes,businesstype,Securities,f,-,-,-,-,-,Valorile Mobiliare,-,-
+BusinessTypes,businesstype,Solutions,f,-,-,-,-,-,Soluțile,-,-
+BusinessTypes,businesstype,Consortium,n,-,Consorțiul,-,-,-,-,-,-
+BusinessTypes,businesstype,Interstellar,m,-,Interstelarul,-,-,-,-,-,-
+BusinessTypes,businesstype,Lubricants,m,-,-,-,-,-,Lubrifianții,-,-
+Colors,Color,red,m,roșu,roșul,roșului,roșule,roșii,roșiii,roșiilor,roșiilor
+Colors,Color,blue,n,albastru,albastrul,albastrului,albastrule,albastre,albastrele,albastrelor,albastrelor
+Colors,Color,green,n,verde,verdele,verdelui,verdele,-,-,-,-
+Colors,Color,purple,n,violet,violetul,violetului,-,-,-,-,-
+Colors,Color,black,n,negru,negrul,negrului,negrule,negre,negrele,negrelor,negrelor
+Colors,Color,white,m,alb,albul,albului,albule,albi,albii,albilor,albilor
+Colors,Color,gray,n,gri,griul,griului,-,-,-,-,-
+Colors,Color,orange,n,portocaliu,portocaliul,portocaliului,portocaliule,-,-,-,-
+Colors_Badass,ColorBadass,red,m,roșu,roșul,roșului,roșule,roșii,roșiii,roșiilor,roșiilor
+Colors_Badass,ColorBadass,black,n,negru,negrul,negrului,negrule,negre,negrele,negrelor,negrelor
+Colors_Badass,ColorBadass,gray,n,gri,griul,griului,-,-,-,-,-
+Colors_Badass,ColorBadass,ash,n,cenușiu,cenușiul,cenușiului,cenușiule,-,-,-,-
+Colors_Badass,ColorBadass,dark,m,întunecat,întunecatul,întunecatului,întunecatule,întunecații,întunecațiii,întunecațiilor,întunecațiilor
+Colors_Badass,ColorBadass,shadow,m,umbros,umbrosul,umbrosului,umbrosule,umbroșii,umbroșiii,umbroșilor,umbroșilor
+Colors_Badass,ColorBadass,night,m,nocturn,nocturnul,nocturnului,nocturnule,nocturnii,nocturniii,nocturnilor,nocturnilor
+Communities,Community,village,n,sat,satul,satului,-,sate,satele,satelor,-
+Communities,Community,village,n,sat,satul,satului,-,sate,satele,satelor,-
+Communities,Community,town,n,orășel,orășelul,orășelului,orășelule,orășele,orășelele,orășelelor,orășelelor
+Communities,Community,town,n,orășel,orășelul,orășelului,orășelule,orășele,orășelele,orășelelor,orășelelor
+Communities,Community,township,n,municipiu,municipiul,municipiului,-,municipii,municipiile,municipiilor,-
+Communities,Community,hamlet,n,cătun,cătunul,cătunului,cătunule,cătunuri,cătunurile,cătunurilor,cătunurilor
+Communities,Community,district,n,district,districtul,districtului,districtule,districte,districtele,districtelor,districtelor
+Communities,Community,city,n,oraș,orașul,orașului,-,orașe,orașele,orașelor,-
+Communities,Community,settlement,f,așezare,așezarea,așezării,așezare,așezări,așezările,așezărilor,așezărilor
+Communities,Community,encampment,f,tabără,tabăra,taberei,tabără,tabere,taberele,taberelor,taberelor
+Communities,Community,campsite,n,camping,campingul,campingului,campingule,campinguri,campingurile,campingurilor,campingurilor
+Concepts_Angsty,ConceptAngsty,sadness,f,tristețe,tristețea,tristeții,,tristeți,tristețile,tristeților,
+Concepts_Angsty,ConceptAngsty,despair,,disperare,,,,,,,
+Concepts_Angsty,ConceptAngsty,loss,f,pierdere,pierderea,pierderii,-,pierderi,pierderile,pierderilor,-
+Concepts_Angsty,ConceptAngsty,depression,,depresie,,,,,,,
+Concepts_Angsty,ConceptAngsty,emptiness,f,goliciune,goliciunea,goliciunii,goliciune,goliciuni,goliciunile,goliciunilor,goliciunilor
+Concepts_Angsty,ConceptAngsty,solitude,f,singurătate,singurătatea,singurătății,-,singurătăți,singurătățile,singurătăților,-
+Concepts_Angsty,ConceptAngsty,distance,f,distanță,distanța,distanței,distanță,distanțe,distanțele,distanțelor,distanțelor
+Concepts_Angsty,ConceptAngsty,thought,m,gând,gândul,gândului,gândule,gânduri,gândurile,gândurilor,gândurilor
+Concepts_Angsty,ConceptAngsty,contemplation,f,contemplație,contemplația,contemplației,contemplație,contemplații,contemplațiile,contemplațiilor,contemplațiilor
+Concepts_Angsty,ConceptAngsty,loneliness,f,singurătate,singurătatea,singurătății,-,singurătăți,singurătățile,singurătăților,-
+Concepts_Angsty,ConceptAngsty,isolation,f,izolare,izolarea,izolării,izolare,izolări,izolările,izolărilor,izolărilor
+Concepts_Angsty,ConceptAngsty,seclusion,,secluzie,,,,,,,
+Concepts_Angsty,ConceptAngsty,silence,f,tăcere,tăcerea,tăcerii,tăcere,tăceri,tăcerile,tăcerilor,tăcerilor
+Concepts_Angsty,ConceptAngsty,confinement,f,izolare,izolarea,izolării,izolare,izolări,izolările,izolărilor,izolărilor
+Concepts_Angsty,ConceptAngsty,detachment,f,detașare,detașarea,detașării,detașare,detașări,detașările,detașărilor,detașărilor
+Concepts_Angsty,ConceptAngsty,lonesomeness,f,singurătate,singurătatea,singurătății,-,singurătăți,singurătățile,singurătăților,-
+Concepts_Angsty,ConceptAngsty,quietude,f,liniște,liniștea,liniștii,-,-,-,-,-
+Concepts_Angsty,ConceptAngsty,decay,f,decădere,decăderea,decăderii,decădere,decăderi,decăderile,decăderilor,decăderilor
+Concepts_Angsty,ConceptAngsty,desolation,f,pustietate,pustietatea,pustietății,pustietate,pustietăți,pustietățile,pustietăților,pustietăților
+Concepts_Angsty,ConceptAngsty,destruction,f,distrugere,distrugerea,distrugerii,distrugere,distrugeri,distrugerile,distrugerilor,distrugerilor
+Concepts_Angsty,ConceptAngsty,devastation,,devastare,,,,,,,
+Concepts_Angsty,ConceptAngsty,exhaustion,,epuizare,,,,,,,
+Concepts_Angsty,ConceptAngsty,defeat,,înfrângere,,,,,,,
+Concepts_Angsty,ConceptAngsty,failure,,eșec,,,,,,,
+Concepts_Angsty,ConceptAngsty,cataclysm,,cataclism,,,,,,,
+Concepts_Angsty,ConceptAngsty,death,,moarte,,,,,,,
+Concepts_Angsty,ConceptAngsty,poverty,,sărăcie,,,,,,,
+Concepts_Angsty,ConceptAngsty,desire,,dorință,,,,,,,
+Concepts_Angsty,ConceptAngsty,need,,nevoie,,,,,,,
+Concepts_Angsty,ConceptAngsty,debt,,datorie,,,,,,,
+Concepts_Angsty,ConceptAngsty,hardship,,greutăți,,,,,,,
+Concepts_Angsty,ConceptAngsty,helplessness,,neputință,,,,,,,
+Concepts_Angsty,ConceptAngsty,scarcity,,insuficiență,,,,,,,
+Concepts_Angsty,ConceptAngsty,starvation,,foamete,,,,,,,
+Concepts_Angsty,ConceptAngsty,thirst,,sete,,,,,,,
+Concepts_Angsty,ConceptAngsty,hunger,,foamete,,,,,,,
+Concepts_Angsty,ConceptAngsty,difficulty,,dificultate,,,,,,,
+Concepts_Angsty,ConceptAngsty,challenge,,provocare,,,,,,,
+Concepts_Angsty,ConceptAngsty,pain,,durere,,,,,,,
+Concepts_Badass,ConceptBadass,suffering,f,suferință,suferința,suferinței,-,suferințe,suferințele,suferințelor,-
+Concepts_Badass,ConceptBadass,victory,f,victorie,victoria,victoriei,victorie,victorii,victoriile,victoriilor,victoriilor
+Concepts_Badass,ConceptBadass,murder,f,crimă,crima,crimei,crimă,crime,crimele,crimelor,crimelor
+Concepts_Badass,ConceptBadass,death,f,moarte,moartea,morții,-,morți,morțile,morților,-
+Concepts_Badass,ConceptBadass,thrusting,f,împingere,împingerea,împingerii,împingere,împingeri,împingerile,împingerilor,împingerilor
+Concepts_Badass,ConceptBadass,power,f,putere,puterea,puterii,putere,puteri,puterile,puterilor,puterilor
+Concepts_Badass,ConceptBadass,force,f,forță,forța,forței,forță,forțe,forțele,forțelor,forțelor
+Concepts_Badass,ConceptBadass,godlessness,f,evlavie,evlavia,evlaviei,-,evlavii,evlaviile,evlaviilor,-
+Concepts_Badass,ConceptBadass,god,m,zeu,zeul,zeului,-,zei,zeii,zeilor,-
+Concepts_Badass,ConceptBadass,pain,,durere,,,,,,,
+Concepts_Badass,ConceptBadass,triumph,,triumf,,,,,,,
+Concepts_Badass,ConceptBadass,blood,,sânge,,,,,,,
+Concepts_Badass,ConceptBadass,cash,,bani,,,,,,,
+Concepts_Badass,ConceptBadass,vengeance,,răzbunare,,,,,,,
+Concepts_Badass,ConceptBadass,revenge,,răzbunare,,,,,,,
+Concepts_Badass,ConceptBadass,agony,,agonie,,,,,,,
+Concepts_Badass,ConceptBadass,fever,,febră,,,,,,,
+Concepts_Badass,ConceptBadass,illness,,boală,,,,,,,
+Concepts_Badass,ConceptBadass,injury,,rană,,,,,,,
+Concepts_Badass,ConceptBadass,torment,,chin,,,,,,,
+Concepts_Badass,ConceptBadass,anguish,,angoasă,,,,,,,
+Concepts_Badass,ConceptBadass,misery,,mizerie,,,,,,,
+Concepts_Badass,ConceptBadass,persecution,,persecuție,,,,,,,
+Concepts_Badass,ConceptBadass,torture,,tortură,,,,,,,
+Concepts_Badass,ConceptBadass,suffering,,suferință,,,,,,,
+Concepts_Badass,ConceptBadass,tyranny,,tiranie,,,,,,,
+Concepts_Badass,ConceptBadass,oppression,,opresiune,,,,,,,
+Concepts_Badass,ConceptBadass,cruelty,,cruzime,,,,,,,
+Concepts_Badass,ConceptBadass,terrorism,,terorism,,,,,,,
+Concepts_Badass,ConceptBadass,terror,,teroare,,,,,,,
+Concepts_Badass,ConceptBadass,chaos,,haos,,,,,,,
+Concepts_Badass,ConceptBadass,trouble,,probleme,,,,,,,
+Concepts_Badass,ConceptBadass,unrest,,neliniște,,,,,,,
+Concepts_Badass,ConceptBadass,anarchy,,anarhie,,,,,,,
+Concepts_Badass,ConceptBadass,combat,,luptă,,,,,,,
+Concepts_Badass,ConceptBadass,violence,,violență,,,,,,,
+Concepts_Badass,ConceptBadass,war,,război,,,,,,,
+Concepts_Badass,ConceptBadass,bloodshed,,vărsare de sânge,,,,,,,
+Concepts_Badass,ConceptBadass,hostility,,ostilitate,,,,,,,
+Concepts_Badass,ConceptBadass,strife,,conflict,,,,,,,
+Concepts_Badass,ConceptBadass,struggle,,luptă,,,,,,,
+Concepts_Positive,ConceptPositive,hope,f,speranță,speranța,speranței,-,speranțe,speranțele,speranțelor,-
+Concepts_Positive,ConceptPositive,love,f,dragoste,dragostea,dragostei,dragoste,dragoste,dragostele,dragostelor,dragostelor
+Concepts_Positive,ConceptPositive,strength,f,putere,puterea,puterii,putere,puteri,puterile,puterilor,puterilor
+Concepts_Positive,ConceptPositive,struggle,f,luptă,lupta,luptei,luptă,lupte,luptele,luptelor,luptelor
+Concepts_Positive,ConceptPositive,family,f,familie,familia,familiei,-,familii,familiile,familiilor,-
+Concepts_Positive,ConceptPositive,loyalty,f,loialitate,loialitatea,loialității,loialitate,loialități,loialitățile,loialităților,loialităților
+Concepts_Positive,ConceptPositive,fun,f,distracție,distracția,distracției,distracție,distracții,distracțiile,distracțiilor,distracțiilor
+Concepts_Positive,ConceptPositive,bliss,f,fericire,fericirea,fericirii,-,fericiri,fericirile,fericirilor,-
+Concepts_Positive,ConceptPositive,plenty,f,abundență,abundența,abundenței,abundențo,abundențe,abundențele,abundențelor,abundențelor
+Concepts_Positive,ConceptPositive,growth,f,creștere,creșterea,creșterii,creștere,creșteri,creșterile,creșterilor,creșterilor
+Concepts_Positive,ConceptPositive,happiness,f,fericire,fericirea,fericirii,-,fericiri,fericirile,fericirilor,-
+Concepts_Positive,ConceptPositive,togetherness,,colectivitate,,,,,,,
+Concepts_Positive,ConceptPositive,community,,comunitate,,,,,,,
+Concepts_Positive,ConceptPositive,affection,,afecțiune,,,,,,,
+Concepts_Positive,ConceptPositive,intimacy,,intimitate,,,,,,,
+Concepts_Positive,ConceptPositive,fellowship,,părtășie,,,,,,,
+Concepts_Positive,ConceptPositive,friendship,,prietenie,,,,,,,
+Concepts_Positive,ConceptPositive,goodwill,,bunăvoință,,,,,,,
+Concepts_Positive,ConceptPositive,devotion,,devotament,,,,,,,
+Concepts_Positive,ConceptPositive,harmony,,armonie,,,,,,,
+Concepts_Positive,ConceptPositive,solidarity,,solidaritate,,,,,,,
+Concepts_Positive,ConceptPositive,compassion,,compasiune,,,,,,,
+Concepts_Positive,ConceptPositive,mercy,,milă,,,,,,,
+Concepts_Positive,ConceptPositive,patience,,răbdare,,,,,,,
+Concepts_Positive,ConceptPositive,sympathy,,simpatie,,,,,,,
+Concepts_Positive,ConceptPositive,honesty,,onestitate,,,,,,,
+Concepts_Positive,ConceptPositive,kindness,,bunătate,,,,,,,
+Concepts_Positive,ConceptPositive,grace,,grație,,,,,,,
+Concepts_Positive,ConceptPositive,decency,,decență,,,,,,,
+Concepts_Positive,ConceptPositive,elegance,,eleganță,,,,,,,
+Concepts_Positive,ConceptPositive,camraderie,,camaraderie,,,,,,,
+Concepts_Positive,ConceptPositive,brotherhood,,fraternitate,,,,,,,
+Concepts_Positive,ConceptPositive,safety,,siguranță,,,,,,,
+Enemies,Enemy,bandit,m,bandit,banditul,banditului,banditule,bandiți,bandiții,bandiților,bandiților
+Enemies,Enemy,criminal,m,criminal,criminalul,criminalului,criminalule,criminali,criminalii,criminalilor,criminalilor
+Enemies,Enemy,raider,m,jefuitor,jefuitorul,jefuitorului,jefuitorule,jefuitori,jefuitorii,jefuitorilor,jefuitorilor
+Enemies,Enemy,outlaw,,nelegiuit,,,,,,,
+Enemies,Enemy,pirate,m,pirat,piratul,piratului,piratule,pirați,pirații,piraților,piraților
+Enemies,Enemy,robber,m,tâlhar,tâlharul,tâlharului,tâlharule,tâlhari,tâlharii,tâlharilor,tâlharilor
+Enemies,Enemy,brigand,m,bandit,banditul,banditului,banditule,bandiți,bandiții,bandiților,bandiților
+Enemies,Enemy,crook,m,escroc,escrocul,escrocului,escrocule,escroci,escrocii,escrocilor,escrocilor
+Enemies,Enemy,rogue,m,pungaș,pungașul,pungașului,pungașule,pungași,pungașii,pungașilor,pungașilor
+Enemies,Enemy,burglar,m,hoț,hoțul,hoțului,hoțule,hoți,hoții,hoților,hoților
+Enemies,Enemy,mugger,m,tâlhar,tâlharul,tâlharului,tâlharule,tâlhari,tâlharii,tâlharilor,tâlharilor
+Enemies,Enemy,terrorist,m,terorist,teroristul,teroristului,teroristule,teroriști,teroriștii,teroriștilor,teroriștilor
+Enemies,Enemy,barbarian,m,barbar,barbarul,barbarului,barbarule,barbari,barbarii,barbarilor,barbarilor
+Enemies,Enemy,cannibal,m,canibal,canibalul,canibalului,canibalule,canibali,canibalii,canibalilor,canibalilor
+Enemies,Enemy,devil,m,diavol,diavolul,diavolului,-,diavoli,diavolii,diavolilor,-
+Enemies,Enemy,demon,m,demon,demonul,demonului,-,demoni,demonii,demonilor,-
+Enemies,Enemy,beast,f,bestie,bestia,bestiei,bestie,bestii,bestiile,bestiilor,bestiilor
+Enemies,Enemy,monster,m,monstru,monstrul,monstrului,monstrule,monștri,monștrii,monștrilor,monștrilor
+Enemies,Enemy,vampire,m,vampir,vampirul,vampirului,vampirule,vampiri,vampirii,vampirilor,vampirilor
+Enemies,Enemy,fiend,m,demon,demonul,demonului,-,demoni,demonii,demonilor,-
+Enemies,Enemy,goblin,m,spiriduș,spiridușul,spiridușului,-,spiriduși,spiridușii,spiridușilor,-
+Enemies,Enemy,imp,m,drăcușor,drăcușorul,drăcușorului,drăcușorule,drăcușori,drăcușorii,drăcușorilor,drăcușorilor
+Enemies,Enemy,dragon,m,dragon,dragonul,dragonului,dragonule,dragoni,dragonii,dragonilor,dragonilor
+Games,Game,poker,,poker,,,,,,,
+Games,Game,chess,n,șah,șahul,șahului,șahule,șahuri,șahurile,șahurilor,șahurilor
+Games,Game,cards,,cărți,,,,,,,
+Games,Game,backgammon,,backgammon,,,,,,,
+Games,Game,dice,,zaruri,,,,,,,
+Games,Game,craps,,zaruri,,,,,,,
+Games,Game,roulette,f,ruletă,ruleta,ruletei,ruletă,rulete,ruletele,ruletelor,ruletelor
+Games,Game,blackjack,,blackjack,,,,,,,
+Gore,Gore,blood,n,sânge,sângele,sângelui,sânge,sângiuri,sângiurile,sângiurilor,sângiurilor
+Gore,Gore,gore,n,maț,mațul,mațului,mațule,mațe,mațele,mațelor,mațelor
+Gore,Gore,guts,n,-,-,-,-,viscere,viscerele,viscerelor,-
+Gore,Gore,viscera,,măruntaie,,,,,,,
+Gore,Gore,innards,,măruntaie,,,,,,,
+Gore,Gore,entrails,,intestine,,,,,,,
+Gore,Gore,intestines,,intestine,,,,,,,
+GroupNames,groupname,society,f,societate,societatea,societății,,societăți,societățile,societăților,
+GroupNames,groupname,crew,n,echipaj,echipajul,echipajului,echipajule,echipaje,echipajele,echipajelor,echipajelor
+GroupNames,groupname,group,n,grup,grupul,grupului,grupule,grupuri,grupurile,grupurilor,grupurilor
+GroupNames,groupname,company,,,,,,,,,
+GroupNames,groupname,team,f,echipă,echipa,echipei,echipă,echipe,echipele,echipelor,echipelor
+GroupNames,groupname,pack,,,,,,,,,
+GroupNames,groupname,army,f,armată,armata,armatei,-,armate,armatele,armatelor,-
+GroupNames,groupname,party,,,,,,,,,
+GroupNames,groupname,band,,trupa,,,,,,,
+GroupNames,groupname,rig,,echipă,,,,,,,
+GroupNames,groupname,organization,,organizare,,,,,,,
+GroupNames,groupname,lineup,,lineup,,,,,,,
+GroupNames,groupname,unit,,unitate,,,,,,,
+GroupNames,groupname,faction,,facțiune,,,,,,,
+GroupNames,groupname,gang,,bandă,,,,,,,
+GroupNames,groupname,outfit,,echipament,,,,,,,
+GroupNames,groupname,partners,,parteneri,,,,,,,
+Mechanoid,Mechanoid,scyther,,,,,,,,,
+Mechanoid,Mechanoid,lancer,,,,,,,,,
+Mechanoid,Mechanoid,centipede,,,,,,,,,
+Mechanoid,Mechanoid,mechanoid,,,,,,,,,
+Mechanoid,Mechanoid,robot,m,robot,robotul,robotului,robotule,roboți,roboții,roboților,roboților
+Mechanoid,Mechanoid,automaton,,,,,,,,,
+Mechanoid,Mechanoid,drone,,dronă,,,,,,,
+Mechanoid,Mechanoid,combat drone,,dronă de luptă,,,,,,,
+Mechanoid,Mechanoid,serving bot,,robot de servire,,,,,,,
+Mechanoid,Mechanoid,utility bot,,robot utilitar,,,,,,,
+Mechanoid,Mechanoid,sexbot,,,,,,,,,
+Mechanoid,Mechanoid,guard bot,,,,,,,,,
+Mechanoid,Mechanoid,machine persona avatar,,,,,,,,,
+Mechanoid,Mechanoid,archotech projection,,proiecție arhotech,,,,,,,
+NaturalObject,NaturalObject,rock,f,stâncă,stânca,stâncii,-,stânci,stâncile,stâncilor,-
+NaturalObject,NaturalObject,stone,f,piatră,piatra,pietrei,piatră,pietre,pietrele,pietrelor,pietrelor
+NaturalObject,NaturalObject,boulder,m,bolovan,bolovanul,bolovanului,bolovanule,bolovani,bolovanii,bolovanilor,bolovanilor
+NaturalObject,NaturalObject,tree,m,copac,copacul,copacului,copacule,copaci,copacii,copacilor,copacilor
+NaturalObject,NaturalObject,shrub,m,arbust,arbustul,arbustului,-,arbuști,arbuștii,arbuștilor,-
+NaturalObject,NaturalObject,bush,n,tufiș,tufișul,tufișului,tufișule,tufișuri,tufișurile,tufișurilor,tufișurilor
+NaturalObject,NaturalObject,pond,n,iaz,iazul,iazului,...,iazuri,iazurile,iazurilor,...
+NaturalObject,NaturalObject,pool,f,piscină,piscina,piscinei,piscină,piscine,piscinele,piscinelor,piscinelor
+NaturalObject,NaturalObject,lake,n,lac,lacul,lacului,-,lacuri,lacurile,lacurilor,-
+NaturalObject,NaturalObject,hill,n,deal,dealul,dealului,dealule,dealuri,dealurile,dealurilor,dealurilor
+NaturalObject,NaturalObject,cave,f,peșteră,peștera,peșterii,-,peșteri,peșterile,peșterilor,-
+NaturalObject,NaturalObject,stump,f,buturugă,buturuga,buturugii,buturugă,buturugi,buturugile,buturugilor,buturugilor
+NaturalObject,NaturalObject,shell,f,cochilie,cochilia,cochiliei,cochilie,cochilii,cochiliile,cochiliilor,cochiliilor
+NaturalObject,NaturalObject,feather,f,pană,pana,penei,pană,pene,penele,penelor,penelor
+NaturalObject,NaturalObject,seed,f,sămânță,sămânța,seminței,sămânță,semințe,semințele,semințelor,semințelor
+NaturalObject,NaturalObject,trunk,n,trunchi,trunchiul,trunchiului,-,trunchiuri,trunchiurile,trunchiurilor,-
+NaturalObject,NaturalObject,fruit,n,fruct,fructul,fructului,-,fructe,fructele,fructelor,-
+NaturalObject,NaturalObject,needle,n,ac,acul,acului,acule,ace,acele,acelor,acelor
+NaturalObject,NaturalObject,beetle,m,gândac,gândacul,gândacului,-,gândaci,gândacii,gândacilor,-
+NaturalObject,NaturalObject,bug,m,gândac,gândacul,gândacului,-,gândaci,gândacii,gândacilor,-
+NaturalObject,NaturalObject,hoof,f,copită,copita,copitei,copito,copite,copitele,copitelor,copitelor
+NaturalObject,NaturalObject,claw,f,gheară,gheara,ghearei,gheară,gheare,ghearele,ghearelor,ghearelor
+NaturalObject,NaturalObject,tail,f,coadă,coada,cozii,coadă,cozi,cozile,cozilor,cozilor
+NaturalObject,NaturalObject,hide,f,piele,pielea,pielii,-,piei,pieile,pieilor,-
+NaturalObject,NaturalObject,skin,f,piele,pielea,pielii,-,piei,pieile,pieilor,-
+NaturalObject,NaturalObject,horn,n,corn,cornul,cornului,cornul,coarne,coarnele,coarnelor,coarnelor
+NaturalObject,NaturalObject,tooth,m,dinte,dintele,dintelui,dinte,dinți,dinții,dinților,dinților
+NaturalObject,NaturalObject,wing,f,aripă,aripa,aripii,aripo,aripi,aripile,aripilor,aripilor
+NaturalObject,NaturalObject,wood,n,lemn,lemnul,lemnului,lemnule,lemne,lemnele,lemnelor,lemnelor
+People_Allies,PersonAlly,friend,m,prieten,prietenul,prietenului,prietene,prieteni,prietenii,prietenilor,prietenilor
+People_Allies,PersonAlly,supporter,m,susținător,susținătorul,susținătorului,susținătorule,susținători,susținătorii,susținătorilor,susținătorilor
+People_Allies,PersonAlly,partner,m,partener,partenerul,partenerului,partenerule,parteneri,partenerii,partenerilor,partenerilor
+People_Allies,PersonAlly,buddy,m,prieten,prietenul,prietenului,-,prieteni,prietenii,prietenilor,-
+People_Allies,PersonAlly,companion,m,companion,companionul,companionului,companionule,companioni,companionii,companionilor,companionilor
+People_Allies,PersonAlly,cohort,f,cohortă,cohorta,cohortei,cohortă,cohorte,cohortele,cohortelor,cohortelor
+People_Allies,PersonAlly,comrade,m,tovarăș,tovarășul,tovarășului,tovarășule,tovarăși,tovarășii,tovarășilor,tovarășilor
+People_Allies,PersonAlly,sidekick,m,ajutor,ajutorul,ajutorului,ajutorule,ajutori,ajutorii,ajutorilor,ajutorilor
+People_Allies,PersonAlly,defender,m,apărător,apărătorul,apărătorului,apărătorule,apărători,apărătorii,apărătorilor,apărătorilor
+People_Allies,PersonAlly,assistant,m,asistent,asistentul,asistentului,asistentule,asistenți,asistenții,asistenților,asistenților
+People_Allies,PersonAlly,follower,m,discipol,discipolul,discipolului,discipolule,discipoli,discipolii,discipolilor,discipolilor
+People_Badass,PersonBadass,killer,m,ucigaș,ucigașul,ucigașului,ucigașule,ucigași,ucigașii,ucigașilor,ucigașilor
+People_Badass,PersonBadass,murderer,m,ucigaș,ucigașul,ucigașului,ucigașule,ucigași,ucigașii,ucigașilor,ucigașilor
+People_Badass,PersonBadass,butcher,m,măcelar,măcelarul,măcelarului,măcelarule,măcelari,măcelarii,măcelarilor,măcelarilor
+People_Badass,PersonBadass,hunter,m,vânător,vânătorul,vânătorului,vânătorule,vânători,vânătorii,vânătorilor,vânătorilor
+People_Badass,PersonBadass,slayer,m,ucigaș,ucigașul,ucigașului,ucigașule,ucigași,ucigașii,ucigașilor,ucigașilor
+People_Badass,PersonBadass,exterminator,m,exterminator,exterminatorul,exterminatorului,exterminatorule,exterminatori,exterminatorii,exterminatorilor,exterminatorilor
+People_Badass,PersonBadass,deadbeat,,,,,,,,,
+People_Badass,PersonBadass,convict,m,condamnat,condamnatul,condamnatului,condamnatule,condamnați,condamnații,condamnaților,condamnaților
+People_Badass,PersonBadass,criminal,m,criminal,criminalul,criminalului,criminalule,criminali,criminalii,criminalilor,criminalilor
+People_Badass,PersonBadass,crook,m,escroc,escrocul,escrocului,escrocule,escroci,escrocii,escrocilor,escrocilor
+People_Badass,PersonBadass,lawbreaker,,infractor,,,,,,,
+People_Badass,PersonBadass,offender,,infractor,,,,,,,
+People_Badass,PersonBadass,thug,,bătăuș,,,,,,,
+People_Badass,PersonBadass,gangster,,gangster,,,,,,,
+People_Badass,PersonBadass,soldier,,soldat,,,,,,,
+People_Badass,PersonBadass,assassin,,asasin,,,,,,,
+People_Badass,PersonBadass,banger,,șmecher,,,,,,,
+People_Badass,PersonBadass,deplorable,,deplorabil,,,,,,,
+People_Badass,PersonBadass,outlaw,,nelegiuit,,,,,,,
+People_Badass,PersonBadass,jailbird,,pușcăriaș,,,,,,,
+People_Badass,PersonBadass,desperado,,desperado,,,,,,,
+People_Badass,PersonBadass,deuce,,deuce,,,,,,,
+People_Badass,PersonBadass,hustler,,escroc,,,,,,,
+People_Badass,PersonBadass,malefactor,,maleficator,,,,,,,
+People_Badass,PersonBadass,sinner,,păcătos,,,,,,,
+People_Badass,PersonBadass,transgressor,,transgressor,,,,,,,
+People_Badass,PersonBadass,trespasser,,infractor,,,,,,,
+People_Badass,PersonBadass,betrayer,,trădător,,,,,,,
+People_Badass,PersonBadass,pirate,,pirat,,,,,,,
+People_Badass,PersonBadass,shanker,,shanker,,,,,,,
+People_Badass,PersonBadass,slicer,,tăietor,,,,,,,
+People_Badass,PersonBadass,cutter,,tăietor,,,,,,,
+People_Badass,PersonBadass,splitter,,despicător,,,,,,,
+People_Badass,PersonBadass,facebeater,,batător de fețe,,,,,,,
+People_Badass,PersonBadass,stabber,,înjunghiator,,,,,,,
+People_Badass,PersonBadass,sniper,,lunetist,,,,,,,
+People_Badass,PersonBadass,crusher,,zdrobitor,,,,,,,
+People_Badass,PersonBadass,slicer,,feliator,,,,,,,
+People_Badass,PersonBadass,shooter,,trăgător,,,,,,,
+People_Badass,PersonBadass,merchant,,comerciant,,,,,,,
+People_Badass,PersonBadass,owner,,proprietar,,,,,,,
+People_Badass,PersonBadass,reaper,,secerător,,,,,,,
+People_Badass,PersonBadass,executioner,,călău,,,,,,,
+People_Badass,PersonBadass,cannibal,,canibal,,,,,,,
+People_Badass,PersonBadass,violator,,violator,,,,,,,
+People_Badass,PersonBadass,defiler,,profanator,,,,,,,
+People_Badass,PersonBadass,despoiler,,spoliator,,,,,,,
+People_Badass,PersonBadass,attacker,,atacator,,,,,,,
+People_Badass,PersonBadass,ravager,,devastator,,,,,,,
+People_Badass,PersonBadass,champion,,campion,,,,,,,
+People_Badass,PersonBadass,victor,,victor,,,,,,,
+People_Badass,PersonBadass,winner,,câștigător,,,,,,,
+People_Badass,PersonBadass,dominator,,dominator,,,,,,,
+People_Badass,PersonBadass,conqueror,,cuceritor,,,,,,,
+People_Badass,PersonBadass,vanquisher,,cuceritor,,,,,,,
+People_Badass,PersonBadass,samurai,,samurai,,,,,,,
+People_Badass,PersonBadass,hero,,erou,,,,,,,
+People_Family,PersonFamily,mother,f,mamă,mama,mamei,mamo,mame,mamele,mamelor,mamelor
+People_Family,PersonFamily,son,m,tată,tatăl,tatălui,tată,tați,tații,taților,taților
+People_Family,PersonFamily,father,m,tată,tatăl,tatălui,tată,tați,tații,taților,taților
+People_Family,PersonFamily,brother,m,frate,fratele,fratelui,frate,frați,frații,fraților,fraților
+People_Family,PersonFamily,uncle,m,unchi,unchiul,unchiului,unchiule,unchi,unchii,unchilor,unchilor
+People_Family,PersonFamily,nephew,m,nepot,nepotul,nepotului,nepotule,nepoți,nepoții,nepoților,nepoților
+People_Family,PersonFamily,aunt,f,mătușă,mătușa,mătușii,-,mătuși,mătușile,mătușilor,-
+People_Jobs,PersonJob,farmer,m,fermier,fermierul,fermierului,fermierule,fermieri,fermierii,fermierilor,fermierilor
+People_Jobs,PersonJob,villager,m,sătean,săteanul,săteanului,săteanule,săteni,sătenii,sătenilor,sătenilor
+People_Jobs,PersonJob,miller,m,morar,morarul,morarului,morarule,morari,morarii,morarilor,morarilor
+People_Jobs,PersonJob,smith,m,fierar,fierarul,fierarului,fierarule,fierari,fierarii,fierarilor,fierarilor
+People_Jobs,PersonJob,brewer,m,berar,berarul,berarului,berarule,berari,berarii,berarilor,berarilor
+People_Jobs,PersonJob,weaver,m,țesător,țesătorul,țesătorului,țesătorule,țesători,țesătorii,țesătorilor,țesătorilor
+People_Jobs,PersonJob,cook,m,bucătar,bucătarul,bucătarului,bucătarule,bucătari,bucătarii,bucătarilor,bucătarilor
+People_Jobs,PersonJob,beggar,m,cerșetor,cerșetorul,cerșetorului,-,cerșetori,cerșetori,cerșetorilor,-
+People_Jobs,PersonJob,town guard,,paznic al orașului,,,,,,,
+People_Jobs,PersonJob,town councilor,,consilier municipal,,,,,,,
+People_Jobs,PersonJob,baker,,brutar,,,,,,,
+People_Jobs,PersonJob,tailor,,croitor,,,,,,,
+People_Jobs,PersonJob,elder,,bătrân,,,,,,,
+People_Jobs,PersonJob,gunsmith,,armurier,,,,,,,
+People_Jobs,PersonJob,blacksmith,,fierar,,,,,,,
+People_Jobs,PersonJob,fletcher,,arcaș,,,,,,,
+People_Jobs,PersonJob,thresher,,treierător,,,,,,,
+People_Jobs,PersonJob,thatcher,,cărăuș,,,,,,,
+People_Jobs,PersonJob,carpenter,,tâmplar,,,,,,,
+People_Jobs,PersonJob,trader,,comerciant,,,,,,,
+People_Jobs,PersonJob,surgeon,,chirurg,,,,,,,
+People_Jobs,PersonJob,doctor,,doctor,,,,,,,
+People_Jobs,PersonJob,explorer,,explorator,,,,,,,
+People_Jobs,PersonJob,adventurer,,aventurier,,,,,,,
+People_Jobs,PersonJob,drunkard,,bețivan,,,,,,,
+People_Jobs,PersonJob,priest,,preot,,,,,,,
+People_Jobs,PersonJob,cleric,,cleric,,,,,,,
+People_Jobs,PersonJob,smuggler,,contrabandist,,,,,,,
+People_Jobs,PersonJob,comedian,,comediant,,,,,,,
+People_Jobs,PersonJob,teacher,,profesor,,,,,,,
+People_Jobs,PersonJob,acrobat,,acrobat,,,,,,,
+People_Jobs,PersonJob,clown,,clovn,,,,,,,
+People_Jobs,PersonJob,actor,,actor,,,,,,,
+People_Jobs,PersonJob,artist,,artist,,,,,,,
+People_Jobs,PersonJob,boxer,,boxer,,,,,,,
+People_Jobs,PersonJob,chemist,,chimist,,,,,,,
+People_Jobs,PersonJob,dancer,,dansator,,,,,,,
+People_Jobs,PersonJob,fortune teller,,ghicitoare,,,,,,,
+People_Jobs,PersonJob,gardener,,grădinar,,,,,,,
+People_Jobs,PersonJob,maid,,menajeră,,,,,,,
+People_Jobs,PersonJob,hypnotist,,hipnotizator,,,,,,,
+People_Jobs,PersonJob,jeweler,,bijutier,,,,,,,
+People_Jobs,PersonJob,poet,,poet,,,,,,,
+People_Jobs,PersonJob,cowboy,,cowboy,,,,,,,
+People_Jobs,PersonJob,singer,,cântăreț,,,,,,,
+People_Jobs,PersonJob,philosopher,,filozof,,,,,,,
+People_Jobs,PersonJob,gunslinger,,pistolar,,,,,,,
+People_Jobs,PersonJob,sheriff,,șerif,,,,,,,
+People_Jobs,PersonJob,archaeologist,,arheolog,,,,,,,
+People_Jobs,PersonJob,hacker,,hacker,,,,,,,
+People_Jobs,PersonJob,planetologist,,planetolog,,,,,,,
+People_Jobs,PersonJob,politician,,politician,,,,,,,
+People_Jobs,PersonJob,historian,,istoric,,,,,,,
+People_Jobs,PersonJob,writer,,scriitor,,,,,,,
+People_Jobs,PersonJob,engineer,,inginer,,,,,,,
+People_Jobs,PersonJob,dentist,,dentist,,,,,,,
+People_Jobs,PersonJob,lawyer,,avocat,,,,,,,
+People_Jobs,PersonJob,chief,,șef,,,,,,,
+People_Jobs,PersonJob,warrior,,războinic,,,,,,,
+People_Jobs,PersonJob,archer,,arcaș,,,,,,,
+People_Jobs,PersonJob,witch doctor,,vrăjitor,,,,,,,
+People_Jobs,PersonJob,shaman,,șaman,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,clothes,f,haină,haina,hainei,haino,haine,hainele,hainelor,hainelor
+PersonalCharacteristics,PersonalCharacteristic,clothing choices,,alegeri vestimentare,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,fashion knowledge,,cunoștințe de modă,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,stylishness,f,eleganță,eleganța,eleganței,eleganță,-,-,-,-
+PersonalCharacteristics,PersonalCharacteristic,looks,,arată,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,appearance,n,aspect,aspectul,aspectului,aspectule,aspecte,aspectele,aspectelor,aspectelor
+PersonalCharacteristics,PersonalCharacteristic,height,f,înălțime,înălțimea,înălțimii,înălțime,înălțimi,înălțimile,înălțimilor,înălțimilor
+PersonalCharacteristics,PersonalCharacteristic,weight,f,greutate,greutatea,greutății,greutate,greutăți,greutățile,greutăților,greutăților
+PersonalCharacteristics,PersonalCharacteristic,hair,m,păr,părul,părului,părule,-,-,-,-
+PersonalCharacteristics,PersonalCharacteristic,hairstyle,f,coafură,coafura,coafurii,coafură,coafuri,coafurile,coafurilor,coafurilor
+PersonalCharacteristics,PersonalCharacteristic,facial hair,,părul facial,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,leg hair,,părul de pe picioare,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,face,,față,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,eyes,,ochi,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,nose,,nas,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,ears,,urechi,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,jawline,,maxilarul,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,forehead,,frunte,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,hands,,mâini,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,body,,corp,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,muscles,,mușchi,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,voice,,voce,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,way of speaking,,modul de a vorbi,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,accent,,accent,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,shooting skills,,abilități de fotografiere,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,melee fighting skills,,abilități de luptă corp la corp,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,social skills,,abilități sociale,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,plant growing skills,,abilități de cultivare a plantelor,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,medical skill,,abilități medicale,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,animal taming ability,,abilitatea de îmblânzire a animalelor,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,cooking skill,,abilitatea de a găti,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,construction skill,,abilitate de construcție,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,mining skill,,abilitate de minerit,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,artistic skills,,abilități artistice,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,crafting skills,,abilități de meșteșugărit,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,intellectual skills,,aptitudini intelectuale,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,skills,,aptitudini,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,abilities,,abilități,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,intelligence,,inteligență,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,judgment,,judecată,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,brainpower,,puterea creierului,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,emotional stability,,stabilitate emoțională,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,self-control,,autocontrol,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,usefulness,,utilitate,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,attitude,,atitudine,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,way of walking,,modul de a merge,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,way of thinking,,modul de gândire,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,fighting methods,,metode de luptă,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,learning ability,,capacitatea de învățare,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,diet,,dietă,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,eating habits,,obiceiuri alimentare,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,food preferences,,preferințe alimentare,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,relationship status,,statutul relației,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,age,,vârsta,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,value as a human,,valoarea ca om,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,sense of responsibility,,simțul responsabilității,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,sense of duty,,simțul datoriei,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,honor,,onoare,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,honesty,,onestitate,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,courageousness,,curaj,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,opinions,,opinii,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,beliefs,,convingeri,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,ideas,,idei,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,hopes and dreams,,speranțe și vise,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,ambitions,,ambiții,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,personal habits,,obiceiuri personale,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,personal hygiene,,igiena personală,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,hardiness,,tenacitate,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,personality,,personalitate,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,class,,clasa,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,culture,,cultură,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,recreational preferences,,preferințele de recreere,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,punctuality,,punctualitate,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,generosity,,generozitate,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,bravery,,curaj,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,loyalty,,loialitate,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,honesty,,onestitate,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,kindness,,bunătate,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,eloquence,,elocvență,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,broad-mindedness,,deschidere la minte,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,charm,,farmec,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,sincerity,,sinceritate,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,open-mindedness,,deschidere de spirit,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,origins,,origini,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,parents,,părinți,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,grandparents,,bunici,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,friends,,prieteni,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,family,,familie,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,family background,,mediul familial,,,,,,,
+PersonalCharacteristics,PersonalCharacteristic,lovers,,îndrăgostiți,,,,,,,
+PoliticalUnions_Outlander,political_union_outlander,union,f,uniune,uniunea,uniunii,uniune,uniuni,uniunile,uniunilor,uniunilor
+PoliticalUnions_Outlander,political_union_outlander,nation,f,națiune,națiunea,națiunii,națiune,națiuni,națiunile,națiunilor,națiunilor
+PoliticalUnions_Outlander,political_union_outlander,confederacy,f,confrerie,confreria,confreriei,confrerie,confrerii,confreriile,confreriilor,confreriilor
+PoliticalUnions_Outlander,political_union_outlander,confederation,f,confederație,confederația,confederației,confederație,confederații,confederațiile,confederațiilor,confederațiilor
+PoliticalUnions_Outlander,political_union_outlander,alliance,f,alianță,alianța,alianței,alianțo,alianțe,alianțele,alianțelor,alianțelor
+PoliticalUnions_Outlander,political_union_outlander,kin league,,ligă a rudelor,,,,,,,
+PoliticalUnions_Outlander,political_union_outlander,covenant,,pact,,,,,,,
+PoliticalUnions_Outlander,political_union_outlander,treaty,n,tratat,tratatul,tratatului,tratatule,tratate,tratatele,tratatelor,tratatelor
+PoliticalUnions_Outlander,political_union_outlander,pact,n,pact,pactul,pactului,-,pacte,pactele,pactelor,-
+PoliticalUnions_Outlander,political_union_outlander,coalition,f,coaliție,coaliția,coaliției,coaliție,coaliții,coalițiile,coalițiilor,coalițiilor
+PoliticalUnions_Outlander,political_union_outlander,federation,f,federație,federația,federației,federație,federații,federațiile,federațiilor,federațiilor
+PoliticalUnions_Outlander,political_union_outlander,league,f,ligă,liga,ligii,ligă,ligi,ligile,ligilor,ligilor
+PoliticalUnions_Outlander,political_union_outlander,compact,,compact,,,,,,,
+PoliticalUnions_Outlander,political_union_outlander,accord,n,acord,acordul,acordului,-,acorduri,acordurile,acordurilor,-
+PoliticalUnions_Outlander,political_union_outlander,concord,,concord,,,,,,,
+PoliticalUnions_Outlander,political_union_outlander,amalgamation,f,amalgamare,amalgamarea,amalgamării,amalgamareo,amalgamări,amalgamările,amalgamărilor,amalgamărilor
+PoliticalUnions_Outlander,political_union_outlander,unification,f,unificare,unificarea,unificării,-,unificări,unificările,unificărilor,-
+PoliticalUnions_Tribal,political_union_tribal,union,f,uniune,uniunea,uniunii,uniune,uniuni,uniunile,uniunilor,uniunilor
+PoliticalUnions_Tribal,political_union_tribal,nation,f,națiune,națiunea,națiunii,națiune,națiuni,națiunile,națiunilor,națiunilor
+PoliticalUnions_Tribal,political_union_tribal,confederacy,f,confrerie,confreria,confreriei,confrerie,confrerii,confreriile,confreriilor,confreriilor
+PoliticalUnions_Tribal,political_union_tribal,confederation,f,confederație,confederația,confederației,confederație,confederații,confederațiile,confederațiilor,confederațiilor
+PoliticalUnions_Tribal,political_union_tribal,alliance,f,alianță,alianța,alianței,alianțo,alianțe,alianțele,alianțelor,alianțelor
+PoliticalUnions_Tribal,political_union_tribal,kin league,,liga rudelor,,,,,,,
+PoliticalUnions_Tribal,political_union_tribal,covenant,,convenția,,,,,,,
+PoliticalUnions_Tribal,political_union_tribal,treaty,,tratatul,,,,,,,
+PoliticalUnions_Tribal,political_union_tribal,pact,,pactul,,,,,,,
+PoliticalUnions_Tribal,political_union_tribal,coalition,f,coaliție,coaliția,coaliției,coaliție,coaliții,coalițiile,coalițiilor,coalițiilor
+PoliticalUnions_Tribal,political_union_tribal,kinship,f,rudenie,rudenia,rudeniei,rudenie,rudenii,rudeniile,rudeniilor,rudeniilor
+PoliticalUnions_Tribal,political_union_tribal,people,m,om,omul,omului,omule,oameni,oamenii,oamenilor,oamenilor
+PoliticalUnions_Tribal,political_union_tribal,tribe,n,trib,tribul,tribului,tribule,triburi,triburile,triburilor,triburilor
+Quests,quest,story,f,poveste,povestea,poveștii,poveste,povești,poveștile,poveștilor,poveștilor
+Quests,quest,tale,f,poveste,povestea,poveștii,poveste,povești,poveștile,poveștilor,poveștilor
+Quests,quest,adventure,f,aventură,aventura,aventurii,aventură,aventuri,aventurile,aventurilor,aventurilor
+Quests,quest,drama,f,dramă,drama,dramei,dramă,drame,dramele,dramelor,dramelor
+Quests,quest,fable,f,fabulă,fabula,fabulei,fabulă,fabule,fabulele,fabulelor,fabulelor
+Quests,quest,tale,f,poveste,povestea,poveștii,poveste,povești,poveștile,poveștilor,poveștilor
+Quests,quest,chronicle,f,cronică,cronica,cronicii,cronică,cronici,cronicile,cronicilor,cronicilor
+Quests,quest,parable,f,parabolă,parabola,parabolei,-,parabole,parabolele,parabolelor,-
+Quests,quest,saga,,saga,,,,,,,
+Quests,quest,exploit,f,exploatare,exploatarea,exploatării,exploatare,exploatări,exploatările,exploatărilor,exploatărilor
+Quests,quest,feat,,feat,,,,,,,
+Quests,quest,enterprise,,întreprindere,,,,,,,
+Quests,quest,incident,,incident,,,,,,,
+Quests,quest,occurrence,,eveniment,,,,,,,
+Quests,quest,undertaking,,demers,,,,,,,
+Quests,quest,venture,,risc,,,,,,,
+Quests,quest,plan,,plan,,,,,,,
+Quests,quest,action,,acțiune,,,,,,,
+Quests,quest,struggle,,luptă,,,,,,,
+Quests,quest,attempt,,încercare,,,,,,,
+Quests,quest,effort,,efort,,,,,,,
+Quests,quest,encounter,,întâlnire,,,,,,,
+Quests,quest,endeavor,,efort,,,,,,,
+Quests,quest,scramble,,se agită,,,,,,,
+Quests,quest,striving,,străduință,,,,,,,
+Quests,quest,toil,,truda,,,,,,,
+Quests,quest,goal,,obiectiv,,,,,,,
+Quests,quest,quest,,căutare,,,,,,,
+Quests,quest,event,,eveniment,,,,,,,
+Quests,quest,happening,,se întâmplă,,,,,,,
+Stories,story,story,f,poveste,povestea,poveștii,poveste,povești,poveștile,poveștilor,poveștilor
+Stories,story,tale,f,poveste,povestea,poveștii,poveste,povești,poveștile,poveștilor,poveștilor
+Stories,story,yarn,n,fir,firul,firului,firule,fire,firele,firelor,firelor
+Stories,story,journey,f,călătorie,călătoria,călătoriei,călătorie,călătorii,călătoriile,călătoriilor,călătoriilor
+Stories,story,version,f,versiune,versiunea,versiunii,versiune,versiuni,versiunile,versiunilor,versiunilor
+Stories,story,approach,f,abordare,abordarea,abordării,abordareo,abordări,abordările,abordărilor,abordărilor
+Stories,story,adventure,f,aventură,aventura,aventurii,aventură,aventuri,aventurile,aventurilor,aventurilor
+Stories,story,anecdote,f,anecdotă,anecdota,anecdotei,anecdotă,anecdote,anecdotele,anecdotelor,anecdotelor
+Stories,story,article,n,articol,articolul,articolului,-,articole,articolele,articolelor,-
+Stories,story,autobiography,f,autobiografie,autobiografia,autobiografiei,autobiografie,autobiografii,autobiografiile,autobiografiilor,autobiografiilor
+Stories,story,biography,f,biografie,biografia,biografiei,biografie,biografii,biografiile,biografiilor,biografiilor
+Stories,story,book,f,carte,cartea,cărții,-,cărți,cărțile,cărților,-
+Stories,story,comedy,f,comedie,comedia,comediei,comedie,comedii,comediile,comediilor,comediilor
+Stories,story,description,f,descriere,descrierea,descrierii,descriere,descrieri,descrierile,descrierilor,descrierilor
+Stories,story,drama,f,dramă,drama,dramei,dramă,drame,dramele,dramelor,dramelor
+Stories,story,fable,f,fabulă,fabula,fabulei,fabulă,fabule,fabulele,fabulelor,fabulelor
+Stories,story,fantasy,f,fantezie,fantezia,fanteziei,fantezie,fantezii,fanteziile,fanteziilor,fanteziilor
+Stories,story,feature,,caracteristică,,,,,,,
+Stories,story,fiction,,ficțiune,,,,,,,
+Stories,story,history,,istorie,,,,,,,
+Stories,story,information,,informații,,,,,,,
+Stories,story,legend,,legendă,,,,,,,
+Stories,story,memoir,,memorii,,,,,,,
+Stories,story,myth,,mit,,,,,,,
+Stories,story,narrative,,narațiune,,,,,,,
+Stories,story,novel,,roman,,,,,,,
+Stories,story,record,,înregistrare,,,,,,,
+Stories,story,report,,raport,,,,,,,
+Stories,story,tale,,poveste,,,,,,,
+Stories,story,tragedy,,tragedie,,,,,,,
+Stories,story,version,,versiune,,,,,,,
+Stories,story,allegory,,alegorie,,,,,,,
+Stories,story,apologue,,apologie,,,,,,,
+Stories,story,beat,,bate,,,,,,,
+Stories,story,chronicle,,cronică,,,,,,,
+Stories,story,cliffhanger,,cliffhanger,,,,,,,
+Stories,story,epic,,epic,,,,,,,
+Stories,story,folktale,,poveste populară,,,,,,,
+Stories,story,gag,,gag,,,,,,,
+Stories,story,narration,,narațiune,,,,,,,
+Stories,story,parable,,parabolă,,,,,,,
+Stories,story,potboiler,,potboiler,,,,,,,
+Stories,story,recital,,recital,,,,,,,
+Stories,story,relation,,relație,,,,,,,
+Stories,story,romance,,romantism,,,,,,,
+Stories,story,saga,,saga,,,,,,,
+Stories,story,scoop,,linguriță,,,,,,,
+Stories,story,sequel,,continuare,,,,,,,
+Stories,story,serial,,serial,,,,,,,
+Stories,story,spiel,,spiel,,,,,,,
+Stories,story,yarn,,fir,,,,,,,
+Stories,story,fairy tale,,basm,,,,,,,
+Stories,story,old saw,,fierăstrău vechi,,,,,,,
+Stories,story,exploit,,exploatare,,,,,,,
+Stories,story,experience,,experiență,,,,,,,
+Stories,story,feat,,faptă,,,,,,,
+Stories,story,scene,,scena,,,,,,,
+Stories,story,trip,,călătorie,,,,,,,
+Stories,story,chance,,șansă,,,,,,,
+Stories,story,contingency,,contingență,,,,,,,
+Stories,story,endangerment,,periclitare,,,,,,,
+Stories,story,enterprise,,întreprindere,,,,,,,
+Stories,story,happening,,se întâmplă,,,,,,,
+Stories,story,hazard,,hazard,,,,,,,
+Stories,story,incident,,incident,,,,,,,
+Stories,story,jeopardy,,pericol,,,,,,,
+Stories,story,occurrence,,apariție,,,,,,,
+Stories,story,peril,,pericole,,,,,,,
+Stories,story,speculation,,speculație,,,,,,,
+Stories,story,undertaking,,întreprindere,,,,,,,
+Stories,story,venture,,risc,,,,,,,
+Stories,story,plan,,plan,,,,,,,
+Stories,story,truth,,adevăr,,,,,,,
+Stories,story,action,,acțiune,,,,,,,
+Stories,story,background,,fundal,,,,,,,
+Stories,story,contact,,contact,,,,,,,
+Stories,story,involvement,,implicare,,,,,,,
+Stories,story,practice,,practică,,,,,,,
+Stories,story,reality,,realitate,,,,,,,
+Stories,story,struggle,,luptă,,,,,,,
+Stories,story,wisdom,,înțelepciune,,,,,,,
+Stories,story,attempt,,încercare,,,,,,,
+Stories,story,battle,,luptă,,,,,,,
+Stories,story,clash,,ciocnire,,,,,,,
+Stories,story,combat,,luptă,,,,,,,
+Stories,story,conflict,,conflict,,,,,,,
+Stories,story,contest,,concurs,,,,,,,
+Stories,story,effort,,efort,,,,,,,
+Stories,story,encounter,,întâlnire,,,,,,,
+Stories,story,endeavor,,efort,,,,,,,
+Stories,story,skirmish,,încăierare,,,,,,,
+Stories,story,strife,,luptă,,,,,,,
+Stories,story,trial,,încercare,,,,,,,
+Stories,story,work,,muncă,,,,,,,
+Stories,story,essay,,eseu,,,,,,,
+Stories,story,grind,,măcinare,,,,,,,
+Stories,story,hassle,,bătaie de cap,,,,,,,
+Stories,story,jam,,gem,,,,,,,
+Stories,story,jump,,salt,,,,,,,
+Stories,story,labor,,muncă,,,,,,,
+Stories,story,pains,,dureri,,,,,,,
+Stories,story,row,,vâslește,,,,,,,
+Stories,story,scramble,,agitație,,,,,,,
+Stories,story,striving,,străduindu-se,,,,,,,
+Stories,story,toil,,truda,,,,,,,
+Stories,story,undertaking,,întreprindere,,,,,,,
+TalkTopics_Heavy,talktopicheavyfile,childhood,m,copilărie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,childhood fears,m,temerile din copilărie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,childhood loves,m,iubiri din copilărie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,childhood experiences,m,experiențe din copilărie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,life,m,viață,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,life challenges,m,provocările vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,life's rewards,m,recompensele vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,life memories,m,amintirile vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,life goals,m,obiectivele vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,life regrets,m,regretele vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,life stresses,m,stresul vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the disappointment of life,m,dezamăgirile vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the pointlessness of life,m,inutilitatea vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the randomness of life,m,cât de la întâmplare e viața,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,hope,m,speranță,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,maturity,m,maturitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,adulthood,m,viața de adult,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,children,m,copii,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,fear,m,frică,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,nightmares,m,coșmaruri,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,success,m,succes,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the morality of poverty,m,moralitatea sărăciei,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the morality of wealth,m,moralitatea bogăției,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,death,m,moarte,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,death's inevitability,m,inevitabilitatea morții,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,death's release,m,elementul elibrator al morții,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,life after death,m,viața după moarte,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,dead loved ones,m,morții cei dragi,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,absent friends,m,prietenii absenți,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,charity,m,caritate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,philanthropism,m,filantropie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,aiding the downtrodden,m,ajutorarea celor defavorizați,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,helping the sick,m,ajutorarea celor bolnavi,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,helping the poor,m,ajutorarea celor săraci,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,aliens,m,străini,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,alien contact,m,contact extraterestru,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,alien conspiracies,m,conspirații extraterestre,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the absence of aliens,m,absența extratereștrilor,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,government conspiracies,m,conspirații guvernamentale,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,religious conspiracies,m,conspirații religioase,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the stars,m,stelele,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,other planets,m,alte planete,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,this planet,m,această planetă,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the scale of the universe,m,scara universului,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the age of the universe,m,vârsta universului,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the fate of the universe,m,soarta universului,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,man's spread through the universe,m,răspândirea omului în univers,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,primitivism,m,primitivism,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,luddism,m,luddism,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,technology,m,tehnologie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,machine intelligence,m,inteligența mașinilor,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,artificial intelligence,m,inteligența artificială,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,computer technology,m,tehnologie informatică,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,weapons technology,m,tehnologia armelor,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,society,m,societate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,morality,m,moralitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,freedom,m,libertate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,law,m,lege,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,government,m,guvern,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,rights,m,drepturi,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,history,m,istorie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,terror,m,teroare,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,terrorism,m,terorism,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,politics,m,politică,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,honor,m,onoare,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,social issues,m,probleme sociale,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the market,m,piața,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,freedom,m,libertate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,authoritarianism,m,autoritarism,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,anarchy,m,anarhie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,injustice,m,nedreptate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,justice,m,justiție,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,truth,m,adevăr,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,tribalism,m,tribalism,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,ingroup preference,m,preferința de grup,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,philosophy,m,filosofie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,reality,m,realitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,culture,m,cultură,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,culture differences,m,diferențe culturale,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,culture shock,m,șoc cultural,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,human nature,m,natura umană,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,humanity,m,umanitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,religion,m,religie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the meaning of life,m,sensul vieții,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,identity,m,identitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,eternity,m,eternitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,monism,m,monism,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,dualism,m,dualism,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,epistemology,m,epistemologie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,honesty,m,onestitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,freedom of speech,m,libertatea de exprimare,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,ethnicity,m,etnie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,liberalism,m,liberalism,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the inevitability of suffering,m,inevitabilitatea suferinței,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the nature of knowledge,m,natura cunoașterii,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the nature of emotion,m,natura emoțiilor,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,fate,m,destinul,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the fate of mankind,m,soarta omenirii,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the fate of the universe,m,soarta universului,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,art,m,artă,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,art movements,m,mișcări artistice,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,artistic ambition,m,ambiția artistică,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,human aesthetics,m,estetica umană,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,artistic instincts,m,instincte artistice,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,art history,m,istoria artei,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,love,m,dragoste,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,romance,m,romantism,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,sexuality,m,sexualitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,sexual morality,m,moralitate sexuală,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,masculinity,m,masculinitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,femininity,m,feminitate,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,self-replicating machines,m,mașini care se autoreplică,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,generation ships,m,nave de generație,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,Von Neumann probes,m,sondele Von Neumann,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,archotechnology,m,arhotehnologie,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,archotechs,m,arhotechs,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,machine personas,m,persoane mașină,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the Johnson-Tanaka drive,m,unitatea Johnson-Tanaka,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,the Ordo Historia,m,Ordo Historia,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,old Earth,m,vechiul Pământ,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,rimworlds,m,rimworlds,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,coreworlds,m,coreworlds,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,cryptosleep,m,criptosomnul,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,cryptosleep tombs,m,mormintele cryptosleep,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,mechanoids,m,mecanoizi,-,-,-,-,-,-,-
+TalkTopics_Heavy,talktopicheavyfile,cannibalism,m,canibalism,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,the weather,m,vreme,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,breakfast cereal,m,cereale pentru micul dejun,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,breakfast,m,micul dejun,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,dinner,m,cină,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,food,m,mâncare,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,lunchtime,m,ora prânzului,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,eating habits,m,obiceiuri alimentare,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,salty foods,m,alimente sărate,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,sweet foods,m,alimente dulci,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,savory foods,m,alimente sărate,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,bitter foods,m,alimente amare,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,favorite haircuts,m,tunsori preferate,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,favorite clothes,m,haine preferate,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,hairstyles,m,coafuri,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,fashion,m,modă,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,makeup,m,machiaj,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,beards,m,bărbi,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,facial hair,m,părul facial,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,odd jobs,m,locuri de muncă ciudate,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,kids' games,m,jocuri pentru copii,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,entertainment,m,divertisment,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,games,m,jocuri,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,birthdays,m,zile de naștere,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,balloons,m,baloane,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,drunkenness,m,beție,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,getting drunk,m,a se îmbăta,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,parties,m,petreceri,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,vacations,m,vacanțe,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,beautiful people,m,oameni frumoși,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,fat people,m,oameni grași,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,tall people,m,persoane înalte,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,short people,m,oameni scunzi,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,guilty pleasures,m,plăceri vinovate,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,vomiting,m,vărsături,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,eating,m,mâncarea,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,swimming,m,înot,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,sports,m,sport,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,beaches,m,plaje,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,animals,m,animale,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,cute animals,m,animale drăguțe,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,fat animals,m,animale grase,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,pets,m,animale de companie,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,pet peeves,m,animale de companie,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,life's annoyances,m,neplăcerile vieții,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,laundry,m,spălătorie,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,sweating,m,transpirație,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,hauling,m,transportând,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,cleaning,m,curățenie,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,eating without tables,m,mâncarea fără mese,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,comfortable furniture,m,mobilier confortabil,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,fine meals,m,mese fine,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,lavish meals,m,mese somptuoase,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,pemmican,m,pemmican,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,horseshoes,m,potcoave de cai,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,recreation,m,recreere,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,lovers,m,iubitori,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,lovin',m,iubitori,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,healroot,m,healroot,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,botched surgeries,m,operații ratate,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,vomiting,m,vărsături,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,board games,m,jocuri de masă,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,computer games,m,jocuri pe calculator,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,television,m,televiziune,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,poker,m,poker,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,billiards,m,biliard,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,spaceships,m,nave spațiale,-,-,-,-,-,-,-
+TalkTopics_Light,talktopiclightfile,xenohumans,m,xeno-oameni,-,-,-,-,-,-,-
+TerrainFeatures,TerrainFeature,plain,f,câmpie,câmpia,câmpiei,câmpio,câmpii,câmpiile,câmpiilor,câmpiilor
+TerrainFeatures,TerrainFeature,expanse,f,întindere,întinderea,întinderii,întindere,întinderi,întinderile,întinderilor,întinderilor
+TerrainFeatures,TerrainFeature,grassland,f,pășune,pășunea,pășunii,-,pășuni,pășunile,pășunilor,-
+TerrainFeatures,TerrainFeature,plateau,n,platou,platoul,platoului,-,platouri,platourile,platourilor,-
+TerrainFeatures,TerrainFeature,prairie,,preerie,,,,,,,
+TerrainFeatures,TerrainFeature,desert,n,deșert,deșertul,deșertului,deșertule,deșerturi,deșerturile,deșerturilor,deșerturilor
+TerrainFeatures,TerrainFeature,field,n,câmp,câmpul,câmpului,câmpule,câmpuri,câmpurile,câmpurilor,câmpurilor
+TerrainFeatures,TerrainFeature,forest,f,pădure,pădurea,pădurii,pădure,păduri,pădurile,pădurilor,pădurilor
+TerrainFeatures,TerrainFeature,cactus,m,cactus,cactusul,cactusului,-,cactuși,cactușii,cactușilor,-
+TerrainFeatures,TerrainFeature,tree,m,copac,copacul,copacului,copacule,copaci,copacii,copaciilor,copaciilor
+TerrainFeatures,TerrainFeature,bush,,tufiș,,,,,,,
+TerrainFeatures,TerrainFeature,thicket,,boschet,,,,,,,
+TerrainFeatures,TerrainFeature,bramble,,mărăciniș,,,,,,,
+TerrainFeatures,TerrainFeature,boulder,,bolovan,,,,,,,
+TerrainFeatures,TerrainFeature,rock,,stâncă,,,,,,,
+TerrainFeatures,TerrainFeature,quarry,,carieră,,,,,,,
+TerrainFeatures,TerrainFeature,stone,,piatră,,,,,,,
+TerrainFeatures,TerrainFeature,mountain,,munte,,,,,,,
+TerrainFeatures,TerrainFeature,hill,,deal,,,,,,,
+TerrainFeatures,TerrainFeature,mesa,,mesa,,,,,,,
+TerrainFeatures,TerrainFeature,cliff,,stâncă,,,,,,,
+TerrainFeatures,TerrainFeature,bluff,,faleză,,,,,,,
+TerrainFeatures,TerrainFeature,crag,,stâncă,,,,,,,
+TerrainFeatures,TerrainFeature,ridge,,creastă,,,,,,,
+TerrainFeatures,TerrainFeature,valley,,vale,,,,,,,
+TerrainFeatures,TerrainFeature,canyon,,canion,,,,,,,
+TerrainFeatures,TerrainFeature,gorge,,defileu,,,,,,,
+TerrainFeatures,TerrainFeature,oasis,,oază,,,,,,,
+TerrainFeatures,TerrainFeature,meadow,,pajiște,,,,,,,
+TerrainFeatures,TerrainFeature,cave,,peșteră,,,,,,,
+TerrainFeatures,TerrainFeature,river,,râu,,,,,,,
+TerrainFeatures,TerrainFeature,stream,,pârâiaș,,,,,,,
+TerrainFeatures,TerrainFeature,creek,,pârâu,,,,,,,
+TerrainFeatures,TerrainFeature,tributary,,afluent,,,,,,,
+TerrainFeatures,TerrainFeature,brook,,pârâu,,,,,,,
+TerrainFeatures,TerrainFeature,delta,,deltă,,,,,,,
+TerrainFeatures,TerrainFeature,inlet,,intrare,,,,,,,
+TerrainFeatures,TerrainFeature,sound,,,,,,,,,
+TerrainFeatures,TerrainFeature,cove,,golfuleț,,,,,,,
+TerrainFeatures,TerrainFeature,lake,,lac,,,,,,,
+TerrainFeatures,TerrainFeature,ocean,,ocean,,,,,,,
+TerrainFeatures,TerrainFeature,pond,,iaz,,,,,,,
+TerrainFeatures,TerrainFeature,basin,,bazin,,,,,,,
+TerrainFeatures,TerrainFeature,lagoon,,lagună,,,,,,,
+TerrainFeatures,TerrainFeature,pit,,groapă,,,,,,,
+TerrainFeatures,TerrainFeature,swamp,,mlaștină,,,,,,,
+TerrainFeatures,TerrainFeature,tarpit,,șanț,,,,,,,
+TerrainFeatures,TerrainFeature,mire,,băltoacă,,,,,,,
+TreeTypes,TreeType,oak,m,stejar,stejarul,stejarului,stejarule,stejari,stejarii,stejarilor,stejarilor
+TreeTypes,TreeType,poplar,m,plop,plopul,plopului,plopule,plopi,plopii,plopilor,plopilor
+TreeTypes,TreeType,pine,m,pin,pinul,pinului,pinule,pini,pinii,pinilor,pinilor
+TreeTypes,TreeType,teak,,,,,,,,,
+TreeTypes,TreeType,cecropia,,cecropia,,,,,,,
+TreeTypes,TreeType,palm,m,palmier,palmierul,palmierului,palmierule,palmieri,palmierii,palmierilor,palmierilor
+TreeTypes,TreeType,bamboo,m,bambus,bambusul,bambusului,bambusule,bambuși,bambușii,bambușilor,bambușilor
+TreeTypes,TreeType,ash,m,frasin,frasinul,frasinului,frasinule,frasini,frasinii,frasinilor,frasinilor
+TreeTypes,TreeType,aspen,m,plop,plopul,plopului,plopule,plopi,plopii,plopilor,plopilor
+TreeTypes,TreeType,beech,m,fag,fagul,fagului,fagule,fagi,fagii,fagilor,fagilor
+TreeTypes,TreeType,birch,m,mesteacăn,mesteacănul,mesteacănului,mesteacănule,mesteceni,mestecenii,mestecenilor,mestecenilor
+TreeTypes,TreeType,cherry,m,cireș,cireșul,cireșului,-,cireși,cireșii,cireșilor,-
+TreeTypes,TreeType,chestnut,m,castan,castanul,castanului,castanule,castani,castanii,castanilor,castanilor
+TreeTypes,TreeType,cottonwood,,lemn de bumbac,,,,,,,
+TreeTypes,TreeType,elm,m,ulm,ulmul,ulmului,ulmule,ulmi,ulmii,ulmilor,ulmilor
+TreeTypes,TreeType,fir,m,brad,bradul,bradului,bradule,brazi,brazii,brazilor,brazilor
+TreeTypes,TreeType,hemlock,,cicuta,,,,,,,
+TreeTypes,TreeType,hickory,m,carpen,carpenul,carpenului,carpenule,carpeni,carpenii,carpenilor,carpenilor
+TreeTypes,TreeType,larch,f,larice,laricea,laricii,larice,larici,laricile,laricilor,laricilor
+TreeTypes,TreeType,maple,m,arțar,arțarul,arțarului,arțarule,arțari,arțarii,arțarilor,arțarilor
+TreeTypes,TreeType,cedar,m,cedru,cedrul,cedrului,cedrule,cedri,cedrii,cedrilor,cedrilor
+TreeTypes,TreeType,spruce,m,molid,molidul,molidului,molidule,molizi,molizii,molizilor,molizilor
+TreeTypes,TreeType,walnut,m,nuc,nucul,nucului,nucule,nuci,nucii,nucilor,nucilor
+TreeTypes,TreeType,willow,f,salcie,salcia,salciei,salcie,salcii,salciile,salciilor,salciilor
+Vegetables,Vegetable,carrot,n,morcov,morcovul,morcovului,,morcovi,morcovii,morcovilor,
+Vegetables,Vegetable,onion,f,ceapă,ceapa,cepei,ceapă,cepe,cepele,cepelor,cepelor
+Vegetables,Vegetable,turnip,m,nap,napul,napului,-,napi,napii,napilor,-
+Vegetables,Vegetable,gourd,m,dovleac,dovleacul,dovleacului,dovleacule,dovleci,dovlecii,dovlecilor,dovlecilor
+Vegetables,Vegetable,pumpkin,m,dovleac,dovleacul,dovleacului,dovleacule,dovleci,dovlecii,dovlecilor,dovlecilor
+Vegetables,Vegetable,cauliflower,f,conopidă,conopida,conopidei,conopidă,conopide,conopidele,conopidelor,conopidelor
+Vegetables,Vegetable,bell pepper,,ardei gras,,,,,,,
+Vegetables,Vegetable,pepper,m,ardei,ardeiul,ardeiului,ardeiule,ardei,ardeii,ardeilor,ardeilor
+Vegetables,Vegetable,mushroom,,ciuperci,,,,,,,
+Vegetables,Vegetable,pea,f,mazăre,mazărea,mazărei,mazăre,-,-,-,-
+Vegetables,Vegetable,artichoke,f,anghinare,anghinarea,anghinarei,anghinare,anghinare,anghinarele,anghinarelor,anghinarelor
+Vegetables,Vegetable,eggplant,,vinete,,,,,,,
+Vegetables,Vegetable,lentil,f,linte,lintea,lintei,linte,-,-,-,-
+Vegetables,Vegetable,cabbage,f,varză,varza,verzei,varză,verze,verzele,verzelor,verzelor
+Vegetables,Vegetable,beet,,sfeclă roșie,,,,,,,
+Vegetables,Vegetable,corn cob,,știulete de porumb,,,,,,,
+Vegetables,Vegetable,yam,,cartof dulce,,,,,,,
+Vegetables,Vegetable,zucchini,,zucchini,,,,,,,
+Weapons,Weapon,dagger,n,cuțit,cuțitul,cuțitului,-,cuțite,cuțitele,cuțitelor,-
+Weapons,Weapon,blade,f,lamă,lama,lamei,lamă,lame,lamele,lamelor,lamelor
+Weapons,Weapon,shiv,n,briceag,briceagul,briceagului,briceagule,bricege,bricegele,bricegelor,bricegelor
+Weapons,Weapon,razor,,lamă de ras,,,,,,,
+Weapons,Weapon,scythe,f,coasă,coasa,coasei,coasă,coase,coasele,coaselor,coaselor
+Weapons,Weapon,sickle,f,seceră,secera,secerii,-,seceri,secerile,secerilor,-
+Weapons,Weapon,sword,f,sabie,sabia,sabiei,-,săbii,săbiile,săbiilor,-
+Weapons,Weapon,sabre,f,sabie,sabia,sabiei,-,săbii,săbiile,săbiilor,-
+Weapons,Weapon,rapier,f,sabie,sabia,sabiei,-,săbii,săbiile,săbiilor,-
+Weapons,Weapon,claymore,,,,,,,,,
+Weapons,Weapon,scimitar,,scimitar,,,,,,,
+Weapons,Weapon,spear,f,suliță,sulița,suliții,suliță,suliți,sulițile,suliților,suliților
+Weapons,Weapon,pike,f,lance,lancea,lăncii,lance,lănci,lăncile,lăncilor,lăncilor
+Weapons,Weapon,ikwa,,ikwa,,,,,,,
+Weapons,Weapon,lance,f,lance,lancea,lăncii,lance,lănci,lăncile,lăncilor,lăncilor
+Weapons,Weapon,bayonet,f,baionetă,baioneta,baionetei,baionetă,baionete,baionetele,baionetelor,baionetelor
+Weapons,Weapon,javelin,f,suliță,sulița,suliții,suliță,suliți,sulițile,suliților,suliților
+Weapons,Weapon,axe,n,topor,toporul,toporului,-,topoare,topoarele,topoarelor,-
+Weapons,Weapon,tomahawk,n,tomahawk,tomahawkul,tomahawkului,tomahawkule,tomahawkuri,tomahawkurile,tomahawkurilor,tomahawkurilor
+Weapons,Weapon,hatchet,n,toporaș,toporașul,toporașului,toporașule,toporașe,toporașele,toporașelor,toporașelor
+Weapons,Weapon,whip,n,bici,biciul,biciului,biciule,bice,bicele,bicelor,bicelor
+Weapons,Weapon,saw,n,ferăstrău,ferăstrăul,ferăstrăului,ferăstrăule,ferăstraie,ferăstraiele,ferăstraielor,ferăstraielor
+Weapons,Weapon,club,f,bâtă,bâta,bâtei,bâto,bâte,bâtele,bâtelor,bâtelor
+Weapons,Weapon,hammer,n,ciocan,ciocanul,ciocanului,ciocanule,ciocane,ciocanele,ciocanelor,ciocanelor
+Weapons,Weapon,sledgehammer,n,baros,barosul,barosului,barosule,baroase,baroasele,baroaselor,baroaselor
+Weapons,Weapon,mace,n,buzdugan,buzduganul,buzduganului,buzduganule,buzdugane,buzduganele,buzduganelor,buzduganelor
+Weapons,Weapon,knuckleduster,,ciocan de buzunar,,,,,,,
+Weapons,Weapon,gauntlet,f,mănușă,mănușa,mănușii,mănușă,mănuși,mănușile,mănușilor,mănușilor
+Weapons,Weapon,dart,f,săgeată,săgeata,săgeții,săgeată,săgeți,săgețile,săgeților,săgeților
+Weapons,Weapon,arrow,f,săgeată,săgeata,săgeții,săgeată,săgeți,săgețile,săgeților,săgeților
+Weapons,Weapon,crossbow,,arbaleta,,,,,,,
+Weapons,Weapon,bow,n,arc,arcul,arcului,-,arce,arcele,arcelor,-
+Weapons,Weapon,gun,f,pușcă,pușca,puștii,-,puști,puștile,puștilor,-
+Weapons,Weapon,pistol,n,pistol,pistolul,pistolului,-,pistoale,pistoalele,pistoalelor,-
+Weapons,Weapon,rifle,f,carabină,carabina,carabinei,-,carabine,carabinele,carabinelor,-
+Weapons,Weapon,shotgun,,pușcă de vânătoare,,,,,,,
+Weapons,Weapon,revolver,n,revolver,revolverul,revolverului,revolverule,revolvere,revolverele,revolverelor,revolverelor
+Weapons,Weapon,cannon,n,tun,tunul,tunului,tunule,tunuri,tunurile,tunurilor,tunurilor
+Weapons,Weapon,mortar,n,mortier,mortierul,mortierului,-,mortiere,mortierele,mortierelor,-
+Weapons,Weapon,howitzer,n,obuzier,obuzierul,obuzierului,obuzierule,obuziere,obuzierele,obuzierelor,obuzierelor
+Weapons,Weapon,bomb,f,bombă,bomba,bombei,bombă,bombe,bombele,bombelor,bombelor
+Weapons,Weapon,nuke,,bombă nucleară,,,,,,,
+Weapons,Weapon,landmine,,mină de teren,,,,,,,
+Weapons,Weapon,grenade,f,grenadă,grenada,grenadei,grenadă,grenade,grenadele,grenadelor,grenadelor
+Weapons,Weapon,missile,n,proiectil,proiectilul,proiectilului,-,proiectile,proiectilele,proiectilelor,-
+Weapons,Weapon,rocket,f,rachetă,racheta,rachetei,rachetă,rachete,rachetele,rachetelor,rachetelor

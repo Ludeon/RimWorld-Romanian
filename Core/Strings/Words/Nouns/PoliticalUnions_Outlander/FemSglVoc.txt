@@ -1,0 +1,11 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+uniune
+națiune
+confrerie
+confederație
+alianțo
+tratatule
+coaliție
+federație
+ligă
+amalgamareo

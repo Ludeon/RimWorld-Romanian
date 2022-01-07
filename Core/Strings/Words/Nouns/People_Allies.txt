@@ -1,11 +1,12 @@
-﻿prieten
-susținător
-partener
-prieten
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+friend
+supporter
+partner
+buddy
 companion
-cohortă
-tovarăș
-acolit
-apărător
-asistent
-urmăritor
+cohort
+comrade
+sidekick
+defender
+assistant
+follower

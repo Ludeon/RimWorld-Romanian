@@ -1,0 +1,23 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+maimuței
+cămilei
+cobrei
+ciorii
+libelulei
+vulpii
+broaștei
+gorilei
+lăcustei
+viespii
+hienei
+lăcustei
+cârtiței
+maimuței
+bufniței
+panterei
+salamandrei
+broaștei
+viperei
+viespii
+nevăstuicii
+balenei

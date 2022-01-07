@@ -15,7 +15,20 @@
     <li>scraped_past->skipped</li>
     <li>scraped_past->skated</li>
   -->
-  <Combat_DeflectIncludes.rulePack.rulesStrings>TODO</Combat_DeflectIncludes.rulePack.rulesStrings>
+  <Combat_DeflectIncludes.rulePack.rulesStrings>
+    <li>scraped_present->uitându-se</li>
+    <li>scraped_present->sărind</li>
+    <li>scraped_present->pășind</li>
+    <li>scraped_present->trăsnind</li>
+    <li>scraped_present->sărind</li>
+    <li>scraped_present->patinând</li>
+    <li>scraped_past->uitat</li>
+    <li>scraped_past->sărit</li>
+    <li>scraped_past->pășit</li>
+    <li>scraped_past->trăsnit</li>
+    <li>scraped_past->sărit</li>
+    <li>scraped_past->patinat</li>
+  </Combat_DeflectIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite]</li>
@@ -33,7 +46,22 @@
     <li>tried->tried</li>
     <li>tried->attempted</li>
   -->
-  <Combat_FailIncludes.rulePack.rulesStrings>TODO</Combat_FailIncludes.rulePack.rulesStrings>
+  <Combat_FailIncludes.rulePack.rulesStrings>
+    <li>action->[INITIATOR_label] [tried] să [damaged_conj] pe [RECIPIENT_label]</li>
+    <li>action->[INITIATOR_label] [tried] să [damaged_conj] pe [RECIPIENT_label] cu [implement]</li>
+    <li>action->[INITIATOR_label] [tried] să folosească [implement] ca să [damaged_conj] pe [RECIPIENT_label]</li>
+    <li>action->[INITIATOR_label] a azvârlit [WEAPON_label] [INITIATOR_possessive] către [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label] [verb_genericattack] cu [implement] [towardsat] [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label] [verb_genericattack] [towardsat] [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label] [verb_genericattack] cu [implement]</li>
+    <li>towardsat->către</li>
+    <li>towardsat->înspre</li>
+    <li>verb_genericattack->a pendulat</li>
+    <li>verb_genericattack->a azvârlit</li>
+    <li>verb_genericattack->a trântit</li>
+    <li>tried->a încercat</li>
+    <li>tried->a încercat</li>
+  </Combat_FailIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>
@@ -48,7 +76,19 @@
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</li>
     <li>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</li>
   -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings>TODO</Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+    <li>result(p=1)->[damaged_present] [targetlist] [RECIPIENT_possessive]</li>
+    <li>result(p=0.2)->[damaged_present] [targetlist] [RECIPIENT_possessive] și [flavortext_consequence]</li>
+    <li>result(p=0.1)->[damaged_present] [strikeAdv] [targetlist] [RECIPIENT_possessive]</li>
+    <li>strikeAdv->dureros</li>
+    <li>strikeAdv->oribil</li>
+    <li>strikeAdv->sălbatic</li>
+    <li>strikeAdv->vicios</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->lăsând o rană dezgustătoare</li>
+    <li>flavortext_consequence->lăsând o rană îngrozitoare</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->făcând ca [RECIPIENT_objective] [wince] [painevent]</li>
+    <li>flavortext_consequence(p=0.2)->dezechilibrându-l pe [RECIPIENT_objective]</li>
+  </Combat_MeleeDamageIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[action], [result].</li>
@@ -90,7 +130,46 @@
     <li>to->to</li>
     <li>to->into</li>
   -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings>TODO</Combat_MeleeIncludes.rulePack.rulesStrings>
+  <Combat_MeleeIncludes.rulePack.rulesStrings>
+    <li>r_logentry->[action], [result].</li>
+    <li>r_logentry(priority=-10)->[action].</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[TOOL_definite] de la [WEAPON_definite] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[WEAPON_definite] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[TOOL_definite] de la [WEAPON_indefinite]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->[WEAPON_indefinite]</li>
+    <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[TOOL_definite] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[TOOL_definite] de la [WEAPON_definite] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[WEAPON_definite] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[TOOL_definite] [INITIATOR_possessive]</li>
+    <li>targetlist(recipient_part_count==1)->[recipient_part0_label]</li>
+    <li>targetlist(recipient_part_count==2)->[recipient_part0_label] și [recipient_part1_label]</li>
+    <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], și [recipient_part2_label]</li>
+    <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], și [recipient_part3_label]</li>
+    <li>damaged_present(deflected!=True)->rănind</li>
+    <li>damaged_present(deflected!=True)->vătămând</li>
+    <li>destroyed(p=0.5)->distrus</li>
+    <li>destroyed(p=0.5)->demolat</li>
+    <li>destroyed(p=0.5)->ruinat</li>
+    <li>destroyed(p=0.5)->devastat</li>
+    <li>wince(recipient_flesh==Normal)->să tresară</li>
+    <li>wince(recipient_flesh==Normal)->să se strâmbeze</li>
+    <li>wince(recipient_flesh==Normal)->să se înfioreze</li>
+    <li>wince(recipient_flesh==Normal)->să geme</li>
+    <li>wince(recipient_flesh!=Mechanoid)->să țipe</li>
+    <li>wince(recipient_flesh!=Mechanoid)->să strige</li>
+    <li>wince->să reculeze</li>
+    <li>wince->să se împiedice</li>
+    <li>painstate->în</li>
+    <li>painstate->cu</li>
+    <li>painstate->de la</li>
+    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] durere</li>
+    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] agonie</li>
+    <li>painevent(recipient_flesh==Normal)->mizerabil</li>
+    <li>painevent->de la leziune</li>
+    <li>painevent->de la rană</li>
+    <li>to->în</li>
+    <li>to->în</li>
+  </Combat_MeleeIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>skillDescMelee->[wielding] [INITIATOR_possessive] [WEAPON_label] [skillAdv]</li>
@@ -142,7 +221,56 @@
     <li>skillAdv(initiator_flesh==Mechanoid)->robotically</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->directly</li>
   -->
-  <Combat_SkillIncludes.rulePack.rulesStrings>TODO</Combat_SkillIncludes.rulePack.rulesStrings>
+  <Combat_SkillIncludes.rulePack.rulesStrings>
+    <li>skillDescMelee->[wielding] [skillAdv] [WEAPON_definite] [INITIATOR_possessive]</li>
+    <li>skillDescMelee->[using] [skillAdv] [implement]</li>
+    <li>wielding(p=4)->ținând</li>
+    <li>wielding(p=3)->folosind</li>
+    <li>wielding(p=2)->mânuind</li>
+    <li>wielding->fluturând</li>
+    <li>wielding->manipulând</li>
+    <li>using(p=4)->folosind</li>
+    <li>using->ghidând</li>
+    <li>using->propulsând</li>
+    <li>using->utilizând</li>
+    <li>using->mișcând</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->în mod incompetent</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->inept</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->sălbatic</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->la întâmplare</li>
+    <li>skillAdv(INITIATOR_skill&lt;=3)->în mod dezordonat</li>
+    <li>skillAdv(INITIATOR_skill&lt;=4)->ciudat</li>
+    <li>skillAdv(INITIATOR_skill&lt;=4)->cu stângăcie</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)->cu teamă</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)->ezitant</li>
+    <li>skillAdv(INITIATOR_skill&lt;=5)->prostește</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->ezitant</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->cu reticență</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->încet</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->tentativ</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->inexpert</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->amatorist</li>
+    <li>skillAdv(INITIATOR_skill&lt;=6)->timid</li>
+    <li>skillAdv(INITIATOR_skill&lt;=8)->cu entuziasm</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->proficient</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill&lt;=10)->competent</li>
+    <li>skillAdv(INITIATOR_skill>=8)->în mod profesionist</li>
+    <li>skillAdv(INITIATOR_skill>=8)->cu abilitate</li>
+    <li>skillAdv(INITIATOR_skill>=8)->cu pricepere</li>
+    <li>skillAdv(INITIATOR_skill>=8)->ingenios</li>
+    <li>skillAdv(INITIATOR_skill>=8)->cu dexteritate</li>
+    <li>skillAdv(INITIATOR_skill>=8)->cu pricepere</li>
+    <li>skillAdv(INITIATOR_skill>=10)->cu pricepere</li>
+    <li>skillAdv(INITIATOR_skill>=10)->cu abilitate</li>
+    <li>skillAdv(INITIATOR_skill>=12)->în mod expert</li>
+    <li>skillAdv(INITIATOR_skill>=12)->precis</li>
+    <li>skillAdv(INITIATOR_skill>=14)->cu măiestrie</li>
+    <li>skillAdv(INITIATOR_skill>=16)->artistic</li>
+    <li>skillAdv(INITIATOR_skill>=16)->grațios</li>
+    <li>skillAdv(initiator_flesh==Mechanoid)->mecanic</li>
+    <li>skillAdv(initiator_flesh==Mechanoid)->robotic</li>
+    <li>skillAdv(initiator_flesh==Mechanoid)->direct</li>
+  </Combat_SkillIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
@@ -154,6 +282,15 @@
     <li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], and [recipient_part_damaged2_label]</li>
     <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], and [recipient_part_damaged3_label]</li>
   -->
-  <Combat_WoundIncludes.rulePack.rulesStrings>TODO</Combat_WoundIncludes.rulePack.rulesStrings>
+  <Combat_WoundIncludes.rulePack.rulesStrings>
+    <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] și [recipient_part_destroyed1_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], și [recipient_part_destroyed2_label]</li>
+    <li>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], și [recipient_part_destroyed3_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] și [recipient_part_damaged1_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], și [recipient_part_damaged2_label]</li>
+    <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], și [recipient_part_damaged3_label]</li>
+  </Combat_WoundIncludes.rulePack.rulesStrings>
   
 </LanguageData>

@@ -15,6 +15,22 @@
     <li>r_name->[Color] [story]</li>
     <li>r_name->[story] [RomanNumeral]</li>
   -->
-  <NamerScenario.rulePack.rulesStrings>TODO</NamerScenario.rulePack.rulesStrings>
+  <NamerScenario.rulePack.rulesStrings>
+    <li>r_name->[story_SglNom] [Trans] [Weapon_SglArt]</li>
+    <li>r_name->[story_SglNom] [Trans] [Animal_SglArt]</li>
+    <li>r_name->[story_SglNom] [Trans] [TerrainFeature_SglArt]</li>
+    <li>r_name->[story_SglNom] [Trans] [PersonJob_PluArt]</li>
+    <li>r_name->[story_SglNom] [Trans] [ConceptAny]</li>
+    <li>r_name->[story_SglNom] de [ConceptAny]</li>
+    <li>r_name->[story_SglNom] [Trans] un [Community_MscSglNom]</li>
+    <li>r_name->[story_SglNom] [Trans] o [Community_FemSglNom]</li>
+    <li>r_name->o [story_FemSglNom] [AdjectiveAnyFeminine]</li>
+    <li>r_name->un [story_MscSglNom] [AdjectiveAnyMasculine]</li>
+    <li>r_name->[story_SglNom] [Trans] jocul de [Game_SglNom]</li>
+    <li>r_name->[story_SglNom] în [Color_SglNom] și [Color_SglNom]</li>
+    <li>r_name->[story_FemSglNom] [AdjectiveColor_FemSgl]</li>
+    <li>r_name->[story_MscSglNom] [AdjectiveColor_MscSgl]</li>
+    <li>r_name->[story_SglNom] [RomanNumeral]</li>
+  </NamerScenario.rulePack.rulesStrings>
   
 </LanguageData>

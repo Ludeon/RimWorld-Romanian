@@ -1,7 +1,8 @@
-﻿mamă
-Fiu
-tată
-frate
-unchi
-nepot
-mătușă
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+mother
+son
+father
+brother
+uncle
+nephew
+aunt

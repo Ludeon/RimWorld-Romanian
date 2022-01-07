@@ -1,0 +1,10 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+ucigașilor
+ucigașilor
+măcelarilor
+vânătorilor
+ucigașilor
+exterminatorilor
+condamnaților
+criminalilor
+escrocilor

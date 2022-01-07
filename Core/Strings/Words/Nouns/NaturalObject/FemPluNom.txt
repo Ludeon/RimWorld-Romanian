@@ -1,0 +1,15 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+stânci
+pietre
+piscine
+peșteri
+buturugi
+cochilii
+pene
+semințe
+copite
+gheare
+cozi
+piei
+piei
+aripi

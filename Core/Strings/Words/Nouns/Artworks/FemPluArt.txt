@@ -1,0 +1,18 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+artele
+lucrările
+piesele
+operele
+expresiile
+încercările
+formele
+imaginile
+împușcăturile
+picturile
+curbele
+oglinzile
+zilele
+vomele
+transpirațiile
+umbrele
+libertățile

@@ -1,0 +1,19 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+stejarului
+plopului
+pinului
+palmierului
+bambusului
+frasinului
+plopului
+fagului
+mesteacănului
+cireșului
+castanului
+ulmului
+bradului
+carpenului
+arțarului
+cedrului
+molidului
+nucului

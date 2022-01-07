@@ -1,0 +1,9 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+fermieri
+săteni
+morari
+fierari
+berari
+țesători
+bucătari
+cerșetori

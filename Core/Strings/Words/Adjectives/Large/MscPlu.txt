@@ -1,0 +1,23 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+mari
+masivi
+colosali
+enormi
+extinși
+gargantuani
+gigantici
+mari
+uriași
+imenși
+impunători
+mamuți
+impresionanți
+monumentali
+substanțiali
+impunători
+extraordinari
+vaști
+uriași
+măreți
+monstruoși
+titanici

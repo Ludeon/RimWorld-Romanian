@@ -1,0 +1,24 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+stânca
+piatra
+tufișul
+iazul
+piscina
+lacul
+dealul
+peștera
+buturuga
+cochilia
+pana
+sămânța
+trunchiul
+fructul
+acul
+copita
+gheara
+coada
+pielea
+pielea
+cornul
+aripa
+lemnul

@@ -1,0 +1,19 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+stejar
+plop
+pin
+palmier
+bambus
+frasin
+plop
+fag
+mesteacăn
+cireș
+castan
+ulm
+brad
+carpen
+arțar
+cedru
+molid
+nuc

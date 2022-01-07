@@ -1,0 +1,19 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+stejarilor
+plopilor
+pinilor
+palmierilor
+bambușilor
+frasinilor
+plopilor
+fagilor
+mestecenilor
+cireșilor
+castanilor
+ulmilor
+brazilor
+carpenilor
+arțarilor
+cedrilor
+molizilor
+nucilor

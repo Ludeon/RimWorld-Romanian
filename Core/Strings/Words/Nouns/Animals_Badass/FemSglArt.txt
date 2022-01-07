@@ -1,0 +1,23 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+maimuța
+cămila
+cobra
+cioara
+libelula
+vulpea
+broasca
+gorila
+lăcusta
+viespea
+hiena
+lăcusta
+cârtița
+maimuța
+bufnița
+pantera
+salamandra
+broasca
+vipera
+viespea
+nevăstuica
+balena

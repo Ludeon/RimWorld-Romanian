@@ -1,0 +1,23 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+mari
+masive
+colosale
+enorme
+extinse
+gargantuane
+gigantice
+mari
+uriașe
+imense
+impunătore
+mamute
+impresionante
+monumentale
+substanțiale
+impunătoare
+extraordinare
+vaste
+uriașe
+mărețe
+monstruoase
+titanice

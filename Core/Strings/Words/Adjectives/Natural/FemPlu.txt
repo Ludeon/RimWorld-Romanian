@@ -1,0 +1,20 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+mari
+dure
+aspre
+înalte
+ascuțite
+aspre
+libere
+principale
+mici
+vechi
+rotunde
+ciudate
+înțelepte
+înghețate
+rele
+bune
+depărtate
+moarte
+tari

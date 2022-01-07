@@ -1,0 +1,16 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+poveștilor
+poveștilor
+călătoriilor
+versiunilor
+abordărilor
+aventurilor
+anecdotelor
+autobiografiilor
+biografiilor
+cărților
+comediilor
+descrierilor
+dramelor
+fabulelor
+fanteziilor

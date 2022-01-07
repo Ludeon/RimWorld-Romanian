@@ -1,0 +1,9 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Adjectives.csv
+nordici
+nord-estici
+estici
+sud-estici
+sudici
+sud-vestici
+vestici
+nord-vestici

@@ -1,0 +1,17 @@
+// NOTE: This file was auto-generated with data from Core\Strings\Words\Nouns.csv
+tristețea
+pierderea
+goliciunea
+singurătatea
+distanța
+contemplația
+singurătatea
+izolarea
+tăcerea
+izolarea
+detașarea
+singurătatea
+liniștea
+decăderea
+pustietatea
+distrugerea
