@@ -132,7 +132,9 @@
     <li>r_art_name(p=3)->[PersonBadass] lui [ANYPAWN_nameIndef]</li>
     <li>r_art_name(p=3)->[PersonAlly] lui [ANYPAWN_nameIndef]</li>
     <li>r_art_name(p=3)->[PersonFamily] lui [ANYPAWN_nameIndef]</li>
-    <li>r_art_name(p=3)->[ANYPAWN_nameIndef] {ANYPAWN_gender ? [AdjectiveColorBadass_MscSgl] : [AdjectiveColorBadass_FemSgl]}</li>
+    <li>r_art_name(p=3)->[ANYPAWN_nameIndef] [someadjective]</li>
+    <li>someadjective(ANYPAWN_gender==Female)->[AdjectiveColorBadass_FemSgl]</li>
+    <li>someadjective(ANYPAWN_gender!=Female)->[AdjectiveColorBadass_MscSgl]</li>
   </NamerArtWeapon.rulePack.rulesStrings>
   
 </LanguageData>

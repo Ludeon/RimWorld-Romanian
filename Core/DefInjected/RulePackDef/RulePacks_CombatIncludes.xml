@@ -47,13 +47,13 @@
     <li>tried->attempted</li>
   -->
   <Combat_FailIncludes.rulePack.rulesStrings>
-    <li>action->[INITIATOR_definite] [tried] să [damaged_conj] pe [RECIPIENT_definite]</li>
-    <li>action->[INITIATOR_definite] [tried] să [damaged_conj] pe [RECIPIENT_definite] cu [implement]</li>
-    <li>action->[INITIATOR_definite] [tried] să folosească [implement] ca să [damaged_conj] pe [RECIPIENT_definite]</li>
-    <li>action->[INITIATOR_definite] a azvârlit [WEAPON_label] [INITIATOR_possessive] către [RECIPIENT_definite]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] cu [implement] [towardsat] [RECIPIENT_definite]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] cu [implement]</li>
+    <li>action->[INITIATOR_label] [tried] să [damaged_conj] pe [RECIPIENT_label]</li>
+    <li>action->[INITIATOR_label] [tried] să [damaged_conj] pe [RECIPIENT_label] cu [implement]</li>
+    <li>action->[INITIATOR_label] [tried] să folosească [implement] ca să [damaged_conj] pe [RECIPIENT_label]</li>
+    <li>action->[INITIATOR_label] a azvârlit [WEAPON_label] [INITIATOR_possessive] către [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label] [verb_genericattack] cu [implement] [towardsat] [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label] [verb_genericattack] [towardsat] [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label] [verb_genericattack] cu [implement]</li>
     <li>towardsat->către</li>
     <li>towardsat->înspre</li>
     <li>verb_genericattack->a pendulat</li>
@@ -133,20 +133,20 @@
   <Combat_MeleeIncludes.rulePack.rulesStrings>
     <li>r_logentry->[action], [result].</li>
     <li>r_logentry(priority=-10)->[action].</li>
-    <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[TOOL_label] de la [WEAPON_label] [INITIATOR_possessive]</li>
-    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[WEAPON_label] [INITIATOR_possessive]</li>
-    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->{TOOL_gender ? un : o} [TOOL_label] de la [WEAPON_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->{WEAPON_gender ? un : o} [WEAPON_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[TOOL_label] [INITIATOR_possessive]</li>
-    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[TOOL_label] de la [WEAPON_label] [INITIATOR_possessive]</li>
-    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[WEAPON_label] [INITIATOR_possessive]</li>
-    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[TOOL_label] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[TOOL_definite] de la [WEAPON_definite] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[WEAPON_definite] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[TOOL_definite] de la [WEAPON_indefinite]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->[WEAPON_indefinite]</li>
+    <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[TOOL_definite] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[TOOL_definite] de la [WEAPON_definite] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[WEAPON_definite] [INITIATOR_possessive]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[TOOL_definite] [INITIATOR_possessive]</li>
     <li>targetlist(recipient_part_count==1)->[recipient_part0_label]</li>
     <li>targetlist(recipient_part_count==2)->[recipient_part0_label] și [recipient_part1_label]</li>
     <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], și [recipient_part2_label]</li>
     <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], și [recipient_part3_label]</li>
-    <li>damaged_present(deflected!=True)->wounding</li>
-    <li>damaged_present(deflected!=True)->injuring</li>
+    <li>damaged_present(deflected!=True)->rănind</li>
+    <li>damaged_present(deflected!=True)->vătămând</li>
     <li>destroyed(p=0.5)->distrus</li>
     <li>destroyed(p=0.5)->demolat</li>
     <li>destroyed(p=0.5)->ruinat</li>
@@ -222,7 +222,7 @@
     <li>skillAdv(initiator_flesh==Mechanoid)->directly</li>
   -->
   <Combat_SkillIncludes.rulePack.rulesStrings>
-    <li>skillDescMelee->[wielding] [skillAdv] [INITIATOR_possessive] [WEAPON_label]</li>
+    <li>skillDescMelee->[wielding] [skillAdv] [WEAPON_definite] [INITIATOR_possessive]</li>
     <li>skillDescMelee->[using] [skillAdv] [implement]</li>
     <li>wielding(p=4)->ținând</li>
     <li>wielding(p=3)->folosind</li>

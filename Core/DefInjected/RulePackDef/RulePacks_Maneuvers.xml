@@ -77,8 +77,8 @@
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] a încercat să șuteze [TOOL_label] în ochii lui [RECIPIENT_definite], dar [RECIPIENT_definite] s-a ferit.</li>
-    <li>r_logentry->[INITIATOR_definit] a încercat să șuteze [TOOL_label] în ochii lui [RECIPIENT_definite], dar [RECIPIENT_definite] a blocat-o.</li>
+    <li>r_logentry->[INITIATOR_label] a încercat să șuteze [TOOL_indefinite] în ochii lui [RECIPIENT_label], dar [RECIPIENT_label] s-a ferit.</li>
+    <li>r_logentry->[INITIATOR_label] a încercat să șuteze [TOOL_indefinite] în ochii lui [RECIPIENT_label], dar [RECIPIENT_label] a blocat-o.</li>
   </Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
   
   <!-- EN:
@@ -86,15 +86,15 @@
     <li>r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
-    <li>[INITIATOR_definite] a șutat [TOOL_label] în ochii lui [RECIPIENT_definite].</li>
-    <li>[INITIATOR_definite] a șutat un șprei de [TOOL_label] în ochii lui [RECIPIENT_definite].</li>
+    <li>[INITIATOR_label] a șutat [TOOL_indefinite] în ochii lui [RECIPIENT_label].</li>
+    <li>[INITIATOR_label] a șutat un șprei de [TOOL_indefinite] în ochii lui [RECIPIENT_label].</li>
   </Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but missed.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] a încercat să șuteze [TOOL_label] în ochii lui [RECIPIENT_definite], dar a ratat.</li>
+    <li>r_logentry->[INITIATOR_label] a încercat să șuteze [TOOL_indefinite] în ochii lui [RECIPIENT_label], dar a ratat.</li>
   </Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
   
   <!-- EN:
@@ -150,8 +150,8 @@
     <li>damaged_present->împingând</li>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->lăsând o vânătaie enormă</li>
     <li>flavortext_consequence->lăsând zona vizibil deformată</li>
-    <li>flavortext_consequence->dezechilibrând [RECIPIENT_objective].</li>
-    <li>flavortext_consequence->lovind [RECIPIENT_objective] în lateral</li>
+    <li>flavortext_consequence->dezechilibrând pe [RECIPIENT_label].</li>
+    <li>flavortext_consequence->lovind pe [RECIPIENT_label] în lateral</li>
     <li>destroyed_past->spulberat</li>
     <li>destroyed_past->zdrobit</li>
     <li>destroyed_past->obliterat</li>
@@ -348,8 +348,8 @@
   <Maneuver_Smash.rulePack.rulesStrings>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->lăsând o vânătaie enormă</li>
     <li>flavortext_consequence->lăsând zona vizibil deformată</li>
-    <li>flavortext_consequence->dezechilibrându-l pe [RECIPIENT_objective].</li>
-    <li>flavortext_consequence->lovind-o [RECIPIENT_objective] în lateral</li>
+    <li>flavortext_consequence->dezechilibrând pe [RECIPIENT_label].</li>
+    <li>flavortext_consequence->lovind pe [RECIPIENT_label] în lateral</li>
     <li>destroyed_suffix->[to] bucăți</li>
     <li>destroyed_suffix->[to] bucățele</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] o pulpă fină</li>

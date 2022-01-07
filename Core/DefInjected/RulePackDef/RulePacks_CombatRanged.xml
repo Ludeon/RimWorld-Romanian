@@ -34,28 +34,28 @@
     <li>fromof->of</li>
   -->
   <Combat_ExplosionImpact.rulePack.rulesStrings>
-    <li>prefix->[blast] [fromof] [WEAPON_projectile_label] lui [INITIATOR_definite]</li>
-    <li>prefix->[blast] [fromof] [WEAPON_label] lui [INITIATOR_definite]</li>
-    <li>prefix->[blast] [fromof] [WEAPON_projectile_label] lui [INITIATOR_definite]</li>
-    <li>prefix->[blast] [fromof] [WEAPON_label] lui [INITIATOR_definite]</li>
-    <li>prefix->[blast] lui [INITIATOR_definite] </li>
-    <li>prefix->[blast] de [WEAPON_projectile_label] a lui [INITIATOR_definite] </li>
-    <li>prefix->[blast] de [WEAPON_label] a lui [INITIATOR_definite] </li>
-    <li>prefix->[WEAPON_projectile_label] lui [INITIATOR_definite] </li>
-    <li>prefix->[WEAPON_label] lui [INITIATOR_definite] </li>
-    <li>r_logentry->[prefix] [injured] [RECIPIENT_definite].</li>
-    <li>r_logentry->[prefix] a [destroyed_past] [destroyed_targets] lui [RECIPIENT_definite].</li>
-    <li>r_logentry->[prefix] a [destroyed_past] [strikeAdv] [destroyed_targets] lui [RECIPIENT_definite].</li>
-    <li>r_logentry->[prefix] a [destroyed_past] [strikeAdv] [destroyed_targets] lui [RECIPIENT_definite].</li>
-    <li>r_logentry->[prefix] a [destroyed_past] [destroyed_targets] lui [RECIPIENT_definite] și a [damaged_past] [damaged_targets] [RECIPIENT_possessive].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] a [damaged_past] [damaged_targets] [RECIPIENT_definite].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] a [damaged_past] [strikeAdv] [damaged_targets] lui [RECIPIENT_definite].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] a [damaged_past] [strikeAdv] [damaged_targets] lui [RECIPIENT_definite].</li>
-    <li>r_logentry->[RECIPIENT_definite] a fost [damaged_past] de [INITIATOR_definite].</li>
-    <li>r_logentry->[RECIPIENT_definite] a fost [damaged_past] [strikeAdv] de [INITIATOR_definite].</li>
-    <li>r_logentry->[RECIPIENT_definite] a fost [damaged_past].</li>
-    <li>r_logentry(p=0.001)->[RECIPIENT_definite] a fost prins de o explozie.</li>
-    <li>r_logentry(p=0.001)->[RECIPIENT_definite] a fost lovit de o explozie.</li>
+    <li>prefix->[blast] [fromof] [WEAPON_projectile_definite] lui [INITIATOR_label]</li>
+    <li>prefix->[blast] [fromof] [WEAPON_label] lui [INITIATOR_label]</li>
+    <li>prefix->[blast] [fromof] [WEAPON_projectile_definite] lui [INITIATOR_label]</li>
+    <li>prefix->[blast] [fromof] [WEAPON_label] lui [INITIATOR_label]</li>
+    <li>prefix->[blast] lui [INITIATOR_label] </li>
+    <li>prefix->[blast] de [WEAPON_projectile_definite] lui [INITIATOR_label] </li>
+    <li>prefix->[blast] de [WEAPON_label] a lui [INITIATOR_label] </li>
+    <li>prefix->[WEAPON_projectile_definite] lui [INITIATOR_label] </li>
+    <li>prefix->[WEAPON_label] lui [INITIATOR_label] </li>
+    <li>r_logentry->[prefix] [injured] [RECIPIENT_label].</li>
+    <li>r_logentry->[prefix] a [destroyed_past] [destroyed_targets] lui [RECIPIENT_label].</li>
+    <li>r_logentry->[prefix] a [destroyed_past] [strikeAdv] [destroyed_targets] lui [RECIPIENT_label].</li>
+    <li>r_logentry->[prefix] a [destroyed_past] [strikeAdv] [destroyed_targets] lui [RECIPIENT_label].</li>
+    <li>r_logentry->[prefix] a [destroyed_past] [destroyed_targets] lui [RECIPIENT_label] și a [damaged_past] [damaged_targets] [RECIPIENT_possessive].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] a [damaged_past] [damaged_targets] [RECIPIENT_label].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] a [damaged_past] [strikeAdv] [damaged_targets] lui [RECIPIENT_label].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] a [damaged_past] [strikeAdv] [damaged_targets] lui [RECIPIENT_label].</li>
+    <li>r_logentry->[RECIPIENT_label] a fost [damaged_past] de [INITIATOR_label].</li>
+    <li>r_logentry->[RECIPIENT_label] a fost [damaged_past] [strikeAdv] de [INITIATOR_label].</li>
+    <li>r_logentry->[RECIPIENT_label] a fost [damaged_past].</li>
+    <li>r_logentry(p=0.001)->[RECIPIENT_label] a fost prins de o explozie.</li>
+    <li>r_logentry(p=0.001)->[RECIPIENT_label] a fost lovit de o explozie.</li>
     <li>blast->explozia</li>
     <li>blast->pocnitura</li>
     <li>blast->unda de șoc</li>
@@ -124,24 +124,26 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDamage.rulePack.rulesStrings>
-    <li>r_logentry->[WEAPON_projectile_label] lui [INITIATOR_definite] a [destroyed_past] [destroyed_targets] lui [RECIPIENT_definite].</li>
-    <li>r_logentry->[WEAPON_projectile_label] lui [INITIATOR_definite] a [destroyed_past] [destroyed_targets] lui [RECIPIENT_definite] [to] [destroyed_suffix].</li>
-    <li>r_logentry(p=2)->[WEAPON_projectile_label] lui [INITIATOR_definite] a [missed] [ORIGINALTARGET_definite] și a [destroyed_past] [destroyed_targets] lui [RECIPIENT_definite].</li>
-    <li>r_logentry(p=2)->[WEAPON_projectile_label] lui [INITIATOR_definite] a [missed] [ORIGINALTARGET_definite], [destroyed_present] [destroyed_targets] lui [RECIPIENT_definite].</li>
-    <li>r_logentry->[destroyed_targets] lui [RECIPIENT_definite] au [destroyed_past] de [WEAPON_projectile_label] lui [INITIATOR_definite].</li>
-    <li>r_logentry->[destroyed_targets] lui [RECIPIENT_definite] au [destroyed_past] în [destroyed_suffix] de [WEAPON_projectile_label] [INITIATOR_definite].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[WEAPON_projectile_label] lui [INITIATOR_definite] a [damaged_past] [damaged_targets] lui [RECIPIENT_definite].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[WEAPON_projectile_label] lui [INITIATOR_definite] a [missed] [ORIGINALTARGET_definite] și a [damaged_past] [damaged_targets] lui [RECIPIENT_definite].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[WEAPON_projectile_label] lui [INITIATOR_definite] a [missed] [ORIGINALTARGET_definite], [damaged_present] [damaged_targets] lui [RECIPIENT_definite].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[damaged_targets] lui [RECIPIENT_definite] au [damaged_past] de [WEAPON_projectile_label] lui [INITIATOR_definite].</li>
-    <li>r_logentry(p=3)->[WEAPON_projectile_label] lui [INITIATOR_definite] a [destroyed_past] [destroyed_targets] lui [RECIPIENT_definite] și a [damaged_past] [damaged_targets] [RECIPIENT_possessive].</li>
-    <li>r_logentry(p=6)->[WEAPON_projectile_label] lui [INITIATOR_definite] a [missed] [ORIGINALTARGET_definite], [destroyed_present] [destroyed_targets] lui [RECIPIENT_definite] și [damaged_present] [damaged_targets] [RECIPIENT_possessive].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] a lovit [RECIPIENT_definite] cu un [WEAPON_projectile_label].</li>
-    <li>r_logentry(p=0.2)->[WEAPON_projectile_label] lui [INITIATOR_definite] a lovit pe [RECIPIENT_definite].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] a [missed] [ORIGINALTARGET_definite] și a lovit [RECIPIENT_definite] cu un [WEAPON_projectile_label].</li>
-    <li>r_logentry(p=0.4)->[WEAPON_projectile_label] lui [INITIATOR_definite] [missed] [ORIGINALTARGET_definite] și a lovit pe [RECIPIENT_definite].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] a lovit [RECIPIENT_definite] cu un [WEAPON_projectile_label] intenționat pentru [ORIGINALTARGET_definite].</li>
+    <li>r_logentry->[WEAPON_projectile_definite] lui [INITIATOR_label] a [destroyed_past] [destroyed_targets] lui [RECIPIENT_label].</li>
+    <li>r_logentry->[WEAPON_projectile_definite] lui [INITIATOR_label] a [destroyed_past] [destroyed_targets] lui [RECIPIENT_label] [to] [destroyed_suffix].</li>
+    <li>r_logentry(p=2)->[WEAPON_projectile_definite] lui [INITIATOR_label] a [missed] [ORIGINALTARGET_label] și a [destroyed_past] [destroyed_targets] lui [RECIPIENT_label].</li>
+    <li>r_logentry(p=2)->[WEAPON_projectile_definite] lui [INITIATOR_label] a [missed] [ORIGINALTARGET_label], [destroyed_present] [destroyed_targets] lui [RECIPIENT_label].</li>
+    <li>r_logentry->[destroyed_targets] lui [RECIPIENT_label] au [destroyed_past] de [WEAPON_projectile_definite] lui [INITIATOR_label].</li>
+    <li>r_logentry->[destroyed_targets] lui [RECIPIENT_label] au [destroyed_past] în [destroyed_suffix] de [WEAPON_projectile_definite] [INITIATOR_label].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[WEAPON_projectile_definite] lui [INITIATOR_label] a [damaged_past] [damaged_targets] lui [RECIPIENT_label].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[WEAPON_projectile_definite] lui [INITIATOR_label] a [missed] [ORIGINALTARGET_label] și a [damaged_past] [damaged_targets] lui [RECIPIENT_label].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->[WEAPON_projectile_definite] lui [INITIATOR_label] a [missed] [ORIGINALTARGET_label], [damaged_present] [damaged_targets] lui [RECIPIENT_label].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damaged_targets] lui [RECIPIENT_label] au [damaged_past] de [WEAPON_projectile_definite] lui [INITIATOR_label].</li>
+    <li>r_logentry(p=3)->[WEAPON_projectile_definite] lui [INITIATOR_label] a [destroyed_past] [destroyed_targets] lui [RECIPIENT_label] și a [damaged_past] [damaged_targets] [RECIPIENT_possessive].</li>
+    <li>r_logentry(p=6)->[WEAPON_projectile_definite] lui [INITIATOR_label] a [missed] [ORIGINALTARGET_label], [destroyed_present] [destroyed_targets] lui [RECIPIENT_label] și [damaged_present] [damaged_targets] [RECIPIENT_possessive].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_label] a lovit [RECIPIENT_label] cu [WEAPON_projectile_indefinite].</li>
+    <li>r_logentry(p=0.2)->[WEAPON_projectile_definite] lui [INITIATOR_label] a lovit pe [RECIPIENT_label].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] a [missed] [ORIGINALTARGET_label] și a lovit [RECIPIENT_label] cu [WEAPON_projectile_indefinite].</li>
+    <li>r_logentry(p=0.4)->[WEAPON_projectile_definite] lui [INITIATOR_label] [missed] [ORIGINALTARGET_label] și a lovit pe [RECIPIENT_label].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_label] a lovit [RECIPIENT_label] cu [WEAPON_projectile_indefinite] intenționat pentru [ORIGINALTARGET_label].</li>
     <li>weapon_projectile_label(p=0.05)->proiectil</li>
+    <li>weapon_projectile_definite(p=0.05)->proiectilul</li>
+    <li>weapon_projectile_indefinite(p=0.05)->un proiectil</li>
     <li>destroyed_past->spulberat</li>
     <li>destroyed_past->zdrobit</li>
     <li>destroyed_past->obliterat</li>
@@ -207,15 +209,17 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDeflect.rulePack.rulesStrings>
-    <li>r_logentry->[WEAPON_projectile_label] lui [INITIATOR_definite] a [damaged_past] [damaged_target] lui [RECIPIENT_definite] [deflected_result].</li>
-    <li>r_logentry(p=2)->[WEAPON_projectile_label] lui [INITIATOR_definite] a [missed] [ORIGINALTARGET_definite] și a [damaged_past] [damaged_target_possessive_opt][RECIPIENT_definite] [deflected_result].</li>
-    <li>r_logentry->[damaged_target_possessive_opt][RECIPIENT_definite] a fost [damaged_past] de un [WEAPON_projectile_label] a lui [INITIATOR_definite] [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] a lovit [damaged_target_possessive_opt][RECIPIENT_definite] cu un [WEAPON_projectile_label] [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[WEAPON_projectile_label] lui [INITIATOR_definite] a lovit [damaged_target_possessive_opt][RECIPIENT_definite] [deflected_result].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_definite] a [missed] [ORIGINALTARGET_definite] și a lovit [damaged_target_possessive_opt][RECIPIENT_definite] cu un [WEAPON_projectile_label] [deflected_result].</li>
-    <li>r_logentry(p=0.4)->[WEAPON_projectile_label] lui [INITIATOR_definite] a [missed] [ORIGINALTARGET_definite] și a lovit [damaged_target_possessive_opt][RECIPIENT_definite] [deflected_result].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] a lovit [damaged_target_possessive_opt][RECIPIENT_definite] cu un [WEAPON_projectile_label] intenționat pentru [ORIGINALTARGET_definite] [deflected_result].</li>
-    <li>weapon_projectile_label(p=0.05)->glonte</li>
+    <li>r_logentry->[WEAPON_projectile_definite] lui [INITIATOR_label] a [damaged_past] [damaged_target] lui [RECIPIENT_label] [deflected_result].</li>
+    <li>r_logentry(p=2)->[WEAPON_projectile_definite] lui [INITIATOR_label] a [missed] [ORIGINALTARGET_label] și a [damaged_past] [damaged_target_possessive_opt][RECIPIENT_label] [deflected_result].</li>
+    <li>r_logentry->[damaged_target_possessive_opt][RECIPIENT_label] a fost [damaged_past] de [WEAPON_projectile_indefinite] de la [INITIATOR_label] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_label] a lovit [damaged_target_possessive_opt][RECIPIENT_label] cu [WEAPON_projectile_indefinite] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[WEAPON_projectile_definite] lui [INITIATOR_label] a lovit [damaged_target_possessive_opt][RECIPIENT_label] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] a [missed] [ORIGINALTARGET_label] și a lovit [damaged_target_possessive_opt][RECIPIENT_label] cu [WEAPON_projectile_indefinite] [deflected_result].</li>
+    <li>r_logentry(p=0.4)->[WEAPON_projectile_definite] lui [INITIATOR_label] a [missed] [ORIGINALTARGET_label] și a lovit [damaged_target_possessive_opt][RECIPIENT_label] [deflected_result].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_label] a lovit [damaged_target_possessive_opt][RECIPIENT_label] cu [WEAPON_projectile_indefinite] intenționat pentru [ORIGINALTARGET_label] [deflected_result].</li>
+    <li>weapon_projectile_label(p=0.05)->proiectil</li>
+    <li>weapon_projectile_definite(p=0.05)->proiectilul</li>
+    <li>weapon_projectile_indefinite(p=0.05)->un proiectil</li>
     <li>damaged_target_possessive_opt-></li>
     <li>damaged_target_possessive_opt(recipient_part_damaged0_outside==True)->[recipient_part_damaged0_label] lui</li>
     <li>deflected_result-> [adverb_deflected]</li>
@@ -262,28 +266,28 @@
     <li>verb_shot(p=0.2)->discharged</li>
   -->
   <Combat_RangedFire.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] a [shotat] [RECIPIENT_definite] cu [WEAPON_label] [INITIATOR_possessive].</li>
-    <li>r_logentry->[INITIATOR_definite] a [shot] cu [WEAPON_label] [INITIATOR_possessive] către [RECIPIENT_definite].</li>
-    <li>r_logentry->[INITIATOR_definite] a [shotat] [RECIPIENT_definite].</li>
-    <li>r_logentry->[INITIATOR_definite] a [shot] [maybe_burst] [WEAPON_projectile_label] către [RECIPIENT_definite].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] a [shot] un [WEAPON_projectile_label].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] a [shot] cu [WEAPON_label] [INITIATOR_possessive].</li>
+    <li>r_logentry->[INITIATOR_label] a [shotat] [RECIPIENT_label] cu [WEAPON_label] [INITIATOR_possessive].</li>
+    <li>r_logentry->[INITIATOR_label] a [shot] cu [WEAPON_label] [INITIATOR_possessive] către [RECIPIENT_label].</li>
+    <li>r_logentry->[INITIATOR_label] a [shotat] [RECIPIENT_label].</li>
+    <li>r_logentry->[INITIATOR_label] a [shot] [maybe_burst] către [RECIPIENT_label].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_label] a [shot] [WEAPON_projectile_indefininte].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_label] a [shot] cu [WEAPON_label] [INITIATOR_possessive].</li>
     <li>shot(p=2)->[verb_shot]</li>
     <li>shot->[verb_shot] [skillAdv]</li>
     <li>shotat->tras [aburst] către</li>
-    <li>shotat->tras [aburst] [skillAdv] către</li>
+    <li>shotat->tras [skillAdv] [aburst] către</li>
     <li>shotat(p=0.5)->încercat să tragă [aburst] către</li>
     <li>shotat(p=0.3)->încercat să tragă către</li>
     <li>shotat(p=0.2)->încercat să tragă [skillAdv] către</li>
     <li>shotat->tras [aburst] către</li>
-    <li>shotat->tras [aburst] [skillAdv] către</li>
+    <li>shotat->tras [skillAdv] [aburst] către</li>
     <li>shotat(p=0.5)->țintit și tras [aburst] către</li>
     <li>shotat(p=0.5)->țintit și tras [skillAdv] [aburst] către</li>
     <li>shotat(p=0.3)->deschis focul către</li>
     <li>aburst-></li>
     <li>aburst(BURST==True,p=3)->o rafală</li>
-    <li>maybe_burst->un</li>
-    <li>maybe_burst(BURST==True,p=3)->o rafală de</li>
+    <li>maybe_burst->[WEAPON_projectile_indefinite]</li>
+    <li>maybe_burst(BURST==True,p=3)->o rafală de [WEAPON_projectile_plural]</li>
     <li>verb_shot->tras</li>
     <li>verb_shot->împușcat</li>
     <li>verb_shot(p=0.2)->descărcat</li>
@@ -315,10 +319,10 @@
     <li>adjective_threw(initiator_flesh!=Mechanoid)->wary</li>
   -->
   <Combat_RangedFire_Thrown.rulePack.rulesStrings>
-    <li>r_logentry->[INITIATOR_definite] a [threw] [WEAPON_projectile_label] [INITIATOR_possessive] către [RECIPIENT_definite].</li>
-    <li>r_logentry->[INITIATOR_definite] a [threw] o [WEAPON_projectile_label] către [RECIPIENT_definite].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] a [threw] [WEAPON_projectile_label] [INITIATOR_possessive].</li>
-    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_definite] a [threw] o [WEAPON_projectile_label].</li>
+    <li>r_logentry->[INITIATOR_label] a [threw] [WEAPON_projectile_definite] [INITIATOR_possessive] către [RECIPIENT_label].</li>
+    <li>r_logentry->[INITIATOR_label] a [threw] [WEAPON_projectile_indefinite] către [RECIPIENT_label].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_label] a [threw] [WEAPON_projectile_definite] [INITIATOR_possessive].</li>
+    <li>r_logentry(RECIPIENT_missing==True)->[INITIATOR_label] a [threw] [WEAPON_projectile_indefinite].</li>
     <li>threw(p=2)->[verb_threw]</li>
     <li>threw->[verb_threw] [adverb_threw]</li>
     <li>verb_threw->aruncat</li>
@@ -383,9 +387,9 @@
     <li>ducked->hid</li>
   -->
   <Combat_RangedMiss.rulePack.rulesStrings>
-    <li>r_logentry->[WEAPON_projectile_label] lui [INITIATOR_definite] a [missed].</li>
-    <li>r_logentry->[INITIATOR_definite] a ratat [ORIGINALTARGET_definite].</li>
-    <li>r_logentry->[ORIGINALTARGET_definite] [avoidance], cu [WEAPON_projectile_label] lui [INITIATOR_definite] [missing].</li>
+    <li>r_logentry->[WEAPON_projectile_definite] lui [INITIATOR_label] a [missed].</li>
+    <li>r_logentry->[INITIATOR_label] a ratat [ORIGINALTARGET_label].</li>
+    <li>r_logentry->[ORIGINALTARGET_label] [avoidance], cu [WEAPON_projectile_definite] lui [INITIATOR_label] [missing].</li>
     <li>missed(p=4)->ratat</li>
     <li>missed(p=2)-></li>
     <li>missed(p=2)-></li>
@@ -395,9 +399,9 @@
     <li>missed->săpat în pământ</li>
     <li>missed->sărit de pe pământ și s-a pierdut</li>
     <li>missed->săpat o adâncitură în pământ</li>
-    <li>missed(p=0.2)->trecut la câțiva milimetri de [ORIGINALTARGET_definite]</li>
-    <li>missed->trecut la câțiva centimetrii de [ORIGINALTARGET_definite]</li>
-    <li>missed->trecut până la un metru de [ORIGINALTARGET_definite]</li>
+    <li>missed(p=0.2)->trecut la câțiva milimetri de [ORIGINALTARGET_label]</li>
+    <li>missed->trecut la câțiva centimetrii de [ORIGINALTARGET_label]</li>
+    <li>missed->trecut până la un metru de [ORIGINALTARGET_label]</li>
     <li>missed->a fost luat de vânt</li>
     <li>missing->ratând</li>
     <li>missing->ratând cu o marjă mică</li>
@@ -408,12 +412,14 @@
     <li>missing->săpând în pământ</li>
     <li>missing->sărind de pe pământ și s-a pierdut</li>
     <li>missing->săpând o adâncitură în pământ</li>
-    <li>missing(p=0.2)->trecând la câțiva milimetri de [ORIGINALTARGET_definite]</li>
-    <li>missing->trecând la câțiva centimetrii de [ORIGINALTARGET_definite]</li>
-    <li>missing->trecând până la un metru de [ORIGINALTARGET_definite]</li>
+    <li>missing(p=0.2)->trecând la câțiva milimetri de [ORIGINALTARGET_label]</li>
+    <li>missing->trecând la câțiva centimetrii de [ORIGINALTARGET_label]</li>
+    <li>missing->trecând până la un metru de [ORIGINALTARGET_label]</li>
     <li>missing->fiind luat de vânt</li>
     <li>avoidance(ORIGINALTARGET_mobile==True,p=2)->[moved] la o parte în [moment]</li>
-    <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[ducked] în spatele {COVER_gender ? unui : unei} [COVER_definite]</li>
+    <li>avoidance(ORIGINALTARGET_mobile==True,p=0.3)->[ducked] în spatele [somecover]</li>
+    <li>somecover(COVER_gender==Female)->unei [COVER_definite]</li>
+    <li>somecover(COVER_gender!=Female)->unui [COVER_definite]</li>
     <li>moved->s-a mutat</li>
     <li>moved->a sărit</li>
     <li>moved->s-a trântit</li>
