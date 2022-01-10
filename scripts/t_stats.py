@@ -7,6 +7,20 @@ from collections import defaultdict
 from typing import Union
 from copy import deepcopy
 
+SUMMARY_DIRS = list(map(Path, [
+    "Core/Backstories",
+    "Core/DefInjected",
+    "Core/Keyed",
+    "Core",
+    "Ideology/DefInjected",
+    "Ideology/Keyed",
+    "Ideology",
+    "Royalty/DefInjected",
+    "Royalty/Keyed",
+    "Royalty",
+    ".",
+]))
+
 RecDict = lambda: defaultdict(RecDict)
 
 class TranslationStat:
@@ -107,10 +121,10 @@ def save_xmls(xtree, crtPath=Path(".")):
         for (k, v) in xtree.items():
             save_xmls(v, crtPath=crtPath/k)
 
-def print_xtree(xtree, minWordThresh=None):
+def print_xtree(xtree, minWordThresh=None, whitelist=None):
     def dfs(xtree, path=Path(".")):
         total_stats = TranslationStat()
-        for (k, v) in xtree.items():
+        for (k, v) in sorted(xtree.items(), key=lambda x: x[0]):
             if type(v) == ET.ElementTree:
                 stats = v.getroot().stats
                 total_stats += stats
@@ -128,6 +142,8 @@ def print_xtree(xtree, minWordThresh=None):
     v = list(dfs(xtree))
     t = []
     for (s, path) in v:
+        if whitelist and path not in whitelist:
+            continue
         t.append([
             f"{s.w_pct:.2f}",
             s.w_total,
@@ -147,6 +163,27 @@ def print_xtree(xtree, minWordThresh=None):
             print(fmt.format(e), end="")
         print(f"|{line[-1]}|")
 
+def print_summary(xtree):
+    print('''
+This is an auto-generated report from the latest commit
+
+Legend:
+- EN_words - count of english words
+- w_density - words/tag ratio, on average
+- w_script - count of english words within 'script' tags
+- Path - path towards the respective file/folder
+
+## Overall progress
+
+Note: The overall progress across all expansions is the last line (Path ".")
+''')
+    print_xtree(xtree, whitelist=SUMMARY_DIRS)
+    print('''
+## File by file progress
+
+Note: files under 100 words are hidden, however all folders are shown
+''')
+    print_xtree(xtree, 100)
 
 def parse_args():
     parser = argparse.ArgumentParser(description="t_stats - obtain statistics regarding translation progress")
@@ -154,10 +191,16 @@ def parse_args():
                         help="XML root to process (useful for specifying only indiviual folders)")
     parser.add_argument("-t", "--thresh", type=int, required=False, default=100,
                         help="Number of tags threshold under which to hide entries from being printed in the final stats")
+    parser.add_argument("-s", "--summary", action="store_true", default=False,
+                        help="Print a summary md file for the github wiki")
 
     return parser.parse_args()
 
 if __name__ == "__main__":
     args = parse_args()
     xtree = load_xmls(args.input)
-    print_xtree(xtree, args.thresh)
+
+    if not args.summary:
+        print_xtree(xtree, args.thresh)
+    else:
+        print_summary(xtree)

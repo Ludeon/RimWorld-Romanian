@@ -1,17 +1,36 @@
 name: Translation Stats
 
-on: push
+on:
+  push:
+    branches: [ master ]
 
 jobs:
   comp-stats:
     name: Compute translation stats
     runs-on: ubuntu-latest
+    timeout-minutes: 1
+
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-    - uses: actions/setup-python@v2
+    - name: Setup python env
+      uses: actions/setup-python@v2
       with:
         python-version: '3.9'
-    - name: run script (t_stats.py)
+    - name: Checkout repo
+      uses: actions/checkout@v2
+    - name: Checkout the wiki
+      uses: actions/checkout@v2
+      with:
+        repository: "${{ github.repository }}.wiki"
+        path: .wiki
+    - name: Run script (t_stats.py)
       run: |
-        python scripts/t_stats.py .
+        python scripts/t_stats.py . -s | tee .wiki/Translation-progress.md
+    - name: Commit to wiki
+      working-directory: .wiki
+      run: |
+        git config user.name  "[bot] ${GITHUB_ACTOR}"
+        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+        git add .
+        if git commit -m "auto-update wiki report (${GITHUB_WORKFLOW})"; then
+          git push origin master
+        fi

@@ -8,7 +8,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 
 Version being translated: `1.3.3200`
 
-For translation progress [check this wiki page](https://github.com/Ludeon/RimWorld-Romanian/wiki/Translation-progress-status)
+For an up-to-date translation progress report, [check this wiki page](https://github.com/Ludeon/RimWorld-Romanian/wiki/Translation-progress)
 
 ### Current translators:
  - nomius10
