@@ -2,218 +2,218 @@
 <LanguageData>
   
   <!-- EN: animals slaughtered -->
-  <AnimalsSlaughtered.label>animale sacrificate</AnimalsSlaughtered.label>
+  <AnimalsSlaughtered.label>TODO</AnimalsSlaughtered.label>
   <!-- EN: The number of animals I have slaughtered. -->
-  <AnimalsSlaughtered.description>Numărul de animale pe care le-am sacrificat.</AnimalsSlaughtered.description>
+  <AnimalsSlaughtered.description>TODO</AnimalsSlaughtered.description>
   
   <!-- EN: animals tamed -->
-  <AnimalsTamed.label>animale îmblânzite</AnimalsTamed.label>
+  <AnimalsTamed.label>TODO</AnimalsTamed.label>
   <!-- EN: The number of animals I have tamed. -->
-  <AnimalsTamed.description>Numărul de animale pe care le-am îmblânzit.</AnimalsTamed.description>
+  <AnimalsTamed.description>TODO</AnimalsTamed.description>
   
   <!-- EN: artifacts activated -->
-  <ArtifactsActivated.label>artefacte activate</ArtifactsActivated.label>
+  <ArtifactsActivated.label>TODO</ArtifactsActivated.label>
   <!-- EN: The number of artifacts I have activated. -->
-  <ArtifactsActivated.description>Numărul de artefacte pe care le-am activat.</ArtifactsActivated.description>
+  <ArtifactsActivated.description>TODO</ArtifactsActivated.description>
   
   <!-- EN: bodies stripped -->
-  <BodiesStripped.label>corpuri dezgolite</BodiesStripped.label>
+  <BodiesStripped.label>TODO</BodiesStripped.label>
   <!-- EN: The number of bodies I have stripped. -->
-  <BodiesStripped.description>Numărul de corpuri pe care le-am dezbrăcat.</BodiesStripped.description>
+  <BodiesStripped.description>TODO</BodiesStripped.description>
   
   <!-- EN: cells mined -->
-  <CellsMined.label>celule exploatate</CellsMined.label>
+  <CellsMined.label>TODO</CellsMined.label>
   <!-- EN: The number of cells I have mined out. -->
-  <CellsMined.description>Numărul de celule pe care le-am extras.</CellsMined.description>
+  <CellsMined.description>TODO</CellsMined.description>
   
   <!-- EN: containers opened -->
-  <ContainersOpened.label>containere deschise</ContainersOpened.label>
+  <ContainersOpened.label>TODO</ContainersOpened.label>
   <!-- EN: The number of containers I have opened. -->
-  <ContainersOpened.description>Numărul de containere pe care le-am deschis.</ContainersOpened.description>
+  <ContainersOpened.description>TODO</ContainersOpened.description>
   
   <!-- EN: corpses buried -->
-  <CorpsesBuried.label>cadavre îngropate</CorpsesBuried.label>
+  <CorpsesBuried.label>TODO</CorpsesBuried.label>
   <!-- EN: The number of corpses I have buried. -->
-  <CorpsesBuried.description>Numărul de cadavre pe care le-am îngropat.</CorpsesBuried.description>
+  <CorpsesBuried.description>TODO</CorpsesBuried.description>
   
   <!-- EN: damage dealt -->
-  <DamageDealt.label>daunele provocate</DamageDealt.label>
+  <DamageDealt.label>TODO</DamageDealt.label>
   <!-- EN: The amount of damage I have dealt. -->
-  <DamageDealt.description>Cantitatea de pagube pe care am provocat-o.</DamageDealt.description>
+  <DamageDealt.description>TODO</DamageDealt.description>
   
   <!-- EN: damage taken -->
-  <DamageTaken.label>daunele primite</DamageTaken.label>
+  <DamageTaken.label>TODO</DamageTaken.label>
   <!-- EN: The amount of damage I have taken. -->
-  <DamageTaken.description>Valoarea pagubelor pe care le-am încasat.</DamageTaken.description>
+  <DamageTaken.description>TODO</DamageTaken.description>
   
   <!-- EN: fires extinguished -->
-  <FiresExtinguished.label>incendii stinse</FiresExtinguished.label>
+  <FiresExtinguished.label>TODO</FiresExtinguished.label>
   <!-- EN: The number of fires I have extinguished. -->
-  <FiresExtinguished.description>Numărul de incendii pe care le-am stins.</FiresExtinguished.description>
+  <FiresExtinguished.description>TODO</FiresExtinguished.description>
   
   <!-- EN: headshots -->
-  <Headshots.label>headshots</Headshots.label>
+  <Headshots.label>TODO</Headshots.label>
   <!-- EN: The number of headshots I have made. -->
-  <Headshots.description>Numărul de headshoturi pe care le-am făcut.</Headshots.description>
+  <Headshots.description>TODO</Headshots.description>
   
   <!-- EN: kills -->
-  <Kills.label>ucideri</Kills.label>
+  <Kills.label>TODO</Kills.label>
   <!-- EN: The number of creatures I have killed. -->
-  <Kills.description>Numărul de creaturi pe care le-am ucis.</Kills.description>
+  <Kills.description>TODO</Kills.description>
   
   <!-- EN: kills (animals) -->
-  <KillsAnimals.label>ucideri (animale)</KillsAnimals.label>
+  <KillsAnimals.label>TODO</KillsAnimals.label>
   <!-- EN: The number of animals I have killed. -->
-  <KillsAnimals.description>Numărul de animale pe care le-am ucis.</KillsAnimals.description>
+  <KillsAnimals.description>TODO</KillsAnimals.description>
   
   <!-- EN: kills (humanlikes) -->
-  <KillsHumanlikes.label>ucideri (oameni)</KillsHumanlikes.label>
+  <KillsHumanlikes.label>TODO</KillsHumanlikes.label>
   <!-- EN: The number of humanlike characters I have killed. -->
-  <KillsHumanlikes.description>Numărul de personaje asemănătoare oamenilor pe care le-am ucis.</KillsHumanlikes.description>
+  <KillsHumanlikes.description>TODO</KillsHumanlikes.description>
   
   <!-- EN: kills (mechanoids) -->
-  <KillsMechanoids.label>ucideri (mecanoizi)</KillsMechanoids.label>
+  <KillsMechanoids.label>TODO</KillsMechanoids.label>
   <!-- EN: The number of mechanoids I have killed. -->
-  <KillsMechanoids.description>Numărul de mecanoizi pe care i-am ucis.</KillsMechanoids.description>
+  <KillsMechanoids.description>TODO</KillsMechanoids.description>
   
   <!-- EN: meals cooked -->
-  <MealsCooked.label>mese gătite</MealsCooked.label>
+  <MealsCooked.label>TODO</MealsCooked.label>
   <!-- EN: The number of meals I have cooked. -->
-  <MealsCooked.description>Numărul de mese pe care le-am gătit.</MealsCooked.description>
+  <MealsCooked.description>TODO</MealsCooked.description>
   
   <!-- EN: messes cleaned -->
-  <MessesCleaned.label>mizerii curățate</MessesCleaned.label>
+  <MessesCleaned.label>TODO</MessesCleaned.label>
   <!-- EN: The number of messes I have cleaned up. -->
-  <MessesCleaned.description>Numărul de mizerii pe care le-am curățat.</MessesCleaned.description>
+  <MessesCleaned.description>TODO</MessesCleaned.description>
   
   <!-- EN: nutrition eaten -->
-  <NutritionEaten.label>nutriție consumată</NutritionEaten.label>
+  <NutritionEaten.label>TODO</NutritionEaten.label>
   <!-- EN: The amount of nutrition I have eaten. -->
-  <NutritionEaten.description>Cantitatea de nutriție pe care am mâncat-o.</NutritionEaten.description>
+  <NutritionEaten.description>TODO</NutritionEaten.description>
   
   <!-- EN: operations performed -->
-  <OperationsPerformed.label>operațiile efectuate</OperationsPerformed.label>
+  <OperationsPerformed.label>TODO</OperationsPerformed.label>
   <!-- EN: How many medical operations I have performed. -->
-  <OperationsPerformed.description>Câte operații medicale am efectuat.</OperationsPerformed.description>
+  <OperationsPerformed.description>TODO</OperationsPerformed.description>
   
   <!-- EN: operations received -->
-  <OperationsReceived.label>operații primite</OperationsReceived.label>
+  <OperationsReceived.label>TODO</OperationsReceived.label>
   <!-- EN: How many times I have been medically operated on. -->
-  <OperationsReceived.description>De câte ori am fost operat medical.</OperationsReceived.description>
+  <OperationsReceived.description>TODO</OperationsReceived.description>
   
   <!-- EN: enemies downed -->
-  <PawnsDowned.label>inamici doborâți</PawnsDowned.label>
+  <PawnsDowned.label>TODO</PawnsDowned.label>
   <!-- EN: The number of creatures I have downed. -->
-  <PawnsDowned.description>Numărul de creaturi pe care le-am doborât.</PawnsDowned.description>
+  <PawnsDowned.description>TODO</PawnsDowned.description>
   
   <!-- EN: enemies downed (animals) -->
-  <PawnsDownedAnimals.label>inamici doborâți (animale)</PawnsDownedAnimals.label>
+  <PawnsDownedAnimals.label>TODO</PawnsDownedAnimals.label>
   <!-- EN: The number of animals I have downed, whether hunting or in combat. -->
-  <PawnsDownedAnimals.description>Numărul de animale pe care le-am doborât, fie la vânătoare, fie în luptă.</PawnsDownedAnimals.description>
+  <PawnsDownedAnimals.description>TODO</PawnsDownedAnimals.description>
   
   <!-- EN: enemies downed (humanlikes) -->
-  <PawnsDownedHumanlikes.label>inamici doborâți (oameni)</PawnsDownedHumanlikes.label>
+  <PawnsDownedHumanlikes.label>TODO</PawnsDownedHumanlikes.label>
   <!-- EN: The number of humanlike creatures I have downed. -->
-  <PawnsDownedHumanlikes.description>Numărul de creaturi asemănătoare oamenilor pe care le-am doborât.</PawnsDownedHumanlikes.description>
+  <PawnsDownedHumanlikes.description>TODO</PawnsDownedHumanlikes.description>
   
   <!-- EN: enemies downed (mechanoids) -->
-  <PawnsDownedMechanoids.label>inamici doborâți (mecanoizi)</PawnsDownedMechanoids.label>
+  <PawnsDownedMechanoids.label>TODO</PawnsDownedMechanoids.label>
   <!-- EN: The number of mechanoids I have downed. -->
-  <PawnsDownedMechanoids.description>Numărul de mecanoizi pe care i-am doborât.</PawnsDownedMechanoids.description>
+  <PawnsDownedMechanoids.description>TODO</PawnsDownedMechanoids.description>
   
   <!-- EN: people captured -->
-  <PeopleCaptured.label>oameni capturați</PeopleCaptured.label>
+  <PeopleCaptured.label>TODO</PeopleCaptured.label>
   <!-- EN: The number of people I have captured. -->
-  <PeopleCaptured.description>Numărul de oameni pe care i-am capturat.</PeopleCaptured.description>
+  <PeopleCaptured.description>TODO</PeopleCaptured.description>
   
   <!-- EN: plants harvested -->
-  <PlantsHarvested.label>plantele recoltate</PlantsHarvested.label>
+  <PlantsHarvested.label>TODO</PlantsHarvested.label>
   <!-- EN: The number of plants I have harvested. -->
-  <PlantsHarvested.description>Numărul de plante pe care le-am recoltat.</PlantsHarvested.description>
+  <PlantsHarvested.description>TODO</PlantsHarvested.description>
   
   <!-- EN: plants sown -->
-  <PlantsSown.label>plante semănate</PlantsSown.label>
+  <PlantsSown.label>TODO</PlantsSown.label>
   <!-- EN: The number of plants I have sown. -->
-  <PlantsSown.description>Numărul de plante pe care le-am semănat.</PlantsSown.description>
+  <PlantsSown.description>TODO</PlantsSown.description>
   
   <!-- EN: prisoners chatted -->
-  <PrisonersChatted.label>prizonierii ce au discutat.</PrisonersChatted.label>
+  <PrisonersChatted.label>TODO</PrisonersChatted.label>
   <!-- EN: How many times I have chatted with prisoners. -->
-  <PrisonersChatted.description>De câte ori am discutat cu deținuții.</PrisonersChatted.description>
+  <PrisonersChatted.description>TODO</PrisonersChatted.description>
   
   <!-- EN: prisoners recruited -->
-  <PrisonersRecruited.label>deținuți recrutați</PrisonersRecruited.label>
+  <PrisonersRecruited.label>TODO</PrisonersRecruited.label>
   <!-- EN: The number of prisoners I have recruited. -->
-  <PrisonersRecruited.description>Numărul de deținuți pe care i-am recrutat.</PrisonersRecruited.description>
+  <PrisonersRecruited.description>TODO</PrisonersRecruited.description>
   
   <!-- EN: research points researched -->
-  <ResearchPointsResearched.label>puncte de cercetare cercetate</ResearchPointsResearched.label>
+  <ResearchPointsResearched.label>TODO</ResearchPointsResearched.label>
   <!-- EN: The number of research points I have researched. -->
-  <ResearchPointsResearched.description>Numărul de puncte de cercetare pe care le-am cercetat.</ResearchPointsResearched.description>
+  <ResearchPointsResearched.description>TODO</ResearchPointsResearched.description>
   
   <!-- EN: shots fired -->
-  <ShotsFired.label>focuri de armă trase</ShotsFired.label>
+  <ShotsFired.label>TODO</ShotsFired.label>
   <!-- EN: The number of shots I have fired. -->
-  <ShotsFired.description>Numărul de focuri de armă pe care le-am tras.</ShotsFired.description>
+  <ShotsFired.description>TODO</ShotsFired.description>
   
   <!-- EN: switches flicked -->
-  <SwitchesFlicked.label>întrerupătoare apăsate</SwitchesFlicked.label>
+  <SwitchesFlicked.label>TODO</SwitchesFlicked.label>
   <!-- EN: The number of switches I have flicked. -->
-  <SwitchesFlicked.description>Numărul de comutatoare pe care le-am apăsat.</SwitchesFlicked.description>
+  <SwitchesFlicked.description>TODO</SwitchesFlicked.description>
   
   <!-- EN: things constructed -->
-  <ThingsConstructed.label>lucruri construite</ThingsConstructed.label>
+  <ThingsConstructed.label>TODO</ThingsConstructed.label>
   <!-- EN: The number of things I have constructed. -->
-  <ThingsConstructed.description>Numărul de lucruri pe care le-am construit.</ThingsConstructed.description>
+  <ThingsConstructed.description>TODO</ThingsConstructed.description>
   
   <!-- EN: things crafted -->
-  <ThingsCrafted.label>lucruri construite</ThingsCrafted.label>
+  <ThingsCrafted.label>TODO</ThingsCrafted.label>
   <!-- EN: The number of things I have crafted. -->
-  <ThingsCrafted.description>Numărul de lucruri pe care le-am construit.</ThingsCrafted.description>
+  <ThingsCrafted.description>TODO</ThingsCrafted.description>
   
   <!-- EN: things deconstructed -->
-  <ThingsDeconstructed.label>lucruri deconstruite</ThingsDeconstructed.label>
+  <ThingsDeconstructed.label>TODO</ThingsDeconstructed.label>
   <!-- EN: The number of things I have deconstructed. -->
-  <ThingsDeconstructed.description>Numărul de lucruri pe care le-am deconstruit.</ThingsDeconstructed.description>
+  <ThingsDeconstructed.description>TODO</ThingsDeconstructed.description>
   
   <!-- EN: things hauled -->
-  <ThingsHauled.label>lucruri transportate</ThingsHauled.label>
+  <ThingsHauled.label>TODO</ThingsHauled.label>
   <!-- EN: The number of things I have hauled. -->
-  <ThingsHauled.description>Numărul de lucruri pe care le-am transportat.</ThingsHauled.description>
+  <ThingsHauled.description>TODO</ThingsHauled.description>
   
   <!-- EN: things installed -->
-  <ThingsInstalled.label>lucruri instalate</ThingsInstalled.label>
+  <ThingsInstalled.label>TODO</ThingsInstalled.label>
   <!-- EN: The number of things I have installed. -->
-  <ThingsInstalled.description>Numărul de lucruri pe care le-am instalat.</ThingsInstalled.description>
+  <ThingsInstalled.description>TODO</ThingsInstalled.description>
   
   <!-- EN: things repaired -->
-  <ThingsRepaired.label>lucruri reparate</ThingsRepaired.label>
+  <ThingsRepaired.label>TODO</ThingsRepaired.label>
   <!-- EN: The number of things I have repaired. -->
-  <ThingsRepaired.description>Numărul de lucruri pe care le-am reparat.</ThingsRepaired.description>
+  <ThingsRepaired.description>TODO</ThingsRepaired.description>
   
   <!-- EN: things uninstalled -->
-  <ThingsUninstalled.label>lucruri dezinstalate</ThingsUninstalled.label>
+  <ThingsUninstalled.label>TODO</ThingsUninstalled.label>
   <!-- EN: The number of things I have uninstalled. -->
-  <ThingsUninstalled.description>Numărul de lucruri pe care le-am dezinstalat.</ThingsUninstalled.description>
+  <ThingsUninstalled.description>TODO</ThingsUninstalled.description>
   
   <!-- EN: times in mental state -->
-  <TimesInMentalState.label>dăți în stare mentală</TimesInMentalState.label>
+  <TimesInMentalState.label>TODO</TimesInMentalState.label>
   <!-- EN: How many times I have suffered a mental break. -->
-  <TimesInMentalState.description>De câte ori am suferit o pauză mentală.</TimesInMentalState.description>
+  <TimesInMentalState.description>TODO</TimesInMentalState.description>
   
   <!-- EN: times on fire -->
-  <TimesOnFire.label>dăți în flăcări</TimesOnFire.label>
+  <TimesOnFire.label>TODO</TimesOnFire.label>
   <!-- EN: How many times I have been on fire. -->
-  <TimesOnFire.description>De câte ori am fost în flăcări.</TimesOnFire.description>
+  <TimesOnFire.description>TODO</TimesOnFire.description>
   
   <!-- EN: tends given -->
-  <TimesTendedOther.label>îngrijiri acordate</TimesTendedOther.label>
+  <TimesTendedOther.label>TODO</TimesTendedOther.label>
   <!-- EN: How many times I have tended to others' medical conditions. -->
-  <TimesTendedOther.description>De câte ori am îngrijit afecțiunile medicale ale altora.</TimesTendedOther.description>
+  <TimesTendedOther.description>TODO</TimesTendedOther.description>
   
   <!-- EN: tends received -->
-  <TimesTendedTo.label>îngrijiri primite</TimesTendedTo.label>
+  <TimesTendedTo.label>TODO</TimesTendedTo.label>
   <!-- EN: How many times I have had my medical conditions tended. -->
-  <TimesTendedTo.description>De câte ori am primit îngrijiri pentru afecțiunile mele medicale.</TimesTendedTo.description>
+  <TimesTendedTo.description>TODO</TimesTendedTo.description>
   
 </LanguageData>

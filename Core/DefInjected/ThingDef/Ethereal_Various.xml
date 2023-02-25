@@ -2,27 +2,30 @@
 <LanguageData>
   
   <!-- EN: blight -->
-  <Blight.label>molimă</Blight.label>
+  <Blight.label>TODO</Blight.label>
   
   <!-- EN: explosion -->
-  <Explosion.label>explozie</Explosion.label>
+  <Explosion.label>TODO</Explosion.label>
+  
+  <!-- EN: flying -->
+  <PawnJumper.label>TODO</PawnJumper.label>
   
   <!-- EN: proximity trigger -->
-  <RadialTrigger.label>declanșator de proximitate</RadialTrigger.label>
+  <RadialTrigger.label>TODO</RadialTrigger.label>
   
   <!-- EN: rect trigger -->
-  <RectTrigger.label>declanșare</RectTrigger.label>
+  <RectTrigger.label>TODO</RectTrigger.label>
   
   <!-- EN: tornado -->
-  <Tornado.label>tornadă</Tornado.label>
+  <Tornado.label>TODO</Tornado.label>
   
   <!-- EN: trigger container emptied -->
-  <TriggerContainerEmptied.label>declanșează container golit</TriggerContainerEmptied.label>
+  <TriggerContainerEmptied.label>TODO</TriggerContainerEmptied.label>
   
   <!-- EN: trigger unfogged -->
-  <TriggerUnfogged.label>declanșator dezaburit</TriggerUnfogged.label>
+  <TriggerUnfogged.label>TODO</TriggerUnfogged.label>
   
   <!-- EN: tunnel -->
-  <TunnelHiveSpawner.label>tunel</TunnelHiveSpawner.label>
+  <TunnelHiveSpawner.label>TODO</TunnelHiveSpawner.label>
   
 </LanguageData>

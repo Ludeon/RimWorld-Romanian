@@ -2,162 +2,162 @@
 <LanguageData>
   
   <!-- EN: bonded animal {0} died -->
-  <BondedAnimalDied.stages.bonded_animal_died.label> animalul îndrăgit, {0}, a murit</BondedAnimalDied.stages.bonded_animal_died.label>
+  <BondedAnimalDied.stages.bonded_animal_died.label>TODO</BondedAnimalDied.stages.bonded_animal_died.label>
   <!-- EN: Such a tender, unique animal. This universe is evil! -->
-  <BondedAnimalDied.stages.bonded_animal_died.description>A fost un animal atât de blând și unic... Lumea-i așa de crudă!</BondedAnimalDied.stages.bonded_animal_died.description>
+  <BondedAnimalDied.stages.bonded_animal_died.description>TODO</BondedAnimalDied.stages.bonded_animal_died.description>
   
   <!-- EN: colonist died -->
-  <KnowColonistDied.stages.colonist_died.label>colonist decedat</KnowColonistDied.stages.colonist_died.label>
+  <KnowColonistDied.stages.colonist_died.label>TODO</KnowColonistDied.stages.colonist_died.label>
   <!-- EN: One of our people died. We should be able to take care of our people. -->
-  <KnowColonistDied.stages.colonist_died.description>Unul dintre oamenii noștri a murit. Ar trebui să fim capabili să avem mai multă grijă de noi.</KnowColonistDied.stages.colonist_died.description>
+  <KnowColonistDied.stages.colonist_died.description>TODO</KnowColonistDied.stages.colonist_died.description>
   
   <!-- EN: justified execution of colonist -->
-  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>execuție justificată a unui colonist</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>TODO</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
   <!-- EN: A guilty colonist was executed. It was justified, but still sad. -->
-  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>Un colonist vinovat de ceva a fost executat. A fost justificat, dar totuși îmi pare de rău că s-a ajuns la asta.</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>TODO</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
   <!-- EN: colonist euthanized -->
-  <KnowColonistExecuted.stages.colonist_euthanized.label>colonist eutanasiat</KnowColonistExecuted.stages.colonist_euthanized.label>
+  <KnowColonistExecuted.stages.colonist_euthanized.label>TODO</KnowColonistExecuted.stages.colonist_euthanized.label>
   <!-- EN: A colonist was euthanized. It was humane, but still sad. -->
-  <KnowColonistExecuted.stages.colonist_euthanized.description>Un colonist a fost eutanasiat. A fost un gest mai uman, dar totuși trist.</KnowColonistExecuted.stages.colonist_euthanized.description>
+  <KnowColonistExecuted.stages.colonist_euthanized.description>TODO</KnowColonistExecuted.stages.colonist_euthanized.description>
   <!-- EN: colonist executed -->
-  <KnowColonistExecuted.stages.colonist_executed.label>colonist executat</KnowColonistExecuted.stages.colonist_executed.label>
+  <KnowColonistExecuted.stages.colonist_executed.label>TODO</KnowColonistExecuted.stages.colonist_executed.label>
   <!-- EN: A colonist was killed in cold blood. It seemed a bit evil. -->
-  <KnowColonistExecuted.stages.colonist_executed.description>Un colonist a fost ucis cu sânge rece. Ce diabolic!</KnowColonistExecuted.stages.colonist_executed.description>
+  <KnowColonistExecuted.stages.colonist_executed.description>TODO</KnowColonistExecuted.stages.colonist_executed.description>
   <!-- EN: colonist organ-harvested -->
-  <KnowColonistExecuted.stages.colonist_organharvested.label>colonist recoltat de organe</KnowColonistExecuted.stages.colonist_organharvested.label>
-  <!-- EN: A colonist died because someone took body parts from him. It's horrible. -->
-  <KnowColonistExecuted.stages.colonist_organharvested.description>Un colonist a murit pentru că cineva a luat părți din corpul său. Mi se pare un lucru oribil... nici nu vreau sa mă mai gândesc la asta.</KnowColonistExecuted.stages.colonist_organharvested.description>
+  <KnowColonistExecuted.stages.colonist_organharvested.label>TODO</KnowColonistExecuted.stages.colonist_organharvested.label>
+  <!-- EN: A colonist died because someone took body parts from them. It's horrible. -->
+  <KnowColonistExecuted.stages.colonist_organharvested.description>TODO</KnowColonistExecuted.stages.colonist_organharvested.description>
   
   <!-- EN: justified execution -->
-  <KnowGuestExecuted.stages.justified_execution.label>execuție justificată</KnowGuestExecuted.stages.justified_execution.label>
+  <KnowGuestExecuted.stages.justified_execution.label>TODO</KnowGuestExecuted.stages.justified_execution.label>
   <!-- EN: A guilty prisoner or guest was executed. It was justified, but still sad. -->
-  <KnowGuestExecuted.stages.justified_execution.description>Un prizonier sau un oaspete vinovat a fost executat. A fost un lucru justificat, dar m-a facut să mă umplu de tristețe.</KnowGuestExecuted.stages.justified_execution.description>
+  <KnowGuestExecuted.stages.justified_execution.description>TODO</KnowGuestExecuted.stages.justified_execution.description>
   <!-- EN: someone was euthanized -->
-  <KnowGuestExecuted.stages.someone_was_euthanized.label>cineva a fost eutanasiat</KnowGuestExecuted.stages.someone_was_euthanized.label>
+  <KnowGuestExecuted.stages.someone_was_euthanized.label>TODO</KnowGuestExecuted.stages.someone_was_euthanized.label>
   <!-- EN: A prisoner or guest was euthanized. It was humane, but still sad. -->
-  <KnowGuestExecuted.stages.someone_was_euthanized.description>Un prizonier sau un oaspete a fost eutanasiat. A fost un gest mai uman, dar totuși trist.</KnowGuestExecuted.stages.someone_was_euthanized.description>
+  <KnowGuestExecuted.stages.someone_was_euthanized.description>TODO</KnowGuestExecuted.stages.someone_was_euthanized.description>
   <!-- EN: someone was executed -->
-  <KnowGuestExecuted.stages.someone_was_executed.label>cineva a fost executat</KnowGuestExecuted.stages.someone_was_executed.label>
+  <KnowGuestExecuted.stages.someone_was_executed.label>TODO</KnowGuestExecuted.stages.someone_was_executed.label>
   <!-- EN: A prisoner or guest was killed in cold blood. It seemed a bit evil. -->
-  <KnowGuestExecuted.stages.someone_was_executed.description>Un prizonier sau un oaspete a fost ucis cu sânge rece. Ce diabolic!</KnowGuestExecuted.stages.someone_was_executed.description>
+  <KnowGuestExecuted.stages.someone_was_executed.description>TODO</KnowGuestExecuted.stages.someone_was_executed.description>
   <!-- EN: someone was organ-murdered -->
-  <KnowGuestExecuted.stages.someone_was_organmurdered.label>cineva a fost omorât pentru organe</KnowGuestExecuted.stages.someone_was_organmurdered.label>
-  <!-- EN: A prisoner or guest died because the colony took body parts from him. It's horrible. -->
-  <KnowGuestExecuted.stages.someone_was_organmurdered.description>Un prizonier sau un oaspete a murit pentru că i s-au luat părți din corpul său. E groaznic!</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+  <KnowGuestExecuted.stages.someone_was_organmurdered.label>TODO</KnowGuestExecuted.stages.someone_was_organmurdered.label>
+  <!-- EN: A prisoner or guest died because the colony took body parts from them. It's horrible. -->
+  <KnowGuestExecuted.stages.someone_was_organmurdered.description>TODO</KnowGuestExecuted.stages.someone_was_organmurdered.description>
   
   <!-- EN: innocent prisoner died -->
-  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>un prizonier nevinovat a murit</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>TODO</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
   <!-- EN: One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism. -->
-  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>Unul dintre prizonierii noștri a murit, deși era inofensiv. Ar trebui să fim mai responsabili și să avem mai multă grijă de prizonieri. Dacă îi voiam morți, am fi putut cel puțin să conducem o execuție ordonată, în loc să permitem această barbarie.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>TODO</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
   
   <!-- EN: my aunt {0} died -->
-  <MyAuntDied.stages.my_aunt_died.label>mătușa mea, {0}, a murit</MyAuntDied.stages.my_aunt_died.label>
+  <MyAuntDied.stages.my_aunt_died.label>TODO</MyAuntDied.stages.my_aunt_died.label>
   <!-- EN: My aunt died. -->
-  <MyAuntDied.stages.my_aunt_died.description>Mătușa mea a murit...</MyAuntDied.stages.my_aunt_died.description>
+  <MyAuntDied.stages.my_aunt_died.description>TODO</MyAuntDied.stages.my_aunt_died.description>
   
   <!-- EN: my brother {0} died -->
-  <MyBrotherDied.stages.my_brother_died.label>fratele meu, {0}, a murit</MyBrotherDied.stages.my_brother_died.label>
+  <MyBrotherDied.stages.my_brother_died.label>TODO</MyBrotherDied.stages.my_brother_died.label>
   <!-- EN: My brother died. My own flesh and blood... -->
-  <MyBrotherDied.stages.my_brother_died.description>Fratele meu a murit. Era sânge din sângele meu...</MyBrotherDied.stages.my_brother_died.description>
+  <MyBrotherDied.stages.my_brother_died.description>TODO</MyBrotherDied.stages.my_brother_died.description>
   
   <!-- EN: my cousin {0} died -->
-  <MyCousinDied.stages.my_cousin_died.label>vărul meu, {0}, a murit</MyCousinDied.stages.my_cousin_died.label>
+  <MyCousinDied.stages.my_cousin_died.label>TODO</MyCousinDied.stages.my_cousin_died.label>
   <!-- EN: My cousin died. My own flesh and blood... -->
-  <MyCousinDied.stages.my_cousin_died.description>Vărul meu a murit. Era sânge din sângele meu...</MyCousinDied.stages.my_cousin_died.description>
+  <MyCousinDied.stages.my_cousin_died.description>TODO</MyCousinDied.stages.my_cousin_died.description>
   
   <!-- EN: my daughter {0} died -->
-  <MyDaughterDied.stages.my_daughter_died.label>fiica mea, {0}, a murit</MyDaughterDied.stages.my_daughter_died.label>
+  <MyDaughterDied.stages.my_daughter_died.label>TODO</MyDaughterDied.stages.my_daughter_died.label>
   <!-- EN: My daughter is dead. My own flesh and blood... -->
-  <MyDaughterDied.stages.my_daughter_died.description>Fiica mea este moartă. Propria mea carne și sânge...</MyDaughterDied.stages.my_daughter_died.description>
+  <MyDaughterDied.stages.my_daughter_died.description>TODO</MyDaughterDied.stages.my_daughter_died.description>
   
   <!-- EN: my father {0} died -->
-  <MyFatherDied.stages.my_father_died.label>tatăl meu, {0}, a murit</MyFatherDied.stages.my_father_died.label>
+  <MyFatherDied.stages.my_father_died.label>TODO</MyFatherDied.stages.my_father_died.label>
   <!-- EN: My father died. He's gone forever. -->
-  <MyFatherDied.stages.my_father_died.description>Tatăl meu a murit. S-a dus pentru totdeauna...</MyFatherDied.stages.my_father_died.description>
+  <MyFatherDied.stages.my_father_died.description>TODO</MyFatherDied.stages.my_father_died.description>
   
   <!-- EN: my fiance {0} died -->
-  <MyFianceDied.stages.my_fiance_died.label>logodnicul meu, {0}, a murit</MyFianceDied.stages.my_fiance_died.label>
+  <MyFianceDied.stages.my_fiance_died.label>TODO</MyFianceDied.stages.my_fiance_died.label>
   <!-- EN: My fiance died. Such a man... my future is gone. -->
-  <MyFianceDied.stages.my_fiance_died.description>Logodnicul meu a murit. Nu voi mai întâlni pe nimeni ca el... viitorul meu s-a dus.</MyFianceDied.stages.my_fiance_died.description>
+  <MyFianceDied.stages.my_fiance_died.description>TODO</MyFianceDied.stages.my_fiance_died.description>
   
   <!-- EN: my fiancée {0} died -->
-  <MyFianceeDied.stages.my_fiance_died.label>logodnica mea, {0}, a murit</MyFianceeDied.stages.my_fiance_died.label>
+  <MyFianceeDied.stages.my_fiance_died.label>TODO</MyFianceeDied.stages.my_fiance_died.label>
   <!-- EN: My fiancée died. Such a woman... my future is gone. -->
-  <MyFianceeDied.stages.my_fiance_died.description>Logodnica mea a murit. Nu voi mai întâlni pe nimeni ca ea... viitorul meu s-a dus.</MyFianceeDied.stages.my_fiance_died.description>
+  <MyFianceeDied.stages.my_fiance_died.description>TODO</MyFianceeDied.stages.my_fiance_died.description>
   
   <!-- EN: my grandchild {0} died -->
-  <MyGrandchildDied.stages.my_grandchild_died.label>nepotul meu, {0}, a murit</MyGrandchildDied.stages.my_grandchild_died.label>
+  <MyGrandchildDied.stages.my_grandchild_died.label>TODO</MyGrandchildDied.stages.my_grandchild_died.label>
   <!-- EN: My grandchild died. My own flesh and blood... -->
-  <MyGrandchildDied.stages.my_grandchild_died.description>Nepotul meu a murit. Era sânge din sângele meu...</MyGrandchildDied.stages.my_grandchild_died.description>
+  <MyGrandchildDied.stages.my_grandchild_died.description>TODO</MyGrandchildDied.stages.my_grandchild_died.description>
   
   <!-- EN: my grandparent {0} died -->
-  <MyGrandparentDied.stages.my_grandparent_died.label>bunicul meu, {0}, a murit</MyGrandparentDied.stages.my_grandparent_died.label>
+  <MyGrandparentDied.stages.my_grandparent_died.label>TODO</MyGrandparentDied.stages.my_grandparent_died.label>
   <!-- EN: My grandparent died. -->
-  <MyGrandparentDied.stages.my_grandparent_died.description>Bunicul meu s-a stins.</MyGrandparentDied.stages.my_grandparent_died.description>
+  <MyGrandparentDied.stages.my_grandparent_died.description>TODO</MyGrandparentDied.stages.my_grandparent_died.description>
   
   <!-- EN: my half-sibling {0} died -->
-  <MyHalfSiblingDied.stages.my_halfsibling_died.label>fratele meu vitreg, {0}, a murit</MyHalfSiblingDied.stages.my_halfsibling_died.label>
+  <MyHalfSiblingDied.stages.my_halfsibling_died.label>TODO</MyHalfSiblingDied.stages.my_halfsibling_died.label>
   <!-- EN: My half-sibling died. My own flesh and blood... -->
-  <MyHalfSiblingDied.stages.my_halfsibling_died.description>Fratele meu vitreg a murit. Era sânge din sângele meu...</MyHalfSiblingDied.stages.my_halfsibling_died.description>
+  <MyHalfSiblingDied.stages.my_halfsibling_died.description>TODO</MyHalfSiblingDied.stages.my_halfsibling_died.description>
   
   <!-- EN: my husband {0} died -->
-  <MyHusbandDied.stages.my_husband_died.label>soțul meu, {0}, a murit</MyHusbandDied.stages.my_husband_died.label>
+  <MyHusbandDied.stages.my_husband_died.label>TODO</MyHusbandDied.stages.my_husband_died.label>
   <!-- EN: My husband is dead. I am alone. -->
-  <MyHusbandDied.stages.my_husband_died.description>Soțul meu este mort. Am rămas singură...</MyHusbandDied.stages.my_husband_died.description>
+  <MyHusbandDied.stages.my_husband_died.description>TODO</MyHusbandDied.stages.my_husband_died.description>
   
   <!-- EN: my kin {0} died -->
-  <MyKinDied.stages.my_kin_died.label>neamul meu, {0}, s-a stins</MyKinDied.stages.my_kin_died.label>
+  <MyKinDied.stages.my_kin_died.label>TODO</MyKinDied.stages.my_kin_died.label>
   <!-- EN: My kin died. -->
-  <MyKinDied.stages.my_kin_died.description>Toate rudele mele au murit. Numai eu mai port numele acestui neam...</MyKinDied.stages.my_kin_died.description>
+  <MyKinDied.stages.my_kin_died.description>TODO</MyKinDied.stages.my_kin_died.description>
   
   <!-- EN: my lover {0} died -->
-  <MyLoverDied.stages.my_lover_died.label>iubitul meu, {0}, a murit</MyLoverDied.stages.my_lover_died.label>
+  <MyLoverDied.stages.my_lover_died.label>TODO</MyLoverDied.stages.my_lover_died.label>
   <!-- EN: My lover died. I am so alone. -->
-  <MyLoverDied.stages.my_lover_died.description>Iubitul meu a murit. Sunt atât de singură.</MyLoverDied.stages.my_lover_died.description>
+  <MyLoverDied.stages.my_lover_died.description>TODO</MyLoverDied.stages.my_lover_died.description>
   
   <!-- EN: my mother {0} died -->
-  <MyMotherDied.stages.my_mother_died.label>mama mea, {0}, a murit</MyMotherDied.stages.my_mother_died.label>
+  <MyMotherDied.stages.my_mother_died.label>TODO</MyMotherDied.stages.my_mother_died.label>
   <!-- EN: My mother died. She's gone forever. -->
-  <MyMotherDied.stages.my_mother_died.description>Mama mea a murit. S-a dus pentru totdeauna...</MyMotherDied.stages.my_mother_died.description>
+  <MyMotherDied.stages.my_mother_died.description>TODO</MyMotherDied.stages.my_mother_died.description>
   
   <!-- EN: my nephew {0} died -->
-  <MyNephewDied.stages.my_nephew_died.label>nepotul meu, {0}, a murit</MyNephewDied.stages.my_nephew_died.label>
+  <MyNephewDied.stages.my_nephew_died.label>TODO</MyNephewDied.stages.my_nephew_died.label>
   <!-- EN: My nephew died. Such a wonderful child. -->
-  <MyNephewDied.stages.my_nephew_died.description>Nepotul meu a murit. Un copil atât de minunat...</MyNephewDied.stages.my_nephew_died.description>
+  <MyNephewDied.stages.my_nephew_died.description>TODO</MyNephewDied.stages.my_nephew_died.description>
   
   <!-- EN: my niece {0} died -->
-  <MyNieceDied.stages.my_niece_died.label>nepoata mea, {0}, a murit</MyNieceDied.stages.my_niece_died.label>
+  <MyNieceDied.stages.my_niece_died.label>TODO</MyNieceDied.stages.my_niece_died.label>
   <!-- EN: My niece died. Such a wonderful child. -->
-  <MyNieceDied.stages.my_niece_died.description>Nepoata mea a murit. Un copil atât de minunat...</MyNieceDied.stages.my_niece_died.description>
+  <MyNieceDied.stages.my_niece_died.description>TODO</MyNieceDied.stages.my_niece_died.description>
   
   <!-- EN: my sister {0} died -->
-  <MySisterDied.stages.my_sister_died.label>sora mea, {0}, a murit</MySisterDied.stages.my_sister_died.label>
+  <MySisterDied.stages.my_sister_died.label>TODO</MySisterDied.stages.my_sister_died.label>
   <!-- EN: My sister died. My own flesh and blood... -->
-  <MySisterDied.stages.my_sister_died.description>Sora mea a murit. Propria mea carne și sânge...</MySisterDied.stages.my_sister_died.description>
+  <MySisterDied.stages.my_sister_died.description>TODO</MySisterDied.stages.my_sister_died.description>
   
   <!-- EN: my son {0} died -->
-  <MySonDied.stages.my_son_died.label>fiul meu, {0}, a murit</MySonDied.stages.my_son_died.label>
+  <MySonDied.stages.my_son_died.label>TODO</MySonDied.stages.my_son_died.label>
   <!-- EN: My son is dead. My own flesh and blood... -->
-  <MySonDied.stages.my_son_died.description>Fiul meu a murit. Propria mea carne și sânge...</MySonDied.stages.my_son_died.description>
+  <MySonDied.stages.my_son_died.description>TODO</MySonDied.stages.my_son_died.description>
   
   <!-- EN: my uncle {0} died -->
-  <MyUncleDied.stages.my_uncle_died.label>unchiul meu, {0}, a murit</MyUncleDied.stages.my_uncle_died.label>
+  <MyUncleDied.stages.my_uncle_died.label>TODO</MyUncleDied.stages.my_uncle_died.label>
   <!-- EN: My uncle died. -->
-  <MyUncleDied.stages.my_uncle_died.description>Unchiul meu a murit.</MyUncleDied.stages.my_uncle_died.description>
+  <MyUncleDied.stages.my_uncle_died.description>TODO</MyUncleDied.stages.my_uncle_died.description>
   
   <!-- EN: my wife {0} died -->
-  <MyWifeDied.stages.my_wife_died.label>soția mea, {0}, a murit</MyWifeDied.stages.my_wife_died.label>
+  <MyWifeDied.stages.my_wife_died.label>TODO</MyWifeDied.stages.my_wife_died.label>
   <!-- EN: My wife is dead. I am alone. -->
-  <MyWifeDied.stages.my_wife_died.description>Soția mea este moartă. Am rămas singur...</MyWifeDied.stages.my_wife_died.description>
+  <MyWifeDied.stages.my_wife_died.description>TODO</MyWifeDied.stages.my_wife_died.description>
   
   <!-- EN: my rival {0} died -->
-  <PawnWithBadOpinionDied.stages.my_rival_died.label>rivalul meu, {0}, a murit</PawnWithBadOpinionDied.stages.my_rival_died.label>
+  <PawnWithBadOpinionDied.stages.my_rival_died.label>TODO</PawnWithBadOpinionDied.stages.my_rival_died.label>
   <!-- EN: Serves them right. At least there's some justice in this world. -->
-  <PawnWithBadOpinionDied.stages.my_rival_died.description>Așa merită. Mai există puțină dreptate pe lumea asta...</PawnWithBadOpinionDied.stages.my_rival_died.description>
+  <PawnWithBadOpinionDied.stages.my_rival_died.description>TODO</PawnWithBadOpinionDied.stages.my_rival_died.description>
   
   <!-- EN: my friend {0} died -->
-  <PawnWithGoodOpinionDied.stages.my_friend_died.label>prietenul meu, {0}, a murit </PawnWithGoodOpinionDied.stages.my_friend_died.label>
+  <PawnWithGoodOpinionDied.stages.my_friend_died.label>TODO</PawnWithGoodOpinionDied.stages.my_friend_died.label>
   <!-- EN: Such a wonderful person, gone forever. The universe gets darker every day. -->
-  <PawnWithGoodOpinionDied.stages.my_friend_died.description>O persoană atât de deosebită, s-a dus pentru totdeauna. Universul devine tot mai sumbru pe zi ce trece.</PawnWithGoodOpinionDied.stages.my_friend_died.description>
+  <PawnWithGoodOpinionDied.stages.my_friend_died.description>TODO</PawnWithGoodOpinionDied.stages.my_friend_died.description>
   
 </LanguageData>

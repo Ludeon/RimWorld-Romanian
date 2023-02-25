@@ -2,491 +2,523 @@
 <LanguageData>
 
   <!-- EN: Tool -->
-  <Tool>Unealtă</Tool>
+  <Tool>TODO</Tool>
   <!-- EN: damage -->
-  <DamageLower>daună</DamageLower>
+  <DamageLower>TODO</DamageLower>
   <!-- EN: seconds per attack -->
-  <SecondsPerAttackLower>secunde per atac</SecondsPerAttackLower>
+  <SecondsPerAttackLower>TODO</SecondsPerAttackLower>
 
   <!-- EN: Base value -->
-  <StatsReport_BaseValue>Valoarea de bază</StatsReport_BaseValue>
+  <StatsReport_BaseValue>TODO</StatsReport_BaseValue>
   <!-- EN: Relevant traits -->
-  <StatsReport_RelevantTraits>Trăsături relevante</StatsReport_RelevantTraits>
+  <StatsReport_RelevantTraits>TODO</StatsReport_RelevantTraits>
   <!-- EN: Relevant gear -->
-  <StatsReport_RelevantGear>Echipament relevant</StatsReport_RelevantGear>
+  <StatsReport_RelevantGear>TODO</StatsReport_RelevantGear>
   <!-- EN: Relevant health conditions -->
-  <StatsReport_RelevantHediffs>Condiții de sănătate relevante</StatsReport_RelevantHediffs>
+  <StatsReport_RelevantHediffs>TODO</StatsReport_RelevantHediffs>
   <!-- EN: Life stage -->
-  <StatsReport_LifeStage>Etapă a vieții</StatsReport_LifeStage>
+  <StatsReport_LifeStage>TODO</StatsReport_LifeStage>
   <!-- EN: Material -->
-  <StatsReport_Material>Material</StatsReport_Material>
+  <StatsReport_Material>TODO</StatsReport_Material>
   <!-- EN: Character quality -->
-  <StatsReport_CharacterQuality>Calitatea caracterului</StatsReport_CharacterQuality>
+  <StatsReport_CharacterQuality>TODO</StatsReport_CharacterQuality>
   <!-- EN: Skills -->
-  <StatsReport_Skills>Aptitudini</StatsReport_Skills>
+  <StatsReport_Skills>TODO</StatsReport_Skills>
   <!-- EN: Post-process - other stats -->
-  <StatsReport_OtherStats>Post-procesare - alte statistici</StatsReport_OtherStats>
+  <StatsReport_OtherStats>TODO</StatsReport_OtherStats>
   <!-- EN: Health -->
-  <StatsReport_Health>Sănătate</StatsReport_Health>
+  <StatsReport_Health>TODO</StatsReport_Health>
   <!-- EN: {0} importance -->
-  <HealthFactorPercentImpact>{0} importanță</HealthFactorPercentImpact>
+  <HealthFactorPercentImpact>TODO</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->
-  <HealthOffsetScale>{0} impact</HealthOffsetScale>
+  <HealthOffsetScale>TODO</HealthOffsetScale>
   <!-- EN: {0} max -->
-  <HealthFactorMaxImpact>{0} max</HealthFactorMaxImpact>
+  <HealthFactorMaxImpact>TODO</HealthFactorMaxImpact>
   <!-- EN: if below {0} -->
-  <HealthFactorAllowedDefect>dacă e sub {0}</HealthFactorAllowedDefect>
+  <HealthFactorAllowedDefect>TODO</HealthFactorAllowedDefect>
   <!-- EN: Post-process curve -->
-  <StatsReport_PostProcessed>Curba de post-procesare</StatsReport_PostProcessed>
+  <StatsReport_PostProcessed>TODO</StatsReport_PostProcessed>
+  <!-- EN: The chances to hit at increasing distances are -->
+  <StatsReport_ShootingExampleDistances>TODO</StatsReport_ShootingExampleDistances>
   <!-- EN: Final value -->
-  <StatsReport_FinalValue>Valoare finală</StatsReport_FinalValue>
+  <StatsReport_FinalValue>TODO</StatsReport_FinalValue>
+  <!-- EN: Multiplier for {0} -->
+  <StatsReport_MultiplierFor>TODO</StatsReport_MultiplierFor>
   <!-- EN: Materials and labor -->
-  <StatsReport_MarketValueFromStuffsAndWork>Materiale și manoperă</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_MarketValueFromStuffsAndWork>TODO</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
-  <StatsReport_QualityMultiplier>Multiplicator de calitate</StatsReport_QualityMultiplier>
+  <StatsReport_QualityMultiplier>TODO</StatsReport_QualityMultiplier>
   <!-- EN: Quality offset -->
-  <StatsReport_QualityOffset>Decalaj de calitate</StatsReport_QualityOffset>
+  <StatsReport_QualityOffset>TODO</StatsReport_QualityOffset>
   <!-- EN: Max gain -->
-  <StatsReport_MaxGain>Câștig maxim</StatsReport_MaxGain>
+  <StatsReport_MaxGain>TODO</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
-  <StatsReport_AgeMultiplier>Multiplicator pentru vârsta {0}</StatsReport_AgeMultiplier>
+  <StatsReport_AgeMultiplier>TODO</StatsReport_AgeMultiplier>
+  <!-- EN: Offset for age {0} -->
+  <StatsReport_AgeOffset>TODO</StatsReport_AgeOffset>
   <!-- EN: Multiplier for health {0} -->
-  <StatsReport_HealthMultiplier>Multiplicator pentru sănătatea {0}</StatsReport_HealthMultiplier>
+  <StatsReport_HealthMultiplier>TODO</StatsReport_HealthMultiplier>
   <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
-  <StatsReport_ReloadMarketValue>Costul reîncărcării ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
+  <StatsReport_ReloadMarketValue>TODO</StatsReport_ReloadMarketValue>
   <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
-  <StatsReport_ReloadRemainingChargesMultipler>Multiplicator pentru restul {CHARGENOUN_plural} ({0})</StatsReport_ReloadRemainingChargesMultipler>
+  <StatsReport_ReloadRemainingChargesMultipler>TODO</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
-  <StatsReport_MoodMultiplier>Multiplicator pentru starea de spirit {0}</StatsReport_MoodMultiplier>
+  <StatsReport_MoodMultiplier>TODO</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
-  <StatsReport_LightMultiplier>Multiplicator pentru lumină {0}</StatsReport_LightMultiplier>
+  <StatsReport_LightMultiplier>TODO</StatsReport_LightMultiplier>
   <!-- EN: Multiplier for difficulty {0} -->
-  <StatsReport_DifficultyMultiplier>Multiplicator pentru dificultate {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_DifficultyMultiplier>TODO</StatsReport_DifficultyMultiplier>
   <!-- EN: In bed -->
-  <StatsReport_InBed>În pat</StatsReport_InBed>
+  <StatsReport_InBed>TODO</StatsReport_InBed>
   <!-- EN: Facilities -->
-  <StatsReport_Facilities>Facilități</StatsReport_Facilities>
+  <StatsReport_Facilities>TODO</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
-  <StatsReport_BodySize>Multiplicator pentru talia corpului {0}</StatsReport_BodySize>
+  <StatsReport_BodySize>TODO</StatsReport_BodySize>
   <!-- EN: Damaged -->
-  <StatsReport_HasHediffExplanation>Măcelărit cu grijă, fără răni</StatsReport_HasHediffExplanation>
+  <StatsReport_HasHediffExplanation>TODO</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
-  <StatsReport_MeleeDPSExplanation>DPS = Daune corp la corp * Șansă de lovire corp-la-corp / Cooldown în secunde</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDPSExplanation>TODO</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
-  <StatsReport_MeleeDamage>Daune corp-la-corp</StatsReport_MeleeDamage>
+  <StatsReport_MeleeDamage>TODO</StatsReport_MeleeDamage>
   <!-- EN: Cooldown -->
-  <StatsReport_Cooldown>Cooldown</StatsReport_Cooldown>
+  <StatsReport_Cooldown>TODO</StatsReport_Cooldown>
   <!-- EN: Melee hit chance -->
-  <StatsReport_MeleeHitChance>Șansă lovitură corp-la-corp</StatsReport_MeleeHitChance>
+  <StatsReport_MeleeHitChance>TODO</StatsReport_MeleeHitChance>
   <!-- EN: {0} s -->
-  <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
+  <StatsReport_CooldownFormat>TODO</StatsReport_CooldownFormat>
   <!-- EN: Blocked by fences -->
-  <StatsReport_BlockedByFences>Blocat de garduri</StatsReport_BlockedByFences>
+  <StatsReport_BlockedByFences>TODO</StatsReport_BlockedByFences>
   <!-- EN: Roam interval -->
-  <StatsReport_RoamInterval>Intervalul de hoinărire</StatsReport_RoamInterval>
+  <StatsReport_RoamInterval>TODO</StatsReport_RoamInterval>
   <!-- EN: Caravan rideable age -->
-  <StatsReport_CaravanRideableAge>Vârsta în care se poate călători cu caravana</StatsReport_CaravanRideableAge>
+  <StatsReport_CaravanRideableAge>TODO</StatsReport_CaravanRideableAge>
   <!-- EN: Life expectancy -->
-  <StatsReport_LifeExpectancy>Speranță de viață</StatsReport_LifeExpectancy>
+  <StatsReport_LifeExpectancy>TODO</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
-  <StatsReport_MissingBodyParts>Multiplicator pentru părțile de corp lipsă</StatsReport_MissingBodyParts>
+  <StatsReport_MissingBodyParts>TODO</StatsReport_MissingBodyParts>
   <!-- EN: Gear and inventory -->
-  <StatsReport_GearAndInventoryMass>Echipament și inventar</StatsReport_GearAndInventoryMass>
+  <StatsReport_GearAndInventoryMass>TODO</StatsReport_GearAndInventoryMass>
   <!-- EN: Multiplier for worn by corpse -->
-  <StatsReport_WornByCorpse>Multiplicator pentru purtat de cadavru</StatsReport_WornByCorpse>
+  <StatsReport_WornByCorpse>TODO</StatsReport_WornByCorpse>
   <!-- EN: average of all attacks -->
-  <AverageOfAllAttacks>media tuturor atacurilor</AverageOfAllAttacks>
+  <AverageOfAllAttacks>TODO</AverageOfAllAttacks>
   <!-- EN: Scenario -->
-  <StatsReport_ScenarioFactor>Scenariu</StatsReport_ScenarioFactor>
+  <StatsReport_ScenarioFactor>TODO</StatsReport_ScenarioFactor>
   <!-- EN: Ingredients -->
-  <StatsReport_IngredientsMass>Ingrediente</StatsReport_IngredientsMass>
+  <StatsReport_IngredientsMass>TODO</StatsReport_IngredientsMass>
   <!-- EN: Permanently disabled. -->
-  <StatsReport_PermanentlyDisabled>Incapacitat permanent</StatsReport_PermanentlyDisabled>
+  <StatsReport_PermanentlyDisabled>TODO</StatsReport_PermanentlyDisabled>
   <!-- EN: {0} -->
-  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <StatsReport_Inspiration>TODO</StatsReport_Inspiration>
   <!-- EN: Added body parts -->
-  <StatsReport_AddedBodyPartsMass>Părți ale corpului adăugate</StatsReport_AddedBodyPartsMass>
+  <StatsReport_AddedBodyPartsMass>TODO</StatsReport_AddedBodyPartsMass>
   <!-- EN: Material effect multiplier -->
-  <StatsReport_StuffEffectMultiplier>Multiplicatorul efectului materialului</StatsReport_StuffEffectMultiplier>
+  <StatsReport_StuffEffectMultiplier>TODO</StatsReport_StuffEffectMultiplier>
   <!-- EN: Resting -->
-  <StatsReport_Resting>Odihnă</StatsReport_Resting>
+  <StatsReport_Resting>TODO</StatsReport_Resting>
   <!-- EN: recreation type -->
-  <StatsReport_JoyKind>tip de recreere</StatsReport_JoyKind>
+  <StatsReport_JoyKind>TODO</StatsReport_JoyKind>
   <!-- EN: work to uninstall -->
-  <StatsReport_WorkToUninstall>muncă pentru dezinstalare</StatsReport_WorkToUninstall>
+  <StatsReport_WorkToUninstall>TODO</StatsReport_WorkToUninstall>
   <!-- EN: Fence -->
-  <StatsReport_Fence>Gardul</StatsReport_Fence>
+  <StatsReport_Fence>TODO</StatsReport_Fence>
   <!-- EN: Multiplier for growth {0} -->
-  <StatsReport_PlantGrowth>multiplicator pentru cultivare {0}</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth>TODO</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
-  <StatsReport_PlantGrowth_Wild>scalat pentru că sălbatic</StatsReport_PlantGrowth_Wild>
+  <StatsReport_PlantGrowth_Wild>TODO</StatsReport_PlantGrowth_Wild>
   <!-- EN: Not flesh -->
-  <StatsReport_NotFlesh>Non-carne</StatsReport_NotFlesh>
+  <StatsReport_NotFlesh>TODO</StatsReport_NotFlesh>
   <!-- EN: Not fresh -->
-  <StatsReport_NotFresh>Non-proaspăt</StatsReport_NotFresh>
+  <StatsReport_NotFresh>TODO</StatsReport_NotFresh>
   <!-- EN: Wild man -->
-  <StatsReport_WildMan>Animal sălbatic</StatsReport_WildMan>
+  <StatsReport_WildMan>TODO</StatsReport_WildMan>
   <!-- EN: Attack -->
-  <StatsReport_NonToolAttack>Atac</StatsReport_NonToolAttack>
+  <StatsReport_NonToolAttack>TODO</StatsReport_NonToolAttack>
   <!-- EN: Ideoligion -->
-  <StatsReport_Ideoligion>Ideoligie</StatsReport_Ideoligion>
+  <StatsReport_Ideoligion>TODO</StatsReport_Ideoligion>
   <!-- EN: Multiplier for malnutrition {0} -->
-  <StatsReport_Malnutrition>Multiplicator pentru malnutriție {0}</StatsReport_Malnutrition>
-  
+  <StatsReport_Malnutrition>TODO</StatsReport_Malnutrition>
+
   <!-- EN: Possible offsets -->
-  <StatReport_PossibleOffsets>Decalaje posibile</StatReport_PossibleOffsets>
+  <StatReport_PossibleOffsets>TODO</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
-  <StatsReport_RoomImpressiveness>Impresionanța camerei</StatsReport_RoomImpressiveness>
+  <StatsReport_RoomImpressiveness>TODO</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
-  <StatsReport_Lit>Aprins</StatsReport_Lit>
+  <StatsReport_Lit>TODO</StatsReport_Lit>
   <!-- EN: Contains {0} -->
-  <StatsReport_GraveFull>Conține {0}</StatsReport_GraveFull>
+  <StatsReport_GraveFull>TODO</StatsReport_GraveFull>
   <!-- EN: Contains a human corpse -->
-  <StatsReport_GraveFullAbstract>Conține cadravu uman</StatsReport_GraveFullAbstract>
+  <StatsReport_GraveFullAbstract>TODO</StatsReport_GraveFullAbstract>
   <!-- EN: Meditator is related to the corpse inside -->
-  <StatsReport_GraveCorpseRelatedAbstract>Meditatorul a fost afiliat cu cadavrul de dinăuntru</StatsReport_GraveCorpseRelatedAbstract>
+  <StatsReport_GraveCorpseRelatedAbstract>TODO</StatsReport_GraveCorpseRelatedAbstract>
   <!-- EN: From quality -->
-  <StatsReport_FromQuality>Din calitatea</StatsReport_FromQuality>
+  <StatsReport_FromQuality>TODO</StatsReport_FromQuality>
   <!-- EN: Nearby artificial structures -->
-  <StatsReport_NearbyArtificialStructures>Structuri artificiale din apropriere</StatsReport_NearbyArtificialStructures>
+  <StatsReport_NearbyArtificialStructures>TODO</StatsReport_NearbyArtificialStructures>
   <!-- EN: Satisfies user's title requirements -->
-  <StatsReport_SatisfiesTitle>Satisface cerințele de titlu ale utilizatorului</StatsReport_SatisfiesTitle>
+  <StatsReport_SatisfiesTitle>TODO</StatsReport_SatisfiesTitle>
 
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
-  <Stat_RecreationType_Desc>Diferite surse de recreere satisfac diferite tipuri de recreere. Coloniștii se plictisesc să facă același tip de recreere în mod repetat, astfel încât este important să se ofere o varietate de surse de recreere cu diferite tipuri de recreere.</Stat_RecreationType_Desc>
+  <Stat_RecreationType_Desc>TODO</Stat_RecreationType_Desc>
   <!-- EN: All recreation types -->
-  <Stat_JoyKind_AllTypes>Toate tipurile de recreere</Stat_JoyKind_AllTypes>
+  <Stat_JoyKind_AllTypes>TODO</Stat_JoyKind_AllTypes>
   <!-- EN: Mined item -->
-  <Stat_MineableThing_Name>Obiect minat</Stat_MineableThing_Name>
+  <Stat_MineableThing_Name>TODO</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
-  <Stat_MineableThing_Desc>Obiectul care va fi obținut la minarea acestui obiect.</Stat_MineableThing_Desc>
+  <Stat_MineableThing_Desc>TODO</Stat_MineableThing_Desc>
   <!-- EN: Mining yield -->
-  <Stat_MiningYield_Name>Randament minier</Stat_MiningYield_Name>
+  <Stat_MiningYield_Name>TODO</Stat_MiningYield_Name>
   <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
-  <Stat_MiningYield_Desc>Cantitatea maximă de obiecte obținute la minarea acestui obiect. Randamentul real va fi ajustat în funcție de abilitățile de minerit ale minerului.</Stat_MiningYield_Desc>
+  <Stat_MiningYield_Desc>TODO</Stat_MiningYield_Desc>
   <!-- EN: Source species -->
-  <Stat_SourceSpecies_Name>Specia sursă</Stat_SourceSpecies_Name>
+  <Stat_SourceSpecies_Name>TODO</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
-  <Stat_SourceSpecies_Desc>Specia de creatură de la care a fost luat acest lucru.</Stat_SourceSpecies_Desc>
+  <Stat_SourceSpecies_Desc>TODO</Stat_SourceSpecies_Desc>
   <!-- EN: Stuff -->
-  <Stat_Stuff_Name>Lucruri</Stat_Stuff_Name>
+  <Stat_Stuff_Name>TODO</Stat_Stuff_Name>
   <!-- EN: The stuff this thing is made of. This affects many other stats, including weapon damage, apparel armor and insulation, item and building hit points, beauty, market value, and much more. -->
-  <Stat_Stuff_Desc>Materialul din care este făcută această turelă. Aceasta afectează multe alte statistici, inclusiv daunele armei, armura și izolarea îmbrăcămintei, punctele de lovire ale obiectelor și ale clădirilor, frumusețea, valoarea de piață și multe altele.</Stat_Stuff_Desc>
+  <Stat_Stuff_Desc>TODO</Stat_Stuff_Desc>
   <!-- EN: Weapon -->
-  <Stat_Weapon_Name>Armă</Stat_Weapon_Name>
+  <Stat_Weapon_Name>TODO</Stat_Weapon_Name>
   <!-- EN: The weapon used by this turret. -->
-  <Stat_Weapon_Desc>Arma utilizată de această turelă.</Stat_Weapon_Desc>
+  <Stat_Weapon_Desc>TODO</Stat_Weapon_Desc>
   <!-- EN: How much damage an object can take before being destroyed. -->
-  <Stat_HitPoints_Desc>Câte daune poate suporta un obiect înainte de a fi distrus.</Stat_HitPoints_Desc>
+  <Stat_HitPoints_Desc>TODO</Stat_HitPoints_Desc>
   <!-- EN: The amount of work it takes to uninstall this. -->
-  <Stat_Thing_WorkToUninstall_Desc>Cantitatea de muncă necesară pentru a dezinstala acest lucru.</Stat_Thing_WorkToUninstall_Desc>
+  <Stat_Thing_WorkToUninstall_Desc>TODO</Stat_Thing_WorkToUninstall_Desc>
   <!-- EN: Whether this building is a type of fence. Fences block these animals -->
-  <Stat_Thing_Fence_Desc>Dacă această clădire este un tip de gard. Gardurile blochează aceste animale</Stat_Thing_Fence_Desc>
+  <Stat_Thing_Fence_Desc>TODO</Stat_Thing_Fence_Desc>
   <!-- EN: Which facilities can be used to produce this. -->
-  <Stat_Thing_CreatedAt_Desc>Ce instalații pot fi folosite pentru a produce acest lucru.</Stat_Thing_CreatedAt_Desc>
+  <Stat_Thing_CreatedAt_Desc>TODO</Stat_Thing_CreatedAt_Desc>
   <!-- EN: The amount of damage this weapon deals.\n\nThis may be deflected or mitigated by the target's armor. -->
-  <Stat_Thing_Damage_Desc>Cantitatea de daune pe care o provoacă această armă.\n\nAceasta poate fi deflectată sau atenuată de armura țintei.</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Damage_Desc>TODO</Stat_Thing_Damage_Desc>
   <!-- EN: A multiplier on the amount of experience doctors gain when using this to tend a patient. -->
-  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>Un multiplicator al cantității de experiență pe care medicii o câștigă atunci când folosesc acest medicament pentru a îngriji un pacient.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>TODO</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
   <!-- EN: The attributes of this plant. -->
-  <Stat_Thing_Plant_Attributes_Desc>Atributele acestei plante.</Stat_Thing_Plant_Attributes_Desc>
+  <Stat_Thing_Plant_Attributes_Desc>TODO</Stat_Thing_Plant_Attributes_Desc>
   <!-- EN: Clothing (for nudity) -->
-  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>Îmbrăcăminte (pentru nuditate)</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>TODO</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
   <!-- EN: Whether nudists will consider this item to be a piece of clothing. If not, nudists will never be bothered by wearing this. -->
-  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>Dacă nudiștii vor considera acest obiect ca fiind o piesă de îmbrăcăminte. Dacă nu, nudiștii nu vor fi niciodată deranjați de purtarea acestuia.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>TODO</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
   <!-- EN: Which body parts this covers.\n\nArmor does not protect body parts that it does not cover. -->
-  <Stat_Thing_Apparel_Covers_Desc>Ce părți ale corpului acoperă aceasta.\n\nArma nu protejează părțile corpului pe care nu le acoperă.</Stat_Thing_Apparel_Covers_Desc>
+  <Stat_Thing_Apparel_Covers_Desc>TODO</Stat_Thing_Apparel_Covers_Desc>
   <!-- EN: Which apparel layers this fills.\n\nFor a given body part, only one piece of apparel can be worn in each layer. -->
-  <Stat_Thing_Apparel_Layer_Desc>Ce straturi de îmbrăcăminte ocupă acest lucru.\n\nPentru o anumită parte a corpului, se poate purta doar o singură piesă de îmbrăcăminte în fiecare strat.</Stat_Thing_Apparel_Layer_Desc>
+  <Stat_Thing_Apparel_Layer_Desc>TODO</Stat_Thing_Apparel_Layer_Desc>
   <!-- EN: The minimum soil fertility that this plant requires to grow. -->
-  <Stat_Thing_Plant_FertilityRequirement_Desc>Fertilitatea minimă a solului de care are nevoie această plantă pentru a crește.</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <Stat_Thing_Plant_FertilityRequirement_Desc>TODO</Stat_Thing_Plant_FertilityRequirement_Desc>
   <!-- EN: How sensitive this plant is to soil fertility.\n\nLow sensitivity means the plant will grow about the same speed in rich or poor soil. High sensitivity means the plant grows slow in poor soil, but faster in rich soil. -->
-  <Stat_Thing_Plant_FertilitySensitivity_Desc>Cât de sensibilă este această plantă la fertilitatea solului.\n\nSensibilitate scăzută înseamnă că planta va crește cam cu aceeași viteză în sol bogat sau sărac. Sensibilitate ridicată înseamnă că planta crește încet în sol sărac, dar mai repede în sol bogat.</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>TODO</Stat_Thing_Plant_FertilitySensitivity_Desc>
   <!-- EN: The amount of light this plant requires to grow. -->
-  <Stat_Thing_Plant_LightRequirement_Desc>Cantitatea de lumină de care are nevoie această plantă pentru a crește.</Stat_Thing_Plant_LightRequirement_Desc>
+  <Stat_Thing_Plant_LightRequirement_Desc>TODO</Stat_Thing_Plant_LightRequirement_Desc>
   <!-- EN: The lifespan of the plant.\n\nPlants naturally die after they reach a certain age, even if not harvested. -->
-  <Stat_Thing_Plant_LifeSpan_Desc>Durata de viață a plantei.\n\nPlantele mor în mod natural după ce ajung la o anumită vârstă, chiar dacă nu sunt recoltate.</Stat_Thing_Plant_LifeSpan_Desc>
+  <Stat_Thing_Plant_LifeSpan_Desc>TODO</Stat_Thing_Plant_LifeSpan_Desc>
   <!-- EN: The amount of product this plant will yield when harvested. -->
-  <Stat_Thing_Plant_HarvestYield_Desc>Cantitatea de produs pe care această plantă o va obține la recoltare.</Stat_Thing_Plant_HarvestYield_Desc>
+  <Stat_Thing_Plant_HarvestYield_Desc>TODO</Stat_Thing_Plant_HarvestYield_Desc>
   <!-- EN: The minimum temperature this plant can survive.\n\nTemperatures below this will cause damage over time. -->
-  <Stat_Thing_Plant_MinGrowthTemperature_Desc>Temperatura minimă la care poate supraviețui această plantă.\n\nTemperaturile mai mici decât aceasta vor cauza daune în timp.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>TODO</Stat_Thing_Plant_MinGrowthTemperature_Desc>
   <!-- EN: The maximum temperature this plant can survive.\n\nTemperatures above this will cause damage over time. -->
-  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>Temperatura maximă la care poate supraviețui această plantă.\n\nTemperaturile mai mari decât aceasta vor cauza daune în timp.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>TODO</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
   <!-- EN: The minimum skill needed for a farmer to to sow this plant. -->
-  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>Abilitățile minime necesare pentru ca un fermier să semene această plantă.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>TODO</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
   <!-- EN: The kinds of food this creature is capable of eating.\n\nCan eat: {0} -->
-  <Stat_Race_Diet_Desc>Tipurile de hrană pe care această creatură este capabilă să le mănânce.\n\nPoate mânca: {0}</Stat_Race_Diet_Desc>
+  <Stat_Race_Diet_Desc>TODO</Stat_Race_Diet_Desc>
   <!-- EN: The type of leather this creature will yield when butchered. -->
-  <Stat_Race_LeatherType_Desc>Tipul de piele pe care această creatură îl va oferi atunci când va fi măcelărită.</Stat_Race_LeatherType_Desc>
+  <Stat_Race_LeatherType_Desc>TODO</Stat_Race_LeatherType_Desc>
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
-  <Stat_Race_Animal_TameFailedRevengeChance_Desc>Șansa ca această creatură să atace atunci când un îmblânzitor încearcă să o îmblânzească și nu reușește.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>TODO</Stat_Race_Animal_TameFailedRevengeChance_Desc>
   <!-- EN: This creature's general mental aptitude for training. This is a combination of intelligence and attentiveness. It determines which kinds of tasks this creature can be trained to perform. -->
-  <Stat_Race_Trainability_Desc>Capacitatea mentală generală de antrenament a acestei creaturi. Aceasta este o combinație de inteligență și atenție. Determină ce fel de sarcini poate fi antrenată această creatură să îndeplinească.</Stat_Race_Trainability_Desc>
+  <Stat_Race_Trainability_Desc>TODO</Stat_Race_Trainability_Desc>
   <!-- EN: The average life expectancy of this creature. -->
-  <Stat_Race_LifeExpectancy_Desc>Speranța medie de viață a acestei creaturi.</Stat_Race_LifeExpectancy_Desc>
+  <Stat_Race_LifeExpectancy_Desc>TODO</Stat_Race_LifeExpectancy_Desc>
   <!-- EN: Whether this creature is blocked by fences and barricades. -->
-  <Stat_Race_BlockedByFences_Desc>Dacă această creatură este blocată de garduri și baricade.</Stat_Race_BlockedByFences_Desc>
+  <Stat_Race_BlockedByFences_Desc>TODO</Stat_Race_BlockedByFences_Desc>
   <!-- EN: How often a tame animal will attempt to roam away and exit the map.\n\nAnimals will only roam if they have a direct path to the map edge. You can use fences, barricades, walls, and doors to prevent this.\n\nAnimal handlers can rope roaming animals and bring them back to a pen. -->
-  <Stat_Race_RoamInterval_Desc>Cât de des va încerca un animal îmblânzit să se îndepărteze și să iasă de pe hartă.\n\nAnimalele se vor deplasa doar dacă au o cale directă către marginea hărții. Puteți folosi garduri, baricade, ziduri și uși pentru a împiedica acest lucru.\n\nCulegătorii de animale pot lega animalele hoinare cu frânghia și le pot aduce înapoi într-un țarc.</Stat_Race_RoamInterval_Desc>
+  <Stat_Race_RoamInterval_Desc>TODO</Stat_Race_RoamInterval_Desc>
   <!-- EN: The recreational value of ingesting this. Higher numbers will fulfill the recreation need more. -->
-  <Stat_Thing_Ingestible_Joy_Desc>Valoarea recreativă a ingerării acestui lucru. Un număr mai mare va satisface mai mult nevoia de recreere.</Stat_Thing_Ingestible_Joy_Desc>
+  <Stat_Thing_Ingestible_Joy_Desc>TODO</Stat_Thing_Ingestible_Joy_Desc>
   <!-- EN: The size of this creature's body, compared to an average adult human. -->
-  <Stat_Race_BodySize_Desc>Dimensiunea corpului acestei creaturi, în comparație cu cea a unui om adult mediu.</Stat_Race_BodySize_Desc>
+  <Stat_Race_BodySize_Desc>TODO</Stat_Race_BodySize_Desc>
   <!-- EN: How close this creature is to adulthood.\n\nGrowth requires nourishment. A hungry animal will grow at a slower rate compared to a well-fed one. -->
-  <Stat_Race_Growth_Desc>Cât de aproape este această creatură de vârsta adultă.\n\nGrowth necesită hrană. Un animal înfometat va crește într-un ritm mai lent în comparație cu unul bine hrănit.</Stat_Race_Growth_Desc>
+  <Stat_Race_Growth_Desc>TODO</Stat_Race_Growth_Desc>
   <!-- EN: How much time passes between when a melee attack with this weapon begins and when it hits. -->
-  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>Cât timp trece între momentul în care începe un atac corp la corp cu această armă și momentul în care lovește.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>TODO</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
   <!-- EN: How much time passes between when a ranged attack begins aiming and when it fires. -->
   <Stat_Thing_Weapon_RangedWarmupTime_Desc>TODO</Stat_Thing_Weapon_RangedWarmupTime_Desc>
   <!-- EN: The amount of shots this weapon fires in each burst. -->
-  <Stat_Thing_Weapon_BurstShotCount_Desc>Cantitatea de focuri pe care această armă le trage în fiecare rafală.</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <Stat_Thing_Weapon_BurstShotCount_Desc>TODO</Stat_Thing_Weapon_BurstShotCount_Desc>
   <!-- EN: The fire rate of this weapon during each burst. -->
-  <Stat_Thing_Weapon_BurstShotFireRate_Desc>Rata de tragere a acestei arme în timpul fiecărei rafale.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>TODO</Stat_Thing_Weapon_BurstShotFireRate_Desc>
   <!-- EN: The maximum range of this weapon. -->
-  <Stat_Thing_Weapon_Range_Desc>Raza maximă de acțiune a acestei arme.</Stat_Thing_Weapon_Range_Desc>
+  <Stat_Thing_Weapon_Range_Desc>TODO</Stat_Thing_Weapon_Range_Desc>
   <!-- EN: The radius of random spread on shots fired by this weapon.\n\nHigh values make projectiles disperse randomly around the target. -->
-  <Stat_Thing_Weapon_MissRadius_Desc>Raza de împrăștiere aleatorie a împușcăturilor trase de această armă.\n\nValorile ridicate fac ca proiectilele să se disperseze aleatoriu în jurul țintei.</Stat_Thing_Weapon_MissRadius_Desc>
+  <Stat_Thing_Weapon_MissRadius_Desc>TODO</Stat_Thing_Weapon_MissRadius_Desc>
   <!-- EN: The chance that a shot will directly hit its target if not intercepted, dodged or stopped. -->
-  <Stat_Thing_Weapon_DirectHitChance_Desc>Șansa ca o lovitură să își atingă direct ținta dacă nu este interceptată, eschivată sau oprită.</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <Stat_Thing_Weapon_DirectHitChance_Desc>TODO</Stat_Thing_Weapon_DirectHitChance_Desc>
   <!-- EN: This body part's effect on the mood of the owner. -->
-  <Stat_Thing_MoodChange_Desc>Efectul acestei părți a corpului asupra stării de spirit a proprietarului.</Stat_Thing_MoodChange_Desc>
+  <Stat_Thing_MoodChange_Desc>TODO</Stat_Thing_MoodChange_Desc>
   <!-- EN: The main skill used while performing this recipe.\n\nIt determines the quality of the result, and is learned while performing this recipe. -->
-  <Stat_Recipe_Skill_Desc>Principala aptitudine folosită în timpul executării acestei rețete.\n\nDetermină calitatea rezultatului și se învață în timpul executării acestei rețete.</Stat_Recipe_Skill_Desc>
+  <Stat_Recipe_Skill_Desc>TODO</Stat_Recipe_Skill_Desc>
   <!-- EN: The ingredients required to perform this recipe. -->
-  <Stat_Recipe_Ingredients_Desc>Ingredientele necesare pentru realizarea acestei rețete.</Stat_Recipe_Ingredients_Desc>
+  <Stat_Recipe_Ingredients_Desc>TODO</Stat_Recipe_Ingredients_Desc>
   <!-- EN: The skills required to perform this recipe. -->
-  <Stat_Recipe_SkillRequirements_Desc>Abilitățile necesare pentru a realiza această rețetă.</Stat_Recipe_SkillRequirements_Desc>
+  <Stat_Recipe_SkillRequirements_Desc>TODO</Stat_Recipe_SkillRequirements_Desc>
   <!-- EN: The products produced by this recipe. -->
-  <Stat_Recipe_Products_Desc>Produsele obținute de această rețetă.</Stat_Recipe_Products_Desc>
+  <Stat_Recipe_Products_Desc>TODO</Stat_Recipe_Products_Desc>
   <!-- EN: Which character stat governs the workspeed of this recipe.\n\nThe higher the stat of the worker is, the faster work will be done. -->
-  <Stat_Recipe_WorkSpeedStat_Desc>Care stat de caracter guvernează viteza de lucru a acestei rețete.\n\nCu cât mai mare este statutul lucrătorului, cu atât mai repede se va lucra.</Stat_Recipe_WorkSpeedStat_Desc>
+  <Stat_Recipe_WorkSpeedStat_Desc>TODO</Stat_Recipe_WorkSpeedStat_Desc>
   <!-- EN: Which stat governs the quality or amount of output.\n\nThe higher the stat of the worker is, the higher the quality or yield will be. -->
-  <Stat_Recipe_EfficiencyStat_Desc>Care stat guvernează calitatea sau cantitatea de producție.\n\nCu cât mai mare este stat al lucrătorului, cu atât mai mare va fi calitatea sau randamentul.</Stat_Recipe_EfficiencyStat_Desc>
+  <Stat_Recipe_EfficiencyStat_Desc>TODO</Stat_Recipe_EfficiencyStat_Desc>
   <!-- EN: A multiplier on the chance this operation will be a success. More difficult operations have lower multipliers.\n\nThe actual chance of success of a surgery is also affected by the doctor, facilities, and medicine used. -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>Un multiplicator al șansei ca această operație să fie un succes. Operațiile mai dificile au multiplicatori mai mici.\n\nȘansele reale de reușită ale unei operații sunt afectate și de medicul, facilitățile și medicamentele folosite.</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>TODO</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
   <!-- EN: Can't fail -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>Nu poate eșua</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>TODO</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
   <!-- EN: Performing this operation is safe for the patient. -->
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>Efectuarea acestei operații este sigură pentru pacient.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>TODO</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
   <!-- EN: The chance the patient will die upon failure of this surgery. -->
-  <Stat_Thing_Surgery_DeathOnFailChance_Desc>Șansa ca pacientul să moară la eșecul acestei intervenții chirurgicale.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>TODO</Stat_Thing_Surgery_DeathOnFailChance_Desc>
   <!-- EN: Total bleed factor -->
-  <Stat_Hediff_TotalBleedFactor_Name>Factor de sângerare totală</Stat_Hediff_TotalBleedFactor_Name>
+  <Stat_Hediff_TotalBleedFactor_Name>TODO</Stat_Hediff_TotalBleedFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of blood loss. -->
-  <Stat_Hediff_TotalBleedFactor_Desc>Un multiplicator aplicat la rata globală de pierdere de sânge.</Stat_Hediff_TotalBleedFactor_Desc>
+  <Stat_Hediff_TotalBleedFactor_Desc>TODO</Stat_Hediff_TotalBleedFactor_Desc>
   <!-- EN: Natural healing factor -->
-  <Stat_Hediff_NaturalHealingFactor_Name>Factor de vindecare naturală</Stat_Hediff_NaturalHealingFactor_Name>
+  <Stat_Hediff_NaturalHealingFactor_Name>TODO</Stat_Hediff_NaturalHealingFactor_Name>
   <!-- EN: A multiplier applied to the overall rate of natural wound healing. -->
-  <Stat_Hediff_NaturalHealingFactor_Desc>Un multiplicator aplicat la rata generală de vindecare naturală a rănilor.</Stat_Hediff_NaturalHealingFactor_Desc>
+  <Stat_Hediff_NaturalHealingFactor_Desc>TODO</Stat_Hediff_NaturalHealingFactor_Desc>
   <!-- EN: Food poisoning chance factor -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Name>Factor de șansă de intoxicație alimentară</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>TODO</Stat_Hediff_FoodPoisoningChanceFactor_Name>
   <!-- EN: A multiplier applied to the chance of getting food poisoning. -->
-  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>Un multiplicator aplicat la șansa de a face otrăvire alimentară.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>TODO</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
   <!-- EN: The rate at which this condition causes blood loss. -->
-  <Stat_Hediff_BleedingRate_Desc>Rata cu care această afecțiune provoacă pierderi de sânge.</Stat_Hediff_BleedingRate_Desc>
+  <Stat_Hediff_BleedingRate_Desc>TODO</Stat_Hediff_BleedingRate_Desc>
   <!-- EN: The amount of pain caused by this condition. -->
-  <Stat_Hediff_Pain_Desc>Valoarea durerii provocate de această afecțiune.</Stat_Hediff_Pain_Desc>
+  <Stat_Hediff_Pain_Desc>TODO</Stat_Hediff_Pain_Desc>
   <!-- EN: The offset in efficiency applied to body parts affected by this. -->
-  <Stat_Hediff_PartEfficiency_Desc>Decalajul de eficiență aplicat părților corpului afectate de aceasta.</Stat_Hediff_PartEfficiency_Desc>
+  <Stat_Hediff_PartEfficiency_Desc>TODO</Stat_Hediff_PartEfficiency_Desc>
   <!-- EN: The mental abilities this affects. -->
-  <Stat_Hediff_Affects_Desc>Abilitățile mentale pe care le afectează acest lucru.</Stat_Hediff_Affects_Desc>
+  <Stat_Hediff_Affects_Desc>TODO</Stat_Hediff_Affects_Desc>
   <!-- EN: Hunger rate offset -->
-  <Stat_Hediff_HungerRateOffset_Name>Decalajul ratei de foame</Stat_Hediff_HungerRateOffset_Name>
+  <Stat_Hediff_HungerRateOffset_Name>TODO</Stat_Hediff_HungerRateOffset_Name>
   <!-- EN: A multiplier on the rate at which the food need depletes. -->
-  <Stat_Hediff_HungerRateFactor_Desc>Un multiplicator al ratei de epuizare a necesității de hrană.</Stat_Hediff_HungerRateFactor_Desc>
+  <Stat_Hediff_HungerRateFactor_Desc>TODO</Stat_Hediff_HungerRateFactor_Desc>
   <!-- EN: An offset on the rate at which the food need depletes. -->
-  <Stat_Hediff_HungerRateOffset_Desc>Un decalaj aplicat asupra ritmului cu care se diminuează nevoia de hrană.</Stat_Hediff_HungerRateOffset_Desc>
+  <Stat_Hediff_HungerRateOffset_Desc>TODO</Stat_Hediff_HungerRateOffset_Desc>
   <!-- EN: Rest fall rate -->
-  <Stat_Hediff_TirednessOffset_Name>Rata de cădere a odihnei</Stat_Hediff_TirednessOffset_Name>
-  <!-- EN: An offset applied to the rate at which the creatures rest need falls. -->
-  <Stat_Hediff_TirednessOffset_Desc>Un decalaj aplicat la rata la care scade nevoia de odihnă a creaturilor.</Stat_Hediff_TirednessOffset_Desc>
-  <!-- EN: A multiplier applied to the rate at which the creatures rest need falls. -->
-  <Stat_Hediff_TirednessFactor_Desc>Un multiplicator aplicat la rata la care nevoia de odihnă a creaturilor cade.</Stat_Hediff_TirednessFactor_Desc>
+  <Stat_Hediff_TirednessOffset_Name>TODO</Stat_Hediff_TirednessOffset_Name>
+  <!-- EN: An offset applied to the rate at which the creature's sleep need falls. -->
+  <Stat_Hediff_TirednessOffset_Desc>TODO</Stat_Hediff_TirednessOffset_Desc>
+  <!-- EN: A multiplier applied to the rate at which the creature's sleep need falls. -->
+  <Stat_Hediff_TirednessFactor_Desc>TODO</Stat_Hediff_TirednessFactor_Desc>
   <!-- EN: Whether or not this will prevent infections. -->
-  <Stat_Hediff_PreventsInfection_Desc>Dacă acest teren va preveni sau nu infecțiile.</Stat_Hediff_PreventsInfection_Desc>
+  <Stat_Hediff_PreventsInfection_Desc>TODO</Stat_Hediff_PreventsInfection_Desc>
   <!-- EN: The things this terrain supports. -->
-  <Stat_Thing_Terrain_Supports_Desc>Lucrurile pe care le suportă acest teren.</Stat_Thing_Terrain_Supports_Desc>
+  <Stat_Thing_Terrain_Supports_Desc>TODO</Stat_Thing_Terrain_Supports_Desc>
   <!-- EN: This can only be placed on terrain of these types. -->
-  <Stat_Thing_TerrainRequirement_Desc>Un obiect sau o structură poate fi plasată numai pe terenuri de un anumit fel. De exemplu, un perete de piatră nu va putea fi construit decât pe terenuri care nu sunt mlăștinoase, noroioase sau foarte nisipoase. </Stat_Thing_TerrainRequirement_Desc>
+  <Stat_Thing_TerrainRequirement_Desc>TODO</Stat_Thing_TerrainRequirement_Desc>
   <!-- EN: Considered -->
-  <Stat_Thing_Terrain_Fine_Name>Considerat</Stat_Thing_Terrain_Fine_Name>
+  <Stat_Thing_Terrain_Fine_Name>TODO</Stat_Thing_Terrain_Fine_Name>
   <!-- EN: Fine -->
-  <Stat_Thing_Terrain_Fine_Value>În regulă</Stat_Thing_Terrain_Fine_Value>
+  <Stat_Thing_Terrain_Fine_Value>TODO</Stat_Thing_Terrain_Fine_Value>
   <!-- EN: This floor is considered fine and suitable for royalty. -->
-  <Stat_Thing_Terrain_Fine_Desc>Acest tip de podea este considerat fin și pe gusturile regalității.</Stat_Thing_Terrain_Fine_Desc>
+  <Stat_Thing_Terrain_Fine_Desc>TODO</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
-  <Stat_Thing_PowerConsumption_Desc>Cantitatea de energie pe care această clădire o va extrage din rețeaua electrică.</Stat_Thing_PowerConsumption_Desc>
+  <Stat_Thing_PowerConsumption_Desc>TODO</Stat_Thing_PowerConsumption_Desc>
   <!-- EN: {CHARGENOUN_plural} remaining -->
-  <Stat_Thing_ReloadChargesRemaining_Name>{CHARGENOUN_plural} rămase</Stat_Thing_ReloadChargesRemaining_Name>
+  <Stat_Thing_ReloadChargesRemaining_Name>TODO</Stat_Thing_ReloadChargesRemaining_Name>
   <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
-  <Stat_Thing_ReloadChargesRemaining_Desc>Numărul de {CHARGENOUN_plural} rămase pe acest obiect. Dacă acestea se termină, abilitatea specială nu mai poate fi folosită.</Stat_Thing_ReloadChargesRemaining_Desc>
+  <Stat_Thing_ReloadChargesRemaining_Desc>TODO</Stat_Thing_ReloadChargesRemaining_Desc>
   <!-- EN: {CHARGENOUN_plural} -->
-  <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
+  <Stat_Thing_ReloadMaxCharges_Name>TODO</Stat_Thing_ReloadMaxCharges_Name>
   <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
-  <Stat_Thing_ReloadMaxCharges_Desc>Numărul maxim de {CHARGENOUN_plural} pe care le are acest obiect.</Stat_Thing_ReloadMaxCharges_Desc>
+  <Stat_Thing_ReloadMaxCharges_Desc>TODO</Stat_Thing_ReloadMaxCharges_Desc>
   <!-- EN: {CHARGENOUN} reload cost -->
-  <Stat_Thing_ReloadRefill_Name>{CHARGENOUN} cost de reîncărcare</Stat_Thing_ReloadRefill_Name>
+  <Stat_Thing_ReloadRefill_Name>TODO</Stat_Thing_ReloadRefill_Name>
   <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
-  <Stat_Thing_ReloadRefill_Desc>Cantitatea de elemente necesare pentru a reîncărca complet acest obiect.\n\nAcest obiect poate fi reîncărcat înainte de a fi gol, dar costul este același ca și în cazul în care ar fi gol.</Stat_Thing_ReloadRefill_Desc>
+  <Stat_Thing_ReloadRefill_Desc>TODO</Stat_Thing_ReloadRefill_Desc>
   <!-- EN: Reload cost per {CHARGENOUN} -->
-  <Stat_Thing_ReloadPerCharge_Name>Costul de reîncărcare per {CHARGENOUN}.</Stat_Thing_ReloadPerCharge_Name>
+  <Stat_Thing_ReloadPerCharge_Name>TODO</Stat_Thing_ReloadPerCharge_Name>
   <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
-  <Stat_Thing_ReloadPerCharge_Desc>Cantitatea de elemente necesare pentru a reîncărca un {CHARGENOUN}. Mai multe {CHARGENOUN_plural} pot fi reîncărcate simultan.</Stat_Thing_ReloadPerCharge_Desc>
+  <Stat_Thing_ReloadPerCharge_Desc>TODO</Stat_Thing_ReloadPerCharge_Desc>
   <!-- EN: Vanish on exhaust -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Name>Dispare la epuizare</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>TODO</Stat_Thing_ReloadDestroyOnEmpty_Name>
   <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
-  <Stat_Thing_ReloadDestroyOnEmpty_Desc>Acest element va dispărea atunci când ultimul său {CHARGENOUN} este utilizat.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>TODO</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <!-- EN: The overall efficiency of this body part. -->
-  <Stat_Thing_BodyPartEfficiency_Desc>Eficiența generală a acestei părți a corpului.</Stat_Thing_BodyPartEfficiency_Desc>
+  <Stat_Thing_BodyPartEfficiency_Desc>TODO</Stat_Thing_BodyPartEfficiency_Desc>
+  <!-- EN: Install sites -->
+  <Stat_Thing_InstallSites>TODO</Stat_Thing_InstallSites>
+  <!-- EN: Areas on the body where this can be installed. -->
+  <Stat_Thing_InstallSites_Desc>TODO</Stat_Thing_InstallSites_Desc>
+  <!-- EN: Replaces parts -->
+  <Stat_Thing_ReplacesParts>TODO</Stat_Thing_ReplacesParts>
+  <!-- EN: Body parts which are replaced by this when installed. -->
+  <Stat_Thing_ReplacesParts_Desc>TODO</Stat_Thing_ReplacesParts_Desc>
   <!-- EN: Biocoding -->
-  <Stat_Thing_Biocoded_Name>Biocodificare</Stat_Thing_Biocoded_Name>
+  <Stat_Thing_Biocoded_Name>TODO</Stat_Thing_Biocoded_Name>
   <!-- EN: This item has been coded to only accept a particular individual's bio-signature. -->
-  <Stat_Thing_Biocoded_Desc>Acest element a fost codificat pentru a accepta doar biosemnătura unui anumit individ.</Stat_Thing_Biocoded_Desc>
+  <Stat_Thing_Biocoded_Desc>TODO</Stat_Thing_Biocoded_Desc>
   <!-- EN: Required apparel -->
-  <Stat_Pawn_RequiredApparel_Name>Îmbrăcăminte necesară</Stat_Pawn_RequiredApparel_Name>
+  <Stat_Pawn_RequiredApparel_Name>TODO</Stat_Pawn_RequiredApparel_Name>
+  <!-- EN: Growth rate -->
+  <Stat_Thing_Plant_GrowthRate>TODO</Stat_Thing_Plant_GrowthRate>
+  <!-- EN: The rate at which a plant is growing.\n\nGrowth rate is affected by things like soil fertility, temperature, light, and environmental conditions. -->
+  <Stat_Thing_Plant_GrowthRate_Desc>TODO</Stat_Thing_Plant_GrowthRate_Desc>
+  <!-- EN: Age -->
+  <Stat_Thing_Plant_Age>TODO</Stat_Thing_Plant_Age>
+  <!-- EN: How long this has been alive. -->
+  <Stat_Thing_Plant_AgeDesc>TODO</Stat_Thing_Plant_AgeDesc>
+  <!-- EN: Lifespan -->
+  <Stat_Thing_Plant_Lifespan>TODO</Stat_Thing_Plant_Lifespan>
+  <!-- EN: Paintable -->
+  <Stat_Building_Paintable>TODO</Stat_Building_Paintable>
+  <!-- EN: Whether this can be painted using dye. -->
+  <Stat_Building_PaintableDesc>TODO</Stat_Building_PaintableDesc>
+  <!-- EN: Paint color -->
+  <Stat_Building_PaintColor>TODO</Stat_Building_PaintColor>
+  <!-- EN: The color this building was painted. -->
+  <Stat_Building_PaintColorDesc>TODO</Stat_Building_PaintColorDesc>
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
-  <Stat_Thing_Drug_Chemical_Desc>Substanța chimică activă din acest.\n\nÎn unele cazuri, aceeași substanță chimică este prezentă în mai multe droguri diferite. Aceste droguri diferite vor satisface aceeași dependență în moduri diferite.</Stat_Thing_Drug_Chemical_Desc>
+  <Stat_Thing_Drug_Chemical_Desc>TODO</Stat_Thing_Drug_Chemical_Desc>
   <!-- EN: The category this drug belongs to. -->
-  <Stat_Thing_Drug_Category_Desc>Categoria din care face parte acest medicament.</Stat_Thing_Drug_Category_Desc>
+  <Stat_Thing_Drug_Category_Desc>TODO</Stat_Thing_Drug_Category_Desc>
   <!-- EN: The intensity of high gained per dose of this drug. -->
-  <Stat_Thing_Drug_HighGainPerDose_Desc>Intensitatea de high obținută per doză a acestui medicament.</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <Stat_Thing_Drug_HighGainPerDose_Desc>TODO</Stat_Thing_Drug_HighGainPerDose_Desc>
   <!-- EN: How much this drug's high will decay each day. -->
-  <Stat_Thing_Drug_HighFallPerDay_Desc>Cât de mult va scădea high-ul acestui drog în fiecare zi.</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <Stat_Thing_Drug_HighFallPerDay_Desc>TODO</Stat_Thing_Drug_HighFallPerDay_Desc>
   <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
-  <Stat_Thing_Drug_HighDurationPerDose_Desc>Cât timp va dura high-ul acestui drog pe doză.\n\nAceasta se calculează din high-ul obținut pe doză și din rata de scădere a high-ului.</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>TODO</Stat_Thing_Drug_HighDurationPerDose_Desc>
   <!-- EN: How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical. -->
-  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>Cu cât va crește toleranța unui utilizator la substanța chimică pentru fiecare doză a acestui medicament.\n\nAceasta poate fi diferită pentru diferite forme ale aceleiași substanțe chimice.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>TODO</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
   <!-- EN: How much a user's tolerance to the chemical will fall per day. -->
-  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>Cu cât va scădea toleranța unui utilizator la substanța chimică pe zi.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>TODO</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
   <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
-  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>Toleranța minimă necesară pentru a deveni nou dependent de acest drog.\n\nDacă un utilizator se află sub acest nivel de toleranță, nu poate deveni nou dependent de la administrarea unei doze.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
-  <!-- EN: A user will never become addicted if they never take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay.\n\nNote that some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one. -->
-  <Stat_Thing_Drug_SafeDoseInterval_Desc>Un utilizator nu va deveni niciodată dependent dacă nu ia niciodată drogul mai des decât atât.\n\nSe calculează din toleranța minimă a drogului pentru a deveni dependent, câștigul de toleranță pe doză și rata de scădere a toleranței.\n\nRețineți că unele droguri nu au un interval sigur. Astfel de medicamente pot crea dependență la orice doză, chiar și la prima.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>TODO</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <!-- EN: An adult will only become addicted if they take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay. Some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.\n\nNote that the safe dose interval depends on a person's body size. -->
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>TODO</Stat_Thing_Drug_SafeDoseInterval_Desc>
   <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
-  <Stat_Thing_Drug_RandomODChance_Desc>Șansa de supradozaj aleatoriu atunci când se ia acest medicament. Supradozele aleatorii se pot întâmpla la orice doză, indiferent dacă este prima încercare a unui nou consumator sau a suta lovitură a unui dependent experimentat.</Stat_Thing_Drug_RandomODChance_Desc>
+  <Stat_Thing_Drug_RandomODChance_Desc>TODO</Stat_Thing_Drug_RandomODChance_Desc>
   <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->
-  <Stat_Thing_Drug_Addictiveness_Desc>Șansa de dependență la fiecare doză a acestui medicament.\n\nDacă medicamentul are o toleranță minimă pentru a crea dependență, toleranța trebuie să fie peste acest nivel pentru ca acest lucru să se aplice. Dacă nu există o toleranță minimă, orice doză poate provoca dependență.</Stat_Thing_Drug_Addictiveness_Desc>
+  <Stat_Thing_Drug_Addictiveness_Desc>TODO</Stat_Thing_Drug_Addictiveness_Desc>
   <!-- EN: New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it. -->
-  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>Noile dependențe cauzate de acest drog încep la acest nivel de severitate.\n\nConsumul mai multor doze de drog va crește severitatea dependenței, în timp ce timpul o va reduce.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>TODO</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
   <!-- EN: How long it takes to recover from an initial addiction to this drug.\n\nThis is be calculated from the new addiction severity divided by the rate of addiction recovery. An addiction which has been fed will take longer. -->
-  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>Cât timp durează recuperarea după o dependență inițială de acest drog.\n\nSe calculează din noua gravitate a dependenței împărțită la rata de recuperare a dependenței. O dependență care a fost alimentată va dura mai mult.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>TODO</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
   <!-- EN: How much severity is added to an existing addiction for each dose of this drug.\n\nAddiction severity cannot go above 100%. -->
-  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>Cât de multă severitate se adaugă la o dependență existentă pentru fiecare doză a acestui medicament.\n\nSeveritatea dependenței nu poate depăși 100%.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>TODO</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
   <!-- EN: How often an addict needs to take a dose of this drug to feed the addiction and prevent withdrawal.\n\nThis is calculated from the addiction need fall rate and the need fill per dose. -->
-  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>Cât de des un dependent trebuie să ia o doză din acest medicament pentru a alimenta dependența și a preveni sevrajul.\n\nSe calculează din rata de scădere a nevoii de dependență și din umplerea nevoii pe doză.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>TODO</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
   <!-- EN: How much each dose of this drug fills an addict's need for the chemical. -->
-  <Stat_Thing_Drug_AddictionNeedOffset_Desc>Cât de mult fiecare doză din acest medicament umple nevoia unui dependent de substanța chimică.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>TODO</Stat_Thing_Drug_AddictionNeedOffset_Desc>
   <!-- EN: How quickly an addict's need for the chemical will fall. -->
-  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>Cât de repede va scădea nevoia unui dependent de substanța chimică.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>TODO</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
   <!-- EN: The market value of drugs that must be consumed per day to support an addiction to this drug without going into withdrawal.\n\nThis value is calculated from the addict's chemical need per dose, the need fall rate, and the market value of this drug.\n\nNote that there may be other ways to get the same chemical with different costs. -->
-  <Stat_Thing_Drug_AddictionCost_Desc>Valoarea de piață a drogurilor care trebuie consumate pe zi pentru a susține o dependență de acest drog fără a intra în sevraj.\n\nAceastă valoare este calculată din nevoia chimică a dependentului pe doză, rata de cădere a nevoii și valoarea de piață a acestui drog.\n\nRețineți că pot exista și alte modalități de a obține aceeași substanță chimică cu costuri diferite.</Stat_Thing_Drug_AddictionCost_Desc>
+  <Stat_Thing_Drug_AddictionCost_Desc>TODO</Stat_Thing_Drug_AddictionCost_Desc>
 
   <!-- EN: Style -->
-  <Stat_Thing_StyleLabel>Stil</Stat_Thing_StyleLabel>
+  <Stat_Thing_StyleLabel>TODO</Stat_Thing_StyleLabel>
   <!-- EN: An object's style determines its appearance. This has no gameplay effect. Styles often form the differing methods of construction used by people of different beliefs and cultures. -->
-  <Stat_Thing_StyleDesc>Stilul unui obiect determină aspectul acestuia. Acest lucru nu are niciun efect asupra jocului. Stilurile formează adesea metodele diferite de construcție folosite de oameni cu credințe și culturi diferite.</Stat_Thing_StyleDesc>
+  <Stat_Thing_StyleDesc>TODO</Stat_Thing_StyleDesc>
 
   <!-- EN: Gestation time -->
-  <Stat_Animal_GestationTime>Timpul de gestație</Stat_Animal_GestationTime>
+  <Stat_Animal_GestationTime>TODO</Stat_Animal_GestationTime>
   <!-- EN: The time this species takes to gestate its offspring or eggs. -->
-  <Stat_Animal_GestationTimeDesc>Timpul de care are nevoie această specie pentru a-și gesta puii sau ouăle.</Stat_Animal_GestationTimeDesc>
+  <Stat_Animal_GestationTimeDesc>TODO</Stat_Animal_GestationTimeDesc>
   <!-- EN: Litter size -->
-  <Stat_Animal_LitterSize>Mărimea puiului</Stat_Animal_LitterSize>
+  <Stat_Animal_LitterSize>TODO</Stat_Animal_LitterSize>
   <!-- EN: The number of offspring this creature creates per litter. If this is a range, any specific litter will have a random number of offspring in this range. -->
-  <Stat_Animal_LitterSizeDesc>Numărul de urmași pe care această creatură îi creează la fiecare pui. Dacă acesta este un interval, orice pui specific va avea un număr aleatoriu de descendenți în acest interval.</Stat_Animal_LitterSizeDesc>
+  <Stat_Animal_LitterSizeDesc>TODO</Stat_Animal_LitterSizeDesc>
   <!-- EN: Adult meat amount -->
-  <Stat_Animal_AdultMeatAmount>Cantitatea de carne de adult</Stat_Animal_AdultMeatAmount>
+  <Stat_Animal_AdultMeatAmount>TODO</Stat_Animal_AdultMeatAmount>
   <!-- EN: The base amount of meat yielded by butchering an adult member of this species. The actual yield is affected by other factors such as damage to the body and butcher skill. -->
-  <Stat_Animal_AdultMeatAmountDesc>Cantitatea de bază de carne obținută prin măcelărirea unui membru adult al acestei specii. Producția reală este influențată de alți factori, cum ar fi deteriorarea corpului și îndemânarea măcelarului.</Stat_Animal_AdultMeatAmountDesc>
+  <Stat_Animal_AdultMeatAmountDesc>TODO</Stat_Animal_AdultMeatAmountDesc>
   <!-- EN: Growth time -->
-  <Stat_Animal_GrowthTime>Timpul de creștere</Stat_Animal_GrowthTime>
+  <Stat_Animal_GrowthTime>TODO</Stat_Animal_GrowthTime>
   <!-- EN: How long it normally takes for this creature to reach adulthood. This time will be longer if the creature starves. -->
-  <Stat_Animal_GrowthTimeDesc>Cât timp îi ia în mod normal acestei creaturi să ajungă la vârsta adultă. Acest timp va fi mai lung dacă creatura moare de foame.</Stat_Animal_GrowthTimeDesc>
+  <Stat_Animal_GrowthTimeDesc>TODO</Stat_Animal_GrowthTimeDesc>
   <!-- EN: Meat per day during growth -->
-  <Stat_Animal_MeatPerDayDuringGrowth>Carne pe zi în timpul creșterii</Stat_Animal_MeatPerDayDuringGrowth>
+  <Stat_Animal_MeatPerDayDuringGrowth>TODO</Stat_Animal_MeatPerDayDuringGrowth>
   <!-- EN: This creature gains this amount of meat for each day it grows, up until it reaches adulthood.\n\nThis value is calculated from the meat amount and growth time. -->
-  <Stat_Animal_MeatPerDayDuringGrowthDesc>Această creatură câștigă această cantitate de carne pentru fiecare zi în care crește, până când ajunge la vârsta adultă.\n\nAceastă valoare este calculată din cantitatea de carne și timpul de creștere.</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>TODO</Stat_Animal_MeatPerDayDuringGrowthDesc>
   <!-- EN: Grass to maintain -->
-  <Stat_Animal_GrassToMaintain>Iarbă de întreținut</Stat_Animal_GrassToMaintain>
+  <Stat_Animal_GrassToMaintain>TODO</Stat_Animal_GrassToMaintain>
   <!-- EN: The typical number of grass plants that this creature needs in order to fulfill its dietary needs. This is based on normal grass at typical growth rates and ignores winter. -->
-  <Stat_Animal_GrassToMaintainDesc>Numărul tipic de plante de iarbă de care această creatură are nevoie pentru a-și satisface nevoile alimentare. Aceasta se bazează pe iarba normală la rate de creștere tipice și ignoră iarna.</Stat_Animal_GrassToMaintainDesc>
+  <Stat_Animal_GrassToMaintainDesc>TODO</Stat_Animal_GrassToMaintainDesc>
   <!-- EN: Egg type -->
-  <Stat_Animal_EggType>Tipul de ou</Stat_Animal_EggType>
+  <Stat_Animal_EggType>TODO</Stat_Animal_EggType>
   <!-- EN: The type of egg this creature lays. -->
-  <Stat_Animal_EggTypeDesc>Tipul de ou pe care îl depune această creatură.</Stat_Animal_EggTypeDesc>
+  <Stat_Animal_EggTypeDesc>TODO</Stat_Animal_EggTypeDesc>
   <!-- EN: Eggs per year -->
-  <Stat_Animal_EggsPerYear>Ouă pe an</Stat_Animal_EggsPerYear>
+  <Stat_Animal_EggsPerYear>TODO</Stat_Animal_EggsPerYear>
   <!-- EN: The number of eggs this creature will lay per year. Some creatures need to be fertilized to lay eggs. Egg laying will be slower if the creature starves. -->
-  <Stat_Animal_EggsPerYearDesc>Numărul de ouă pe care această creatură le va depune pe an. Unele creaturi trebuie să fie fertilizate pentru a depune ouă. Depunerea ouălor va fi mai lentă dacă creatura moare de foame.</Stat_Animal_EggsPerYearDesc>
+  <Stat_Animal_EggsPerYearDesc>TODO</Stat_Animal_EggsPerYearDesc>
   <!-- EN: Egg nutrition -->
-  <Stat_Animal_EggNutrition>Nutriția ouălor</Stat_Animal_EggNutrition>
+  <Stat_Animal_EggNutrition>TODO</Stat_Animal_EggNutrition>
   <!-- EN: The amount of nutrition in a single egg laid by this creature. -->
-  <Stat_Animal_EggNutritionDesc>Cantitatea de nutriție dintr-un singur ou depus de această creatură.</Stat_Animal_EggNutritionDesc>
+  <Stat_Animal_EggNutritionDesc>TODO</Stat_Animal_EggNutritionDesc>
   <!-- EN: Egg nutrition per year -->
-  <Stat_Animal_EggNutritionYearly>Nutriția ouălor pe an</Stat_Animal_EggNutritionYearly>
+  <Stat_Animal_EggNutritionYearly>TODO</Stat_Animal_EggNutritionYearly>
   <!-- EN: The amount of yearly nutrition generated by eggs laid by this creature each year.\n\nThis value is calculated from eggs per year and egg nutrition. -->
-  <Stat_Animal_EggNutritionYearlyDesc>Cantitatea de nutriție anuală generată de ouăle depuse de această creatură în fiecare an.\n\nAceastă valoare este calculată din ouă pe an și nutriția ouălor.</Stat_Animal_EggNutritionYearlyDesc>
+  <Stat_Animal_EggNutritionYearlyDesc>TODO</Stat_Animal_EggNutritionYearlyDesc>
   <!-- EN: Egg market value -->
-  <Stat_Animal_EggMarketValue>Valoarea de piață a ouălor</Stat_Animal_EggMarketValue>
+  <Stat_Animal_EggMarketValue>TODO</Stat_Animal_EggMarketValue>
   <!-- EN: The market value of a single laid egg. -->
-  <Stat_Animal_EggMarketValueDesc>Valoarea de piață a unui singur ou depus.</Stat_Animal_EggMarketValueDesc>
+  <Stat_Animal_EggMarketValueDesc>TODO</Stat_Animal_EggMarketValueDesc>
   <!-- EN: Egg value per year -->
-  <Stat_Animal_EggMarketValueYearly>Valoarea ouălor pe an</Stat_Animal_EggMarketValueYearly>
+  <Stat_Animal_EggMarketValueYearly>TODO</Stat_Animal_EggMarketValueYearly>
   <!-- EN: The total value of eggs normally laid over the course of a year.\n\nThis is calculated from eggs per year and egg market value. -->
-  <Stat_Animal_EggMarketValueYearlyDesc>Valoarea totală a ouălor depuse în mod normal pe parcursul unui an.\n\nSe calculează din ouă pe an și valoarea de piață a ouălor.</Stat_Animal_EggMarketValueYearlyDesc>
+  <Stat_Animal_EggMarketValueYearlyDesc>TODO</Stat_Animal_EggMarketValueYearlyDesc>
   <!-- EN: Milk type -->
-  <Stat_Animal_MilkType>Tipul de lapte</Stat_Animal_MilkType>
+  <Stat_Animal_MilkType>TODO</Stat_Animal_MilkType>
   <!-- EN: The type of milk this creature produces. -->
-  <Stat_Animal_MilkTypeDesc>Tipul de lapte pe care îl produce această creatură.</Stat_Animal_MilkTypeDesc>
+  <Stat_Animal_MilkTypeDesc>TODO</Stat_Animal_MilkTypeDesc>
   <!-- EN: Milk amount -->
-  <Stat_Animal_MilkAmount>Cantitatea de lapte</Stat_Animal_MilkAmount>
+  <Stat_Animal_MilkAmount>TODO</Stat_Animal_MilkAmount>
   <!-- EN: The amount of milk this creature produces each time it is milked. -->
-  <Stat_Animal_MilkAmountDesc>Cantitatea de lapte pe care această creatură o produce de fiecare dată când este mulsă.</Stat_Animal_MilkAmountDesc>
+  <Stat_Animal_MilkAmountDesc>TODO</Stat_Animal_MilkAmountDesc>
   <!-- EN: Milking interval -->
-  <Stat_Animal_MilkGrowthTime>Inteval de muls</Stat_Animal_MilkGrowthTime>
+  <Stat_Animal_MilkGrowthTime>TODO</Stat_Animal_MilkGrowthTime>
   <!-- EN: The amount of time this creature needs between milkings. -->
-  <Stat_Animal_MilkGrowthTimeDesc>Cantitatea de timp de care are nevoie această creatură între mulsuri.</Stat_Animal_MilkGrowthTimeDesc>
+  <Stat_Animal_MilkGrowthTimeDesc>TODO</Stat_Animal_MilkGrowthTimeDesc>
   <!-- EN: Milk per year -->
-  <Stat_Animal_MilkPerYear>Lapte pe an</Stat_Animal_MilkPerYear>
+  <Stat_Animal_MilkPerYear>TODO</Stat_Animal_MilkPerYear>
   <!-- EN: The amount of milk produced by this animal over the course of a year.\n\nThis is calculated from milk amount and milking interval. -->
-  <Stat_Animal_MilkPerYearDesc>Cantitatea de lapte produsă de acest animal în decursul unui an.\n\nSe calculează din cantitatea de lapte și intervalul de muls.</Stat_Animal_MilkPerYearDesc>
+  <Stat_Animal_MilkPerYearDesc>TODO</Stat_Animal_MilkPerYearDesc>
   <!-- EN: Milk market value -->
-  <Stat_Animal_MilkValue>Valoarea de piață a laptelui</Stat_Animal_MilkValue>
+  <Stat_Animal_MilkValue>TODO</Stat_Animal_MilkValue>
   <!-- EN: The value of one unit of this creature's milk. -->
-  <Stat_Animal_MilkValueDesc>Valoarea unei unități de lapte al acestei creaturi.</Stat_Animal_MilkValueDesc>
+  <Stat_Animal_MilkValueDesc>TODO</Stat_Animal_MilkValueDesc>
   <!-- EN: Milk value per year -->
-  <Stat_Animal_MilkValuePerYear>Valoarea laptelui pe an</Stat_Animal_MilkValuePerYear>
+  <Stat_Animal_MilkValuePerYear>TODO</Stat_Animal_MilkValuePerYear>
   <!-- EN: The market value of one year's worth of milk from this creature, assuming it never goes hungry and is milked instantly at the end of each milk interval.\n\nThis is calculated from milk per year and milk market value. -->
-  <Stat_Animal_MilkValuePerYearDesc>Valoarea de piață a unui an de lapte de la această creatură, presupunând că nu-i este niciodată foame și că este mulsă instantaneu la sfârșitul fiecărui interval de lapte.\n\nSe calculează din laptele pe an și valoarea de piață a laptelui.</Stat_Animal_MilkValuePerYearDesc>
+  <Stat_Animal_MilkValuePerYearDesc>TODO</Stat_Animal_MilkValuePerYearDesc>
   <!-- EN: Wool type -->
-  <Stat_Animal_WoolType>Tipul de lână</Stat_Animal_WoolType>
+  <Stat_Animal_WoolType>TODO</Stat_Animal_WoolType>
   <!-- EN: The type of wool produced by this creature. -->
-  <Stat_Animal_WoolTypeDesc>Tipul de lână produs de această creatură.</Stat_Animal_WoolTypeDesc>
+  <Stat_Animal_WoolTypeDesc>TODO</Stat_Animal_WoolTypeDesc>
   <!-- EN: Wool amount -->
-  <Stat_Animal_WoolAmount>Cantitatea de lână</Stat_Animal_WoolAmount>
+  <Stat_Animal_WoolAmount>TODO</Stat_Animal_WoolAmount>
   <!-- EN: The amount of wool yielded by this creature each time it is shorn. -->
-  <Stat_Animal_WoolAmountDesc>Cantitatea de lână produsă de această creatură de fiecare dată când este tunsă.</Stat_Animal_WoolAmountDesc>
+  <Stat_Animal_WoolAmountDesc>TODO</Stat_Animal_WoolAmountDesc>
   <!-- EN: Wool shearing interval -->
-  <Stat_Animal_WoolGrowthTime>Intervalul de tundere a lânii</Stat_Animal_WoolGrowthTime>
+  <Stat_Animal_WoolGrowthTime>TODO</Stat_Animal_WoolGrowthTime>
   <!-- EN: The time after shearing before this creature can be shorn again. -->
-  <Stat_Animal_WoolGrowthTimeDesc>Timpul de după tundere până când această creatură poate fi tunsă din nou.</Stat_Animal_WoolGrowthTimeDesc>
+  <Stat_Animal_WoolGrowthTimeDesc>TODO</Stat_Animal_WoolGrowthTimeDesc>
   <!-- EN: Wool amount per year -->
-  <Stat_Animal_WoolPerYear>Cantitatea de lână pe an</Stat_Animal_WoolPerYear>
+  <Stat_Animal_WoolPerYear>TODO</Stat_Animal_WoolPerYear>
   <!-- EN: The amount of wool produced by this creature per year.\n\nThis is calculated from wool amount and wool shearing interval. -->
-  <Stat_Animal_WoolPerYearDesc>Cantitatea de lână produsă de această creatură pe an.\n\nSe calculează din cantitatea de lână și din intervalul de tundere a lânii.</Stat_Animal_WoolPerYearDesc>
+  <Stat_Animal_WoolPerYearDesc>TODO</Stat_Animal_WoolPerYearDesc>
   <!-- EN: Wool market value -->
-  <Stat_Animal_WoolValue>Valoarea de piață a lânii</Stat_Animal_WoolValue>
+  <Stat_Animal_WoolValue>TODO</Stat_Animal_WoolValue>
   <!-- EN: The market value of one unit of this creature's wool. -->
-  <Stat_Animal_WoolValueDesc>Valoarea de piață a unei unități de lână a acestei creaturi.</Stat_Animal_WoolValueDesc>
+  <Stat_Animal_WoolValueDesc>TODO</Stat_Animal_WoolValueDesc>
   <!-- EN: Wool value per year -->
-  <Stat_Animal_WoolValuePerYear>Valoarea lânii pe an</Stat_Animal_WoolValuePerYear>
+  <Stat_Animal_WoolValuePerYear>TODO</Stat_Animal_WoolValuePerYear>
   <!-- EN: The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value. -->
-  <Stat_Animal_WoolValuePerYearDesc>Valoarea de piață a unei cantități de lână de la această creatură pentru un an.\n\nSe calculează din cantitatea de lână pe an și valoarea de piață a lânii.</Stat_Animal_WoolValuePerYearDesc>
+  <Stat_Animal_WoolValuePerYearDesc>TODO</Stat_Animal_WoolValuePerYearDesc>
 
   <!-- EN: How much of the total possible study you have performed on this object. -->
-  <Stat_Studiable_Desc>Cât de mult din totalul studiilor posibile ați efectuat asupra acestui obiect.</Stat_Studiable_Desc>
+  <Stat_Studiable_Desc>TODO</Stat_Studiable_Desc>
 
   <!-- EN: Source -->
   <Stat_Source_Label>TODO</Stat_Source_Label>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: caravan ambush defeated -->
-  <CaravanAmbushDefeated.label>ambuscada caravanei învinsă</CaravanAmbushDefeated.label>
+  <CaravanAmbushDefeated.label>TODO</CaravanAmbushDefeated.label>
   <!-- EN:
     <li>tale_noun->a successful defense of [PAWN_nameDef]'s caravan</li>
     <li>tale_noun->[PAWN_nameDef]'s caravan fighting off an ambush</li>
@@ -30,7 +30,7 @@
   <CaravanAmbushDefeated.rulePack.rulesStrings>TODO</CaravanAmbushDefeated.rulePack.rulesStrings>
   
   <!-- EN: caravan assault successful -->
-  <CaravanAssaultSuccessful.label>asaltul caravanei reușit</CaravanAssaultSuccessful.label>
+  <CaravanAssaultSuccessful.label>TODO</CaravanAssaultSuccessful.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan defeating an enemy stronghold</li>
     <li>image->[PAWN_nameFull] running towards a [Enemy], [circumstance_group]</li>
@@ -53,7 +53,7 @@
   <CaravanAssaultSuccessful.rulePack.rulesStrings>TODO</CaravanAssaultSuccessful.rulePack.rulesStrings>
   
   <!-- EN: caravan fled -->
-  <CaravanFled.label>caravana a fugit</CaravanFled.label>
+  <CaravanFled.label>TODO</CaravanFled.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan fleeing danger</li>
     <li>tale_noun->[PAWN_nameDef]'s caravan escaping danger</li>
@@ -68,7 +68,7 @@
     <li>circumstance_phrase->while [Quantity_adjphrase] [Enemy]s search</li>
     <li>circumstance_phrase->from [Quantity_adjphrase] [Enemy]s</li>
     <li>circumstance_phrase->from [Quantity_adjphrase] enemy [Animal]s</li>
-    <li>circumstance_phrase->from a [huge] [Enemy]</li>
+    <li>circumstance_phrase->from a [AdjectiveLarge] [Enemy]</li>
     <li>desc_sentence->[PAWN_nameDef]'s pursuers are brandishing [Weapon]s.</li>
     <li>desc_sentence->[PAWN_nameDef]'s pursuers are wreathed in [Color] smoke.</li>
     <li>desc_sentence->[PAWN_nameDef]'s pursuers wear [AdjectiveAngsty] expressions.</li>
@@ -79,7 +79,7 @@
   <CaravanFled.rulePack.rulesStrings>TODO</CaravanFled.rulePack.rulesStrings>
   
   <!-- EN: caravan formed -->
-  <CaravanFormed.label>caravana s-a format</CaravanFormed.label>
+  <CaravanFormed.label>TODO</CaravanFormed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] departing for adventure</li>
     <li>tale_noun->[PAWN_nameDef] forming a caravan</li>
@@ -102,7 +102,7 @@
   <CaravanFormed.rulePack.rulesStrings>TODO</CaravanFormed.rulePack.rulesStrings>
   
   <!-- EN: caravan remote mining -->
-  <CaravanRemoteMining.label>exploatare minieră la distanță a caravanei</CaravanRemoteMining.label>
+  <CaravanRemoteMining.label>TODO</CaravanRemoteMining.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s caravan mining a rich vein of [MATERIAL_label] in a foreign land</li>
     <li>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</li>

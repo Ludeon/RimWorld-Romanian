@@ -2,1190 +2,1324 @@
 <LanguageData>
 
   <!-- EN: Confirm -->
-  <Confirm>Confirmă</Confirm>
+  <Confirm>TODO</Confirm>
   <!-- EN: Go back -->
-  <GoBack>Înapoi</GoBack>
+  <GoBack>TODO</GoBack>
   <!-- EN: Do you want to continue? -->
-  <WantToContinue>Doriți să continuați?</WantToContinue>
+  <WantToContinue>TODO</WantToContinue>
   <!-- EN: OK -->
-  <OK>OK</OK>
+  <OK>TODO</OK>
   <!-- EN: Close -->
-  <Close>Închide</Close>
+  <Close>TODO</Close>
   <!-- EN: Accept -->
-  <Accept>Accept</Accept>
+  <Accept>TODO</Accept>
+  <!-- EN: Cancel -->
+  <Cancel>TODO</Cancel>
+  <!-- EN: Reset -->
+  <Reset>TODO</Reset>
+  <!-- EN: Reset all -->
+  <ResetAll>TODO</ResetAll>
+  <!-- EN: Disable -->
+  <Disable>TODO</Disable>
+  <!-- EN: Modify -->
+  <Modify>TODO</Modify>
+  <!-- EN: Settle here anyways? -->
+  <ConfirmSettle>TODO</ConfirmSettle>
+  <!-- EN: add -->
+  <Add>TODO</Add>
+  <!-- EN: Cannot shoot -->
+  <CannotShoot>TODO</CannotShoot>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
-  <GameUpdatedToNewVersionInitial>RimWorld a fost actualizat de la versiunea {0} la versiunea {1}.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionInitial>TODO</GameUpdatedToNewVersionInitial>
   <!-- EN: This may cause saved games and mods from the old version to stop working. -->
-  <GameUpdatedToNewVersionSavesIncompatible>Acest lucru poate face ca jocurile salvate și modurile din vechea versiune să nu mai funcționeze.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesIncompatible>TODO</GameUpdatedToNewVersionSavesIncompatible>
   <!-- EN: Saved games from the old version should be compatible, however some mods may stop working. -->
-  <GameUpdatedToNewVersionSavesCompatible>Jocurile salvate din vechea versiune ar trebui să fie compatibile, însă este posibil ca unele moduri să nu mai funcționeze.</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionSavesCompatible>TODO</GameUpdatedToNewVersionSavesCompatible>
   <!-- EN: Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions. -->
-  <GameUpdatedToNewVersionNonSteam>Deoarece aceasta este o copie fără DRM, puteți instala jocul de două ori în două foldere diferite, pentru a putea juca atât versiunea veche, cât și cea nouă.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionNonSteam>TODO</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
-  <GameUpdatedToNewVersionSteam>Dacă dorești să continui cu versiunea veche, poți opta folosind funcția "Betas" de pe Steam.\n\n 1. În biblioteca Steam, fă clic dreapta pe RimWorld.\n 2. În biblioteca Steam, fă clic dreapta pe RimWorld. Faceți clic pe Properties.\n 3. Faceți clic pe fila Betas.\n 4. Selectați versiunea pe care o doriți din meniul derulant.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteam>TODO</GameUpdatedToNewVersionSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature. -->
+  <GameUpdatedToNewVersionSteamController>TODO</GameUpdatedToNewVersionSteamController>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
-  <RecoveredFromErrorsDialogTitle>Recuperat din erori de mods incompatibile sau corupte</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsDialogTitle>TODO</RecoveredFromErrorsDialogTitle>
   <!-- EN: It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog. -->
-  <RecoveredFromErrorsText>Se pare că unele dintre modurile active provocau erori.\n\nErau incompatibile între ele, proiectate pentru o versiune diferită de RimWorld sau corupte.\n\nToate modurile au fost dezactivate și pot fi activate din nou în dialogul modurilor.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsText>TODO</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
   <!-- EN: Error while loading assets -->
-  <ErrorWhileLoadingAssetsTitle>Eroare în timpul încărcării activelor</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssetsTitle>TODO</ErrorWhileLoadingAssetsTitle>
   <!-- EN: An error occurred while loading game assets. See error log for more information. -->
-  <ErrorWhileLoadingAssets>A apărut o eroare în timpul încărcării activelor jocului. Consultați jurnalul de erori pentru mai multe informații.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets>TODO</ErrorWhileLoadingAssets>
   <!-- EN: The game is currently running with custom mods - they may or may not cause these problems. -->
-  <ErrorWhileLoadingAssets_ModsInfo>Jocul rulează în prezent cu moduri personalizate - acestea pot sau nu pot cauza aceste probleme.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileLoadingAssets_ModsInfo>TODO</ErrorWhileLoadingAssets_ModsInfo>
   <!-- EN: Error while generating a map -->
-  <ErrorWhileGeneratingMapTitle>Eroare în timpul generării unei hărți</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMapTitle>TODO</ErrorWhileGeneratingMapTitle>
   <!-- EN: An error occurred while generating a new map. See error log for more information. -->
-  <ErrorWhileGeneratingMap>A apărut o eroare în timpul generării unei hărți noi. Consultați jurnalul de erori pentru mai multe informații.</ErrorWhileGeneratingMap>
+  <ErrorWhileGeneratingMap>TODO</ErrorWhileGeneratingMap>
   <!-- EN: Error while loading a map -->
-  <ErrorWhileLoadingMapTitle>Eroare în timpul încărcării unei hărți</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMapTitle>TODO</ErrorWhileLoadingMapTitle>
   <!-- EN: An error occurred while loading a map. See error log for more information. -->
-  <ErrorWhileLoadingMap>A apărut o eroare în timpul încărcării unei hărți. Consultați jurnalul de erori pentru mai multe informații.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingMap>TODO</ErrorWhileLoadingMap>
   
   <!-- Unloaded mod with an assembly -->
   <!-- EN: The mod list has changed. The game will now restart automatically. -->
-  <ModsChanged>Lista de moduri s-a schimbat. Jocul va reporni acum automat.</ModsChanged>
+  <ModsChanged>TODO</ModsChanged>
   <!-- EN: Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly. -->
-  <FailedToRestart>Ceva nu a mers bine la repornirea jocului. Jocul nu poate descărca complet codul modificat din modurile dezactivate, așa că este posibil ca codul din modurile dezactivate să fie încă activ.\n\nSe recomandă să ieșiți și să reporniți jocul acum pentru a încărca toate modurile într-un mod curat.</FailedToRestart>
+  <FailedToRestart>TODO</FailedToRestart>
   <!-- EN: Restarting -->
-  <Restarting>Repornire</Restarting>
+  <Restarting>TODO</Restarting>
   
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
-  <SteamClientMissing>Nu s-a putut inițializa API-ul Steam. Cauze posibile:\n\n-Steam nu rulează.\n-Lansarea din afara Steam fără ca steam_appid.txt să fie la locul lui.\n-Rularea cu privilegii diferite față de clientul Steam (de exemplu, "ca administrator").\n\nÎn majoritatea cazurilor, repornirea computerului va rezolva această problemă.\n\nPoți juca oricum, dar nu vor fi înregistrate statistici Steam și caracteristicile Steam nu vor fi disponibile.</SteamClientMissing>
+  <SteamClientMissing>TODO</SteamClientMissing>
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->
-  <InitializingInterface>Inițializarea interfeței</InitializingInterface>
+  <InitializingInterface>TODO</InitializingInterface>
   <!-- EN: Unloading unused assets -->
-  <UnloadingUnusedAssets>Descărcarea asset-urilor nefolosite</UnloadingUnusedAssets>
+  <UnloadingUnusedAssets>TODO</UnloadingUnusedAssets>
   <!-- EN: Loading all active mods -->
-  <LoadingAllActiveMods>Încărcarea tuturor modurilor active</LoadingAllActiveMods>
+  <LoadingAllActiveMods>TODO</LoadingAllActiveMods>
   <!-- EN: Loading defs -->
-  <LoadingDefs>Încărcare def-uri</LoadingDefs>
+  <LoadingDefs>TODO</LoadingDefs>
   <!-- EN: Loading assets -->
-  <LoadingAssets>Încărcarea asset-urilor</LoadingAssets>
+  <LoadingAssets>TODO</LoadingAssets>
   <!-- EN: Initializing -->
-  <Initializing>Inițializare</Initializing>
+  <Initializing>TODO</Initializing>
   <!-- EN: Loading world -->
-  <LoadingWorld>Încărcarea lumii</LoadingWorld>
+  <LoadingWorld>TODO</LoadingWorld>
   <!-- EN: Loading map -->
-  <LoadingMap>Încărcarea hărții</LoadingMap>
+  <LoadingMap>TODO</LoadingMap>
   <!-- EN: Initializing game -->
-  <InitializingGame>Inițializarea jocului</InitializingGame>
+  <InitializingGame>TODO</InitializingGame>
   <!-- EN: Spawning things -->
-  <SpawningAllThings>Generarea de lucruri</SpawningAllThings>
+  <SpawningAllThings>TODO</SpawningAllThings>
   <!-- EN: Spawning colonists -->
-  <SpawningColonists>Generarea de coloniști</SpawningColonists>
+  <SpawningColonists>TODO</SpawningColonists>
   
   <!-- Save/load -->
   <!-- EN: Save -->
-  <SaveGameButton>Salvează</SaveGameButton>
+  <SaveGameButton>TODO</SaveGameButton>
   <!-- EN: Load -->
-  <LoadGameButton>Încarcă</LoadGameButton>
+  <LoadGameButton>TODO</LoadGameButton>
   <!-- EN: Overwrite -->
-  <OverwriteButton>Suprascrie</OverwriteButton>
+  <OverwriteButton>TODO</OverwriteButton>
   <!-- EN: Really delete {0}? -->
-  <ConfirmDelete>Chiar ștergeți {0}?</ConfirmDelete>
+  <ConfirmDelete>TODO</ConfirmDelete>
   <!-- EN: Delete this savegame. -->
-  <DeleteThisSavegame>Șterge acest joc salvat.</DeleteThisSavegame>
+  <DeleteThisSavegame>TODO</DeleteThisSavegame>
   <!-- EN: Saved as {0}. -->
-  <SavedAs>Salvat ca {0}.</SavedAs>
+  <SavedAs>TODO</SavedAs>
   <!-- EN: Please enter a name. -->
-  <NeedAName>Vă rugăm să introduceți un nume.</NeedAName>
+  <NeedAName>TODO</NeedAName>
   <!-- EN: Loading -->
-  <LoadingLongEvent>Încărcare</LoadingLongEvent>
+  <LoadingLongEvent>TODO</LoadingLongEvent>
   <!-- EN: Saving -->
-  <SavingLongEvent>Salvare</SavingLongEvent>
+  <SavingLongEvent>TODO</SavingLongEvent>
   <!-- EN: (Permadeath) -->
-  <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
+  <PermadeathModeSaveSuffix>TODO</PermadeathModeSaveSuffix>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work. -->
-  <SaveIsFromDifferentGameVersion>Rulăm versiunea {0}, dar datele de salvare sunt de la {1}, care este o versiune complet diferită.\n\nÎncercarea de a încărca aceste date probabil că nu va funcționa.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameVersion>TODO</SaveIsFromDifferentGameVersion>
   <!-- EN: We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work. -->
-  <SaveIsFromDifferentGameBuild>Rulăm versiunea {0}, dar datele de salvare sunt de la {1}, care este un build diferit.\n\nÎncercarea de a încărca aceste date ar trebui să funcționeze în continuare.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromDifferentGameBuild>TODO</SaveIsFromDifferentGameBuild>
   <!-- EN: Save data was saved with our game version and should work without issue. -->
-  <SaveIsFromThisGameBuild>Datele de salvare au fost salvate cu versiunea noastră de joc și ar trebui să funcționeze fără probleme.</SaveIsFromThisGameBuild>
+  <SaveIsFromThisGameBuild>TODO</SaveIsFromThisGameBuild>
   <!-- EN: Save data is in an unknown format and almost certainly will not load properly. -->
-  <SaveIsUnknownFormat>Datele salvate sunt într-un format necunoscut și aproape sigur nu se vor încărca corect.</SaveIsUnknownFormat>
+  <SaveIsUnknownFormat>TODO</SaveIsUnknownFormat>
   <!-- EN: There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information. -->
-  <ProblemSavingFile>A existat o problemă la salvarea fișierului {0}:\n\n{1}\nVezi jurnalul de erori pentru mai multe informații.</ProblemSavingFile>
+  <ProblemSavingFile>TODO</ProblemSavingFile>
   <!-- EN: Load anyway -->
-  <LoadAnyway>Încarcă oricum</LoadAnyway>
+  <LoadAnyway>TODO</LoadAnyway>
   <!-- EN: Load mod list from save -->
-  <ChangeLoadedMods>Încarcă lst. de mod. a salvării</ChangeLoadedMods>
+  <ChangeLoadedMods>TODO</ChangeLoadedMods>
   <!-- EN: Some mods are unavailable, and need to be installed -->
-  <MissingMods>Unele moduri nu sunt disponibile și trebuie instalate</MissingMods>
+  <MissingMods>TODO</MissingMods>
   <!-- EN: Official content -->
-  <OfficialContent>Conținut oficial</OfficialContent>
+  <OfficialContent>TODO</OfficialContent>
   <!-- EN: Active -->
-  <ContentActive>Activ</ContentActive>
+  <ContentActive>TODO</ContentActive>
   <!-- EN: Installed, but not active -->
-  <ContentInstalledButNotActive>Instalat, dar nu este activ</ContentInstalledButNotActive>
+  <ContentInstalledButNotActive>TODO</ContentInstalledButNotActive>
   <!-- EN: Not installed -->
-  <ContentNotInstalled>Neinstalat</ContentNotInstalled>
+  <ContentNotInstalled>TODO</ContentNotInstalled>
   
   <!-- Player faction naming -->
   <!-- EN: Since it looks like you'll be here for a while, {0} thinks that you should give your faction a name. What should your faction be called? -->
-  <NamePlayerFactionMessage>Din moment ce se pare că vei fi aici pentru o vreme, {0} crede că ar trebui să dai un nume facțiunii tale. Cum ar trebui să se numească facțiunea ta?</NamePlayerFactionMessage>
+  <NamePlayerFactionMessage>TODO</NamePlayerFactionMessage>
   <!-- EN: Your faction is now known as {0}. -->
-  <PlayerFactionGainsName>Facțiunea ta este acum cunoscută sub numele de {0}.</PlayerFactionGainsName>
+  <PlayerFactionGainsName>TODO</PlayerFactionGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerFactionNameIsInvalid>Acest nume nu este valid.</PlayerFactionNameIsInvalid>
+  <PlayerFactionNameIsInvalid>TODO</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
   <!-- EN: {0} thinks that you should give this settlement a name. What should the local settlement be called? -->
-  <NamePlayerFactionBaseMessage>{0} crede că ar trebui să dai un nume acestei așezări. Cum ar trebui să se numească așezarea locală?</NamePlayerFactionBaseMessage>
+  <NamePlayerFactionBaseMessage>TODO</NamePlayerFactionBaseMessage>
   <!-- EN: This community is now known as {0}. -->
-  <PlayerFactionBaseGainsName>Această comunitate este acum cunoscută sub numele de {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseGainsName>TODO</PlayerFactionBaseGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerFactionBaseNameIsInvalid>Acest nume nu este valid.</PlayerFactionBaseNameIsInvalid>
+  <PlayerFactionBaseNameIsInvalid>TODO</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
   <!-- EN: {0} also thinks that you should give this settlement a name. What should this local settlement be called? -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} consideră, de asemenea, că ar trebui să dați un nume acestei așezări. Cum ar trebui să se numească această așezare locală?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>TODO</NamePlayerFactionBaseMessage_NameFactionContinuation>
   <!-- EN: Your faction is now known as {0}, and this community is now known as {1}. -->
-  <PlayerFactionAndBaseGainsName>Facțiunea ta este acum cunoscută sub numele de {0}, iar această comunitate este acum cunoscută sub numele de {1}.</PlayerFactionAndBaseGainsName>
+  <PlayerFactionAndBaseGainsName>TODO</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
   <!-- EN: Please enter a valid name. -->
-  <NameIsInvalid>Vă rugăm să introduceți un nume valid.</NameIsInvalid>
+  <NameIsInvalid>TODO</NameIsInvalid>
   <!-- EN: Name is already in use. -->
-  <NameIsInUse>Numele este deja în uz.</NameIsInUse>
+  <NameIsInUse>TODO</NameIsInUse>
   <!-- EN: The zone is now called {0}. -->
-  <ZoneGainsName>Zona se numește acum {0}.</ZoneGainsName>
+  <ZoneGainsName>TODO</ZoneGainsName>
   
   <!-- Pawn naming -->
+  <!-- EN: Chosen name is invalid. -->
+  <NameInvalid>TODO</NameInvalid>
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
-  <PawnGainsName>Porecla acestei persoane este acum {0}. Titlul {PAWN_possessive} este {PAWN_title}.</PawnGainsName>
+  <PawnGainsName>TODO</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
-  <AnimalGainsName>Numele animalului este acum {0}.</AnimalGainsName>
+  <AnimalGainsName>TODO</AnimalGainsName>
+  <!-- EN: rename person -->
+  <RenamePerson>TODO</RenamePerson>
+  <!-- EN: mother -->
+  <Mother>TODO</Mother>
+  <!-- EN: father -->
+  <Father>TODO</Father>
+  <!-- EN: unknown -->
+  <Unknown>TODO</Unknown>
+  <!-- EN: first name -->
+  <FirstName>TODO</FirstName>
+  <!-- EN: nickname -->
+  <NickName>TODO</NickName>
+  <!-- EN: last name -->
+  <LastName>TODO</LastName>
+  <!-- EN: suggested -->
+  <Suggested>TODO</Suggested>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
-  <VersionMismatch>Versiune necorespunzătoare</VersionMismatch>
+  <VersionMismatch>TODO</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>Acest joc a fost salvat cu versiunea de joc {0}\nNoi rulăm versiunea de joc {1}\n\nÎncărcarea acestei salvări poate cauza erori și crash-uri.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>TODO</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
-  <WorldFileVersionMismatch>Fișierul World a fost generat cu versiunea de joc {0}\nNoi rulăm versiunea de joc {1}\n\nÎncărcarea acestei lumi poate cauza erori și blocări. Probabil că ar trebui să generați o nouă lume de la zero.</WorldFileVersionMismatch>
+  <WorldFileVersionMismatch>TODO</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
-  <FileIncompatibleWarning>Acest fișier a fost salvat cu versiunea de joc {0}\nNoi rulăm versiunea de joc {1}\n\nÎncărcarea acestui fișier poate cauza erori și crash-uri.</FileIncompatibleWarning>
+  <FileIncompatibleWarning>TODO</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
-  <ModsMismatchWarningTitle>Nepotrivire între moduri</ModsMismatchWarningTitle>
-  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
-  <ModsMismatchWarningText>Acest fișier a fost salvat cu un set diferit de moduri active față de cele pe care le rulăm în prezent. Acest lucru poate sau nu să cauzeze probleme, în funcție de ce anume fac aceste moduri.\n\nFișierul a fost salvat cu (în această ordine):\n\n{0}\n\nNoi rulăm cu (în această ordine):\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningTitle>TODO</ModsMismatchWarningTitle>
+  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do. -->
+  <ModsMismatchWarningText>TODO</ModsMismatchWarningText>
+  <!-- EN: No mods have been added or removed, but the order of your mod list has changed. -->
+  <ModsMismatchOrderChanged>TODO</ModsMismatchOrderChanged>
+  <!-- EN: Are you sure you want to load the mod list from this save file? -->
+  <ConfirmLoadSaveList>TODO</ConfirmLoadSaveList>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
-  <ConfirmResolutionChange>Ați schimbat setările ecranului. Funcționează bine cele noi?\n\nReversia automată în {0}...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>TODO</ConfirmResolutionChange>
   <!-- EN: Keep -->
-  <ResolutionKeep>Păstrați</ResolutionKeep>
+  <ResolutionKeep>TODO</ResolutionKeep>
   <!-- EN: Revert -->
-  <ResolutionRevert>Revert</ResolutionRevert>
+  <ResolutionRevert>TODO</ResolutionRevert>
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>Chiar doriți să dezactivați permanent modul de dezvoltare pe acest computer?\n\nAceastă opțiune este pentru persoanele care doresc o experiență de joc pură, fără tentația de a folosi instrumentele de dezvoltare pentru a obține avantaje în jocul normal.\n\nModul de dezvoltare poate fi reactivat, dar pentru a face acest lucru este necesară editarea manuală a fișierelor de configurare. Va trebui să căutați pe internet pentru a afla cum.</ConfirmPermanentlyDisableDevMode>
-  
+  <ConfirmPermanentlyDisableDevMode>TODO</ConfirmPermanentlyDisableDevMode>
+
+  <!-- Confirm reset learning helper -->
+  <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
+  <ConfirmResetLearningHelper>TODO</ConfirmResetLearningHelper>
+
+  <!-- Backstory translation restart dialog -->
+  <!-- EN: Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect. -->
+  <RestartAfterImportingLegacyBackstoryTanslations>TODO</RestartAfterImportingLegacyBackstoryTanslations>
+
+  <!-- Game start -->
+  <!-- EN: Must include exactly {SUMMARY} -->
+  <SelectedCharactersMustInclude>TODO</SelectedCharactersMustInclude>
+
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>Avertisment: Vei ateriza într-un mediu înghețat. Este posibil să fie greu sau aproape imposibil să supraviețuiești. Dacă nu intenționați să faceți față unei provocări extreme, alegeți un alt loc sau un alt anotimp.</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>TODO</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>Jocul este conceput pentru a se juca pe hărți de dimensiuni medii. Aceste dimensiuni oferă suficient spațiu!\n\nDimensiunile mari ale hărții nu doar că degradează performanța - ele chiar strică designul jocului. AI-ul va lua decizii stupide, iar echilibrul jocului va fi grav afectat în diverse moduri. Aceste dimensiuni sunt incluse doar din motive de tradiție și testare, vă rugăm să nu le folosiți fără un motiv anume.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>TODO</MapSizePerformanceWarning>
   <!-- EN: Map size -->
-  <MapSize>Dimensiunea hărții</MapSize>
+  <MapSize>TODO</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
-  <MapSizeDesc>{0}x{0} ({1} celule)</MapSizeDesc>
+  <MapSizeDesc>TODO</MapSizeDesc>
   <!-- EN: Small -->
-  <MapSizeSmall>Mică</MapSizeSmall>
+  <MapSizeSmall>TODO</MapSizeSmall>
   <!-- EN: Medium -->
-  <MapSizeMedium>Mediu</MapSizeMedium>
+  <MapSizeMedium>TODO</MapSizeMedium>
   <!-- EN: Large -->
-  <MapSizeLarge>Mare</MapSizeLarge>
+  <MapSizeLarge>TODO</MapSizeLarge>
   <!-- EN: Extreme (test) -->
-  <MapSizeExtreme>Extreme (test)</MapSizeExtreme>
+  <MapSizeExtreme>TODO</MapSizeExtreme>
   <!-- EN: Starting season -->
-  <MapStartSeason>Sezonul de pornire</MapStartSeason>
+  <MapStartSeason>TODO</MapStartSeason>
   <!-- EN: Auto -->
-  <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
+  <MapStartSeasonDefault>TODO</MapStartSeasonDefault>
   <!-- EN: Notice -->
-  <Notice>Aviz</Notice>
+  <Notice>TODO</Notice>
 
   <!-- Bill config -->
   <!-- EN: Suspended -->
-  <Suspended>Suspendat</Suspended>
+  <Suspended>TODO</Suspended>
   <!-- EN: Not suspended -->
-  <NotSuspended>Nesuspendat</NotSuspended>
+  <NotSuspended>TODO</NotSuspended>
   <!-- EN: SUSPENDED -->
-  <SuspendedAllCaps>SUSPENDAT</SuspendedAllCaps>
+  <SuspendedAllCaps>TODO</SuspendedAllCaps>
   <!-- EN: Repeat: -->
-  <RepeatCount>Repetă:</RepeatCount>
+  <RepeatCount>TODO</RepeatCount>
   <!-- EN: Forever -->
-  <Forever>Mereu</Forever>
+  <Forever>TODO</Forever>
   <!-- EN: Details -->
-  <Details>Detalii</Details>
+  <Details>TODO</Details>
   <!-- EN: Ingredient radius -->
-  <IngredientSearchRadius>Raza de căutare a ingredientelor</IngredientSearchRadius>
+  <IngredientSearchRadius>TODO</IngredientSearchRadius>
   <!-- EN: Currently have -->
-  <CurrentlyHave>În prezent au</CurrentlyHave>
+  <CurrentlyHave>TODO</CurrentlyHave>
   <!-- EN: Counting -->
-  <CountingProducts>Numărare</CountingProducts>
+  <CountingProducts>TODO</CountingProducts>
   <!-- EN: Infinite -->
-  <Infinite>Infinit</Infinite>
+  <Infinite>TODO</Infinite>
   <!-- EN: Allowed {0} skill: -->
-  <AllowedSkillRange>Aptitudinea {0} permisă:</AllowedSkillRange>
+  <AllowedSkillRange>TODO</AllowedSkillRange>
   <!-- EN: incompatible -->
-  <IncompatibleLower>incompatibil</IncompatibleLower>
+  <IncompatibleLower>TODO</IncompatibleLower>
   <!-- EN: Any worker -->
-  <AnyWorker>Orice lucrător</AnyWorker>
+  <AnyWorker>TODO</AnyWorker>
   <!-- EN: Unlimited -->
-  <Unlimited>Nelimitat</Unlimited>
+  <Unlimited>TODO</Unlimited>
   
   <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
-  <RecipeCannotHaveTargetCount>(Această rețetă nu poate avea un număr țintă deoarece are produse multiple sau imprevizibile).</RecipeCannotHaveTargetCount>
+  <RecipeCannotHaveTargetCount>TODO</RecipeCannotHaveTargetCount>
   <!-- EN: Work amount -->
-  <WorkAmount>Cantitatea de muncă</WorkAmount>
+  <WorkAmount>TODO</WorkAmount>
   <!-- EN: Minimum skills: -->
-  <MinimumSkills>Competențe minime:</MinimumSkills>
-  <!-- EN: Requires {0} {1} -->
-  <BillRequires>Necesită {0} {1}</BillRequires>
-  <!-- EN: Requires {0} nutrition -->
-  <BillRequiresNutrition>Necesită {0} nutriție</BillRequiresNutrition>
+  <MinimumSkills>TODO</MinimumSkills>
+  <!-- EN: Requires -->
+  <BillRequires>TODO</BillRequires>
+  <!-- EN: nutrition -->
+  <BillNutrition>TODO</BillNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
-  <BillRequiresMayVary>Notă: Ingredientele de volum mic, cum ar fi aurul, necesită {0}x la fel de mult.</BillRequiresMayVary>
+  <BillRequiresMayVary>TODO</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
-  <ThisIsSmallVolume>Acesta este un ingredient de volum mic. Aceasta înseamnă că fiecare "unitate" este doar 1/{0} cât un ingredient de volum normal. Deci, pentru a completa același ingredient necesar, veți avea nevoie de {0}x cât de mult ca de obicei.</ThisIsSmallVolume>
+  <ThisIsSmallVolume>TODO</ThisIsSmallVolume>
   <!-- EN: ingredients -->
-  <UsableIngredients>ingrediente</UsableIngredients>
+  <UsableIngredients>TODO</UsableIngredients>
   <!-- EN: To {0} -->
-  <BillRepeatTargetCountShort>La {0}</BillRepeatTargetCountShort>
+  <BillRepeatTargetCountShort>TODO</BillRepeatTargetCountShort>
 
   <!-- EN: Pause when satisfied -->
-  <PauseWhenSatisfied>Pauză când ești mulțumit</PauseWhenSatisfied>
+  <PauseWhenSatisfied>TODO</PauseWhenSatisfied>
   <!-- EN: Unpause at -->
-  <UnpauseWhenYouHave>Oprește pauza la</UnpauseWhenYouHave>
+  <UnpauseWhenYouHave>TODO</UnpauseWhenYouHave>
   <!-- EN: Paused -->
-  <Paused>Pauză</Paused>
+  <Paused>TODO</Paused>
   <!-- EN: Unpause -->
-  <Unpause>Oprește pauza</Unpause>
+  <Unpause>TODO</Unpause>
 
   <!-- EN: Count equipped -->
-  <IncludeEquipped>Numărați cei echipați</IncludeEquipped>
+  <IncludeEquipped>TODO</IncludeEquipped>
   <!-- EN: Count tainted -->
-  <IncludeTainted>Numărați cele alterate</IncludeTainted>
+  <IncludeTainted>TODO</IncludeTainted>
   <!-- EN: Only allowed ingredients -->
-  <LimitToAllowedStuff>Numai ingrediente permise</LimitToAllowedStuff>
+  <LimitToAllowedStuff>TODO</LimitToAllowedStuff>
   <!-- EN: Look everywhere -->
-  <IncludeFromAll>Uită-te peste tot</IncludeFromAll>
+  <IncludeFromAll>TODO</IncludeFromAll>
   <!-- EN: Look in {0} -->
-  <IncludeSpecific>Căutați în {0}</IncludeSpecific>
+  <IncludeSpecific>TODO</IncludeSpecific>
   
   <!-- Info card -->
   <!-- EN: Damage -->
-  <Damage>Daune</Damage>
+  <Damage>TODO</Damage>
   <!-- EN: Armor penetration -->
-  <ArmorPenetration>Penetrația armurii</ArmorPenetration>
+  <ArmorPenetration>TODO</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
-  <ArmorPenetrationExplanation>Penetrarea armurii este cantitatea de armură pe care această armă o va ignora de fiecare dată când lovește ținta.\n\nDacă penetrarea armurii este mai mare decât armura țintei, este ca și cum ținta nu ar fi blindată. În caz contrar, penetrarea armurii este scăzută din armura țintei.</ArmorPenetrationExplanation>
+  <ArmorPenetrationExplanation>TODO</ArmorPenetrationExplanation>
   <!-- EN: Building damage factor -->
-  <BuildingDamageFactor>Factorul de daune la clădiri</BuildingDamageFactor>
+  <BuildingDamageFactor>TODO</BuildingDamageFactor>
   <!-- EN: Damage to all buildings is multiplied by this value. -->
-  <BuildingDamageFactorExplanation>Daunele provocate tuturor clădirilor se înmulțesc cu această valoare.</BuildingDamageFactorExplanation>
+  <BuildingDamageFactorExplanation>TODO</BuildingDamageFactorExplanation>
   <!-- EN: Building damage factor (impassable) -->
-  <BuildingDamageFactorImpassable>Factor de deteriorare la clădiri (impasabile)</BuildingDamageFactorImpassable>
+  <BuildingDamageFactorImpassable>TODO</BuildingDamageFactorImpassable>
   <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
-  <BuildingDamageFactorImpassableExplanation>Daunele provocate tuturor clădirilor impasabile se înmulțesc cu această valoare.</BuildingDamageFactorImpassableExplanation>
+  <BuildingDamageFactorImpassableExplanation>TODO</BuildingDamageFactorImpassableExplanation>
   <!-- EN: Building damage factor (passable) -->
-  <BuildingDamageFactorPassable>Factorul de deteriorare a clădirii (pasabile)</BuildingDamageFactorPassable>
+  <BuildingDamageFactorPassable>TODO</BuildingDamageFactorPassable>
   <!-- EN: Damage to all passable buildings is multiplied by this value. -->
-  <BuildingDamageFactorPassableExplanation>Daunele provocate tuturor clădirilor pasabile se înmulțesc cu această valoare.</BuildingDamageFactorPassableExplanation>
+  <BuildingDamageFactorPassableExplanation>TODO</BuildingDamageFactorPassableExplanation>
   <!-- EN: Accuracy -->
-  <Accuracy>Precizie</Accuracy>
+  <Accuracy>TODO</Accuracy>
   <!-- EN: Burst shot count -->
-  <BurstShotCount>Numărul de lovituri în rafală</BurstShotCount>
+  <BurstShotCount>TODO</BurstShotCount>
   <!-- EN: Warmup -->
-  <WarmupTime>Încălzire</WarmupTime>
+  <WarmupTime>TODO</WarmupTime>
   <!-- EN: Melee warmup -->
-  <MeleeWarmupTime>Încălzire de luptă corp la corp</MeleeWarmupTime>
-  <!-- EN: Ranged warmup -->
+  <MeleeWarmupTime>TODO</MeleeWarmupTime>
+  <!-- EN: Aiming time -->
   <RangedWarmupTime>TODO</RangedWarmupTime>
   <!-- EN: Cooldown -->
-  <CooldownTime>Cooldown</CooldownTime>
+  <CooldownTime>TODO</CooldownTime>
   <!-- EN: Disarmed -->
-  <DisarmedTime>Dezarmat</DisarmedTime>
+  <DisarmedTime>TODO</DisarmedTime>
   <!-- EN: Charging -->
-  <ChargingTime>Încărcare</ChargingTime>
+  <ChargingTime>TODO</ChargingTime>
   <!-- EN: Next recharge (for {1}) in: {0}\nCharge cycle: {2} -->
-  <ChargingNext>Următoarea reîncărcare (pentru {1}) în: {0}\nCiclu de încărcare: {2}</ChargingNext>
+  <ChargingNext>TODO</ChargingNext>
   <!-- EN: Shut down -->
-  <ShutDown>Închidere</ShutDown>
+  <ShutDown>TODO</ShutDown>
   <!-- EN: Fire rate -->
-  <BurstShotFireRate>Rata de foc</BurstShotFireRate>
+  <BurstShotFireRate>TODO</BurstShotFireRate>
   <!-- EN: Range -->
-  <Range>Raza de acțiune</Range>
+  <Range>TODO</Range>
   <!-- EN: Stopping power -->
-  <StoppingPower>Puterea de oprire</StoppingPower>
+  <StoppingPower>TODO</StoppingPower>
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
-  <StoppingPowerExplanation>Loviturile din această armă vor șovăi țintele, încetinindu-le mișcarea timp de câteva secunde.\n\nTintele cu o dimensiune corporală mai mare decât puterea de oprire nu vor fi afectate.</StoppingPowerExplanation>
+  <StoppingPowerExplanation>TODO</StoppingPowerExplanation>
   <!-- EN: Direct hit chance -->
-  <DirectHitChance>Șansa de lovire directă</DirectHitChance>
+  <DirectHitChance>TODO</DirectHitChance>
   <!-- EN: Miss radius -->
-  <MissRadius>Raza de ratare</MissRadius>
+  <MissRadius>TODO</MissRadius>
   <!-- EN: Grows wild -->
-  <GrowsWild>Crește sălbatic</GrowsWild>
+  <GrowsWild>TODO</GrowsWild>
   <!-- EN: Harvestable -->
-  <Harvestable>Recoltabilă</Harvestable>
+  <Harvestable>TODO</Harvestable>
   <!-- EN: Limited lifespan -->
-  <LimitedLifespan>Durată de viață limitată</LimitedLifespan>
+  <LimitedLifespan>TODO</LimitedLifespan>
   <!-- EN: Growing time -->
-  <GrowingTime>Timp de creștere</GrowingTime>
+  <GrowingTime>TODO</GrowingTime>
   <!-- EN: Harvest yield -->
-  <HarvestYield>Randamentul recoltei</HarvestYield>
+  <HarvestYield>TODO</HarvestYield>
   <!-- EN: Min growth temperature -->
-  <MinGrowthTemperature>Temperatura minimă de creștere</MinGrowthTemperature>
+  <MinGrowthTemperature>TODO</MinGrowthTemperature>
   <!-- EN: Max growth temperature -->
-  <MaxGrowthTemperature>Temperatura maximă de creștere</MaxGrowthTemperature>
+  <MaxGrowthTemperature>TODO</MaxGrowthTemperature>
   <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
-  <GrowingTimeDesc>Plantele cresc doar o parte din zi și doar atunci când sunt luminate.\n\nAceastă statistică măsoară timpul pe care planta trebuie să-l petreacă efectiv în creștere pentru a ajunge la dimensiunea maximă.\nTimpurile reale de creștere vor fi, în general, de două ori mai lungi.\nTemperaturile scăzute încetinesc, de asemenea, creșterea plantelor.</GrowingTimeDesc>
+  <GrowingTimeDesc>TODO</GrowingTimeDesc>
   <!-- EN: days -->
-  <Days>zile</Days>
+  <Days>TODO</Days>
   <!-- EN: Minimum growing skill to sow -->
-  <MinGrowingSkillToSow>Aptitudinea minimă de creștere pentru însămânțare</MinGrowingSkillToSow>
+  <MinGrowingSkillToSow>TODO</MinGrowingSkillToSow>
   <!-- EN: Fertility requirement -->
-  <FertilityRequirement>Cerința de fertilitate</FertilityRequirement>
+  <FertilityRequirement>TODO</FertilityRequirement>
   <!-- EN: Fertility sensitivity -->
-  <FertilitySensitivity>Sensibilitatea la fertilitate</FertilitySensitivity>
+  <FertilitySensitivity>TODO</FertilitySensitivity>
   <!-- EN: Light requirement -->
-  <LightRequirement>Cerința de lumină</LightRequirement>
+  <LightRequirement>TODO</LightRequirement>
   <!-- EN: Attributes -->
-  <Attributes>Atribute</Attributes>
+  <Attributes>TODO</Attributes>
   <!-- EN: Lifespan -->
-  <LifeSpan>Durata vieții</LifeSpan>
+  <LifeSpan>TODO</LifeSpan>
   <!-- EN: Nutrition -->
-  <Nutrition>Nutriție</Nutrition>
+  <Nutrition>TODO</Nutrition>
   <!-- EN: Recreation -->
-  <Joy>Recreere</Joy>
+  <Joy>TODO</Joy>
   <!-- EN: Food quality -->
-  <FoodQuality>Calitatea alimentelor</FoodQuality>
+  <FoodQuality>TODO</FoodQuality>
   <!-- EN: Walk speed -->
-  <WalkSpeedProperty>Viteza de mers</WalkSpeedProperty>
+  <WalkSpeedProperty>TODO</WalkSpeedProperty>
   <!-- EN: Min. food quality -->
-  <MinFoodQuality>Calitatea minimă a alimentelor</MinFoodQuality>
+  <MinFoodQuality>TODO</MinFoodQuality>
   <!-- EN: Diet -->
-  <Diet>Dietă</Diet>
+  <Diet>TODO</Diet>
   <!-- EN: Nutrition need per day -->
-  <NutritationEatenPerDay>Necesarul de nutriție pe zi</NutritationEatenPerDay>
+  <NutritationEatenPerDay>TODO</NutritationEatenPerDay>
   <!-- EN: Leather type -->
-  <LeatherType>Tipul de piele</LeatherType>
+  <LeatherType>TODO</LeatherType>
   <!-- EN: Body size -->
-  <BodySize>Dimensiunea corpului</BodySize>
+  <BodySize>TODO</BodySize>
   <!-- EN: Growth -->
-  <Growth>Creștere</Growth>
+  <Growth>TODO</Growth>
   <!-- EN: Recruit difficulty -->
-  <RecruitDifficulty>Dificultate de recrutare</RecruitDifficulty>
+  <RecruitDifficulty>TODO</RecruitDifficulty>
   <!-- EN: Base price -->
-  <MarketValue>Preț de bază</MarketValue>
+  <MarketValue>TODO</MarketValue>
   <!-- EN: Covers -->
-  <Covers>Acoperă</Covers>
+  <Covers>TODO</Covers>
   <!-- EN: Created at -->
-  <CreatedAt>Creat la</CreatedAt>
+  <CreatedAt>TODO</CreatedAt>
   <!-- EN: Layer -->
-  <Layer>Strat</Layer>
+  <Layer>TODO</Layer>
   <!-- EN: Cover effectiveness -->
-  <CoverEffectiveness>Eficacitatea acoperirii</CoverEffectiveness>
+  <CoverEffectiveness>TODO</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
-  <CoverEffectivenessExplanation>Cât de eficient este acesta atunci când este folosit ca acoperire într-un schimb de focuri.\n\nProcentaje mai mari vor bloca mai multe focuri de armă.</CoverEffectivenessExplanation>
+  <CoverEffectivenessExplanation>TODO</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
-  <MedicineXpGainFactor>Factor de câștig de experiență</MedicineXpGainFactor>
+  <MedicineXpGainFactor>TODO</MedicineXpGainFactor>
   <!-- EN: Mood change -->
-  <MoodChange>Schimbarea stării de spirit</MoodChange>
+  <MoodChange>TODO</MoodChange>
   <!-- EN: Wildness -->
-  <Wildness>Sălbăticie</Wildness>
+  <Wildness>TODO</Wildness>
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
-  <WildnessExplanation>Creaturile mai sălbatice sunt, în mod natural, mai greu de îmblânzit, de dresat și de manevrat.</WildnessExplanation>
+  <WildnessExplanation>TODO</WildnessExplanation>
   <!-- EN: Training decay interval -->
-  <TrainingDecayInterval>Intervalul de degradare a antrenamentului</TrainingDecayInterval>
+  <TrainingDecayInterval>TODO</TrainingDecayInterval>
   <!-- EN: Tameness will never decay for animals of very low wildness. -->
-  <TamenessWillNotDecay>Blândețea nu se va degrada niciodată.</TamenessWillNotDecay>
+  <TamenessWillNotDecay>TODO</TamenessWillNotDecay>
   <!-- EN: Tameness will never decay for animals that can be kept behind fences. -->
-  <TamenessWillNotDecayFenceBlocked>Blândețea nu va decădea niciodată pentru animalele care pot fi ținute în spatele gardurilor.</TamenessWillNotDecayFenceBlocked>
+  <TamenessWillNotDecayFenceBlocked>TODO</TamenessWillNotDecayFenceBlocked>
   <!-- EN: Time -->
-  <TimeRecordsCategory>Timp</TimeRecordsCategory>
+  <TimeRecordsCategory>TODO</TimeRecordsCategory>
   <!-- EN: Misc -->
-  <MiscRecordsCategory>Diverse</MiscRecordsCategory>
+  <MiscRecordsCategory>TODO</MiscRecordsCategory>
   <!-- EN: Chemical -->
-  <Chemical>Chimicale</Chemical>
+  <Chemical>TODO</Chemical>
   <!-- EN: High gain per dose -->
-  <HighGain>Câștig ridicat pe doză</HighGain>
+  <HighGain>TODO</HighGain>
   <!-- EN: High fall rate -->
-  <HighFallRate>Rata de cădere ridicată</HighFallRate>
+  <HighFallRate>TODO</HighFallRate>
   <!-- EN: High duration per dose -->
-  <HighDuration>Durată mare pe doză</HighDuration>
+  <HighDuration>TODO</HighDuration>
   <!-- EN: Tolerance gain per dose -->
-  <ToleranceGain>Câștig de toleranță pe doză</ToleranceGain>
+  <ToleranceGain>TODO</ToleranceGain>
   <!-- EN: Tolerance fall rate -->
-  <ToleranceFallRate>Rata de scădere a toleranței</ToleranceFallRate>
+  <ToleranceFallRate>TODO</ToleranceFallRate>
   <!-- EN: New addiction min tolerance -->
-  <MinimumToleranceForAddiction>Noua toleranță minimă pentru dependență</MinimumToleranceForAddiction>
-  <!-- EN: Safe dose interval -->
-  <SafeDoseInterval>Intervalul de doză sigură</SafeDoseInterval>
+  <MinimumToleranceForAddiction>TODO</MinimumToleranceForAddiction>
+  <!-- EN: Safe dose interval for adults -->
+  <SafeDoseInterval>TODO</SafeDoseInterval>
+  <!-- EN: age {0}-{1} -->
+  <AgeXToY>TODO</AgeXToY>
+  <!-- EN: age {0}+ -->
+  <AgePlus>TODO</AgePlus>
   <!-- EN: New addiction chance -->
-  <Addictiveness>Șansa unei noi dependențe</Addictiveness>
+  <Addictiveness>TODO</Addictiveness>
   <!-- EN: Addiction initial severity -->
-  <AddictionSeverityInitial>Severitatea inițială a dependenței</AddictionSeverityInitial>
+  <AddictionSeverityInitial>TODO</AddictionSeverityInitial>
   <!-- EN: Addiction severity per dose -->
-  <AddictionSeverityPerDose>Severitatea dependenței pe doză</AddictionSeverityPerDose>
+  <AddictionSeverityPerDose>TODO</AddictionSeverityPerDose>
   <!-- EN: Addiction need fill per dose -->
-  <AddictionNeedOffset>Dependența necesită umplere pe doză</AddictionNeedOffset>
+  <AddictionNeedOffset>TODO</AddictionNeedOffset>
   <!-- EN: Addiction need fall rate -->
-  <AddictionNeedFallRate>Dependența necesită rată de cădere</AddictionNeedFallRate>
+  <AddictionNeedFallRate>TODO</AddictionNeedFallRate>
   <!-- EN: Addiction need dose interval -->
-  <AddictionNeedDoseInterval>Dependența necesită interval de dozare</AddictionNeedDoseInterval>
+  <AddictionNeedDoseInterval>TODO</AddictionNeedDoseInterval>
   <!-- EN: Addiction recovery time -->
-  <AddictionRecoveryTime>Timpul de recuperare a dependenței</AddictionRecoveryTime>
+  <AddictionRecoveryTime>TODO</AddictionRecoveryTime>
   <!-- EN: Addiction cost -->
-  <AddictionCost>Costul dependenței</AddictionCost>
+  <AddictionCost>TODO</AddictionCost>
   <!-- EN: Random overdose chance -->
-  <RandomODChance>Șansă aleatorie de supradozaj</RandomODChance>
+  <RandomODChance>TODO</RandomODChance>
   <!-- EN: Always safe -->
-  <AlwaysSafe>Întotdeauna în siguranță</AlwaysSafe>
+  <AlwaysSafe>TODO</AlwaysSafe>
   <!-- EN: Never safe -->
-  <NeverSafe>Niciodată în siguranță</NeverSafe>
+  <NeverSafe>TODO</NeverSafe>
   <!-- EN: {0} / day -->
-  <PerDay>{0} / zi</PerDay>
+  <PerDay>TODO</PerDay>
   <!-- EN: {0} / hour -->
-  <PerHour>{0} / oră</PerHour>
+  <PerHour>TODO</PerHour>
   <!-- EN: Pack animal -->
-  <PackAnimal>Animal de povară</PackAnimal>
+  <PackAnimal>TODO</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
-  <PackAnimalExplanation>Dacă acest animal este potrivit pentru a fi folosit pentru a transporta obiecte într-o caravană pe distanțe lungi.</PackAnimalExplanation>
+  <PackAnimalExplanation>TODO</PackAnimalExplanation>
   <!-- EN: Skill -->
-  <Skill>Abilitate</Skill>
+  <Skill>TODO</Skill>
   <!-- EN: Success rate multiplier -->
-  <SurgerySuccessChanceFactor>Înmulțitor al ratei de succes</SurgerySuccessChanceFactor>
+  <SurgerySuccessChanceFactor>TODO</SurgerySuccessChanceFactor>
   <!-- EN: Death chance on fail -->
-  <SurgeryDeathOnFailChance>Șansa de deces la eșec</SurgeryDeathOnFailChance>
+  <SurgeryDeathOnFailChance>TODO</SurgeryDeathOnFailChance>
   <!-- EN: Work speed governed by -->
-  <WorkSpeedStat>Viteza de lucru guvernată de</WorkSpeedStat>
+  <WorkSpeedStat>TODO</WorkSpeedStat>
   <!-- EN: Output quantity governed by -->
-  <EfficiencyStat>Cantitatea de ieșire guvernată de</EfficiencyStat>
+  <EfficiencyStat>TODO</EfficiencyStat>
   <!-- EN: {0} skill required -->
-  <SkillRequiredToBuild>{0} abilitate necesară</SkillRequiredToBuild>
+  <SkillRequiredToBuild>TODO</SkillRequiredToBuild>
   <!-- EN: Requires this level of {0} in order to build. -->
-  <SkillRequiredToBuildExplanation>Necesită acest nivel de {0} pentru a construi.</SkillRequiredToBuildExplanation>
+  <SkillRequiredToBuildExplanation>TODO</SkillRequiredToBuildExplanation>
   <!-- EN: Nuzzle interval -->
-  <NuzzleInterval>Interval de mângâiere</NuzzleInterval>
+  <NuzzleInterval>TODO</NuzzleInterval>
   <!-- EN: How often an animal will nuzzle friendly colonists, on average.\n\nNuzzling is a behavior shared by many animal species, where the animal presses its nose or muzzle against a friend as a sign of affection.\nMost humans find this cute and it will leave them in a good mood for a period of time. -->
-  <NuzzleIntervalExplanation>Cât de des un animal va mângâia coloniștii prietenoși, în medie.\n\nNMângâierea este un comportament împărtășit de multe specii de animale, în care animalul își apasă nasul sau botul pe un prieten în semn de afecțiune.\nMai toți oamenii găsesc acest lucru drăguț și îi va lăsa într-o stare de bună dispoziție pentru o perioadă de timp.</NuzzleIntervalExplanation>
+  <NuzzleIntervalExplanation>TODO</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
-  <HarmedRevengeChance>Șansa de răzbunare la vătămare</HarmedRevengeChance>
-  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that so slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
-  <HarmedRevengeChanceExplanation>Șansa ca această creatură să se răzbune după ce a fost rănită de un atacator la distanță de pușcă.\n\nAceastă șansă crește dacă atacatorul este mai aproape. Dacă este atacat de foarte aproape, șansa este de trei ori mai mare.\nAceastă șansă se aplică de fiecare dată când se provoacă daune, astfel că armele care trag mai încet, cu daune mai mari, au mai puține șanse să o declanșeze.\nPentru a minimiza șansa ca o creatură să caute răzbunare, atacați-o de la distanță de pușcă cu o armă care trage încet.</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChance>TODO</HarmedRevengeChance>
+  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
+  <HarmedRevengeChanceExplanation>TODO</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
-  <TameFailedRevengeChance>Șansă de răzbunare la eșecul îmblânzitor</TameFailedRevengeChance>
+  <TameFailedRevengeChance>TODO</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
-  <TerrainRequirement>Cerințe pentru teren</TerrainRequirement>
+  <TerrainRequirement>TODO</TerrainRequirement>
   <!-- EN: Supports -->
-  <Supports>Suporturi</Supports>
+  <Supports>TODO</Supports>
   <!-- EN: Trap armor penetration -->
-  <TrapArmorPenetration>Penetrarea blindajului capcanei</TrapArmorPenetration>
+  <TrapArmorPenetration>TODO</TrapArmorPenetration>
   <!-- EN: Rearm cost -->
-  <RearmCost>Costul reînarmării</RearmCost>
+  <RearmCost>TODO</RearmCost>
   <!-- EN: Resources needed to rearm this turret -->
-  <RearmCostExplanation>Resursele necesare pentru a reînarma această turelă</RearmCostExplanation>
+  <RearmCostExplanation>TODO</RearmCostExplanation>
   <!-- EN: affected by difficulty -->
-  <RearmCostExplanationDifficulty>afectate de dificultate</RearmCostExplanationDifficulty>
+  <RearmCostExplanationDifficulty>TODO</RearmCostExplanationDifficulty>
   <!-- EN: Shots before rearm -->
-  <ShotsBeforeRearm>Împușcături înainte de rearmare</ShotsBeforeRearm>
+  <ShotsBeforeRearm>TODO</ShotsBeforeRearm>
   <!-- EN: How many shots this turret can fire before it has to be rearmed. -->
-  <ShotsBeforeRearmExplanation>Câte focuri poate trage această turelă înainte de a fi reînarmată.</ShotsBeforeRearmExplanation>
+  <ShotsBeforeRearmExplanation>TODO</ShotsBeforeRearmExplanation>
   <!-- EN: Power consumption -->
-  <PowerConsumption>Consumul de energie</PowerConsumption>
+  <PowerConsumption>TODO</PowerConsumption>
   <!-- EN: Target -->
-  <Target>Țintă</Target>
+  <Target>TODO</Target>
   <!-- EN: The types of targets on which this ability can be used. -->
-  <AbilityTargetDesc>Tipurile de ținte asupra cărora poate fi folosită această abilitate.</AbilityTargetDesc>
+  <AbilityTargetDesc>TODO</AbilityTargetDesc>
   <!-- EN: human -->
-  <TargetHuman>uman</TargetHuman>
+  <TargetHuman>TODO</TargetHuman>
   <!-- EN: animal -->
-  <TargetAnimal>animal</TargetAnimal>
+  <TargetAnimal>TODO</TargetAnimal>
   <!-- EN: self -->
-  <TargetSelf>sine</TargetSelf>
+  <TargetSelf>TODO</TargetSelf>
   <!-- EN: ground -->
-  <TargetGround>sol</TargetGround>
+  <TargetGround>TODO</TargetGround>
   <!-- EN: Click to learn more. -->
-  <ClickToLearnMore>Faceți clic pentru a afla mai multe.</ClickToLearnMore>
+  <ClickToLearnMore>TODO</ClickToLearnMore>
   <!-- EN: Click to view factions. -->
-  <ClickToViewFactions>Faceți clic pentru a vedea facțiunile.</ClickToViewFactions>
+  <ClickToViewFactions>TODO</ClickToViewFactions>
   <!-- EN: meditation focus types -->
-  <MeditationFocuses>Tipuri de focalizare a meditației</MeditationFocuses>
+  <MeditationFocuses>TODO</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
-  <MeditationFocusesUnlocked>Deblochează tipurile de focalizare a meditației</MeditationFocusesUnlocked>
-  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
-  <MeditationFocusesPawnDesc>Tipurile de focalizare a meditației pe care le poate folosi această persoană. Atunci când meditează, o persoană se poate concentra asupra unui obiect pentru a-și spori câștigul de psyfocus - dar numai dacă acel obiect oferă un tip de focus pe care îl poate folosi. Tipurile de meditație ale fiecărei persoane sunt determinate de trecutul, trăsăturile, poziția socială și așa mai departe.</MeditationFocusesPawnDesc>
+  <MeditationFocusesUnlocked>TODO</MeditationFocusesUnlocked>
+  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an object to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
+  <MeditationFocusesPawnDesc>TODO</MeditationFocusesPawnDesc>
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
-  <MeditationFocusesDesc>Tipurile de focalizare a meditației pe care le oferă acest obiect. O persoană care meditează se poate concentra pe acest obiect pentru a-și spori câștigul de psyfocus, dar numai dacă este capabilă să folosească unul dintre tipurile de meditație ale acestuia. Fiecare persoană poate folosi diferite tipuri de meditație în funcție de trecutul, trăsăturile, poziția socială și așa mai departe.</MeditationFocusesDesc>
+  <MeditationFocusesDesc>TODO</MeditationFocusesDesc>
   <!-- EN: Can use {0} focus type because -->
-  <MeditationFocusCanUse>Se poate utiliza tipul de focalizare {0} deoarece</MeditationFocusCanUse>
+  <MeditationFocusCanUse>TODO</MeditationFocusCanUse>
   <!-- EN: {0} focus objects -->
-  <MeditationFocusObjects>{0} obiecte de focalizare</MeditationFocusObjects>
+  <MeditationFocusObjects>TODO</MeditationFocusObjects>
   <!-- EN: holds title: {TITLE} ({FACTION_name}). -->
-  <MeditationFocusEnabledByTitle>deține titlul: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
+  <MeditationFocusEnabledByTitle>TODO</MeditationFocusEnabledByTitle>
   <!-- EN: has childhood -->
-  <MeditationFocusEnabledByChildhood>are copilărie</MeditationFocusEnabledByChildhood>
+  <MeditationFocusEnabledByChildhood>TODO</MeditationFocusEnabledByChildhood>
   <!-- EN: has adulthood -->
-  <MeditationFocusEnabledByAdulthood>are vârsta adultă</MeditationFocusEnabledByAdulthood>
+  <MeditationFocusEnabledByAdulthood>TODO</MeditationFocusEnabledByAdulthood>
   <!-- EN: has trait -->
-  <MeditationFocusEnabledByTrait>are trăsătură</MeditationFocusEnabledByTrait>
+  <MeditationFocusEnabledByTrait>TODO</MeditationFocusEnabledByTrait>
   <!-- EN: does not have trait -->
-  <MeditationFocusDisabledByTrait>nu are trăsătură</MeditationFocusDisabledByTrait>
+  <MeditationFocusDisabledByTrait>TODO</MeditationFocusDisabledByTrait>
   <!-- EN: Enables meditation focus types -->
-  <EnablesMeditationFocusType>Activează tipurile de focalizare a meditației</EnablesMeditationFocusType>
+  <EnablesMeditationFocusType>TODO</EnablesMeditationFocusType>
   
   <!-- Trade -->
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
-  <PositiveBuysNegativeSells>Numerele pozitive cumpără.\nNumerele negative vând.</PositiveBuysNegativeSells>
+  <PositiveBuysNegativeSells>TODO</PositiveBuysNegativeSells>
   <!-- EN: Price you pay to buy this. -->
-  <BuyPriceDesc>Prețul pe care îl plătiți pentru a cumpăra acest articol.</BuyPriceDesc>
+  <BuyPriceDesc>TODO</BuyPriceDesc>
   <!-- EN: Price you receive for selling this. -->
-  <SellPriceDesc>Prețul pe care îl primești pentru vânzarea acestui obiect.</SellPriceDesc>
+  <SellPriceDesc>TODO</SellPriceDesc>
   <!-- EN: For this item, this price is {0}. -->
-  <PriceTypeDesc>Pentru acest articol, acest preț este {0}.</PriceTypeDesc>
+  <PriceTypeDesc>TODO</PriceTypeDesc>
   <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
-  <ColonyCount>Câte exemplare din acest articol are colonia pregătită pentru schimb.\n\nPuteți vinde articole comercianților orbitali doar dacă aceștia se află în apropierea unei balize de comerț orbital.</ColonyCount>
+  <ColonyCount>TODO</ColonyCount>
   <!-- EN: How many of this item the trader has to trade. -->
-  <TraderCount>Câte exemplare din acest articol trebuie să tranzacționeze comerciantul.</TraderCount>
+  <TraderCount>TODO</TraderCount>
   <!-- EN: Accept -->
-  <AcceptButton>Acceptă</AcceptButton>
+  <AcceptButton>TODO</AcceptButton>
   <!-- EN: Load selected -->
-  <LoadSelected>Încarcă selectat</LoadSelected>
+  <LoadSelected>TODO</LoadSelected>
   <!-- EN: Reset -->
-  <ResetButton>Resetează</ResetButton>
+  <ResetButton>TODO</ResetButton>
   <!-- EN: Cancel -->
-  <CancelButton>Anulează</CancelButton>
+  <CancelButton>TODO</CancelButton>
   <!-- EN: Close -->
-  <CloseButton>Închide</CloseButton>
+  <CloseButton>TODO</CloseButton>
   <!-- EN: Your tradeable silver: {0} -->
-  <YourTradeableSilver>Argintul tău tranzacționabil: {0}</YourTradeableSilver>
+  <YourTradeableSilver>TODO</YourTradeableSilver>
   <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
-  <YourTradeableSilverTip>Poți face comerț doar cu argintul care se află în apropierea unei balize comerciale orbitale și nu sub un acoperiș.</YourTradeableSilverTip>
+  <YourTradeableSilverTip>TODO</YourTradeableSilverTip>
   <!-- EN: Trader has no more. -->
-  <TraderHasNoMore>Trader nu mai are.</TraderHasNoMore>
+  <TraderHasNoMore>TODO</TraderHasNoMore>
   <!-- EN: No more to sell. -->
-  <ColonyHasNoMore>Nu mai are ce să vândă.</ColonyHasNoMore>
+  <ColonyHasNoMore>TODO</ColonyHasNoMore>
   <!-- EN: Trader is not willing to buy this. -->
-  <TraderWillNotTrade>Comerciantul nu este dispus să cumpere acest lucru.</TraderWillNotTrade>
+  <TraderWillNotTrade>TODO</TraderWillNotTrade>
   <!-- EN: Negotiator -->
-  <Negotiator>Negociator</Negotiator>
+  <Negotiator>TODO</Negotiator>
   <!-- EN: Negotiator: {0} (+{1}) -->
-  <NegotiatorTradeDialogInfo>Negociator: {0} (+{1})</NegotiatorTradeDialogInfo>
+  <NegotiatorTradeDialogInfo>TODO</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->
-  <NegotiatorTalkingImpaired>Negociatorul dvs. {1_labelShort} nu poate vorbi corespunzător din cauza sănătății precare.</NegotiatorTalkingImpaired>
+  <NegotiatorTalkingImpaired>TODO</NegotiatorTalkingImpaired>
   <!-- EN: Your negotiator {1_labelShort} cannot hear properly because of poor health. -->
-  <NegotiatorHearingImpaired>Negociatorul tău {1_labelShort} nu poate auzi cum trebuie din cauza sănătății precare.</NegotiatorHearingImpaired>
+  <NegotiatorHearingImpaired>TODO</NegotiatorHearingImpaired>
   <!-- EN: This will affect trade prices.\n\nConsider using a healthier negotiator. -->
-  <NegotiatorCapacityImpaired>Acest lucru va afecta prețurile tranzacțiilor.\n\nConsiderați utilizarea unui negociator mai sănătos.</NegotiatorCapacityImpaired>
+  <NegotiatorCapacityImpaired>TODO</NegotiatorCapacityImpaired>
   <!-- EN: Trader has insufficient silver to fully cover this transaction.  Proceed anyways? -->
-  <ConfirmTraderShortFunds>Comerciantul nu are suficient argint pentru a acoperi integral această tranzacție.  Continuați oricum?</ConfirmTraderShortFunds>
+  <ConfirmTraderShortFunds>TODO</ConfirmTraderShortFunds>
   <!-- EN: Sort by -->
-  <SortBy>Sortează după</SortBy>
+  <SortBy>TODO</SortBy>
   <!-- EN: trader type -->
-  <TraderTypePrice>tip de comerciant</TraderTypePrice>
+  <TraderTypePrice>TODO</TraderTypePrice>
   <!-- EN: selling -->
-  <Selling>vânzare</Selling>
+  <Selling>TODO</Selling>
   <!-- EN: buying -->
-  <Buying>cumpărare</Buying>
+  <Buying>TODO</Buying>
   <!-- EN: item sell price multiplier -->
-  <ItemSellPriceFactor>multiplicatorul prețului de vânzare al articolului</ItemSellPriceFactor>
+  <ItemSellPriceFactor>TODO</ItemSellPriceFactor>
   <!-- EN: difficulty level -->
-  <DifficultyLevel>nivelul de dificultate</DifficultyLevel>
+  <DifficultyLevel>TODO</DifficultyLevel>
   <!-- EN: global post-process curve -->
-  <PostCurve>Curba globală post-procesare</PostCurve>
+  <PostCurve>TODO</PostCurve>
   <!-- EN: Your negotiator bonus -->
-  <YourNegotiatorBonus>Bonusul tău de negociator</YourNegotiatorBonus>
+  <YourNegotiatorBonus>TODO</YourNegotiatorBonus>
   <!-- EN: Trading with faction base bonus -->
-  <TradeWithFactionBaseBonus>Tranzacționare cu bonusul de bază al facțiunii</TradeWithFactionBaseBonus>
+  <TradeWithFactionBaseBonus>TODO</TradeWithFactionBaseBonus>
   <!-- EN: Joins as slave -->
-  <JoinsAsSlave>Se alătură ca sclav</JoinsAsSlave>
+  <JoinsAsSlave>TODO</JoinsAsSlave>
   <!-- EN: Joins as colonist -->
-  <JoinsAsColonist>Se alătură ca colonist</JoinsAsColonist>
+  <JoinsAsColonist>TODO</JoinsAsColonist>
   <!-- EN: If purchased, this person will join your colony as a slave. -->
-  <JoinsAsSlaveDesc>Dacă este achiziționată, această persoană se va alătura coloniei tale ca sclav.</JoinsAsSlaveDesc> <!--  -->
+  <JoinsAsSlaveDesc>TODO</JoinsAsSlaveDesc> <!--  -->
   <!-- EN: If purchased, this person will join your colony as a colonist. -->
-  <JoinsAsColonistDesc>Dacă este achiziționată, această persoană se va alătura coloniei tale ca și colonist.</JoinsAsColonistDesc>
+  <JoinsAsColonistDesc>TODO</JoinsAsColonistDesc>
   <!-- EN: Trading drugs bonus -->
-  <TradingDrugsBonus>Bonusul de comercializare a drogurilor</TradingDrugsBonus>
+  <TradingDrugsBonus>TODO</TradingDrugsBonus>
   <!-- EN: minimum -->
-  <minimum>minim</minimum>
+  <minimum>TODO</minimum>
   <!-- EN: Final price -->
-  <FinalPrice>Prețul final</FinalPrice>
+  <FinalPrice>TODO</FinalPrice>
   <!-- EN: Gift mode - offer gifts to {0}. -->
-  <GiftModeTip>Modul Cadou - oferă cadouri lui {0}.</GiftModeTip>
+  <GiftModeTip>TODO</GiftModeTip>
   <!-- EN: Return to trade mode. -->
-  <TradeModeTip>Reveniți la modul comerț.</TradeModeTip>
+  <TradeModeTip>TODO</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
-  <TradeCaravanRequestDeniedDueTitle>{FACTION_name} nu este dispus să trimită o caravană deoarece {NEGOTIATOR_nameDef} nu are titlul necesar de {TITLE}.</TradeCaravanRequestDeniedDueTitle>
+  <TradeCaravanRequestDeniedDueTitle>TODO</TradeCaravanRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
-  <SellableItemsTitle>Lucruri pe care acest comerciant le va cumpăra</SellableItemsTitle>
+  <SellableItemsTitle>TODO</SellableItemsTitle>
   <!-- EN: Never visited - stock unknown -->
-  <TraderNotVisitedYet>Nu ați vizitat niciodată - stoc necunoscut</TraderNotVisitedYet>
+  <TraderNotVisitedYet>TODO</TraderNotVisitedYet>
   <!-- EN: Restocked since your last visit -->
-  <TraderRestockedSinceLastVisit>Reaprovizionat de la ultima vizită</TraderRestockedSinceLastVisit>
+  <TraderRestockedSinceLastVisit>TODO</TraderRestockedSinceLastVisit>
   <!-- EN: Next restock: {0} days -->
-  <NextTraderRestock>Următoarea reaprovizionare: {0} zile</NextTraderRestock>
+  <NextTraderRestock>TODO</NextTraderRestock>
   <!-- EN: Creatures -->
-  <PawnsTabShort>Creaturi</PawnsTabShort>
+  <PawnsTabShort>TODO</PawnsTabShort>
   
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <FormCaravan>Formează caravană</FormCaravan>
+  <FormCaravan>TODO</FormCaravan>
   <!-- EN: Send -->
-  <Send>Trimite</Send>
+  <Send>TODO</Send>
   <!-- EN: Number available to send with the caravan. -->
-  <FormCaravanColonyThingCountTip>Numărul disponibil pentru a fi trimis cu caravana.</FormCaravanColonyThingCountTip>
+  <FormCaravanColonyThingCountTip>TODO</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
-  <PawnsTab>Oameni și animale</PawnsTab>
+  <PawnsTab>TODO</PawnsTab>
   <!-- EN: Items -->
-  <ItemsTab>Articole</ItemsTab>
+  <ItemsTab>TODO</ItemsTab>
   <!-- EN: Travel supplies -->
-  <TravelSupplies>Provizii de călătorie</TravelSupplies>
+  <TravelSupplies>TODO</TravelSupplies>
   <!-- EN: You must assign at least one non-downed colonist. -->
-  <CaravanMustHaveAtLeastOneColonist>Trebuie să asiguri cel puțin un colonist non-doborât.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanMustHaveAtLeastOneColonist>TODO</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
-  <CaravanCouldNotFindExitSpot>Locația de ieșire aleasă ({0}) este inaccesibilă.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindExitSpot>TODO</CaravanCouldNotFindExitSpot>
   <!-- EN: Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible. -->
-  <CaravanCouldNotFindPackingSpot>Nu a putut găsi niciun loc de împachetare valabil. Asigurați-vă că locul de ieșire ales ({0}) este accesibil.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindPackingSpot>TODO</CaravanCouldNotFindPackingSpot>
   <!-- EN: Warning: Some of the assigned colonists are unable to reach the exit location ({0}). -->
-  <CaravanCouldNotFindReachableExitSpot>Avertizare: Unii dintre coloniștii repartizați nu pot ajunge la locul de ieșire ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <CaravanCouldNotFindReachableExitSpot>TODO</CaravanCouldNotFindReachableExitSpot>
   <!-- EN: {1_labelShort} is unable to reach the packing spot or the exit location when led by any of the assigned colonists. -->
-  <CaravanRoamerCannotReachSpots>{1_labelShort} nu poate ajunge la locul de împachetare sau la locul de ieșire atunci când este condus de oricare dintre coloniștii desemnați.</CaravanRoamerCannotReachSpots>
+  <CaravanRoamerCannotReachSpots>TODO</CaravanRoamerCannotReachSpots>
   <!-- EN: None of the assigned colonists are able to reach the {0}. -->
-  <CaravanItemIsUnreachableSingle>Niciunul dintre coloniștii desemnați nu poate ajunge la {0}.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableSingle>TODO</CaravanItemIsUnreachableSingle>
   <!-- EN: None of the assigned colonists are able to reach {0}x {1}. -->
-  <CaravanItemIsUnreachableMulti>Niciunul dintre coloniștii desemnați nu poate ajunge la {0}x {1}.</CaravanItemIsUnreachableMulti>
+  <CaravanItemIsUnreachableMulti>TODO</CaravanItemIsUnreachableMulti>
   <!-- EN: The caravan can't carry that much. -->
-  <TooBigCaravanMassUsage>Caravana nu poate transporta atât de mult.</TooBigCaravanMassUsage>
+  <TooBigCaravanMassUsage>TODO</TooBigCaravanMassUsage>
   <!-- EN: Includes carried items and equipped items. Carrying less than the maximum gives a speed bonus. -->
-  <CaravanMassUsageTooltip>Include obiectele transportate și obiectele echipate. Căratul mai puțin decât maximul oferă un bonus de viteză.</CaravanMassUsageTooltip>
+  <CaravanMassUsageTooltip>TODO</CaravanMassUsageTooltip>
   <!-- EN: Visibility is how easy your caravan is to notice.\n\nIt multiplies the chance that your caravan will be waylaid by enemies.\n\nVisibility does not affect your ability to find things you want.\n\nVisibility is based on the total body size of all people and animals in the caravan. -->
-  <CaravanVisibilityTip>Vizibilitatea este cât de ușor este de remarcat este caravana.\n\nAsta vă înmulțește șansele ca caravana voastră să fie atacată de inamici.\n\nVizibilitatea nu îți afectează abilitatea de a găsi lucrurile pe care le doriți.\n\nVizibilitatea se bazează pe mărimea totală a corpului tuturor oamenilor și animalelor din caravană.</CaravanVisibilityTip>
+  <CaravanVisibilityTip>TODO</CaravanVisibilityTip>
   <!-- EN: Days of food -->
-  <DaysWorthOfFood>Zile de mâncare</DaysWorthOfFood>
+  <DaysWorthOfFood>TODO</DaysWorthOfFood>
   <!-- EN: rot in {0} -->
-  <DaysWorthOfFoodInfoRot>putrezește în {0}</DaysWorthOfFoodInfoRot>
+  <DaysWorthOfFoodInfoRot>TODO</DaysWorthOfFoodInfoRot>
   <!-- EN: Unlimited -->
-  <InfiniteDaysWorthOfFoodInfo>Nelimitat</InfiniteDaysWorthOfFoodInfo>
+  <InfiniteDaysWorthOfFoodInfo>TODO</InfiniteDaysWorthOfFoodInfo>
   <!-- EN: The approximate number of days before at least one person or animal will be out of food. Different species have different diets, so one may run out of food before others. This value is calculated more accurately after the route is chosen.\n\nAffected by:\n  - Current pawn inventory\n  - Carried food type and amount\n  - Caravan members and their diets\n  - Foraging rate\n  - Whether animals can graze\n  - Time until food rots\n  - Hot weather rots food faster -->
-  <DaysWorthOfFoodTooltip>Numărul aproximativ de zile până când cel puțin o persoană sau un animal va rămâne fără hrană. Diferite specii au regimuri alimentare diferite, astfel încât una poate rămâne fără hrană înaintea altora. Această valoare este calculată cu mai multă precizie după ce traseul este ales.\n\nAfectată de:\n - Inventarul curent al pionilor\n - Tipul și cantitatea de hrană transportată\n - Membrii caravanei și dietele lor\n - Rata de căutare a hranei\n - Dacă animalele pot pășuna\n - Timpul până la putrezirea hranei\n - Vremea caldă putrezește hrana mai repede</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip>TODO</DaysWorthOfFoodTooltip>
   <!-- EN: (only the first waypoint is taken into account) -->
-  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(se ia în considerare doar primul punct de trecere)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>TODO</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
   <!-- EN: Your caravan only has {0} days worth of food and will become hungry quickly. -->
-  <DaysWorthOfFoodWarningDialog>Caravana ta are doar {0} zile de hrană și va deveni flămândă foarte repede.</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog>TODO</DaysWorthOfFoodWarningDialog>
   <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
   <DaysWorthOfFoodDietWarningDialog>TODO</DaysWorthOfFoodDietWarningDialog>
   <!-- EN: Your caravan has no food and will become hungry very quickly. -->
-  <DaysWorthOfFoodWarningDialog_NoFood>Caravana ta nu are hrană și va deveni flămândă foarte repede.</DaysWorthOfFoodWarningDialog_NoFood>
+  <DaysWorthOfFoodWarningDialog_NoFood>TODO</DaysWorthOfFoodWarningDialog_NoFood>
   <!-- EN: The average amount of food per day your people will forage. This value will change as you travel across biomes with different forage yield rates. -->
-  <ForagedFoodPerDayTip>Cantitatea medie de hrană pe zi pe care oamenii tăi o vor furaja. Această valoare se va schimba pe măsură ce călătoriți prin biome cu rate diferite de randament al furajelor.</ForagedFoodPerDayTip>
+  <ForagedFoodPerDayTip>TODO</ForagedFoodPerDayTip>
   <!-- EN: Forage per day -->
-  <ForagedFoodPerDay>Forrage pe zi</ForagedFoodPerDay>
+  <ForagedFoodPerDay>TODO</ForagedFoodPerDay>
   <!-- EN: A large part of the caravan's food will rot soon. -->
-  <CaravanFoodWillRotSoonWarningDialog>O mare parte din mâncarea caravanei va putrezi în curând.</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanFoodWillRotSoonWarningDialog>TODO</CaravanFoodWillRotSoonWarningDialog>
   <!-- EN: You have no caravan members capable of diplomacy or trading. -->
-  <CaravanIncapableOfSocial>Nu ai membri ai caravanei capabili de diplomație sau de comerț.</CaravanIncapableOfSocial>
+  <CaravanIncapableOfSocial>TODO</CaravanIncapableOfSocial>
   <!-- EN: Are you sure you want to form this caravan? -->
-  <CaravanAreYouSure>Ești sigur că vrei să formezi această caravană?</CaravanAreYouSure>
+  <CaravanAreYouSure>TODO</CaravanAreYouSure>
   <!-- EN: You must choose a route for the caravan first. -->
-  <MessageMustChooseRouteFirst>Trebuie să alegi mai întâi un traseu pentru caravană.</MessageMustChooseRouteFirst>
+  <MessageMustChooseRouteFirst>TODO</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
-  <MessageNoValidExitTile>Caravana ta nu poate părăsi zona. Asigură-te că cel puțin o latură este accesibilă.</MessageNoValidExitTile>
+  <MessageNoValidExitTile>TODO</MessageNoValidExitTile>
   <!-- EN: Weight of this item. -->
-  <ItemWeightTip>Greutatea acestui articol.</ItemWeightTip>
+  <ItemWeightTip>TODO</ItemWeightTip>
   <!-- EN: Market value -->
-  <MarketValueTip>Valoarea de piață</MarketValueTip>
+  <MarketValueTip>TODO</MarketValueTip>
   <!-- EN: The number of days until this item starts to rot based on the average temperature in this area. -->
-  <DaysUntilRotTip>Numărul de zile până când acest element va începe să putrezească, pe baza temperaturii medii din această zonă.</DaysUntilRotTip>
+  <DaysUntilRotTip>TODO</DaysUntilRotTip>
   <!-- EN: How much nutrition this food provides.\n\nFor reference: adult person needs {0} nutrition per day. -->
-  <ItemNutritionTip>Cât de multă nutriție oferă această hrană.\n\nPentru referință: o persoană adultă are nevoie de {0} nutriție pe zi.</ItemNutritionTip>
+  <ItemNutritionTip>TODO</ItemNutritionTip>
   <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
-  <AnimalCanGrazeTip>Acest animal poate să pască hrana din mediul înconjurător în loc să mănânce hrana transportată. Pășunatul este posibil doar în anumite biome și intervale de temperatură.</AnimalCanGrazeTip>
+  <AnimalCanGrazeTip>TODO</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
-  <NutritionForagedPerDayTip>Nutriție furajată pe zi. Cantitatea reală de hrană furajată este, de asemenea, afectată de capacitatea de furajare a biomului.\n\n{0}</NutritionForagedPerDayTip>
+  <NutritionForagedPerDayTip>TODO</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
-  <NutritionEatenPerDayTip>Nutriție consumată pe zi. Pentru referință, mesele simple au {0} nutriție.</NutritionEatenPerDayTip>
+  <NutritionEatenPerDayTip>TODO</NutritionEatenPerDayTip>
   <!-- EN: Can eat -->
-  <CanEat>Poate mânca</CanEat>
+  <CanEat>TODO</CanEat>
   <!-- EN: Legend -->
-  <Legend>Legendă</Legend>
+  <Legend>TODO</Legend>
   <!-- EN: Mass carried -->
-  <MassCarriedSimple>Masa transportată</MassCarriedSimple>
+  <MassCarriedSimple>TODO</MassCarriedSimple>
   <!-- EN: Mass capacity -->
-  <MassCapacity>Capacitate de masă</MassCapacity>
+  <MassCapacity>TODO</MassCapacity>
   <!-- EN: Mass -->
-  <Mass>Masă</Mass>
+  <Mass>TODO</Mass>
   <!-- EN: Caravan mass -->
-  <CaravanMass>Masa caravanei</CaravanMass>
+  <CaravanMass>TODO</CaravanMass>
   <!-- EN: Equipment and apparel mass -->
-  <EquipmentAndApparelMass>Masa de echipament și îmbrăcăminte</EquipmentAndApparelMass>
+  <EquipmentAndApparelMass>TODO</EquipmentAndApparelMass>
   <!-- EN: Inventory mass -->
-  <InventoryMass>Masa inventarului</InventoryMass>
+  <InventoryMass>TODO</InventoryMass>
   <!-- EN: Your colonists will now gather the items and leave the area. -->
-  <CaravanFormationProcessStarted>Coloniștii tăi vor aduna acum obiectele și vor părăsi zona.</CaravanFormationProcessStarted>
+  <CaravanFormationProcessStarted>TODO</CaravanFormationProcessStarted>
   <!-- EN: Reform caravan -->
-  <ReformCaravan>Caravana reformei</ReformCaravan>
+  <ReformCaravan>TODO</ReformCaravan>
   <!-- EN: Colonists -->
-  <ColonistsSection>Coloniști</ColonistsSection>
+  <ColonistsSection>TODO</ColonistsSection>
   <!-- EN: Prisoners -->
-  <PrisonersSection>Prizonieri</PrisonersSection>
+  <PrisonersSection>TODO</PrisonersSection>
   <!-- EN: Capture -->
-  <CaptureSection>Capturează</CaptureSection>
+  <CaptureSection>TODO</CaptureSection>
   <!-- EN: Animals -->
-  <AnimalsSection>Animale</AnimalsSection>
+  <AnimalsSection>TODO</AnimalsSection>
   <!-- EN: Choose route -->
-  <ChooseRouteButton>Alege traseul</ChooseRouteButton>
+  <ChooseRouteButton>TODO</ChooseRouteButton>
   <!-- EN: Change route -->
-  <ChangeRouteButton>Schimbă traseul</ChangeRouteButton>
+  <ChangeRouteButton>TODO</ChangeRouteButton>
   <!-- EN: Abandon -->
-  <AbandonButton>Abandonați</AbandonButton>
+  <AbandonButton>TODO</AbandonButton>
   <!-- EN: Movement speed -->
-  <CaravanMovementSpeed>Viteza de deplasare</CaravanMovementSpeed>
+  <CaravanMovementSpeed>TODO</CaravanMovementSpeed>
   <!-- EN: tiles/day -->
-  <TilesPerDay>țigle/zi</TilesPerDay>
+  <TilesPerDay>TODO</TilesPerDay>
   <!-- EN: None - too heavy -->
-  <TilesPerDayImmobile>Niciunul - prea greu</TilesPerDayImmobile>
+  <TilesPerDayImmobile>TODO</TilesPerDayImmobile>
   <!-- EN: None -->
-  <TilesPerDayImmobileShort>Nici unul</TilesPerDayImmobileShort>
+  <TilesPerDayImmobileShort>TODO</TilesPerDayImmobileShort>
   <!-- EN: Movement speed depends on carried mass, ridden animals, and terrain movement difficulty. -->
-  <CaravanMovementSpeedTip>Viteza de deplasare depinde de viteza medie a tuturor oamenilor și animalelor, de masa transportată și de dificultatea de deplasare a terenului.</CaravanMovementSpeedTip>
+  <CaravanMovementSpeedTip>TODO</CaravanMovementSpeedTip>
   <!-- EN: Animals will be able to graze -->
-  <AnimalsWillBeAbleToGraze>Animalele vor putea să pască</AnimalsWillBeAbleToGraze>
+  <AnimalsWillBeAbleToGraze>TODO</AnimalsWillBeAbleToGraze>
   <!-- EN: Animals can graze -->
-  <AnimalsCanGraze>Animalele pot pășuna</AnimalsCanGraze>
+  <AnimalsCanGraze>TODO</AnimalsCanGraze>
   <!-- EN: (for {0} more days) -->
-  <PossibleToGrazeFor>(pentru încă {0} zile)</PossibleToGrazeFor>
+  <PossibleToGrazeFor>TODO</PossibleToGrazeFor>
   <!-- EN: (forever) -->
-  <PossibleToGrazeForever>(pentru totdeauna)</PossibleToGrazeForever>
+  <PossibleToGrazeForever>TODO</PossibleToGrazeForever>
   <!-- EN: ({0}) -->
-  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
+  <CantGrazeBecauseOfBiome>TODO</CantGrazeBecauseOfBiome>
   <!-- EN: (too cold for {0} more days) -->
-  <CantGrazeBecauseOfTemp>(prea frig pentru încă {0} zile)</CantGrazeBecauseOfTemp>
+  <CantGrazeBecauseOfTemp>TODO</CantGrazeBecauseOfTemp>
   <!-- EN: Total nutrition -->
-  <TotalNutrition>Nutriție totală</TotalNutrition>
+  <TotalNutrition>TODO</TotalNutrition>
   <!-- EN: Not moving -->
-  <CaravanNotMoving>Nu se mișcă</CaravanNotMoving>
+  <CaravanNotMoving>TODO</CaravanNotMoving>
   <!-- EN: Foraged nutrition per day -->
-  <ForagedNutritionPerDay>Nutriție furajată pe zi</ForagedNutritionPerDay>
+  <ForagedNutritionPerDay>TODO</ForagedNutritionPerDay>
   <!-- EN: Faction type -->
-  <FactionType>Tipul facțiunii</FactionType>
+  <FactionType>TODO</FactionType>
   <!-- EN: Total body size -->
-  <TotalBodySize>Dimensiunea corporală totală</TotalBodySize>
+  <TotalBodySize>TODO</TotalBodySize>
   <!-- EN: Automatically select travel supplies -->
-  <AutomaticallySelectTravelSupplies>Selectează automat proviziile de călătorie</AutomaticallySelectTravelSupplies>
+  <AutomaticallySelectTravelSupplies>TODO</AutomaticallySelectTravelSupplies>
+  <!-- EN: This animal is sick. It is suffering from the following illnesses -->
+  <CaravanAnimalSick>TODO</CaravanAnimalSick>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
-  <SplitCaravan>Divideți caravana</SplitCaravan>
+  <SplitCaravan>TODO</SplitCaravan>
   <!-- EN: You must leave at least one non-downed colonist. -->
-  <SourceCaravanMustHaveAtLeastOneColonist>Trebuie să lași cel puțin un colonist non-doborât.</SourceCaravanMustHaveAtLeastOneColonist>
+  <SourceCaravanMustHaveAtLeastOneColonist>TODO</SourceCaravanMustHaveAtLeastOneColonist>
   <!-- EN: How many of this item the caravan has ready to give to the new caravan. -->
-  <SplitCaravanThingCountTip>Câte din acest obiect are caravana pregătită pentru a le da noii caravane.</SplitCaravanThingCountTip>
+  <SplitCaravanThingCountTip>TODO</SplitCaravanThingCountTip>
   
   <!-- Caravan misc -->
   <!-- EN: Are you sure you want to attack {0}?\n\nThis will make {1} hostile to you, and they will eventually start raiding your colony! -->
-  <ConfirmAttackFriendlyFaction>Ești sigur că vrei să ataci {0}?\n\nAceasta va face ca {1} să îți fie ostil și, în cele din urmă, va începe să-ți atace colonia!</ConfirmAttackFriendlyFaction>
+  <ConfirmAttackFriendlyFaction>TODO</ConfirmAttackFriendlyFaction>
   
   <!-- Load transporters -->
   <!-- EN: Load {0} -->
-  <LoadTransporters>Încărcare {0}</LoadTransporters>
+  <LoadTransporters>TODO</LoadTransporters>
   <!-- EN: The assigned people and items are too heavy for the transport pods. -->
-  <TooBigTransportersMassUsage>Persoanele și obiectele alocate sunt prea grele pentru capsulele de transport.</TooBigTransportersMassUsage>
+  <TooBigTransportersMassUsage>TODO</TooBigTransportersMassUsage>
   <!-- EN: The assigned people and items are too heavy for the shuttle. -->
-  <TooBigTransporterSingleMassUsage>Persoanele și obiectele alocate sunt prea grele pentru navetă.</TooBigTransporterSingleMassUsage>
+  <TooBigTransporterSingleMassUsage>TODO</TooBigTransporterSingleMassUsage>
   <!-- EN: You can't send empty transport pods. -->
-  <CantSendEmptyTransportPods>Nu puteți trimite capsule de transport goale.</CantSendEmptyTransportPods>
+  <CantSendEmptyTransportPods>TODO</CantSendEmptyTransportPods>
   <!-- EN: You can't send empty shuttle. -->
-  <CantSendEmptyTransporterSingle>Nu poți trimite naveta goală.</CantSendEmptyTransporterSingle>
+  <CantSendEmptyTransporterSingle>TODO</CantSendEmptyTransporterSingle>
   <!-- EN: {1_labelShort} can't reach the transport pods. -->
-  <PawnCantReachTransporters>{1_labelShort} nu poate ajunge la capsulele de transport.</PawnCantReachTransporters>
+  <PawnCantReachTransporters>TODO</PawnCantReachTransporters>
   <!-- EN: {1_labelShort} can't reach the shuttle. -->
-  <PawnCantReachTransporterSingle>{1_labelShort} nu poate ajunge la navetă.</PawnCantReachTransporterSingle>
+  <PawnCantReachTransporterSingle>TODO</PawnCantReachTransporterSingle>
   <!-- EN: There is no path between the transport pods and the {0}. -->
-  <TransporterItemIsUnreachableSingle>Nu există nici o cale între navetele de transport și {0}.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableSingle>TODO</TransporterItemIsUnreachableSingle>
   <!-- EN: There is no path between the shuttle and the {0}. -->
-  <TransporterSingleItemIsUnreachableSingle>Nu există nicio cale de acces între navetă și {0}.</TransporterSingleItemIsUnreachableSingle>
+  <TransporterSingleItemIsUnreachableSingle>TODO</TransporterSingleItemIsUnreachableSingle>
   <!-- EN: There is no path between the transport pods and {0}x {1}. -->
-  <TransporterItemIsUnreachableMulti>Nu există nici o cale între navetele de transport și {0}x {1}.</TransporterItemIsUnreachableMulti>
+  <TransporterItemIsUnreachableMulti>TODO</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
-  <TransporterSingleItemIsUnreachableMulti>Nu există nicio cale între navetă și {0}x {1}.</TransporterSingleItemIsUnreachableMulti>
+  <TransporterSingleItemIsUnreachableMulti>TODO</TransporterSingleItemIsUnreachableMulti>
   <!-- EN: Only {0} colonists maximum allowed. -->
-  <TransporterSingleTooManyColonists>Doar {0} coloniști maxim permis.</TransporterSingleTooManyColonists>
+  <TransporterSingleTooManyColonists>TODO</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
-  <SocialSkillIs>Abilități sociale: {0}</SocialSkillIs>
+  <SocialSkillIs>TODO</SocialSkillIs>
   
   <!--Research-->
   <!-- EN: Research finished: {0} -->
-  <ResearchFinished>Cercetare finalizată: {0}</ResearchFinished>
+  <ResearchFinished>TODO</ResearchFinished>
   <!-- EN: Research Screen -->
-  <ResearchScreen>Ecranul de cercetare</ResearchScreen>
+  <ResearchScreen>TODO</ResearchScreen>
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
-  <HistoryUploadMessage>Doriți să încărcați înregistrările cu date de gameplay pe serverul RimWorld pentru a ajuta dezvoltatorii să echilibreze jocul? Dacă sunteți de acord, datele dvs. vor fi încărcate la fiecare {0} zile (și în alte cazuri rare, cum ar fi la sfârșitul jocului). Preferințele de confidențialitate pot fi modificate ulterior în meniul de opțiuni.</HistoryUploadMessage>
+  <HistoryUploadMessage>TODO</HistoryUploadMessage>
   <!-- EN: Even though history is sent anonymously, you can attach your name. -->
-  <HistoryUploadMessagePlayerName>Chiar dacă istoricul este trimis în mod anonim, puteți atașa numele dumneavoastră.</HistoryUploadMessagePlayerName>
+  <HistoryUploadMessagePlayerName>TODO</HistoryUploadMessagePlayerName>
   <!-- EN: Allow uploading gameplay data -->
-  <HistoryUploadYes>Permite încărcarea datelor de joc</HistoryUploadYes>
+  <HistoryUploadYes>TODO</HistoryUploadYes>
   <!-- EN: Do not allow uploading gameplay data -->
-  <HistoryUploadNo>Nu permiteți încărcarea datelor de joc</HistoryUploadNo>
+  <HistoryUploadNo>TODO</HistoryUploadNo>
   <!-- EN: Upload only this time -->
-  <HistoryUploadYesOnce>Încarcă doar de data aceasta</HistoryUploadYesOnce>
+  <HistoryUploadYesOnce>TODO</HistoryUploadYesOnce>
   <!-- EN: Do not upload this time, ask me later -->
-  <HistoryUploadNoOnce>Nu încărca de data aceasta, întreabă-mă mai târziu</HistoryUploadNoOnce>
+  <HistoryUploadNoOnce>TODO</HistoryUploadNoOnce>
   
   <!-- Outfit management -->
   <!-- EN: Outfit -->
-  <Outfit>Outfit</Outfit>
+  <Outfit>TODO</Outfit>
   <!-- EN: Select outfit... -->
-  <SelectOutfit>Selectează ținuta...</SelectOutfit>
+  <SelectOutfit>TODO</SelectOutfit>
   <!-- EN: New outfit -->
-  <NewOutfit>Echipament nou</NewOutfit>
+  <NewOutfit>TODO</NewOutfit>
   <!-- EN: Delete outfit... -->
-  <DeleteOutfit>Șterge ținuta...</DeleteOutfit>
+  <DeleteOutfit>TODO</DeleteOutfit>
   <!-- EN: Outfit is in use by {0}. -->
-  <OutfitInUse>Ținuta este folosită de {0}.</OutfitInUse>
+  <OutfitInUse>TODO</OutfitInUse>
   <!-- EN: No outfit selected -->
-  <NoOutfitSelected>Nu a fost selectată nicio ținută</NoOutfitSelected>
+  <NoOutfitSelected>TODO</NoOutfitSelected>
   
   <!-- Drug policy management -->
   <!-- EN: Drug policy -->
-  <DrugPolicy>Politica privind drogurile</DrugPolicy>
+  <DrugPolicy>TODO</DrugPolicy>
   <!-- EN: Select policy... -->
-  <SelectDrugPolicy>Selectați politica...</SelectDrugPolicy>
+  <SelectDrugPolicy>TODO</SelectDrugPolicy>
   <!-- EN: New policy -->
-  <NewDrugPolicy>Politică nouă</NewDrugPolicy>
+  <NewDrugPolicy>TODO</NewDrugPolicy>
   <!-- EN: Delete policy... -->
-  <DeleteDrugPolicy>Ștergeți politica...</DeleteDrugPolicy>
+  <DeleteDrugPolicy>TODO</DeleteDrugPolicy>
   <!-- EN: Drugs policy is in use by {0}. -->
-  <DrugPolicyInUse>Politica privind drogurile este utilizată de {0}.</DrugPolicyInUse>
+  <DrugPolicyInUse>TODO</DrugPolicyInUse>
   <!-- EN: Food restriction is in use by {0}. -->
-  <FoodRestrictionInUse>Restricția alimentară este utilizată de {0}.</FoodRestrictionInUse>
+  <FoodRestrictionInUse>TODO</FoodRestrictionInUse>
   <!-- EN: No drug policy selected -->
-  <NoDrugPolicySelected>Nu a fost selectată nicio politică privind drogurile</NoDrugPolicySelected>
+  <NoDrugPolicySelected>TODO</NoDrugPolicySelected>
   <!-- EN: Add drug... -->
-  <AddDrug>Adaugă drog...</AddDrug>
+  <AddDrug>TODO</AddDrug>
   <!-- EN: Drug -->
-  <DrugColumnLabel>Drog</DrugColumnLabel>
+  <DrugColumnLabel>TODO</DrugColumnLabel>
   <!-- EN: Usage -->
-  <DrugUsageColumnLabel>Utilizare</DrugUsageColumnLabel>
+  <DrugUsageColumnLabel>TODO</DrugUsageColumnLabel>
   <!-- EN: Frequency -->
-  <FrequencyColumnLabel>Frecvență</FrequencyColumnLabel>
+  <FrequencyColumnLabel>TODO</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
-  <MoodThresholdColumnLabel>Numai dacă starea de spirit este sub</MoodThresholdColumnLabel>
+  <MoodThresholdColumnLabel>TODO</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
-  <JoyThresholdColumnLabel>Numai dacă recreerea este sub</JoyThresholdColumnLabel>
+  <JoyThresholdColumnLabel>TODO</JoyThresholdColumnLabel>
   <!-- EN: Keep in inventory -->
-  <TakeToInventoryColumnLabel>A se păstra în inventar</TakeToInventoryColumnLabel>
+  <TakeToInventoryColumnLabel>TODO</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
-  <NoDrugsBrackets>(fără droguri)</NoDrugsBrackets>
+  <NoDrugsBrackets>TODO</NoDrugsBrackets>
   <!-- EN: Every day -->
-  <EveryDay>În fiecare zi</EveryDay>
+  <EveryDay>TODO</EveryDay>
   <!-- EN: {0} times per day -->
-  <TimesPerDay>{0} ori pe zi</TimesPerDay>
+  <TimesPerDay>TODO</TimesPerDay>
   <!-- EN: Every {0} days -->
-  <EveryDays>La fiecare {0} zile</EveryDays>
+  <EveryDays>TODO</EveryDays>
   <!-- EN: Any -->
-  <NoDrugUseRequirement>Oricare</NoDrugUseRequirement>
+  <NoDrugUseRequirement>TODO</NoDrugUseRequirement>
   <!-- EN: Delete this drug. -->
-  <DeleteDrugTooltip>Ștergeți acest medicament.</DeleteDrugTooltip>
+  <DeleteDrugTooltip>TODO</DeleteDrugTooltip>
   <!-- EN: The name of a drug. -->
-  <DrugNameColumnDesc>Numele medicamentului.</DrugNameColumnDesc>
+  <DrugNameColumnDesc>TODO</DrugNameColumnDesc>
   <!-- EN: How the drug is allowed to be used. -->
-  <DrugUsageColumnDesc>Modul în care este permisă utilizarea medicamentului.</DrugUsageColumnDesc>
+  <DrugUsageColumnDesc>TODO</DrugUsageColumnDesc>
   <!-- EN: How often the colonists should try to take this drug. -->
-  <FrequencyColumnDesc>Cât de des ar trebui să încerce coloniștii să ia acest medicament.</FrequencyColumnDesc>
+  <FrequencyColumnDesc>TODO</FrequencyColumnDesc>
   <!-- EN: The colonists will take this drug only if their mood level is below this threshold. -->
-  <MoodThresholdColumnDesc>Coloniștii vor lua acest medicament numai dacă nivelul lor de dispoziție este sub acest prag.</MoodThresholdColumnDesc>
+  <MoodThresholdColumnDesc>TODO</MoodThresholdColumnDesc>
   <!-- EN: The colonists will take this drug only if their recreation level is below this threshold. -->
-  <JoyThresholdColumnDesc>Coloniștii vor lua acest drog numai dacă nivelul lor de recreere este sub acest prag.</JoyThresholdColumnDesc>
+  <JoyThresholdColumnDesc>TODO</JoyThresholdColumnDesc>
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
-  <TakeToInventoryColumnDesc>O cantitate de drog de luat în plus atunci când îl ia pentru consum, pentru a evita să trebuiască să vizitezi de fiecare dată depozitul de droguri.</TakeToInventoryColumnDesc>
+  <TakeToInventoryColumnDesc>TODO</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>Pentru dependențe\n\nUtilizați acest drog pentru a hrăni nevoile de dependență deja stabilite.\n\nInclusiv dacă sunt dezactivate, unele personaje cu trăsături specifice, sau în pauze mentale, pot folosi drogul oricum.</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>TODO</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForJoy>For recreation\n\nUtilizați acest drog pentru recreere și în scopuri sociale.\n\nChiar dacă sunt invalidate, unele personaje cu trăsături specifice, sau în căderi mentale, pot folosi oricum drogul.</DrugUsageTipForJoy>
+  <DrugUsageTipForJoy>TODO</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
-  <DrugUsageTipScheduled>Scheduled\n\nUtilizați acest medicament după un program definit, atunci când sunt îndeplinite anumite condiții specifice.</DrugUsageTipScheduled>
+  <DrugUsageTipScheduled>TODO</DrugUsageTipScheduled>
 
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
-  <FoodRestriction>Restr. alimentară</FoodRestriction>
+  <FoodRestriction>TODO</FoodRestriction>
+  <!-- EN: Food -->
+  <FoodRestrictionShort>TODO</FoodRestrictionShort>
   <!-- EN: Lavish -->
-  <FoodRestrictionLavish>Somptuos</FoodRestrictionLavish>
+  <FoodRestrictionLavish>TODO</FoodRestrictionLavish>
   <!-- EN: Fine -->
-  <FoodRestrictionFine>Bun</FoodRestrictionFine>
+  <FoodRestrictionFine>TODO</FoodRestrictionFine>
   <!-- EN: Simple -->
-  <FoodRestrictionSimple>Simplu</FoodRestrictionSimple>
+  <FoodRestrictionSimple>TODO</FoodRestrictionSimple>
   <!-- EN: Paste -->
-  <FoodRestrictionPaste>Pastă</FoodRestrictionPaste>
+  <FoodRestrictionPaste>TODO</FoodRestrictionPaste>
   <!-- EN: Raw -->
-  <FoodRestrictionRaw>Crud</FoodRestrictionRaw>
+  <FoodRestrictionRaw>TODO</FoodRestrictionRaw>
   <!-- EN: Nothing -->
-  <FoodRestrictionNothing>Nimic</FoodRestrictionNothing>
+  <FoodRestrictionNothing>TODO</FoodRestrictionNothing>
   <!-- EN: Select food restriction -->
-  <SelectFoodRestriction>Selectați restr. alim.</SelectFoodRestriction>
+  <SelectFoodRestriction>TODO</SelectFoodRestriction>
   <!-- EN: New food restriction -->
-  <NewFoodRestriction>Restr. alim. nouă</NewFoodRestriction>
+  <NewFoodRestriction>TODO</NewFoodRestriction>
   <!-- EN: Delete food restriction -->
-  <DeleteFoodRestriction>Ștergeți restr. alim.</DeleteFoodRestriction>
+  <DeleteFoodRestriction>TODO</DeleteFoodRestriction>
   <!-- EN: No food restriction selected -->
-  <NoFoodRestrictionSelected>Nu este selectată nicio restricție alimentară</NoFoodRestrictionSelected>
+  <NoFoodRestrictionSelected>TODO</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
+  <!-- EN: Default medicine settings -->
+  <DefaultMedicineSettings>TODO</DefaultMedicineSettings>
   <!-- EN: Defaults -->
-  <MedGroupDefaults>Defaults</MedGroupDefaults>
+  <MedGroupDefaults>TODO</MedGroupDefaults>
   <!-- EN: Colonist -->
-  <MedGroupColonist>Colonist</MedGroupColonist>
+  <MedGroupColonist>TODO</MedGroupColonist>
   <!-- EN: Imprisoned colonist -->
-  <MedGroupImprisonedColonist>Colonist captiv</MedGroupImprisonedColonist>
+  <MedGroupImprisonedColonist>TODO</MedGroupImprisonedColonist>
   <!-- EN: Colony animal -->
-  <MedGroupColonyAnimal>Animal de colonie</MedGroupColonyAnimal>
+  <MedGroupColonyAnimal>TODO</MedGroupColonyAnimal>
   <!-- EN: Neutral animal -->
-  <MedGroupNeutralAnimal>Animal neutru</MedGroupNeutralAnimal>
+  <MedGroupNeutralAnimal>TODO</MedGroupNeutralAnimal>
   <!-- EN: Neutral faction -->
-  <MedGroupNeutralFaction>Facțiune neutră</MedGroupNeutralFaction>
+  <MedGroupNeutralFaction>TODO</MedGroupNeutralFaction>
   <!-- EN: Hostile faction -->
-  <MedGroupHostileFaction>Facțiune ostilă</MedGroupHostileFaction>
+  <MedGroupHostileFaction>TODO</MedGroupHostileFaction>
   
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
-  <NoGrowerCanPlant>{0} are nevoie de {1} abilitate în Cultivare pentru a semăna.\n\nNici unul dintre cultivatorii tăi care nu au fost abandonați nu are această aptitudine, așa că această plantă nu va fi semănată.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>TODO</NoGrowerCanPlant>
 
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
-  <ConfirmAbandonHomeWithColonyPawns>Unii dintre coloniștii sau animalele tale se află în această zonă. Sunteți sigur că vreți să o abandonați?\n\nAceste persoane și animale vor fi lăsate în urmă:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeWithColonyPawns>TODO</ConfirmAbandonHomeWithColonyPawns>
   <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
-  <ConfirmAbandonHomeNegativeThoughts>Abandonarea {0} va face ca următoarele persoane să primească următoarele gânduri:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts>TODO</ConfirmAbandonHomeNegativeThoughts>
   <!-- EN: Everyone: -->
-  <ConfirmAbandonHomeNegativeThoughts_Everyone>Toată lumea:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>TODO</ConfirmAbandonHomeNegativeThoughts_Everyone>
   
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
-  <ConfirmMoveAutoJoinableCaravan>Unele animale sau prizonieri încearcă să se alăture acestei caravane. Dacă o mutați, ei nu vor mai putea.\n\nAnimalele, prizonierii și coloniștii doborâți rămași pe o hartă fără coloniști care nu au fost doborâți sunt considerați abandonați și pot fi capturați de inamici.\n\nSunteți sigur că doriți să mutați caravana?</ConfirmMoveAutoJoinableCaravan>
+  <ConfirmMoveAutoJoinableCaravan>TODO</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
-  <ConfirmBanishPawnDialog>Chiar doriți să îl alungăm pe {1_label}?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog>TODO</ConfirmBanishPawnDialog>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} va muri cel mai probabil.</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_LeftToDie>TODO</ConfirmBanishPawnDialog_LeftToDie>
   <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
-  <ConfirmBanishPawnDialog_Items>{1_labelShort} va lua următoarele obiecte cu {1_objective}:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_Items>TODO</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
-  <ConfirmBanishPawnDialog_AllColonistsThoughts>Toți coloniștii vor primi următoarele gânduri:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>TODO</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
-  <ConfirmBanishPawnDialog_IndividualThoughts>Interzicerea lui {1_labelShort} va face ca următoarele persoane să primească următoarele gânduri:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>TODO</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>Grupul de poduri nu este complet încărcat. {1_labelShort} lipsește. Lansați oricum?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>TODO</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
-  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
-  <ConfirmSettleNearFactionBase>Din moment ce această locație se află la {0} țigle de o altă bază a unei facțiuni, ei vor simți că le invadezi terenul și relațiile cu acele facțiuni se vor înrăutăți la fiecare {1} zile.\n\nVă așezați aici oricum?</ConfirmSettleNearFactionBase>
+  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
+  <ConfirmSettleNearFactionBase>TODO</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>Sunteți sigur că doriți să curățați toate fișierele de traducere pentru limba {0}? \n\nAceasta va:\n - Adaugă spații pentru traducerile cu chei lipsă, traducerile cu injecție def și backstories\n - Adaugă sau actualizează comentariile care conțin textul original, netradus\n - Mută toate traducerile cu chei și cu injecție def în fișierele XML corespunzătoare\n - Aplică formatarea automată la toate fișierele XML\n - Actualizează denumirile def compatibile cu cele anterioare\n - Îndepărtează toate comentariile XML existente (cu excepția injecțiilor cu listă completă)\n\nFilele non-XML nu vor fi eliminate sau modificate.\n\nȚineți minte să reporniți jocul după modificarea fișierelor de limbă înainte de a rula această unealtă pentru a reîncărca toate datele.\n\nAsigurați-vă că ați făcut o copie de siguranță a tuturor fișierelor de traducere înainte de a folosi această unealtă.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>TODO</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
-  <ConfirmCleanupTranslationFiles_Confirm>Da, am o copie de rezervă</ConfirmCleanupTranslationFiles_Confirm>
+  <ConfirmCleanupTranslationFiles_Confirm>TODO</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>Caravana va fi imobilă dacă o lansați pe o țiglă goală. Continuați totuși?</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>TODO</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
-  <ConfirmCancelMonumentMarker>Doriți cu adevărat să eliminați acest marcaj de monument?</ConfirmCancelMonumentMarker>
+  <ConfirmCancelMonumentMarker>TODO</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
+  <!-- EN: Cannot use {0} -->
+  <CannotUseAbility>TODO</CannotUseAbility>
   <!-- EN: Line of sight required -->
-  <AbilityRequiresLOS>Linie de vedere necesară</AbilityRequiresLOS>
+  <AbilityRequiresLOS>TODO</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
-  <AbilityEntropyGain>Câștig de căldură neuronală</AbilityEntropyGain>
+  <AbilityEntropyGain>TODO</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
-  <AbilityPsyfocusCost>Costul Psyfocus</AbilityPsyfocusCost>
+  <AbilityPsyfocusCost>TODO</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
-  <AbilityDuration>Durata efectului</AbilityDuration>
+  <AbilityDuration>TODO</AbilityDuration>
   <!-- EN: Effect radius -->
-  <AbilityEffectRadius>Raza efectului</AbilityEffectRadius>
+  <AbilityEffectRadius>TODO</AbilityEffectRadius>
   <!-- EN: Casting time -->
-  <AbilityCastingTime>Timpul de lansare</AbilityCastingTime>
+  <AbilityCastingTime>TODO</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
-  <AbilityCannotHitTarget>Nu există linie de vedere către țintă.</AbilityCannotHitTarget>
+  <AbilityCannotHitTarget>TODO</AbilityCannotHitTarget>
+  <!-- EN: Target is out of range. -->
+  <AbilityOutOfRange>TODO</AbilityOutOfRange>
   <!-- EN: Can't reach the target. -->
-  <AbilityCannotReachTarget>Nu se poate ajunge la țintă.</AbilityCannotReachTarget>
+  <AbilityCannotReachTarget>TODO</AbilityCannotReachTarget>
   <!-- EN: Not enough free space. -->
-  <AbilityNotEnoughFreeSpace>Nu este suficient spațiu liber.</AbilityNotEnoughFreeSpace>
-  <!-- EN: {0} must target an empty area. -->
-  <AbilityOccupiedCells>{0} trebuie să vizeze o zonă goală.</AbilityOccupiedCells>
-  <!-- EN: {0} must target a walkable area. -->
-  <AbilityUnwalkable>{0} trebuie să vizeze o zonă în care se poate merge pe jos.</AbilityUnwalkable>
-  <!-- EN: {0} must target an unroofed area. -->
-  <AbilityRoofed>{0} trebuie să vizeze o zonă fără acoperiș.</AbilityRoofed>
+  <AbilityNotEnoughFreeSpace>TODO</AbilityNotEnoughFreeSpace>
+  <!-- EN: Must target an empty area. -->
+  <AbilityOccupiedCells>TODO</AbilityOccupiedCells>
+  <!-- EN: Must target a walkable area. -->
+  <AbilityUnwalkable>TODO</AbilityUnwalkable>
+  <!-- EN: Must target an unroofed area. -->
+  <AbilityRoofed>TODO</AbilityRoofed>
   <!-- EN: {0_labelShort} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>{0_labelShort} este afectat mintal.</AbilityCantApplyToMentallyBroken>
+  <AbilityCantApplyToMentallyBroken>TODO</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->
-  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} nu este afectat mintal.</AbilityCanOnlyApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToMentallyBroken>TODO</AbilityCanOnlyApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not maddened. -->
-  <AbilityCanOnlyApplyToManhunter>{0_labelShort} nu este înnebunit.</AbilityCanOnlyApplyToManhunter>
+  <AbilityCanOnlyApplyToManhunter>TODO</AbilityCanOnlyApplyToManhunter>
   <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
-  <AbilityCantApplyToScaria>{0_labelShort} are scaria, care poate fi tratată doar medical.</AbilityCantApplyToScaria>
+  <AbilityCantApplyToScaria>TODO</AbilityCantApplyToScaria>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
-  <AbilityDoesntWorkOnMentalState>{0} nu funcționează pe starea mentală '{1}'.</AbilityDoesntWorkOnMentalState>
+  <AbilityDoesntWorkOnMentalState>TODO</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
-  <AbilityCantApplyNoResistance>{0_labelShort} are rezistență zero.</AbilityCantApplyNoResistance>
+  <AbilityCantApplyNoResistance>TODO</AbilityCantApplyNoResistance>
   <!-- EN: {0_labelShort} is downed. -->
-  <AbilityCantApplyDowned>{0_labelShort} este doborât.</AbilityCantApplyDowned>
+  <AbilityCantApplyDowned>TODO</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
-  <AbilityCantApplyOnAsexual>Nu se poate utiliza: {0} este asexual.</AbilityCantApplyOnAsexual>
+  <AbilityCantApplyOnAsexual>TODO</AbilityCantApplyOnAsexual>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
-  <AbilityCantApplyWrongAttractionGender>{1_labelShort} este genul greșit pentru {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyWrongAttractionGender>TODO</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: {0_labelShort} is too young. -->
+  <AbilityCantApplyTooYoung>TODO</AbilityCantApplyTooYoung>
+  <!-- EN: Cannot target a baby. -->
+  <AbilityCantApplyOnBaby>TODO</AbilityCantApplyOnBaby>
   <!-- EN: Psyfocus cost per mental break intensity -->
-  <PsyfocusCostPerMentalBreakIntensity>Costul Psyfocus per intensitate de cădere nervoasă</PsyfocusCostPerMentalBreakIntensity>
+  <PsyfocusCostPerMentalBreakIntensity>TODO</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
-  <AbilityAlreadyInspired>{0_labelShort} este deja inspirat.</AbilityAlreadyInspired>
+  <AbilityAlreadyInspired>TODO</AbilityAlreadyInspired>
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
-  <AbilityCantGetInspiredNow>{0_labelShort} nu poate primi o inspirație în acest moment.</AbilityCantGetInspiredNow>
+  <AbilityCantGetInspiredNow>TODO</AbilityCantGetInspiredNow>
   <!-- EN: {0_labelShort} must be of a different ideoligion than {1_labelShort}. -->
-  <AbilityMustBeNotSameIdeo>{0_labelShort} trebuie să fie de o ideoligie diferită de cea a lui {1_labelShort}.</AbilityMustBeNotSameIdeo>
+  <AbilityMustBeNotSameIdeo>TODO</AbilityMustBeNotSameIdeo>
   <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
-  <AbilityMustBeSameIdeo>{0_labelShort} trebuie să fie de aceeași ideoligie ca {1_labelShort}.</AbilityMustBeSameIdeo>
+  <AbilityMustBeSameIdeo>TODO</AbilityMustBeSameIdeo>
   <!-- EN: {0_labelShort} must be sick or injured. -->
-  <AbilityMustBeSickOrInjured>{0_labelShort} trebuie să fie bolnav sau rănit.</AbilityMustBeSickOrInjured>
+  <AbilityMustBeSickOrInjured>TODO</AbilityMustBeSickOrInjured>
   <!-- EN: {0} can only counsel {1}s. -->
-  <AbilityMustBeSameIdeoCounsel>{0} poate consilia doar {1}.</AbilityMustBeSameIdeoCounsel>
+  <AbilityMustBeSameIdeoCounsel>TODO</AbilityMustBeSameIdeoCounsel>
   <!-- EN: {0_labelShort} is already considered guilty. -->
-  <AbilityMustBeNotGuilty>{0_labelShort} este deja considerat vinovat.</AbilityMustBeNotGuilty>
+  <AbilityMustBeNotGuilty>TODO</AbilityMustBeNotGuilty>
   <!-- EN: Must target a human. -->
-  <AbilityMustBeHuman>Trebuie să vizeze un om.</AbilityMustBeHuman>
+  <AbilityMustBeHuman>TODO</AbilityMustBeHuman>
   <!-- EN: Must target a non-wild human. -->
-  <AbilityMustBeHumanNonWild>Trebuie să vizeze un om care nu este sălbatic.</AbilityMustBeHumanNonWild>
+  <AbilityMustBeHumanNonWild>TODO</AbilityMustBeHumanNonWild>
   <!-- EN: Must target an animal. -->
-  <AbilityMustBeAnimal>Trebuie să vizeze un animal.</AbilityMustBeAnimal>
+  <AbilityMustBeAnimal>TODO</AbilityMustBeAnimal>
   <!-- EN: {0_labelShort} is unconscious. -->
-  <AbilityCantApplyUnconscious>{0_labelShort} este inconștient.</AbilityCantApplyUnconscious>
+  <AbilityCantApplyUnconscious>TODO</AbilityCantApplyUnconscious>
   <!-- EN: {0_labelShort} is asleep. -->
-  <AbilityCantApplyAsleep>{0_labelShort} este adormit.</AbilityCantApplyAsleep>
+  <AbilityCantApplyAsleep>TODO</AbilityCantApplyAsleep>
   <!-- EN: This tile is impassable. -->
-  <AbilityWorldTileImpassable>Această țiglă este impasibilă.</AbilityWorldTileImpassable>
+  <AbilityWorldTileImpassable>TODO</AbilityWorldTileImpassable>
   <!-- EN: Skip to random ally -->
-  <AbilitySkipToRandomAlly>Teleportează la un aliat aleatoriu</AbilitySkipToRandomAlly>
+  <AbilitySkipToRandomAlly>TODO</AbilitySkipToRandomAlly>
   <!-- EN: Skip to join caravan -->
-  <AbilitySkipToJoinCaravan>Teleportează pentru a te alătura caravanei</AbilitySkipToJoinCaravan>
+  <AbilitySkipToJoinCaravan>TODO</AbilitySkipToJoinCaravan>
   <!-- EN: Need ally at target for navigation -->
-  <AbilityNeedAllyToSkip>Ai nevoie de un aliat la ținta pentru navigare</AbilityNeedAllyToSkip>
+  <AbilityNeedAllyToSkip>TODO</AbilityNeedAllyToSkip>
   <!-- EN: No chunks to skip. -->
-  <AbilityNoChunkToSkip>Fără bucăți de teleportat.</AbilityNoChunkToSkip>
+  <AbilityNoChunkToSkip>TODO</AbilityNoChunkToSkip>
   <!-- EN: Induce psychic love in -->
-  <PsychicLoveInduceIn>Induce iubire psihică în</PsychicLoveInduceIn>
+  <PsychicLoveInduceIn>TODO</PsychicLoveInduceIn>
   <!-- EN: Psychic love for -->
-  <PsychicLoveFor>Dragoste psihică pentru</PsychicLoveFor>
+  <PsychicLoveFor>TODO</PsychicLoveFor>
   <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
-  <FarskipConfirmTeleportingLodger>Dacă teleportați {PAWN_labelShort} pe o altă hartă sau într-o caravană, misiunea asociată va eșua și {PAWN_pronoun} va pleca imediat.\n\nVreți cu adevărat să teleportați pe {PAWN_labelShort}?</FarskipConfirmTeleportingLodger>
+  <FarskipConfirmTeleportingLodger>TODO</FarskipConfirmTeleportingLodger>
   
   <!-- EN: minor -->
-  <MentalBreakIntensityMinor>minor</MentalBreakIntensityMinor>
+  <MentalBreakIntensityMinor>TODO</MentalBreakIntensityMinor>
   <!-- EN: major -->
-  <MentalBreakIntensityMajor>major</MentalBreakIntensityMajor>
+  <MentalBreakIntensityMajor>TODO</MentalBreakIntensityMajor>
   <!-- EN: extreme -->
-  <MentalBreakIntensityExtreme>extrem</MentalBreakIntensityExtreme>
+  <MentalBreakIntensityExtreme>TODO</MentalBreakIntensityExtreme>
 
   <!-- Auto slaughter -->
   <!-- EN: Animal -->
-  <AutoSlaugtherHeaderColLabel>Animal</AutoSlaugtherHeaderColLabel>
+  <AutoSlaugtherHeaderColLabel>TODO</AutoSlaugtherHeaderColLabel>
   <!-- EN: Current -->
-  <AutoSlaugtherHeaderColCurrent>Curent</AutoSlaugtherHeaderColCurrent>
+  <AutoSlaugtherHeaderColCurrent>TODO</AutoSlaugtherHeaderColCurrent>
   <!-- EN: Max -->
-  <AutoSlaugtherHeaderColMax>Max</AutoSlaugtherHeaderColMax>
+  <AutoSlaugtherHeaderColMax>TODO</AutoSlaugtherHeaderColMax>
   <!-- EN: Total -->
-  <AutoSlaugtherHeaderColTotal>Total</AutoSlaugtherHeaderColTotal>
+  <AutoSlaugtherHeaderColTotal>TODO</AutoSlaugtherHeaderColTotal>
   <!-- EN: Other -->
-  <AutoSlaugtherHeaderColOther>Altele</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
+  <AutoSlaugtherHeaderColOther>TODO</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
   <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
-  <AutoSlaugtherTip>Coloniștii sacrifică mai întâi animalele care nu sunt gestante, în ordine, de la cele mai bătrâne la cele mai tinere, apoi animalele gestante, de la cele mai recente la cele mai puțin recente.</AutoSlaugtherTip>
+  <AutoSlaugtherTip>TODO</AutoSlaugtherTip>
   <!-- EN: Male adult -->
-  <AnimalMaleAdult>Mascul adult</AnimalMaleAdult>
+  <AnimalMaleAdult>TODO</AnimalMaleAdult>
   <!-- EN: Male young -->
-  <AnimalMaleYoung>Mascul tânăr</AnimalMaleYoung>
+  <AnimalMaleYoung>TODO</AnimalMaleYoung>
   <!-- EN: Female adult -->
-  <AnimalFemaleAdult>Femelă adultă</AnimalFemaleAdult>
+  <AnimalFemaleAdult>TODO</AnimalFemaleAdult>
   <!-- EN: Female young -->
-  <AnimalFemaleYoung>Femelă tânără</AnimalFemaleYoung>
+  <AnimalFemaleYoung>TODO</AnimalFemaleYoung>
   <!-- EN: Pregnant -->
-  <AnimalPregnant>Gravidă</AnimalPregnant>
+  <AnimalPregnant>TODO</AnimalPregnant>
   <!-- EN: Bonded -->
   <AnimalBonded>TODO</AnimalBonded>
   <!-- EN: Slaughter -->
   <AllowSlaughter>TODO</AllowSlaughter>
 
   <!-- EN: The animal to be automatically slaughtered. -->
-  <AutoSlaugtherHeaderTooltipLabel>Animalul care urmează să fie sacrificat automat.</AutoSlaugtherHeaderTooltipLabel>
+  <AutoSlaugtherHeaderTooltipLabel>TODO</AutoSlaugtherHeaderTooltipLabel>
   <!-- EN: The current number of animals in the colony, both male and female. -->
-  <AutoSlaugtherHeaderTooltipCurrentTotal>Numărul actual de animale din colonie, atât masculi, cât și femele.</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <AutoSlaugtherHeaderTooltipCurrentTotal>TODO</AutoSlaugtherHeaderTooltipCurrentTotal>
   <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxTotal>Numărul maxim de animale din colonie, atât masculi, cât și femele.\n\nHandlerii vor sacrifica automat orice surplus.</AutoSlaugtherHeaderTooltipMaxTotal>
+  <AutoSlaugtherHeaderTooltipMaxTotal>TODO</AutoSlaugtherHeaderTooltipMaxTotal>
   <!-- EN: The current number of males of breeding age in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentMales>Numărul actual de masculi de vârstă de reproducere din colonie.</AutoSlaugtherHeaderTooltipCurrentMales>
+  <AutoSlaugtherHeaderTooltipCurrentMales>TODO</AutoSlaugtherHeaderTooltipCurrentMales>
   <!-- EN: The current number of baby and juvenile males in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentMalesYoung>Numărul actual de masculi copii și tineri din colonie.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>TODO</AutoSlaughterHeaderTooltipCurrentMalesYoung>
   <!-- EN: The maximum number of males of breeding age in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxMales>Numărul maxim de masculi de vârstă de reproducere din colonie.\n\nÎngrijitorii vor sacrifica automat orice surplus.</AutoSlaugtherHeaderTooltipMaxMales>
+  <AutoSlaugtherHeaderTooltipMaxMales>TODO</AutoSlaugtherHeaderTooltipMaxMales>
   <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaughterHeaderTooltipMaxMalesYoung>Numărul maxim de masculi copii și tineri din colonie.\n\nÎngrijitorii vor sacrifica automat orice figuranți.</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>TODO</AutoSlaughterHeaderTooltipMaxMalesYoung>
   <!-- EN: The current number of females of breeding age in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemales>Numărul actual de femele de vârstă de reproducere din colonie.</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <AutoSlaugtherHeaderTooltipCurrentFemales>TODO</AutoSlaugtherHeaderTooltipCurrentFemales>
   <!-- EN: The current number of baby and juvenile females in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>Numărul actual de femele tinere și tinere din colonie.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>TODO</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
   <!-- EN: The maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxFemales>Numărul maxim de femele din colonie.\n\nÎngrijitorii vor sacrifica automat orice surplus.</AutoSlaugtherHeaderTooltipMaxFemales>
+  <AutoSlaugtherHeaderTooltipMaxFemales>TODO</AutoSlaugtherHeaderTooltipMaxFemales>
   <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaughterHeaderTooltipMaxFemalesYoung>Numărul maxim de femele tinere din colonie.\n\nÎngrijitorii vor sacrifica automat orice figuranți.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>TODO</AutoSlaughterHeaderTooltipMaxFemalesYoung>
   <!-- EN: The current number of pregnant animals in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentPregnant>Numărul actual de animale gestante din colonie.</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <AutoSlaughterHeaderTooltipCurrentPregnant>TODO</AutoSlaughterHeaderTooltipCurrentPregnant>
   <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
-  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Permiteți ca animalele gestante să fie sacrificate împreună cu alte femele din aceeași specie.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>TODO</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
   <!-- EN: The current number of bonded animals in the colony. -->
   <AutoSlaughterHeaderTooltipCurrentBonded>TODO</AutoSlaughterHeaderTooltipCurrentBonded>
   <!-- EN: Allow bonded animals to be slaughtered. -->
   <AutoSlaughterHeaderTooltipAllowSlaughterBonded>TODO</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
 
   <!-- EN: Click to set an animal count limit. -->
-  <AutoSlaughterTooltipSetLimit>Faceți clic pentru a seta o limită de număr de animale.</AutoSlaughterTooltipSetLimit>
+  <AutoSlaughterTooltipSetLimit>TODO</AutoSlaughterTooltipSetLimit>
 
   <!-- Room requirements -->
   <!-- EN: no beds allowed -->
-  <RoomRequirementNoBeds>nu sunt permise paturi</RoomRequirementNoBeds>
+  <RoomRequirementNoBeds>TODO</RoomRequirementNoBeds>
   <!-- EN: room area: {0} tiles -->
-  <RoomRequirementArea>suprafața camerei: {0} țigle</RoomRequirementArea>
+  <RoomRequirementArea>TODO</RoomRequirementArea>
   <!-- EN: room impressiveness -->
-  <RoomRequirementImpressiveness>impresionabilitatea camerei</RoomRequirementImpressiveness>
+  <RoomRequirementImpressiveness>TODO</RoomRequirementImpressiveness>
   <!-- EN: all floored -->
-  <RoomRequirementAllFloored>în întregime cu podea</RoomRequirementAllFloored>
+  <RoomRequirementAllFloored>TODO</RoomRequirementAllFloored>
   <!-- EN: all braziers must be lit -->
-  <RoomRequirementAllBraziersMustBeLit>toate arzătoarele trebuie să fie aprinse</RoomRequirementAllBraziersMustBeLit>
+  <RoomRequirementAllBraziersMustBeLit>TODO</RoomRequirementAllBraziersMustBeLit>
   <!-- EN: all fine floored -->
-  <RoomRequirementAllFineFloored>în întregime cu podea fină</RoomRequirementAllFineFloored>
+  <RoomRequirementAllFineFloored>TODO</RoomRequirementAllFineFloored>
   <!-- EN: no work facilities allowed -->
-  <RoomRequirementNoProductionFacilities>nu sunt permise facilități de lucru</RoomRequirementNoProductionFacilities>
+  <RoomRequirementNoProductionFacilities>TODO</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
-  <RoomRequirementNoAltars>Nu sunt permise altarele</RoomRequirementNoAltars>
+  <RoomRequirementNoAltars>TODO</RoomRequirementNoAltars>
+
+  <!-- EN: Lifestage max food factor -->
+  <LifeStageMaxFood>TODO</LifeStageMaxFood>
+
+  <!-- EN: Expand all -->
+  <ExpandAllCategories>TODO</ExpandAllCategories>
+  <!-- EN: Collapse all -->
+  <CollapseAllCategories>TODO</CollapseAllCategories>
+
+  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
+  <TooltipDyeExplanation>TODO</TooltipDyeExplanation>
+
+  <!-- EN: Zoom range {0} -->
+  <ZoomRange>TODO</ZoomRange>
+
+  <!-- Color picker -->
+  <!-- EN: color temperature -->
+  <ColorTemperature>TODO</ColorTemperature>
+  <!-- EN: choose a color -->
+  <ChooseAColor>TODO</ChooseAColor>
+  <!-- EN: red -->
+  <Red>TODO</Red>
+  <!-- EN: green -->
+  <Green>TODO</Green>
+  <!-- EN: blue -->
+  <Blue>TODO</Blue>
+  <!-- EN: hue -->
+  <Hue>TODO</Hue>
+  <!-- EN: sat -->
+  <Saturation>TODO</Saturation>
+  <!-- EN: value -->
+  <ColorValue>TODO</ColorValue>
+  <!-- EN: darklight -->
+  <Darklight>TODO</Darklight>
+  <!-- EN: not darklight -->
+  <NotDarklight>TODO</NotDarklight>
+  <!-- EN: current color -->
+  <CurrentColor>TODO</CurrentColor>
+  <!-- EN: old color -->
+  <OldColor>TODO</OldColor>
+  <!-- EN: Copy color -->
+  <CommandCopyColorLabel>TODO</CommandCopyColorLabel>
+  <!-- EN: Copy the current color to the clipboard. -->
+  <CommandCopyColorDesc>TODO</CommandCopyColorDesc>
+  <!-- EN: Paste color -->
+  <CommandPasteColorLabel>TODO</CommandPasteColorLabel>
+  <!-- EN: Overwrite the color with the color in the clipboard. -->
+  <CommandPasteColorDesc>TODO</CommandPasteColorDesc>
+  <!-- EN: The clipboard does not contain a valid color. -->
+  <ClipboardInvalidColor>TODO</ClipboardInvalidColor>
+  <!-- EN: Color copied to clipboard. -->
+  <ColorCopiedSuccessfully>TODO</ColorCopiedSuccessfully>
+  <!-- EN: Updated color from the clipboard. -->
+  <ColorPastedSuccessfully>TODO</ColorPastedSuccessfully>
+  <!-- EN: Change to normal light -->
+  <ToggleDarklightOff>TODO</ToggleDarklightOff>
+  <!-- EN: Change the light color to its normal color. -->
+  <ToggleDarklightOffDesc>TODO</ToggleDarklightOffDesc>
+  <!-- EN: Change to darklight -->
+  <ToggleDarklightOn>TODO</ToggleDarklightOn>
+  <!-- EN: Change the light color to darklight. -->
+  <ToggleDarklightOnDesc>TODO</ToggleDarklightOnDesc>
+  <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
+  <ColorTemperatureTooltip>TODO</ColorTemperatureTooltip>
 
 </LanguageData>

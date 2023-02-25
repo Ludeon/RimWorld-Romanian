@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: try to get to know -->
-  <BuildRapport.label>încercare de a cunoaște</BuildRapport.label>
+  <BuildRapport.label>TODO</BuildRapport.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</li>
@@ -39,60 +39,20 @@
     <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
     <li>subject(p=8)->[TalkTopicLight]</li>
   -->
-  <BuildRapport.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] către [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] i-a spus lui [RECIPIENT_nameDef] despre [subject].</li>
-    <li>r_logentry->[INITIATOR_nameDef] a descris [subject] către [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] a încurajat pe [RECIPIENT_nameDef] să [talkabout] [subject].</li>
-    <li>r_logentry->[INITIATOR_nameDef] a oferit o șansă pentru [RECIPIENT_nameDef] să [talkabout] [subject].</li>
-    <li>r_logentry->[INITIATOR_nameDef] a exprimat interes în [PersonalCharacteristic] ale lui [RECIPIENT_nameDef]'s .</li>
-    <li>r_logentry->[INITIATOR_nameDef] a întrebat pe [RECIPIENT_nameDef] despre [PersonalCharacteristic] [RECIPIENT_possessive].</li>
-    <li>toldastoryabout(p=2)->a spus o poveste despre</li>
-    <li>toldastoryabout->a spus o poveste amuzantă despre</li>
-    <li>toldastoryabout->a spus o poveste sinceră despre</li>
-    <li>toldastoryabout->a spus o poveste veche despre</li>
-    <li>toldastoryabout->a spus o poveste de familie despre</li>
-    <li>toldastoryabout->a spus o poveste din copilărie despre</li>
-    <li>toldastoryabout->a menționat o anecdotă despre</li>
-    <li>talkabout->vorbească despre</li>
-    <li>talkabout->discute</li>
-    <li>talkabout->aibă o discuție despre</li>
-    <li>talkabout->întrebe despre</li>
-    <li>talkabout->se gândească la</li>
-    <li>talkabout->găsească un teren comun</li>
-    <li>subject->colonia</li>
-    <li>subject->comunitatea</li>
-    <li>subject->aderarea la colonie</li>
-    <li>subject->schimbarea echipelor</li>
-    <li>subject->găsirea de prieteni</li>
-    <li>subject->întâlnirea cu oameni noi</li>
-    <li>subject->reconsiderarea ideilor [RECIPIENT_possessive]</li>
-    <li>subject->regândirea loialităților [RECIPIENT_possessive]</li>
-    <li>subject->sănătatea</li>
-    <li>subject->viitorul</li>
-    <li>subject->renunțarea</li>
-    <li>subject(p=4)->[ConceptPositive]</li>
-    <li>subject(p=2)->[PersonalCharacteristic] [INITIATOR_possessive]</li>
-    <li>subject(p=8)->[TalkTopicLight]</li>
-  </BuildRapport.logRulesInitiator.rulesStrings>
+  <BuildRapport.logRulesInitiator.rulesStrings>TODO</BuildRapport.logRulesInitiator.rulesStrings>
   
   <!-- EN: recruit attempt -->
-  <RecruitAttempt.label>încercare de recrutare</RecruitAttempt.label>
+  <RecruitAttempt.label>TODO</RecruitAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
     <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>
     <li>goodthing(p=15)->[ConceptPositive]</li>
     <li>goodthing->free, fresh [Vegetable]s</li>
   -->
-  <RecruitAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] i-a propus lui [RECIPIENT_nameDef] să ni se alăture.</li>
-    <li>r_logentry->[INITIATOR_nameDef] i-a promis [goodthing] către [RECIPIENT_nameDef], și i-a propus [RECIPIENT_objective] să ni se alăture.</li>
-    <li>goodthing(p=15)->[ConceptPositive]</li>
-    <li>goodthing->[Vegetable] gratis și proaspete</li>
-  </RecruitAttempt.logRulesInitiator.rulesStrings>
+  <RecruitAttempt.logRulesInitiator.rulesStrings>TODO</RecruitAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: spark jailbreak -->
-  <SparkJailbreak.label>pornește evadarea din închisoare</SparkJailbreak.label>
+  <SparkJailbreak.label>TODO</SparkJailbreak.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</li>
     <li>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</li>
@@ -103,15 +63,6 @@
     <li>freedom->home</li>
     <li>freedom->self-determination</li>
   -->
-  <SparkJailbreak.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] a vorbit despre bucuria [freedom] și a oferit o cale de scăpare.</li>
-    <li>r_logentry->[INITIATOR_nameDef] a vorbit despre cât de frumos este [TerrainFeature] și a oferit libertate.</li>
-    <li>r_logentry->[INITIATOR_nameDef] a demonstrat un mijloc de evadare lui [RECIPIENT_nameDef] și i-a promis șansa [freedom].</li>
-    <li>r_logentry->[INITIATOR_nameDef] i-a spus lui [RECIPIENT_nameDef] că securitatea este laxă și a încurajat evadarea.</li>
-    <li>freedom->de libertate</li>
-    <li>freedom->de oportunitate</li>
-    <li>freedom->de a fi acasă</li>
-    <li>freedom->de autodeterminare</li>
-  </SparkJailbreak.logRulesInitiator.rulesStrings>
+  <SparkJailbreak.logRulesInitiator.rulesStrings>TODO</SparkJailbreak.logRulesInitiator.rulesStrings>
   
 </LanguageData>

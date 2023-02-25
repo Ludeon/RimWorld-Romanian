@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: attacked building -->
-  <AttackedBuilding.label>clădire atacată</AttackedBuilding.label>
+  <AttackedBuilding.label>TODO</AttackedBuilding.label>
   
   <!-- EN: debug event -->
-  <DebugGoodwill.label>eveniment de depanare</DebugGoodwill.label>
+  <DebugGoodwill.label>TODO</DebugGoodwill.label>
   
   <!-- EN: laborers missed shuttle -->
-  <LaborersMissedShuttle.label>muncitorii au ratat naveta</LaborersMissedShuttle.label>
+  <LaborersMissedShuttle.label>TODO</LaborersMissedShuttle.label>
   
   <!-- EN: tendency to move toward natural goodwill -->
-  <ReachNaturalGoodwill.label>tendința de a se îndrepta spre bunăvoința naturală</ReachNaturalGoodwill.label>
+  <ReachNaturalGoodwill.label>TODO</ReachNaturalGoodwill.label>
   
   <!-- EN: ritual done -->
-  <RitualDone.label>ritual terminat</RitualDone.label>
+  <RitualDone.label>TODO</RitualDone.label>
   
   <!-- EN: shuttle destroyed -->
-  <ShuttleDestroyed.label>navetă distrusă</ShuttleDestroyed.label>
+  <ShuttleDestroyed.label>TODO</ShuttleDestroyed.label>
   
   <!-- EN: used forbidden thing -->
-  <UsedForbiddenThing.label>lucru interzis folosit</UsedForbiddenThing.label>
+  <UsedForbiddenThing.label>TODO</UsedForbiddenThing.label>
   
   <!-- EN: used harmful ability -->
-  <UsedHarmfulAbility.label>abilitate dăunătoare folosită</UsedHarmfulAbility.label>
+  <UsedHarmfulAbility.label>TODO</UsedHarmfulAbility.label>
   
 </LanguageData>

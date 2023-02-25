@@ -2,89 +2,89 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>frumusețe</Beauty.label>
+  <Beauty.label>TODO</Beauty.label>
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
-  <Beauty.description>Cât de plăcut este un obiect la vedere.\n\nObiectele frumoase satisfac nevoia de frumusețe a personajelor.</Beauty.description>
+  <Beauty.description>TODO</Beauty.description>
   
   <!-- EN: outdoor beauty -->
-  <BeautyOutdoors.label>frumusețe exterioară</BeautyOutdoors.label>
+  <BeautyOutdoors.label>TODO</BeautyOutdoors.label>
   <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
-  <BeautyOutdoors.description>Cât de plăcut este să privești ceva dacă este afară.\n\nObiectele frumoase satisfac nevoia de frumusețe a oamenilor.</BeautyOutdoors.description>
+  <BeautyOutdoors.description>TODO</BeautyOutdoors.description>
   
   <!-- EN: cleanliness -->
-  <Cleanliness.label>curățenie</Cleanliness.label>
+  <Cleanliness.label>TODO</Cleanliness.label>
   <!-- EN: How much an object contributes to an area's cleanliness score. -->
-  <Cleanliness.description>Cât de mult contribuie un obiect la scorul de curățenie al unei zone.</Cleanliness.description>
+  <Cleanliness.description>TODO</Cleanliness.description>
   
   <!-- EN: comfort -->
-  <Comfort.label>confort</Comfort.label>
+  <Comfort.label>TODO</Comfort.label>
   <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
-  <Comfort.description>Cât de confortabil este un obiect pentru a te așeza sau a te întinde pe el.\n\nUtilizarea obiectelor confortabile satisface nevoia de confort a unui personaj.</Comfort.description>
+  <Comfort.description>TODO</Comfort.description>
   
   <!-- EN: deterioration rate -->
-  <DeteriorationRate.label>rata de deteriorare</DeteriorationRate.label>
-  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
-  <DeteriorationRate.description>Rata cu care acest obiect se deteriorează atunci când este lăsat afară, în puncte de lovitură medii de deteriorare pe zi.\n\nRata de deteriorare este, de asemenea, afectată de lucruri cum ar fi vremea, acoperișuri, precipitații toxice sau dacă este lăsat în apă puțin adâncă.</DeteriorationRate.description>
+  <DeteriorationRate.label>TODO</DeteriorationRate.label>
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
+  <DeteriorationRate.description>TODO</DeteriorationRate.description>
   <!-- EN: {0} / day -->
-  <DeteriorationRate.formatString>{0} / zi</DeteriorationRate.formatString>
+  <DeteriorationRate.formatString>TODO</DeteriorationRate.formatString>
   
   <!-- EN: flammability -->
-  <Flammability.label>inflamabilitate</Flammability.label>
+  <Flammability.label>TODO</Flammability.label>
   <!-- EN: How easily an object catches fire and how quickly a fire will grow as it burns. -->
-  <Flammability.description>Cât de ușor se aprinde un obiect și cât de repede se va dezvolta un incendiu pe măsură ce arde.</Flammability.description>
+  <Flammability.description>TODO</Flammability.description>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChanceFixedHuman.label>șansă de otrăvire alimentară</FoodPoisonChanceFixedHuman.label>
+  <FoodPoisonChanceFixedHuman.label>TODO</FoodPoisonChanceFixedHuman.label>
   <!-- EN: The chance this food will cause food poisoning. -->
-  <FoodPoisonChanceFixedHuman.description>Șansa ca acest aliment să provoace otrăvire alimentară.</FoodPoisonChanceFixedHuman.description>
+  <FoodPoisonChanceFixedHuman.description>TODO</FoodPoisonChanceFixedHuman.description>
   <!-- EN: food poison chance (food stat) -->
-  <FoodPoisonChanceFixedHuman.labelForFullStatList>șansă de otrăvire alimentară (statistică alimentară)</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>TODO</FoodPoisonChanceFixedHuman.labelForFullStatList>
   
   <!-- EN: market value -->
-  <MarketValue.label>valoarea de piață</MarketValue.label>
+  <MarketValue.label>TODO</MarketValue.label>
   <!-- EN: The market value of an object.\n\nThe actual trade price will be adjusted by negotiation skill, relationship status, and other contextual factors. -->
-  <MarketValue.description>Valoarea de piață a unui obiect.\n\nPrețul comercial real va fi ajustat în funcție de abilitatea de negociere, statutul relației și alți factori contextuali.</MarketValue.description>
+  <MarketValue.description>TODO</MarketValue.description>
   
   <!-- EN: market value ignoring hitpoints -->
-  <MarketValueIgnoreHp.label>Valoarea de piață ignorând hitpoints</MarketValueIgnoreHp.label>
+  <MarketValueIgnoreHp.label>TODO</MarketValueIgnoreHp.label>
   
   <!-- EN: mass -->
-  <Mass.label>masă</Mass.label>
+  <Mass.label>TODO</Mass.label>
   <!-- EN: The physical mass of an object. -->
-  <Mass.description>Masa fizică a unui obiect.</Mass.description>
+  <Mass.description>TODO</Mass.description>
   <!-- EN: {0} kg -->
-  <Mass.formatString>{0} kg</Mass.formatString>
+  <Mass.formatString>TODO</Mass.formatString>
   
   <!-- EN: max hit points -->
-  <MaxHitPoints.label>hitpoints maxim</MaxHitPoints.label>
+  <MaxHitPoints.label>TODO</MaxHitPoints.label>
   <!-- EN: The maximum hit points of an object.\n\nThis represents how much damage it can take before being destroyed. -->
-  <MaxHitPoints.description>Numărul hitpoints maxim al unui obiect.\n\nAcesta reprezintă cât de multe daune poate suporta înainte de a fi distrus.</MaxHitPoints.description>
+  <MaxHitPoints.description>TODO</MaxHitPoints.description>
   
   <!-- EN: nutrition -->
-  <Nutrition.label>nutriție</Nutrition.label>
+  <Nutrition.label>TODO</Nutrition.label>
   <!-- EN: How nutritious this food is. -->
-  <Nutrition.description>Cât de nutritiv este acest aliment.</Nutrition.description>
+  <Nutrition.description>TODO</Nutrition.description>
   
   <!-- EN: honor value -->
-  <RoyalFavorValue.label>valoare de onoare</RoyalFavorValue.label>
+  <RoyalFavorValue.label>TODO</RoyalFavorValue.label>
   <!-- EN: The amount of honor your trader will earn for giving this to a tribute collector. -->
-  <RoyalFavorValue.description>Suma de onoare pe care comerciantul tău o va câștiga pentru că dăruiește acest lucru unui colecționar de tribut.</RoyalFavorValue.description>
+  <RoyalFavorValue.description>TODO</RoyalFavorValue.description>
   
   <!-- EN: sell price multiplier -->
-  <SellPriceFactor.label>multiplicatorul prețului de vânzare</SellPriceFactor.label>
+  <SellPriceFactor.label>TODO</SellPriceFactor.label>
   <!-- EN: A multiplier on the price at which you can sell items. -->
-  <SellPriceFactor.description>Un multiplicator al prețului la care puteți vinde obiecte.</SellPriceFactor.description>
+  <SellPriceFactor.description>TODO</SellPriceFactor.description>
   
   <!-- EN: shooting accuracy -->
-  <ShootingAccuracyTurret.label>acuratețea tragerii</ShootingAccuracyTurret.label>
+  <ShootingAccuracyTurret.label>TODO</ShootingAccuracyTurret.label>
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
-  <ShootingAccuracyTurret.description>Șansa de bază de a nu rata per celulă de distanță de tragere.\n\nȘansa de a nimeri este afectată și de mulți alți factori. O explicație a șansei de reușită pentru orice lovitură poate fi văzută prin selectarea unui trăgător și trecerea mouse-ului peste o țintă.</ShootingAccuracyTurret.description>
+  <ShootingAccuracyTurret.description>TODO</ShootingAccuracyTurret.description>
   <!-- EN: shooting accuracy (turrets) -->
-  <ShootingAccuracyTurret.labelForFullStatList>Precizia de tragere (turele)</ShootingAccuracyTurret.labelForFullStatList>
+  <ShootingAccuracyTurret.labelForFullStatList>TODO</ShootingAccuracyTurret.labelForFullStatList>
   
   <!-- EN: work to make -->
-  <WorkToMake.label>muncă de făcut</WorkToMake.label>
+  <WorkToMake.label>TODO</WorkToMake.label>
   <!-- EN: The base amount of work it takes to make an item, once all materials are gathered. -->
-  <WorkToMake.description>Cantitatea de bază de muncă necesară pentru a fabrica un obiect, odată ce toate materialele sunt adunate.</WorkToMake.description>
+  <WorkToMake.description>TODO</WorkToMake.description>
   
 </LanguageData>

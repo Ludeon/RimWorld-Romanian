@@ -2,123 +2,103 @@
 <LanguageData>
   
   <!-- EN: bearskin -->
-  <Leather_Bear.label>piele de urs</Leather_Bear.label>
+  <Leather_Bear.label>TODO</Leather_Bear.label>
   <!-- EN: The strong furry leather of a bear. Compared to most leather, it is quite a bit tougher and a bit better at all kinds of temperature regulation. -->
-  <Leather_Bear.description>Pielea puternică și blănoasă a unui urs. În comparație cu majoritatea pieilor, este un pic mai rezistentă și un pic mai bună la toate tipurile de reglare a temperaturii.</Leather_Bear.description>
-  <Leather_Bear.stuffProps.stuffAdjective>piele de urs</Leather_Bear.stuffProps.stuffAdjective>
+  <Leather_Bear.description>TODO</Leather_Bear.description>
   
   <!-- EN: birdskin -->
-  <Leather_Bird.label>piele de pasăre</Leather_Bird.label>
+  <Leather_Bird.label>TODO</Leather_Bird.label>
   <!-- EN: Tanned, dried, scraped bird skin. It is quite delicate. Without its feathers, it provides little protection from heat or cold. -->
-  <Leather_Bird.description>Piele de pasăre tăbăcită, uscată și răzuită. Este destul de delicată. Fără pene, oferă o protecție redusă împotriva căldurii sau a frigului.</Leather_Bird.description>
-  <Leather_Bird.stuffProps.stuffAdjective>piele de pasăre</Leather_Bird.stuffProps.stuffAdjective>
+  <Leather_Bird.description>TODO</Leather_Bird.description>
   
   <!-- EN: bluefur -->
-  <Leather_Bluefur.label>blană albastră</Leather_Bluefur.label>
+  <Leather_Bluefur.label>TODO</Leather_Bluefur.label>
   <!-- EN: The furry pelt of muffalo. Recognizable by its distinctive blue tint. Good at temperature regulation in cold climates. -->
-  <Leather_Bluefur.description>Pielea blănoasă a muflonului. Recunoscută după nuanța albastră caracteristică. Bun la reglarea temperaturii în climatele reci.</Leather_Bluefur.description>
-  <Leather_Bluefur.stuffProps.stuffAdjective>blană albastră</Leather_Bluefur.stuffProps.stuffAdjective>
+  <Leather_Bluefur.description>TODO</Leather_Bluefur.description>
   
   <!-- EN: camelhide -->
-  <Leather_Camel.label>piele de cămilă</Leather_Camel.label>
+  <Leather_Camel.label>TODO</Leather_Camel.label>
   <!-- EN: Tanned, dried, scraped camel skin. Good at temperature regulation in hot climates. -->
-  <Leather_Camel.description>Piele de cămilă tăbăcită, uscată și răzuită. Bună la reglarea temperaturii în climatele calde.</Leather_Camel.description>
-  <Leather_Camel.stuffProps.stuffAdjective>piele de cămilă</Leather_Camel.stuffProps.stuffAdjective>
+  <Leather_Camel.description>TODO</Leather_Camel.description>
   
   <!-- EN: chinchilla fur -->
-  <Leather_Chinchilla.label>blană de chinchilla</Leather_Chinchilla.label>
+  <Leather_Chinchilla.label>TODO</Leather_Chinchilla.label>
   <!-- EN: Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable. -->
-  <Leather_Chinchilla.description>Piele de chinchilla tăbăcită, uscată, răzuită. Cunoscută ca fiind o blană extrem de luxoasă și izolatoare, este extrem de valoroasă.</Leather_Chinchilla.description>
-  <Leather_Chinchilla.stuffProps.stuffAdjective>blană de chinchilla</Leather_Chinchilla.stuffProps.stuffAdjective>
+  <Leather_Chinchilla.description>TODO</Leather_Chinchilla.description>
   
   <!-- EN: dog leather -->
-  <Leather_Dog.label>piele de câine</Leather_Dog.label>
+  <Leather_Dog.label>TODO</Leather_Dog.label>
   <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
-  <Leather_Dog.description>Piele tăbăcită, uscată, răzuită. Un bun material tradițional pentru confecționarea de haine și genți.</Leather_Dog.description>
-  <Leather_Dog.stuffProps.stuffAdjective>piele de câine</Leather_Dog.stuffProps.stuffAdjective>
+  <Leather_Dog.description>TODO</Leather_Dog.description>
   
   <!-- EN: elephant leather -->
-  <Leather_Elephant.label>piele de elefant</Leather_Elephant.label>
+  <Leather_Elephant.label>TODO</Leather_Elephant.label>
   <!-- EN: Tanned, dried, scraped elephant skin. While quite tough, it is a poor insulator. -->
-  <Leather_Elephant.description>Piele de elefant tăbăcită, uscată, răzuită. Deși este destul de rezistentă, este un izolator slab.</Leather_Elephant.description>
-  <Leather_Elephant.stuffProps.stuffAdjective>piele de elefant</Leather_Elephant.stuffProps.stuffAdjective>
+  <Leather_Elephant.description>TODO</Leather_Elephant.description>
   
   <!-- EN: foxfur -->
-  <Leather_Fox.label>blană de vulpe</Leather_Fox.label>
+  <Leather_Fox.label>TODO</Leather_Fox.label>
   <!-- EN: The pelt of a fox. It protects well from the cold and is quite luxurious, fetching a high price. -->
-  <Leather_Fox.description>Piele de vulpe. Protejează bine de frig și este destul de luxoasă, având un preț ridicat.</Leather_Fox.description>
-  <Leather_Fox.stuffProps.stuffAdjective>blană de vulpe</Leather_Fox.stuffProps.stuffAdjective>
+  <Leather_Fox.description>TODO</Leather_Fox.description>
   
   <!-- EN: guinea pig fur -->
-  <Leather_GuineaPig.label>blană de cobai</Leather_GuineaPig.label>
+  <Leather_GuineaPig.label>TODO</Leather_GuineaPig.label>
   <!-- EN: Sheets of guinea pig fur. It is delicate, but luxurious. -->
-  <Leather_GuineaPig.description>Foi de blană de cobai. Este delicată, dar luxoasă.</Leather_GuineaPig.description>
-  <Leather_GuineaPig.stuffProps.stuffAdjective>blană de cobai</Leather_GuineaPig.stuffProps.stuffAdjective>
+  <Leather_GuineaPig.description>TODO</Leather_GuineaPig.description>
   
   <!-- EN: heavy fur -->
-  <Leather_Heavy.label>blană grea</Leather_Heavy.label>
+  <Leather_Heavy.label>TODO</Leather_Heavy.label>
   <!-- EN: Thick leather covered in a long, rugged mat of fur. Harvested from a large, hardy animal. This thick skin insulates and protects very well. -->
-  <Leather_Heavy.description>Piele groasă acoperită cu un covor lung și aspru de blană. Recoltată de la un animal mare și rezistent. Această piele groasă izolează și protejează foarte bine.</Leather_Heavy.description>
-  <Leather_Heavy.stuffProps.stuffAdjective>blană grea</Leather_Heavy.stuffProps.stuffAdjective>
+  <Leather_Heavy.description>TODO</Leather_Heavy.description>
   
   <!-- EN: human leather -->
-  <Leather_Human.label>piele umană</Leather_Human.label>
+  <Leather_Human.label>TODO</Leather_Human.label>
   <!-- EN: Tanned, dried, scraped human skin. Most people find this material horrifying. Some find it fascinating. While a decent leather, it neither protects nor insulates particularly well. -->
-  <Leather_Human.description>Piele umană tăbăcită, uscată și răzuită. Majoritatea oamenilor consideră acest material oribil. Unii îl găsesc fascinant. Deși este o piele decentă, nu protejează și nici nu izolează deosebit de bine.</Leather_Human.description>
-  <Leather_Human.stuffProps.stuffAdjective>piele umană</Leather_Human.stuffProps.stuffAdjective>
+  <Leather_Human.description>TODO</Leather_Human.description>
   
   <!-- EN: lightleather -->
-  <Leather_Light.label>piele subțire</Leather_Light.label>
+  <Leather_Light.label>TODO</Leather_Light.label>
   <!-- EN: Lightweight, thin leather. Probably harvested from a small animal. Not as protective as thicker leathers. -->
-  <Leather_Light.description>Piele ușoară și subțire. Probabil recoltată de la un animal mic. Nu este la fel de protectoare ca pieile mai groase.</Leather_Light.description>
-  <Leather_Light.stuffProps.stuffAdjective>piele subțire</Leather_Light.stuffProps.stuffAdjective>
+  <Leather_Light.description>TODO</Leather_Light.description>
   
   <!-- EN: lizardskin -->
-  <Leather_Lizard.label>piele de șopârlă</Leather_Lizard.label>
+  <Leather_Lizard.label>TODO</Leather_Lizard.label>
   <!-- EN: The tanned skin of a cold-blooded reptile. Lizardskin is reasonably tough, but does not insulate well at all. -->
-  <Leather_Lizard.description>Piele tăbăcită de la o reptilă cu sânge rece. Pielea de șopârlă este destul de rezistentă, dar nu izolează deloc bine.</Leather_Lizard.description>
-  <Leather_Lizard.stuffProps.stuffAdjective>piele de șopârlă</Leather_Lizard.stuffProps.stuffAdjective>
+  <Leather_Lizard.description>TODO</Leather_Lizard.description>
   
   <!-- EN: panthera fur -->
-  <Leather_Panthera.label>blană de panteră</Leather_Panthera.label>
+  <Leather_Panthera.label>TODO</Leather_Panthera.label>
   <!-- EN: A soft furry pelt harvested from a big cat. It is difficult to pierce and insulates well against heat. -->
-  <Leather_Panthera.description>O blană moale recoltată de la o pisică mare. Este greu de străpuns și izolează bine împotriva căldurii.</Leather_Panthera.description>
-  <Leather_Panthera.stuffProps.stuffAdjective>blană de panteră</Leather_Panthera.stuffProps.stuffAdjective>
+  <Leather_Panthera.description>TODO</Leather_Panthera.description>
   
   <!-- EN: patchleather -->
-  <Leather_Patch.label>piele de petic</Leather_Patch.label>
+  <Leather_Patch.label>TODO</Leather_Patch.label>
   <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
-  <Leather_Patch.description>O țesătură slabă creată prin tăierea și coaserea laolaltă a diferitelor tipuri de piei. Indiferent ce fel de piele este folosită pentru a o crea, cusăturile neregulate ale patchleather-ului o fac mai puțin rezistentă și mai puțin izolatoare decât orice piele intactă.</Leather_Patch.description>
-  <Leather_Patch.stuffProps.stuffAdjective>piele de petic</Leather_Patch.stuffProps.stuffAdjective>
+  <Leather_Patch.description>TODO</Leather_Patch.description>
   
   <!-- EN: pigskin -->
-  <Leather_Pig.label>piele de porc</Leather_Pig.label>
+  <Leather_Pig.label>TODO</Leather_Pig.label>
   <!-- EN: Tanned, dried, scraped pig skin. While a decent leather, it neither protects nor insulates particularly well. -->
-  <Leather_Pig.description>Piele de porc tăbăcită, uscată și răzuită. Deși este o piele decentă, nu protejează și nici nu izolează deosebit de bine.</Leather_Pig.description>
-  <Leather_Pig.stuffProps.stuffAdjective>piele de porc</Leather_Pig.stuffProps.stuffAdjective>
+  <Leather_Pig.description>TODO</Leather_Pig.description>
   
   <!-- EN: plainleather -->
-  <Leather_Plain.label>piele simplă</Leather_Plain.label>
+  <Leather_Plain.label>TODO</Leather_Plain.label>
   <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
-  <Leather_Plain.description>Piele de porc tăbăcită, uscată și răzuită. Un bun material tradițional pentru confecționarea de haine și genți.</Leather_Plain.description>
-  <Leather_Plain.stuffProps.stuffAdjective>piele simplă</Leather_Plain.stuffProps.stuffAdjective>
+  <Leather_Plain.description>TODO</Leather_Plain.description>
   
   <!-- EN: rhinoceros leather -->
-  <Leather_Rhinoceros.label>piele de rinoceron</Leather_Rhinoceros.label>
+  <Leather_Rhinoceros.label>TODO</Leather_Rhinoceros.label>
   <!-- EN: Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather. -->
-  <Leather_Rhinoceros.description>Piele de rinocer tăbăcită, uscată, răzuită. Este excepțional de rezistentă în luptă, dar oferă puțină protecție împotriva intemperiilor.</Leather_Rhinoceros.description>
-  <Leather_Rhinoceros.stuffProps.stuffAdjective>piele de rinoceron</Leather_Rhinoceros.stuffProps.stuffAdjective>
+  <Leather_Rhinoceros.description>TODO</Leather_Rhinoceros.description>
   
   <!-- EN: thrumbofur -->
-  <Leather_Thrumbo.label>blană de thrumbo</Leather_Thrumbo.label>
+  <Leather_Thrumbo.label>TODO</Leather_Thrumbo.label>
   <!-- EN: Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
-  <Leather_Thrumbo.description>Blană de thrumbo. Luxuriantă și extraordinar de durabilă. Folosită pentru meșteșugurile de cea mai înaltă calitate pentru izolarea și rezistența sa.</Leather_Thrumbo.description>
-  <Leather_Thrumbo.stuffProps.stuffAdjective>blană de thrumbo</Leather_Thrumbo.stuffProps.stuffAdjective>
+  <Leather_Thrumbo.description>TODO</Leather_Thrumbo.description>
   
   <!-- EN: wolfskin -->
-  <Leather_Wolf.label>piele de lup</Leather_Wolf.label>
+  <Leather_Wolf.label>TODO</Leather_Wolf.label>
   <!-- EN: A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold. -->
-  <Leather_Wolf.description>O blană moale și pufoasă recoltată de la o creatură asemănătoare lupului. Este greu de străpuns și izolează bine împotriva frigului.</Leather_Wolf.description>
-  <Leather_Wolf.stuffProps.stuffAdjective>piele de lup</Leather_Wolf.stuffProps.stuffAdjective>
+  <Leather_Wolf.description>TODO</Leather_Wolf.description>
   
 </LanguageData>

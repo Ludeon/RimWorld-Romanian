@@ -2,44 +2,43 @@
 <LanguageData>
   
   <!-- EN: adult -->
-  <AnimalAdult.label>adult</AnimalAdult.label>
+  <AnimalAdult.label>TODO</AnimalAdult.label>
   
   <!-- EN: baby -->
-  <AnimalBaby.label>bebeluș</AnimalBaby.label>
+  <AnimalBaby.label>TODO</AnimalBaby.label>
   
   <!-- EN: baby -->
-  <AnimalBabyTiny.label>bebeluș</AnimalBabyTiny.label>
+  <AnimalBabyTiny.label>TODO</AnimalBabyTiny.label>
   
   <!-- EN: juvenile -->
-  <AnimalJuvenile.label>Juvenil</AnimalJuvenile.label>
+  <AnimalJuvenile.label>TODO</AnimalJuvenile.label>
   
   <!-- EN: adult -->
-  <EusocialInsectAdult.label>adult</EusocialInsectAdult.label>
+  <EusocialInsectAdult.label>TODO</EusocialInsectAdult.label>
   
   <!-- EN: immature -->
-  <EusocialInsectJuvenile.label>imatur</EusocialInsectJuvenile.label>
+  <EusocialInsectJuvenile.label>TODO</EusocialInsectJuvenile.label>
   
   <!-- EN: larva -->
-  <EusocialInsectLarva.label>larvă</EusocialInsectLarva.label>
+  <EusocialInsectLarva.label>TODO</EusocialInsectLarva.label>
   
   <!-- EN: adult -->
-  <HumanlikeAdult.label>adult</HumanlikeAdult.label>
+  <HumanlikeAdult.label>TODO</HumanlikeAdult.label>
   
   <!-- EN: baby -->
-  <HumanlikeBaby.label>bebeluș</HumanlikeBaby.label>
+  <HumanlikeBaby.label>TODO</HumanlikeBaby.label>
+  <!-- EN: Mood represents how happy or stressed someone is. Babies with low mood are more likely to cry, while babies with a high mood are more likely to giggle. -->
+  <HumanlikeBaby.customMoodTipString>TODO</HumanlikeBaby.customMoodTipString>
   
   <!-- EN: child -->
-  <HumanlikeChild.label>copil</HumanlikeChild.label>
+  <HumanlikeChild.label>TODO</HumanlikeChild.label>
   
   <!-- EN: teenager -->
-  <HumanlikeTeenager.label>adolescent</HumanlikeTeenager.label>
+  <HumanlikeTeenager.label>TODO</HumanlikeTeenager.label>
   <!-- EN: teenage -->
-  <HumanlikeTeenager.adjective>adolescent</HumanlikeTeenager.adjective>
-  
-  <!-- EN: toddler -->
-  <HumanlikeToddler.label>copilaș</HumanlikeToddler.label>
+  <HumanlikeTeenager.adjective>TODO</HumanlikeTeenager.adjective>
   
   <!-- EN: fully-formed -->
-  <MechanoidFullyFormed.label>complet format</MechanoidFullyFormed.label>
+  <MechanoidFullyFormed.label>TODO</MechanoidFullyFormed.label>
   
 </LanguageData>

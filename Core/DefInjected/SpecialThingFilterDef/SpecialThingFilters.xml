@@ -2,84 +2,89 @@
 <LanguageData>
   
   <!-- EN: allow biocoded apparel -->
-  <AllowBiocodedApparel.label>permite îmbrăcăminte biocodificată</AllowBiocodedApparel.label>
+  <AllowBiocodedApparel.label>TODO</AllowBiocodedApparel.label>
   
   <!-- EN: allow biocoded weapons -->
-  <AllowBiocodedWeapons.label>permite arme biocodificate</AllowBiocodedWeapons.label>
+  <AllowBiocodedWeapons.label>TODO</AllowBiocodedWeapons.label>
   
   <!-- EN: allow burnable -->
-  <AllowBurnableApparel.label>permite arderea</AllowBurnableApparel.label>
+  <AllowBurnableApparel.label>TODO</AllowBurnableApparel.label>
   
   <!-- EN: allow burnable -->
-  <AllowBurnableWeapons.label>permite arderea</AllowBurnableWeapons.label>
+  <AllowBurnableWeapons.label>TODO</AllowBurnableWeapons.label>
   
   <!-- EN: allow colonist corpses -->
-  <AllowCorpsesColonist.label>permite cadavrele coloniștilor</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.label>TODO</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
-  <AllowCorpsesColonist.description>Permite cadavrele coloniștilor.</AllowCorpsesColonist.description>
+  <AllowCorpsesColonist.description>TODO</AllowCorpsesColonist.description>
   
   <!-- EN: allow stranger corpses -->
-  <AllowCorpsesStranger.label>permite cadavrele străinilor</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.label>TODO</AllowCorpsesStranger.label>
   <!-- EN: Allow the dead bodies of strangers and enemies. -->
-  <AllowCorpsesStranger.description>Permite cadavrele străinilor și ale dușmanilor.</AllowCorpsesStranger.description>
+  <AllowCorpsesStranger.description>TODO</AllowCorpsesStranger.description>
   
   <!-- EN: allow tainted apparel -->
-  <AllowDeadmansApparel.label>permite îmbrăcămintea pătată</AllowDeadmansApparel.label>
+  <AllowDeadmansApparel.label>TODO</AllowDeadmansApparel.label>
   <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
-  <AllowDeadmansApparel.description>Permiteți hainele care au fost purtate cândva de un cadavru. Majoritatea oamenilor consideră că hainele pătate de cadavre sunt deranjante, iar comercianții nu le vor accepta.</AllowDeadmansApparel.description>
+  <AllowDeadmansApparel.description>TODO</AllowDeadmansApparel.description>
   
   <!-- EN: allow females -->
-  <AllowFemaleGender.label>permite femei</AllowFemaleGender.label>
+  <AllowFemaleGender.label>TODO</AllowFemaleGender.label>
   <!-- EN: Allow female individuals. -->
-  <AllowFemaleGender.description>Permiteți persoanelor de sex feminin.</AllowFemaleGender.description>
+  <AllowFemaleGender.description>TODO</AllowFemaleGender.description>
   
   <!-- EN: allow fresh -->
-  <AllowFresh.label>permite proaspăt</AllowFresh.label>
+  <AllowFresh.label>TODO</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
-  <AllowFresh.description>Permite lucruri organice care nu au început încă să putrezească.</AllowFresh.description>
+  <AllowFresh.description>TODO</AllowFresh.description>
+  
+  <!-- EN: allow large corpses -->
+  <AllowLargeCorpses.label>TODO</AllowLargeCorpses.label>
+  <!-- EN: Allow large, dead bodies. -->
+  <AllowLargeCorpses.description>TODO</AllowLargeCorpses.description>
   
   <!-- EN: allow males -->
-  <AllowMaleGender.label>permite bărbați</AllowMaleGender.label>
+  <AllowMaleGender.label>TODO</AllowMaleGender.label>
   <!-- EN: Allow male individuals. -->
-  <AllowMaleGender.description>Permiteți indivizi de sex masculin.</AllowMaleGender.description>
+  <AllowMaleGender.description>TODO</AllowMaleGender.description>
   
   <!-- EN: allow non-biocoded apparel -->
-  <AllowNonBiocodedApparel.label>permite îmbrăcăminte fără biocodare</AllowNonBiocodedApparel.label>
+  <AllowNonBiocodedApparel.label>TODO</AllowNonBiocodedApparel.label>
   
   <!-- EN: allow non-biocoded weapons -->
-  <AllowNonBiocodedWeapons.label>permite arme nebiocodificate</AllowNonBiocodedWeapons.label>
+  <AllowNonBiocodedWeapons.label>TODO</AllowNonBiocodedWeapons.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableApparel.label>permite utilizarea articolelor incombustibile</AllowNonBurnableApparel.label>
+  <AllowNonBurnableApparel.label>TODO</AllowNonBurnableApparel.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableWeapons.label>permite obiectele incombustibile</AllowNonBurnableWeapons.label>
+  <AllowNonBurnableWeapons.label>TODO</AllowNonBurnableWeapons.label>
   
   <!-- EN: allow clean apparel -->
-  <AllowNonDeadmansApparel.label>permite îmbrăcăminte curată</AllowNonDeadmansApparel.label>
+  <AllowNonDeadmansApparel.label>TODO</AllowNonDeadmansApparel.label>
   <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
-  <AllowNonDeadmansApparel.description>Permite haine care nu au fost purtate niciodată de un cadavru. Majoritatea oamenilor consideră că hainele pătate de cadavre sunt deranjante, iar comercianții nu le vor accepta.</AllowNonDeadmansApparel.description>
+  <AllowNonDeadmansApparel.description>TODO</AllowNonDeadmansApparel.description>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableApparel.label>Permite non-topibile</AllowNonSmeltableApparel.label>
+  <AllowNonSmeltableApparel.label>TODO</AllowNonSmeltableApparel.label>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableWeapons.label>permite non-topibile</AllowNonSmeltableWeapons.label>
+  <AllowNonSmeltableWeapons.label>TODO</AllowNonSmeltableWeapons.label>
   
   <!-- EN: allow plant food -->
-  <AllowPlantFood.label>permite alimente vegetale</AllowPlantFood.label>
+  <AllowPlantFood.label>TODO</AllowPlantFood.label>
   <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
-  <AllowPlantFood.description>Permiteți alimentele care au o calitate echivalentă cu cea a plantelor nerecoltate, cum ar fi fânul.</AllowPlantFood.description>
+  <AllowPlantFood.description>TODO</AllowPlantFood.description>
   
   <!-- EN: allow rotten -->
-  <AllowRotten.label>permite putred</AllowRotten.label>
+  <AllowRotten.label>TODO</AllowRotten.label>
   <!-- EN: Allow organic things which have started to rot. -->
-  <AllowRotten.description>Permite lucruri organice care au început să putrezească.</AllowRotten.description>
+  <AllowRotten.description>TODO</AllowRotten.description>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltable.label>permite topibile</AllowSmeltable.label>
+  <AllowSmeltable.label>TODO</AllowSmeltable.label>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltableApparel.label>permite topibile</AllowSmeltableApparel.label>
+  <AllowSmeltableApparel.label>TODO</AllowSmeltableApparel.label>
   
 </LanguageData>

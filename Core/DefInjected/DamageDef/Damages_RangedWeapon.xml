@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: arrow -->
-  <Arrow.label>săgeată</Arrow.label>
+  <Arrow.label>TODO</Arrow.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <Arrow.deathMessage>{0} a murit străpuns de o săgeată.</Arrow.deathMessage>
+  <Arrow.deathMessage>TODO</Arrow.deathMessage>
   
   <!-- EN: arrow -->
-  <ArrowHighVelocity.label>săgeată</ArrowHighVelocity.label>
+  <ArrowHighVelocity.label>TODO</ArrowHighVelocity.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <ArrowHighVelocity.deathMessage>{0} a murit străpuns de o săgeată.</ArrowHighVelocity.deathMessage>
+  <ArrowHighVelocity.deathMessage>TODO</ArrowHighVelocity.deathMessage>
   
   <!-- EN: bullet -->
-  <Bullet.label>glonte</Bullet.label>
+  <Bullet.label>TODO</Bullet.label>
   <!-- EN: {0} has been shot to death. -->
-  <Bullet.deathMessage>{0} a murit împușcat.</Bullet.deathMessage>
+  <Bullet.deathMessage>TODO</Bullet.deathMessage>
   
   <!-- EN: stab -->
-  <RangedStab.label>înjunghiat</RangedStab.label>
+  <RangedStab.label>TODO</RangedStab.label>
   <!-- EN: {0} has been stabbed to death. -->
-  <RangedStab.deathMessage>{0} a fost înjunghiat până la moarte</RangedStab.deathMessage>
+  <RangedStab.deathMessage>TODO</RangedStab.deathMessage>
   
 </LanguageData>

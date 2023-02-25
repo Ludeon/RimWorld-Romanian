@@ -3,206 +3,208 @@
 
   <!-- Convert ideo attempt -->
   <!-- EN: Conversion -->
-  <LetterLabelConvertIdeoAttempt_Success>Conversie</LetterLabelConvertIdeoAttempt_Success>
+  <LetterLabelConvertIdeoAttempt_Success>TODO</LetterLabelConvertIdeoAttempt_Success>
   <!-- EN: {INITIATOR_nameDef} has successfully turned {RECIPIENT_nameDef} away from {OLDIDEO_name} and towards {IDEO_name}. -->
-  <LetterConvertIdeoAttempt_Success>{INITIATOR_nameDef} a reușit să-l întoarcă pe {RECIPIENT_nameDef} de la {OLDIDEO_name} și să-l îndrepte spre {IDEO_name}.</LetterConvertIdeoAttempt_Success>
+  <LetterConvertIdeoAttempt_Success>TODO</LetterConvertIdeoAttempt_Success>
 
   <!-- Slave rebellion -->
   <!-- EN: Grand slave rebellion -->
-  <LetterLabelGrandSlaveRebellion>Marea rebeliune a sclavilor</LetterLabelGrandSlaveRebellion>
+  <LetterLabelGrandSlaveRebellion>TODO</LetterLabelGrandSlaveRebellion>
   <!-- EN: A grand slave rebellion has begun! All of your slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{0} -->
-  <LetterGrandSlaveRebellion>A început o mare rebeliune a sclavilor! Toți sclavii tăi se ridică pentru a lupta împotriva ta. Ei vor căuta arme și vor încerca să vă elimine coloniștii.\n\nAcești sclavi sunt implicați:\n\n{0}</LetterGrandSlaveRebellion>
+  <LetterGrandSlaveRebellion>TODO</LetterGrandSlaveRebellion>
   <!-- EN: Local slave rebellion -->
-  <LetterLabelLocalSlaveRebellion>Rebeliunea locală a sclavilor</LetterLabelLocalSlaveRebellion>
+  <LetterLabelLocalSlaveRebellion>TODO</LetterLabelLocalSlaveRebellion>
   <!-- EN: A local slave rebellion has begun! {0_nameDef} and some nearby slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{1} -->
-  <LetterLocalSlaveRebellion>A început o rebeliune locală a sclavilor! {0_nameDef} și câțiva sclavi din apropiere se ridică pentru a lupta împotriva ta. Ei vor căuta arme și vor încerca să vă elimine coloniștii.\n\nAceste sclavi sunt implicați:\n\n{1}</LetterLocalSlaveRebellion> 
+  <LetterLocalSlaveRebellion>TODO</LetterLocalSlaveRebellion> 
   <!-- EN: Slave rebellion -->
-  <LetterLabelSingleSlaveRebellion>Rebeliunea sclavilor</LetterLabelSingleSlaveRebellion>
+  <LetterLabelSingleSlaveRebellion>TODO</LetterLabelSingleSlaveRebellion>
   <!-- EN: {0_nameDef} is rebelling! {0_pronoun} will seek weapons and try to eliminate your colonists. -->
-  <LetterSingleSlaveRebellion>{0_nameDef} se răzvrătește! {0_pronoun} va căuta arme și va încerca să vă elimine coloniștii.</LetterSingleSlaveRebellion>
+  <LetterSingleSlaveRebellion>TODO</LetterSingleSlaveRebellion>
 
   <!-- Slave escape -->
   <!-- EN: Grand slave escape -->
-  <LetterLabelGrandSlaveEscape>Marea evadare a sclavilor</LetterLabelGrandSlaveEscape>
+  <LetterLabelGrandSlaveEscape>TODO</LetterLabelGrandSlaveEscape>
   <!-- EN: A grand slave escape has begun! All of your slaves are making a break for it.\n\nThese slaves are involved:\n\n{0} -->
-  <LetterGrandSlaveEscape>A început o mare evadare a sclavilor! Toți sclavii tăi fac o pauză.\n\nAcești sclavi sunt implicați:\n\n{0}</LetterGrandSlaveEscape>
+  <LetterGrandSlaveEscape>TODO</LetterGrandSlaveEscape>
   <!-- EN: Local slave escape -->
-  <LetterLabelLocalSlaveEscape>Evadarea sclavilor locali</LetterLabelLocalSlaveEscape>
+  <LetterLabelLocalSlaveEscape>TODO</LetterLabelLocalSlaveEscape>
   <!-- EN: A local slave escape has begun! {0_nameDef} and some nearby slaves are making a break for it.\n\nThese slaves are involved:\n\n{1} -->
-  <LetterLocalSlaveEscape>A început o evadare a sclavilor locali! {0_nameDef} și câțiva sclavi din apropiere încearcă să evadeze.\n\nAcești sclavi sunt implicați:\n\n{1}</LetterLocalSlaveEscape>
+  <LetterLocalSlaveEscape>TODO</LetterLocalSlaveEscape>
   <!-- EN: Slave escape -->
-  <LetterLabelSingleSlaveEscape>Evadarea sclavilor</LetterLabelSingleSlaveEscape>
+  <LetterLabelSingleSlaveEscape>TODO</LetterLabelSingleSlaveEscape>
   <!-- EN: {0_nameDef} is attempting to escape! -->
-  <LetterSingleSlaveEscape>{0_nameDef} încearcă să evadeze!</LetterSingleSlaveEscape>
+  <LetterSingleSlaveEscape>TODO</LetterSingleSlaveEscape>
 
   <!-- EN: Slaves are more likely to rebel when their suppression level is low. -->
-  <SlaveRebellionSuppressionExplanation>Este mai probabil ca sclavii să se răzvrătească atunci când nivelul de suprimare este scăzut.</SlaveRebellionSuppressionExplanation>
+  <SlaveRebellionSuppressionExplanation>TODO</SlaveRebellionSuppressionExplanation>
   
   <!-- Ideo role -->
   <!-- EN: {0} role activated -->
-  <LetterLabelRoleActive>{0} rol activat</LetterLabelRoleActive>
+  <LetterLabelRoleActive>TODO</LetterLabelRoleActive>
   <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, use the person's Social tab, or select a ritual spot or altar and press the 'Begin role change' button. -->
-  <LetterLabelRoleActiveDesc>Numărul de {0} din colonia ta a ajuns la {1}. Acum poți atribui rolul de {ROLE_labelDef} unuia dintre coloniștii tăi.\n\nPentru a atribui un rol, folosește fila Socială a persoanei, sau selectează un loc de ritual sau un altar și apasă butonul "Începe schimbarea rolului".</LetterLabelRoleActiveDesc>
+  <LetterLabelRoleActiveDesc>TODO</LetterLabelRoleActiveDesc>
 
   <!-- EN: {0} role deactivated -->
-  <LetterLabelRoleInactive>{0} rol dezactivat</LetterLabelRoleInactive>
+  <LetterLabelRoleInactive>TODO</LetterLabelRoleInactive>
   <!-- EN: Number of {0}s in your colony fell to {1}. {ROLE_labelDef} role is no longer active. This role will become available once again when the number of {0}s reaches {2}. -->
-  <LetterLabelRoleInactiveDesc>Numărul de {0} din colonia ta a scăzut la {1}. Rolul {ROLE_labelDef} nu mai este activ. Acest rol va redeveni disponibil atunci când numărul de {0} va ajunge la {2}.</LetterLabelRoleInactiveDesc>
+  <LetterLabelRoleInactiveDesc>TODO</LetterLabelRoleInactiveDesc>
 
   <!-- EN: {PAWN_labelShort}'s {ROLE_labelIndef} role lost -->
-  <LetterLabelRoleLost>Rolul {ROLE_labelIndef} al lui {PAWN_labelShort} a fost pierdut.</LetterLabelRoleLost>
+  <LetterLabelRoleLost>TODO</LetterLabelRoleLost>
   <!-- EN: {PAWN_labelShort} no longer holds the role of {ROLE_labelIndef}. Reason: -->
-  <LetterRoleLostDesc>{PAWN_labelShort} nu mai deține rolul de {ROLE_labelIndef}. Motivul:</LetterRoleLostDesc>
+  <LetterRoleLostDesc>TODO</LetterRoleLostDesc>
   <!-- EN: {PAWN_pronoun} was unassigned. -->
-  <LetterRoleLostReasonUnassignedDesc>{PAWN_pronoun} a fost neatribuit.</LetterRoleLostReasonUnassignedDesc>
+  <LetterRoleLostReasonUnassignedDesc>TODO</LetterRoleLostReasonUnassignedDesc>
   <!-- EN: Role became inactive due to low {0} count. -->
-  <LetterRoleLostReasonLowBelieversDesc>Rolul a devenit inactiv din cauza numărului scăzut de {0}.</LetterRoleLostReasonLowBelieversDesc>
+  <LetterRoleLostReasonLowBelieversDesc>TODO</LetterRoleLostReasonLowBelieversDesc>
   <!-- EN: {PAWN_labelShort} has lost {PAWN_possessive} position as {ROLE_labelDef} because {PAWN_pronoun} abandoned the {OLDIDEO_name}. -->
-  <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort} a pierdut poziția {PAWN_possessive} ca {ROLE_labelDef} deoarece {PAWN_pronoun} a abandonat {OLDIDEO_name}.</LetterRoleLostLetterIdeoChangedPostfix>
+  <LetterRoleLostLetterIdeoChangedPostfix>TODO</LetterRoleLostLetterIdeoChangedPostfix>
   <!-- EN: {0} skipped. -->
-  <LetterObligationRoleInactive>{0} sărit.</LetterObligationRoleInactive>
+  <LetterObligationRoleInactive>TODO</LetterObligationRoleInactive>
   <!-- EN: {0} is the date of the {1}, but since {ROLE_labelDef} role is inactive, the {2}s will skip the {1}. -->
-  <LetterObligationRoleInactiveDateDesc>{0} este data lui {1}, dar deoarece rolul {ROLE_labelDef} este inactiv, {2} va sări peste {1}.</LetterObligationRoleInactiveDateDesc>
+  <LetterObligationRoleInactiveDateDesc>TODO</LetterObligationRoleInactiveDateDesc>
   
   <!-- Ideo misc -->
   <!-- EN: {PAWN_pronoun}'s speech converted following people to {IDEO} -->
-  <LetterSpeechConvertedListeners>Discursul lui {PAWN_pronoun} a convertit următoarele persoane în {IDEO}</LetterSpeechConvertedListeners>
+  <LetterSpeechConvertedListeners>TODO</LetterSpeechConvertedListeners>
 
   <!-- EN: {0} rituals activated -->
-  <LetterTitleObligationsActivated>{0} ritualuri activate</LetterTitleObligationsActivated>
+  <LetterTitleObligationsActivated>TODO</LetterTitleObligationsActivated>
   <!-- EN: {0} rituals deactivated -->
-  <LetterTitleObligationsDeactivated>{0} ritualuri dezactivate</LetterTitleObligationsDeactivated>
+  <LetterTitleObligationsDeactivated>TODO</LetterTitleObligationsDeactivated>
   <!-- EN: There are now less than {1} {IDEO_memberNamePlural} in your faction. Therefore, the {IDEO_memberNamePlural} will not demand that the rituals of {IDEO} be carried out until there are at least {1} of them in your faction. -->
-  <LetterTitleObligationsDeactivatedTooFewBelievers>Există acum mai puțin de {1} {IDEO_memberNamePlural} în facțiunea ta. Prin urmare, {IDEO_memberNamePlural} nu va cere ca ritualurile lui {IDEO} să fie efectuate până când nu există cel puțin {1} dintre ei în facțiunea voastră.</LetterTitleObligationsDeactivatedTooFewBelievers>
+  <LetterTitleObligationsDeactivatedTooFewBelievers>TODO</LetterTitleObligationsDeactivatedTooFewBelievers>
   <!-- EN: Since there are now {1} {IDEO_memberNamePlural} in your faction, they will demand that the rituals of {IDEO} be carried out. -->
-  <LetterTitleObligationsActivatedEnoughBelievers>Din moment ce există acum {1} {IDEO_memberNamePlural} în facțiunea ta, ei vor cere ca ritualurile lui {IDEO} să fie efectuate.</LetterTitleObligationsActivatedEnoughBelievers>
+  <LetterTitleObligationsActivatedEnoughBelievers>TODO</LetterTitleObligationsActivatedEnoughBelievers>
   <!-- EN: Since {IDEO} is now the primary ideoligion of your faction, {IDEO_memberNamePlural} will demand that the rituals of {IDEO} be carried out. -->
-  <LetterTitleObligationsActivatedIdeoBecameMajor>Deoarece {IDEO} este acum ideoligia principală a facțiunii tale, {IDEO_memberNamePlural} va cere ca ritualurile lui {IDEO} să fie îndeplinite.</LetterTitleObligationsActivatedIdeoBecameMajor>
+  <LetterTitleObligationsActivatedIdeoBecameMajor>TODO</LetterTitleObligationsActivatedIdeoBecameMajor>
 
   <!-- EN: Bond(s) removed -->
-  <LetterBondRemoved>Legătură(e) eliminată(e)</LetterBondRemoved>
+  <LetterBondRemoved>TODO</LetterBondRemoved>
   <!-- EN: {PAWN_nameDef} has converted to {IDEO}. Since {IDEO} disapproves of bonding with animals, {PAWN_pronoun} has renounced {PAWN_possessive} bonds with the following animals:\n\n{BONDS} -->
-  <LetterBondRemovedDesc>{PAWN_prenumeDef} a convertit la {IDEO}. Deoarece {IDEO} dezaprobă legăturile cu animalele, {PAWN_pronoun} a renunțat la legăturile {PAWN_possessive} cu următoarele animale:\n\n{BONDS}</LetterBondRemovedDesc>
+  <LetterBondRemovedDesc>TODO</LetterBondRemovedDesc>
 
   <!-- Slave will -->
   <!-- EN: Enslaved -->
-  <LetterLabelEnslavementSuccess>Înrobit</LetterLabelEnslavementSuccess>
+  <LetterLabelEnslavementSuccess>TODO</LetterLabelEnslavementSuccess>
   <!-- EN: {0_nameDef} successfully enslaved {1_nameDef}. -->
-  <LetterEnslavementSuccess>{0_nameDef} l-a înrobit cu succes pe {1_nameDef}.</LetterEnslavementSuccess>
+  <LetterEnslavementSuccess>TODO</LetterEnslavementSuccess>
 
   <!-- Primary ideo changed -->
   <!-- EN: Primary ideoligion changed -->
-  <LetterLabelNewPrimaryIdeo>Ideoligia primară s-a schimbat</LetterLabelNewPrimaryIdeo>
+  <LetterLabelNewPrimaryIdeo>TODO</LetterLabelNewPrimaryIdeo>
   <!-- EN: Your faction's primary ideoligion has changed from {OLDIDEO_name} to {NEWIDEO_name}.\n\nThis happened because {NEWIDEO_name} is now more common among your {FACTION_pawnsPlural} than any other ideoligion.\n\nYour primary ideoligion affects relationships with other factions, based on how closely your beliefs align with theirs. -->
-  <LetterNewPrimaryIdeo>Ideoligia primară a facțiunii tale s-a schimbat de la {OLDIDEO_name} la {NEWIDEO_name}.\n\nAceasta s-a întâmplat deoarece {NEWIDEO_name} este acum mai frecventă printre {FACTION_pawnsPlural} decât orice altă ideoligie.\n\n\nIdeoligia ta primară afectează relațiile cu alte facțiuni, în funcție de cât de mult se aliniază credințele tale cu ale lor.</LetterNewPrimaryIdeo>
+  <LetterNewPrimaryIdeo>TODO</LetterNewPrimaryIdeo>
 
   <!-- Charity incidents -->
   <!-- EN: This is a charity incident. If you turn {0} away, believers with charitable beliefs will be unhappy. -->
-  <JoinerCharityInfo>Acesta este un incident de caritate. Dacă îl refuzi pe {0}, credincioșii cu credințe caritabile vor fi nemulțumiți.</JoinerCharityInfo>
+  <JoinerCharityInfo>TODO</JoinerCharityInfo>
   <!-- EN: This is a charity incident. If {0} dies without being tended (and after {1}), believers with charitable beliefs will be unhappy. If {0} is tended or recruited, believers will be happy. -->
-  <AfflictedJoinerChartityInfo>Acesta este un incident de caritate. Dacă {0} moare fără a fi îngrijit (și după {1}), credincioșii cu credințe caritabile vor fi nefericiți. Dacă {0} este îngrijit sau recrutat, credincioșii vor fi fericiți.</AfflictedJoinerChartityInfo>
+  <AfflictedJoinerChartityInfo>TODO</AfflictedJoinerChartityInfo>
   <!-- EN: The following believers have charitable beliefs -->
-  <PawnsHaveCharitableBeliefs>Următorii credincioși au convingeri caritabile</PawnsHaveCharitableBeliefs>
+  <PawnsHaveCharitableBeliefs>TODO</PawnsHaveCharitableBeliefs>
 
   <!-- Change ideo mental state -->
   <!-- EN: {PAWN_pronoun} decided that {PAWN_possessive} belief in {OLDIDEO_name} no longer made any sense.\n\n{PAWN_pronoun} now believes in {NEWIDEO_name}. -->
-  <LetterIdeoChangeConverted>{PAWN_pronoun} a hotărât că credința {PAWN_possessive} în {OLDIDEO_name} nu mai are niciun sens.\n\n{PAWN_pronoun} crede acum în {NEWIDEO_name}.</LetterIdeoChangeConverted>
+  <LetterIdeoChangeConverted>TODO</LetterIdeoChangeConverted>
   <!-- EN: {PAWN_nameDef}'s certainty with {PAWN_possessive} belief in {OLDIDEO_name} has been reduced to {NEWCERTAINTY}. -->
-  <LetterIdeoChangeNotConverted>Certitudinea lui {PAWN_nameDef} cu {PAWN_possessive} de a crede în {OLDIDEO_prenume} a fost redusă la {NEWCERTAINTY}.</LetterIdeoChangeNotConverted>
+  <LetterIdeoChangeNotConverted>TODO</LetterIdeoChangeNotConverted>
   <!-- EN: To come to terms with {PAWN_possessive} beliefs, {PAWN_nameDef} is now hiding in {PAWN_possessive} room. -->
-  <LetterIdeoChangedWanderOwnRoom>Pentru a se împăca cu convingerile {PAWN_possessive}, {PAWN_nameDef} se ascunde acum în camera {PAWN_possessive}.</LetterIdeoChangedWanderOwnRoom>
+  <LetterIdeoChangedWanderOwnRoom>TODO</LetterIdeoChangedWanderOwnRoom>
   <!-- EN: {PAWN_nameDef} is now wandering in shock while grappling with {PAWN_possessive} beliefs. -->
-  <LetterIdeoChangedSadWander>{PAWN_nameDef} rătăcește acum în stare de șoc în timp ce se luptă cu convingerile {PAWN_possessive}.</LetterIdeoChangedSadWander>
+  <LetterIdeoChangedSadWander>TODO</LetterIdeoChangedSadWander>
 
   <!-- Change ideo divorces -->
   <!-- EN: Divorce -->
-  <LetterIdeoChangedDivorce>Divorț</LetterIdeoChangedDivorce>
+  <LetterIdeoChangedDivorce>TODO</LetterIdeoChangedDivorce>
   <!-- EN: {PAWN_nameDef}'s new beliefs forbid {PAWN_possessive} current number of spouses.\n\n{PAWN_nameDef} has decided to divorce these people:\n{1} -->
-  <LetterIdeoChangedDivorcedPawns>Noile credințe ale lui {PAWN_nameDef} interzic {PAWN_possessive} numărul actual de soți.\n\n{PAWN_nameDef} a decis să divorțeze de aceste persoane:\n{1}</LetterIdeoChangedDivorcedPawns>
+  <LetterIdeoChangedDivorcedPawns>TODO</LetterIdeoChangedDivorcedPawns>
 
   <!-- Surprise reinforcement -->
   <!-- EN: Surprise reinforcements! -->
-  <LetterLabelSurpriseReinforcements>Întăriri surpriză!</LetterLabelSurpriseReinforcements>
+  <LetterLabelSurpriseReinforcements>TODO</LetterLabelSurpriseReinforcements>
   <!-- EN: Surprise reinforcements from {1} have arrived! They are moving to help {0} from {1}. -->
-  <LetterSurpriseReinforcements>Au sosit întăriri surpriză de la {1}! Se deplasează pentru a-l ajuta pe {0} din {1}.</LetterSurpriseReinforcements>
+  <LetterSurpriseReinforcements>TODO</LetterSurpriseReinforcements>
 
   <!-- Style change -->
   <!-- EN: Look change desired -->
-  <LetterWantLookChange>Schimbare de look dorită</LetterWantLookChange>
+  <LetterWantLookChange>TODO</LetterWantLookChange>
   <!-- EN: {PAWN_nameDef} wishes to change {PAWN_possessive} look, as it no longer matches what {PAWN_pronoun} believes.\n\n{PAWN_pronoun} will automatically use an available styling station and choose a look. If you want to customize {PAWN_possessive} look, select {PAWN_objective} and right-click the styling station. -->
-  <LetterWantLookChangeDesc>{PAWN_nameDef} dorește să schimbe look-ul lui {PAWN_possessive}, deoarece nu mai corespunde cu ceea ce crede {PAWN_pronoun}.\n\n{PAWN_pronoun} va folosi automat o stație de styling disponibilă și va alege un look. Dacă doriți să personalizați aspectul {PAWN_possessive}, selectați {PAWN_objective} și faceți clic dreapta pe stația de styling.</LetterWantLookChangeDesc>
+  <LetterWantLookChangeDesc>TODO</LetterWantLookChangeDesc>
 
   <!-- Spacedrone incoming -->
   <!-- EN: Spacedrone incoming -->
-  <LetterLabelSpacedroneIncoming>Sosesc drone spațiale</LetterLabelSpacedroneIncoming>
+  <LetterLabelSpacedroneIncoming>TODO</LetterLabelSpacedroneIncoming>
   <!-- EN: A spacedrone is landing nearby. -->
-  <LetterTextSpacedroneIncoming>O dronă spațială aterizează în apropiere.</LetterTextSpacedroneIncoming>
+  <LetterTextSpacedroneIncoming>TODO</LetterTextSpacedroneIncoming>
   <!-- EN: A raid from {0} has arrived to destroy the {1} that was forced to land nearby. -->
-  <LetterTextRaidSpacedrone>Un raid de la {0} a sosit pentru a distruge {1} care a fost forțat să aterizeze în apropiere.</LetterTextRaidSpacedrone>
+  <LetterTextRaidSpacedrone>TODO</LetterTextRaidSpacedrone>
 
   <!-- Hacked -->
   <!-- EN: You've finished hacking the {0} and learned more about the ancient {1} relic. -->
-  <LetterTextSpacedroneHacked>Ați terminat de piratat {0} și ați aflat mai multe despre relicva antică {1}.</LetterTextSpacedroneHacked>
+  <LetterTextSpacedroneHacked>TODO</LetterTextSpacedroneHacked>
 
   <!-- Relic destroyed -->
   <!-- EN: Relic destroyed -->
-  <LetterLabelRelicDestroyed>Relicva distrusă</LetterLabelRelicDestroyed>
+  <LetterLabelRelicDestroyed>TODO</LetterLabelRelicDestroyed>
   <!-- EN: {0} has been destroyed!\n\nThe following people will suffer a mood reduction:\n{1} -->
-  <LetterTextRelicDestroyed>{0} a fost distrusă!\n\nUrmătoarele persoane vor suferi o reducere a dispoziției:\n{1}</LetterTextRelicDestroyed>
+  <LetterTextRelicDestroyed>TODO</LetterTextRelicDestroyed>
   
   <!-- Relic lost -->
   <!-- EN: Relic lost -->
-  <LetterLabelRelicLost>Relicva pierdută</LetterLabelRelicLost>
+  <LetterLabelRelicLost>TODO</LetterLabelRelicLost>
   <!-- EN: {0} has been lost!\n\nThe following people will suffer a mood reduction:\n{1} -->
-  <LetterTextRelicLost>{0} a fost pierdut!\n\nUrmătoarele persoane vor suferi o reducere a dispoziției:\n{1}</LetterTextRelicLost>
+  <LetterTextRelicLost>TODO</LetterTextRelicLost>
 
   <!-- Caravan destroyed -->
   <!-- EN: All non-slave members of {0} have died. The remaining slaves have walked away. The caravan has disabanded. -->
-  <LetterOnlySlaveCaravanColonistsLeft>Toți membrii ne-sclavi din {0} au murit. Sclavii rămași au plecat. Caravana s-a destrămat.</LetterOnlySlaveCaravanColonistsLeft>
+  <LetterOnlySlaveCaravanColonistsLeft>TODO</LetterOnlySlaveCaravanColonistsLeft>
 
   <!-- Hacker lost -->
   <!-- EN: Last hacker lost -->
-  <LetterLabelLastHackerLost>Ultimul hacker pierdut</LetterLabelLastHackerLost>
+  <LetterLabelLastHackerLost>TODO</LetterLabelLastHackerLost>
   <!-- EN: The last hacker capable of unlocking the secrets of the ancient complex has been lost. Call reinforcements capable of hacking, or abandon the quest. -->
-  <LetterTextLastHackerLost>Ultimul hacker capabil să deslușească secretele complexului antic a fost pierdut. Chemați întăriri capabile să hackuiască, sau abandonați misiunea.</LetterTextLastHackerLost>
+  <LetterTextLastHackerLost>TODO</LetterTextLastHackerLost>
 
   <!-- Relic hunt -->
   <!-- EN: Relic found -->
-  <LetterLabelRelicFound>Relicva a fost găsită</LetterLabelRelicFound>
+  <LetterLabelRelicFound>TODO</LetterLabelRelicFound>
   <!-- EN: You've finally learned the location of the relic {0}! -->
-  <LetterTextRelicFoundLocation>Ai aflat în sfârșit locația relicvei {0}!</LetterTextRelicFoundLocation>
+  <LetterTextRelicFoundLocation>TODO</LetterTextRelicFoundLocation>
   <!-- EN: The relic is housed in an ancient structure. It is protected by a security system with multiple independent units. You may choose to defeat the security forces one unit at a time before taking the relic, or try to grab it and flee before they can harm you.\n\nAfter {0}, all security systems will be alerted. -->
-  <LetterTextRelicFoundSecurityThreats>Relicva este adăpostită într-o structură antică. Aceasta este protejată de un sistem de securitate cu mai multe unități independente. Puteți alege să învingeți forțele de securitate, unitate cu unitate, înainte de a lua relicva, sau să încercați să o luați și să fugiți înainte ca acestea să vă poată face rău.\n\nDupă {0}, toate sistemele de securitate vor fi alertate.</LetterTextRelicFoundSecurityThreats>
+  <LetterTextRelicFoundSecurityThreats>TODO</LetterTextRelicFoundSecurityThreats>
 
   <!-- Relics collection -->
   <!-- EN: Relics collected -->
-  <LetterLabelRelicsCollected>Relicve colectate</LetterLabelRelicsCollected>
+  <LetterLabelRelicsCollected>TODO</LetterLabelRelicsCollected>
   <!-- EN: All relics belonging to {0} have been collected. The following people will be delighted -->
-  <LetterTextRelicsCollected>Toate relicvele aparținând lui {0} au fost colectate. Următoarele persoane vor fi încântate</LetterTextRelicsCollected>
+  <LetterTextRelicsCollected>TODO</LetterTextRelicsCollected>
+  <!-- EN: You have collected all the known relics of this world. The following people will be delighted -->
+  <LetterTextRelicsCollectedClassic>TODO</LetterTextRelicsCollectedClassic>
 
   <!-- Gauranlen tree connection -->
   <!-- EN: {TREE_label} connection -->
-  <LetterLabelPawnConnected>{TREE_label} conexiune</LetterLabelPawnConnected>
+  <LetterLabelPawnConnected>TODO</LetterLabelPawnConnected>
   <!-- EN: {CONNECTOR_nameDef} has connected with {TREE_definite}.\n\n{TREE_definite} will produce small animals called dryads by growing them in pods at its base. These dryads can specialize into different castes. You can choose which caste of dryads you want the tree to produce.\n\nThe stronger the connection between tree and human, the more dryads {TREE_definite} can sustain. {CONNECTOR_nameDef} can strengthen the connection by pruning {TREE_definite}. Maintaining a higher connection strength requires more frequent pruning. -->
-  <LetterTextPawnConnected>{CONNECTOR_nameDef} s-a conectat cu {TREE_definite}.\n\n{TREE_definite} va produce mici animale numite dryade, crescându-le în păstăile de la baza sa. Aceste dryade se pot specializa în diferite caste. Poți alege ce casta de dryade vrei ca arborele să producă.\n\nCu cât este mai puternică legătura dintre copac și om, cu atât mai multe dryade {TREE_definite} poate susține. {CONNECTOR_nameDef} poate întări legătura prin tăierea {TREE_definite}. Menținerea unei conexiuni mai puternice necesită o tăiere mai frecventă.</LetterTextPawnConnected>
+  <LetterTextPawnConnected>TODO</LetterTextPawnConnected>
   <!-- EN: Connected {TREE_label} destroyed -->
-  <LetterLabelConnectedTreeDestroyed>Conectat {TREE_label} distrus</LetterLabelConnectedTreeDestroyed>
+  <LetterLabelConnectedTreeDestroyed>TODO</LetterLabelConnectedTreeDestroyed>
   <!-- EN: A {TREE_label} connected to {CONNECTEDPAWN_nameDef} has been destroyed, killing the dryad queen housed inside.\n\nWithout a queen, the dryad brood-mind has collapsed. All dryads from that tree have died. -->
-  <LetterTextConnectedTreeDestroyed>Un {TREE_label} conectat la {CONNECTEDPAWN_nameDef} a fost distrus, ucigând regina dryad găzduită înăuntru.\n\nFără regină, mintea de puiet a dryadului s-a prăbușit. Toate dryadele din acel copac au murit.</LetterTextConnectedTreeDestroyed>
+  <LetterTextConnectedTreeDestroyed>TODO</LetterTextConnectedTreeDestroyed>
 
   <!-- Archonexus victory -->
   <!-- EN: Quest '{0}' available -->
-  <LetterLabelArchonexusWealthReached>Misiunea '{0}' disponibilă</LetterLabelArchonexusWealthReached>
+  <LetterLabelArchonexusWealthReached>TODO</LetterLabelArchonexusWealthReached>
   <!-- EN: You have reached the wealth requirement for the quest '{0}'. You can now accept the quest. -->
-  <LetterTextArchonexusWealthReached>Ați atins cerința de bogăție pentru misiunea '{0}'. Acum puteți accepta misiunea.</LetterTextArchonexusWealthReached>
+  <LetterTextArchonexusWealthReached>TODO</LetterTextArchonexusWealthReached>
   <!-- EN: {0_labelShort} studied -->
-  <LetterLabelArchonexusStructureResearched>{0_labelShort} studiată</LetterLabelArchonexusStructureResearched>
+  <LetterLabelArchonexusStructureResearched>TODO</LetterLabelArchonexusStructureResearched>
   <!-- EN: You have completed your study of the {0_labelShort}.\n\nYou can't say that you understand it in any complete way, but you have detected patterns in its behavior and the way it seems to express information.\n\nWith this knowledge, you will be able to interpret the next piece of the archonexus map. -->
-  <LetterTextArchonexusStructureResearched>Ați finalizat studiul textului {0_labelShort}.\n\nNu puteți spune că îl înțelegeți în mod complet, dar ați detectat tipare în comportamentul său și în modul în care pare să exprime informația.\n\nCu aceste cunoștințe, veți putea interpreta următoarea piesă din harta archonexus.</LetterTextArchonexusStructureResearched>
+  <LetterTextArchonexusStructureResearched>TODO</LetterTextArchonexusStructureResearched>
   <!-- EN: Archotech structures abandoned -->
-  <LetterLabelArchotechStructuresAbandoned>Structuri Archotech abandonate</LetterLabelArchotechStructuresAbandoned>
+  <LetterLabelArchotechStructuresAbandoned>TODO</LetterLabelArchotechStructuresAbandoned>
   <!-- EN: You have abandoned the archotech structures at {0_definite}.\n\nDistant observers say they saw a great flash emanating from this location not long after you left. -->
-  <LetterTextArchotechStructuresAbandoned>Ați abandonat structurile archotech de la {0_definite}.\n\nObservatorii îndepărtați spun că au văzut o străfulgerare puternică emanând din această locație la scurt timp după ce ați plecat.</LetterTextArchotechStructuresAbandoned>
+  <LetterTextArchotechStructuresAbandoned>TODO</LetterTextArchotechStructuresAbandoned>
 
   <!-- Reforming ideo -->
   <!-- EN: Reform ideoligion -->

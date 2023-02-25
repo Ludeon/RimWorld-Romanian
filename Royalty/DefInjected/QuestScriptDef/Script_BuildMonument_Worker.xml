@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: Monument completed -->
-  <BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>Monument finalizat</BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>TODO</BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>
   <!-- EN: You completed construction of the monument.\n\nYou must not destroy it for at least [keepMonumentTicks_duration], otherwise you will anger [asker_factionName] ([goodwillChangeIfMonumentDestroyed] goodwill). -->
-  <BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>Ai finalizat construcția monumentului.\n\nNu trebuie să-l distrugi pentru cel puțin [keepMonumentTicks_duration], altfel vei înfuria [asker_factionName] ([goodwillChangeIfMonumentDestroyed] bunăvoință).</BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>TODO</BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>
   <!-- EN: Monument destroyed -->
-  <BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>Monument distrus</BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>TODO</BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>
   <!-- EN: [asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\nYour relations with [asker_faction_name] have fallen by [goodwillChangeIfMonumentDestroyed]. -->
-  <BuildMonumentWorker.LetterTextMonumentRuined.slateRef>[asker_nameDef] este jignit că ați permis ca monumentul să fie distrus atât de repede după ce a fost finalizat.\n\nRelațiile dumneavoastră cu [asker_faction_name] au scăzut de [goodwillChangeIfMonumentDestroyed].</BuildMonumentWorker.LetterTextMonumentRuined.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentRuined.slateRef>TODO</BuildMonumentWorker.LetterTextMonumentRuined.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
-  <BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>Nu distrugeți monumentul pentru {0}</BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>
+  <BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>TODO</BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>
   <!-- EN: Do not destroy the monument for {0} -->
-  <BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>Nu distrugeți monumentul pentru {0}</BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>
+  <BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>TODO</BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>
   <!-- EN: Keep monument {0} -->
-  <BuildMonumentWorker.KeepMonument.slateRef>Păstrează monumentul {0}</BuildMonumentWorker.KeepMonument.slateRef>
+  <BuildMonumentWorker.KeepMonument.slateRef>TODO</BuildMonumentWorker.KeepMonument.slateRef>
   <!-- EN: The monument for the quest '[resolvedQuestName]' has been violated. Consequences will follow. -->
-  <BuildMonumentWorker.MessageMonumentViolated.slateRef>Monumentul pentru misiunea '[resolvedQuestName]' a fost încălcat. Consecințele vor urma.</BuildMonumentWorker.MessageMonumentViolated.slateRef>
+  <BuildMonumentWorker.MessageMonumentViolated.slateRef>TODO</BuildMonumentWorker.MessageMonumentViolated.slateRef>
   <!-- EN: Protect the monument for {0} -->
-  <BuildMonumentWorker.ProtectMonumentForDays.slateRef>Protejează monumentul pentru {0}</BuildMonumentWorker.ProtectMonumentForDays.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDays.slateRef>TODO</BuildMonumentWorker.ProtectMonumentForDays.slateRef>
   <!-- EN: Protect the monument until {0} -->
-  <BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>Protejează monumentul până la {0}</BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>TODO</BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>
   <!-- EN: Protect for {0} -->
-  <BuildMonumentWorker.ProtectMonument.slateRef>Protejează pentru {0}</BuildMonumentWorker.ProtectMonument.slateRef>
+  <BuildMonumentWorker.ProtectMonument.slateRef>TODO</BuildMonumentWorker.ProtectMonument.slateRef>
   <!-- EN: New monument marker arrived -->
-  <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>A sosit un nou marker de monument</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>TODO</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
   <!-- EN: Since the monument marker has been destroyed, a new one has been sent. -->
-  <BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>Deoarece markerul monumentului a fost distrus, a fost trimis unul nou.</BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>TODO</BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>
   <!-- EN: Monument time expired -->
-  <BuildMonumentWorker.LetterLabelTimeExpired.slateRef>A expirat ora monumentului</BuildMonumentWorker.LetterLabelTimeExpired.slateRef>
+  <BuildMonumentWorker.LetterLabelTimeExpired.slateRef>TODO</BuildMonumentWorker.LetterLabelTimeExpired.slateRef>
   <!-- EN: Your time limit to construct the monument has expired. [failLetterEndingCommon] -->
-  <BuildMonumentWorker.LetterTextTimeExpired.slateRef>Timpul tău limită pentru a construi monumentul a expirat. [failLetterEndingCommon]</BuildMonumentWorker.LetterTextTimeExpired.slateRef>
+  <BuildMonumentWorker.LetterTextTimeExpired.slateRef>TODO</BuildMonumentWorker.LetterTextTimeExpired.slateRef>
   
 </LanguageData>

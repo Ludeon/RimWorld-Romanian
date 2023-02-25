@@ -2,55 +2,55 @@
 <LanguageData>
   
   <!-- EN: butchery efficiency -->
-  <ButcheryFleshEfficiency.label>eficiența măcelăriei</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.label>TODO</ButcheryFleshEfficiency.label>
   <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
-  <ButcheryFleshEfficiency.description>Cantitatea de carne produsă atunci când măcelărești creaturi din carne.\n\nCantitatea reală este, de asemenea, legată de mărimea creaturii.</ButcheryFleshEfficiency.description>
+  <ButcheryFleshEfficiency.description>TODO</ButcheryFleshEfficiency.description>
   
   <!-- EN: butchery speed -->
-  <ButcheryFleshSpeed.label>Viteza de măcelărire</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.label>TODO</ButcheryFleshSpeed.label>
   <!-- EN: The speed at which this person butchers flesh creatures. -->
-  <ButcheryFleshSpeed.description>Viteza cu care această persoană măcelărește creaturile din carne.</ButcheryFleshSpeed.description>
+  <ButcheryFleshSpeed.description>TODO</ButcheryFleshSpeed.description>
   
   <!-- EN: mechanoid shredding efficiency -->
-  <ButcheryMechanoidEfficiency.label>eficiența mărunțirei mecanoizilor</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.label>TODO</ButcheryMechanoidEfficiency.label>
   <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
-  <ButcheryMechanoidEfficiency.description>Cantitatea de materiale obținută atunci când această persoană mărunțește un mecanoid mort pentru resurse.\n\nCantitatea reală este, de asemenea, legată de mărimea mecanoidului.</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.description>TODO</ButcheryMechanoidEfficiency.description>
   
   <!-- EN: mechanoid shredding speed -->
-  <ButcheryMechanoidSpeed.label>Viteza de mărunțire a mecanoidului</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.label>TODO</ButcheryMechanoidSpeed.label>
   <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
-  <ButcheryMechanoidSpeed.description>Viteza cu care această persoană poate mărunți un mecanoid pentru resurse.</ButcheryMechanoidSpeed.description>
+  <ButcheryMechanoidSpeed.description>TODO</ButcheryMechanoidSpeed.description>
   
   <!-- EN: cooking speed -->
-  <CookSpeed.label>viteza de gătire</CookSpeed.label>
+  <CookSpeed.label>TODO</CookSpeed.label>
   <!-- EN: The speed at which this person cooks meals. -->
-  <CookSpeed.description>Viteza cu care această persoană gătește mesele.</CookSpeed.description>
+  <CookSpeed.description>TODO</CookSpeed.description>
   
   <!-- EN: drug cooking speed -->
-  <DrugCookingSpeed.label>viteza de preparare a drogurilor</DrugCookingSpeed.label>
+  <DrugCookingSpeed.label>TODO</DrugCookingSpeed.label>
   <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
-  <DrugCookingSpeed.description>Viteza cu care această persoană prepară berea și ceaiul sau prepară produse medicamentoase simple, cum ar fi joint-uri din smokeleaf.</DrugCookingSpeed.description>
+  <DrugCookingSpeed.description>TODO</DrugCookingSpeed.description>
   
   <!-- EN: drug synthesis speed -->
-  <DrugSynthesisSpeed.label>viteza de sinteză a drogurilor</DrugSynthesisSpeed.label>
+  <DrugSynthesisSpeed.label>TODO</DrugSynthesisSpeed.label>
   <!-- EN: How fast this character synthesizes complex chemical drugs. -->
-  <DrugSynthesisSpeed.description>Viteza cu care acest personaj sintetizează droguri chimice complexe.</DrugSynthesisSpeed.description>
+  <DrugSynthesisSpeed.description>TODO</DrugSynthesisSpeed.description>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChance.label>șansa de otrăvire alimentară</FoodPoisonChance.label>
+  <FoodPoisonChance.label>TODO</FoodPoisonChance.label>
   <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
-  <FoodPoisonChance.description>Probabilitatea ca acest personaj să otrăvească din greșeală o masă pe care o gătește.\n\nCine mănâncă o masă otrăvită cu mâncare va fi temporar slăbit de durere, slăbiciune și vărsături.</FoodPoisonChance.description>
+  <FoodPoisonChance.description>TODO</FoodPoisonChance.description>
   <!-- EN: food poison chance (chance to poison a meal) -->
-  <FoodPoisonChance.labelForFullStatList>șansa de otrăvire alimentară (șansa de a otrăvi o masă)</FoodPoisonChance.labelForFullStatList>
+  <FoodPoisonChance.labelForFullStatList>TODO</FoodPoisonChance.labelForFullStatList>
   
   <!-- EN: general labor speed -->
-  <GeneralLaborSpeed.label>viteza generală de muncă</GeneralLaborSpeed.label>
+  <GeneralLaborSpeed.label>TODO</GeneralLaborSpeed.label>
   <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
-  <GeneralLaborSpeed.description>Viteza cu care această persoană efectuează lucrări generale, cum ar fi fabricarea de blocuri de piatră, fabricarea de combustibil chimic la o rafinărie, arderea obiectelor, croirea hainelor, crearea de artă, forjarea armurilor și armelor sau topirea zgurii. Această statistică se aplică atât activităților care nu implică nicio îndemânare, cât și celor în care îndemânarea afectează calitatea produsului în loc de viteza de producție.</GeneralLaborSpeed.description>
+  <GeneralLaborSpeed.description>TODO</GeneralLaborSpeed.description>
   
   <!-- EN: smelting speed -->
-  <SmeltingSpeed.label>viteza de topire</SmeltingSpeed.label>
+  <SmeltingSpeed.label>TODO</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
-  <SmeltingSpeed.description>Viteza cu care această persoană topește lucruri.\n\nDeoarece topirea este o muncă simplă, viteza de topire nu este afectată de nicio abilitate.</SmeltingSpeed.description>
+  <SmeltingSpeed.description>TODO</SmeltingSpeed.description>
   
 </LanguageData>

@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way. -->
-  <ImmediateAttackBreaching.arrivalTextEnemy>Aceștia atacă imediat.\n\nAcești atacatori intenționează să vă spargă zidurile. Își vor stabili singuri calea spre colonia ta și vor distruge tot ce le stă în cale.</ImmediateAttackBreaching.arrivalTextEnemy>
+  <ImmediateAttackBreaching.arrivalTextEnemy>TODO</ImmediateAttackBreaching.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackBreaching.arrivalTextFriendly>Se deplasează pentru a vă ajuta imediat.</ImmediateAttackBreaching.arrivalTextFriendly>
+  <ImmediateAttackBreaching.arrivalTextFriendly>TODO</ImmediateAttackBreaching.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackBreaching.letterLabelEnemy>Raid</ImmediateAttackBreaching.letterLabelEnemy>
+  <ImmediateAttackBreaching.letterLabelEnemy>TODO</ImmediateAttackBreaching.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackBreaching.letterLabelFriendly>Prieteni</ImmediateAttackBreaching.letterLabelFriendly>
+  <ImmediateAttackBreaching.letterLabelFriendly>TODO</ImmediateAttackBreaching.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
-  <ImmediateAttackBreachingSmart.arrivalTextEnemy>Ei atacă imediat.\n\nAcesti raideri intenționează să vă spargă zidurile. Își vor stabili singuri calea spre colonia ta și vor distruge tot ce le stă în cale.\n\nAtenție - se pare că sunt neobișnuit de inteligenți în tacticile lor. Vor evita câmpul de tragere al turelelor și vor observa unele dintre capcanele tale.</ImmediateAttackBreachingSmart.arrivalTextEnemy>
+  <ImmediateAttackBreachingSmart.arrivalTextEnemy>TODO</ImmediateAttackBreachingSmart.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackBreachingSmart.arrivalTextFriendly>Se deplasează pentru a te ajuta imediat.</ImmediateAttackBreachingSmart.arrivalTextFriendly>
+  <ImmediateAttackBreachingSmart.arrivalTextFriendly>TODO</ImmediateAttackBreachingSmart.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackBreachingSmart.letterLabelEnemy>Raid</ImmediateAttackBreachingSmart.letterLabelEnemy>
+  <ImmediateAttackBreachingSmart.letterLabelEnemy>TODO</ImmediateAttackBreachingSmart.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackBreachingSmart.letterLabelFriendly>Prieteni</ImmediateAttackBreachingSmart.letterLabelFriendly>
+  <ImmediateAttackBreachingSmart.letterLabelFriendly>TODO</ImmediateAttackBreachingSmart.letterLabelFriendly>
   
 </LanguageData>

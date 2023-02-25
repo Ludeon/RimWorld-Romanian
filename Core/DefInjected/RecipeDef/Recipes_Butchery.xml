@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: butcher creature -->
-  <ButcherCorpseFlesh.label>Măcelărește creatură</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.label>TODO</ButcherCorpseFlesh.label>
   <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
-  <ButcherCorpseFlesh.description>Măcelărește o creatură pentru a-i obține carnea, pielea și alte produse corporale.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.description>TODO</ButcherCorpseFlesh.description>
   <!-- EN: Butchering. -->
-  <ButcherCorpseFlesh.jobString>Măcelărește</ButcherCorpseFlesh.jobString>
+  <ButcherCorpseFlesh.jobString>TODO</ButcherCorpseFlesh.jobString>
   
   <!-- EN: shred mechanoid -->
-  <ButcherCorpseMechanoid.label>mărunțește mecanoid</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.label>TODO</ButcherCorpseMechanoid.label>
   <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
-  <ButcherCorpseMechanoid.description>Mărunțește un mecanoid mort pentru a încerca să salvezi material utilizabil.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.description>TODO</ButcherCorpseMechanoid.description>
   <!-- EN: Shredding mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>mărunțește mecanoidul.</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.jobString>TODO</ButcherCorpseMechanoid.jobString>
   
   <!-- EN: smash mechanoid -->
-  <SmashCorpseMechanoid.label>zdrobește mechanoid</SmashCorpseMechanoid.label>
+  <SmashCorpseMechanoid.label>TODO</SmashCorpseMechanoid.label>
   <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
-  <SmashCorpseMechanoid.description>Zdrobește un mecanoid mort cu unelte simple de mână pentru a recupera materiale utilizabile.</SmashCorpseMechanoid.description>
+  <SmashCorpseMechanoid.description>TODO</SmashCorpseMechanoid.description>
   <!-- EN: Smashing mechanoid. -->
-  <SmashCorpseMechanoid.jobString>Zdrobește mecanoidul.</SmashCorpseMechanoid.jobString>
+  <SmashCorpseMechanoid.jobString>TODO</SmashCorpseMechanoid.jobString>
   
 </LanguageData>

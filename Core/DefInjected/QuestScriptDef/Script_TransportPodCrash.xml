@@ -4,14 +4,10 @@
   <!-- EN:
     <li>questDescription->A transport pod crashes with a refugee</li>
   -->
-  <RefugeePodCrash.questDescriptionRules.rulesStrings>
-    <li>questDescription->O capsulă de transport s-a prăbușit cu un refugiat</li>
-  </RefugeePodCrash.questDescriptionRules.rulesStrings>
+  <RefugeePodCrash.questDescriptionRules.rulesStrings>TODO</RefugeePodCrash.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Transport pod crash</li>
   -->
-  <RefugeePodCrash.questNameRules.rulesStrings>
-    <li>questName->Capsulă de transport prăbușită</li>
-  </RefugeePodCrash.questNameRules.rulesStrings>
+  <RefugeePodCrash.questNameRules.rulesStrings>TODO</RefugeePodCrash.questNameRules.rulesStrings>
   
 </LanguageData>

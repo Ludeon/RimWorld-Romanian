@@ -2,73 +2,73 @@
 <LanguageData>
   
   <!-- EN: drill arm -->
-  <DrillArm.label>braț de foraj</DrillArm.label>
+  <DrillArm.label>TODO</DrillArm.label>
   <!-- EN: An installed drill arm. -->
-  <DrillArm.description>Un braț de foraj instalat.</DrillArm.description>
+  <DrillArm.description>TODO</DrillArm.description>
   <!-- EN: drill -->
-  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>bormașină</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
+  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>TODO</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
   <!-- EN: a drill arm -->
-  <DrillArm.labelNoun>un braț de găurit.</DrillArm.labelNoun>
+  <DrillArm.labelNoun>TODO</DrillArm.labelNoun>
   
   <!-- EN: elbow blade -->
-  <ElbowBlade.label>lamă de cot</ElbowBlade.label>
+  <ElbowBlade.label>TODO</ElbowBlade.label>
   <!-- EN: An installed elbow blade. -->
-  <ElbowBlade.description>O lamă de cot instalată.</ElbowBlade.description>
+  <ElbowBlade.description>TODO</ElbowBlade.description>
   <!-- EN: blade -->
-  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>lamă</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
+  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>TODO</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
   <!-- EN: an elbow blade -->
-  <ElbowBlade.labelNoun>o lamă de cot</ElbowBlade.labelNoun>
+  <ElbowBlade.labelNoun>TODO</ElbowBlade.labelNoun>
   
   <!-- EN: field hand -->
-  <FieldHand.label>mână de teren</FieldHand.label>
+  <FieldHand.label>TODO</FieldHand.label>
   <!-- EN: An installed field hand. -->
-  <FieldHand.description>O mână de teren instalată.</FieldHand.description>
+  <FieldHand.description>TODO</FieldHand.description>
   <!-- EN: knuckle -->
-  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>box</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
+  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>TODO</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
   <!-- EN: a field hand -->
-  <FieldHand.labelNoun>o mână de teren</FieldHand.labelNoun>
+  <FieldHand.labelNoun>TODO</FieldHand.labelNoun>
   
   <!-- EN: hand talon -->
-  <HandTalon.label>talon de mână</HandTalon.label>
+  <HandTalon.label>TODO</HandTalon.label>
   <!-- EN: An installed hand talon. -->
-  <HandTalon.description>Un talon de mână instalat.</HandTalon.description>
+  <HandTalon.description>TODO</HandTalon.description>
   <!-- EN: talon -->
-  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>talon</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
+  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>TODO</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
   <!-- EN: a hand talon -->
-  <HandTalon.labelNoun>un talon de mână</HandTalon.labelNoun>
+  <HandTalon.labelNoun>TODO</HandTalon.labelNoun>
   
   <!-- EN: knee spike -->
-  <KneeSpike.label>țepușă de genunchi</KneeSpike.label>
+  <KneeSpike.label>TODO</KneeSpike.label>
   <!-- EN: An installed knee spike. -->
-  <KneeSpike.description>o țepușă de genunchi instalată.</KneeSpike.description>
+  <KneeSpike.description>TODO</KneeSpike.description>
   <!-- EN: spike -->
-  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>țepușă</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
+  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>TODO</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
   <!-- EN: a knee spike -->
-  <KneeSpike.labelNoun>o țepușă de genunchi</KneeSpike.labelNoun>
+  <KneeSpike.labelNoun>TODO</KneeSpike.labelNoun>
   
   <!-- EN: mindscrew -->
-  <Mindscrew.label>șurub mental</Mindscrew.label>
+  <Mindscrew.label>TODO</Mindscrew.label>
   <!-- EN: An installed mindscrew. -->
-  <Mindscrew.description>Un șurub mental instalat.</Mindscrew.description>
+  <Mindscrew.description>TODO</Mindscrew.description>
   <!-- EN: a mindscrew -->
-  <Mindscrew.labelNoun>un șurub mental</Mindscrew.labelNoun>
+  <Mindscrew.labelNoun>TODO</Mindscrew.labelNoun>
   
   <!-- EN: venom fangs -->
-  <VenomFangs.label>colți de venin</VenomFangs.label>
+  <VenomFangs.label>TODO</VenomFangs.label>
   <!-- EN: An installed set of venom fangs. -->
-  <VenomFangs.description>Un set instalat de colți de venin.</VenomFangs.description>
+  <VenomFangs.description>TODO</VenomFangs.description>
   <!-- EN: venom fangs -->
-  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>colți de venin</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
+  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>TODO</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
   <!-- EN: a set of venom fangs -->
-  <VenomFangs.labelNoun>un set de colți de venin</VenomFangs.labelNoun>
+  <VenomFangs.labelNoun>TODO</VenomFangs.labelNoun>
   
   <!-- EN: venom talon -->
-  <VenomTalon.label>talon de venin</VenomTalon.label>
+  <VenomTalon.label>TODO</VenomTalon.label>
   <!-- EN: An installed venom talon. -->
-  <VenomTalon.description>Un talon de venin instalat.</VenomTalon.description>
+  <VenomTalon.description>TODO</VenomTalon.description>
   <!-- EN: venom talon -->
-  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>talon de venin</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
+  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>TODO</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
   <!-- EN: a venom talon -->
-  <VenomTalon.labelNoun>un talon de venin</VenomTalon.labelNoun>
+  <VenomTalon.labelNoun>TODO</VenomTalon.labelNoun>
   
 </LanguageData>

@@ -2,68 +2,68 @@
 <LanguageData>
   
   <!-- EN: bionic arm -->
-  <BionicArm.label>braț bionic</BionicArm.label>
+  <BionicArm.label>TODO</BionicArm.label>
   <!-- EN: An installed bionic arm. -->
-  <BionicArm.description>Un braț bionic instalat.</BionicArm.description>
+  <BionicArm.description>TODO</BionicArm.description>
   <!-- EN: fist -->
-  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>pumn</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
-  <BionicArm.labelNoun>un braț bionic</BionicArm.labelNoun>
+  <BionicArm.labelNoun>TODO</BionicArm.labelNoun>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>ureche bionică</BionicEar.label>
+  <BionicEar.label>TODO</BionicEar.label>
   <!-- EN: An installed bionic ear. -->
-  <BionicEar.description>O ureche bionică instalată.</BionicEar.description>
+  <BionicEar.description>TODO</BionicEar.description>
   <!-- EN: a bionic ear -->
-  <BionicEar.labelNoun>o ureche bionică</BionicEar.labelNoun>
+  <BionicEar.labelNoun>TODO</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
-  <BionicEye.label>ochi bionic</BionicEye.label>
+  <BionicEye.label>TODO</BionicEye.label>
   <!-- EN: An installed bionic eye. -->
-  <BionicEye.description>Un ochi bionic instalat.</BionicEye.description>
+  <BionicEye.description>TODO</BionicEye.description>
   <!-- EN: a bionic eye -->
-  <BionicEye.labelNoun>un ochi bionic</BionicEye.labelNoun>
+  <BionicEye.labelNoun>TODO</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
-  <BionicHeart.label>inimă bionică</BionicHeart.label>
+  <BionicHeart.label>TODO</BionicHeart.label>
   <!-- EN: An installed bionic heart. -->
-  <BionicHeart.description>O inimă bionică instalată.</BionicHeart.description>
+  <BionicHeart.description>TODO</BionicHeart.description>
   <!-- EN: a bionic heart -->
-  <BionicHeart.labelNoun>o inimă bionică</BionicHeart.labelNoun>
+  <BionicHeart.labelNoun>TODO</BionicHeart.labelNoun>
   
   <!-- EN: bionic leg -->
-  <BionicLeg.label>picior bionic</BionicLeg.label>
+  <BionicLeg.label>TODO</BionicLeg.label>
   <!-- EN: An installed bionic leg. -->
-  <BionicLeg.description>Un picior bionic instalat.</BionicLeg.description>
+  <BionicLeg.description>TODO</BionicLeg.description>
   <!-- EN: a bionic leg -->
-  <BionicLeg.labelNoun>un picior bionic</BionicLeg.labelNoun>
+  <BionicLeg.labelNoun>TODO</BionicLeg.labelNoun>
   
   <!-- EN: bionic spine -->
-  <BionicSpine.label>coloană vertebrală bionică</BionicSpine.label>
+  <BionicSpine.label>TODO</BionicSpine.label>
   <!-- EN: An installed bionic spine. -->
-  <BionicSpine.description>O coloană vertebrală bionică instalată.</BionicSpine.description>
+  <BionicSpine.description>TODO</BionicSpine.description>
   <!-- EN: a bionic spine -->
-  <BionicSpine.labelNoun>o coloană vertebrală bionică</BionicSpine.labelNoun>
+  <BionicSpine.labelNoun>TODO</BionicSpine.labelNoun>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>stomac bionic</BionicStomach.label>
+  <BionicStomach.label>TODO</BionicStomach.label>
   <!-- EN: An installed bionic stomach. -->
-  <BionicStomach.description>Un stomac bionic instalat.</BionicStomach.description>
+  <BionicStomach.description>TODO</BionicStomach.description>
   <!-- EN: a bionic stomach -->
-  <BionicStomach.labelNoun>un stomac bionic</BionicStomach.labelNoun>
+  <BionicStomach.labelNoun>TODO</BionicStomach.labelNoun>
   
   <!-- EN: bionic tongue -->
-  <BionicTongue.label>limbă bionică</BionicTongue.label>
+  <BionicTongue.label>TODO</BionicTongue.label>
   <!-- EN: An installed bionic tongue. -->
-  <BionicTongue.description>O limbă bionică instalată</BionicTongue.description>
+  <BionicTongue.description>TODO</BionicTongue.description>
   <!-- EN: a bionic tongue -->
-  <BionicTongue.labelNoun>o limbă bionică</BionicTongue.labelNoun>
+  <BionicTongue.labelNoun>TODO</BionicTongue.labelNoun>
   
   <!-- EN: death acidifier -->
-  <DeathAcidifier.label>acidificator la moarte.</DeathAcidifier.label>
+  <DeathAcidifier.label>TODO</DeathAcidifier.label>
   <!-- EN: An installed death acidifier. -->
-  <DeathAcidifier.description>Un acidificator al morții instalat.</DeathAcidifier.description>
+  <DeathAcidifier.description>TODO</DeathAcidifier.description>
   <!-- EN: a death acidifier -->
-  <DeathAcidifier.labelNoun>un acidificator la moarte</DeathAcidifier.labelNoun>
+  <DeathAcidifier.labelNoun>TODO</DeathAcidifier.labelNoun>
   
 </LanguageData>

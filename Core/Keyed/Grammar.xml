@@ -2,69 +2,69 @@
 <LanguageData>
 
   <!-- EN: a -->
-  <IndefiniteArticle>un/o</IndefiniteArticle>
+  <IndefiniteArticle>TODO</IndefiniteArticle>
   <!-- EN: the -->
-  <DefiniteArticle />
+  <DefiniteArticle>TODO</DefiniteArticle>
   <!-- EN: a {0} -->
-  <IndefiniteForm>{0_gender ? un : o : un} {0}</IndefiniteForm>
+  <IndefiniteForm>TODO</IndefiniteForm>
   <!-- EN: the {0} -->
-  <DefiniteForm>{0}{0_gender ? ul : a : ul}</DefiniteForm>
+  <DefiniteForm>TODO</DefiniteForm>
 
   <!-- EN: its -->
-  <Proits>lui</Proits>
+  <Proits>TODO</Proits>
   <!-- EN: his -->
-  <Prohis>lui</Prohis>
+  <Prohis>TODO</Prohis>
   <!-- EN: her -->
-  <Proher>ei</Proher>
+  <Proher>TODO</Proher>
   <!-- EN: Its -->
-  <ProitsCap>Lui</ProitsCap>
+  <ProitsCap>TODO</ProitsCap>
   <!-- EN: His -->
-  <ProhisCap>Lui</ProhisCap>
+  <ProhisCap>TODO</ProhisCap>
   <!-- EN: Her -->
-  <ProherCap>Ei</ProherCap>
+  <ProherCap>TODO</ProherCap>
 
   <!-- EN: it -->
-  <ProitObj>el</ProitObj>
+  <ProitObj>TODO</ProitObj>
   <!-- EN: him -->
-  <ProhimObj>el</ProhimObj>
+  <ProhimObj>TODO</ProhimObj>
   <!-- EN: her -->
-  <ProherObj>ea</ProherObj>
+  <ProherObj>TODO</ProherObj>
   <!-- EN: It -->
-  <ProitObjCap>El</ProitObjCap>
+  <ProitObjCap>TODO</ProitObjCap>
   <!-- EN: Him -->
-  <ProhimObjCap>El</ProhimObjCap>
+  <ProhimObjCap>TODO</ProhimObjCap>
   <!-- EN: Her -->
-  <ProherObjCap>Ea</ProherObjCap>
+  <ProherObjCap>TODO</ProherObjCap>
 
   <!-- EN: he -->
-  <Prohe>el</Prohe>
+  <Prohe>TODO</Prohe>
   <!-- EN: she -->
-  <Proshe>ea</Proshe>
+  <Proshe>TODO</Proshe>
   <!-- EN: it -->
-  <Proit>el</Proit>
+  <Proit>TODO</Proit>
   <!-- EN: He -->
-  <ProheCap>El</ProheCap>
+  <ProheCap>TODO</ProheCap>
   <!-- EN: She -->
-  <ProsheCap>Ea</ProsheCap>
+  <ProsheCap>TODO</ProsheCap>
   <!-- EN: It -->
-  <ProitCap>El</ProitCap>
+  <ProitCap>TODO</ProitCap>
 
   <!-- EN: {0} and {1}. -->
-  <ClauseSequence2>{0} și {1}</ClauseSequence2>
+  <ClauseSequence2>TODO</ClauseSequence2>
   <!-- EN: {0}. Also, {1} and {2}. -->
-  <ClauseSequence3>{0}. De asemenea, {1} și {2}</ClauseSequence3>
+  <ClauseSequence3>TODO</ClauseSequence3>
   <!-- EN: {0} and {1}. In addition {2} and {3}. -->
-  <ClauseSequence4>{0} și {1}. În plus, {2} și {3}</ClauseSequence4>
+  <ClauseSequence4>TODO</ClauseSequence4>
   <!-- EN: {0} and {1}. Additionally, {2} and {3}. Finally, {4}. -->
-  <ClauseSequence5>{0} și {1}. În plus, {2} și {3}. În final, {4}</ClauseSequence5>
+  <ClauseSequence5>TODO</ClauseSequence5>
   <!-- EN: {0}. {1} and {2}. Also, {3} and {4}. Finally, {5}. -->
-  <ClauseSequence6>{0}. {1} și {2}. De asemenea, {3} și {4}. În final, {5}</ClauseSequence6>
+  <ClauseSequence6>TODO</ClauseSequence6>
   <!-- EN: {0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}. -->
-  <ClauseSequence7>{0} și {1}. {2} și {3}. De asemenea, {4} și {5}. În final, {6}</ClauseSequence7>
+  <ClauseSequence7>TODO</ClauseSequence7>
   <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->
-  <ClauseSequence8>{0} și {1}. De asemenea, {2} și {3}. {4} și {5}. În final, {6} și {7}</ClauseSequence8>
+  <ClauseSequence8>TODO</ClauseSequence8>
 
   <!-- EN: {0} or {1} -->
-  <XorY>{0} sau {1}</XorY>
+  <XorY>TODO</XorY>
 
 </LanguageData>

@@ -2,44 +2,44 @@
 <LanguageData>
   
   <!-- EN: recovery -->
-  <Adaptation.label>recuperare</Adaptation.label>
+  <Adaptation.label>TODO</Adaptation.label>
   <!-- EN: {0} days -->
-  <Adaptation.valueFormat>{0} zile</Adaptation.valueFormat>
+  <Adaptation.valueFormat>TODO</Adaptation.valueFormat>
   
   <!-- EN: mood -->
-  <ColonistMood.label>dispoziție</ColonistMood.label>
+  <ColonistMood.label>TODO</ColonistMood.label>
   
   <!-- EN: free colonists -->
-  <FreeColonists.label>coloniști liberi</FreeColonists.label>
+  <FreeColonists.label>TODO</FreeColonists.label>
   
   <!-- EN: pop recovery -->
-  <PopAdaptation.label>recuperare pop</PopAdaptation.label>
+  <PopAdaptation.label>TODO</PopAdaptation.label>
   <!-- EN: {0} days -->
-  <PopAdaptation.valueFormat>{0} zile</PopAdaptation.valueFormat>
+  <PopAdaptation.valueFormat>TODO</PopAdaptation.valueFormat>
   
   <!-- EN: pop intent x10 -->
-  <PopIntent.label>intenție pop x10</PopIntent.label>
+  <PopIntent.label>TODO</PopIntent.label>
   <!-- EN: {0} days -->
-  <PopIntent.valueFormat>{0} zile</PopIntent.valueFormat>
+  <PopIntent.valueFormat>TODO</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
-  <Prisoners.label>prizonieri</Prisoners.label>
+  <Prisoners.label>TODO</Prisoners.label>
   
   <!-- EN: fun points /10 -->
-  <ThreatPoints.label>puncte amuzante /10</ThreatPoints.label>
+  <ThreatPoints.label>TODO</ThreatPoints.label>
   <!-- EN: {0} points -->
-  <ThreatPoints.valueFormat>{0} puncte</ThreatPoints.valueFormat>
+  <ThreatPoints.valueFormat>TODO</ThreatPoints.valueFormat>
   
   <!-- EN: wealth (buildings) -->
-  <Wealth_Buildings.label>avere (clădiri)</Wealth_Buildings.label>
+  <Wealth_Buildings.label>TODO</Wealth_Buildings.label>
   
   <!-- EN: wealth (items) -->
-  <Wealth_Items.label>avere (obiecte)</Wealth_Items.label>
+  <Wealth_Items.label>TODO</Wealth_Items.label>
   
   <!-- EN: wealth (creatures) -->
-  <Wealth_Pawns.label>avere (creaturi)</Wealth_Pawns.label>
+  <Wealth_Pawns.label>TODO</Wealth_Pawns.label>
   
   <!-- EN: wealth (total) -->
-  <Wealth_Total.label>avere (total)</Wealth_Total.label>
+  <Wealth_Total.label>TODO</Wealth_Total.label>
   
 </LanguageData>

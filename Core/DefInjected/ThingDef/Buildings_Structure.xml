@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: animal flap -->
-  <AnimalFlap.label>clapetă pentru animale</AnimalFlap.label>
+  <AnimalFlap.label>TODO</AnimalFlap.label>
   <!-- EN: A doorway hung with thick overlapping strips of fabric or leather. It allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep. -->
-  <AnimalFlap.description>O ușă atârnată cu benzi groase suprapuse de țesătură sau de piele. Permite animalelor să treacă, izolând în același timp temperatura. Clapele pentru animale sunt utilizate în mod obișnuit ca uși de hambar pentru a le oferi animalelor ținute în țarc un loc adăpostit pentru a dormi.</AnimalFlap.description>
+  <AnimalFlap.description>TODO</AnimalFlap.description>
   
   <!-- EN: autodoor -->
-  <Autodoor.label>ușă automată</Autodoor.label>
+  <Autodoor.label>TODO</Autodoor.label>
   <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
-  <Autodoor.description>Împarte camerele. Funcționarea motorizată permite oamenilor să se deplaseze prin ușă fără a încetini.</Autodoor.description>
+  <Autodoor.description>TODO</Autodoor.description>
   
   <!-- EN: column -->
-  <Column.label>stâlp</Column.label>
+  <Column.label>TODO</Column.label>
   <!-- EN: A column capable of holding a roof. Does not block sight or movement and looks quite nice. -->
-  <Column.description>Un stâlp capabil să susțină un acoperiș. Nu blochează vederea sau mișcarea și arată destul de bine.</Column.description>
+  <Column.description>TODO</Column.description>
   
   <!-- EN: door -->
-  <Door.label>ușă</Door.label>
+  <Door.label>TODO</Door.label>
   <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
-  <Door.description>Împarte încăperi. Ușile simple trebuie să fie deschise manual, ceea ce încetinește oamenii. Nivelul de încetinire depinde de materialul din care este făcută ușa.</Door.description>
+  <Door.description>TODO</Door.description>
   
   <!-- EN: fence -->
-  <Fence.label>gard</Fence.label>
+  <Fence.label>TODO</Fence.label>
   <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside. -->
-  <Fence.description>Gard format din stâlpi uniți prin bare transversale, folosit pentru construirea de țarcuri pentru anumite tipuri de animale. Unele tipuri de animale pot trece de garduri. Prădătorii nu vor vâna creaturile aflate de cealaltă parte a gardului, dar pot totuși să se rătăcească înăuntru.</Fence.description>
+  <Fence.description>TODO</Fence.description>
   
   <!-- EN: fence gate -->
-  <FenceGate.label>poartă de gard</FenceGate.label>
+  <FenceGate.label>TODO</FenceGate.label>
   <!-- EN: A simple gate made of posts and crossbars. It blocks some animals like a fence. Handlers can lead animals in and out of the pen through these gates. -->
-  <FenceGate.description>O poartă simplă făcută din stâlpi și bare transversale. Blochează unele animale ca un gard. Prin aceste porți, îngrijitorii pot conduce animalele în și din țarc.</FenceGate.description>
+  <FenceGate.description>TODO</FenceGate.description>
   
   <!-- EN: wall -->
-  <Wall.label>perete</Wall.label>
+  <Wall.label>TODO</Wall.label>
   <!-- EN: An impassable wall. Capable of holding up a roof. -->
-  <Wall.description>Un zid impracticabil. Capabil să susțină un acoperiș.</Wall.description>
+  <Wall.description>TODO</Wall.description>
   
 </LanguageData>

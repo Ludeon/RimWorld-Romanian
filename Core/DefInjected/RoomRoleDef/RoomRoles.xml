@@ -2,45 +2,48 @@
 <LanguageData>
   
   <!-- EN: barn -->
-  <Barn.label>hambar</Barn.label>
+  <Barn.label>TODO</Barn.label>
   
   <!-- EN: barracks -->
-  <Barracks.label>baracă</Barracks.label>
+  <Barracks.label>TODO</Barracks.label>
   
   <!-- EN: bedroom -->
-  <Bedroom.label>dormitor</Bedroom.label>
+  <Bedroom.label>TODO</Bedroom.label>
   
   <!-- EN: dining room -->
-  <DiningRoom.label>sufragerie</DiningRoom.label>
+  <DiningRoom.label>TODO</DiningRoom.label>
   
   <!-- EN: hospital -->
-  <Hospital.label>spital</Hospital.label>
+  <Hospital.label>TODO</Hospital.label>
   
   <!-- EN: kitchen -->
-  <Kitchen.label>bucătărie</Kitchen.label>
+  <Kitchen.label>TODO</Kitchen.label>
   
   <!-- EN: laboratory -->
-  <Laboratory.label>laborator</Laboratory.label>
+  <Laboratory.label>TODO</Laboratory.label>
   
   <!-- EN: none -->
-  <None.label>niciunul</None.label>
+  <None.label>TODO</None.label>
   
   <!-- EN: prison barracks -->
-  <PrisonBarracks.label>barăci de închisoare</PrisonBarracks.label>
+  <PrisonBarracks.label>TODO</PrisonBarracks.label>
   
   <!-- EN: prison cell -->
-  <PrisonCell.label>celulă de închisoare</PrisonCell.label>
+  <PrisonCell.label>TODO</PrisonCell.label>
   
   <!-- EN: rec room -->
-  <RecRoom.label>cameră de recreere</RecRoom.label>
+  <RecRoom.label>TODO</RecRoom.label>
   
   <!-- EN: room -->
-  <Room.label>cameră</Room.label>
+  <Room.label>TODO</Room.label>
+  
+  <!-- EN: storeroom -->
+  <Storeroom.label>TODO</Storeroom.label>
   
   <!-- EN: tomb -->
-  <Tomb.label>mormânt</Tomb.label>
+  <Tomb.label>TODO</Tomb.label>
   
   <!-- EN: workshop -->
-  <Workshop.label>atelier</Workshop.label>
+  <Workshop.label>TODO</Workshop.label>
   
 </LanguageData>

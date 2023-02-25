@@ -3,1617 +3,1820 @@
 
   <!-- Various -->
   <!-- EN: hit points -->
-  <HitPointsBasic>hitpoints</HitPointsBasic>
+  <HitPointsBasic>TODO</HitPointsBasic>
   <!-- EN: Work left -->
-  <WorkLeft>Lucru rămas</WorkLeft>
+  <WorkLeft>TODO</WorkLeft>
   <!-- EN: Contents -->
-  <Contents>Conținut</Contents>
+  <Contents>TODO</Contents>
   <!-- EN: Contained resources -->
-  <ContainedResources>Resurse conținute</ContainedResources>
+  <ContainedResources>TODO</ContainedResources>
   <!-- EN: For prisoner use -->
-  <ForPrisonerUse>Pentru prizonieri</ForPrisonerUse>
+  <ForPrisonerUse>TODO</ForPrisonerUse>
   <!-- EN: In prison cell: For prisoner use -->
-  <InPrisonCell>În celula închisorii: Pentru uzul deținuților</InPrisonCell>
+  <InPrisonCell>TODO</InPrisonCell>
   <!-- EN: For colonist use -->
-  <ForColonistUse>Pentru coloniști</ForColonistUse>
+  <ForColonistUse>TODO</ForColonistUse>
   <!-- EN: Medical -->
-  <MedicalBed>Medical</MedicalBed>
+  <MedicalBed>TODO</MedicalBed>
   <!-- EN: Owner -->
-  <Owner>Proprietar</Owner>
+  <Owner>TODO</Owner>
   <!-- EN: Owners -->
-  <Owners>Proprietari</Owners>
+  <Owners>TODO</Owners>
   <!-- EN: Assigned colonist -->
-  <AssignedColonist>Colonist desemnat</AssignedColonist>
+  <AssignedColonist>TODO</AssignedColonist>
+  <!-- EN: Uncomfortable room temperature -->
+  <BedUncomfortableTemperature>TODO</BedUncomfortableTemperature>
+  <!-- EN: Unsafe room temperature -->
+  <BedUnsafeTemperature>TODO</BedUnsafeTemperature>
   <!-- EN: Died on the {0} -->
-  <DiedOn>A murit pe {0}</DiedOn>
+  <DiedOn>TODO</DiedOn>
   <!-- EN: Nobody -->
-  <Nobody>Nimeni</Nobody>
+  <Nobody>TODO</Nobody>
   <!-- EN: Unowned -->
-  <Unowned>Liber</Unowned>
+  <Unowned>TODO</Unowned>
   <!-- EN: Dead for {0} -->
-  <DeadTime>Mort de {0}</DeadTime>
+  <DeadTime>TODO</DeadTime>
   <!-- EN: walk speed {0} -->
-  <WalkSpeed>viteză de mers {0}</WalkSpeed>
+  <WalkSpeed>TODO</WalkSpeed>
   <!-- EN: fert. -->
-  <FertShort>fert.</FertShort>
+  <FertShort>TODO</FertShort>
   <!-- EN: dying -->
-  <DyingLower>moare</DyingLower>
+  <DyingLower>TODO</DyingLower>
   <!-- EN: Filth on feet: -->
-  <FilthOnFeet>Mizerie pe picioare:</FilthOnFeet>
+  <FilthOnFeet>TODO</FilthOnFeet>
   <!-- EN: not enough stored -->
-  <NotEnoughStoredLower>stocat insuficient</NotEnoughStoredLower>
+  <NotEnoughStoredLower>TODO</NotEnoughStoredLower>
   <!-- EN: nothing -->
-  <NothingLower>nimic</NothingLower>
+  <NothingLower>TODO</NothingLower>
   <!-- EN: Nothing -->
-  <Nothing>Nimic</Nothing>
+  <Nothing>TODO</Nothing>
   <!-- EN: Adapted -->
-  <Adapted>Adaptat</Adapted>
+  <Adapted>TODO</Adapted>
   <!-- EN: fresh -->
-  <FreshMissingBodyPart>recent</FreshMissingBodyPart>
+  <FreshMissingBodyPart>TODO</FreshMissingBodyPart>
   <!-- EN: developed immunity -->
-  <DevelopedImmunityLower>imunitate dezvoltată</DevelopedImmunityLower>
+  <DevelopedImmunityLower>TODO</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>Are nevoie de îngrijire acum</NeedsTendingNow>
+  <NeedsTendingNow>TODO</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>Poate fi îngrijit acum</CanTendNow>
+  <CanTendNow>TODO</CanTendNow>
   <!-- EN: Tending expires in {0} -->
-  <TreatmentExpiresIn>Îngrijirea expiră în {0}</TreatmentExpiresIn>
+  <TreatmentExpiresIn>TODO</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
-  <NextTendIn>Poate fi îngrijit în {0}</NextTendIn>
+  <NextTendIn>TODO</NextTendIn>
   <!-- EN: Tend quality -->
-  <TendQuality>Tratament de calitate</TendQuality>
+  <TendQuality>TODO</TendQuality>
   <!-- EN: Total tend quality -->
   <DisappearsAtTotalTendQuality>TODO</DisappearsAtTotalTendQuality>
   <!-- EN: no {0} -->
-  <MissingMedicalBillIngredient>Nu există {0}</MissingMedicalBillIngredient>
+  <MissingMedicalBillIngredient>TODO</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
-  <Immunity>Imunitate</Immunity>
+  <Immunity>TODO</Immunity>
   <!-- EN: {0} days to recover -->
-  <DaysToRecover>{0} zile de recuperare</DaysToRecover>
+  <DaysToRecover>TODO</DaysToRecover>
   <!-- EN: Ineffective -->
-  <Ineffective>Ineficientă</Ineffective>
+  <Ineffective>TODO</Ineffective>
   <!-- EN: illegal -->
-  <Illegal>ilegal</Illegal>
+  <Illegal>TODO</Illegal>
   <!-- EN: detection chance -->
-  <DetectionChance>șansă de detectare</DetectionChance>
+  <DetectionChance>TODO</DetectionChance>
   <!-- EN: Race -->
-  <Race>Rasă</Race>
+  <Race>TODO</Race>
   <!-- EN: Description -->
-  <Description>Descriere</Description>
+  <Description>TODO</Description>
   <!-- EN: Equipment -->
-  <Equipment>Echipament</Equipment>
+  <Equipment>TODO</Equipment>
   <!-- EN: Apparel -->
-  <Apparel>Ținută</Apparel>
+  <Apparel>TODO</Apparel>
   <!-- EN: Inventory -->
-  <Inventory>Inventar</Inventory>
+  <Inventory>TODO</Inventory>
   <!-- EN: Information -->
-  <ThingInfo>Informații</ThingInfo>
+  <ThingInfo>TODO</ThingInfo>
   <!-- EN: Drop -->
-  <DropThing>Resurse rămase</DropThing>
+  <DropThing>TODO</DropThing>
   <!-- EN: Temporary faction members will not drop their items. -->
-  <DropThingLodger>Membrii facțiunii temporare nu vor renunța la obiectele lor.</DropThingLodger>
+  <DropThingLodger>TODO</DropThingLodger>
   <!-- EN: This person refuses to drop this. -->
-  <DropThingLocked>Această persoană refuză să renunțe la asta.</DropThingLocked>
+  <DropThingLocked>TODO</DropThingLocked>
   <!-- EN: Rename -->
-  <Rename>Redenumește</Rename>
+  <Rename>TODO</Rename>
   <!-- EN: Rename animal -->
-  <RenameAnimal>Redenumește animalul</RenameAnimal>
+  <RenameAnimal>TODO</RenameAnimal>
   <!-- EN: Rename colonist -->
-  <RenameColonist>Redenumire colonist</RenameColonist>
+  <RenameColonist>TODO</RenameColonist>
   <!-- EN: Renounce title -->
-  <RenounceTitle>Renunță la titlu</RenounceTitle>
+  <RenounceTitle>TODO</RenounceTitle>
   <!-- EN: Execute -->
-  <Execute>Execută</Execute>
+  <Execute>TODO</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>Execută colonistul vinovat\n\nDacă activați această opțiune, un gardian va executa această persoană.</ExecuteColonist>
+  <ExecuteColonist>TODO</ExecuteColonist>
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
-  <MessageColonistMarkedForExecution>{0_labelShort} este acum marcat pentru execuție. Următorul gardian disponibil va merge să execute {0_objective}.</MessageColonistMarkedForExecution>
+  <MessageColonistMarkedForExecution>TODO</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
-  <TitleOfFaction>{0} din {1}</TitleOfFaction>
+  <TitleOfFaction>TODO</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>Această acțiune va face ca {PAWN_nameDef} să-și piardă titlul {TITLE}. Nu veți primi nicio compensație pentru renunțarea la titlu.\n\nAcest lucru va avea următoarele efecte:\n\n{EFFECTS}</RenounceTitleDescription>
+  <RenounceTitleDescription>TODO</RenounceTitleDescription>
   <!-- EN: {PAWN_pronoun} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>{PAWN_possessive} va pierde aceste permisiuni</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLoosePermits>TODO</RenounceTitleWillLoosePermits>
   <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
   <RenounceTitleWillLosePermitPoints>TODO</RenounceTitleWillLosePermitPoints>
   <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
   <RenounceTitleWillKeepPsylinkLevels>TODO</RenounceTitleWillKeepPsylinkLevels>
   <!-- EN: unknown -->
-  <UnknownLower>necunoscut</UnknownLower>
+  <UnknownLower>TODO</UnknownLower>
   <!-- EN: On -->
-  <On>Pornit</On>
+  <On>TODO</On>
   <!-- EN: Off -->
-  <Off>Oprit</Off>
+  <Off>TODO</Off>
   <!-- EN: Power -->
-  <PowerSwitch_Power>Putere</PowerSwitch_Power>
+  <PowerSwitch_Power>TODO</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
-  <JoyTolerances>Toleranțe de tip recreativ</JoyTolerances>
+  <JoyTolerances>TODO</JoyTolerances>
   <!-- EN: Milk fullness -->
-  <MilkFullness>Plinătatea laptelui</MilkFullness>
+  <MilkFullness>TODO</MilkFullness>
   <!-- EN: Wool growth -->
-  <WoolGrowth>Creșterea lânii</WoolGrowth>
+  <WoolGrowth>TODO</WoolGrowth>
   <!-- EN: Egg progress -->
-  <EggProgress>Progresul ouălor</EggProgress>
+  <EggProgress>TODO</EggProgress>
   <!-- EN: Fertilized -->
-  <Fertilized>Fertilizat</Fertilized>
+  <Fertilized>TODO</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
-  <ProgressStoppedUntilFertilized>Progres oprit până la fertilizare</ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>TODO</ProgressStoppedUntilFertilized>
   <!-- EN: Hatches in -->
-  <HatchesIn>Eclozează în</HatchesIn>
+  <HatchesIn>TODO</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
-  <SkillTooLow>necesită {0} nivelul {2}, are {1}</SkillTooLow>
+  <SkillTooLow>TODO</SkillTooLow>
   <!-- EN: Freezing -->
-  <Freezing>Înghețare</Freezing>
+  <Freezing>TODO</Freezing>
   <!-- EN: Overheating -->
-  <Overheating>Supraîncălzire</Overheating>
+  <Overheating>TODO</Overheating>
   <!-- EN: Ruined by temperature. -->
-  <RuinedByTemperature>Ruinat de temperatură.</RuinedByTemperature>
+  <RuinedByTemperature>TODO</RuinedByTemperature>
   <!-- EN: Missing body parts -->
-  <CorpsePercentMissing>Părți ale corpului care lipsesc</CorpsePercentMissing>
+  <CorpsePercentMissing>TODO</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
-  <HiveReproducesIn>Se reproduce în</HiveReproducesIn>
+  <HiveReproducesIn>TODO</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
-  <DormantHiveNotReproducing>Adormit: Nu se reproduce.</DormantHiveNotReproducing>
+  <DormantHiveNotReproducing>TODO</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
-  <NextSpawnedItemIn>Următorul {0} în</NextSpawnedItemIn>
+  <NextSpawnedItemIn>TODO</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
-  <NextSpawnedResourceIn>Următoarea resursă în</NextSpawnedResourceIn>
+  <NextSpawnedResourceIn>TODO</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
-  <BrokenDown>Avariat</BrokenDown>
+  <BrokenDown>TODO</BrokenDown>
   <!-- EN: (bond) -->
-  <BondBrackets>(legătură)</BondBrackets>
+  <BondBrackets>TODO</BondBrackets>
   <!-- EN: Fuel -->
-  <Fuel>Combustibil</Fuel>
+  <Fuel>TODO</Fuel>
   <!-- EN: Fuel -->
-  <FuelLevelGizmoLabel>Combustibil</FuelLevelGizmoLabel>
+  <FuelLevelGizmoLabel>TODO</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
-  <SetTargetFuelLevel>Setează nivelul țintă de combustibil la {0}</SetTargetFuelLevel>
+  <SetTargetFuelLevel>TODO</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>Setează nivelul de combustibil țintă la {0}\nDistanța maximă: {1} țigle</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>TODO</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
-  <ConfiguredTargetFuelLevel>Nivelul de combustibil țintă: {0}</ConfiguredTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>TODO</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
-  <Enemies>inamici</Enemies>
+  <Enemies>TODO</Enemies>
   <!-- EN: people -->
-  <People>oameni</People>
+  <People>TODO</People>
   <!-- EN: time passed -->
-  <TimePassed>timpul trecut</TimePassed>
+  <TimePassed>TODO</TimePassed>
   <!-- EN: current radius -->
-  <CurrentRadius>raza curentă</CurrentRadius>
+  <CurrentRadius>TODO</CurrentRadius>
   <!-- EN: radius expands in -->
-  <RadiusExpandsIn>raza se extinde în</RadiusExpandsIn>
+  <RadiusExpandsIn>TODO</RadiusExpandsIn>
   <!-- EN: permanent -->
-  <Permanent>permanent</Permanent>
+  <Permanent>TODO</Permanent>
   <!-- EN: Resting -->
-  <CaravanResting>Odihnire</CaravanResting>
+  <CaravanResting>TODO</CaravanResting>
   <!-- EN: using 1 bedroll -->
-  <UsingBedroll>folosind 1 sac de dormit</UsingBedroll>
+  <UsingBedroll>TODO</UsingBedroll>
   <!-- EN: using {0} bedrolls -->
-  <UsingBedrolls>Folosind {0} saci de dormit</UsingBedrolls>
+  <UsingBedrolls>TODO</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
-  <CaravanEstimatedTimeToDestination>Timp estimat până la destinație: {0} zile</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedTimeToDestination>TODO</CaravanEstimatedTimeToDestination>
   <!-- EN: Route travel time: {0} days -->
-  <CaravanEstimatedDaysToDestination>Timp de călătorie pe traseu: {0} zile</CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>TODO</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
-  <CaravanImmobilizedByMass>Imobilizat: Prea multă greutate.</CaravanImmobilizedByMass>
+  <CaravanImmobilizedByMass>TODO</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
-  <CaravanOutOfFood>Fără mâncare.</CaravanOutOfFood>
+  <CaravanOutOfFood>TODO</CaravanOutOfFood>
   <!-- EN: Days of food: {0} -->
-  <CaravanDaysOfFood>Zile de mâncare: {0}</CaravanDaysOfFood>
+  <CaravanDaysOfFood>TODO</CaravanDaysOfFood>
   <!-- EN: Days of food: {0} (rot in {1} days) -->
-  <CaravanDaysOfFoodRot>Zile de mâncare: {0} (putrezire în {1} zile)</CaravanDaysOfFoodRot>
+  <CaravanDaysOfFoodRot>TODO</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
-  <AllCaravanMembersDowned>S-a oprit pentru că: Toată lumea este doborâtă.</AllCaravanMembersDowned>
+  <AllCaravanMembersDowned>TODO</AllCaravanMembersDowned>
   <!-- EN: Stopped because: Everyone is in a mental break. -->
-  <AllCaravanMembersMentalBreak>S-a oprit pentru că: Toată lumea este în cădere nervoasă.</AllCaravanMembersMentalBreak>
+  <AllCaravanMembersMentalBreak>TODO</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
-  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <CaravanColonistsCount>TODO</CaravanColonistsCount>
   <!-- EN: 1 animal -->
-  <CaravanAnimal>1 animal</CaravanAnimal>
+  <CaravanAnimal>TODO</CaravanAnimal>
   <!-- EN: {0} animals -->
-  <CaravanAnimalsCount>{0} animale</CaravanAnimalsCount>
+  <CaravanAnimalsCount>TODO</CaravanAnimalsCount>
   <!-- EN: 1 prisoner -->
-  <CaravanPrisoner>1 prizonier</CaravanPrisoner>
+  <CaravanPrisoner>TODO</CaravanPrisoner>
   <!-- EN: {0} prisoners -->
-  <CaravanPrisonersCount>{0} prizonieri</CaravanPrisonersCount>
+  <CaravanPrisonersCount>TODO</CaravanPrisonersCount>
   <!-- EN: {0} in mental state -->
-  <CaravanPawnsInMentalState>{0} în stare mentală</CaravanPawnsInMentalState>
+  <CaravanPawnsInMentalState>TODO</CaravanPawnsInMentalState>
   <!-- EN: {0} downed -->
-  <CaravanPawnsDowned>{0} doborâți</CaravanPawnsDowned>
+  <CaravanPawnsDowned>TODO</CaravanPawnsDowned>
   <!-- EN: Traveling. -->
-  <CaravanTraveling>Călătorind.</CaravanTraveling>
+  <CaravanTraveling>TODO</CaravanTraveling>
   <!-- EN: Waiting. -->
-  <CaravanWaiting>Așteptând.</CaravanWaiting>
+  <CaravanWaiting>TODO</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
-  <BeingCarriedDueToIllness>Este cărat din cauza bolii</BeingCarriedDueToIllness>
+  <BeingCarriedDueToIllness>TODO</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
-  <UsingBedrollsDueToIllness>Utilizează saltele de pat din cauza bolii</UsingBedrollsDueToIllness>
+  <UsingBedrollsDueToIllness>TODO</UsingBedrollsDueToIllness>
   <!-- EN: Current tile movement time -->
-  <CurrentTileMovementTime>Timpul curent de mișcare per țigle</CurrentTileMovementTime>
+  <CurrentTileMovementTime>TODO</CurrentTileMovementTime>
   <!-- EN: Visibility -->
-  <Visibility>Vizibilitate</Visibility>
+  <Visibility>TODO</Visibility>
   <!-- EN: Temperature -->
-  <Temperature>Temperatura</Temperature>
+  <Temperature>TODO</Temperature>
   <!-- EN: bad temperature -->
-  <BadTemperature>temperatură neadecvată</BadTemperature>
+  <BadTemperature>TODO</BadTemperature>
   <!-- EN: Ideal fermenting temperature -->
-  <IdealFermentingTemperature>Temperatura ideală de fermentare</IdealFermentingTemperature>
+  <IdealFermentingTemperature>TODO</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
-  <DrugEffectMultiplier>{0} multiplicator de efect: {1}</DrugEffectMultiplier>
+  <DrugEffectMultiplier>TODO</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
-  <CaravanVisiting>Vizitând {0}.</CaravanVisiting>
+  <CaravanVisiting>TODO</CaravanVisiting>
   <!-- EN: Entering {0}. -->
-  <CaravanEntering>Intrând în {0}.</CaravanEntering>
+  <CaravanEntering>TODO</CaravanEntering>
   <!-- EN: Attacking {0}. -->
-  <CaravanAttacking>Atacarea lui {0}.</CaravanAttacking>
+  <CaravanAttacking>TODO</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
-  <CaravanOfferingGifts>Oferind cadouri lui {0}.</CaravanOfferingGifts>
-  <!-- EN: Trading with {0} -->
-  <CaravanTrading>Comerț cu {0}</CaravanTrading>
+  <CaravanOfferingGifts>TODO</CaravanOfferingGifts>
+  <!-- EN: Trading with {0}. -->
+  <CaravanTrading>TODO</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>Pătat din cauza faptului că a fost purtat de un cadavru.</WasWornByCorpse>
+  <WasWornByCorpse>TODO</WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>T</WornByCorpseChar>
+  <WornByCorpseChar>TODO</WornByCorpseChar>
   <!-- EN: unroofed -->
-  <DeterioratingUnroofed>fără acoperiș</DeterioratingUnroofed>
+  <DeterioratingUnroofed>TODO</DeterioratingUnroofed>
   <!-- EN: outdoors -->
-  <DeterioratingOutdoors>în aer liber</DeterioratingOutdoors>
-  <!-- EN: Deteriorating because of -->
-  <DeterioratingBecauseOf>Deteriorarea din cauza</DeterioratingBecauseOf>
+  <DeterioratingOutdoors>TODO</DeterioratingOutdoors>
+  <!-- EN: raining -->
+  <DeterioratingRaining>TODO</DeterioratingRaining> 
+  <!-- EN: protected -->
+  <Protected>TODO</Protected>
+  <!-- EN: Deteriorating -->
+  <DeterioratingBecauseOf>TODO</DeterioratingBecauseOf>
+  <!-- EN: Will deteriorate in {0}. -->
+  <DeteriorateInDuration>TODO</DeteriorateInDuration>
   <!-- EN: Map -->
-  <Map>Hartă</Map>
+  <Map>TODO</Map>
   <!-- EN: {0} until enemies arrive -->
-  <CaravanDetectedRaidCountdown>{0} până la sosirea dușmanilor</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdown>TODO</CaravanDetectedRaidCountdown>
   <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
-  <CaravanDetectedRaidCountdownTip>Întăririle inamice vor sosi în această zonă în {0}.</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>TODO</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
-  <Room>Cameră</Room>
+  <Room>TODO</Room>
   <!-- EN: Beauty here -->
-  <BeautyHere>Frumusețe aici</BeautyHere>
-  <!-- EN: No power -->
-  <NoPower>Fără putere</NoPower>
-  <!-- EN: Work speed penalty -->
-  <WorkSpeedPenalty>Penalizare pentru viteza de lucru</WorkSpeedPenalty>
+  <BeautyHere>TODO</BeautyHere>
+  <!-- EN: no power -->
+  <NoPower>TODO</NoPower>
+  <!-- EN: Work speed -->
+  <WorkSpeedPenalty>TODO</WorkSpeedPenalty>
   <!-- EN: Disabled -->
-  <DisabledCommand>DEZACTIVAT</DisabledCommand>
+  <DisabledCommand>TODO</DisabledCommand>
   <!-- EN: Ready for launch. -->
-  <ReadyForLaunch>Gata de lansare.</ReadyForLaunch>
+  <ReadyForLaunch>TODO</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
-  <NotReadyForLaunch>Nu este pregătit pentru lansare</NotReadyForLaunch>
+  <NotReadyForLaunch>TODO</NotReadyForLaunch>
   <!-- EN: no fueling port -->
-  <NotAllInGroupConnectedToFuelingPort>niciun port de alimentare</NotAllInGroupConnectedToFuelingPort>
+  <NotAllInGroupConnectedToFuelingPort>TODO</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
-  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>nu există combustibil</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>TODO</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
-  <TransportPodInGroupHasSomethingLeftToLoad>încărcare în curs</TransportPodInGroupHasSomethingLeftToLoad>
+  <TransportPodInGroupHasSomethingLeftToLoad>TODO</TransportPodInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
-  <TransportPodDestinationBeyondMaximumRange>Dincolo de raza maximă de acțiune</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodDestinationBeyondMaximumRange>TODO</TransportPodDestinationBeyondMaximumRange>
   <!-- EN: Not enough fuel -->
-  <TransportPodNotEnoughFuel>Nu este suficient combustibil</TransportPodNotEnoughFuel>
+  <TransportPodNotEnoughFuel>TODO</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
-  <SettlementTrader>{0} din {1}</SettlementTrader>
+  <SettlementTrader>TODO</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
-  <RoomSurgerySuccessChanceFactor>Multiplicator al șansei de reușită a operației din cameră</RoomSurgerySuccessChanceFactor>
+  <RoomSurgerySuccessChanceFactor>TODO</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
-  <RoomInfectionChanceFactor>Multiplicator al șansei de infecție din cameră</RoomInfectionChanceFactor>
+  <RoomInfectionChanceFactor>TODO</RoomInfectionChanceFactor>
   <!-- EN: Closed -->
-  <VentClosed>Închis</VentClosed>
+  <VentClosed>TODO</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
-  <WornBy>purtat de {1_labelShort}</WornBy>
+  <WornBy>TODO</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>echipat de {1_labelShort}</EquippedBy>
+  <EquippedBy>TODO</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>{0} vrea asta distrusă.\n Recompensă: {1} ({2})</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>TODO</QuestTargetDestroyInspectString>
   <!-- EN: {0} wants this destroyed. -->
-  <QuestTargetDestroyInspectStringShort>{0} vrea asta distrusă.</QuestTargetDestroyInspectStringShort>
+  <QuestTargetDestroyInspectStringShort>TODO</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
-  <ShuttleDelayInspectString>Plecarea cu naveta în {0}</ShuttleDelayInspectString>
+  <ShuttleDelayInspectString>TODO</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
-  <ShuttleLeaveDelayInspectString>Plecarea în {0}</ShuttleLeaveDelayInspectString>
+  <ShuttleLeaveDelayInspectString>TODO</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
-  <ShouldDepartOnShuttleInspectString>Ar trebui să plece pe navetă</ShouldDepartOnShuttleInspectString>
+  <ShouldDepartOnShuttleInspectString>TODO</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
-  <WorldObjectTimeout>Timp rămas: {0}</WorldObjectTimeout>
+  <WorldObjectTimeout>TODO</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
-  <ClickToSortByThisColumn>Faceți clic pentru a sorta după această coloană.</ClickToSortByThisColumn>
+  <ClickToSortByThisColumn>TODO</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
-  <WorkPriorityShiftClickTip>Shift + clic: Crește prioritatea\nShift + clic dreapta: Diminuează prioritatea</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickTip>TODO</WorkPriorityShiftClickTip>
   <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
-  <WorkPriorityShiftClickEnableDisableTip>Shift + clic: Activează toate\nShift + clic dreapta: Dezactivați toate</WorkPriorityShiftClickEnableDisableTip>
+  <WorkPriorityShiftClickEnableDisableTip>TODO</WorkPriorityShiftClickEnableDisableTip>
   <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
-  <AllowedAreaShiftClickTip>Shift + clic: Setați toate la domiciliu\nShift + clic dreapta: Setați toate la nerestricționat</AllowedAreaShiftClickTip>
+  <AllowedAreaShiftClickTip>TODO</AllowedAreaShiftClickTip>
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
-  <CheckboxShiftClickTip>Shift + clic: Verifică tot\nShift + clic dreapta: Debifați toate</CheckboxShiftClickTip>
+  <CheckboxShiftClickTip>TODO</CheckboxShiftClickTip>
   <!-- EN: {0} {1} -->
-  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
+  <KnownSiteThreatEnemyCountAppend>TODO</KnownSiteThreatEnemyCountAppend>
   <!-- EN: Skill Requirements -->
-  <SkillRequirements>Cerințe privind competențele</SkillRequirements>
+  <SkillRequirements>TODO</SkillRequirements>
   <!-- EN: Products -->
-  <Products>Produse</Products>
+  <Products>TODO</Products>
+  <!-- EN: Requires -->
+  <Requires>TODO</Requires>
+  <!-- EN: {0}x any of -->
+  <NumAnyOf>TODO</NumAnyOf>
   <!-- EN: {0} of {1} -->
-  <Relationship>{0} din {1}</Relationship>
+  <Relationship>TODO</Relationship>
   <!-- EN: Prisoner -->
-  <Prisoner>Prizonier</Prisoner>
+  <Prisoner>TODO</Prisoner>
   <!-- EN: Refugee -->
-  <Refugee>Refugiat</Refugee>
+  <Refugee>TODO</Refugee>
   <!-- EN: Terrain movement difficulty -->
-  <TileMovementDifficulty>Dificultatea de mișcare a terenului</TileMovementDifficulty>
+  <TileMovementDifficulty>TODO</TileMovementDifficulty>
   <!-- EN: Impassable -->
-  <Impassable>Impasibil</Impassable>
+  <Impassable>TODO</Impassable>
   <!-- EN: Caravan movement speed -->
-  <CaravanMovementSpeedFull>Viteza de deplasare a caravanei</CaravanMovementSpeedFull>
+  <CaravanMovementSpeedFull>TODO</CaravanMovementSpeedFull>
   <!-- EN: downed -->
-  <DownedLower>doborât</DownedLower>
+  <DownedLower>TODO</DownedLower>
   <!-- EN: resting -->
-  <Carried>în repaus</Carried>
+  <Carried>TODO</Carried>
   <!-- EN: Rideable animals / people -->
-  <RideableAnimalsPerPeople>Animale călare / oameni</RideableAnimalsPerPeople>
+  <RideableAnimalsPerPeople>TODO</RideableAnimalsPerPeople>
   <!-- EN: Multiplier from ridden animals -->
-  <MultiplierFromRiddenAnimals>Multiplicator de la animalele călărețe</MultiplierFromRiddenAnimals>
+  <MultiplierFromRiddenAnimals>TODO</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
-  <MultiplierForCarriedMass>Multiplicatorul pentru masa transportată: {0}</MultiplierForCarriedMass>
+  <MultiplierForCarriedMass>TODO</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
-  <RideableAnimalTip>Acest animal poate fi călărit. Oamenii dintr-o caravană vor călări cele mai rapide animale disponibile, îmbunătățind viteza caravanei ca întreg.</RideableAnimalTip>
+  <RideableAnimalTip>TODO</RideableAnimalTip>
   <!-- EN: This caravan can't move because it carries too much. -->
-  <EncumberedCaravanTilesPerDayTip>Această caravană nu se poate deplasa pentru că transportă prea mult.</EncumberedCaravanTilesPerDayTip>
+  <EncumberedCaravanTilesPerDayTip>TODO</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
-  <FinalCaravanPawnsMovementSpeed>Viteza membrilor caravanei</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanPawnsMovementSpeed>TODO</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
-  <FinalCaravanMovementSpeed>Viteza finală</FinalCaravanMovementSpeed>
+  <FinalCaravanMovementSpeed>TODO</FinalCaravanMovementSpeed>
   <!-- EN: Winter -->
-  <Winter>Iarna</Winter>
+  <Winter>TODO</Winter>
   <!-- EN: {0} in winter -->
-  <MovementDifficultyOffsetInWinter>{0} în timpul iernii</MovementDifficultyOffsetInWinter>
+  <MovementDifficultyOffsetInWinter>TODO</MovementDifficultyOffsetInWinter>
   <!-- EN: to -->
-  <RangeTo>la</RangeTo>
+  <RangeTo>TODO</RangeTo>
   <!-- EN: No letter -->
-  <NoDietCategoryLetter>Fără literă</NoDietCategoryLetter>
+  <NoDietCategoryLetter>TODO</NoDietCategoryLetter>
   <!-- EN: Expires in -->
-  <ExpiresIn>Expiră în</ExpiresIn>
+  <ExpiresIn>TODO</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
-  <CaravanLeaderCaravanName>Caravana lui {1_labelShort}</CaravanLeaderCaravanName>
+  <CaravanLeaderCaravanName>TODO</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
-  <Reason>Motiv</Reason>
+  <Reason>TODO</Reason>
   <!-- EN: Relations with {0} -->
-  <RelationsWith>Relații cu {0}</RelationsWith>
+  <RelationsWith>TODO</RelationsWith>
   <!-- EN: captured by {0} -->
-  <capturedBy>capturat de {0}</capturedBy>
+  <capturedBy>TODO</capturedBy>
   <!-- EN: your caravan -->
-  <yourCaravan>caravana ta</yourCaravan>
+  <yourCaravan>TODO</yourCaravan>
   <!-- EN: {0} wildness -->
-  <CreatureWildness>{0} sălbăticie</CreatureWildness>
+  <CreatureWildness>TODO</CreatureWildness>
   <!-- EN: {0} trainability -->
-  <CreatureTrainability>{0} antrenabilitate</CreatureTrainability>
+  <CreatureTrainability>TODO</CreatureTrainability>
   <!-- EN: Follow master while drafted -->
-  <CreatureFollowDrafted>Urmează stăpânul în timp ce este redactat</CreatureFollowDrafted>
+  <CreatureFollowDrafted>TODO</CreatureFollowDrafted>
   <!-- EN: Follow master while doing field work -->
-  <CreatureFollowFieldwork>Urmează stăpânul în timp ce face muncă de teren</CreatureFollowFieldwork>
+  <CreatureFollowFieldwork>TODO</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
-  <ProximitySingleGoodwillChange>{0} cu {1}</ProximitySingleGoodwillChange>
+  <ProximitySingleGoodwillChange>TODO</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <EnterCooldown>Prea periculos pentru a reintra pentru {0}.</EnterCooldown>
+  <EnterCooldown>TODO</EnterCooldown>
   <!-- EN: Caravan -->
-  <Caravan>Caravană</Caravan>
+  <Caravan>TODO</Caravan>
   <!-- EN: there may be danger there. -->
-  <HiddenOrNoSitePartDescription>este posibil să existe un pericol acolo.</HiddenOrNoSitePartDescription>
+  <HiddenOrNoSitePartDescription>TODO</HiddenOrNoSitePartDescription>
   <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
-  <PreciousLumpHostileThreat>Scanerul detectează activitate în jurul bulgărului. Este probabil ostil.</PreciousLumpHostileThreat>
+  <PreciousLumpHostileThreat>TODO</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
-  <PreciousLumpLabel>bucată de {0}</PreciousLumpLabel>
+  <PreciousLumpLabel>TODO</PreciousLumpLabel>
   <!-- EN: no active research project -->
-  <NoActiveResearchProjectToFinish>niciun proiect de cercetare activ</NoActiveResearchProjectToFinish>
+  <NoActiveResearchProjectToFinish>TODO</NoActiveResearchProjectToFinish>
   <!-- EN: turret -->
-  <Turret>turelă</Turret>
+  <Turret>TODO</Turret>
   <!-- EN: turrets -->
-  <Turrets>turele</Turrets>
+  <Turrets>TODO</Turrets>
   <!-- EN: mortar -->
-  <Mortar>mortar</Mortar>
+  <Mortar>TODO</Mortar>
   <!-- EN: mortars -->
-  <Mortars>mortiere</Mortars>
+  <Mortars>TODO</Mortars>
   <!-- EN: enemy -->
-  <Enemy>inamic</Enemy>
+  <Enemy>TODO</Enemy>
   <!-- EN: location -->
-  <Location>locație</Location>
+  <Location>TODO</Location>
   <!-- EN: animals -->
-  <AnimalsLower>animale</AnimalsLower>
+  <AnimalsLower>TODO</AnimalsLower>
   <!-- EN: items -->
   <ItemsLower>TODO</ItemsLower>
   <!-- EN: {0} x{1} -->
-  <FilthLabel>{0} x{1}</FilthLabel>
+  <FilthLabel>TODO</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
-  <FilthLabelWithSource>{0} din {1} x{2}</FilthLabelWithSource>
+  <FilthLabelWithSource>TODO</FilthLabelWithSource>
   <!-- EN: Required -->
-  <Required>Necesar</Required>
+  <Required>TODO</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>Avertisment: Nu puteți finaliza cererile de comerț folosind navetele de transport.\nDacă trimiteți bunurile, așezarea le va accepta ca daruri, dar nu vă va recompensa.\n\nPentru comerț, apropiați-vă de așezare cu o caravană!\n\nSunteți sigur că doriți să oferiți bunurile încărcate facțiunii?</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>TODO</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
-  <PrisonerLower>prizonier</PrisonerLower>
+  <PrisonerLower>TODO</PrisonerLower>
   <!-- EN: prisoners -->
-  <PrisonersLower>prizonieri</PrisonersLower>
+  <PrisonersLower>TODO</PrisonersLower>
   <!-- EN: Click to view this quest in quests tab -->
-  <ClickToViewInQuestsTab>Fă clic pentru a vedea această misiune în tab-ul misiuni</ClickToViewInQuestsTab>
+  <ClickToViewInQuestsTab>TODO</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
-  <Mood>Dispoziție</Mood>
+  <Mood>TODO</Mood>
   <!-- EN: Quest -->
-  <Quest>Misiune</Quest>
+  <Quest>TODO</Quest>
   <!-- EN: Brings raids every {0} -->
-  <BringsRaidsEvery>Aduce raiduri la fiecare {0}</BringsRaidsEvery>
+  <BringsRaidsEvery>TODO</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->
-  <GeneratesResourcesEvery>Generează {0} la fiecare {1}</GeneratesResourcesEvery>
+  <GeneratesResourcesEvery>TODO</GeneratesResourcesEvery>
   <!-- EN: Foliage kill radius -->
-  <FoliageKillRadius>Raza de distrugere a frunzelor</FoliageKillRadius>
+  <FoliageKillRadius>TODO</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
-  <RadiusExpandRate>Rata de extindere a razei</RadiusExpandRate>
+  <RadiusExpandRate>TODO</RadiusExpandRate>
   <!-- EN: View: {0} -->
-  <ViewHyperlink>Vezi: {0}</ViewHyperlink>
+  <ViewHyperlink>TODO</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
-  <DetonationCountdown>Detonează în {0} zile</DetonationCountdown>
-  <!-- EN: Large fire explosion if damaged -->
-  <ExplosionOnDamageWarning>Explozie mare în caz de avarie</ExplosionOnDamageWarning>
+  <DetonationCountdown>TODO</DetonationCountdown>
+  <!-- EN: Large fire explosion if damaged. -->
+  <ExplosionOnDamageWarning>TODO</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
-  <MechCluster>Cluster Mech</MechCluster>
+  <MechCluster>TODO</MechCluster>
   <!-- EN: Spawning in {0} -->
-  <SpawningNextPawnIn>Se va crea în {0}</SpawningNextPawnIn>
+  <SpawningNextPawnIn>TODO</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
-  <MechAssemblyCompleteIn>{0} asamblarea se finalizează în {1}.</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>TODO</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
-  <MechAssemblyNextType>Va asambla</MechAssemblyNextType>
+  <MechAssemblyNextType>TODO</MechAssemblyNextType>
   <!-- EN: produced -->
-  <ThingsProduced>produse</ThingsProduced>
+  <ThingsProduced>TODO</ThingsProduced>
   <!-- EN: harvested -->
-  <PlantsHarvested>recoltate</PlantsHarvested>
+  <PlantsHarvested>TODO</PlantsHarvested>
   <!-- EN: {0} killed -->
-  <PawnsKilled>{0} uciși</PawnsKilled>
+  <PawnsKilled>TODO</PawnsKilled>
   <!-- EN: Sent {0}, will return in {1} -->
-  <PawnsLent>A fost trimis {0}, se va întoarce în {1}</PawnsLent>
+  <PawnsLent>TODO</PawnsLent>
   <!-- EN: Dormant -->
-  <DormantCompInactive>Adormit</DormantCompInactive>
+  <DormantCompInactive>TODO</DormantCompInactive>
   <!-- EN: Sealed -->
-  <DormantCompSealed>Sigilat</DormantCompSealed>
+  <DormantCompSealed>TODO</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
-  <DormantCompBeacon>Gata să arunce mecanoizi</DormantCompBeacon>
+  <DormantCompBeacon>TODO</DormantCompBeacon>
   <!-- EN: Expired -->
-  <DormantCompExpired>Expirat</DormantCompExpired>
+  <DormantCompExpired>TODO</DormantCompExpired>
   <!-- EN: Initiates in -->
-  <InitiatesIn>Se inițiază în</InitiatesIn>
+  <InitiatesIn>TODO</InitiatesIn>
   <!-- EN: Activates in {0} -->
-  <SendSignalOnCountdownCompTime>Se activează în {0}</SendSignalOnCountdownCompTime>
+  <SendSignalOnCountdownCompTime>TODO</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
-  <PsychicEntropy>Căldură neuronală</PsychicEntropy>
+  <PsychicEntropy>TODO</PsychicEntropy>
   <!-- EN: Heat -->
-  <PsychicEntropyShort>Căldură</PsychicEntropyShort>
+  <PsychicEntropyShort>TODO</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
-  <PsychicEntropyPainFocus>{0} impuls de durere</PsychicEntropyPainFocus>
+  <PsychicEntropyPainFocus>TODO</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
-  <ConditionCauserRadius>raza {0}</ConditionCauserRadius>
+  <ConditionCauserRadius>TODO</ConditionCauserRadius>
   <!-- EN: low psyfocus -->
-  <LowPsyfocus>Psyfocus scăzut</LowPsyfocus>
+  <LowPsyfocus>TODO</LowPsyfocus>
   <!-- EN: {0} left -->
-  <DurationLeft>{0} rămas</DurationLeft>
+  <DurationLeft>TODO</DurationLeft>
   <!-- EN: Any of -->
-  <AnyOf>Orice din</AnyOf>
+  <AnyOf>TODO</AnyOf>
   <!-- EN: Requires {0} trait -->
-  <TraitRequired>Necesită o trăsătură {0}</TraitRequired>
+  <TraitRequired>TODO</TraitRequired>
   <!-- EN: Goodwill -->
-  <Goodwill>Bunăvoință</Goodwill>
+  <Goodwill>TODO</Goodwill>
   <!-- EN: Natural goodwill -->
-  <NaturalGoodwill>Bunăvoință naturală</NaturalGoodwill>
+  <NaturalGoodwill>TODO</NaturalGoodwill>
   <!-- EN: Natural goodwill range -->
-  <NaturalGoodwillRange>Gama de bunăvoință naturală</NaturalGoodwillRange>
+  <NaturalGoodwillRange>TODO</NaturalGoodwillRange>
   <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
-  <NaturalGoodwillDescription>Bunăvoința naturală se bazează pe identitățile și credințele facțiunilor. Dacă bunăvoința actuală este departe de bunăvoința naturală, aceasta se va îndrepta încet spre bunăvoința naturală în timp.\n\nToate efectele de bunăvoință sunt înmulțite cu {0} atunci când se îndreaptă spre bunăvoința naturală.</NaturalGoodwillDescription>
+  <NaturalGoodwillDescription>TODO</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
-  <JobReport_ReduceResistance>reducerea rezistenței lui {0_nameIndef}</JobReport_ReduceResistance>
+  <JobReport_ReduceResistance>TODO</JobReport_ReduceResistance>
   <!-- EN: Too large -->
-  <TooLargeForBed>Prea mare</TooLargeForBed>
+  <TooLargeForBed>TODO</TooLargeForBed>
   <!-- EN: Warning -->
-  <Warning>Avertisment</Warning>
+  <Warning>TODO</Warning>
   <!-- EN: Has subquest -->
-  <HasSubquest>Are submisiune</HasSubquest>
+  <HasSubquest>TODO</HasSubquest>
   <!-- EN: Subquest of -->
-  <SubquestOf>Submisiune a</SubquestOf>
+  <SubquestOf>TODO</SubquestOf>
   <!-- EN: Raid -->
-  <Raid>Raid</Raid>
+  <Raid>TODO</Raid>
   <!-- EN: Disabled by -->
-  <ApparelRequirementDisabledLabel>Dezactivat de</ApparelRequirementDisabledLabel>
+  <ApparelRequirementDisabledLabel>TODO</ApparelRequirementDisabledLabel>
   <!-- EN: Nudism -->
-  <Nudism>Nudism</Nudism>
+  <Nudism>TODO</Nudism>
   <!-- EN: Study progress -->
-  <StudyProgress>Progresul studiului</StudyProgress>
+  <StudyProgress>TODO</StudyProgress>
   <!-- EN: completed -->
-  <StudyCompleted>finalizat</StudyCompleted>
+  <StudyCompleted>TODO</StudyCompleted>
   <!-- EN: Attack this to destroy it. -->
-  <AttackToDestroy>Atacă asta pentru a o distruge</AttackToDestroy>
+  <AttackToDestroy>TODO</AttackToDestroy>
   <!-- EN: Remove this by attacking it. -->
-  <RemoveByAttackingTooltip>Înlătură asta prin a ataca-o</RemoveByAttackingTooltip>
+  <RemoveByAttackingTooltip>TODO</RemoveByAttackingTooltip>
   <!-- EN: Food -->
   <ThoughtFoodEatenFood>TODO</ThoughtFoodEatenFood>
   <!-- EN: Ingredients -->
   <ThoughtFoodEatenIngredients>TODO</ThoughtFoodEatenIngredients>
+  <!-- EN: Shield pack -->
+  <ShieldInbuilt>TODO</ShieldInbuilt>
+  <!-- EN: Punctured - will explode soon. -->
+  <PuncturedWillExplode>TODO</PuncturedWillExplode>
+  <!-- EN: Click to open research window -->
+  <ClickToOpenResearchTab>TODO</ClickToOpenResearchTab>
+  <!-- EN: Target belongs to another faction. -->
+  <TargetBelongsToNPCFaction>TODO</TargetBelongsToNPCFaction>
+  <!-- EN: more -->
+  <MoreLower>TODO</MoreLower>
+  <!-- EN: Requires -->
+  <RequiredTechprintTip>TODO</RequiredTechprintTip>
+  <!-- EN: size -->
+  <Size>TODO</Size>
+  <!-- EN: cost -->
+  <Cost>TODO</Cost>
+  <!-- EN: Title -->
+  <BackstoryTitle>TODO</BackstoryTitle><!-- text_todo -->
+  <!-- EN: person -->
+  <Person>TODO</Person>
 
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
-  <UserScanAbility>Viteza de scanare a utilizatorului</UserScanAbility>
+  <UserScanAbility>TODO</UserScanAbility>
   <!-- EN: Random find interval -->
-  <ScanAverageInterval>Interval de căutare aleatorie</ScanAverageInterval>
+  <ScanAverageInterval>TODO</ScanAverageInterval>
   <!-- EN: Progress to guaranteed find -->
-  <ScanningProgressToGuaranteedFind>Progresul spre o descoperire garantată</ScanningProgressToGuaranteedFind>
+  <ScanningProgressToGuaranteedFind>TODO</ScanningProgressToGuaranteedFind>
   
   <!-- Meditation -->
   <!-- EN: meditating at -->
-  <MeditatingAt>meditează la</MeditatingAt>
+  <MeditatingAt>TODO</MeditatingAt>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
-  <ContainsWort>Conține {0} / {1} must.</ContainsWort>
+  <ContainsWort>TODO</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
-  <ContainsBeer>Conține {0} / {1} bere.</ContainsBeer>
+  <ContainsBeer>TODO</ContainsBeer>
   <!-- EN: Contains -->
-  <Contains>Conține</Contains>
+  <Contains>TODO</Contains>
   <!-- EN: Fermented -->
-  <Fermented>Fermentat</Fermented>
+  <Fermented>TODO</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
-  <FermentationProgress>Progresul: {0} ({1} rămas)</FermentationProgress>
+  <FermentationProgress>TODO</FermentationProgress>
   <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
-  <FermentationBarrelOutOfIdealTemperature>Temperatură non-ideală. Viteza de fermentare: {0}</FermentationBarrelOutOfIdealTemperature>
+  <FermentationBarrelOutOfIdealTemperature>TODO</FermentationBarrelOutOfIdealTemperature>
 
   <!-- TextMotes -->
   <!-- EN: Headshot -->
-  <Headshot>Headshot</Headshot>
+  <Headshot>TODO</Headshot>
   <!-- EN: Treatment success!\n{0} chance -->
-  <TextMote_TreatSuccess>Tratament reușit!\n{0} șanse</TextMote_TreatSuccess>
+  <TextMote_TreatSuccess>TODO</TextMote_TreatSuccess>
   <!-- EN: Treatment failed\n{0} chance -->
-  <TextMote_TreatFailed>Tratamentul a eșuat\n{0} șanse</TextMote_TreatFailed>
+  <TextMote_TreatFailed>TODO</TextMote_TreatFailed>
   <!-- EN: Harvest\nbotched -->
-  <TextMote_HarvestFailed>recoltă\nrasolită</TextMote_HarvestFailed>
+  <TextMote_HarvestFailed>TODO</TextMote_HarvestFailed>
   <!-- EN: Yield\nwasted -->
-  <TextMote_YieldWasted>recoltă\nirosită</TextMote_YieldWasted>
+  <TextMote_YieldWasted>TODO</TextMote_YieldWasted>
   <!-- EN: Product\nwasted -->
-  <TextMote_ProductWasted>Produs irosit</TextMote_ProductWasted>
+  <TextMote_ProductWasted>TODO</TextMote_ProductWasted>
   <!-- EN: Recruit failed!\n{0} chance -->
-  <TextMote_RecruitFail>Recrutarea a eșuat!\n{0} șanse</TextMote_RecruitFail>
+  <TextMote_RecruitFail>TODO</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
-  <TextMote_ResistanceReduced>Rezistență\n{0} la {1}</TextMote_ResistanceReduced>
+  <TextMote_ResistanceReduced>TODO</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
-  <TextMote_TameFail>Îmblânzirea a eșuat\n{0} șanse</TextMote_TameFail>
+  <TextMote_TameFail>TODO</TextMote_TameFail>
   <!-- EN: Tamed! -->
-  <TextMote_TameSuccess>Îmblânzit!</TextMote_TameSuccess>
+  <TextMote_TameSuccess>TODO</TextMote_TameSuccess>
   <!-- EN: Failed training: {0}\n{1} chance -->
-  <TextMote_TrainFail>Antrenare eșuată: {0}\n{1} șansă</TextMote_TrainFail>
+  <TextMote_TrainFail>TODO</TextMote_TrainFail>
   <!-- EN: Trained: {0}\n{1} chance -->
-  <TextMote_TrainSuccess>Antrenat: {0}\n{1} șansă</TextMote_TrainSuccess>
+  <TextMote_TrainSuccess>TODO</TextMote_TrainSuccess>
   <!-- EN: Repair\nbotched -->
-  <TextMote_FixBrokenDownBuildingFail>Reparație\nrasolită</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_FixBrokenDownBuildingFail>TODO</TextMote_FixBrokenDownBuildingFail>
   <!-- EN: Construction\nbotched -->
-  <TextMote_ConstructionFail>Construcție\nrasolită</TextMote_ConstructionFail>
+  <TextMote_ConstructionFail>TODO</TextMote_ConstructionFail>
   <!-- EN: Dodge -->
-  <TextMote_Dodge>Dodge</TextMote_Dodge>
+  <TextMote_Dodge>TODO</TextMote_Dodge>
   <!-- EN: Immune -->
-  <TextMote_Immune>Imun</TextMote_Immune>
+  <TextMote_Immune>TODO</TextMote_Immune>
   <!-- EN: {0} tended -->
-  <TextMote_Tended>{0} tratat</TextMote_Tended>
+  <TextMote_Tended>TODO</TextMote_Tended>
   <!-- EN: level {0} -->
-  <TextMote_SkillUp>nivel {0}</TextMote_SkillUp>
+  <TextMote_SkillUp>TODO</TextMote_SkillUp>
   <!-- EN: low mood -->
-  <lowMood>dispoziție scăzută</lowMood>
+  <lowMood>TODO</lowMood>
   <!-- EN: low opinion -->
-  <lowOpinion>opinie scăzută</lowOpinion>
+  <lowOpinion>TODO</lowOpinion>
 
   <!-- Areas -->
   <!-- EN: Home -->
-  <Home>Acasă</Home>
+  <Home>TODO</Home>
   <!-- EN: Build roof -->
-  <BuildRoof>Construiește un acoperiș</BuildRoof>
+  <BuildRoof>TODO</BuildRoof>
   <!-- EN: No roof -->
-  <NoRoof>Fără acoperiș</NoRoof>
+  <NoRoof>TODO</NoRoof>
   <!-- EN: Snow clear -->
-  <SnowClear>Zăpadă curată</SnowClear>
+  <SnowClear>TODO</SnowClear>
   <!-- EN: Area {0} -->
-  <AreaDefaultLabel>Zona {0}</AreaDefaultLabel>
+  <AreaDefaultLabel>TODO</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
-  <NoAreaAllowed>Nerestricționat</NoAreaAllowed>
+  <NoAreaAllowed>TODO</NoAreaAllowed>
   <!-- EN: New area -->
-  <NewArea>Zonă nouă</NewArea>
+  <NewArea>TODO</NewArea>
   <!-- EN: Invert -->
-  <InvertArea>Inversează</InvertArea>
+  <InvertArea>TODO</InvertArea>
 
   <!-- Animal pens -->
   <!-- EN: Unenclosed -->
-  <PenUnenclosedLabel>Neînchis</PenUnenclosedLabel>
+  <PenUnenclosedLabel>TODO</PenUnenclosedLabel>
   <!-- EN: open door -->
-  <PenOpenDoorLabel>ușă deschisă</PenOpenDoorLabel>
+  <PenOpenDoorLabel>TODO</PenOpenDoorLabel>
   <!-- EN: Rename pen -->
-  <RenameAnimalPen>Redenumește țarcul</RenameAnimalPen>
+  <RenameAnimalPen>TODO</RenameAnimalPen>
   <!-- EN: Pen marker {0} -->
-  <AnimalPenMarkerDefaultLabel>Marcator țarc {0}</AnimalPenMarkerDefaultLabel>
+  <AnimalPenMarkerDefaultLabel>TODO</AnimalPenMarkerDefaultLabel>
   <!-- EN: In pen -->
-  <InPen>În țarc</InPen>
+  <InPen>TODO</InPen>
   <!-- EN: not in a pen -->
-  <Unpenned>nu e în țarc</Unpenned>
+  <Unpenned>TODO</Unpenned>
   <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
-  <UnpennedTooltip>Țarcurile pentru animale pot fi create prin construirea unui marcator în interiorul unei zone închise. Îngrijitorii vor aduce animalele într-un țarc corespunzător. Țarcurile pot fi închise cu garduri, baricade, ziduri și uși.</UnpennedTooltip>
+  <UnpennedTooltip>TODO</UnpennedTooltip>
   <!-- EN: Roped by -->
-  <RopedByPawn>legat cu funie de</RopedByPawn>
+  <RopedByPawn>TODO</RopedByPawn>
   <!-- EN: Roped to -->
-  <RopedToThing>legat cu funie de</RopedToThing>
+  <RopedToThing>TODO</RopedToThing>
   <!-- EN: Roped to spot. -->
-  <RopedToSpot>legat cu funie de loc.</RopedToSpot>
+  <RopedToSpot>TODO</RopedToSpot>
   <!-- EN: Pen size -->
-  <PenSizeLabel>Dimensiunea țarcului</PenSizeLabel>
+  <PenSizeLabel>TODO</PenSizeLabel>
   <!-- EN: Very small pen -->
-  <PenSizeDesc_VerySmall>Țarc foarte mic</PenSizeDesc_VerySmall>
+  <PenSizeDesc_VerySmall>TODO</PenSizeDesc_VerySmall>
   <!-- EN: Small pen -->
-  <PenSizeDesc_Small>Țarc mic</PenSizeDesc_Small>
+  <PenSizeDesc_Small>TODO</PenSizeDesc_Small>
   <!-- EN: Medium-sized pen -->
-  <PenSizeDesc_Medium>Țarc de mărime medie</PenSizeDesc_Medium>
+  <PenSizeDesc_Medium>TODO</PenSizeDesc_Medium>
   <!-- EN: Large pen -->
-  <PenSizeDesc_Large>Țarc mare</PenSizeDesc_Large>
+  <PenSizeDesc_Large>TODO</PenSizeDesc_Large>
   <!-- EN: Not enclosed - build fences -->
-  <PenSizeDesc_Unenclosed>Nu este închis - construiți garduri</PenSizeDesc_Unenclosed>
+  <PenSizeDesc_Unenclosed>TODO</PenSizeDesc_Unenclosed>
   <!-- EN: {ANIMALDEF_label} capacity -->
-  <PenCapacityDesc>capacitate de {ANIMALDEF_label}</PenCapacityDesc>
+  <PenCapacityDesc>TODO</PenCapacityDesc>
   <!-- EN: Example animals -->
-  <PenExampleAnimals>Animale de exemplu</PenExampleAnimals>
+  <PenExampleAnimals>TODO</PenExampleAnimals>
+  <!-- EN: No exterior access - Animals cannot be moved in or out. -->
+  <NoExteriorAccess>TODO</NoExteriorAccess>
 
+  <!-- Cell Inspector -->
+  <!-- EN: Beauty -->
+  <Beauty_Label>TODO</Beauty_Label>
+  <!-- EN: Zone -->
+  <Zone_Label>TODO</Zone_Label>
+  <!-- EN: Roof -->
+  <Roof_Label>TODO</Roof_Label>
+  <!-- EN: Terrain -->
+  <Terrain_Label>TODO</Terrain_Label>
+  <!-- EN: Snow -->
+  <Snow_Label>TODO</Snow_Label>
+  <!-- EN: Walk speed -->
+  <WalkSpeed_Label>TODO</WalkSpeed_Label>
+  <!-- EN: Fertility -->
+  <Fertility_Label>TODO</Fertility_Label>
+  <!-- EN: Temperature -->
+  <Temperature_Label>TODO</Temperature_Label>
+  <!-- EN: Light level -->
+  <LightLevel_Label>TODO</LightLevel_Label>
+  <!-- EN: Biome -->
+  <Biome_Label>TODO</Biome_Label>
+  <!-- EN: Hilliness -->
+  <Hilliness_Label>TODO</Hilliness_Label>
+  <!-- EN: Road -->
+  <Road_Label>TODO</Road_Label>
+  <!-- EN: River -->
+  <River_Label>TODO</River_Label> 
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty_Label>TODO</MovementDifficulty_Label>
+  <!-- EN: Pollution -->
+  <Pollution_Label>TODO</Pollution_Label>
+  <!-- EN: Filth -->
+  <Filth_Label>TODO</Filth_Label>
+  
+  <!-- EN: Faction -->
+  <Faction_Label>TODO</Faction_Label>
+  <!-- EN: Relationship -->
+  <Relationship_Label>TODO</Relationship_Label>
+  <!-- EN: Colonists -->
+  <CaravanColonists_Label>TODO</CaravanColonists_Label>
+  <!-- EN: Status -->
+  <CaravanStatus_Label>TODO</CaravanStatus_Label>
+  <!-- EN: Time to destination -->
+  <CaravanTTD_Label>TODO</CaravanTTD_Label>
+  
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
-  <CannotOrderNonControlled>Nu poți comanda personaje pe care nu le controlezi.</CannotOrderNonControlled>
+  <CannotOrderNonControlled>TODO</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{1_labelShort} este incapabil de violență.</IsIncapableOfViolence>
+  <IsIncapableOfViolence>TODO</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
-  <IsIncapableOfViolenceShort>incapabil de violență</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>TODO</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{1_labelShort} nu este recrutat.</IsNotDrafted>
+  <IsNotDrafted>TODO</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
-  <ApparelPreventsShooting>{PAWN_nameDef} nu poate folosi arme de distanță din cauza  {APPAREL_label} {PAWN_possessive}.</ApparelPreventsShooting>
+  <ApparelPreventsShooting>TODO</ApparelPreventsShooting>
 
   <!-- Snow -->
+  <!-- EN: Snow -->
+  <Snow>TODO</Snow>
   <!-- EN: No snow -->
-  <SnowNone>Fără zăpada</SnowNone>
-  <!-- EN: Snow (dusting) -->
-  <SnowDusting>Zăpadă (puțină)</SnowDusting>
-  <!-- EN: Snow (thin) -->
-  <SnowThin>Zăpadă (strat mic)</SnowThin>
-  <!-- EN: Snow (medium) -->
-  <SnowMedium>Zăpadă (strat mediu)</SnowMedium>
-  <!-- EN: Snow (thick) -->
-  <SnowThick>Zăpadă (strat gros)</SnowThick>
+  <SnowNone>TODO</SnowNone>
+  <!-- EN: dusting -->
+  <SnowDusting>TODO</SnowDusting>
+  <!-- EN: thin -->
+  <SnowThin>TODO</SnowThin>
+  <!-- EN: medium -->
+  <SnowMedium>TODO</SnowMedium>
+  <!-- EN: thick -->
+  <SnowThick>TODO</SnowThick>
 
   <!-- Turrets -->
   <!-- EN: Installed -->
-  <GunInstalled>Instalat</GunInstalled>
+  <GunInstalled>TODO</GunInstalled>
   <!-- EN: Minimum range -->
-  <MinimumRange>Rază minimă</MinimumRange>
+  <MinimumRange>TODO</MinimumRange>
   <!-- EN: Can fire in -->
-  <CanFireIn>Poate trage în</CanFireIn>
+  <CanFireIn>TODO</CanFireIn>
   <!-- EN: Cannot fire -->
-  <CannotFire>Nu se poate trage</CannotFire>
+  <CannotFire>TODO</CannotFire>
   <!-- EN: roofed -->
-  <Roofed>cu acoperiș</Roofed>
+  <Roofed>TODO</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>Shell încărcat: {1_label}</ShellLoaded>
+  <ShellLoaded>TODO</ShellLoaded>
   <!-- EN: Not loaded -->
-  <ShellNotLoaded>Nu este încărcată</ShellNotLoaded>
+  <ShellNotLoaded>TODO</ShellNotLoaded>
+  <!-- EN: Already active -->
+  <AlreadyActive>TODO</AlreadyActive>
+  <!-- EN: Order activation -->
+  <OrderActivation>TODO</OrderActivation>
+  <!-- EN: Order a colonist to activate {THING_definite}. -->
+  <OrderActivationDesc>TODO</OrderActivationDesc>
+  <!-- EN: Must be activated by a colonist. -->
+  <MustBeActivatedByColonist>TODO</MustBeActivatedByColonist>
+  <!-- EN: No nearby fire -->
+  <NoNearbyFire>TODO</NoNearbyFire>
+  <!-- EN: No nearby fire. No fuel was used. -->
+  <NoNearbyFireNoFuelUsed>TODO</NoNearbyFireNoFuelUsed>
+  <!-- EN: Choose who should activate this. -->
+  <ChooseWhoShouldActivate>TODO</ChooseWhoShouldActivate>
+  <!-- EN: No fuel -->
+  <NoFuel>TODO</NoFuel>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>cară {THING_label} la {DESTINATION}.</ReportHaulingTo>
+  <ReportHaulingTo>TODO</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>îngroapă {THING_label} în {DESTINATION}.</ReportHaulingToGrave>
+  <ReportHaulingToGrave>TODO</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>cară {1_label}.</ReportHauling>
+  <ReportHauling>TODO</ReportHauling>
   <!-- EN: hauling. -->
-  <ReportHaulingUnknown>cară.</ReportHaulingUnknown>
+  <ReportHaulingUnknown>TODO</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
-  <ReportSleeping>Doarme.</ReportSleeping>
+  <ReportSleeping>TODO</ReportSleeping>
   <!-- EN: resting. -->
-  <ReportResting>Se odihnește.</ReportResting>
+  <ReportResting>TODO</ReportResting>
   <!-- EN: laying down. -->
-  <ReportLayingDown>stând pe jos.</ReportLayingDown>
+  <ReportLayingDown>TODO</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
-  <WatchingSunrise>urmărește răsăritul soarelui.</WatchingSunrise>
+  <WatchingSunrise>TODO</WatchingSunrise>
   <!-- EN: cloudwatching. -->
-  <CloudWatching>observă norii.</CloudWatching>
+  <CloudWatching>TODO</CloudWatching>
   <!-- EN: watching the sunset. -->
-  <WatchingSunset>urmărește apusul soarelui.</WatchingSunset>
+  <WatchingSunset>TODO</WatchingSunset>
   <!-- EN: stargazing. -->
-  <Stargazing>observă stelele.</Stargazing>
+  <Stargazing>TODO</Stargazing>
   <!-- EN: watching the eclipse. -->
-  <WatchingEclipse>urmărește eclipsa.</WatchingEclipse>
+  <WatchingEclipse>TODO</WatchingEclipse>
   <!-- EN: watching the aurora. -->
-  <WatchingAurora>urmărește aurora.</WatchingAurora>
+  <WatchingAurora>TODO</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>folosește {0} pe {1}.</UsingVerb>
+  <UsingVerb>TODO</UsingVerb>
   <!-- EN: using {0}. -->
-  <UsingVerbNoTarget>folosește {0}.</UsingVerbNoTarget>
+  <UsingVerbNoTarget>TODO</UsingVerbNoTarget>
   <!-- EN: area -->
-  <AreaLower>zonă</AreaLower>
+  <AreaLower>TODO</AreaLower>
   <!-- EN: cowering. -->
-  <ReportCowering>fuge mișelește</ReportCowering>
+  <ReportCowering>TODO</ReportCowering>
   <!-- EN: standing. -->
-  <ReportStanding>în picioare.</ReportStanding>
+  <ReportStanding>TODO</ReportStanding>
   <!-- EN: extinguishing fire. -->
-  <ReportExtinguishingFire>stinge focul.</ReportExtinguishingFire>
+  <ReportExtinguishingFire>TODO</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>stinge focul de pe {TARGET_label}.</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>TODO</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
-  <ReportDiggingUpCorpse>Dezgroapă cadavrul.</ReportDiggingUpCorpse>
+  <ReportDiggingUpCorpse>TODO</ReportDiggingUpCorpse>
+  <!-- EN: being carried by {0_labelShort}. -->
+  <CarriedBy>TODO</CarriedBy> 
+  <!-- EN: inside {0_labelShort}. -->
+  <InContainer>TODO</InContainer> 
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
-  <LordReportAttendingMarriageCeremony>Participă la ceremonia de căsătorie</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingMarriageCeremony>TODO</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
-  <LordReportAttendingParty>Participă la o petrecere</LordReportAttendingParty>
+  <LordReportAttendingParty>TODO</LordReportAttendingParty>
   <!-- EN: Attending concert -->
-  <LordReportAttendingConcert>Participă la un concert</LordReportAttendingConcert>
+  <LordReportAttendingConcert>TODO</LordReportAttendingConcert>
   <!-- EN: Holding a concert -->
-  <LordReportHoldingConcert>Ține un concert</LordReportHoldingConcert>
+  <LordReportHoldingConcert>TODO</LordReportHoldingConcert>
   <!-- EN: Giving a speech -->
-  <LordReportGivingSpeech>Ține un discurs</LordReportGivingSpeech>
+  <LordReportGivingSpeech>TODO</LordReportGivingSpeech>
   <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
-  <LordReportListeningSpeech>Ascultă discursul lui {ORGANIZER_labelShort}.</LordReportListeningSpeech>
+  <LordReportListeningSpeech>TODO</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
-  <LordReportFormingCaravan>Formează caravana</LordReportFormingCaravan>
+  <LordReportFormingCaravan>TODO</LordReportFormingCaravan>
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
-  <WeaponMissRadius>Rază de ratare</WeaponMissRadius>
+  <WeaponMissRadius>TODO</WeaponMissRadius>
   <!-- EN: Shooter -->
-  <ShootReportShooterAbility>Trăgător</ShootReportShooterAbility>
+  <ShootReportShooterAbility>TODO</ShootReportShooterAbility>
   <!-- EN: Weapon -->
-  <ShootReportWeapon>Armă</ShootReportWeapon>
+  <ShootReportWeapon>TODO</ShootReportWeapon>
   <!-- EN: Darkness -->
-  <Darkness>Întuneric</Darkness>
+  <Darkness>TODO</Darkness>
   <!-- EN: Target lying down -->
-  <TargetProne>Țintă culcată</TargetProne>
+  <TargetProne>TODO</TargetProne>
   <!-- EN: Target size -->
-  <TargetSize>Dimensiune țintă</TargetSize>
+  <TargetSize>TODO</TargetSize>
   <!-- EN: Weather -->
-  <Weather>Vreme</Weather>
+  <Weather>TODO</Weather>
   <!-- EN: Cover -->
-  <ShootingCover>Adăpost</ShootingCover>
+  <ShootingCover>TODO</ShootingCover>
   <!-- EN: {COVER_label} stops {1} -->
-  <CoverThingBlocksPercentOfShots>{COVER_label} oprește {1}</CoverThingBlocksPercentOfShots>
+  <CoverThingBlocksPercentOfShots>TODO</CoverThingBlocksPercentOfShots>
   <!-- EN: no cover -->
-  <NoCoverLower>fără adăpost</NoCoverLower>
+  <NoCoverLower>TODO</NoCoverLower>
   <!-- EN: Execution -->
-  <Execution>Execuție</Execution>
+  <Execution>TODO</Execution>
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>Creează {0}</RecipeMake>
+  <RecipeMake>TODO</RecipeMake>
   <!-- EN: Make {0}. -->
-  <RecipeMakeDescription>Fă {0}.</RecipeMakeDescription>
+  <RecipeMakeDescription>TODO</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
-  <RecipeMakeJobString>Creare {0}.</RecipeMakeJobString>
+  <RecipeMakeJobString>TODO</RecipeMakeJobString>
   <!-- EN: administer {0} -->
-  <RecipeAdminister>administrează {0}</RecipeAdminister>
+  <RecipeAdminister>TODO</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>Administrează {0}.</RecipeAdministerJobString>
+  <RecipeAdministerJobString>TODO</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
-  <TeetotalerUnhappy>abstinentul va fi nefericit</TeetotalerUnhappy>
+  <TeetotalerUnhappy>TODO</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
-  <ProsthophobeUnhappy>purisul corporal va fi nefericit</ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>TODO</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
-  <ThoughtExpiresIn>Dispare în: {0}</ThoughtExpiresIn>
+  <ThoughtExpiresIn>TODO</ThoughtExpiresIn>
   <!-- EN: thought disabled by -->
-  <ThoughtNullifiedBy>gândul anulat de</ThoughtNullifiedBy>
+  <ThoughtNullifiedBy>TODO</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
-  <ThoughtStartsExpiringIn>Începe dispariția în: {0}</ThoughtStartsExpiringIn>
+  <ThoughtStartsExpiringIn>TODO</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
-  <ThoughtFinishesExpiringIn>Finalizează dispariția în: {0}</ThoughtFinishesExpiringIn>
+  <ThoughtFinishesExpiringIn>TODO</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
-  <MentalBreakThresholdExtreme>Prag de cădere nervoasă extremă</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdExtreme>TODO</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
-  <MentalBreakThresholdMajor>Prag de cădere nervoasă majoră</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMajor>TODO</MentalBreakThresholdMajor>
   <!-- EN: Minor break threshold -->
-  <MentalBreakThresholdMinor>Prag de cădere nervoasă minoră</MentalBreakThresholdMinor>
+  <MentalBreakThresholdMinor>TODO</MentalBreakThresholdMinor>
 
   <!-- Pawn info readout -->
   <!-- EN: {PAWN_gender} {1} -->
-  <PawnMainDescGendered>{1} {PAWN_gender}</PawnMainDescGendered>
+  <PawnMainDescGendered>TODO</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
-  <PawnMainDescFactionedWrap>{0} din {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>TODO</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
-  <PawnTitleDescWrap>{0} în {1}</PawnTitleDescWrap>
+  <PawnTitleDescWrap>TODO</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>{0} sub {1}</PawnMainDescUnderFactionedWrap>
-  <!-- EN: {0} under {1}\nHome faction: {2} -->
-  <PawnMainDescTempFactionedWrap>{0} în cadrul facțiunii {1}\nFacțiunea de origine: {2}</PawnMainDescTempFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>TODO</PawnMainDescUnderFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
-  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
+  <PawnMainDescLifestageWrap>TODO</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
-  <Faction>Facțiune</Faction>
+  <Faction>TODO</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
-  <FactionDesc>Facțiunea din care face parte în prezent {PAWN_labelShort}.</FactionDesc>
+  <FactionDesc>TODO</FactionDesc>
   <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
-  <ExtraFactionDesc>Facțiunea din care face parte inițial {PAWN_labelShort}.</ExtraFactionDesc>
+  <ExtraFactionDesc>TODO</ExtraFactionDesc>
   <!-- EN: Equipped -->
-  <Equipped>Echipat</Equipped>
+  <Equipped>TODO</Equipped>
   <!-- EN: nothing -->
-  <EquippedNothing>Nimic</EquippedNothing>
+  <EquippedNothing>TODO</EquippedNothing>
   <!-- EN: Dead -->
-  <Dead>Mort</Dead>
+  <Dead>TODO</Dead>
   <!-- EN: Unconscious -->
-  <Unconscious>Inconștient</Unconscious>
+  <Unconscious>TODO</Unconscious>
   <!-- EN: In shock due to pain -->
-  <PainShock>În șoc</PainShock>
+  <PainShock>TODO</PainShock>
   <!-- EN: Pain shock -->
-  <PainShockShort>Șocul durerii</PainShockShort>
+  <PainShockShort>TODO</PainShockShort>
   <!-- EN: Incapacitated -->
-  <Incapacitated>Incapacitat</Incapacitated>
+  <Incapacitated>TODO</Incapacitated>
   <!-- EN: In restraints (slowed) -->
-  <InRestraints>În cătușe (încetinit)</InRestraints>
+  <InRestraints>TODO</InRestraints>
   <!-- EN: Carrying -->
-  <Carrying>Cară</Carrying>
+  <Carrying>TODO</Carrying>
   <!-- EN: Affected by: -->
-  <AffectedBy>Afectat de:</AffectedBy>
+  <AffectedBy>TODO</AffectedBy>
   <!-- EN: Queued -->
-  <Queued>În coadă</Queued>
+  <Queued>TODO</Queued>
   <!-- EN: State -->
-  <State>Stare</State>
+  <State>TODO</State>
   <!-- EN: stun -->
-  <StunLower>paraliză</StunLower>
+  <StunLower>TODO</StunLower>
+  <!-- EN: Slowed by damage -->
+  <SlowedByDamage>TODO</SlowedByDamage>
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
-  <SelectNextInSquareTip>Selectează obiectul suprapus.\n\nTastă: {0}\n\nPoți face astă executând un click din nou pe aceeași regiune.</SelectNextInSquareTip>
+  <SelectNextInSquareTip>TODO</SelectNextInSquareTip>
   <!-- EN: View information. -->
-  <DefInfoTip>Arată informații despre acest obiect.</DefInfoTip>
+  <DefInfoTip>TODO</DefInfoTip>
+  <!-- EN: Select next thing in same square.\n\nYou can also do this by slowly clicking the same square again. -->
+  <SelectNextInSquareTipController>TODO</SelectNextInSquareTipController>
 
   <!-- Hostility response -->
   <!-- EN: Change how this person will react to nearby enemies when not drafted. -->
-  <HostilityReponseTip>Schimbă modul în care această persoană va reacționa la inamicii din apropiere atunci când nu este trasă la sorți.</HostilityReponseTip>
+  <HostilityReponseTip>TODO</HostilityReponseTip>
   <!-- EN: Current mode -->
-  <HostilityResponseCurrentMode>Mod curent</HostilityResponseCurrentMode>
+  <HostilityResponseCurrentMode>TODO</HostilityResponseCurrentMode>
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
-  <OfLower>lui</OfLower>
+  <OfLower>TODO</OfLower>
 
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
-  <PowerNotConnected>Nu este conectat la electriciate.</PowerNotConnected>
+  <PowerNotConnected>TODO</PowerNotConnected>
   <!-- EN: Grid excess/stored: {0} W / {1} Wd -->
-  <PowerConnectedRateStored>Electriciate sursă/stocat: {0} W / {1} Wz</PowerConnectedRateStored>
+  <PowerConnectedRateStored>TODO</PowerConnectedRateStored>
   <!-- EN: Power needed -->
-  <PowerNeeded>Energie necesară</PowerNeeded>
+  <PowerNeeded>TODO</PowerNeeded>
   <!-- EN: Power output -->
-  <PowerOutput>Electriciate produsă</PowerOutput>
+  <PowerOutput>TODO</PowerOutput>
+  <!-- EN: {0} W when active -->
+  <PowerActiveNeeded>TODO</PowerActiveNeeded>
   <!-- EN: Stored -->
-  <PowerBatteryStored>Stocat</PowerBatteryStored>
+  <PowerBatteryStored>TODO</PowerBatteryStored>
   <!-- EN: Efficiency -->
-  <PowerBatteryEfficiency>Eficiență</PowerBatteryEfficiency>
+  <PowerBatteryEfficiency>TODO</PowerBatteryEfficiency>
   <!-- EN: Self-discharging -->
-  <SelfDischarging>Autodescărcare</SelfDischarging>
+  <SelfDischarging>TODO</SelfDischarging>
 
   <!-- Temperature control -->
   <!-- EN: Target temperature -->
-  <TargetTemperature>Temperatură țintă</TargetTemperature>
+  <TargetTemperature>TODO</TargetTemperature>
   <!-- EN: Current power use -->
-  <PowerConsumptionMode>Curent folosit</PowerConsumptionMode>
+  <PowerConsumptionMode>TODO</PowerConsumptionMode>
   <!-- EN: high -->
-  <PowerConsumptionHigh>Mult</PowerConsumptionHigh>
+  <PowerConsumptionHigh>TODO</PowerConsumptionHigh>
   <!-- EN: low -->
-  <PowerConsumptionLow>Puțin</PowerConsumptionLow>
+  <PowerConsumptionLow>TODO</PowerConsumptionLow>
 
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
-  <Indoors>Înăuntru</Indoors>
+  <Indoors>TODO</Indoors>
   <!-- EN: Unroofed -->
-  <IndoorsUnroofed>Neacoperit</IndoorsUnroofed>
-  <!-- EN: Outdoors -->
-  <Outdoors>Afară</Outdoors>
+  <IndoorsUnroofed>TODO</IndoorsUnroofed>
+  <!-- EN: outdoors -->
+  <Outdoors>TODO</Outdoors>
 
   <!-- Rotting -->
   <!-- EN: Fresh -->
-  <RotStateFresh>Proaspăt</RotStateFresh>
+  <RotStateFresh>TODO</RotStateFresh>
   <!-- EN: Rotting -->
-  <RotStateRotting>Putrezit</RotStateRotting>
+  <RotStateRotting>TODO</RotStateRotting>
   <!-- EN: Dessicated -->
-  <RotStateDessicated>Descompus</RotStateDessicated>
+  <RotStateDessicated>TODO</RotStateDessicated>
   <!-- EN: Frozen (won't spoil) -->
-  <CurrentlyFrozen>Înghețat (nu se strică)</CurrentlyFrozen>
+  <CurrentlyFrozen>TODO</CurrentlyFrozen>
   <!-- EN: Refrigerated (spoils in {0}) -->
-  <CurrentlyRefrigerated>Rece (se strică în {0})</CurrentlyRefrigerated>
+  <CurrentlyRefrigerated>TODO</CurrentlyRefrigerated>
   <!-- EN: Not refrigerated (spoils in {0}) -->
-  <NotRefrigerated>Nu este prezervat (se strică în {0})</NotRefrigerated>
+  <NotRefrigerated>TODO</NotRefrigerated>
   <!-- EN: over a decade -->
-  <OverADecade>mai mult de un deceniu</OverADecade>
+  <OverADecade>TODO</OverADecade>
   <!-- EN: less than a day -->
-  <LessThanADay>mai puțin de o zi</LessThanADay>
+  <LessThanADay>TODO</LessThanADay>
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>Împușcat de {1_labelShort}</ShotBy>
+  <ShotBy>TODO</ShotBy>
   <!-- EN: Cannot hit target. -->
-  <CannotHit>Nu poate lovi ținta.</CannotHit>
+  <CannotHit>TODO</CannotHit>
   <!-- EN: Manhunter chance per hit -->
-  <ManhunterPerHit>Șansa de a deveni vânător de oameni pe lovitură</ManhunterPerHit>
+  <ManhunterPerHit>TODO</ManhunterPerHit>
 
   <!-- Meal -->
   <!-- EN: Ingredients -->
-  <Ingredients>Ingrediente</Ingredients>
+  <Ingredients>TODO</Ingredients>
+  <!-- EN: The ingredients used to make this meal. -->
+  <IngredientsDesc>TODO</IngredientsDesc>
+  <!-- EN: Dietary type -->
+  <DietaryType>TODO</DietaryType>
+  <!-- EN: The type of meal produced. Some people have preferences for specific types of meals. -->
+  <DietaryTypeDesc>TODO</DietaryTypeDesc>
   <!-- EN: only stacks with similar meals -->
-  <OnlyStacksWithCompatibleMeals>numai pe grămezi cu mese similare</OnlyStacksWithCompatibleMeals>
+  <OnlyStacksWithCompatibleMeals>TODO</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
-  <PercentGrowth>{0} crescut</PercentGrowth>
+  <PercentGrowth>TODO</PercentGrowth>
   <!-- EN: Growth rate -->
-  <GrowthRate>Rata de creștere</GrowthRate>
+  <GrowthRate>TODO</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
-  <FullyGrownIn>Creștere completă în {0}.</FullyGrownIn>
+  <FullyGrownIn>TODO</FullyGrownIn>
   <!-- EN: Needs light level -->
-  <PlantNeedsLightLevel>Are nevoie de nivel de lumină</PlantNeedsLightLevel>
+  <PlantNeedsLightLevel>TODO</PlantNeedsLightLevel>
   <!-- EN: Resting -->
-  <PlantResting>Se odihnește</PlantResting>
+  <PlantResting>TODO</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>Temperatură neideală. Multiplicator creștere: {0}%</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>TODO</OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
-  <OutOfIdealTemperatureRangeNotGrowing>În afara temperaturii ideale (nu crește)</OutOfIdealTemperatureRangeNotGrowing>
+  <OutOfIdealTemperatureRangeNotGrowing>TODO</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
-  <ReadyToHarvest>Gata de recoltat.</ReadyToHarvest>
+  <ReadyToHarvest>TODO</ReadyToHarvest>
   <!-- EN: Mature. -->
-  <Mature>Matur.</Mature>
+  <Mature>TODO</Mature>
+  <!-- EN: Average plant age -->
+  <AveragePlantAge>TODO</AveragePlantAge>
+  <!-- EN: Oldest plant age -->
+  <OldestPlantAge>TODO</OldestPlantAge>
   <!-- EN: Growing period -->
-  <OutdoorGrowingPeriod>Perioadă de creștere</OutdoorGrowingPeriod>
+  <OutdoorGrowingPeriod>TODO</OutdoorGrowingPeriod>
   <!-- EN: Never -->
-  <NoGrowingPeriod>Niciodată</NoGrowingPeriod>
+  <NoGrowingPeriod>TODO</NoGrowingPeriod>
   <!-- EN: Year-round -->
-  <GrowYearRound>Tot-anul</GrowYearRound>
+  <GrowYearRound>TODO</GrowYearRound>
   <!-- EN: Growing season here now. -->
-  <GrowSeasonHereNow>Sezonul de creștere aici acum.</GrowSeasonHereNow>
+  <GrowSeasonHereNow>TODO</GrowSeasonHereNow>
   <!-- EN: Cannot grow (bad seasonal temperature). -->
-  <CannotGrowBadSeasonTemperature>Nu poate crește (temperatură sezonieră rea).</CannotGrowBadSeasonTemperature>
+  <CannotGrowBadSeasonTemperature>TODO</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
-  <Blighted>Blighted</Blighted>
+  <Blighted>TODO</Blighted>
   <!-- EN: Dying because exposed to light -->
-  <DyingBecauseExposedToLight>Moare din cauza expunerii la lumină</DyingBecauseExposedToLight>
+  <DyingBecauseExposedToLight>TODO</DyingBecauseExposedToLight>
   <!-- EN: Cut now -->
-  <AutoCutNow>Tăiați acum</AutoCutNow>
+  <AutoCutNow>TODO</AutoCutNow>
   <!-- EN: harvesting -->
-  <HarvestGerund>recoltare</HarvestGerund>
+  <HarvestGerund>TODO</HarvestGerund>
   <!-- EN: cutting -->
-  <CutGerund>tăiere</CutGerund>
+  <CutGerund>TODO</CutGerund>
+  <!-- EN: Cut all blight -->
+  <CutAllBlight>TODO</CutAllBlight>
+  <!-- EN: Mark all blighted plants to be destroyed. Blighted plants will not yield any food or resources and should be destroyed before the blight spreads. -->
+  <CutAllBlightDesc>TODO</CutAllBlightDesc>
 
   <!-- Zones -->
   <!-- EN: Zone -->
-  <Zone>Zonă</Zone>
+  <Zone>TODO</Zone>
   <!-- EN: Growing zone -->
-  <GrowingZone>Zonă de cultivare</GrowingZone>
+  <GrowingZone>TODO</GrowingZone>
   <!-- EN: Stockpile zone -->
-  <Stockpile>Depozit</Stockpile>
+  <Stockpile>TODO</Stockpile>
   <!-- EN: Dumping stockpile zone -->
-  <DumpingStockpile>Zonă pentru deșeuri</DumpingStockpile>
+  <DumpingStockpile>TODO</DumpingStockpile>
   <!-- EN: Priority -->
-  <Priority>Prioritate</Priority>
+  <Priority>TODO</Priority>
   <!-- EN: Clear all -->
-  <ClearAll>Anulează tot</ClearAll>
+  <ClearAll>TODO</ClearAll>
   <!-- EN: Allow all -->
-  <AllowAll>Permite tot</AllowAll>
+  <AllowAll>TODO</AllowAll>
 
   <!-- ThingFilter -->
   <!-- EN: {0} hit points -->
-  <HitPoints>{0} puncte de lovitură</HitPoints>
+  <HitPoints>TODO</HitPoints>
   <!-- EN: any quality -->
-  <AnyQuality>orice calitate</AnyQuality>
+  <AnyQuality>TODO</AnyQuality>
   <!-- EN: {0} only -->
-  <OnlyQuality>{0} numai</OnlyQuality>
+  <OnlyQuality>TODO</OnlyQuality>
 
   <!-- Mouseover indicator -->
   <!-- EN: Undiscovered -->
-  <Undiscovered>Nedescoperit</Undiscovered>
+  <Undiscovered>TODO</Undiscovered>
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
-  <ShowLearningHelperWhenEmptyToggleButton>Comută vizibilitatea ajutorului de învățare atunci când acesta este gol.\n\nAjutorul de învățare este întotdeauna vizibil dacă există un concept activat pentru a fi învățat. Acest comutator îl face să dispară atunci când nu este activ niciun concept.</ShowLearningHelperWhenEmptyToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton>TODO</ShowLearningHelperWhenEmptyToggleButton>
   <!-- EN: Toggle visiblity of zones. -->
-  <ZoneVisibilityToggleButton>Comută vizibilitatea zonelor.</ZoneVisibilityToggleButton>
-  <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the mouse is pointing. -->
-  <ShowBeautyToggleButton>Comută afișarea frumuseții.\n\nAfișează frumusețea lumii așa cum ar fi percepută de un personaj care stă acolo unde este îndreptat mouse-ul.</ShowBeautyToggleButton>
-  <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the mouse is pointing. -->
-  <ShowRoomStatsToggleButton>Comută afișarea statisticilor camerei.\n\nAfișează statisticile camerei în care este îndreptat mouse-ul.</ShowRoomStatsToggleButton>
+  <ZoneVisibilityToggleButton>TODO</ZoneVisibilityToggleButton>
+  <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the cursor is pointing. -->
+  <ShowBeautyToggleButton>TODO</ShowBeautyToggleButton>
+  <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the cursor is pointing. -->
+  <ShowRoomStatsToggleButton>TODO</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>Comută bara de coloniști.\n\nAfișează pictogramele și starea de bază pentru toți coloniștii de-a lungul părții superioare a ecranului.\n\nPoți reordona coloniștii din bara de coloniști dând click dreapta și trăgându-i.</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>TODO</ShowColonistBarToggleButton>
+  <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by pressing the left trigger button and dragging them. -->
+  <ShowColonistBarToggleButtonController>TODO</ShowColonistBarToggleButtonController>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
-  <AutoHomeAreaToggleButton>Comută extinderea automată a zonei de acasă în jurul noilor construcții.</AutoHomeAreaToggleButton>
+  <AutoHomeAreaToggleButton>TODO</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
-  <AutoRebuildButton>Comută reconstrucția automată a structurilor distruse din zona de domiciliu.</AutoRebuildButton>
+  <AutoRebuildButton>TODO</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
-  <CategorizedResourceReadoutToggleButton>Comută modul de afișare pe categorii al resurselor.</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>TODO</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->
-  <ShowAnimalNamesToggleButton>Comută afișarea numelor de animale pentru animalele cu nume îmblânzite.</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>TODO</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
-  <ShowRoofOverlayToggleButton>Comută vizibilitatea acoperișurilor.</ShowRoofOverlayToggleButton>
+  <ShowRoofOverlayToggleButton>TODO</ShowRoofOverlayToggleButton>
   <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
-  <ShowFertilityOverlayToggleButton>Toggle fertility overlay.\n\nAceasta arată cât de fertil este terenul, ceea ce afectează ce tipuri de plante pot crește și cât de repede cresc.</ShowFertilityOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>TODO</ShowFertilityOverlayToggleButton>
   <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
-  <ShowTerrainAffordanceOverlayToggleButton>Comută vizibilitatea affordance-ului terenului.\n\nAcest lucru se referă la tipurile de clădiri care pot fi construite în fiecare locație.\n\nDe exemplu, unele tipuri de teren acceptă doar clădiri ușoare sau medii, dar nu și pe cele grele. Podurile pot fi construite doar pe apă.</ShowTerrainAffordanceOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>TODO</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
-  <LockNorthUpToggleButton>Blochează rotația camerei, astfel încât polul nord să fie întotdeauna în sus.</LockNorthUpToggleButton>
+  <LockNorthUpToggleButton>TODO</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
-  <UsePlanetDayNightSystemToggleButton>Comută iluminarea zi/noapte pe vizualizarea planetei.</UsePlanetDayNightSystemToggleButton>
+  <UsePlanetDayNightSystemToggleButton>TODO</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
-  <ShowExpandingIconsToggleButton>Comută afișarea pictogramelor de expansiune în loc de pictogramele obișnuite pentru obiectele îndepărtate.</ShowExpandingIconsToggleButton>
+  <ShowExpandingIconsToggleButton>TODO</ShowExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
-  <ShowWorldFeaturesToggleButton>Comută vizibilitatea numelor formelor de relief.</ShowWorldFeaturesToggleButton>
+  <ShowWorldFeaturesToggleButton>TODO</ShowWorldFeaturesToggleButton>
+  <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
+  <ShowTemperatureOverlayToggleButton>TODO</ShowTemperatureOverlayToggleButton>
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>Foc pe {1_label}</FireOn>
+  <FireOn>TODO</FireOn>
   <!-- EN: Burning -->
-  <Burning>Arde</Burning>
+  <Burning>TODO</Burning>
   <!-- EN: fire size {0} -->
-  <FireSizeLower>dimensiune foc - {0}</FireSizeLower>
+  <FireSizeLower>TODO</FireSizeLower>
 
   <!-- Game conditions -->
   <!-- EN: Special conditions affecting the area right now. -->
-  <GameConditionsTip>Condiții speciale care afectează zona în acest moment.</GameConditionsTip>
+  <GameConditionsTip>TODO</GameConditionsTip>
   <!-- EN: time left -->
-  <TimeLeft>timp rămas</TimeLeft>
+  <TimeLeft>TODO</TimeLeft>
   <!-- EN: impact date -->
-  <ImpactDate>data impactului</ImpactDate>
+  <ImpactDate>TODO</ImpactDate>
   <!-- EN: Source unknown. -->
-  <SourceUnknown>Sursă necunoscută.</SourceUnknown>
+  <SourceUnknown>TODO</SourceUnknown>
   <!-- EN: Click to jump to the source. -->
-  <ClickToJumpToSource>Faceți clic pentru a sări la sursă.</ClickToJumpToSource>
+  <ClickToJumpToSource>TODO</ClickToJumpToSource>
   <!-- EN: Click to jump to the flashstorm. -->
-  <ClickToJumpToFlashstorm>Faceți clic pentru a sări la flashstorm.</ClickToJumpToFlashstorm>
+  <ClickToJumpToFlashstorm>TODO</ClickToJumpToFlashstorm>
   <!-- EN: Caused by quest: {0} -->
-  <CausedByQuest>Cauzat de misiune: {0}</CausedByQuest>
+  <CausedByQuest>TODO</CausedByQuest>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
-  <NoStuffsToBuildWith>Nu există materialele necesare pentru construcție.</NoStuffsToBuildWith>
+  <NoStuffsToBuildWith>TODO</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
   <!-- EN: {0} will have work speed penalty -->
-  <WillGetWorkSpeedPenalty>{0} va avea o penalizare a vitezei de lucru</WillGetWorkSpeedPenalty>
+  <WillGetWorkSpeedPenalty>TODO</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
-  <MustPlaceUnroofed>Nu poate fi plasat sub un acoperiș.</MustPlaceUnroofed>
+  <MustPlaceUnroofed>TODO</MustPlaceUnroofed>
   <!-- EN: Must be placed under thick roof. -->
-  <MustPlaceUnderThickRoof>Trebuie să fie plasat sub un acoperiș gros.</MustPlaceUnderThickRoof>
+  <MustPlaceUnderThickRoof>TODO</MustPlaceUnderThickRoof>
   <!-- EN: Must place with head attached to ship structural beam. -->
-  <MustPlaceHeadOnShipBeam>Trebuie plasat alături de bara structurală a navei.</MustPlaceHeadOnShipBeam>
+  <MustPlaceHeadOnShipBeam>TODO</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>Trebuie plasat lângă ceva ce folosește o pâlnie dispensoare.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>TODO</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
-  <MustPlaceOnSteamGeyser>Trebuie plasat pe un gheizer de aburi.</MustPlaceOnSteamGeyser>
+  <MustPlaceOnSteamGeyser>TODO</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
-  <MustPlaceCoolerWithFreeSpaces>Ambele capete ale aparatului trebuie expuse.</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceCoolerWithFreeSpaces>TODO</MustPlaceCoolerWithFreeSpaces>
   <!-- EN: Both the sides must be exposed for air to pass through. -->
-  <MustPlaceVentWithFreeSpaces>Ambele laturi trebuie să fie expuse pentru ca aerul să poată trece prin ele.</MustPlaceVentWithFreeSpaces>
+  <MustPlaceVentWithFreeSpaces>TODO</MustPlaceVentWithFreeSpaces>
   <!-- EN: Must be placed with standable space on all sides. -->
-  <MustPlaceAdjacentStandable>Trebuie să fie plasat cu spațiu de staționare pe toate laturile.</MustPlaceAdjacentStandable>
+  <MustPlaceAdjacentStandable>TODO</MustPlaceAdjacentStandable>
   <!-- EN: Must be placed next to a pod launcher's fueling port. -->
-  <MustPlaceNearFuelingPort>Trebuie să fie plasat lângă portul de alimentare al unui lansator de capsule.</MustPlaceNearFuelingPort>
+  <MustPlaceNearFuelingPort>TODO</MustPlaceNearFuelingPort>
   <!-- EN: Must be placed on drillable resources. -->
-  <MustPlaceOnDrillable>Trebuie să fie plasate pe resurse forabile.</MustPlaceOnDrillable>
+  <MustPlaceOnDrillable>TODO</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
-  <CannotPlaceAdjacentTrap>Nu poate fi plasată lângă capcane.</CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentTrap>TODO</CannotPlaceAdjacentTrap>
   <!-- EN: Cannot be placed next to another building of the same type. -->
-  <CannotPlaceAdjacentSameDef>Nu poate fi plasată lângă o altă clădire de același tip.</CannotPlaceAdjacentSameDef>
+  <CannotPlaceAdjacentSameDef>TODO</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
-  <WindTurbine_WindPathIsBlockedBy>Blocat de</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedBy>TODO</WindTurbine_WindPathIsBlockedBy>
   <!-- EN: Blocked by roof -->
-  <WindTurbine_WindPathIsBlockedByRoof>Blocat de acoperiș</WindTurbine_WindPathIsBlockedByRoof>
+  <WindTurbine_WindPathIsBlockedByRoof>TODO</WindTurbine_WindPathIsBlockedByRoof>
 
   <!-- Watermill generator -->
   <!-- EN: Flow reduced: Turbulence from other watermill -->
-  <Watermill_WaterUsedTwice>Flux redus: Turbulențe de la cealaltă moară de apă.</Watermill_WaterUsedTwice>
+  <Watermill_WaterUsedTwice>TODO</Watermill_WaterUsedTwice>
 
   <!-- Cryptosleep casket -->
   <!-- EN: Contains -->
-  <CasketContains>Conține</CasketContains>
+  <CasketContains>TODO</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>Avertisment!\n\n{PAWN_nameDef} este ultimul tău colonist liber! Dacă îl lași pe {PAWN_objective} să intre în acel sicriu, s-ar putea să nu mai poți continua jocul. Ești sigur că vrei să continui?</CasketWarning>
+  <CasketWarning>TODO</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
-  <ShipReportCannotLaunch>Nu se poate lansa.</ShipReportCannotLaunch>
+  <ShipReportCannotLaunch>TODO</ShipReportCannotLaunch>
   <!-- EN: Ready for launch. -->
-  <ShipReportCanLaunch>Gata de lansare.</ShipReportCanLaunch>
+  <ShipReportCanLaunch>TODO</ShipReportCanLaunch>
   <!-- EN: Missing critical component -->
-  <ShipReportMissingPart>Lispește o componentă critică</ShipReportMissingPart>
+  <ShipReportMissingPart>TODO</ShipReportMissingPart>
   <!-- EN: requires -->
-  <ShipReportMissingPartRequires>necesită</ShipReportMissingPartRequires>
+  <ShipReportMissingPartRequires>TODO</ShipReportMissingPartRequires>
   <!-- EN: No full cryptosleep caskets -->
-  <ShipReportNoFullPods>Nu există capsule de criptosomn utilizate</ShipReportNoFullPods>
+  <ShipReportNoFullPods>TODO</ShipReportNoFullPods>
   <!-- EN: Hibernating component -->
-  <ShipReportHibernating>Componenta de hibernare</ShipReportHibernating>
+  <ShipReportHibernating>TODO</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
-  <ShipReportNotReady>Componenta nu este încă pregătită</ShipReportNotReady>
+  <ShipReportNotReady>TODO</ShipReportNotReady>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>(*Name)Charlon Whitestone(/Name) este gata să înceapă secvența de recuperare a reactorului de hibernare.\n\nEl vă avertizează că procesul va dura aproximativ 15 zile, iar semnătura energetică va putea fi detectată de la o distanță mare.\n\nAcest tip de semnătură energetică indică capacitatea de zbor interstelar și va atrage bande de jefuitori disperați și roiuri de mecanoizi ucigași.\n\nVoi veți fi atacați cu o intensitate pe care nu ați mai văzut-o niciodată. Asigură-te că apărarea ta este pregătită mai întâi.</HibernateWarning>
+  <HibernateWarning>TODO</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>Reactorul este gata să se pornească.\n\nProcesul va dura aproximativ 15 zile, iar semnătura energetică va putea fi detectată de la o distanță mare. Acest tip de semnătură energetică indică o capacitate de zbor interstelar și va atrage bande de jefuitori disperați și roiuri de mecanoizi mortali.\n\nVoi fi asaltat cu o intensitate pe care nu ați mai văzut-o niciodată. Asigură-te că apărarea ta este pregătită mai întâi.</HibernateWarningStandalone>
+  <HibernateWarningStandalone>TODO</HibernateWarningStandalone>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name) este gata să înceapă secvența de recuperare a reactorului de hibernare. El vă avertizează că procesul va dura aproximativ 15 zile.</HibernateWarningPacifist>
+  <HibernateWarningPacifist>TODO</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
-  <HibernateWarningStandalonePacifist>Reactorul este gata să se pornească. Procesul va dura aproximativ 15 zile.</HibernateWarningStandalonePacifist>
+  <HibernateWarningStandalonePacifist>TODO</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
   <!-- EN: skilltrainer ({0}) -->
-  <SkillNeurotrainerLabel>skilltrainer ({0})</SkillNeurotrainerLabel>
+  <SkillNeurotrainerLabel>TODO</SkillNeurotrainerLabel>
   <!-- EN: Use skilltrainer to learn {0} -->
-  <SkillNeurotrainerUseLabel>Folosește skilltrainer pentru a învăța {0}</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerUseLabel>TODO</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
-  <SkillNeurotrainerDescription>O superdoză de mecanite de o singură folosință care antrenează o anumită abilitate.\n\nDoza se administrează prin orbita ochiului. Odată eliberate în creier, mecanitele îmbunătățesc rapid abilitățile subiectului într-un anumit domeniu, transmutându-se în țesut neuronal după cum este necesar.</SkillNeurotrainerDescription>
+  <SkillNeurotrainerDescription>TODO</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
-  <SkillNeurotrainerUsed>{USER_labelShort} a folosit neurotrainer de {1} pentru a trece de la nivelul {2} la nivelul {3}.</SkillNeurotrainerUsed>
+  <SkillNeurotrainerUsed>TODO</SkillNeurotrainerUsed>
 
   <!-- Minification -->
   <!-- EN: Installed -->
-  <Installed>Instalat</Installed>
+  <Installed>TODO</Installed>
   <!-- EN: Not installed -->
-  <NotInstalled>Neinstalat</NotInstalled>
+  <NotInstalled>TODO</NotInstalled>
   <!-- EN: Extracted tree will die in {time} unless replanted. -->
   <MinifiedTreeWillDieIn>TODO</MinifiedTreeWillDieIn>
 
   <!-- Art -->
   <!-- EN: Title -->
-  <Title>Titlu</Title>
+  <Title>TODO</Title>
   <!-- EN: Untitled -->
-  <Untitled>Nedenumit</Untitled>
+  <Untitled>TODO</Untitled>
 
   <!-- Unfinished thing -->
   <!-- EN: Unfinished {0} -->
-  <UnfinishedItem>{0} nefinalizat</UnfinishedItem>
+  <UnfinishedItem>TODO</UnfinishedItem>
   <!-- EN: Unfinished {0} {1} -->
-  <UnfinishedItemWithStuff>{1} din {0} nefinalizat</UnfinishedItemWithStuff>
+  <UnfinishedItemWithStuff>TODO</UnfinishedItemWithStuff>
 
   <!-- Quality -->
   <!-- EN: Quality -->
-  <Quality>Calitate</Quality>
+  <Quality>TODO</Quality>
   <!-- EN: quality -->
-  <quality>calitate</quality>
+  <quality>TODO</quality>
   <!-- EN: An item's quality is how well-made it is. -->
-  <QualityDescription>Calitatea înseamnă cât de bine este făcut.</QualityDescription>
+  <QualityDescription>TODO</QualityDescription>
   <!-- EN: Quality: {0} -->
-  <QualityIs>Calitate: {0}</QualityIs>
+  <QualityIs>TODO</QualityIs>
 
   <!-- Mood descriptions -->
   <!-- EN: mental state -->
-  <Mood_MentalState>stare mentală</Mood_MentalState>
+  <Mood_MentalState>TODO</Mood_MentalState>
   <!-- EN: about to break -->
-  <Mood_AboutToBreak>pe cale să se rupă</Mood_AboutToBreak>
+  <Mood_AboutToBreak>TODO</Mood_AboutToBreak>
   <!-- EN: on edge -->
-  <Mood_OnEdge>la limită</Mood_OnEdge>
+  <Mood_OnEdge>TODO</Mood_OnEdge>
   <!-- EN: stressed -->
-  <Mood_Stressed>stresat</Mood_Stressed>
+  <Mood_Stressed>TODO</Mood_Stressed>
   <!-- EN: neutral -->
-  <Mood_Neutral>neutru</Mood_Neutral>
+  <Mood_Neutral>TODO</Mood_Neutral>
   <!-- EN: content -->
-  <Mood_Content>mulțumit</Mood_Content>
+  <Mood_Content>TODO</Mood_Content>
   <!-- EN: happy -->
-  <Mood_Happy>fericit</Mood_Happy>
+  <Mood_Happy>TODO</Mood_Happy>
 
   <!-- Game over -->
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
-  <GameOverEveryoneDead>Toți au murit sau au plecat. Această poveste ia sfârșit aici.\n\nPoate altcineva va găsi ruinele acestui loc.</GameOverEveryoneDead>
+  <GameOverEveryoneDead>TODO</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>Cu o viteză aproape de cea a luminii, arma ucigașului de planete s-a izbit de sol cu forța unui trilion de bombe cu hidrogen. Ca un balon de apă împușcat cu o pușcă, această lume s-a lichefiat sub impact și și-a împrăștiat mațele topite prin cosmos.\n\nO parte din {0} este acum o mică centură de asteroizi. Restul este un iad topit și radioactiv, care se unduiește constant cu cutremure de kilometri înălțime.\n\nVoi nu ați supraviețuit.</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>TODO</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
-  <GameOverShipLaunchedIntro>Ați lansat nava!</GameOverShipLaunchedIntro>
+  <GameOverShipLaunchedIntro>TODO</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunchedEnding>Personajul tău mașină va încerca acum să ghideze nava către un loc sigur. S-ar putea găsi o planetă prosperă în acest sistem. Sau poate întreprinde o călătorie de secole spre o altă stea. S-ar putea chiar să decidă să se ascundă sub gheață pe un asteroid pentru câteva mii de ani, așteptând ca cineva să construiască o nouă lume strălucitoare aici.\n\nVoi afla când te vei trezi.</GameOverShipLaunchedEnding>
+  <GameOverShipLaunchedEnding>TODO</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
-  <GameOverColonistsEscaped>Acești coloniști au scăpat:\n\n{0}</GameOverColonistsEscaped>
+  <GameOverColonistsEscaped>TODO</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
-  <GameOverColonistsLeft>Acești coloniști au fost lăsați în urmă:\n\n{0}</GameOverColonistsLeft>
+  <GameOverColonistsLeft>TODO</GameOverColonistsLeft>
   <!-- EN: In memory of:\n -->
-  <GameOverInMemoryOf>În memoria lui:\n</GameOverInMemoryOf>
+  <GameOverInMemoryOf>TODO</GameOverInMemoryOf>
   <!-- EN: Keep playing -->
-  <GameOverKeepPlaying>Continuă jocul</GameOverKeepPlaying>
+  <GameOverKeepPlaying>TODO</GameOverKeepPlaying>
   <!-- EN: Main menu -->
-  <GameOverMainMenu>Meniul principal</GameOverMainMenu>
+  <GameOverMainMenu>TODO</GameOverMainMenu>
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
-  <LifespanExpiry>Expiră în:</LifespanExpiry>
+  <LifespanExpiry>TODO</LifespanExpiry>
 
   <!-- Facilities -->
   <!-- EN: inactive -->
-  <InactiveFacility>inactiv</InactiveFacility>
+  <InactiveFacility>TODO</InactiveFacility>
   <!-- EN: Links to -->
-  <FacilityPotentiallyLinkedTo>Are legătură cu</FacilityPotentiallyLinkedTo>
+  <FacilityPotentiallyLinkedTo>TODO</FacilityPotentiallyLinkedTo>
   <!-- EN: Not linked to a building -->
-  <FacilityNoPotentialLinks>Nu are legătură cu o clădire</FacilityNoPotentialLinks>
+  <FacilityNoPotentialLinks>TODO</FacilityNoPotentialLinks>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort} lui {1} este acum în creștere.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>TODO</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort} lui {1} este acum stabilă.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>TODO</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}'s {1} este acum în remisie.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>TODO</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
-  <MarriageSpotUsable>Utilizabil acum.</MarriageSpotUsable>
+  <MarriageSpotUsable>TODO</MarriageSpotUsable>
   <!-- EN: Not usable: {0}. -->
-  <MarriageSpotNotUsable>Nu este utilizabil: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotUsable>TODO</MarriageSpotNotUsable>
   <!-- EN: blocked -->
-  <MarriageSpotNotStandable>blocat</MarriageSpotNotStandable>
+  <MarriageSpotNotStandable>TODO</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
-  <MarriageSpotDangerous>prea periculos pentru {1_labelShort}</MarriageSpotDangerous>
+  <MarriageSpotDangerous>TODO</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
-  <MarriageSpotForbidden>interzis pentru {1_labelShort}</MarriageSpotForbidden>
+  <MarriageSpotForbidden>TODO</MarriageSpotForbidden>
   <!-- EN: reserved -->
-  <MarriageSpotReserved>rezervat</MarriageSpotReserved>
+  <MarriageSpotReserved>TODO</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
-  <MarriageSpotUnreachable>inaccesibil pentru {1_labelShort}</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>TODO</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
-  <MarriageSpotInPrisonCell>în celula închisorii</MarriageSpotInPrisonCell>
+  <MarriageSpotInPrisonCell>TODO</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->
-  <NotEnjoyableOutsideTemperature>temperatură inconfortabilă</NotEnjoyableOutsideTemperature>
+  <NotEnjoyableOutsideTemperature>TODO</NotEnjoyableOutsideTemperature>
 
   <!-- Colonist bar -->
   <!-- EN: Medical rest -->
-  <ActivityIconMedicalRest>Odihnă medicală</ActivityIconMedicalRest>
+  <ActivityIconMedicalRest>TODO</ActivityIconMedicalRest>
   <!-- EN: Sleeping -->
-  <ActivityIconSleeping>Dormit</ActivityIconSleeping>
+  <ActivityIconSleeping>TODO</ActivityIconSleeping>
   <!-- EN: Fleeing -->
-  <ActivityIconFleeing>Fuga</ActivityIconFleeing>
+  <ActivityIconFleeing>TODO</ActivityIconFleeing>
   <!-- EN: Fighting -->
-  <ActivityIconAttacking>Luptă</ActivityIconAttacking>
+  <ActivityIconAttacking>TODO</ActivityIconAttacking>
   <!-- EN: Idle -->
-  <ActivityIconIdle>Liniște</ActivityIconIdle>
+  <ActivityIconIdle>TODO</ActivityIconIdle>
   <!-- EN: Burning -->
-  <ActivityIconBurning>Arderea</ActivityIconBurning>
+  <ActivityIconBurning>TODO</ActivityIconBurning>
   <!-- EN: Forming a caravan -->
-  <ActivityIconFormingCaravan>Formarea unei caravane</ActivityIconFormingCaravan>
+  <ActivityIconFormingCaravan>TODO</ActivityIconFormingCaravan>
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
-  <DueForMaintenance>În curs de întreținere.</DueForMaintenance>
+  <DueForMaintenance>TODO</DueForMaintenance>
   <!-- EN: Deteriorating due to lack of maintenance. -->
-  <DeterioratingDueToLackOfMaintenance>Se deteriorează din cauza lipsei de întreținere.</DeterioratingDueToLackOfMaintenance>
+  <DeterioratingDueToLackOfMaintenance>TODO</DeterioratingDueToLackOfMaintenance>
 
   <!-- Deep drill -->
   <!-- EN: Progress to next lump -->
-  <ProgressToNextLump>Treceți la următoarea bucată</ProgressToNextLump>
+  <ProgressToNextLump>TODO</ProgressToNextLump>
   <!-- EN: Resource below -->
-  <ResourceBelow>Resursele de mai jos</ResourceBelow>
+  <ResourceBelow>TODO</ResourceBelow>
   <!-- EN: Progress to next portion -->
-  <ProgressToNextPortion>Progresează la următoarea porțiune</ProgressToNextPortion>
+  <ProgressToNextPortion>TODO</ProgressToNextPortion>
   <!-- EN: No resources below. -->
-  <DeepDrillNoResources>Nu există resurse în adâncime.</DeepDrillNoResources>
+  <DeepDrillNoResources>TODO</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>Resurse de foraj adânc epuizate, foraj interzis automat. Nu este permisă începerea exploatării de {0}.</DeepDrillExhausted>
+  <DeepDrillExhausted>TODO</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>Resursele Deep drill sunt epuizate.</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>TODO</DeepDrillExhaustedNoFallback>
 
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
-  <ChargesRemaining>Taxe rămase</ChargesRemaining>
+  <ChargesRemaining>TODO</ChargesRemaining>
   
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
-  <LearningHelper>Ajutor de învățare</LearningHelper>
+  <LearningHelper>TODO</LearningHelper>
+  <!-- EN: In-game tutor that aims to teach you information about topics relevant to your colony's current state -->
+  <LearningHelperTooltip>TODO</LearningHelperTooltip>
   <!-- EN: Mark as learned -->
-  <MarkLearned>Marcați ca învățat</MarkLearned>
+  <MarkLearned>TODO</MarkLearned>
   <!-- EN: Already learned -->
-  <AlreadyLearned>Deja învățat</AlreadyLearned>
+  <AlreadyLearned>TODO</AlreadyLearned>
   <!-- EN: Filter -->
-  <Filter>Filtru</Filter>
+  <Filter>TODO</Filter>
 
   <!-- Compass -->
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
-  <CompassTip>Afișează direcția nord. Faceți clic pentru a roti camera astfel încât polul nordic să fie în sus.</CompassTip>
+  <CompassTip>TODO</CompassTip>
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
-  <RoutePlannerButtonTip>Faceți clic pentru a intra în modul de planificare, unde puteți planifica călătoria și calcula distanța dintre punctele de parcurs.</RoutePlannerButtonTip>
+  <RoutePlannerButtonTip>TODO</RoutePlannerButtonTip>
   <!-- EN: Add two or more waypoints. -->
-  <RoutePlannerAddTwoOrMoreWaypoints>Adaugă două sau mai multe puncte de trecere.</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddTwoOrMoreWaypoints>TODO</RoutePlannerAddTwoOrMoreWaypoints>
   <!-- EN: Add one or more waypoints. -->
-  <RoutePlannerAddOneOrMoreWaypoints>Adaugă unul sau mai multe puncte intermediare.</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>TODO</RoutePlannerAddOneOrMoreWaypoints>
   <!-- EN: Total route time: {0} -->
-  <RoutePlannerEstTimeToFinalDest>Durata totală a traseului: {0}</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerEstTimeToFinalDest>TODO</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>Modul de planificare utilizează viteza implicită a caravanei. Viteza dumneavoastră poate varia.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>TODO</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
-  <RoutePlannerUsingTicksPerMoveOfCaravan>Calcularea pentru: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>TODO</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Butonul din dreapta al mouse-ului: Adăugare/eliminare puncte de parcurs.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>TODO</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <!-- EN: Left trigger button: Add/remove waypoints. -->
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>TODO</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
   <!-- EN: ESC: Exit planning mode. -->
-  <RoutePlannerPressEscapeToExit>ESC: Ieșiți din modul de planificare.</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExit>TODO</RoutePlannerPressEscapeToExit>
+  <!-- EN: {Key:Cancel}: Exit planning mode. -->
+  <RoutePlannerPressEscapeToExitController>TODO</RoutePlannerPressEscapeToExitController>
   <!-- EN: ESC: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Reveniți la dialogul de formare a caravanei.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>TODO</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <!-- EN: {Key:Cancel}: Return to the caravan formation dialog. -->
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>TODO</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToWaypoint>Durata estimată a călătoriei: {0}</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypoint>TODO</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->
-  <EstimatedTimeToWaypointFromPrevious>Timp estimat de călătorie (de la punctul de reper anterior): {0}</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToWaypointFromPrevious>TODO</EstimatedTimeToWaypointFromPrevious>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToTile>Timp estimat de călătorie: {0}</EstimatedTimeToTile>
+  <EstimatedTimeToTile>TODO</EstimatedTimeToTile>
   <!-- EN: Foraged food amount -->
-  <ForagedFoodAmount>Cantitatea de hrană furată</ForagedFoodAmount>
+  <ForagedFoodAmount>TODO</ForagedFoodAmount>
 
   <!-- Outfits -->
   <!-- EN: Anything -->
-  <OutfitAnything>Orice</OutfitAnything>
+  <OutfitAnything>TODO</OutfitAnything>
   <!-- EN: Worker -->
-  <OutfitWorker>Muncitor</OutfitWorker>
+  <OutfitWorker>TODO</OutfitWorker>
   <!-- EN: Soldier -->
-  <OutfitSoldier>Soldat</OutfitSoldier>
+  <OutfitSoldier>TODO</OutfitSoldier>
   <!-- EN: Nudist -->
-  <OutfitNudist>Nudist</OutfitNudist>
+  <OutfitNudist>TODO</OutfitNudist>
 
   <!-- Hibernatable -->
   <!-- EN: Hibernating -->
-  <HibernatableHibernating>Hibernare</HibernatableHibernating>
+  <HibernatableHibernating>TODO</HibernatableHibernating>
   <!-- EN: Starting up -->
-  <HibernatableStartingUp>Pornire</HibernatableStartingUp>
+  <HibernatableStartingUp>TODO</HibernatableStartingUp>
 
   <!-- Transport pods -->
   <!-- EN: {0}: See available orders... -->
-  <ClickToSeeAvailableOrders_WorldObject>{0}: Vezi comenzile disponibile...</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_WorldObject>TODO</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
-  <ClickToSeeAvailableOrders_Empty>Vezi comenzile disponibile...</ClickToSeeAvailableOrders_Empty>
+  <ClickToSeeAvailableOrders_Empty>TODO</ClickToSeeAvailableOrders_Empty>
   
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
-  <PawnTooltipWithDescAndPrimaryEquip>{0} ({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
+  <PawnTooltipWithDescAndPrimaryEquip>TODO</PawnTooltipWithDescAndPrimaryEquip>
   <!-- EN: {0} ({1})\n{2} -->
-  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
+  <PawnTooltipWithDescNoPrimaryEquip>TODO</PawnTooltipWithDescNoPrimaryEquip>
   <!-- EN: {0}\n{1}\n{2} -->
-  <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
+  <PawnTooltipWithPrimaryEquipNoDesc>TODO</PawnTooltipWithPrimaryEquipNoDesc>
   <!-- EN: {0}\n{1} -->
-  <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
-  <!-- EN: Neural heat: {0} / {1}\nFall rate: {2} / s ({3}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>Căldura neuronală: {0} / {1}\nRata de scădere: {2} / s ({3}s până la zero)</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipNoDescNoPrimaryEquip>TODO</PawnTooltipNoDescNoPrimaryEquip>
+  <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
+  <PawnTooltipPsychicEntropyStats>TODO</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
-  <PawnTooltipPsychicEntropyDesc>Căldura neuronală crește după utilizarea unei puteri psihice. Depășirea limitei normale poate provoca o cădere psihică care durează zile întregi.\n\nCăldura neuronală se disipează în mod natural în timp. Acest proces poate fi accelerat de purtarea de îmbrăcăminte din eltex sau de durere.</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyDesc>TODO</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
-  <PawnTooltipPsychicEntropyPainFocus>Stimulează durerea\n\nDurerea focalizează mintea și accelerează disiparea căldurii neuronale.\n\nNivelul durerii: {0}\nBonus la recuperarea căldurii: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>TODO</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
-  <PawnTooltipPsychicEntropyLimit>Comutați limitatorul de căldură neuronală. Depășirea limitei de căldură poate provoca o cădere psihică care durează zile întregi. Nu va provoca daune permanente.</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsychicEntropyLimit>TODO</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
-  <PawnTooltipPsyfocus>Psyfocus: {0}</PawnTooltipPsyfocus>
-
+  <PawnTooltipPsyfocus>TODO</PawnTooltipPsyfocus>
+  
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
-  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
+  <PawnTooltipGenderAndKindLabel>TODO</PawnTooltipGenderAndKindLabel>
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
-  <Reward_Pawn_DropPod>un tânăr {0_title} de {0_age} ani numit {0_nameDef} va sosi într-o navetă de transport {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
+  <Reward_Pawn_DropPod>TODO</Reward_Pawn_DropPod>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_WalkIn>un tânăr {0_title} de {0_age} ani numit {0_nameDef} va sosi și ți se va alătura {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <Reward_Pawn_WalkIn>TODO</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_Caravan>un bătrân {0_title} de {0_age} ani pe nume {0_nameDef} ți se va alătura {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <Reward_Pawn_Caravan>TODO</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):
 \n{0} -->
-  <Reward_Items>vor sosi navete de transport cu următoarele resurse (valoare totală {1}):\n\n{0}</Reward_Items>
+  <Reward_Items>TODO</Reward_Items>
   <!-- EN: you will receive (total value {1}):
 \n{0} -->
-  <Reward_Items_Caravan>veți primi (valoare totală {1}):\n\n{0}</Reward_Items_Caravan>
+  <Reward_Items_Caravan>TODO</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
-  <Reward_Goodwill>relațiile facțiunii tale cu {0_name} se vor îmbunătăți cu {1}.</Reward_Goodwill>
+  <Reward_Goodwill>TODO</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
-  <Reward_PassageOffworld>vei fi dus la stele</Reward_PassageOffworld>
+  <Reward_PassageOffworld>TODO</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
-  <Reward_PassageOffworld_Label>Pasaj în afara lumii</Reward_PassageOffworld_Label>
+  <Reward_PassageOffworld_Label>TODO</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
-  <Reward_CampLoot>puteți jefui totul din tabără</Reward_CampLoot>
+  <Reward_CampLoot>TODO</Reward_CampLoot>
   <!-- EN: Camp loot -->
-  <Reward_CampLoot_Label>Pradă de tabără</Reward_CampLoot_Label>
+  <Reward_CampLoot_Label>TODO</Reward_CampLoot_Label>
   <!-- EN: the visitors will work and fight for you -->
-  <Reward_VisitorsHelp>vizitatorii vor lucra și vor lupta pentru tine</Reward_VisitorsHelp>
+  <Reward_VisitorsHelp>TODO</Reward_VisitorsHelp>
   <!-- EN: Visitors' help -->
-  <Reward_VisitorsHelp_Label>Ajutorul vizitatorilor</Reward_VisitorsHelp_Label>
+  <Reward_VisitorsHelp_Label>TODO</Reward_VisitorsHelp_Label>
   <!-- EN: New psylink level -->
-  <Reward_BestowingCeremony_Label>Nivel nou de psylink</Reward_BestowingCeremony_Label>
+  <Reward_BestowingCeremony_Label>TODO</Reward_BestowingCeremony_Label>
   <!-- EN: {PAWNNAME} gains psylink -->
-  <Reward_BestowingCeremony>{PAWNNAME} câștigă psylink</Reward_BestowingCeremony>
+  <Reward_BestowingCeremony>TODO</Reward_BestowingCeremony>
   <!-- EN: Shuttle loot -->
-  <Reward_ShuttleLoot_Label>Pradă din navetă</Reward_ShuttleLoot_Label>
+  <Reward_ShuttleLoot_Label>TODO</Reward_ShuttleLoot_Label>
   <!-- EN: you can deconstruct and loot the shuttle -->
-  <Reward_ShuttleLoot>puteți deconstrui și jefui naveta</Reward_ShuttleLoot>
+  <Reward_ShuttleLoot>TODO</Reward_ShuttleLoot>
   <!-- EN: Possible future reward -->
-  <Reward_PossibleFutureReward_Label>Recompensă posibilă în viitor</Reward_PossibleFutureReward_Label>
+  <Reward_PossibleFutureReward_Label>TODO</Reward_PossibleFutureReward_Label>
   <!-- EN: a reward possibly granted in the future -->
-  <Reward_PossibleFutureReward>o recompensă care poate fi acordată în viitor</Reward_PossibleFutureReward>
+  <Reward_PossibleFutureReward>TODO</Reward_PossibleFutureReward>
   <!-- EN: {TITLE} title -->
-  <Reward_Title_Label>titlul {TITLE}</Reward_Title_Label>
+  <Reward_Title_Label>TODO</Reward_Title_Label>
   <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
-  <Reward_Title>{PAWNNAME} câștigă titlul {TITLE} de la {FACTION}.</Reward_Title>
+  <Reward_Title>TODO</Reward_Title>
   <!-- EN: value {0} -->
-  <TotalValue>{0} valoare</TotalValue>
+  <TotalValue>TODO</TotalValue>
   
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>Legat de: {0}</BondedWith>
+  <BondedWith>TODO</BondedWith>
   <!-- EN: Not yet bonded -->
-  <NotBonded>Nu este încă legat</NotBonded>
+  <NotBonded>TODO</NotBonded>
   <!-- EN: bonded to someone else -->
-  <BladelinkBondedToSomeoneElse>Legată de altcineva</BladelinkBondedToSomeoneElse>
+  <BladelinkBondedToSomeoneElse>TODO</BladelinkBondedToSomeoneElse>
   <!-- EN: (existing bond) -->
-  <BladelinkAlreadyBonded>(legătură existentă)</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBonded>TODO</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
-  <BladelinkAlreadyBondedDialog>O persoană se poate lega doar de o singură armă personală la un moment dat.\n\nPentru a se echipa și a se lega de {WEAPON_labelShort}, arma de care {PAWN_nameDef} este legat în prezent {BONDEDWEAPON_labelShort} trebuie mai întâi distrusă.</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedDialog>TODO</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
-  <BladelinkAlreadyBondedMessage>{PAWN_nameDef} este deja legat de {BONDEDWEAPON_labelShort}.</BladelinkAlreadyBondedMessage>
+  <BladelinkAlreadyBondedMessage>TODO</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
-  <Biocoded>{0} biocodat</Biocoded>
+  <Biocoded>TODO</Biocoded>
   <!-- EN: Biocoding: {0} -->
-  <CodedFor>Biocodificare: {0}</CodedFor>
+  <CodedFor>TODO</CodedFor>
   <!-- EN: biocoded -->
-  <BiocodedCodedForSomeoneElse>biocodificat</BiocodedCodedForSomeoneElse>
+  <BiocodedCodedForSomeoneElse>TODO</BiocodedCodedForSomeoneElse>
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1} -->
-  <InterceptsProjectilesEvery>Interceptează {0} la fiecare {1}</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>TODO</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0} -->
-  <InterceptsProjectiles>Interceptează {0}</InterceptsProjectiles>
+  <InterceptsProjectiles>TODO</InterceptsProjectiles>
   <!-- EN: ground projectiles -->
-  <InterceptsProjectiles_GroundProjectiles>proiectile la sol</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>TODO</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>proiectile aeriene</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>TODO</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->
-  <AffectedGender>Sexul afectat</AffectedGender>
+  <AffectedGender>TODO</AffectedGender>
 
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
-  <CausedByHediff>Cauzat de: {0}</CausedByHediff>
+  <CausedByHediff>TODO</CausedByHediff>
   
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was cured. -->
-  <HealingCureHediff>{1} lui {0_nameDef} a fost vindecat.</HealingCureHediff>
+  <HealingCureHediff>TODO</HealingCureHediff>
   <!-- EN: {0_nameDef}'s {1} was restored. -->
-  <HealingRestoreBodyPart>{1} lui {0_nameDef} a fost restaurat.</HealingRestoreBodyPart>
+  <HealingRestoreBodyPart>TODO</HealingRestoreBodyPart>
 
   <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
-  <WarningBuildingCausesHostility>Atenție: Amplasarea unei clădiri aici va înfuria {FACTION_name}!</WarningBuildingCausesHostility>
+  <WarningBuildingCausesHostility>TODO</WarningBuildingCausesHostility>
 
   <!-- EN: Choose landing site -->
-  <ChooseLandingSite>Alegeți locul de aterizare</ChooseLandingSite>
+  <ChooseLandingSite>TODO</ChooseLandingSite>
   
   <!-- Rituals -->
   <!-- EN: ritual -->
-  <Ritual>ritual</Ritual>
+  <Ritual>TODO</Ritual>
 
   <!-- EN: Takes place at -->
-  <RitualTakesPlaceAt>Are loc la</RitualTakesPlaceAt>
+  <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
-  <RitualTargetThingDefsInfo>Orice {0}</RitualTargetThingDefsInfo>
+  <RitualTargetThingDefsInfo>TODO</RitualTargetThingDefsInfo>
   <!-- EN: Attending {0} -->
-  <LordReportAttending>Participând la {0}</LordReportAttending>
+  <LordReportAttending>TODO</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
-  <RitualCalledOff>{0} a fost anulat.</RitualCalledOff>
+  <RitualCalledOff>TODO</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
-  <RitualNobodyAttended>{0} nu a fost finalizat din cauza lipsei de prezență.</RitualNobodyAttended>
+  <RitualNobodyAttended>TODO</RitualNobodyAttended>
   <!-- EN: {0} has been completed. -->
-  <RitualFinished>{0} a fost finalizat.</RitualFinished>
+  <RitualFinished>TODO</RitualFinished>
   <!-- EN: ends in {0} -->
-  <RitualEndsIn>se termină în {0}</RitualEndsIn>
+  <RitualEndsIn>TODO</RitualEndsIn>
+  <!-- EN: Can start any time -->
+  <RitualStartAnyTime>TODO</RitualStartAnyTime>
+  <!-- EN: Can start after event -->
+  <RitualStartEvent>TODO</RitualStartEvent>
+  <!-- EN: Focus objects -->
+  <RitualFocusObjects>TODO</RitualFocusObjects>
+  <!-- EN: Participating roles -->
+  <RitualParticipatingRoles>TODO</RitualParticipatingRoles>
   <!-- EN: Organizers -->
-  <Organizers>Organizatori</Organizers>
+  <Organizers>TODO</Organizers>
   <!-- EN: Quality factors -->
-  <QualityFactors>Factori de calitate</QualityFactors>
+  <QualityFactors>TODO</QualityFactors>
   <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
-  <QualityFactorTooltipUncertain>Această condiție poate fi îndeplinită, în funcție de cum decurg lucrurile.\n\nDacă este îndeplinită, se va aplica bonusul de calitate.</QualityFactorTooltipUncertain>
+  <QualityFactorTooltipUncertain>TODO</QualityFactorTooltipUncertain>
   <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->
-  <QualityFactorTooltipNotFulfilled>Această condiție nu este îndeplinită.\n\nBonusul de calitate nu se va aplica.</QualityFactorTooltipNotFulfilled>
+  <QualityFactorTooltipNotFulfilled>TODO</QualityFactorTooltipNotFulfilled>
   <!-- EN: Spectators -->
-  <Spectators>Spectatori</Spectators>
+  <Spectators>TODO</Spectators>
   <!-- EN: Not participating -->
-  <NotParticipating>Nu participă</NotParticipating>
+  <NotParticipating>TODO</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
-  <DragPawnsToRolesInfo>Trageți și plasați sau faceți clic stânga/dreapta pentru a muta oamenii.</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfo>TODO</DragPawnsToRolesInfo>
+  <!-- EN: Drag and drop or click to move people. -->
+  <DragPawnsToRolesInfoController>TODO</DragPawnsToRolesInfoController>
   <!-- EN: A slave. The human property of others. -->
-  <RitualBeginSlaveDesc>Un sclav. Proprietatea umană a altora.</RitualBeginSlaveDesc>
+  <RitualBeginSlaveDesc>TODO</RitualBeginSlaveDesc>
   <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
-  <RitualBeginSleepingDesc>{0_labelShort} doarme. Dacă este inclus în ritual, {0_pronume} se va trezi pentru a participa.</RitualBeginSleepingDesc>
+  <RitualBeginSleepingDesc>TODO</RitualBeginSleepingDesc>
   <!-- EN: Some of the selected participants are sleeping. They will wake up once you start the ritual. -->
-  <RitualBeginSleepingWarning>Unii dintre participanții selectați dorm. Ei se vor trezi odată ce vei începe ritualul.</RitualBeginSleepingWarning>
+  <RitualBeginSleepingWarning>TODO</RitualBeginSleepingWarning>
   <!-- EN: This position is best done by a colonist holding the social role of {0}.\n\nIf someone without this role fills this position, you won't get the following bonus(es) -->
-  <RitualRoleRequiresSocialRole>Această poziție este cel mai bine îndeplinită de un colonist care deține rolul social de {0}.\n\nDacă cineva fără acest rol îndeplinește această poziție, nu vei primi următorul bonus(uri)</RitualRoleRequiresSocialRole>
+  <RitualRoleRequiresSocialRole>TODO</RitualRoleRequiresSocialRole>
   <!-- EN: No substitute available for the role of {0}. -->
-  <RitualRoleCantSubstitute>Nu există înlocuitor disponibil pentru rolul de {0}.</RitualRoleCantSubstitute>
+  <RitualRoleCantSubstitute>TODO</RitualRoleCantSubstitute>
   <!-- EN: {0} progress -->
-  <RitualOutcomeProgress>Progresul {0}</RitualOutcomeProgress>
+  <RitualOutcomeProgress>TODO</RitualOutcomeProgress>
   <!-- EN: {0} quality depends on -->
-  <RitualOutcomeQualityAbstract>{0} calitatea depinde de</RitualOutcomeQualityAbstract>
+  <RitualOutcomeQualityAbstract>TODO</RitualOutcomeQualityAbstract>
   <!-- EN: {0} total quality was {1}, determined by these factors -->
-  <RitualOutcomeQualitySpecific>{0} calitatea totală a fost {1}, determinată de acești factori</RitualOutcomeQualitySpecific>
+  <RitualOutcomeQualitySpecific>TODO</RitualOutcomeQualitySpecific>
   <!-- EN: Outcome chances at {0} quality -->
-  <RitualOutcomeChances>Șanse de rezultat la o calitate {0}</RitualOutcomeChances>
+  <RitualOutcomeChances>TODO</RitualOutcomeChances>
   <!-- EN: Performed recently -->
-  <RitualOutcomePerformedRecently>Efectuat recent</RitualOutcomePerformedRecently>
+  <RitualOutcomePerformedRecently>TODO</RitualOutcomePerformedRecently>
   <!-- EN: {0} expectations -->
-  <RitualQualityExpectations>{0} așteptări</RitualQualityExpectations>
+  <RitualQualityExpectations>TODO</RitualQualityExpectations>
   <!-- EN: Ritual ambience sound -->
-  <RitualAmbienceSound>Sunet de ambianță rituală</RitualAmbienceSound>
+  <RitualAmbienceSound>TODO</RitualAmbienceSound>
   <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
-  <RitualQualityLowWarning>Calitatea totală {0} este sub {1}. Continuarea va avea cel mai probabil un impact negativ asupra coloniei tale.\n\nEști sigur?</RitualQualityLowWarning>
+  <RitualQualityLowWarning>TODO</RitualQualityLowWarning>
   <!-- EN: No reachable appropriate place to speak. -->
-  <AbilitySpeechDisabledNoSpot>Nu există un loc accesibil și adecvat pentru a vorbi.</AbilitySpeechDisabledNoSpot>
+  <AbilitySpeechDisabledNoSpot>TODO</AbilitySpeechDisabledNoSpot>
   <!-- EN: {0_labelShort} is incapable of {1}. -->
   <AbilityDisabledNoCapacity>TODO</AbilityDisabledNoCapacity>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
-  <RitualOutcomeExtraDesc_Mood>Toți cei care participă la ritual câștigă {0} dispoziție pentru {1} zile.</RitualOutcomeExtraDesc_Mood>
+  <RitualOutcomeExtraDesc_Mood>TODO</RitualOutcomeExtraDesc_Mood>
+  <!-- EN: This ritual has no quality offsets, so the best outcome is always expected -->
+  <RitualOutcomeNoQuality>TODO</RitualOutcomeNoQuality>
   
   <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
-  <ChooseParticipants>Alege cine ar trebui să participe la {RITUAL_labelDef}.</ChooseParticipants>
+  <ChooseParticipants>TODO</ChooseParticipants>
   <!-- EN: Begin -->
-  <Begin>Începe</Begin>
+  <Begin>TODO</Begin>
   <!-- EN: Begin {0} -->
-  <BeginRitual>Începe {0}</BeginRitual>
+  <BeginRitual>TODO</BeginRitual>
   <!-- EN: Begin {0} for {1} -->
-  <BeginRitualFor>Începe {0} pentru {1}</BeginRitualFor>
+  <BeginRitualFor>TODO</BeginRitualFor>
   <!-- EN: {0} (out of {1}) -->
-  <QualityOutOf>{0} (din {1})</QualityOutOf>
+  <QualityOutOf>TODO</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
-  <DateRitualNoObligation>{0} este un ritual specific datei. Îl vei putea începe în {1}, pe {2}.</DateRitualNoObligation>
+  <DateRitualNoObligation>TODO</DateRitualNoObligation>
 
   <!-- EN: Replace with -->
-  <PreceptReplaceWith>Înlocuiește cu</PreceptReplaceWith>
+  <PreceptReplaceWith>TODO</PreceptReplaceWith>
   <!-- EN: Ritual seat of {IDEOS} -->
-  <RitualSeatOf>Locul ritualului de {IDEOS}</RitualSeatOf>
+  <RitualSeatOf>TODO</RitualSeatOf>
   <!-- EN: Expected quality -->
-  <ExpectedRitualQuality>Calitatea așteptată</ExpectedRitualQuality>
+  <ExpectedRitualQuality>TODO</ExpectedRitualQuality>
   <!-- EN: Starting quality -->
-  <StartingQuality>Calitatea de pornire</StartingQuality>
+  <StartingQuality>TODO</StartingQuality>
   <!-- EN: Expected duration -->
-  <ExpectedRitualDuration>Durata așteptată</ExpectedRitualDuration>
+  <ExpectedRitualDuration>TODO</ExpectedRitualDuration>
   
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <RitualPredictedOutcomeDescPawnStat>{PAWN_labelShort} lui {1}</RitualPredictedOutcomeDescPawnStat>
+  <RitualPredictedOutcomeDescPawnStat>TODO</RitualPredictedOutcomeDescPawnStat>
   <!-- EN: Room beauty -->
-  <RitualPredictedOutcomeDescRoomBeauty>Frumusețea camerei</RitualPredictedOutcomeDescRoomBeauty>
+  <RitualPredictedOutcomeDescRoomBeauty>TODO</RitualPredictedOutcomeDescRoomBeauty>
   <!-- EN: Participants -->
-  <RitualPredictedOutcomeDescParticipantCount>Participanți</RitualPredictedOutcomeDescParticipantCount>
+  <RitualPredictedOutcomeDescParticipantCount>TODO</RitualPredictedOutcomeDescParticipantCount>
   <!-- EN: {PAWN_labelShort}'s expectations -->
-  <RitualPredictedOutcomeDescPawnExpectations>Așteptările lui {PAWN_labelShort}</RitualPredictedOutcomeDescPawnExpectations>
+  <RitualPredictedOutcomeDescPawnExpectations>TODO</RitualPredictedOutcomeDescPawnExpectations>
+  <!-- EN: Loved one present -->
+  <RitualOutcomeLovedOnePresentLabel>TODO</RitualOutcomeLovedOnePresentLabel>
+  <!-- EN: Any person that {PAWN_labelShort} considers their friend or more. -->
+  <RitualOutcomeLovedOnePresentTip>TODO</RitualOutcomeLovedOnePresentTip>
 
   <!-- EN: Any of these -->
-  <RitualOutcomeLabelAnyOfThese>Oricare dintre acestea</RitualOutcomeLabelAnyOfThese>
+  <RitualOutcomeLabelAnyOfThese>TODO</RitualOutcomeLabelAnyOfThese>
   <!-- EN: Replaces {PAWN_labelShort} -->
-  <RitualRoleReplaces>Înlocuiește {PAWN_labelShort}</RitualRoleReplaces>
+  <RitualRoleReplaces>TODO</RitualRoleReplaces>
 
   <!-- EN: present -->
-  <Present>prezent</Present>
+  <Present>TODO</Present>
   <!-- EN: {0} used -->
-  <Used>{0} folosit</Used>
+  <Used>TODO</Used>
   <!-- EN: {0} starting quality -->
-  <StartingRitualQuality>{0} calitate de pornire</StartingRitualQuality>
+  <StartingRitualQuality>TODO</StartingRitualQuality>
 
   <!-- EN: up to {0} quality -->
-  <OutcomeBonusDesc_Quality>până la {0} calitate</OutcomeBonusDesc_Quality>
+  <OutcomeBonusDesc_Quality>TODO</OutcomeBonusDesc_Quality>
   <!-- EN: {0} quality -->
-  <OutcomeBonusDesc_QualitySingleOffset>{0} calitate</OutcomeBonusDesc_QualitySingleOffset>
+  <OutcomeBonusDesc_QualitySingleOffset>TODO</OutcomeBonusDesc_QualitySingleOffset>
   <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
-  <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
+  <OutcomeLetterLabel>TODO</OutcomeLetterLabel>
   <!-- EN: {0} max -->
-  <MaxValue>{0} max</MaxValue>
+  <MaxValue>TODO</MaxValue>
 
   <!-- EN: {0} of -->
   <ThingOf>TODO</ThingOf>
   <!-- EN: {0} of {1} -->
   <ThingOfSource>TODO</ThingOfSource>
+  <!-- EN: {0} of {1} and {2} -->
+  <ThingOfTwoSources>TODO</ThingOfTwoSources>
+
+  <!-- Gas types -->
+  <!-- EN: blind smoke -->
+  <BlindSmoke>TODO</BlindSmoke>
+  <!-- EN: tox gas -->
+  <ToxGas>TODO</ToxGas>
+  <!-- EN: rot stink -->
+  <RotStink>TODO</RotStink>
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
-  <AbilityDisabledUndrafted>trebuie să fie recrutat.</AbilityDisabledUndrafted>
+  <AbilityDisabledUndrafted>TODO</AbilityDisabledUndrafted>
   <!-- EN: ability on cooldown. It will be available in {0}. -->
-  <AbilityOnCooldown>abilitatea este în cooldown. Va fi disponibilă în {0}.</AbilityOnCooldown>
+  <AbilityOnCooldown>TODO</AbilityOnCooldown>
   <!-- EN: ability already queued. -->
-  <AbilityAlreadyQueued>abilitate deja în coadă.</AbilityAlreadyQueued>
+  <AbilityAlreadyQueued>TODO</AbilityAlreadyQueued>
   <!-- EN: Ability ready: {0} -->
-  <AbilityReadyLabel>Abilitate pregătită: {0}</AbilityReadyLabel>
+  <AbilityReadyLabel>TODO</AbilityReadyLabel>
   <!-- EN: {0_nameDef} is ready to use {1}. -->
-  <AbilityReadyText>{0_nameDef} este gata să folosească {1}.</AbilityReadyText>
+  <AbilityReadyText>TODO</AbilityReadyText>
+  <!-- EN: {0_labelShort} is participating in {1}. -->
+  <AbilityDisabledInRitual>TODO</AbilityDisabledInRitual>
+  <!-- EN: Charges -->
+  <Charges>TODO</Charges>
+
+  <!-- EN: {0_nameDef} is in an aggressive mental state. -->
+  <PawnIsInMentalState>TODO</PawnIsInMentalState>
+
+  <!-- EN: Disabled work -->
+  <DisabledWorkLabel>TODO</DisabledWorkLabel>
+
+  <!-- Glowers -->
+  <!-- EN: change color -->
+  <GlowerChangeColor>TODO</GlowerChangeColor>
+  <!-- EN: Change the color of the light. -->
+  <GlowerChangeColorDescription>TODO</GlowerChangeColorDescription>
+  <!-- EN: You must research {0} to change light color. -->
+  <GlowerChangeColorNeedsResearch>TODO</GlowerChangeColorNeedsResearch>
+
+  <!-- Shields -->
+  <!-- EN: A personal shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
+  <ShieldPersonalTip>TODO</ShieldPersonalTip>
+
+  <!-- EN: {PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner. -->
+  <UnrecruitableDesc>TODO</UnrecruitableDesc>
+
+  <!-- EN: Random -->
+  <Random>TODO</Random>
+
+  <!-- EN: Plant {0_label} -->
+  <PlantThing>TODO</PlantThing>
+  <!-- EN: Plant a {0_label} in a chosen area. -->
+  <PlantThingDesc>TODO</PlantThingDesc>
+  <!-- EN: Cancel planting {0_label} -->
+  <CancelPlantThing>TODO</CancelPlantThing>
+  <!-- EN: Cancel planting the {0_label}. -->
+  <CancelPlantThingDesc>TODO</CancelPlantThingDesc>
+
+  <!-- EN: another gathering is in progress. -->
+  <AbilitySpeechDisabledAnotherGatheringInProgress>TODO</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <!-- EN: Next speech ready in -->
+  <AbilitySpeechCooldown>TODO</AbilitySpeechCooldown>
+  <!-- EN: Initiated at -->
+  <AbilitySpeechTargetsLabel>TODO</AbilitySpeechTargetsLabel>
 
 </LanguageData>

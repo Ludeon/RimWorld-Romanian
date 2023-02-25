@@ -2,68 +2,68 @@
 <LanguageData>
   
   <!-- EN: deep drilling -->
-  <DeepDrilling.label>foraj de adâncime</DeepDrilling.label>
+  <DeepDrilling.label>TODO</DeepDrilling.label>
   <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
-  <DeepDrilling.description>Construiește foreze de adâncime pentru extragerea resurselor din subteran. Veți avea nevoie de un scaner de penetrare a solului pentru a găsi resursele.</DeepDrilling.description>
+  <DeepDrilling.description>TODO</DeepDrilling.description>
   
   <!-- EN: flatscreen television -->
-  <FlatscreenTelevision.label>televizor cu ecran plat</FlatscreenTelevision.label>
+  <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
   <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
-  <FlatscreenTelevision.description>Produceți televizoare cu ecran plat de înaltă rezoluție pentru o mai mare plăcere.</FlatscreenTelevision.description>
+  <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>scaner de penetrare a solului</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>TODO</GroundPenetratingScanner.label>
   <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct. -->
-  <GroundPenetratingScanner.description>Construiți scanere de penetrare a solului care pot detecta resursele forabile de sub suprafață. Necesită o componentă avansată pentru a fi construită.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
   
   <!-- EN: autocannon turret -->
-  <HeavyTurrets.label>turetă cu tunuri automate</HeavyTurrets.label>
+  <HeavyTurrets.label>TODO</HeavyTurrets.label>
   <!-- EN: Produce the heavy autocannon turret. -->
-  <HeavyTurrets.description>Produce turela grea cu tunuri automate.</HeavyTurrets.description>
+  <HeavyTurrets.description>TODO</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
-  <HospitalBed.label>pat de spital</HospitalBed.label>
+  <HospitalBed.label>TODO</HospitalBed.label>
   <!-- EN: Construct hospital beds which improve medical outcomes. -->
-  <HospitalBed.description>Construiți paturi de spital care îmbunătățesc rezultatele medicale.</HospitalBed.description>
+  <HospitalBed.description>TODO</HospitalBed.description>
   
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>scaner de minerale cu rază lungă de acțiune</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>TODO</LongRangeMineralScanner.label>
   <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
-  <LongRangeMineralScanner.description>Construiește scanere de minerale cu rază lungă de acțiune pe care cercetătorii tăi le pot folosi pentru a detecta minerale prețioase pe întreaga planetă. Poate fi reglat pentru a găsi un anumit mineral. Necesită componente avansate pentru a fi construite.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>TODO</LongRangeMineralScanner.description>
   
   <!-- EN: medicine production -->
-  <MedicineProduction.label>producție de medicamente</MedicineProduction.label>
+  <MedicineProduction.label>TODO</MedicineProduction.label>
   <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
-  <MedicineProduction.description>Produce medicamente standard de tehnologie industrială combinând plante medicinale, neutroamină și țesături.</MedicineProduction.description>
+  <MedicineProduction.description>TODO</MedicineProduction.description>
   
   <!-- EN: microelectronics -->
-  <MicroelectronicsBasics.label>microelectronică</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.label>TODO</MicroelectronicsBasics.label>
   <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
-  <MicroelectronicsBasics.description>Lucrați cu microelectronică complexă. Acest lucru deblochează bancul de cercetare de înaltă tehnologie și consola de comunicații.</MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.description>TODO</MicroelectronicsBasics.description>
   
   <!-- EN: moisture pump -->
-  <MoisturePump.label>pompă de umiditate</MoisturePump.label>
+  <MoisturePump.label>TODO</MoisturePump.label>
   <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
-  <MoisturePump.description>Construiește pompe de umiditate, care normalizează foarte încet umiditatea din solul din jurul lor. Ele pot usca solul umed și pot transforma nisipul moale în nisip normal.</MoisturePump.description>
+  <MoisturePump.description>TODO</MoisturePump.description>
   
   <!-- EN: multibarrel weapons -->
-  <MultibarrelWeapons.label>arme cu mai multe butoaie</MultibarrelWeapons.label>
+  <MultibarrelWeapons.label>TODO</MultibarrelWeapons.label>
   <!-- EN: Assemble miniguns. -->
-  <MultibarrelWeapons.description>Asamblează minigunuri.</MultibarrelWeapons.description>
+  <MultibarrelWeapons.description>TODO</MultibarrelWeapons.description>
   
   <!-- EN: precision rifling -->
-  <PrecisionRifling.label>armament de precizie</PrecisionRifling.label>
+  <PrecisionRifling.label>TODO</PrecisionRifling.label>
   <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
-  <PrecisionRifling.description>Confecționați arme de precizie precum puști de asalt și puști cu lunetă.</PrecisionRifling.description>
+  <PrecisionRifling.description>TODO</PrecisionRifling.description>
   
   <!-- EN: shields -->
-  <ShieldBelt.label>scuturi</ShieldBelt.label>
+  <ShieldBelt.label>TODO</ShieldBelt.label>
   <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundary. -->
-  <ShieldBelt.description>Construiți echipamente de scut portabile. Scuturile folosesc tehnologia de respingere a impulsului pentru a împiedica proiectilele să traverseze limita câmpului.</ShieldBelt.description>
+  <ShieldBelt.description>TODO</ShieldBelt.description>
   
   <!-- EN: transport pod -->
-  <TransportPod.label>capsulă de transport</TransportPod.label>
+  <TransportPod.label>TODO</TransportPod.label>
   <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
-  <TransportPod.description>Construiți navete de transport lansabile pe care le puteți folosi pentru a trimite oameni și provizii pe distanțe lungi pe suprafața planetei. Pot fi folosite pentru raiduri, călătorii, trimiterea de cadouri și multe altele.</TransportPod.description>
+  <TransportPod.description>TODO</TransportPod.description>
   
 </LanguageData>

@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: climate adjuster -->
-  <ClimateAdjuster.label>regulator de climă</ClimateAdjuster.label>
+  <ClimateAdjuster.label>TODO</ClimateAdjuster.label>
   <!-- EN: An ultratech device for controlling climate. Using chemicals and exotic fields to manipulate the atmosphere, it shifts the temperature in this region of the world. -->
-  <ClimateAdjuster.description>Un dispozitiv ultratehnic pentru controlul climei. Folosind substanțe chimice și câmpuri exotice pentru a manipula atmosfera, acesta modifică temperatura în această regiune a lumii.</ClimateAdjuster.description>
+  <ClimateAdjuster.description>TODO</ClimateAdjuster.description>
   
   <!-- EN: EMI dynamo -->
-  <EMIDynamo.label>Dinam EMI</EMIDynamo.label>
+  <EMIDynamo.label>TODO</EMIDynamo.label>
   <!-- EN: A massive electromagnetic interference generator. It interferes with or shuts down electrical devices in nearby regions. -->
-  <EMIDynamo.description>Un generator masiv de interferențe electromagnetice. Interferează cu sau oprește dispozitivele electrice din regiunile apropiate.</EMIDynamo.description>
+  <EMIDynamo.description>TODO</EMIDynamo.description>
   
   <!-- EN: psychic droner -->
-  <PsychicDroner.label>psychic droner</PsychicDroner.label>
+  <PsychicDroner.label>TODO</PsychicDroner.label>
   <!-- EN: An archotech device transmitting the thoughts of a mad superintelligence. It generates a massive psychic drone tuned to one gender and affecting a whole region of the planet. People of that gender will be disturbed by the effect, reducing their mood and possibly driving them insane. The effect is modulated by an individual's psychic sensitivity. -->
-  <PsychicDroner.description>Un dispozitiv arhotehnic care transmite gândurile unei superinteligențe nebune. Acesta generează o dronă psihică masivă acordată pe un singur gen și care afectează o întreagă regiune a planetei. Oamenii de genul respectiv vor fi deranjați de efect, reducându-le starea de spirit și posibil înnebunindu-i. Efectul este modulat de sensibilitatea psihică a individului.</PsychicDroner.description>
+  <PsychicDroner.description>TODO</PsychicDroner.description>
   
   <!-- EN: psychic suppressor -->
-  <PsychicSuppressor.label>supresor psihic</PsychicSuppressor.label>
+  <PsychicSuppressor.label>TODO</PsychicSuppressor.label>
   <!-- EN: An archotech device that generates a massive psychic suppression field tuned to a particular gender. People of that gender have their psychic activity suppressed, reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. -->
-  <PsychicSuppressor.description>Un dispozitiv arhotehnic care generează un câmp masiv de suprimare psihică acordat unui anumit gen. Oamenilor de acel gen le este suprimată activitatea psihică, reducându-le conștiința. Efectul este modulat în funcție de sensibilitatea psihică a individului.</PsychicSuppressor.description>
+  <PsychicSuppressor.description>TODO</PsychicSuppressor.description>
   
   <!-- EN: smoke spewer -->
-  <SmokeSpewer.label>scuipător de fum</SmokeSpewer.label>
+  <SmokeSpewer.label>TODO</SmokeSpewer.label>
   <!-- EN: An ultratech weapon of mass destruction designed for area denial. By harvesting available compounds and converting them into self-reproducing opaque molecules, it can spew enough smoke to block the sun in a whole region of the planet. -->
-  <SmokeSpewer.description>O armă ultratehnologică de distrugere în masă, concepută pentru interzicerea accesului în zonă. Prin recoltarea compușilor disponibili și transformarea lor în molecule opace care se auto-reproduc, poate arunca suficient fum pentru a bloca soarele într-o întreagă regiune a planetei.</SmokeSpewer.description>
+  <SmokeSpewer.description>TODO</SmokeSpewer.description>
   
   <!-- EN: sun blocker -->
-  <SunBlocker.label>blocant solar</SunBlocker.label>
+  <SunBlocker.label>TODO</SunBlocker.label>
   <!-- EN: An ultratech machine that generates a sheet of exotic fields at high altitude, turning the sky opaque and blocking the sun. -->
-  <SunBlocker.description>O mașinărie ultratehnologică care generează un strat de câmpuri exotice la mare altitudine, transformând cerul în opac și blocând soarele.</SunBlocker.description>
+  <SunBlocker.description>TODO</SunBlocker.description>
   
   <!-- EN: toxic spewer -->
-  <ToxicSpewer.label>scuipător toxic</ToxicSpewer.label>
+  <ToxicSpewer.label>TODO</ToxicSpewer.label>
   <!-- EN: An ultratech weapon of mass destruction designed for area denial. This device harvests available compounds and converts them into self-reproducing poisons. By spewing these into the atmosphere, it can poison a whole region of the planet. -->
-  <ToxicSpewer.description>O armă ultratehnologică de distrugere în masă, concepută pentru interzicerea accesului în zonă. Acest dispozitiv culege compușii disponibili și îi transformă în otrăvuri care se auto-reproduc. Prin aruncarea acestora în atmosferă, poate otrăvi o întreagă regiune a planetei.</ToxicSpewer.description>
+  <ToxicSpewer.description>TODO</ToxicSpewer.description>
   
   <!-- EN: weather controller -->
-  <WeatherController.label>controler meteo</WeatherController.label>
+  <WeatherController.label>TODO</WeatherController.label>
   <!-- EN: An ultratech device for controlling weather. Using chemicals and exotic fields, it forces the weather into a particular configuration. -->
-  <WeatherController.description>Un dispozitiv ultratehnologic pentru controlul vremii. Folosind substanțe chimice și câmpuri exotice, forțează vremea într-o anumită configurație.</WeatherController.description>
+  <WeatherController.description>TODO</WeatherController.description>
   
 </LanguageData>

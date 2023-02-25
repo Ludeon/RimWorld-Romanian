@@ -2,94 +2,94 @@
 <LanguageData>
   
   <!-- EN: install drill arm -->
-  <InstallDrillArm.label>instalarea brațului de foraj</InstallDrillArm.label>
+  <InstallDrillArm.label>TODO</InstallDrillArm.label>
   <!-- EN: Install a drill arm. -->
-  <InstallDrillArm.description>Instalarea unui braț de foraj.</InstallDrillArm.description>
+  <InstallDrillArm.description>TODO</InstallDrillArm.description>
   <!-- EN: Installing drill arm. -->
-  <InstallDrillArm.jobString>Instalarea brațului de foraj.</InstallDrillArm.jobString>
+  <InstallDrillArm.jobString>TODO</InstallDrillArm.jobString>
   
   <!-- EN: install elbow blade -->
-  <InstallElbowBlade.label>instalează lama de cot</InstallElbowBlade.label>
+  <InstallElbowBlade.label>TODO</InstallElbowBlade.label>
   <!-- EN: Install an elbow blade. -->
-  <InstallElbowBlade.description>Instalează o lamă de cot.</InstallElbowBlade.description>
+  <InstallElbowBlade.description>TODO</InstallElbowBlade.description>
   <!-- EN: Installing elbow blade. -->
-  <InstallElbowBlade.jobString>Instalarea lamei de cot.</InstallElbowBlade.jobString>
+  <InstallElbowBlade.jobString>TODO</InstallElbowBlade.jobString>
   
   <!-- EN: install field hand -->
-  <InstallFieldHand.label>instalează mâna de câmp</InstallFieldHand.label>
+  <InstallFieldHand.label>TODO</InstallFieldHand.label>
   <!-- EN: Install a field hand. -->
-  <InstallFieldHand.description>Instalarea unei mâini de câmp.</InstallFieldHand.description>
+  <InstallFieldHand.description>TODO</InstallFieldHand.description>
   <!-- EN: Installing field hand. -->
-  <InstallFieldHand.jobString>Instalare mână de câmp.</InstallFieldHand.jobString>
+  <InstallFieldHand.jobString>TODO</InstallFieldHand.jobString>
   
   <!-- EN: install hand talon -->
-  <InstallHandTalon.label>instalează talon de mână</InstallHandTalon.label>
+  <InstallHandTalon.label>TODO</InstallHandTalon.label>
   <!-- EN: Install a hand talon. -->
-  <InstallHandTalon.description>Instalează un talon de mână.</InstallHandTalon.description>
+  <InstallHandTalon.description>TODO</InstallHandTalon.description>
   <!-- EN: Installing hand talon. -->
-  <InstallHandTalon.jobString>Instalarea talonului de mână.</InstallHandTalon.jobString>
+  <InstallHandTalon.jobString>TODO</InstallHandTalon.jobString>
   
   <!-- EN: install knee spike -->
-  <InstallKneeSpike.label>instalează un vârf de genunchi</InstallKneeSpike.label>
+  <InstallKneeSpike.label>TODO</InstallKneeSpike.label>
   <!-- EN: Install a knee spike. -->
-  <InstallKneeSpike.description>Instalează un vârf de genunchi.</InstallKneeSpike.description>
+  <InstallKneeSpike.description>TODO</InstallKneeSpike.description>
   <!-- EN: Installing knee spike. -->
-  <InstallKneeSpike.jobString>Instalarea vârfului de genunchi.</InstallKneeSpike.jobString>
+  <InstallKneeSpike.jobString>TODO</InstallKneeSpike.jobString>
   
   <!-- EN: install mindscrew -->
-  <InstallMindscrew.label>Install Mindscrew</InstallMindscrew.label>
+  <InstallMindscrew.label>TODO</InstallMindscrew.label>
   <!-- EN: Install a mindscrew. -->
-  <InstallMindscrew.description>Instalează un mindscrew.</InstallMindscrew.description>
+  <InstallMindscrew.description>TODO</InstallMindscrew.description>
   <!-- EN: Installing mindscrew. -->
-  <InstallMindscrew.jobString>Instalarea mindscrew.</InstallMindscrew.jobString>
+  <InstallMindscrew.jobString>TODO</InstallMindscrew.jobString>
   
   <!-- EN: install venom fangs -->
-  <InstallVenomFangs.label>instalează colți de venin</InstallVenomFangs.label>
+  <InstallVenomFangs.label>TODO</InstallVenomFangs.label>
   <!-- EN: Install venom fangs. -->
-  <InstallVenomFangs.description>Instalează colți de venin.</InstallVenomFangs.description>
+  <InstallVenomFangs.description>TODO</InstallVenomFangs.description>
   <!-- EN: Installing venom fangs. -->
-  <InstallVenomFangs.jobString>Instalare colți de venin.</InstallVenomFangs.jobString>
+  <InstallVenomFangs.jobString>TODO</InstallVenomFangs.jobString>
   
   <!-- EN: install venom talon -->
-  <InstallVenomTalon.label>instalează venom talon</InstallVenomTalon.label>
+  <InstallVenomTalon.label>TODO</InstallVenomTalon.label>
   <!-- EN: Install a venom talon. -->
-  <InstallVenomTalon.description>Instalează un venom talon.</InstallVenomTalon.description>
+  <InstallVenomTalon.description>TODO</InstallVenomTalon.description>
   <!-- EN: Installing venom talon. -->
-  <InstallVenomTalon.jobString>Instalare venom talon.</InstallVenomTalon.jobString>
+  <InstallVenomTalon.jobString>TODO</InstallVenomTalon.jobString>
   
   <!-- EN: remove elbow blade -->
-  <RemoveElbowBlade.label>Remove elbow blade</RemoveElbowBlade.label>
+  <RemoveElbowBlade.label>TODO</RemoveElbowBlade.label>
   <!-- EN: Remove elbow blade. -->
-  <RemoveElbowBlade.description>Îndepărtarea lamei de cot.</RemoveElbowBlade.description>
+  <RemoveElbowBlade.description>TODO</RemoveElbowBlade.description>
   <!-- EN: Removing elbow blade. -->
-  <RemoveElbowBlade.jobString>Îndepărtarea lamei de cot.</RemoveElbowBlade.jobString>
+  <RemoveElbowBlade.jobString>TODO</RemoveElbowBlade.jobString>
   
   <!-- EN: remove hand talon -->
-  <RemoveHandTalon.label>Îndepărtarea talonului de mână</RemoveHandTalon.label>
+  <RemoveHandTalon.label>TODO</RemoveHandTalon.label>
   <!-- EN: Remove hand talon. -->
-  <RemoveHandTalon.description>Îndepărtarea talonului mâinii.</RemoveHandTalon.description>
+  <RemoveHandTalon.description>TODO</RemoveHandTalon.description>
   <!-- EN: Removing hand talon. -->
-  <RemoveHandTalon.jobString>Îndepărtarea talonului de mână.</RemoveHandTalon.jobString>
+  <RemoveHandTalon.jobString>TODO</RemoveHandTalon.jobString>
   
   <!-- EN: remove knee spike -->
-  <RemoveKneeSpike.label>Îndepărtarea vârfului de genunchi</RemoveKneeSpike.label>
+  <RemoveKneeSpike.label>TODO</RemoveKneeSpike.label>
   <!-- EN: Remove knee spike. -->
-  <RemoveKneeSpike.description>Îndepărtarea vârfului de genunchi.</RemoveKneeSpike.description>
+  <RemoveKneeSpike.description>TODO</RemoveKneeSpike.description>
   <!-- EN: Removing knee spike. -->
-  <RemoveKneeSpike.jobString>Îndepărtarea vârfului de genunchi.</RemoveKneeSpike.jobString>
+  <RemoveKneeSpike.jobString>TODO</RemoveKneeSpike.jobString>
   
   <!-- EN: remove venom fangs -->
-  <RemoveVenomFangs.label>Îndepărtarea colților de venin</RemoveVenomFangs.label>
+  <RemoveVenomFangs.label>TODO</RemoveVenomFangs.label>
   <!-- EN: Remove venom fangs. -->
-  <RemoveVenomFangs.description>Îndepărtarea colților de venin.</RemoveVenomFangs.description>
+  <RemoveVenomFangs.description>TODO</RemoveVenomFangs.description>
   <!-- EN: Removing venom fangs. -->
-  <RemoveVenomFangs.jobString>Îndepărtarea colților de venin.</RemoveVenomFangs.jobString>
+  <RemoveVenomFangs.jobString>TODO</RemoveVenomFangs.jobString>
   
   <!-- EN: remove venom talon -->
-  <RemoveVenomTalon.label>Îndepărtarea talonului de venin</RemoveVenomTalon.label>
+  <RemoveVenomTalon.label>TODO</RemoveVenomTalon.label>
   <!-- EN: Remove venom talon. -->
-  <RemoveVenomTalon.description>Îndepărtarea talonului de venin.</RemoveVenomTalon.description>
+  <RemoveVenomTalon.description>TODO</RemoveVenomTalon.description>
   <!-- EN: Removing venom talon. -->
-  <RemoveVenomTalon.jobString>Îndepărtarea talonului veninului.</RemoveVenomTalon.jobString>
+  <RemoveVenomTalon.jobString>TODO</RemoveVenomTalon.jobString>
   
 </LanguageData>

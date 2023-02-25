@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN: bridgeable -->
-  <Bridgeable.label>care poate fi pus pe pod</Bridgeable.label>
+  <Bridgeable.label>TODO</Bridgeable.label>
   
   <!-- EN: diggable -->
-  <Diggable.label>excavabil</Diggable.label>
+  <Diggable.label>TODO</Diggable.label>
   
   <!-- EN: growable -->
-  <GrowSoil.label>cultivabil</GrowSoil.label>
+  <GrowSoil.label>TODO</GrowSoil.label>
   
   <!-- EN: heavy -->
-  <Heavy.label>greu</Heavy.label>
+  <Heavy.label>TODO</Heavy.label>
   
   <!-- EN: light -->
-  <Light.label>ușor</Light.label>
+  <Light.label>TODO</Light.label>
   
   <!-- EN: medium -->
-  <Medium.label>mediu</Medium.label>
+  <Medium.label>TODO</Medium.label>
   
   <!-- EN: moving water -->
-  <MovingFluid.label>apă în mișcare</MovingFluid.label>
+  <MovingFluid.label>TODO</MovingFluid.label>
   
   <!-- EN: shallow water -->
-  <ShallowWater.label>apă de mică adâncime</ShallowWater.label>
+  <ShallowWater.label>TODO</ShallowWater.label>
   
   <!-- EN: smoothable -->
-  <SmoothableStone.label>netezit</SmoothableStone.label>
+  <SmoothableStone.label>TODO</SmoothableStone.label>
   
 </LanguageData>

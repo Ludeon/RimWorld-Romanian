@@ -8,29 +8,17 @@
     <li>disease->malaria</li>
     <li>disease->infection</li>
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] needs people to help [dutyRoyalDescription].\n\n[asker_pronoun] is asking you to lend [colonistCountToLend] to serve [asker_objective] for [lendForDays] days.\n\n[willSendShuttle]</li>
-    <li>colonistCountToLend(colonistsToLendCount==1)->1 colonist</li>
-    <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount] colonists</li>
+    <li>colonistCountToLend(colonistsToLendCount==1)->1 colonist[minAgeOrOlder]</li>
+    <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount] colonists[minAgeOrOlder]</li>
     <li>willSendShuttle->[asker_pronoun] will send a shuttle to pick up the [colonists].</li>
     <li>colonists(colonistsToLendCount==1)->colonist</li>
     <li>colonists(colonistsToLendCount>1)->colonists</li>
+    <li>minAgeOrOlder(minAge==0)-></li>
+    <li>minAgeOrOlder(minAge>0)-> [minAge] years old or older</li>
     <li>pawnListHaveConjugation(colonistsToLendCount==1)->has</li>
     <li>pawnListHaveConjugation(colonistsToLendCount>1)->have</li>
   -->
-  <PawnLend.questDescriptionRules.rulesStrings>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_leaderTitle] [asker_nameFull] din [asker_faction_name] are nevoie de mâini suplimentare pentru a ajuta [dutyDescription].\n\n[asker_pronoun] îți cere să împrumuți [asker_objective] [colonistCountToLend] pentru [lendForDays] zile.\n\n[willSendShuttle]</li>
-    <li>disease->gripă</li>
-    <li>disease->ciumă</li>
-    <li>disease->malarie</li>
-    <li>disease->infecție</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] din [asker_faction_name] are nevoie de oameni pentru a ajuta [dutyRoyalDescription].\n\n[asker_pronoun] vă roagă să împrumutați [colonistCountToLend] pentru a servi [asker_objective] pentru [lendForDays] zile.\n\n[willSendShuttle]</li>
-    <li>colonistCountToLend(colonistsToLendCount==1)->1 colonist</li>
-    <li>colonistCountToLend(colonistsToLendCount>1)->[colonistsToLendCount] coloniști</li>
-    <li>willSendShuttle->[asker_pronoun] va trimite o navetă pentru a prelua [colonists].</li>
-    <li>colonists(colonistsToLendCount==1)->colonist</li>
-    <li>colonists(colonistsToLendCount>1)->coloniști</li>
-    <li>pawnListHaveConjugation(colonistsToLendCount==1)->a</li>
-    <li>pawnListHaveConjugation(colonistsToLendCount>1)->au</li>
-  </PawnLend.questDescriptionRules.rulesStrings>
+  <PawnLend.questDescriptionRules.rulesStrings>TODO</PawnLend.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[worker] Outsourcing</li>
     <li>questName->Contract [worker]s</li>
@@ -44,54 +32,24 @@
     <li>worker->Laborer</li>
     <li>worker->Helper</li>
   -->
-  <PawnLend.questNameRules.rulesStrings>
-    <li>questName->Outsourceing de [worker]</li>
-    <li>questName->Contract pentru [worker]</li>
-    <li>questName->Muncitori temporari</li>
-    <li>questName->Împrumut de [worker]</li>
-    <li>questName->[worker] pentru [asker_faction_name]</li>
-    <li>questName->[worker] provizionali</li>
-    <li>questName->Cerere de [worker]</li>
-    <li>worker->Coloniști</li>
-    <li>worker->Muncitori</li>
-    <li>worker->Lucrători</li>
-    <li>worker->Ajutători</li>
-  </PawnLend.questNameRules.rulesStrings>
+  <PawnLend.questNameRules.rulesStrings>TODO</PawnLend.questNameRules.rulesStrings>
   <!-- EN: <rulesStrings><li>dutyDescription->gather the harvest</li><li>dutyDescription->fortify a settlement</li><li>dutyDescription->set up a settlement</li><li>dutyDescription->watch for raiders</li><li>dutyDescription->set up a hospital</li><li>dutyDescription->contain an outbreak of [disease]</li></rulesStrings> -->
-  <PawnLend.DutyRulesAny.slateRef>
-    <rulesStrings>
-      <li>dutyDescription->a culege recolta</li>
-      <li>dutyDescription->fortificarea unei așezări</li>
-      <li>dutyDescription->a înființa o așezare</li>
-      <li>dutyDescription->a urmări atacatorii</li>
-      <li>dutyDescription->a înființa un spital</li>
-      <li>dutyDescription->a stăpâni o epidemie de [disease]</li>
-    </rulesStrings>
-  </PawnLend.DutyRulesAny.slateRef>
+  <PawnLend.DutyRulesAny.slateRef>TODO</PawnLend.DutyRulesAny.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_nameFull] of [asker_faction_name] to [dutyDescription]. -->
-  <PawnLend.LetterTextReturnAfterHelping.slateRef>{PAWNS} s-[pawnListHaveConjugation] întors după ce l-[pawnListHaveConjugation] ajutat pe [asker_nameFull] din [asker_faction_name] la [dutyDescription].</PawnLend.LetterTextReturnAfterHelping.slateRef>
+  <PawnLend.LetterTextReturnAfterHelping.slateRef>TODO</PawnLend.LetterTextReturnAfterHelping.slateRef>
   <!-- EN: <rulesStrings><li>dutyRoyalDescription->prepare a ceremony</li><li>dutyRoyalDescription->negotiate with a tribe</li><li>dutyRoyalDescription->explore a swamp</li><li>dutyRoyalDescription->translate a book</li><li>dutyRoyalDescription->set up a training ground</li><li>dutyRoyalDescription->harvest crops</li></rulesStrings> -->
-  <PawnLend.DutyRulesRoyal.slateRef>
-    <rulesStrings>
-      <li>dutyRoyalDescription->a pregăti o ceremonie</li>
-      <li>dutyRoyalDescription->a negocia cu un trib</li>
-      <li>dutyRoyalDescription->a explora o mlaștină</li>
-      <li>dutyRoyalDescription->a traduce o carte</li>
-      <li>dutyRoyalDescription->a înființa un teren de antrenament</li>
-      <li>dutyRoyalDescription->a recolta culturi</li>
-    </rulesStrings>
-  </PawnLend.DutyRulesRoyal.slateRef>
+  <PawnLend.DutyRulesRoyal.slateRef>TODO</PawnLend.DutyRulesRoyal.slateRef>
   <!-- EN: {PAWNS} [pawnListHaveConjugation] returned after helping [asker_royalTitleInCurrentFaction] [asker_nameFull] of [asker_faction_name] to [dutyRoyalDescription]. -->
-  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>{PAWNS} s-[pawnListHaveConjugation] returnat după ce [pawnListHaveConjugation] ajutat [asker_royalTitleInCurrentFaction] [asker_nameFull] din [asker_faction_name] la [dutyRoyalDescription].</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
+  <PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>TODO</PawnLend.LetterTextReturnAfterRoyalCourt.slateRef>
   <!-- EN: Shuttle arrived -->
-  <PawnLend.LetterLabelShuttleArrived.slateRef>A sosit naveta</PawnLend.LetterLabelShuttleArrived.slateRef>
+  <PawnLend.LetterLabelShuttleArrived.slateRef>TODO</PawnLend.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect [colonistsToLendCount] of your colonists. -->
-  <PawnLend.LetterTextShuttleArrived.slateRef>Naveta a sosit pentru a colecta [colonistsToLendCount] dintre coloniștii tăi.</PawnLend.LetterTextShuttleArrived.slateRef>
+  <PawnLend.LetterTextShuttleArrived.slateRef>TODO</PawnLend.LetterTextShuttleArrived.slateRef>
   <!-- EN: Shuttle destroyed -->
-  <PawnLend.LetterLabelShuttleDestroyed.slateRef>Naveta a fost distrusă</PawnLend.LetterLabelShuttleDestroyed.slateRef>
+  <PawnLend.LetterLabelShuttleDestroyed.slateRef>TODO</PawnLend.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to collect colonists has been destroyed. -->
-  <PawnLend.LetterTextShuttleDestroyed.slateRef>Naveta trimisă pentru a colecta coloniști a fost distrusă.</PawnLend.LetterTextShuttleDestroyed.slateRef>
+  <PawnLend.LetterTextShuttleDestroyed.slateRef>TODO</PawnLend.LetterTextShuttleDestroyed.slateRef>
   <!-- EN: Colonists returned -->
-  <PawnLend.LetterLabelColonistsReturned.slateRef>Coloniștii s-au întors</PawnLend.LetterLabelColonistsReturned.slateRef>
+  <PawnLend.LetterLabelColonistsReturned.slateRef>TODO</PawnLend.LetterLabelColonistsReturned.slateRef>
   
 </LanguageData>

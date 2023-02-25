@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: attended party -->
-  <AttendedParty.label>petrecere la care a participat</AttendedParty.label>
+  <AttendedParty.label>TODO</AttendedParty.label>
   <!-- EN:
     <li>tale_noun->[ATTENDER_nameDef] attending [ORGANIZER_nameDef]'s party</li>
     <li>tale_noun->[ATTENDER_nameDef] relaxing with [ORGANIZER_nameDef] at a party</li>
@@ -23,7 +23,7 @@
   <AttendedParty.rulePack.rulesStrings>TODO</AttendedParty.rulePack.rulesStrings>
   
   <!-- EN: built snowman -->
-  <BuiltSnowman.label>om de zăpadă construit</BuiltSnowman.label>
+  <BuiltSnowman.label>TODO</BuiltSnowman.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] building a snowman</li>
     <li>tale_noun->[PAWN_nameDef] playing in the snow</li>
@@ -43,7 +43,7 @@
   <BuiltSnowman.rulePack.rulesStrings>TODO</BuiltSnowman.rulePack.rulesStrings>
   
   <!-- EN: buried corpse -->
-  <BuriedCorpse.label>cadavru îngropat</BuriedCorpse.label>
+  <BuriedCorpse.label>TODO</BuriedCorpse.label>
   <!-- EN:
     <li>tale_noun->[DIGGER_nameDef] burying [CORPSE_nameDef]</li>
     <li>tale_noun->[DIGGER_nameDef] laying [CORPSE_nameDef] to rest</li>
@@ -68,7 +68,7 @@
   <BuriedCorpse.rulePack.rulesStrings>TODO</BuriedCorpse.rulePack.rulesStrings>
   
   <!-- EN: completed long construction project -->
-  <CompletedLongConstructionProject.label>proiect lung de construcție finalizat</CompletedLongConstructionProject.label>
+  <CompletedLongConstructionProject.label>TODO</CompletedLongConstructionProject.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] finishing construction on a [OBJECT_label]</li>
     <li>image->[PAWN_nameFull] building a [OBJECT_label] [circumstance_group]</li>
@@ -89,7 +89,7 @@
   <CompletedLongConstructionProject.rulePack.rulesStrings>TODO</CompletedLongConstructionProject.rulePack.rulesStrings>
   
   <!-- EN: completed long crafting project -->
-  <CompletedLongCraftingProject.label>proiect lung de meșteșugărit finalizat</CompletedLongCraftingProject.label>
+  <CompletedLongCraftingProject.label>TODO</CompletedLongCraftingProject.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] completing work on a [OBJECT_label]</li>
     <li>image->[PAWN_nameFull] working on a [OBJECT_label] [circumstance_group]</li>
@@ -110,7 +110,7 @@
   <CompletedLongCraftingProject.rulePack.rulesStrings>TODO</CompletedLongCraftingProject.rulePack.rulesStrings>
   
   <!-- EN: entered cryptosleep -->
-  <EnteredCryptosleep.label>a intrat în criptosomn</EnteredCryptosleep.label>
+  <EnteredCryptosleep.label>TODO</EnteredCryptosleep.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] entering cryptosleep</li>
     <li>image->[PAWN_nameFull] lying down inside a cryptosleep casket [circumstance_group]</li>
@@ -131,7 +131,7 @@
   <EnteredCryptosleep.rulePack.rulesStrings>TODO</EnteredCryptosleep.rulePack.rulesStrings>
   
   <!-- EN: gained master skill -->
-  <GainedMasterSkillWithoutPassion.label>a obținut măiestria unei aptitudini</GainedMasterSkillWithoutPassion.label>
+  <GainedMasterSkillWithoutPassion.label>TODO</GainedMasterSkillWithoutPassion.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks</li>
     <li>image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]</li>
@@ -153,7 +153,7 @@
   <GainedMasterSkillWithoutPassion.rulePack.rulesStrings>TODO</GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
   
   <!-- EN: gained master skill with passion -->
-  <GainedMasterSkillWithPassion.label>a obținut măiestria unei aptitudini cu pasiune</GainedMasterSkillWithPassion.label>
+  <GainedMasterSkillWithPassion.label>TODO</GainedMasterSkillWithPassion.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] becoming a master at [SKILL_label] tasks</li>
     <li>image->[PAWN_nameFull] practicing [SKILL_label] skills [circumstance_group]</li>
@@ -177,15 +177,15 @@
   <GainedMasterSkillWithPassion.rulePack.rulesStrings>TODO</GainedMasterSkillWithPassion.rulePack.rulesStrings>
   
   <!-- EN: increased menagerie -->
-  <IncreasedMenagerie.label>a crescut menajeria</IncreasedMenagerie.label>
+  <IncreasedMenagerie.label>TODO</IncreasedMenagerie.label>
   <!-- EN:
     <li>tale_noun(p=3)->[HUMAN_nameDef] recruiting yet another animal to [HUMAN_possessive] growing [AnimalGroup]</li>
     <li>tale_noun->[HUMAN_nameDef] being followed around by a [AnimalGroup]</li>
     <li>tale_noun->[HUMAN_nameDef]'s taming of [ANIMAL_nameDef]</li>
     <li>image->[HUMAN_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
     <li>image->[HUMAN_nameFull] offering a morsel of food to [ANIMAL_nameFull] [circumstance_group]</li>
-    <li>image->[HUMAN_nameFull] whispering to a skittish [ANIMAL_nameFull] [circumstance_group]</li>
-    <li>image->[HUMAN_nameFull] calming a wild [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] whispering to a skittish [ANIMAL_label] [circumstance_group]</li>
+    <li>image->[HUMAN_nameFull] calming a wild [ANIMAL_label] [circumstance_group]</li>
     <li>circumstance_phrase->with great care and caution</li>
     <li>circumstance_phrase->with a smile</li>
     <li>circumstance_phrase->while exhausted but happy</li>
@@ -198,7 +198,7 @@
   <IncreasedMenagerie.rulePack.rulesStrings>TODO</IncreasedMenagerie.rulePack.rulesStrings>
   
   <!-- EN: meditated -->
-  <Meditated.label>meditat</Meditated.label>
+  <Meditated.label>TODO</Meditated.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] meditating</li>
     <li>image->[PAWN_nameFull] sitting under a [TreeType] tree, [circumstance_group]</li>
@@ -218,7 +218,7 @@
   <Meditated.rulePack.rulesStrings>TODO</Meditated.rulePack.rulesStrings>
   
   <!-- EN: mined valuable -->
-  <MinedValuable.label>minat valoros</MinedValuable.label>
+  <MinedValuable.label>TODO</MinedValuable.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] mining a rich vein of [MATERIAL_label]</li>
     <li>image->[PAWN_nameFull] working a [MATERIAL_label] wall with mining tools, [circumstance_group]</li>
@@ -241,7 +241,7 @@
   <MinedValuable.rulePack.rulesStrings>TODO</MinedValuable.rulePack.rulesStrings>
   
   <!-- EN: played game -->
-  <PlayedGame.label>joc jucat</PlayedGame.label>
+  <PlayedGame.label>TODO</PlayedGame.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] relaxing at a [OBJECT_label]</li>
     <li>tale_noun->[PAWN_nameDef] playing games at a [OBJECT_label]</li>
@@ -271,7 +271,7 @@
   <PlayedGame.rulePack.rulesStrings>TODO</PlayedGame.rulePack.rulesStrings>
   
   <!-- EN: prayed -->
-  <Prayed.label>rugat</Prayed.label>
+  <Prayed.label>TODO</Prayed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] praying</li>
     <li>tale_noun->[PAWN_nameDef] praying to a higher power</li>
@@ -292,7 +292,7 @@
   <Prayed.rulePack.rulesStrings>TODO</Prayed.rulePack.rulesStrings>
   
   <!-- EN: put into cryptosleep -->
-  <PutIntoCryptosleep.label>pus în criptosomn</PutIntoCryptosleep.label>
+  <PutIntoCryptosleep.label>TODO</PutIntoCryptosleep.label>
   <!-- EN:
     <li>tale_noun->[CARRIER_nameDef] putting [SLEEPER_nameDef] into cryptosleep</li>
     <li>image->[CARRIER_nameFull] placing [SLEEPER_nameDef] inside a cryptosleep casket [circumstance_group]</li>
@@ -313,7 +313,7 @@
   <PutIntoCryptosleep.rulePack.rulesStrings>TODO</PutIntoCryptosleep.rulePack.rulesStrings>
   
   <!-- EN: stripped -->
-  <Stripped.label>dezbrăcat</Stripped.label>
+  <Stripped.label>TODO</Stripped.label>
   <!-- EN:
     <li>tale_noun->[TAKER_nameDef] stripping [STRIPPED_nameDef]</li>
     <li>image->[TAKER_nameFull] disrobing [STRIPPED_nameFull] in public [circumstance_group]</li>
@@ -334,7 +334,7 @@
   <Stripped.rulePack.rulesStrings>TODO</Stripped.rulePack.rulesStrings>
   
   <!-- EN: visited grave -->
-  <VisitedGrave.label>mormânt vizitat</VisitedGrave.label>
+  <VisitedGrave.label>TODO</VisitedGrave.label>
   <!-- EN:
     <li>tale_noun->[VISITOR_nameDef] visiting the grave of [CORPSE_nameDef]</li>
     <li>tale_noun->[VISITOR_nameDef] visiting [CORPSE_nameDef]'s grave</li>

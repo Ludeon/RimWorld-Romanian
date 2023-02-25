@@ -2,170 +2,170 @@
 <LanguageData>
   
   <!-- EN: abrasive -->
-  <Abrasive.degreeDatas.abrasive.label>abraziv</Abrasive.degreeDatas.abrasive.label>
+  <Abrasive.degreeDatas.abrasive.label>TODO</Abrasive.degreeDatas.abrasive.label>
   <!-- EN: {PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way. -->
-  <Abrasive.degreeDatas.abrasive.description>{PAWN_gender ? [PAWN_nameDef] spune întotdeauna exact ceea ce are în minte, mai ales dacă îl deranjează. Asta tinde să deranjeze oamenii. : [PAWN_nameDef] spune întotdeauna exact ceea ce are în minte, mai ales dacă o deranjează. Asta tinde să deranjeze oamenii. }\n</Abrasive.degreeDatas.abrasive.description>
+  <Abrasive.degreeDatas.abrasive.description>TODO</Abrasive.degreeDatas.abrasive.description>
   
   <!-- EN: annoying voice -->
-  <AnnoyingVoice.degreeDatas.annoying_voice.label>voce enervantă</AnnoyingVoice.degreeDatas.annoying_voice.label>
+  <AnnoyingVoice.degreeDatas.annoying_voice.label>TODO</AnnoyingVoice.degreeDatas.annoying_voice.label>
   <!-- EN: {PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}. -->
-  <AnnoyingVoice.degreeDatas.annoying_voice.description>{PAWN_gender ? Vocea lui [PAWN_nameDef] are o calitate nazală deosebit de aspră și are tendința de a vorbi în fraze lătrate și confuze. Acest lucru îi predispune pe ceilalți să nu-l placă. : Vocea lui [PAWN_nameDef] are o calitate nazală deosebit de aspră și are tendința de a vorbi în fraze lătrate și confuze. Acest lucru îi predispune pe ceilalți să nu o placă. }\n</AnnoyingVoice.degreeDatas.annoying_voice.description>
+  <AnnoyingVoice.degreeDatas.annoying_voice.description>TODO</AnnoyingVoice.degreeDatas.annoying_voice.description>
   
   <!-- EN: ascetic -->
-  <Ascetic.degreeDatas.ascetic.label>ascetic</Ascetic.degreeDatas.ascetic.label>
+  <Ascetic.degreeDatas.ascetic.label>TODO</Ascetic.degreeDatas.ascetic.label>
   <!-- EN: {PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance. -->
-  <Ascetic.degreeDatas.ascetic.description>{PAWN_gender ? [PAWN_nameDef] a renunțat la confortul și plăcerile fizice în favoarea unui stil de viață simplu și pur. El va deveni nefericit dacă dacă are un dormitor prea impresionant. De asemenea, nu-i place mâncarea sofisticată și preferă să mănânce crud. El nu îi judecă niciodată pe ceilalți după aspectul lor. : [PAWN_nameDef] a renunțat la confortul fizic și la plăcerile fizice în favoarea unui stil de viață simplu și pur. Ea va deveni nefericită dacă dacă are un dormitor prea impresionant. De asemenea, nu îi place mâncarea sofisticată și preferă să mănânce crud. Ea nu îi judecă niciodată pe ceilalți după aspectul lor. }\n</Ascetic.degreeDatas.ascetic.description>
+  <Ascetic.degreeDatas.ascetic.description>TODO</Ascetic.degreeDatas.ascetic.description>
   
   <!-- EN: asexual -->
-  <Asexual.degreeDatas.asexual.label>asexual</Asexual.degreeDatas.asexual.label>
+  <Asexual.degreeDatas.asexual.label>TODO</Asexual.degreeDatas.asexual.label>
   <!-- EN: {PAWN_nameDef} has no sexual attraction to anyone at all. -->
-  <Asexual.degreeDatas.asexual.description>{PAWN_gender ? [PAWN_nameDef] nu are nicio atracție sexuală față de nimeni. : [PAWN_nameDef] nu are nicio atracție sexuală față de nimeni. }\n</Asexual.degreeDatas.asexual.description>
+  <Asexual.degreeDatas.asexual.description>TODO</Asexual.degreeDatas.asexual.description>
   
   <!-- EN: bisexual -->
-  <Bisexual.degreeDatas.bisexual.label>bisexual</Bisexual.degreeDatas.bisexual.label>
+  <Bisexual.degreeDatas.bisexual.label>TODO</Bisexual.degreeDatas.bisexual.label>
   <!-- EN: {PAWN_nameDef} is romantically attracted to both men and women. -->
-  <Bisexual.degreeDatas.bisexual.description>{PAWN_gender ? [PAWN_nameDef] este atras din punct de vedere romantic atât de bărbați, cât și de femei. : [PAWN_nameDef] este atrasă din punct de vedere romantic atât de bărbați, cât și de femei. }\n</Bisexual.degreeDatas.bisexual.description>
+  <Bisexual.degreeDatas.bisexual.description>TODO</Bisexual.degreeDatas.bisexual.description>
   
   <!-- EN: bloodlust -->
-  <Bloodlust.degreeDatas.bloodlust.label>Bloodlust</Bloodlust.degreeDatas.bloodlust.label>
+  <Bloodlust.degreeDatas.bloodlust.label>TODO</Bloodlust.degreeDatas.bloodlust.label>
   <!-- EN: {PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others. -->
-  <Bloodlust.degreeDatas.bloodlust.description>{PAWN_gender ? [PAWN_nameDef] are o senzație de adrenalină atunci când rănește oameni și nu se supără niciodată la vederea sângelui sau a morții. Este de patru ori mai predispus decât alții să înceapă o luptă socială. : [PAWN_nameDef] are o senzație de adrenalină atunci când rănește oameni și nu o deranjează niciodată vederea sângelui sau a morții. Ea este de patru ori mai predispusă decât alții să înceapă o luptă socială. }\n</Bloodlust.degreeDatas.bloodlust.description>
+  <Bloodlust.degreeDatas.bloodlust.description>TODO</Bloodlust.degreeDatas.bloodlust.description>
   
   <!-- EN: body purist -->
-  <BodyPurist.degreeDatas.body_purist.label>purist trupesc</BodyPurist.degreeDatas.body_purist.label>
-  <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting. -->
-  <BodyPurist.degreeDatas.body_purist.description>{PAWN_gender ? [PAWN_nameDef] crede că trupul uman este limitat cu un motiv. Pentru el, părțile artificiale ale corpului sunt lipsite de etică și dezgustătoare. : [PAWN_nameDef] crede că trupul uman este limitat cu un motiv. Pentru ea, părțile artificiale ale corpului sunt lipsite de etică și dezgustătoare. }\n</BodyPurist.degreeDatas.body_purist.description>
+  <BodyPurist.degreeDatas.body_purist.label>TODO</BodyPurist.degreeDatas.body_purist.label>
+  <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts and xenogenes are unethical and disgusting. -->
+  <BodyPurist.degreeDatas.body_purist.description>TODO</BodyPurist.degreeDatas.body_purist.description>
   
   <!-- EN: brawler -->
-  <Brawler.degreeDatas.brawler.label>brawler</Brawler.degreeDatas.brawler.label>
+  <Brawler.degreeDatas.brawler.label>TODO</Brawler.degreeDatas.brawler.label>
   <!-- EN: {PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon. -->
-  <Brawler.degreeDatas.brawler.description>{PAWN_gender ? Lui [PAWN_nameDef] îi place să se lupte de aproape și personal. Precizia sa este mult mai mare în lupta corp la corp, dar va fi foarte nefericit dacă i se va cere să poarte o armă de distanță. : Lui [PAWN_nameDef] îi place să lupte de aproape și personal. Precizia ei este mult mai mare în lupta corp la corp, dar va fi foarte nemulțumită dacă i se va cere să poarte o armă de distanță. }\n</Brawler.degreeDatas.brawler.description>
+  <Brawler.degreeDatas.brawler.description>TODO</Brawler.degreeDatas.brawler.description>
   
   <!-- EN: cannibal -->
-  <Cannibal.degreeDatas.cannibal.label>cannibal</Cannibal.degreeDatas.cannibal.label>
+  <Cannibal.degreeDatas.cannibal.label>TODO</Cannibal.degreeDatas.cannibal.label>
   <!-- EN: {PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it. -->
-  <Cannibal.degreeDatas.cannibal.description>{PAWN_gender ? [PAWN_nameDef] a fost învățat că a mânca carne umană este greșit și oribil. Dar odată, cu mult timp în urmă, a încercat... și i-a plăcut. : [PAWN_nameDef] a fost învățată că a mânca carne umană este greșit și oribil. Dar odată, cu mult timp în urmă, a încercat... și i-a plăcut. }\n</Cannibal.degreeDatas.cannibal.description>
+  <Cannibal.degreeDatas.cannibal.description>TODO</Cannibal.degreeDatas.cannibal.description>
   
   <!-- EN: creepy breathing -->
-  <CreepyBreathing.degreeDatas.creepy_breathing.label>respirație sinistră</CreepyBreathing.degreeDatas.creepy_breathing.label>
+  <CreepyBreathing.degreeDatas.creepy_breathing.label>TODO</CreepyBreathing.degreeDatas.creepy_breathing.label>
   <!-- EN: {PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy. -->
-  <CreepyBreathing.degreeDatas.creepy_breathing.description>{PAWN_gender ? [PAWN_nameDef] respiră greu tot timpul și transpiră constant. Oamenii găsesc asta înfiorător. : [PAWN_nameDef] respiră greu tot timpul și transpiră constant. Oamenii găsesc asta înfiorător. }\n</CreepyBreathing.degreeDatas.creepy_breathing.description>
+  <CreepyBreathing.degreeDatas.creepy_breathing.description>TODO</CreepyBreathing.degreeDatas.creepy_breathing.description>
   
   <!-- EN: misandrist -->
-  <DislikesMen.degreeDatas.misandrist.label>misandrist</DislikesMen.degreeDatas.misandrist.label>
+  <DislikesMen.degreeDatas.misandrist.label>TODO</DislikesMen.degreeDatas.misandrist.label>
   <!-- EN: {PAWN_nameDef} really dislikes and distrusts men. -->
-  <DislikesMen.degreeDatas.misandrist.description>{PAWN_gender ? Lui [PAWN_nameDef] îi displace foarte mult și nu se încrede în bărbați. : [PAWN_nameDef] nu-i place deloc și nu se încrede în bărbați. }\n</DislikesMen.degreeDatas.misandrist.description>
+  <DislikesMen.degreeDatas.misandrist.description>TODO</DislikesMen.degreeDatas.misandrist.description>
   
   <!-- EN: misogynist -->
-  <DislikesWomen.degreeDatas.misogynist.label>misogin</DislikesWomen.degreeDatas.misogynist.label>
+  <DislikesWomen.degreeDatas.misogynist.label>TODO</DislikesWomen.degreeDatas.misogynist.label>
   <!-- EN: {PAWN_nameDef} really dislikes and distrusts women. -->
-  <DislikesWomen.degreeDatas.misogynist.description>{PAWN_gender ? Lui [PAWN_nameDef] îi displac și nu se încrede în femei. : [PAWN_nameDef] nu-i place deloc și nu se încrede în femei. }\n</DislikesWomen.degreeDatas.misogynist.description>
+  <DislikesWomen.degreeDatas.misogynist.description>TODO</DislikesWomen.degreeDatas.misogynist.description>
   
   <!-- EN: fast learner -->
-  <FastLearner.degreeDatas.fast_learner.label>învățător rapid</FastLearner.degreeDatas.fast_learner.label>
+  <FastLearner.degreeDatas.fast_learner.label>TODO</FastLearner.degreeDatas.fast_learner.label>
   <!-- EN: {PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others. -->
-  <FastLearner.degreeDatas.fast_learner.description>{PAWN_gender ? [PAWN_nameDef] are un talent pentru a învăța. Învață lucrurile mult mai repede decât alții. : [PAWN_nameDef] are un talent pentru a învăța. Învață lucrurile mult mai repede decât alții. }\n</FastLearner.degreeDatas.fast_learner.description>
+  <FastLearner.degreeDatas.fast_learner.description>TODO</FastLearner.degreeDatas.fast_learner.description>
   
   <!-- EN: gay -->
-  <Gay.degreeDatas.gay.label>homosexual</Gay.degreeDatas.gay.label>
+  <Gay.degreeDatas.gay.label>TODO</Gay.degreeDatas.gay.label>
   <!-- EN: {PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender. -->
-  <Gay.degreeDatas.gay.description>{PAWN_gender ? [PAWN_nameDef] este atras din punct de vedere sentimental de persoane de același sex cu el. : [PAWN_nameDef] este atrasă din punct de vedere romantic de persoane de același sex cu ea. }\n</Gay.degreeDatas.gay.description>
+  <Gay.degreeDatas.gay.description>TODO</Gay.degreeDatas.gay.description>
   
   <!-- EN: gourmand -->
-  <Gourmand.degreeDatas.gourmand.label>gourmand</Gourmand.degreeDatas.gourmand.label>
+  <Gourmand.degreeDatas.gourmand.label>TODO</Gourmand.degreeDatas.gourmand.label>
   <!-- EN: {PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry. -->
-  <Gourmand.degreeDatas.gourmand.description>{PAWN_gender ? Viața lui [PAWN_nameDef] se învârte în jurul mâncării. I se face foame repede și, ocazional, va fi cuprins de dorința de a mânca cu poftă, chiar și atunci când nu îi este foame. : Viața lui [PAWN_nameDef] se învârte în jurul mâncării. Îi este foame repede și, ocazional, va fi cuprinsă de dorința de a mânca cu poftă, chiar și atunci când nu îi este foame. }\n</Gourmand.degreeDatas.gourmand.description>
+  <Gourmand.degreeDatas.gourmand.description>TODO</Gourmand.degreeDatas.gourmand.description>
   
   <!-- EN: great memory -->
-  <GreatMemory.degreeDatas.great_memory.label>memorie mare</GreatMemory.degreeDatas.great_memory.label>
+  <GreatMemory.degreeDatas.great_memory.label>TODO</GreatMemory.degreeDatas.great_memory.label>
   <!-- EN: {PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people. -->
-  <GreatMemory.degreeDatas.great_memory.description>{PAWN_gender ? [PAWN_nameDef] are o memorie fantastică pentru detalii. El va pierde abilitățile nefolosite la jumătate din rata altor persoane. : [PAWN_nameDef] are o memorie fantastică pentru detalii. Ea își va pierde abilitățile nefolosite la jumătate din rata altor persoane. }\n</GreatMemory.degreeDatas.great_memory.description>
+  <GreatMemory.degreeDatas.great_memory.description>TODO</GreatMemory.degreeDatas.great_memory.description>
   
   <!-- EN: greedy -->
-  <Greedy.degreeDatas.greedy.label>lacom</Greedy.degreeDatas.greedy.label>
+  <Greedy.degreeDatas.greedy.label>TODO</Greedy.degreeDatas.greedy.label>
   <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
-  <Greedy.degreeDatas.greedy.description>{PAWN_gender ? [PAWN_nameDef] are nevoie de un dormitor cu adevărat impresionant. Își pierde dispoziția dacă nu obține ceea ce își dorește. : [PAWN_nameDef] are nevoie de un dormitor cu adevărat impresionant. Își pierde dispoziția dacă nu obține ceea ce își dorește. }\n</Greedy.degreeDatas.greedy.description>
+  <Greedy.degreeDatas.greedy.description>TODO</Greedy.degreeDatas.greedy.description>
   
   <!-- EN: jealous -->
-  <Jealous.degreeDatas.jealous.label>gelos</Jealous.degreeDatas.jealous.label>
+  <Jealous.degreeDatas.jealous.label>TODO</Jealous.degreeDatas.jealous.label>
   <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
-  <Jealous.degreeDatas.jealous.description>{PAWN_gender ? Pentru [PAWN_nameDef], este degradant să aibă un dormitor mai puțin impresionant decât altcineva. El primește o pierdere de dispoziție dacă orice colonist are un dormitor mai impresionant. : Pentru [PAWN_nameDef], este degradant să aibă un dormitor mai puțin impresionant decât altcineva. Ea primește o pierdere de dispoziție dacă orice colonist are un dormitor mai impresionant. }\n</Jealous.degreeDatas.jealous.description>
+  <Jealous.degreeDatas.jealous.description>TODO</Jealous.degreeDatas.jealous.description>
   
   <!-- EN: kind -->
-  <Kind.degreeDatas.kind.label>amabil</Kind.degreeDatas.kind.label>
-  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} never insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
-  <Kind.degreeDatas.kind.description>{PAWN_gender ? [PAWN_nameDef] este excepțional de amabil. El are un mod special de a folosi cuvinte frumoase pentru a înveseli ziua cuiva. Nu îi insultă niciodată pe ceilalți și nu judecă niciodată oamenii după aspectul lor. Agreabilitatea sa îl face, de asemenea, mai predispus să se conformeze opiniilor predominante. : [PAWN_nameDef] este excepțional de amabilă. Ea are un mod special de a folosi cuvinte frumoase pentru a înveseli ziua cuiva. Ea nu îi insultă niciodată pe ceilalți și nu judecă niciodată oamenii după aspectul lor. Agreabilitatea ei o face, de asemenea, mai predispusă să se conformeze opiniilor predominante. }\n</Kind.degreeDatas.kind.description>
+  <Kind.degreeDatas.kind.label>TODO</Kind.degreeDatas.kind.label>
+  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} rarely insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
+  <Kind.degreeDatas.kind.description>TODO</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
-  <Masochist.degreeDatas.masochist.label>masochist</Masochist.degreeDatas.masochist.label>
+  <Masochist.degreeDatas.masochist.label>TODO</Masochist.degreeDatas.masochist.label>
   <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
-  <Masochist.degreeDatas.masochist.description>{PAWN_gender ? Pentru [PAWN_nameDef], există ceva excitant în a fi rănit. Nu știe de ce, pur și simplu este conectat diferit. : Pentru [PAWN_nameDef], există ceva interesant în a fi rănit. Nu știe de ce, pur și simplu este conectată diferit. }\n</Masochist.degreeDatas.masochist.description>
+  <Masochist.degreeDatas.masochist.description>TODO</Masochist.degreeDatas.masochist.description>
   
   <!-- EN: night owl -->
-  <NightOwl.degreeDatas.night_owl.label>bufniță de noapte</NightOwl.degreeDatas.night_owl.label>
+  <NightOwl.degreeDatas.night_owl.label>TODO</NightOwl.degreeDatas.night_owl.label>
   <!-- EN: {PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark. -->
-  <NightOwl.degreeDatas.night_owl.description>{PAWN_gender ? Lui [PAWN_nameDef] îi place să fie treaz în timpul nopții și să doarmă în timpul zilei.\n\nPrimește un bonus de dispoziție dacă este treaz noaptea (23h-6h) și o pierdere de dispoziție dacă este treaz în timpul zilei (11h-18h).\n\nNu primește o penalizare de dispoziție dacă este în întuneric. : Lui [PAWN_nameDef] îi place să fie trează în timpul nopții și să doarmă în timpul zilei.\n\nPrimește un bonus de dispoziție dacă este trează noaptea (23h-6h) și o pierdere de dispoziție dacă este trează în timpul zilei (11h-18h).\n\nNu primește o penalizare de dispoziție dacă este în întuneric. }\n</NightOwl.degreeDatas.night_owl.description>
+  <NightOwl.degreeDatas.night_owl.description>TODO</NightOwl.degreeDatas.night_owl.description>
   
   <!-- EN: nimble -->
-  <Nimble.degreeDatas.nimble.label>agil</Nimble.degreeDatas.nimble.label>
+  <Nimble.degreeDatas.nimble.label>TODO</Nimble.degreeDatas.nimble.label>
   <!-- EN: {PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace. -->
-  <Nimble.degreeDatas.nimble.description>{PAWN_gender ? [PAWN_nameDef] are o inteligență kinestezică remarcabilă. El pare să danseze în jurul pericolului cu o grație preternaturală. : [PAWN_nameDef] are o inteligență kinestezică remarcabilă. Ea pare să danseze în jurul pericolului cu o grație preternaturală. }\n</Nimble.degreeDatas.nimble.description>
+  <Nimble.degreeDatas.nimble.description>TODO</Nimble.degreeDatas.nimble.description>
   
   <!-- EN: nudist -->
-  <Nudist.degreeDatas.nudist.label>nudist</Nudist.degreeDatas.nudist.label>
+  <Nudist.degreeDatas.nudist.label>TODO</Nudist.degreeDatas.nudist.label>
   <!-- EN: {PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it. -->
-  <Nudist.degreeDatas.nudist.description>{PAWN_gender ? [PAWN_nameDef] se bucură de sentimentul de libertate care vine din faptul că este dezbrăcat. Poate suporta hainele, dar va fi mai fericit fără ele. : [PAWN_nameDef] se bucură de sentimentul de libertate care vine din faptul că este dezbrăcată. Ea poate suporta hainele, dar va fi mai fericită fără ele. }\n</Nudist.degreeDatas.nudist.description>
+  <Nudist.degreeDatas.nudist.description>TODO</Nudist.degreeDatas.nudist.description>
   
   <!-- EN: psychopath -->
-  <Psychopath.degreeDatas.psychopath.label>psihopat</Psychopath.degreeDatas.psychopath.label>
+  <Psychopath.degreeDatas.psychopath.label>TODO</Psychopath.degreeDatas.psychopath.label>
   <!-- EN: {PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing. -->
-  <Psychopath.degreeDatas.psychopath.description>{PAWN_gender ? [PAWN_nameDef] nu are empatie. Suferința celorlalți nu îl deranjează deloc. Nu-l deranjează dacă alții sunt măcelăriți, lăsați neîngropați, întemnițați sau vânduți ca sclavi - cu excepția cazului în care acest lucru îl afectează pe el. De asemenea, nu simte nicio creștere a dispoziției în urma socializării. : [PAWN_nameDef] nu are empatie. Suferința celorlalți nu o deranjează deloc. Nu o deranjează dacă alții sunt măcelăriți, lăsați neîngropați, întemnițați sau vânduți ca sclavi - cu excepția cazului în care o afectează pe ea. De asemenea, nu simte nicio creștere a dispoziției în urma socializării. }\n</Psychopath.degreeDatas.psychopath.description>
+  <Psychopath.degreeDatas.psychopath.description>TODO</Psychopath.degreeDatas.psychopath.description>
   
   <!-- EN: pyromaniac -->
-  <Pyromaniac.degreeDatas.pyromaniac.label>piromanic</Pyromaniac.degreeDatas.pyromaniac.label>
-  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires. To relieve stress, {PAWN_pronoun} will occasionally go on random fire starting sprees. This happens more often if {PAWN_possessive} mood is low. -->
-  <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_gender ? [PAWN_nameDef] iubește focul. El nu va stinge niciodată focul. Pentru a scăpa de stres, va merge ocazional la întâmplări aleatorii de aprindere a focului. Acest lucru se întâmplă mai des dacă starea lui de spirit este scăzută. : [PAWN_nameDef] iubește focul. Ea nu va stinge niciodată focul. Pentru a scăpa de stres, ea va merge ocazional la focuri aleatorii. Acest lucru se întâmplă mai des dacă starea ei de spirit este scăzută. }\n</Pyromaniac.degreeDatas.pyromaniac.description>
+  <Pyromaniac.degreeDatas.pyromaniac.label>TODO</Pyromaniac.degreeDatas.pyromaniac.label>
+  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and will occasionally go on random fire starting sprees. {PAWN_pronoun} will be happy around flames, and happier when wielding an incendiary weapon. -->
+  <Pyromaniac.degreeDatas.pyromaniac.description>TODO</Pyromaniac.degreeDatas.pyromaniac.description>
   
   <!-- EN: quick sleeper -->
-  <QuickSleeper.degreeDatas.quick_sleeper.label>somn rapid</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <QuickSleeper.degreeDatas.quick_sleeper.label>TODO</QuickSleeper.degreeDatas.quick_sleeper.label>
   <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
-  <QuickSleeper.degreeDatas.quick_sleeper.description>{PAWN_gender ? [PAWN_nameDef] nu are nevoie de atât de mult somn ca o persoană obișnuită. Fie că doarme pe un pat sau pe jos, el va fi complet odihnit în aproximativ două treimi din timpul obișnuit. : [PAWN_nameDef] nu are nevoie de atât de mult somn ca o persoană obișnuită. Fie că doarme pe un pat sau pe pământ, ea va fi complet odihnită în aproximativ două treimi din timpul obișnuit. }\n</QuickSleeper.degreeDatas.quick_sleeper.description>
+  <QuickSleeper.degreeDatas.quick_sleeper.description>TODO</QuickSleeper.degreeDatas.quick_sleeper.description>
   
   <!-- EN: slow learner -->
-  <SlowLearner.degreeDatas.slow_learner.label>Învățător lent</SlowLearner.degreeDatas.slow_learner.label>
+  <SlowLearner.degreeDatas.slow_learner.label>TODO</SlowLearner.degreeDatas.slow_learner.label>
   <!-- EN: {PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others. -->
-  <SlowLearner.degreeDatas.slow_learner.description>{PAWN_gender ? [PAWN_nameDef] este lent la învățătură. El învață mult mai încet decât alții. : [PAWN_nameDef] este înceată la învățătură. Ea învață mult mai lent decât ceilalți. }\n</SlowLearner.degreeDatas.slow_learner.description>
+  <SlowLearner.degreeDatas.slow_learner.description>TODO</SlowLearner.degreeDatas.slow_learner.description>
   
   <!-- EN: too smart -->
-  <TooSmart.degreeDatas.too_smart.label>prea deștept</TooSmart.degreeDatas.too_smart.label>
+  <TooSmart.degreeDatas.too_smart.label>TODO</TooSmart.degreeDatas.too_smart.label>
   <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
-  <TooSmart.degreeDatas.too_smart.description>{PAWN_gender ? [PAWN_nameDef] este prea deștept pentru binele său. Învață totul mult mai repede decât ceilalți, dar poate fi destul de excentric. : [PAWN_nameDef] este prea deșteaptă pentru binele ei. Învață totul mult mai repede decât ceilalți, dar poate fi destul de excentrică. }\n</TooSmart.degreeDatas.too_smart.description>
+  <TooSmart.degreeDatas.too_smart.description>TODO</TooSmart.degreeDatas.too_smart.description>
   
   <!-- EN: tortured artist -->
-  <TorturedArtist.degreeDatas.tortured_artist.label>artist torturat</TorturedArtist.degreeDatas.tortured_artist.label>
+  <TorturedArtist.degreeDatas.tortured_artist.label>TODO</TorturedArtist.degreeDatas.tortured_artist.label>
   <!-- EN: {PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break. -->
-  <TorturedArtist.degreeDatas.tortured_artist.description>{PAWN_gender ? [PAWN_nameDef] se simte înstrăinat și neînțeles de ceilalți oameni. El va avea un debuff de dispoziție constant, dar câștigă o șansă (50%) de a avea o inspirație creativă după o pauză mentală. : [PAWN_nameDef] se simte înstrăinată și neînțeleasă de celelalte ființe umane. Ea va avea un debuff de dispoziție constant, dar câștigă o șansă (50%) de a avea o inspirație creativă după o pauză mentală. }\n</TorturedArtist.degreeDatas.tortured_artist.description>
+  <TorturedArtist.degreeDatas.tortured_artist.description>TODO</TorturedArtist.degreeDatas.tortured_artist.description>
   <!-- EN: As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration. -->
-  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>În calitate de artist torturat care suferă, [PAWN_nameIndef] a experimentat o inspirație.</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>TODO</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
   
   <!-- EN: tough -->
-  <Tough.degreeDatas.tough.label>dur</Tough.degreeDatas.tough.label>
+  <Tough.degreeDatas.tough.label>TODO</Tough.degreeDatas.tough.label>
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
-  <Tough.degreeDatas.tough.description>{PAWN_gender ? [PAWN_nameDef] are o piele groasă, o carne densă și oase durabile. El primește mult mai puține daune decât alți oameni din aceleași lovituri. El este extrem de greu de ucis. : [PAWN_nameDef] are o piele groasă, o carne densă și oase durabile. Ea primește mult mai puține daune decât alți oameni din aceleași lovituri. Ea este extrem de greu de ucis. }\n</Tough.degreeDatas.tough.description>
+  <Tough.degreeDatas.tough.description>TODO</Tough.degreeDatas.tough.description>
   
   <!-- EN: body modder -->
-  <Transhumanist.degreeDatas.body_modder.label>modder trupesc</Transhumanist.degreeDatas.body_modder.label>
-  <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
-  <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} se simte limitat în slabul {PAWN_possessive} corp uman. {PAWN_pronoun} visează la îmbunătățirea cu părți artificiale ale corpului.</Transhumanist.degreeDatas.body_modder.description>
+  <Transhumanist.degreeDatas.body_modder.label>TODO</Transhumanist.degreeDatas.body_modder.label>
+  <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced with artificial body parts or xenogenetics. -->
+  <Transhumanist.degreeDatas.body_modder.description>TODO</Transhumanist.degreeDatas.body_modder.description>
   
   <!-- EN: undergrounder -->
-  <Undergrounder.degreeDatas.undergrounder.label>subteranofil</Undergrounder.degreeDatas.undergrounder.label>
+  <Undergrounder.degreeDatas.undergrounder.label>TODO</Undergrounder.degreeDatas.undergrounder.label>
   <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness. -->
-  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_gender ? [PAWN_nameDef] nu are nevoie să experimenteze exteriorul sau lumina. Nu se va simți niciodată închis sau nu va avea febră de cabană, indiferent cât timp stă în casă, și nu este deranjat de întuneric. : [PAWN_nameDef] nu are nevoie să experimenteze exteriorul sau lumina. Ea nu se va simți niciodată închisă sau nu va avea febră de cabană, indiferent cât timp stă în casă, și nu este deranjată de întuneric. }\n</Undergrounder.degreeDatas.undergrounder.description>
+  <Undergrounder.degreeDatas.undergrounder.description>TODO</Undergrounder.degreeDatas.undergrounder.description>
   
   <!-- EN: wimp -->
-  <Wimp.degreeDatas.wimp.label>laș</Wimp.degreeDatas.wimp.label>
+  <Wimp.degreeDatas.wimp.label>TODO</Wimp.degreeDatas.wimp.label>
   <!-- EN: {PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. -->
-  <Wimp.degreeDatas.wimp.description>{PAWN_gender ? [PAWN_nameDef] este slab și laș. Chiar și o mică durere îl va imobiliza. : [PAWN_nameDef] este slabă și lașă. Chiar și o mică durere o va imobiliza. }\n</Wimp.degreeDatas.wimp.description>
+  <Wimp.degreeDatas.wimp.description>TODO</Wimp.degreeDatas.wimp.description>
   
 </LanguageData>

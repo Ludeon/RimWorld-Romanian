@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: orbital trader arrival -->
-  <OrbitalTraderArrival.label>sosirea comerciantului orbital</OrbitalTraderArrival.label>
+  <OrbitalTraderArrival.label>TODO</OrbitalTraderArrival.label>
   
   <!-- EN: friendly raid -->
-  <RaidFriendly.label>raid prietenos</RaidFriendly.label>
+  <RaidFriendly.label>TODO</RaidFriendly.label>
   
   <!-- EN: ship chunk drop -->
-  <ShipChunkDrop.label>cădere de bucăți de navă</ShipChunkDrop.label>
+  <ShipChunkDrop.label>TODO</ShipChunkDrop.label>
   
   <!-- EN: man in black -->
-  <StrangerInBlackJoin.label>om în negru</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.label>TODO</StrangerInBlackJoin.label>
   <!-- EN: Man in black -->
-  <StrangerInBlackJoin.letterLabel>om în negru</StrangerInBlackJoin.letterLabel>
+  <StrangerInBlackJoin.letterLabel>TODO</StrangerInBlackJoin.letterLabel>
   <!-- EN: Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to set things right in these parts? -->
-  <StrangerInBlackJoin.letterText>Presimțind probleme, a sosit {PAWN_gender ? un misterios : o misterioasă} [PAWN_kind].\n\nOare va reuși [PAWN_pronoun] să îndrepte lucrurile în aceste locuri?</StrangerInBlackJoin.letterText>
+  <StrangerInBlackJoin.letterText>TODO</StrangerInBlackJoin.letterText>
   
   <!-- EN: trader caravan arrival -->
-  <TraderCaravanArrival.label>sosirea caravanei comerciantului</TraderCaravanArrival.label>
+  <TraderCaravanArrival.label>TODO</TraderCaravanArrival.label>
   
   <!-- EN: traveler group -->
-  <TravelerGroup.label>grup de comercianți</TravelerGroup.label>
+  <TravelerGroup.label>TODO</TravelerGroup.label>
   
   <!-- EN: visitor group -->
-  <VisitorGroup.label>grup de vizitatori</VisitorGroup.label>
+  <VisitorGroup.label>TODO</VisitorGroup.label>
   
 </LanguageData>

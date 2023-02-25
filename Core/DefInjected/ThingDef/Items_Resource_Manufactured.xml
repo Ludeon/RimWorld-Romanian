@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: chemfuel -->
-  <Chemfuel.label>carburant</Chemfuel.label>
+  <Chemfuel.label>TODO</Chemfuel.label>
   <!-- EN: A volatile liquid chemical. Used to fuel engines and rockets, or to transmute into propellant for projectiles, or as an incendiary weapon. -->
-  <Chemfuel.description>O substanță chimică lichidă volatilă. Folosit pentru a alimenta motoarele și rachetele sau pentru a fi transformat în propulsor pentru proiectile sau ca armă incendiară.</Chemfuel.description>
+  <Chemfuel.description>TODO</Chemfuel.description>
   
   <!-- EN: component -->
-  <ComponentIndustrial.label>componentă</ComponentIndustrial.label>
+  <ComponentIndustrial.label>TODO</ComponentIndustrial.label>
   <!-- EN: Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics. -->
-  <ComponentIndustrial.description>Diverse angrenaje, condensatori, plăci de circuite, tuburi, roți, senzori, cabluri, cipuri, procesoare și alte piese electronice și industriale. Necesare pentru asamblarea mașinilor complexe sau a componentelor electronice.</ComponentIndustrial.description>
+  <ComponentIndustrial.description>TODO</ComponentIndustrial.description>
   
   <!-- EN: advanced component -->
-  <ComponentSpacer.label>componentă avansată</ComponentSpacer.label>
+  <ComponentSpacer.label>TODO</ComponentSpacer.label>
   <!-- EN: Advanced computing and energy-directing machinery, miniaturized and hardened for the most demanding applications. -->
-  <ComponentSpacer.description>Mașini avansate de calcul și de dirijare a energiei, miniaturizate și întărite pentru cele mai exigente aplicații.</ComponentSpacer.description>
+  <ComponentSpacer.description>TODO</ComponentSpacer.description>
   
   <!-- EN: herbal medicine -->
-  <MedicineHerbal.label>medicament naturist</MedicineHerbal.label>
+  <MedicineHerbal.label>TODO</MedicineHerbal.label>
   <!-- EN: A pack of herbal concoctions extracted from the healroot plant. It is less potent than industrial pharmaceuticals, but much better than nothing. -->
-  <MedicineHerbal.description>Un pachet de preparate din plante medicinale extrase din planta healroot. Este mai puțin puternic decât produsele farmaceutice industriale, dar mult mai bun decât nimic.</MedicineHerbal.description>
+  <MedicineHerbal.description>TODO</MedicineHerbal.description>
   
   <!-- EN: medicine -->
-  <MedicineIndustrial.label>medicament</MedicineIndustrial.label>
+  <MedicineIndustrial.label>TODO</MedicineIndustrial.label>
   <!-- EN: A kit of industrial-era medical equipment. It contains basic drugs, tools for suturing and bone setting, diagnostic devices, and various pads and fluids. -->
-  <MedicineIndustrial.description>O trusă de echipamente medicale din epoca industrială. Conține medicamente de bază, unelte pentru sutură și fixarea oaselor, dispozitive de diagnosticare și diverse tampoane și fluide.</MedicineIndustrial.description>
+  <MedicineIndustrial.description>TODO</MedicineIndustrial.description>
   
   <!-- EN: glitterworld medicine -->
-  <MedicineUltratech.label>medicament de lumea centrală</MedicineUltratech.label>
+  <MedicineUltratech.label>TODO</MedicineUltratech.label>
   <!-- EN: A kit of advanced ultra-tech medical supplies, probably manufactured on a distant glitterworld. It contains advanced polymorphic drugs, nanite diagnostic and healing assisters, a mini-imager, and various multi-use tools. -->
-  <MedicineUltratech.description>O trusă de consumabile medicale ultra-tehnologizate avansate, probabil fabricate pe o lume strălucitoare îndepărtată. Conține medicamente polimorfe avansate, asistenți de diagnosticare și vindecare nanită, un mini-imager și diverse instrumente cu utilizări multiple.</MedicineUltratech.description>
+  <MedicineUltratech.description>TODO</MedicineUltratech.description>
   
   <!-- EN: neutroamine -->
-  <Neutroamine.label>neutroamină</Neutroamine.label>
+  <Neutroamine.label>TODO</Neutroamine.label>
   <!-- EN: A synthetic precursor chemical. While it is useless on its own, many drugs require neutroamine as an ingredient. -->
-  <Neutroamine.description>Un precursor chimic sintetic. Deși este inutilă ca atare, multe medicamente necesită neutroamină ca ingredient.</Neutroamine.description>
+  <Neutroamine.description>TODO</Neutroamine.description>
   
   <!-- EN: reinforced barrel -->
-  <ReinforcedBarrel.label>țeavă întărită</ReinforcedBarrel.label>
+  <ReinforcedBarrel.label>TODO</ReinforcedBarrel.label>
   <!-- EN: A large barrel for projectile-based weapons like mortars. In order to hold the high launch pressures, it is specially reinforced and cannot be manufactured at a small scale. -->
-  <ReinforcedBarrel.description>O țeavă mare pentru arme bazate pe proiectile, cum ar fi mortierele. Pentru a rezista la presiunile mari de lansare, este special întărit și nu poate fi fabricat la scară mică.</ReinforcedBarrel.description>
+  <ReinforcedBarrel.description>TODO</ReinforcedBarrel.description>
   
 </LanguageData>

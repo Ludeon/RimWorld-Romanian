@@ -27,32 +27,7 @@
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->You have failed the quest '[resolvedQuestName]'.</li>
     <li>failLetterEndingCommon->You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
   -->
-  <QuestConstructionDescriptionCommon.rulePack.rulesStrings>
-    <li>questDescription(askerIsNull==true)->A sosit un mesaj misterios. Se pare că a fost transmis de o persoană-mașină care refuză să se numească. Mesajul vă cere să construiți un monument foarte specific.\n\n[commonEnding]</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_faction_leaderTitle] [asker_nameFull] din [asker_faction_name] vă cere să construiți un monument [buildReason].\n\n[commonEnding]</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction] [asker_nameFull] din [asker_faction_name] vă solicită să construiți un monument [buildReason].\n\n[commonEnding]</li>
-    <li>asker2(askerIsNull==true)->arcotechul</li>
-    <li>asker2(asker_factionLeader==True)->[asker_nameDef]</li>
-    <li>asker2(asker_royalInCurrentFaction==True)->[asker_royalTitleInCurrentFaction]</li>
-    <li>buildReason->pentru a comemora [PersonalCharacteristic] a [PersonFamily] [asker_possessive]</li>
-    <li>buildReason->pentru a comemora propria [asker_possessive] [PersonalCharacteristic]</li>
-    <li>buildReason->pentru a jigni [PersonalCharacteristic] a rivalului [asker_possessive]</li>
-    <li>buildReason->pentru a reduce sentimentele de [ConceptAngsty] în rândul populației</li>
-    <li>buildReason->pentru a exprima cât de [AdjectiveBadass] este [asker_pronoun].</li>
-    <li>buildReason->pentru a comemora [asker_faction_pawnsPlural] [asker_possessive] care au căzut în luptă</li>
-    <li>buildReason->pentru a onora [PersonFamily] [asker_possessive]</li>
-    <li>buildReason->pentru a onora munca de [PersonJob]</li>
-    <li>buildReason->pentru a răspândi imagini de [glory] [asker_possessive] în toată țara</li>
-    <li>glory->glorii</li>
-    <li>glory->onoare marțială</li>
-    <li>glory->victorii</li>
-    <li>glory->tron</li>
-    <li>glory->navete</li>
-    <li>glory->bogății</li>
-    <li>glory->familii</li>
-    <li>failLetterEndingCommon(askerIsNull==true,priority=1)->Ați eșuat misiunea '[resolvedQuestName]'.</li>
-    <li>failLetterEndingCommon->Ați eșuat în misiunea '[resolvedQuestName]'.\n\nRelațiile dvs. cu [asker_faction_name] au scăzut cu [goodwillPenalty].</li>
-  </QuestConstructionDescriptionCommon.rulePack.rulesStrings>
+  <QuestConstructionDescriptionCommon.rulePack.rulesStrings>TODO</QuestConstructionDescriptionCommon.rulePack.rulesStrings>
   
   <!-- EN:
     <li>questName->[constAdj] [construction]</li>
@@ -83,52 +58,6 @@
     <li>construction->blueprint</li>
     <li>construction->assembly</li>
   -->
-  <QuestConstructionNameCommon.rulePack.rulesStrings>
-    <li>questName->[construction_fem] [constAdj_fem]</li>
-    <li>questName->[construction_msc] [constAdj_msc]</li>
-    <li>questName->O [construction_fem] [constAdj_fem]</li>
-    <li>questName->Un [construction_msc] [constAdj_msc]</li>
-    <li>constAdj_msc(p=20)->[AdjectiveLarge]</li>
-    <li>constAdj_fem(p=20)->[AdjectiveLarge_Feminine]</li>
-    <li>constAdj_fem->teribilă</li>
-    <li>constAdj_fem->mare</li>
-    <li>constAdj_fem->grandioasă</li>
-    <li>constAdj_fem->periculoasă</li>
-    <li>constAdj_fem->monumentală</li>
-    <li>constAdj_fem->extravagantă</li>
-    <li>constAdj_fem->prevestitoare</li>
-    <li>constAdj_fem->înspăimântătoare</li>
-    <li>constAdj_fem->îngrozitoare</li>
-    <li>constAdj_fem->înfricoșătoare</li>
-    <li>constAdj_fem->minunată</li>
-    <li>constAdj_fem->profetică</li>
-    <li>constAdj_fem->chinuitoare</li>
-    <li>constAdj_fem->sclipitoare</li>
-    <li>constAdj_fem->strălucitoare</li>
-    <li>constAdj_fem->uimitoare</li>
-    <li>constAdj_fem->teribilă</li>
-    <li>constAdj_msc->mare</li>
-    <li>constAdj_msc->grandios</li>
-    <li>constAdj_msc->periculos</li>
-    <li>constAdj_msc->monumental</li>
-    <li>constAdj_msc->extravagant</li>
-    <li>constAdj_msc->prevestitor</li>
-    <li>constAdj_msc->înspăimântător</li>
-    <li>constAdj_msc->îngrozitor</li>
-    <li>constAdj_msc->înfricoșător</li>
-    <li>constAdj_msc->minunat</li>
-    <li>constAdj_msc->profetic</li>
-    <li>constAdj_msc->chinuitor</li>
-    <li>constAdj_msc->sclipitor</li>
-    <li>constAdj_msc->strălucitor</li>
-    <li>constAdj_msc->uimitor</li>
-    <li>construction_fem(p=3)->construcție</li>
-    <li>construction_fem(p=2)->structură</li>
-    <li>construction_fem(p=2)->clădire</li>
-    <li>construction_msc->monument</li>
-    <li>construction_msc->edificiu</li>
-    <li>construction_fem->schiță</li>
-    <li>construction_fem->asamblare</li>
-  </QuestConstructionNameCommon.rulePack.rulesStrings>
+  <QuestConstructionNameCommon.rulePack.rulesStrings>TODO</QuestConstructionNameCommon.rulePack.rulesStrings>
   
 </LanguageData>

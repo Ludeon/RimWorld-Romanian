@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: abandoned settlement -->
-  <AbandonedSettlement.label>așezare abandonată</AbandonedSettlement.label>
+  <AbandonedSettlement.label>TODO</AbandonedSettlement.label>
   <!-- EN: An abandoned settlement. -->
-  <AbandonedSettlement.description>O așezare abandonată.</AbandonedSettlement.description>
+  <AbandonedSettlement.description>TODO</AbandonedSettlement.description>
   
   <!-- EN: attacked caravan -->
-  <AttackedNonPlayerCaravan.label>caravană atacată</AttackedNonPlayerCaravan.label>
+  <AttackedNonPlayerCaravan.label>TODO</AttackedNonPlayerCaravan.label>
   <!-- EN: A caravan under attack. -->
-  <AttackedNonPlayerCaravan.description>O caravană atacată.</AttackedNonPlayerCaravan.description>
+  <AttackedNonPlayerCaravan.description>TODO</AttackedNonPlayerCaravan.description>
   
   <!-- EN: caravan -->
-  <Caravan.label>caravană</Caravan.label>
+  <Caravan.label>TODO</Caravan.label>
   <!-- EN: A group of traveling people. -->
-  <Caravan.description>Un grup de oameni care călătoresc.</Caravan.description>
+  <Caravan.description>TODO</Caravan.description>
   
   <!-- EN: destroyed settlement -->
-  <DestroyedSettlement.label>așezare distrusă</DestroyedSettlement.label>
+  <DestroyedSettlement.label>TODO</DestroyedSettlement.label>
   <!-- EN: A destroyed settlement. -->
-  <DestroyedSettlement.description>O așezare distrusă.</DestroyedSettlement.description>
+  <DestroyedSettlement.description>TODO</DestroyedSettlement.description>
   
   <!-- EN: landed ship -->
-  <EscapeShip.label>navă debarcată</EscapeShip.label>
+  <EscapeShip.label>TODO</EscapeShip.label>
   <!-- EN: The location of a hidden ship which can help you escape the planet. -->
-  <EscapeShip.description>Locația unei nave ascunse care te poate ajuta să scapi de pe planetă.</EscapeShip.description>
+  <EscapeShip.description>TODO</EscapeShip.description>
   
   <!-- EN: peace talks -->
-  <PeaceTalks.label>discuții de pace</PeaceTalks.label>
+  <PeaceTalks.label>TODO</PeaceTalks.label>
   <!-- EN: A site designated for peace talks. -->
-  <PeaceTalks.description>Un loc desemnat pentru discuții de pace.</PeaceTalks.description>
+  <PeaceTalks.description>TODO</PeaceTalks.description>
   
   <!-- EN: waypoint -->
-  <RoutePlannerWaypoint.label>punctul de reper</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.label>TODO</RoutePlannerWaypoint.label>
   <!-- EN: A temporary waypoint. -->
-  <RoutePlannerWaypoint.description>Un punct intermediar temporar.</RoutePlannerWaypoint.description>
+  <RoutePlannerWaypoint.description>TODO</RoutePlannerWaypoint.description>
   
   <!-- EN: settlement -->
-  <Settlement.label>așezare</Settlement.label>
+  <Settlement.label>TODO</Settlement.label>
   <!-- EN: A base of one of the factions. -->
-  <Settlement.description>O bază a uneia dintre facțiuni.</Settlement.description>
+  <Settlement.description>TODO</Settlement.description>
   
   <!-- EN: transport pods -->
-  <TravelingTransportPods.label>capsule de transport</TravelingTransportPods.label>
+  <TravelingTransportPods.label>TODO</TravelingTransportPods.label>
   <!-- EN: Transport pods in flight. -->
-  <TravelingTransportPods.description>Capsule de transport în zbor.</TravelingTransportPods.description>
+  <TravelingTransportPods.description>TODO</TravelingTransportPods.description>
   
 </LanguageData>

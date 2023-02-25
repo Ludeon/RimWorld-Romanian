@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: penoxycyline -->
-  <Penoxycyline.label>penoxicilină</Penoxycyline.label>
+  <Penoxycyline.label>TODO</Penoxycyline.label>
   <!-- EN: A drug for preventing infections before they take hold. Blocks malaria, sleeping sickness, plague. Must be taken every five days to remain effective.\n\nThis drug only prevents new infections. It does not cure existing infections - even those that are not yet discovered. -->
-  <Penoxycyline.description>Un medicament pentru prevenirea infecțiilor înainte ca acestea să se instaleze. Blochează malaria, boala somnului, ciuma. Trebuie luat la fiecare cinci zile pentru a rămâne eficient.\n\nAcest medicament previne doar infecțiile noi. Nu vindecă infecțiile existente - chiar și pe cele care nu au fost încă descoperite.</Penoxycyline.description>
+  <Penoxycyline.description>TODO</Penoxycyline.description>
   <!-- EN: Take {0} -->
-  <Penoxycyline.ingestible.ingestCommandString>Ia {0}</Penoxycyline.ingestible.ingestCommandString>
+  <Penoxycyline.ingestible.ingestCommandString>TODO</Penoxycyline.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <Penoxycyline.ingestible.ingestReportString>Ia {0}.</Penoxycyline.ingestible.ingestReportString>
+  <Penoxycyline.ingestible.ingestReportString>TODO</Penoxycyline.ingestible.ingestReportString>
   
 </LanguageData>

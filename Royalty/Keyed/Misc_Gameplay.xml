@@ -3,173 +3,170 @@
 
   <!-- Royalty and throne -->
   <!-- EN: Satisfies title -->
-  <ThroneMaxSatisfiedTitle>Satisface titlul</ThroneMaxSatisfiedTitle>
+  <ThroneMaxSatisfiedTitle>TODO</ThroneMaxSatisfiedTitle>
   <!-- EN: ({0} impressiveness) -->
-  <ThroneRoomImpressivenessInfo>({0} impresionabilitate)</ThroneRoomImpressivenessInfo>
+  <ThroneRoomImpressivenessInfo>TODO</ThroneRoomImpressivenessInfo>
   <!-- EN: Throne must be placed indoors. -->
-  <ThroneMustBePlacedInside>Tronul trebuie să fie plasat în interior.</ThroneMustBePlacedInside>
+  <ThroneMustBePlacedInside>TODO</ThroneMustBePlacedInside>
   <!-- EN: Minimum title ({FACTION_name}): {TITLE} -->
-  <MinimumRoyalTitleInspectString>Titlul minim ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
+  <MinimumRoyalTitleInspectString>TODO</MinimumRoyalTitleInspectString>
   <!-- EN: Trading here requires title: {0} -->
-  <RequiresTradePermission>Pentru a negocia aici este necesar un titlu: {0}</RequiresTradePermission>
+  <RequiresTradePermission>TODO</RequiresTradePermission>
   <!-- EN: Personal bedroom (partner allowed) -->
-  <RequirementPersonalBedroom>Dormitor personal (partener permis)</RequirementPersonalBedroom>
+  <RequirementPersonalBedroom>TODO</RequirementPersonalBedroom>
   
   <!-- Generated neurotrainers -->
   <!-- EN: psytrainer ({0}) -->
-  <PsycastNeurotrainerLabel>psytrainer ({0})</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerLabel>TODO</PsycastNeurotrainerLabel>
   <!-- EN: Use psytrainer to learn {0} psycast -->
-  <PsycastNeurotrainerUseLabel>Folosește psytrainer pentru a învăța {0} psycast</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerUseLabel>TODO</PsycastNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific psychic power.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites form knowledge of a specific ability, transmuting themselves into neural tissue as needed.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION} -->
-  <PsycastNeurotrainerDescription>O superdoză de mecanite de o singură folosință care antrenează o anumită putere psihică.\n\nDoza se administrează prin orbita ochiului. Odată eliberat în creier, mecaniticii formează cunoștințele unei abilități specifice, transmutându-se în țesut neuronal după cum este necesar.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
+  <PsycastNeurotrainerDescription>TODO</PsycastNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used neurotrainer to learn the {1} power. -->
-  <AbilityNeurotrainerUsed>{USER_labelShort} a folosit neurotrainer pentru a învăța puterea {1}.</AbilityNeurotrainerUsed>
+  <AbilityNeurotrainerUsed>TODO</AbilityNeurotrainerUsed>
   <!-- EN: Requires psylink -->
-  <PsycastNeurotrainerNoPsylink>Necesită psylink</PsycastNeurotrainerNoPsylink>
+  <PsycastNeurotrainerNoPsylink>TODO</PsycastNeurotrainerNoPsylink>
   <!-- EN: {USER_labelShort} already knows {1}. -->
-  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} știe deja {1}.</PsycastNeurotrainerAbilityAlreadyLearned>
+  <PsycastNeurotrainerAbilityAlreadyLearned>TODO</PsycastNeurotrainerAbilityAlreadyLearned>
 
   <!-- EN: whoever accepted the quest will receive {1} {0_royalFavorLabel} from {0_name} -->
-  <Reward_RoyalFavor>oricine a acceptat misiunea va primi {1} {0_royalFavorLabel} de la {0_name}</Reward_RoyalFavor>
+  <Reward_RoyalFavor>TODO</Reward_RoyalFavor>
   <!-- EN: you may choose one of the participating {2} to receive {1} {0_royalFavorLabel} from {0_name} -->
-  <Reward_RoyalFavor_ChoosePawn>poți alege unul dintre cei {2} participanți pentru a primi {1} {0_royalFavorLabel} de la {0_name}.</Reward_RoyalFavor_ChoosePawn>
+  <Reward_RoyalFavor_ChoosePawn>TODO</Reward_RoyalFavor_ChoosePawn>
   
   <!-- Ship landing beacons -->
   <!-- EN: Not usable -->
-  <NotUsable>Neutilizabil</NotUsable>
+  <NotUsable>TODO</NotUsable>
   <!-- EN: unpowered -->
-  <Unpowered>nealimentat</Unpowered>
+  <Unpowered>TODO</Unpowered>
   <!-- EN: blocked by roof -->
-  <BlockedByRoof>Blocat de acoperiș</BlockedByRoof>
+  <BlockedByRoof>TODO</BlockedByRoof>
   <!-- EN: Too close to other beacon -->
-  <TooCloseToOtherBeacon>Prea aproape de altă baliză</TooCloseToOtherBeacon>
+  <TooCloseToOtherBeacon>TODO</TooCloseToOtherBeacon>
   
   <!-- Meditation -->
   <!-- EN: Psyfocus -->
-  <Psyfocus>Psyfocus</Psyfocus>
+  <Psyfocus>TODO</Psyfocus>
   <!-- EN: Psyfocus -->
-  <PsyfocusLabelGizmo>Psyfocus</PsyfocusLabelGizmo>
-  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
-  <PsyfocusDesc>Psyfocus este un tip special de structurare mentală care este necesar pentru a folosi puterile psihice. Psyfocus-ul se disipează în timp și trebuie construit prin meditație regulată. Pierderea întregului psyfocus face ca cineva să nu poată folosi psihicul, dar nu are alte consecințe.\n\nNiveluri mai mari de psyfocus permit puteri de nivel mai înalt, dar cresc și rata de disipare a psyfocusului</PsyfocusDesc>
+  <PsyfocusLabelGizmo>TODO</PsyfocusLabelGizmo>
+  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychic powers, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
+  <PsyfocusDesc>TODO</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
-  <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
+  <PsyfocusLevelInfoRange>TODO</PsyfocusLevelInfoRange>
   <!-- EN: Up to level {0} powers. -->
-  <PsyfocusLevelInfoPsycasts>Puterile până la nivelul {0}.</PsyfocusLevelInfoPsycasts>
+  <PsyfocusLevelInfoPsycasts>TODO</PsyfocusLevelInfoPsycasts>
   <!-- EN: Psyfocus falls at {0} per day. -->
-  <PsyfocusLevelInfoFallRate>Psyfocus scade la {0} pe zi.</PsyfocusLevelInfoFallRate>
+  <PsyfocusLevelInfoFallRate>TODO</PsyfocusLevelInfoFallRate>
   <!-- EN: Meditation focus strength for {LASTUSER_labelShort} -->
-  <UserMeditationFocusStrength>Puterea de concentrare a meditației pentru {LASTUSER_labelShort}</UserMeditationFocusStrength>
+  <UserMeditationFocusStrength>TODO</UserMeditationFocusStrength>
   <!-- EN: Focus effect impacted by -->
-  <MeditationFocusImpacted>Efectul de focalizare afectat de</MeditationFocusImpacted>
+  <MeditationFocusImpacted>TODO</MeditationFocusImpacted>
   <!-- EN: {1} per nearby animus stone (max {0}) -->
-  <MeditationFocusPerAnimusStoneAbstract>{1} pentru fiecare piatră animus din apropiere (max {0})</MeditationFocusPerAnimusStoneAbstract>
+  <MeditationFocusPerAnimusStoneAbstract>TODO</MeditationFocusPerAnimusStoneAbstract>
   <!-- EN: {2} per nearby animus stone ({0} / {1}) -->
-  <MeditationFocusPerAnimusStone>{2} pentru fiecare piatră animus din apropiere ({0} / {1})</MeditationFocusPerAnimusStone>
+  <MeditationFocusPerAnimusStone>TODO</MeditationFocusPerAnimusStone>
   <!-- EN: Per nearby animus stone {2}, nature shrine {1} (max {0}) -->
-  <MeditationFocusPerAnimusStoneAndShrineAbstract>Pentru fiecare (din apropiere) piatră animus {2}, altarul naturii {1} (max {0})</MeditationFocusPerAnimusStoneAndShrineAbstract>
+  <MeditationFocusPerAnimusStoneAndShrineAbstract>TODO</MeditationFocusPerAnimusStoneAndShrineAbstract>
   <!-- EN: Per nearby animus stone {3}, nature shrine {2} ({0} / {1}) -->
-  <MeditationFocusPerAnimusStoneAndShrine>Pentru fiecare (din apropiere) piatră de animus {3}, altar din natură {2} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
+  <MeditationFocusPerAnimusStoneAndShrine>TODO</MeditationFocusPerAnimusStoneAndShrine>
   <!-- EN: Max {1} per nearby sculpture depending on quality (max {0}) -->
-  <MeditationFocusPerSculptureAbstract>Max {1} per sculptură din apropiere în funcție de calitate (max {0})</MeditationFocusPerSculptureAbstract>
+  <MeditationFocusPerSculptureAbstract>TODO</MeditationFocusPerSculptureAbstract>
   <!-- EN: Max {2} per nearby sculpture depending on quality ({0} / {1}) -->
-  <MeditationFocusPerSculpture>Max {2} per sculptură din apropiere, în funcție de calitate ({0} / {1})</MeditationFocusPerSculpture>
+  <MeditationFocusPerSculpture>TODO</MeditationFocusPerSculpture>
   <!-- EN: Per nearby grave {1} if empty, {2} for human corpse (up to {0}) -->
-  <MeditationFocusPerGraveAbstract>Pentru fiecare mormânt din apropiere {1} dacă este gol, {2} pentru cadavre umane (până la {0})</MeditationFocusPerGraveAbstract>
+  <MeditationFocusPerGraveAbstract>TODO</MeditationFocusPerGraveAbstract>
   <!-- EN: Per nearby grave {2} if empty, {3} for human corpse ({0} / {1}) -->
-  <MeditationFocusPerGrave>Pentru fiecare mormânt din apropiere {2} dacă este gol, {3} pentru cadavre umane ({0} / {1})</MeditationFocusPerGrave>
+  <MeditationFocusPerGrave>TODO</MeditationFocusPerGrave>
   <!-- EN: {1} per nearby lit flame source (up to {0}) -->
-  <MeditationFocusPerFlameAbstract>{1} pentru fiecare sursă de flacără aprinsă din apropiere (până la {0})</MeditationFocusPerFlameAbstract>
+  <MeditationFocusPerFlameAbstract>TODO</MeditationFocusPerFlameAbstract>
   <!-- EN: {2} per nearby lit flame source ({0} / {1}) -->
-  <MeditationFocusPerFlame>{2} pentru fiecare sursă de flacără aprinsă din apropiere ({0} / {1})</MeditationFocusPerFlame>
+  <MeditationFocusPerFlame>TODO</MeditationFocusPerFlame>
   <!-- EN: Psyfocus gain rate: {0}/d -->
-  <PsyfocusPerDayOfMeditation>Rata de câștig de psyfocus: {0}/z</PsyfocusPerDayOfMeditation>
+  <PsyfocusPerDayOfMeditation>TODO</PsyfocusPerDayOfMeditation>
   <!-- EN: Desired psyfocus -->
-  <DesiredPsyfocus>Psyfocus dorit</DesiredPsyfocus>
+  <DesiredPsyfocus>TODO</DesiredPsyfocus>
   <!-- EN: Click to set desired psyfocus. -->
-  <DesiredPsyfocusDesc>Faceți clic pentru a seta psyfocus-ul dorit.</DesiredPsyfocusDesc>
+  <DesiredPsyfocusDesc>TODO</DesiredPsyfocusDesc>
 
   <!-- EN: no throne assigned. -->
-  <AbilitySpeechDisabledNoThroneAssigned>nu există un tron atribuit.</AbilitySpeechDisabledNoThroneAssigned>
+  <AbilitySpeechDisabledNoThroneAssigned>TODO</AbilitySpeechDisabledNoThroneAssigned>
   <!-- EN: throne is not accessible. -->
-  <AbilitySpeechDisabledNoThroneIsNotAccessible>tronul nu este accesibil.</AbilitySpeechDisabledNoThroneIsNotAccessible>
+  <AbilitySpeechDisabledNoThroneIsNotAccessible>TODO</AbilitySpeechDisabledNoThroneIsNotAccessible>
   <!-- EN: throne not usable because it is undignified. -->
-  <AbilitySpeechDisabledNoThroneUndignified>tronul nu poate fi folosit pentru că este nedemn.</AbilitySpeechDisabledNoThroneUndignified>
+  <AbilitySpeechDisabledNoThroneUndignified>TODO</AbilitySpeechDisabledNoThroneUndignified>
   <!-- EN: already giving a speech. -->
-  <AbilitySpeechDisabledAlreadyGivingSpeech>deja se ține un discurs.</AbilitySpeechDisabledAlreadyGivingSpeech>
-  <!-- EN: another gathering is in progress. -->
-  <AbilitySpeechDisabledAnotherGatheringInProgress>o altă adunare este în curs de desfășurare.</AbilitySpeechDisabledAnotherGatheringInProgress>
-  <!-- EN: Next speech ready in -->
-  <AbilitySpeechCooldown>Următorul discurs este gata în</AbilitySpeechCooldown>
+  <AbilitySpeechDisabledAlreadyGivingSpeech>TODO</AbilitySpeechDisabledAlreadyGivingSpeech>
   <!-- EN: Outcome chances -->
-  <AbilitySpeechPossibleOutcomes>Șanse de rezultat</AbilitySpeechPossibleOutcomes>
+  <AbilitySpeechPossibleOutcomes>TODO</AbilitySpeechPossibleOutcomes>
   <!-- EN: {ORGANIZER_labelShort}'s {1} stat -->
-  <AbilitySpeechStatInfo>Statistica {1} a lui {ORGANIZER_labelShort}</AbilitySpeechStatInfo>
-  <!-- EN: Initiated at -->
-  <AbilitySpeechTargetsLabel>Inițiat la</AbilitySpeechTargetsLabel>
+  <AbilitySpeechStatInfo>TODO</AbilitySpeechStatInfo>
   <!-- EN: Dignified throne -->
-  <AbilitySpeechTargetDescThrone>Tron demn</AbilitySpeechTargetDescThrone>
+  <AbilitySpeechTargetDescThrone>TODO</AbilitySpeechTargetDescThrone>
   
   <!-- EN: no accessible altar. -->
-  <RitualDisabledNoAltar>fără altar accesibil.</RitualDisabledNoAltar>
+  <RitualDisabledNoAltar>TODO</RitualDisabledNoAltar>
   <!-- EN: Bestowing Ceremony -->
-  <RitualBestowingCeremony>Ceremonia de acordare a însemnelor</RitualBestowingCeremony>
+  <RitualBestowingCeremony>TODO</RitualBestowingCeremony>
 
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
-  <TotalMeditationToday>Meditația totală de astăzi: {0} (multiplicator de progres {1})</TotalMeditationToday>
+  <TotalMeditationToday>TODO</TotalMeditationToday>
   <!-- EN: progress {0} -->
-  <ProgressToNextSubplant>progresează {0}</ProgressToNextSubplant>
+  <ProgressToNextSubplant>TODO</ProgressToNextSubplant>
   <!-- EN: Begin linking ritual -->
-  <BeginLinkingRitualFloatMenu>Începeți ritualul de creare a legăturilor</BeginLinkingRitualFloatMenu>
+  <BeginLinkingRitualFloatMenu>TODO</BeginLinkingRitualFloatMenu>
   <!-- EN: Need {0} {1} here (have {2}) -->
-  <BeginLinkingRitualNeedSubplants>Trebuie {0} {1} aici (aveți {2})</BeginLinkingRitualNeedSubplants>
+  <BeginLinkingRitualNeedSubplants>TODO</BeginLinkingRitualNeedSubplants>
   <!-- EN: Need {0} psylink focus type -->
-  <BeginLinkingRitualNeedFocus>Trebuie tipul de focalizare psylink {0}</BeginLinkingRitualNeedFocus>
+  <BeginLinkingRitualNeedFocus>TODO</BeginLinkingRitualNeedFocus>
   <!-- EN: Max psylink level -->
-  <BeginLinkingRitualMaxPsylinkLevel>Nivelul maxim al legăturii de tip psylink</BeginLinkingRitualMaxPsylinkLevel>
+  <BeginLinkingRitualMaxPsylinkLevel>TODO</BeginLinkingRitualMaxPsylinkLevel>
   <!-- EN: Need a free, reachable spot within 3 cells for linking -->
-  <BeginLinkingRitualNeedLinkSpot>Trebuie un loc liber și accesibil în 3 celule pentru a face legătura.</BeginLinkingRitualNeedLinkSpot>
+  <BeginLinkingRitualNeedLinkSpot>TODO</BeginLinkingRitualNeedLinkSpot>
   <!-- EN: Linking ritual completed -->
-  <LetterLabelLinkingRitualCompleted>Ritualul de legătură a fost finalizat</LetterLabelLinkingRitualCompleted>
+  <LetterLabelLinkingRitualCompleted>TODO</LetterLabelLinkingRitualCompleted>
   <!-- EN: {PAWN_labelShort} has completed the linking ritual with {LINKABLE_labelShort}.\n\n{PAWN_pronoun} now has an upgraded psylink, permitting the use of new psychic powers. -->
-  <LetterTextLinkingRitualCompleted>{PAWN_labelShort} a finalizat ritualul de legare cu {LINKABLE_labelShort}.\n\n{PAWN_pronoun} are acum un psylink îmbunătățit, permițând utilizarea de noi puteri psihice.</LetterTextLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompleted>TODO</LetterTextLinkingRitualCompleted>
   <!-- EN: Additionally, {0} anima grass has been restored. -->
-  <LetterTextLinkingRitualCompletedAnimaGrass>În plus, {0} iarba anima a fost restaurată.</LetterTextLinkingRitualCompletedAnimaGrass>
+  <LetterTextLinkingRitualCompletedAnimaGrass>TODO</LetterTextLinkingRitualCompletedAnimaGrass>
 
   <!-- EN: Land shuttle here -->
-  <LandHere>Aterizează naveta aici</LandHere>
+  <LandHere>TODO</LandHere>
   <!-- EN: Destination is out of range. -->
-  <MessageShuttleDestinationIsTooFar>Destinația este în afara razei de acțiune.</MessageShuttleDestinationIsTooFar>
+  <MessageShuttleDestinationIsTooFar>TODO</MessageShuttleDestinationIsTooFar>
 
   <!-- EN: Start bestowing ceremony for {0_labelShort} -->
-  <BeginCeremony>Ceremonia de acordare</BeginCeremony>
+  <BeginCeremony>TODO</BeginCeremony>
   <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>Throneroom-ul lui {PAWN_definite} nu satisface cerințele titlului de {TITLE}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>TODO</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->
-  <BestowingCeremonyThroneroomRequirementsNotSatisfied>Emisarul este ofensat de faptul că sala tronului lui {PAWN_definite} nu îndeplinește cerințele titlului de {TITLE}. Ceremonia de acordare a fost anulată.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>TODO</BestowingCeremonyThroneroomRequirementsNotSatisfied>
   <!-- EN: bestowing ceremony -->
-  <BestowingCeremonyLabel>ceremonie de acordare</BestowingCeremonyLabel>
+  <BestowingCeremonyLabel>TODO</BestowingCeremonyLabel>
   <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
-  <BestowingOutcomeQualitySpecific>Calitatea totală a ceremoniei de acordare a fost {0}, determinată de acești factori</BestowingOutcomeQualitySpecific>
+  <BestowingOutcomeQualitySpecific>TODO</BestowingOutcomeQualitySpecific>
   
   <!-- EN: No colonists that can link with anima tree right now. -->
-  <RitualTargetAnimaTreeNoPawnsToLink>Nu există coloniști care să se poată lega cu arborele de anima în acest moment.</RitualTargetAnimaTreeNoPawnsToLink>
+  <RitualTargetAnimaTreeNoPawnsToLink>TODO</RitualTargetAnimaTreeNoPawnsToLink>
   <!-- EN: No colonists with the natural meditation focus type. -->
-  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>Nu există coloniști cu tipul de focalizare a meditației naturale.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>TODO</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
   <!-- EN: Need at least {0} anima grass. -->
-  <RitualTargetAnimaTreeNotEnoughAnimaGrass>Aveți nevoie de cel puțin {0} iarbă de anima.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
-  <!-- EN: An anima tree. -->
-  <RitualTargetAnimaTreeInfo>Un copac de anima.</RitualTargetAnimaTreeInfo>
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>TODO</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <!-- EN: an anima tree -->
+  <RitualTargetAnimaTreeInfo>TODO</RitualTargetAnimaTreeInfo>
   <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
-  <RitualTargetAnimaTreeMustBeCapableOfNature>Trebuie să fie un colonist cu tipul de focalizare a meditației naturale care se află sub nivelul maxim de psylink.</RitualTargetAnimaTreeMustBeCapableOfNature>
+  <RitualTargetAnimaTreeMustBeCapableOfNature>TODO</RitualTargetAnimaTreeMustBeCapableOfNature>
   <!-- EN: Must not be psychically deaf. -->
   <RitualTargetAnimaTreeMustBePsychicallySensitive>TODO</RitualTargetAnimaTreeMustBePsychicallySensitive>
 
   <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
-  <AnimaLinkingExplanationBase>Ceremonia de legare a anima este mai puternică cu mai mulți participanți. Cu cât participă mai mulți oameni, cu atât mai puțin timp durează ceremonia și cu atât mai multă iarbă de anima va crește.\n\nCu {0} participanți suplimentari, {1} iarbă de anima va fi restaurată la sfârșitul ceremoniei.</AnimaLinkingExplanationBase>
+  <AnimaLinkingExplanationBase>TODO</AnimaLinkingExplanationBase>
   <!-- EN: Not all required cargo is loaded yet! -->
-  <ShuttleRequiredItemsNotSatisfied>Nu toată încărcătura necesară este încă încărcată!</ShuttleRequiredItemsNotSatisfied>
+  <ShuttleRequiredItemsNotSatisfied>TODO</ShuttleRequiredItemsNotSatisfied>
 
   <!-- EN: no heat to dump. -->
-  <AbilityNoEntropyToDump>Nu există căldură de descărcat.</AbilityNoEntropyToDump>
+  <AbilityNoEntropyToDump>TODO</AbilityNoEntropyToDump>
+
+  <!-- EN: level {0} -->
+  <LevelNum>TODO</LevelNum> <!-- Psylink level as reported in health tab-->
 
 </LanguageData>

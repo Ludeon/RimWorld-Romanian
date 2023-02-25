@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: architect -->
-  <Architect.label>arhitect</Architect.label>
+  <Architect.label>TODO</Architect.label>
   <!-- EN: General-use controls for the architect mode menu. -->
-  <Architect.description>Comenzi de uz general pentru meniul modului arhitect.</Architect.description>
+  <Architect.description>TODO</Architect.description>
   
   <!-- EN: debug menu -->
-  <DebugMenu.label>meniu de depanare</DebugMenu.label>
+  <DebugMenu.label>TODO</DebugMenu.label>
   <!-- EN: Controls used in debug menus. Active in development mode only. -->
-  <DebugMenu.description>Controale utilizate în meniurile de depanare. Active numai în modul de dezvoltare.</DebugMenu.description>
+  <DebugMenu.description>TODO</DebugMenu.description>
   
   <!-- EN: developer tools -->
-  <Development.label>instrumente de dezvoltare</Development.label>
+  <Development.label>TODO</Development.label>
   <!-- EN: Controls for developers and modders. Active in development mode only. -->
-  <Development.description>Comenzi pentru dezvoltatori și modderi. Active doar în modul de dezvoltare.</Development.description>
+  <Development.description>TODO</Development.description>
   
   <!-- EN: in-game global -->
-  <Game.label>global în joc</Game.label>
+  <Game.label>TODO</Game.label>
   <!-- EN: Colony mode controls that apply in most situations. -->
-  <Game.description>Controale pentru modul colonie care se aplică în majoritatea situațiilor.</Game.description>
+  <Game.description>TODO</Game.description>
   
   <!-- EN: camera -->
-  <GameMapCamera.label>cameră</GameMapCamera.label>
+  <GameMapCamera.label>TODO</GameMapCamera.label>
   <!-- EN: Controls for the camera. -->
-  <GameMapCamera.description>Comenzi pentru camera jocului.</GameMapCamera.description>
+  <GameMapCamera.description>TODO</GameMapCamera.description>
   
   <!-- EN: main tabs -->
-  <MainTabs.label>filele principale</MainTabs.label>
+  <MainTabs.label>TODO</MainTabs.label>
   <!-- EN: Controls for the main tabs. -->
-  <MainTabs.description>Controale pentru filele principale.</MainTabs.description>
+  <MainTabs.description>TODO</MainTabs.description>
   
   <!-- EN: modifiers -->
-  <Modifiers.label>modificatori</Modifiers.label>
+  <Modifiers.label>TODO</Modifiers.label>
   <!-- EN: Controls used to modify other actions. -->
-  <Modifiers.description>Controale utilizate pentru a modifica alte acțiuni.</Modifiers.description>
+  <Modifiers.description>TODO</Modifiers.description>
   
   <!-- EN: misc -->
-  <SelectionMisc.label>diverse</SelectionMisc.label>
+  <SelectionMisc.label>TODO</SelectionMisc.label>
   <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
-  <SelectionMisc.description>Controale generice care sunt refolosite de multe elemente și obiecte în tot jocul.</SelectionMisc.description>
+  <SelectionMisc.description>TODO</SelectionMisc.description>
   
   <!-- EN: special -->
-  <SelectionSpecial.label>special</SelectionSpecial.label>
+  <SelectionSpecial.label>TODO</SelectionSpecial.label>
   <!-- EN: Special controls reserved for specific functions on specific objects. -->
-  <SelectionSpecial.description>Controale speciale rezervate pentru funcții specifice pe anumite obiecte.</SelectionSpecial.description>
+  <SelectionSpecial.description>TODO</SelectionSpecial.description>
   
 </LanguageData>

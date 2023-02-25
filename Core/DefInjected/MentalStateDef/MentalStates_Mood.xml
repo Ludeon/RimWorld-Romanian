@@ -2,187 +2,187 @@
 <LanguageData>
   
   <!-- EN: tantrum -->
-  <BedroomTantrum.label>criză de furie</BedroomTantrum.label>
+  <BedroomTantrum.label>TODO</BedroomTantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <BedroomTantrum.baseInspectLine>Stare mentală: Criză de furie</BedroomTantrum.baseInspectLine>
+  <BedroomTantrum.baseInspectLine>TODO</BedroomTantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
-  <BedroomTantrum.beginLetter>{0} are o criză de furie.\n\n[PAWN_pronoun] va sparge lucruri în camera [PAWN_possessive].</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetter>TODO</BedroomTantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
-  <BedroomTantrum.recoveryMessage>{0} nu mai are o criză de furie.</BedroomTantrum.recoveryMessage>
+  <BedroomTantrum.recoveryMessage>TODO</BedroomTantrum.recoveryMessage>
   
   <!-- EN: berserk -->
-  <Berserk.label>berserk</Berserk.label>
+  <Berserk.label>TODO</Berserk.label>
   <!-- EN: Mental state: Berserk -->
-  <Berserk.baseInspectLine>Stare mentală: Berserk</Berserk.baseInspectLine>
+  <Berserk.baseInspectLine>TODO</Berserk.baseInspectLine>
   <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
-  <Berserk.beginLetter>{0} a devenit berserk.\n\n[PAWN_pronoun] va ataca pe oricine vede [PAWN_pronoun].</Berserk.beginLetter>
+  <Berserk.beginLetter>TODO</Berserk.beginLetter>
   <!-- EN: {0}'s berserk rage has come to an end. -->
-  <Berserk.recoveryMessage>Furia berserk a lui {0} a luat sfârșit.</Berserk.recoveryMessage>
+  <Berserk.recoveryMessage>TODO</Berserk.recoveryMessage>
   
   <!-- EN: binging on drug -->
-  <Binging_DrugExtreme.label>abuz de droguri</Binging_DrugExtreme.label>
+  <Binging_DrugExtreme.label>TODO</Binging_DrugExtreme.label>
   <!-- EN: Mental state: Binging on {0} -->
-  <Binging_DrugExtreme.baseInspectLine>Stare mentală: Abuz de {0}</Binging_DrugExtreme.baseInspectLine>
+  <Binging_DrugExtreme.baseInspectLine>TODO</Binging_DrugExtreme.baseInspectLine>
   
   <!-- EN: binging on drug -->
-  <Binging_DrugMajor.label>îndopare cu droguri</Binging_DrugMajor.label>
+  <Binging_DrugMajor.label>TODO</Binging_DrugMajor.label>
   <!-- EN: Mental state: Binging on {0} -->
-  <Binging_DrugMajor.baseInspectLine>Stare mentală: Îmbuibare cu {0}</Binging_DrugMajor.baseInspectLine>
+  <Binging_DrugMajor.baseInspectLine>TODO</Binging_DrugMajor.baseInspectLine>
   
   <!-- EN: binging on food -->
-  <Binging_Food.label>se înfruptă cu mâncare</Binging_Food.label>
+  <Binging_Food.label>TODO</Binging_Food.label>
   <!-- EN: Mental state: Pigging out -->
-  <Binging_Food.baseInspectLine>Stare mentală: Porcăreală</Binging_Food.baseInspectLine>
+  <Binging_Food.baseInspectLine>TODO</Binging_Food.baseInspectLine>
   <!-- EN: {0} is pigging out on food. -->
-  <Binging_Food.beginLetter>{0} se înfruptă cu mâncare.</Binging_Food.beginLetter>
+  <Binging_Food.beginLetter>TODO</Binging_Food.beginLetter>
   <!-- EN: food binge -->
-  <Binging_Food.beginLetterLabel>îmbuibare alimentară</Binging_Food.beginLetterLabel>
+  <Binging_Food.beginLetterLabel>TODO</Binging_Food.beginLetterLabel>
   <!-- EN: {0} is no longer pigging out on food. -->
-  <Binging_Food.recoveryMessage>{0} nu se mai înfruptă cu mâncare.</Binging_Food.recoveryMessage>
+  <Binging_Food.recoveryMessage>TODO</Binging_Food.recoveryMessage>
   
   <!-- EN: corpse obsession -->
-  <CorpseObsession.label>obsesie de cadavre</CorpseObsession.label>
+  <CorpseObsession.label>TODO</CorpseObsession.label>
   <!-- EN: Mental state: Corpse obsession -->
-  <CorpseObsession.baseInspectLine>Stare mentală: Obsesie de cadavre.</CorpseObsession.baseInspectLine>
+  <CorpseObsession.baseInspectLine>TODO</CorpseObsession.baseInspectLine>
   <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to dig up a corpse and present it for all to see. -->
-  <CorpseObsession.beginLetter>{0} a pătruns în interior și a devenit obsedat de cadavre.\n\n[PAWN_pronoun] va dezgropa un cadavru și îl va prezenta pentru ca toată lumea să-l vadă.</CorpseObsession.beginLetter>
+  <CorpseObsession.beginLetter>TODO</CorpseObsession.beginLetter>
   <!-- EN: {0} is no longer having a corpse obsession. -->
-  <CorpseObsession.recoveryMessage>{0} nu mai are o obsesie de cadavre.</CorpseObsession.recoveryMessage>
+  <CorpseObsession.recoveryMessage>TODO</CorpseObsession.recoveryMessage>
   
   <!-- EN: fire starting spree -->
-  <FireStartingSpree.label>incendiar</FireStartingSpree.label>
+  <FireStartingSpree.label>TODO</FireStartingSpree.label>
   <!-- EN: Mental state: Fire starting spree -->
-  <FireStartingSpree.baseInspectLine>Stare mentală: Incendiar</FireStartingSpree.baseInspectLine>
+  <FireStartingSpree.baseInspectLine>TODO</FireStartingSpree.baseInspectLine>
   <!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
-  <FireStartingSpree.beginLetter>{0} se află într-o sesiune de aprindere a focului.\n\n[PAWN_pronoun] se va plimba pentru o vreme, aprinzând focuri la întâmplare.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.beginLetter>TODO</FireStartingSpree.beginLetter>
   <!-- EN: {0} is no longer on a fire starting spree. -->
-  <FireStartingSpree.recoveryMessage>{0} nu se mai află într-o acțiune de inițiere a incendiilor.</FireStartingSpree.recoveryMessage>
+  <FireStartingSpree.recoveryMessage>TODO</FireStartingSpree.recoveryMessage>
   
   <!-- EN: giving up and leaving -->
-  <GiveUpExit.label>A renunțat și pleacă</GiveUpExit.label>
+  <GiveUpExit.label>TODO</GiveUpExit.label>
   <!-- EN: Mental state: Given up and leaving -->
-  <GiveUpExit.baseInspectLine>Stare mentală: A renunțat și pleacă</GiveUpExit.baseInspectLine>
+  <GiveUpExit.baseInspectLine>TODO</GiveUpExit.baseInspectLine>
   <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
-  <GiveUpExit.beginLetter>{0} a renunțat la această comunitate.\n\n[PAWN_pronoun] a decis să plece și să caute o viață mai bună în altă parte. Poți încerca să îl arestezi pe [PAWN_objective] în timp ce [PAWN_pronoun] pleacă. În caz contrar, s-ar putea să-l mai vedeți pe [PAWN_objective] într-o zi.</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetter>TODO</GiveUpExit.beginLetter>
   <!-- EN: gave up -->
-  <GiveUpExit.beginLetterLabel>a renunțat</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.beginLetterLabel>TODO</GiveUpExit.beginLetterLabel>
   <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
-  <GiveUpExit.recoveryMessage>{0} s-a răzgândit și se întoarce în colonie.</GiveUpExit.recoveryMessage>
+  <GiveUpExit.recoveryMessage>TODO</GiveUpExit.recoveryMessage>
   
   <!-- EN: insulting spree -->
-  <InsultingSpree.label>criză de insulte</InsultingSpree.label>
+  <InsultingSpree.label>TODO</InsultingSpree.label>
   <!-- EN: Mental state: Insulting spree -->
-  <InsultingSpree.baseInspectLine>Stare mentală: Criză de insulte</InsultingSpree.baseInspectLine>
+  <InsultingSpree.baseInspectLine>TODO</InsultingSpree.baseInspectLine>
   <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
-  <InsultingSpree.beginLetter>{0} se află în plină criză de insulte.\n\n[PAWN_pronoun] se va plimba pe aici, insultându-i la întâmplare pe ceilalți.</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetter>TODO</InsultingSpree.beginLetter>
   <!-- EN: {0} is no longer on an insulting spree. -->
-  <InsultingSpree.recoveryMessage>{0} nu se mai află într-o criză de insulte.</InsultingSpree.recoveryMessage>
+  <InsultingSpree.recoveryMessage>TODO</InsultingSpree.recoveryMessage>
   
   <!-- EN: inducing prisoner to escape -->
-  <Jailbreaker.label>induce prizonierul să evadeze</Jailbreaker.label>
+  <Jailbreaker.label>TODO</Jailbreaker.label>
   <!-- EN: Mental state: Jailbreaker -->
-  <Jailbreaker.baseInspectLine>Stare mentală: Spărgător de pușcării</Jailbreaker.baseInspectLine>
+  <Jailbreaker.baseInspectLine>TODO</Jailbreaker.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
-  <Jailbreaker.beginLetter>{0} a avut o cădere psihică și va induce prizonierii să evadeze.</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetter>TODO</Jailbreaker.beginLetter>
   <!-- EN: jailbreaker -->
-  <Jailbreaker.beginLetterLabel>spărgător de pușcării</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.beginLetterLabel>TODO</Jailbreaker.beginLetterLabel>
   <!-- EN: {0} is no longer inducing prisoners to escape. -->
-  <Jailbreaker.recoveryMessage>{0} nu mai induce prizonierii să evadeze.</Jailbreaker.recoveryMessage>
+  <Jailbreaker.recoveryMessage>TODO</Jailbreaker.recoveryMessage>
   
   <!-- EN: murderous rage -->
-  <MurderousRage.label>furie ucigașă</MurderousRage.label>
+  <MurderousRage.label>TODO</MurderousRage.label>
   <!-- EN: Mental state: Murderous rage -->
-  <MurderousRage.baseInspectLine>Stare mentală: Furie ucigașă.</MurderousRage.baseInspectLine>
+  <MurderousRage.baseInspectLine>TODO</MurderousRage.baseInspectLine>
   <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
-  <MurderousRage.beginLetter>{0} a zburat într-o furie ucigașă.\n\n[PAWN_pronoun] a decis să îl ucidă pe {1}.</MurderousRage.beginLetter>
+  <MurderousRage.beginLetter>TODO</MurderousRage.beginLetter>
   <!-- EN: {0} is no longer in a murderous rage. -->
-  <MurderousRage.recoveryMessage>{0} nu mai este într-o furie ucigașă.</MurderousRage.recoveryMessage>
+  <MurderousRage.recoveryMessage>TODO</MurderousRage.recoveryMessage>
   
   <!-- EN: sadistic rage -->
-  <SadisticRage.label>furie sadică</SadisticRage.label>
+  <SadisticRage.label>TODO</SadisticRage.label>
   <!-- EN: Mental state: Sadistic rage -->
-  <SadisticRage.baseInspectLine>Stare mentală: Furie sadică.</SadisticRage.baseInspectLine>
+  <SadisticRage.baseInspectLine>TODO</SadisticRage.baseInspectLine>
   <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
-  <SadisticRage.beginLetter>{0} a intrat într-o furie sadică.\n\n[PAWN_pronoun] își va vărsa furia [PAWN_possessive] asupra prizonierilor.</SadisticRage.beginLetter>
+  <SadisticRage.beginLetter>TODO</SadisticRage.beginLetter>
   <!-- EN: {0} is no longer in a sadistic rage. -->
-  <SadisticRage.recoveryMessage>{0} nu se mai află într-o furie sadică.</SadisticRage.recoveryMessage>
+  <SadisticRage.recoveryMessage>TODO</SadisticRage.recoveryMessage>
   
   <!-- EN: slaughterer -->
-  <Slaughterer.label>Măcelator</Slaughterer.label>
+  <Slaughterer.label>TODO</Slaughterer.label>
   <!-- EN: Mental state: Slaughterer -->
-  <Slaughterer.baseInspectLine>Stare mentală: Măcelator</Slaughterer.baseInspectLine>
+  <Slaughterer.baseInspectLine>TODO</Slaughterer.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
-  <Slaughterer.beginLetter>{0} a avut o cădere psihică și își va descărca furia [PAWN_possessive] pe animalele tale.</Slaughterer.beginLetter>
+  <Slaughterer.beginLetter>TODO</Slaughterer.beginLetter>
   <!-- EN: {0} is no longer slaughtering random animals. -->
-  <Slaughterer.recoveryMessage>{0} nu mai măcelărește animale la întâmplare.</Slaughterer.recoveryMessage>
+  <Slaughterer.recoveryMessage>TODO</Slaughterer.recoveryMessage>
   
   <!-- EN: tantrum -->
-  <Tantrum.label>criză de furie</Tantrum.label>
+  <Tantrum.label>TODO</Tantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <Tantrum.baseInspectLine>Stare mentală: Criză de furie</Tantrum.baseInspectLine>
+  <Tantrum.baseInspectLine>TODO</Tantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
-  <Tantrum.beginLetter>{0} are o criză de furie.\n\n[PAWN_pronoun] va sparge mobila, obiectele și structurile la întâmplare.</Tantrum.beginLetter>
+  <Tantrum.beginLetter>TODO</Tantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
-  <Tantrum.recoveryMessage>{0} nu mai are o criză de furie.</Tantrum.recoveryMessage>
+  <Tantrum.recoveryMessage>TODO</Tantrum.recoveryMessage>
   
   <!-- EN: insulting spree -->
-  <TargetedInsultingSpree.label>criză de insulte</TargetedInsultingSpree.label>
+  <TargetedInsultingSpree.label>TODO</TargetedInsultingSpree.label>
   <!-- EN: Mental state: Insulting spree against {0} -->
-  <TargetedInsultingSpree.baseInspectLine>Stare mentală: criză de insulte împotriva lui {0}</TargetedInsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.baseInspectLine>TODO</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
-  <TargetedInsultingSpree.beginLetter>{0} și-a fixat furia [PAWN_possessive] pe {1}.\n\n[PAWN_pronoun] îl va urmări pe {1} de colo-colo, aruncând insulte.</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetter>TODO</TargetedInsultingSpree.beginLetter>
   
   <!-- EN: tantrum -->
-  <TargetedTantrum.label>criză de furie</TargetedTantrum.label>
+  <TargetedTantrum.label>TODO</TargetedTantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <TargetedTantrum.baseInspectLine>Stare mentală: Criză de furie</TargetedTantrum.baseInspectLine>
+  <TargetedTantrum.baseInspectLine>TODO</TargetedTantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
-  <TargetedTantrum.beginLetter>{0} are o criză de furie.\n\n[PAWN_pronoun] îl va distruge pe {1}.</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetter>TODO</TargetedTantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
-  <TargetedTantrum.recoveryMessage>{0} nu mai are un acces de furie.</TargetedTantrum.recoveryMessage>
+  <TargetedTantrum.recoveryMessage>TODO</TargetedTantrum.recoveryMessage>
   
   <!-- EN: sitting alone -->
-  <Wander_OwnRoom.label>stând singur</Wander_OwnRoom.label>
+  <Wander_OwnRoom.label>TODO</Wander_OwnRoom.label>
   <!-- EN: Mental state: Hiding in room -->
-  <Wander_OwnRoom.baseInspectLine>Stare mentală: Se ascunde în cameră</Wander_OwnRoom.baseInspectLine>
+  <Wander_OwnRoom.baseInspectLine>TODO</Wander_OwnRoom.baseInspectLine>
   <!-- EN: {0} is hiding in [PAWN_possessive] room. -->
-  <Wander_OwnRoom.beginLetter>{0} se ascunde în camera [PAWN_possessive].</Wander_OwnRoom.beginLetter>
+  <Wander_OwnRoom.beginLetter>TODO</Wander_OwnRoom.beginLetter>
   <!-- EN: hide in room -->
-  <Wander_OwnRoom.beginLetterLabel>se ascunde în cameră</Wander_OwnRoom.beginLetterLabel>
+  <Wander_OwnRoom.beginLetterLabel>TODO</Wander_OwnRoom.beginLetterLabel>
   <!-- EN: {0} is no longer hiding in [PAWN_possessive] room. -->
-  <Wander_OwnRoom.recoveryMessage>{0} nu se mai ascunde în camera [PAWN_possessive].</Wander_OwnRoom.recoveryMessage>
+  <Wander_OwnRoom.recoveryMessage>TODO</Wander_OwnRoom.recoveryMessage>
   
   <!-- EN: wandering in psychosis -->
-  <Wander_Psychotic.label>rătăcind în psihoză</Wander_Psychotic.label>
+  <Wander_Psychotic.label>TODO</Wander_Psychotic.label>
   <!-- EN: Mental state: Psychotic wandering -->
-  <Wander_Psychotic.baseInspectLine>Stare mentală: Rătăcire psihotică</Wander_Psychotic.baseInspectLine>
+  <Wander_Psychotic.baseInspectLine>TODO</Wander_Psychotic.baseInspectLine>
   <!-- EN: {0} is wandering around in a psychotic state. -->
-  <Wander_Psychotic.beginLetter>{0} se rătăcește într-o stare psihotică.</Wander_Psychotic.beginLetter>
+  <Wander_Psychotic.beginLetter>TODO</Wander_Psychotic.beginLetter>
   <!-- EN: daze -->
-  <Wander_Psychotic.beginLetterLabel>amețeală</Wander_Psychotic.beginLetterLabel>
+  <Wander_Psychotic.beginLetterLabel>TODO</Wander_Psychotic.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
-  <Wander_Psychotic.recoveryMessage>{0} nu mai rătăcește în starea psihotică.</Wander_Psychotic.recoveryMessage>
+  <Wander_Psychotic.recoveryMessage>TODO</Wander_Psychotic.recoveryMessage>
   
   <!-- EN: wandering in psychosis -->
-  <Wander_Psychotic_Short.label>rătăcire într-o stare psihotică</Wander_Psychotic_Short.label>
+  <Wander_Psychotic_Short.label>TODO</Wander_Psychotic_Short.label>
   <!-- EN: Mental state: Psychotic wandering -->
-  <Wander_Psychotic_Short.baseInspectLine>Stare mentală: Rătăcire psihotică</Wander_Psychotic_Short.baseInspectLine>
+  <Wander_Psychotic_Short.baseInspectLine>TODO</Wander_Psychotic_Short.baseInspectLine>
   <!-- EN: {0} is wandering around in a psychotic state. -->
-  <Wander_Psychotic_Short.beginLetter>{0} se rătăcește într-o stare psihotică.</Wander_Psychotic_Short.beginLetter>
+  <Wander_Psychotic_Short.beginLetter>TODO</Wander_Psychotic_Short.beginLetter>
   <!-- EN: daze -->
-  <Wander_Psychotic_Short.beginLetterLabel>amețeală</Wander_Psychotic_Short.beginLetterLabel>
+  <Wander_Psychotic_Short.beginLetterLabel>TODO</Wander_Psychotic_Short.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
-  <Wander_Psychotic_Short.recoveryMessage>{0} nu mai rătăcește în starea psihotică.</Wander_Psychotic_Short.recoveryMessage>
+  <Wander_Psychotic_Short.recoveryMessage>TODO</Wander_Psychotic_Short.recoveryMessage>
   
   <!-- EN: sad wandering -->
-  <Wander_Sad.label>rătăcire tristă</Wander_Sad.label>
+  <Wander_Sad.label>TODO</Wander_Sad.label>
   <!-- EN: Mental state: Sad wandering -->
-  <Wander_Sad.baseInspectLine>Stare mentală: Rătăcire tristă</Wander_Sad.baseInspectLine>
+  <Wander_Sad.baseInspectLine>TODO</Wander_Sad.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around in sadness. -->
-  <Wander_Sad.beginLetter>{0} a cedat psihic și rătăcește în tristețe.</Wander_Sad.beginLetter>
+  <Wander_Sad.beginLetter>TODO</Wander_Sad.beginLetter>
   <!-- EN: sad wander -->
-  <Wander_Sad.beginLetterLabel>rătăcire tristă</Wander_Sad.beginLetterLabel>
+  <Wander_Sad.beginLetterLabel>TODO</Wander_Sad.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in sadness. -->
-  <Wander_Sad.recoveryMessage>{0} nu mai rătăcește în tristețe.</Wander_Sad.recoveryMessage>
+  <Wander_Sad.recoveryMessage>TODO</Wander_Sad.recoveryMessage>
   
 </LanguageData>

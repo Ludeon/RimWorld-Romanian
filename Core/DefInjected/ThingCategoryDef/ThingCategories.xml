@@ -2,198 +2,210 @@
 <LanguageData>
   
   <!-- EN: animal products -->
-  <AnimalProductRaw.label>produse animale</AnimalProductRaw.label>
+  <AnimalProductRaw.label>TODO</AnimalProductRaw.label>
   
   <!-- EN: animals -->
-  <Animals.label>animale</Animals.label>
+  <Animals.label>TODO</Animals.label>
   
   <!-- EN: apparel -->
-  <Apparel.label>îmbrăcăminte</Apparel.label>
+  <Apparel.label>TODO</Apparel.label>
   
   <!-- EN: armor -->
-  <ApparelArmor.label>armură</ApparelArmor.label>
-  
-  <!-- EN: noble apparel -->
-  <ApparelNoble.label>îmbrăcăminte nobilă</ApparelNoble.label>
-  
-  <!-- EN: utility -->
-  <ApparelUtility.label>utilitate</ApparelUtility.label>
-  
-  <!-- EN: headgear -->
-  <ArmorHeadgear.label>articole pentru cap</ArmorHeadgear.label>
-  
-  <!-- EN: artifacts -->
-  <Artifacts.label>artefacte</Artifacts.label>
-  
-  <!-- EN: body parts -->
-  <BodyParts.label>părți ale corpului</BodyParts.label>
-  
-  <!-- EN: archotech -->
-  <BodyPartsArchotech.label>archotech</BodyPartsArchotech.label>
-  
-  <!-- EN: bionic -->
-  <BodyPartsBionic.label>bionic</BodyPartsBionic.label>
-  
-  <!-- EN: natural -->
-  <BodyPartsNatural.label>natural</BodyPartsNatural.label>
-  
-  <!-- EN: prosthetic -->
-  <BodyPartsProsthetic.label>protetic</BodyPartsProsthetic.label>
-  
-  <!-- EN: simple parts -->
-  <BodyPartsSimple.label>părți simple</BodyPartsSimple.label>
-  
-  <!-- EN: ultratech -->
-  <BodyPartsUltra.label>ultratech</BodyPartsUltra.label>
-  
-  <!-- EN: buildings -->
-  <Buildings.label>clădiri</Buildings.label>
-  
-  <!-- EN: art -->
-  <BuildingsArt.label>artă</BuildingsArt.label>
-  
-  <!-- EN: furniture -->
-  <BuildingsFurniture.label>mobilier</BuildingsFurniture.label>
-  
-  <!-- EN: recreation -->
-  <BuildingsJoy.label>recreere</BuildingsJoy.label>
+  <ApparelArmor.label>TODO</ApparelArmor.label>
   
   <!-- EN: misc -->
-  <BuildingsMisc.label>diverse</BuildingsMisc.label>
+  <ApparelMisc.label>TODO</ApparelMisc.label>
+  
+  <!-- EN: noble apparel -->
+  <ApparelNoble.label>TODO</ApparelNoble.label>
+  
+  <!-- EN: utility -->
+  <ApparelUtility.label>TODO</ApparelUtility.label>
+  
+  <!-- EN: headgear -->
+  <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
+  
+  <!-- EN: artifacts -->
+  <Artifacts.label>TODO</Artifacts.label>
+  
+  <!-- EN: body parts -->
+  <BodyParts.label>TODO</BodyParts.label>
+  
+  <!-- EN: archotech -->
+  <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
+  
+  <!-- EN: bionic -->
+  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  
+  <!-- EN: mechtech -->
+  <BodyPartsMechtech.label>TODO</BodyPartsMechtech.label>
+  
+  <!-- EN: natural -->
+  <BodyPartsNatural.label>TODO</BodyPartsNatural.label>
+  
+  <!-- EN: prosthetic -->
+  <BodyPartsProsthetic.label>TODO</BodyPartsProsthetic.label>
+  
+  <!-- EN: simple parts -->
+  <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
+  
+  <!-- EN: ultratech -->
+  <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
+  
+  <!-- EN: buildings -->
+  <Buildings.label>TODO</Buildings.label>
+  
+  <!-- EN: art -->
+  <BuildingsArt.label>TODO</BuildingsArt.label>
+  
+  <!-- EN: furniture -->
+  <BuildingsFurniture.label>TODO</BuildingsFurniture.label>
+  
+  <!-- EN: recreation -->
+  <BuildingsJoy.label>TODO</BuildingsJoy.label>
+  
+  <!-- EN: misc -->
+  <BuildingsMisc.label>TODO</BuildingsMisc.label>
   
   <!-- EN: power -->
-  <BuildingsPower.label>putere</BuildingsPower.label>
+  <BuildingsPower.label>TODO</BuildingsPower.label>
   
   <!-- EN: production -->
-  <BuildingsProduction.label>producție</BuildingsProduction.label>
+  <BuildingsProduction.label>TODO</BuildingsProduction.label>
   
   <!-- EN: security -->
-  <BuildingsSecurity.label>securitate</BuildingsSecurity.label>
+  <BuildingsSecurity.label>TODO</BuildingsSecurity.label>
   
   <!-- EN: special -->
-  <BuildingsSpecial.label>special</BuildingsSpecial.label>
+  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
   
   <!-- EN: temperature -->
-  <BuildingsTemperature.label>temperatură</BuildingsTemperature.label>
+  <BuildingsTemperature.label>TODO</BuildingsTemperature.label>
   
   <!-- EN: chunks -->
-  <Chunks.label>bolovani</Chunks.label>
+  <Chunks.label>TODO</Chunks.label>
   
   <!-- EN: corpses -->
-  <Corpses.label>cadavre</Corpses.label>
+  <Corpses.label>TODO</Corpses.label>
   
   <!-- EN: animal corpses -->
-  <CorpsesAnimal.label>cadavre de animale</CorpsesAnimal.label>
+  <CorpsesAnimal.label>TODO</CorpsesAnimal.label>
   
   <!-- EN: humanlike corpses -->
-  <CorpsesHumanlike.label>cadavre de tip uman</CorpsesHumanlike.label>
+  <CorpsesHumanlike.label>TODO</CorpsesHumanlike.label>
   
   <!-- EN: insect corpses -->
-  <CorpsesInsect.label>cadavre de insecte</CorpsesInsect.label>
+  <CorpsesInsect.label>TODO</CorpsesInsect.label>
   
   <!-- EN: mechanoid corpses -->
-  <CorpsesMechanoid.label>cadavre mecanoide</CorpsesMechanoid.label>
+  <CorpsesMechanoid.label>TODO</CorpsesMechanoid.label>
   
   <!-- EN: drugs -->
-  <Drugs.label>droguri</Drugs.label>
+  <Drugs.label>TODO</Drugs.label>
   
   <!-- EN: eggs (fert.) -->
-  <EggsFertilized.label>ouă (fertilizate)</EggsFertilized.label>
+  <EggsFertilized.label>TODO</EggsFertilized.label>
   
   <!-- EN: eggs (unfert.) -->
-  <EggsUnfertilized.label>ouă (nefertilizate)</EggsUnfertilized.label>
+  <EggsUnfertilized.label>TODO</EggsUnfertilized.label>
   
   <!-- EN: meals -->
-  <FoodMeals.label>mese</FoodMeals.label>
+  <FoodMeals.label>TODO</FoodMeals.label>
   
   <!-- EN: raw food -->
-  <FoodRaw.label>alimente crude</FoodRaw.label>
+  <FoodRaw.label>TODO</FoodRaw.label>
   
   <!-- EN: foods -->
-  <Foods.label>alimente</Foods.label>
+  <Foods.label>TODO</Foods.label>
   
   <!-- EN: grenades -->
-  <Grenades.label>grenade</Grenades.label>
+  <Grenades.label>TODO</Grenades.label>
   
   <!-- EN: headgear -->
-  <Headgear.label>articole pentru cap</Headgear.label>
+  <Headgear.label>TODO</Headgear.label>
   
   <!-- EN: headgear -->
-  <HeadgearNoble.label>articole pentru cap</HeadgearNoble.label>
+  <HeadgearNoble.label>TODO</HeadgearNoble.label>
   
   <!-- EN: inert relics -->
-  <InertRelics.label>relicve inerte</InertRelics.label>
+  <InertRelics.label>TODO</InertRelics.label>
   
   <!-- EN: items -->
-  <Items.label>articole</Items.label>
+  <Items.label>TODO</Items.label>
+  
+  <!-- EN: misc -->
+  <ItemsMisc.label>TODO</ItemsMisc.label>
   
   <!-- EN: leathers -->
-  <Leathers.label>pieili</Leathers.label>
+  <Leathers.label>TODO</Leathers.label>
   
   <!-- EN: manufactured -->
-  <Manufactured.label>fabricate</Manufactured.label>
+  <Manufactured.label>TODO</Manufactured.label>
   
   <!-- EN: meat -->
-  <MeatRaw.label>carne</MeatRaw.label>
+  <MeatRaw.label>TODO</MeatRaw.label>
   
   <!-- EN: medicine -->
-  <Medicine.label>medicină</Medicine.label>
+  <Medicine.label>TODO</Medicine.label>
   
   <!-- EN: mortar shells -->
-  <MortarShells.label>obuze de mortier</MortarShells.label>
+  <MortarShells.label>TODO</MortarShells.label>
   
   <!-- EN: neurotrainers -->
-  <Neurotrainers.label>neurotrainere</Neurotrainers.label>
+  <Neurotrainers.label>TODO</Neurotrainers.label>
   
   <!-- EN: psytrainers -->
-  <NeurotrainersPsycast.label>psytrainere</NeurotrainersPsycast.label>
+  <NeurotrainersPsycast.label>TODO</NeurotrainersPsycast.label>
   
   <!-- EN: skilltrainers -->
-  <NeurotrainersSkill.label>skilltrainere</NeurotrainersSkill.label>
+  <NeurotrainersSkill.label>TODO</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
-  <PlantFoodRaw.label>vegetarian</PlantFoodRaw.label>
+  <PlantFoodRaw.label>TODO</PlantFoodRaw.label>
   
   <!-- EN: plant matter -->
-  <PlantMatter.label>materie vegetală</PlantMatter.label>
+  <PlantMatter.label>TODO</PlantMatter.label>
   
   <!-- EN: plants -->
-  <Plants.label>plante</Plants.label>
+  <Plants.label>TODO</Plants.label>
   
   <!-- EN: raw resources -->
-  <ResourcesRaw.label>resurse brute</ResourcesRaw.label>
+  <ResourcesRaw.label>TODO</ResourcesRaw.label>
   
   <!-- EN: root -->
-  <Root.label>rădăcină</Root.label>
+  <Root.label>TODO</Root.label>
   
   <!-- EN: stone blocks -->
-  <StoneBlocks.label>blocuri de piatră</StoneBlocks.label>
+  <StoneBlocks.label>TODO</StoneBlocks.label>
   
   <!-- EN: stone chunks -->
-  <StoneChunks.label>bolovani de piatră</StoneChunks.label>
+  <StoneChunks.label>TODO</StoneChunks.label>
+  
+  <!-- EN: stumps -->
+  <Stumps.label>TODO</Stumps.label>
   
   <!-- EN: techprints -->
-  <Techprints.label>Techprint-uri</Techprints.label>
+  <Techprints.label>TODO</Techprints.label>
   
   <!-- EN: textiles -->
-  <Textiles.label>textile</Textiles.label>
+  <Textiles.label>TODO</Textiles.label>
   
   <!-- EN: unfinished -->
-  <Unfinished.label>neterminat</Unfinished.label>
+  <Unfinished.label>TODO</Unfinished.label>
   
   <!-- EN: weapons -->
-  <Weapons.label>arme</Weapons.label>
+  <Weapons.label>TODO</Weapons.label>
   
   <!-- EN: melee weapons -->
-  <WeaponsMelee.label>arme de luptă corp la corp</WeaponsMelee.label>
+  <WeaponsMelee.label>TODO</WeaponsMelee.label>
   
   <!-- EN: persona weapons -->
-  <WeaponsMeleeBladelink.label>arme persona</WeaponsMeleeBladelink.label>
+  <WeaponsMeleeBladelink.label>TODO</WeaponsMeleeBladelink.label>
   
   <!-- EN: ranged weapons -->
-  <WeaponsRanged.label>Arme de distanță</WeaponsRanged.label>
+  <WeaponsRanged.label>TODO</WeaponsRanged.label>
   
   <!-- EN: wools -->
-  <Wools.label>lână</Wools.label>
+  <Wools.label>TODO</Wools.label>
   
 </LanguageData>

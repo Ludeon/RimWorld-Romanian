@@ -2,68 +2,73 @@
 <LanguageData>
   
   <!-- EN: recon armor -->
-  <Apparel_ArmorRecon.label>armură de recunoaștere</Apparel_ArmorRecon.label>
+  <Apparel_ArmorRecon.label>TODO</Apparel_ArmorRecon.label>
   <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. -->
-  <Apparel_ArmorRecon.description>Un costum de armură ușoară cu propulsie parțială, conceput pentru a permite mișcări rapide. Plăcile ușoare, țesute din plastel, blochează atacurile fără a compromite mobilitatea, iar asistenții neuro-memetici din partea inferioară a corpului permit unui om să poarte armura și să se miște cu ușurință.\n\nArmajul de acest tip este adesea folosit de trupele imperiale de recunoaștere și de forțele de poliție ale lumii centrale</Apparel_ArmorRecon.description>
+  <Apparel_ArmorRecon.description>TODO</Apparel_ArmorRecon.description>
   
   <!-- EN: T-shirt -->
-  <Apparel_BasicShirt.label>tricou</Apparel_BasicShirt.label>
+  <Apparel_BasicShirt.label>TODO</Apparel_BasicShirt.label>
   <!-- EN: A simple T-shirt. -->
-  <Apparel_BasicShirt.description>Un tricou simplu.</Apparel_BasicShirt.description>
+  <Apparel_BasicShirt.description>TODO</Apparel_BasicShirt.description>
+  
+  <!-- EN: cape -->
+  <Apparel_Cape.label>TODO</Apparel_Cape.label>
+  <!-- EN: A long cape of elegant design. It hangs over one side of the torso. -->
+  <Apparel_Cape.description>TODO</Apparel_Cape.description>
   
   <!-- EN: button-down shirt -->
-  <Apparel_CollarShirt.label>cămașă cu nasturi</Apparel_CollarShirt.label>
+  <Apparel_CollarShirt.label>TODO</Apparel_CollarShirt.label>
   <!-- EN: A nice-looking collared shirt with buttons. -->
-  <Apparel_CollarShirt.description>O cămașă cu guler cu nasturi care arată bine.</Apparel_CollarShirt.description>
+  <Apparel_CollarShirt.description>TODO</Apparel_CollarShirt.description>
   
   <!-- EN: duster -->
-  <Apparel_Duster.label>palton</Apparel_Duster.label>
+  <Apparel_Duster.label>TODO</Apparel_Duster.label>
   <!-- EN: A long duster coat for blocking the sun and grit of the outdoors. -->
-  <Apparel_Duster.description>O haină lungă pentru a bloca soarele și pietrele de afară.</Apparel_Duster.description>
+  <Apparel_Duster.description>TODO</Apparel_Duster.description>
   
   <!-- EN: flak jacket -->
-  <Apparel_FlakJacket.label>jachetă antiglonț</Apparel_FlakJacket.label>
+  <Apparel_FlakJacket.label>TODO</Apparel_FlakJacket.label>
   <!-- EN: A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
-  <Apparel_FlakJacket.description>O jachetă din țesătură rezistentă cu plăci de armură cusute. Deși nu este la fel de bună ca o armură solidă, oferă o protecție eficientă împotriva a tot felul de atacuri, rămânând în același timp destul de confortabilă.</Apparel_FlakJacket.description>
+  <Apparel_FlakJacket.description>TODO</Apparel_FlakJacket.description>
   
   <!-- EN: flak pants -->
-  <Apparel_FlakPants.label>pantaloni antiglonț</Apparel_FlakPants.label>
+  <Apparel_FlakPants.label>TODO</Apparel_FlakPants.label>
   <!-- EN: A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
-  <Apparel_FlakPants.description>O pereche de pantaloni cu plăci de armură cusute în interior. Deși nu este la fel de bună ca o armură solidă, oferă o protecție eficientă împotriva tuturor tipurilor de atacuri, rămânând în același timp destul de confortabilă.</Apparel_FlakPants.description>
+  <Apparel_FlakPants.description>TODO</Apparel_FlakPants.description>
   
   <!-- EN: flak vest -->
-  <Apparel_FlakVest.label>vestă antiglonț</Apparel_FlakVest.label>
+  <Apparel_FlakVest.label>TODO</Apparel_FlakVest.label>
   <!-- EN: A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs. -->
-  <Apparel_FlakVest.description>O vestă cu plăci de armură inserate pe piept și pe spate. Deși este destul de eficientă în ceea ce privește devierea focurilor de armă și a atacurilor cu armă albă împotriva pieptului, nu protejează deloc membrele.</Apparel_FlakVest.description>
+  <Apparel_FlakVest.description>TODO</Apparel_FlakVest.description>
   
   <!-- EN: jacket -->
-  <Apparel_Jacket.label>jachetă</Apparel_Jacket.label>
+  <Apparel_Jacket.label>TODO</Apparel_Jacket.label>
   <!-- EN: A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather. -->
-  <Apparel_Jacket.description>O jachetă rezistentă pentru a opri zgârieturile și vânătăile și pentru a ține de cald pe vreme rece.</Apparel_Jacket.description>
+  <Apparel_Jacket.description>TODO</Apparel_Jacket.description>
   
   <!-- EN: pants -->
-  <Apparel_Pants.label>pantaloni</Apparel_Pants.label>
+  <Apparel_Pants.label>TODO</Apparel_Pants.label>
   <!-- EN: A simple set of pants. -->
-  <Apparel_Pants.description>Un set simplu de pantaloni.</Apparel_Pants.description>
+  <Apparel_Pants.description>TODO</Apparel_Pants.description>
   
   <!-- EN: parka -->
-  <Apparel_Parka.label>geacă</Apparel_Parka.label>
+  <Apparel_Parka.label>TODO</Apparel_Parka.label>
   <!-- EN: A parka for staying warm in even the coldest of temperatures. -->
-  <Apparel_Parka.description>O geacă pentru a sta la căldură chiar și la cele mai scăzute temperaturi.</Apparel_Parka.description>
+  <Apparel_Parka.description>TODO</Apparel_Parka.description>
   
   <!-- EN: plate armor -->
-  <Apparel_PlateArmor.label>armură cu plăci</Apparel_PlateArmor.label>
+  <Apparel_PlateArmor.label>TODO</Apparel_PlateArmor.label>
   <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
-  <Apparel_PlateArmor.description>Plăci solide de armură suprapuse care acoperă întregul corp, de la gât până la picioare.</Apparel_PlateArmor.description>
+  <Apparel_PlateArmor.description>TODO</Apparel_PlateArmor.description>
   
   <!-- EN: marine armor -->
-  <Apparel_PowerArmor.label>armură marină</Apparel_PowerArmor.label>
+  <Apparel_PowerArmor.label>TODO</Apparel_PowerArmor.label>
   <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
-  <Apparel_PowerArmor.description>Un costum de armură cu motor. Plăcile stratificate cu țesătură de plastel sunt foarte eficiente în oprirea atacurilor, cu puține secțiuni de articulații vulnerabile. Asistenții neuro-memetici permit unui om să poarte armura și să se miște cu ușurință.\n\nArmajul de acest tip este adesea folosit de către ienicerii imperiali și pușcașii marini spațiali cu incursiune rapidă.</Apparel_PowerArmor.description>
+  <Apparel_PowerArmor.description>TODO</Apparel_PowerArmor.description>
   
   <!-- EN: tribalwear -->
-  <Apparel_TribalA.label>veșmânt tribal</Apparel_TribalA.label>
+  <Apparel_TribalA.label>TODO</Apparel_TribalA.label>
   <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
-  <Apparel_TribalA.description>O haină pentru tot corpul realizată cu ajutorul uneltelor neolitice. Deși poate părea primitiv, este eficient în izolarea purtătorului.</Apparel_TribalA.description>
+  <Apparel_TribalA.description>TODO</Apparel_TribalA.description>
   
 </LanguageData>

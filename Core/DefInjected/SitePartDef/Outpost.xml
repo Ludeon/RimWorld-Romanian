@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: outpost -->
-  <Outpost.label>avanpost</Outpost.label>
+  <Outpost.label>TODO</Outpost.label>
   <!-- EN: A small, guarded outpost. -->
-  <Outpost.description>Un mic avanpost păzit.</Outpost.description>
+  <Outpost.description>TODO</Outpost.description>
   <!-- EN: Attacking {0} -->
-  <Outpost.approachingReportString>Atacă {0}</Outpost.approachingReportString>
+  <Outpost.approachingReportString>TODO</Outpost.approachingReportString>
   <!-- EN: Attack {0} -->
-  <Outpost.approachOrderString>Atacă {0}</Outpost.approachOrderString>
+  <Outpost.approachOrderString>TODO</Outpost.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->
-  <Outpost.arrivedLetter>Există un avanpost inamic în această zonă.</Outpost.arrivedLetter>
+  <Outpost.arrivedLetter>TODO</Outpost.arrivedLetter>
   
 </LanguageData>

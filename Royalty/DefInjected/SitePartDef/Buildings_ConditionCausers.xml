@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: climate adjuster -->
-  <ClimateAdjuster.label>ajustor climatic</ClimateAdjuster.label>
+  <ClimateAdjuster.label>TODO</ClimateAdjuster.label>
   <!-- EN: A climate adjuster. -->
-  <ClimateAdjuster.description>Un regulator de climă.</ClimateAdjuster.description>
+  <ClimateAdjuster.description>TODO</ClimateAdjuster.description>
   
   <!-- EN: EMI dynamo -->
-  <EMIDynamo.label>Dinam EMI</EMIDynamo.label>
+  <EMIDynamo.label>TODO</EMIDynamo.label>
   <!-- EN: An EMI dynamo. -->
-  <EMIDynamo.description>Un dinam EMI.</EMIDynamo.description>
+  <EMIDynamo.description>TODO</EMIDynamo.description>
   
   <!-- EN: psychic droner -->
-  <PsychicDroner.label>droner psihic</PsychicDroner.label>
+  <PsychicDroner.label>TODO</PsychicDroner.label>
   <!-- EN: A psychic droner. -->
-  <PsychicDroner.description>Un droner psihic.</PsychicDroner.description>
+  <PsychicDroner.description>TODO</PsychicDroner.description>
   
   <!-- EN: psychic suppressor -->
-  <PsychicSuppressor.label>supresor psihic</PsychicSuppressor.label>
+  <PsychicSuppressor.label>TODO</PsychicSuppressor.label>
   <!-- EN: A psychic suppressor. -->
-  <PsychicSuppressor.description>Un supresor psihic.</PsychicSuppressor.description>
+  <PsychicSuppressor.description>TODO</PsychicSuppressor.description>
   
   <!-- EN: smoke spewer -->
-  <SmokeSpewer.label>emițător de fum</SmokeSpewer.label>
+  <SmokeSpewer.label>TODO</SmokeSpewer.label>
   <!-- EN: A smoke spewer. -->
-  <SmokeSpewer.description>Un emițător de fum.</SmokeSpewer.description>
+  <SmokeSpewer.description>TODO</SmokeSpewer.description>
   
   <!-- EN: sun blocker -->
-  <SunBlocker.label>blocant solar</SunBlocker.label>
+  <SunBlocker.label>TODO</SunBlocker.label>
   <!-- EN: A sun blocker machine which turns the sky opaque. -->
-  <SunBlocker.description>O mașină de blocat soarele care face cerul opac.</SunBlocker.description>
+  <SunBlocker.description>TODO</SunBlocker.description>
   
   <!-- EN: toxic spewer -->
-  <ToxicSpewer.label>deversor toxic</ToxicSpewer.label>
+  <ToxicSpewer.label>TODO</ToxicSpewer.label>
   <!-- EN: A toxic spewer. -->
-  <ToxicSpewer.description>Un deversor toxic.</ToxicSpewer.description>
+  <ToxicSpewer.description>TODO</ToxicSpewer.description>
   
   <!-- EN: weather controller -->
-  <WeatherController.label>controler meteo</WeatherController.label>
+  <WeatherController.label>TODO</WeatherController.label>
   <!-- EN: A weather controller. -->
-  <WeatherController.description>Un controler meteo.</WeatherController.description>
+  <WeatherController.description>TODO</WeatherController.description>
   
 </LanguageData>

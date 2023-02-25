@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: medical operation speed -->
-  <MedicalOperationSpeed.label>viteza operațiunii medicale</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.label>TODO</MedicalOperationSpeed.label>
   <!-- EN: The speed at which the character performs medical operations. -->
-  <MedicalOperationSpeed.description>Viteza cu care personajul efectuează operații medicale.</MedicalOperationSpeed.description>
+  <MedicalOperationSpeed.description>TODO</MedicalOperationSpeed.description>
   
   <!-- EN: medical surgery success chance -->
-  <MedicalSurgerySuccessChance.label>șansa de succes a operației medicale</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.label>TODO</MedicalSurgerySuccessChance.label>
   <!-- EN: The base chance that a character will succeed when performing a medical operation.\n\nThe actual success chance is also affected by factors like facilities, room cleanliness, medicine used, the difficulty of the surgery, and inspirations.\n\nNo matter how high this stat is, there is always a small chance of failure on any operation. -->
-  <MedicalSurgerySuccessChance.description>Șansa de bază ca un personaj să reușească atunci când efectuează o operație medicală.\n\nȘansa reală de succes este, de asemenea, afectată de factori precum facilitățile, curățenia camerei, medicamentele folosite, dificultatea operației și inspirațiile.\n\nNu contează cât de mare este această statistică, există întotdeauna o mică șansă de eșec la orice operație.</MedicalSurgerySuccessChance.description>
+  <MedicalSurgerySuccessChance.description>TODO</MedicalSurgerySuccessChance.description>
   
   <!-- EN: medical tend quality -->
-  <MedicalTendQuality.label>calitatea îngrijirii medicale</MedicalTendQuality.label>
+  <MedicalTendQuality.label>TODO</MedicalTendQuality.label>
   <!-- EN: The base quality of tending given when tending wounds and illnesses.\n\nThe actual tend quality will also be affected by factors like medicine used, facilities, luck, and so on. -->
-  <MedicalTendQuality.description>Calitatea de bază a îngrijirii acordate atunci când se îngrijesc răni și boli.\n\nCalitatea reală a îngrijirii va fi, de asemenea, afectată de factori precum medicamentele folosite, facilitățile, norocul și așa mai departe.</MedicalTendQuality.description>
+  <MedicalTendQuality.description>TODO</MedicalTendQuality.description>
   
   <!-- EN: medical tend speed -->
-  <MedicalTendSpeed.label>Viteza de îngrijire medicală</MedicalTendSpeed.label>
+  <MedicalTendSpeed.label>TODO</MedicalTendSpeed.label>
   <!-- EN: Speed at which the character tends to wounds and illnesses. -->
-  <MedicalTendSpeed.description>Viteza cu care personajul îngrijește rănile și bolile.</MedicalTendSpeed.description>
+  <MedicalTendSpeed.description>TODO</MedicalTendSpeed.description>
   
 </LanguageData>

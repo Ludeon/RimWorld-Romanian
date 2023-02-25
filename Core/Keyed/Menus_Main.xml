@@ -3,673 +3,739 @@
 
   <!-- Main menu -->
   <!-- EN: Tutorial -->
-  <Tutorial>Tutorial</Tutorial>
+  <Tutorial>TODO</Tutorial>
   <!-- EN: New colony -->
-  <NewColony>Colonie nouă</NewColony>
+  <NewColony>TODO</NewColony>
   <!-- EN: Back to game -->
-  <BackToGame>Continuare joc</BackToGame>
+  <BackToGame>TODO</BackToGame>
   <!-- EN: Review scenario -->
-  <ReviewScenario>Revizuire scenariu</ReviewScenario>
+  <ReviewScenario>TODO</ReviewScenario>
   <!-- EN: Save -->
-  <Save>Salvează</Save>
+  <Save>TODO</Save>
   <!-- EN: Load game -->
-  <LoadGame>Încarcă joc</LoadGame>
+  <LoadGame>TODO</LoadGame>
   <!-- EN: Options -->
-  <Options>Setări</Options>
+  <Options>TODO</Options>
   <!-- EN: Mod -->
-  <Mod>Mod</Mod>
+  <Mod>TODO</Mod>
   <!-- EN: Mods -->
-  <Mods>Mod-uri</Mods>
+  <Mods>TODO</Mods>
   <!-- EN: Save translation report -->
-  <SaveTranslationReport>Salvarea raportului de traducere</SaveTranslationReport>
+  <SaveTranslationReport>TODO</SaveTranslationReport>
   <!-- EN: Generating translation report -->
-  <GeneratingTranslationReport>Generarea raportului de traducere</GeneratingTranslationReport>
+  <GeneratingTranslationReport>TODO</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
-  <CleanupTranslationFiles>Curățarea fișierelor de traducere</CleanupTranslationFiles>
+  <CleanupTranslationFiles>TODO</CleanupTranslationFiles>
   <!-- EN: Update translations files (TKey's) -->
-  <TranslationFilesTKeyUpdate>Actualizarea fișierelor de traducere (TKey's)</TranslationFilesTKeyUpdate>
+  <TranslationFilesTKeyUpdate>TODO</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
-  <CleaningTranslationFiles>Curățarea fișierelor de traducere</CleaningTranslationFiles>
+  <CleaningTranslationFiles>TODO</CleaningTranslationFiles>
+  <!-- EN: Dev quicktest -->
+  <DevQuickTest>TODO</DevQuickTest>
   <!-- EN: Credits -->
-  <Credits>Credite</Credits>
+  <Credits>TODO</Credits>
   <!-- EN: Quit to main menu -->
-  <QuitToMainMenu>Ieși la meniul jocului</QuitToMainMenu>
+  <QuitToMainMenu>TODO</QuitToMainMenu>
   <!-- EN: Save and quit to menu -->
-  <SaveAndQuitToMainMenu>Salvează și ieși către meniu</SaveAndQuitToMainMenu>
+  <SaveAndQuitToMainMenu>TODO</SaveAndQuitToMainMenu>
   <!-- EN: Quit to OS -->
-  <QuitToOS>Ieși la SO</QuitToOS>
+  <QuitToOS>TODO</QuitToOS>
   <!-- EN: Save and quit to OS -->
-  <SaveAndQuitToOS>Salvează și ieși la SO</SaveAndQuitToOS>
+  <SaveAndQuitToOS>TODO</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
-  <FictionPrimer>Despre universul fictiv</FictionPrimer>
+  <FictionPrimer>TODO</FictionPrimer>
   <!-- EN: Ludeon blog -->
-  <LudeonBlog>Blog-ul Ludeon</LudeonBlog>
+  <LudeonBlog>TODO</LudeonBlog>
   <!-- EN: Forums -->
-  <Forums>Forum</Forums>
+  <Forums>TODO</Forums>
   <!-- EN: Official wiki -->
-  <OfficialWiki>Wiki oficial</OfficialWiki>
+  <OfficialWiki>TODO</OfficialWiki>
   <!-- EN: Tynan's twitter -->
-  <TynansTwitter>Pagina de twitter a lui Tynan</TynansTwitter>
+  <TynansTwitter>TODO</TynansTwitter>
   <!-- EN: Tynan's design book -->
-  <TynansDesignBook>Cartea de design a lui Tynan</TynansDesignBook>
+  <TynansDesignBook>TODO</TynansDesignBook>
   <!-- EN: Help translate RimWorld -->
-  <HelpTranslate>Participă la traducerea jocului!</HelpTranslate>
+  <HelpTranslate>TODO</HelpTranslate>
   <!-- EN: Buy soundtrack -->
-  <BuySoundtrack>Cumpărați coloana sonoră</BuySoundtrack>
+  <BuySoundtrack>TODO</BuySoundtrack>
   <!-- EN: Create world -->
-  <CreateWorld>Creare lume</CreateWorld>
+  <CreateWorld>TODO</CreateWorld>
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>Toate traducerile din RimWorld sunt făcute de fani ai jocului. Această traducere a fost creată de următorii voluntari excelenți:\n\n{0}</TranslationThanks>
+  <TranslationThanks>TODO</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
-  <TranslationHowToContribute>Poți contribui și tu. Fă clic mai jos pentru a afla mai multe (se deschide un browser web).</TranslationHowToContribute>
+  <TranslationHowToContribute>TODO</TranslationHowToContribute>
   <!-- EN: Learn more -->
-  <LearnMore>Aflați mai multe</LearnMore>
+  <LearnMore>TODO</LearnMore>
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>Avertisment: Aceasta este o versiune de dezvoltare instabilă. Acest lucru înseamnă că efectuăm experimente de proiectare și facem dezvoltare tehnică.\n\nCâteva lucruri vor fi temporar dezechilibrate în mod intenționat. Aceasta este o metodă clasică de proiectare a jocurilor în care mergem în mod deliberat prea departe cu o schimbare de echilibru pentru a înțelege mai bine limitele echilibrului. Putem folosi apoi aceste informații pentru a decide asupra punctelor finale de echilibru.\n\nExistă și bug-uri, inclusiv cele care distrug jocul. Compatibilitatea de salvare se poate întrerupe în orice moment.\n\nDacă sunteți de acord cu toate acestea, vă mulțumim pentru testare! Dacă nu doriți să fiți supuși experimentelor noastre, vă rugăm să jucați ultima versiune stabilă.</DevBuildWarning>
+  <DevBuildWarning>TODO</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
-  <ReviewWorld>Vizualizare lume</ReviewWorld>
+  <ReviewWorld>TODO</ReviewWorld>
   <!-- EN: Generate -->
-  <WorldGenerate>Generează lume</WorldGenerate>
+  <WorldGenerate>TODO</WorldGenerate>
   <!-- EN: Save and finish -->
-  <WorldSaveAndFinish>Salvează si finalizează</WorldSaveAndFinish>
-  <!-- EN: Reset -->
-  <Reset>Resetare</Reset>
+  <WorldSaveAndFinish>TODO</WorldSaveAndFinish>
+  <!-- EN: Reset factions -->
+  <ResetFactions>TODO</ResetFactions>
   <!-- EN: Globe coverage -->
-  <PlanetCoverage>Acoperirea globului</PlanetCoverage>
+  <PlanetCoverage>TODO</PlanetCoverage>
   <!-- EN: Overall rainfall -->
-  <PlanetRainfall>Precipitații generale</PlanetRainfall>
+  <PlanetRainfall>TODO</PlanetRainfall>
   <!-- EN: Overall temperature -->
-  <PlanetTemperature>Temperatura globală</PlanetTemperature>
+  <PlanetTemperature>TODO</PlanetTemperature>
   <!-- EN: Population -->
-  <PlanetPopulation>Populația</PlanetPopulation>
+  <PlanetPopulation>TODO</PlanetPopulation>
   <!-- EN: Low -->
-  <PlanetRainfall_Low>Mic</PlanetRainfall_Low>
+  <PlanetRainfall_Low>TODO</PlanetRainfall_Low>
   <!-- EN: Normal -->
-  <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+  <PlanetRainfall_Normal>TODO</PlanetRainfall_Normal>
   <!-- EN: High -->
-  <PlanetRainfall_High>Mare</PlanetRainfall_High>
+  <PlanetRainfall_High>TODO</PlanetRainfall_High>
   <!-- EN: Low -->
-  <PlanetTemperature_Low>Scăzută</PlanetTemperature_Low>
+  <PlanetTemperature_Low>TODO</PlanetTemperature_Low>
   <!-- EN: Normal -->
-  <PlanetTemperature_Normal>Normală</PlanetTemperature_Normal>
+  <PlanetTemperature_Normal>TODO</PlanetTemperature_Normal>
   <!-- EN: High -->
-  <PlanetTemperature_High>Ridicată</PlanetTemperature_High>
+  <PlanetTemperature_High>TODO</PlanetTemperature_High>
   <!-- EN: Sparse -->
-  <PlanetPopulation_Low>Dispersat</PlanetPopulation_Low>
+  <PlanetPopulation_Low>TODO</PlanetPopulation_Low>
   <!-- EN: Normal -->
-  <PlanetPopulation_Normal>Normal</PlanetPopulation_Normal>
+  <PlanetPopulation_Normal>TODO</PlanetPopulation_Normal>
   <!-- EN: Crowded -->
-  <PlanetPopulation_High>Aglomerat</PlanetPopulation_High>
+  <PlanetPopulation_High>TODO</PlanetPopulation_High>
   <!-- EN: Seed -->
-  <WorldSeed>Cod de generare</WorldSeed>
+  <WorldSeed>TODO</WorldSeed>
   <!-- EN: Randomize seed -->
-  <RandomizeSeed>Generare cod aleator</RandomizeSeed>
+  <RandomizeSeed>TODO</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>Planeta are întotdeauna același diametru, dar, deoarece este mult mai mare decât este necesar pentru joc, nu generăm întreaga suprafață deoarece poate dura foarte mult timp. Acesta este procentul din suprafață pe care doriți să îl generați.</PlanetCoverageTip>
+  <PlanetCoverageTip>TODO</PlanetCoverageTip>
   <!-- EN: Factions -->
-  <WorldFactionsTab>Facțiuni</WorldFactionsTab>
+  <WorldFactionsTab>TODO</WorldFactionsTab>
 
   <!-- Select world -->
   <!-- EN: Select world -->
-  <SelectWorld>Selectare lume</SelectWorld>
+  <SelectWorld>TODO</SelectWorld>
   <!-- EN: Select -->
-  <WorldChooseButton>Selectează</WorldChooseButton>
+  <WorldChooseButton>TODO</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>Nu există nici o lume creată. Creează o lume nouă mai întâi.</NoWorldsFilesFound>
+  <NoWorldsFilesFound>TODO</NoWorldsFilesFound>
   
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
-  <BuildNowAvailable>Versiunea {0} este finalizată. Accesează www.ludeon.com pentru mai multe informații.</BuildNowAvailable>
+  <BuildNowAvailable>TODO</BuildNowAvailable>
   <!-- EN: This is the latest version. -->
-  <BuildUpToDate>Aceasta este cea mai nouă versiune.</BuildUpToDate>
+  <BuildUpToDate>TODO</BuildUpToDate>
   <!-- EN: Error getting version info: {0} -->
-  <ErrorGettingVersionInfo>Eroare în determinarea versiunii jocului: {0}</ErrorGettingVersionInfo>
+  <ErrorGettingVersionInfo>TODO</ErrorGettingVersionInfo>
   <!-- EN: Loading version info... -->
-  <LoadingVersionInfo>Informații versiune prezentă</LoadingVersionInfo>
+  <LoadingVersionInfo>TODO</LoadingVersionInfo>
 
   <!-- World generator -->
   <!-- EN: Generate world -->
-  <GenerateWorld>Generează lume</GenerateWorld>
+  <GenerateWorld>TODO</GenerateWorld>
 
   <!-- Mods config -->
   <!-- EN: Open Steam Workshop -->
-  <OpenSteamWorkshop>Deschideți Atelierul Steam</OpenSteamWorkshop>
+  <OpenSteamWorkshop>TODO</OpenSteamWorkshop>
   <!-- EN: Get mods from forum -->
-  <GetModsFromForum>Obține mod-uri de pe forum</GetModsFromForum>
+  <GetModsFromForum>TODO</GetModsFromForum>
   <!-- EN: Open mods data folder -->
-  <OpenModsDataFolder>Deschide fișierul cu mod-uri</OpenModsDataFolder>
+  <OpenModsDataFolder>TODO</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
-  <ShowModsDataLocation>Afișează locația datelor despre module</ShowModsDataLocation>
+  <ShowModsDataLocation>TODO</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>Ești sigur că vrei sa dezactivezi nucleul de bază? Jocul nu va mai funcționa deloc dacă nu există un alt mod care să înlocuiască toate funcțiile de nucleului.\n\nReține, alte mod-uri pot suprapune defs-uri in mod-ul de bază dacă folosesc același defName.</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>TODO</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
-  <ConfirmDeleteMod>Sunteți sigur că doriți să ștergeți tot conținutul pentru {0}?</ConfirmDeleteMod>
+  <ConfirmDeleteMod>TODO</ConfirmDeleteMod>
   <!-- EN: Auto-sort mods -->
-  <ResolveModOrder>Sortare automată a mod-urilor</ResolveModOrder>
+  <ResolveModOrder>TODO</ResolveModOrder>
+  <!-- EN: Save and apply changes -->
+  <SaveModChanges>TODO</SaveModChanges>
+  <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
+  <DiscardModChanges>TODO</DiscardModChanges>
   <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
-  <ModReorderConflict_MustLoadAfter>Nu se poate muta {0}: Trebuie să fie încărcat după {1}.</ModReorderConflict_MustLoadAfter>
+  <ModReorderConflict_MustLoadAfter>TODO</ModReorderConflict_MustLoadAfter>
   <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
-  <ModReorderConflict_MustLoadBefore>Nu se poate muta {0}: Trebuie să fie încărcat înainte de {1}.</ModReorderConflict_MustLoadBefore>
+  <ModReorderConflict_MustLoadBefore>TODO</ModReorderConflict_MustLoadBefore>
   <!-- EN: Unsubscribe -->
-  <Unsubscribe>Dezabonare</Unsubscribe>
+  <Unsubscribe>TODO</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe? -->
+  <ConfirmUnsubscribe>TODO</ConfirmUnsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
-  <ConfirmUnsubscribe>Ești sigur că vrei să te dezabonezi de la {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribeFrom>TODO</ConfirmUnsubscribeFrom>
+  <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
+  <ConfirmUnsubscribeFromMultiple>TODO</ConfirmUnsubscribeFromMultiple>
   <!-- EN: Author -->
-  <Author>Autor</Author>
+  <Author>TODO</Author>
+  <!-- EN: Enabled -->
+  <Enabled>TODO</Enabled>
+  <!-- EN: Disabled -->
+  <Disabled>TODO</Disabled>
+  <!-- EN: Enable -->
+  <Enable>TODO</Enable>
+  <!-- EN: Disable -->
+  <Disable>TODO</Disable>
+  <!-- EN: Get mods from... -->
+  <GetMods>TODO</GetMods>
+  <!-- EN: Unsubscribe from... -->
+  <UnsubscribeMultiple>TODO</UnsubscribeMultiple>
+  <!-- EN: Save / load list... -->
+  <SaveLoadList>TODO</SaveLoadList>
+  <!-- EN: Save mod list -->
+  <SaveModList>TODO</SaveModList>
+  <!-- EN: Load mod list -->
+  <LoadModList>TODO</LoadModList>
+  <!-- EN: Added mods -->
+  <AddedModsList>TODO</AddedModsList>
+  <!-- EN: Missing mods -->
+  <MissingModsList>TODO</MissingModsList>
+  <!-- EN: Shared mods -->
+  <SharedModsList>TODO</SharedModsList>
+  <!-- EN: Website -->
+  <ModWebsite>TODO</ModWebsite>
+  <!-- EN: Open folder -->
+  <ModFolder>TODO</ModFolder>
+  <!-- EN: Mod options -->
+  <ModOptions>TODO</ModOptions>
+  <!-- EN: Workshop -->
+  <FromWorkshop>TODO</FromWorkshop>
+  <!-- EN: Forum -->
+  <FromForum>TODO</FromForum>
+  <!-- EN: Advanced... -->
+  <MoreActions>TODO</MoreActions>
+  <!-- EN: All selected mods -->
+  <AllSelectedMods>TODO</AllSelectedMods>
+  <!-- EN: All disabled mods -->
+  <AllDisabledMods>TODO</AllDisabledMods>
+  <!-- EN: All incompatible mods -->
+  <AllIncompatibleMods>TODO</AllIncompatibleMods>
   <!-- EN: Workshop page -->
-  <WorkshopPage>Pagina atelierului</WorkshopPage>
+  <WorkshopPage>TODO</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
-  <UploadToSteamWorkshop>Încarcă pe Steam Workshop</UploadToSteamWorkshop>
+  <UploadToSteamWorkshop>TODO</UploadToSteamWorkshop>
   <!-- EN: Update on Steam Workshop -->
-  <UpdateOnSteamWorkshop>Actualizare pe Steam Workshop</UpdateOnSteamWorkshop>
+  <UpdateOnSteamWorkshop>TODO</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
-  <UploadAlreadyInProgress>Încărcare deja în curs de desfășurare.</UploadAlreadyInProgress>
+  <UploadAlreadyInProgress>TODO</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
-  <WorkshopSubmissionFailed>Submiterea în atelier a eșuat.\n\nMotivul: {0}</WorkshopSubmissionFailed>
+  <WorkshopSubmissionFailed>TODO</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
-  <WorkshopUploadSucceeded>A fost încărcat cu succes {0}.</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>TODO</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
-  <Downloading>În descărcare</Downloading>
+  <Downloading>TODO</Downloading>
+  <!-- EN: Workshop ID -->
+  <WorkshopId>TODO</WorkshopId>
   <!-- EN: Display fulfilled requirements -->
-  <ModDisplayFulfilledRequirements>Afișează cerințele îndeplinite</ModDisplayFulfilledRequirements>
+  <ModDisplayFulfilledRequirements>TODO</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
-  <ModClickToSelect>Faceți clic pentru a selecta.</ModClickToSelect>
+  <ModClickToSelect>TODO</ModClickToSelect>
   <!-- EN: Click to go to website. -->
-  <ModClickToGoToWebsite>Faceți clic pentru a merge la site-ul web.</ModClickToGoToWebsite>
+  <ModClickToGoToWebsite>TODO</ModClickToGoToWebsite>
   <!-- EN: Source -->
-  <Source>Sursa</Source>
-  <!-- EN: For game version(s) -->
-  <ModTargetVersion>Pentru versiunea (versiunile) de joc</ModTargetVersion>
+  <Source>TODO</Source>
+  <!-- EN: Game versions -->
+  <ModTargetVersion>TODO</ModTargetVersion>
+  <!-- EN: Mod version -->
+  <ModVersion>TODO</ModVersion>
   <!-- EN: ID -->
-  <ModPackageId>ID</ModPackageId>
+  <ModPackageId>TODO</ModPackageId>
   <!-- EN: This must be loaded before: {0}. -->
-  <ModMustLoadBefore>Aceasta trebuie să fie încărcată înainte de: {0}.</ModMustLoadBefore>
+  <ModMustLoadBefore>TODO</ModMustLoadBefore>
   <!-- EN: This must be loaded after: {0}. -->
-  <ModMustLoadAfter>Acesta trebuie încărcat după: {0}.</ModMustLoadAfter>
+  <ModMustLoadAfter>TODO</ModMustLoadAfter>
   <!-- EN: Depends on: {0} -->
-  <ModDependsOn>Depinde de: {0}</ModDependsOn>
+  <ModDependsOn>TODO</ModDependsOn>
   <!-- EN: Incompatible with: {0} -->
-  <ModIncompatibleWith>Incompatibil cu: {0}</ModIncompatibleWith>
+  <ModIncompatibleWith>TODO</ModIncompatibleWith>
   <!-- EN: This mod is incompatible with: {0}. -->
-  <ModIncompatibleWithTip>Acest mod este incompatibil cu: {0}.</ModIncompatibleWithTip>
+  <ModIncompatibleWithTip>TODO</ModIncompatibleWithTip>
   <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
-  <ModOrderingWarning>Acest mod se încarcă într-o ordine greșită în raport cu un alt mod. Folosiți butonul "auto-sort" sau reordonați modurile manual.</ModOrderingWarning>
+  <ModOrderingWarning>TODO</ModOrderingWarning>
   <!-- EN: Another active mod uses the same ID: {0}. -->
-  <ModWithSameIdAlreadyActive>Un alt mod activ utilizează același ID: {0}.</ModWithSameIdAlreadyActive>
+  <ModWithSameIdAlreadyActive>TODO</ModWithSameIdAlreadyActive>
   <!-- EN: There is a cyclic mod dependency starting with {0}. -->
-  <ModCyclicDependency>Există o dependență ciclică de mod care începe cu {0}.</ModCyclicDependency>
-  <!-- EN: This requires following mods to work: {0}. -->
-  <ModUnsatisfiedDependency>Acest lucru necesită următoarele moduri pentru a funcționa: {0}.</ModUnsatisfiedDependency>
+  <ModCyclicDependency>TODO</ModCyclicDependency>
+  <!-- EN: This requires the following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>TODO</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>Acest mod nu a fost făcut pentru această versiune de RimWorld și probabil nu va funcționa corect.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion>TODO</ModNotMadeForThisVersion>
   <!-- EN: This mod is not made for this version of RimWorld. -->
-  <ModNotMadeForThisVersionShort>Acest mod nu este făcut pentru această versiune de RimWorld.</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersionShort>TODO</ModNotMadeForThisVersionShort>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion_Newer>Acest mod a fost făcut pentru o versiune mai nouă de RimWorld decât aceasta și probabil nu va funcționa corect.</ModNotMadeForThisVersion_Newer>
+  <ModNotMadeForThisVersion_Newer>TODO</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
-  <MessageModNeedsWellFormattedTargetVersion>Modul are nevoie de informații corect formatate despre versiunea susținută în About.xml. Astfel: &lt;supportedVersions>&lt;li>{0}&lt;/li>&lt;/supportedVersions> - &lt;targetVersion> este depreciat. Verificați jurnalul pentru informații suplimentare.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedTargetVersion>TODO</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>Modul are nevoie de un packageId unic și formatat corespunzător în About.xml. Acesta trebuie să îndeplinească următoarele cerințe:\n\n - Caractere alfanumerice și doar punct.\n - Fără spații.\n - Cel puțin un punct.\n - Fără puncte repetate într-un rând, sau care încep sau se termină cu un punct. \n - 60 de caractere sau mai puțin.\n - Nu poate conține cuvântul "Ludeon".\n\n De exemplu:\n&lt;packageId>AuthorName.ModName&lt;/packageId>\n&lt;packageId>AuthorName.ModName.Specific&lt;/packageId>.</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
-  <ModHadLoadFolderIssues>Acest mod are probleme în LoadFolders.xml, pe care trebuie să le rezolvați înainte de a-l încărca:</ModHadLoadFolderIssues>
+  <ModHadLoadFolderIssues>TODO</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
-  <ModLoadFolderDoesntExist>Dosarul {0} specificat pentru versiunea {1} nu există.</ModLoadFolderDoesntExist>
+  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
   <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
-  <ModLoadFolderMalformedVersion>Șirul de caractere de versiune "{0}" este deformat. Formatul corect este Major.Minor (de exemplu, 1.1).</ModLoadFolderMalformedVersion>
+  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
   <!-- EN: The list of load folders for version {0} is empty. -->
-  <ModLoadFolderListEmpty>Lista de dosare de încărcare pentru versiunea {0} este goală.</ModLoadFolderListEmpty>
+  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
   <!-- EN: Version {0} lists the same folder more than once: {1}. -->
-  <ModLoadFolderRepeatingFolder>Versiunea {0} listează același dosar de mai multe ori: {1}.</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
   <!-- EN: Invalid version order: {0} should come before {1}. -->
-  <ModLoadFolderOutOfOrder>Ordinea versiunilor nu este validă: {0} ar trebui să fie înaintea lui {1}.</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
   <!-- EN: Invalid version order: 'default' should be defined first. -->
-  <ModLoadFolderOutOfOrderDefault>Ordinea versiunilor nu este validă: 'default' ar trebui să fie definit primul.</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>Utilizarea 'default' în dosarele de încărcare este depășită. Vă rugăm să definiți folderele pentru fiecare versiune folosind etichetele &lt;v...>.</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>TODO</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>Versiunea {0} este definită în dosarele de încărcare, dar nu este listată în "supportedVersions" din About.xml al modului.</ModLoadFolderDefinesUnsupportedGameVersion>
+  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
-  <DragToReorder>Trageți pentru a reordona</DragToReorder>
+  <DragToReorder>TODO</DragToReorder>
 
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
-  <ChooseScenario>Alege scenariul</ChooseScenario>
+  <ChooseScenario>TODO</ChooseScenario>
   <!-- EN: Custom -->
-  <ScenariosCustom>Personalizat</ScenariosCustom>
+  <ScenariosCustom>TODO</ScenariosCustom>
   <!-- EN: Steam Workshop -->
-  <ScenariosSteamWorkshop>Atelierul Steam</ScenariosSteamWorkshop>
+  <ScenariosSteamWorkshop>TODO</ScenariosSteamWorkshop>
   <!-- EN: Scenario editor -->
-  <ScenarioEditor>Editor de scenarii</ScenarioEditor>
+  <ScenarioEditor>TODO</ScenarioEditor>
   <!-- EN: Delete -->
-  <Delete>Șterge</Delete>
+  <Delete>TODO</Delete>
   
   <!-- Scenario editor -->
   <!-- EN: seed -->
-  <Seed>cod de generare</Seed>
+  <Seed>TODO</Seed>
   <!-- EN: Load -->
-  <Load>Încarcă</Load>
+  <Load>TODO</Load>
   <!-- EN: edit mode -->
-  <EditMode>mod de editare</EditMode>
+  <EditMode>TODO</EditMode>
   <!-- EN: Summary -->
-  <Summary>Rezumat</Summary>
+  <Summary>TODO</Summary>
   <!-- EN: Add part -->
-  <AddPart>Adaugă o parte</AddPart>
+  <AddPart>TODO</AddPart>
   <!-- EN: All text fields must be filled. -->
-  <TextFieldsMustBeFilled>Toate câmpurile de text trebuie să fie completate.</TextFieldsMustBeFilled>
+  <TextFieldsMustBeFilled>TODO</TextFieldsMustBeFilled>
   <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
-  <ConfirmSteamWorkshopUpload>Ești sigur că dorești să încarci acest lucru în Steam Workshop?\n\nTrebuie să fii de acord cu termenii de utilizare a serviciului Steam Workshop. Găsești termenii compleți aici:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmSteamWorkshopUpload>TODO</ConfirmSteamWorkshopUpload>
   <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
-  <ConfirmContentAuthor>Evident, ar trebui să încărcați doar conținutul creat de dumneavoastră.\n\nAi creat acest conținut?</ConfirmContentAuthor>
+  <ConfirmContentAuthor>TODO</ConfirmContentAuthor>
   <!-- EN: Incompatible -->
-  <Incompatible>Incompatibil</Incompatible>
+  <Incompatible>TODO</Incompatible>
   <!-- EN: Tag as translation -->
-  <TagAsTranslation>Etichetează ca traducere</TagAsTranslation>
+  <TagAsTranslation>TODO</TagAsTranslation>
   <!-- EN: Too many (max {0}):  -->
-  <TooMany>Prea mulți (max {0}):</TooMany>
+  <TooMany>TODO</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
-  <CanBeUpdatedOnWorkshop>Poate fi actualizat pe Workshop, deoarece sunteți autorul.</CanBeUpdatedOnWorkshop>
+  <CanBeUpdatedOnWorkshop>TODO</CanBeUpdatedOnWorkshop>
+  <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
+  <ScenarioChangedSavePrompt>TODO</ScenarioChangedSavePrompt>
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
-  <ChooseAIStoryteller>Alege un AI povestitor</ChooseAIStoryteller>
+  <ChooseAIStoryteller>TODO</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>AI-ul povestitor generează evenimente ca atacuri ale piraților, ale animalelor sau aterizări de resurse. Aceste alegeri vor afecta povestea coloniei tale.</HowStorytellersWork>
+  <HowStorytellersWork>TODO</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
-  <MustChooseDifficulty>Vă rugăm să alegeți o setare de dificultate.</MustChooseDifficulty>
+  <MustChooseDifficulty>TODO</MustChooseDifficulty>
   <!-- EN: Difficulty -->
-  <Difficulty>Dificultate</Difficulty>
+  <Difficulty>TODO</Difficulty>
   <!-- EN: Commitment mode -->
-  <CommitmentMode>Modul angajament</CommitmentMode>
+  <CommitmentMode>TODO</CommitmentMode>
   <!-- EN: Reload anytime mode -->
-  <ReloadAnytimeMode>Modul reîncărcați oricând</ReloadAnytimeMode>
+  <ReloadAnytimeMode>TODO</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>Vă rugăm să alegeți modul de angajament sau modul de reîncărcare oricând.</MustChoosePermadeath>
+  <MustChoosePermadeath>TODO</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>Puteți salva și încărca jocul în orice moment.\n\nAceasta este o alegere bună dacă încă învățați jocul, dacă se potrivește stilului dvs. personal de joc, dacă folosiți moduri care ar putea să vă strice jocul sau dacă intenționați să vă impuneți singur modul de angajament.</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>TODO</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>Poți salva doar atunci când ieși din joc.\n\nDin moment ce RimWorld este un generator de povești, chiar dacă pierzi toate persoanele, cu excepția uneia singure, nu este sfârșitul jocului - face parte din poveste. Jocul este conceput pentru a permite recuperarea după pierderi.\n\nPrin intermediul acestor situații teribile se creează o poveste cu tragedie și triumf. Este modul în care RimWorld a fost conceput pentru a fi jucat.\n\nExistă un motiv pentru care Luke Skywalker nu a ieșit din joc și după reîncărcat când familia sa a fost ucisă - pierderea și recuperarea sunt dramatice.</PermadeathModeInfo>
+  <PermadeathModeInfo>TODO</PermadeathModeInfo>
   <!-- EN: Storyteller and playstyle can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>Povestitorul și stilul de joc pot fi schimbate oricând.</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>TODO</CanChangeStorytellerSettingsDuringPlay>
 
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
-  <DifficultyCustomSectionLabel>Setări pentru stilul de joc personalizat</DifficultyCustomSectionLabel>
+  <DifficultyCustomSectionLabel>TODO</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
-  <DifficultyReset>Setează stilul de joc standard...</DifficultyReset>
+  <DifficultyReset>TODO</DifficultyReset>
   
   <!-- EN: Threats -->
-  <DifficultyThreatSection>Amenințări</DifficultyThreatSection>
+  <DifficultyThreatSection>TODO</DifficultyThreatSection>
   <!-- EN: Threat scale -->
-  <Difficulty_ThreatScale_Label>Scala amenințărilor</Difficulty_ThreatScale_Label>
+  <Difficulty_ThreatScale_Label>TODO</Difficulty_ThreatScale_Label>
   <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
-  <Difficulty_ThreatScale_Info>Reglează dimensiunea amenințărilor precum raidurile și infestările, precum și dificultatea misiunilor.</Difficulty_ThreatScale_Info>
+  <Difficulty_ThreatScale_Info>TODO</Difficulty_ThreatScale_Info>
   <!-- EN: Major threats -->
-  <Difficulty_AllowBigThreats_Label>Amenințări majore</Difficulty_AllowBigThreats_Label>
+  <Difficulty_AllowBigThreats_Label>TODO</Difficulty_AllowBigThreats_Label>
   <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
-  <Difficulty_AllowBigThreats_Info>Permiteți amenințări majore, cum ar fi raiduri, infestări, haite de vânători de oameni, nave mecanoide prăbușite și multe altele.</Difficulty_AllowBigThreats_Info>
+  <Difficulty_AllowBigThreats_Info>TODO</Difficulty_AllowBigThreats_Info>
   <!-- EN: Quest threats -->
-  <Difficulty_AllowViolentQuests_Label>Amenințări în misiuni</Difficulty_AllowViolentQuests_Label>
+  <Difficulty_AllowViolentQuests_Label>TODO</Difficulty_AllowViolentQuests_Label>
   <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
-  <Difficulty_AllowViolentQuests_Info>Permiteți ca misiunile să se prezinte cu amenințări și provocări violente. Dacă acest lucru este dezactivat, quest-urile vor fi modificate pentru a fi non-violente.</Difficulty_AllowViolentQuests_Info>
+  <Difficulty_AllowViolentQuests_Info>TODO</Difficulty_AllowViolentQuests_Info>
   <!-- EN: Intro threats -->
-  <Difficulty_AllowIntroThreats_Label>Amenințări introductive</Difficulty_AllowIntroThreats_Label>
+  <Difficulty_AllowIntroThreats_Label>TODO</Difficulty_AllowIntroThreats_Label>
   <!-- EN: Enable the fixed intro threats that appear near game start. -->
-  <Difficulty_AllowIntroThreats_Info>Activați amenințările introductive fixe care apar aproape de începutul jocului.</Difficulty_AllowIntroThreats_Info>
+  <Difficulty_AllowIntroThreats_Info>TODO</Difficulty_AllowIntroThreats_Info>
   <!-- EN: Predators hunt humans -->
-  <Difficulty_PredatorsHuntHumanlikes_Label>Prădătorii vânează oameni</Difficulty_PredatorsHuntHumanlikes_Label>
+  <Difficulty_PredatorsHuntHumanlikes_Label>TODO</Difficulty_PredatorsHuntHumanlikes_Label>
   <!-- EN: Allow wild predators to hunt humans. -->
-  <Difficulty_PredatorsHuntHumanlikes_Info>Permiteți prădătorilor sălbatici să vâneze oameni.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <Difficulty_PredatorsHuntHumanlikes_Info>TODO</Difficulty_PredatorsHuntHumanlikes_Info>
   <!-- EN: Extreme weather -->
-  <Difficulty_AllowExtremeWeatherIncidents_Label>Vreme extremă</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <Difficulty_AllowExtremeWeatherIncidents_Label>TODO</Difficulty_AllowExtremeWeatherIncidents_Label>
   <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
-  <Difficulty_AllowExtremeWeatherIncidents_Info>Permiteți incidente meteorologice extreme, cum ar fi precipitațiile toxice, iernile vulcanice și furtunile fulgerătoare.</Difficulty_AllowExtremeWeatherIncidents_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>TODO</Difficulty_AllowExtremeWeatherIncidents_Info>
 
   <!-- EN: Economy -->
-  <DifficultyEconomySection>Economie</DifficultyEconomySection>
+  <DifficultyEconomySection>TODO</DifficultyEconomySection>
   <!-- EN: Trade price disadvantage -->
-  <Difficulty_TradePriceFactorLoss_Label>Dezavantajul prețului de tranzacționare</Difficulty_TradePriceFactorLoss_Label>
+  <Difficulty_TradePriceFactorLoss_Label>TODO</Difficulty_TradePriceFactorLoss_Label>
   <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
-  <Difficulty_TradePriceFactorLoss_Info>La tranzacționare, prețurile de cumpărare sunt majorate cu această sumă, în timp ce prețurile de vânzare sunt reduse cu această sumă.</Difficulty_TradePriceFactorLoss_Info>
+  <Difficulty_TradePriceFactorLoss_Info>TODO</Difficulty_TradePriceFactorLoss_Info>
   <!-- EN: Harvest yield -->
-  <Difficulty_CropYieldFactor_Label>Randament recoltă</Difficulty_CropYieldFactor_Label>
+  <Difficulty_CropYieldFactor_Label>TODO</Difficulty_CropYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
-  <Difficulty_CropYieldFactor_Info>Ajustați cantitatea de materiale produse la recoltarea plantelor și culturilor. Aceasta include recoltarea plantelor și tăierea copacilor.</Difficulty_CropYieldFactor_Info>
+  <Difficulty_CropYieldFactor_Info>TODO</Difficulty_CropYieldFactor_Info>
   <!-- EN: Mining yield -->
-  <Difficulty_MineYieldFactor_Label>Randament de minerit</Difficulty_MineYieldFactor_Label>
+  <Difficulty_MineYieldFactor_Label>TODO</Difficulty_MineYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when mining. -->
-  <Difficulty_MineYieldFactor_Info>Ajustați cantitatea de materiale produse la minerit.</Difficulty_MineYieldFactor_Info>
+  <Difficulty_MineYieldFactor_Info>TODO</Difficulty_MineYieldFactor_Info>
   <!-- EN: Butchering yield -->
-  <Difficulty_ButcherYieldFactor_Label>Randamentul măcelăriei</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Label>TODO</Difficulty_ButcherYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
-  <Difficulty_ButcherYieldFactor_Info>Reglează cantitatea de materiale produse la măcelărire. Aceasta include carnea, pielea și randamentul obținut din mărunțirea mecanoizilor.</Difficulty_ButcherYieldFactor_Info>
+  <Difficulty_ButcherYieldFactor_Info>TODO</Difficulty_ButcherYieldFactor_Info>
   <!-- EN: Research speed -->
-  <Difficulty_ResearchSpeedFactor_Label>Viteza de cercetare</Difficulty_ResearchSpeedFactor_Label>
+  <Difficulty_ResearchSpeedFactor_Label>TODO</Difficulty_ResearchSpeedFactor_Label>
   <!-- EN: Adjust the speed of research. -->
-  <Difficulty_ResearchSpeedFactor_Info>Reglează viteza de cercetare.</Difficulty_ResearchSpeedFactor_Info>
+  <Difficulty_ResearchSpeedFactor_Info>TODO</Difficulty_ResearchSpeedFactor_Info>
   <!-- EN: Quest rewards -->
-  <Difficulty_QuestRewardValueFactor_Label>Recompensele pentru misiuni</Difficulty_QuestRewardValueFactor_Label>
+  <Difficulty_QuestRewardValueFactor_Label>TODO</Difficulty_QuestRewardValueFactor_Label>
   <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_QuestRewardValueFactor_Info>Ajustează valoarea recompenselor oferite pentru quest-uri.\n\nNota: Valoarea recompenselor pentru quest-uri este, de asemenea, scalată automat pentru a compensa scara amenințărilor. Dacă ajustați această setare, veți adăuga un multiplicator suplimentar.</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Info>TODO</Difficulty_QuestRewardValueFactor_Info>
   <!-- EN: Raid loot -->
-  <Difficulty_RaidLootPointsFactor_Label>Pradă de raid</Difficulty_RaidLootPointsFactor_Label>
+  <Difficulty_RaidLootPointsFactor_Label>TODO</Difficulty_RaidLootPointsFactor_Label>
   <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_RaidLootPointsFactor_Info>Ajustați valoarea pradei transportate de raideri.\n\nNota: Valoarea pradei de raid este, de asemenea, scalată automat pentru a compensa scara amenințării. Dacă ajustați această setare, veți adăuga un multiplicator suplimentar.</Difficulty_RaidLootPointsFactor_Info>
+  <Difficulty_RaidLootPointsFactor_Info>TODO</Difficulty_RaidLootPointsFactor_Info>
   <!-- EN: Turret rearm cost -->
-  <Difficulty_MaintenanceCostFactor_Label>Costul de reînarmare a turelei</Difficulty_MaintenanceCostFactor_Label>
+  <Difficulty_MaintenanceCostFactor_Label>TODO</Difficulty_MaintenanceCostFactor_Label>
   <!-- EN: Adjust the cost of rearming turrets. -->
-  <Difficulty_MaintenanceCostFactor_Info>Ajustarea costului de reînarmare a turelelor.</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Info>TODO</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
-  <Difficulty_ScariaRotChance_Label>Șansa de putrefacție a scariei</Difficulty_ScariaRotChance_Label>
+  <Difficulty_ScariaRotChance_Label>TODO</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
-  <Difficulty_ScariaRotChance_Info>Probabilitatea ca un cadavru să putrezească imediat după moarte, dacă creatura are boala scaria.\n\nNotă: Setările implicite sunt concepute pentru a echilibra exact creșterea numărului de animale la dificultăți mai mari, astfel încât toți jucătorii să primească aceleași recompense de carne.</Difficulty_ScariaRotChance_Info>
+  <Difficulty_ScariaRotChance_Info>TODO</Difficulty_ScariaRotChance_Info>
   <!-- EN: Enemy death on downed -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Moartea inamicului la doborâre</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>TODO</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
   <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Ajustează șansa suplimentară ca un inamic să moară imediat când este doborât. Acest lucru afectează șansele de a lua prizonieri și, prin urmare, ratele de creștere a populației coloniei.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>TODO</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
   <!-- EN: General -->
-  <DifficultyGeneralSection>General</DifficultyGeneralSection>
+  <DifficultyGeneralSection>TODO</DifficultyGeneralSection>
   <!-- EN: Colonist mood -->
-  <Difficulty_ColonistMoodOffset_Label>Dispoziția colonistului</Difficulty_ColonistMoodOffset_Label>
+  <Difficulty_ColonistMoodOffset_Label>TODO</Difficulty_ColonistMoodOffset_Label>
   <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
-  <Difficulty_ColonistMoodOffset_Info>Un decalaj permanent de dispoziție aplicat fiecărui colonist și prizonier. Coloniștii au o dispoziție de bază de 50%.</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_ColonistMoodOffset_Info>TODO</Difficulty_ColonistMoodOffset_Info>
   <!-- EN: Food poison chance -->
-  <Difficulty_FoodPoisonChanceFactor_Label>Șansa de otrăvire alimentară</Difficulty_FoodPoisonChanceFactor_Label>
+  <Difficulty_FoodPoisonChanceFactor_Label>TODO</Difficulty_FoodPoisonChanceFactor_Label>
   <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
-  <Difficulty_FoodPoisonChanceFactor_Info>Ajustează șansa ca o persoană să facă otrăvire alimentară după ce a mâncat o mâncare potențial otrăvită.</Difficulty_FoodPoisonChanceFactor_Info>
+  <Difficulty_FoodPoisonChanceFactor_Info>TODO</Difficulty_FoodPoisonChanceFactor_Info>
   <!-- EN: Animal revenge chance -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Label>Șansa de răzbunare a animalelor</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>TODO</Difficulty_ManhunterChanceOnDamageFactor_Label>
   <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Info>Ajustează șansa ca rănirea unui animal sălbatic să îl determine să atace.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>TODO</Difficulty_ManhunterChanceOnDamageFactor_Info>
   <!-- EN: Friendly fire -->
-  <Difficulty_FriendlyFireChanceFactor_Label>Foc prietenos</Difficulty_FriendlyFireChanceFactor_Label>
+  <Difficulty_FriendlyFireChanceFactor_Label>TODO</Difficulty_FriendlyFireChanceFactor_Label>
   <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
-  <Difficulty_FriendlyFireChanceFactor_Info>Reglează șansa de foc prietenesc.\n\nNota: Această setare afectează doar loviturile directe care urmau să-și atingă ținta. Nu previne pagubele provocate de explozii sau de împușcăturile care urmau să-și rateze ținta.</Difficulty_FriendlyFireChanceFactor_Info>
+  <Difficulty_FriendlyFireChanceFactor_Info>TODO</Difficulty_FriendlyFireChanceFactor_Info>
   <!-- EN: Colonist instant kills -->
-  <Difficulty_AllowInstantKillChance_Label>Ucideri instantanee ale coloniștilor</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Label>TODO</Difficulty_AllowInstantKillChance_Label>
   <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
-  <Difficulty_AllowInstantKillChance_Info>Ajustează șansa ca un colonist să moară instantaneu din cauza unui atac. Daunele primite sunt ajustate astfel încât să doboare în schimb colonistul.\n\nAcest lucru previne doar unele tipuri de ucidere instantanee - coloniștii pot fi în continuare doborâți și sângerați până la moarte, pot muri din cauza focului, exploziilor, bolilor și așa mai departe.</Difficulty_AllowInstantKillChance_Info>
+  <Difficulty_AllowInstantKillChance_Info>TODO</Difficulty_AllowInstantKillChance_Info>
   <!-- EN: Infection chance -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Șansa de infectare</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>TODO</Difficulty_PlayerPawnInfectionChanceFactor_Label>
   <!-- EN: Adjust the chance that a wound will become infected. -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Ajustează șansa ca o rană să se infecteze.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>TODO</Difficulty_PlayerPawnInfectionChanceFactor_Info>
   <!-- EN: Disease frequency -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Frecvența bolilor</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>TODO</Difficulty_DiseaseIntervalFactor_Inverted_Label>
   <!-- EN: Adjust the frequency of random disease events. -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Reglează frecvența evenimentelor de boală aleatoare.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>TODO</Difficulty_DiseaseIntervalFactor_Inverted_Info>
   <!-- EN: Insect spawning rate -->
-  <Difficulty_EnemyReproductionRateFactor_Label>Rata de procreare a insectelor</Difficulty_EnemyReproductionRateFactor_Label>
+  <Difficulty_EnemyReproductionRateFactor_Label>TODO</Difficulty_EnemyReproductionRateFactor_Label>
   <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
-  <Difficulty_EnemyReproductionRateFactor_Info>Reglează rata cu care stupii de insecte existenți generează noi insecte. Valori mai mici înseamnă mai mult timp între evenimentele de reproducere.\n\nAceasta nu afectează dacă pot apărea infestări - doar viteza cu care stupii activi produc insecte.</Difficulty_EnemyReproductionRateFactor_Info>
+  <Difficulty_EnemyReproductionRateFactor_Info>TODO</Difficulty_EnemyReproductionRateFactor_Info>
   <!-- EN: Deep drilling infestations -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Label>Infestări prin forare adâncă</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>TODO</Difficulty_DeepDrillInfestationChanceFactor_Label>
   <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Info>Ajustează șansa ca forajul adânc să declanșeze o infestare.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>TODO</Difficulty_DeepDrillInfestationChanceFactor_Info>
   <!-- EN: Map generation ancient threats -->
-  <Difficulty_PeacefulTemples_Inverted_Label>Generarea de hărți amenințări antice</Difficulty_PeacefulTemples_Inverted_Label>
+  <Difficulty_PeacefulTemples_Inverted_Label>TODO</Difficulty_PeacefulTemples_Inverted_Label>
   <!-- EN: Ancient structures may contain dangerous threats. -->
-  <Difficulty_PeacefulTemples_Inverted_Info>Structurile antice pot conține amenințări periculoase.</Difficulty_PeacefulTemples_Inverted_Info>
+  <Difficulty_PeacefulTemples_Inverted_Info>TODO</Difficulty_PeacefulTemples_Inverted_Info>
   <!-- EN: Map generation natural hives -->
-  <Difficulty_AllowCaveHives_Label>Generarea de stupi naturali pe hartă</Difficulty_AllowCaveHives_Label>
+  <Difficulty_AllowCaveHives_Label>TODO</Difficulty_AllowCaveHives_Label>
   <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
-  <Difficulty_AllowCaveHives_Info>Stupii de insecte adormite pot apărea în peșterile naturale.\n\nAceastă setare se aplică doar la generarea hărții și nu afectează insectele active care pot intra prin tuneluri în timpul jocului.</Difficulty_AllowCaveHives_Info>
+  <Difficulty_AllowCaveHives_Info>TODO</Difficulty_AllowCaveHives_Info>
+  <!-- EN: Add unwavering prisoners -->
+  <Difficulty_UnwaveringPrisoners_Label>TODO</Difficulty_UnwaveringPrisoners_Label>
+  <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
+  <Difficulty_UnwaveringPrisoners_Info>TODO</Difficulty_UnwaveringPrisoners_Info>
 
   <!-- EN: Player tools -->
-  <DifficultyPlayerToolsSection>Instrumente ale jucătorului</DifficultyPlayerToolsSection>
+  <DifficultyPlayerToolsSection>TODO</DifficultyPlayerToolsSection>
   <!-- EN: Player can build traps -->
-  <Difficulty_AllowTraps_Label>Jucătorul poate construi capcane</Difficulty_AllowTraps_Label>
+  <Difficulty_AllowTraps_Label>TODO</Difficulty_AllowTraps_Label>
   <!-- EN: Player can build traps like spike traps and IED traps. -->
-  <Difficulty_AllowTraps_Info>Jucătorul poate construi capcane, cum ar fi capcane cu țepi și capcane IED.</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTraps_Info>TODO</Difficulty_AllowTraps_Info>
   <!-- EN: Player can build turrets -->
-  <Difficulty_AllowTurrets_Label>Jucătorul poate construi turele</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Label>TODO</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>Jucătorul poate construi turnulețe statice, cum ar fi mini-turnulețe, turnulețe cu tunuri automate și turnulețe cu melc de uraniu.\n\nPoți folosi în continuare turnulețe capturate chiar dacă acest lucru este dezactivat.</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>TODO</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
-  <Difficulty_AllowMortars_Label>Jucătorul poate construi mortiere</Difficulty_AllowMortars_Label>
+  <Difficulty_AllowMortars_Label>TODO</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
-  <Difficulty_AllowMortars_Info>Jucătorul poate construi mortiere.\n\nPuteți folosi mortierele capturate chiar dacă acest lucru este dezactivat.</Difficulty_AllowMortars_Info>
+  <Difficulty_AllowMortars_Info>TODO</Difficulty_AllowMortars_Info>
   <!-- EN: Classic mortars -->
-  <Difficulty_ClassicMortars_Label>Mortiere clasice</Difficulty_ClassicMortars_Label>
+  <Difficulty_ClassicMortars_Label>TODO</Difficulty_ClassicMortars_Label>
   <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
-  <Difficulty_ClassicMortars_Info>Mortierele nu vor necesita butoaie întărite pentru a fi construite sau reîncărcate și sunt echilibrate pentru această ușurință de acces.</Difficulty_ClassicMortars_Info>
+  <Difficulty_ClassicMortars_Info>TODO</Difficulty_ClassicMortars_Info>
   
   <!-- EN: Adaptation -->
-  <DifficultyAdaptationSection>Adaptare</DifficultyAdaptationSection>
+  <DifficultyAdaptationSection>TODO</DifficultyAdaptationSection>
   <!-- EN: Adaptation growth rate -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Creșterea adaptării la dificultate</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>TODO</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Adaptarea înseamnă că povestitorul face ca jocul să fie mai dificil în timp, atâta timp cât nu suferi pierderi. Acest lucru este separat de efectele poveștii de bogăție și populație.\n\nAceasta ajustează rata de creștere a acestei provocări.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>TODO</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
   <!-- EN: Adaptation impact -->
-  <Difficulty_AdaptationEffectFactor_Label>Efectul de adaptare a pagubelor</Difficulty_AdaptationEffectFactor_Label>
+  <Difficulty_AdaptationEffectFactor_Label>TODO</Difficulty_AdaptationEffectFactor_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
-  <Difficulty_AdaptationEffectFactor_Info>Adaptare înseamnă că povestitorul face jocul mai dificil în timp, atâta timp cât nu suferiți pierderi. Acest lucru este separat de efectele poveștii de bogăție și populație.\n\nAceasta ajustează efectul acelei valori de adaptare asupra amenințărilor reale.</Difficulty_AdaptationEffectFactor_Info>
+  <Difficulty_AdaptationEffectFactor_Info>TODO</Difficulty_AdaptationEffectFactor_Info>
   <!-- EN: Wealth-independent progress mode -->
-  <Difficulty_FixedWealthMode_Label>Mod de progres independent de bogăție</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Label>TODO</Difficulty_FixedWealthMode_Label>
   <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info>Joacă într-un mod de progres independent de bogăție.\n\nÎn modul normal, povestitorul scalează amenințările în funcție de numărul de coloniști, bogăția jucătorului și o varietate de alți factori. Modul independent de bogăție elimină factorul de bogăție și îl înlocuiește cu o curbă de progres fixă bazată pe timp. Timpul este numărat de la fondarea fiecărei colonii.\n\nAcest lucru este recomandat doar pentru cei care caută o provocare strictă de îndemânare. În modul independent de bogăție, poate fi aproape imposibil să vă recuperați după pierderi serioase dacă nu ați găsit o nouă colonie. De asemenea, este posibil să devansezi prea mult și să găsești jocul prea ușor.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Info>TODO</Difficulty_FixedWealthMode_Info>
   <!-- EN: Years until maximum threat -->
-  <Difficulty_FixedWealthTimeFactor_Label>Ani până la nivelul maxim de amenințare</Difficulty_FixedWealthTimeFactor_Label>
+  <Difficulty_FixedWealthTimeFactor_Label>TODO</Difficulty_FixedWealthTimeFactor_Label>
   <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
-  <Difficulty_FixedWealthTimeFactor_Info>Numărul de ani de joc până când modul independent de bogăție atinge nivelul maxim de amenințare.\n\nRețineți că povestitorul va scala în continuare amenințările în funcție de numărul de coloniști și de o varietate de alți factori.</Difficulty_FixedWealthTimeFactor_Info>
+  <Difficulty_FixedWealthTimeFactor_Info>TODO</Difficulty_FixedWealthTimeFactor_Info>
 
   <!-- EN: Ideology -->
   <DifficultyIdeologySection>TODO</DifficultyIdeologySection>
   <!-- EN: Low pop conversion boost -->
   <Difficulty_LowPopConversionBoost_Label>TODO</Difficulty_LowPopConversionBoost_Label>
-  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
   <Difficulty_LowPopConversionBoost_Info>TODO</Difficulty_LowPopConversionBoost_Info>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
-  <SelectStartingSite>Selectare loc de pornire</SelectStartingSite>
+  <SelectStartingSite>TODO</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite>Alege loc aleatoriu</SelectRandomSite>
+  <SelectRandomSite>TODO</SelectRandomSite>
   <!-- EN: Select site -->
-  <SelectSite>Alege regiunea</SelectSite>
+  <SelectSite>TODO</SelectSite>
   <!-- EN: Please select a site. -->
-  <MustSelectStartingSite>Vă rugăm să selectați un loc.</MustSelectStartingSite>
+  <MustSelectStartingSite>TODO</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>Nu poți ateriza în acest mediu: {0}</CannotLandBiome>
+  <CannotLandBiome>TODO</CannotLandBiome>
   <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>Mediul geografic nu este implementat</BiomeNotImplemented>
+  <BiomeNotImplemented>TODO</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
-  <CannotLandImpassableMountains>Nu poți ateriza pe munți impasibili.</CannotLandImpassableMountains>
+  <CannotLandImpassableMountains>TODO</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>{0} au deja o colonie acolo.</BaseAlreadyThere>
+  <BaseAlreadyThere>TODO</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
-  <YourBaseAlreadyThere>Aveți deja o bază acolo.</YourBaseAlreadyThere>
+  <YourBaseAlreadyThere>TODO</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
-  <TileOccupied>Această piesă este ocupată.</TileOccupied>
+  <TileOccupied>TODO</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>Așezările nu pot fi direct adiacente una față de cealaltă.</FactionBaseAdjacent>
+  <FactionBaseAdjacent>TODO</FactionBaseAdjacent>
   <!-- EN: Biome -->
-  <Biome>Mediu</Biome>
+  <Biome>TODO</Biome>
   <!-- EN: Terrain -->
-  <Terrain>Relief</Terrain>
+  <Terrain>TODO</Terrain>
   <!-- EN: Road -->
-  <Road>Drum</Road>
+  <Road>TODO</Road>
   <!-- EN: River -->
-  <River>Râu</River>
+  <River>TODO</River>
   <!-- EN: Elevation -->
-  <Elevation>Altitudine</Elevation>
+  <Elevation>TODO</Elevation>
   <!-- EN: Fertility -->
-  <Fertility>Fertilitate</Fertility>
+  <Fertility>TODO</Fertility>
+  <!-- EN: fertility -->
+  <FertilityLower>TODO</FertilityLower>
   <!-- EN: Average temperature -->
-  <AvgTemp>Temperatură medie</AvgTemp>
+  <AvgTemp>TODO</AvgTemp>
   <!-- EN: Rainfall -->
-  <Rainfall>Precipitații</Rainfall>
+  <Rainfall>TODO</Rainfall>
   <!-- EN: Special features -->
-  <SpecialFeatures>Caracteristici speciale</SpecialFeatures>
+  <SpecialFeatures>TODO</SpecialFeatures>
   <!-- EN: northern coast -->
-  <HasCoast0>Coasta Nordică</HasCoast0>
+  <HasCoast0>TODO</HasCoast0>
   <!-- EN: eastern coast -->
-  <HasCoast1>Coasta Estică</HasCoast1>
+  <HasCoast1>TODO</HasCoast1>
   <!-- EN: southern coast -->
-  <HasCoast2>Coasta Sudică</HasCoast2>
+  <HasCoast2>TODO</HasCoast2>
   <!-- EN: western coast -->
-  <HasCoast3>Coasta Vestică</HasCoast3>
+  <HasCoast3>TODO</HasCoast3>
   <!-- EN: caves -->
-  <HasCaves>peșteri</HasCaves>
+  <HasCaves>TODO</HasCaves>
   <!-- EN: Faction base -->
-  <FactionBase>Capitala unei facțiuni</FactionBase>
+  <FactionBase>TODO</FactionBase>
   <!-- EN: Stone types -->
-  <StoneTypesHere>Tipuri de roci</StoneTypesHere>
+  <StoneTypesHere>TODO</StoneTypesHere>
   <!-- EN: Time zone -->
-  <TimeZone>Fus orar</TimeZone>
+  <TimeZone>TODO</TimeZone>
   <!-- EN: Movement difficulty -->
-  <MovementDifficulty>Dificultatea de mișcare</MovementDifficulty>
+  <MovementDifficulty>TODO</MovementDifficulty>
   <!-- EN: Animals can graze now -->
-  <AnimalsCanGrazeNow>Animalele pot pășuna acum</AnimalsCanGrazeNow>
+  <AnimalsCanGrazeNow>TODO</AnimalsCanGrazeNow>
   <!-- EN: Average disease frequency -->
-  <AverageDiseaseFrequency>Frecvența medie a bolilor</AverageDiseaseFrequency>
+  <AverageDiseaseFrequency>TODO</AverageDiseaseFrequency>
   <!-- EN: per year -->
-  <PerYear>pe an</PerYear>
+  <PerYear>TODO</PerYear>
   <!-- EN: Forageability -->
-  <Forageability>Furajabilitate</Forageability>
+  <Forageability>TODO</Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-  <ConfirmRequiredWorkTypeDisabledForEveryone>Niciuna dintre persoanele selectate nu poate face următoarele slujbe:\n\n{0}\nAsta poate face jocul mai dificil decât de obicei. Sunteți sigur că doriți să continuați?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>TODO</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <!-- EN: temperature -->
+  <TemperatureLower>TODO</TemperatureLower>
+  <!-- EN: light -->
+  <LightLower>TODO</LightLower>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
-  <CreateCharacters>Creează personaje</CreateCharacters>
+  <CreateCharacters>TODO</CreateCharacters>
   <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
-  <FirstNameDesc>Prenumele personajului.\n\nAcesta este afișat doar în anumite meniuri.</FirstNameDesc>
+  <FirstNameDesc>TODO</FirstNameDesc>
   <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-  <ShortIdentifierDesc>Porecla personajului.\n\nAceasta este afișată mereu. Poate fi numele, prenumele sau cu totul altceva.</ShortIdentifierDesc>
+  <ShortIdentifierDesc>TODO</ShortIdentifierDesc>
   <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
-  <LastNameDesc>Numele personajului.\n\nAcesta este afișat doar în anumite meniuri.</LastNameDesc>
+  <LastNameDesc>TODO</LastNameDesc>
   <!-- EN: Randomize -->
-  <Randomize>Alege aleator</Randomize>
+  <Randomize>TODO</Randomize>
   <!-- EN: age {0} -->
-  <AgeIndicator>vârstă {0}</AgeIndicator>
+  <AgeIndicator>TODO</AgeIndicator>
   <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummary>{PAWN_race}, vârstă {PAWN_ageFull}</PawnSummary>
+  <PawnSummary>TODO</PawnSummary>
   <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race} {PAWN_race}, vârstă {PAWN_ageFull}</PawnSummaryWithGender>
+  <PawnSummaryWithGender>TODO</PawnSummaryWithGender>
   <!-- EN: Backstory -->
-  <Backstory>Biografie</Backstory>
+  <Backstory>TODO</Backstory>
   <!-- EN: Incapable of -->
-  <IncapableOf>Incapabil de</IncapableOf>
+  <IncapableOf>TODO</IncapableOf>
   <!-- EN: Abilities -->
-  <Abilities>Abilități</Abilities>
-  <!-- EN: Caused by backstory: {0} -->
-  <IncapableOfTooltipBackstory>Cauzat de biografia: {0}</IncapableOfTooltipBackstory>
-  <!-- EN: Caused by title: {0} -->
-  <IncapableOfTooltipTitle>Cauzat de titlu: {0}</IncapableOfTooltipTitle>
-  <!-- EN: Caused by trait: {0} -->
-  <IncapableOfTooltipTrait>Cauzat de trăsătura: {0}</IncapableOfTooltipTrait>
-  <!-- EN: Caused by: {0} -->
-  <IncapableOfTooltipHediff>Cauzat de: {0}</IncapableOfTooltipHediff>
+  <Abilities>TODO</Abilities>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipHediff>TODO</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
-  <IncapableOfTooltipWorkTypes>Tipuri de lucru dezactivate:</IncapableOfTooltipWorkTypes>
-  <!-- EN: Caused by quest status: {0} -->
-  <IncapableOfTooltipQuest>Cauzat de statutul misiunii: {0}</IncapableOfTooltipQuest>
-  <!-- EN: Caused by role: {0} -->
-  <IncapableOfTooltipRole>Cauzat de rolul: {0}</IncapableOfTooltipRole>
+  <IncapableOfTooltipWorkTypes>TODO</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by backstory -->
+  <IncapableOfTooltipBackstory>TODO</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title -->
+  <IncapableOfTooltipTitle>TODO</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait -->
+  <IncapableOfTooltipTrait>TODO</IncapableOfTooltipTrait>
+  <!-- EN: Caused by quest status -->
+  <IncapableOfTooltipQuest>TODO</IncapableOfTooltipQuest>
+  <!-- EN: Caused by role -->
+  <IncapableOfTooltipRole>TODO</IncapableOfTooltipRole>
+  <!-- EN: Caused by gene -->
+  <IncapableOfTooltipGene>TODO</IncapableOfTooltipGene>
   <!-- EN: Traits -->
-  <Traits>Trăsături</Traits>
+  <Traits>TODO</Traits>
   <!-- EN: Permanent mood effect -->
-  <PermanentMoodEffect>Efect permament asupra dispoziției</PermanentMoodEffect>
+  <PermanentMoodEffect>TODO</PermanentMoodEffect>
   <!-- EN: Skills -->
-  <Skills>Aptitudini</Skills>
+  <Skills>TODO</Skills>
   <!-- EN: none -->
-  <NoneLower>nimic</NoneLower>
+  <NoneLower>TODO</NoneLower>
   <!-- EN: Adulthood -->
-  <Adulthood>Vț. de adult</Adulthood>
+  <Adulthood>TODO</Adulthood>
   <!-- EN: Childhood -->
-  <Childhood>Copilărie</Childhood>
-  <!-- EN: Current -->
-  <Current>Curent</Current>
+  <Childhood>TODO</Childhood>
   <!-- EN: male -->
-  <Male>bărbat</Male>
+  <Male>TODO</Male>
   <!-- EN: female -->
-  <Female>femeie</Female>
+  <Female>TODO</Female>
   <!-- EN: male and female -->
-  <MaleAndFemale>bărbat și femeie</MaleAndFemale>
+  <MaleAndFemale>TODO</MaleAndFemale>
   <!-- EN: male -->
-  <MaleAnimal>mascul</MaleAnimal>
+  <MaleAnimal>TODO</MaleAnimal>
   <!-- EN: female -->
-  <FemaleAnimal>femelă</FemaleAnimal>
+  <FemaleAnimal>TODO</FemaleAnimal>
   <!-- EN: Pain -->
-  <Pain>Durere</Pain>
+  <Pain>TODO</Pain>
   <!-- EN: Health -->
-  <Health>Sănătate</Health>
+  <Health>TODO</Health>
   <!-- EN: Relations -->
-  <Relations>Relații</Relations>
+  <Relations>TODO</Relations>
+  <!-- EN: Possessions -->
+  <Possessions>TODO</Possessions>
   <!-- EN: Team skills -->
-  <TeamSkills>Aptitudini de echipă</TeamSkills>
+  <TeamSkills>TODO</TeamSkills>
   <!-- EN: Selected -->
-  <StartingPawnsSelected>Selectat</StartingPawnsSelected>
+  <StartingPawnsSelected>TODO</StartingPawnsSelected>
   <!-- EN: Left behind -->
-  <StartingPawnsLeftBehind>Lăsat în urmă</StartingPawnsLeftBehind>
+  <StartingPawnsLeftBehind>TODO</StartingPawnsLeftBehind>
   <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
-  <GuiltyDesc>Acest colonist este considerat vinovat. Îl puteți alunga, executa sau aresta liber, iar ceilalți nu vor fi deranjați.\n\nVinovăția expiră în</GuiltyDesc>
+  <GuiltyDesc>TODO</GuiltyDesc>
   
   <!-- Misc -->
   <!-- EN: Start -->
-  <Start>Start</Start>
+  <Start>TODO</Start>
   <!-- EN: Advanced -->
-  <Advanced>Avansat</Advanced>
+  <Advanced>TODO</Advanced>
   <!-- EN: Next -->
-  <Next>Înainte</Next>
+  <Next>TODO</Next>
   <!-- EN: Back -->
-  <Back>Înapoi</Back>
+  <Back>TODO</Back>
   <!-- EN: Change material... -->
-  <ShowMaterials>Schimbă materialul...</ShowMaterials>
+  <ShowMaterials>TODO</ShowMaterials>
   <!-- EN: Gameplay -->
-  <Gameplay>Mecanici de joc</Gameplay>
+  <Gameplay>TODO</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>Sigur vrei să închizi? Conținutul nesalvat va fi pierdut.</ConfirmQuit>
+  <ConfirmQuit>TODO</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
-  <EveryoneNeedsValidName>Fiecare persoană are nevoie de un nume valid.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>TODO</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->
-  <RequiredWorkTypeDisabledForEveryone>Niciuna dintre persoanele selectate nu poate face următoarele slujbe</RequiredWorkTypeDisabledForEveryone>
+  <RequiredWorkTypeDisabledForEveryone>TODO</RequiredWorkTypeDisabledForEveryone>
   <!-- EN: Quit -->
-  <Quit>Renunță</Quit>
+  <Quit>TODO</Quit>
   <!-- EN: Ignore -->
-  <Ignore>Ignoră</Ignore>
+  <Ignore>TODO</Ignore>
   
   <!-- Progress bar -->
   <!-- EN: Generating world -->
-  <GeneratingWorld>Se generează lumea</GeneratingWorld>
+  <GeneratingWorld>TODO</GeneratingWorld>
   <!-- EN: Generating planet -->
-  <GeneratingPlanet>Se generează planeta</GeneratingPlanet>
+  <GeneratingPlanet>TODO</GeneratingPlanet>
   <!-- EN: Generating map -->
-  <GeneratingMap>Se generează harta</GeneratingMap>
+  <GeneratingMap>TODO</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
-  <GeneratingMapForNewEncounter>Se generează harta pentru noua întâlnire</GeneratingMapForNewEncounter>
+  <GeneratingMapForNewEncounter>TODO</GeneratingMapForNewEncounter>
 
-  <!-- EN: Click for more info -->
-  <ClickForMoreInfo>Faceți clic pentru mai multe informații</ClickForMoreInfo>
+  <!-- EN: Click for more info. -->
+  <ClickForMoreInfo>TODO</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
-  <NoMoreInfoAvailable>Nu sunt disponibile mai multe informații.</NoMoreInfoAvailable>
+  <NoMoreInfoAvailable>TODO</NoMoreInfoAvailable>
 
   <!-- Factions -->
   <!-- EN: Factions -->
-  <Factions>Facțiuni</Factions>
-  <!-- EN: Gameplay problems can occur with more than {0} factions. -->
-  <RecommendedFactionCount>Pot apărea probleme de joc cu mai mult de {0} facțiuni.</RecommendedFactionCount>
-  <!-- EN: Maximum {0} visible factions allowed. -->
-  <TotalFactionsAllowed>Maximum {0} facțiuni vizibile permise.</TotalFactionsAllowed>
-  <!-- EN: There can be no more than {0} {1}. -->
-  <MaxFactionsForType>Nu pot exista mai mult de {0} {1}.</MaxFactionsForType>
-  <!-- EN: Restore defaults -->
-  <ResetFactionsToDefault>Restabilește valorile implicite</ResetFactionsToDefault>
+  <Factions>TODO</Factions>
+  <!-- EN: max {0} basic factions allowed -->
+  <TotalFactionsAllowed>TODO</TotalFactionsAllowed>
+  <!-- EN: max {0} -->
+  <MaxFactionsForType>TODO</MaxFactionsForType>
   <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
-  <FactionSelectionDesc>Selectați facțiunile din lume. Puteți selecta până la {0} facțiuni în total.</FactionSelectionDesc>
+  <FactionSelectionDesc>TODO</FactionSelectionDesc>
   <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
-  <FactionDisabledContentWarning>Dezactivarea {0} înseamnă mai puțină varietate de misiuni și alt conținut redus.</FactionDisabledContentWarning>
+  <FactionDisabledContentWarning>TODO</FactionDisabledContentWarning>
   <!-- EN: Disabling {0} means less spontaneous threat variety. -->
-  <InsectsDisabledContentWarning>Dezactivarea lui {0} înseamnă mai puțină varietate de amenințări spontane.</InsectsDisabledContentWarning>
+  <InsectsDisabledContentWarning>TODO</InsectsDisabledContentWarning>
   <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
-  <MechanoidsDisabledContentWarning>Dezactivarea {0} înseamnă mai puțină varietate de misiuni și amenințări spontane.</MechanoidsDisabledContentWarning>
+  <MechanoidsDisabledContentWarning>TODO</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
-  <FactionsDisabledWarning>Fără alte facțiuni, raidurile, comerțul și misiunile nu vor avea loc în mod normal.</FactionsDisabledWarning>
+  <FactionsDisabledWarning>TODO</FactionsDisabledWarning>
 
 </LanguageData>

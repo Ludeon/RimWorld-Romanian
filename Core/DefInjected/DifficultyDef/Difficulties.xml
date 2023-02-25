@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: Custom -->
-  <Custom.label>Customizat</Custom.label>
+  <Custom.label>TODO</Custom.label>
   <!-- EN: This setting allows you to define your own playstyle in detail.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are happy with one of the standard playstyles levels, but want to change a few things.\n- Players who want to experiment with something different. -->
-  <Custom.description>Această setare vă permite să vă definiți propriul stil de joc în detaliu.\n\n(*SectionTitle)Recomandat pentru:(/SectionTitle)\n\n- Jucători care sunt mulțumiți cu unul din stilurile standard de joc, dar vor să modificie câteva lucruri.\n- Jucători care vor să experimenteze cu ceva diferit.</Custom.description>
+  <Custom.description>TODO</Custom.description>
   
   <!-- EN: community builder -->
-  <Easy.label>constructor de comunități</Easy.label>
+  <Easy.label>TODO</Easy.label>
   <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
-  <Easy.description>Construiți o comunitate cu un strop de pericol. Pericolele apar, dar sunt slăbite.\n\n(*SectionTitle)Recomandat pentru:(/SectionTitle)\n\n- Jucători care sunt noi acestui tip de joc.\n- Jucători ce vor să construiească o colonie perfectă.\n Jucători ce vor să se relaxeze.</Easy.description>
+  <Easy.description>TODO</Easy.description>
   
   <!-- EN: losing is fun -->
-  <Extreme.label>îi plăcut să pierzi</Extreme.label>
+  <Extreme.label>TODO</Extreme.label>
   <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
-  <Extreme.description>Această setare e făcută să fie nedrepată. Pericole imense vor apărea fără milă până colonia va muri. Alegeți această setare doar dacă sunteți confortabil cu drama de chinuială și moarte.\n\n(*SectionTitle)Recomandat pentru:(/SectionTitle)\n\n- Jucători experimentați care vor să înfrunte o provocare brutală și nedreaptă în care nici măcar o mare pricepere nu va preveni moartea.\n- Iubitorii de tragedie.\n- Masochiști digitali.</Extreme.description>
+  <Extreme.description>TODO</Extreme.description>
   
   <!-- EN: blood and dust -->
-  <Hard.label>praf și sânge</Hard.label>
+  <Hard.label>TODO</Hard.label>
   <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to struggle to survive. -->
-  <Hard.description>Înfruntați o provocare brutală de supraviețuire. Chiar dacă joci bine, oamenii vor muri. Va trebui să anticipați pericole înainte de a avea loc, și să căutați fiecare avantaj.\n\n(*SectionTitle)Recomandat pentru:(/SectionTitle)\n\n- Jucători experimentați care vor să se chinuie să supraviețuiască. </Hard.description>
+  <Hard.description>TODO</Hard.description>
   
   <!-- EN: adventure story -->
-  <Medium.label>poveste de aventură</Medium.label>
+  <Medium.label>TODO</Medium.label>
   <!-- EN: There's room to grow and thrive, but it's still a dangerous planet.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced strategy gamers on their first game of RimWorld.\n- Experienced RimWorld players who want some breathing room to pursue funny or weird goals. -->
-  <Medium.description>Există loc de expansiune și prosperitate, dar e încă o planetă periculoasă.\n\n(*SectionTitle)Recomandat pentru:(/SectionTitle)\n\n- Jucători de strategie experimentați care joacă RimWorld pentru prima dată.\n- Jucători experimentați de RimWorld care vor un pic de spațiu de manevră pentru a urmări obiective amuzante sau dubioase.</Medium.description>
+  <Medium.description>TODO</Medium.description>
   
   <!-- EN: peaceful -->
-  <Peaceful.label>pașnic</Peaceful.label>
+  <Peaceful.label>TODO</Peaceful.label>
   <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
-  <Peaceful.description>Construiți o comunitate într-un joc sandbox. Pericolele majore sunt dezactivate, dar provocări precum boli, căderi nervoase, și animale înnebunite pot încă să aibă loc.\n\n(*SectionTitle)Recomandat pentru:(/SectionTitle)\n\n- Jucători care vor să învețe mecanicile jocului sub presiune minimă.\n- Jucători care vor doar să construiască.\n- Jucători care vor doar să se relaxeze.</Peaceful.description>
+  <Peaceful.description>TODO</Peaceful.description>
   
   <!-- EN: strive to survive -->
-  <Rough.label>străduință pentru supraviețuire</Rough.label>
+  <Rough.label>TODO</Rough.label>
   <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want a rough story requiring skill to survive. -->
-  <Rough.description>Străduițivă să supraviețuiți pe o planetă dură. Vor exista triumfuri și tragedii.\n\n(*SectionTitle)Recomandat pentru:(/SectionTitle)\n\n- Jucători experimentați care doresc o poveste dură ce necesită pricepere pentru a supraviețui</Rough.description>
+  <Rough.description>TODO</Rough.description>
   
 </LanguageData>

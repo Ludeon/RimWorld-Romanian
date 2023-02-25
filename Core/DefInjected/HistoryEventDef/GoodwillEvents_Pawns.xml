@@ -2,42 +2,45 @@
 <LanguageData>
   
   <!-- EN: attacked member -->
-  <AttackedMember.label>membru atacat</AttackedMember.label>
+  <AttackedMember.label>TODO</AttackedMember.label>
   
   <!-- EN: guilty prisoner died -->
-  <GuiltyPrisonerDied.label>prizonier vinovat a murit</GuiltyPrisonerDied.label>
+  <GuiltyPrisonerDied.label>TODO</GuiltyPrisonerDied.label>
   
   <!-- EN: innocent prisoner died -->
-  <InnocentPrisonerDied.label>Prizonier inocent a murit</InnocentPrisonerDied.label>
+  <InnocentPrisonerDied.label>TODO</InnocentPrisonerDied.label>
   
   <!-- EN: member captured -->
-  <MemberCaptured.label>membru capturat</MemberCaptured.label>
+  <MemberCaptured.label>TODO</MemberCaptured.label>
   
   <!-- EN: member crushed -->
-  <MemberCrushed.label>membru zdrobit</MemberCrushed.label>
+  <MemberCrushed.label>TODO</MemberCrushed.label>
   
   <!-- EN: member exited map healthy -->
-  <MemberExitedMapHealthy.label>membru a ieșit din hartă sănătos</MemberExitedMapHealthy.label>
+  <MemberExitedMapHealthy.label>TODO</MemberExitedMapHealthy.label>
   
   <!-- EN: member killed -->
-  <MemberKilled.label>membru ucis</MemberKilled.label>
+  <MemberKilled.label>TODO</MemberKilled.label>
   
   <!-- EN: member died -->
-  <MemberNeutrallyDied.label>membru mort</MemberNeutrallyDied.label>
+  <MemberNeutrallyDied.label>TODO</MemberNeutrallyDied.label>
   
   <!-- EN: member sold -->
-  <MemberSold.label>membru vândut</MemberSold.label>
+  <MemberSold.label>TODO</MemberSold.label>
   
   <!-- EN: member stripped -->
-  <MemberStripped.label>membru dezbrăcat</MemberStripped.label>
+  <MemberStripped.label>TODO</MemberStripped.label>
   
   <!-- EN: harmful surgery on member -->
-  <PerformedHarmfulSurgery.label>intervenție chirurgicală dăunătoare asupra membrului</PerformedHarmfulSurgery.label>
+  <PerformedHarmfulSurgery.label>TODO</PerformedHarmfulSurgery.label>
   
   <!-- EN: prisoner died -->
-  <PrisonerDied.label>prizonierul a murit</PrisonerDied.label>
+  <PrisonerDied.label>TODO</PrisonerDied.label>
   
   <!-- EN: harmed member -->
-  <UsedHarmfulItem.label>membru vătămat</UsedHarmfulItem.label>
+  <UsedHarmfulItem.label>TODO</UsedHarmfulItem.label>
+  
+  <!-- EN: member's xenogerm absorbed -->
+  <XenogermAbsorbed.label>TODO</XenogermAbsorbed.label>
   
 </LanguageData>

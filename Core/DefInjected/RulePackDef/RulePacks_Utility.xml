@@ -4,8 +4,6 @@
   <!-- EN:
     <li>r_root->[RULE]</li>
   -->
-  <DynamicWrapper.rulePack.rulesStrings>
-    <li>r_root->[RULE]</li>
-  </DynamicWrapper.rulePack.rulesStrings>
+  <DynamicWrapper.rulePack.rulesStrings>TODO</DynamicWrapper.rulePack.rulesStrings>
   
 </LanguageData>

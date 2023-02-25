@@ -13,17 +13,7 @@
     <li>terrain_word->points</li>
     <li>terrain_word->chain</li>
   -->
-  <NamerArchipelago.rulePack.rulesStrings>
-    <li>r_name(p=0.2)->insula [narrative_name]</li>
-    <li>terrain_word(p=4)->insulele</li>
-    <li>terrain_word(p=3)->arhipeleagul</li>
-    <li>terrain_word->reciful</li>
-    <li>terrain_word->atolul</li>
-    <li>terrain_word->stâncile</li>
-    <li>terrain_word->insulițele</li>
-    <li>terrain_word->punctele</li>
-    <li>terrain_word->lanțul</li>
-  </NamerArchipelago.rulePack.rulesStrings>
+  <NamerArchipelago.rulePack.rulesStrings>TODO</NamerArchipelago.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=4)->shrubland</li>
@@ -35,15 +25,7 @@
     <li>terrain_word->brush</li>
     <li>terrain_word->barrens</li>
   -->
-  <NamerAridShrubland.rulePack.rulesStrings>
-    <li>terrain_word(p=4)->stepa aridă</li>
-    <li>terrain_word(p=4)->mărăcinișul</li>
-    <li>terrain_word(p=2)->platoul</li>
-    <li>terrain_word->deșertul</li>
-    <li>terrain_word->tufișul</li>
-    <li>terrain_word->tufa</li>
-    <li>terrain_word->pustietatea</li>
-  </NamerAridShrubland.rulePack.rulesStrings>
+  <NamerAridShrubland.rulePack.rulesStrings>TODO</NamerAridShrubland.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->gulf of [narrative_name]</li>
@@ -53,14 +35,7 @@
     <li>terrain_word->anchorage</li>
     <li>terrain_word->cove</li>
   -->
-  <NamerBay.rulePack.rulesStrings>
-    <li>r_name(p=0.2)->golful [narrative_name]</li>
-    <li>terrain_word(p=6)->golful</li>
-    <li>terrain_word->breșa</li>
-    <li>terrain_word->golful</li>
-    <li>terrain_word->ancorajul</li>
-    <li>terrain_word->golfulețul</li>
-  </NamerBay.rulePack.rulesStrings>
+  <NamerBay.rulePack.rulesStrings>TODO</NamerBay.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -71,15 +46,7 @@
     <li>terrain_word->tangle</li>
     <li>terrain_word->thicket</li>
   -->
-  <NamerBorealForest.rulePack.rulesStrings>
-    <li>terrain_word(p=6)->pădurea</li>
-    <li>terrain_word(p=3)->taigaua</li>
-    <li>terrain_word->crângul</li>
-    <li>terrain_word->pădurea</li>
-    <li>terrain_word->livada</li>
-    <li>terrain_word->încâlcirea</li>
-    <li>terrain_word->desișul</li>
-  </NamerBorealForest.rulePack.rulesStrings>
+  <NamerBorealForest.rulePack.rulesStrings>TODO</NamerBorealForest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->[desert_adjective] [narrative_name]</li>
@@ -105,29 +72,7 @@
     <li>terrain_word->wasteland</li>
     <li>terrain_word->barrens</li>
   -->
-  <NamerDesert.rulePack.rulesStrings>
-    <li>r_name(p=0.4)->[narrative_name] [desert_adjective]</li>
-    <li>desert_adjective->plat</li>
-    <li>desert_adjective->alb</li>
-    <li>desert_adjective->infinit</li>
-    <li>desert_adjective->fără inimă</li>
-    <li>desert_adjective->uscat</li>
-    <li>desert_adjective->sec</li>
-    <li>desert_adjective->lung</li>
-    <li>desert_adjective->ars de soare</li>
-    <li>desert_adjective->însorit</li>
-    <li>desert_adjective->orbitor</li>
-    <li>desert_adjective->fierbinte</li>
-    <li>desert_adjective->asudat</li>
-    <li>desert_adjective->nisipos</li>
-    <li>desert_adjective->stâncos</li>
-    <li>terrain_word(p=6)->deșertul</li>
-    <li>terrain_word->platoul</li>
-    <li>terrain_word->plaiurile</li>
-    <li>terrain_word->bazinul</li>
-    <li>terrain_word->deșerturile</li>
-    <li>terrain_word->pustietățile</li>
-  </NamerDesert.rulePack.rulesStrings>
+  <NamerDesert.rulePack.rulesStrings>TODO</NamerDesert.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -135,12 +80,7 @@
     <li>terrain_word->woodland</li>
     <li>terrain_word->thicket</li>
   -->
-  <NamerForest.rulePack.rulesStrings>
-    <li>terrain_word(p=6)->pădurea</li>
-    <li>terrain_word->livada</li>
-    <li>terrain_word->pădurea</li>
-    <li>terrain_word->desișul</li>
-  </NamerForest.rulePack.rulesStrings>
+  <NamerForest.rulePack.rulesStrings>TODO</NamerForest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word->sheet</li>
@@ -152,13 +92,7 @@
     <li>terrain_word(p=0.3)->stretch</li>
     <li>terrain_word(p=0.3)->tract</li>
   -->
-  <NamerIceSheet.rulePack.rulesStrings>
-    <li>terrain_word->calota</li>
-    <li>terrain_word->masivul</li>
-    <li>terrain_word(p=0.5)->întinderea</li>
-    <li>terrain_word(p=0.3)->platoul</li>
-    <li>terrain_word(p=0.3)->domeniul</li>
-  </NamerIceSheet.rulePack.rulesStrings>
+  <NamerIceSheet.rulePack.rulesStrings>TODO</NamerIceSheet.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->isle [narrative_name]</li>
@@ -170,16 +104,7 @@
     <li>terrain_word->islet</li>
     <li>terrain_word->point</li>
   -->
-  <NamerIsland.rulePack.rulesStrings>
-    <li>r_name(p=0.2)->insula [narrative_name]</li>
-    <li>terrain_word(p=4)->insula</li>
-    <li>terrain_word(p=2)->insula</li>
-    <li>terrain_word->reciful</li>
-    <li>terrain_word->atolul</li>
-    <li>terrain_word->stânca</li>
-    <li>terrain_word->insulița</li>
-    <li>terrain_word->punctul</li>
-  </NamerIsland.rulePack.rulesStrings>
+  <NamerIsland.rulePack.rulesStrings>TODO</NamerIsland.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->lake [narrative_name]</li>
@@ -192,17 +117,7 @@
     <li>terrain_word(p=0.3)->lagoon</li>
     <li>terrain_word(p=0.3)->loch</li>
   -->
-  <NamerLake.rulePack.rulesStrings>
-    <li>r_name->lacul [narrative_name]</li>
-    <li>terrain_word(p=6)->lacul</li>
-    <li>terrain_word->marea</li>
-    <li>terrain_word->balta</li>
-    <li>terrain_word->bazinul</li>
-    <li>terrain_word->rezervorul</li>
-    <li>terrain_word(p=0.3)->băltoaca</li>
-    <li>terrain_word(p=0.3)->laguna</li>
-    <li>terrain_word(p=0.3)->iazul</li>
-  </NamerLake.rulePack.rulesStrings>
+  <NamerLake.rulePack.rulesStrings>TODO</NamerLake.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->mount [narrative_name]</li>
@@ -212,14 +127,7 @@
     <li>terrain_word->hills</li>
     <li>terrain_word->cliffs</li>
   -->
-  <NamerMountainRange.rulePack.rulesStrings>
-    <li>r_name(p=0.2)->muntele [narrative_name]</li>
-    <li>terrain_word(p=5)->munții</li>
-    <li>terrain_word(p=2)->lanțurile</li>
-    <li>terrain_word->culmile</li>
-    <li>terrain_word->colinele</li>
-    <li>terrain_word->stâncile</li>
-  </NamerMountainRange.rulePack.rulesStrings>
+  <NamerMountainRange.rulePack.rulesStrings>TODO</NamerMountainRange.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
@@ -240,24 +148,7 @@
     <li>terrain_word(p=3)->sea</li>
     <li>terrain_word->expanse</li>
   -->
-  <NamerOcean.rulePack.rulesStrings>
-    <li>r_name(p=0.4)->[narrative_name] [ocean_adjective]</li>
-    <li>ocean_adjective->albastru</li>
-    <li>ocean_adjective->alb</li>
-    <li>ocean_adjective->gri</li>
-    <li>ocean_adjective->limpede</li>
-    <li>ocean_adjective->vânturos</li>
-    <li>ocean_adjective->furtunoas</li>
-    <li>ocean_adjective->calm</li>
-    <li>ocean_adjective->larg</li>
-    <li>ocean_adjective->nesfârșit</li>
-    <li>ocean_adjective->plat</li>
-    <li>ocean_adjective->nemișcat</li>
-    <li>ocean_adjective->ondulat</li>
-    <li>ocean_adjective->blând</li>
-    <li>terrain_word(p=6)->oceanul</li>
-    <li>terrain_word(p=3)->marea</li>
-  </NamerOcean.rulePack.rulesStrings>
+  <NamerOcean.rulePack.rulesStrings>TODO</NamerOcean.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->point [narrative_name]</li>
@@ -268,13 +159,7 @@
     <li>terrain_word->headland</li>
     <li>terrain_word->horn</li>
   -->
-  <NamerPeninsula.rulePack.rulesStrings>
-    <li>r_name(p=0.2)->capătul [narrative_name]</li>
-    <li>r_name(p=0.2)->hornul [narrative_name]</li>
-    <li>terrain_word(p=5)->peninsula</li>
-    <li>terrain_word->capătul</li>
-    <li>terrain_word->hornul</li>
-  </NamerPeninsula.rulePack.rulesStrings>
+  <NamerPeninsula.rulePack.rulesStrings>TODO</NamerPeninsula.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.1)->lake [narrative_name]</li>
@@ -282,12 +167,7 @@
     <li>terrain_word->ocean</li>
     <li>terrain_word->lake</li>
   -->
-  <NamerSea.rulePack.rulesStrings>
-    <li>r_name(p=0.1)->lacul [narrative_name]</li>
-    <li>terrain_word(p=6)->marea</li>
-    <li>terrain_word->oceanul</li>
-    <li>terrain_word->lacul</li>
-  </NamerSea.rulePack.rulesStrings>
+  <NamerSea.rulePack.rulesStrings>TODO</NamerSea.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.1)->fen [narrative_name]</li>
@@ -309,20 +189,7 @@
     <li>terrain_word->marsh</li>
     <li>terrain_word->fen</li>
   -->
-  <NamerSwamp.rulePack.rulesStrings>
-    <li>r_name(p=0.3)->[narrative_name] [swamp_adjective]</li>
-    <li>swamp_adjective->umedă</li>
-    <li>swamp_adjective->aburită</li>
-    <li>swamp_adjective->sufocantă</li>
-    <li>swamp_adjective->putredă</li>
-    <li>swamp_adjective->putrezită</li>
-    <li>swamp_adjective->excesivă</li>
-    <li>swamp_adjective->încâlcită</li>
-    <li>swamp_adjective->spinoasă</li>
-    <li>terrain_word(p=6)->mlaștina</li>
-    <li>terrain_word->bazinul</li>
-    <li>terrain_word->iazul</li>
-  </NamerSwamp.rulePack.rulesStrings>
+  <NamerSwamp.rulePack.rulesStrings>TODO</NamerSwamp.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.3)->[rainforest_adjective] [narrative_name]</li>
@@ -340,21 +207,7 @@
     <li>terrain_word->woodland</li>
     <li>terrain_word->tangle</li>
   -->
-  <NamerTropicalRainforest.rulePack.rulesStrings>
-    <li>r_name(p=0.3)->[narrative_name] [rainforest_adjective]</li>
-    <li>rainforest_adjective->umedă</li>
-    <li>rainforest_adjective->aburită</li>
-    <li>rainforest_adjective->sufocantă</li>
-    <li>rainforest_adjective->excesivă</li>
-    <li>rainforest_adjective->încâlcită</li>
-    <li>rainforest_adjective->spinoasă</li>
-    <li>terrain_word(p=6)->pădurea tropicală</li>
-    <li>terrain_word(p=3)->jungla</li>
-    <li>terrain_word->pădurea</li>
-    <li>terrain_word->crângul</li>
-    <li>terrain_word->pădurea</li>
-    <li>terrain_word->încâlcirea</li>
-  </NamerTropicalRainforest.rulePack.rulesStrings>
+  <NamerTropicalRainforest.rulePack.rulesStrings>TODO</NamerTropicalRainforest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=4)->plateau</li>
@@ -370,16 +223,7 @@
     <li>terrain_word->prairie</li>
     <li>terrain_word->flats</li>
   -->
-  <NamerTundra.rulePack.rulesStrings>
-    <li>terrain_word(p=4)->platoul</li>
-    <li>terrain_word(p=4)->pustietatea</li>
-    <li>terrain_word(p=2)->taigaua</li>
-    <li>terrain_word->silvostepa</li>
-    <li>terrain_word->mărăcinișul</li>
-    <li>terrain_word->întinderea</li>
-    <li>terrain_word->preeria</li>
-    <li>terrain_word->câmpia</li>
-  </NamerTundra.rulePack.rulesStrings>
+  <NamerTundra.rulePack.rulesStrings>TODO</NamerTundra.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[narrative_name] [terrain_word]</li>
@@ -442,67 +286,6 @@
     <li>story_result->facade</li>
     <li>story_result->fraud</li>
   -->
-  <WorldFeatureNamerCommon.rulePack.rulesStrings>
-    <li>r_name->[terrain_word] [narrative_name]</li>
-    <li>r_name(p=0.05)->[terrain_word] [storyname]</li>
-    <li>narrative_name(p=12)->[WordTribal]</li>
-    <li>narrative_name(p=12)->[PlaceOutlander]</li>
-    <li>narrative_name->[NaturalObject_MscSglArt] [AdjectiveColor_MscSgl]</li>
-    <li>narrative_name->[NaturalObject_FemSglArt] [AdjectiveColor_FemSgl]</li>
-    <li>narrative_name->[BodyPart_MscSglArt] [AdjectiveNatural_MscSgl]</li>
-    <li>narrative_name->[BodyPart_FemSglArt] [AdjectiveNatural_FemSgl]</li>
-    <li>narrative_name->[Animal_SglNom]</li>
-    <li>narrative_name->[Color_SglNom]</li>
-    <li>narrative_name->[Animal_MscSglArt] [AdjectiveColor_MscSgl]</li>
-    <li>narrative_name->[Animal_FemSglArt] [AdjectiveColor_FemSgl]</li>
-    <li>narrative_name->[Animal_MscSglArt] [AdjectiveNatural_MscSgl]</li>
-    <li>narrative_name->[Animal_FemSglArt] [AdjectiveNatural_FemSgl]</li>
-    <li>narrative_name->[BodyPart_SglNom]-[Animal_SglNom]</li>
-    <li>storyname(p=50)->[story_result] [subject]</li>
-    <li>storyname(p=2)->[BodyPart_SglArt] [subject]</li>
-    <li>storyname->[Gore_SglArt] [subject]</li>
-    <li>subject(p=5)->[NamePerson]</li>
-    <li>subject->[Animal_SglDat]</li>
-    <li>subject->[WordTribal]</li>
-    <li>subject->din [PlaceOutlander]</li>
-    <li>story_result->nebunia</li>
-    <li>story_result->viciul</li>
-    <li>story_result->nebunia</li>
-    <li>story_result->greșeala</li>
-    <li>story_result->vina</li>
-    <li>story_result->eroarea</li>
-    <li>story_result->iluzia</li>
-    <li>story_result->bucuria</li>
-    <li>story_result->încântarea</li>
-    <li>story_result->minunea</li>
-    <li>story_result->mândria</li>
-    <li>story_result->bijuteria</li>
-    <li>story_result->premiul</li>
-    <li>story_result->recompensa</li>
-    <li>story_result->onoarea</li>
-    <li>story_result->jackpotul</li>
-    <li>story_result->trofeul</li>
-    <li>story_result->vanitatea</li>
-    <li>story_result->aroganța</li>
-    <li>story_result->poziția</li>
-    <li>story_result->pierderea</li>
-    <li>story_result->datoria</li>
-    <li>story_result->prăbușirea</li>
-    <li>story_result->distrugerea</li>
-    <li>story_result->cataclismul</li>
-    <li>story_result->ruina</li>
-    <li>story_result->ruinarea</li>
-    <li>story_result->desființarea</li>
-    <li>story_result->căderea</li>
-    <li>story_result->sfârșitul</li>
-    <li>story_result->pensionarea</li>
-    <li>story_result->realizarea</li>
-    <li>story_result->finalul</li>
-    <li>story_result->cacealmaua</li>
-    <li>story_result->șiretlicul</li>
-    <li>story_result->înșelăciunea</li>
-    <li>story_result->fațada</li>
-    <li>story_result->frauda</li>
-  </WorldFeatureNamerCommon.rulePack.rulesStrings>
+  <WorldFeatureNamerCommon.rulePack.rulesStrings>TODO</WorldFeatureNamerCommon.rulePack.rulesStrings>
   
 </LanguageData>

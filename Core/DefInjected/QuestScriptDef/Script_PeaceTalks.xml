@@ -11,16 +11,7 @@
     <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-> [playerFaction_leaderTitle] [playerFaction_leader_nameFull] will get a bonus to the chance of a successful outcome.</li>
     <li>leaderPawnInfo-></li>
   -->
-  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
-    <li>questDescription->[faction_leader_nameFull], [faction_leaderTitle] din [faction_name], ne-a trimis un mesaj. [faction_leader_pronoun] dorește să vorbească cu noi într-o locație din apropiere.\n\nAcesta ar putea fi o mare oportunitate de a îmbunătăți relațiile cu facțiunea lor și de a primi cadouri, dar aveți grijă - un negociator slab poate cauza mai mult rău decât bine și chiar îi poate înfuria.[extraLeaderPart][favorRewardDetails]</li>
-    <li>favorRewardDetails(faction_leader_royalInCurrentFaction==True,priority=1)->\n\nConversațiile de pace reușite îi pot aduce negociatorului tău o cantitate mică de [faction_royalFavorLabel] personale cu [faction_name].</li>
-    <li>favorRewardDetails-></li>
-    <li>extraLeaderPart(priority=1)->\n\n[leaderRoleEffect].[leaderPawnInfo]</li>
-    <li>extraLeaderPart-></li>
-    <li>leaderRoleEffect->Celelalte facțiuni te vor respecta mai mult dacă îți trimiți liderul să se ocupe de negocieri.</li>
-    <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-> [playerFaction_leader_nameFull], cu titlul de [playerFaction_leaderTitle], va primi un bonus la șansa unui rezultat pozitiv.</li>
-    <li>leaderPawnInfo-></li>
-  </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>TODO</OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[faction_leader_nameDef]'s [peaceTalks]</li>
     <li>questName->[peaceTalks] with [faction_leader_nameDef]</li>
@@ -30,17 +21,10 @@
     <li>peaceTalks->Diplomacy</li>
     <li>peaceTalks->Meeting</li>
   -->
-  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
-    <li>questName->[peaceTalks] ale lui [faction_leader_nameDef]</li>
-    <li>questName->[peaceTalks] cu [faction_leader_nameDef]</li>
-    <li>questName->[peaceTalks]</li>
-    <li>peaceTalks->Dialoguri de pace</li>
-    <li>peaceTalks->Diplomație</li>
-    <li>peaceTalks->Întâlnire</li>
-  </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>TODO</OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>Misiune expirată: [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
   <!-- EN: The offer of peace talks with [faction_name] has expired. You have failed the quest [resolvedQuestName]. -->
-  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>Oferta de dialoguri de pace cu [faction_name] a expirat. Ați eșuat misiunea [resolvedQuestName].</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

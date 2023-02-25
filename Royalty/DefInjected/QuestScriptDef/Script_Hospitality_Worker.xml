@@ -2,71 +2,71 @@
 <LanguageData>
   
   <!-- EN: [lodgersLabelSingOrPlural] arrived -->
-  <Hospitality_Util_Worker.LetterLabelLodgersArrived.value.slateRef>[lodgersLabelSingOrPlural] a sosit</Hospitality_Util_Worker.LetterLabelLodgersArrived.value.slateRef>
+  <Hospitality_Util_Worker.LetterLabelLodgersArrived.value.slateRef>TODO</Hospitality_Util_Worker.LetterLabelLodgersArrived.value.slateRef>
   <!-- EN: [lodgersLabelSingOrPluralDef] [lodgersHasHave] arrived. Protect [lodgersObjective] until the shuttle arrives in [shuttleDelayTicks_duration].[helpersArrivalLetterEnd] -->
-  <Hospitality_Util_Worker.LetterTextLodgersArrived.value.slateRef>[lodgersLabelSingOrPluralDef] [lodgersHasHave] a sosit. Protejați [lodgersObjective] până la sosirea navetei în [shuttleDelayTicks_duration].[helpersArrivalLetterEnd].</Hospitality_Util_Worker.LetterTextLodgersArrived.value.slateRef>
+  <Hospitality_Util_Worker.LetterTextLodgersArrived.value.slateRef>TODO</Hospitality_Util_Worker.LetterTextLodgersArrived.value.slateRef>
   <!-- EN: Should depart on shuttle -->
-  <Hospitality_Util_Worker.InspectStringDepartShuttle.slateRef>Ar trebui să plece cu naveta</Hospitality_Util_Worker.InspectStringDepartShuttle.slateRef>
+  <Hospitality_Util_Worker.InspectStringDepartShuttle.slateRef>TODO</Hospitality_Util_Worker.InspectStringDepartShuttle.slateRef>
   <!-- EN: Shuttle arrived -->
-  <Hospitality_Util_Worker.LetterLabelShuttleArrived.slateRef>A sosit naveta</Hospitality_Util_Worker.LetterLabelShuttleArrived.slateRef>
+  <Hospitality_Util_Worker.LetterLabelShuttleArrived.slateRef>TODO</Hospitality_Util_Worker.LetterLabelShuttleArrived.slateRef>
   <!-- EN: The shuttle has arrived to collect [lodgersLabelSingOrPluralDef]. Be sure to have these people on the shuttle before it leaves in [shuttleLeaveDelayTicks_duration]:\n\n[lodgers] -->
-  <Hospitality_Util_Worker.LetterTextShuttleArrived.slateRef>Naveta a sosit pentru a colecta [lodgersLabelSingOrPluralDef]. Asigură-te că aceste persoane se află în navetă înainte ca aceasta să plece în [shuttleLeaveDelayTicks_duration]:\n\n[lodgers]</Hospitality_Util_Worker.LetterTextShuttleArrived.slateRef>
+  <Hospitality_Util_Worker.LetterTextShuttleArrived.slateRef>TODO</Hospitality_Util_Worker.LetterTextShuttleArrived.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelGuestDied.slateRef>Oaspetele a murit: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestDied.slateRef>
+  <Hospitality_Util_Worker.LetterLabelGuestDied.slateRef>TODO</Hospitality_Util_Worker.LetterLabelGuestDied.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has died. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextGuestDied.slateRef>[letterSubject], pe care ai fost însărcinat să îl protejați, a murit. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestDied.slateRef>
+  <Hospitality_Util_Worker.LetterTextGuestDied.slateRef>TODO</Hospitality_Util_Worker.LetterTextGuestDied.slateRef>
   <!-- EN: Guest captured: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>Oaspete capturat: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>
+  <Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>TODO</Hospitality_Util_Worker.LetterLabelGuestCapture.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has been arrested. [remainingWillNowLeave][failLetterEndingQuest] -->
-  <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>[letterSubject], pe care ați fost însărcinat să îl protejați, a fost arestat. [remainingWillNowLeave][failLetterEndingQuest]</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
+  <Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>TODO</Hospitality_Util_Worker.LetterTextGuestCapture.slateRef>
   <!-- EN: Prisoner recruited: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>Prizonier recrutat: {SUBJECT_definite}</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
+  <Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>TODO</Hospitality_Util_Worker.LabelLabelPrisonerRecruited.slateRef>
   <!-- EN: You have recruited {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>L-ai recrutat pe {SUBJECT_definite}, pe care ai fost însărcinat să îl păzești. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>
+  <Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>TODO</Hospitality_Util_Worker.LabelTextPrisonerRecruited.slateRef>
   <!-- EN: Prisoner enslaved: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.label.slateRef>Prizonier înrobit: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.label.slateRef>
+  <Hospitality_Util_Worker.LabelLabelPrisonerEnslaved.slateRef>TODO</Hospitality_Util_Worker.LabelLabelPrisonerEnslaved.slateRef>
   <!-- EN: You have enslaved {SUBJECT_definite}, who you were charged to guard. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.text.slateRef>L-ați înrobit pe {SUBJECT_definite}, pe care ați fost însărcinat să-l păziți. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.root.nodes.lodgersEnslaved.node.nodes.Letter.text.slateRef>
+  <Hospitality_Util_Worker.LabelTextPrisonerEnslaved.slateRef>TODO</Hospitality_Util_Worker.LabelTextPrisonerEnslaved.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>Operație chirurgicală neautorizată: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>
+  <Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>TODO</Hospitality_Util_Worker.LetterLabelUnauthorizedSurgery.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on [letterSubject]. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>O intervenție chirurgicală neautorizată, care încalcă legea, a fost efectuată pe [letterSubject]. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>
+  <Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>TODO</Hospitality_Util_Worker.LetterTextUnauthorizedSurgery.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>Oaspete pierdut: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.label.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextGuestLost.slateRef>[letterSubject], pe care ați fost însărcinat să îl protejați, a dispărut. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestLost.slateRef>
+  <Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>Oaspete pierdut: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>
+  <Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>TODO</Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has run wild. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextLodgerRanWild.slateRef>[letterSubject], pe care ai fost însărcinat să îl protejezi, a luat-o razna. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextLodgerRanWild.slateRef>
+  <Hospitality_Util_Worker.LetterTextGuestLost.slateRef>TODO</Hospitality_Util_Worker.LetterTextGuestLost.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>Oaspete pierdut: {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestJoinedOtherFaction.slateRef>
+  <Hospitality_Util_Worker.root.nodes.AnySignal.node.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.AnySignal.node.node.nodes.Letter.label.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has joined another faction. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>[letterSubject], pe care ai fost însărcinat să îl protejezi, s-a alăturat unei alte facțiuni. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestJoinedOtherFaction.slateRef>
+  <Hospitality_Util_Worker.root.nodes.AnySignal.node.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.AnySignal.node.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>Căutarea a eșuat: [resolvedQuestName]</Hospitality_Util_Worker.LetterLabelAskerFactionHostile.slateRef>
+  <Hospitality_Util_Worker.root.nodes.IsNull-1.elseNode.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.IsNull-1.elseNode.node.nodes.Letter.label.slateRef>
   <!-- EN: [asker_faction_name] are now hostile towards you. [failLetterEndingQuest] -->
-  <Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>[asker_faction_name] sunt acum ostili față de tine. [failLetterEndingQuest]</Hospitality_Util_Worker.LetterTextAskerFactionHostile.slateRef>
+  <Hospitality_Util_Worker.root.nodes.IsNull-1.elseNode.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.IsNull-1.elseNode.node.nodes.Letter.text.slateRef>
   <!-- EN: Shuttle destroyed -->
-  <Hospitality_Util_Worker.LetterLabelShuttleDestroyed.slateRef>Navetă distrusă</Hospitality_Util_Worker.LetterLabelShuttleDestroyed.slateRef>
+  <Hospitality_Util_Worker.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle sent to collect [lodgersLabelSingOrPluralDef] has been destroyed. [lodgersLabelSingOrPluralDef] will now leave on foot. [failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextShuttleDestroyed.slateRef>Naveta trimisă pentru a colecta [lodgersLabelSingOrPluralDef] a fost distrusă. [lodgersLabelSingOrPluralDef] va pleca acum pe jos. [failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextShuttleDestroyed.slateRef>
+  <Hospitality_Util_Worker.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest completed -->
-  <Hospitality_Util_Worker.LetterLabelGoodwillSuccessQuestCompleted.slateRef>Căutare finalizată</Hospitality_Util_Worker.LetterLabelGoodwillSuccessQuestCompleted.slateRef>
+  <Hospitality_Util_Worker.root.nodes.pickupShipThingSentSatisfied.node.nodes.IsTrue.node.nodes.GoodwillForAverageMoodSuccess.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.pickupShipThingSentSatisfied.node.nodes.IsTrue.node.nodes.GoodwillForAverageMoodSuccess.node.nodes.Letter.label.slateRef>
   <!-- EN: You have successfully completed the quest '[resolvedQuestName]'!\n\n[lodgersLabelSingOrPluralDef] said [lodgersPronoun] [lodgersWasWere] willing to reward quality accommodation. The average mood of [lodgersLabelSingOrPluralDef] was {AVERAGEMOOD} during [theirHisHer] stay, so your goodwill with [asker_faction_name] has increased by {GOODWILL} -->
-  <Hospitality_Util_Worker.LetterTextGoodwillSuccessQuestCompleted.slateRef>Ați terminat cu succes misiunea '[resolvedQuestName]'!\n\n[lodgersLabelSingOrPluralDef] a spus [lodgersPronoun] [lodgersWasWere] că este dispus să recompenseze o cazare de calitate. Starea medie de spirit a [lodgersLabelSingOrPluralDef] a fost {AVERAGEMOOD} în timpul șederii [theirHisHer], astfel că bunăvoința ta față de [asker_faction_name] a crescut cu {GOODWILL}.</Hospitality_Util_Worker.LetterTextGoodwillSuccessQuestCompleted.slateRef>
+  <Hospitality_Util_Worker.root.nodes.pickupShipThingSentSatisfied.node.nodes.IsTrue.node.nodes.GoodwillForAverageMoodSuccess.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.pickupShipThingSentSatisfied.node.nodes.IsTrue.node.nodes.GoodwillForAverageMoodSuccess.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest completed -->
-  <Hospitality_Util_Worker.LetterLabelGoodwillFailedQuestCompleted.slateRef>Misiune finalizată</Hospitality_Util_Worker.LetterLabelGoodwillFailedQuestCompleted.slateRef>
+  <Hospitality_Util_Worker.root.nodes.pickupShipThingSentSatisfied.node.nodes.IsTrue.node.nodes.GoodwillForAverageMoodFailed.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.pickupShipThingSentSatisfied.node.nodes.IsTrue.node.nodes.GoodwillForAverageMoodFailed.node.nodes.Letter.label.slateRef>
   <!-- EN: You have successfully completed the quest '[resolvedQuestName]'!\n\nWhile [lodgersLabelSingOrPluralDef] [lodgersWasWere] willing to reward quality accommodation, [theirHisHer] average mood was only {AVERAGEMOOD} during [theirHisHer] stay. You will receive no faction goodwill reward. -->
-  <Hospitality_Util_Worker.LetterTextGoodwillFailedQuestCompleted.slateRef>Ați finalizat cu succes misiunea '[resolvedQuestName]'!\n\nÎn timp ce [lodgersLabelSingOrPluralDef] [lodgersWasWere] erau dispuși să recompenseze o cazare de calitate, [theirHisHer] starea de spirit medie a fost doar {AVERAGEMOOD} în timpul șederii [theirHisHer]. Nu veți primi nicio recompensă de bunăvoință din partea facțiunii.</Hospitality_Util_Worker.LetterTextGoodwillFailedQuestCompleted.slateRef>
+  <Hospitality_Util_Worker.root.nodes.pickupShipThingSentSatisfied.node.nodes.IsTrue.node.nodes.GoodwillForAverageMoodFailed.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.pickupShipThingSentSatisfied.node.nodes.IsTrue.node.nodes.GoodwillForAverageMoodFailed.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <Hospitality_Util_Worker.LetterLabelQuestFailed.slateRef>Căutarea a eșuat: [resolvedQuestName]</Hospitality_Util_Worker.LetterLabelQuestFailed.slateRef>
+  <Hospitality_Util_Worker.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>TODO</Hospitality_Util_Worker.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle sent to collect [lodgersLabelSingOrPluralDef] has departed. [lodgersLabelSingOrPluralDef] will now leave on foot. [failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextQuestFailed.slateRef>Naveta trimisă să colecteze [lodgersLabelSingOrPluralDef] a plecat. [lodgersLabelSingOrPluralDef] va pleca acum pe jos. [failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextQuestFailed.slateRef>
+  <Hospitality_Util_Worker.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>TODO</Hospitality_Util_Worker.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>
   
   <!-- EN: Shuttle destroyed -->
-  <Util_ArriveByDropPodsOrShuttle.LetterLabelShuttleDestroyed.slateRef>Navetă distrusă</Util_ArriveByDropPodsOrShuttle.LetterLabelShuttleDestroyed.slateRef>
+  <Util_ArriveByDropPodsOrShuttle.LetterLabelShuttleDestroyed.slateRef>TODO</Util_ArriveByDropPodsOrShuttle.LetterLabelShuttleDestroyed.slateRef>
   <!-- EN: The shuttle sent to drop off [pawnsLabelDef] has been destroyed. You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have changed by [goodwillChangeOnShuttleDestroyed]. -->
-  <Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>Naveta trimisă să lase [pawnsLabelDef] a fost distrusă. Ați eșuat în misiunea '[resolvedQuestName]'.\n\nRelațiile voastre cu [asker_faction_name] s-au schimbat prin [goodwillChangeOnShuttleDestroyed].</Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>
+  <Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>TODO</Util_ArriveByDropPodsOrShuttle.LetterTextShuttleDestroyed.slateRef>
   
 </LanguageData>

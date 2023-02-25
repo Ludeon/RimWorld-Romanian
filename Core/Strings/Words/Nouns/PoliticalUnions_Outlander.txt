@@ -4,7 +4,6 @@ nation
 confederacy
 confederation
 alliance
-kin league
 covenant
 treaty
 pact

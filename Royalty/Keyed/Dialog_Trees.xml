@@ -3,10 +3,10 @@
 
   <!-- Royalty -->
   <!-- EN: Change heir of {HOLDER_labelShort}'s {TITLE} title from {HEIR_labelShort} -->
-  <RequestChangeRoyalHeir>Schimbă moștenitorul titlului {TITLE} al lui {HOLDER_labelShort} de la {HEIR_labelShort}.</RequestChangeRoyalHeir>
+  <RequestChangeRoyalHeir>TODO</RequestChangeRoyalHeir>
   <!-- EN: Designate heir of {HOLDER_labelShort}'s {TITLE} title -->
-  <RequestSetRoyalHeir>Desemnează moștenitorul titlului {TITLE} al lui {HOLDER_labelShort}.</RequestSetRoyalHeir>
+  <RequestSetRoyalHeir>TODO</RequestSetRoyalHeir>
   <!-- EN: already in progress for {PAWN_labelShort} -->
-  <RequestChangeRoyalHeirAlreadyInProgress>deja în curs pentru {PAWN_labelShort}</RequestChangeRoyalHeirAlreadyInProgress>
+  <RequestChangeRoyalHeirAlreadyInProgress>TODO</RequestChangeRoyalHeirAlreadyInProgress>
   
 </LanguageData>

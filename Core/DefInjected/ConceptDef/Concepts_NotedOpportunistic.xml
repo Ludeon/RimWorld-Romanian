@@ -2,98 +2,115 @@
 <LanguageData>
   
   <!-- EN: Animals will attack doors -->
-  <AnimalsDontAttackDoors.label>Animalele vor ataca ușile</AnimalsDontAttackDoors.label>
+  <AnimalsDontAttackDoors.label>TODO</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
-  <AnimalsDontAttackDoors.helpText>Animalele de vânătoare vor ataca ușile dacă văd că unul dintre coloniștii tăi se mișcă prin ele. De asemenea, vor ataca turetele inactive.</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>TODO</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
-  <BillsTab.label>Tabul Bills</BillsTab.label>
+  <BillsTab.label>TODO</BillsTab.label>
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
-  <BillsTab.helpText>Pentru a-i face pe coloniști să lucreze la o masă, selectați masa și deschideți fila Slujbe. Aici, puteți spune ce mese să gătească, ce lucruri să meșterească, ce creaturi să măcelărească.</BillsTab.helpText>
+  <BillsTab.helpText>TODO</BillsTab.helpText>
   
   <!-- EN: Build orbital trade beacon -->
-  <BuildOrbitalTradeBeacon.label>Construiește o baliză comercială orbitală</BuildOrbitalTradeBeacon.label>
+  <BuildOrbitalTradeBeacon.label>TODO</BuildOrbitalTradeBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
-  <BuildOrbitalTradeBeacon.helpText>Pentru a trimite obiecte sau argint către comercianții orbitali, trebuie să construiți o BALIZĂ DE COMERȚ ORBITAL și să plasați un stoc de obiecte în apropierea ei.</BuildOrbitalTradeBeacon.helpText>
+  <BuildOrbitalTradeBeacon.helpText>TODO</BuildOrbitalTradeBeacon.helpText>
   
   <!-- EN: Capturing -->
-  <Capturing.label>Capturarea</Capturing.label>
+  <Capturing.label>TODO</Capturing.label>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
-  <Capturing.helpText>Atunci când un inamic este doborât la pământ, dar nu este mort, îl poți CAPTURA.\n\nPentru a-l captura, selectează un colonist, fă clic dreapta pe inamicul incapabil și selectează capturează-l.\n\nAi nevoie de un pat suplimentar marcat pentru prizonieri.</Capturing.helpText>
+  <Capturing.helpText>TODO</Capturing.helpText>
+  <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, press the left trigger button on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
+  <Capturing.helpTextController>TODO</Capturing.helpTextController>
   
   <!-- EN: Door opening speeds -->
-  <DoorOpenSpeed.label>Viteze de deschidere a ușilor</DoorOpenSpeed.label>
+  <DoorOpenSpeed.label>TODO</DoorOpenSpeed.label>
   <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
-  <DoorOpenSpeed.helpText>Ușile se deschid la viteze diferite în funcție de materialul din care sunt făcute.\n\nAtenție: Ușile din piatră se deschid foarte încet. Oricine trece prin ele va fi încetinit semnificativ.</DoorOpenSpeed.helpText>
+  <DoorOpenSpeed.helpText>TODO</DoorOpenSpeed.helpText>
   
   <!-- EN: Drafting for combat -->
-  <Drafting.label>Recrutarea pentru luptă</Drafting.label>
+  <Drafting.label>TODO</Drafting.label>
   <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
-  <Drafting.helpText>Pentru a controla coloniștii direct pentru luptă, faceți o Recrutare selectându-i și apăsând butonul Recrută.\n\nUn colonist recrutat va face doar ceea ce îi spuneți și poate efectua doar acțiuni de luptă. Cei care au arme le vor folosi atunci când este posibil.\n\nNu lăsați coloniștii Recrutați pentru totdeauna - vor muri de foame și vor deveni nefericiți.</Drafting.helpText>
+  <Drafting.helpText>TODO</Drafting.helpText>
   
   <!-- EN: Drug addiction -->
-  <DrugAddiction.label>Dependența de droguri</DrugAddiction.label>
+  <DrugAddiction.label>TODO</DrugAddiction.label>
   <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
-  <DrugAddiction.helpText>Puteți inspecta dorința coloniștilor dvs. de a lua un drog în fila Nevoi.\n\nAtâta timp cât nivelul de nevoie este la zero, dependența lor se schimbă într-o stare de "sevraj" care poate avea diverse efecte secundare negative.\n\nTotuși, după o perioadă suficientă de timp în sevraj, dependența lor se va termina și nevoia de droguri va dispărea.</DrugAddiction.helpText>
+  <DrugAddiction.helpText>TODO</DrugAddiction.helpText>
   
   <!-- EN: Drug burning -->
-  <DrugBurning.label>Arderea drogurilor</DrugBurning.label>
+  <DrugBurning.label>TODO</DrugBurning.label>
   <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
-  <DrugBurning.helpText>Drogurile pot fi utile, dar pot duce și la dependențe dăunătoare.\n\nDacă vrei să eviți drogurile în colonia ta, ai opțiunea de a le arde la un foc de tabără.</DrugBurning.helpText>
+  <DrugBurning.helpText>TODO</DrugBurning.helpText>
   
   <!-- EN: Drug policies -->
-  <DrugPolicies.label>Politici privind drogurile</DrugPolicies.label>
+  <DrugPolicies.label>TODO</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>Puteți să le atribuiți coloniștilor să ia anumite medicamente într-un anumit program. De exemplu, îi puteți face să ia regulat medicamente care blochează infecțiile sau să bea o bere pe zi pentru a fi fericiți.\n\nDeschideți fila ASIGNARE și apăsați butonul "Gestionare politici de medicamente". Creați o nouă politică privind medicamentele. Apoi, puteți atribui această politică coloniștilor.\n\nColoniștii pot lua în continuare medicamente care nu sunt în politica lor. Le puteți spune ce să facă, dar ei își urmează și propriile dorințe!</DrugPolicies.helpText>
+  <DrugPolicies.helpText>TODO</DrugPolicies.helpText>
   
   <!-- EN: Positioning fighters -->
-  <GroupGotoHereDragging.label>Poziționarea recruților</GroupGotoHereDragging.label>
+  <GroupGotoHereDragging.label>TODO</GroupGotoHereDragging.label>
   <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
-  <GroupGotoHereDragging.helpText>Dați clic dreapta și trageți pentru ca luptătorii recrutați să formeze o linie.\n\nDispuneți-vă - țintele grupate sunt ușor de lovit!</GroupGotoHereDragging.helpText>
+  <GroupGotoHereDragging.helpText>TODO</GroupGotoHereDragging.helpText>
+  <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
+  <GroupGotoHereDragging.helpTextController>TODO</GroupGotoHereDragging.helpTextController>
   
   <!-- EN: Interacting with traders -->
-  <InteractingWithTraders.label>Interacțiunea cu comercianții</InteractingWithTraders.label>
-  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to his head. -->
-  <InteractingWithTraders.helpText>Poți vorbi cu oamenii care au ? deasupra capului.\n\nSelectează un colonist și dă click dreapta pe personajul cu ? atașat la cap.</InteractingWithTraders.helpText>
+  <InteractingWithTraders.label>TODO</InteractingWithTraders.label>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head. -->
+  <InteractingWithTraders.helpText>TODO</InteractingWithTraders.helpText>
+  <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to their head. -->
+  <InteractingWithTraders.helpTextController>TODO</InteractingWithTraders.helpTextController>
   
   <!-- EN: Using the comms console -->
-  <OpeningComms.label>Utilizarea consolei de comunicații</OpeningComms.label>
+  <OpeningComms.label>TODO</OpeningComms.label>
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
-  <OpeningComms.helpText>Pentru a comunica, selectați un colonist și faceți clic dreapta pe consola de comunicații.</OpeningComms.helpText>
+  <OpeningComms.helpText>TODO</OpeningComms.helpText>
+  <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
+  <OpeningComms.helpTextController>TODO</OpeningComms.helpTextController>
   
   <!-- EN: Prisoner tab -->
-  <PrisonerTab.label>Fila Prizonier</PrisonerTab.label>
+  <PrisonerTab.label>TODO</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>Uitați-vă în fila "Prizonier" a unui prizonier pentru a seta modul în care va fi tratat.\n\nPuteți seta dacă va fi recrutat, ignorat sau executat, dacă va mânca și ce fel de îngrijire medicală va primi.\n\nColoniștii cu tipul de muncă Gardian vor interacționa cu prizonierul.</PrisonerTab.helpText>
+  <PrisonerTab.helpText>TODO</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
-  <QueueOrders.label>Coada de comenzi</QueueOrders.label>
+  <QueueOrders.label>TODO</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpText>Atunci când dați comenzi pionilor, puteți pune în coadă mai multe comenzi ținând apăsat "shift". Acest lucru funcționează, de asemenea, atunci când dați comenzi unor pioni nerecrutați.</QueueOrders.helpText>
+  <QueueOrders.helpText>TODO</QueueOrders.helpText>
+  <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
+  <QueueOrders.helpTextController>TODO</QueueOrders.helpTextController>
   
   <!-- EN: Reforming caravans -->
-  <ReformCaravan.label>Reformarea caravanelor</ReformCaravan.label>
+  <ReformCaravan.label>TODO</ReformCaravan.label>
   <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
-  <ReformCaravan.helpText>După o întâlnire, puteți reface cu ușurință o caravană folosind comanda REFORMARE CARAVANĂ din vederea mondială.</ReformCaravan.helpText>
+  <ReformCaravan.helpText>TODO</ReformCaravan.helpText>
   
   <!-- EN: Rescuing -->
-  <Rescuing.label>Salvare</Rescuing.label>
+  <Rescuing.label>TODO</Rescuing.label>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
-  <Rescuing.helpText>Pentru a salva o persoană rănită, selectați un colonist sănătos și apoi dați click dreapta pe cel rănit.\n\nDacă salvați un non-colonist, acesta nu se va alătura neapărat coloniei dumneavoastră. Ei pot pur și simplu să plece după vindecare. Dacă doriți să garantați că se alătură, capturați-i și recrutați-i.</Rescuing.helpText>
+  <Rescuing.helpText>TODO</Rescuing.helpText>
+  <!-- EN: To rescue a wounded person, select a healthy colonist and then press the left trigger button on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
+  <Rescuing.helpTextController>TODO</Rescuing.helpTextController>
   
   <!-- EN: Set what plant to grow -->
-  <SetGrowingZonePlant.label>Setați ce plantă să crească</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.label>TODO</SetGrowingZonePlant.label>
   <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
-  <SetGrowingZonePlant.helpText>Puteți seta ce să plantați într-o zonă de creștere. Poți chiar să crești copaci!\n\nNDoar selectează zona de creștere, deschide fila Cultivare și fă clic pe butonul "plantă".</SetGrowingZonePlant.helpText>
+  <SetGrowingZonePlant.helpText>TODO</SetGrowingZonePlant.helpText>
+  
+  <!-- EN: Shelves -->
+  <Shelves.label>TODO</Shelves.label>
+  <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
+  <Shelves.helpText>TODO</Shelves.helpText>
   
   <!-- EN: Shield belts -->
-  <ShieldBelts.label>Curele scut</ShieldBelts.label>
+  <ShieldBelts.label>TODO</ShieldBelts.label>
   <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
-  <ShieldBelts.helpText>Curelele scut opresc atacurile la distanță să intre sau să iasă. Ele nu au niciun efect asupra atacurilor corp la corp.\n\nPentru a lupta împotriva centurilor de scut, fie concentrați multe focuri de armă asupra țintei, fie luptați corp la corp.</ShieldBelts.helpText>
+  <ShieldBelts.helpText>TODO</ShieldBelts.helpText>
   
   <!-- EN: TV for sick people -->
-  <TVForSickPeople.label>Televizor pentru persoanele bolnave</TVForSickPeople.label>
+  <TVForSickPeople.label>TODO</TVForSickPeople.label>
   <!-- EN: Sick people can watch TV while laying in bed. -->
-  <TVForSickPeople.helpText>Persoanele bolnave se pot uita la televizor în timp ce stau în pat.</TVForSickPeople.helpText>
+  <TVForSickPeople.helpText>TODO</TVForSickPeople.helpText>
   
 </LanguageData>

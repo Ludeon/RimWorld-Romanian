@@ -2,11 +2,14 @@
 <LanguageData>
   
   <!-- EN:
-    <li>allLodgerInfo->[healthInfo][minMoodInfo][workInfo]</li>
+    <li>allLodgerInfo->[healthInfo][minMoodInfo][workInfo][includesChildren]</li>
     <li>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->the [lodgersLabelPlural]</li>
+    <li>includesChildren(priority=-999)-></li>
+    <li>includesChildren(childCount==1)->\n\nOne of [lodgersLabelSingOrPluralDef] is a child.</li>
+    <li>includesChildren(childCount>=2)->\n\nSome of [lodgersLabelSingOrPluralDef] are children.</li>
     <li>healthInfo-></li>
     <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
     <li>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</li>
@@ -49,53 +52,6 @@
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
     <li>failLetterEndingCommon->[failLetterEndingQuest]\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
   -->
-  <QuestHospitalityCommon.rulePack.rulesStrings>
-    <li>allLodgerInfo->[healthInfo][minMoodInfo][workInfo]</li>
-    <li>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</li>
-    <li>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]</li>
-    <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
-    <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->[lodgersLabelPlural]</li>
-    <li>healthInfo-></li>
-    <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
-    <li>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</li>
-    <li>healthInfo(lodgersHaveBloodRot==true,priority=1)->\n\n[bloodRotInfo]</li>
-    <li>paralyzedInfo->[lodgersLabelSingOrPluralDef] suferă de abasie paralitică și trebuie țintuit(ți) la pat.</li>
-    <li>bloodRotInfo->[lodgersLabelSingOrPluralDef] suferă de putrefacția sângelui și va trebui tratament zilnic. Boala poate fi încetinită cu îngrijiri și medicamente de înaltă calitate, dar, în general, nu poate fi vindecată complet. Dacă boala devine severă, [lodgersLabelSingOrPluralDef] va/vor muri, așa că asigurați-vă că aveți proviziile medicale necesare.</li>
-    <li>minMoodInfo-></li>
-    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\ntrebuie să țineți dispoziția [lodgersLabelSingOrPluralDef] peste [lodgersMoodThreshold_percent].</li>
-    <li>workInfo-></li>
-    <li>workInfo(lodgersWillNotWork==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef] nu vor accepta niciun fel de muncă.</li>
-    <li>commonDescEnding->[helpersParagraph]</li>
-    <li>enemyGroupsParagraph->[threatDescriptionParagraph]</li>
-    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->va fi (*Threat)un raid(/Threat) de aproximativ această dimensiune:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->va fi (*Threat)un raid(/Threat) de forță [threatSize]x și aproximativ de această dimensiune:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->vor fi (*Threat)[threatCount] raiduri(/Threat) de aproximativ această mărime:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->vor fi (*Threat)[threatCount] raiduri(/Threat) de forță [threatSize]x și aproximativ de această dimensiune:\n\n[threatExample]</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->(*Threat)un grup de mech(/Threat) se va desfășura în apropiere.</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)două grupuri de mech-uri(/Threat)se vor desfășura în apropiere.</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->(*Threat)un grup de mech-uri(/Threat) de mărimea [threatSize]x se va desfășura în apropiere.</li>
-    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->(*Threat)două grupuri mech(/Threat) de mărimea [threatSize]x se vor desfășura în apropiere.</li>
-    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef] au [mechViolation] recent, și au fost ținta unui roi de mecanoizi orbitali.</li>
-    <li>threatsInfoMechClustersMultiPrisoners->Deținuții au [mechViolation] recent, și au fost ținta unui roi mecanoid pe orbită.</li>
-    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef] au [mechViolation] recent, și au fost vizat de un stup mecanoid.</li>
-    <li>threatsInfoMechRaidsMultiHuman->Ei au [mechViolation] recent, și au fost ținta unui stup mecanoid.</li>
-    <li>mechViolation->înfuriat cumva o persoană mașină</li>
-    <li>mechViolation->violat un terminal vechi de supercomputer</li>
-    <li>mechViolation->omorât un copil uman favorizat de un arhotech.</li>
-    <li>mechViolation->încercat să spargă un nod de control mecanoid.</li>
-    <li>mechViolation->încercat să fure dintr-un depozit antic</li>
-    <li>letterSubject->{SUBJECT_definite}</li>
-    <li>lodgersHasHave(lodgersCount==1)->a</li>
-    <li>lodgersHasHave(lodgersCount>=2)->au</li>
-    <li>lodgersObjective(lodgersCount==1)->[lodgers0_objective]</li>
-    <li>lodgersObjective(lodgersCount>=2)->ei</li>
-    <li>areIs(lodgersCount==1)->este</li>
-    <li>areIs(lodgersCount>=2)->sunt</li>
-    <li>remainingWillNowLeave(lodgersCount==1)-></li>
-    <li>remainingWillNowLeave(lodgersCount>=2)->Orcie [lodgersLabelPlural] rămași vor pleca acum. </li>
-    <li>failLetterEndingQuest->Ați eșuat misiunea '[resolvedQuestName]'.</li>
-    <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
-    <li>failLetterEndingCommon->[failLetterEndingQuest]\n\nRelațile voastre cu [asker_faction_name] au scăzut cu [goodwillPenalty].</li>
-  </QuestHospitalityCommon.rulePack.rulesStrings>
+  <QuestHospitalityCommon.rulePack.rulesStrings>TODO</QuestHospitalityCommon.rulePack.rulesStrings>
   
 </LanguageData>

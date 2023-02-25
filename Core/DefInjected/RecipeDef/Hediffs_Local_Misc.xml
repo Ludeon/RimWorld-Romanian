@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: cure scaria -->
-  <CureScaria.label>vindecă scaria</CureScaria.label>
+  <CureScaria.label>TODO</CureScaria.label>
   <!-- EN: This special medical operation cures scaria. -->
-  <CureScaria.description>Această operație medicală specială vindecă scaria.</CureScaria.description>
+  <CureScaria.description>TODO</CureScaria.description>
   <!-- EN: Curing scaria. -->
-  <CureScaria.jobString>Vindecă scaria.</CureScaria.jobString>
+  <CureScaria.jobString>TODO</CureScaria.jobString>
   <!-- EN: {0} has successfully cured {1}'s scaria. -->
-  <CureScaria.successfullyRemovedHediffMessage>{0} a vindecat cu succes scaria lui {1}.</CureScaria.successfullyRemovedHediffMessage>
+  <CureScaria.successfullyRemovedHediffMessage>TODO</CureScaria.successfullyRemovedHediffMessage>
   
   <!-- EN: sterilize -->
-  <Sterilize.label>sterilizează</Sterilize.label>
+  <Sterilize.label>TODO</Sterilize.label>
   <!-- EN: Sterilize a creature so it can no longer reproduce. -->
-  <Sterilize.description>Sterilizează o creatură pentru ca aceasta să nu se mai poată reproduce.</Sterilize.description>
+  <Sterilize.description>TODO</Sterilize.description>
   <!-- EN: sterilizing TargetA. -->
-  <Sterilize.jobString>sterilizând TargetA.</Sterilize.jobString>
+  <Sterilize.jobString>TODO</Sterilize.jobString>
   <!-- EN: {0} has successfully sterilized {1}. -->
-  <Sterilize.successfullyRemovedHediffMessage>{0} a sterilizat cu succes {1}.</Sterilize.successfullyRemovedHediffMessage>
+  <Sterilize.successfullyRemovedHediffMessage>TODO</Sterilize.successfullyRemovedHediffMessage>
   
 </LanguageData>

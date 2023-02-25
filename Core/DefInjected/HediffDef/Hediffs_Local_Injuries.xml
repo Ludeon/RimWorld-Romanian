@@ -2,207 +2,211 @@
 <LanguageData>
   
   <!-- EN: bite -->
-  <Bite.label>mușcătură</Bite.label>
+  <Bite.label>TODO</Bite.label>
   <!-- EN: A bite wound. -->
-  <Bite.description>O rană prin mușcătură.</Bite.description>
+  <Bite.description>TODO</Bite.description>
   <!-- EN: bite scar -->
-  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de mușcătură</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Bitten off -->
-  <Bite.injuryProps.destroyedLabel>Mușcată</Bite.injuryProps.destroyedLabel>
+  <Bite.injuryProps.destroyedLabel>TODO</Bite.injuryProps.destroyedLabel>
   <!-- EN: Bitten out -->
-  <Bite.injuryProps.destroyedOutLabel>Mușcat</Bite.injuryProps.destroyedOutLabel>
+  <Bite.injuryProps.destroyedOutLabel>TODO</Bite.injuryProps.destroyedOutLabel>
   <!-- EN: a bite wound -->
-  <Bite.labelNoun>o rană provocată de o mușcătură</Bite.labelNoun>
+  <Bite.labelNoun>TODO</Bite.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bite.labelNounPretty>{0} în {1}</Bite.labelNounPretty>
+  <Bite.labelNounPretty>TODO</Bite.labelNounPretty>
   
   <!-- EN: bruise -->
-  <Bruise.label>vânătaie</Bruise.label>
+  <Bruise.label>TODO</Bruise.label>
   <!-- EN: A bruise. -->
-  <Bruise.description>O vânătaie.</Bruise.description>
+  <Bruise.description>TODO</Bruise.description>
   <!-- EN: a bruise -->
-  <Bruise.labelNoun>o vânătaie</Bruise.labelNoun>
+  <Bruise.labelNoun>TODO</Bruise.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Bruise.labelNounPretty>{0} în {1}</Bruise.labelNounPretty>
+  <Bruise.labelNounPretty>TODO</Bruise.labelNounPretty>
   
   <!-- EN: burn -->
-  <Burn.label>arsură</Burn.label>
+  <Burn.label>TODO</Burn.label>
   <!-- EN: A burn. -->
-  <Burn.description>O arsură.</Burn.description>
+  <Burn.description>TODO</Burn.description>
   <!-- EN: burn scar -->
-  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de arsură</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off -->
-  <Burn.injuryProps.destroyedLabel>Ars</Burn.injuryProps.destroyedLabel>
+  <Burn.injuryProps.destroyedLabel>TODO</Burn.injuryProps.destroyedLabel>
   <!-- EN: Burned out -->
-  <Burn.injuryProps.destroyedOutLabel>Arsă</Burn.injuryProps.destroyedOutLabel>
+  <Burn.injuryProps.destroyedOutLabel>TODO</Burn.injuryProps.destroyedOutLabel>
   <!-- EN: a burn -->
-  <Burn.labelNoun>o arsură</Burn.labelNoun>
+  <Burn.labelNoun>TODO</Burn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Burn.labelNounPretty>{0} în {1}</Burn.labelNounPretty>
+  <Burn.labelNounPretty>TODO</Burn.labelNounPretty>
   
   <!-- EN: chemical burn -->
-  <ChemicalBurn.label>arsură chimică</ChemicalBurn.label>
+  <ChemicalBurn.label>TODO</ChemicalBurn.label>
   <!-- EN: A chemical burn. -->
-  <ChemicalBurn.description>O arsură chimică.</ChemicalBurn.description>
+  <ChemicalBurn.description>TODO</ChemicalBurn.description>
   <!-- EN: chemical burn scar -->
-  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de arsură chimică</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>TODO</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Burned off (chemical) -->
-  <ChemicalBurn.injuryProps.destroyedLabel>Ars (chimic)</ChemicalBurn.injuryProps.destroyedLabel>
+  <ChemicalBurn.injuryProps.destroyedLabel>TODO</ChemicalBurn.injuryProps.destroyedLabel>
   <!-- EN: Burned out (chemical) -->
-  <ChemicalBurn.injuryProps.destroyedOutLabel>Ars (chimic)</ChemicalBurn.injuryProps.destroyedOutLabel>
+  <ChemicalBurn.injuryProps.destroyedOutLabel>TODO</ChemicalBurn.injuryProps.destroyedOutLabel>
   <!-- EN: a chemical burn -->
-  <ChemicalBurn.labelNoun>o arsură chimică</ChemicalBurn.labelNoun>
+  <ChemicalBurn.labelNoun>TODO</ChemicalBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <ChemicalBurn.labelNounPretty>{0} în {1}</ChemicalBurn.labelNounPretty>
+  <ChemicalBurn.labelNounPretty>TODO</ChemicalBurn.labelNounPretty>
   
   <!-- EN: crack -->
-  <Crack.label>fisură</Crack.label>
+  <Crack.label>TODO</Crack.label>
   <!-- EN: A crack. -->
-  <Crack.description>O fisură.</Crack.description>
+  <Crack.description>TODO</Crack.description>
   <!-- EN: permanent crack -->
-  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>fisură permanentă</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a crack wound -->
-  <Crack.labelNoun>o rană de fisură</Crack.labelNoun>
+  <Crack.labelNoun>TODO</Crack.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Crack.labelNounPretty>{0} în {1}</Crack.labelNounPretty>
+  <Crack.labelNounPretty>TODO</Crack.labelNounPretty>
   
   <!-- EN: crush -->
-  <Crush.label>zdrobire</Crush.label>
+  <Crush.label>TODO</Crush.label>
   <!-- EN: A crushing wound. -->
-  <Crush.description>O rană zdrobitoare.</Crush.description>
+  <Crush.description>TODO</Crush.description>
   <!-- EN: mangled scar -->
-  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice mutilată</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a crush wound -->
-  <Crush.labelNoun>o rană prin strivire</Crush.labelNoun>
+  <Crush.labelNoun>TODO</Crush.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Crush.labelNounPretty>{0} în {1}</Crush.labelNounPretty>
+  <Crush.labelNounPretty>TODO</Crush.labelNounPretty>
   
   <!-- EN: cut -->
-  <Cut.label>tăiat</Cut.label>
+  <Cut.label>TODO</Cut.label>
   <!-- EN: A cut. -->
-  <Cut.description>O tăietură.</Cut.description>
+  <Cut.description>TODO</Cut.description>
   <!-- EN: cut scar -->
-  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>tăietură cicatrice</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
-  <Cut.injuryProps.destroyedLabel>tăiat</Cut.injuryProps.destroyedLabel>
+  <Cut.injuryProps.destroyedLabel>TODO</Cut.injuryProps.destroyedLabel>
   <!-- EN: Cut out -->
-  <Cut.injuryProps.destroyedOutLabel>Tăiat</Cut.injuryProps.destroyedOutLabel>
+  <Cut.injuryProps.destroyedOutLabel>TODO</Cut.injuryProps.destroyedOutLabel>
   <!-- EN: a cut -->
-  <Cut.labelNoun>o tăietură</Cut.labelNoun>
+  <Cut.labelNoun>TODO</Cut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Cut.labelNounPretty>{0} în {1}</Cut.labelNounPretty>
+  <Cut.labelNounPretty>TODO</Cut.labelNounPretty>
   
   <!-- EN: cut -->
-  <ExecutionCut.label>tăiat</ExecutionCut.label>
+  <ExecutionCut.label>TODO</ExecutionCut.label>
   <!-- EN: A cut made during execution. -->
-  <ExecutionCut.description>O tăietură făcută în timpul execuției.</ExecutionCut.description>
+  <ExecutionCut.description>TODO</ExecutionCut.description>
+  <!-- EN: Cut off -->
+  <ExecutionCut.injuryProps.destroyedLabel>TODO</ExecutionCut.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <ExecutionCut.injuryProps.destroyedOutLabel>TODO</ExecutionCut.injuryProps.destroyedOutLabel>
   <!-- EN: a cut -->
-  <ExecutionCut.labelNoun>o tăietură</ExecutionCut.labelNoun>
+  <ExecutionCut.labelNoun>TODO</ExecutionCut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <ExecutionCut.labelNounPretty>{0} în {1}</ExecutionCut.labelNounPretty>
+  <ExecutionCut.labelNounPretty>TODO</ExecutionCut.labelNounPretty>
   
   <!-- EN: frostbite -->
-  <Frostbite.label>degerătură</Frostbite.label>
+  <Frostbite.label>TODO</Frostbite.label>
   <!-- EN: Frozen tissue caused by exposure to cold without adequate protection. Frostbite is very painful, and frostbitten body parts are often lost. -->
-  <Frostbite.description>Țesut înghețat cauzat de expunerea la frig fără o protecție adecvată. Degerăturile sunt foarte dureroase, iar părțile corpului degerate sunt adesea pierdute.</Frostbite.description>
+  <Frostbite.description>TODO</Frostbite.description>
   <!-- EN: frostbite scar -->
-  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de degerături</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Lost to frostbite -->
-  <Frostbite.injuryProps.destroyedLabel>Pierdut în urma degerăturilor</Frostbite.injuryProps.destroyedLabel>
+  <Frostbite.injuryProps.destroyedLabel>TODO</Frostbite.injuryProps.destroyedLabel>
   <!-- EN: {0} in the {1} -->
-  <Frostbite.labelNounPretty>{0} în {1}</Frostbite.labelNounPretty>
+  <Frostbite.labelNounPretty>TODO</Frostbite.labelNounPretty>
   
   <!-- EN: gunshot -->
-  <Gunshot.label>împușcătură</Gunshot.label>
+  <Gunshot.label>TODO</Gunshot.label>
   <!-- EN: A gunshot wound. -->
-  <Gunshot.description>O rană prin împușcare.</Gunshot.description>
+  <Gunshot.description>TODO</Gunshot.description>
   <!-- EN: permanent gunshot injury -->
-  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>rană permanentă prin împușcare</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>TODO</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
   <!-- EN: old gunshot -->
-  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>împușcătură veche</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Shot off -->
-  <Gunshot.injuryProps.destroyedLabel>Împușcat</Gunshot.injuryProps.destroyedLabel>
+  <Gunshot.injuryProps.destroyedLabel>TODO</Gunshot.injuryProps.destroyedLabel>
   <!-- EN: Shot out -->
-  <Gunshot.injuryProps.destroyedOutLabel>Împușcat afară</Gunshot.injuryProps.destroyedOutLabel>
+  <Gunshot.injuryProps.destroyedOutLabel>TODO</Gunshot.injuryProps.destroyedOutLabel>
   <!-- EN: a gunshot wound -->
-  <Gunshot.labelNoun>o rană prin împușcare</Gunshot.labelNoun>
+  <Gunshot.labelNoun>TODO</Gunshot.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Gunshot.labelNounPretty>{0} în {1}</Gunshot.labelNounPretty>
+  <Gunshot.labelNounPretty>TODO</Gunshot.labelNounPretty>
   
   <!-- EN: misc -->
-  <Misc.label>misc</Misc.label>
+  <Misc.label>TODO</Misc.label>
   <!-- EN: Miscellanous injuries. -->
-  <Misc.description>Răni diverse.</Misc.description>
+  <Misc.description>TODO</Misc.description>
   <!-- EN: scar -->
-  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: an injury -->
-  <Misc.labelNoun>o rană</Misc.labelNoun>
+  <Misc.labelNoun>TODO</Misc.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Misc.labelNounPretty>{0} în {1}</Misc.labelNounPretty>
+  <Misc.labelNounPretty>TODO</Misc.labelNounPretty>
   
   <!-- EN: missing body part -->
-  <MissingBodyPart.label>parte lipsă a corpului</MissingBodyPart.label>
+  <MissingBodyPart.label>TODO</MissingBodyPart.label>
   <!-- EN: A body part is entirely missing. -->
-  <MissingBodyPart.description>O parte a corpului lipsește cu desăvârșire.</MissingBodyPart.description>
+  <MissingBodyPart.description>TODO</MissingBodyPart.description>
   <!-- EN: a missing body part -->
-  <MissingBodyPart.labelNoun>o parte lipsă a corpului</MissingBodyPart.labelNoun>
+  <MissingBodyPart.labelNoun>TODO</MissingBodyPart.labelNoun>
   <!-- EN: missing a {1} -->
-  <MissingBodyPart.labelNounPretty>lipsește un {1}</MissingBodyPart.labelNounPretty>
+  <MissingBodyPart.labelNounPretty>TODO</MissingBodyPart.labelNounPretty>
   
   <!-- EN: scratch -->
-  <Scratch.label>zgârietură</Scratch.label>
+  <Scratch.label>TODO</Scratch.label>
   <!-- EN: A scratch or tear. -->
-  <Scratch.description>O zgârietură sau o ruptură.</Scratch.description>
+  <Scratch.description>TODO</Scratch.description>
   <!-- EN: scratch scar -->
-  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de zgârietură</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
-  <Scratch.injuryProps.destroyedLabel>Smuls</Scratch.injuryProps.destroyedLabel>
+  <Scratch.injuryProps.destroyedLabel>TODO</Scratch.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
-  <Scratch.injuryProps.destroyedOutLabel>Smuls</Scratch.injuryProps.destroyedOutLabel>
+  <Scratch.injuryProps.destroyedOutLabel>TODO</Scratch.injuryProps.destroyedOutLabel>
   <!-- EN: a scratch -->
-  <Scratch.labelNoun>o zgârietură</Scratch.labelNoun>
+  <Scratch.labelNoun>TODO</Scratch.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Scratch.labelNounPretty>{0} în {1}</Scratch.labelNounPretty>
+  <Scratch.labelNounPretty>TODO</Scratch.labelNounPretty>
   
   <!-- EN: shredded -->
-  <Shredded.label>mărunțită</Shredded.label>
+  <Shredded.label>TODO</Shredded.label>
   <!-- EN: A part of the body has been shredded and torn. -->
-  <Shredded.description>O parte a corpului a fost mărunțită și sfâșiată.</Shredded.description>
+  <Shredded.description>TODO</Shredded.description>
   <!-- EN: shredded scar -->
-  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice mărunțită</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Torn off -->
-  <Shredded.injuryProps.destroyedLabel>smuls</Shredded.injuryProps.destroyedLabel>
+  <Shredded.injuryProps.destroyedLabel>TODO</Shredded.injuryProps.destroyedLabel>
   <!-- EN: Torn out -->
-  <Shredded.injuryProps.destroyedOutLabel>Smuls</Shredded.injuryProps.destroyedOutLabel>
+  <Shredded.injuryProps.destroyedOutLabel>TODO</Shredded.injuryProps.destroyedOutLabel>
   <!-- EN: a shredded wound -->
-  <Shredded.labelNoun>o rană sfâșiată</Shredded.labelNoun>
+  <Shredded.labelNoun>TODO</Shredded.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Shredded.labelNounPretty>{0} în {1}</Shredded.labelNounPretty>
+  <Shredded.labelNounPretty>TODO</Shredded.labelNounPretty>
   
   <!-- EN: stab -->
-  <Stab.label>înjunghiere</Stab.label>
+  <Stab.label>TODO</Stab.label>
   <!-- EN: A stab wound. -->
-  <Stab.description>O rană prin înjunghiere.</Stab.description>
+  <Stab.description>TODO</Stab.description>
   <!-- EN: stab scar -->
-  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice de înjunghiere</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: Cut off -->
-  <Stab.injuryProps.destroyedLabel>Tăiat</Stab.injuryProps.destroyedLabel>
+  <Stab.injuryProps.destroyedLabel>TODO</Stab.injuryProps.destroyedLabel>
   <!-- EN: Cut out -->
-  <Stab.injuryProps.destroyedOutLabel>Tăiat</Stab.injuryProps.destroyedOutLabel>
+  <Stab.injuryProps.destroyedOutLabel>TODO</Stab.injuryProps.destroyedOutLabel>
   <!-- EN: a stab wound -->
-  <Stab.labelNoun>o rană prin înjunghiere</Stab.labelNoun>
+  <Stab.labelNoun>TODO</Stab.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Stab.labelNounPretty>{0} în {1}</Stab.labelNounPretty>
+  <Stab.labelNounPretty>TODO</Stab.labelNounPretty>
   
   <!-- EN: surgical cut -->
-  <SurgicalCut.label>tăietură chirurgicală</SurgicalCut.label>
+  <SurgicalCut.label>TODO</SurgicalCut.label>
   <!-- EN: A cut made during surgery. -->
-  <SurgicalCut.description>O tăietură făcută în timpul unei intervenții chirurgicale.</SurgicalCut.description>
+  <SurgicalCut.description>TODO</SurgicalCut.description>
   <!-- EN: surgical scar -->
-  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>cicatrice chirurgicală</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>TODO</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a surgical cut -->
-  <SurgicalCut.labelNoun>o tăietură chirurgicală</SurgicalCut.labelNoun>
+  <SurgicalCut.labelNoun>TODO</SurgicalCut.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <SurgicalCut.labelNounPretty>{0} în {1}</SurgicalCut.labelNounPretty>
+  <SurgicalCut.labelNounPretty>TODO</SurgicalCut.labelNounPretty>
   
 </LanguageData>

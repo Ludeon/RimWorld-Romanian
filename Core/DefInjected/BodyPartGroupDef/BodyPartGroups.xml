@@ -2,115 +2,115 @@
 <LanguageData>
   
   <!-- EN: arms -->
-  <Arms.label>brațe</Arms.label>
+  <Arms.label>TODO</Arms.label>
   
   <!-- EN: beak -->
-  <Beak.label>cioc</Beak.label>
+  <Beak.label>TODO</Beak.label>
   
   <!-- EN: eyes -->
-  <Eyes.label>ochi</Eyes.label>
+  <Eyes.label>TODO</Eyes.label>
   
   <!-- EN: feet -->
-  <Feet.label>tălpi</Feet.label>
+  <Feet.label>TODO</Feet.label>
   
   <!-- EN: front left claws -->
-  <FrontLeftClaws.label>gheare stângi frontale</FrontLeftClaws.label>
+  <FrontLeftClaws.label>TODO</FrontLeftClaws.label>
   <!-- EN: claws -->
-  <FrontLeftClaws.labelShort>gheare</FrontLeftClaws.labelShort>
+  <FrontLeftClaws.labelShort>TODO</FrontLeftClaws.labelShort>
   
   <!-- EN: front left leg -->
-  <FrontLeftLeg.label>piciorul stâng frontal</FrontLeftLeg.label>
+  <FrontLeftLeg.label>TODO</FrontLeftLeg.label>
   <!-- EN: leg -->
-  <FrontLeftLeg.labelShort>picior</FrontLeftLeg.labelShort>
+  <FrontLeftLeg.labelShort>TODO</FrontLeftLeg.labelShort>
   
   <!-- EN: front left paw -->
-  <FrontLeftPaw.label>laba stângă frontală</FrontLeftPaw.label>
+  <FrontLeftPaw.label>TODO</FrontLeftPaw.label>
   <!-- EN: paw -->
-  <FrontLeftPaw.labelShort>labă</FrontLeftPaw.labelShort>
+  <FrontLeftPaw.labelShort>TODO</FrontLeftPaw.labelShort>
   
   <!-- EN: front right claws -->
-  <FrontRightClaws.label>gheare drepte frontale</FrontRightClaws.label>
+  <FrontRightClaws.label>TODO</FrontRightClaws.label>
   <!-- EN: claws -->
-  <FrontRightClaws.labelShort>gheare</FrontRightClaws.labelShort>
+  <FrontRightClaws.labelShort>TODO</FrontRightClaws.labelShort>
   
   <!-- EN: front right leg -->
-  <FrontRightLeg.label>piciorul drept frontal</FrontRightLeg.label>
+  <FrontRightLeg.label>TODO</FrontRightLeg.label>
   <!-- EN: leg -->
-  <FrontRightLeg.labelShort>picior</FrontRightLeg.labelShort>
+  <FrontRightLeg.labelShort>TODO</FrontRightLeg.labelShort>
   
   <!-- EN: front right paw -->
-  <FrontRightPaw.label>laba dreaptă frontală</FrontRightPaw.label>
+  <FrontRightPaw.label>TODO</FrontRightPaw.label>
   <!-- EN: paw -->
-  <FrontRightPaw.labelShort>labă</FrontRightPaw.labelShort>
+  <FrontRightPaw.labelShort>TODO</FrontRightPaw.labelShort>
   
   <!-- EN: full head -->
-  <FullHead.label>tot capul</FullHead.label>
+  <FullHead.label>TODO</FullHead.label>
   
   <!-- EN: hands -->
-  <Hands.label>mâini</Hands.label>
+  <Hands.label>TODO</Hands.label>
   
   <!-- EN: head -->
-  <HeadAttackTool.label>cap</HeadAttackTool.label>
+  <HeadAttackTool.label>TODO</HeadAttackTool.label>
   
   <!-- EN: claw -->
-  <HeadClaw.label>gheară</HeadClaw.label>
+  <HeadClaw.label>TODO</HeadClaw.label>
   
   <!-- EN: horn -->
-  <HornAttackTool.label>corn</HornAttackTool.label>
+  <HornAttackTool.label>TODO</HornAttackTool.label>
   
   <!-- EN: left blade -->
-  <LeftBlade.label>lama stângă</LeftBlade.label>
+  <LeftBlade.label>TODO</LeftBlade.label>
   <!-- EN: blade -->
-  <LeftBlade.labelShort>lamă</LeftBlade.labelShort>
+  <LeftBlade.labelShort>TODO</LeftBlade.labelShort>
   
   <!-- EN: left fist -->
-  <LeftHand.label>pumnul stâng</LeftHand.label>
+  <LeftHand.label>TODO</LeftHand.label>
   <!-- EN: fist -->
-  <LeftHand.labelShort>pumn</LeftHand.labelShort>
+  <LeftHand.labelShort>TODO</LeftHand.labelShort>
   
   <!-- EN: legs -->
-  <Legs.label>picioare</Legs.label>
+  <Legs.label>TODO</Legs.label>
   
   <!-- EN: middle finger -->
-  <MiddleFingers.label>deget mijlociu</MiddleFingers.label>
+  <MiddleFingers.label>TODO</MiddleFingers.label>
   <!-- EN: finger -->
-  <MiddleFingers.labelShort>deget</MiddleFingers.labelShort>
+  <MiddleFingers.labelShort>TODO</MiddleFingers.labelShort>
   
   <!-- EN: mouth -->
-  <Mouth.label>gură</Mouth.label>
+  <Mouth.label>TODO</Mouth.label>
   
   <!-- EN: neck -->
-  <Neck.label>gât</Neck.label>
+  <Neck.label>TODO</Neck.label>
   
   <!-- EN: right blade -->
-  <RightBlade.label>lama dreaptă</RightBlade.label>
+  <RightBlade.label>TODO</RightBlade.label>
   <!-- EN: blade -->
-  <RightBlade.labelShort>lamă</RightBlade.labelShort>
+  <RightBlade.labelShort>TODO</RightBlade.labelShort>
   
   <!-- EN: right fist -->
-  <RightHand.label>pumnul drept</RightHand.label>
+  <RightHand.label>TODO</RightHand.label>
   <!-- EN: fist -->
-  <RightHand.labelShort>pumn</RightHand.labelShort>
+  <RightHand.labelShort>TODO</RightHand.labelShort>
   
   <!-- EN: shoulders -->
-  <Shoulders.label>umeri</Shoulders.label>
+  <Shoulders.label>TODO</Shoulders.label>
   
   <!-- EN: teeth -->
-  <Teeth.label>dinți</Teeth.label>
+  <Teeth.label>TODO</Teeth.label>
   
   <!-- EN: torso -->
-  <Torso.label>piept</Torso.label>
+  <Torso.label>TODO</Torso.label>
   
   <!-- EN: beak -->
-  <TurtleBeakAttackTool.label>cioc</TurtleBeakAttackTool.label>
+  <TurtleBeakAttackTool.label>TODO</TurtleBeakAttackTool.label>
   
   <!-- EN: tusks -->
-  <TuskAttackTool.label>colț</TuskAttackTool.label>
+  <TuskAttackTool.label>TODO</TuskAttackTool.label>
   
   <!-- EN: upper head -->
-  <UpperHead.label>creștetul capului</UpperHead.label>
+  <UpperHead.label>TODO</UpperHead.label>
   
   <!-- EN: utility slot -->
-  <Waist.label>slot de utilitate</Waist.label>
+  <Waist.label>TODO</Waist.label>
   
 </LanguageData>

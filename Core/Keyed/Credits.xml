@@ -2,56 +2,41 @@
 <LanguageData>
 
   <!-- EN: A story generator by Tynan Sylvester -->
-  <MainPageCredit>Un generator de povești creat de Tynan Sylvester</MainPageCredit>
+  <MainPageCredit>TODO</MainPageCredit>
 
-  <!-- EN: Developers -->
-  <Credits_Developers>Dezvoltatori</Credits_Developers>
+  <!-- EN: Engineering -->
+  <Credits_Developers>TODO</Credits_Developers>
   <!-- EN: Audio -->
-  <Credit_MusicAndSound>Audio</Credit_MusicAndSound>
-  <!-- EN: Code -->
-  <Credit_Code>Cod</Credit_Code>
+  <Credit_MusicAndSound>TODO</Credit_MusicAndSound>
   <!-- EN: Art -->
-  <Credit_GameArt>Artă</Credit_GameArt>
+  <Credit_GameArt>TODO</Credit_GameArt>
   <!-- EN: Menu art -->
-  <Credit_MenuArt>Artă meniu</Credit_MenuArt>
-  <!-- EN: Additional code -->
-  <Credit_AdditionalCode>Cod adițional</Credit_AdditionalCode>
-  
-  <!-- EN: Additional development -->
-  <Credits_AdditionalDevelopment>Dezvoltare adițională</Credits_AdditionalDevelopment>
-
-  <!-- EN: Special thanks -->
-  <Credit_SpecialThanks>Mulțumiri deosebite</Credit_SpecialThanks>
-
+  <Credit_MenuArt>TODO</Credit_MenuArt>
+  <!-- EN: Additional engineering -->
+  <Credits_AdditionalDevelopment>TODO</Credits_AdditionalDevelopment>
   <!-- EN: Community volunteers -->
-  <Credits_TitleCommunity>Voluntari ai comunității</Credits_TitleCommunity>
+  <Credits_TitleCommunity>TODO</Credits_TitleCommunity>
   <!-- EN: Community testers -->
-  <Credits_TitleTester>Testeri ai comunității</Credits_TitleTester>
+  <Credits_TitleTester>TODO</Credits_TitleTester>
   <!-- EN: Mods -->
-  <Credits_TitleMods>Mod-uri</Credits_TitleMods>
+  <Credits_TitleMods>TODO</Credits_TitleMods>
   <!-- EN: Mod donor -->
-  <Credit_ModDonation>Donator de moduri</Credit_ModDonation>
+  <Credit_ModDonation>TODO</Credit_ModDonation>
   <!-- EN: Writing donor -->
-  <Credit_WritingDonation>Donator de scrieri</Credit_WritingDonation>
+  <Credit_WritingDonation>TODO</Credit_WritingDonation>
   <!-- EN: Moderator -->
-  <Credit_Moderator>Moderator</Credit_Moderator>
+  <Credit_Moderator>TODO</Credit_Moderator>
   <!-- EN: Wiki master -->
-  <Credit_WikiMaster>Maistru al wikiului</Credit_WikiMaster>
+  <Credit_WikiMaster>TODO</Credit_WikiMaster>
   <!-- EN: Test lead -->
-  <Credit_TestLead>Lider de test</Credit_TestLead>
-
+  <Credit_TestLead>TODO</Credit_TestLead>
   <!-- EN: {0} language -->
-  <Credits_TitleLanguage>limba {0}</Credits_TitleLanguage>
-  <!-- EN: Writer -->
-  <Credit_Writer>Scriitor</Credit_Writer>
-  <!-- EN: Translator -->
-  <Credit_Translator>Traducător</Credit_Translator>
-  <!-- EN: Open source libraries -->
-  <Credit_OpenSourceLibraries>Biblioteci open source</Credit_OpenSourceLibraries>
-  <!-- EN: Noise generation -->
-  <Credit_NoiseGeneration>Generare zgomot</Credit_NoiseGeneration>
-
+  <Credits_TitleLanguage>TODO</Credits_TitleLanguage>
   <!-- EN: Thanks for playing! -->
-  <ThanksForPlaying>Vă mulțumim pentru că ați jucat!</ThanksForPlaying>
+  <ThanksForPlaying>TODO</ThanksForPlaying>
+
+  <!-- Currently unused -->
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>TODO</Credit_SpecialThanks>
 
 </LanguageData>

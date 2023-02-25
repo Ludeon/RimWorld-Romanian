@@ -7,24 +7,17 @@
     <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
     <li>pawnInvolvedInQuestInfo-></li>
   -->
-  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
-    <li>questDescription(askerIsNull==true)->[refugee_nameDef] vă contactează și vă cere ajutorul. [refugee_pronoun] este rănit și nu se poate deplasa.\n\n [refugee_nameDef] este un [refugee_title] în vârstă de [refugee_age]. [refugee_pronoun] promite să ți se alăture dacă-l salvați pe [refugee_objective].\n\n[refugee_nameDef] spune că [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
-    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] din [asker_faction_name], spune că prietenul [asker_possessive] a fost rănit în timpul călătoriei. Victima este [refugee_nameIndef], un refugiat în vârstă de [refugee_age] ani.\n\n[asker_nameDef] nu are pe nimeni de rezervă pentru a-l salva pe [refugee_nameDef], dar spune că dacă puteți ajunge până la poziția lui [refugee_nameDef] și îl salvați pe [refugee_pronoun], [refugee_pronoun] se va alătura vouă. \n\n[asker_nameDef] spune că [allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
-    <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
-    <li>pawnInvolvedInQuestInfo-></li>
-  </OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>TODO</OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Saving [refugee_nameDef]</li>
     <li>questName->The Rescue of [refugee_nameDef]</li>
     <li>questName->[refugee_nameDef]'s Rescue</li>
     <li>questName->[refugee_nameDef]'s Salvation</li>
   -->
-  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
-    <li>questName->Salvarea lui [refugee_nameDef]</li>
-  </OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>TODO</OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>Misiune expirată: [resolvedQuestName]</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
   <!-- EN: [refugee_nameDef]'s signal has been lost, and [refugee_pronoun] can no longer be rescued. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>Semnalul lui [refugee_nameDef] a fost pierdut, iar [refugee_pronoun] nu mai poate fi salvat. Căutarea [resolvedQuestName] a expirat.</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

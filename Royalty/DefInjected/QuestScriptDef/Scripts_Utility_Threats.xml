@@ -4,33 +4,23 @@
   <!-- EN:
     <li>threatDescription->[gameConditionDescriptionFuture].</li>
   -->
-  <Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
-    <li>threatDescription->[gameConditionDescriptionFuture].</li>
-  </Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
+  <Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>TODO</Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
   
   <!-- EN:
     <li>threatDescription->(*Threat)[hivesCount] insect hives(/Threat) will burrow up from underground.</li>
   -->
-  <Util_Infestation.questDescriptionRules.rulesStrings>
-    <li>threatDescription->(*Threat)[hivesCount] stupi de insecte(/Threat) vor ieși din subteran.</li>
-  </Util_Infestation.questDescriptionRules.rulesStrings>
+  <Util_Infestation.questDescriptionRules.rulesStrings>TODO</Util_Infestation.questDescriptionRules.rulesStrings>
   
   <!-- EN:
     <li>threatDescription->a pack of (*Threat)[animalCount] manhunting [animalKind_labelPlural](/Threat) will arrive.</li>
   -->
-  <Util_ManhunterPack.questDescriptionRules.rulesStrings>
-    <li>threatDescription->o haită de (*Threat)[animalCount] [animalKind_labelPlural](/Threat) vânători de oameni va sosi.</li>
-  </Util_ManhunterPack.questDescriptionRules.rulesStrings>
+  <Util_ManhunterPack.questDescriptionRules.rulesStrings>TODO</Util_ManhunterPack.questDescriptionRules.rulesStrings>
   
   <!-- EN:
     <li>threatDescription->a new site will appear nearby, where [allSitePartsDescriptions] This threat will remain until you go destroy it.</li>
     <li>defaultSiteAppearedLetterText->A new site has appeared nearby.\n\n[allSitePartsDescriptions]</li>
     <li>defaultSiteAppearedLetterLabel->Site appeared: [site_label]</li>
   -->
-  <Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
-    <li>threatDescription->un nou sit va apărea în apropiere, unde [allSitePartsDescriptions] Această amenințare va rămâne până când o veți distruge.</li>
-    <li>defaultSiteAppearedLetterText->Un nou sit a apărut în apropiere.\n\n[allSitePartsDescriptions]</li>
-    <li>defaultSiteAppearedLetterLabel->A apărut un sit: [site_label]</li>
-  </Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
+  <Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>TODO</Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
   
 </LanguageData>

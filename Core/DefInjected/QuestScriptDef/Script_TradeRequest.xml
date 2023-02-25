@@ -6,11 +6,7 @@
     <li>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </li>
     <li>qualityInfo-></li>
   -->
-  <TradeRequest.questDescriptionRules.rulesStrings>
-    <li>questDescription->O așezare din apropiere, [settlement_label], are o cerere comercială specială. Ar dori să achiziționeze:\n\n [requestedThingCount]x [requestedThing_label] [qualityInfo](în valoare de [requestedThingMarketValue_money])\n\nDacă doriți să faceți schimbul, trimiteți o caravană cu obiectele solicitate. Durata estimată a călătoriei este [estimatedTravelTime_duration].</li>
-    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->de calitate normal+ </li>
-    <li>qualityInfo-></li>
-  </TradeRequest.questDescriptionRules.rulesStrings>
+  <TradeRequest.questDescriptionRules.rulesStrings>TODO</TradeRequest.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Caravan to [settlement_label]</li>
     <li>questName->Trade with [settlement_label]</li>
@@ -25,27 +21,14 @@
     <li>trade->Deal</li>
     <li>trade->Offer</li>
   -->
-  <TradeRequest.questNameRules.rulesStrings>
-    <li>questName->Caravană către [settlement_label]</li>
-    <li>questName->Negoț cu [settlement_label]</li>
-    <li>questName->Vânzare către [settlement_label]</li>
-    <li>questName->Provizii pentru [settlement_label]</li>
-    <li>questName->[trade] [special]</li>
-    <li>special->Special</li>
-    <li>special->Unic</li>
-    <li>special->Non-tradițional</li>
-    <li>trade->Un comerț</li>
-    <li>trade->Un schimb</li>
-    <li>trade->O afacere</li>
-    <li>trade->O ofertă</li>
-  </TradeRequest.questNameRules.rulesStrings>
+  <TradeRequest.questNameRules.rulesStrings>TODO</TradeRequest.questNameRules.rulesStrings>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <TradeRequest.LetterLabelQuestFailed.slateRef>Misiune eșuată: [resolvedQuestName]</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <TradeRequest.LetterLabelQuestFailed.slateRef>TODO</TradeRequest.LetterLabelQuestFailed.slateRef>
   <!-- EN: [faction_name] became hostile to you. -->
-  <TradeRequest.LetterTextQuestFailed.slateRef>[faction_name] ți-a devenit ostil.</TradeRequest.LetterTextQuestFailed.slateRef>
+  <TradeRequest.LetterTextQuestFailed.slateRef>TODO</TradeRequest.LetterTextQuestFailed.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
-  <TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
+  <TradeRequest.LetterLabelFavorReceiver.slateRef>TODO</TradeRequest.LetterLabelFavorReceiver.slateRef>
   <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
-  <TradeRequest.LetterTextFavorReceiver.slateRef>Cine ar trebui să fie creditat cu [asker_faction_royalFavorLabel] pentru îndeplinirea cererii de comerț?</TradeRequest.LetterTextFavorReceiver.slateRef>
+  <TradeRequest.LetterTextFavorReceiver.slateRef>TODO</TradeRequest.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

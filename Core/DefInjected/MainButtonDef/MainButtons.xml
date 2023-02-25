@@ -2,66 +2,66 @@
 <LanguageData>
   
   <!-- EN: animals -->
-  <Animals.label>animale</Animals.label>
+  <Animals.label>TODO</Animals.label>
   <!-- EN: Configure how the colony's tame animals should be treated. -->
-  <Animals.description>Configurați modul în care trebuie tratate animalele îmblânzite ale coloniei.</Animals.description>
+  <Animals.description>TODO</Animals.description>
   
   <!-- EN: architect -->
-  <Architect.label>arhitect</Architect.label>
+  <Architect.label>TODO</Architect.label>
   <!-- EN: Designate where to build, farm, store items, and so on. -->
-  <Architect.description>Desemnează locul unde se construiește, se cultivă, se depozitează obiecte și așa mai departe.</Architect.description>
+  <Architect.description>TODO</Architect.description>
   
   <!-- EN: assign -->
-  <Assign.label>asignare</Assign.label>
+  <Assign.label>TODO</Assign.label>
   <!-- EN: Assign behaviors to colonists like what they should wear, what drugs to take, or how to respond to enemies. -->
-  <Assign.description>Atribuiți comportamente coloniștilor, cum ar fi ce ar trebui să poarte, ce medicamente să ia sau cum să reacționeze în fața dușmanilor.</Assign.description>
+  <Assign.description>TODO</Assign.description>
   
   <!-- EN: factions -->
-  <Factions.label>facțiuni</Factions.label>
+  <Factions.label>TODO</Factions.label>
   <!-- EN: Review the other factions on this world and their relationships. -->
-  <Factions.description>Revizuiți celelalte facțiuni de pe această lume și relațiile dintre ele.</Factions.description>
+  <Factions.description>TODO</Factions.description>
   
   <!-- EN: history -->
-  <History.label>istorie</History.label>
+  <History.label>TODO</History.label>
   <!-- EN: Review historical records. -->
-  <History.description>Revizuiți înregistrările istorice.</History.description>
+  <History.description>TODO</History.description>
   
   <!-- EN: inspect -->
-  <Inspect.label>inspecție</Inspect.label>
+  <Inspect.label>TODO</Inspect.label>
   
   <!-- EN: menu -->
-  <Menu.label>meniu</Menu.label>
+  <Menu.label>TODO</Menu.label>
   <!-- EN: Change options, save, load, or quit the game. -->
-  <Menu.description>Schimbă opțiunile, salvează, încarcă sau părăsește jocul.</Menu.description>
+  <Menu.description>TODO</Menu.description>
   
   <!-- EN: quests -->
-  <Quests.label>misiuni</Quests.label>
+  <Quests.label>TODO</Quests.label>
   <!-- EN: View available, active, and historical quests. -->
-  <Quests.description>Vizualizați misiunile disponibile, active și istorice.</Quests.description>
+  <Quests.description>TODO</Quests.description>
   
   <!-- EN: research -->
-  <Research.label>cercetare</Research.label>
+  <Research.label>TODO</Research.label>
   <!-- EN: Examine and decide on research projects. -->
-  <Research.description>Examinați și decideți asupra proiectelor de cercetare.</Research.description>
+  <Research.description>TODO</Research.description>
   
   <!-- EN: schedule -->
-  <Schedule.label>orar</Schedule.label>
+  <Schedule.label>TODO</Schedule.label>
   <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
-  <Schedule.description>Programează activitățile coloniștilor la anumite ore din zi și stabilește zonele permise acestora.</Schedule.description>
+  <Schedule.description>TODO</Schedule.description>
   
   <!-- EN: wildlife -->
-  <Wildlife.label>fauna sălbatică</Wildlife.label>
+  <Wildlife.label>TODO</Wildlife.label>
   <!-- EN: List wild animals in the area and designate them for hunting or taming. -->
-  <Wildlife.description>Enumerați animalele sălbatice din zonă și desemnați-le pentru vânătoare sau îmblânzire.</Wildlife.description>
+  <Wildlife.description>TODO</Wildlife.description>
   
   <!-- EN: work -->
-  <Work.label>muncă</Work.label>
+  <Work.label>TODO</Work.label>
   <!-- EN: Choose which colonist does what kinds of work, and in what order. -->
-  <Work.description>Alegeți ce colonist face ce fel de muncă și în ce ordine.</Work.description>
+  <Work.description>TODO</Work.description>
   
   <!-- EN: world -->
-  <World.label>lume</World.label>
+  <World.label>TODO</World.label>
   <!-- EN: Examine the world map, form, and manage caravans. -->
-  <World.description>Examinați harta lumii, formați și gestionați caravane.</World.description>
+  <World.description>TODO</World.description>
   
 </LanguageData>

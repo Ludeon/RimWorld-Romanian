@@ -2,96 +2,94 @@
 <LanguageData>
   
   <!-- EN: alphabeavers -->
-  <Alphabeavers.label>alfacastori</Alphabeavers.label>
+  <Alphabeavers.label>TODO</Alphabeavers.label>
   
   <!-- EN: ambrosia sprout -->
-  <AmbrosiaSprout.label>muguri de ambrozie</AmbrosiaSprout.label>
+  <AmbrosiaSprout.label>TODO</AmbrosiaSprout.label>
   <!-- EN: Ambrosia sprout -->
-  <AmbrosiaSprout.letterLabel>Muguri de ambrozie</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterLabel>TODO</AmbrosiaSprout.letterLabel>
   <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
-  <AmbrosiaSprout.letterText>O livadă a misteriosului arbust de ambrozie a răsărit în apropiere! Dacă așteptați ca plantele să crească, veți putea recolta fructul delicios, plăcut și ușor adictiv.</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterText>TODO</AmbrosiaSprout.letterText>
   
   <!-- EN: cold snap -->
-  <ColdSnap.label>șoc rece</ColdSnap.label>
+  <ColdSnap.label>TODO</ColdSnap.label>
   <!-- EN: Cold snap -->
-  <ColdSnap.letterLabel>șoc rece</ColdSnap.letterLabel>
+  <ColdSnap.letterLabel>TODO</ColdSnap.letterLabel>
   
   <!-- EN: crop blight -->
-  <CropBlight.label>molimă a culturilor</CropBlight.label>
+  <CropBlight.label>TODO</CropBlight.label>
   
   <!-- EN: farm animals wander in -->
-  <FarmAnimalsWanderIn.label>animale de fermă se plimbă în</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.label>TODO</FarmAnimalsWanderIn.label>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>furtună fulgerătoare</Flashstorm.label>
+  <Flashstorm.label>TODO</Flashstorm.label>
   <!-- EN: Flashstorm -->
-  <Flashstorm.letterLabel>furtună fulgerătoare</Flashstorm.letterLabel>
+  <Flashstorm.letterLabel>TODO</Flashstorm.letterLabel>
   
   <!-- EN: heat wave -->
-  <HeatWave.label>val de căldură</HeatWave.label>
+  <HeatWave.label>TODO</HeatWave.label>
   <!-- EN: Heat wave -->
-  <HeatWave.letterLabel>Val de căldură</HeatWave.letterLabel>
+  <HeatWave.letterLabel>TODO</HeatWave.letterLabel>
   
   <!-- EN: herd migration -->
-  <HerdMigration.label>migrația turmelor</HerdMigration.label>
+  <HerdMigration.label>TODO</HerdMigration.label>
   <!-- EN: Animal migration: {0} -->
-  <HerdMigration.letterLabel>Migrația animalelor: {0}</HerdMigration.letterLabel>
+  <HerdMigration.letterLabel>TODO</HerdMigration.letterLabel>
   <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
-  <HerdMigration.letterText>Un grup de {0} trece prin zonă. Nu vor ataca decât dacă sunt provocați.</HerdMigration.letterText>
+  <HerdMigration.letterText>TODO</HerdMigration.letterText>
   
   <!-- EN: meteorite impact -->
-  <MeteoriteImpact.label>impact de meteorit</MeteoriteImpact.label>
+  <MeteoriteImpact.label>TODO</MeteoriteImpact.label>
   <!-- EN: Meteorite -->
-  <MeteoriteImpact.letterLabel>Meteorit</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterLabel>TODO</MeteoriteImpact.letterLabel>
   <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
-  <MeteoriteImpact.letterText>Un meteorit de mari dimensiuni a lovit solul din zonă. Acesta a lăsat în urmă o bucată de {0}.</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterText>TODO</MeteoriteImpact.letterText>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>dronă psihică</PsychicDrone.label>
+  <PsychicDrone.label>TODO</PsychicDrone.label>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>calmare psihică</PsychicSoothe.label>
+  <PsychicSoothe.label>TODO</PsychicSoothe.label>
   
   <!-- EN: ransom demand -->
-  <RansomDemand.label>cerere de răscumpărare</RansomDemand.label>
+  <RansomDemand.label>TODO</RansomDemand.label>
   <!-- EN: Ransom demand -->
-  <RansomDemand.letterLabel>cerere de răscumpărare</RansomDemand.letterLabel>
+  <RansomDemand.letterLabel>TODO</RansomDemand.letterLabel>
   
   <!-- EN: transport pod crash -->
-  <RefugeePodCrash.label>accident de transport în capsulă</RefugeePodCrash.label>
+  <RefugeePodCrash.label>TODO</RefugeePodCrash.label>
   
   <!-- EN: resource pod crash -->
-  <ResourcePodCrash.label>prăbușire de capsulă de resurse</ResourcePodCrash.label>
+  <ResourcePodCrash.label>TODO</ResourcePodCrash.label>
   
   <!-- EN: self-tame -->
-  <SelfTame.label>auto-îmblânzire</SelfTame.label>
+  <SelfTame.label>TODO</SelfTame.label>
   
   <!-- EN: short circuit -->
-  <ShortCircuit.label>scurtcircuit</ShortCircuit.label>
+  <ShortCircuit.label>TODO</ShortCircuit.label>
   
   <!-- EN: thrumbos pass -->
-  <ThrumboPasses.label>trec thrumbos</ThrumboPasses.label>
+  <ThrumboPasses.label>TODO</ThrumboPasses.label>
   
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>precipitații toxice</ToxicFallout.label>
+  <ToxicFallout.label>TODO</ToxicFallout.label>
   <!-- EN: Toxic fallout -->
-  <ToxicFallout.letterLabel>Precipitații toxice</ToxicFallout.letterLabel>
+  <ToxicFallout.letterLabel>TODO</ToxicFallout.letterLabel>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>iarnă vulcanică</VolcanicWinter.label>
+  <VolcanicWinter.label>TODO</VolcanicWinter.label>
   <!-- EN: Volcanic winter -->
-  <VolcanicWinter.letterLabel>Iarnă vulcanică</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterLabel>TODO</VolcanicWinter.letterLabel>
   
   <!-- EN: wanderer join -->
-  <WandererJoin.label>se alătură un rătăcitor</WandererJoin.label>
-  <WandererJoin.letterLabel>Un rătăcitor se alătură: {PAWN_nameDef}</WandererJoin.letterLabel>
-  <WandererJoin.letterText>{PAWN_gender ? Un {PAWN_title} pe nume {PAWN_nameDef} a sosit și se alătură coloniei.\n\nEste dispus să contribuie, dar nu va pleca de bună voie. Dacă nu-l vreți pe {PAWN_nameDef}, îl puteți alunga, îl puteți vinde ca sclav sau pur și simplu îl puteți ucide. Cu toate acestea, ceilalți coloniști ar putea găsi acest lucru deranjant. : O {PAWN_titleFemale} pe nume {PAWN_nameDef} a sosit și se alătură coloniei.\n\nEste dispusă să contribuie, dar nu va pleca de bunăvoie. Dacă nu o vreți pe {PAWN_nameDef}, o puteți alunga, o puteți vinde ca sclavă sau pur și simplu o puteți ucide. Cu toate acestea, ceilalți coloniști ar putea găsi acest lucru deranjant.}</WandererJoin.letterText>
+  <WandererJoin.label>TODO</WandererJoin.label>
   
   <!-- EN: wild man wanders in -->
-  <WildManWandersIn.label>un om sălbatic rătăcește prin zonă</WildManWandersIn.label>
-  <!-- EN: {PAWN_kind} wanders in -->
-  <WildManWandersIn.letterLabel>{PAWN_kind} rătăcește prin apropiere</WildManWandersIn.letterLabel>
-  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
-  <WildManWandersIn.letterText>O persoană care trăiește printre animalele sălbatice s-a rătăcit în zonă. {PAWN_pronoun} se numește {0}.\n\nPuteți încerca să îmblânziți sau să arestați pe {PAWN_objective}.</WildManWandersIn.letterText>
+  <WildManWandersIn.label>TODO</WildManWandersIn.label>
+  <!-- EN: {0} wanders in -->
+  <WildManWandersIn.letterLabel>TODO</WildManWandersIn.letterLabel>
+  <!-- EN: A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
+  <WildManWandersIn.letterText>TODO</WildManWandersIn.letterText>
   
 </LanguageData>

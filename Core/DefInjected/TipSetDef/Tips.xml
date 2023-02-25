@@ -2,154 +2,156 @@
 <LanguageData>
   
   <!-- EN: You can dismiss letters by right-clicking on them. -->
-  <GameplayTips.DismissLetters>Puteți respinge scrisorile făcând clic dreapta pe ele.</GameplayTips.DismissLetters>
+  <GameplayTips.DismissLetters>TODO</GameplayTips.DismissLetters>
   <!-- EN: You can hold the shift key to queue orders on your colonists. -->
-  <GameplayTips.QueueOrders>Puteți ține apăsată tasta Shift pentru a pune în coadă ordinele pentru coloniștii dumneavoastră.</GameplayTips.QueueOrders>
+  <GameplayTips.QueueOrders>TODO</GameplayTips.QueueOrders>
   <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
-  <GameplayTips.ReorderColonistbar>Puteți face clic dreapta și trage pentru a reordona coloniștii pe bara de coloniști.</GameplayTips.ReorderColonistbar>
+  <GameplayTips.ReorderColonistbar>TODO</GameplayTips.ReorderColonistbar>
   <!-- EN: You can select previous/next colonist with the , and . keys. -->
-  <GameplayTips.SelectPrevNextColonist>Puteți selecta colonistul anterior/ următor cu tastele , și .</GameplayTips.SelectPrevNextColonist>
+  <GameplayTips.SelectPrevNextColonist>TODO</GameplayTips.SelectPrevNextColonist>
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
-  <GameplayTips.SettingPainting>Multe meniuri vă permit să faceți clic și să trageți o setare pentru a o "picta" peste mai multe intrări. Acest lucru funcționează chiar și pentru lucruri precum ținutele sau restricțiile alimentare.</GameplayTips.SettingPainting>
+  <GameplayTips.SettingPainting>TODO</GameplayTips.SettingPainting>
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
-  <GameplayTips.ManualPriorities>În modul de priorități manuale din fila de lucru, 1 este prima prioritate, în timp ce 4 este ultima prioritate.</GameplayTips.ManualPriorities>
+  <GameplayTips.ManualPriorities>TODO</GameplayTips.ManualPriorities>
   <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
-  <GameplayTips.ColonistMood>Dispoziția fiecărui colonist este afișată pe fundalul pictogramei sale în bara colonistului din partea de sus a ecranului.</GameplayTips.ColonistMood>
+  <GameplayTips.ColonistMood>TODO</GameplayTips.ColonistMood>
   <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
-  <GameplayTips.WorkTabChangeAllColonists>Făcând Shift-clic pe numele unui tip de muncă din fila Muncă, se schimbă setările pentru toți coloniștii deodată.</GameplayTips.WorkTabChangeAllColonists>
+  <GameplayTips.WorkTabChangeAllColonists>TODO</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
-  <GameplayTips.WorkTabDecreasePriority>Dacă faceți clic dreapta pe un număr din fila Muncă folosind priorități manuale, prioritatea va fi redusă în loc să fie mărită.</GameplayTips.WorkTabDecreasePriority>
+  <GameplayTips.WorkTabDecreasePriority>TODO</GameplayTips.WorkTabDecreasePriority>
+  <!-- EN: You can hold the alt key to show detailed information about a specific tile. -->
+  <GameplayTips.CellInspector>TODO</GameplayTips.CellInspector>
   <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
-  <GameplayTips.GunfightCover>Într-un schimb de focuri de armă, fiți întotdeauna la adăpost! Faceți clic dreapta și trageți pentru ca luptătorii dumneavoastră să formeze o linie.</GameplayTips.GunfightCover>
+  <GameplayTips.GunfightCover>TODO</GameplayTips.GunfightCover>
   <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
-  <GameplayTips.GunfightSpread>Faceți clic dreapta și trageți pentru ca luptătorii recrutați să formeze o linie. Țintele grupate sunt ușor de lovit!</GameplayTips.GunfightSpread>
+  <GameplayTips.GunfightSpread>TODO</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
-  <GameplayTips.ShootingAccuracySmoke>Fumul împiedică total turelele să detecteze țintele, dar oamenii pot trage în continuare cu o precizie redusă.</GameplayTips.ShootingAccuracySmoke>
+  <GameplayTips.ShootingAccuracySmoke>TODO</GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
-  <GameplayTips.DesignDefenses>Atunci când proiectați apărări, presupuneți că inamicii vor intra înăuntru folosind capsule de lansare sau tuneluri. Construiți poziții defensive interne.</GameplayTips.DesignDefenses>
+  <GameplayTips.DesignDefenses>TODO</GameplayTips.DesignDefenses>
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
-  <GameplayTips.ShootingAccuracyFogRain>Vremea cețoasă sau ploioasă reduce precizia armelor de distanță.</GameplayTips.ShootingAccuracyFogRain>
+  <GameplayTips.ShootingAccuracyFogRain>TODO</GameplayTips.ShootingAccuracyFogRain>
   <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
-  <GameplayTips.ShootingTooltip>Puteți analiza șansele ca o lovitură să lovească selectând trăgătorul și plasând mouse-ul deasupra țintei.</GameplayTips.ShootingTooltip>
+  <GameplayTips.ShootingTooltip>TODO</GameplayTips.ShootingTooltip>
   <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
-  <GameplayTips.TurretsExplode>Turelele explodează atunci când primesc multe daune. Nu le puneți prea aproape una de alta și nu vă puneți oamenii prea aproape de ele.</GameplayTips.TurretsExplode>
+  <GameplayTips.TurretsExplode>TODO</GameplayTips.TurretsExplode>
   <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
-  <GameplayTips.AnimalDeathExplosion>Unele animale explodează la moarte. Poți folosi capsulele de transport pentru a arunca animalele pe inamici. Gândiți-vă la asta.</GameplayTips.AnimalDeathExplosion>
+  <GameplayTips.AnimalDeathExplosion>TODO</GameplayTips.AnimalDeathExplosion>
   <!-- EN: If you need help in a fight, call your allies using the comms console. -->
-  <GameplayTips.CallAllies>Dacă aveți nevoie de ajutor într-o luptă, chemați-vă aliații folosind consola de comunicații.</GameplayTips.CallAllies>
+  <GameplayTips.CallAllies>TODO</GameplayTips.CallAllies>
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
-  <GameplayTips.MaddenedAnimals>Animalele înnebunite vor ataca orice om, inclusiv inamicii tăi. Puteți folosi acest lucru.</GameplayTips.MaddenedAnimals>
+  <GameplayTips.MaddenedAnimals>TODO</GameplayTips.MaddenedAnimals>
   <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
-  <GameplayTips.EMPDisablesTurretsShields>Rafalele EMP vor dezactiva temporar turelele și scuturile.</GameplayTips.EMPDisablesTurretsShields>
+  <GameplayTips.EMPDisablesTurretsShields>TODO</GameplayTips.EMPDisablesTurretsShields>
   <!-- EN: EMP bursts instantly break personal shields. -->
-  <GameplayTips.EMPDisablesPersonalShields>Rafalele EMP distrug instantaneu scuturile personale.</GameplayTips.EMPDisablesPersonalShields>
+  <GameplayTips.EMPDisablesPersonalShields>TODO</GameplayTips.EMPDisablesPersonalShields>
   <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
-  <GameplayTips.HunterStealth>Statistica de furișare a vânătorului reduce șansele de atac ale animalelor. Ea este afectată de aptitudinile vânătorului în materie de animale și de tragere.</GameplayTips.HunterStealth>
+  <GameplayTips.HunterStealth>TODO</GameplayTips.HunterStealth>
   <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
-  <GameplayTips.AnimalsAttackCloseRange>Animalele sunt mai predispuse să atace atunci când sunt rănite de la mică distanță. Armele cu rază lungă de acțiune și cu tragere lentă sunt cele mai sigure pentru vânătoare.</GameplayTips.AnimalsAttackCloseRange>
+  <GameplayTips.AnimalsAttackCloseRange>TODO</GameplayTips.AnimalsAttackCloseRange>
   <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
-  <GameplayTips.AnimalsMayAttack>Turme întregi de animale vă pot ataca atunci când încercați să le vânați. Acceptați riscul înainte de a vâna, sau alegeți o pradă mai slabă.</GameplayTips.AnimalsMayAttack>
+  <GameplayTips.AnimalsMayAttack>TODO</GameplayTips.AnimalsMayAttack>
   <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
-  <GameplayTips.AnimalDeathExplosionRain>Dacă vânați boomrats și boomalopes atunci când plouă, moartea lor nu va provoca incendii de pădure.</GameplayTips.AnimalDeathExplosionRain>
+  <GameplayTips.AnimalDeathExplosionRain>TODO</GameplayTips.AnimalDeathExplosionRain>
   <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
-  <GameplayTips.GreaterSlaughterYield>Animalele sacrificate cu grijă produc mai multă carne și piele decât cele care au fost ucise cu violență.</GameplayTips.GreaterSlaughterYield>
+  <GameplayTips.GreaterSlaughterYield>TODO</GameplayTips.GreaterSlaughterYield>
   <!-- EN: Place the caravan hitching spot where you want your caravans to form up. It's usually best to place it near your storage areas. -->
-  <GameplayTips.CaravanHitchingSpot>Așezați locul de acostare a caravanei acolo unde doriți să se formeze caravanele. De obicei, cel mai bine este să îl plasați în apropierea zonelor de depozitare.</GameplayTips.CaravanHitchingSpot>
+  <GameplayTips.CaravanHitchingSpot>TODO</GameplayTips.CaravanHitchingSpot>
   <!-- EN: During encounters away from home, you can place a caravan hitching spot to keep your animals from wandering. -->
-  <GameplayTips.CaravanHitchingSpotRoamers>În timpul întâlnirilor departe de casă, puteți plasa un punct de acostare pentru caravane pentru a vă împiedica animalele să se rătăcească.</GameplayTips.CaravanHitchingSpotRoamers>
-  <!-- EN: Single-person caravans can be very useful in certain situations. -->
-  <GameplayTips.CaravanSinglePerson>Caravanele cu o singură persoană pot fi foarte utile în anumite situații.</GameplayTips.CaravanSinglePerson>
+  <GameplayTips.CaravanHitchingSpotRoamers>TODO</GameplayTips.CaravanHitchingSpotRoamers>
   <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
-  <GameplayTips.CaravanRideableAnimals>Caravanele se deplasează mai repede dacă includ animale care pot fi călărit, cum ar fi cai, măgari și dromaderi.</GameplayTips.CaravanRideableAnimals>
+  <GameplayTips.CaravanRideableAnimals>TODO</GameplayTips.CaravanRideableAnimals>
   <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
-  <GameplayTips.CaravanSmallerLessVisible>Caravanele mai mici vor fi atacate mai rar, deoarece sunt mai puțin vizibile.</GameplayTips.CaravanSmallerLessVisible>
-  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan packing post. This will make packing much faster. -->
-  <GameplayTips.CaravanStockpileNearPackingSpot>Înainte de a forma o caravană, adunați obiectele pe care doriți să le trimiteți într-un stoc în apropierea locului de împachetare a caravanei. Acest lucru va face ca împachetarea să fie mult mai rapidă.</GameplayTips.CaravanStockpileNearPackingSpot>
+  <GameplayTips.CaravanSmallerLessVisible>TODO</GameplayTips.CaravanSmallerLessVisible>
+  <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan hitching spot. This will make packing much faster. -->
+  <GameplayTips.CaravanStockpileNearPackingSpot>TODO</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
-  <GameplayTips.CaravanUntrainedAnimals>Dacă aveți animale neantrenate în caravana dumneavoastră, le puteți împărți într-o caravană separată înainte de a ataca un inamic, pentru a le ține departe de luptă.</GameplayTips.CaravanUntrainedAnimals>
+  <GameplayTips.CaravanUntrainedAnimals>TODO</GameplayTips.CaravanUntrainedAnimals>
   <!-- EN: Don't forget to pack medicine on your caravans. -->
-  <GameplayTips.CaravanDontForgetMedicine>Nu uitați să împachetați medicamente în caravane.</GameplayTips.CaravanDontForgetMedicine>
+  <GameplayTips.CaravanDontForgetMedicine>TODO</GameplayTips.CaravanDontForgetMedicine>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
-  <GameplayTips.StoryGenerator>RimWorld este un generator de povești, nu un test de îndemânare. O colonie ruinată este o tragedie dramatică, nu un eșec.</GameplayTips.StoryGenerator>
+  <GameplayTips.StoryGenerator>TODO</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
-  <GameplayTips.BadAllies>Unii coloniști sunt mai rău decât inutili. Aliații răi fac parte din provocare.</GameplayTips.BadAllies>
+  <GameplayTips.BadAllies>TODO</GameplayTips.BadAllies>
   <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
-  <GameplayTips.MakeCaravanRunBeforeDefeat>Dacă nu te poți apăra împotriva unei amenințări, faceți o caravană și fugiți. S-ar putea să vă pierdeți casa, dar povestea voastră poate continua.</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <GameplayTips.MakeCaravanRunBeforeDefeat>TODO</GameplayTips.MakeCaravanRunBeforeDefeat>
   <!-- EN: When you have more wealth, more powerful enemies attack. If you want the challenge to scale with time instead, select 'Wealth-independent progress mode' in the storyteller settings. -->
-  <GameplayTips.FixedWealthMode>Când ai mai multă bogăție, te atacă inamici mai puternici. Dacă în schimb doriți ca provocarea să crească în funcție de timp, selectați "Mod de progres independent de bogăție" în setările povestitorului.</GameplayTips.FixedWealthMode>
+  <GameplayTips.FixedWealthMode>TODO</GameplayTips.FixedWealthMode>
   <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
-  <GameplayTips.StoneDoors>Evitați să folosiți uși făcute din blocuri de piatră. Acestea se deschid foarte încet, ceea ce face ca coloniștii tăi să piardă timp.</GameplayTips.StoneDoors>
+  <GameplayTips.StoneDoors>TODO</GameplayTips.StoneDoors>
   <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
-  <GameplayTips.ChairsWorkbench>Puneți scaune în fața băncilor de lucru pentru ca muncitorii să poată sta confortabil în timp ce lucrează.</GameplayTips.ChairsWorkbench>
+  <GameplayTips.ChairsWorkbench>TODO</GameplayTips.ChairsWorkbench>
   <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
-  <GameplayTips.MechanicalBreakdown>Structurile mecanice se strică și necesită componente de înlocuire. Nu construiți lucruri de care nu aveți nevoie.</GameplayTips.MechanicalBreakdown>
+  <GameplayTips.MechanicalBreakdown>TODO</GameplayTips.MechanicalBreakdown>
   <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
-  <GameplayTips.CarefulConstructionOnBridges>Aveți grijă ce construiți pe poduri. Podurile se prăbușesc ușor sub efectul exploziilor, iar clădirile tale se vor duce odată cu ele.</GameplayTips.CarefulConstructionOnBridges>
+  <GameplayTips.CarefulConstructionOnBridges>TODO</GameplayTips.CarefulConstructionOnBridges>
   <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
-  <GameplayTips.CleanRooms>Camerele curate cresc viteza de cercetare, îmbunătățesc rezultatele medicale și reduc intoxicațiile alimentare. Gresia sterilă conferă camerelor un plus de curățenie.</GameplayTips.CleanRooms>
+  <GameplayTips.CleanRooms>TODO</GameplayTips.CleanRooms>
   <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
-  <GameplayTips.ColonyOneStructure>Construirea întregii colonii într-o singură structură economisește resurse, dar îngreunează, de asemenea, limitarea incendiilor.</GameplayTips.ColonyOneStructure>
+  <GameplayTips.ColonyOneStructure>TODO</GameplayTips.ColonyOneStructure>
   <!-- EN: Terrain affects movement speed. Build floors to help your colonists get around quicker. -->
-  <GameplayTips.TerrainMovementSpeed>Terenul afectează viteza de mișcare. Construiți podele pentru a vă ajuta coloniștii să se deplaseze mai repede.</GameplayTips.TerrainMovementSpeed>
+  <GameplayTips.TerrainMovementSpeed>TODO</GameplayTips.TerrainMovementSpeed>
   <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
-  <GameplayTips.TerrainCleanliness>Terenuri diferite au niveluri diferite de curățenie inerentă. Dalele sunt în mod inerent curate; pământul este în mod inerent murdar.</GameplayTips.TerrainCleanliness>
-  <!-- EN: You can give prisoners as gifts. Giving a prisoner back to his own faction will be highly appreciated. -->
-  <GameplayTips.PrisonersAsGifts>Puteți oferi prizonieri drept cadouri. Darea unui prizonier înapoi la propria facțiune va fi foarte apreciată.</GameplayTips.PrisonersAsGifts>
+  <GameplayTips.TerrainCleanliness>TODO</GameplayTips.TerrainCleanliness>
+  <!-- EN: Some floor types are faster to clean than others. It takes much longer to clean carpet compared to metal tile. -->
+  <GameplayTips.TerrainCleanSpeed>TODO</GameplayTips.TerrainCleanSpeed>
+  <!-- EN: You can give prisoners as gifts. Giving a prisoner back to their own faction will be highly appreciated. -->
+  <GameplayTips.PrisonersAsGifts>TODO</GameplayTips.PrisonersAsGifts>
   <!-- EN: You can request specific types of trade caravans using the comms console. -->
-  <GameplayTips.RequestTradeCaravans>Puteți solicita anumite tipuri de caravane comerciale folosind consola de comunicații.</GameplayTips.RequestTradeCaravans>
+  <GameplayTips.RequestTradeCaravans>TODO</GameplayTips.RequestTradeCaravans>
   <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
-  <GameplayTips.TransportPodsSendGift>Puteți folosi modulele de transport pentru a trimite cadouri direct la bazele altor facțiuni - chiar și la inamicii voștri. Acest lucru îmbunătățește relațiile dintre facțiuni.</GameplayTips.TransportPodsSendGift>
+  <GameplayTips.TransportPodsSendGift>TODO</GameplayTips.TransportPodsSendGift>
   <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
-  <GameplayTips.KeepingPrisonersTogether>Păstrarea prizonierilor împreună economisește spațiu. Cu toate acestea, prizonierii ținuți împreună vor încerca să evadeze împreună.</GameplayTips.KeepingPrisonersTogether>
+  <GameplayTips.KeepingPrisonersTogether>TODO</GameplayTips.KeepingPrisonersTogether>
   <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
-  <GameplayTips.EnemyFactionBaseDefenses>Bazele facțiunilor inamice sunt foarte bine apărate. Nu este nevoie să le atacați - dar fiți bine pregătiți dacă alegeți să încercați.</GameplayTips.EnemyFactionBaseDefenses>
+  <GameplayTips.EnemyFactionBaseDefenses>TODO</GameplayTips.EnemyFactionBaseDefenses>
   <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
-  <GameplayTips.AnimalNuzzle>Animalele drăguțe și îmblânzite îți vor mângâia coloniștii, îmbunătățindu-le starea de spirit.</GameplayTips.AnimalNuzzle>
+  <GameplayTips.AnimalNuzzle>TODO</GameplayTips.AnimalNuzzle>
   <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
-  <GameplayTips.AnimalHerbivorousGrassArea>Alocați-vă animalele erbivore în zone cu multă iarbă. Ele vor mânca iarba și vă vor scuti de necesitatea de a le hrăni.</GameplayTips.AnimalHerbivorousGrassArea>
+  <GameplayTips.AnimalHerbivorousGrassArea>TODO</GameplayTips.AnimalHerbivorousGrassArea>
   <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->
-  <GameplayTips.RemoveLimbInfection>Dacă cineva are o infecție serioasă la un membru, puteți îndepărta membrul pentru a-i salva viața.</GameplayTips.RemoveLimbInfection>
+  <GameplayTips.RemoveLimbInfection>TODO</GameplayTips.RemoveLimbInfection>
   <!-- EN: Sloshing through water makes people unhappy. Build a bridge when you can. -->
-  <GameplayTips.SloshingWater>Mersul prin apă îi face pe oameni nefericiți. Construiește un pod atunci când poți.</GameplayTips.SloshingWater>
+  <GameplayTips.SloshingWater>TODO</GameplayTips.SloshingWater>
   <!-- EN: Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment. -->
-  <GameplayTips.Luciferium>Luciferium poate vindeca cicatricile - chiar și pe cele de pe ochi sau creier. Este, însă, un angajament permanent.</GameplayTips.Luciferium>
+  <GameplayTips.Luciferium>TODO</GameplayTips.Luciferium>
   <!-- EN: Work and movement speed are affected by lighting. Everything is slower in the dark. -->
-  <GameplayTips.WorkMovementSpeedLighting>Viteza de lucru și de mișcare sunt afectate de iluminare. Totul este mai lent în întuneric.</GameplayTips.WorkMovementSpeedLighting>
+  <GameplayTips.WorkMovementSpeedLighting>TODO</GameplayTips.WorkMovementSpeedLighting>
   <!-- EN: Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside. -->
-  <GameplayTips.DeepCavesTemperature>Cavernele subterane adânci au o temperatură stabilă în mod natural, chiar dacă afară este foarte cald sau foarte frig.</GameplayTips.DeepCavesTemperature>
+  <GameplayTips.DeepCavesTemperature>TODO</GameplayTips.DeepCavesTemperature>
   <!-- EN: Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects. -->
-  <GameplayTips.MountainBases>Bazele din munți sunt ușor de apărat. Dezavantajul este că oamenii o iau razna dacă petrec prea mult timp sub pământ. Și insecte gigantice.</GameplayTips.MountainBases>
+  <GameplayTips.MountainBases>TODO</GameplayTips.MountainBases>
   <!-- EN: Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood. -->
-  <GameplayTips.PrisonersGoodMood>Prizonierii se vor alătura mult mai repede și vor încerca mai puține evadări atunci când sunt bine dispuși.</GameplayTips.PrisonersGoodMood>
+  <GameplayTips.PrisonersGoodMood>TODO</GameplayTips.PrisonersGoodMood>
   <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
-  <GameplayTips.MultipleResearchers>Puteți avea mai mulți cercetători care lucrează simultan la mai multe mese de cercetare.</GameplayTips.MultipleResearchers>
+  <GameplayTips.MultipleResearchers>TODO</GameplayTips.MultipleResearchers>
   <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
-  <GameplayTips.GeysersHeatRooms>Gheizerele încălzesc camerele dacă sunt închise. Acest lucru poate fi periculos, sau util.</GameplayTips.GeysersHeatRooms>
+  <GameplayTips.GeysersHeatRooms>TODO</GameplayTips.GeysersHeatRooms>
   <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
-  <GameplayTips.ExtinguishFireArtillery>Exploziile sting incendiile în raza lor de explozie. Acest lucru face ca proiectilele de artilerie să fie utile pentru a opri incendiile atunci când nu există altă opțiune.</GameplayTips.ExtinguishFireArtillery>
+  <GameplayTips.ExtinguishFireArtillery>TODO</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
-  <GameplayTips.BestStoriesFromDarkestSituations>Chiar și eșecurile grave nu înseamnă că jocul trebuie să se termine. Încercați să jucați o bătălie pierdută - adesea cele mai bune povești vin din cele mai întunecate situații.</GameplayTips.BestStoriesFromDarkestSituations>
+  <GameplayTips.BestStoriesFromDarkestSituations>TODO</GameplayTips.BestStoriesFromDarkestSituations>
   <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
-  <GameplayTips.KeepWeaponsAwayFromPrisoners>Țineți stocurile de arme departe de închisorile dvs. Evadările din închisori sunt mult mai periculoase cu arme și explozibili.</GameplayTips.KeepWeaponsAwayFromPrisoners>
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>TODO</GameplayTips.KeepWeaponsAwayFromPrisoners>
   <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
-  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>Când îmblânziți animale, asigurați-vă că aveți suficientă mâncare de tipul corect pentru a le hrăni.</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>TODO</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
   <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
-  <GameplayTips.DroppingChunksWillForceDoorsOpen>Lăsând o bucată de piatră sau de zgură într-o ușă, o vei forța să se deschidă, lăsându-te vulnerabil în fața animalelor sălbatice ostile și a jefuitorilor.</GameplayTips.DroppingChunksWillForceDoorsOpen>
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>TODO</GameplayTips.DroppingChunksWillForceDoorsOpen>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
-  <GameplayTips.CleanLabs>Laboratoarele curate, cu plăci sterile, oferă bonusuri de viteză de cercetare.</GameplayTips.CleanLabs>
+  <GameplayTips.CleanLabs>TODO</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
-  <GameplayTips.ChangeStoryteller>Puteți schimba povestitorul și stilul de joc în orice moment prin meniul de opțiuni.</GameplayTips.ChangeStoryteller>
+  <GameplayTips.ChangeStoryteller>TODO</GameplayTips.ChangeStoryteller>
   <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
-  <GameplayTips.MoreAlliesMoreTraders>Cu cât sunteți aliat cu mai multe facțiuni, cu atât veți primi mai mulți comercianți și ajutoare militare aleatorii.</GameplayTips.MoreAlliesMoreTraders>
+  <GameplayTips.MoreAlliesMoreTraders>TODO</GameplayTips.MoreAlliesMoreTraders>
   <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
-  <GameplayTips.CombatDrugsFromInventory>Puteți folosi politicile privind drogurile pentru ca luptătorii dvs. să aibă asupra lor droguri de luptă, cum ar fi go-juice. O doză rapidă la începutul luptei poate câștiga bătălia.</GameplayTips.CombatDrugsFromInventory>
+  <GameplayTips.CombatDrugsFromInventory>TODO</GameplayTips.CombatDrugsFromInventory>
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
-  <GameplayTips.SchedulesSetLong>Stabiliți programe cu perioade lungi de o singură activitate pentru a minimiza timpul de deplasare.</GameplayTips.SchedulesSetLong>
+  <GameplayTips.SchedulesSetLong>TODO</GameplayTips.SchedulesSetLong>
   <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
-  <GameplayTips.StrawMatting>Așternutul de paie ignoră mizeria. Folosește-o ca podea pentru hambarul tău.</GameplayTips.StrawMatting>
+  <GameplayTips.StrawMatting>TODO</GameplayTips.StrawMatting>
   <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
-  <GameplayTips.AnimalFilth>Unele animale produc multă mizerie. Ține-ți elefanții și vitele afară.</GameplayTips.AnimalFilth>
+  <GameplayTips.AnimalFilth>TODO</GameplayTips.AnimalFilth>
   <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
-  <GameplayTips.PredatorsAndFences>Prădătorii nu vor vâna animale care se află de cealaltă parte a gardurilor sau baricadelor.</GameplayTips.PredatorsAndFences>
+  <GameplayTips.PredatorsAndFences>TODO</GameplayTips.PredatorsAndFences>
   
 </LanguageData>

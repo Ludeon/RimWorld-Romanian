@@ -2,103 +2,85 @@
 <LanguageData>
   
   <!-- EN: cloth -->
-  <Cloth.label>pânză</Cloth.label>
+  <Cloth.label>TODO</Cloth.label>
   <!-- EN: Cloth woven from organic fibers. -->
-  <Cloth.description>Pânză țesută din fibre organice.</Cloth.description>
-  <Cloth.stuffProps.stuffAdjective>pânză</Cloth.stuffProps.stuffAdjective>
+  <Cloth.description>TODO</Cloth.description>
   
   <!-- EN: devilstrand -->
-  <DevilstrandCloth.label>șuvița-dracului</DevilstrandCloth.label>
+  <DevilstrandCloth.label>TODO</DevilstrandCloth.label>
   <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
-  <DevilstrandCloth.description>Țesătură țesută din microfibre extrase din ciuperci devilstrand. Este foarte rezistentă, bună la izolare și protejează excepțional de bine împotriva flăcărilor.</DevilstrandCloth.description>
-  <DevilstrandCloth.stuffProps.stuffAdjective>șuvița-dracului</DevilstrandCloth.stuffProps.stuffAdjective>
+  <DevilstrandCloth.description>TODO</DevilstrandCloth.description>
   
   <!-- EN: gold -->
-  <Gold.label>aur</Gold.label>
+  <Gold.label>TODO</Gold.label>
   <!-- EN: The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold. -->
-  <Gold.description>Cel mai seducător metal dintre toate. Deși este prea moale pentru a avea o utilitate practică, este uimitor de frumos și nu se pătează niciodată. Milioane de oameni au murit în încercarea de a hrăni setea umană nesfârșită de aur.</Gold.description>
-  <!-- EN: golden -->
-  <Gold.stuffProps.stuffAdjective>aur</Gold.stuffProps.stuffAdjective>
+  <Gold.description>TODO</Gold.description>
   
   <!-- EN: hyperweave -->
-  <Hyperweave.label>hyperweave</Hyperweave.label>
+  <Hyperweave.label>TODO</Hyperweave.label>
   <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
-  <Hyperweave.description>Nano-fibre țesute în foi, moleculă cu moleculă, cu ajutorul unor mecanisme de producție specializate. În timp ce flexează liber în cea mai mare parte a timpului, se rigidizează pentru a absorbi loviturile atunci când acestea cad și este incredibil de greu de rupt. Secretele producției sale sunt cunoscute doar de cele mai avansate culturi ale lumii sclipitoare.</Hyperweave.description>
-  <Hyperweave.stuffProps.stuffAdjective>hyperweave</Hyperweave.stuffProps.stuffAdjective>
+  <Hyperweave.description>TODO</Hyperweave.description>
   
   <!-- EN: jade -->
-  <Jade.label>jad</Jade.label>
+  <Jade.label>TODO</Jade.label>
   <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
-  <Jade.description>O piatră tare, de culoare verde. Datorită frumuseții și rarității sale, jadul este adesea folosit pentru ornamente și decorațiuni. Duritatea și densitatea sa îl fac, de asemenea, un material bun pentru arme contondente.</Jade.description>
-  <Jade.stuffProps.stuffAdjective>jad</Jade.stuffProps.stuffAdjective>
+  <Jade.description>TODO</Jade.description>
   
   <!-- EN: plasteel -->
-  <Plasteel.label>plastoțel</Plasteel.label>
+  <Plasteel.label>TODO</Plasteel.label>
   <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
-  <Plasteel.description>Material structural tehnologic avansat pentru distanțieri. Plastoțelul este extrem de puternic datorită structurii sale moleculare unice.</Plasteel.description>
-  <Plasteel.stuffProps.stuffAdjective>plastoțel</Plasteel.stuffProps.stuffAdjective>
+  <Plasteel.description>TODO</Plasteel.description>
   
   <!-- EN: silver -->
-  <Silver.label>argint</Silver.label>
+  <Silver.label>TODO</Silver.label>
   <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
-  <Silver.description>Acest metal este utilizat în principal ca monedă de schimb. De asemenea, poate fi folosit pentru realizarea de decorațiuni.</Silver.description>
-  <Silver.stuffProps.stuffAdjective>argint</Silver.stuffProps.stuffAdjective>
+  <Silver.description>TODO</Silver.description>
   
   <!-- EN: steel -->
-  <Steel.label>oțel</Steel.label>
+  <Steel.label>TODO</Steel.label>
   <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
-  <Steel.description>Un aliaj metalic fier-carbon utilizat pentru construirea unei mari varietăți de structuri, arme și mașini.</Steel.description>
-  <Steel.stuffProps.stuffAdjective>oțel</Steel.stuffProps.stuffAdjective>
+  <Steel.description>TODO</Steel.description>
   
   <!-- EN: synthread -->
-  <Synthread.label>synthread</Synthread.label>
+  <Synthread.label>TODO</Synthread.label>
   <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
-  <Synthread.description>Țesătură sintetică de tehnologie spațială concepută pentru confecționarea de haine obișnuite. Este moale, ușoară, rezistentă și izolează bine.</Synthread.description>
-  <Synthread.stuffProps.stuffAdjective>synthread</Synthread.stuffProps.stuffAdjective>
+  <Synthread.description>TODO</Synthread.description>
   
   <!-- EN: uranium -->
-  <Uranium.label>uraniu</Uranium.label>
+  <Uranium.label>TODO</Uranium.label>
   <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
-  <Uranium.description>Un metal întunecat și greu. Deși este cel mai bine cunoscut ca și combustibil pentru dispozitive nucleare, densitatea și duritatea sa extremă îl fac bun și pentru fabricarea anumitor arme, armuri și muniții.</Uranium.description>
-  <Uranium.stuffProps.stuffAdjective>uraniu</Uranium.stuffProps.stuffAdjective>
+  <Uranium.description>TODO</Uranium.description>
   
   <!-- EN: wood -->
-  <WoodLog.label>lemn</WoodLog.label>
+  <WoodLog.label>TODO</WoodLog.label>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
-  <WoodLog.description>Lemn din copaci sau din alte plante fibroase. Util pentru construirea de structuri și arme. Este un combustibil bun pentru focuri de tabără și generatoare și poate fi rafinat în combustibil chimic. La nevoie, o bucată de lemn poate fi folosită ca armă sau ca picior.</WoodLog.description>
-  <!-- EN: wooden -->
-  <WoodLog.stuffProps.stuffAdjective>lemn</WoodLog.stuffProps.stuffAdjective>
+  <WoodLog.description>TODO</WoodLog.description>
   <!-- EN: log -->
-  <WoodLog.tools.log.label>buștean</WoodLog.tools.log.label>
+  <WoodLog.tools.log.label>TODO</WoodLog.tools.log.label>
   
   <!-- EN: alpaca wool -->
-  <WoolAlpaca.label>lână de alpaca</WoolAlpaca.label>
+  <WoolAlpaca.label>TODO</WoolAlpaca.label>
   <!-- EN: The remarkably soft wool of an alpaca. It is warm, protects well from heat, and fetches a high price. -->
-  <WoolAlpaca.description>Lâna remarcabil de moale a unei alpaca. Este călduroasă, protejează bine de căldură și are un preț ridicat.</WoolAlpaca.description>
-  <WoolAlpaca.stuffProps.stuffAdjective>lână de alpaca</WoolAlpaca.stuffProps.stuffAdjective>
+  <WoolAlpaca.description>TODO</WoolAlpaca.description>
   
   <!-- EN: bison wool -->
-  <WoolBison.label>lână de bizon</WoolBison.label>
+  <WoolBison.label>TODO</WoolBison.label>
   <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
-  <WoolBison.description>Lână groasă și aspră de bizon. Destul de caldă.</WoolBison.description>
-  <WoolBison.stuffProps.stuffAdjective>lână de bizon</WoolBison.stuffProps.stuffAdjective>
+  <WoolBison.description>TODO</WoolBison.description>
   
   <!-- EN: megasloth wool -->
-  <WoolMegasloth.label>lână megasloth</WoolMegasloth.label>
+  <WoolMegasloth.label>TODO</WoolMegasloth.label>
   <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
-  <WoolMegasloth.description>Deși este oarecum grosieră, fibrele lungi ale lânii megasloth o fac foarte rezistentă. Este deosebit de caldă.</WoolMegasloth.description>
-  <WoolMegasloth.stuffProps.stuffAdjective>lână megasloth</WoolMegasloth.stuffProps.stuffAdjective>
+  <WoolMegasloth.description>TODO</WoolMegasloth.description>
   
   <!-- EN: muffalo wool -->
-  <WoolMuffalo.label>lână muffalo</WoolMuffalo.label>
+  <WoolMuffalo.label>TODO</WoolMuffalo.label>
   <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
-  <WoolMuffalo.description>Moale, ușoară și asigură o izolare foarte bună. Hainele din lână Muffalo pot menține corpul cald chiar și în condiții foarte reci.</WoolMuffalo.description>
-  <WoolMuffalo.stuffProps.stuffAdjective>lână muffalo</WoolMuffalo.stuffProps.stuffAdjective>
+  <WoolMuffalo.description>TODO</WoolMuffalo.description>
   
   <!-- EN: sheep wool -->
-  <WoolSheep.label>lână de oaie</WoolSheep.label>
+  <WoolSheep.label>TODO</WoolSheep.label>
   <!-- EN: Sheep's wool. It provides good insulation. -->
-  <WoolSheep.description>Lână de oaie. Oferă o bună izolare.</WoolSheep.description>
-  <WoolSheep.stuffProps.stuffAdjective>lână de oaie</WoolSheep.stuffProps.stuffAdjective>
+  <WoolSheep.description>TODO</WoolSheep.description>
   
 </LanguageData>

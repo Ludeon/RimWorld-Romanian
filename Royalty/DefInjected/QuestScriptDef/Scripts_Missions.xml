@@ -6,11 +6,7 @@
     <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] soldiers</li>
     <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] soldier</li>
   -->
-  <Mission_BanditCamp.questDescriptionRules.rulesStrings>
-    <li>questDescription->[enemiesLabel] au ridicat o tabără și hărțuiesc caravanele [asker_faction_name]. [asker_nameDef] plănuiește un asalt aerian asupra taberei, care este păzită de [enemiesCount] [enemiesLabel]. [asker_pronoun] dorește să furnizați [soldiers] pentru a efectua atacul.\n\n[asker_pronoun] va trimite o navetă pentru a vă lua luptătorii, pentru a-i aduce la locul atacului și pentru a-i duce acasă după aceea. Ei vor fi hrăniți și îngrijiți medical pe drum.\n\nOdată ce începe atacul, trebuie să învingeți toți inamicii și turnulețele în termen de [timeoutTicks_duration].</li>
-    <li>soldiers(requiredPawnCount>1)->[requiredPawnCount] soldați</li>
-    <li>soldiers(requiredPawnCount==1)->[requiredPawnCount] soldat</li>
-  </Mission_BanditCamp.questDescriptionRules.rulesStrings>
+  <Mission_BanditCamp.questDescriptionRules.rulesStrings>TODO</Mission_BanditCamp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[questNameInner]</li>
     <li>questName->[asker_nameDef]'s [questNameInner]</li>
@@ -28,22 +24,6 @@
     <li>work->work</li>
     <li>work->job</li>
   -->
-  <Mission_BanditCamp.questNameRules.rulesStrings>
-    <li>questName->[questNameInner]</li>
-    <li>questName->[questNameInner] a lui [asker_nameDef]</li>
-    <li>questNameInner->[attack] [aerial]</li>
-    <li>questNameInner->[attack] de [target]</li>
-    <li>questNameInner->[work] de [attack]</li>
-    <li>target->tabără</li>
-    <li>target->bază</li>
-    <li>target->fort</li>
-    <li>aerial->aerian</li>
-    <li>aerial->în aer</li>
-    <li>aerial->de pe navetă</li>
-    <li>attack->atac</li>
-    <li>attack->asalt</li>
-    <li>work->treabă</li>
-    <li>work->muncă</li>
-  </Mission_BanditCamp.questNameRules.rulesStrings>
+  <Mission_BanditCamp.questNameRules.rulesStrings>TODO</Mission_BanditCamp.questNameRules.rulesStrings>
   
 </LanguageData>

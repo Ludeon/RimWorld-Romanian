@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: Meditation desired psyfocus -->
-  <MeditationDesiredPsyfocus.label>Meditează psifocalizarea dorită</MeditationDesiredPsyfocus.label>
+  <MeditationDesiredPsyfocus.label>TODO</MeditationDesiredPsyfocus.label>
   <!-- EN: You can set a desired psyfocus level for each colonist. To do this, select a colonist with psylink, and click on their psyfocus bar.\n\nIf a colonist's psyfocus is below their desired level, they will meditate automatically during the "Anything" time assignment. -->
-  <MeditationDesiredPsyfocus.helpText>Puteți seta un nivel de psyfocus dorit pentru fiecare colonist. Pentru a face acest lucru, selectați un colonist cu psylink și faceți clic pe bara de psyfocus a acestuia.\n\nDacă psyfocus-ul unui colonist este sub nivelul dorit, acesta va medita automat în timpul alocării de timp "Orice".</MeditationDesiredPsyfocus.helpText>
+  <MeditationDesiredPsyfocus.helpText>TODO</MeditationDesiredPsyfocus.helpText>
   
   <!-- EN: Meditation schedule -->
-  <MeditationSchedule.label>Program de meditație</MeditationSchedule.label>
+  <MeditationSchedule.label>TODO</MeditationSchedule.label>
   <!-- EN: You can assign your colonists to meditate on a specific schedule.\n\nOpen the SCHEDULE tab, select the 'Meditate' assignment and click-drag the times when you want someone to meditate. -->
-  <MeditationSchedule.helpText>Puteți să le atribuiți coloniștilor dvs. să mediteze după un anumit program.\n\nDeschideți fila ORAR selectați atribuirea "Meditație" și faceți clic și trageți orele în care doriți ca cineva să mediteze.</MeditationSchedule.helpText>
+  <MeditationSchedule.helpText>TODO</MeditationSchedule.helpText>
   
 </LanguageData>

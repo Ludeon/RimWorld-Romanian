@@ -2,21 +2,25 @@
 <LanguageData>
   
   <!-- EN: New Arrivals -->
-  <PlayerColony.label>Noi sosiți</PlayerColony.label>
+  <PlayerColony.label>TODO</PlayerColony.label>
   <!-- EN: A colony of recently-arrived off-worlders. -->
-  <PlayerColony.description>O colonie cu persoane deabia-sosite de pe alte planete</PlayerColony.description>
+  <PlayerColony.description>TODO</PlayerColony.description>
+  <!-- EN: leader -->
+  <PlayerColony.leaderTitle>TODO</PlayerColony.leaderTitle>
   <!-- EN: colonist -->
-  <PlayerColony.pawnSingular>colonist</PlayerColony.pawnSingular>
+  <PlayerColony.pawnSingular>TODO</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
-  <PlayerColony.pawnsPlural>coloniști</PlayerColony.pawnsPlural>
+  <PlayerColony.pawnsPlural>TODO</PlayerColony.pawnsPlural>
   
   <!-- EN: New Tribe -->
-  <PlayerTribe.label>Trib nou</PlayerTribe.label>
+  <PlayerTribe.label>TODO</PlayerTribe.label>
   <!-- EN: A small tribe. -->
-  <PlayerTribe.description>Un trib mic.</PlayerTribe.description>
+  <PlayerTribe.description>TODO</PlayerTribe.description>
+  <!-- EN: leader -->
+  <PlayerTribe.leaderTitle>TODO</PlayerTribe.leaderTitle>
   <!-- EN: tribesman -->
-  <PlayerTribe.pawnSingular>om al tribului</PlayerTribe.pawnSingular>
+  <PlayerTribe.pawnSingular>TODO</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->
-  <PlayerTribe.pawnsPlural>oameni ai tribului</PlayerTribe.pawnsPlural>
+  <PlayerTribe.pawnsPlural>TODO</PlayerTribe.pawnsPlural>
   
 </LanguageData>

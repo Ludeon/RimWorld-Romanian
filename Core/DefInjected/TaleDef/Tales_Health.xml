@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: downed -->
-  <Downed.label>doborât</Downed.label>
+  <Downed.label>TODO</Downed.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
@@ -43,7 +43,7 @@
   <Downed.rulePack.rulesStrings>TODO</Downed.rulePack.rulesStrings>
   
   <!-- EN: exhausted -->
-  <Exhausted.label>epuizat</Exhausted.label>
+  <Exhausted.label>TODO</Exhausted.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] collapsing from exhaustion</li>
     <li>image->[PAWN_nameFull] collapsing on the ground [circumstance_group]</li>
@@ -64,7 +64,7 @@
   <Exhausted.rulePack.rulesStrings>TODO</Exhausted.rulePack.rulesStrings>
   
   <!-- EN: gave birth -->
-  <GaveBirth.label>a născut</GaveBirth.label>
+  <GaveBirth.label>TODO</GaveBirth.label>
   <!-- EN:
     <li>tale_noun->[MOTHER_nameDef] giving birth to [CHILD_nameDef]</li>
     <li>image->[MOTHER_nameFull] giving birth to [circumstance_group]</li>
@@ -86,7 +86,7 @@
   <GaveBirth.rulePack.rulesStrings>TODO</GaveBirth.rulePack.rulesStrings>
   
   <!-- EN: heatstroke revealed -->
-  <HeatstrokeRevealed.label>insolație dezvăluită</HeatstrokeRevealed.label>
+  <HeatstrokeRevealed.label>TODO</HeatstrokeRevealed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] getting heatstroke</li>
     <li>tale_noun->[PAWN_nameDef] overheating</li>
@@ -110,10 +110,9 @@
   <HeatstrokeRevealed.rulePack.rulesStrings>TODO</HeatstrokeRevealed.rulePack.rulesStrings>
   
   <!-- EN: hypothermia revealed -->
-  <HypothermiaRevealed.label>hipotermie dezvăluită</HypothermiaRevealed.label>
+  <HypothermiaRevealed.label>TODO</HypothermiaRevealed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] getting hypothermia</li>
-    <li>tale_noun->[PAWN_nameDef] freezing to death</li>
     <li>image->[PAWN_nameFull] trudging through snow [circumstance_group]</li>
     <li>image->[PAWN_nameFull] huddled beside a [TerrainFeature] [circumstance_group]</li>
     <li>image->[PAWN_nameFull] searching for a warm [Apparel] [circumstance_group]</li>
@@ -134,7 +133,7 @@
   <HypothermiaRevealed.rulePack.rulesStrings>TODO</HypothermiaRevealed.rulePack.rulesStrings>
   
   <!-- EN: illness revealed -->
-  <IllnessRevealed.label>boală dezvăluită</IllnessRevealed.label>
+  <IllnessRevealed.label>TODO</IllnessRevealed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] being stricken with [ILLNESS_label]</li>
     <li>image->[PAWN_nameFull] staggering through a field [circumstance_group]</li>
@@ -159,7 +158,7 @@
   <IllnessRevealed.rulePack.rulesStrings>TODO</IllnessRevealed.rulePack.rulesStrings>
   
   <!-- EN: killed -->
-  <KilledCapacity.label>ucis</KilledCapacity.label>
+  <KilledCapacity.label>TODO</KilledCapacity.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
@@ -194,7 +193,7 @@
   <KilledCapacity.rulePack.rulesStrings>TODO</KilledCapacity.rulePack.rulesStrings>
   
   <!-- EN: killed at distance -->
-  <KilledLongRange.label>ucis la distanță</KilledLongRange.label>
+  <KilledLongRange.label>TODO</KilledLongRange.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] at extreme distance</li>
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] at extreme distance with a [WEAPON_label]</li>
@@ -233,7 +232,7 @@
   <KilledLongRange.rulePack.rulesStrings>TODO</KilledLongRange.rulePack.rulesStrings>
   
   <!-- EN: killed major threat -->
-  <KilledMajorThreat.label>ucis amenințare majoră</KilledMajorThreat.label>
+  <KilledMajorThreat.label>TODO</KilledMajorThreat.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>
@@ -275,7 +274,7 @@
   <KilledMajorThreat.rulePack.rulesStrings>TODO</KilledMajorThreat.rulePack.rulesStrings>
   
   <!-- EN: killed in melee -->
-  <KilledMelee.label>ucis în luptă corp la corp</KilledMelee.label>
+  <KilledMelee.label>TODO</KilledMelee.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] in close combat</li>
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] in melee with a [WEAPON_label]</li>
@@ -317,7 +316,7 @@
   <KilledMelee.rulePack.rulesStrings>TODO</KilledMelee.rulePack.rulesStrings>
   
   <!-- EN: killed with mortar -->
-  <KilledMortar.label>ucis cu mortier</KilledMortar.label>
+  <KilledMortar.label>TODO</KilledMortar.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a mortar</li>
     <li>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]'s artillery</li>
@@ -343,7 +342,7 @@
   <KilledMortar.rulePack.rulesStrings>TODO</KilledMortar.rulePack.rulesStrings>
   
   <!-- EN: toxicity revealed -->
-  <ToxicityRevealed.label>toxicitate dezvăluită</ToxicityRevealed.label>
+  <ToxicityRevealed.label>TODO</ToxicityRevealed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef]'s body becoming toxic</li>
     <li>tale_noun->[PAWN_nameDef] being poisoned by toxins</li>
@@ -369,7 +368,7 @@
   <ToxicityRevealed.rulePack.rulesStrings>TODO</ToxicityRevealed.rulePack.rulesStrings>
   
   <!-- EN: wounded -->
-  <Wounded.label>rănit</Wounded.label>
+  <Wounded.label>TODO</Wounded.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef]</li>
     <li>tale_noun->[KILLER_nameDef] [wound_name_present] [VICTIM_nameDef] with a [WEAPON_label]</li>

@@ -2,31 +2,33 @@
 <LanguageData>
 
   <!-- Misc -->
-  <!-- EN: add -->
-  <Add>adaugă</Add>
   <!-- EN: Trading animal products bonus -->
-  <TradingAnimalProduceBonus>Bonus pentru comercializarea produselor de origine animală</TradingAnimalProduceBonus>
+  <TradingAnimalProduceBonus>TODO</TradingAnimalProduceBonus>
   <!-- EN: Slaves -->
-  <SlavesSection>Sclavi</SlavesSection>
+  <SlavesSection>TODO</SlavesSection>
   <!-- EN: dominant style -->
-  <DominantStyle>stil dominant</DominantStyle>
+  <DominantStyle>TODO</DominantStyle>
   <!-- EN: Date -->
-  <Date>Data</Date>
+  <Date>TODO</Date>
   <!-- EN: The following development points will be awarded depending on the ritual outcome -->
   <RitualDevelopmentPointRewards>TODO</RitualDevelopmentPointRewards>
+  <!-- EN: Use global style -->
+  <UseGlobalStyle>TODO</UseGlobalStyle>
+  <!-- EN: No style variations available -->
+  <NoStylesAvailable>TODO</NoStylesAvailable>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
-  <ChooseStructureMemesInfo>Alege structura simbolică a ideoligiei tale. Acest lucru afectează doar simbolurile - nu afectează jocul.</ChooseStructureMemesInfo>
+  <ChooseStructureMemesInfo>TODO</ChooseStructureMemesInfo>
   <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. -->
-  <ChooseNormalMemesInfo>Alegeți {0}-{1} meme pentru a forma ideile fundamentale ale acestei ideoligii.</ChooseNormalMemesInfo>
+  <ChooseNormalMemesInfo>TODO</ChooseNormalMemesInfo>
   <!-- EN: Choose at least {0} meme. -->
-  <NotEnoughMemes>Alege cel puțin {0} meme.</NotEnoughMemes>
+  <NotEnoughMemes>TODO</NotEnoughMemes>
   <!-- EN: Choose at most {0} memes. -->
-  <TooManyMemes>Alege cel mult {0} meme-uri.</TooManyMemes>
+  <TooManyMemes>TODO</TooManyMemes>
   <!-- EN: Choose structure. -->
-  <ChooseStructureMeme>Alege structura.</ChooseStructureMeme>
+  <ChooseStructureMeme>TODO</ChooseStructureMeme>
   <!-- EN: {0_label} and {1_label} are incompatible. -->
-  <IncompatibleMemes>{0_etichetă} și {1_etichetă} sunt incompatibile.</IncompatibleMemes>
+  <IncompatibleMemes>TODO</IncompatibleMemes>
   <!-- EN: Some of these have much more gameplay impact than others. -->
   <SomeMemesHaveMoreImpact>TODO</SomeMemesHaveMoreImpact>
   <!-- EN: Choose one meme to form the initial idea of this ideoligion. You will add more memes as the ideoligion develops over time. -->
@@ -44,7 +46,7 @@
   <ChangesRemovePrecepts>TODO</ChangesRemovePrecepts>
   
   <!-- EN: Room requirements -->
-  <RoomRequirements>Cerințele camerei</RoomRequirements>
+  <RoomRequirements>TODO</RoomRequirements>
   <!-- EN: The ideoligion you are loading has memes that are incompatible with a new fluid ideoligion and its memes will need to be chosen again (fluid ideoligions may only start with one low-impact meme). -->
   <ConfirmChangeMemesForFluidIdeo>TODO</ConfirmChangeMemesForFluidIdeo>
   <!-- EN: The following memes are incompatible -->
@@ -53,75 +55,77 @@
   <ConfirmChangeMemesForFluidIdeoContinue>TODO</ConfirmChangeMemesForFluidIdeoContinue>
 
   <!-- EN: role -->
-  <Role>rol</Role>
+  <Role>TODO</Role>
   <!-- EN: Assign role -->
-  <ChooseRole>Atribuiți un rol</ChooseRole>
+  <ChooseRole>TODO</ChooseRole>
   <!-- EN: Choose new role -->
   <ChooseNewRole>TODO</ChooseNewRole>
   <!-- EN: No role assigned -->
-  <NoRoleAssigned>Niciun rol atribuit</NoRoleAssigned>
+  <NoRoleAssigned>TODO</NoRoleAssigned>
+  <!-- EN: Children cannot take on roles -->
+  <ChildNoRoleAssigned>TODO</ChildNoRoleAssigned>
   <!-- EN: Remove {0} role -->
   <RemoveRole>TODO</RemoveRole>
   <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
-  <ChooseRoleConfirmAssign>Sunteți pe cale să atribuiți rolul {ROLE_labelDef} lui {PAWN_labelShort}.</ChooseRoleConfirmAssign>
+  <ChooseRoleConfirmAssign>TODO</ChooseRoleConfirmAssign>
   <!-- EN: Are you sure? -->
-  <ChooseRoleConfirmAssignPostfix>Sunteți sigur?</ChooseRoleConfirmAssignPostfix>
+  <ChooseRoleConfirmAssignPostfix>TODO</ChooseRoleConfirmAssignPostfix>
   <!-- EN: {PAWN_labelShort} currently holds this role and will be unhappy to lose it. -->
-  <ChooseRoleConfirmAssignReplace>{PAWN_labelShort} deține în prezent acest rol și va fi nefericit să îl piardă.</ChooseRoleConfirmAssignReplace>
+  <ChooseRoleConfirmAssignReplace>TODO</ChooseRoleConfirmAssignReplace>
   <!-- EN: {PAWN_labelShort} currently holds the role of {ROLE_label} and will be unhappy to lose it. -->
-  <ChooseRoleConfirmAssignHasOtherRole>{PAWN_labelShort} deține în prezent rolul de {ROLE_label} și va fi nefericit dacă îl va pierde.</ChooseRoleConfirmAssignHasOtherRole>
+  <ChooseRoleConfirmAssignHasOtherRole>TODO</ChooseRoleConfirmAssignHasOtherRole>
   <!-- EN: There can be only one leader. This will dismiss {PAWN_labelShort} from their {OTHERROLE_labelDef} role, which will make {PAWN_objective} upset. -->
-  <ChooseRoleConfirmAssignReplaceLeader>Nu poate exista decât un singur lider. Acest lucru îl va demite pe {PAWN_labelShort} din rolul său {OTHERROLE_labelDef}, ceea ce îl va supăra pe {PAWN_objective}.</ChooseRoleConfirmAssignReplaceLeader>
+  <ChooseRoleConfirmAssignReplaceLeader>TODO</ChooseRoleConfirmAssignReplaceLeader>
   <!-- EN: You're about to dismiss {PAWN_labelShort} from the role of {ROLE_labelIndef}. This will upset {PAWN_objective}. -->
-  <ChooseRoleConfirmUnassign>Sunteți pe cale să îl demiteți pe {PAWN_labelShort} din rolul de {ROLE_labelIndef}. Acest lucru îl va supăra pe {PAWN_objective}.</ChooseRoleConfirmUnassign>
+  <ChooseRoleConfirmUnassign>TODO</ChooseRoleConfirmUnassign>
   <!-- EN: {PAWN_labelShort} will gain the following abilities -->
-  <ChooseRoleListAbilities>{PAWN_labelShort} va dobândi următoarele abilități</ChooseRoleListAbilities>
+  <ChooseRoleListAbilities>TODO</ChooseRoleListAbilities>
   <!-- EN: The {ROLE_label} role requires the following apparel -->
-  <ChooseRoleListApparelDemands>Rolul {ROLE_label} necesită următoarele articole de îmbrăcăminte</ChooseRoleListApparelDemands>
+  <ChooseRoleListApparelDemands>TODO</ChooseRoleListApparelDemands>
   <!-- EN: {PAWN_labelShort} will refuse to do these work types -->
-  <ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort} va refuza să facă aceste tipuri de muncă</ChooseRoleListWorkTypeRestrictions>
+  <ChooseRoleListWorkTypeRestrictions>TODO</ChooseRoleListWorkTypeRestrictions>
   <!-- EN: It can sometimes be better to wait until your colony is more established before you assign roles. -->
-  <ChooseRoleHint>Uneori poate fi mai bine să așteptați până când colonia dumneavoastră este mai bine stabilită înainte de a atribui roluri.</ChooseRoleHint>
+  <ChooseRoleHint>TODO</ChooseRoleHint>
   <!-- EN: Unlocked by -->
-  <UnlockedByMeme>Deblocat de</UnlockedByMeme>
+  <UnlockedByMeme>TODO</UnlockedByMeme>
   <!-- EN: Unlocked roles -->
-  <MemeUnlocksRoles>Roluri deblocate</MemeUnlocksRoles>
+  <MemeUnlocksRoles>TODO</MemeUnlocksRoles>
   <!-- EN: Unlocked rituals -->
-  <MemeUnlocksRituals>Ritualuri deblocate</MemeUnlocksRituals>
+  <MemeUnlocksRituals>TODO</MemeUnlocksRituals>
   <!-- EN: WARNING: {PAWN_nameDef} is unable to do work that is required for the role of {ROLE_label}. If you choose to give {PAWN_objective} this role, {PAWN_pronoun} may be unable to use the abilities associated with {ROLE_label}. The missing work types are -->
-  <ChooseRoleRequiredWorkTagsDisabled>AVERTISMENT: {PAWN_nameDef} nu este în măsură să facă munca necesară pentru rolul {ROLE_label}. Dacă alegeți să îi acordați lui {PAWN_objective} acest rol, este posibil ca {PAWN_pronoun} să nu poată utiliza abilitățile asociate cu {ROLE_etichetă}. Tipurile de muncă care lipsesc sunt</ChooseRoleRequiredWorkTagsDisabled>
+  <ChooseRoleRequiredWorkTagsDisabled>TODO</ChooseRoleRequiredWorkTagsDisabled>
   <!-- EN: Leader bonus -->
-  <YourLeaderTradeBonus>Bonusul liderului</YourLeaderTradeBonus>
+  <YourLeaderTradeBonus>TODO</YourLeaderTradeBonus>
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
-  <CannotNotAddRoleApparelDueToMeme>Meme-ul {MEME} împiedică adăugarea de cerințe de îmbrăcăminte la roluri.</CannotNotAddRoleApparelDueToMeme>
+  <CannotNotAddRoleApparelDueToMeme>TODO</CannotNotAddRoleApparelDueToMeme>
   <!-- EN: cannot be worn with {0_label} -->
   <CannotBeWornWith>TODO</CannotBeWornWith>
 
   <!-- EN: Certainty reduction -->
-  <AbilityIdeoConvertBreakdownLabel>Reducerea certitudinii</AbilityIdeoConvertBreakdownLabel>
+  <AbilityIdeoConvertBreakdownLabel>TODO</AbilityIdeoConvertBreakdownLabel>
   <!-- EN: Using {ABILITY} ability -->
-  <AbilityIdeoConvertBreakdownUsingAbility>Utilizarea abilității {ABILITY}</AbilityIdeoConvertBreakdownUsingAbility>
+  <AbilityIdeoConvertBreakdownUsingAbility>TODO</AbilityIdeoConvertBreakdownUsingAbility>
   <!-- EN: {PAWN_labelShort}'s conversion power -->
-  <AbilityIdeoConvertBreakdownConversionPower>Puterea de conversie a lui {PAWN_labelShort}</AbilityIdeoConvertBreakdownConversionPower>
+  <AbilityIdeoConvertBreakdownConversionPower>TODO</AbilityIdeoConvertBreakdownConversionPower>
   <!-- EN: {PAWN_labelShort}'s certainty loss factor from {IDEO_name} -->
-  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>Factorul de pierdere de certitudine al lui {PAWN_labelShort} din {IDEO_name}.</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>TODO</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
   <!-- EN: {PAWN_labelShort} is {ROLE_labelDef} -->
-  <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} este {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
+  <AbilityIdeoConvertBreakdownRole>TODO</AbilityIdeoConvertBreakdownRole>
   <!-- EN: Trait {TRAIT} -->
-  <AbilityIdeoConvertBreakdownTrait>Trăsătura {TRAIT}</AbilityIdeoConvertBreakdownTrait>
+  <AbilityIdeoConvertBreakdownTrait>TODO</AbilityIdeoConvertBreakdownTrait>
   <!-- EN: {RELICCOUNT} installed relics on map -->
-  <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT} relicve instalate pe hartă</AbilityIdeoConvertBreakdownRelic>
+  <AbilityIdeoConvertBreakdownRelic>TODO</AbilityIdeoConvertBreakdownRelic>
   <!-- EN: {PAWN_labelShort}'s social skill -->
-  <AbilityIdeoConvertBreakdownSocialSkill>abilitatea socială a lui {PAWN_labelShort}</AbilityIdeoConvertBreakdownSocialSkill>
+  <AbilityIdeoConvertBreakdownSocialSkill>TODO</AbilityIdeoConvertBreakdownSocialSkill>
   <!-- EN: {RECIPIENT_labelShort}'s opinion of {INITIATOR_labelShort} -->
-  <AbilityIdeoConvertBreakdownOpinion>Opinia lui {RECIPIENT_labelShort} despre {INITIATOR_labelShort}</AbilityIdeoConvertBreakdownOpinion>
+  <AbilityIdeoConvertBreakdownOpinion>TODO</AbilityIdeoConvertBreakdownOpinion>
   <!-- EN: {PAWN_nameDef}'s ideoligion -->
-  <AbilityIdeoConvertBreakdownPawnIdeo>Ideoligia lui {PAWN_nameDef}</AbilityIdeoConvertBreakdownPawnIdeo>
+  <AbilityIdeoConvertBreakdownPawnIdeo>TODO</AbilityIdeoConvertBreakdownPawnIdeo>
   <!-- EN: {MEME} vs {TRAIT} trait -->
-  <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} vs {TRAIT} trăsătură</AbilityIdeoConvertBreakdownMemeVsTrait>
+  <AbilityIdeoConvertBreakdownMemeVsTrait>TODO</AbilityIdeoConvertBreakdownMemeVsTrait>
 
   <!-- EN: {PAWN_labelShort} was already counselled recently. -->
-  <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} a fost deja consiliat recent.</AbilityCantApplyAlreadyCounselled>
+  <AbilityCantApplyAlreadyCounselled>TODO</AbilityCantApplyAlreadyCounselled>
 
   <!-- EN: Reform... -->
   <ReformIdeo>TODO</ReformIdeo>
@@ -150,142 +154,134 @@
 
   <!-- Slavery -->
   <!-- EN: Slave -->
-  <CannotAssignBedToSlave>Sclav</CannotAssignBedToSlave>
+  <CannotAssignBedToSlave>TODO</CannotAssignBedToSlave>
   <!-- EN: Colonist -->
-  <CannotAssignBedToColonist>Colonist</CannotAssignBedToColonist>
+  <CannotAssignBedToColonist>TODO</CannotAssignBedToColonist>
   <!-- EN: Any slave -->
-  <AnySlave>Orice sclav</AnySlave>
+  <AnySlave>TODO</AnySlave>
   <!-- EN: {0_nameDef} refuses to sell people into slavery according to {0_possessive} beliefs. -->
-  <NegotiatorWillNotTradeSlaves>{0_nameDef} refuză să vândă oameni în sclavie, conform convingerilor {0_possessive}.</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlaves>TODO</NegotiatorWillNotTradeSlaves>
   <!-- EN: The negotiator, {0_nameDef}, will not people into slavery due to {0_possessive} belief in {1}.\n\nNote that {0_nameDef} is willing to ransom someone back to {0_possessive} own faction, but isn't willing to sell someone to a different faction. -->
-  <NegotiatorWillNotTradeSlavesTip>Negociatorul, {0_nameDef}, nu va vinde oameni în sclavie din cauza credinței {0_possessive} în {1}.\n\nRețineți că {0_nameDef} este dispus să răscumpere pe cineva înapoi la propria facțiune {0_possessive}, dar nu este dispus să vândă pe cineva unei facțiuni diferite.</NegotiatorWillNotTradeSlavesTip>
+  <NegotiatorWillNotTradeSlavesTip>TODO</NegotiatorWillNotTradeSlavesTip>
 
   <!-- EN: Last human meat -->
-  <LastHumanMeat>Ultima carne umană</LastHumanMeat>
+  <LastHumanMeat>TODO</LastHumanMeat>
   <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
-  <LastHumanMeatDesc>Din cauza credinței lui {PAWN_possessive} în {IDEO_name}, {PAWN_nameDef} va deveni nefericit dacă {PAWN_pronoun} stă mai mult de {DURATION} zile fără să mănânce carne de om.</LastHumanMeatDesc>
+  <LastHumanMeatDesc>TODO</LastHumanMeatDesc>
 
   <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
-  <ExectueNeutralFactionSlave>Executarea {PAWN_labelShort} va afecta negativ relațiile cu {FACTION_name}.</ExectueNeutralFactionSlave>
+  <ExectueNeutralFactionSlave>TODO</ExectueNeutralFactionSlave>
 
   <!-- EN: You must assign at least one non-slave colonist who can walk. -->
-  <CaravanMustHaveAtLeastOneNonSlaveColonist>Trebuie să atribuiți cel puțin un colonist care nu este sclav și care poate merge.</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>TODO</CaravanMustHaveAtLeastOneNonSlaveColonist>
   <!-- EN: You must leave at least non-slave colonist who can walk. -->
-  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>Trebuie să lași cel puțin un colonist non-sclav care poate merge.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>TODO</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
 
   <!-- Style -->
   <!-- EN: Style -->
-  <StylePawn>Stil</StylePawn>
-  <!-- EN: Cancel -->
-  <Cancel>Anulează</Cancel>
+  <StylePawn>TODO</StylePawn>
   <!-- EN: hair -->
-  <Hair>păr</Hair>
+  <Hair>TODO</Hair>
   <!-- EN: beard -->
-  <Beard>barbă</Beard>
+  <Beard>TODO</Beard>
   <!-- EN: face tattoo -->
-  <TattooFace>tatuaj față</TattooFace>
+  <TattooFace>TODO</TattooFace>
   <!-- EN: body tattoo -->
-  <TattooBody>tatuaj corp</TattooBody>
+  <TattooBody>TODO</TattooBody>
   <!-- EN: apparel color -->
-  <ApparelColor>culoare îmbrăcăminte</ApparelColor>
+  <ApparelColor>TODO</ApparelColor>
   <!-- EN: hair color -->
-  <HairColor>culoarea părului</HairColor>
+  <HairColor>TODO</HairColor>
   <!-- EN: Show headgear -->
-  <ShowHeadgear>Afișează cască</ShowHeadgear>
+  <ShowHeadgear>TODO</ShowHeadgear>
   <!-- EN: Show apparel -->
-  <ShowApparel>Arată îmbrăcăminte</ShowApparel>
+  <ShowApparel>TODO</ShowApparel>
   <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
-  <PawnUnhappyWithStyleItems>{PAWN_nameDef} va fi nemulțumit de următoarele</PawnUnhappyWithStyleItems>
+  <PawnUnhappyWithStyleItems>TODO</PawnUnhappyWithStyleItems>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->
-  <StyleCategoryDescription>Categoriile de stil afectează aspectul unor clădiri, îmbrăcăminte și arme realizate de {IDEO_memberNamePlural}. În cazul în care mai multe categorii afectează același lucru, se aplică cea mai din stânga.</StyleCategoryDescription>
+  <StyleCategoryDescription>TODO</StyleCategoryDescription>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by your colony. If more than one category affects the same thing, the left-most one applies. -->
   <StyleCategoryDescriptionAbstract>TODO</StyleCategoryDescriptionAbstract>
   <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
-  <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural} va fi fericit dacă va observa clădiri, podele și artă care se potrivesc cu acest stil.</StyleCategoryDescStyleDominance>
+  <StyleCategoryDescStyleDominance>TODO</StyleCategoryDescStyleDominance>
   <!-- EN: Ideoligion members will be happy if they notice buildings, floors, and art matching this style. -->
   <StyleCategoryDescStyleDominanceAbstract>TODO</StyleCategoryDescStyleDominanceAbstract>
   <!-- EN: {0} style category affects -->
-  <StyleCategoryDetails>{0} categoria de stil afectează</StyleCategoryDetails>
+  <StyleCategoryDetails>TODO</StyleCategoryDetails>
   <!-- EN: Overriden by {0} -->
-  <OverriddenByStyle>Suprascris de {0}</OverriddenByStyle>
+  <OverriddenByStyle>TODO</OverriddenByStyle>
   <!-- EN: New buildables -->
-  <IdeoMakesBuildingBuildable>Noi construibile</IdeoMakesBuildingBuildable>
+  <IdeoMakesBuildingBuildable>TODO</IdeoMakesBuildingBuildable>
   <!-- EN: none usable for {PAWN_nameDef} -->
-  <NoneUsableForPawn>niciunul utilizabil pentru {PAWN_nameDef}</NoneUsableForPawn> 
+  <NoneUsableForPawn>TODO</NoneUsableForPawn> 
   <!-- EN: Hair and beards -->
-  <HairAndBeards>Păr și barbă</HairAndBeards>
+  <HairAndBeards>TODO</HairAndBeards>
   <!-- EN: These settings determine how frequently each style appears on members of this ideoligion. -->
-  <HairAndBeardsDesc>Aceste setări determină cât de frecvent apare fiecare stil la membrii acestei ideoligii.</HairAndBeardsDesc>
+  <HairAndBeardsDesc>TODO</HairAndBeardsDesc>
   <!-- EN: Tattoos -->
-  <Tattoos>Tatuaje</Tattoos>
+  <Tattoos>TODO</Tattoos>
   <!-- EN: These settings determines how frequently each tattoo appears on members of this ideoligion. -->
-  <TattoosDesc>Aceste setări determină cât de frecvent apare fiecare tatuaj la membrii acestei ideoligii.</TattoosDesc>
+  <TattoosDesc>TODO</TattoosDesc>
   <!-- EN: Never -->
-  <StyleItemFrequencyNever>Niciodată</StyleItemFrequencyNever>
+  <StyleItemFrequencyNever>TODO</StyleItemFrequencyNever>
   <!-- EN: Rare -->
-  <StyleItemFrequencyRare>Rar</StyleItemFrequencyRare>
+  <StyleItemFrequencyRare>TODO</StyleItemFrequencyRare>
   <!-- EN: Uncommon -->
-  <StyleItemFrequencyUncommon>Neobișnuit</StyleItemFrequencyUncommon>
+  <StyleItemFrequencyUncommon>TODO</StyleItemFrequencyUncommon>
   <!-- EN: Normal -->
-  <StyleItemFrequencyNormal>Normal</StyleItemFrequencyNormal>
+  <StyleItemFrequencyNormal>TODO</StyleItemFrequencyNormal>
   <!-- EN: Common -->
-  <StyleItemFrequencyCommon>Comun</StyleItemFrequencyCommon>
+  <StyleItemFrequencyCommon>TODO</StyleItemFrequencyCommon>
   <!-- EN: Frequent -->
-  <StyleItemFrequencyFrequent>Frecvent</StyleItemFrequencyFrequent>
+  <StyleItemFrequencyFrequent>TODO</StyleItemFrequencyFrequent>
   <!-- EN: Edit appearance -->
-  <EditAppearanceItems>Editează aspectul</EditAppearanceItems>
+  <EditAppearanceItems>TODO</EditAppearanceItems>
   <!-- EN: {0} in use -->
-  <NumAvailable>{0} în uz</NumAvailable>
-  <!-- EN: Expand all -->
-  <ExpandAllCategories>Extinde toate</ExpandAllCategories>
-  <!-- EN: Collapse all -->
-  <CollapseAllCategories>Restrânge toate</CollapseAllCategories>
+  <NumAvailable>TODO</NumAvailable>
   <!-- EN: Resets all style items to their default values. -->
-  <ResetButtonDesc>Resetează toate elementele de stil la valorile lor implicite.</ResetButtonDesc>
-  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
-  <TooltipDyeExplanation>TODO</TooltipDyeExplanation>
+  <ResetButtonDesc>TODO</ResetButtonDesc>
 
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->
-  <SendShuttleAnyway>Trimite naveta oricum</SendShuttleAnyway>
+  <SendShuttleAnyway>TODO</SendShuttleAnyway>
   <!-- EN: Re-load shuttle -->
-  <ReLoadShuttle>Reîncarcă naveta</ReLoadShuttle>
+  <ReLoadShuttle>TODO</ReLoadShuttle>
 
   <!-- Medical settings -->
   <!-- EN: Enslaved colonist -->
-  <MedGroupEnslavedColonist>Colonistul înrobit</MedGroupEnslavedColonist>
+  <MedGroupEnslavedColonist>TODO</MedGroupEnslavedColonist>
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->
-  <ChangeMode>Alege casta dryad</ChangeMode>
+  <ChangeMode>TODO</ChangeMode>
   <!-- EN: Required memes -->
-  <RequiredMemes>Meme necesare</RequiredMemes>
+  <RequiredMemes>TODO</RequiredMemes>
   <!-- EN: Required caste -->
-  <RequiredStage>Casta necesară</RequiredStage>
+  <RequiredStage>TODO</RequiredStage>
   <!-- EN: Missing required memes -->
-  <MissingRequiredMemes>Missing required memes</MissingRequiredMemes>
+  <MissingRequiredMemes>TODO</MissingRequiredMemes>
   <!-- EN: Missing required caste -->
-  <MissingRequiredCaste>Casta necesară lipsă</MissingRequiredCaste>
+  <MissingRequiredCaste>TODO</MissingRequiredCaste>
   <!-- EN: Already selected -->
-  <AlreadySelected>Deja selectat</AlreadySelected>
+  <AlreadySelected>TODO</AlreadySelected>
   <!-- EN: Here you can choose which caste of dryads this {TREE_label} will create.\n\nDryads will emerge from pods that grow at the tree's base. The maximum number of dryads is based on the connection strength between {TREE_definite} and the connected person. -->
-  <ChooseProductionModeInitialDesc>Aici puteți alege ce casta de dryade va crea acest {TREE_label}.\n\nDryadele vor ieși din păstăile care cresc la baza copacului. Numărul maxim de dryade se bazează pe puterea conexiunii dintre {TREE_definite} și persoana conectată.</ChooseProductionModeInitialDesc>
+  <ChooseProductionModeInitialDesc>TODO</ChooseProductionModeInitialDesc>
 
   <!-- Archonexus -->
   <!-- EN: Choose who to convert to your ideoligion -->
-  <ChooseColonistsForIdeoTitle>Alege pe cine să convertești la ideoligia ta</ChooseColonistsForIdeoTitle>
+  <ChooseColonistsForIdeoTitle>TODO</ChooseColonistsForIdeoTitle>
   <!-- EN: You may convert people to your primary ideoligion when setting up a new colony. -->
-  <ChooseColonistsForIdeoDesc>Poți converti oamenii la ideoligia ta primară atunci când înființezi o nouă colonie.</ChooseColonistsForIdeoDesc>
+  <ChooseColonistsForIdeoDesc>TODO</ChooseColonistsForIdeoDesc>
   <!-- EN: New Colony -->
-  <ChooseThingsForNewColonyTitle>Colonie nouă</ChooseThingsForNewColonyTitle>
+  <ChooseThingsForNewColonyTitle>TODO</ChooseThingsForNewColonyTitle>
   <!-- EN: Choose which colonists, animals and relics to bring to the new colony. -->
-  <ChooseThingsForNewColonyDesc>Alege ce coloniști, animale și relicve să aduci în noua colonie.</ChooseThingsForNewColonyDesc>
+  <ChooseThingsForNewColonyDesc>TODO</ChooseThingsForNewColonyDesc>
   <!-- EN: Choose up to {0} {1}. -->
-  <ChooseThingsDesc>Alegeți până la {0} {1}.</ChooseThingsDesc>
+  <ChooseThingsDesc>TODO</ChooseThingsDesc>
   <!-- EN: Choose up to {0} people. -->
-  <ChoosePeopleDesc>Alege până la {0} oameni.</ChoosePeopleDesc>
+  <ChoosePeopleDesc>TODO</ChoosePeopleDesc>
   <!-- EN: If you only select slaves, you will play them as colonists in the next colony. -->
-  <ChooseOnlySlavesInfo>Dacă alegi doar sclavi, îi vei juca ca și coloniști în următoarea colonie.</ChooseOnlySlavesInfo>
+  <ChooseOnlySlavesInfo>TODO</ChooseOnlySlavesInfo>
   <!-- EN: Confirm decisions -->
   <ConfirmDecisionsTitle>TODO</ConfirmDecisionsTitle>
   <!-- EN: The hibernating starship reported by the AI (*Name)Charlon Whitestone(/Name) will fly away by the time the new colony is established. It will no longer be possible to escape the planet by traveling to this ship. -->
@@ -299,23 +295,23 @@
   <!-- EN: Would you like to proceed? Past this point, there's no going back. -->
   <WantToProceed>TODO</WantToProceed>
   <!-- EN: Convert -->
-  <ConvertToPlayerIdeoligion>Convertește</ConvertToPlayerIdeoligion>
+  <ConvertToPlayerIdeoligion>TODO</ConvertToPlayerIdeoligion>
   <!-- EN: Revert -->
-  <RevertToPreviousIdeoligion>Revino la</RevertToPreviousIdeoligion>
+  <RevertToPreviousIdeoligion>TODO</RevertToPreviousIdeoligion>
   <!-- EN: Existing follower -->
-  <ExistingFollowerOfPlayerIdeoligion>Discipol existent</ExistingFollowerOfPlayerIdeoligion>
+  <ExistingFollowerOfPlayerIdeoligion>TODO</ExistingFollowerOfPlayerIdeoligion>
   <!-- EN: You are abandoning a site that contains archotech structures which you have not yet fully studied.\n\nYou will be able to resettle here later, but your colony will be wiped away. -->
-  <AbandonArchotechStructuresWarningDialog>Abandonați un sit care conține structuri arheologice pe care încă nu le-ați studiat pe deplin.\n\nVă veți putea reinstala aici mai târziu, dar colonia dvs. va fi ștearsă.</AbandonArchotechStructuresWarningDialog>
+  <AbandonArchotechStructuresWarningDialog>TODO</AbandonArchotechStructuresWarningDialog>
   <!-- EN: {0} quantity that can be brought to the new colony.\n\nThe maximum allowed quantity is: {1} -->
   <ItemQuantityTooltip>TODO</ItemQuantityTooltip>
   <!-- EN: Your colony was sold. Its purchasers are ready for you to choose where to land next. -->
   <SoldColonyDescription>TODO</SoldColonyDescription>
 
   <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}? -->
-  <ConfirmHackEnenyTerminal>Hackuirea acestui {0} va alerta inamicii și îi va determina să atace. Chiar vreți să hackuiți {0}?</ConfirmHackEnenyTerminal>
+  <ConfirmHackEnenyTerminal>TODO</ConfirmHackEnenyTerminal>
 
   <!-- EN: Relics -->
-  <RelicsSection>Relicve</RelicsSection>
+  <RelicsSection>TODO</RelicsSection>
 
   <!-- Food restrictions -->
   <!-- EN: Vegetarian -->
@@ -326,4 +322,9 @@
   <FoodRestrictionCannibal>TODO</FoodRestrictionCannibal>
   <!-- EN: Insect meat -->
   <FoodRestrictionInsectMeat>TODO</FoodRestrictionInsectMeat>
+
+  <!-- EN: Styles in use -->
+  <StylesInUse>TODO</StylesInUse>
+  <!-- EN: Add a style. -->
+  <StyleCategoryAddDesc>TODO</StyleCategoryAddDesc>
 </LanguageData>

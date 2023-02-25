@@ -2,91 +2,91 @@
 <LanguageData>
 
   <!-- EN: d -->
-  <LetterDay>d</LetterDay>
+  <LetterDay>TODO</LetterDay>
   <!-- EN: h -->
-  <LetterHour>h</LetterHour>
+  <LetterHour>TODO</LetterHour>
   <!-- EN: m -->
-  <LetterMinute>m</LetterMinute>
+  <LetterMinute>TODO</LetterMinute>
   <!-- EN: s -->
-  <LetterSecond>s</LetterSecond>
+  <LetterSecond>TODO</LetterSecond>
   <!-- EN: y -->
-  <LetterYear>y</LetterYear>
+  <LetterYear>TODO</LetterYear>
 
   <!-- EN: days -->
-  <DaysLower>zile</DaysLower>
+  <DaysLower>TODO</DaysLower>
   <!-- EN: hours -->
-  <HoursLower>ore</HoursLower>
+  <HoursLower>TODO</HoursLower>
   <!-- EN: seconds -->
-  <SecondsLower>secunde</SecondsLower>
+  <SecondsLower>TODO</SecondsLower>
 
   <!-- EN: spring -->
-  <SeasonSpring>Primăvară</SeasonSpring>
+  <SeasonSpring>TODO</SeasonSpring>
   <!-- EN: summer -->
-  <SeasonSummer>Vară</SeasonSummer>
+  <SeasonSummer>TODO</SeasonSummer>
   <!-- EN: fall -->
-  <SeasonFall>Toamnă</SeasonFall>
+  <SeasonFall>TODO</SeasonFall>
   <!-- EN: winter -->
-  <SeasonWinter>Iarnă</SeasonWinter>
+  <SeasonWinter>TODO</SeasonWinter>
   <!-- EN: permanent summer -->
-  <SeasonPermanentSummer>vară permanentă</SeasonPermanentSummer>
+  <SeasonPermanentSummer>TODO</SeasonPermanentSummer>
   <!-- EN: permanent winter -->
-  <SeasonPermanentWinter>iarnă permanentă</SeasonPermanentWinter>
+  <SeasonPermanentWinter>TODO</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
-  <QuadrumAprimay>Aprimai</QuadrumAprimay>
+  <QuadrumAprimay>TODO</QuadrumAprimay>
   <!-- EN: Jugust -->
-  <QuadrumJugust>Iugust</QuadrumJugust>
+  <QuadrumJugust>TODO</QuadrumJugust>
   <!-- EN: Septober -->
-  <QuadrumSeptober>Septombrie</QuadrumSeptober>
+  <QuadrumSeptober>TODO</QuadrumSeptober>
   <!-- EN: Decembary -->
-  <QuadrumDecembary>Decembruarie</QuadrumDecembary>
+  <QuadrumDecembary>TODO</QuadrumDecembary>
 
   <!-- EN: Apr -->
-  <QuadrumAprimay_Short>Apr</QuadrumAprimay_Short>
+  <QuadrumAprimay_Short>TODO</QuadrumAprimay_Short>
   <!-- EN: Jug -->
-  <QuadrumJugust_Short>Jug</QuadrumJugust_Short>
+  <QuadrumJugust_Short>TODO</QuadrumJugust_Short>
   <!-- EN: Sep -->
-  <QuadrumSeptober_Short>Sep</QuadrumSeptober_Short>
+  <QuadrumSeptober_Short>TODO</QuadrumSeptober_Short>
   <!-- EN: Dec -->
-  <QuadrumDecembary_Short>Dec</QuadrumDecembary_Short>
+  <QuadrumDecembary_Short>TODO</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
-  <Born>Născut: {0}</Born>
+  <Born>TODO</Born>
   <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
-  <AgeChronological>Vârsta cronologică: {0} ani, {1} quadrumuri, {2} zile</AgeChronological>
+  <AgeChronological>TODO</AgeChronological>
   <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
-  <AgeBiological>Vârsta biologică: {0} ani, {1} quadrumuri, {2} zile</AgeBiological>
+  <AgeBiological>TODO</AgeBiological>
 
   <!-- Date periods -->
   <!-- EN: 1 year -->
-  <Period1Year>1 an</Period1Year>
+  <Period1Year>TODO</Period1Year>
   <!-- EN: {0} years -->
-  <PeriodYears>{0} ani</PeriodYears>
+  <PeriodYears>TODO</PeriodYears>
   <!-- EN: 1 quadrum -->
-  <Period1Quadrum>1 quadrum</Period1Quadrum>
+  <Period1Quadrum>TODO</Period1Quadrum>
   <!-- EN: {0} quadrums -->
-  <PeriodQuadrums>{0} quadrumuri</PeriodQuadrums>
+  <PeriodQuadrums>TODO</PeriodQuadrums>
   <!-- EN: 1 day -->
-  <Period1Day>1 zi</Period1Day>
+  <Period1Day>TODO</Period1Day>
   <!-- EN: {0} days -->
-  <PeriodDays>{0} zile</PeriodDays>
+  <PeriodDays>TODO</PeriodDays>
   <!-- EN: 1 hour -->
-  <Period1Hour>1 oră</Period1Hour>
+  <Period1Hour>TODO</Period1Hour>
   <!-- EN: {0} hours -->
-  <PeriodHours>{0} ore</PeriodHours>
+  <PeriodHours>TODO</PeriodHours>
   <!-- EN: 1 second -->
-  <Period1Second>1 secundă</Period1Second>
+  <Period1Second>TODO</Period1Second>
   <!-- EN: {0} seconds -->
-  <PeriodSeconds>{0} secunde</PeriodSeconds>
+  <PeriodSeconds>TODO</PeriodSeconds>
 
   <!-- Misc -->
   <!-- EN: Started -->
-  <Started>A început</Started>
+  <Started>TODO</Started>
   <!-- EN: Lasted -->
-  <Lasted>A durat</Lasted>
+  <Lasted>TODO</Lasted>
   <!-- EN: occurred {0} ago -->
-  <OccurredTimeAgo>a avut loc acum {0}</OccurredTimeAgo>
+  <OccurredTimeAgo>TODO</OccurredTimeAgo>
   <!-- EN: {0} ago -->
-  <TimeAgo>{0} ago</TimeAgo>
+  <TimeAgo>TODO</TimeAgo>
   
 </LanguageData>

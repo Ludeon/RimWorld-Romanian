@@ -2,173 +2,181 @@
 <LanguageData>
   
   <!-- EN: Alerts -->
-  <Alerts.label>Alerte</Alerts.label>
+  <Alerts.label>TODO</Alerts.label>
   <!-- EN: The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts. -->
-  <Alerts.helpText>Alertele de pe marginea din dreapta a ecranului vă informează despre problemele care necesită atenția dumneavoastră.\n\nFiți cu ochii pe alerte.</Alerts.helpText>
+  <Alerts.helpText>TODO</Alerts.helpText>
   
   <!-- EN: Allowed areas -->
-  <AllowedAreas.label>Zone permise</AllowedAreas.label>
+  <AllowedAreas.label>TODO</AllowedAreas.label>
   <!-- EN: Colonists and colony animals can be assigned to ALLOWED AREAS. This forbids them from taking destinations outside their allowed area.\n\nThis can be used to, for example, forbid colonists from going outside.\n\nYou can create multiple allowed areas and assign them to different colonists and animals.\n\nCreate, delete, and assign allowed areas in the RESTRICT tab.\n\nPaint allowed areas onto the map using the EXPAND ALLOWED AREA and CLEAR ALLOWED AREA designators in the Architect tab. -->
-  <AllowedAreas.helpText>Coloniștii și animalele din colonie pot fi atribuite la ZONE PERMISE. Acest lucru le interzice să ia destinații în afara zonei permise.\n\nAceasta poate fi folosită, de exemplu, pentru a le interzice coloniștilor să iasă în exterior.\n\nPoți crea mai multe zone permise și le poți atribui la diferiți coloniști și animale.\n\nCreează, șterge și atribuie zone permise în fila RESTRICT.\n\nPictează zonele permise pe hartă folosind designatorii EXTINDE ZONA PERMISĂ și ȘTERGE ZONA PERMISĂ din fila Arhitect.</AllowedAreas.helpText>
+  <AllowedAreas.helpText>TODO</AllowedAreas.helpText>
   
   <!-- EN: Animal taming -->
-  <AnimalTaming.label>Îmblânzirea animalelor</AnimalTaming.label>
+  <AnimalTaming.label>TODO</AnimalTaming.label>
   <!-- EN: You can assign colonists to tame a wild animal with the TAME designator.\n\nColonists will offer the animal food and attempt to tame it.\n\nBeware: Some animals can respond violently to failed taming attempts. -->
-  <AnimalTaming.helpText>Puteți desemna coloniști să îmblânzească un animal sălbatic cu indicativul TAME.\n\nColoniștii vor oferi animalului hrană și vor încerca să-l îmblânzească.\n\nAtenție: Unele animale pot reacționa violent la încercările eșuate de îmblânzire.</AnimalTaming.helpText>
+  <AnimalTaming.helpText>TODO</AnimalTaming.helpText>
   
   <!-- EN: Animal training -->
-  <AnimalTraining.label>Antrenarea animalelor</AnimalTraining.label>
+  <AnimalTraining.label>TODO</AnimalTraining.label>
   <!-- EN: You can assign a tame animal to be trained in specific skills on its TRAINING tab.\n\nAnimals can't be trained continuously; they need time between training sessions. -->
-  <AnimalTraining.helpText>Puteți atribui un animal îmblânzit pentru a fi antrenat în anumite abilități în fila ANTRENAMENT.\n\nAnimalele nu pot fi antrenate continuu; au nevoie de timp între sesiunile de antrenament.</AnimalTraining.helpText>
+  <AnimalTraining.helpText>TODO</AnimalTraining.helpText>
   
   <!-- EN: Camera dolly -->
-  <CameraDolly.label>Camera dolly</CameraDolly.label>
+  <CameraDolly.label>TODO</CameraDolly.label>
   <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
-  <CameraDolly.helpText>Deplasați camera făcând clic și trăgând BUTONUL 3 al mouse-ului (butonul din mijloc) sau cu tastele {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}.</CameraDolly.helpText>
+  <CameraDolly.helpText>TODO</CameraDolly.helpText>
+  <!-- EN: Move the camera by using the D-pad. -->
+  <CameraDolly.helpTextController>TODO</CameraDolly.helpTextController>
   
   <!-- EN: Camera zoom -->
-  <CameraZoom.label>Zoom-ul camerei</CameraZoom.label>
+  <CameraZoom.label>TODO</CameraZoom.label>
   <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
-  <CameraZoom.helpText>Amplasați și micșorați imaginea cu ajutorul rotiței MOUSEWHEEL sau cu tastele {Key:MapZoom_In} și {Key:MapZoom_Out}.</CameraZoom.helpText>
+  <CameraZoom.helpText>TODO</CameraZoom.helpText>
+  <!-- EN: Zoom in and out with {Key:MapZoom_In} and {Key:MapZoom_Out}. -->
+  <CameraZoom.helpTextController>TODO</CameraZoom.helpTextController>
   
   <!-- EN: Clicking messages -->
-  <ClickingMessages.label>Clic pe mesaje</ClickingMessages.label>
+  <ClickingMessages.label>TODO</ClickingMessages.label>
   <!-- EN: You can click on the notifications in the top-left of the screen to instantly center the camera on their subject. -->
-  <ClickingMessages.helpText>Puteți face clic pe notificările din stânga sus a ecranului pentru a centra instantaneu camera pe subiectul acestora.</ClickingMessages.helpText>
+  <ClickingMessages.helpText>TODO</ClickingMessages.helpText>
   
   <!-- EN: Cover and shooting -->
-  <CoverAndShooting.label>Acoperire și tragere</CoverAndShooting.label>
+  <CoverAndShooting.label>TODO</CoverAndShooting.label>
   <!-- EN: The most important thing to do in ranged combat is to use cover.\n\nCover only works if your colonist is touching it, and it is between your colonist and the enemy.\n\nYou can also place colonists behind wall corners. They will lean out to shoot.\n\nMost things can be used as cover, but some things are better than others. Hiding behind a tree is better than nothing, but hiding behind sandbags is better than using a tree. -->
-  <CoverAndShooting.helpText>Cel mai important lucru pe care trebuie să-l faceți în lupta la distanță este să folosiți acoperirea.\n\nCoperirea funcționează doar dacă colonistul dvs. o atinge și dacă se află între colonistul dvs. și inamic.\n\nDe asemenea, puteți plasa coloniștii în spatele colțurilor de zid. Ei se vor apleca pentru a trage.\n\nMajoritatea lucrurilor pot fi folosite ca acoperire, dar unele lucruri sunt mai bune decât altele. Ascunderea în spatele unui copac este mai bună decât nimic, dar ascunderea în spatele unor saci de nisip este mai bună decât folosirea unui copac.</CoverAndShooting.helpText>
+  <CoverAndShooting.helpText>TODO</CoverAndShooting.helpText>
   
   <!-- EN: Item deterioration -->
-  <Deterioration.label>Deteriorarea obiectelor</Deterioration.label>
+  <Deterioration.label>TODO</Deterioration.label>
   <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
-  <Deterioration.helpText>Obiectele lăsate în aer liber se vor deteriora încet.\n\nDacă doriți să depozitați obiectele pe termen lung, păstrați-le într-o cameră acoperită.</Deterioration.helpText>
+  <Deterioration.helpText>TODO</Deterioration.helpText>
   
   <!-- EN: Equipping weapons -->
-  <EquippingWeapons.label>Echiparea armelor</EquippingWeapons.label>
+  <EquippingWeapons.label>TODO</EquippingWeapons.label>
   <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
-  <EquippingWeapons.helpText>Coloniștii tăi au sosit cu câteva arme. Echipează-i!\n\nSelectați fiecare colonist și faceți clic dreapta pe arma pe care doriți să o echipeze.</EquippingWeapons.helpText>
+  <EquippingWeapons.helpText>TODO</EquippingWeapons.helpText>
+  <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and press the left trigger on the weapon you want them to equip. -->
+  <EquippingWeapons.helpTextController>TODO</EquippingWeapons.helpTextController>
   
   <!-- EN: Fire preparation -->
-  <FirePreparation.label>Pregătirea pentru incendiu</FirePreparation.label>
+  <FirePreparation.label>TODO</FirePreparation.label>
   <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.\n\nThese design elements can help reduce the damage from fires:\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
-  <FirePreparation.helpText>Incendiile pot arde cu ușurință o colonie. Pentru a le învinge, trebuie să vă pregătiți înainte ca acestea să se întâmple.\n\nAceste elemente de design pot ajuta la reducerea pagubelor provocate de incendii:\n\n1. În loc să construiți o super-clădire, construiți clădiri separate cu spații între ele.\n\n2. Folosiți materiale mai puțin inflamabile. Lemnul este ieftin și rapid - dar foarte inflamabil.\n\n3. Construiți garduri antifoc pentru a opri incendiile sălbatice care se apropie de baza dumneavoastră. O fâșie de podea de beton de 3 sau 4 celule lățime va opri, în general, un incendiu care avansează.</FirePreparation.helpText>
+  <FirePreparation.helpText>TODO</FirePreparation.helpText>
   
   <!-- EN: Forbid and allow -->
-  <Forbidding.label>Interzis și permis</Forbidding.label>
+  <Forbidding.label>TODO</Forbidding.label>
   <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
-  <Forbidding.helpText>Coloniștii nu vor interacționa cu obiectele marcate INTERZIS.\n\nArticolele interzise au atașat un mic X roșu. Selectați un element interzis și folosiți comenzile din partea de jos pentru a-l PERMITE.</Forbidding.helpText>
+  <Forbidding.helpText>TODO</Forbidding.helpText>
   
   <!-- EN: Forbidding doors -->
-  <ForbiddingDoors.label>Interzicerea ușilor</ForbiddingDoors.label>
+  <ForbiddingDoors.label>TODO</ForbiddingDoors.label>
   <!-- EN: You can FORBID doors so colonists and tame animals won't go through them.\n\nNote that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway. -->
-  <ForbiddingDoors.helpText>Puteți INTERZICE ușile astfel încât coloniștii și animalele îmblânzite să nu treacă prin ele.\n\nRețineți că aceasta nu este o încuietoare de ușă. Ușile sunt întotdeauna încuiate, astfel încât dușmanii nu pot trece liber. Interzicerea doar le ordonă coloniștilor tăi să nu folosească ușa. Coloniștii care o iau razna ar putea folosi ușa oricum.</ForbiddingDoors.helpText>
+  <ForbiddingDoors.helpText>TODO</ForbiddingDoors.helpText>
   
   <!-- EN: Forming caravans -->
-  <FormCaravan.label>Formarea de caravane</FormCaravan.label>
+  <FormCaravan.label>TODO</FormCaravan.label>
   <!-- EN: You can form a caravan to send groups of people traveling across the planet!\n\nIn the WORLD tab, select your home base and click the "form caravan" button. -->
-  <FormCaravan.helpText>Poți forma o caravană pentru a trimite grupuri de oameni care călătoresc pe planetă!\n\nÎn fila LUME, selectează-ți baza ta de pornire și fă clic pe butonul "formează caravana".</FormCaravan.helpText>
+  <FormCaravan.helpText>TODO</FormCaravan.helpText>
   
   <!-- EN: Friendly fire safety -->
-  <FriendlyFireSafety.label>Siguranța focului prietenos</FriendlyFireSafety.label>
-  <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over his friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
-  <FriendlyFireSafety.helpText>Focul prietenesc nu are loc niciodată dacă trăgătorul este aproape de aliatul său.\n\nDe exemplu, puteți pune în siguranță un colonist care mânuiește sabia direct în fața unuia care mânuiește arma. Trăgătorul va trage peste umărul prietenului său.\n\nAceasta este o modalitate bună de a combina luptătorii de la distanță cu cei de corp la corp.</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.label>TODO</FriendlyFireSafety.label>
+  <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over their friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
+  <FriendlyFireSafety.helpText>TODO</FriendlyFireSafety.helpText>
   
   <!-- EN: Getting more traders -->
-  <GettingMoreTraders.label>Obținerea mai multor comercianți</GettingMoreTraders.label>
+  <GettingMoreTraders.label>TODO</GettingMoreTraders.label>
   <!-- EN: More trader caravans will come to visit you if you're allied with more factions.\n\nIf you have no allies, no caravans will ever visit!\n\nYou can also pay allies to send trade caravans by calling them on the comms console. -->
-  <GettingMoreTraders.helpText>Mai multe caravane de negustori vor veni să vă viziteze dacă sunteți aliat cu mai multe facțiuni.\n\nDacă nu aveți aliați, nicio caravană nu vă va vizita niciodată!\n\nDe asemenea, puteți plăti aliații să trimită caravane comerciale, chemându-i de pe consola de comunicații.</GettingMoreTraders.helpText>
+  <GettingMoreTraders.helpText>TODO</GettingMoreTraders.helpText>
   
   <!-- EN: Growing zones -->
-  <GrowingFood.label>Zone de cultivare</GrowingFood.label>
+  <GrowingFood.label>TODO</GrowingFood.label>
   <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
-  <GrowingFood.helpText>Pentru a cultiva hrană, amplasați ZONE DE CULTIVARE cu ajutorul meniului Arhitect. \n\nCele pot fi amplasate doar pe teren fertil.</GrowingFood.helpText>
+  <GrowingFood.helpText>TODO</GrowingFood.helpText>
   
   <!-- EN: History tab -->
-  <HistoryTab.label>Fila Istoric</HistoryTab.label>
+  <HistoryTab.label>TODO</HistoryTab.label>
   <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
-  <HistoryTab.helpText>Puteți vedea o înregistrare a averilor coloniei dvs. de-a lungul timpului în fila ISTORIC din partea de jos a ecranului.</HistoryTab.helpText>
+  <HistoryTab.helpText>TODO</HistoryTab.helpText>
   
   <!-- EN: Home area -->
-  <HomeArea.label>Zona de acasă</HomeArea.label>
+  <HomeArea.label>TODO</HomeArea.label>
   <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
-  <HomeArea.helpText>ZONA DE ACASĂ le spune coloniștilor tăi ce zonă trebuie să curețe și unde să stingă incendiile.\n\nDefiniți ZONA DE ACASĂ cu ajutorul categoriei Zone din meniul Arhitect.</HomeArea.helpText>
+  <HomeArea.helpText>TODO</HomeArea.helpText>
   
   <!-- EN: Hostility response modes -->
-  <HostilityResponse.label>Moduri de răspuns la ostilitate</HostilityResponse.label>
+  <HostilityResponse.label>TODO</HostilityResponse.label>
   <!-- EN: You can configure how colonists should automatically respond to threats like predatory animals.\n\nChoose from FLEE, ATTACK, and IGNORE modes in the ASSIGN menu. -->
-  <HostilityResponse.helpText>Puteți configura modul în care coloniștii ar trebui să răspundă automat la amenințări, cum ar fi animalele de pradă.\n\nAlegeți dintre modurile FUGĂ, ATAC și IGNORARE din meniul ASIGNARE.</HostilityResponse.helpText>
+  <HostilityResponse.helpText>TODO</HostilityResponse.helpText>
   
   <!-- EN: Info card -->
-  <InfoCard.label>Carte de informații</InfoCard.label>
+  <InfoCard.label>TODO</InfoCard.label>
   <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
-  <InfoCard.helpText>Cardul de informații vă arată statistici detaliate despre orice obiect, persoană sau construcție.\n\nSelectă o persoană sau un obiect și deschideți cardul lor de informații cu butonul "i" din panoul de inspecție.</InfoCard.helpText>
-  
-  <!-- EN: Room stats inspector -->
-  <InspectRoomStats.label>Inpector statistici cameră</InspectRoomStats.label>
-  <!-- EN: You can inspect the impressiveness, wealth, and beauty of individual rooms using the ROOM STATS INSPECT toggle in the bottom right. -->
-  <InspectRoomStats.helpText>Puteți inspecta impresionanța, bogăția și frumusețea camerelor individuale cu ajutorul comutatorului INSPECTOR STATISTICI CAMERĂ din dreapta jos.</InspectRoomStats.helpText>
+  <InfoCard.helpText>TODO</InfoCard.helpText>
   
   <!-- EN: Manual work priorities -->
-  <ManualWorkPriorities.label>Priorități de lucru manual</ManualWorkPriorities.label>
+  <ManualWorkPriorities.label>TODO</ManualWorkPriorities.label>
   <!-- EN: One of the most important parts of RimWorld is choosing good work settings for your colonists.\n\nPoor work settings can leave essential work unfinished for a long time while colonists waste time on unimportant tasks.\n\nTo give more control over what work colonists do, you can use the Manual Priorities mode in the WORK tab.\n\nIn this mode, each colonist has a priority number for each work type. Colonists will do priority 1 work from left to right, then priority 2 work from left to right, and so on.\n\nIntelligent use of these setting is essential for a large, well-automated colony. -->
-  <ManualWorkPriorities.helpText>Una dintre cele mai importante părți din RimWorld este alegerea unor setări de lucru bune pentru coloniștii dumneavoastră.\n\nSetările de lucru proaste pot lăsa munca esențială neterminată pentru mult timp, în timp ce coloniștii pierd timpul cu sarcini neimportante.\n\nPentru a oferi mai mult control asupra muncii pe care o fac coloniștii, puteți folosi modul Priorități manuale din fila MUNCĂ.\n\nÎn acest mod, fiecare colonist are un număr de prioritate pentru fiecare tip de muncă. Coloniștii vor face munca de prioritate 1 de la stânga la dreapta, apoi munca de prioritate 2 de la stânga la dreapta și așa mai departe.\n\nUtilizarea inteligentă a acestor setări este esențială pentru o colonie mare și bine automatizată.</ManualWorkPriorities.helpText>
+  <ManualWorkPriorities.helpText>TODO</ManualWorkPriorities.helpText>
   
   <!-- EN: Medical operations -->
-  <MedicalOperations.label>Operațiuni medicale</MedicalOperations.label>
+  <MedicalOperations.label>TODO</MedicalOperations.label>
   <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
-  <MedicalOperations.helpText>Pentru a atribui o operațiune medicală, cum ar fi recoltarea de organe sau instalarea de proteze, deschideți fila SĂNĂTATE a unui colonist, apoi treceți la subfila OPERAȚIUNI.</MedicalOperations.helpText>
+  <MedicalOperations.helpText>TODO</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
-  <Mining.label>Minerit</Mining.label>
+  <Mining.label>TODO</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
-  <Mining.helpText>Puteți desemna locul unde să mineriți deschizând meniul ARHITECT și selectând fila ORDINE.\n\nCâteva blocuri minabile produc OȚEL, AUR, PLASTEEL și alte materiale utile.</Mining.helpText>
+  <Mining.helpText>TODO</Mining.helpText>
   
   <!-- EN: Outfits -->
-  <Outfits.label>Tinute</Outfits.label>
+  <Outfits.label>TODO</Outfits.label>
   <!-- EN: Colonists will automatically try to wear the newest, highest-quality apparel they can.\n\nYou don't need to manually assign each piece of apparel to colonists (though you can, if you wish).\n\nTo assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage outfits" dialog box to design a new outfit, and then assign the outfit to colonists. -->
-  <Outfits.helpText>Coloniștii vor încerca în mod automat să poarte cele mai noi și de cea mai bună calitate îmbrăcăminte pe care le pot purta.\n\nNu trebuie să atribuiți manual fiecare piesă de îmbrăcăminte coloniștilor (deși puteți, dacă doriți).\n\n\NPentru a le atribui coloniștilor restricții privind modul în care să se îmbrace, deschideți fila ASIGNARE, folosiți caseta de dialog "Gestionare ținute" pentru a proiecta o nouă ținută și apoi atribuiți ținuta coloniștilor.</Outfits.helpText>
+  <Outfits.helpText>TODO</Outfits.helpText>
   
   <!-- EN: Pausing -->
-  <Pause.label>Pauză</Pause.label>
+  <Pause.label>TODO</Pause.label>
   <!-- EN: Hit {Key:TogglePause} to pause or unpause the game.\n\nYou can give orders while paused.\n\nRemember this - if things get hectic, just hit {Key:TogglePause}! -->
-  <Pause.helpText>Apăsați {Key:TogglePause} pentru a pune pauză sau pentru a dezactiva jocul.\n\nPuteți da ordine în timpul pauzei.\n\nRețineți acest lucru - dacă lucrurile devin agitate, apăsați {Key:TogglePause}!</Pause.helpText>
+  <Pause.helpText>TODO</Pause.helpText>
   
   <!-- EN: Shot accuracy tooltip -->
-  <ShotAccuracyTooltip.label>Tooltip privind precizia împușcăturii</ShotAccuracyTooltip.label>
+  <ShotAccuracyTooltip.label>TODO</ShotAccuracyTooltip.label>
   <!-- EN: You can see the exact calculations behind the accuracy of any shot.\n\nTo do so, select the shooter, then rest the mouse over the target. The tooltip will show the chance to hit, and a breakdown of the contribution of various to-hit chance multipliers. -->
-  <ShotAccuracyTooltip.helpText>Puteți vedea calculele exacte care stau la baza preciziei oricărei lovituri.\n\nPentru a face acest lucru, selectați trăgătorul, apoi așezați mouse-ul deasupra țintei. Tooltip-ul va afișa șansa de a lovi și o defalcare a contribuției diferiților multiplicatori ai șanselor de lovire.</ShotAccuracyTooltip.helpText>
+  <ShotAccuracyTooltip.helpText>TODO</ShotAccuracyTooltip.helpText>
   
   <!-- EN: Spoilage and freezers -->
-  <SpoilageAndFreezers.label>Stricăciuni și congelatoare</SpoilageAndFreezers.label>
+  <SpoilageAndFreezers.label>TODO</SpoilageAndFreezers.label>
   <!-- EN: Most foodstuffs will spoil after a relatively short time.\n\nTo prevent this, you can build a walk-in freezer.\n\nTo build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.\n\nFrozen foods won't ever spoil. -->
-  <SpoilageAndFreezers.helpText>Cele mai multe produse alimentare se vor strica după un timp relativ scurt.\n\nPentru a preveni acest lucru, puteți construi un congelator.\n\nPentru a construi un congelator, construiți o cameră închisă și puneți unul sau două refrigeratoare în perete. Setați răcitoarele la o temperatură țintă negativă.\n\nAlimentele congelate nu se vor strica niciodată.</SpoilageAndFreezers.helpText>
+  <SpoilageAndFreezers.helpText>TODO</SpoilageAndFreezers.helpText>
   
   <!-- EN: Stockpiles -->
-  <Stockpiles.label>Depozite</Stockpiles.label>
+  <Stockpiles.label>TODO</Stockpiles.label>
   <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
-  <Stockpiles.helpText>Coloniștii dvs. au nevoie de un loc unde să depoziteze obiecte. Desemnați un DEPOZIT pentru ca ei să depoziteze lucruri.\n\nGăsește stocul în secțiunea ZONE din meniul ARCHITECT din stânga jos.</Stockpiles.helpText>
+  <Stockpiles.helpText>TODO</Stockpiles.helpText>
   
   <!-- EN: Storage tab -->
-  <StorageTab.label>Tabul de depozitare</StorageTab.label>
+  <StorageTab.label>TODO</StorageTab.label>
   <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
-  <StorageTab.helpText>Puteți configura depozitele și clădirile de depozitare selectându-le și deschizând TAB-ul STORAGE de deasupra panoului de inspector din stânga jos.\n\nÎn tab-ul de depozitare al unui depozit, puteți extinde categoriile pentru a permite sau a refuza anumite elemente. Faceți clic pe triunghiurile din stânga numelor categoriilor.\n\nPuteți modifica PRIORITATEA depozitării. Coloniștii vor umple mai întâi depozitul cu prioritate mai mare și vor muta articolele de la prioritatea mai mică la cea mai mare.</StorageTab.helpText>
+  <StorageTab.helpText>TODO</StorageTab.helpText>
+  
+  <!-- EN: Tile inspector -->
+  <TileInspector.label>TODO</TileInspector.label>
+  <!-- EN: You can inspect the details of a tile by holding {Key:ShowCellInspector}. This displays the contents of a tile, room information, beauty information, and more. -->
+  <TileInspector.helpText>TODO</TileInspector.helpText>
   
   <!-- EN: Time assignments -->
-  <TimeAssignments.label>Asignări de timp</TimeAssignments.label>
+  <TimeAssignments.label>TODO</TimeAssignments.label>
   <!-- EN: You can modify what time of day colonists should do different activities using the RESTRICT tab. -->
-  <TimeAssignments.helpText>Puteți modifica ora din zi la care coloniștii trebuie să facă diferite activități folosind fila RESTRICT.</TimeAssignments.helpText>
+  <TimeAssignments.helpText>TODO</TimeAssignments.helpText>
   
   <!-- EN: Time controls -->
-  <TimeControls.label>Controale de timp</TimeControls.label>
+  <TimeControls.label>TODO</TimeControls.label>
   <!-- EN: You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
-  <TimeControls.helpText>Puteți accelera timpul.\n\nÎncercați să controlați timpul cu tastele {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} și {Key:TimeSpeed_Superfast}, sau cu controalele de timp din dreapta jos.</TimeControls.helpText>
+  <TimeControls.helpText>TODO</TimeControls.helpText>
+  <!-- EN: You can speed up time.\n\nTry controlling time with {Key:TimeSpeed_Faster} and {Key:TimeSpeed_Slower}, or with the time controls in the bottom right. -->
+  <TimeControls.helpTextController>TODO</TimeControls.helpTextController>
   
   <!-- EN: Work settings -->
-  <WorkTab.label>Setări de muncă</WorkTab.label>
+  <WorkTab.label>TODO</WorkTab.label>
   <!-- EN: You can set each colonist's work settings in the WORK tab at the bottom left of the screen.\n\nThey will always do the highest priority work that they can find.\n\nIf nobody has a certain work type assigned, or if they are busy with higher-priority tasks, it will never get done. -->
-  <WorkTab.helpText>Puteți seta setările de lucru ale fiecărui colonist în fila MUNCĂ din stânga jos a ecranului.\n\nEi vor face întotdeauna munca cu cea mai mare prioritate pe care o pot găsi.\n\nDacă nimeni nu are atribuit un anumit tip de muncă, sau dacă sunt ocupați cu sarcini cu prioritate mai mare, aceasta nu va fi făcută niciodată.</WorkTab.helpText>
+  <WorkTab.helpText>TODO</WorkTab.helpText>
   
 </LanguageData>

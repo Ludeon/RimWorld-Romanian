@@ -2,78 +2,78 @@
 <LanguageData>
   
   <!-- EN: cassowary egg (fert.) -->
-  <EggCassowaryFertilized.label>ou de cassowary (fert.)</EggCassowaryFertilized.label>
+  <EggCassowaryFertilized.label>TODO</EggCassowaryFertilized.label>
   <!-- EN: A fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked. -->
-  <EggCassowaryFertilized.description>Un ou de cassowary fertilizat. Dacă totul merge bine, ar trebui să eclozeze și să se transforme într-un pui de cassowary. Acesta poate fi mâncat crud, dar este mult mai bun gătit.</EggCassowaryFertilized.description>
+  <EggCassowaryFertilized.description>TODO</EggCassowaryFertilized.description>
   
   <!-- EN: chicken egg (fert.) -->
-  <EggChickenFertilized.label>ou de găină (fert.)</EggChickenFertilized.label>
+  <EggChickenFertilized.label>TODO</EggChickenFertilized.label>
   <!-- EN: A fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked. -->
-  <EggChickenFertilized.description>Un ou de găină fertilizat. Dacă totul merge bine, ar trebui să eclozeze într-un pui. Poate fi mâncat crud, dar este mult mai bun gătit.</EggChickenFertilized.description>
+  <EggChickenFertilized.description>TODO</EggChickenFertilized.description>
   
   <!-- EN: chicken egg (unfert.) -->
-  <EggChickenUnfertilized.label>ou de găină (nefert.)</EggChickenUnfertilized.label>
+  <EggChickenUnfertilized.label>TODO</EggChickenUnfertilized.label>
   <!-- EN: An unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked. -->
-  <EggChickenUnfertilized.description>Un ou de găină nefertilizat. Poate fi consumat crud, dar este mult, mult mai bun gătit.</EggChickenUnfertilized.description>
+  <EggChickenUnfertilized.description>TODO</EggChickenUnfertilized.description>
   
   <!-- EN: cobra egg (fert.) -->
-  <EggCobraFertilized.label>ou de cobră (fert.)</EggCobraFertilized.label>
+  <EggCobraFertilized.label>TODO</EggCobraFertilized.label>
   <!-- EN: A fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked. -->
-  <EggCobraFertilized.description>Un ou de cobră fertilizat. Dacă totul merge bine, ar trebui să eclozeze într-un pui de cobră. Poate fi mâncat crud, dar este mult mai bun gătit.</EggCobraFertilized.description>
+  <EggCobraFertilized.description>TODO</EggCobraFertilized.description>
   
   <!-- EN: duck egg (fert.) -->
-  <EggDuckFertilized.label>ou de rață (fert.)</EggDuckFertilized.label>
+  <EggDuckFertilized.label>TODO</EggDuckFertilized.label>
   <!-- EN: A fertilized duck egg. If all goes well, it should hatch into a duckling. It can be eaten raw, but it's much better cooked. -->
-  <EggDuckFertilized.description>Un ou de rață fertilizat. Dacă totul merge bine, ar trebui să eclozeze într-un pui de rață. Poate fi mâncat crud, dar este mult mai bun gătit.</EggDuckFertilized.description>
+  <EggDuckFertilized.description>TODO</EggDuckFertilized.description>
   
   <!-- EN: duck egg (unfert.) -->
-  <EggDuckUnfertilized.label>ou de rață (nefert.)</EggDuckUnfertilized.label>
+  <EggDuckUnfertilized.label>TODO</EggDuckUnfertilized.label>
   <!-- EN: An unfertilized duck egg. It can be eaten raw, but it's much, much better cooked. -->
-  <EggDuckUnfertilized.description>Un ou de rață nefertilizat. Poate fi consumat crud, dar este mult, mult mai bun gătit.</EggDuckUnfertilized.description>
+  <EggDuckUnfertilized.description>TODO</EggDuckUnfertilized.description>
   
   <!-- EN: emu egg (fert.) -->
-  <EggEmuFertilized.label>ou de emu (fert.)</EggEmuFertilized.label>
+  <EggEmuFertilized.label>TODO</EggEmuFertilized.label>
   <!-- EN: A fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked. -->
-  <EggEmuFertilized.description>Un ou de emu fertilizat. Dacă totul merge bine, ar trebui să eclozeze într-un pui de emu. Acesta poate fi mâncat crud, dar este mult mai bun gătit.</EggEmuFertilized.description>
+  <EggEmuFertilized.description>TODO</EggEmuFertilized.description>
   
   <!-- EN: goose egg (fert.) -->
-  <EggGooseFertilized.label>ou de gâscă (fert.)</EggGooseFertilized.label>
+  <EggGooseFertilized.label>TODO</EggGooseFertilized.label>
   <!-- EN: A fertilized goose egg. If all goes well, it should hatch into a baby goose. It can be eaten raw, but it's much better cooked. -->
-  <EggGooseFertilized.description>Un ou de gâscă fertilizat. Dacă totul merge bine, ar trebui să eclozeze într-un pui de gâscă. Poate fi mâncat crud, dar este mult mai bun gătit.</EggGooseFertilized.description>
+  <EggGooseFertilized.description>TODO</EggGooseFertilized.description>
   
   <!-- EN: goose egg (unfert.) -->
-  <EggGooseUnfertilized.label>ou de gâscă (nefert.)</EggGooseUnfertilized.label>
+  <EggGooseUnfertilized.label>TODO</EggGooseUnfertilized.label>
   <!-- EN: An unfertilized goose egg. It can be eaten raw, but it's much, much better cooked. -->
-  <EggGooseUnfertilized.description>Un ou de gâscă nefertilizat. Poate fi consumat crud, dar este mult, mult mai bun gătit.</EggGooseUnfertilized.description>
+  <EggGooseUnfertilized.description>TODO</EggGooseUnfertilized.description>
   
   <!-- EN: iguana egg (fert.) -->
-  <EggIguanaFertilized.label>ou de iguană (fert.)</EggIguanaFertilized.label>
+  <EggIguanaFertilized.label>TODO</EggIguanaFertilized.label>
   <!-- EN: A fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked. -->
-  <EggIguanaFertilized.description>Un ou de iguană fertilizat. Dacă totul merge bine, ar trebui să eclozeze într-un pui de iguană. Poate fi mâncat crud, dar este mult mai bun gătit.</EggIguanaFertilized.description>
+  <EggIguanaFertilized.description>TODO</EggIguanaFertilized.description>
   
   <!-- EN: ostrich egg (fert.) -->
-  <EggOstrichFertilized.label>ou de struț (fert.)</EggOstrichFertilized.label>
+  <EggOstrichFertilized.label>TODO</EggOstrichFertilized.label>
   <!-- EN: A fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked. -->
-  <EggOstrichFertilized.description>Un ou de struț fertilizat. Dacă totul merge bine, ar trebui să eclozeze și să se transforme într-un pui de struț. Acesta poate fi mâncat crud, dar este mult mai bun gătit.</EggOstrichFertilized.description>
+  <EggOstrichFertilized.description>TODO</EggOstrichFertilized.description>
   
   <!-- EN: tortoise egg (fert.) -->
-  <EggTortoiseFertilized.label>ou de broască țestoasă (fert.)</EggTortoiseFertilized.label>
+  <EggTortoiseFertilized.label>TODO</EggTortoiseFertilized.label>
   <!-- EN: A fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked. -->
-  <EggTortoiseFertilized.description>Un ou de broască țestoasă fertilizat. Dacă totul merge bine, ar trebui să eclozeze într-un pui de broască țestoasă. Poate fi mâncat crud, dar este mult mai bun gătit.</EggTortoiseFertilized.description>
+  <EggTortoiseFertilized.description>TODO</EggTortoiseFertilized.description>
   
   <!-- EN: turkey egg (fert.) -->
-  <EggTurkeyFertilized.label>ou de curcan (fert.)</EggTurkeyFertilized.label>
+  <EggTurkeyFertilized.label>TODO</EggTurkeyFertilized.label>
   <!-- EN: A fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked. -->
-  <EggTurkeyFertilized.description>Un ou de curcan fertilizat. Dacă totul merge bine, ar trebui să eclozeze și să se transforme într-un pui de curcan. Acesta poate fi mâncat crud, dar este mult mai bun gătit.</EggTurkeyFertilized.description>
+  <EggTurkeyFertilized.description>TODO</EggTurkeyFertilized.description>
   
   <!-- EN: insect jelly -->
-  <InsectJelly.label>jeleu de insecte</InsectJelly.label>
+  <InsectJelly.label>TODO</InsectJelly.label>
   <!-- EN: Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots. -->
-  <InsectJelly.description>Jeleu depozitat și folosit ca hrană de insecte de dimensiuni mari. Este fină, bogată și satisface nevoia de recreere a celor care o consumă. Datorită proprietăților sale biologice unice, poate hrăni aproape orice creatură și nu putrezește niciodată.</InsectJelly.description>
+  <InsectJelly.description>TODO</InsectJelly.description>
   
   <!-- EN: milk -->
-  <Milk.label>lapte</Milk.label>
+  <Milk.label>TODO</Milk.label>
   <!-- EN: Milk from an animal. -->
-  <Milk.description>Lapte provenit de la un animal.</Milk.description>
+  <Milk.description>TODO</Milk.description>
   
 </LanguageData>

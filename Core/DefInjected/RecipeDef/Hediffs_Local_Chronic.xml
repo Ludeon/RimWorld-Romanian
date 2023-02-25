@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: excise carcinoma -->
-  <ExciseCarcinoma.label>excizează carcinomul</ExciseCarcinoma.label>
+  <ExciseCarcinoma.label>TODO</ExciseCarcinoma.label>
   <!-- EN: Excise a carcinoma. -->
-  <ExciseCarcinoma.description>Extirparea unui carcinom.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.description>TODO</ExciseCarcinoma.description>
   <!-- EN: Excising carcinoma. -->
-  <ExciseCarcinoma.jobString>excizează un carcinom.</ExciseCarcinoma.jobString>
+  <ExciseCarcinoma.jobString>TODO</ExciseCarcinoma.jobString>
   <!-- EN: {0} has successfully excised {1}'s carcinoma. -->
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} a extirpat cu succes carcinomul lui {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>TODO</ExciseCarcinoma.successfullyRemovedHediffMessage>
   
 </LanguageData>

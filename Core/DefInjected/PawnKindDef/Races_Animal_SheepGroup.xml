@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: alpaca -->
-  <Alpaca.label>alpaca</Alpaca.label>
+  <Alpaca.label>TODO</Alpaca.label>
   
   <!-- EN: capybara -->
-  <Capybara.label>capybara</Capybara.label>
+  <Capybara.label>TODO</Capybara.label>
   
   <!-- EN: megasloth -->
-  <Megasloth.label>megasloth</Megasloth.label>
+  <Megasloth.label>TODO</Megasloth.label>
   
   <!-- EN: sheep -->
-  <Sheep.label>oaie</Sheep.label>
+  <Sheep.label>TODO</Sheep.label>
   <!-- EN: ewe -->
-  <Sheep.labelFemale>oaie</Sheep.labelFemale>
+  <Sheep.labelFemale>TODO</Sheep.labelFemale>
   <!-- EN: ram -->
-  <Sheep.labelMale>berbec</Sheep.labelMale>
+  <Sheep.labelMale>TODO</Sheep.labelMale>
   <!-- EN: sheep -->
-  <Sheep.labelPlural>oaie</Sheep.labelPlural>
+  <Sheep.labelPlural>TODO</Sheep.labelPlural>
   <!-- EN: lamb -->
-  <Sheep.lifeStages.lamb.label>miel</Sheep.lifeStages.lamb.label>
+  <Sheep.lifeStages.lamb.label>TODO</Sheep.lifeStages.lamb.label>
   <!-- EN: lambs -->
-  <Sheep.lifeStages.lamb.labelPlural>miei</Sheep.lifeStages.lamb.labelPlural>
+  <Sheep.lifeStages.lamb.labelPlural>TODO</Sheep.lifeStages.lamb.labelPlural>
   
 </LanguageData>

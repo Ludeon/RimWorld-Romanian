@@ -7,9 +7,7 @@ desert
 field
 
 forest
-cactus
 tree
-bush
 thicket
 bramble
 
@@ -37,7 +35,6 @@ cave
 river
 stream
 creek
-tributary
 brook
 delta
 inlet

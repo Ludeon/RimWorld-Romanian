@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-  
-  <!-- UNUSED -->
-  <SiegeMechanoid.arrivalTextEnemy>În loc să atace direct, mecanoizii instalează un grup de mecanoizi în apropierea coloniei. Trebuie să îl ataci pentru a elimina în sfârșit amenințarea.\n\nUnitatea va fi inițial inactivă, așa că îți poți lua timp pentru a decide cum să o ataci.\n\nPoate rămâne inactivă până când este deranjată, sau poate avea un cronometru sau activatori de proximitate.\n\nChiar și unitățile mechanoide inactive nu sunt inofensive. Un cluster latent poate aduna din când în când atacatori mecanoizi sau poate avea un efect negativ mai larg care trebuie rezolvat în cele din urmă.</SiegeMechanoid.arrivalTextEnemy>
-  <SiegeMechanoid.letterLabelEnemy>Asediu mecanoid</SiegeMechanoid.letterLabelEnemy>
-  
-</LanguageData>

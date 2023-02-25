@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: clear -->
-  <Clear.label>senin</Clear.label>
+  <Clear.label>TODO</Clear.label>
   <!-- EN: A clear day. No penalties or modifiers. -->
-  <Clear.description>O zi senină. Fără penalizări sau modificatori.</Clear.description>
+  <Clear.description>TODO</Clear.description>
   
   <!-- EN: dry thunderstorm -->
-  <DryThunderstorm.label>furtună uscată</DryThunderstorm.label>
+  <DryThunderstorm.label>TODO</DryThunderstorm.label>
   <!-- EN: Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out. -->
-  <DryThunderstorm.description>Furtunile uscate sunt periculoase deoarece fulgerele pot declanșa incendii și nu există ploaie pentru a le stinge.</DryThunderstorm.description>
+  <DryThunderstorm.description>TODO</DryThunderstorm.description>
   
   <!-- EN: fog -->
-  <Fog.label>ceață</Fog.label>
+  <Fog.label>TODO</Fog.label>
   <!-- EN: Fog reduces the accuracy of ranged weapons. -->
-  <Fog.description>Ceața reduce precizia armelor de distanță.</Fog.description>
+  <Fog.description>TODO</Fog.description>
   
   <!-- EN: foggy rain -->
-  <FoggyRain.label>ploaie cețoasă</FoggyRain.label>
+  <FoggyRain.label>TODO</FoggyRain.label>
   <!-- EN: Reduces accuracy and movement speed. -->
-  <FoggyRain.description>Reduce precizia și viteza de mișcare.</FoggyRain.description>
+  <FoggyRain.description>TODO</FoggyRain.description>
   
   <!-- EN: rain -->
-  <Rain.label>ploaie</Rain.label>
+  <Rain.label>TODO</Rain.label>
   <!-- EN: Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <Rain.description>Ploaia reduce precizia armelor de distanță, stinge focul și încetinește oamenii.</Rain.description>
+  <Rain.description>TODO</Rain.description>
   
   <!-- EN: rainy thunderstorm -->
-  <RainyThunderstorm.label>furtună ploioasă</RainyThunderstorm.label>
+  <RainyThunderstorm.label>TODO</RainyThunderstorm.label>
   <!-- EN: The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy. -->
-  <RainyThunderstorm.description>Fulgerele vor declanșa incendii, dar ploaia le va stinge. De asemenea, ploaia reduce viteza de mișcare și precizia de tragere.</RainyThunderstorm.description>
+  <RainyThunderstorm.description>TODO</RainyThunderstorm.description>
   
   <!-- EN: gentle snow -->
-  <SnowGentle.label>zăpadă blândă</SnowGentle.label>
+  <SnowGentle.label>TODO</SnowGentle.label>
   <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <SnowGentle.description>Zăpada reduce precizia armelor de distanță, stinge focul și încetinește oamenii.</SnowGentle.description>
+  <SnowGentle.description>TODO</SnowGentle.description>
   
   <!-- EN: hard snow -->
-  <SnowHard.label>zăpadă grea</SnowHard.label>
+  <SnowHard.label>TODO</SnowHard.label>
   <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <SnowHard.description>Zăpada reduce precizia armelor de distanță, stinge focul și încetinește oamenii.</SnowHard.description>
+  <SnowHard.description>TODO</SnowHard.description>
   
 </LanguageData>

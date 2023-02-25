@@ -5,7 +5,6 @@ stone
 boulder
 tree
 shrub
-bush
 pond
 pool
 lake

@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: Cancel -->
-  <DesignatorCancel>Anulează</DesignatorCancel>
+  <DesignatorCancel>TODO</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
-  <DesignatorCancelDesc>Anulați desemnarea construcțiilor, a exploatării miniere, a tractării, a recoltării și a tuturor celorlalte desemnări.</DesignatorCancelDesc>
+  <DesignatorCancelDesc>TODO</DesignatorCancelDesc>
 
   <!-- EN: Cut plants -->
-  <DesignatorCutPlants>Taie plante</DesignatorCutPlants>
+  <DesignatorCutPlants>TODO</DesignatorCutPlants>
   <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
-  <DesignatorCutPlantsDesc>Desemnează plante pentru a fi tăiate și distruse. Planta va fi distrusă, iar orice resursă va fi dusă în depozit.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>TODO</DesignatorCutPlantsDesc>
 
   <!-- EN: Deconstruct -->
-  <DesignatorDeconstruct>Demolează</DesignatorDeconstruct>
+  <DesignatorDeconstruct>TODO</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
-  <DesignatorDeconstructDesc>Demolează o construcție selectată și obține parte din resursele folosite în construirea acesteia.</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>TODO</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
-  <DesignatorUninstall>Dezinstalează</DesignatorUninstall>
+  <DesignatorUninstall>TODO</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
-  <DesignatorUninstallDesc>Dezinstalează acest lucru pentru a putea fi mutat, vândut sau instalat în altă parte.</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>TODO</DesignatorUninstallDesc>
 
   <!-- EN: Extract tree -->
   <DesignatorExtractTree>TODO</DesignatorExtractTree>
@@ -27,239 +27,278 @@
   <DesignatorExtractTreeDesc>TODO</DesignatorExtractTreeDesc>
 
   <!-- EN: Harvest -->
-  <DesignatorHarvest>Recoltează</DesignatorHarvest>
+  <DesignatorHarvest>TODO</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
-  <DesignatorHarvestDesc>Desemnează plantele pentru a recolta roade sau materie primă.</DesignatorHarvestDesc>
+  <DesignatorHarvestDesc>TODO</DesignatorHarvestDesc>
 
   <!-- EN: Chop wood -->
-  <DesignatorHarvestWood>Taie lemne</DesignatorHarvestWood>
+  <DesignatorHarvestWood>TODO</DesignatorHarvestWood>
   <!-- EN: Marks trees to be chopped down for wood. -->
-  <DesignatorHarvestWoodDesc>Desemnează copaci pentru a fi tăiați.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>TODO</DesignatorHarvestWoodDesc>
 
   <!-- EN: Haul things -->
-  <DesignatorHaulThings>Mută lucruri</DesignatorHaulThings>
+  <DesignatorHaulThings>TODO</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
-  <DesignatorHaulThingsDesc>Marcați bucățile de piatră și alte obiecte care urmează să fie transportate în zona de haldă. Nu este necesar pentru lucruri precum mâncarea sau cadavrele, care pot fi transportate întotdeauna.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>TODO</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
-  <MustHaulHaulables>Poți desemna numai lucruri ce pot fi transportate, ne-automate (cum ar fi bucățile de rocă).</MustHaulHaulables>
+  <MustHaulHaulables>TODO</MustHaulHaulables>
 
   <!-- EN: Hunt -->
-  <DesignatorHunt>Vânează</DesignatorHunt>
+  <DesignatorHunt>TODO</DesignatorHunt>
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <DesignatorHuntDesc>Desemnează animale pentru a fi vânate de vânătorii coloniei.</DesignatorHuntDesc>
+  <DesignatorHuntDesc>TODO</DesignatorHuntDesc>
 
   <!-- EN: Mine -->
-  <DesignatorMine>Minează</DesignatorMine>
+  <DesignatorMine>TODO</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
-  <DesignatorMineDesc>Desemnați zonele de rocă ce urmează a fi exploatate.</DesignatorMineDesc>
+  <DesignatorMineDesc>TODO</DesignatorMineDesc>
 
   <!-- EN: Smooth surface -->
-  <DesignatorSmoothSurface>Netezește suprafață</DesignatorSmoothSurface>
+  <DesignatorSmoothSurface>TODO</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc>Desemnați terenurile și zidurile de piatră brută care urmează să fie netezite.</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>TODO</DesignatorSmoothSurfaceDesc>
 
   <!-- EN: Plan -->
-  <DesignatorPlan>Plănuiește</DesignatorPlan>
+  <DesignatorPlan>TODO</DesignatorPlan>
   <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
-  <DesignatorPlanDesc>Desemnează un plan într-o zonă. Aceasta nu face nimic în afară de a te ajuta să plănuiești viitorul coloniei tale.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>TODO</DesignatorPlanDesc>
 
   <!-- EN: Remove plans -->
-  <DesignatorPlanRemove>Anulează planuri</DesignatorPlanRemove>
+  <DesignatorPlanRemove>TODO</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
-  <DesignatorPlanRemoveDesc>Elimină desemnările de planificare.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemoveDesc>TODO</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
-  <DesignatorForbid>Interzice</DesignatorForbid>
+  <DesignatorForbid>TODO</DesignatorForbid>
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
-  <DesignatorForbidDesc>Marcați obiectele ca fiind interzise. Coloniștii nu vor putea interacționa cu obiectele desemnate.</DesignatorForbidDesc>
+  <DesignatorForbidDesc>TODO</DesignatorForbidDesc>
 
   <!-- EN: Allow -->
-  <DesignatorUnforbid>Permite</DesignatorUnforbid>
+  <DesignatorUnforbid>TODO</DesignatorUnforbid>
   <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
-  <DesignatorUnforbidDesc>Marcați obiectele ca neinterzise. Coloniștii vor putea interacționa cu obiectele desemnate.</DesignatorUnforbidDesc>
+  <DesignatorUnforbidDesc>TODO</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
-  <DesignatorAreaHomeExpand>Extinde zona de acasă</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpand>TODO</DesignatorAreaHomeExpand>
   <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
-  <DesignatorAreaHomeExpandDesc>Coloniștii vor repara clădirile, vor curăța podelele și vor stinge incendiile doar în zona de domiciliu.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>TODO</DesignatorAreaHomeExpandDesc>
   <!-- EN: Clear home area -->
-  <DesignatorAreaHomeClear>Șterge zona de acasă</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClear>TODO</DesignatorAreaHomeClear>
   <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
-  <DesignatorAreaHomeClearDesc>Îndepărtează o zonă de acasă. Coloniștii nu vor mai putea curăța, repara sau stinge incendii aici.</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>TODO</DesignatorAreaHomeClearDesc>
 
   <!-- EN: Build roof area -->
-  <DesignatorAreaBuildRoofExpand>Zonă de construit acoperiș</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>TODO</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
-  <DesignatorAreaBuildRoofExpandDesc>Coloniștii vor construi acoperișuri în această zonă.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofExpandDesc>TODO</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- EN: Remove roof area -->
-  <DesignatorAreaNoRoofExpand>Zonă de îndepărtat acoperiș</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>TODO</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
-  <DesignatorAreaNoRoofExpandDesc>Coloniștii vor îndepărta acoperișurile din această zonă (cu excepția muntelui suspendat, care nu poate fi îndepărtat).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>TODO</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>Zonă de ignorare acoperiș</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>TODO</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
-  <DesignatorAreaIgnoreRoofExpandDesc>Coloniștii vor ignora acoperișurile din această zonă.</DesignatorAreaIgnoreRoofExpandDesc>
+  <DesignatorAreaIgnoreRoofExpandDesc>TODO</DesignatorAreaIgnoreRoofExpandDesc>
 
-  <!-- EN: Expand snow clear area -->
-  <DesignatorAreaSnowClearExpand>Extinde zona de înlăturare zăpadă</DesignatorAreaSnowClearExpand>
-  <!-- EN: Create a area which colonists will try to keep clear of snow. -->
-  <DesignatorAreaSnowClearExpandDesc>Creează o zonă pe care coloniștii vor încerca să o păstreze curată de zăpadă.</DesignatorAreaSnowClearExpandDesc>
-  <!-- EN: Clear snow clear Area -->
-  <DesignatorAreaSnowClearClear>Șterge zona de înlăturare zăpadă</DesignatorAreaSnowClearClear>
-  <!-- EN: Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow. -->
-  <DesignatorAreaSnowClearClearDesc>Îndepărtează o zonă de deszăpezire. Coloniștii nu vor mai încerca să mențină această zonă liberă de zăpadă.</DesignatorAreaSnowClearClearDesc>
+  <!-- EN: Snow removal area -->
+  <DesignatorAreaSnowClearExpand>TODO</DesignatorAreaSnowClearExpand>
+  <!-- EN: Create an area which colonists will try to keep clear of snow. -->
+  <DesignatorAreaSnowClearExpandDesc>TODO</DesignatorAreaSnowClearExpandDesc>
+  <!-- EN: Clear snow removal area -->
+  <DesignatorAreaSnowClearClear>TODO</DesignatorAreaSnowClearClear>
+  <!-- EN: Removes a snow removal area. Colonists will no longer try to keep this area clear of snow. -->
+  <DesignatorAreaSnowClearClearDesc>TODO</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
-  <DesignatorExpandAreaAllowed>Extinde zona permisă</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowed>TODO</DesignatorExpandAreaAllowed>
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorExpandAreaAllowedDesc>Extindeți o zonă permisă.\n\nZonele permise sunt zone definite pe care le puteți atribui coloniștilor. Coloniștii nu vor accepta muncă sau nu își vor satisface nevoile în afara zonei permise.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorExpandAreaAllowedDesc>TODO</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
-  <DesignatorClearAreaAllowed>Șterge zona permisă</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowed>TODO</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorClearAreaAllowedDesc>Ștergeți celulele dintr-o zonă permisă.\n\nZonele permise sunt zone definite pe care le puteți atribui coloniștilor. Coloniștii nu vor accepta muncă sau nu își vor satisface nevoile în afara zonei permise.</DesignatorClearAreaAllowedDesc>
+  <DesignatorClearAreaAllowedDesc>TODO</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
-  <ManageAreas>Gestionați zonele...</ManageAreas>
+  <ManageAreas>TODO</ManageAreas>
   <!-- EN: Manage auto-slaughter... -->
-  <ManageAutoSlaughter>Gestionează măcelul automat...</ManageAutoSlaughter>
+  <ManageAutoSlaughter>TODO</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
-  <DesignatorGrowingZoneDesc>Creează o zonă în care coloniștii vor cultiva o anumită specie de plantă.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>TODO</DesignatorGrowingZoneDesc>
 
   <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
-  <DesignatorZoneCreateStorageResourcesDesc>Creează un depozit în care coloniștii vor stoca resurse.\nAceastă unealtă poate mări un depozit deja existent.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>TODO</DesignatorZoneCreateStorageResourcesDesc>
 
   <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
-  <DesignatorZoneCreateStorageDumpingDesc>Creează o haldă pentru depozitarea lucrurilor ce nu pot fi folosite în mod direct.\nAceastă unealtă poate mări o haldă deja existentă.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>TODO</DesignatorZoneCreateStorageDumpingDesc>
 
   <!-- EN: Shrink zones -->
-  <DesignatorZoneDelete>Micșorare zone</DesignatorZoneDelete>
+  <DesignatorZoneDelete>TODO</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
-  <DesignatorZoneDeleteSingular>Micșorează zonă</DesignatorZoneDeleteSingular>
+  <DesignatorZoneDeleteSingular>TODO</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
-  <DesignatorZoneDeleteDesc>Anulează o zonă desemnată(depozit, haldă, zonă de cultivare).</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDeleteDesc>TODO</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
-  <DesignatorZoneExpand>Extinde zonă</DesignatorZoneExpand>
+  <DesignatorZoneExpand>TODO</DesignatorZoneExpand>
   
   <!-- EN: Claim -->
-  <DesignatorClaim>Revendică</DesignatorClaim>
+  <DesignatorClaim>TODO</DesignatorClaim>
   <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
-  <DesignatorClaimDesc>Revendicați structuri neutre pentru colonie, inclusiv ruine antice și baze de asediu abandonate. Structurile revendicate pot fi reparate și întreținute de către coloniștii dumneavoastră.</DesignatorClaimDesc>
+  <DesignatorClaimDesc>TODO</DesignatorClaimDesc>
 
   <!-- EN: Remove floor -->
-  <DesignatorRemoveFloor>Înlătură podea</DesignatorRemoveFloor>
+  <DesignatorRemoveFloor>TODO</DesignatorRemoveFloor>
   <!-- EN: Remove floors to reveal the terrain underneath. -->
-  <DesignatorRemoveFloorDesc>Îndepărtați podelele pentru a descoperi terenul de dedesubt.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloorDesc>TODO</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
-  <DesignatorRemoveBridge>Înlătură pod</DesignatorRemoveBridge>
+  <DesignatorRemoveBridge>TODO</DesignatorRemoveBridge>
   <!-- EN: Remove bridges to reveal the terrain underneath. -->
-  <DesignatorRemoveBridgeDesc>Îndepărtați podurile pentru a descoperi terenul de dedesubt.</DesignatorRemoveBridgeDesc>
+  <DesignatorRemoveBridgeDesc>TODO</DesignatorRemoveBridgeDesc>
 
   <!-- EN: Strip -->
-  <DesignatorStrip>Dezbracă</DesignatorStrip>
+  <DesignatorStrip>TODO</DesignatorStrip>
   <!-- EN: Strip apparel from corpses and the wounded. -->
-  <DesignatorStripDesc>Dezbrăcați hainele de pe cadavre și de pe răniți.</DesignatorStripDesc>
+  <DesignatorStripDesc>TODO</DesignatorStripDesc>
 
   <!-- EN: Open -->
-  <DesignatorOpen>Deschide</DesignatorOpen>
+  <DesignatorOpen>TODO</DesignatorOpen>
   <!-- EN: Open containers. -->
-  <DesignatorOpenDesc>Deschide container</DesignatorOpenDesc>
+  <DesignatorOpenDesc>TODO</DesignatorOpenDesc>
   
   <!-- EN: Slaughter -->
-  <DesignatorSlaughter>Măcelărește</DesignatorSlaughter>
+  <DesignatorSlaughter>TODO</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
-  <DesignatorSlaughterDesc>Tăiați un animal domesticit.</DesignatorSlaughterDesc>
+  <DesignatorSlaughterDesc>TODO</DesignatorSlaughterDesc>
 
   <!-- EN: Tame -->
-  <DesignatorTame>Îmblânzește</DesignatorTame>
+  <DesignatorTame>TODO</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
-  <DesignatorTameDesc>Domesticiți un animal sălbatic</DesignatorTameDesc>
+  <DesignatorTameDesc>TODO</DesignatorTameDesc>
 
   <!-- EN: Release to wild -->
-  <DesignatorReleaseAnimalToWild>Eliberați animalul în sălbăticie</DesignatorReleaseAnimalToWild>
+  <DesignatorReleaseAnimalToWild>TODO</DesignatorReleaseAnimalToWild>
   <!-- EN: Release an animal back into the wild. -->
-  <DesignatorReleaseAnimalToWildDesc>Eliberați un animal în sălbăticie.</DesignatorReleaseAnimalToWildDesc>
+  <DesignatorReleaseAnimalToWildDesc>TODO</DesignatorReleaseAnimalToWildDesc>
 
   <!-- EN: Study -->
-  <DesignatorStudy>Studiu</DesignatorStudy>
+  <DesignatorStudy>TODO</DesignatorStudy>
   <!-- EN: Study this object to learn more about it. -->
-  <DesignatorStudyDesc>Studiați acest obiect pentru a afla mai multe despre el.</DesignatorStudyDesc>
+  <DesignatorStudyDesc>TODO</DesignatorStudyDesc>
+
+  <!-- EN: Paint building... -->
+  <DesignatorPaintBuilding>TODO</DesignatorPaintBuilding>
+  <!-- EN: Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted. -->
+  <DesignatorPaintBuildingDesc>TODO</DesignatorPaintBuildingDesc>
+  <!-- EN: Paint floor... -->
+  <DesignatorPaintFloor>TODO</DesignatorPaintFloor>
+  <!-- EN: Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted. -->
+  <DesignatorPaintFloorDesc>TODO</DesignatorPaintFloorDesc>
+
+  <!-- EN: Remove paint -->
+  <DesignatorRemovePaint>TODO</DesignatorRemovePaint>
+  <!-- EN: Remove paint from walls, buildings, and floors. -->
+  <DesignatorRemovePaintDesc>TODO</DesignatorRemovePaintDesc>
+  <!-- EN: Remove floor paint -->
+  <DesignatorRemoveFloorPaint>TODO</DesignatorRemoveFloorPaint> 
+  <!-- EN: Remove paint from floors. -->
+  <DesignatorRemoveFloorPaintDesc>TODO</DesignatorRemoveFloorPaintDesc> 
+  <!-- EN: Paint -->
+  <Paint>TODO</Paint>
+  <!-- EN: Color -->
+  <Color>TODO</Color>
+
+  <!-- EN: Color picker -->
+  <DesignatorEyedropper>TODO</DesignatorEyedropper>
+  <!-- EN: Grab existing color -->
+  <GrabExistingColor>TODO</GrabExistingColor>
+  <!-- EN: Grab a color from an existing building. -->
+  <DesignatorEyeDropperDesc_Paint>TODO</DesignatorEyeDropperDesc_Paint>
+  <!-- EN: Grab a color from an existing carpet. -->
+  <DesignatorEyeDropperDesc_Carpet>TODO</DesignatorEyeDropperDesc_Carpet>
+  <!-- EN: Select a painted building. -->
+  <SelectAPaintedBuilding>TODO</SelectAPaintedBuilding>
+  <!-- EN: Select colored carpet. -->
+  <SelectColoredFloor>TODO</SelectColoredFloor>
+  <!-- EN: Grab -->
+  <Grab>TODO</Grab>
+  <!-- EN: Grabbed color -->
+  <GrabbedColor>TODO</GrabbedColor>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
-  <UnchosenStuff>Materialul nu a fost ales</UnchosenStuff>
+  <UnchosenStuff>TODO</UnchosenStuff>
   <!-- EN: Too close to map edge. -->
-  <TooCloseToMapEdge>Prea aproape de marginea hărții.</TooCloseToMapEdge>
+  <TooCloseToMapEdge>TODO</TooCloseToMapEdge>
   <!-- EN: Out of bounds. -->
-  <OutOfBounds>În afara limitelor.</OutOfBounds>
+  <OutOfBounds>TODO</OutOfBounds>
   <!-- EN: Cannot place in undiscovered areas. -->
-  <CannotPlaceInUndiscovered>Nu se poate plasa în regiuni nedescoperite.</CannotPlaceInUndiscovered>
+  <CannotPlaceInUndiscovered>TODO</CannotPlaceInUndiscovered>
   <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
-  <InteractionSpotBlocked>Locul desemnat interacțiunii este blocat de {1_labelShort}.</InteractionSpotBlocked>
+  <InteractionSpotBlocked>TODO</InteractionSpotBlocked>
   <!-- EN: Interaction spot is out of bounds. -->
-  <InteractionSpotOutOfBounds>Locul desemnat interacțiunii este în afara limitelor.</InteractionSpotOutOfBounds>
+  <InteractionSpotOutOfBounds>TODO</InteractionSpotOutOfBounds>
   <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
-  <InteractionSpotWillBeBlocked>Locul desemnat interacțiunii va fi blocat de {1_labelShort}.</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>TODO</InteractionSpotWillBeBlocked>
   <!-- EN: {0} would block {1}'s interaction spot. -->
-  <WouldBlockInteractionSpot>{0} va bloca zona de interacțiune a {1}.</WouldBlockInteractionSpot>
+  <WouldBlockInteractionSpot>TODO</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
-  <TerrainIsAlready>Terenul de aici este deja {0}.</TerrainIsAlready>
+  <TerrainIsAlready>TODO</TerrainIsAlready>
   <!-- EN: The surface is already marked for smoothing. -->
-  <SurfaceBeingSmoothed>Suprafața este deja marcată pentru netezire.</SurfaceBeingSmoothed>
+  <SurfaceBeingSmoothed>TODO</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
-  <IdenticalThingExists>Un lucru identic este deja existent aici.</IdenticalThingExists>
+  <IdenticalThingExists>TODO</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
-  <IdenticalBlueprintExists>O schemă identică este deja prezentă aici.</IdenticalBlueprintExists>
+  <IdenticalBlueprintExists>TODO</IdenticalBlueprintExists>
   <!-- EN: {0_label} cannot be built on this terrain. -->
-  <TerrainCannotSupport>{0_label} nu poate fi construit pe acest teren.</TerrainCannotSupport>
+  <TerrainCannotSupport>TODO</TerrainCannotSupport>
   <!-- EN: {0_label} requires terrain that supports: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordance>{0_label} necesită un teren care suportă: {1_label}</TerrainCannotSupport_TerrainAffordance>
+  <TerrainCannotSupport_TerrainAffordance>TODO</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (atunci când este alcătuit din {2_label}) necesită un teren care să suporte: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>TODO</TerrainCannotSupport_TerrainAffordanceFromStuff>
   <!-- EN: Space already occupied. -->
-  <SpaceAlreadyOccupied>Loc deja ocupat.</SpaceAlreadyOccupied>
+  <SpaceAlreadyOccupied>TODO</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
-  <SpaceBeingSmoothed>Loc în curs de netezire</SpaceBeingSmoothed>
+  <SpaceBeingSmoothed>TODO</SpaceBeingSmoothed>
   <!-- EN: Must target a removable floor. -->
-  <TerrainMustBeRemovable>Trebuie desemnată o podea detașabilă</TerrainMustBeRemovable>
+  <TerrainMustBeRemovable>TODO</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
-  <MustBeOnMovingWater>Roata hidraulică trebuie să fie pe apă în mișcare.</MustBeOnMovingWater>
+  <MustBeOnMovingWater>TODO</MustBeOnMovingWater>
   <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotWillOverlap>Punctul de interacțiune se va suprapune cu punctul de interacțiune din {1_labelShort}.</InteractionSpotWillOverlap>
+  <InteractionSpotWillOverlap>TODO</InteractionSpotWillOverlap>
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotOverlaps>Punctul de interacțiune se suprapune cu punctul de interacțiune din {1_labelShort}.</InteractionSpotOverlaps>
+  <InteractionSpotOverlaps>TODO</InteractionSpotOverlaps>
   <!-- EN: Cannot place monument over: {0}. -->
-  <CannotPlaceMonumentOver>Nu se poate amplasa un monument peste: {0}.</CannotPlaceMonumentOver>
+  <CannotPlaceMonumentOver>TODO</CannotPlaceMonumentOver>
   <!-- EN: Cannot build on: {0}. -->
-  <CannotPlaceMonumentOnTerrain>Nu se poate construi pe: {0}.</CannotPlaceMonumentOnTerrain>
+  <CannotPlaceMonumentOnTerrain>TODO</CannotPlaceMonumentOnTerrain>
   <!-- EN: Cannot place monument over: {0}. -->
-  <MonumentOverlapsBuilding>Nu se poate amplasa un monument peste: {0}.</MonumentOverlapsBuilding>
+  <MonumentOverlapsBuilding>TODO</MonumentOverlapsBuilding>
   <!-- EN: Monument cannot be placed adjacent to: {0}. -->
-  <MonumentAdjacentToBuilding>Monumentul nu poate fi amplasat adiacent la: {0}.</MonumentAdjacentToBuilding>
+  <MonumentAdjacentToBuilding>TODO</MonumentAdjacentToBuilding>
   <!-- EN: Cannot be planted here -->
   <CannotBePlantedHere>TODO</CannotBePlantedHere>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
-  <ExpandOrCreateZone>Mărire {0} sau\nCreare {1} nouă</ExpandOrCreateZone>
+  <ExpandOrCreateZone>TODO</ExpandOrCreateZone>
   <!-- EN: Create new {0} -->
-  <CreateNewZone>Creare {0} nouă</CreateNewZone>
+  <CreateNewZone>TODO</CreateNewZone>
   
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->
-  <TransmitsPower>Transmite curent electric</TransmitsPower>
+  <TransmitsPower>TODO</TransmitsPower>
   <!-- EN: Construction needed -->
-  <ConstructionNeeded>Construcție necesară</ConstructionNeeded>
+  <ConstructionNeeded>TODO</ConstructionNeeded>
   <!-- EN: None of your {0} have this skill. -->
-  <NoColonistWithSkillTip>Niciunul dintre {0} nu are această aptitudine.</NoColonistWithSkillTip>
+  <NoColonistWithSkillTip>TODO</NoColonistWithSkillTip>
   <!-- EN: {0} needed -->
-  <SkillNeededForConstructing>{0} necesar</SkillNeededForConstructing>
+  <SkillNeededForConstructing>TODO</SkillNeededForConstructing>
   <!-- EN: None of your {0} have all skills required. -->
-  <NoColonistWithAllSkillsForConstructing>Niciunul dintre {0} nu are toate aptitudinile necesare.</NoColonistWithAllSkillsForConstructing>
+  <NoColonistWithAllSkillsForConstructing>TODO</NoColonistWithAllSkillsForConstructing>
   <!-- EN: All of your {0} who have this skill are not assigned to {1}. -->
-  <AllColonistsWithSkillHaveDisabledConstructingTip>Toate {0} care au această aptitudine nu sunt alocate la {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
+  <AllColonistsWithSkillHaveDisabledConstructingTip>TODO</AllColonistsWithSkillHaveDisabledConstructingTip>
 
 </LanguageData>

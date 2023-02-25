@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: chicken -->
-  <Chicken.label>pui</Chicken.label>
+  <Chicken.label>TODO</Chicken.label>
   <!-- EN: hen -->
-  <Chicken.labelFemale>găină</Chicken.labelFemale>
+  <Chicken.labelFemale>TODO</Chicken.labelFemale>
   <!-- EN: rooster -->
-  <Chicken.labelMale>cocoș</Chicken.labelMale>
+  <Chicken.labelMale>TODO</Chicken.labelMale>
   <!-- EN: chick -->
-  <Chicken.lifeStages.chick.label>Pui</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.chick.label>TODO</Chicken.lifeStages.chick.label>
   <!-- EN: cockerel -->
-  <Chicken.lifeStages.cockerel.labelMale>cocoș</Chicken.lifeStages.cockerel.labelMale>
+  <Chicken.lifeStages.cockerel.labelMale>TODO</Chicken.lifeStages.cockerel.labelMale>
   
   <!-- EN: duck -->
-  <Duck.label>rață</Duck.label>
+  <Duck.label>TODO</Duck.label>
   <!-- EN: duckling -->
-  <Duck.lifeStages.duckling.label>rățușcă</Duck.lifeStages.duckling.label>
+  <Duck.lifeStages.duckling.label>TODO</Duck.lifeStages.duckling.label>
   
   <!-- EN: goose -->
-  <Goose.label>gâscă</Goose.label>
+  <Goose.label>TODO</Goose.label>
   <!-- EN: geese -->
-  <Goose.labelPlural>gâște</Goose.labelPlural>
+  <Goose.labelPlural>TODO</Goose.labelPlural>
   
   <!-- EN: turkey -->
-  <Turkey.label>curcan</Turkey.label>
+  <Turkey.label>TODO</Turkey.label>
   
 </LanguageData>

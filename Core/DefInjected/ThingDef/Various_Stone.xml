@@ -2,118 +2,108 @@
 <LanguageData>
   
   <!-- EN: granite blocks -->
-  <BlocksGranite.label>blocuri de granit</BlocksGranite.label>
+  <BlocksGranite.label>TODO</BlocksGranite.label>
   <!-- EN: Blocks of solid granite. Granite is a very hard stone. -->
-  <BlocksGranite.description>Blocuri de granit masiv. Granitul este o piatră foarte dură.</BlocksGranite.description>
-  <!-- EN: granite -->
-  <BlocksGranite.stuffProps.stuffAdjective>granit</BlocksGranite.stuffProps.stuffAdjective>
+  <BlocksGranite.description>TODO</BlocksGranite.description>
   
   <!-- EN: limestone blocks -->
-  <BlocksLimestone.label>blocuri de calcar</BlocksLimestone.label>
+  <BlocksLimestone.label>TODO</BlocksLimestone.label>
   <!-- EN: Blocks of solid limestone. -->
-  <BlocksLimestone.description>Blocuri de calcar masiv.</BlocksLimestone.description>
-  <!-- EN: limestone -->
-  <BlocksLimestone.stuffProps.stuffAdjective>calcar</BlocksLimestone.stuffProps.stuffAdjective>
+  <BlocksLimestone.description>TODO</BlocksLimestone.description>
   
   <!-- EN: marble blocks -->
-  <BlocksMarble.label>blocuri de marmură</BlocksMarble.label>
+  <BlocksMarble.label>TODO</BlocksMarble.label>
   <!-- EN: Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt. -->
-  <BlocksMarble.description>Blocuri de marmură masivă. Marmura este o piatră moale și frumoasă, cunoscută pentru faptul că este ușor de sculptat.</BlocksMarble.description>
-  <!-- EN: marble -->
-  <BlocksMarble.stuffProps.stuffAdjective>marmură</BlocksMarble.stuffProps.stuffAdjective>
+  <BlocksMarble.description>TODO</BlocksMarble.description>
   
   <!-- EN: sandstone blocks -->
-  <BlocksSandstone.label>blocuri de gresie</BlocksSandstone.label>
+  <BlocksSandstone.label>TODO</BlocksSandstone.label>
   <!-- EN: Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily. -->
-  <BlocksSandstone.description>Blocuri de gresie masivă. Gresia este o rocă relativ moale și se sparge ușor.</BlocksSandstone.description>
-  <!-- EN: sandstone -->
-  <BlocksSandstone.stuffProps.stuffAdjective>gresie</BlocksSandstone.stuffProps.stuffAdjective>
+  <BlocksSandstone.description>TODO</BlocksSandstone.description>
   
   <!-- EN: slate blocks -->
-  <BlocksSlate.label>blocuri de ardezie</BlocksSlate.label>
+  <BlocksSlate.label>TODO</BlocksSlate.label>
   <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
-  <BlocksSlate.description>Blocuri de ardezie masivă. O rocă cu aspect plictisitor care se ciobește ușor.</BlocksSlate.description>
-  <!-- EN: slate -->
-  <BlocksSlate.stuffProps.stuffAdjective>ardezie</BlocksSlate.stuffProps.stuffAdjective>
+  <BlocksSlate.description>TODO</BlocksSlate.description>
   
   <!-- EN: granite chunk -->
-  <ChunkGranite.label>bolovan de granit</ChunkGranite.label>
+  <ChunkGranite.label>TODO</ChunkGranite.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkGranite.description>Un bolovan de rocă. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkGranite.description>
+  <ChunkGranite.description>TODO</ChunkGranite.description>
   
   <!-- EN: limestone chunk -->
-  <ChunkLimestone.label>bolovan de calcar</ChunkLimestone.label>
+  <ChunkLimestone.label>TODO</ChunkLimestone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkLimestone.description>Un bolovan de piatră. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkLimestone.description>
+  <ChunkLimestone.description>TODO</ChunkLimestone.description>
   
   <!-- EN: marble chunk -->
-  <ChunkMarble.label>bolovan de marmură</ChunkMarble.label>
+  <ChunkMarble.label>TODO</ChunkMarble.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkMarble.description>Un bolovan de piatră. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkMarble.description>
+  <ChunkMarble.description>TODO</ChunkMarble.description>
   
   <!-- EN: sandstone chunk -->
-  <ChunkSandstone.label>bolovan de gresie</ChunkSandstone.label>
+  <ChunkSandstone.label>TODO</ChunkSandstone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkSandstone.description>Un bolovan de piatră. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkSandstone.description>
+  <ChunkSandstone.description>TODO</ChunkSandstone.description>
   
   <!-- EN: steel slag chunk -->
-  <ChunkSlagSteel.label>bolovan de zgură de oțel</ChunkSlagSteel.label>
+  <ChunkSlagSteel.label>TODO</ChunkSlagSteel.label>
   <!-- EN: A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel. -->
-  <ChunkSlagSteel.description>O bucată de zgură de oțel. Deși este inutilă în forma sa actuală, poate fi topită pentru a recupera oțelul.</ChunkSlagSteel.description>
+  <ChunkSlagSteel.description>TODO</ChunkSlagSteel.description>
   
   <!-- EN: slate chunk -->
-  <ChunkSlate.label>bolovan de ardezie</ChunkSlate.label>
+  <ChunkSlate.label>TODO</ChunkSlate.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkSlate.description>Un bolovan de piatră. Poate fi tăiat în blocuri de piatră utilizabile.</ChunkSlate.description>
+  <ChunkSlate.description>TODO</ChunkSlate.description>
   
   <!-- EN: granite -->
-  <Granite.label>granit</Granite.label>
+  <Granite.label>TODO</Granite.label>
   <!-- EN: A very hard igneous rock. -->
-  <Granite.description>O rocă ionoasă foarte dură.</Granite.description>
+  <Granite.description>TODO</Granite.description>
   
   <!-- EN: limestone -->
-  <Limestone.label>calcar</Limestone.label>
+  <Limestone.label>TODO</Limestone.label>
   <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. -->
-  <Limestone.description>O rocă sedimentară formată din rămășițele compactate ale scoicilor marine antice.</Limestone.description>
+  <Limestone.description>TODO</Limestone.description>
   
   <!-- EN: marble -->
-  <Marble.label>marmură</Marble.label>
+  <Marble.label>TODO</Marble.label>
   <!-- EN: A soft metamorphic rock. -->
-  <Marble.description>O rocă metamorfică moale.</Marble.description>
+  <Marble.description>TODO</Marble.description>
   
   <!-- EN: sandstone -->
-  <Sandstone.label>gresie</Sandstone.label>
+  <Sandstone.label>TODO</Sandstone.label>
   <!-- EN: A sedimentary rock composed of sand particles compressed together. -->
-  <Sandstone.description>O rocă sedimentară compusă din particule de nisip comprimate împreună.</Sandstone.description>
+  <Sandstone.description>TODO</Sandstone.description>
   
   <!-- EN: slate -->
-  <Slate.label>ardezie</Slate.label>
+  <Slate.label>TODO</Slate.label>
   <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. -->
-  <Slate.description>O rocă metamorfică de culoare închisă. Straturile sale fine sunt emblematice pentru clivajul ardeziei.</Slate.description>
+  <Slate.description>TODO</Slate.description>
   
   <!-- EN: smoothed granite -->
-  <SmoothedGranite.label>granit netezit</SmoothedGranite.label>
+  <SmoothedGranite.label>TODO</SmoothedGranite.label>
   <!-- EN: A very hard igneous rock. The shining surface is filled with a mosaic of black, white, and pink speckles. -->
-  <SmoothedGranite.description>O rocă ionoasă foarte dură. Suprafața lucioasă este plină de un mozaic de pete negre, albe și roz.</SmoothedGranite.description>
+  <SmoothedGranite.description>TODO</SmoothedGranite.description>
   
   <!-- EN: smoothed limestone -->
-  <SmoothedLimestone.label>calcar netezit</SmoothedLimestone.label>
+  <SmoothedLimestone.label>TODO</SmoothedLimestone.label>
   <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. It glows a smooth white, with light patterns of impurities suspended within. -->
-  <SmoothedLimestone.description>O rocă sedimentară formată din rămășițele compactate ale scoicilor marine antice. Strălucește de un alb neted, cu modele ușoare de impurități suspendate în interior.</SmoothedLimestone.description>
+  <SmoothedLimestone.description>TODO</SmoothedLimestone.description>
   
   <!-- EN: smoothed marble -->
-  <SmoothedMarble.label>marmură netezită</SmoothedMarble.label>
+  <SmoothedMarble.label>TODO</SmoothedMarble.label>
   <!-- EN: A soft metamorphic rock. This semi-transparent rock almost appears to glow with its own inner light. -->
-  <SmoothedMarble.description>O rocă metamorfică moale. Această rocă semitransparentă aproape că pare să strălucească cu propria lumină interioară.</SmoothedMarble.description>
+  <SmoothedMarble.description>TODO</SmoothedMarble.description>
   
   <!-- EN: smoothed sandstone -->
-  <SmoothedSandstone.label>gresie netezită</SmoothedSandstone.label>
+  <SmoothedSandstone.label>TODO</SmoothedSandstone.label>
   <!-- EN: A sedimentary rock composed of sand particles compressed together. The sand layers have been polished to a flat, smooth surface. -->
-  <SmoothedSandstone.description>O rocă sedimentară compusă din particule de nisip comprimate împreună. Straturile de nisip au fost șlefuite până la o suprafață plană și netedă.</SmoothedSandstone.description>
+  <SmoothedSandstone.description>TODO</SmoothedSandstone.description>
   
   <!-- EN: smoothed slate -->
-  <SmoothedSlate.label>ardezie netezită</SmoothedSlate.label>
+  <SmoothedSlate.label>TODO</SmoothedSlate.label>
   <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. Interior strata are clearly visible through the polished surface. -->
-  <SmoothedSlate.description>O rocă metamorfică de culoare închisă. Straturile sale fine sunt emblematice pentru clivajul ardeziei. Stratele interioare sunt clar vizibile prin suprafața lustruită.</SmoothedSlate.description>
+  <SmoothedSlate.description>TODO</SmoothedSlate.description>
   
 </LanguageData>

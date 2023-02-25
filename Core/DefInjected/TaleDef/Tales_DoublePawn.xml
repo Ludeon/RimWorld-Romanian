@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: person captured -->
-  <Captured.label>persoană capturată</Captured.label>
+  <Captured.label>TODO</Captured.label>
   <!-- EN:
     <li>tale_noun->[CAPTURER_nameDef] capturing [PRISONER_nameDef]</li>
     <li>tale_noun->[PRISONER_nameDef] being captured by [CAPTURER_nameDef]</li>
@@ -31,10 +31,10 @@
   <Captured.rulePack.rulesStrings>TODO</Captured.rulePack.rulesStrings>
   
   <!-- EN: defeated hostile leader -->
-  <DefeatedHostileFactionLeader.label>lider ostil învins</DefeatedHostileFactionLeader.label>
+  <DefeatedHostileFactionLeader.label>TODO</DefeatedHostileFactionLeader.label>
   
   <!-- EN: surgery performed -->
-  <DidSurgery.label>chirurgie efectuată</DidSurgery.label>
+  <DidSurgery.label>TODO</DidSurgery.label>
   <!-- EN:
     <li>tale_noun->[SURGEON_nameDef] operating on [PATIENT_nameDef]</li>
     <li>tale_noun->[SURGEON_nameDef] performing a medical operation on [PATIENT_nameDef]</li>
@@ -54,9 +54,9 @@
   <DidSurgery.rulePack.rulesStrings>TODO</DidSurgery.rulePack.rulesStrings>
   
   <!-- EN: prisoner executed -->
-  <ExecutedPrisoner.label>prizonier executat</ExecutedPrisoner.label>
+  <ExecutedPrisoner.label>TODO</ExecutedPrisoner.label>
   <!-- EN:
-    <li>tale_noun->[executioner] executing [PRISONER_nameDef]</li>
+    <li>tale_noun->[EXECUTIONER_nameDef] executing [PRISONER_nameDef]</li>
     <li>tale_noun->[PRISONER_nameDef] being executed by [EXECUTIONER_nameDef]</li>
     <li>tale_noun->the execution of [PRISONER_nameDef]</li>
     <li>image->[EXECUTIONER_nameFull] executing [PRISONER_nameFull] [circumstance_group]</li>
@@ -87,7 +87,7 @@
   <ExecutedPrisoner.rulePack.rulesStrings>TODO</ExecutedPrisoner.rulePack.rulesStrings>
   
   <!-- EN: animal hunted -->
-  <Hunted.label>animal vânat</Hunted.label>
+  <Hunted.label>TODO</Hunted.label>
   <!-- EN:
     <li>tale_noun->[HUNTER_nameDef] hunting [PREY_nameDef]</li>
     <li>tale_noun->[PREY_nameDef] being hunted by [HUNTER_nameDef]</li>
@@ -105,7 +105,7 @@
   <Hunted.rulePack.rulesStrings>TODO</Hunted.rulePack.rulesStrings>
   
   <!-- EN: colonist kidnapped -->
-  <KidnappedColonist.label>colonist răpit</KidnappedColonist.label>
+  <KidnappedColonist.label>TODO</KidnappedColonist.label>
   <!-- EN:
     <li>tale_noun->[KIDNAPPER_nameDef] kidnapping [VICTIM_nameDef]</li>
     <li>tale_noun->[VICTIM_nameDef] being kidnapped by [KIDNAPPER_nameDef]</li>
@@ -130,7 +130,7 @@
   <KidnappedColonist.rulePack.rulesStrings>TODO</KidnappedColonist.rulePack.rulesStrings>
   
   <!-- EN: death -->
-  <KilledBy.label>moarte</KilledBy.label>
+  <KilledBy.label>TODO</KilledBy.label>
   <!-- EN:
     <li>tale_noun->[KILLER_nameDef] killing [VICTIM_nameDef]</li>
     <li>tale_noun->[VICTIM_nameDef] being killed by [KILLER_nameDef]</li>
@@ -162,13 +162,13 @@
   <KilledBy.rulePack.rulesStrings>TODO</KilledBy.rulePack.rulesStrings>
   
   <!-- EN: colonist killed -->
-  <KilledColonist.label>colonist ucis</KilledColonist.label>
+  <KilledColonist.label>TODO</KilledColonist.label>
   
   <!-- EN: colony animal killed -->
-  <KilledColonyAnimal.label>animal de colonie ucis</KilledColonyAnimal.label>
+  <KilledColonyAnimal.label>TODO</KilledColonyAnimal.label>
   
   <!-- EN: person recruited -->
-  <Recruited.label>persoană recrutată</Recruited.label>
+  <Recruited.label>TODO</Recruited.label>
   <!-- EN:
     <li>tale_noun->[RECRUITER_nameDef] recruiting [JOINER_nameDef]</li>
     <li>tale_noun->[JOINER_nameDef] being recruited by [RECRUITER_nameDef]</li>
@@ -189,7 +189,7 @@
   <Recruited.rulePack.rulesStrings>TODO</Recruited.rulePack.rulesStrings>
   
   <!-- EN: prisoner sold -->
-  <SoldPrisoner.label>prizonier vândut</SoldPrisoner.label>
+  <SoldPrisoner.label>TODO</SoldPrisoner.label>
   <!-- EN:
     <li>tale_noun->the selling of [PRISONER_nameDef] to a trader</li>
     <li>tale_noun->[SELLER_nameDef] selling [PRISONER_nameDef] as a slave</li>
@@ -215,14 +215,14 @@
   <SoldPrisoner.rulePack.rulesStrings>TODO</SoldPrisoner.rulePack.rulesStrings>
   
   <!-- EN: animal tamed -->
-  <TamedAnimal.label>animal îmblânzit</TamedAnimal.label>
+  <TamedAnimal.label>TODO</TamedAnimal.label>
   <!-- EN:
     <li>tale_noun->the taming of [ANIMAL_nameDef] by [TAMER_nameDef]</li>
     <li>tale_noun->[TAMER_nameDef]'s taming of [ANIMAL_nameDef]</li>
     <li>image->[TAMER_nameFull] taming [ANIMAL_nameFull] [circumstance_group]</li>
     <li>image->[TAMER_nameFull] offering a morsel of food to [ANIMAL_nameFull] [circumstance_group]</li>
-    <li>image->[TAMER_nameFull] whispering to a skittish [ANIMAL_nameFull] [circumstance_group]</li>
-    <li>image->[TAMER_nameFull] calming a wild [ANIMAL_nameFull] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] whispering to a skittish [ANIMAL_label] [circumstance_group]</li>
+    <li>image->[TAMER_nameFull] calming a wild [ANIMAL_label] [circumstance_group]</li>
     <li>circumstance_phrase->with great care and caution</li>
     <li>circumstance_phrase->with a smile</li>
     <li>circumstance_phrase->while exhausted but happy</li>
@@ -236,7 +236,7 @@
   <TamedAnimal.rulePack.rulesStrings>TODO</TamedAnimal.rulePack.rulesStrings>
   
   <!-- EN: traded with someone -->
-  <TradedWith.label>tranzacționat cu cineva</TradedWith.label>
+  <TradedWith.label>TODO</TradedWith.label>
   <!-- EN:
     <li>tale_noun->a trade between [SELLER_nameFull] and [BUYER_nameFull]</li>
     <li>image->[BUYER_nameFull] buying goods from [SELLER_nameFull] [circumstance_group]</li>
@@ -255,7 +255,7 @@
   <TradedWith.rulePack.rulesStrings>TODO</TradedWith.rulePack.rulesStrings>
   
   <!-- EN: animal trained -->
-  <TrainedAnimal.label>animal dresat</TrainedAnimal.label>
+  <TrainedAnimal.label>TODO</TrainedAnimal.label>
   <!-- EN:
     <li>tale_noun->[TRAINER_nameDef] training [ANIMAL_nameDef]</li>
     <li>tale_noun->the training of [ANIMAL_nameDef]</li>
@@ -287,8 +287,8 @@
     <li>desc_sentence->[ANIMAL_nameDef] is represented as a pile of power tools.</li>
     <li>desc_sentence->[ANIMAL_nameDef] is half [Color] and half [Color].</li>
     <li>desc_sentence->[ANIMAL_nameDef] is covered in scales.</li>
-    <li>desc_sentence->[TRAINER_nameDef] is depicted with [quantity] arms.</li>
-    <li>desc_sentence->[TRAINER_nameDef] is morphing into [ANIMAL_ShortDefinite].</li>
+    <li>desc_sentence->[TRAINER_nameDef] is depicted with [Quantity_adjphrase] arms.</li>
+    <li>desc_sentence->[TRAINER_nameDef] is morphing into [ANIMAL_definite].</li>
   -->
   <TrainedAnimal.rulePack.rulesStrings>TODO</TrainedAnimal.rulePack.rulesStrings>
   

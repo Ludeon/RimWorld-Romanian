@@ -2,37 +2,37 @@
 <LanguageData>
   
   <!-- EN: beggars helped -->
-  <CharityFulfilled_Beggars.label>cerșetori ajutați</CharityFulfilled_Beggars.label>
+  <CharityFulfilled_Beggars.label>TODO</CharityFulfilled_Beggars.label>
   
   <!-- EN: refugees helped -->
-  <CharityFulfilled_HospitalityRefugees.label>refugiați ajutați</CharityFulfilled_HospitalityRefugees.label>
+  <CharityFulfilled_HospitalityRefugees.label>TODO</CharityFulfilled_HospitalityRefugees.label>
   
   <!-- EN: noble saved -->
-  <CharityFulfilled_IntroWimp.label>nobil salvat</CharityFulfilled_IntroWimp.label>
+  <CharityFulfilled_IntroWimp.label>TODO</CharityFulfilled_IntroWimp.label>
   
   <!-- EN: pod refugee saved -->
-  <CharityFulfilled_RefugeePodCrash.label>refugiații din pod salvați</CharityFulfilled_RefugeePodCrash.label>
+  <CharityFulfilled_RefugeePodCrash.label>TODO</CharityFulfilled_RefugeePodCrash.label>
   
   <!-- EN: crash survivors helped -->
-  <CharityFulfilled_ShuttleCrashRescue.label>supraviețuitorii accidentului ajutați</CharityFulfilled_ShuttleCrashRescue.label>
+  <CharityFulfilled_ShuttleCrashRescue.label>TODO</CharityFulfilled_ShuttleCrashRescue.label>
   
   <!-- EN: desperate joiner accepted -->
-  <CharityFulfilled_ThreatReward_Joiner.label>membru disperat acceptat</CharityFulfilled_ThreatReward_Joiner.label>
+  <CharityFulfilled_ThreatReward_Joiner.label>TODO</CharityFulfilled_ThreatReward_Joiner.label>
   
   <!-- EN: wanderer helped -->
-  <CharityFulfilled_WandererJoins.label>rătăcitor ajutat</CharityFulfilled_WandererJoins.label>
+  <CharityFulfilled_WandererJoins.label>TODO</CharityFulfilled_WandererJoins.label>
   
   <!-- EN: beggars refused -->
-  <CharityRefused_Beggars.label>cerșetori refuzați</CharityRefused_Beggars.label>
+  <CharityRefused_Beggars.label>TODO</CharityRefused_Beggars.label>
   
   <!-- EN: beggars betrayed -->
-  <CharityRefused_Beggars_Betrayed.label>cerșetori trădați</CharityRefused_Beggars_Betrayed.label>
+  <CharityRefused_Beggars_Betrayed.label>TODO</CharityRefused_Beggars_Betrayed.label>
   
   <!-- EN: refugees refused -->
-  <CharityRefused_HospitalityRefugees.label>refugiați refuzați</CharityRefused_HospitalityRefugees.label>
+  <CharityRefused_HospitalityRefugees.label>TODO</CharityRefused_HospitalityRefugees.label>
   
   <!-- EN: wimp refused -->
-  <CharityRefused_IntroWimp.label>fricosul a refuzat</CharityRefused_IntroWimp.label>
+  <CharityRefused_IntroWimp.label>TODO</CharityRefused_IntroWimp.label>
   
   <!-- EN: pilgrims refused -->
   <CharityRefused_Pilgrims.label>TODO</CharityRefused_Pilgrims.label>
@@ -41,15 +41,12 @@
   <CharityRefused_Pilgrims_Betrayed.label>TODO</CharityRefused_Pilgrims_Betrayed.label>
   
   <!-- EN: refugee pod crash refused -->
-  <CharityRefused_RefugeePodCrash.label>refugiat din capsulă refuzat</CharityRefused_RefugeePodCrash.label>
+  <CharityRefused_RefugeePodCrash.label>TODO</CharityRefused_RefugeePodCrash.label>
   
   <!-- EN: crash survivors refused -->
-  <CharityRefused_ShuttleCrashRescue.label>supraviețuitori ai accidentului refuzați</CharityRefused_ShuttleCrashRescue.label>
-  
-  <!-- EN: joiner refused -->
-  <CharityRefused_ThreatReward_Joiner.label>nou-venit refuzat</CharityRefused_ThreatReward_Joiner.label>
+  <CharityRefused_ShuttleCrashRescue.label>TODO</CharityRefused_ShuttleCrashRescue.label>
   
   <!-- EN: wanderer refused -->
-  <CharityRefused_WandererJoins.label>rătăcitor refuzat</CharityRefused_WandererJoins.label>
+  <CharityRefused_WandererJoins.label>TODO</CharityRefused_WandererJoins.label>
   
 </LanguageData>

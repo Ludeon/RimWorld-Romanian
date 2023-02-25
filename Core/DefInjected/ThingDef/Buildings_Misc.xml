@@ -2,115 +2,115 @@
 <LanguageData>
   
   <!-- EN: ancient cryptosleep casket -->
-  <AncientCryptosleepCasket.label>sicriu antic de criptosomn</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.label>TODO</AncientCryptosleepCasket.label>
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
-  <AncientCryptosleepCasket.description>Acest sicriu de criptosomn pare să fie aici de foarte mult timp. Cine știe ce ar putea conține?</AncientCryptosleepCasket.description>
+  <AncientCryptosleepCasket.description>TODO</AncientCryptosleepCasket.description>
   
   <!-- EN: caravan hitching spot -->
-  <CaravanPackingSpot.label>loc de acostare pentru rulote</CaravanPackingSpot.label>
+  <CaravanPackingSpot.label>TODO</CaravanPackingSpot.label>
   <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
-  <CaravanPackingSpot.description>Desemnează un loc pentru legarea animalelor și formarea caravanelor. Coloniștii vor agăța animalele aici în timp ce încarcă o caravană. De asemenea, puteți folosi aceste locuri în timpul întâlnirilor departe de casă pentru a împiedica animalele să rătăcească.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.description>TODO</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
-  <CommsConsole.label>consola de comunicații</CommsConsole.label>
+  <CommsConsole.label>TODO</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
-  <CommsConsole.description>Permite contactul radio cu alte facțiuni și comercianți orbitali.</CommsConsole.description>
+  <CommsConsole.description>TODO</CommsConsole.description>
   
   <!-- EN: cryptosleep casket -->
-  <CryptosleepCasket.label>sicriu de criptosomn</CryptosleepCasket.label>
+  <CryptosleepCasket.label>TODO</CryptosleepCasket.label>
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
-  <CryptosleepCasket.description>Un sarcofag autoalimentat conceput pentru a menține o persoană într-o stare de animație suspendată timp de mulți ani.</CryptosleepCasket.description>
+  <CryptosleepCasket.description>TODO</CryptosleepCasket.description>
   
   <!-- EN: egg box -->
-  <EggBox.label>cutie de ouă</EggBox.label>
+  <EggBox.label>TODO</EggBox.label>
   <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
-  <EggBox.description>O cutie cu material moale făcută pentru a ține ouă. Animalele ouătoare depun ouăle în cutii de ouă, dacă pot. Transportatorii dumneavoastră vor scoate toate ouăle doar atunci când cutia este plină, pentru a economisi timp. Cutia protejează, de asemenea, ouăle de deteriorarea în aer liber, deși nu protejează împotriva deteriorării de temperatură.</EggBox.description>
+  <EggBox.description>TODO</EggBox.description>
   
   <!-- EN: firefoam popper -->
-  <FirefoamPopper.label>bombă cu spumă ignifugă</FirefoamPopper.label>
+  <FirefoamPopper.label>TODO</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
-  <FirefoamPopper.description>Atunci când detectează un incendiu, acest dispozitiv de siguranță explodează și pulverizează o spumă ignifugă într-un câmp circular în jurul său. Poate fi declanșat și manual.</FirefoamPopper.description>
-  <!-- EN: Trigger firefoam popper -->
-  <FirefoamPopper.comps.CompUsable.useLabel>Declanșează bomba cu spumă ignifugă</FirefoamPopper.comps.CompUsable.useLabel>
+  <FirefoamPopper.description>TODO</FirefoamPopper.description>
+  <!-- EN: Trigger {0_label} -->
+  <FirefoamPopper.comps.CompUsable.useLabel>TODO</FirefoamPopper.comps.CompUsable.useLabel>
   
   <!-- EN: grave -->
-  <Grave.label>mormânt</Grave.label>
+  <Grave.label>TODO</Grave.label>
   <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
-  <Grave.description>Un loc decent de odihnă finală. Coloniștii vor vizita mormintele pline pentru a obține bucurie meditativă.</Grave.description>
+  <Grave.description>TODO</Grave.description>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>Scaner de penetrare a solului</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>TODO</GroundPenetratingScanner.label>
   <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
-  <GroundPenetratingScanner.description>O unitate de senzori folosită de cercetători pentru a căuta resurse îngropate. Șansa de a găsi o resursă depinde de capacitatea de cercetare a operatorului. Consumă multă energie electrică. Dacă găsești o resursă îngropată, va trebui să folosești foraje adânci pentru a o extrage. Nu funcționează sub un acoperiș.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>scaner de minerale cu rază lungă de acțiune</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>TODO</LongRangeMineralScanner.label>
   <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
-  <LongRangeMineralScanner.description>O unitate de senzori laterali folosită de cercetători pentru a detecta un anumit tip de mineral pe întreaga planetă. Șansa de a găsi o resursă depinde de capacitatea de cercetare a operatorului. Acest senzor poate fi reglat pentru a viza un anumit tip de resursă. Acesta consumă multă energie electrică. Dacă găsiți o resursă, va trebui să călătoriți pentru a o colecta.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>TODO</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
-  <MarriageSpot.label>loc de căsătorie</MarriageSpot.label>
+  <MarriageSpot.label>TODO</MarriageSpot.label>
   <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
-  <MarriageSpot.description>Desemnează un loc în care vor avea loc ceremonii de căsătorie. Spectatorii pot privi din ambele părți.</MarriageSpot.description>
+  <MarriageSpot.description>TODO</MarriageSpot.description>
   
   <!-- EN: moisture pump -->
-  <MoisturePump.label>pompă de umiditate</MoisturePump.label>
+  <MoisturePump.label>TODO</MoisturePump.label>
   <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
-  <MoisturePump.description>Echivalează foarte încet umiditatea din terenul din apropiere, transformând mlaștinile sau apa de mică adâncime în teren uscat, iar nisipul moale în nisip normal. Nu afectează apele adânci.</MoisturePump.description>
+  <MoisturePump.description>TODO</MoisturePump.description>
   
   <!-- EN: multi-analyzer -->
-  <MultiAnalyzer.label>multi-analizator</MultiAnalyzer.label>
+  <MultiAnalyzer.label>TODO</MultiAnalyzer.label>
   <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
-  <MultiAnalyzer.description>Crește viteza de cercetare atunci când este plasat în apropierea bancului de cercetare de înaltă tehnologie și deblochează noi proiecte de cercetare. Fiecare bancă de cercetare poate folosi doar un singur multi-analizator.</MultiAnalyzer.description>
+  <MultiAnalyzer.description>TODO</MultiAnalyzer.description>
   
   <!-- EN: orbital trade beacon -->
-  <OrbitalTradeBeacon.label>baliză comercială orbitală</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.label>TODO</OrbitalTradeBeacon.label>
   <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
-  <OrbitalTradeBeacon.description>Necesar pentru comerțul orbital. Poți vinde bunuri comercianților orbitali numai dacă aceștia se află în apropierea unei balize de comerț orbital. Poate fi plasat în interior.</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon.description>TODO</OrbitalTradeBeacon.description>
   
   <!-- EN: party spot -->
-  <PartySpot.label>loc de petrecere</PartySpot.label>
+  <PartySpot.label>TODO</PartySpot.label>
   <!-- EN: Designates a spot for throwing parties. -->
-  <PartySpot.description>Desemnează un loc pentru organizarea de petreceri.</PartySpot.description>
+  <PartySpot.description>TODO</PartySpot.description>
   
   <!-- EN: pen marker -->
-  <PenMarker.label>marcator țarc</PenMarker.label>
+  <PenMarker.label>TODO</PenMarker.label>
   <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
-  <PenMarker.description>Un stâlp cu un semn care desemnează un țarc pentru animale. Acesta trebuie amplasat într-o zonă delimitată de garduri, baricade, ziduri și uși. Puteți atribui fiecărui pen marker un set de animale care să fie acceptate, iar îngrijitorii vor aduce animalele la un penar corespunzător.</PenMarker.description>
+  <PenMarker.description>TODO</PenMarker.description>
   
   <!-- EN: pod launcher -->
-  <PodLauncher.label>pod launcher</PodLauncher.label>
+  <PodLauncher.label>TODO</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
-  <PodLauncher.description>Un port de alimentare pentru lansarea unui pod de transport. Lansatoarele de poduri pot fi lansate în grup - dar lansatoarele trebuie să fie plasate adiacente una față de cealaltă.</PodLauncher.description>
+  <PodLauncher.description>TODO</PodLauncher.description>
   
   <!-- EN: sarcophagus -->
-  <Sarcophagus.label>sarcofag</Sarcophagus.label>
+  <Sarcophagus.label>TODO</Sarcophagus.label>
   <!-- EN: An ornamented burial receptacle for the honored dead. -->
-  <Sarcophagus.description>Un recipient funerar împodobit pentru morții de onoare.</Sarcophagus.description>
+  <Sarcophagus.description>TODO</Sarcophagus.description>
   
   <!-- EN: grand stele -->
-  <SteleGrand.label>stelă mare</SteleGrand.label>
+  <SteleGrand.label>TODO</SteleGrand.label>
   <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
-  <SteleGrand.description>O placă impunătoare cu gravuri ample pe laturi. Stelele au fost folosite din cele mai vechi timpuri pentru a comemora persoane, bătălii și alte evenimente importante.</SteleGrand.description>
+  <SteleGrand.description>TODO</SteleGrand.description>
   
   <!-- EN: large stele -->
-  <SteleLarge.label>stelă mare</SteleLarge.label>
+  <SteleLarge.label>TODO</SteleLarge.label>
   <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
-  <SteleLarge.description>O placă înaltă și groasă, cu gravuri pe laturi. Stelele au fost folosite din cele mai vechi timpuri pentru a comemora persoane, bătălii și alte evenimente importante.</SteleLarge.description>
+  <SteleLarge.description>TODO</SteleLarge.description>
   
   <!-- EN: tool cabinet -->
-  <ToolCabinet.label>dulap de scule</ToolCabinet.label>
+  <ToolCabinet.label>TODO</ToolCabinet.label>
   <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
-  <ToolCabinet.description>Crește viteza de lucru atunci când este plasat lângă un banc de lucru. Un banc de lucru poate utiliza până la două dulapuri pentru scule.</ToolCabinet.description>
+  <ToolCabinet.description>TODO</ToolCabinet.description>
   
   <!-- EN: transport pod -->
-  <TransportPod.label>capsulă de transport</TransportPod.label>
+  <TransportPod.label>TODO</TransportPod.label>
   <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
-  <TransportPod.description>O capsulă de marfă suborbitală lansabilă, capabilă să transporte oameni, obiecte sau animale. Poate fi folosită pentru a trimite cadouri, a transporta oameni sau provizii, pentru atacuri surpriză sau pentru întărirea bătăliilor.</TransportPod.description>
+  <TransportPod.description>TODO</TransportPod.description>
   
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>monitor de semne vitale</VitalsMonitor.label>
+  <VitalsMonitor.label>TODO</VitalsMonitor.label>
   <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
-  <VitalsMonitor.description>Crește calitatea tendințelor medicale, șansa de succes a operațiilor și viteza de obținere a imunității atunci când este plasat direct lângă un pat de spital. Funcționează doar pentru paturile de spital - paturile normale nu vor beneficia. Atașarea mai multor monitoare de semne vitale la același pat nu va avea niciun efect.</VitalsMonitor.description>
+  <VitalsMonitor.description>TODO</VitalsMonitor.description>
   
 </LanguageData>

@@ -2,223 +2,223 @@
 <LanguageData>
   
   <!-- EN: Create beautiful works of art from raw materials. -->
-  <Art.description>Crează frumoase piese de artă din materiale brute.</Art.description>
+  <Art.description>TODO</Art.description>
   <!-- EN: art -->
-  <Art.gerundLabel>creând</Art.gerundLabel>
+  <Art.gerundLabel>TODO</Art.gerundLabel>
   <!-- EN: art -->
-  <Art.labelShort>artă</Art.labelShort>
+  <Art.labelShort>TODO</Art.labelShort>
   <!-- EN: Artist -->
-  <Art.pawnLabel>Artist</Art.pawnLabel>
+  <Art.pawnLabel>TODO</Art.pawnLabel>
   <!-- EN: Do art at -->
-  <Art.verb>Creează artă la</Art.verb>
+  <Art.verb>TODO</Art.verb>
   
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
-  <BasicWorker.description>Sarcini necalificate și ușoare. Eliberați prizonieri și apăsați întrerupătoarele de pe mașini.</BasicWorker.description>
+  <BasicWorker.description>TODO</BasicWorker.description>
   <!-- EN: dealing with -->
-  <BasicWorker.gerundLabel>ocupându-se de</BasicWorker.gerundLabel>
+  <BasicWorker.gerundLabel>TODO</BasicWorker.gerundLabel>
   <!-- EN: basic -->
-  <BasicWorker.labelShort>de bază</BasicWorker.labelShort>
+  <BasicWorker.labelShort>TODO</BasicWorker.labelShort>
   <!-- EN: Worker -->
-  <BasicWorker.pawnLabel>Muncitor</BasicWorker.pawnLabel>
+  <BasicWorker.pawnLabel>TODO</BasicWorker.pawnLabel>
   <!-- EN: Deal with -->
-  <BasicWorker.verb>Ocupă-te de</BasicWorker.verb>
+  <BasicWorker.verb>TODO</BasicWorker.verb>
   
   <!-- EN: Clear snow and clean the floor in the home area. -->
-  <Cleaning.description>Curățați zăpada și curățați podeaua în zona casei.</Cleaning.description>
+  <Cleaning.description>TODO</Cleaning.description>
   <!-- EN: cleaning -->
-  <Cleaning.gerundLabel>curățând</Cleaning.gerundLabel>
+  <Cleaning.gerundLabel>TODO</Cleaning.gerundLabel>
   <!-- EN: clean -->
-  <Cleaning.labelShort>curățenie</Cleaning.labelShort>
+  <Cleaning.labelShort>TODO</Cleaning.labelShort>
   <!-- EN: Cleaner -->
-  <Cleaning.pawnLabel>Menajer</Cleaning.pawnLabel>
+  <Cleaning.pawnLabel>TODO</Cleaning.pawnLabel>
   <!-- EN: Clean -->
-  <Cleaning.verb>Curăță</Cleaning.verb>
+  <Cleaning.verb>TODO</Cleaning.verb>
   
   <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
-  <Construction.description>Construiți lucrurile pe care le-ați desemnat și reparați clădirile deteriorate sau stricate.</Construction.description>
+  <Construction.description>TODO</Construction.description>
   <!-- EN: constructing -->
-  <Construction.gerundLabel>construind</Construction.gerundLabel>
+  <Construction.gerundLabel>TODO</Construction.gerundLabel>
   <!-- EN: construct -->
-  <Construction.labelShort>construcție</Construction.labelShort>
+  <Construction.labelShort>TODO</Construction.labelShort>
   <!-- EN: Constructor -->
-  <Construction.pawnLabel>Constructor</Construction.pawnLabel>
+  <Construction.pawnLabel>TODO</Construction.pawnLabel>
   <!-- EN: Construct -->
-  <Construction.verb>Construiește</Construction.verb>
+  <Construction.verb>TODO</Construction.verb>
   
   <!-- EN: Prepare meals and butcher meat. -->
-  <Cooking.description>Pregătiți mesele și măcelăriți carnea.</Cooking.description>
+  <Cooking.description>TODO</Cooking.description>
   <!-- EN: cooking -->
-  <Cooking.gerundLabel>gătind</Cooking.gerundLabel>
+  <Cooking.gerundLabel>TODO</Cooking.gerundLabel>
   <!-- EN: cook -->
-  <Cooking.labelShort>gătit</Cooking.labelShort>
+  <Cooking.labelShort>TODO</Cooking.labelShort>
   <!-- EN: Cook -->
-  <Cooking.pawnLabel>Bucătar</Cooking.pawnLabel>
+  <Cooking.pawnLabel>TODO</Cooking.pawnLabel>
   <!-- EN: Cook -->
-  <Cooking.verb>Gătește</Cooking.verb>
+  <Cooking.verb>TODO</Cooking.verb>
   
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
-  <Crafting.description>Efectuați lucrări generale cu calificare redusă la punctele de lucru. Aceasta include tăierea pietrei, turnătoria și multe altele.</Crafting.description>
+  <Crafting.description>TODO</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.gerundLabel>meșterind</Crafting.gerundLabel>
+  <Crafting.gerundLabel>TODO</Crafting.gerundLabel>
   <!-- EN: craft -->
-  <Crafting.labelShort>meșteșugărie</Crafting.labelShort>
+  <Crafting.labelShort>TODO</Crafting.labelShort>
   <!-- EN: Crafter -->
-  <Crafting.pawnLabel>Meșter</Crafting.pawnLabel>
+  <Crafting.pawnLabel>TODO</Crafting.pawnLabel>
   <!-- EN: Craft at -->
-  <Crafting.verb>Meștereste la</Crafting.verb>
+  <Crafting.verb>TODO</Crafting.verb>
   
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
-  <Doctor.description>Tratați bolnavii, aduceți-le mâncare, înveseliți-i și efectuați operațiile desemnate. Medicii vor avea grijă atât de coloniști, cât și de prizonieri.</Doctor.description>
+  <Doctor.description>TODO</Doctor.description>
   <!-- EN: doctoring -->
-  <Doctor.gerundLabel>tratând</Doctor.gerundLabel>
+  <Doctor.gerundLabel>TODO</Doctor.gerundLabel>
   <!-- EN: doctor -->
-  <Doctor.labelShort>medic</Doctor.labelShort>
+  <Doctor.labelShort>TODO</Doctor.labelShort>
   <!-- EN: Doctor -->
-  <Doctor.pawnLabel>Medic</Doctor.pawnLabel>
+  <Doctor.pawnLabel>TODO</Doctor.pawnLabel>
   <!-- EN: Care for -->
-  <Doctor.verb>Tratează</Doctor.verb>
+  <Doctor.verb>TODO</Doctor.verb>
   
   <!-- EN: Extinguish fires in the colony. -->
-  <Firefighter.description>Stingeți incendiile din colonie.</Firefighter.description>
+  <Firefighter.description>TODO</Firefighter.description>
   <!-- EN: firefighting -->
-  <Firefighter.gerundLabel>stingând incendiul</Firefighter.gerundLabel>
+  <Firefighter.gerundLabel>TODO</Firefighter.gerundLabel>
   <!-- EN: firefight -->
-  <Firefighter.labelShort>pompier</Firefighter.labelShort>
+  <Firefighter.labelShort>TODO</Firefighter.labelShort>
   <!-- EN: Firefighter -->
-  <Firefighter.pawnLabel>Pompier</Firefighter.pawnLabel>
+  <Firefighter.pawnLabel>TODO</Firefighter.pawnLabel>
   <!-- EN: Extinguish -->
-  <Firefighter.verb>Stinge</Firefighter.verb>
+  <Firefighter.verb>TODO</Firefighter.verb>
   
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
-  <Growing.description>Plantați semințe, recoltați culturi și căutați plante sălbatice.</Growing.description>
+  <Growing.description>TODO</Growing.description>
   <!-- EN: growing -->
-  <Growing.gerundLabel>cultivând</Growing.gerundLabel>
+  <Growing.gerundLabel>TODO</Growing.gerundLabel>
   <!-- EN: grow -->
-  <Growing.labelShort>agricultură</Growing.labelShort>
+  <Growing.labelShort>TODO</Growing.labelShort>
   <!-- EN: Grower -->
-  <Growing.pawnLabel>Fermier</Growing.pawnLabel>
+  <Growing.pawnLabel>TODO</Growing.pawnLabel>
   <!-- EN: Grow -->
-  <Growing.verb>Cultivează</Growing.verb>
+  <Growing.verb>TODO</Growing.verb>
   
   <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
-  <Handling.description>Domesticiți, antrenați, recoltați resurse de la și sacrificați animale.</Handling.description>
+  <Handling.description>TODO</Handling.description>
   <!-- EN: handling -->
-  <Handling.gerundLabel>mânuind</Handling.gerundLabel>
+  <Handling.gerundLabel>TODO</Handling.gerundLabel>
   <!-- EN: handle -->
-  <Handling.labelShort>mânuire</Handling.labelShort>
+  <Handling.labelShort>TODO</Handling.labelShort>
   <!-- EN: Handler -->
-  <Handling.pawnLabel>Mânuitor</Handling.pawnLabel>
+  <Handling.pawnLabel>TODO</Handling.pawnLabel>
   <!-- EN: Handle -->
-  <Handling.verb>Mânuiește</Handling.verb>
+  <Handling.verb>TODO</Handling.verb>
   
   <!-- EN: Carry things to where they need to be. -->
-  <Hauling.description>Cărați lucrurile acolo unde trebuie să fie.</Hauling.description>
+  <Hauling.description>TODO</Hauling.description>
   <!-- EN: hauling -->
-  <Hauling.gerundLabel>cărând</Hauling.gerundLabel>
+  <Hauling.gerundLabel>TODO</Hauling.gerundLabel>
   <!-- EN: haul -->
-  <Hauling.labelShort>cărare</Hauling.labelShort>
+  <Hauling.labelShort>TODO</Hauling.labelShort>
   <!-- EN: Hauler -->
-  <Hauling.pawnLabel>Cărător</Hauling.pawnLabel>
+  <Hauling.pawnLabel>TODO</Hauling.pawnLabel>
   <!-- EN: Haul -->
-  <Hauling.verb>Cară</Hauling.verb>
+  <Hauling.verb>TODO</Hauling.verb>
   
   <!-- EN: Kill animals which are designated to be hunted. -->
-  <Hunting.description>Ucideți animalele care sunt desemnate pentru a fi vânate.</Hunting.description>
+  <Hunting.description>TODO</Hunting.description>
   <!-- EN: hunting -->
-  <Hunting.gerundLabel>vânând</Hunting.gerundLabel>
+  <Hunting.gerundLabel>TODO</Hunting.gerundLabel>
   <!-- EN: hunt -->
-  <Hunting.labelShort>vânătoare</Hunting.labelShort>
+  <Hunting.labelShort>TODO</Hunting.labelShort>
   <!-- EN: Hunter -->
-  <Hunting.pawnLabel>Vânător</Hunting.pawnLabel>
+  <Hunting.pawnLabel>TODO</Hunting.pawnLabel>
   <!-- EN: Hunt -->
-  <Hunting.verb>Vânează</Hunting.verb>
+  <Hunting.verb>TODO</Hunting.verb>
   
   <!-- EN: Digging and drilling. -->
-  <Mining.description>Săparea și forarea.</Mining.description>
+  <Mining.description>TODO</Mining.description>
   <!-- EN: mining -->
-  <Mining.gerundLabel>minând</Mining.gerundLabel>
+  <Mining.gerundLabel>TODO</Mining.gerundLabel>
   <!-- EN: mine -->
-  <Mining.labelShort>minerit</Mining.labelShort>
+  <Mining.labelShort>TODO</Mining.labelShort>
   <!-- EN: Miner -->
-  <Mining.pawnLabel>Miner</Mining.pawnLabel>
+  <Mining.pawnLabel>TODO</Mining.pawnLabel>
   <!-- EN: Mine -->
-  <Mining.verb>Minează</Mining.verb>
+  <Mining.verb>TODO</Mining.verb>
   
   <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
-  <Patient.description>Mergeți la un pat medical pentru tratament dacă aveți o afecțiune care vă pune imediat viața în pericol.</Patient.description>
+  <Patient.description>TODO</Patient.description>
   <!-- EN: patienting -->
-  <Patient.gerundLabel>pacientând</Patient.gerundLabel>
+  <Patient.gerundLabel>TODO</Patient.gerundLabel>
   <!-- EN: patient -->
-  <Patient.labelShort>pacient</Patient.labelShort>
+  <Patient.labelShort>TODO</Patient.labelShort>
   <!-- EN: Patient -->
-  <Patient.pawnLabel>Pacient</Patient.pawnLabel>
+  <Patient.pawnLabel>TODO</Patient.pawnLabel>
   <!-- EN: Become patient -->
-  <Patient.verb>Devino un pacient</Patient.verb>
+  <Patient.verb>TODO</Patient.verb>
   
   <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
-  <PatientBedRest.description>Odihniți-vă la pat pentru a vă recupera de probleme medicale care nu vă pun viața în pericol imediat.</PatientBedRest.description>
+  <PatientBedRest.description>TODO</PatientBedRest.description>
   <!-- EN: resting in bed -->
-  <PatientBedRest.gerundLabel>recuperându-se</PatientBedRest.gerundLabel>
+  <PatientBedRest.gerundLabel>TODO</PatientBedRest.gerundLabel>
   <!-- EN: bed rest -->
-  <PatientBedRest.labelShort>odihnă</PatientBedRest.labelShort>
+  <PatientBedRest.labelShort>TODO</PatientBedRest.labelShort>
   <!-- EN: Bed rester -->
-  <PatientBedRest.pawnLabel>Pacient</PatientBedRest.pawnLabel>
+  <PatientBedRest.pawnLabel>TODO</PatientBedRest.pawnLabel>
   <!-- EN: Become patient -->
-  <PatientBedRest.verb>Recuperează-te</PatientBedRest.verb>
+  <PatientBedRest.verb>TODO</PatientBedRest.verb>
   
   <!-- EN: Cut or harvest plants as designated. -->
-  <PlantCutting.description>Tăiați sau recoltați plantele conform indicațiilor.</PlantCutting.description>
+  <PlantCutting.description>TODO</PlantCutting.description>
   <!-- EN: plant cutting -->
-  <PlantCutting.gerundLabel>recoltând</PlantCutting.gerundLabel>
+  <PlantCutting.gerundLabel>TODO</PlantCutting.gerundLabel>
   <!-- EN: plant cut -->
-  <PlantCutting.labelShort>tăiat plante</PlantCutting.labelShort>
+  <PlantCutting.labelShort>TODO</PlantCutting.labelShort>
   <!-- EN: Plant cutter -->
-  <PlantCutting.pawnLabel>Tăietor de plante</PlantCutting.pawnLabel>
+  <PlantCutting.pawnLabel>TODO</PlantCutting.pawnLabel>
   <!-- EN: Cut -->
-  <PlantCutting.verb>Taie</PlantCutting.verb>
+  <PlantCutting.verb>TODO</PlantCutting.verb>
   
   <!-- EN: Perform research work. -->
-  <Research.description>Efectuarea de lucrări de cercetare.</Research.description>
+  <Research.description>TODO</Research.description>
   <!-- EN: researching -->
-  <Research.gerundLabel>cercetând</Research.gerundLabel>
+  <Research.gerundLabel>TODO</Research.gerundLabel>
   <!-- EN: research -->
-  <Research.labelShort>cercetare</Research.labelShort>
+  <Research.labelShort>TODO</Research.labelShort>
   <!-- EN: Researcher -->
-  <Research.pawnLabel>Cercetător</Research.pawnLabel>
+  <Research.pawnLabel>TODO</Research.pawnLabel>
   <!-- EN: Research at -->
-  <Research.verb>Cercetează</Research.verb>
+  <Research.verb>TODO</Research.verb>
   
   <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. -->
-  <Smithing.description>Creați arme și unelte din materii prime, fie ca fierar, fie prin prelucrare.</Smithing.description>
+  <Smithing.description>TODO</Smithing.description>
   <!-- EN: smithing -->
-  <Smithing.gerundLabel>forjând</Smithing.gerundLabel>
+  <Smithing.gerundLabel>TODO</Smithing.gerundLabel>
   <!-- EN: smith -->
-  <Smithing.labelShort>forjare</Smithing.labelShort>
+  <Smithing.labelShort>TODO</Smithing.labelShort>
   <!-- EN: Smith -->
-  <Smithing.pawnLabel>Fierar</Smithing.pawnLabel>
+  <Smithing.pawnLabel>TODO</Smithing.pawnLabel>
   <!-- EN: Smith at -->
-  <Smithing.verb>Forjează</Smithing.verb>
+  <Smithing.verb>TODO</Smithing.verb>
   
   <!-- EN: Create apparel from raw materials. -->
-  <Tailoring.description>Creați îmbrăcăminte din materii prime.</Tailoring.description>
+  <Tailoring.description>TODO</Tailoring.description>
   <!-- EN: tailoring -->
-  <Tailoring.gerundLabel>croind</Tailoring.gerundLabel>
+  <Tailoring.gerundLabel>TODO</Tailoring.gerundLabel>
   <!-- EN: tailor -->
-  <Tailoring.labelShort>croitorie</Tailoring.labelShort>
+  <Tailoring.labelShort>TODO</Tailoring.labelShort>
   <!-- EN: Tailor -->
-  <Tailoring.pawnLabel>Croitor</Tailoring.pawnLabel>
+  <Tailoring.pawnLabel>TODO</Tailoring.pawnLabel>
   <!-- EN: Tailor at -->
-  <Tailoring.verb>Croiește</Tailoring.verb>
+  <Tailoring.verb>TODO</Tailoring.verb>
   
   <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
-  <Warden.description>Gestionați, hrăniți, discutați cu și recrutați prizonieri.</Warden.description>
+  <Warden.description>TODO</Warden.description>
   <!-- EN: wardening -->
-  <Warden.gerundLabel>supravegând</Warden.gerundLabel>
+  <Warden.gerundLabel>TODO</Warden.gerundLabel>
   <!-- EN: warden -->
-  <Warden.labelShort>supraveghere</Warden.labelShort>
+  <Warden.labelShort>TODO</Warden.labelShort>
   <!-- EN: Warden -->
-  <Warden.pawnLabel>Supraveghetor</Warden.pawnLabel>
+  <Warden.pawnLabel>TODO</Warden.pawnLabel>
   <!-- EN: Handle -->
-  <Warden.verb>Ocupă-te de</Warden.verb>
+  <Warden.verb>TODO</Warden.verb>
   
 </LanguageData>

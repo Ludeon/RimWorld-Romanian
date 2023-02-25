@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: concert -->
-  <Concert.label>concert</Concert.label>
+  <Concert.label>TODO</Concert.label>
   <!-- EN: The concert has been cancelled. -->
-  <Concert.calledOffMessage>Concertul a fost anulat.</Concert.calledOffMessage>
+  <Concert.calledOffMessage>TODO</Concert.calledOffMessage>
   <!-- EN: The concert has concluded. -->
-  <Concert.finishedMessage>Concertul s-a încheiat.</Concert.finishedMessage>
+  <Concert.finishedMessage>TODO</Concert.finishedMessage>
   <!-- EN: {ORGANIZER_labelShort} is holding a concert! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost, both from social contact and from the music itself. -->
-  <Concert.letterText>{ORGANIZER_labelShort} organizează un concert! Toți cei care vor merge vor avea parte de recreere și energie socială, precum și de o stare de spirit pozitivă de durată, atât din contactul social, cât și din muzica în sine.</Concert.letterText>
+  <Concert.letterText>TODO</Concert.letterText>
   <!-- EN: Concert -->
-  <Concert.letterTitle>Concert</Concert.letterTitle>
+  <Concert.letterTitle>TODO</Concert.letterTitle>
   
 </LanguageData>

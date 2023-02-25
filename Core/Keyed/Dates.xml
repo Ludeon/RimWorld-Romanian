@@ -2,23 +2,23 @@
 <LanguageData>
 
   <!-- EN: Time -->
-  <ClockTime>Ora</ClockTime>
+  <ClockTime>TODO</ClockTime>
   <!-- EN: Date -->
-  <ClockDate>Dată</ClockDate>
+  <ClockDate>TODO</ClockDate>
   <!-- EN: Year -->
-  <ClockYear>An</ClockYear>
+  <ClockYear>TODO</ClockYear>
   <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
-  <DateReadoutTip>Zilele trecute de la sosirea dvs.: {0}\nQuadrum curent: {4}\nSezonul local: {2}\n\nAnul este împărțit în 4 quadrume de câte {3} zile fiecare. Quadrumurile sunt aceleași peste tot, în timp ce anotimpurile sunt diferite în diferite locuri.\n\nSezonurile locale pentru fiecare quadrum:\n{5}</DateReadoutTip>
+  <DateReadoutTip>TODO</DateReadoutTip>
 
   <!-- EN: {0} of {1}, {2} -->
-  <FullDate>{1}/{0}/{2}</FullDate>
+  <FullDate>TODO</FullDate>
   <!-- EN: {0} {1} {2} -->
-  <ShortDate>{1} {0} {2}</ShortDate>
+  <ShortDate>TODO</ShortDate>
   <!-- EN: {0} of {1}, {2} -->
-  <DateReadout>{1} {0} {2}</DateReadout>
+  <DateReadout>TODO</DateReadout>
   <!-- EN: {0} of {1} -->
-  <SeasonFullDate>{0}/{1}</SeasonFullDate>
+  <SeasonFullDate>TODO</SeasonFullDate>
   <!-- EN: Whole year -->
-  <WholeYear>Întreg anul</WholeYear>
+  <WholeYear>TODO</WholeYear>
   
 </LanguageData>

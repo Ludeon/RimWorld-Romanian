@@ -2,52 +2,72 @@
 <LanguageData>
   
   <!-- EN: aiming time -->
-  <AimingDelayFactor.label>timpul de țintire</AimingDelayFactor.label>
+  <AimingDelayFactor.label>TODO</AimingDelayFactor.label>
   <!-- EN: How long it takes to shoot after choosing a target. -->
-  <AimingDelayFactor.description>Timpul necesar pentru a trage după alegerea unei ținte.</AimingDelayFactor.description>
+  <AimingDelayFactor.description>TODO</AimingDelayFactor.description>
   
   <!-- EN: incoming damage multiplier -->
-  <IncomingDamageFactor.label>multiplicatorul daunelor primite</IncomingDamageFactor.label>
+  <IncomingDamageFactor.label>TODO</IncomingDamageFactor.label>
   <!-- EN: A multiplier on all incoming damage. -->
-  <IncomingDamageFactor.description>Un multiplicator al tuturor daunelor primite.</IncomingDamageFactor.description>
+  <IncomingDamageFactor.description>TODO</IncomingDamageFactor.description>
   
   <!-- EN: melee armor penetration -->
-  <MeleeArmorPenetration.label>penetrarea armurii în luptă corp la corp</MeleeArmorPenetration.label>
+  <MeleeArmorPenetration.label>TODO</MeleeArmorPenetration.label>
   <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
-  <MeleeArmorPenetration.description>Penetrarea medie a armurii a tuturor atacurilor în lupta corp la corp.\n\nAceastă statistică include arma folosită în prezent.</MeleeArmorPenetration.description>
+  <MeleeArmorPenetration.description>TODO</MeleeArmorPenetration.description>
   
   <!-- EN: melee dodge chance -->
-  <MeleeDodgeChance.label>șansa de evitare în luptă corp la corp</MeleeDodgeChance.label>
+  <MeleeDodgeChance.label>TODO</MeleeDodgeChance.label>
   <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
-  <MeleeDodgeChance.description>Șansa de a te feri de un atac corp la corp care altfel ar fi lovit.\n\nCaracterele nu se vor feri în timp ce țintesc sau trag cu o armă de la distanță.</MeleeDodgeChance.description>
+  <MeleeDodgeChance.description>TODO</MeleeDodgeChance.description>
   
   <!-- EN: melee DPS -->
-  <MeleeDPS.label>DPS corp la corp</MeleeDPS.label>
+  <MeleeDPS.label>TODO</MeleeDPS.label>
   <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
-  <MeleeDPS.description>Daunele medii pe secundă în lupta corp la corp.\n\nAceastă statistică ignoră apărarea țintelor, cum ar fi ferirea și armura.</MeleeDPS.description>
+  <MeleeDPS.description>TODO</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
-  <MeleeHitChance.label>șansa de lovire în luptă corp la corp</MeleeHitChance.label>
+  <MeleeHitChance.label>TODO</MeleeHitChance.label>
   <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
-  <MeleeHitChance.description>Șansa de a lovi o țintă în luptă corp la corp.\n\nȚinta se poate încă feri chiar dacă am fi lovit.</MeleeHitChance.description>
+  <MeleeHitChance.description>TODO</MeleeHitChance.description>
   
   <!-- EN: Mortar miss radius multiplier -->
-  <MortarMissRadiusFactor.label>Multiplicatorul razei de ratare a mortierei</MortarMissRadiusFactor.label>
+  <MortarMissRadiusFactor.label>TODO</MortarMissRadiusFactor.label>
   <!-- EN: A multiplier on the miss radius of a mortar used by this person. Smaller numbers means more accurate mortar shells. -->
-  <MortarMissRadiusFactor.description>Un multiplicator al razei de ratare a unui mortier folosit de această persoană. Un număr mai mic înseamnă obuze de mortier mai precise.</MortarMissRadiusFactor.description>
+  <MortarMissRadiusFactor.description>TODO</MortarMissRadiusFactor.description>
   <!-- EN: Mortar miss radius multiplier -->
-  <MortarMissRadiusFactor.labelForFullStatList>Multiplicatorul razei de ratare a mortierei</MortarMissRadiusFactor.labelForFullStatList>
+  <MortarMissRadiusFactor.labelForFullStatList>TODO</MortarMissRadiusFactor.labelForFullStatList>
   
   <!-- EN: trap spring chance -->
-  <PawnTrapSpringChance.label>șansa de declanșare a capcanei</PawnTrapSpringChance.label>
+  <PawnTrapSpringChance.label>TODO</PawnTrapSpringChance.label>
   <!-- EN: Chance to spring a trap the character is unaware of. -->
-  <PawnTrapSpringChance.description>Șansa de a declanșa o capcană de care personajul nu este conștient.</PawnTrapSpringChance.description>
+  <PawnTrapSpringChance.description>TODO</PawnTrapSpringChance.description>
+  
+  <!-- EN: accuracy factor (long) -->
+  <ShootingAccuracyFactor_Long.label>TODO</ShootingAccuracyFactor_Long.label>
+  <!-- EN: A multiplier on accuracy at a distance of 40 cells or more. -->
+  <ShootingAccuracyFactor_Long.description>TODO</ShootingAccuracyFactor_Long.description>
+  
+  <!-- EN: accuracy factor (medium) -->
+  <ShootingAccuracyFactor_Medium.label>TODO</ShootingAccuracyFactor_Medium.label>
+  <!-- EN: A multiplier on accuracy at a distance of 25 cells. -->
+  <ShootingAccuracyFactor_Medium.description>TODO</ShootingAccuracyFactor_Medium.description>
+  
+  <!-- EN: accuracy factor (short) -->
+  <ShootingAccuracyFactor_Short.label>TODO</ShootingAccuracyFactor_Short.label>
+  <!-- EN: A multiplier on accuracy at a distance of 12 cells. -->
+  <ShootingAccuracyFactor_Short.description>TODO</ShootingAccuracyFactor_Short.description>
+  
+  <!-- EN: accuracy factor (close) -->
+  <ShootingAccuracyFactor_Touch.label>TODO</ShootingAccuracyFactor_Touch.label>
+  <!-- EN: A multiplier on accuracy at a distance of 3 cells or less. -->
+  <ShootingAccuracyFactor_Touch.description>TODO</ShootingAccuracyFactor_Touch.description>
   
   <!-- EN: shooting accuracy -->
-  <ShootingAccuracyPawn.label>acuratețea tragerii</ShootingAccuracyPawn.label>
+  <ShootingAccuracyPawn.label>TODO</ShootingAccuracyPawn.label>
   <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
-  <ShootingAccuracyPawn.description>Șansa de bază de a nu rata pe fiecare celulă de distanță de tragere.\n\nSansa de a nimeri este afectată și de mulți alți factori.\n\nO explicație a șansei de a nimeri pentru orice lovitură poate fi văzută selectând un trăgător și trecând cu mouse-ul peste o țintă.</ShootingAccuracyPawn.description>
+  <ShootingAccuracyPawn.description>TODO</ShootingAccuracyPawn.description>
   <!-- EN: shooting accuracy (people) -->
-  <ShootingAccuracyPawn.labelForFullStatList>acuratețea de tragere (oameni)</ShootingAccuracyPawn.labelForFullStatList>
+  <ShootingAccuracyPawn.labelForFullStatList>TODO</ShootingAccuracyPawn.labelForFullStatList>
   
 </LanguageData>

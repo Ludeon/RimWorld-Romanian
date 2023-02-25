@@ -2,42 +2,42 @@
 <LanguageData>
   
   <!-- EN: accepted deserter -->
-  <AcceptedDeserter.label>dezertor acceptat</AcceptedDeserter.label>
+  <AcceptedDeserter.label>TODO</AcceptedDeserter.label>
   
   <!-- EN: failed to keep guests happy -->
-  <FailedToKeepLodgersHappy.label>eșuat în a-i face fericiți pe oaspeți</FailedToKeepLodgersHappy.label>
+  <FailedToKeepLodgersHappy.label>TODO</FailedToKeepLodgersHappy.label>
   
   <!-- EN: member missed shuttle -->
-  <MemberMissedShuttle.label>membrul a ratat naveta</MemberMissedShuttle.label>
+  <MemberMissedShuttle.label>TODO</MemberMissedShuttle.label>
   
   <!-- EN: monument construction expired -->
-  <MonumentConstructionExpired.label>construcția monumentului a expirat</MonumentConstructionExpired.label>
+  <MonumentConstructionExpired.label>TODO</MonumentConstructionExpired.label>
   
   <!-- EN: monument construction abandoned -->
-  <MonumentConstructionMapRemoved.label>construcția monumentului abandonată</MonumentConstructionMapRemoved.label>
+  <MonumentConstructionMapRemoved.label>TODO</MonumentConstructionMapRemoved.label>
   
   <!-- EN: destroyed monument -->
-  <MonumentDestroyed.label>monument distrus</MonumentDestroyed.label>
+  <MonumentDestroyed.label>TODO</MonumentDestroyed.label>
   
   <!-- EN: quest completed -->
-  <QuestGoodwillReward.label>misiune finalizată</QuestGoodwillReward.label>
+  <QuestGoodwillReward.label>TODO</QuestGoodwillReward.label>
   
   <!-- EN: member arrested -->
-  <QuestPawnArrested.label>membru arestat</QuestPawnArrested.label>
+  <QuestPawnArrested.label>TODO</QuestPawnArrested.label>
   
   <!-- EN: member lost at colony -->
-  <QuestPawnLost.label>membru pierdut în colonie</QuestPawnLost.label>
+  <QuestPawnLost.label>TODO</QuestPawnLost.label>
   
   <!-- EN: enslaved lent prisoner -->
-  <QuestPrisonerEnslaved.label>prizonier împrumutat sclavizat</QuestPrisonerEnslaved.label>
+  <QuestPrisonerEnslaved.label>TODO</QuestPrisonerEnslaved.label>
   
   <!-- EN: recruited lent prisoner -->
-  <QuestPrisonerRecruited.label>prizonier împrumutat recrutat</QuestPrisonerRecruited.label>
+  <QuestPrisonerRecruited.label>TODO</QuestPrisonerRecruited.label>
   
   <!-- EN: shuttle commander missed shuttle -->
-  <ShuttleCommanderMissedShuttle.label>comandantul navetei a ratat naveta</ShuttleCommanderMissedShuttle.label>
+  <ShuttleCommanderMissedShuttle.label>TODO</ShuttleCommanderMissedShuttle.label>
   
   <!-- EN: shuttle guards missed shuttle -->
-  <ShuttleGuardsMissedShuttle.label>gărzile navetei au ratat naveta</ShuttleGuardsMissedShuttle.label>
+  <ShuttleGuardsMissedShuttle.label>TODO</ShuttleGuardsMissedShuttle.label>
   
 </LanguageData>

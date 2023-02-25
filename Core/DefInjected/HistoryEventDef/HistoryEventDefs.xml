@@ -2,48 +2,54 @@
 <LanguageData>
   
   <!-- EN: administered drug -->
-  <AdministeredDrug.label>medicament administrat</AdministeredDrug.label>
+  <AdministeredDrug.label>TODO</AdministeredDrug.label>
   
   <!-- EN: administered hard drug -->
-  <AdministeredHardDrug.label>drog dur administrat</AdministeredHardDrug.label>
+  <AdministeredHardDrug.label>TODO</AdministeredHardDrug.label>
   
   <!-- EN: administered recreational drug -->
-  <AdministeredRecreationalDrug.label>drog recreațional administrat</AdministeredRecreationalDrug.label>
+  <AdministeredRecreationalDrug.label>TODO</AdministeredRecreationalDrug.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeat.label>mâncat carne umană</AteHumanMeat.label>
+  <AteHumanMeat.label>TODO</AteHumanMeat.label>
+  
+  <!-- EN: build building -->
+  <BuildSpecificDef.label>TODO</BuildSpecificDef.label>
+  
+  <!-- EN: joiner refused -->
+  <CharityRefused_ThreatReward_Joiner.label>TODO</CharityRefused_ThreatReward_Joiner.label>
   
   <!-- EN: cut tree -->
-  <CutTree.label>tăiat copac</CutTree.label>
+  <CutTree.label>TODO</CutTree.label>
   
   <!-- EN: destroyed natural wall -->
-  <DestroyedMineable.label>zid natural distrus</DestroyedMineable.label>
+  <DestroyedMineable.label>TODO</DestroyedMineable.label>
   
   <!-- EN: used drug -->
-  <IngestedDrug.label>folosit droguri</IngestedDrug.label>
+  <IngestedDrug.label>TODO</IngestedDrug.label>
   
   <!-- EN: used hard drug -->
-  <IngestedHardDrug.label>drog greu folosit</IngestedHardDrug.label>
+  <IngestedHardDrug.label>TODO</IngestedHardDrug.label>
   
   <!-- EN: used recreational drug -->
-  <IngestedRecreationalDrug.label>drog recreativ folosit</IngestedRecreationalDrug.label>
+  <IngestedRecreationalDrug.label>TODO</IngestedRecreationalDrug.label>
   
   <!-- EN: installed prosthetic -->
-  <InstalledProsthetic.label>proteză instalată</InstalledProsthetic.label>
+  <InstalledProsthetic.label>TODO</InstalledProsthetic.label>
   
   <!-- EN: mined -->
-  <Mined.label>minat</Mined.label>
+  <Mined.label>TODO</Mined.label>
   
   <!-- EN: tree died -->
-  <MinifiedTreeDied.label>copac mort</MinifiedTreeDied.label>
+  <MinifiedTreeDied.label>TODO</MinifiedTreeDied.label>
   
   <!-- EN: researching -->
-  <Researching.label>cercetare</Researching.label>
+  <Researching.label>TODO</Researching.label>
   
   <!-- EN: sowed food plant -->
-  <SowedHumanFoodPlant.label>plantă de hrană umană semănată</SowedHumanFoodPlant.label>
+  <SowedHumanFoodPlant.label>TODO</SowedHumanFoodPlant.label>
   
   <!-- EN: sowed plant -->
-  <SowedPlant.label>plantă însămânțată</SowedPlant.label>
+  <SowedPlant.label>TODO</SowedPlant.label>
   
 </LanguageData>

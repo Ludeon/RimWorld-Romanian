@@ -2,37 +2,37 @@
 <LanguageData>
   
   <!-- EN: chinchilla -->
-  <Chinchilla.label>chinchilla</Chinchilla.label>
+  <Chinchilla.label>TODO</Chinchilla.label>
   
   <!-- EN: deer -->
-  <Deer.label>căprioară</Deer.label>
+  <Deer.label>TODO</Deer.label>
   <!-- EN: doe -->
-  <Deer.labelFemale>căprioară</Deer.labelFemale>
+  <Deer.labelFemale>TODO</Deer.labelFemale>
   <!-- EN: buck -->
-  <Deer.labelMale>cerb</Deer.labelMale>
+  <Deer.labelMale>TODO</Deer.labelMale>
   <!-- EN: deer -->
-  <Deer.labelPlural>cerb</Deer.labelPlural>
+  <Deer.labelPlural>TODO</Deer.labelPlural>
   
   <!-- EN: gazelle -->
-  <Gazelle.label>gazelă</Gazelle.label>
+  <Gazelle.label>TODO</Gazelle.label>
   
   <!-- EN: ibex -->
-  <Ibex.label>ibex</Ibex.label>
+  <Ibex.label>TODO</Ibex.label>
   <!-- EN: ibex doe -->
-  <Ibex.labelFemale>căprioară ibex</Ibex.labelFemale>
+  <Ibex.labelFemale>TODO</Ibex.labelFemale>
   <!-- EN: ibex ram -->
-  <Ibex.labelMale>ibex berbec</Ibex.labelMale>
+  <Ibex.labelMale>TODO</Ibex.labelMale>
   <!-- EN: ibexes -->
-  <Ibex.labelPlural>Ibeci</Ibex.labelPlural>
+  <Ibex.labelPlural>TODO</Ibex.labelPlural>
   
   <!-- EN: pig -->
-  <Pig.label>porc</Pig.label>
+  <Pig.label>TODO</Pig.label>
   <!-- EN: sow -->
-  <Pig.labelFemale>scroafă</Pig.labelFemale>
+  <Pig.labelFemale>TODO</Pig.labelFemale>
   <!-- EN: piglet -->
-  <Pig.lifeStages.piglet.label>purceluș</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.piglet.label>TODO</Pig.lifeStages.piglet.label>
   
   <!-- EN: wild boar -->
-  <WildBoar.label>mistreț sălbatic</WildBoar.label>
+  <WildBoar.label>TODO</WildBoar.label>
   
 </LanguageData>

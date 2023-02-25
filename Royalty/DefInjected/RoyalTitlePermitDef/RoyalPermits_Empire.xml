@@ -2,72 +2,72 @@
 <LanguageData>
   
   <!-- EN: call laborer gang -->
-  <CallLaborerGang.label>cheamă gașcă de muncitori</CallLaborerGang.label>
+  <CallLaborerGang.label>TODO</CallLaborerGang.label>
   <!-- EN: Call a group of 8 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe. -->
-  <CallLaborerGang.description>Cheamă un grup de 8 muncitori care să te ajute timp de 4 zile. Acești muncitori pot face doar sarcini de muncă generală. Îi puteți controla ca și cum ar fi propriii dvs. coloniști. Vi se cere să îi păstrați în siguranță.</CallLaborerGang.description>
+  <CallLaborerGang.description>TODO</CallLaborerGang.description>
   
   <!-- EN: call laborer team -->
-  <CallLaborerTeam.label>cheamă echipa de muncitori</CallLaborerTeam.label>
+  <CallLaborerTeam.label>TODO</CallLaborerTeam.label>
   <!-- EN: Call a group of 4 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe. -->
-  <CallLaborerTeam.description>Cheamă un grup de 4 muncitori care să te asiste timp de 4 zile. Acești muncitori pot face doar sarcini de muncă generală. Îi puteți controla ca și cum ar fi propriii dvs. coloniști. Vi se cere să îi păstrați în siguranță.</CallLaborerTeam.description>
+  <CallLaborerTeam.description>TODO</CallLaborerTeam.description>
   
   <!-- EN: call cataphract squad -->
-  <CallMilitaryAidGrand.label>cheamă echipa de catafracți</CallMilitaryAidGrand.label>
+  <CallMilitaryAidGrand.label>TODO</CallMilitaryAidGrand.label>
   <!-- EN: Call a group of 4 heavy cataphracts to aid you in battle. -->
-  <CallMilitaryAidGrand.description>Cheamă un grup de 4 cataphracts grei pentru a te ajuta în luptă.</CallMilitaryAidGrand.description>
+  <CallMilitaryAidGrand.description>TODO</CallMilitaryAidGrand.description>
   
   <!-- EN: call janissary squad -->
-  <CallMilitaryAidLarge.label>cheamă echipa de ieniceri</CallMilitaryAidLarge.label>
+  <CallMilitaryAidLarge.label>TODO</CallMilitaryAidLarge.label>
   <!-- EN: Call a group of 4 professional janissaries to aid you in battle. -->
-  <CallMilitaryAidLarge.description>Cheamă un grup de 4 ieniceri profesioniști pentru a te ajuta în luptă.</CallMilitaryAidLarge.description>
+  <CallMilitaryAidLarge.description>TODO</CallMilitaryAidLarge.description>
   
   <!-- EN: call trooper squad -->
-  <CallMilitaryAidSmall.label>cheamă echipa de soldați</CallMilitaryAidSmall.label>
+  <CallMilitaryAidSmall.label>TODO</CallMilitaryAidSmall.label>
   <!-- EN: Call a group of 4 light troopers to aid you in battle. -->
-  <CallMilitaryAidSmall.description>Cheamă un grup de 4 soldați ușori pentru a te ajuta în luptă.</CallMilitaryAidSmall.description>
+  <CallMilitaryAidSmall.description>TODO</CallMilitaryAidSmall.description>
   
   <!-- EN: call aerodrone salvo -->
-  <CallOrbitalSalvo.label>cheamă aerodronă salvo </CallOrbitalSalvo.label>
+  <CallOrbitalSalvo.label>TODO</CallOrbitalSalvo.label>
   <!-- EN: Call a salvo of aerodrone strikes around a target position. -->
-  <CallOrbitalSalvo.description>Cheamă o salvo de lovituri de aerodrone în jurul unei poziții țintă.</CallOrbitalSalvo.description>
+  <CallOrbitalSalvo.description>TODO</CallOrbitalSalvo.description>
   
   <!-- EN: call aerodrone strike -->
-  <CallOrbitalStrike.label>cheamă lovitură de aerodronă</CallOrbitalStrike.label>
+  <CallOrbitalStrike.label>TODO</CallOrbitalStrike.label>
   <!-- EN: Call a single-impact aerodrone strike at a target position. -->
-  <CallOrbitalStrike.description>Cheamă o lovitură aerodronă cu impact unic în jurul unei poziții țintă.</CallOrbitalStrike.description>
+  <CallOrbitalStrike.description>TODO</CallOrbitalStrike.description>
   
   <!-- EN: call transport shuttle -->
-  <CallTransportShuttle.label>cheamă navetă de transport</CallTransportShuttle.label>
+  <CallTransportShuttle.label>TODO</CallTransportShuttle.label>
   <!-- EN: Call a shuttle for your own use. It will transport colonists, items, and animals anywhere you like within 70 world tiles. -->
-  <CallTransportShuttle.description>Cheamă o navetă pentru uz propriu. Aceasta va transporta coloniști, obiecte și animale oriunde doriți pe o rază de 70 de dale ale lumii.</CallTransportShuttle.description>
+  <CallTransportShuttle.description>TODO</CallTransportShuttle.description>
   
   <!-- EN: food drop -->
-  <FoodDrop.label>livrare de alimente</FoodDrop.label>
+  <FoodDrop.label>TODO</FoodDrop.label>
   <!-- EN: Call for a drop of 20 packaged survival meals. -->
-  <FoodDrop.description>Cheamă pentru o livrare de 20 de mese de supraviețuire ambalate.</FoodDrop.description>
+  <FoodDrop.description>TODO</FoodDrop.description>
   
   <!-- EN: glitter med drop -->
-  <GlitterMedDrop.label>livrare de medicamente de lumea centrală</GlitterMedDrop.label>
+  <GlitterMedDrop.label>TODO</GlitterMedDrop.label>
   <!-- EN: Call for a drop of 5 glitterworld medicine. -->
-  <GlitterMedDrop.description>Apel pentru un drop de 5 medicamente de lumea centrală.</GlitterMedDrop.description>
+  <GlitterMedDrop.description>TODO</GlitterMedDrop.description>
   
   <!-- EN: silver drop -->
-  <SilverDrop.label>livrare de argint</SilverDrop.label>
+  <SilverDrop.label>TODO</SilverDrop.label>
   <!-- EN: Call for a drop of 500 silver. -->
-  <SilverDrop.description>Apel pentru a primi 500 argint.</SilverDrop.description>
+  <SilverDrop.description>TODO</SilverDrop.description>
   
   <!-- EN: steel drop -->
-  <SteelDrop.label>livrare de oțel</SteelDrop.label>
+  <SteelDrop.label>TODO</SteelDrop.label>
   <!-- EN: Call for a drop of 250 steel. -->
-  <SteelDrop.description>Solicită o livrare de 250 oțel.</SteelDrop.description>
+  <SteelDrop.description>TODO</SteelDrop.description>
   
   <!-- EN: trade with caravans -->
-  <TradeCaravan.label>comerț cu caravane</TradeCaravan.label>
+  <TradeCaravan.label>TODO</TradeCaravan.label>
   
   <!-- EN: trade with orbital traders -->
-  <TradeOrbital.label>comerț cu comercianți orbitali</TradeOrbital.label>
+  <TradeOrbital.label>TODO</TradeOrbital.label>
   
   <!-- EN: trade with settlements -->
-  <TradeSettlement.label>comerț cu așezări</TradeSettlement.label>
+  <TradeSettlement.label>TODO</TradeSettlement.label>
   
 </LanguageData>

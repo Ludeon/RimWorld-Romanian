@@ -2,62 +2,68 @@
 <LanguageData>
 
   <!-- EN: Ideoligion forbids -->
-  <IdeoligionForbids>Ideoligia interzice</IdeoligionForbids>
+  <IdeoligionForbids>TODO</IdeoligionForbids>
   <!-- EN: Only {0}s can build -->
-  <OnlyMembersCanBuild>Doar {0}s pot construi</OnlyMembersCanBuild>
+  <OnlyMembersCanBuild>TODO</OnlyMembersCanBuild>
   <!-- EN: {0} is already in progress. -->
-  <CantStartRitualAlreadyInProgress>{0} este deja în desfășurare.</CantStartRitualAlreadyInProgress>
+  <CantStartRitualAlreadyInProgress>TODO</CantStartRitualAlreadyInProgress>
+  <!-- EN: One or more participants can't join due to extreme temperature. -->
+  <CantJoinRitualInExtremeWeather>TODO</CantJoinRitualInExtremeWeather>
   <!-- EN: {0} is already participating in a ritual. -->
-  <CantStartRitualTargetIsAlreadyInRitual>{0} participă deja la un ritual.</CantStartRitualTargetIsAlreadyInRitual>
+  <CantStartRitualTargetIsAlreadyInRitual>TODO</CantStartRitualTargetIsAlreadyInRitual>
   <!-- EN: You must assign the role of {0} in order to start this ritual. -->
-  <CantStartRitualRoleNotAssigned>Trebuie să atribuiți rolul lui {0} pentru a putea începe acest ritual.</CantStartRitualRoleNotAssigned>
+  <CantStartRitualRoleNotAssigned>TODO</CantStartRitualRoleNotAssigned>
   <!-- EN: There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion. -->
-  <CantStartRitualNoConvertee>Nu există nimeni care să se convertească la {0}. Aveți nevoie de un colonist, prizonier sau sclav de o ideoligie diferită.</CantStartRitualNoConvertee>
+  <CantStartRitualNoConvertee>TODO</CantStartRitualNoConvertee>
   <!-- EN: {PAWN_nameDef} cannot be {ROLE}. -->
-  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} nu poate fi {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
+  <CantStartRitualSelectedPawnCannotBeRole>TODO</CantStartRitualSelectedPawnCannotBeRole>
   <!-- EN: {PAWN_nameDef} must be a {IDEO_memberName}. -->
-  <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} trebuie să fie un {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
+  <CantStartRitualSelectedPawnMustBeMember>TODO</CantStartRitualSelectedPawnMustBeMember>
   <!-- EN: {PAWN_nameDef} is psychically deaf. -->
   <CantStartRitualSelectedPawnPsychicallyDeaf>TODO</CantStartRitualSelectedPawnPsychicallyDeaf>
-  <!-- EN: Not enough space. There must be a clear circle of radius {MINRADIUS}. -->
-  <CantStartNotEnoughSpaceDuel>Nu este suficient spațiu. Trebuie să existe un cerc clar de rază {MINRADIUS}.</CantStartNotEnoughSpaceDuel>
+  <!-- EN: Not enough space for spectators. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required. -->
+  <CantStartNotEnoughSpaceDuelSpectators>TODO</CantStartNotEnoughSpaceDuelSpectators>
+  <!-- EN: Not enough space for duelists. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required. -->
+  <CantStartNotEnoughSpaceDuelDuelists>TODO</CantStartNotEnoughSpaceDuelDuelists>
+  <!-- EN: Not enough space for speaker. There must be a clear circle of radius {MINRADIUS}. -->
+  <CantStartNotEnoughSpaceDuelSpeaker>TODO</CantStartNotEnoughSpaceDuelSpeaker>
   <!-- EN: {0_labelShort} is a slave. Slaves don't get funerals. -->
-  <CantStartFuneralForSlave>{0_labelShort} este un sclav. Sclavii nu au parte de înmormântări.</CantStartFuneralForSlave>
+  <CantStartFuneralForSlave>TODO</CantStartFuneralForSlave>
   <!-- EN: Need a slave bed that is reachable, not reserved, and in safe temperature. -->
-  <NoSlaveBed>Are nevoie de un pat de sclav care să fie accesibil, să nu fie rezervat și să aibă o temperatură sigură.</NoSlaveBed>
+  <NoSlaveBed>TODO</NoSlaveBed>
   <!-- EN: Return to slave bed -->
-  <ReturnToSlaveBed>Întoarce-te la patul de sclav</ReturnToSlaveBed>
+  <ReturnToSlaveBed>TODO</ReturnToSlaveBed>
   <!-- EN: not allowed for faction -->
-  <NotAllowedForFaction>Nu este permis pentru facțiune</NotAllowedForFaction>
+  <NotAllowedForFaction>TODO</NotAllowedForFaction>
 
   <!-- EN: Remove -->
-  <Remove>Elimină</Remove>
+  <Remove>TODO</Remove>
   <!-- EN: Remove precept -->
-  <RemovePrecept>Înlătură preceptul</RemovePrecept>
+  <RemovePrecept>TODO</RemovePrecept>
   <!-- EN: Regenerate -->
-  <Regenerate>Regenerare</Regenerate>
+  <Regenerate>TODO</Regenerate>
   <!-- EN: Cannot edit -->
-  <CannotEdit>Nu se poate edita</CannotEdit>
+  <CannotEdit>TODO</CannotEdit>
   <!-- EN: No choices available -->
-  <NoChoicesAvailable>Nu există opțiuni disponibile</NoChoicesAvailable>
+  <NoChoicesAvailable>TODO</NoChoicesAvailable>
   <!-- EN: Required by meme {0} -->
-  <RequiredByMeme>Necesitat de mema {0}</RequiredByMeme>
+  <RequiredByMeme>TODO</RequiredByMeme>
   <!-- EN: Required -->
-  <Required>Necesar</Required>
+  <Required>TODO</Required>
   <!-- EN: Style category -->
-  <StyleCategory>Categoria de stil</StyleCategory>
+  <StyleCategory>TODO</StyleCategory>
   <!-- EN: Add style category -->
-  <AddStyleCategory>Adaugă categoria de stil</AddStyleCategory>
+  <AddStyleCategory>TODO</AddStyleCategory>
   <!-- EN: Can't add more than {0} rituals. -->
-  <MaxRitualCount>Nu se pot adăuga mai mult de {0} ritualuri.</MaxRitualCount>
+  <MaxRitualCount>TODO</MaxRitualCount>
   <!-- EN: Can't add more than {0} relics. -->
-  <MaxRelicCount>Nu se pot adăuga mai mult de {0} relicve.</MaxRelicCount>
+  <MaxRelicCount>TODO</MaxRelicCount>
   <!-- EN: can't have more than {0} specialists. -->
-  <MaxMultiRolesCount>nu poate avea mai mult de {0} specialiști.</MaxMultiRolesCount>
+  <MaxMultiRolesCount>TODO</MaxMultiRolesCount>
   <!-- EN: max {0} -->
-  <MaxPreceptCount>max {0}</MaxPreceptCount>
+  <MaxPreceptCount>TODO</MaxPreceptCount>
   <!-- EN: Set gender -->
-  <SetTargetGender>Setează genul</SetTargetGender>
+  <SetTargetGender>TODO</SetTargetGender>
   <!-- EN: must be {0} faction -->
   <RoleApparelRequirementIncompatibleFaction>TODO</RoleApparelRequirementIncompatibleFaction>
   <!-- EN: tribal -->
@@ -67,79 +73,77 @@
   <!-- EN: requires any of these memes -->
   <RoleApparelRequirementIncompatibleAnyMemeRequired>TODO</RoleApparelRequirementIncompatibleAnyMemeRequired>
   <!-- EN: cannot be worn with assigned apparel -->
-  <BodyPartAlreadyCovered>nu poate fi purtat cu îmbrăcămintea asignată</BodyPartAlreadyCovered>
-  <!-- EN: already assigned -->
-  <AlreadyAssigned>TODO</AlreadyAssigned>
+  <BodyPartAlreadyCovered>TODO</BodyPartAlreadyCovered>
   <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
-  <NoteRoleApparelRequirementEffects>Oamenii sunt mulțumiți atunci când le sunt îndeplinite cerințele vestimentare și nefericiți atunci când acestea sunt încălcate.</NoteRoleApparelRequirementEffects>
+  <NoteRoleApparelRequirementEffects>TODO</NoteRoleApparelRequirementEffects>
   <!-- EN: supercharge not ready -->
-  <NeuralSuperchargeNotReady>supraîncărcare nu este gata</NeuralSuperchargeNotReady>
+  <NeuralSuperchargeNotReady>TODO</NeuralSuperchargeNotReady>
   <!-- EN: already getting -->
-  <NeuralSuperchargeAlreadyGetting>deja se primește</NeuralSuperchargeAlreadyGetting>
+  <NeuralSuperchargeAlreadyGetting>TODO</NeuralSuperchargeAlreadyGetting>
   <!-- EN: Set type -->
-  <SetApparelType>Tipul de set</SetApparelType>
+  <SetApparelType>TODO</SetApparelType>
 
   <!-- EN: change style -->
-  <ChangeStyle>Schimbă stilul</ChangeStyle>
+  <ChangeStyle>TODO</ChangeStyle>
   <!-- EN: {0} {DEITYNOUN} required -->
-  <DeitiesRequired>{0} {DEITYNOUN} necesar</DeitiesRequired>
+  <DeitiesRequired>TODO</DeitiesRequired>
   <!-- EN: deity -->
-  <Deity>deity</Deity>
+  <Deity>TODO</Deity>
   <!-- EN: requires meme -->
-  <RequiresMeme>necesită memă</RequiresMeme>
+  <RequiresMeme>TODO</RequiresMeme>
   <!-- EN: requires one of -->
-  <RequiresOneOfMemes>necesită unul dintre</RequiresOneOfMemes>
+  <RequiresOneOfMemes>TODO</RequiresOneOfMemes>
   <!-- EN: conflicts with meme -->
-  <ConflictsWithMeme>conflicte cu meme</ConflictsWithMeme>
+  <ConflictsWithMeme>TODO</ConflictsWithMeme>
   <!-- EN: conflicts with memes -->
-  <ConflictsWithMemes>conflicte cu meme-uri</ConflictsWithMemes>
+  <ConflictsWithMemes>TODO</ConflictsWithMemes>
   <!-- EN: can only have one altar/ideogram -->
-  <IdeoAlreadyHasAltar>nu poate avea decât un singur altar/ideogramă</IdeoAlreadyHasAltar>
+  <IdeoAlreadyHasAltar>TODO</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->
-  <RecolorApparel>recolorează îmbrăcămintea</RecolorApparel>
+  <RecolorApparel>TODO</RecolorApparel>
 
   <!-- EN: Hack {0} -->
-  <Hack>Hackuiește {0}</Hack>
+  <Hack>TODO</Hack>
   <!-- EN: Cannot hack {0} -->
-  <CannotHack>Nu se poate hackeri {0}</CannotHack>
+  <CannotHack>TODO</CannotHack>
   <!-- EN: Already hacked -->
-  <AlreadyHacked>Deja hackuit</AlreadyHacked>
+  <AlreadyHacked>TODO</AlreadyHacked>
   <!-- EN: Incapable of hacking -->
-  <IncapableOfHacking>Incapabil de hacking</IncapableOfHacking>
+  <IncapableOfHacking>TODO</IncapableOfHacking>
   <!-- EN: to drop supplies -->
-  <ToDropSupplies>Pentru a arunca provizii</ToDropSupplies>
+  <ToDropSupplies>TODO</ToDropSupplies>
 
   <!-- EN: Install {0} -->
-  <InstallRelic>Instalați {0}</InstallRelic>
+  <InstallRelic>TODO</InstallRelic>
   <!-- EN: Extract {0} -->
-  <ExtractRelic>Extrage {0}</ExtractRelic>
+  <ExtractRelic>TODO</ExtractRelic>
   <!-- EN: Extract {0} to inventory ({1}) -->
-  <ExtractRelicToInventory>Extrage {0} în inventar ({1})</ExtractRelicToInventory>
+  <ExtractRelicToInventory>TODO</ExtractRelicToInventory>
   <!-- EN: No relic to install -->
-  <NoRelicToInstall>Nici o relicvă de instalat</NoRelicToInstall>
+  <NoRelicToInstall>TODO</NoRelicToInstall>
   <!-- EN: Install in reliquary -->
-  <InstallInReliquary>Se instalează în relicvariu</InstallInReliquary>
+  <InstallInReliquary>TODO</InstallInReliquary>
   <!-- EN: no empty accessible reliquary -->
-  <NoEmptyReliquary>Nu există un relicvariu gol accesibil</NoEmptyReliquary>
+  <NoEmptyReliquary>TODO</NoEmptyReliquary>
 
   <!-- EN: No {MEMBERNAME} warden -->
-  <NoWardenOfIdeo>Nu există un paznic {MEMBERNAME}.</NoWardenOfIdeo>
+  <NoWardenOfIdeo>TODO</NoWardenOfIdeo>
 
   <!-- EN: Remove current role -->
-  <RemoveCurrentRole>Îndepărtarea rolului actual</RemoveCurrentRole>
+  <RemoveCurrentRole>TODO</RemoveCurrentRole>
 
   <!-- EN: Enter biosculpter pod for {0} cycle ({1}) -->
-  <EnterBiosculpterPod>Intră în modulul biosculptor pentru ciclul {0} ({1})</EnterBiosculpterPod>
+  <EnterBiosculpterPod>TODO</EnterBiosculpterPod>
   <!-- EN: Biotuned to someone else. -->
-  <BiosculpterBiotunedToAnother>Biotunat la altcineva.</BiosculpterBiotunedToAnother>
+  <BiosculpterBiotunedToAnother>TODO</BiosculpterBiotunedToAnother>
   <!-- EN: Must be {0} years old for age reversal. -->
   <UnderMinBiosculpterAgeReversalAge>TODO</UnderMinBiosculpterAgeReversalAge>
   <!-- EN: Carry {PAWN_labelShort} to biosculpter ({CYCLE} cycle) -->
-  <CarryToBiosculpterPod>Transportați {PAWN_labelShort} la biosculptor (ciclul {CYCLE})</CarryToBiosculpterPod>
+  <CarryToBiosculpterPod>TODO</CarryToBiosculpterPod>
   <!-- EN: Cannot carry to biosculpter pod -->
-  <CannotCarryToBiosculpterPod>Nu se poate transporta la capsula de biosculptură</CannotCarryToBiosculpterPod>
+  <CannotCarryToBiosculpterPod>TODO</CannotCarryToBiosculpterPod>
   <!-- EN: No available biosculpter pod. -->
-  <NoBiosculpterPod>Nu există nicio capsulă biosculptoare disponibilă.</NoBiosculpterPod>
+  <NoBiosculpterPod>TODO</NoBiosculpterPod>
   <!-- EN: Nutrition not loaded -->
   <BiosculpterNutritionNotLoaded>TODO</BiosculpterNutritionNotLoaded>
   <!-- EN: Occupied -->

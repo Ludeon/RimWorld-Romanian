@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: mech cluster -->
-  <MechCluster.label>cluster mech</MechCluster.label>
+  <MechCluster.label>TODO</MechCluster.label>
   <!-- EN: A mech combat cluster. -->
-  <MechCluster.description>Un cluster de luptă mech.</MechCluster.description>
+  <MechCluster.description>TODO</MechCluster.description>
   <!-- EN: There is a cluster of hostile mechanoids and their combat support structures in this area.\n\nThe cluster can include artillery, turrets, combat mechanoids, and other support and defense structures. -->
-  <MechCluster.arrivedLetter>În această zonă există un grup de mecanoizi ostili și structurile lor de sprijin de luptă.\n\nGrupul poate include artilerie, turele, mecanoizi de luptă și alte structuri de sprijin și apărare.</MechCluster.arrivedLetter>
+  <MechCluster.arrivedLetter>TODO</MechCluster.arrivedLetter>
   
   <!-- EN: mech cluster -->
-  <MechClusterForceNoConditionCauser.label>Cluster mech</MechClusterForceNoConditionCauser.label>
+  <MechClusterForceNoConditionCauser.label>TODO</MechClusterForceNoConditionCauser.label>
   <!-- EN: A mech combat cluster. -->
-  <MechClusterForceNoConditionCauser.description>Un cluster de luptă mech.</MechClusterForceNoConditionCauser.description>
+  <MechClusterForceNoConditionCauser.description>TODO</MechClusterForceNoConditionCauser.description>
   <!-- EN: There is a cluster of hostile mechanoids and their combat support structures in this area.\n\nThe cluster can include artillery, turrets, combat mechanoids, and other support and defense structures. -->
-  <MechClusterForceNoConditionCauser.arrivedLetter>Există un cluster de mecanoizi ostili și structurile lor de sprijin de luptă în această zonă.\n\nClusterul poate include artilerie, turele, mecanoizi de luptă și alte structuri de sprijin și apărare.</MechClusterForceNoConditionCauser.arrivedLetter>
+  <MechClusterForceNoConditionCauser.arrivedLetter>TODO</MechClusterForceNoConditionCauser.arrivedLetter>
   
 </LanguageData>

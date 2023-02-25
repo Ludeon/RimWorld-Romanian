@@ -2,44 +2,44 @@
 <LanguageData>
   
   <!-- EN: blood filtration -->
-  <BloodFiltration.label>filtrarea sângelui</BloodFiltration.label>
+  <BloodFiltration.label>TODO</BloodFiltration.label>
   <!-- EN: fluid reprocessing -->
-  <BloodFiltration.labelMechanoids>reprelucrarea fluidelor</BloodFiltration.labelMechanoids>
+  <BloodFiltration.labelMechanoids>TODO</BloodFiltration.labelMechanoids>
   
   <!-- EN: blood pumping -->
-  <BloodPumping.label>pomparea sângelui</BloodPumping.label>
+  <BloodPumping.label>TODO</BloodPumping.label>
   <!-- EN: power generation -->
-  <BloodPumping.labelMechanoids>generarea de energie</BloodPumping.labelMechanoids>
+  <BloodPumping.labelMechanoids>TODO</BloodPumping.labelMechanoids>
   
   <!-- EN: breathing -->
-  <Breathing.label>respirație</Breathing.label>
+  <Breathing.label>TODO</Breathing.label>
   
   <!-- EN: consciousness -->
-  <Consciousness.label>conștiință</Consciousness.label>
+  <Consciousness.label>TODO</Consciousness.label>
   <!-- EN: Data processing -->
-  <Consciousness.labelMechanoids>Prelucrarea datelor</Consciousness.labelMechanoids>
+  <Consciousness.labelMechanoids>TODO</Consciousness.labelMechanoids>
   
   <!-- EN: eating -->
-  <Eating.label>mâncare</Eating.label>
+  <Eating.label>TODO</Eating.label>
   
   <!-- EN: hearing -->
-  <Hearing.label>Auz</Hearing.label>
+  <Hearing.label>TODO</Hearing.label>
   
   <!-- EN: manipulation -->
-  <Manipulation.label>manipulare</Manipulation.label>
+  <Manipulation.label>TODO</Manipulation.label>
   
-  <!-- EN: metabolism -->
-  <Metabolism.label>metabolism</Metabolism.label>
+  <!-- EN: digestion -->
+  <Metabolism.label>TODO</Metabolism.label>
   
   <!-- EN: moving -->
-  <Moving.label>mișcare</Moving.label>
+  <Moving.label>TODO</Moving.label>
   
   <!-- EN: sight -->
-  <Sight.label>vedere</Sight.label>
+  <Sight.label>TODO</Sight.label>
   
   <!-- EN: talking -->
-  <Talking.label>vorbire</Talking.label>
+  <Talking.label>TODO</Talking.label>
   <!-- EN: Communication -->
-  <Talking.labelMechanoids>Comunicare</Talking.labelMechanoids>
+  <Talking.labelMechanoids>TODO</Talking.labelMechanoids>
   
 </LanguageData>

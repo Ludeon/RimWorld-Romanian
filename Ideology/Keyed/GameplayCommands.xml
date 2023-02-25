@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: For slaves -->
-  <CommandBedSetForSlavesLabel>Pentru sclavi</CommandBedSetForSlavesLabel>
+  <CommandBedSetForSlavesLabel>TODO</CommandBedSetForSlavesLabel>
   <!-- EN: For colonists -->
-  <CommandBedSetForColonistsLabel>Pentru coloniști</CommandBedSetForColonistsLabel>
+  <CommandBedSetForColonistsLabel>TODO</CommandBedSetForColonistsLabel>
   <!-- EN: Whether beds in this room should be used by colonists, prisoners or slaves. -->
-  <CommandBedSetForOwnerTypeDesc>Dacă paturile din această cameră trebuie să fie folosite de coloniști, prizonieri sau sclavi.</CommandBedSetForOwnerTypeDesc>
+  <CommandBedSetForOwnerTypeDesc>TODO</CommandBedSetForOwnerTypeDesc>
 
   <!-- EN: No auto-use -->
-  <CommandNeuralSuperchargerNoAutoUse>Fără utilizare automată</CommandNeuralSuperchargerNoAutoUse>
+  <CommandNeuralSuperchargerNoAutoUse>TODO</CommandNeuralSuperchargerNoAutoUse>
   <!-- EN: None of your people will use this neural supercharger automatically. -->
-  <CommandNeuralSuperchargerNoAutoUseDescription>Niciunul dintre oamenii tăi nu va folosi automat acest supercharger neural.</CommandNeuralSuperchargerNoAutoUseDescription>
+  <CommandNeuralSuperchargerNoAutoUseDescription>TODO</CommandNeuralSuperchargerNoAutoUseDescription>
   <!-- EN: Auto-use with desire -->
-  <CommandNeuralSuperchargerAutoUseWithDesire>Folosire automată la dorință</CommandNeuralSuperchargerAutoUseWithDesire>
+  <CommandNeuralSuperchargerAutoUseWithDesire>TODO</CommandNeuralSuperchargerAutoUseWithDesire>
   <!-- EN: Your people may use this neural supercharger automatically, if they want to because of their beliefs. -->
-  <CommandNeuralSuperchargerAutoUseWithDesireDescription>Oamenii tăi pot folosi acest supercharger neural în mod automat, dacă doresc, datorită convingerilor lor.</CommandNeuralSuperchargerAutoUseWithDesireDescription>
+  <CommandNeuralSuperchargerAutoUseWithDesireDescription>TODO</CommandNeuralSuperchargerAutoUseWithDesireDescription>
   <!-- EN: Auto-use for everyone -->
-  <CommandNeuralSuperchargerAutoForEveryone>Utilizare automată pentru toată lumea</CommandNeuralSuperchargerAutoForEveryone>
+  <CommandNeuralSuperchargerAutoForEveryone>TODO</CommandNeuralSuperchargerAutoForEveryone>
   <!-- EN: All of your people will use this neural supercharger if they get the chance. -->
-  <CommandNeuralSuperchargerAutoForEveryoneDescription>Toți oamenii tăi vor folosi acest supercharger neural dacă vor avea ocazia.</CommandNeuralSuperchargerAutoForEveryoneDescription>
+  <CommandNeuralSuperchargerAutoForEveryoneDescription>TODO</CommandNeuralSuperchargerAutoForEveryoneDescription>
   <!-- EN: Allow guests -->
-  <CommandNeuralSuperchargerAllowGuests>Permite oaspeților</CommandNeuralSuperchargerAllowGuests>
+  <CommandNeuralSuperchargerAllowGuests>TODO</CommandNeuralSuperchargerAllowGuests>
   <!-- EN: Allow this neural supercharger to be used by temporary faction members. -->
-  <CommandNeuralSuperchargerAllowGuestsDescription>Permiteți ca acest supercharger neural să fie folosit de membrii temporari ai facțiunii.</CommandNeuralSuperchargerAllowGuestsDescription>
+  <CommandNeuralSuperchargerAllowGuestsDescription>TODO</CommandNeuralSuperchargerAllowGuestsDescription>
 
   <!-- EN: Select connected tree -->
-  <CommandSelectConnectedTree>Selectează arborele conectat</CommandSelectConnectedTree>
+  <CommandSelectConnectedTree>TODO</CommandSelectConnectedTree>
   <!-- EN: Create healing pod -->
   <CommandHealInHealingPod>TODO</CommandHealInHealingPod>
   <!-- EN: If this creature is injured, it will return to its connected Gauranlen tree and enter a woody healing pod. After {DAYS} days, the dryad will emerge with its wounds healed. -->

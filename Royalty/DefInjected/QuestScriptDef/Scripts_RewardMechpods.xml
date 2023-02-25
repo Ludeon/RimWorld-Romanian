@@ -8,13 +8,7 @@
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameDef], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], is making a request. [commonMainPart]</li>
     <li>commonMainPart->A mechanoid swarm has been attacking [asker_possessive] settlements. [asker_pronoun] wants you to signal the mechs to distract them while [asker_pronoun] clears the hive. If you do, (*Threat)a mechanoid cluster(/Threat) will land at [map_definite].[dangersDescription]\n\nThe mechanoid cluster will be initially dormant. It may have a countdown activator, or it may stay dormant forever until disturbed.[helpersParagraph]</li>
   -->
-  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
-    <li>dangersDescription(priority=1)->\Capsulele conțin aceste pericole:\n\n[allThreats]</li>
-    <li>dangersDescription-></li>
-    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] din [asker_faction_name], face o cerere. [commonMainPart]</li>
-    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameDef], un [asker_royalTitleInCurrentFaction] al [asker_faction_name], face o cerere. [commonMainPart]</li>
-    <li>commonMainPart->Un roi de mecanoizi a atacat așezările [asker_possessive]. [asker_pronoun] vrea să dai semnalul mecanoizilor pentru a le distrage atenția în timp ce [asker_pronoun] curăță stupul. Dacă o vei face, (*Threat)un grup de mecanoizi(/Threat) va ateriza la [map_definite].[dangersDescription]\n\nGruparea de mecanoizi va fi inițial inactivă. Acesta poate avea un activator de numărătoare inversă sau poate rămâne latent pentru totdeauna până când este deranjat.[helpersParagraf].</li>
-  </ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>TODO</ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[menace] cluster</li>
     <li>questName->[menace] pods</li>
@@ -30,20 +24,6 @@
     <li>menace->terror</li>
     <li>menace->fear</li>
   -->
-  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
-    <li>questName->[menace] de cluster</li>
-    <li>questName->[menace] de capsule</li>
-    <li>questName->[nameBased]</li>
-    <li>nameBased->mech-urile lui [asker_nameDef] </li>
-    <li>nameBased->mechanoizii lui [asker_nameDef]</li>
-    <li>nameBased->clusterul mech a lui [asker_nameDef]</li>
-    <li>nameBased->[menace] de mech-uri a lui [asker_nameDef]</li>
-    <li>menace->amenințare</li>
-    <li>menace->primejdie</li>
-    <li>menace->blestem</li>
-    <li>menace->pericol</li>
-    <li>menace->teroare</li>
-    <li>menace->frică</li>
-  </ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>TODO</ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
   
 </LanguageData>

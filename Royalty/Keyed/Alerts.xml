@@ -3,73 +3,73 @@
 
   <!-- Room requirements -->
   <!-- EN: Need throneroom -->
-  <NeedThroneAssigned>Trebuie cameră de tron</NeedThroneAssigned>
+  <NeedThroneAssigned>TODO</NeedThroneAssigned>
   <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nEnsure the title holder is assigned a throne inside a throneroom.\n\nThe throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.\n\nMultiple thrones may be placed in one throneroom. -->
-  <NeedThroneAssignedDesc>Unul dintre oamenii dvs. are un titlu regal care necesită o cameră de tron, dar nu este atribuită nicio cameră de tron.\n\nAsigură-te că deținătorului titlului i se atribuie un tron în interiorul unei camere de tron.\n\nCamera de tron ar trebui să fie de dimensiuni și decorată corespunzător pentru a satisface cerințele specifice ale titlului.\n\nMai multe tronuri pot fi plasate într-o cameră de tron.</NeedThroneAssignedDesc>
+  <NeedThroneAssignedDesc>TODO</NeedThroneAssignedDesc>
 
   <!-- EN: Undignified bedroom -->
-  <UndignifiedBedroom>Dormitor nedemn</UndignifiedBedroom>
+  <UndignifiedBedroom>TODO</UndignifiedBedroom>
   <!-- EN: One of your people has a royal title that requires a bedroom with specific features. Either no bedroom is assigned, or the assigned bedroom doesn't satisfy the requirements. -->
-  <UndignifiedBedroomDesc>Unul dintre oamenii dumneavoastră are un titlu regal care necesită un dormitor cu caracteristici specifice. Fie nu este atribuit niciun dormitor, fie dormitorul atribuit nu satisface cerințele.</UndignifiedBedroomDesc>
+  <UndignifiedBedroomDesc>TODO</UndignifiedBedroomDesc>
 
   <!-- EN: Title requires bedroom -->
-  <NeedBedroomAssigned>Titlul necesită un dormitor</NeedBedroomAssigned>
+  <NeedBedroomAssigned>TODO</NeedBedroomAssigned>
   <!-- EN: One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
-  <NeedBedroomAssignedDesc>Unul dintre oamenii tăi are un titlu regal care necesită un dormitor personal, dar nu este alocat niciun dormitor.\n\nAsigură-i un dormitor personal. Dormitorul ar trebui să aibă o dimensiune și un decor adecvat pentru a satisface cerințele specifice ale titlului.</NeedBedroomAssignedDesc>
+  <NeedBedroomAssignedDesc>TODO</NeedBedroomAssignedDesc>
 
   <!-- EN: Undignified throneroom -->
-  <UndignifiedThroneroom>Sala tronului e nedemnă</UndignifiedThroneroom>
+  <UndignifiedThroneroom>TODO</UndignifiedThroneroom>
   <!-- EN: One of your people has a royal title and a throne, but the throne room does not satisfy the title's requirements. -->
-  <UndignifiedThroneroomDesc>Unul dintre oamenii tăi are un titlu regal și un tron, dar sala tronului nu satisface cerințele titlului.</UndignifiedThroneroomDesc>
+  <UndignifiedThroneroomDesc>TODO</UndignifiedThroneroomDesc>
   
   <!-- EN: No acceptable food -->
-  <RoyalNoAcceptableFood>Nu există mâncare acceptabilă</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFood>TODO</RoyalNoAcceptableFood>
   <!-- EN: One of your people has a royal title with specific food requirements. But there's no food available that satisfies these requirements. -->
-  <RoyalNoAcceptableFoodDesc>Unul dintre oamenii tăi are un titlu regal cu cerințe alimentare specifice. Dar nu există mâncare disponibilă care să satisfacă aceste cerințe.</RoyalNoAcceptableFoodDesc>
+  <RoyalNoAcceptableFoodDesc>TODO</RoyalNoAcceptableFoodDesc>
 
   <!-- EN: {0} days until requirement begins -->
-  <RoomRequirementGracePeriodDesc>{0} zile până când începe cerința</RoomRequirementGracePeriodDesc>
+  <RoomRequirementGracePeriodDesc>TODO</RoomRequirementGracePeriodDesc>
 
   <!-- EN: Throne not usable -->
-  <ThroneroomInvalidConfiguration>Tronul nu poate fi utilizat</ThroneroomInvalidConfiguration>
+  <ThroneroomInvalidConfiguration>TODO</ThroneroomInvalidConfiguration>
   <!-- EN: A throne is not usable because of how it is set up: -->
-  <ThroneroomInvalidConfigurationDesc>Un tron nu este utilizabil din cauza modului în care este configurat:</ThroneroomInvalidConfigurationDesc>
+  <ThroneroomInvalidConfigurationDesc>TODO</ThroneroomInvalidConfigurationDesc>
   
   <!-- EN: Monument missing blueprints -->
-  <MonumentMarkerMissingBlueprints>Monumentul nu are planuri</MonumentMarkerMissingBlueprints>
+  <MonumentMarkerMissingBlueprints>TODO</MonumentMarkerMissingBlueprints>
   <!-- EN: The monument won't be completed because blueprints have not been placed for all its parts.\n\nSelect the monument marker and click "Place blueprints", or place the blueprints manually. -->
-  <MonumentMarkerMissingBlueprintsDesc>Monumentul nu va fi finalizat deoarece nu au fost plasate schițele pentru toate părțile sale.\n\nSelectați marcajul monumentului și faceți clic pe "Plasează schițe", sau plasați schițele manual.</MonumentMarkerMissingBlueprintsDesc>
+  <MonumentMarkerMissingBlueprintsDesc>TODO</MonumentMarkerMissingBlueprintsDesc>
 
   <!-- EN: Beacon unusable -->
-  <ShipLandingBeaconUnusable>Baliză inutilizabilă</ShipLandingBeaconUnusable>
+  <ShipLandingBeaconUnusable>TODO</ShipLandingBeaconUnusable>
   <!-- EN: A ship landing beacon is powered but can't be used. To be usable, four of these must be placed on the corners of a square at least 9 tiles wide, and the entire square area must be clear of obstructions including buildings, people, and animals. -->
-  <ShipLandingBeaconUnusableDesc>O baliză de aterizare a navei este alimentată, dar nu poate fi folosită. Pentru a fi utilizabile, patru dintre acestea trebuie să fie plasate pe colțurile unui pătrat cu o lățime de cel puțin 9 țigle, iar întreaga zonă a pătratului trebuie să fie liberă de obstacole, inclusiv clădiri, oameni și animale.</ShipLandingBeaconUnusableDesc>
+  <ShipLandingBeaconUnusableDesc>TODO</ShipLandingBeaconUnusableDesc>
 
   <!-- EN: Need meditation spot -->
-  <NeedMeditationSpotAlert>Trebuie loc de meditație</NeedMeditationSpotAlert>
-  <!-- EN: These colonists have a psyfocus need, but don't have any meditation spots available for them.\n\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use. -->
-  <NeedMeditationSpotAlertDesc>Acești coloniști au nevoie de o focalizare psihică, dar nu au niciun loc de meditație disponibil pentru ei.\n\n{0}\n\nPlasează un loc de meditație și asigură-te că este accesibil și utilizabil. Coloniștii vor prefera locul de meditație în apropierea celui mai bun obiect de focalizare pe care îl pot folosi.</NeedMeditationSpotAlertDesc>
+  <NeedMeditationSpotAlert>TODO</NeedMeditationSpotAlert>
+  <!-- EN: These colonists have a psyfocus need or are sceheduled to meditate, but don't have any meditation spots available for them.\n\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use. -->
+  <NeedMeditationSpotAlertDesc>TODO</NeedMeditationSpotAlertDesc>
 
   <!-- EN: Unusable meditation focus -->
-  <UnusableMeditationFocusAlert>Focalizare de meditație neutilizabilă</UnusableMeditationFocusAlert>
+  <UnusableMeditationFocusAlert>TODO</UnusableMeditationFocusAlert>
   <!-- EN: These colonists are meditating near a focus object they can't use.\n\n{0}\n\nEach person can meditate to different objects, depending on their meditation focus types. A person's focus types depend on their backstories, traits, and titles. To see a person's meditation focus types, look at their details window by selecting them and clicking the 'i' button. -->
-  <UnusableMeditationFocusAlertDesc>Acești coloniști meditează în apropierea unui obiect de focalizare pe care nu îl pot folosi.\n\n{0}\n\nFiecare persoană poate medita la obiecte diferite, în funcție de tipurile de focalizare a meditației lor. Tipurile de focalizare ale unei persoane depind de poveștile, trăsăturile și titlurile lor. Pentru a vedea tipurile de focalizare de meditație ale unei persoane, uitați-vă în fereastra de detalii a acesteia, selectând-o și făcând clic pe butonul "i".</UnusableMeditationFocusAlertDesc>
+  <UnusableMeditationFocusAlertDesc>TODO</UnusableMeditationFocusAlertDesc>
 
   <!-- EN: Permit choice ready -->
-  <PermitChoiceReadyAlert>Alegerea permisului este pregătită</PermitChoiceReadyAlert>
+  <PermitChoiceReadyAlert>TODO</PermitChoiceReadyAlert>
   <!-- EN: {PAWN_nameDef} can choose a new permit. -->
-  <PermitChoiceReadyAlertDesc>{PAWN_nameDef} poate alege un nou permis.</PermitChoiceReadyAlertDesc>
+  <PermitChoiceReadyAlertDesc>TODO</PermitChoiceReadyAlertDesc>
   
   <!-- EN: Bestower waiting -->
-  <BestowerWaitingAlert>Emisar în așteptare</BestowerWaitingAlert>
+  <BestowerWaitingAlert>TODO</BestowerWaitingAlert>
   <!-- EN: A bestower is waiting to begin the bestowing ceremony. -->
-  <BestowerWaitingAlertDesc>Un emisar așteaptă să înceapă ceremonia de acordare.</BestowerWaitingAlertDesc>
+  <BestowerWaitingAlertDesc>TODO</BestowerWaitingAlertDesc>
   
   <!-- EN: Anima linking ceremony ready -->
-  <AnimaLinkingReadyLabel>Ceremonia de conectare Anima este gata</AnimaLinkingReadyLabel>
+  <AnimaLinkingReadyLabel>TODO</AnimaLinkingReadyLabel>
   <!-- EN: An anima tree has enough anima grass to carry out the linking ceremony and level up psylink for these colonists -->
-  <AnimaLinkingReadyDesc>Un copac de anima are suficientă iarbă de anima pentru a efectua ceremonia de conectare și pentru a crește nivelul psylink pentru acești coloniști</AnimaLinkingReadyDesc>
+  <AnimaLinkingReadyDesc>TODO</AnimaLinkingReadyDesc>
   <!-- EN: In order to start the ceremony, select a colonist, click the 'begin anima tree linking' button and select the anima tree you want to use. -->
-  <AnimaLinkingReadyDescExtra>Pentru a începe ceremonia, selectați un colonist, faceți clic pe butonul "începe legătura cu arborele de anima" și selectați arborele de anima pe care doriți să îl utilizați.</AnimaLinkingReadyDescExtra>
+  <AnimaLinkingReadyDescExtra>TODO</AnimaLinkingReadyDescExtra>
   
 </LanguageData>

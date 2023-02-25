@@ -3,45 +3,47 @@
 
   <!-- Shuttle landing zones -->
   <!-- EN: Shuttle could not land on pad: {0} -->
-  <ShuttleBlocked>Naveta nu a putut ateriza pe platformă: {0}</ShuttleBlocked>
+  <ShuttleBlocked>TODO</ShuttleBlocked>
   <!-- EN: The shuttle has arrived. -->
-  <MessageShuttleArrived>Naveta a sosit.</MessageShuttleArrived>
+  <MessageShuttleArrived>TODO</MessageShuttleArrived>
   <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
-  <MessageShuttleArrivedContentsLost>Naveta a sosit, dar, deoarece înăuntru nu se aflau coloniști, conținutul a fost pierdut.</MessageShuttleArrivedContentsLost>
+  <MessageShuttleArrivedContentsLost>TODO</MessageShuttleArrivedContentsLost>
   <!-- EN: Cannot call shuttle -->
-  <CannotCallShuttle>Nu se poate apela la navetă</CannotCallShuttle>
+  <CannotCallShuttle>TODO</CannotCallShuttle>
 
   <!-- EN: Cannot land in undiscovered area. -->
-  <ShuttleCannotLand_Fogged>Nu poate ateriza în zona nedescoperită.</ShuttleCannotLand_Fogged>
+  <ShuttleCannotLand_Fogged>TODO</ShuttleCannotLand_Fogged>
   <!-- EN: Area must be walkable. -->
-  <ShuttleCannotLand_Unwalkable>Zona trebuie să fie circulabilă.</ShuttleCannotLand_Unwalkable>
+  <ShuttleCannotLand_Unwalkable>TODO</ShuttleCannotLand_Unwalkable>
 
   <!-- EN: Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony. -->
-  <MessageBestowerWaiting>Selectați {TARGET_definite} și faceți clic dreapta pe emisar pentru a începe ceremonia de acordare.</MessageBestowerWaiting>
+  <MessageBestowerWaiting>TODO</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
-  <MessageBestowerUnreachable>Nu se poate ajunge la emisar!</MessageBestowerUnreachable>
+  <MessageBestowerUnreachable>TODO</MessageBestowerUnreachable>
   <!-- EN: {0} is busy. -->
-  <MessageBestowingTargetIsBusy>{0} este ocupat.</MessageBestowingTargetIsBusy>
+  <MessageBestowingTargetIsBusy>TODO</MessageBestowingTargetIsBusy>
   <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
-  <MessageBestowingSpotUnreachable>Emisarul este supărat de interferențe și a decis să plece.</MessageBestowingSpotUnreachable>
+  <MessageBestowingSpotUnreachable>TODO</MessageBestowingSpotUnreachable>
   <!-- EN: The bestower is leaving due to life-threatening danger. -->
-  <MessageBestowingDanger>Bestower pleacă din cauza unui pericol care pune viața în pericol.</MessageBestowingDanger>
+  <MessageBestowingDanger>TODO</MessageBestowingDanger>
   <!-- EN: The bestower is leaving due to life-threatening temperature. -->
   <MessageBestowingDangerTemperature>TODO</MessageBestowingDangerTemperature>
+  <!-- EN: The bestower is leaving due to life-threatening gases in the area. -->
+  <MessageBestowingDangerGas>TODO</MessageBestowingDangerGas><!-- text_todo -->
   <!-- EN: The bestowing ceremony has been interrupted. -->
-  <MessageBestowingInterrupted>Ceremonia de acordare a distincției a fost întreruptă.</MessageBestowingInterrupted>
+  <MessageBestowingInterrupted>TODO</MessageBestowingInterrupted>
 
   <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
-  <MessageBestowingCeremonyStarted>Ceremonia de acordare a {PAWN_definite} a început.</MessageBestowingCeremonyStarted>
+  <MessageBestowingCeremonyStarted>TODO</MessageBestowingCeremonyStarted>
   <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
-  <MessageMissionGetBackToShuttle>I-ai învins pe {FACTION_pawnsPlural}! Întoarce-te pe navetă pentru a o lansa.</MessageMissionGetBackToShuttle>
+  <MessageMissionGetBackToShuttle>TODO</MessageMissionGetBackToShuttle>
 
   <!-- EN: {FACTION_name} has dropped resources nearby. -->
-  <MessagePermitTransportDrop>{FACTION_name} a lăsat resurse în apropiere.</MessagePermitTransportDrop>
+  <MessagePermitTransportDrop>TODO</MessagePermitTransportDrop>
   <!-- EN: {FACTION_name} has sent resources to {PAWN_nameDef}'s caravan. -->
-  <MessagePermitTransportDropCaravan>{FACTION_name} a trimis resurse către caravana lui {PAWN_nameDef}.</MessagePermitTransportDropCaravan>
+  <MessagePermitTransportDropCaravan>TODO</MessagePermitTransportDropCaravan>
 
   <!-- EN: No orbiting mechanoids found. -->
-  <MessageNoFactionForVerbMechCluster>Nu s-au găsit mecanoizi pe orbită.</MessageNoFactionForVerbMechCluster>
+  <MessageNoFactionForVerbMechCluster>TODO</MessageNoFactionForVerbMechCluster>
 
 </LanguageData>

@@ -3,70 +3,78 @@
 
   <!-- Royal Titles -->
   <!-- EN: The amount of {FACTION_royalFavorLabel} that your negotiator will personally receive as a result of this deal. -->
-  <RoyalFavorDescription>Suma de {FACTION_royalFavorLabel} pe care negociatorul dvs. o va primi personal ca urmare a acestei tranzacții.</RoyalFavorDescription>
+  <RoyalFavorDescription>TODO</RoyalFavorDescription>
   <!-- EN: Required apparel -->
-  <RoyalTitleTooltipRequiredApparel>Îmbrăcăminte necesară</RoyalTitleTooltipRequiredApparel>
+  <RoyalTitleTooltipRequiredApparel>TODO</RoyalTitleTooltipRequiredApparel>
   <!-- EN: Minimum apparel quality -->
-  <RoyalTitleTooltipRequiredApparelQuality>Calitatea minimă a îmbrăcămintei</RoyalTitleTooltipRequiredApparelQuality>
+  <RoyalTitleTooltipRequiredApparelQuality>TODO</RoyalTitleTooltipRequiredApparelQuality>
   <!-- EN: Bedroom requirements -->
-  <RoyalTitleTooltipBedroomRequirements>Cerințe pentru dormitor</RoyalTitleTooltipBedroomRequirements>
+  <RoyalTitleTooltipBedroomRequirements>TODO</RoyalTitleTooltipBedroomRequirements>
   <!-- EN: Throneroom requirements -->
-  <RoyalTitleTooltipThroneroomRequirements>Cerințe pentru camera tronului</RoyalTitleTooltipThroneroomRequirements>
+  <RoyalTitleTooltipThroneroomRequirements>TODO</RoyalTitleTooltipThroneroomRequirements>
   <!-- EN: Title privileges -->
-  <RoyalTitleTooltipPermits>privilegii pentru titlu</RoyalTitleTooltipPermits>
+  <RoyalTitleTooltipPermits>TODO</RoyalTitleTooltipPermits>
   <!-- EN: Holders of this title must be covered in some combination of -->
-  <RoyalTitleRequiredApparelStatDescription>Deținătorii acestui titlu trebuie să fie acoperiți cu o combinație de</RoyalTitleRequiredApparelStatDescription>
+  <RoyalTitleRequiredApparelStatDescription>TODO</RoyalTitleRequiredApparelStatDescription>
   <!-- EN: Any prestige armor -->
-  <ApparelRequirementAnyPrestigeArmor>Orice armură de prestigiu</ApparelRequirementAnyPrestigeArmor>
+  <ApparelRequirementAnyPrestigeArmor>TODO</ApparelRequirementAnyPrestigeArmor>
   <!-- EN: Any psycaster apparel -->
-  <ApparelRequirementAnyPsycasterApparel>Orice îmbrăcăminte psycaster</ApparelRequirementAnyPsycasterApparel>
+  <ApparelRequirementAnyPsycasterApparel>TODO</ApparelRequirementAnyPsycasterApparel>
   <!-- EN: or any psycaster or prestige apparel -->
-  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>sau orice psycaster sau îmbrăcăminte de prestigiu</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>TODO</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
   <!-- EN: Disallowed work types -->
-  <DisabledWorkTypes>Tipuri de muncă nepermise</DisabledWorkTypes>
+  <DisabledWorkTypes>TODO</DisabledWorkTypes>
   <!-- EN: Allowed foods -->
-  <RoyalTitleRequiredMeals>Alimente permise</RoyalTitleRequiredMeals>
+  <RoyalTitleRequiredMeals>TODO</RoyalTitleRequiredMeals>
   <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
-  <RoyalTitleRequiredMealsDesc>Un deținător al acestui titlu va mânca doar aceste alimente, cu excepția cazului în care moare de foame sau se află într-o caravană.</RoyalTitleRequiredMealsDesc>
+  <RoyalTitleRequiredMealsDesc>TODO</RoyalTitleRequiredMealsDesc>
   <!-- EN: Choose who should participate in bestowing ceremony. -->
-  <ChooseParticipantsBestow>Alegeți cine ar trebui să participe la ceremonia de acordare a distincțiilor.</ChooseParticipantsBestow>
+  <ChooseParticipantsBestow>TODO</ChooseParticipantsBestow>
 
   <!-- Royal implants -->
   <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->
-  <RoyalImplantIllegalUseWarning>Conform legilor din {FACTION_name}, trebuie să ai titlul de {TITLE} pentru a folosi în mod legal un {IMPLANT}.\n\n{VIOLATIONTRIGGER}, există o șansă ca {FACTION_name} să detecteze semnătura sa psihică. Acest lucru va duce la consecințe diplomatice.</RoyalImplantIllegalUseWarning>
+  <RoyalImplantIllegalUseWarning>TODO</RoyalImplantIllegalUseWarning>
   <!-- EN: Install this implant anyway? -->
-  <RoyalImplantInstallConfirmation>Instalează acest implant oricum?</RoyalImplantInstallConfirmation>
+  <RoyalImplantInstallConfirmation>TODO</RoyalImplantInstallConfirmation>
   <!-- EN: Upgrade this implant anyway? -->
-  <RoyalImplantUpgradeConfirmation>Upgradează totuși acest implant?</RoyalImplantUpgradeConfirmation>
+  <RoyalImplantUpgradeConfirmation>TODO</RoyalImplantUpgradeConfirmation>
 
   <!-- Royal weapons -->
   <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
-  <BladelinkEquipWarning>Odată legată de un mânuitor, persona armei va refuza să fie mânuită de altcineva.</BladelinkEquipWarning>
+  <BladelinkEquipWarning>TODO</BladelinkEquipWarning>
   <!-- EN: The weapon has the following traits -->
-  <BladelinkEquipWarningTraits>Arma are următoarele trăsături</BladelinkEquipWarningTraits>
+  <BladelinkEquipWarningTraits>TODO</BladelinkEquipWarningTraits>
   <!-- EN: Are you sure you want to equip this item? -->
-  <RoyalWeaponEquipConfirmation>Sunteți sigur că doriți să echipați acest obiect?</RoyalWeaponEquipConfirmation>
+  <RoyalWeaponEquipConfirmation>TODO</RoyalWeaponEquipConfirmation>
   
   <!-- Psycasts -->
   <!-- EN: Target is psychically deaf. -->
-  <AbilityTargetPsychicallyDeaf>Ținta este surdă din punct de vedere psihic.</AbilityTargetPsychicallyDeaf>
+  <AbilityTargetPsychicallyDeaf>TODO</AbilityTargetPsychicallyDeaf>
   <!-- EN: This is illegal for {PAWN_labelShort}. Requires {TITLE} title. -->
-  <PsycastIsIllegal>Acest lucru este ilegal pentru {PAWN_labelShort}. Necesită titlul {TITLE}.</PsycastIsIllegal>
+  <PsycastIsIllegal>TODO</PsycastIsIllegal>
+
+  <!-- Skip -->
+  <!-- EN: Cannot skip {PAWN_labelShort} -->
+  <CannotSkipTarget>TODO</CannotSkipTarget>
+  <!-- EN: Too large -->
+  <CannotSkipTargetTooLarge>TODO</CannotSkipTargetTooLarge>
+  <!-- EN: Psychic resistance -->
+  <CannotSkipTargetPsychicResistant>TODO</CannotSkipTargetPsychicResistant>
 
   <!-- Warning -->
   <!-- EN: This quest will reward {FACTION_royalFavorLabel} and thus royal titles for {PAWN_labelShort}. -->
-  <QuestGivesRoyalFavor>Această misiune va răsplăti {FACTION_royalFavorLabel} și astfel titluri regale pentru {PAWN_labelShort}.</QuestGivesRoyalFavor>
+  <QuestGivesRoyalFavor>TODO</QuestGivesRoyalFavor>
   <!-- EN: {PAWN_labelShort} is incapable of social tasks. Those with royal titles have great need of social skills, so if {PAWN_labelShort} gains a title, {PAWN_pronoun} may have a difficult time. Another colonist might be more socially-adept. -->
-  <RoyalIncapableOfSocial>{PAWN_labelShort} este incapabil de sarcini sociale. Cei cu titluri regale au mare nevoie de abilități sociale, așa că, dacă {PAWN_labelShort} obține un titlu, {PAWN_pronoun} ar putea avea dificultăți. Un alt colonist ar putea fi mai priceput în domeniul social.</RoyalIncapableOfSocial>
+  <RoyalIncapableOfSocial>TODO</RoyalIncapableOfSocial>
   <!-- EN: Since {PAWN_labelShort} is {2}, {PAWN_pronoun} will demand that the title's privileges be fully respected. {PAWN_labelShort} may refuse to do certain work types or eat low-class food, and will issue decrees. Another colonist would probably be more flexible. -->
-  <RoyalWithConceitedTrait>Deoarece {PAWN_labelShort} este {2}, {PAWN_pronoun} va cere ca privilegiile titlului să fie pe deplin respectate. {PAWN_labelShort} poate refuza să facă anumite tipuri de muncă sau să mănânce mâncare de clasă inferioară și va emite decrete. Un alt colonist ar fi probabil mai flexibil.</RoyalWithConceitedTrait>
+  <RoyalWithConceitedTrait>TODO</RoyalWithConceitedTrait>
   <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
-  <RoyalWithTraitAffectingPsylinkNegatively>Din moment ce {PAWN_labelShort} este {2}, psylink-ul ar putea să nu fie util pentru {PAWN_objective}.</RoyalWithTraitAffectingPsylinkNegatively>
+  <RoyalWithTraitAffectingPsylinkNegatively>TODO</RoyalWithTraitAffectingPsylinkNegatively>
   <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->
-  <PsylinkTooLowForGainAbility>Psylink-ul lui {PAWN_labelShort} nu este la un nivel suficient de ridicat pentru a folosi {ABILITY}.\n\nSă obținem această putere oricum?</PsylinkTooLowForGainAbility>
+  <PsylinkTooLowForGainAbility>TODO</PsylinkTooLowForGainAbility>
   <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
-  <SendShuttleWithNoContents>Această navetă este goală. Dacă o trimiți, nu o vei mai putea folosi din nou.\n\nSă o trimitem oricum?</SendShuttleWithNoContents>
+  <SendShuttleWithNoContents>TODO</SendShuttleWithNoContents>
   <!-- EN: These resources would weigh the caravan down and make it unable to move.\n\nCall for them anyways? -->
-  <DropResourcesOverweightConfirm>Aceste resurse ar îngreuna caravana și ar face-o incapabilă să se deplaseze.\n\nSă le cerem oricum?</DropResourcesOverweightConfirm>
+  <DropResourcesOverweightConfirm>TODO</DropResourcesOverweightConfirm>
 
 </LanguageData>

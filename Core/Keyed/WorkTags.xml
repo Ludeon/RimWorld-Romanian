@@ -2,46 +2,46 @@
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>nimic</WorkTagNone>
+  <WorkTagNone>TODO</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>intelectual</WorkTagIntellectual>
+  <WorkTagIntellectual>TODO</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>muncă fizică</WorkTagManualDumb>
+  <WorkTagManualDumb>TODO</WorkTagManualDumb>
   <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>muncă calificată</WorkTagManualSkilled>
+  <WorkTagManualSkilled>TODO</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>violență</WorkTagViolent>
+  <WorkTagViolent>TODO</WorkTagViolent>
   <!-- EN: shooting -->
-  <WorkTagShooting>fotografiere</WorkTagShooting>
+  <WorkTagShooting>TODO</WorkTagShooting>
   <!-- EN: caring -->
-  <WorkTagCaring>îngrijit</WorkTagCaring>
+  <WorkTagCaring>TODO</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>socializare</WorkTagSocial>
+  <WorkTagSocial>TODO</WorkTagSocial>
   <!-- EN: animals -->
-  <WorkTagAnimals>animale</WorkTagAnimals>
+  <WorkTagAnimals>TODO</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>artă</WorkTagArtistic>
+  <WorkTagArtistic>TODO</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>meșteșugărit</WorkTagCrafting>
+  <WorkTagCrafting>TODO</WorkTagCrafting>
   <!-- EN: cooking -->
-  <WorkTagCooking>gătit</WorkTagCooking>
+  <WorkTagCooking>TODO</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>pompier</WorkTagFirefighting>
+  <WorkTagFirefighting>TODO</WorkTagFirefighting>
   <!-- EN: cleaning -->
-  <WorkTagCleaning>curățat</WorkTagCleaning>
+  <WorkTagCleaning>TODO</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>cărăuș</WorkTagHauling>
+  <WorkTagHauling>TODO</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>muncă cu plante</WorkTagPlantWork>
+  <WorkTagPlantWork>TODO</WorkTagPlantWork>
   <!-- EN: mining -->
-  <WorkTagMining>minerit</WorkTagMining>
+  <WorkTagMining>TODO</WorkTagMining>
   <!-- EN: hunting -->
-  <WorkTagHunting>vânare</WorkTagHunting>
+  <WorkTagHunting>TODO</WorkTagHunting>
   <!-- EN: constructing -->
-  <WorkTagConstructing>construind</WorkTagConstructing>
+  <WorkTagConstructing>TODO</WorkTagConstructing>
   <!-- EN: commoner work -->
-  <WorkTagCommoner>muncă de jos</WorkTagCommoner>
+  <WorkTagCommoner>TODO</WorkTagCommoner>
   <!-- EN: all work -->
-  <WorkTagAllWork>toate muncile</WorkTagAllWork>
+  <WorkTagAllWork>TODO</WorkTagAllWork>
 
 </LanguageData>

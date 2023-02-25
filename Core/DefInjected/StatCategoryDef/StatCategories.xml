@@ -2,90 +2,93 @@
 <LanguageData>
   
   <!-- EN: Ability -->
-  <Ability.label>Abilitate</Ability.label>
+  <Ability.label>TODO</Ability.label>
   
   <!-- EN: animal productivity -->
-  <AnimalProductivity.label>productivitate animală</AnimalProductivity.label>
+  <AnimalProductivity.label>TODO</AnimalProductivity.label>
   
   <!-- EN: Apparel -->
-  <Apparel.label>Îmbrăcăminte</Apparel.label>
+  <Apparel.label>TODO</Apparel.label>
   
   <!-- EN: Basics -->
-  <Basics.label>Noțiuni de bază</Basics.label>
+  <Basics.label>TODO</Basics.label>
   
   <!-- EN: Basics -->
-  <BasicsImportant.label>Noțiuni de bază</BasicsImportant.label>
+  <BasicsImportant.label>TODO</BasicsImportant.label>
   
   <!-- EN: Basics -->
-  <BasicsNonPawn.label>Noțiuni de bază</BasicsNonPawn.label>
+  <BasicsNonPawn.label>TODO</BasicsNonPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsNonPawnImportant.label>Noțiuni de bază</BasicsNonPawnImportant.label>
+  <BasicsNonPawnImportant.label>TODO</BasicsNonPawnImportant.label>
   
   <!-- EN: Basics -->
-  <BasicsPawn.label>Noțiuni de bază</BasicsPawn.label>
+  <BasicsPawn.label>TODO</BasicsPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsPawnImportant.label>Noțiuni de bază</BasicsPawnImportant.label>
+  <BasicsPawnImportant.label>TODO</BasicsPawnImportant.label>
   
   <!-- EN: Building -->
-  <Building.label>Clădire</Building.label>
+  <Building.label>TODO</Building.label>
   
   <!-- EN: effects -->
-  <CapacityEffects.label>efecte</CapacityEffects.label>
+  <CapacityEffects.label>TODO</CapacityEffects.label>
   
   <!-- EN: Drug -->
-  <Drug.label>Drog</Drug.label>
+  <Drug.label>TODO</Drug.label>
   
   <!-- EN: drug addiction -->
-  <DrugAddiction.label>dependență de droguri</DrugAddiction.label>
+  <DrugAddiction.label>TODO</DrugAddiction.label>
   
   <!-- EN: Offsets when equipped -->
-  <EquippedStatOffsets.label>Decalaje atunci când este echipat</EquippedStatOffsets.label>
+  <EquippedStatOffsets.label>TODO</EquippedStatOffsets.label>
+  
+  <!-- EN: Genetics -->
+  <Genetics.label>TODO</Genetics.label>
   
   <!-- EN: Implant -->
-  <Implant.label>Implant</Implant.label>
+  <Implant.label>TODO</Implant.label>
   
   <!-- EN: Meditation -->
-  <Meditation.label>Meditație</Meditation.label>
+  <Meditation.label>TODO</Meditation.label>
   
   <!-- EN: Combat -->
-  <PawnCombat.label>Luptă</PawnCombat.label>
+  <PawnCombat.label>TODO</PawnCombat.label>
   
   <!-- EN: Misc -->
-  <PawnMisc.label>Diverse</PawnMisc.label>
+  <PawnMisc.label>TODO</PawnMisc.label>
   
   <!-- EN: Social -->
-  <PawnSocial.label>Social</PawnSocial.label>
+  <PawnSocial.label>TODO</PawnSocial.label>
   
   <!-- EN: Work -->
-  <PawnWork.label>Muncă</PawnWork.label>
+  <PawnWork.label>TODO</PawnWork.label>
   
   <!-- EN: content source -->
-  <Source.label>sursă conținut</Source.label>
+  <Source.label>TODO</Source.label>
   
   <!-- EN: Multipliers when equipment made of this -->
-  <StuffOfEquipmentStatFactors.label>Multiplicatori atunci când echipamentul este făcut din asta</StuffOfEquipmentStatFactors.label>
+  <StuffOfEquipmentStatFactors.label>TODO</StuffOfEquipmentStatFactors.label>
   
   <!-- EN: Multipliers when made of this -->
-  <StuffStatFactors.label>Multiplicatori atunci când echipamentul este făcut din asta</StuffStatFactors.label>
+  <StuffStatFactors.label>TODO</StuffStatFactors.label>
   
   <!-- EN: Offsets when made of this -->
-  <StuffStatOffsets.label>Decalaje în cazul în care echipamentul este făcut din asta</StuffStatOffsets.label>
+  <StuffStatOffsets.label>TODO</StuffStatOffsets.label>
   
   <!-- EN: Surgical -->
-  <Surgery.label>Chirurgie</Surgery.label>
+  <Surgery.label>TODO</Surgery.label>
   
   <!-- EN: terrain -->
-  <Terrain.label>teren</Terrain.label>
+  <Terrain.label>TODO</Terrain.label>
   
   <!-- EN: Weapon -->
-  <Weapon.label>Armă</Weapon.label>
+  <Weapon.label>TODO</Weapon.label>
   
   <!-- EN: Weapon (melee) -->
-  <Weapon_Melee.label>Armă (crop la corp)</Weapon_Melee.label>
+  <Weapon_Melee.label>TODO</Weapon_Melee.label>
   
   <!-- EN: Weapon (ranged) -->
-  <Weapon_Ranged.label>Armă (de distanță)</Weapon_Ranged.label>
+  <Weapon_Ranged.label>TODO</Weapon_Ranged.label>
   
 </LanguageData>

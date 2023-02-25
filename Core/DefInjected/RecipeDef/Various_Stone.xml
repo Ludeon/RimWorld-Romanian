@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: make granite blocks -->
-  <Make_StoneBlocksGranite.label>fă blocuri de granit</Make_StoneBlocksGranite.label>
+  <Make_StoneBlocksGranite.label>TODO</Make_StoneBlocksGranite.label>
   <!-- EN: Cuts granite chunks into usable blocks. -->
-  <Make_StoneBlocksGranite.description>Taie bucăți de granit în blocuri utilizabile.</Make_StoneBlocksGranite.description>
+  <Make_StoneBlocksGranite.description>TODO</Make_StoneBlocksGranite.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksGranite.jobString>Taie blocuri de piatră din bucăți.</Make_StoneBlocksGranite.jobString>
+  <Make_StoneBlocksGranite.jobString>TODO</Make_StoneBlocksGranite.jobString>
   
   <!-- EN: make limestone blocks -->
-  <Make_StoneBlocksLimestone.label>Fă blocuri de calcar</Make_StoneBlocksLimestone.label>
+  <Make_StoneBlocksLimestone.label>TODO</Make_StoneBlocksLimestone.label>
   <!-- EN: Cuts limestone chunks into usable blocks. -->
-  <Make_StoneBlocksLimestone.description>Taie bucăți de calcar în blocuri utilizabile.</Make_StoneBlocksLimestone.description>
+  <Make_StoneBlocksLimestone.description>TODO</Make_StoneBlocksLimestone.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksLimestone.jobString>Taie blocuri de piatră din bucăți.</Make_StoneBlocksLimestone.jobString>
+  <Make_StoneBlocksLimestone.jobString>TODO</Make_StoneBlocksLimestone.jobString>
   
   <!-- EN: make marble blocks -->
-  <Make_StoneBlocksMarble.label>Fă blocuri de marmură</Make_StoneBlocksMarble.label>
+  <Make_StoneBlocksMarble.label>TODO</Make_StoneBlocksMarble.label>
   <!-- EN: Cuts marble chunks into usable blocks. -->
-  <Make_StoneBlocksMarble.description>Taie bucăți de marmură în blocuri utilizabile.</Make_StoneBlocksMarble.description>
+  <Make_StoneBlocksMarble.description>TODO</Make_StoneBlocksMarble.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksMarble.jobString>Taie blocuri de piatră din bucăți.</Make_StoneBlocksMarble.jobString>
+  <Make_StoneBlocksMarble.jobString>TODO</Make_StoneBlocksMarble.jobString>
   
   <!-- EN: make sandstone blocks -->
-  <Make_StoneBlocksSandstone.label>Fă blocuri de gresie</Make_StoneBlocksSandstone.label>
+  <Make_StoneBlocksSandstone.label>TODO</Make_StoneBlocksSandstone.label>
   <!-- EN: Cuts sandstone chunks into usable blocks. -->
-  <Make_StoneBlocksSandstone.description>Taie bucăți de gresie în blocuri utilizabile.</Make_StoneBlocksSandstone.description>
+  <Make_StoneBlocksSandstone.description>TODO</Make_StoneBlocksSandstone.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksSandstone.jobString>Taie blocuri de piatră din bucăți.</Make_StoneBlocksSandstone.jobString>
+  <Make_StoneBlocksSandstone.jobString>TODO</Make_StoneBlocksSandstone.jobString>
   
   <!-- EN: make slate blocks -->
-  <Make_StoneBlocksSlate.label>Fă blocuri de ardezie</Make_StoneBlocksSlate.label>
+  <Make_StoneBlocksSlate.label>TODO</Make_StoneBlocksSlate.label>
   <!-- EN: Cuts slate chunks into usable blocks. -->
-  <Make_StoneBlocksSlate.description>Taie bucăți de ardezie în blocuri utilizabile.</Make_StoneBlocksSlate.description>
+  <Make_StoneBlocksSlate.description>TODO</Make_StoneBlocksSlate.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksSlate.jobString>Taie blocuri de piatră din bucăți.</Make_StoneBlocksSlate.jobString>
+  <Make_StoneBlocksSlate.jobString>TODO</Make_StoneBlocksSlate.jobString>
   
 </LanguageData>

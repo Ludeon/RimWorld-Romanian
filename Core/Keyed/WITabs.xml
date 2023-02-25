@@ -3,72 +3,74 @@
 
   <!-- WITab titles -->
   <!-- EN: Terrain -->
-  <TabTerrain>Teren</TabTerrain>
+  <TabTerrain>TODO</TabTerrain>
   <!-- EN: Planet -->
-  <TabPlanet>Planeta</TabPlanet>
+  <TabPlanet>TODO</TabPlanet>
+  <!-- EN: Feeding -->
+  <TabCaravanFeeding>TODO</TabCaravanFeeding>
   <!-- EN: Social -->
-  <TabCaravanSocial>Social</TabCaravanSocial>
+  <TabCaravanSocial>TODO</TabCaravanSocial>
   <!-- EN: Health -->
-  <TabCaravanHealth>Sănătate</TabCaravanHealth>
+  <TabCaravanHealth>TODO</TabCaravanHealth>
   <!-- EN: Needs -->
-  <TabCaravanNeeds>Nevoi</TabCaravanNeeds>
+  <TabCaravanNeeds>TODO</TabCaravanNeeds>
   <!-- EN: Gear -->
-  <TabCaravanGear>Inventar</TabCaravanGear>
+  <TabCaravanGear>TODO</TabCaravanGear>
   <!-- EN: Items -->
-  <TabCaravanItems>Articole</TabCaravanItems>
+  <TabCaravanItems>TODO</TabCaravanItems>
   
   <!-- Misc -->
   <!-- EN: Abandon {{0}}x {0} -->
-  <AbandonSliderText>Abandonați {{0}}x {0}</AbandonSliderText>
+  <AbandonSliderText>TODO</AbandonSliderText>
   <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
-  <ConfirmAbandonItemDialog>Chiar doriți să abandonați {0}?\n\nUn articol abandonat dispare și nu mai poate fi recuperat niciodată.</ConfirmAbandonItemDialog>
+  <ConfirmAbandonItemDialog>TODO</ConfirmAbandonItemDialog>
   <!-- EN: Abandon -->
-  <AbandonTip>Abandonează</AbandonTip>
+  <AbandonTip>TODO</AbandonTip>
   <!-- EN: Banish -->
-  <BanishTip>Interziceți</BanishTip>
+  <BanishTip>TODO</BanishTip>
   <!-- EN: Abandon specific count -->
-  <AbandonSpecificCountTip>Abandonarea unui număr specific</AbandonSpecificCountTip>
+  <AbandonSpecificCountTip>TODO</AbandonSpecificCountTip>
   <!-- EN: Abandon (all) -->
-  <AbandonAllTip>Abandonează (toate)</AbandonAllTip>
+  <AbandonAllTip>TODO</AbandonAllTip>
   <!-- EN: Abandoned items vanish and can never be recovered. -->
-  <AbandonItemTipExtraText>Obiectele abandonate dispar și nu mai pot fi recuperate niciodată.</AbandonItemTipExtraText>
+  <AbandonItemTipExtraText>TODO</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>{1_labelShort} vor muri cel mai probabil.</BanishTipWillDie>
+  <BanishTipWillDie>TODO</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->
-  <CaravanColonists>Coloniști</CaravanColonists>
+  <CaravanColonists>TODO</CaravanColonists>
   <!-- EN: Prisoners and animals -->
-  <CaravanPrisonersAndAnimals>Prizonieri și animale</CaravanPrisonersAndAnimals>
+  <CaravanPrisonersAndAnimals>TODO</CaravanPrisonersAndAnimals>
   <!-- EN: Inventory -->
-  <CaravanItems>Inventar</CaravanItems>
+  <CaravanItems>TODO</CaravanItems>
   <!-- EN: Click to open a tab with more details. -->
-  <OpenSpecificTabButtonTip>Faceți clic pentru a deschide o filă cu mai multe detalii.</OpenSpecificTabButtonTip>
+  <OpenSpecificTabButtonTip>TODO</OpenSpecificTabButtonTip>
   <!-- EN: Prisoners -->
-  <CaravanPrisoners>Prizonieri</CaravanPrisoners>
+  <CaravanPrisoners>TODO</CaravanPrisoners>
   <!-- EN: Equippable items -->
-  <CaravanWeaponsAndApparel>Articole echipabile</CaravanWeaponsAndApparel>
+  <CaravanWeaponsAndApparel>TODO</CaravanWeaponsAndApparel>
   <!-- EN: None capable -->
-  <NoneCapable>Nimeni nu este capabil</NoneCapable>
+  <NoneCapable>TODO</NoneCapable>
   <!-- EN: Caravan not moving -->
-  <GainingJoyBecauseCaravanNotMoving>Caravana nu se mișcă</GainingJoyBecauseCaravanNotMoving>
+  <GainingJoyBecauseCaravanNotMoving>TODO</GainingJoyBecauseCaravanNotMoving>
   
   <!-- Caravan gear -->
   <!-- EN: Drag to rearrange. -->
-  <DragToRearrange>Trageți pentru a rearanja.</DragToRearrange>
+  <DragToRearrange>TODO</DragToRearrange>
 
   <!-- Caravan items -->
   <!-- EN: Assign drug policies -->
-  <AssignDrugPolicies>Atribuiți politici privind drogurile</AssignDrugPolicies>
+  <AssignDrugPolicies>TODO</AssignDrugPolicies>
 
   <!-- Caravan health -->
   <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
-  <BeCarriedIfSickTip>Dacă această persoană sau acest animal ar trebui să fie cărat de către alți membri ai caravanei atunci când este bolnav.\n\nMembrii caravanei cărați se pot odihni chiar dacă caravana este în mișcare, dar o încetinesc.</BeCarriedIfSickTip>
+  <BeCarriedIfSickTip>TODO</BeCarriedIfSickTip>
   
   <!-- Planet -->
   <!-- EN: Seed -->
-  <PlanetSeed>Codul generării</PlanetSeed>
+  <PlanetSeed>TODO</PlanetSeed>
   <!-- EN: Coverage -->
-  <PlanetCoverageShort>Acoperire</PlanetCoverageShort>
+  <PlanetCoverageShort>TODO</PlanetCoverageShort>
 
 </LanguageData>

@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: psychic hunger -->
-  <HungerMaker.label>foame psihică</HungerMaker.label>
+  <HungerMaker.label>TODO</HungerMaker.label>
   <!-- EN: Hunger is increased by the psychic influence of a bonded weapon. -->
-  <HungerMaker.description>Foamea este crescută de influența psihică a unei arme legate.</HungerMaker.description>
+  <HungerMaker.description>TODO</HungerMaker.description>
   
   <!-- EN: assisted neural cooling -->
-  <NeuralHeatRecoveryGain.label>răcire neurală asistată</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.label>TODO</NeuralHeatRecoveryGain.label>
   <!-- EN: Neural heat dissipation is improved by the psychic influence of a bonded weapon. -->
-  <NeuralHeatRecoveryGain.description>Disiparea căldurii neuronale este îmbunătățită de influența psihică a unei arme legate.</NeuralHeatRecoveryGain.description>
+  <NeuralHeatRecoveryGain.description>TODO</NeuralHeatRecoveryGain.description>
   
   <!-- EN: psychic painlessness -->
-  <NoPain.label>lipsa durerii psihice</NoPain.label>
+  <NoPain.label>TODO</NoPain.label>
   <!-- EN: Pain is disabled by the psychic influence of a wielded weapon. -->
-  <NoPain.description>Durerea este dezactivată de influența psihică a unei arme mânuite.</NoPain.description>
+  <NoPain.description>TODO</NoPain.description>
   
   <!-- EN: psychic speed -->
-  <SpeedBoost.label>viteză psihică</SpeedBoost.label>
+  <SpeedBoost.label>TODO</SpeedBoost.label>
   <!-- EN: Movement is sped up by the psychic influence of a wielded weapon. -->
-  <SpeedBoost.description>Mișcarea este accelerată de influența psihică a unei arme mânuite.</SpeedBoost.description>
+  <SpeedBoost.description>TODO</SpeedBoost.description>
   
 </LanguageData>
