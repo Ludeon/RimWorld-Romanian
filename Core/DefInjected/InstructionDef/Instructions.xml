@@ -10,6 +10,8 @@
   <AddBillSimpleMeal.rejectInputMessage>Vă rugăm să adăugați o factură pentru a găti mese simple la soba dumneavoastră.</AddBillSimpleMeal.rejectInputMessage>
   <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it. -->
   <AddBillSimpleMeal.text>Coloniștilor trebuie să li se spună ce să gătească.\n\nOrdinele de gătit sunt adăugate chiar pe sobă. Odată ce o factură a fost creată, coloniștii vor face munca în mod automat.\n\n1. Așteptați ca soba să fie construită.\n2. Faceți clic pe sobă pentru a o selecta.\n3. Deschideți fila SLUJBE.\n4. Faceți click pe ADAUGĂ SLUJBĂ.\n5. Selectați GĂTEȘTE MESAJ SIMPLU din meniul contextual.\n6. Faceți click pe butonul + pentru a crește numărul la 10.\n\nRețineți că puteți accelera timpul dacă construcția durează prea mult.\n\nDe asemenea, puteți selecta un colonist și face click dreapta pe sobă pentru a prioritiza construcția acesteia.</AddBillSimpleMeal.text>
+  <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and press left trigger button on the stove to prioritize building it. -->
+  <AddBillSimpleMeal.textController>TODO</AddBillSimpleMeal.textController>
   
   <!-- EN: Build an animal sleeping spot\ninside the room -->
   <BuildAnimalSleepingSpot.onMapInstruction>Construiți un loc de dormit pentru animale\nîn interiorul camerei</BuildAnimalSleepingSpot.onMapInstruction>
@@ -24,6 +26,8 @@
   <BuildBeds.rejectInputMessage>Vă rugăm să construiți paturi din lemn în interiorul camerei.</BuildBeds.rejectInputMessage>
   <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
   <BuildBeds.text>Coloniștii tăi vor construi acum camera!\n\nAcum au nevoie de un loc unde să doarmă. Plasați trei PATURI în interiorul camerei.\n\nGăsește-le în categoria MOBILĂ.\n\nVă puteți folosi tastele {Key:Designator_RotateLeft} și {Key:Designator_RotateRight} pentru a roti clădirea.</BuildBeds.text>
+  <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can rotate the building by pressing the rotate buttons on the left. -->
+  <BuildBeds.textController>TODO</BuildBeds.textController>
   
   <!-- EN: Build a fueled stove inside the room -->
   <BuildFueledStove.onMapInstruction>Construiți o sobă cu combustibil în interiorul camerei</BuildFueledStove.onMapInstruction>
@@ -86,7 +90,7 @@
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>Vă rugăm să alegeți un povestitor în meniul Opțiuni pentru a încheia tutorialul.</ChooseStoryteller.rejectInputMessage>
-  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click STORYTELLER SETTINGS.\n4. Select a storyteller and playstyle that appeals to you.\n\nGood luck, and have fun. -->
+  <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click the Gameplay button in the left columm.\n4. Click the Modify button beside Storyteller settings.\n5. Select a storyteller and playstyle that appeals to you.\n\nGood luck, and have fun. -->
   <ChooseStoryteller.text>Acesta este sfârșitul tutorialului!\n\nÎncă mai sunt tone de învățat, inclusiv prizonieri, vânătoare, comerț, îmblânzirea animalelor și multe altele. Dar ai învățat noțiunile de bază.\n\nIncidentele aleatorii au fost dezactivate în timpul acestui tutorial. Pentru a începe jocul real:\n\n1. Deschideți fila MENIU din dreapta jos.\n2. Selectați OPȚIUNI.\n3. Faceți clic pe SETĂRILE POVESTITORULUI.\n4. Selectați un povestitor și un stil de joc care să vă placă.\n\nBun succes și distracție plăcută.</ChooseStoryteller.text>
   
   <!-- EN: Please drag the 'chop wood' designator over some trees. -->
@@ -105,9 +109,13 @@
   <DownRaider.rejectInputMessage>Vă rugăm să vă concentrați pe câștigarea luptei!</DownRaider.rejectInputMessage>
   <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
   <DownRaider.text>Am trimis acum un raider să atace colonia ta!\n\n1. Puneți jocul pe pauză apăsând {Key:TogglePause}!\n2. Citește scrisoarea roșie din partea dreaptă jos a ecranului.\n3. RECRUTEAZĂ coloniștii dvs. selectându-i și apăsând comanda DRAFT.\n4. Dați click dreapta pe ei pentru a-i poziționa în interiorul pătratului cu saci de nisip, atingând sacii de nisip.\n5. Dezactivează pauza.\n\nColoniștii trebuie să atingă acoperirea pentru a beneficia de ea. Odată ce vă aflați la adăpost, așteptați ca atacatorul să se apropie. Coloniștii dvs. vor trage automat.</DownRaider.text>
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Press left trigger button to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <DownRaider.textController>TODO</DownRaider.textController>
   
   <!-- EN: Right-click to get out of stockpile designating mode. -->
   <EndStockpileDesignating.text>Faceți clic dreapta pentru a ieși din modul de desemnare a stocurilor.</EndStockpileDesignating.text>
+  <!-- EN: Press left trigger button to get out of stockpile designating mode. -->
+  <EndStockpileDesignating.textController>TODO</EndStockpileDesignating.textController>
   
   <!-- EN: Equip this -->
   <EquipWeapons.onMapInstruction>Echipează asta</EquipWeapons.onMapInstruction>
@@ -115,6 +123,8 @@
   <EquipWeapons.rejectInputMessage>Vă rugăm să le cereți coloniștilor dvs. să echipeze arme.</EquipWeapons.rejectInputMessage>
   <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
   <EquipWeapons.text>Pune-ți coloniștii să echipeze armele de început. Pentru a echipa o armă:\n\n1. Faceți clic pe un colonist pentru a-l selecta.\n2. Faceți clic dreapta pe arma pe care doriți să o echipați.\n3. Faceți clic pe "Echipare armă" din meniul contextual.\n\nFaceți acest lucru pentru fiecare colonist.</EquipWeapons.text>
+  <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Hover over the weapon you want to equip and press left trigger button.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
+  <EquipWeapons.textController>TODO</EquipWeapons.textController>
   
   <!-- EN: Please expand the build roof area a bit, just for practice. -->
   <ExpandAreaBuildRoof.rejectInputMessage>Vă rugăm să extindeți puțin zona de construire a acoperișului, doar pentru exercițiu.</ExpandAreaBuildRoof.rejectInputMessage>
@@ -147,9 +157,13 @@
   
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
   <MapCameraDolly.text>Aici ești pe suprafață!\n\nAcum încearcă să muți camera în jurul tău.\n\nUtilizează tastele {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}, sau fă clic și trage cu butonul din mijloc al mouse-ului.\n\nÎncearcă acum!</MapCameraDolly.text>
+  <!-- EN: Here you are on the surface!\n\nNow try moving the camera around with the left joystick.\n\nTry it now! -->
+  <MapCameraDolly.textController>TODO</MapCameraDolly.textController>
   
   <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
   <MapCameraZoom.text>Grozav!\n\nDe asemenea, puteți mări și micșora imaginea cu rotița mouse-ului sau cu tastele {Key:MapZoom_In} și {Key:MapZoom_Out}.\n\nÎncercați acum!</MapCameraZoom.text>
+  <!-- EN: Great!\n\nYou can also zoom in and out with {Key:MapZoom_In} and {Key:MapZoom_Out}.\n\nTry it now! -->
+  <MapCameraZoom.textController>TODO</MapCameraZoom.textController>
   
   <!-- EN: Designate all this\nfor mining -->
   <MineSteel.onMapInstruction>Desigilează toate acestea\npentru minerit</MineSteel.onMapInstruction>
@@ -170,6 +184,8 @@
   
   <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
   <Pause.text>Puteți pune timpul pe pauză.\n\nAceasta înseamnă că nu trebuie să vă grăbiți niciodată. Poți oricând să faci o pauză și să nu te grăbești să dai ordine.\n\nÎncercați să faceți o pauză cu tasta {Key:TogglePause}, sau folosind comenzile de timp din dreapta jos.</Pause.text>
+  <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} button, or by using the time controls in the bottom right. -->
+  <Pause.textController>TODO</Pause.textController>
   
   <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
   <RandomizeCharacter.rejectInputMessage>Vă rugăm să faceți clic pe butonul RANDOMIZARE pentru a randomiza personajul.</RandomizeCharacter.rejectInputMessage>
@@ -192,9 +208,13 @@
   <SetToGrowRice.rejectInputMessage>Vă rugăm să vă setați zona de creștere pentru a cultiva orez.</SetToGrowRice.rejectInputMessage>
   <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Right-click to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the plant selector at the bottom and change it to rice. -->
   <SetToGrowRice.text>Poți decide ce plantă trebuie să semene coloniștii tăi într-o zonă de cultivare.\n\n1. Faceți clic dreapta pentru a ieși din modul arhitect.\n2. Faceți clic pe zona de creștere pentru a o selecta.\n3. Faceți clic pe selectorul de plante din partea de jos și schimbați-l în orez.</SetToGrowRice.text>
+  <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Press left trigger button to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the plant selector at the bottom and change it to rice. -->
+  <SetToGrowRice.textController>TODO</SetToGrowRice.textController>
   
   <!-- EN: You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
   <TimeControls.text>Puteți, de asemenea, să accelerați timpul.\n\nÎncercați să controlați timpul cu tastele {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} și {Key:TimeSpeed_Superfast}, sau cu comenzile de timp din dreapta jos.</TimeControls.text>
+  <!-- EN: You can also speed up time.\n\nTry controlling time with {Key:TimeSpeed_Faster} and {Key:TimeSpeed_Slower}, or with the time controls in the bottom right. -->
+  <TimeControls.textController>TODO</TimeControls.textController>
   
   <!-- EN: Please un-draft your colonists. -->
   <UndraftAll.rejectInputMessage>Vă rugăm să vă desființați recruții.</UndraftAll.rejectInputMessage>

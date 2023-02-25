@@ -23,6 +23,19 @@
   <!-- EN: head -->
   <Cobra.tools.head.label>cap</Cobra.tools.head.label>
   
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>thrumbo</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>O creatură gigantică și grațioasă de origine necunoscută. Thrumbo este blând prin natura sa, dar extrem de periculos atunci când este furios. În timp ce blana sa lungă este excepțional de frumoasă, pielea sa este, de asemenea, incredibil de rezistentă la daune. Cornul său ascuțit ca un bricior are un preț uriaș.\n\nLegendele spun că un thrumbo bătrân este cea mai înțeleaptă creatură din univers - pur și simplu alege să nu vorbească.</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>corn</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>piciorul stâng</Thrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>piciorul drept</Thrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>cap</Thrumbo.tools.head.label>
+  
   <!-- EN: tortoise -->
   <Tortoise.label>broască țestoasă</Tortoise.label>
   <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->

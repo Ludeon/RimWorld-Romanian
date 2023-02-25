@@ -7,6 +7,9 @@
   <!-- EN: drop pod (incoming) -->
   <DropPodIncoming.label>capsulă de lansare (intrare)</DropPodIncoming.label>
   
+  <!-- EN: drop pod (incoming) -->
+  <DropPodIncomingMechanoid.label>TODO</DropPodIncomingMechanoid.label>
+  
   <!-- EN: drop pod (leaving) -->
   <DropPodLeaving.label>capsulă de lansare (plecare)</DropPodLeaving.label>
   
@@ -15,5 +18,8 @@
   
   <!-- EN: ship chunk (incoming) -->
   <ShipChunkIncoming.label>bucată de navă (în sosire)</ShipChunkIncoming.label>
+  
+  <!-- EN: shuttle (crashing) -->
+  <ShuttleCrashing.label>navetă (în prăbușire)</ShuttleCrashing.label>
   
 </LanguageData>

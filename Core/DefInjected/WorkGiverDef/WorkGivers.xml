@@ -463,6 +463,20 @@
   <!-- EN: open -->
   <Open.verb>deschide</Open.verb>
   
+  <!-- EN: paint buildings -->
+  <PaintBuilding.label>TODO</PaintBuilding.label>
+  <!-- EN: painting -->
+  <PaintBuilding.gerund>TODO</PaintBuilding.gerund>
+  <!-- EN: paint -->
+  <PaintBuilding.verb>TODO</PaintBuilding.verb>
+  
+  <!-- EN: paint floor -->
+  <PaintFloor.label>TODO</PaintFloor.label>
+  <!-- EN: painting -->
+  <PaintFloor.gerund>TODO</PaintFloor.gerund>
+  <!-- EN: paint -->
+  <PaintFloor.verb>TODO</PaintFloor.verb>
+  
   <!-- EN: go to bed for emergency treatment -->
   <PatientGoToBedEmergencyTreatment.label>mergi la pat pentru tratament de urgență</PatientGoToBedEmergencyTreatment.label>
   <!-- EN: receiving treatment in -->
@@ -490,6 +504,13 @@
   <PlantsCut.gerund>tăind</PlantsCut.gerund>
   <!-- EN: cut -->
   <PlantsCut.verb>taie</PlantsCut.verb>
+  
+  <!-- EN: plant seeds -->
+  <PlantSeed.label>TODO</PlantSeed.label>
+  <!-- EN: planting -->
+  <PlantSeed.gerund>TODO</PlantSeed.gerund>
+  <!-- EN: plant -->
+  <PlantSeed.verb>TODO</PlantSeed.verb>
   
   <!-- EN: rearm turrets -->
   <RearmTurrets.label>reînarmează turele</RearmTurrets.label>
@@ -525,6 +546,20 @@
   <ReleaseToWild.gerund>eliberând</ReleaseToWild.gerund>
   <!-- EN: release -->
   <ReleaseToWild.verb>eliberează</ReleaseToWild.verb>
+  
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.label>TODO</RemovePaintBuilding.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintBuilding.gerund>TODO</RemovePaintBuilding.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintBuilding.verb>TODO</RemovePaintBuilding.verb>
+  
+  <!-- EN: remove floor paint -->
+  <RemovePaintFloor.label>TODO</RemovePaintFloor.label>
+  <!-- EN: removing paint from -->
+  <RemovePaintFloor.gerund>TODO</RemovePaintFloor.gerund>
+  <!-- EN: remove paint -->
+  <RemovePaintFloor.verb>TODO</RemovePaintFloor.verb>
   
   <!-- EN: remove roofs -->
   <RemoveRoofs.label>îndepărtează acoperișuri</RemoveRoofs.label>

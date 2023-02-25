@@ -23,7 +23,7 @@
   
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>rata de deteriorare</DeteriorationRate.label>
-  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
+  <!-- EN: The rate at which this item deteriorates when left outside, in average hit points per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
   <DeteriorationRate.description>Rata cu care acest obiect se deteriorează atunci când este lăsat afară, în puncte de lovitură medii de deteriorare pe zi.\n\nRata de deteriorare este, de asemenea, afectată de lucruri cum ar fi vremea, acoperișuri, precipitații toxice sau dacă este lăsat în apă puțin adâncă.</DeteriorationRate.description>
   <!-- EN: {0} / day -->
   <DeteriorationRate.formatString>{0} / zi</DeteriorationRate.formatString>

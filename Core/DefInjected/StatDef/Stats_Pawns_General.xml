@@ -6,6 +6,9 @@
   <!-- EN: A multiplier on the learning rate for animals skill. -->
   <AnimalsLearningFactor.description>Un multiplicator al ratei de învățare pentru abilitatea animalelor.</AnimalsLearningFactor.description>
   
+  <!-- EN: bed hunger rate multiplier -->
+  <BedHungerRateFactor.label>TODO</BedHungerRateFactor.label>
+  
   <!-- EN: caravan riding speed -->
   <CaravanRidingSpeedFactor.label>viteza de deplasare a caravanei</CaravanRidingSpeedFactor.label>
   <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
@@ -46,11 +49,6 @@
   <!-- EN: A multiplier on the learning rate for all skills. -->
   <GlobalLearningFactor.description>Un multiplicator al ratei de învățare pentru toate abilitățile.</GlobalLearningFactor.description>
   
-  <!-- EN: hunger rate multiplier -->
-  <HungerRateMultiplier.label>multiplicator al ratei de foame</HungerRateMultiplier.label>
-  <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
-  <HungerRateMultiplier.description>Un multiplicator al rapidității cu care o creatură devine flămândă.</HungerRateMultiplier.description>
-  
   <!-- EN: immunity gain speed -->
   <ImmunityGainSpeed.label>viteza de câștig a imunității</ImmunityGainSpeed.label>
   <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
@@ -66,10 +64,29 @@
   <!-- EN: The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
   <LeatherAmount.description>Cantitatea de piele obținută la măcelărirea acestei creaturi. Această valoare este redusă dacă creatura nu este sacrificată în mod curat sau dacă este rănită atunci când este ucisă.</LeatherAmount.description>
   
+  <!-- EN: lifespan factor -->
+  <LifespanFactor.label>TODO</LifespanFactor.label>
+  <!-- EN: Lifespan factor alters the effective lifespan of a creature by shortening or lengthening the time until they develop age-related diseases. A lifespan factor over 100% delays disease onset and increases overall lifespan, while a lifespan factor under 100% speeds up disease onset and reduces lifespan. -->
+  <LifespanFactor.description>TODO</LifespanFactor.description>
+  
+  <!-- EN: max nutrition -->
+  <MaxNutrition.label>TODO</MaxNutrition.label>
+  <!-- EN: The amount of nutrition needed to completely fill this creature's stomach. -->
+  <MaxNutrition.description>TODO</MaxNutrition.description>
+  
   <!-- EN: meat amount -->
   <MeatAmount.label>cantitatea de carne</MeatAmount.label>
   <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
   <MeatAmount.description>Cantitatea de carne obținută la măcelărirea acestei creaturi. Această valoare este redusă dacă creatura nu este sacrificată în mod curat sau dacă este rănită atunci când este ucisă.</MeatAmount.description>
+  
+  <!-- EN: meditation psyfocus gain -->
+  <MeditationFocusGain.label>Câștig de psihofocalizare a meditației</MeditationFocusGain.label>
+  <!-- EN: The amount of psyfocus a person gains per day of meditation, ignoring bonuses from focus objects. -->
+  <MeditationFocusGain.description>Cantitatea de psyfocus pe care o persoană o câștigă pe zi de meditație, ignorând bonusurile de la obiectele de focus.</MeditationFocusGain.description>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatString>{0} / zi</MeditationFocusGain.formatString>
+  <!-- EN: {0} / day -->
+  <MeditationFocusGain.formatStringUnfinalized>{0} / zi</MeditationFocusGain.formatStringUnfinalized>
   
   <!-- EN: mental break threshold -->
   <MentalBreakThreshold.label>pragul de cădere nervoasă</MentalBreakThreshold.label>
@@ -93,19 +110,41 @@
   <!-- EN: The pain level at which this creature is downed from pain. -->
   <PainShockThreshold.description>Nivelul de durere la care această creatură este doborâtă de durere.</PainShockThreshold.description>
   
+  <!-- EN: neural heat limit -->
+  <PsychicEntropyMax.label>limita căldurii neuronale</PsychicEntropyMax.label>
+  <!-- EN: The maximum amount of neural heat individual can tolerate safely. -->
+  <PsychicEntropyMax.description>Cantitatea maximă de căldură neuronală pe care individul o poate tolera în siguranță.</PsychicEntropyMax.description>
+  
+  <!-- EN: neural heat recovery rate -->
+  <PsychicEntropyRecoveryRate.label>rata de recuperare a căldurii neuronale</PsychicEntropyRecoveryRate.label>
+  <!-- EN: The rate at which this person reduces neural heat. -->
+  <PsychicEntropyRecoveryRate.description>Rata cu care această persoană reduce căldura neuronală.</PsychicEntropyRecoveryRate.description>
+  <!-- EN: {0}/s -->
+  <PsychicEntropyRecoveryRate.formatString>{0}/s</PsychicEntropyRecoveryRate.formatString>
+  
   <!-- EN: psychic sensitivity -->
   <PsychicSensitivity.label>sensibilitate psihică</PsychicSensitivity.label>
   <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
   <PsychicSensitivity.description>Persoanele mai sensibile suferă mai mult de efectele psihice negative și beneficiază mai mult de cele pozitive. O sensibilitate psihică mai mare crește, de asemenea, limita de căldură neuronală.</PsychicSensitivity.description>
+  
+  <!-- EN: sleep fall rate -->
+  <RestFallRateFactor.label>TODO</RestFallRateFactor.label>
+  <!-- EN: A multiplier on the speed that a person's sleep need falls. -->
+  <RestFallRateFactor.description>TODO</RestFallRateFactor.description>
   
   <!-- EN: rest rate multiplier -->
   <RestRateMultiplier.label>multiplicator al ratei de odihnă</RestRateMultiplier.label>
   <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
   <RestRateMultiplier.description>Un multiplicator al rapidității cu care o creatură se odihnește în timp ce doarme.</RestRateMultiplier.description>
   
-  <!-- EN: toxic sensitivity -->
-  <ToxicSensitivity.label>sensibilitate toxică</ToxicSensitivity.label>
-  <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
-  <ToxicSensitivity.description>Multiplicator al impactului acumulării de substanțe toxice asupra acestei creaturi.</ToxicSensitivity.description>
+  <!-- EN: toxic environment resistance -->
+  <ToxicEnvironmentResistance.label>TODO</ToxicEnvironmentResistance.label>
+  <!-- EN: How resistant this creature is to the effects of environmental toxins. This protects against toxic fallout and rot stink exposure, but not against direct attacks with venom or injected poison. -->
+  <ToxicEnvironmentResistance.description>TODO</ToxicEnvironmentResistance.description>
+  
+  <!-- EN: toxic resistance -->
+  <ToxicResistance.label>TODO</ToxicResistance.label>
+  <!-- EN: How well this creature resists toxic buildup. -->
+  <ToxicResistance.description>TODO</ToxicResistance.description>
   
 </LanguageData>

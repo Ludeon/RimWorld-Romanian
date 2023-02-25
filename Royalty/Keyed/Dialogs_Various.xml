@@ -53,6 +53,14 @@
   <!-- EN: This is illegal for {PAWN_labelShort}. Requires {TITLE} title. -->
   <PsycastIsIllegal>Acest lucru este ilegal pentru {PAWN_labelShort}. Necesită titlul {TITLE}.</PsycastIsIllegal>
 
+  <!-- Skip -->
+  <!-- EN: Cannot skip {PAWN_labelShort} -->
+  <CannotSkipTarget>TODO</CannotSkipTarget>
+  <!-- EN: Too large -->
+  <CannotSkipTargetTooLarge>TODO</CannotSkipTargetTooLarge>
+  <!-- EN: Psychic resistance -->
+  <CannotSkipTargetPsychicResistant>TODO</CannotSkipTargetPsychicResistant>
+
   <!-- Warning -->
   <!-- EN: This quest will reward {FACTION_royalFavorLabel} and thus royal titles for {PAWN_labelShort}. -->
   <QuestGivesRoyalFavor>Această misiune va răsplăti {FACTION_royalFavorLabel} și astfel titluri regale pentru {PAWN_labelShort}.</QuestGivesRoyalFavor>

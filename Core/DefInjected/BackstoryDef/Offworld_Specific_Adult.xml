@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was the only survivor of a ship crash on an unhabited animal world. For many years until [PAWN_possessive] rescue [PAWN_pronoun] scrounged an existence out of whatever [PAWN_pronoun] could find.\n\n[PAWN_possessive] survival skills became razor-sharp, but spending so long alone severely dampened [PAWN_possessive] conversatial abilities. -->
+  <Castaway57.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost singurul supraviețuitor al prăbușirii unei nave pe o lume animală nelocuită. Timp de mulți ani, până la salvarea sa, el și-a câștigat existența din tot ceea ce a găsit.\n\nAptitudinile sale de supraviețuire au devenit foarte ascuțite, dar faptul că a petrecut atât de mult timp singur i-a diminuat sever abilitățile de conversație. : [PAWN_nameDef] a fost singura supraviețuitoare a prăbușirii unei nave pe o lume animală nelocuită. Timp de mulți ani, până la salvarea ei, a reușit să trăiască din tot ceea ce a găsit.Abilitățile ei de supraviețuire au devenit foarte ascuțite, dar faptul că a petrecut atât de mult timp singură i-a afectat grav abilitățile de conversație.}\n</Castaway57.baseDesc>
+  <!-- EN: castaway -->
+  <Castaway57.title>naufragiat</Castaway57.title>
+  <Castaway57.titleFemale>naufragiată</Castaway57.titleFemale>
+  <!-- EN: castaway -->
+  <Castaway57.titleShort>naufragiat</Castaway57.titleShort>
+  <Castaway57.titleShortFemale>naufragiată</Castaway57.titleShortFemale>
+  
+  <!-- EN: Among tunnel-dwellers, those with vision as strong as [PAWN_nameDef]'s are revered as sages. [PAWN_pronoun] would lead the way, marking spots to dig with bioluminescent fungus and warning others of impending danger. -->
+  <CaveworldIlluminator95.baseDesc>{PAWN_gender ? Printre locuitorii tunelurilor, cei cu o viziune la fel de puternică ca a lui [PAWN_nameDef] sunt venerați ca înțelepți. El le deschidea calea, marcând locurile de săpat cu ciuperci bioluminescente și avertizându-i pe ceilalți de pericolul iminent. : Printre locuitorii tunelurilor, cei care au o viziune la fel de puternică ca cea a lui [PAWN_nameDef] sunt venerați ca înțelepți. Ea ar putea deschide calea, marcând locurile de săpat cu ciuperci bioluminescente și avertizându-i pe ceilalți de pericolul iminent.}\n</CaveworldIlluminator95.baseDesc>
+  <!-- EN: caveworld illuminator -->
+  <CaveworldIlluminator95.title>iluminator al peșterilor</CaveworldIlluminator95.title>
+  <CaveworldIlluminator95.titleFemale>iluminatoare ale peșterilor</CaveworldIlluminator95.titleFemale>
+  <!-- EN: illuminator -->
+  <CaveworldIlluminator95.titleShort>iluminator</CaveworldIlluminator95.titleShort>
+  <CaveworldIlluminator95.titleShortFemale>iluminatoare</CaveworldIlluminator95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a settler on a new colony world.\n\nSuch a life requires a jack-of-all trades at basic hands-on tasks. -->
+  <ColonySettler53.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost un colonist pe o nouă lume-colonie.\n\nO astfel de viață necesită o meserie de toate felurile, cu sarcini practice de bază. : [PAWN_nameDef] a fost un colonist pe o nouă lume-colonie.\n\nO astfel de viață necesită o meserie de toate meseriile, cu sarcini practice de bază.}\n</ColonySettler53.baseDesc>
+  <!-- EN: colony settler -->
+  <ColonySettler53.title>colonist</ColonySettler53.title>
+  <ColonySettler53.titleFemale>colonistă</ColonySettler53.titleFemale>
+  <!-- EN: settler -->
+  <ColonySettler53.titleShort>colonist</ColonySettler53.titleShort>
+  <ColonySettler53.titleShortFemale>colonistă</ColonySettler53.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did the sweaty, grimy work of pulling metal out of asteroids on a deep space rig. [PAWN_pronoun] used [PAWN_possessive] hands-on industrial skills daily - and wasn't bad in a bar fight either. -->
+  <DeepSpaceMiner3.baseDesc>{PAWN_gender ? [PAWN_nameDef] a făcut munca asudată și murdară de a scoate metalul din asteroizi pe o platformă spațială de mare adâncime. Își folosea zilnic abilitățile industriale practice - și nu era rău nici într-o bătaie de bar. : [PAWN_nameDef] a făcut munca transpirată și murdară de a scoate metalul din asteroizi pe o platformă spațială. Își folosea zilnic abilitățile industriale practice - și nu era rea nici într-o bătaie de bar.}\n</DeepSpaceMiner3.baseDesc>
+  <!-- EN: deep space miner -->
+  <DeepSpaceMiner3.title>miner de spațiu adânc</DeepSpaceMiner3.title>
+  <!-- EN: miner -->
+  <DeepSpaceMiner3.titleShort>miner</DeepSpaceMiner3.titleShort>
+  <DeepSpaceMiner3.titleShortFemale>mineră</DeepSpaceMiner3.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did menial, unskilled work in an industrial factory. [PAWN_possessive] job also included caring for the mules and horses which transported the goods. -->
+  <FactoryWorker58.baseDesc>{PAWN_gender ? [PAWN_nameDef] a făcut o muncă de jos, necalificată, într-o fabrică industrială. Munca sa includea, de asemenea, îngrijirea catâinilor și a cailor care transportau mărfurile. : [PAWN_nameDef] făcea munci umile, necalificate, într-o fabrică industrială, iar munca ei includea și îngrijirea catâinilor și a cailor care transportau mărfurile.}\n</FactoryWorker58.baseDesc>
+  <!-- EN: factory worker -->
+  <FactoryWorker58.title>muncitor la fabrică</FactoryWorker58.title>
+  <FactoryWorker58.titleFemale>muncitoare de fabrică</FactoryWorker58.titleFemale>
+  <!-- EN: worker -->
+  <FactoryWorker58.titleShort>muncitor</FactoryWorker58.titleShort>
+  <FactoryWorker58.titleShortFemale>muncitoare</FactoryWorker58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] turned out to have an excellent memory and a gift for performing complex calculations in [PAWN_possessive] head. An industrial-world dictator decided to employ [PAWN_nameDef] to keep track of [PAWN_possessive] state's finances and expenditure. -->
+  <HumanComputer83.baseDesc>{PAWN_gender ? [PAWN_nameDef] s-a dovedit a avea o memorie excelentă și un dar pentru a efectua calcule complexe în minte. Un dictator din lumea industrială a decis să-l angajeze pe [PAWN_nameDef] pentru a ține evidența finanțelor și cheltuielilor statului său. : [PAWN_nameDef] s-a dovedit a avea o memorie excelentă și un dar pentru a efectua calcule complexe în minte. Un dictator din lumea industrială a decis să o angajeze pe [PAWN_nameDef] pentru a ține evidența finanțelor și cheltuielilor statului său.}\n</HumanComputer83.baseDesc>
+  <!-- EN: human computer -->
+  <HumanComputer83.title>calculator uman</HumanComputer83.title>
+  <HumanComputer83.titleFemale>calculatoare umană</HumanComputer83.titleFemale>
+  <!-- EN: computer -->
+  <HumanComputer83.titleShort>calculator</HumanComputer83.titleShort>
+  <HumanComputer83.titleShortFemale>calculatoare</HumanComputer83.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked in an urbworld lab developing cutting-edge joywire software to maximize user pleasure.\n\nWhen the local government imposed harsh restrictions on joywire manufacturing, [PAWN_pronoun] began selling [PAWN_possessive] products on the black market. -->
+  <JoywireArtist8.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat într-un laborator urbworld dezvoltând un software de ultimă generație pentru a maximiza plăcerea utilizatorului.\n\nCând guvernul local a impus restricții severe asupra producției de joywire, a început să-și vândă produsele pe piața neagră. : [PAWN_nameDef] a lucrat într-un laborator urbworld dezvoltând un software de ultimă generație pentru a maximiza plăcerea utilizatorului.\n\nCând guvernul local a impus restricții severe asupra producției de joywire, [PAWN_nameDef] a început să-și vândă produsele pe piața neagră.}\n</JoywireArtist8.baseDesc>
+  <!-- EN: joywire artist -->
+  <JoywireArtist8.title>creator de implanturi de fericire</JoywireArtist8.title>
+  <JoywireArtist8.titleFemale>creatoare de implanturi de fericire</JoywireArtist8.titleFemale>
+  <!-- EN: joywirer -->
+  <JoywireArtist8.titleShort>creator virtual</JoywireArtist8.titleShort>
+  <JoywireArtist8.titleShortFemale>creatoare virtuală</JoywireArtist8.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a high-ranking member of an urbworld crime syndicate.\n\n[PAWN_pronoun] bribed officials, maintained the loyalty of [PAWN_possessive] subordinates, and extracted overdue payments - by any means necessary. -->
+  <MafiaBoss17.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost un membru de rang înalt al unui sindicat al crimei din lumea urbană.\n\nEl a mituit oficiali, a menținut loialitatea subordonaților săi și a obținut plăți întârziate - prin orice mijloace necesare. : [PAWN_nameDef] a fost un membru de rang înalt al unui sindicat al crimei din lumea urbană.\n\nMita funcționari, menținea loialitatea subordonaților ei și extrăgea plăți restante - prin orice mijloace necesare.}\n</MafiaBoss17.baseDesc>
+  <!-- EN: mafia boss -->
+  <MafiaBoss17.title>șef al mafiei</MafiaBoss17.title>
+  <MafiaBoss17.titleFemale>șefă a mafiei</MafiaBoss17.titleFemale>
+  <!-- EN: boss -->
+  <MafiaBoss17.titleShort>șef</MafiaBoss17.titleShort>
+  <MafiaBoss17.titleShortFemale>șefă</MafiaBoss17.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] adult life in an insane asylum. [PAWN_possessive] industrial homeworld had a poor understanding of mental illness, and [PAWN_pronoun] was treated more like an animal than a person.\n\nThough [PAWN_pronoun] eventually recovered and was released, [PAWN_possessive] experience dampened many of [PAWN_possessive] basic life skills. -->
+  <PsychiatricPatient94.baseDesc>{PAWN_gender ? [PAWN_nameDef] și-a petrecut cea mai mare parte a vieții adulte într-un azil de nebuni. Lumea sa natală industrială nu înțelegea prea bine bolile mintale, iar [PAWN_nameDef] a fost tratat mai mult ca un animal decât ca o persoană.\n\nDeși în cele din urmă și-a revenit și a fost eliberat, experiența sa i-a afectat multe dintre abilitățile sale de bază de viață. : [PAWN_nameDef] și-a petrecut cea mai mare parte a vieții de adult într-un azil de nebuni. Lumea ei natală industrială nu înțelegea prea bine bolile mintale, iar ea a fost tratată mai mult ca un animal decât ca o persoană.\n\nDeși în cele din urmă și-a revenit și a fost eliberată, experiența ei i-a afectat multe dintre abilitățile de bază de viață.}\n</PsychiatricPatient94.baseDesc>
+  <!-- EN: psychiatric patient -->
+  <PsychiatricPatient94.title>pacient psihiatric</PsychiatricPatient94.title>
+  <!-- EN: patient -->
+  <PsychiatricPatient94.titleShort>pacient</PsychiatricPatient94.titleShort>
+  <PsychiatricPatient94.titleShortFemale>pacientă</PsychiatricPatient94.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was the law enforcer in an isolated industrial town. [PAWN_pronoun] dealt with petty crime, dispute resolution, and the occasional drunken saloon shootout. -->
+  <Sheriff52.baseDesc>{PAWN_gender ? [PAWN_nameDef] era omul legii într-un oraș industrial izolat. Se ocupa de infracțiuni minore, de rezolvarea disputelor și, ocazional, de împușcăturile ocazionale din saloanele bețivilor. : [PAWN_nameDef] a fost polițist într-un oraș industrial izolat. Ea se ocupa de infracțiuni minore, de rezolvarea disputelor și, ocazional, de împușcăturile ocazionale din saloanele bețivilor.}\n</Sheriff52.baseDesc>
+  <!-- EN: sheriff -->
+  <Sheriff52.title>șerif</Sheriff52.title>
+  <!-- EN: sheriff -->
+  <Sheriff52.titleShort>șerif</Sheriff52.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] joined the space navy in an unstable system, fraught with large-scale interplanetary wars. [PAWN_pronoun] turned out to have a sharp mind for battle, and became adept at commanding combat units to great effect. -->
+  <SpaceTactician28.baseDesc>{PAWN_gender ? [PAWN_nameDef] s-a alăturat marinei spațiale într-un sistem instabil, plin de războaie interplanetare de mare amploare. S-a dovedit a avea o minte ascuțită pentru luptă și a devenit expert în a comanda unități de luptă cu mare efect. : [PAWN_nameDef] s-a alăturat marinei spațiale într-un sistem instabil, plin de războaie interplanetare pe scară largă. S-a dovedit a avea o minte ascuțită pentru luptă și a devenit pricepută în a comanda unități de luptă cu mare efect.}\n</SpaceTactician28.baseDesc>
+  <!-- EN: space tactician -->
+  <SpaceTactician28.title>tactician spațial</SpaceTactician28.title>
+  <!-- EN: tactician -->
+  <SpaceTactician28.titleShort>tactician</SpaceTactician28.titleShort>
+  
+  <!-- EN: While other passengers pass the years between star systems in cryptosleep sarcophagi, [PAWN_nameDef] had to wake up at periodic intervals to perform inspections, check the navigation systems, and to oil the mechanoids. -->
+  <StarshipJanitor33.baseDesc>{PAWN_gender ? În timp ce alți pasageri petrec anii dintre sistemele stelare în sarcofage criptosomnale, [PAWN_nameDef] trebuia să se trezească la intervale periodice pentru a efectua inspecții, a verifica sistemele de navigație și a unge mecanoizii. : În timp ce alți pasageri petrec anii dintre sistemele stelare în sarcofage criptosomnale, [PAWN_nameDef] trebuia să se trezească la intervale periodice pentru a efectua inspecții, a verifica sistemele de navigație și a unge mecanoizii.}\n</StarshipJanitor33.baseDesc>
+  <!-- EN: starship janitor -->
+  <StarshipJanitor33.title>om de serviciu de navă stelară</StarshipJanitor33.title>
+  <StarshipJanitor33.titleFemale>dnă de serviciu de navă stelară</StarshipJanitor33.titleFemale>
+  <!-- EN: janitor -->
+  <StarshipJanitor33.titleShort>om de serviciu</StarshipJanitor33.titleShort>
+  <StarshipJanitor33.titleShortFemale>dnă de serviciu</StarshipJanitor33.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] travelled between star systems, studying and classifying the plant and animal life [PAWN_pronoun] found in the hopes of creating a complete catalogue. -->
+  <Taxonomist0.baseDesc>{PAWN_gender ? [PAWN_nameDef] a călătorit între sistemele stelare, studiind și clasificând viața vegetală și animală pe care o găsea în speranța de a crea un catalog complet. : [PAWN_nameDef] a călătorit între sistemele stelare, studiind și clasificând viața vegetală și animală pe care o găsea în speranța de a crea un catalog complet.}\n</Taxonomist0.baseDesc>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.title>taxonomist</Taxonomist0.title>
+  <Taxonomist0.titleFemale>taxonomistă</Taxonomist0.titleFemale>
+  <!-- EN: taxonomist -->
+  <Taxonomist0.titleShort>taxonomist</Taxonomist0.titleShort>
+  <Taxonomist0.titleShortFemale>taxonomistă</Taxonomist0.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a mindless construction drone on a massive urbworld. Though [PAWN_pronoun] is now freed from the brutal social experiments to which [PAWN_pronoun] was subjected, [PAWN_pronoun] remains incapable of creative thought and leadership. -->
+  <UrbworldDrone32.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat ca o dronă de construcții fără minte pe o imensă lume urbană. Deși acum este eliberat de experimentele sociale brutale la care a fost supus, el rămâne incapabil de gândire creativă și de conducere. : [PAWN_nameDef] a lucrat ca o dronă de construcții fără minte pe o imensă lume urbană. Deși acum este eliberată de experimentele sociale brutale la care a fost supusă, ea rămâne incapabilă de gândire creativă și de conducere.}\n</UrbworldDrone32.baseDesc>
+  <!-- EN: urbworld drone -->
+  <UrbworldDrone32.title>dronă urbană</UrbworldDrone32.title>
+  <!-- EN: drone -->
+  <UrbworldDrone32.titleShort>dronă</UrbworldDrone32.titleShort>
+  
+  <!-- EN: In the urbworlds, most suffer. But someone has to run the corporations.\n\n[PAWN_nameDef] learned the skills of the trade - greasing palms and technical analysis. [PAWN_pronoun] is a sociointellectual machine. -->
+  <UrbworldEntrepreneur14.baseDesc>{PAWN_gender ? În lumea urbană, majoritatea suferă. Dar cineva trebuie să conducă corporațiile.\n\n[PAWN_nameDef] a învățat abilitățile meseriei - ungerea palmelor și analiza tehnică. El este o mașinărie socio-intelectuală. : În lumea urbană, majoritatea suferă. Dar cineva trebuie să conducă corporațiile.\n\n[PAWN_nameDef] a învățat abilitățile meseriei - ungerea palmelor și analiza tehnică. Ea este o mașinărie socio-intelectuală.}\n</UrbworldEntrepreneur14.baseDesc>
+  <!-- EN: urbworld entrepreneur -->
+  <UrbworldEntrepreneur14.title>antreprenor urban</UrbworldEntrepreneur14.title>
+  <UrbworldEntrepreneur14.titleFemale>antreprenoră urbană</UrbworldEntrepreneur14.titleFemale>
+  <!-- EN: entrepreneur -->
+  <UrbworldEntrepreneur14.titleShort>antreprenor</UrbworldEntrepreneur14.titleShort>
+  <UrbworldEntrepreneur14.titleShortFemale>antreprenoară</UrbworldEntrepreneur14.titleShortFemale>
+  
+  <!-- EN: Most of the people on [PAWN_nameDef]'s world gave up their individuality to join together in an online hivemind. [PAWN_nameDef] joined a rebel faction that rejected technology entirely. -->
+  <UrbworldRebel56.baseDesc>{PAWN_gender ? Majoritatea oamenilor din lumea lui [PAWN_nameDef] au renunțat la individualitatea lor pentru a se uni într-un grup online. [PAWN_nameDef] s-a alăturat unei facțiuni rebele care a respins complet tehnologia. : Majoritatea oamenilor din lumea lui [PAWN_nameDef] au renunțat la individualitatea lor pentru a se uni într-o minte de stup online. [PAWN_nameDef] s-a alăturat unei facțiuni rebele care a respins complet tehnologia.}\n</UrbworldRebel56.baseDesc>
+  <!-- EN: urbworld rebel -->
+  <UrbworldRebel56.title>rebel urban</UrbworldRebel56.title>
+  <!-- EN: rebel -->
+  <UrbworldRebel56.titleShort>rebel</UrbworldRebel56.titleShort>
+  
+</LanguageData>

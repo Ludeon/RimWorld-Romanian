@@ -20,10 +20,14 @@
   <GrandThrone.label>tron de meditație grandios</GrandThrone.label>
   <!-- EN: A massive, ornate chair, designed for a dignity-focused psycaster to sit and meditate. Reigning on a throne is a form of meditation that builds up psyfocus. For dignity psycasters, more impressive meditation thrones and thronerooms increase the rate of psyfocus gain. -->
   <GrandThrone.description>Un scaun masiv, împodobit, conceput pentru ca un psycaster axat pe demnitate să se așeze și să mediteze. A domni pe un tron este o formă de meditație care dezvoltă psihofocalizarea. Pentru psycasterii cu demnitate, tronurile de meditație și camerele de tron mai impresionante cresc rata de câștig de psyfocus.</GrandThrone.description>
+  <!-- EN: Throne ownership requires a person with a royal title. -->
+  <GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>TODO</GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
   
   <!-- EN: meditation throne -->
   <Throne.label>tron de meditație</Throne.label>
   <!-- EN: A large, ornate chair designed for a dignity-focused psycaster to sit and meditate. Reigning on a throne is a form of meditation that builds up psyfocus. For dignity psycasters, more impressive meditation thrones and thronerooms increase the rate of psyfocus gain. -->
   <Throne.description>Un scaun mare, ornamentat, conceput pentru ca un psycaster axat pe demnitate să stea și să mediteze. A domni pe un tron este o formă de meditație care acumulează psyfocus. Pentru psycasterii cu demnitate, tronurile de meditație și camerele de tron mai impresionante cresc rata de câștig de psyfocus.</Throne.description>
+  <!-- EN: Throne ownership requires a person with a royal title. -->
+  <Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>TODO</Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
   
 </LanguageData>

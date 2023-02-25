@@ -11,11 +11,6 @@
   <!-- EN: Psychically-induced feelings of warmth, comfort, and acceptance. This improves mood, but the lack of negative stimulation induces a mild stupor and reduces consciousness. -->
   <Joyfuzz.description>Sentimente de căldură, confort și acceptare induse psihic. Aceasta îmbunătățește starea de spirit, dar lipsa stimulării negative induce o ușoară stupoare și reduce starea de conștiență.</Joyfuzz.description>
   
-  <!-- EN: psylink -->
-  <PsychicAmplifier.label>psylink</PsychicAmplifier.label>
-  <!-- EN: An organic connection to a larger psychic field. This allows a person to use specific psychic powers that they have learned to influence reality in ways that seem impossible.\n\nHigher levels of psylink permit the use of more powers. Regardless of psylink level, a person can only use specific powers that they have learned.\n\nPsylink comes from a variety of sources. Single-use psylink neuroformer devices can create a psylink. Tribal peoples also know how to develop it through ritual linking with psychically-connected lifeforms.\n\nAs a physical phenomenon in the brain, psylink is poorly-understood by scientists, not least because it seems to actively conceal itself if studied too closely. One thing most agree on is that it somehow connects people to archotechs and harnesses their power, possibly through some sort of negotiation or sympathy mechanism. -->
-  <PsychicAmplifier.description>O conexiune organică la un câmp psihic mai mare. Acest lucru permite unei persoane să folosească anumite puteri psihice pe care le-a învățat pentru a influența realitatea în moduri care par imposibile.\n\nNiveluri mai ridicate de psylink permit folosirea mai multor puteri. Indiferent de nivelul psylink, o persoană poate folosi doar puterile specifice pe care le-a învățat.\n\nPylink provine dintr-o varietate de surse. Dispozitivele neuroformatoare psylink de unică folosință pot crea un psylink. Popoarele tribale știu, de asemenea, cum să o dezvolte prin legături rituale cu forme de viață conectate psihic.\n\nÎn calitate de fenomen fizic în creier, psylink-ul este slab înțeles de oamenii de știință, nu în ultimul rând pentru că pare să se ascundă în mod activ dacă este studiat prea îndeaproape. Un lucru asupra căruia cei mai mulți sunt de acord este faptul că conectează cumva oamenii cu arhetipurile și le exploatează puterea, posibil printr-un mecanism de negociere sau de simpatie.</PsychicAmplifier.description>
-  
   <!-- EN: psychic anesthesia -->
   <PsychicAnesthesia.label>anestezie psihică</PsychicAnesthesia.label>
   <!-- EN: Psychically-induced pain insensitivity. -->
@@ -44,8 +39,10 @@
   
   <!-- EN: neural heat -->
   <PsychicEntropy.label>căldură neuronală</PsychicEntropy.label>
-  <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which is built up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage. -->
+  <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which builds up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage. -->
   <PsychicEntropy.description>În ciuda faptului că este numită "căldură", căldura neuronală nu este o măsură a temperaturii. Ea se referă la un tip de energie psihică haotică din minte, care se acumulează atunci când se folosesc puterile psihice și se disipează în decursul a câteva secunde sau minute.\n\nDacă căldura neurală este împinsă dincolo de limitele normale, poate provoca o cădere psihică temporară și pierderea cunoștinței din cauza șocului psihic. Aceste condiții nu provoacă daune permanente.</PsychicEntropy.description>
+  <!-- EN: Chaotic energy in the mind which builds up when using psychic powers. If pushed past normal limits, it may cause psychic breakdown and unconsciousness. -->
+  <PsychicEntropy.descriptionShort>TODO</PsychicEntropy.descriptionShort>
   <!-- EN: safe -->
   <PsychicEntropy.stages.safe.label>sigură</PsychicEntropy.stages.safe.label>
   <!-- EN: overloaded -->
@@ -59,7 +56,7 @@
   
   <!-- EN: psychic focus -->
   <PsychicFocus.label>focalizare psihică</PsychicFocus.label>
-  <!-- EN: Psychically-induced mental focus, increasing sight, hearing and movement capactities. -->
+  <!-- EN: Psychically-induced mental focus, increasing sight, hearing and movement capacities. -->
   <PsychicFocus.description>Focalizare mentală indusă psihic, care crește capacitățile de vedere, auz și mișcare.</PsychicFocus.description>
   
   <!-- EN: psychic invisibility -->
@@ -69,7 +66,7 @@
   
   <!-- EN: psychic love -->
   <PsychicLove.label>dragoste psihică</PsychicLove.label>
-  <!-- EN: Psychically-induced romantic desire. This increases an individual's opinion of someone else, and increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup. -->
+  <!-- EN: Psychically-induced adoration. This increases an individual's opinion of someone else, and between adults increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup. -->
   <PsychicLove.description>Dorință romantică indusă psihic. Acest lucru sporește părerea unui individ despre o altă persoană și crește probabilitatea unor avansuri romantice și a unor cereri în căsătorie, reducând în același timp șansele unei despărțiri.</PsychicLove.description>
   <!-- EN: for -->
   <PsychicLove.targetPrefix>pentru</PsychicLove.targetPrefix>

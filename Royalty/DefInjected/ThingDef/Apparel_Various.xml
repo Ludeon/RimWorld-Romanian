@@ -12,6 +12,8 @@
   <Apparel_ArmorCataphractPhoenix.description>O variantă a armurii cataphract cu un lansator de flăcări montat pe umăr. Această armură este puțin mai puțin protectoare decât armura cataphract standard împotriva daunelor normale, dar este deosebit de rezistentă la flăcări. Lansatorul de flăcări are o muniție foarte limitată și trebuie reîncărcată după utilizare.\n\nPhoenixii sunt specializați în curățarea spațiilor foarte înguste pline de inamici, ca în operațiunile subterane sau pe navă. Ei pot absorbi lovituri în timp ce se deplasează pe un coridor, pot umple încăperile cu flăcări și pot ieși din fum nevătămați.</Apparel_ArmorCataphractPhoenix.description>
   <!-- EN: incendiary -->
   <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>incendiară</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.cooldownGerund>TODO</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.cooldownGerund>
   <!-- EN: launch incendiary -->
   <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>lansare incendiară</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
   
@@ -41,6 +43,8 @@
   <Apparel_ArmorLocust.description>O variantă de armură de recunoaștere cu o rachetă de explozie integrată pentru zboruri de scurtă distanță. Armura Locust este puțin mai puțin protectoare decât armura de recunoaștere standard. Fiecare salt consumă o rafală de combustibil, așa că armura trebuie reîncărcată după mai multe utilizări.\n\nÎn comparație cu majoritatea unităților militare ultratehnice, lăcustele se antrenează în principal cu arme de luptă corp la corp. De obicei evită împușcăturile statice, preferând să sară direct în fortificațiile inamice și să lupte corp la corp. Se descurcă prost în apărarea statică sau în spații închise, dar excelează în operațiuni mixte de acoperire sau de spargere a navelor.</Apparel_ArmorLocust.description>
   <!-- EN: jump -->
   <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>salt</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_ArmorLocust.comps.CompReloadable.cooldownGerund>TODO</Apparel_ArmorLocust.comps.CompReloadable.cooldownGerund>
   <!-- EN: jump -->
   <Apparel_ArmorLocust.verbs.jump.label>salt</Apparel_ArmorLocust.verbs.jump.label>
   
@@ -50,6 +54,8 @@
   <Apparel_ArmorMarineGrenadier.description>O variantă de armură marinărească cu un lansator de fragmente integrat pe umăr. Armura este puțin mai puțin protectoare decât armura marinărească standard. Lansatorul poate conține doar o cantitate limitată de muniție și trebuie reîncărcat după folosire.\n\nGrenadierii sunt de obicei specializați în spargerea clădirilor sau a pereților interiori ai navelor. Deși nu sunt eficienți la distanțe foarte mari, grenadierii pot fi surprinzător de letali în spații restrânse.</Apparel_ArmorMarineGrenadier.description>
   <!-- EN: grenade -->
   <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>grenadă</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.cooldownGerund>TODO</Apparel_ArmorMarineGrenadier.comps.CompReloadable.cooldownGerund>
   <!-- EN: launch frag grenade -->
   <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>lansare grenadă frag</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
   

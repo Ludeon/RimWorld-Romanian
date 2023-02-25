@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psylink -->
+  <PsychicAmplifier.label>psylink</PsychicAmplifier.label>
+  <!-- EN: An organic connection to a larger psychic field. This allows a person to psychically induce a distant archotech superintelligence to influence reality in ways that seem impossible.\n\nHigher levels of psylink permit the use of more powers. Regardless of psylink level, a person can only use specific powers that they have learned.\n\nPsylink comes from a variety of sources. Single-use psylink neuroformer devices can create a psylink. Tribal peoples also know how to develop it through ritual linking with the legendary anima tree.\n\nAs a physical phenomenon in the brain, psylink is poorly-understood by scientists, not least because it seems to actively conceal itself if studied too closely. One thing most agree on is that it somehow connects people to archotechs and harnesses their power, possibly through some sort of negotiation or sympathy mechanism. -->
+  <PsychicAmplifier.description>O conexiune organică la un câmp psihic mai mare. Acest lucru permite unei persoane să folosească anumite puteri psihice pe care le-a învățat pentru a influența realitatea în moduri care par imposibile.\n\nNiveluri mai ridicate de psylink permit folosirea mai multor puteri. Indiferent de nivelul psylink, o persoană poate folosi doar puterile specifice pe care le-a învățat.\n\nPylink provine dintr-o varietate de surse. Dispozitivele neuroformatoare psylink de unică folosință pot crea un psylink. Popoarele tribale știu, de asemenea, cum să o dezvolte prin legături rituale cu forme de viață conectate psihic.\n\nÎn calitate de fenomen fizic în creier, psylink-ul este slab înțeles de oamenii de știință, nu în ultimul rând pentru că pare să se ascundă în mod activ dacă este studiat prea îndeaproape. Un lucru asupra căruia cei mai mulți sunt de acord este faptul că conectează cumva oamenii cu arhetipurile și le exploatează puterea, posibil printr-un mecanism de negociere sau de simpatie.</PsychicAmplifier.description>
+  <!-- EN: Allows a person to psychically-induce an archotech to influence reality in ways that seem impossible. Higher levels of psylink permit the use of more powers. -->
+  <PsychicAmplifier.descriptionShort>TODO</PsychicAmplifier.descriptionShort>
+  
+</LanguageData>

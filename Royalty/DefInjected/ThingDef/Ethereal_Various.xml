@@ -12,9 +12,6 @@
   <!-- EN: Marks the place where you intend to build a monument. Once placed, this cannot be moved. -->
   <MonumentMarker.description>Marchează locul în care intenționați să construiți un monument. Odată plasat, acesta nu poate fi mutat.</MonumentMarker.description>
   
-  <!-- EN: flying -->
-  <PawnJumper.label>zburător</PawnJumper.label>
-  
   <!-- EN: solar pinhole -->
   <SolarPinhole.label>gaură solară</SolarPinhole.label>
   

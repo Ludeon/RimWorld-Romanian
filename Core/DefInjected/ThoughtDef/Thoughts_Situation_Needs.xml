@@ -122,11 +122,11 @@
   
   <!-- EN: just outdoors -->
   <NeedIndoors.stages.just_outdoors.label>doar în aer liber</NeedIndoors.stages.just_outdoors.label>
-  <!-- EN: I shouldn’t be outdoors. -->
+  <!-- EN: I shouldn't be outdoors. -->
   <NeedIndoors.stages.just_outdoors.description>Nu ar trebui să fiu în aer liber.</NeedIndoors.stages.just_outdoors.description>
   <!-- EN: outdoors -->
   <NeedIndoors.stages.outdoors.label>în aer liber</NeedIndoors.stages.outdoors.label>
-  <!-- EN: I’ve been outside too much recently. -->
+  <!-- EN: I've been outside too much recently. -->
   <NeedIndoors.stages.outdoors.description>Am stat prea mult afară în ultima vreme.</NeedIndoors.stages.outdoors.description>
   <!-- EN: long outdoors -->
   <NeedIndoors.stages.long_outdoors.label>mult timp în aer liber</NeedIndoors.stages.long_outdoors.label>
@@ -134,7 +134,7 @@
   <NeedIndoors.stages.long_outdoors.description>Să stau atât de mult afară nu e bine pentru mine.</NeedIndoors.stages.long_outdoors.description>
   <!-- EN: very long outdoors -->
   <NeedIndoors.stages.very_long_outdoors.label>foarte mult timp în aer liber</NeedIndoors.stages.very_long_outdoors.label>
-  <!-- EN: I’ve been outside way too much recently. This open space is so disturbing. -->
+  <!-- EN: I've been outside way too much recently. This open space is so disturbing. -->
   <NeedIndoors.stages.very_long_outdoors.description>Am stat mult prea mult afară în ultima vreme. Acest spațiu deschis este atât de tulburător.</NeedIndoors.stages.very_long_outdoors.description>
   <!-- EN: brutal outdoors -->
   <NeedIndoors.stages.brutal_outdoors.label>brutal de mult în aer liber</NeedIndoors.stages.brutal_outdoors.label>

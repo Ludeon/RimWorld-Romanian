@@ -10,7 +10,7 @@
   
   <!-- EN: berserk trance -->
   <BerserkTrance.label>transă berserk</BerserkTrance.label>
-  <!-- EN: The caster fills himself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
+  <!-- EN: The caster fills themself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
   <BerserkTrance.description>Casterul se umple de furie din cauza unor nemulțumiri ideologice. Acest lucru îi întărește corpul dincolo de limitele normale, dar înseamnă și pierderea controlului și atacarea oricărui inamic din apropiere într-o furie de neoprit. Starea de berserk va dura 3 ore.</BerserkTrance.description>
   
   <!-- EN: combat command -->

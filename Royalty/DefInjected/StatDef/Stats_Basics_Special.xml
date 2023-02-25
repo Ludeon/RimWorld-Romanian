@@ -3,7 +3,7 @@
   
   <!-- EN: meditation plant growth offset -->
   <MeditationPlantGrowthOffset.label>decalaj de creștere a plantelor de meditație</MeditationPlantGrowthOffset.label>
-  <!-- EN: An offset applied to the growth rate of plants, like anima grass, from meditation. This value can change based on the number of artifical buildings nearby. -->
+  <!-- EN: An offset applied to the growth rate of plants, like anima grass, from meditation. This value can change based on the number of artificial buildings nearby. -->
   <MeditationPlantGrowthOffset.description>Un decalaj aplicat la rata de creștere a plantelor, cum ar fi iarba anima, din meditație. Această valoare se poate modifica în funcție de numărul de clădiri artificiale din apropiere.</MeditationPlantGrowthOffset.description>
   
 </LanguageData>

@@ -7,6 +7,8 @@
   <Apparel_PackBroadshield.description>Un proiector cu scut-jos de unică folosință, portabil pentru om. Desfășurat la sol, generează un scut circular care permite gloanțelor să iasă, dar nu și să intre. Unitatea este concepută să dureze doar o perioadă scurtă de timp înainte de a se consuma.\n\nMulte escadroane de luptă ultratehnice își datorează viața unui pachet de scut desfășurat la momentul potrivit.</Apparel_PackBroadshield.description>
   <!-- EN: shield -->
   <Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>scut</Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_PackBroadshield.comps.CompReloadable.cooldownGerund>TODO</Apparel_PackBroadshield.comps.CompReloadable.cooldownGerund>
   <!-- EN: deploy low-shield -->
   <Apparel_PackBroadshield.verbs.deploy_lowshield.label>pune în funcțiune un scut-jos</Apparel_PackBroadshield.verbs.deploy_lowshield.label>
   
@@ -16,6 +18,8 @@
   <Apparel_PackJump.description>O rachetă cu explozie pentru o singură persoană pentru zboruri cu rază scurtă de acțiune. Cu hamul său integrat și asistentul de ghidare, pachetul de salt permite oricui să sară distanțe lungi la viteză mare, chiar și peste obstacole. Trebuie reîncărcată după mai multe utilizări.\n\nCâteva armate de tehnologie spațială au specialiști în lupta corp la corp care folosesc pachetele de salt pentru a ocoli obstacolele și a se apropia rapid de inamic.</Apparel_PackJump.description>
   <!-- EN: jump -->
   <Apparel_PackJump.comps.CompReloadable.chargeNoun>salt</Apparel_PackJump.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_PackJump.comps.CompReloadable.cooldownGerund>TODO</Apparel_PackJump.comps.CompReloadable.cooldownGerund>
   <!-- EN: jump -->
   <Apparel_PackJump.verbs.jump.label>salt</Apparel_PackJump.verbs.jump.label>
   

@@ -43,11 +43,11 @@
   <!-- EN: Installing coagulator. -->
   <InstallCoagulator.jobString>Instalarea coagulatorului.</InstallCoagulator.jobString>
   
-  <!-- EN: install detoxifier stomach -->
+  <!-- EN: install sterilizing stomach -->
   <InstallDetoxifierStomach.label>instalează un stomac detoxifiant</InstallDetoxifierStomach.label>
-  <!-- EN: Install a detoxifier stomach. -->
+  <!-- EN: Install a sterilizing stomach. -->
   <InstallDetoxifierStomach.description>Instalați un stomac detoxifiant.</InstallDetoxifierStomach.description>
-  <!-- EN: Installing detoxifier stomach. -->
+  <!-- EN: Installing sterilizing stomach. -->
   <InstallDetoxifierStomach.jobString>Instalarea unui stomac detoxifiant.</InstallDetoxifierStomach.jobString>
   
   <!-- EN: install gastro-analyzer -->

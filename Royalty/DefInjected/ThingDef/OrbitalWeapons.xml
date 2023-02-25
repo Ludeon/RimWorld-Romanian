@@ -7,6 +7,8 @@
   <OrbitalTargeterMechCluster.description>Un dispozitiv militar antic de țintire. Semnalizează unei platforme orbitale să arunce un grup de luptă mecanoid în punctul vizat. Gruparea poate include orice amestec de mecanoizi și structuri de apărare mecanoide.\n\nDeși este posibil ca aceștia să fi avut cândva o oarecare loialitate față de armata antică care a creat această unitate, orice mecanoizi lansați acum vor ataca fără discriminare orice om pe care îl văd - inclusiv pe cel care i-a chemat.\n\nUnitatea conține doar un singur cod de utilizare, deci poate fi folosită o singură dată.</OrbitalTargeterMechCluster.description>
   <!-- EN: charge -->
   <OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>încărcare</OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OrbitalTargeterMechCluster.comps.CompReloadable.cooldownGerund>TODO</OrbitalTargeterMechCluster.comps.CompReloadable.cooldownGerund>
   <!-- EN: orbital mech cluster targeter -->
   <OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>țintator de orbital mech cluster</OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>
   

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a noble family's manor in the outer country. [PAWN_possessive] early years were full of lessons in horseback riding, politics, and religion.\n\n[PAWN_nameDef] and [PAWN_possessive] friends found many ways to break the rules and have fun in the fields and forests. -->
+  <CountryLordling92.baseDesc>{PAWN_gender ? [PAWN_nameDef] a crescut în conacul unei familii nobile din afara țării. Primii săi ani au fost plini de lecții de călărie, politică și religie.\n\n[PAWN_nameDef] și prietenii săi au găsit multe modalități de a încălca regulile și de a se distra pe câmp și în păduri. : [PAWN_nameDef] a crescut în conacul unei familii nobile din afara țării. primii ei ani au fost plini de lecții de călărie, politică și religie.\n\n[PAWN_nameDef] și prietenii ei au găsit multe modalități de a încălca regulile și de a se distra pe câmpuri și în păduri.}\n</CountryLordling92.baseDesc>
+  <!-- EN: country lordling -->
+  <CountryLordling92.title>boier</CountryLordling92.title>
+  <!-- EN: country lady -->
+  <CountryLordling92.titleFemale>boieră</CountryLordling92.titleFemale>
+  <!-- EN: field lord -->
+  <CountryLordling92.titleShort>boier</CountryLordling92.titleShort>
+  <!-- EN: field lady -->
+  <CountryLordling92.titleShortFemale>boieră</CountryLordling92.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s parents did not want another heir. Fearing a succession fight, they decided to neutralize [PAWN_objective] early.\n\nThey pampered [PAWN_nameDef] from birth, preventing [PAWN_objective] from developing the grit or knowledge necessary to be a threat to their favored son. [PAWN_nameDef] learned little more than how to manipulate the royal staff to get more food. -->
+  <PamperedLordling37.baseDesc>{PAWN_gender ? Părinții lui [PAWN_nameDef] nu doreau un alt moștenitor. Temându-se de o luptă pentru succesiune, au decis să-l neutralizeze din timp.\n\nL-au răsfățat pe [PAWN_nameDef] de la naștere, împiedicându-l să dezvolte curajul sau cunoștințele necesare pentru a fi o amenințare pentru fiul lor preferat. [PAWN_nameDef] a învățat puțin mai mult decât cum să manipuleze personalul regal pentru a obține mai multă mâncare. : Părinții lui [PAWN_nameDef] nu doreau un alt moștenitor. Temându-se de o luptă pentru succesiune, au decis să o neutralizeze din timp.\n\nAu răsfățat-o pe [PAWN_nameDef] de la naștere, împiedicând-o să dezvolte curajul sau cunoștințele necesare pentru a fi o amenințare pentru fiul lor preferat. [PAWN_nameDef] a învățat puțin mai mult decât cum să manipuleze personalul regal pentru a obține mai multă mâncare.}\n</PamperedLordling37.baseDesc>
+  <!-- EN: pampered lordling -->
+  <PamperedLordling37.title>prinț răsfățat</PamperedLordling37.title>
+  <!-- EN: pampered princess -->
+  <PamperedLordling37.titleFemale>prințesă răsfățată</PamperedLordling37.titleFemale>
+  <!-- EN: pampered -->
+  <PamperedLordling37.titleShort>răsfățat</PamperedLordling37.titleShort>
+  <PamperedLordling37.titleShortFemale>răsfățată</PamperedLordling37.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s family held their power base on a grand, ancient starship. Born and raised on the ship, [PAWN_nameDef] learned all about the rigors of shipboard life, and the politics and methods of interstellar battle and orbital invasion.\n\n[PAWN_pronoun] learned to feel most at home with strong walls close on all sides and the gentle hiss of atmosphere regulators. -->
+  <ShipboundLordling12.baseDesc>{PAWN_gender ? Familia lui [PAWN_nameDef] își deținea baza de putere pe o navă stelară măreață și antică. Născut și crescut pe navă, [PAWN_nameDef] a învățat totul despre rigorile vieții la bordul navei, despre politica și metodele de luptă interstelară și invazie orbitală.\n\nA învățat să se simtă cel mai bine acasă cu ziduri puternice aproape de toate părțile și cu șuieratul blând al regulatorilor atmosferici. : Familia lui [PAWN_nameDef] își deținea baza de putere pe o navă stelară măreață și antică. Născută și crescută pe navă, [PAWN_nameDef] a învățat totul despre rigorile vieții la bordul navei, despre politica și metodele de luptă interstelară și invazie orbitală.\n\nA învățat să se simtă cel mai bine acasă cu ziduri puternice aproape de toate părțile și cu șuieratul blând al regulatorilor atmosferici.}\n</ShipboundLordling12.baseDesc>
+  <!-- EN: shipbound lordling -->
+  <ShipboundLordling12.title>prinț legat de navă</ShipboundLordling12.title>
+  <!-- EN: shipbound lady -->
+  <ShipboundLordling12.titleFemale>prințesă legată de navă</ShipboundLordling12.titleFemale>
+  <!-- EN: ship lord -->
+  <ShipboundLordling12.titleShort>stăpânul navei</ShipboundLordling12.titleShort>
+  <!-- EN: ship lady -->
+  <ShipboundLordling12.titleShortFemale>doamna navei</ShipboundLordling12.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s noble family did not want [PAWN_objective], but could not afford to be seen directly assassinating [PAWN_objective] either. They attempted to get [PAWN_objective] killed by assigning [PAWN_objective] dangerous training without proper protection at too young an age.\n\nAgainst all odds, [PAWN_nameDef] survived the jousting contests, horsewar matches, riverrun competitions and warzones. In the end, it only made [PAWN_objective] stronger. -->
+  <UnwantedSurvivor67.baseDesc>{PAWN_gender ? Familia nobilă a lui [PAWN_nameDef] nu-l dorea, dar nici nu-și putea permite să fie văzută asasinându-l direct. Au încercat să îl ucidă atribuindu-i un antrenament periculos, fără o protecție adecvată, la o vârstă prea fragedă.\n\nÎn ciuda tuturor șanselor, [PAWN_nameDef] a supraviețuit concursurilor de turniruri, meciurilor de război cu cai, competițiilor de alergare pe râu și zonelor de război. În cele din urmă, asta nu a făcut decât să-l facă mai puternic. : Familia nobilă a lui [PAWN_nameDef] nu o dorea, dar nici nu-și putea permite să fie văzută asasinând-o direct. Au încercat să o ucidă, atribuindu-i un antrenament periculos, fără o protecție adecvată, la o vârstă prea fragedă.\n\nÎn ciuda tuturor șanselor, [PAWN_nameDef] a supraviețuit concursurilor de turniruri, meciurilor de război cu cai, competițiilor de riverrun și zonelor de război. În cele din urmă, asta a făcut-o doar mai puternică.}\n</UnwantedSurvivor67.baseDesc>
+  <!-- EN: unwanted survivor -->
+  <UnwantedSurvivor67.title>supraviețuitor nedorit</UnwantedSurvivor67.title>
+  <UnwantedSurvivor67.titleFemale>supraviețuitoare nedorită</UnwantedSurvivor67.titleFemale>
+  <!-- EN: survivor -->
+  <UnwantedSurvivor67.titleShort>supraviețuitor</UnwantedSurvivor67.titleShort>
+  <UnwantedSurvivor67.titleShortFemale>supraviețuitoare</UnwantedSurvivor67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born to a royal house with a grand manor in a great city. [PAWN_pronoun] spent [PAWN_possessive] youth in lessons on politics.\n\nWhenever [PAWN_pronoun] could, [PAWN_pronoun] would escape with [PAWN_possessive] friends to explore the half-built substructure of the metropolis. -->
+  <UrbanLordling82.baseDesc>{PAWN_gender ? [PAWN_nameDef] s-a născut într-o casă regală cu un conac măreț într-un oraș mare. Și-a petrecut tinerețea în lecții de politică.\nCând putea, evada cu prietenii săi pentru a explora substructura pe jumătate construită a metropolei. : [PAWN_nameDef] s-a născut într-o casă regală cu un conac măreț într-un oraș mare. Și-a petrecut tinerețea la lecții de politică.\n\nCând putea, evada cu prietenii ei pentru a explora substructura pe jumătate construită a metropolei.}\n</UrbanLordling82.baseDesc>
+  <!-- EN: urban lordling -->
+  <UrbanLordling82.title>prinț urban</UrbanLordling82.title>
+  <!-- EN: urban lady -->
+  <UrbanLordling82.titleFemale>prințesă urbană</UrbanLordling82.titleFemale>
+  <!-- EN: city lord -->
+  <UrbanLordling82.titleShort>suveran</UrbanLordling82.titleShort>
+  <!-- EN: city lady -->
+  <UrbanLordling82.titleShortFemale>suverană</UrbanLordling82.titleShortFemale>
+  
+</LanguageData>

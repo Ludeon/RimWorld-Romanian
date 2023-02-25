@@ -7,6 +7,9 @@
   <!-- EN: explosion -->
   <Explosion.label>explozie</Explosion.label>
   
+  <!-- EN: flying -->
+  <PawnJumper.label>zburător</PawnJumper.label>
+  
   <!-- EN: proximity trigger -->
   <RadialTrigger.label>declanșator de proximitate</RadialTrigger.label>
   

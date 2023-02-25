@@ -33,7 +33,7 @@
   
   <!-- EN: mood -->
   <Mood.label>dispoziție</Mood.label>
-  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree. -->
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low their mood is, someone who has a mental break may have a minor breaks like hiding in their room for a day, or a major break like going on a murder spree. -->
   <Mood.description>Dispoziția reprezintă cât de fericit sau stresat este cineva. Dacă starea de spirit devine prea scăzută, persoana poate suferi o cădere psihică. În funcție de cât de scăzută este starea sa de spirit, o persoană care suferă o cădere psihică poate avea o cădere minoră, cum ar fi să se ascundă în camera sa timp de o zi, sau o cădere majoră, cum ar fi să intre într-o serie de crime.</Mood.description>
   
   <!-- EN: outdoors -->
@@ -41,9 +41,9 @@
   <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
   <Outdoors.description>Exterior exprimă nevoia de a nu fi închis în casă. Îi dăunează perioadele lungi petrecute în interior, mai ales sub pământ. Se îmbunătățește atunci când cineva petrece timp sub cerul liber, mai ales în aer liber. Nu este vorba de mărimea camerelor, ci de nevoia de a fi afară din când în când. Lipsa timpului petrecut în aer liber este o provocare semnificativă pentru persoanele care locuiesc în baze subterane.</Outdoors.description>
   
-  <!-- EN: rest -->
+  <!-- EN: sleep -->
   <Rest.label>odihnă</Rest.label>
-  <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <!-- EN: Sleep is how much time a creature has spent sleeping recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
   <Rest.description>Odihna reprezintă cât de mult a dormit o creatură în ultima vreme. Dacă este la zero, o creatură va adormi în cele din urmă pe loc.</Rest.description>
   
   <!-- EN: room size -->

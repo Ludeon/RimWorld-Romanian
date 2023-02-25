@@ -28,6 +28,8 @@
   <MessageBestowingDanger>Bestower pleacă din cauza unui pericol care pune viața în pericol.</MessageBestowingDanger>
   <!-- EN: The bestower is leaving due to life-threatening temperature. -->
   <MessageBestowingDangerTemperature>TODO</MessageBestowingDangerTemperature>
+  <!-- EN: The bestower is leaving due to life-threatening gases in the area. -->
+  <MessageBestowingDangerGas>TODO</MessageBestowingDangerGas><!-- text_todo -->
   <!-- EN: The bestowing ceremony has been interrupted. -->
   <MessageBestowingInterrupted>Ceremonia de acordare a distincției a fost întreruptă.</MessageBestowingInterrupted>
 

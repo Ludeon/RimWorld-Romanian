@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] travelled with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
+  <Actor72.baseDesc>{PAWN_gender ? [PAWN_nameDef] a călătorit cu o trupă de actori, jucând în teatre pline până la refuz și în fața unui public iubitor de pretutindeni. Era un perfecționist și își confecționa singur recuzita și costumele, în loc să le folosească pe cele pe care le primea. : [PAWN_nameDef] a călătorit cu o trupă de actori, jucând în teatre pline până la refuz și în fața unui public iubitor de pretutindeni. Era o perfecționistă și își făcea singură recuzita și costumele, în loc să le folosească pe cele pe care i le dădeau.}\n</Actor72.baseDesc>
+  <!-- EN: actor -->
+  <Actor72.title>actor</Actor72.title>
+  <Actor72.titleFemale>actriță</Actor72.titleFemale>
+  <!-- EN: actor -->
+  <Actor72.titleShort>actor</Actor72.titleShort>
+  <Actor72.titleShortFemale>actriță</Actor72.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] raised a variety of animals to provide meat, milk, eggs, and leather. -->
+  <AnimalFarmer21.baseDesc>{PAWN_gender ? [PAWN_nameDef] a crescut o varietate de animale pentru a obține carne, lapte, ouă și piele. : [PAWN_nameDef] a crescut o varietate de animale pentru a obține carne, lapte, ouă și piele.}\n</AnimalFarmer21.baseDesc>
+  <!-- EN: animal farmer -->
+  <AnimalFarmer21.title>fermier de animale</AnimalFarmer21.title>
+  <AnimalFarmer21.titleFemale>fermieră de animale</AnimalFarmer21.titleFemale>
+  <!-- EN: animal farmer -->
+  <AnimalFarmer21.titleShort>fermier</AnimalFarmer21.titleShort>
+  <AnimalFarmer21.titleShortFemale>fermieră</AnimalFarmer21.titleShortFemale>
+  
+  <!-- EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
+  <AsceticPriest84.baseDesc>{PAWN_gender ? După ce a făcut un jurământ de tăcere, [PAWN_nameDef] s-a alăturat unei mănăstiri pentru a-și petrece zilele în contemplație liniștită.\n\nA găsit fericirea cultivând legume în grădină și făcând brânză în pivnițele mănăstirii. : După ce a făcut un jurământ de tăcere, [PAWN_nameDef] s-a alăturat unei mănăstiri pentru a-și petrece zilele în contemplație liniștită.\n\nAceasta și-a găsit fericirea cultivând legume în grădină și făcând brânză în pivnițele mănăstirii.}\n</AsceticPriest84.baseDesc>
+  <!-- EN: ascetic priest -->
+  <AsceticPriest84.title>preot ascetic</AsceticPriest84.title>
+  <AsceticPriest84.titleFemale>preoteasă ascetică</AsceticPriest84.titleFemale>
+  <!-- EN: priest -->
+  <AsceticPriest84.titleShort>preot</AsceticPriest84.titleShort>
+  <AsceticPriest84.titleShortFemale>preoteasă</AsceticPriest84.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a bartender in a seedy establishment. The job was one part drink-mixing, one part diplomacy, and one part head-bashing. -->
+  <Bartender62.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat ca barman într-un local rău famat. Slujba consta într-o parte în amestecarea băuturilor, o parte în diplomație și o parte în spargeri de capete. : [PAWN_nameDef] a lucrat ca barman într-un local rău famat. Slujba consta într-o parte în amestecarea băuturilor, o parte în diplomație și o parte în spargeri de capete.}\n</Bartender62.baseDesc>
+  <!-- EN: bartender -->
+  <Bartender62.title>barman</Bartender62.title>
+  <!-- EN: barkeep -->
+  <Bartender62.titleShort>barman</Bartender62.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] protected whoever paid [PAWN_objective]. [PAWN_pronoun] gained proficiency in many different combat forms, and was known for [PAWN_possessive] ruthlessness against those who crossed [PAWN_objective]. -->
+  <Bodyguard58.baseDesc>{PAWN_gender ? [PAWN_nameDef] proteja pe oricine îl plătea. A dobândit competență în multe forme de luptă diferite și era cunoscut pentru cruzimea sa față de cei care îi călcau pragul. : [PAWN_nameDef] proteja pe oricine o plătea. A dobândit abilități în multe forme de luptă diferite și era cunoscută pentru cruzimea cu care îi ataca pe cei care îi călcau pragul.}\n</Bodyguard58.baseDesc>
+  <!-- EN: bodyguard -->
+  <Bodyguard58.title>bodyguard</Bodyguard58.title>
+  <!-- EN: bodyguard -->
+  <Bodyguard58.titleShort>bodyguard</Bodyguard58.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible crevices in search of valuable minerals. [PAWN_possessive] work was very dangerous, but the pay was good. -->
+  <CaveExplorer45.baseDesc>{PAWN_gender ? [PAWN_nameDef] își câștiga existența cartografiind tuneluri întunecate și crăpături aproape inaccesibile în căutare de minerale valoroase. munca lui era foarte periculoasă, dar era bine plătită. : [PAWN_nameDef] își câștiga existența cartografiind tuneluri întunecate și crăpături aproape inaccesibile în căutare de minerale valoroase. Munca ei era foarte periculoasă, dar era bine plătită.}\n</CaveExplorer45.baseDesc>
+  <!-- EN: cave explorer -->
+  <CaveExplorer45.title>explorator de peșteri</CaveExplorer45.title>
+  <CaveExplorer45.titleFemale>exploratoare de peșteri</CaveExplorer45.titleFemale>
+  <!-- EN: cave explorer -->
+  <CaveExplorer45.titleShort>explorator</CaveExplorer45.titleShort>
+  <CaveExplorer45.titleShortFemale>exploratoare</CaveExplorer45.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] ran a high-class restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among kitchen workers for [PAWN_possessive] casual disdain for grunt work. -->
+  <Chef52.baseDesc>{PAWN_gender ? [PAWN_nameDef] conducea un restaurant de înaltă clasă. Era faimos printre patroni pentru specialitățile sale culinare creative și infam printre lucrătorii din bucătărie pentru disprețul său dezinvolt față de munca grea. : [PAWN_nameDef] conducea un restaurant de înaltă clasă. Era faimoasă printre clienți pentru specialitățile sale culinare creative și era infamă printre lucrătorii din bucătărie pentru disprețul său dezinteresat față de munca de jos.}\n</Chef52.baseDesc>
+  <!-- EN: chef -->
+  <Chef52.title>bucătar</Chef52.title>
+  <Chef52.titleFemale>bucătăreasă</Chef52.titleFemale>
+  <!-- EN: chef -->
+  <Chef52.titleShort>bucătar</Chef52.titleShort>
+  <Chef52.titleShortFemale>bucătăreasă</Chef52.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked as a low-ranking administrator for a moribund government bureaucracy. [PAWN_pronoun] is most at home filling out complicated paperwork and playing office politics. -->
+  <CivilServant2.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat ca administrator de rang inferior pentru o birocrație guvernamentală muribundă. Se simte cel mai bine să completeze hârtii complicate și să facă politică de birou. : [PAWN_nameDef] a lucrat ca administrator de rang inferior pentru o birocrație guvernamentală muribundă. Ea se simte cel mai bine să completeze documente complicate și să facă politică de birou.}\n</CivilServant2.baseDesc>
+  <!-- EN: civil servant -->
+  <CivilServant2.title>funcționar de stat</CivilServant2.title>
+  <!-- EN: bureaucrat -->
+  <CivilServant2.titleShort>birocrat</CivilServant2.titleShort>
+  <CivilServant2.titleShortFemale>birocrată</CivilServant2.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never created anything in [PAWN_possessive] life. [PAWN_pronoun] did, however, prove to be a natural at getting others to give [PAWN_objective] what they had created. -->
+  <ConArtist80.baseDesc>{PAWN_gender ? [PAWN_nameDef] nu a creat nimic în viața Sa. Cu toate acestea, s-a dovedit a fi un talent înnăscut în a-i face pe alții să-i dea ceea ce au creat. : [PAWN_nameDef] nu a creat nimic în viața ei. Cu toate acestea, s-a dovedit a fi un talent înnăscut pentru a-i face pe alții să-i dea ceea ce au creat.}\n</ConArtist80.baseDesc>
+  <!-- EN: con artist -->
+  <ConArtist80.title>escroc</ConArtist80.title>
+  <ConArtist80.titleFemale>escroacă</ConArtist80.titleFemale>
+  <!-- EN: con artist -->
+  <ConArtist80.titleShort>escroc</ConArtist80.titleShort>
+  <ConArtist80.titleShortFemale>escroacă</ConArtist80.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was well-known in art circles on [PAWN_possessive] home world for [PAWN_possessive] unique and creative conceptual artworks.\n\nNobody was sure exactly what [PAWN_pronoun] was trying to communicate, but [PAWN_possessive] pieces were highly valued by collectors. -->
+  <ConceptualArtist39.baseDesc>{PAWN_gender ? [PAWN_nameDef] era bine cunoscut în cercurile artistice din lumea sa natală pentru lucrările sale de artă conceptuală unice și creative.Nimeni nu știa exact ce încerca să comunice, dar piesele sale erau foarte apreciate de colecționari. : [PAWN_nameDef] era bine cunoscută în cercurile artistice din lumea ei natală pentru operele sale de artă conceptuală unice și creative.Nimeni nu știa exact ce încerca să comunice, dar piesele sale erau foarte apreciate de colecționari.}\n</ConceptualArtist39.baseDesc>
+  <!-- EN: conceptual artist -->
+  <ConceptualArtist39.title>artist conceptual</ConceptualArtist39.title>
+  <!-- EN: artist -->
+  <ConceptualArtist39.titleShort>artist</ConceptualArtist39.titleShort>
+  <ConceptualArtist39.titleShortFemale>artistă</ConceptualArtist39.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a construction worker. [PAWN_pronoun] lead a team which built everything from office blocks to cathedrals.\n\n[PAWN_possessive] busy job and numerous nearby fast-food outlets meant [PAWN_pronoun] never cooked for [PAWN_objective]self. -->
+  <ConstructionEngineer32.baseDesc>{PAWN_gender ? [PAWN_nameDef] era muncitor în construcții. A condus o echipă care a construit de la blocuri de birouri până la catedrale.\n\nSlujba sa ocupată și numeroasele fast-food-uri din apropiere au făcut ca [PAWN_nameDef] să nu gătească niciodată pentru el însuși. : [PAWN_nameDef] era muncitoare în construcții. A condus o echipă care a construit de la blocuri de birouri până la catedrale.\n\nSlujba ei ocupată și numeroasele fast-food-uri din apropiere au făcut ca [PAWN_nameDef] să nu gătească niciodată pentru ea însăși.}\n</ConstructionEngineer32.baseDesc>
+  <!-- EN: construction engineer -->
+  <ConstructionEngineer32.title>inginer de construcții</ConstructionEngineer32.title>
+  <!-- EN: builder -->
+  <ConstructionEngineer32.titleShort>constructor</ConstructionEngineer32.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] moved from job to job, extracting minerals and ancient valuables in tunnels and strip-mines. The work was tough and dirty, but [PAWN_pronoun] found it rewarding. -->
+  <ContractMiner86.baseDesc>{PAWN_gender ? [PAWN_nameDef] a trecut de la o slujbă la alta, extrăgând minerale și obiecte de valoare străvechi în tuneluri și mine de striptease. Munca era dură și murdară, dar el o găsea plină de satisfacții. : [PAWN_nameDef] s-a mutat de la o slujbă la alta, extrăgând minerale și obiecte de valoare străvechi în tuneluri și mine de striptease. Munca era dură și murdară, dar ea a găsit-o plină de satisfacții.}\n</ContractMiner86.baseDesc>
+  <!-- EN: contract miner -->
+  <ContractMiner86.title>miner contractat</ContractMiner86.title>
+  <!-- EN: contract miner -->
+  <ContractMiner86.titleShort>miner contractant</ContractMiner86.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in a massive open-plan office, ensuring that [PAWN_possessive] assigned team of workers stayed mostly on-task.\n\nThe job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone. -->
+  <CorporateManager76.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat într-un birou masiv, în plan deschis, asigurându-se că echipa sa de muncitori se menținea în mare parte la locul de muncă.\n\nSlujba era intens politică. Pentru a avansa, [PAWN_nameDef] a învățat cum să aranjeze lucrurile astfel încât să își poată asuma meritele pentru munca depusă de aproape oricine. : [PAWN_nameDef] a lucrat într-un birou masiv, în plan deschis, asigurându-se că echipa de muncitori care îi fusese repartizată se menținea în cea mai mare parte la locul de muncă.\n\nSlujba era extrem de politică. Pentru a avansa, [PAWN_nameDef] a învățat cum să aranjeze lucrurile astfel încât să își poată asuma meritele pentru munca depusă de aproape oricine.}\n</CorporateManager76.baseDesc>
+  <!-- EN: corporate manager -->
+  <CorporateManager76.title>manager corporatist</CorporateManager76.title>
+  <!-- EN: manager -->
+  <CorporateManager76.titleShort>manager</CorporateManager76.titleShort>
+  
+  <!-- EN: A terrifying trauma when [PAWN_nameDef] was a young adult caused [PAWN_objective] to develop a serious eating disorder. With counseling [PAWN_pronoun] learned to have a healthier relationship with food, and decided to put [PAWN_possessive] new skills to use helping others overcome their emotional problems. -->
+  <Counselor26.baseDesc>{PAWN_gender ? O traumă terifiantă pe când [PAWN_nameDef] era un tânăr adult l-a făcut să dezvolte o tulburare alimentară gravă. Cu ajutorul consilierii, [PAWN_nameDef] a învățat să aibă o relație mai sănătoasă cu mâncarea și a decis să își folosească noile abilități pentru a-i ajuta pe alții să își depășească problemele emoționale. : O traumă terifiantă pe când [PAWN_nameDef] era o tânără adultă a făcut-o să dezvolte o tulburare alimentară gravă. Cu ajutorul consilierii, a învățat să aibă o relație mai sănătoasă cu mâncarea și a decis să își folosească noile abilități pentru a-i ajuta pe alții să își depășească problemele emoționale.}\n</Counselor26.baseDesc>
+  <!-- EN: counselor -->
+  <Counselor26.title>consilier</Counselor26.title>
+  <Counselor26.titleFemale>consilieră</Counselor26.titleFemale>
+  <!-- EN: counselor -->
+  <Counselor26.titleShort>consilier</Counselor26.titleShort>
+  <Counselor26.titleShortFemale>consilieră</Counselor26.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] ran a crop farm. [PAWN_pronoun] analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields. -->
+  <CropFarmer17.baseDesc>{PAWN_gender ? [PAWN_nameDef] a condus o fermă agricolă. El a analizat solul, echipamentele agricole, modelele meteorologice și tendințele prețurilor pentru a optimiza plantarea și recoltarea unor câmpuri masive de culturi. : [PAWN_nameDef] a condus o fermă agricolă. Ea a analizat solul, echipamentele agricole, modelele meteorologice și tendințele prețurilor pentru a optimiza plantarea și recoltarea unor câmpuri de culturi masive.}\n</CropFarmer17.baseDesc>
+  <!-- EN: crop farmer -->
+  <CropFarmer17.title>agricultor</CropFarmer17.title>
+  <!-- EN: farmer -->
+  <CropFarmer17.titleShort>agricultor</CropFarmer17.titleShort>
+  
+  <!-- EN: Early in [PAWN_possessive] adulthood, [PAWN_nameDef] decided to leave the oppressive dictatorship where [PAWN_pronoun] lived. [PAWN_possessive] defection was not well-received, and agents were sent out after [PAWN_objective].\n\n[PAWN_pronoun] spent years on the run, treating [PAWN_possessive] own wounds so no doctor could betray [PAWN_objective]. The ordeal made [PAWN_objective] bitter and untrusting. -->
+  <Defector78.baseDesc>{PAWN_gender ? La începutul vieții sale de adult, [PAWN_nameDef] a decis să părăsească dictatura opresivă în care trăia. Dezertarea sa nu a fost bine primită, iar agenții au fost trimiși pe urmele sale.\nA petrecut ani de zile pe fugă, tratându-și singur rănile pentru ca niciun doctor să nu-l poată trăda. Calvarul l-a făcut să devină amar și neîncrezător. : La începutul vieții sale adulte, [PAWN_nameDef] a decis să părăsească dictatura opresivă în care trăia. dezertarea ei nu a fost bine primită, iar agenții au fost trimiși pe urmele ei.\n\nA petrecut ani de zile pe fugă, tratându-și singură rănile pentru ca niciun doctor să nu o poată trăda. Calvarul a făcut-o să devină amară și neîncrezătoare.}\n</Defector78.baseDesc>
+  <!-- EN: defector -->
+  <Defector78.title>dezertor</Defector78.title>
+  <Defector78.titleFemale>dezertoare</Defector78.titleFemale>
+  <!-- EN: defector -->
+  <Defector78.titleShort>dezertor</Defector78.titleShort>
+  <Defector78.titleShortFemale>dezertoare</Defector78.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never figured out what to do with [PAWN_possessive] life. [PAWN_pronoun] travelled often, taking up casual work wherever [PAWN_pronoun] found it.\n\n[PAWN_pronoun] also occasionally worked on a novel that [PAWN_pronoun] knew would be a bestseller - just as soon as [PAWN_pronoun] could find a publisher who was interested. -->
+  <Drifter67.baseDesc>{PAWN_gender ? [PAWN_nameDef] nu și-a dat seama niciodată ce să facă cu viața lui. Călătorea des, acceptând lucrări ocazionale oriunde le găsea.\n\nDe asemenea, lucra ocazional la un roman despre care știa că va fi un bestseller - de îndată ce va găsi un editor interesat. : [PAWN_nameDef] nu și-a dat seama niciodată ce să facă cu viața ei. Călătorea des, acceptând lucrări ocazionale oriunde le găsea.\n\nDe asemenea, lucra ocazional la un roman despre care știa că va fi un bestseller - imediat ce va găsi un editor interesat.}\n</Drifter67.baseDesc>
+  <!-- EN: drifter -->
+  <Drifter67.title>hoinar</Drifter67.title>
+  <Drifter67.titleFemale>hoinară</Drifter67.titleFemale>
+  <!-- EN: drifter -->
+  <Drifter67.titleShort>hoinar</Drifter67.titleShort>
+  <Drifter67.titleShortFemale>hoinară</Drifter67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] denies involvement in the crimes that brought about [PAWN_possessive] incarceration in a brutal penal colony. [PAWN_pronoun] escaped by tunneling beneath the perimeter using modified cutlery. -->
+  <EscapedConvict90.baseDesc>{PAWN_gender ? [PAWN_nameDef] neagă implicarea în crimele care au dus la încarcerarea sa într-o colonie penală brutală. A evadat prin tunelare pe sub perimetru, folosind tacâmuri modificate. : [PAWN_nameDef] neagă implicarea în crimele care au dus la încarcerarea ei într-o colonie penală brutală. Ea a evadat făcând un tunel pe sub perimetru folosind tacâmuri modificate.}\n</EscapedConvict90.baseDesc>
+  <!-- EN: escaped convict -->
+  <EscapedConvict90.title>condamnat evadat</EscapedConvict90.title>
+  <!-- EN: escapee -->
+  <EscapedConvict90.titleShort>evadator</EscapedConvict90.titleShort>
+  <EscapedConvict90.titleShortFemale>evadatoare</EscapedConvict90.titleShortFemale>
+  
+  <!-- EN: As a youth, [PAWN_nameDef] experienced a religious awakening. [PAWN_pronoun] decided to spend the rest of [PAWN_possessive] life spreading the word of [PAWN_possessive] deity, the beauty of its culture, and its unusual medical tradition. -->
+  <Evangelist39.baseDesc>{PAWN_gender ? În tinerețe, [PAWN_nameDef] a avut parte de o trezire religioasă. A decis să-și petreacă restul vieții răspândind cuvântul divinității sale, frumusețea culturii sale și tradiția sa medicală neobișnuită. : În tinerețe, [PAWN_nameDef] a avut parte de o trezire religioasă. Ea a decis să-și petreacă restul vieții răspândind cuvântul divinității sale, frumusețea culturii și tradiția medicală neobișnuită.}\n</Evangelist39.baseDesc>
+  <!-- EN: evangelist -->
+  <Evangelist39.title>evanghelist</Evangelist39.title>
+  <Evangelist39.titleFemale>evanghelistă</Evangelist39.titleFemale>
+  <!-- EN: evangelist -->
+  <Evangelist39.titleShort>evanghelist</Evangelist39.titleShort>
+  <Evangelist39.titleShortFemale>evanghelistă</Evangelist39.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was an explosive engineer employed in mines. [PAWN_pronoun] took [PAWN_possessive] job very seriously and was well-versed in the technicalities - so much so that [PAWN_pronoun] refused to demean [PAWN_objective]self by helping with the clean-up once [PAWN_possessive] carefully-calculated explosion was complete. -->
+  <ExplosivesExpert26.baseDesc>{PAWN_gender ? [PAWN_nameDef] era inginer explozibilist, angajat în mine. Își lua slujba foarte în serios și cunoștea foarte bine aspectele tehnice - atât de bine încât a refuzat să se înjosească ajutând la curățarea după ce explozia sa atent calculată a fost finalizată. : [PAWN_nameDef] a fost inginer explozibilist angajat în mine. Își lua slujba foarte în serios și cunoștea foarte bine detaliile tehnice - atât de bine încât refuza să se înjosească ajutând la curățarea după ce explozia atent calculată era completă.}\n</ExplosivesExpert26.baseDesc>
+  <!-- EN: explosives expert -->
+  <ExplosivesExpert26.title>expert în explozibili</ExplosivesExpert26.title>
+  <ExplosivesExpert26.titleFemale>expertă în explozibili</ExplosivesExpert26.titleFemale>
+  <!-- EN: blaster -->
+  <ExplosivesExpert26.titleShort>demolator</ExplosivesExpert26.titleShort>
+  <ExplosivesExpert26.titleShortFemale>demolatoare</ExplosivesExpert26.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew and harvested forests. [PAWN_pronoun] understood both the practical challenges of soil types, wind, and rain, as well as the long-term planning of forest growth. -->
+  <Forester96.baseDesc>{PAWN_gender ? [PAWN_nameDef] a cultivat și a recoltat păduri. El a înțeles atât provocările practice ale tipurilor de sol, vântului și ploii, cât și planificarea pe termen lung a creșterii pădurilor. : [PAWN_nameDef] a cultivat și a exploatat păduri. Ea a înțeles atât provocările practice legate de tipurile de sol, vânt și ploaie, cât și planificarea pe termen lung a creșterii pădurilor.}\n</Forester96.baseDesc>
+  <!-- EN: forester -->
+  <Forester96.title>pădurar</Forester96.title>
+  <!-- EN: forester -->
+  <Forester96.titleShort>pădurar</Forester96.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
+  <FurnitureBuilder83.baseDesc>{PAWN_gender ? [PAWN_nameDef] a crescut în apropierea pădurilor. Își petrecea timpul construind mobilier frumos pentru clienții bogați din lumea glitterului. : [PAWN_nameDef] a crescut în apropierea pădurilor. Ea și-a petrecut timpul construind mobilier frumos pentru clienții bogați din lumea glitterului.}\n</FurnitureBuilder83.baseDesc>
+  <!-- EN: furniture builder -->
+  <FurnitureBuilder83.title>meșter de mobilă</FurnitureBuilder83.title>
+  <FurnitureBuilder83.titleFemale>meșteră de mobilă</FurnitureBuilder83.titleFemale>
+  <!-- EN: builder -->
+  <FurnitureBuilder83.titleShort>meșter</FurnitureBuilder83.titleShort>
+  <FurnitureBuilder83.titleShortFemale>meșteră</FurnitureBuilder83.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked at the mansion of a powerful family, tending the lavish gardens as part of a team of servants. -->
+  <Gardener99.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat la conacul unei familii puternice, îngrijind grădinile somptuoase ca parte a unei echipe de servitori. : [PAWN_nameDef] a lucrat la conacul unei familii puternice, îngrijind grădinile somptuoase ca parte a unei echipe de servitori.}\n</Gardener99.baseDesc>
+  <!-- EN: gardener -->
+  <Gardener99.title>grădinar</Gardener99.title>
+  <Gardener99.titleFemale>grădinară</Gardener99.titleFemale>
+  <!-- EN: gardener -->
+  <Gardener99.titleShort>grădinar</Gardener99.titleShort>
+  <Gardener99.titleShortFemale>grădinară</Gardener99.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked with miners and cave-diggers, identifying rock types and natural formations.\n\nDuring [PAWN_possessive] years underground [PAWN_pronoun] also gained experience repairing drilling machines and other technical equipment. -->
+  <Geologist66.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat cu minerii și speologii, identificând tipurile de roci și formațiunile naturale.\n\nÎn timpul anilor petrecuți în subteran a dobândit, de asemenea, experiență în repararea mașinilor de foraj și a altor echipamente tehnice. : [PAWN_nameDef] a lucrat cu minerii și cu speologii, identificând tipurile de roci și formațiunile naturale.\n\nÎn timpul anilor petrecuți în subteran, a dobândit experiență în repararea mașinilor de foraj și a altor echipamente tehnice.}\n</Geologist66.baseDesc>
+  <!-- EN: geologist -->
+  <Geologist66.title>geolog</Geologist66.title>
+  <!-- EN: geologist -->
+  <Geologist66.titleShort>geolog</Geologist66.titleShort>
+  
+  <!-- EN: As an adult, [PAWN_nameDef] kept house and cared for children while [PAWN_possessive] spouse worked. -->
+  <Housemate8.baseDesc>{PAWN_gender ? Ca adult, [PAWN_nameDef] a ținut casa și a avut grijă de copii în timp ce soția sa lucra. : La vârsta adultă, [PAWN_nameDef] s-a ocupat de casă și a avut grijă de copii în timp ce soțul ei lucra.}\n</Housemate8.baseDesc>
+  <!-- EN: housemate -->
+  <Housemate8.title>băiat de casă</Housemate8.title>
+  <!-- EN: housewife -->
+  <Housemate8.titleFemale>fată de casă</Housemate8.titleFemale>
+  <!-- EN: housemate -->
+  <Housemate8.titleShort>băiat de casă</Housemate8.titleShort>
+  <!-- EN: housewife -->
+  <Housemate8.titleShortFemale>fată de casă</Housemate8.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a domestic servant to wealthy homeowners.\n\n[PAWN_pronoun] got to know the kitchens and basements of [PAWN_possessive] master's mansion well, but never did any work outside. -->
+  <HouseServant63.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost un servitor casnic al unor proprietari bogați.\nA ajuns să cunoască bine bucătăriile și subsolurile conacului stăpânului său, dar nu a lucrat niciodată afară. : [PAWN_nameDef] a fost servitoare la proprietarii de case bogate.\n\nAm ajuns să cunoască bine bucătăriile și subsolurile conacului stăpânului ei, dar nu a lucrat niciodată afară.}\n</HouseServant63.baseDesc>
+  <!-- EN: house servant -->
+  <HouseServant63.title>servitor de casă</HouseServant63.title>
+  <HouseServant63.titleFemale>servitoare de casă</HouseServant63.titleFemale>
+  <!-- EN: servant -->
+  <HouseServant63.titleShort>servitor</HouseServant63.titleShort>
+  <HouseServant63.titleShortFemale>servitoare</HouseServant63.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] hunted wild animals to help feed [PAWN_possessive] community. When times became tough, others looked to [PAWN_objective] as the one to help people through a tough season. -->
+  <Hunter89.baseDesc>{PAWN_gender ? [PAWN_nameDef] a vânat animale sălbatice pentru a ajuta la hrănirea comunității sale. Când vremurile deveneau grele, ceilalți se uitau la el ca la cel care îi ajuta pe oameni să treacă peste un sezon greu. : [PAWN_nameDef] a vânat animale sălbatice pentru a ajuta la hrănirea comunității Sale. Când vremurile deveneau grele, ceilalți se uitau la ea ca la cea care îi putea ajuta pe oameni să treacă peste un sezon greu.}\n</Hunter89.baseDesc>
+  <!-- EN: hunter -->
+  <Hunter89.title>vânător</Hunter89.title>
+  <Hunter89.titleFemale>vânătoare</Hunter89.titleFemale>
+  <!-- EN: hunter -->
+  <Hunter89.titleShort>vânător</Hunter89.titleShort>
+  <Hunter89.titleShortFemale>vânătoare</Hunter89.titleShortFemale>
+  
+  <!-- EN: On [PAWN_possessive] homeworld, [PAWN_nameDef] worked as a moderately successful inventor. [PAWN_pronoun] developed several minor technologies. -->
+  <Inventor6.baseDesc>{PAWN_gender ? Pe planeta sa natală, [PAWN_nameDef] a lucrat ca inventator de succes. A dezvoltat mai multe tehnologii minore. : Pe lumea ei natală, [PAWN_nameDef] a lucrat ca inventator de succes. A dezvoltat mai multe tehnologii minore.}\n</Inventor6.baseDesc>
+  <!-- EN: inventor -->
+  <Inventor6.title>inventator</Inventor6.title>
+  <Inventor6.titleFemale>inventatoare</Inventor6.titleFemale>
+  <!-- EN: inventor -->
+  <Inventor6.titleShort>inventator</Inventor6.titleShort>
+  <Inventor6.titleShortFemale>inventatoare</Inventor6.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] life in prisons, where [PAWN_pronoun] was put to work in the kitchens. [PAWN_pronoun] had a habit of getting into fights, and developed an aggressive way of speaking. -->
+  <Jailbird40.baseDesc>{PAWN_gender ? [PAWN_nameDef] și-a petrecut cea mai mare parte a vieții în închisori, unde a fost pus să lucreze în bucătării. Avea obiceiul de a se băga în bătăi și a dezvoltat un mod agresiv de a vorbi. : [PAWN_nameDef] și-a petrecut cea mai mare parte a vieții în închisori, unde a fost pusă să lucreze în bucătării. Avea obiceiul de a se băga în bătăi și a dezvoltat un mod agresiv de a vorbi.}\n</Jailbird40.baseDesc>
+  <!-- EN: jailbird -->
+  <Jailbird40.title>pasăre de cușcă</Jailbird40.title>
+  <!-- EN: jailbird -->
+  <Jailbird40.titleShort>pasăre de cușcă</Jailbird40.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] ran a livestock farm. [PAWN_pronoun] analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds. -->
+  <LivestockFarmer8.baseDesc>{PAWN_gender ? [PAWN_nameDef] a condus o fermă de animale. El a analizat genetica animalelor, tipurile de furaje, metodele de naștere și de sacrificare și tendințele prețurilor pentru a optimiza creșterea unor efective uriașe de animale. : [PAWN_nameDef] a condus o fermă de animale. Ea a analizat genetica animalelor, tipurile de furaje, metodele de naștere și de sacrificare și tendințele prețurilor pentru a optimiza creșterea unor efective uriașe de animale.}\n</LivestockFarmer8.baseDesc>
+  <!-- EN: livestock farmer -->
+  <LivestockFarmer8.title>fermier de animale</LivestockFarmer8.title>
+  <LivestockFarmer8.titleFemale>fermieră de animale</LivestockFarmer8.titleFemale>
+  <!-- EN: farmer -->
+  <LivestockFarmer8.titleShort>fermier</LivestockFarmer8.titleShort>
+  <LivestockFarmer8.titleShortFemale>fermieră</LivestockFarmer8.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] took down trees and collected wood in hilly passes and ravines. [PAWN_pronoun] learned both how to fell the trees safely, and how to manage the forest to keep it healthy. -->
+  <Logger95.baseDesc>{PAWN_gender ? [PAWN_nameDef] a doborât copaci și a adunat lemne în trecători colinare și râpe. A învățat atât cum să taie copacii în siguranță, cât și cum să gestioneze pădurea pentru a o menține sănătoasă. : [PAWN_nameDef] a doborât copaci și a adunat lemne în trecători colinare și râpe. Ea a învățat atât cum să taie copacii în siguranță, cât și cum să gestioneze pădurea pentru a o menține sănătoasă.}\n</Logger95.baseDesc>
+  <!-- EN: logger -->
+  <Logger95.title>jurnalizator</Logger95.title>
+  <Logger95.titleFemale>jurnalizatoare</Logger95.titleFemale>
+  <!-- EN: logger -->
+  <Logger95.titleShort>jurnalizator</Logger95.titleShort>
+  <Logger95.titleShortFemale>jurnalizatoare</Logger95.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked a variety of casual jobs to support [PAWN_possessive] family, gaining a set of basic hands-on skills. -->
+  <LowWageWorker7.baseDesc>{PAWN_gender ? [PAWN_nameDef] a avut o varietate de slujbe ocazionale pentru a-și întreține familia, dobândind un set de competențe practice de bază. : [PAWN_nameDef] a avut o varietate de slujbe ocazionale pentru a-și întreține familia, dobândind un set de competențe practice de bază.}\n</LowWageWorker7.baseDesc>
+  <!-- EN: low-wage worker -->
+  <LowWageWorker7.title>proletar</LowWageWorker7.title>
+  <LowWageWorker7.titleFemale>proletară</LowWageWorker7.titleFemale>
+  <!-- EN: grunt -->
+  <LowWageWorker7.titleShort>proletar</LowWageWorker7.titleShort>
+  <LowWageWorker7.titleShortFemale>proletar</LowWageWorker7.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was obsessed with old machines and arcane pieces of technology. [PAWN_pronoun] obtained them wherever [PAWN_pronoun] could, and loved taking them apart to see how they worked.\n\n[PAWN_pronoun] had a habit of talking about [PAWN_possessive] collection long after people around [PAWN_objective] had stopped listening. -->
+  <MachineCollector55.baseDesc>{PAWN_gender ? [PAWN_nameDef] era obsedat de mașinile vechi și de piesele obscure de tehnologie. Le obținea de oriunde putea și îi plăcea să le dezmembreze pentru a vedea cum funcționează.Avea obiceiul de a vorbi despre colecția sa mult timp după ce oamenii din jurul său nu-l mai ascultau. : [PAWN_nameDef] era obsedată de mașinile vechi și de piesele obscure de tehnologie. Le obținea de oriunde putea și îi plăcea să le dezmembreze pentru a vedea cum funcționează.Avea obiceiul de a vorbi despre colecția ei mult timp după ce oamenii din jurul ei nu o mai ascultau.}\n</MachineCollector55.baseDesc>
+  <!-- EN: machine collector -->
+  <MachineCollector55.title>colector de mașini</MachineCollector55.title>
+  <MachineCollector55.titleFemale>colectoare de mașini</MachineCollector55.titleFemale>
+  <!-- EN: collector -->
+  <MachineCollector55.titleShort>colector</MachineCollector55.titleShort>
+  <MachineCollector55.titleShortFemale>colectoare</MachineCollector55.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] did mathematical research at a university.\n\n[PAWN_pronoun] spent much of [PAWN_possessive] spare time immersed in shooting simulations, though [PAWN_pronoun] was frequently ridiculed by other players for [PAWN_possessive] terrible aim. -->
+  <Mathematician6.baseDesc>{PAWN_gender ? [PAWN_nameDef] a făcut cercetări matematice la o universitate.\n\nȘi-a petrecut o mare parte din timpul liber cufundat în simulări de tir, deși era adesea ridiculizat de ceilalți jucători pentru ținta sa teribilă. : [PAWN_nameDef] a făcut cercetări matematice la universitate.\n\nȘi-a petrecut o mare parte din timpul liber cufundată în simulări de împușcături, deși era adesea ridiculizată de ceilalți jucători pentru ținta ei teribilă.}\n</Mathematician6.baseDesc>
+  <!-- EN: mathematician -->
+  <Mathematician6.title>matematician</Mathematician6.title>
+  <Mathematician6.titleFemale>matematiciană</Mathematician6.titleFemale>
+  <!-- EN: math prof -->
+  <Mathematician6.titleShort>profesor de matematică</Mathematician6.titleShort>
+  <Mathematician6.titleShortFemale>profesoară de matematică</Mathematician6.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] modelled clothes and jewellery for advertisers, and was also used as a physical blueprint for characters in virtual reality simulations. -->
+  <Model99.baseDesc>{PAWN_gender ? [PAWN_nameDef] a modelat haine și bijuterii pentru agenții de publicitate și a fost, de asemenea, folosit ca model fizic pentru personajele din simulările de realitate virtuală. : [PAWN_nameDef] a modelat haine și bijuterii pentru agenții de publicitate și a fost, de asemenea, folosită ca model fizic pentru personajele din simulările de realitate virtuală.}\n</Model99.baseDesc>
+  <!-- EN: model -->
+  <Model99.title>model</Model99.title>
+  <!-- EN: model -->
+  <Model99.titleShort>model</Model99.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in a hospital, doing routine work such as changing bandages and taking temperatures.\n\nIt was a busy job, but [PAWN_pronoun] could always find time for a chat with a patient. -->
+  <Nurse61.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat într-un spital, făcând muncă de rutină, cum ar fi schimbarea bandajelor și măsurarea temperaturii.\n\nEra o slujbă aglomerată, dar întotdeauna își găsea timp pentru o discuție cu un pacient. : [PAWN_nameDef] a lucrat într-un spital, făcând activități de rutină, cum ar fi schimbarea bandajelor și măsurarea temperaturii.\n\nEra o slujbă aglomerată, dar întotdeauna își găsea timp pentru o discuție cu un pacient.}\n</Nurse61.baseDesc>
+  <!-- EN: nurse -->
+  <Nurse61.title>asistent medical</Nurse61.title>
+  <Nurse61.titleFemale>asistentă medicală</Nurse61.titleFemale>
+  <!-- EN: nurse -->
+  <Nurse61.titleShort>asistent medical</Nurse61.titleShort>
+  <Nurse61.titleShortFemale>asistentă medicală</Nurse61.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef]'s job was to respond rapidly to medical emergencies. [PAWN_pronoun] is used to dealing with severe injuries with only limited medical supplies.\n\n[PAWN_pronoun] treated so many gunshot wounds over the years that even seeing a gun made [PAWN_objective] uncomfortable. -->
+  <Paramedic45.baseDesc>{PAWN_gender ? Sarcina lui [PAWN_nameDef] era să răspundă rapid la urgențele medicale. El este obișnuit să se ocupe de răni grave cu provizii medicale limitate.\nA tratat atât de multe răni prin împușcare de-a lungul anilor, încât chiar și vederea unei arme îl făcea să se simtă inconfortabil. : Treaba lui [PAWN_nameDef] era să răspundă rapid la urgențele medicale. Ea este obișnuită să se ocupe de răni grave cu provizii medicale limitate.\n\nA tratat atât de multe răni prin împușcare de-a lungul anilor, încât chiar și faptul de a vedea o armă o făcea să se simtă inconfortabil.}\n</Paramedic45.baseDesc>
+  <!-- EN: paramedic -->
+  <Paramedic45.title>paramedic</Paramedic45.title>
+  <!-- EN: paramedic -->
+  <Paramedic45.titleShort>paramedic</Paramedic45.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] kept the peace as a line officer in a municipal police force.\n\n[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills. -->
+  <Policeman45.baseDesc>{PAWN_gender ? [PAWN_nameDef] a menținut pacea ca ofițer de linie într-o forță de poliție municipală.\n\nA fost instruit în de-escaladare, control fizic, tragere și alte abilități polițienești. : [PAWN_nameDef] a menținut pacea ca ofițer de linie în cadrul unei forțe de poliție municipale.\n\nA fost instruită în de-escaladare, control fizic, tragere și alte abilități polițienești.}\n</Policeman45.baseDesc>
+  <!-- EN: policeman -->
+  <Policeman45.title>polițist</Policeman45.title>
+  <!-- EN: policewoman -->
+  <Policeman45.titleFemale>polițistă</Policeman45.titleFemale>
+  <!-- EN: policeman -->
+  <Policeman45.titleShort>polițist</Policeman45.titleShort>
+  <!-- EN: policewoman -->
+  <Policeman45.titleShortFemale>polițistă</Policeman45.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked in a quarry helping to extract valuable stone from the hillside. [PAWN_pronoun] learned to sense opportunities and dangers in the stone by sight, touch, and intuition. -->
+  <QuarryWorker29.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat într-o carieră, ajutând la extragerea de piatră valoroasă de pe versant. A învățat să simtă oportunitățile și pericolele din piatră prin vedere, atingere și intuiție. : [PAWN_nameDef] a lucrat într-o carieră, ajutând la extragerea de piatră valoroasă de pe versant. Ea a învățat să simtă oportunitățile și pericolele din piatră prin vedere, atingere și intuiție.}\n</QuarryWorker29.baseDesc>
+  <!-- EN: quarry worker -->
+  <QuarryWorker29.title>muncitor de carieră</QuarryWorker29.title>
+  <QuarryWorker29.titleFemale>muncitoare de carieră</QuarryWorker29.titleFemale>
+  <!-- EN: quarry worker -->
+  <QuarryWorker29.titleShort>muncitor de carieră</QuarryWorker29.titleShort>
+  <QuarryWorker29.titleShortFemale>muncitoare de carieră</QuarryWorker29.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] owned and operated a successful ranch where [PAWN_pronoun] raised animals for meat and wool.\n\n[PAWN_pronoun] refused to do any dumb labour [PAWN_pronoun] could pay someone else to do for [PAWN_objective]. -->
+  <Rancher43.baseDesc>{PAWN_gender ? [PAWN_nameDef] deținea și conducea o fermă de succes unde creștea animale pentru carne și lână.\n\nEl a refuzat să facă orice muncă stupidă pe care putea plăti pe altcineva să o facă pentru el. : [PAWN_nameDef] a deținut și a condus o fermă de succes unde a crescut animale pentru carne și lână.\n\nA refuzat să facă orice muncă stupidă pe care putea plăti pe altcineva să o facă pentru ea.}\n</Rancher43.baseDesc>
+  <!-- EN: rancher -->
+  <Rancher43.title>crescător</Rancher43.title>
+  <Rancher43.titleFemale>crescătoare</Rancher43.titleFemale>
+  <!-- EN: rancher -->
+  <Rancher43.titleShort>crescător</Rancher43.titleShort>
+  <Rancher43.titleShortFemale>crescătoare</Rancher43.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] tracked animals and people for a wide range of clients. [PAWN_pronoun] became adept at reading spoor, finding food in the wild, and stalking prey. -->
+  <Ranger96.baseDesc>{PAWN_gender ? [PAWN_nameDef] a urmărit animale și oameni pentru o gamă largă de clienți. A devenit expert în citirea urmelor, în găsirea hranei în sălbăticie și în urmărirea prăzii. : [PAWN_nameDef] a urmărit animale și oameni pentru o gamă largă de clienți. A devenit expertă în citirea mirosului, în găsirea hranei în sălbăticie și în urmărirea prăzii.}\n</Ranger96.baseDesc>
+  <!-- EN: ranger -->
+  <Ranger96.title>gardă forestieră</Ranger96.title>
+  <!-- EN: ranger -->
+  <Ranger96.titleShort>gardă forestieră</Ranger96.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] travelled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
+  <Recruiter14.baseDesc>{PAWN_gender ? [PAWN_nameDef] făcea parte dintr-un ordin venerat de artiști marțiali, renumiți atât pentru îndemânarea lor în luptă, cât și pentru practica lor de a refuza să-și trateze răniții.\n\nEl a călătorit pe lumea sa natală, judecând tinerii pe care îi întâlnea pentru a determina dacă ar putea fi potriviți pentru antrenament. : [PAWN_nameDef] făcea parte dintr-un ordin venerat de artiști marțiali, renumiți atât pentru îndemânarea lor în luptă, cât și pentru practica lor de a refuza să își trateze răniții.\n\nCălătorea pe lumea ei natală, judecând tinerii pe care îi întâlnea pentru a determina dacă ar putea fi potriviți pentru antrenament.}\n</Recruiter14.baseDesc>
+  <!-- EN: recruiter -->
+  <Recruiter14.title>recrutor</Recruiter14.title>
+  <Recruiter14.titleFemale>recrutoare</Recruiter14.titleFemale>
+  <!-- EN: recruiter -->
+  <Recruiter14.titleShort>recrutor</Recruiter14.titleShort>
+  <Recruiter14.titleShortFemale>recrutoare</Recruiter14.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] slaughtered animals for a living. Others looked down on this work as filthy, but the skills required to manage and cleanly slaughter large numbers of animals were never simple. -->
+  <Slaughterer58.baseDesc>{PAWN_gender ? [PAWN_nameDef] a sacrificat animale pentru a trăi. Alții priveau această muncă ca fiind murdară, dar abilitățile necesare pentru a gestiona și sacrifica în mod curat un număr mare de animale nu au fost niciodată simple. : [PAWN_nameDef] a sacrificat animale pentru a trăi. Alții priveau această muncă ca fiind murdară, dar abilitățile necesare pentru a gestiona și a sacrifica în mod curat un număr mare de animale nu au fost niciodată simple.}\n</Slaughterer58.baseDesc>
+  <!-- EN: slaughterer -->
+  <Slaughterer58.title>măcelar</Slaughterer58.title>
+  <!-- EN: slaughterer -->
+  <Slaughterer58.titleShort>măcelar</Slaughterer58.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was educated in the liberal arts and taught at a public school. [PAWN_pronoun] was widely knowledgeable and well-liked by [PAWN_possessive] students. -->
+  <Teacher20.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost educat în domeniul artelor liberale și a predat la o școală publică. Avea cunoștințe vaste și era foarte apreciat de elevii săi. : [PAWN_nameDef] a studiat artele liberale și a predat la o școală publică. Avea cunoștințe vaste și era foarte apreciată de elevii ei.}\n</Teacher20.baseDesc>
+  <!-- EN: teacher -->
+  <Teacher20.title>profesor</Teacher20.title>
+  <Teacher20.titleFemale>profesoară</Teacher20.titleFemale>
+  <!-- EN: teacher -->
+  <Teacher20.titleShort>profesor</Teacher20.titleShort>
+  <Teacher20.titleShortFemale>profesoară</Teacher20.titleShortFemale>
+  
+  <!-- EN: Working for a tyrannical dictator, [PAWN_nameDef] earned a reputation as an expert in 'persuasion.' Any prisoner who went down into the dungeons left with no secrets - and with [PAWN_nameDef]'s smile scarred permanently into their nightmares. -->
+  <Torturer37.baseDesc>{PAWN_gender ? Lucrând pentru un dictator tiranic, [PAWN_nameDef] și-a câștigat o reputație de expert în "persuasiune". Orice prizonier care cobora în temniță pleca fără secrete - și cu zâmbetul lui [PAWN_nameDef] marcat definitiv în coșmarurile lor. : Lucrând pentru un dictator tiranic, [PAWN_nameDef] și-a câștigat o reputație de expert în "persuasiune". Orice prizonier care cobora în temniță pleca fără secrete - și cu zâmbetul lui [PAWN_nameDef] marcat permanent în coșmarurile lor.}\n</Torturer37.baseDesc>
+  <!-- EN: torturer -->
+  <Torturer37.title>torționar</Torturer37.title>
+  <Torturer37.titleFemale>torționară</Torturer37.titleFemale>
+  <!-- EN: torturer -->
+  <Torturer37.titleShort>torționar</Torturer37.titleShort>
+  <Torturer37.titleShortFemale>torționară</Torturer37.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] treated sick and injured animals for a living. Seeing their suffering affected [PAWN_possessive] stance on the practice of eating meat, and for many years [PAWN_pronoun] lived as a vegetarian. -->
+  <Veterinarian99.baseDesc>{PAWN_gender ? [PAWN_nameDef] a tratat animale bolnave și rănite pentru a-și câștiga existența. Faptul că le-a văzut suferința i-a influențat poziția față de consumul de carne și, timp de mulți ani, a trăit ca vegetarian. : [PAWN_nameDef] a tratat animale bolnave și rănite pentru a-și câștiga existența. Faptul că le-a văzut suferința i-a influențat poziția față de consumul de carne și, timp de mulți ani, a trăit ca vegetariană.}\n</Veterinarian99.baseDesc>
+  <!-- EN: veterinarian -->
+  <Veterinarian99.title>medic veterinar</Veterinarian99.title>
+  <!-- EN: vet -->
+  <Veterinarian99.titleShort>veterinar</Veterinarian99.titleShort>
+  <Veterinarian99.titleShortFemale>veterinară</Veterinarian99.titleShortFemale>
+  
+</LanguageData>

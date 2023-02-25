@@ -50,6 +50,8 @@
   <TabTransporterContents>Conținut</TabTransporterContents>
   <!-- EN: Contents -->
   <TabCasketContents>Conținut</TabCasketContents>
+  <!-- EN: Auto-cut -->
+  <TabWindTurbineAutoCut>TODO</TabWindTurbineAutoCut>
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -108,7 +110,7 @@
   <FactorForMovement>Multiplicator pentru mișcare</FactorForMovement>
   <!-- EN: Slave price -->
   <SlavePrice>Preț de sclav</SlavePrice>
-  <!-- EN: The base market value of this {0} if sold. -->
+  <!-- EN: The base market value of this slave if sold. -->
   <SlavePriceDescription>Valoarea de piață de bază a acestui {0} în cazul în care este vândut.</SlavePriceDescription>
   <!-- EN: Gets food -->
   <GetsFood>Primește mâncare</GetsFood>
@@ -122,6 +124,23 @@
   <ConsideredGuilty>Considerat vinovat (expiră în {0})</ConsideredGuilty>
   <!-- EN: Considered guilty -->
   <ConsideredGuiltyNoTimer>Considerat vinovat</ConsideredGuiltyNoTimer>
+  <!-- EN: Last resistance reduction -->
+  <LastRecruitment>TODO</LastRecruitment>
+  <!-- EN: How much {0_nameDef}'s resistance was reduced by {1} when {0_pronoun} was last recruited. -->
+  <LastRecruitmentDescription>TODO</LastRecruitmentDescription>
+  <!-- EN: Opinion of recruiter -->
+  <OpinionOfRecruiter>TODO</OpinionOfRecruiter>
+  <!-- EN: Recruiter negotiation ability -->
+  <RecruiterNegotiationAbility>TODO</RecruiterNegotiationAbility>
+  <!-- EN: Unwavering loyalty -->
+  <NonRecruitable>TODO</NonRecruitable>
+  <!-- EN: This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely. -->
+  <NonRecruitableTip>TODO</NonRecruitableTip>
+  <!-- EN: Their loyalty extends to their beliefs and they cannot be converted. -->
+  <NonRecruitableTipCannotConvert>TODO</NonRecruitableTipCannotConvert>
+
+
+
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
@@ -148,7 +167,7 @@
   <PainLevel>Durere</PainLevel>
   <!-- EN: Injured -->
   <Injured>Rănit</Injured>
-  <!-- EN: Untended injury -->
+  <!-- EN: untended injury -->
   <UntendedInjury>Rană netratată</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>fără condiții de sănătate</NoHealthConditions>
@@ -168,9 +187,9 @@
   <WontBleedOutSoon>fără pericol imediat</WontBleedOutSoon>
   <!-- EN: Overview -->
   <HealthOverview>Sumar</HealthOverview>
-  <!-- EN: Operations ({0}) -->
+  <!-- EN: Operations -->
   <MedicalOperationsShort>Operațiuni ({0})</MedicalOperationsShort>
-  <!-- EN: Modifications ({0}) -->
+  <!-- EN: Modifications -->
   <MedicalOperationsMechanoidsShort>Modificări ({0})</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
   <MedicalOperations>Operațiuni medicale</MedicalOperations>
@@ -186,6 +205,8 @@
   <SocialInteractionsLower>interacțiuni sociale</SocialInteractionsLower>
   <!-- EN: Hunger rate -->
   <HungerRate>Rata foamei</HungerRate>
+  <!-- EN: Food consumption -->
+  <FoodConsumption>TODO</FoodConsumption>
   <!-- EN: Tiredness -->
   <Tiredness>Oboseală</Tiredness>
   <!-- EN: Pain -->
@@ -241,8 +262,6 @@
   <TrainingNeedsPrerequisite>Precondiție necesară: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
-  <!-- EN: (no relationships) -->
-  <NoRelationships>(fără relații)</NoRelationships>
   <!-- EN: Kidnapped -->
   <Kidnapped>Răpit</Kidnapped>
   <!-- EN: Lent to {FACTION_name}, returns in {1} -->
@@ -253,9 +272,9 @@
   <Slave>Slave</Slave>
   <!-- EN: Faction leader -->
   <FactionLeader>Lider de facțiune</FactionLeader>
-  <!-- EN: Opinion of {1_labelShort} -->
+  <!-- EN: Opinion of {0} -->
   <OpinionOf>Opinia lui {1_labelShort}</OpinionOf>
-  <!-- EN: {1_labelShort}'s opinion of me -->
+  <!-- EN: {0}'s opinion of me -->
   <SomeonesOpinionOfMe>Opinia despre mine a {1_labelShort}</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>Sunt mort</IAmDead>
@@ -398,7 +417,10 @@
 
   <!-- EN: Pen is not enclosed -->
   <AutocutUnenclosedPen>Țarc nu este închis</AutocutUnenclosedPen>
-  <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
+  <!-- EN: Pen is not enclosed now, so auto-cut won't occur. -->
   <AutocutUnenclosedPenTip>Țarcul nu este închis acum, deci tăierea automată nu va avea loc.</AutocutUnenclosedPenTip>
+
+  <!-- EN: Auto-cut blocking plants -->
+  <WindTurbineAutoCut_EnabledCheckbox>TODO</WindTurbineAutoCut_EnabledCheckbox>
 
 </LanguageData>

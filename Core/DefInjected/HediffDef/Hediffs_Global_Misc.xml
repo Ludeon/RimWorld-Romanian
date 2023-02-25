@@ -41,10 +41,17 @@
   <!-- EN: a catatonic breakdown -->
   <CatatonicBreakdown.labelNoun>o cădere catatonică</CatatonicBreakdown.labelNoun>
   
+  <!-- EN: covered in firefoam -->
+  <CoveredInFirefoam.label>TODO</CoveredInFirefoam.label>
+  <!-- EN: Covered in a fire-retardant foam. -->
+  <CoveredInFirefoam.description>TODO</CoveredInFirefoam.description>
+  
   <!-- EN: cryptosleep sickness -->
   <CryptosleepSickness.label>rău de criptosomn</CryptosleepSickness.label>
   <!-- EN: After-effects of using a cryptosleep pod. Cryptosleep suspends and replaces many bodily functions in order to prevent aging and death. Upon exiting cryptosleep, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the patient suffers from nausea, dizziness, and a sense of fuzziness in the mind. -->
   <CryptosleepSickness.description>Consecințele utilizării unei capsule de criptosomn. Criptosomnul suspendă și înlocuiește multe funcții corporale pentru a preveni îmbătrânirea și moartea. La ieșirea din criptosomn, organismul are nevoie de timp pentru a reporni și a-și reechilibra procesele metabolice naturale. În timp ce acest lucru este în curs de desfășurare, pacientul suferă de greață, amețeli și o senzație de neclaritate în minte.</CryptosleepSickness.description>
+  <!-- EN: After-effects of using a cryptosleep pod including dizziness, nausea, and vomiting. -->
+  <CryptosleepSickness.descriptionShort>TODO</CryptosleepSickness.descriptionShort>
   
   <!-- EN: drug overdose -->
   <DrugOverdose.label>supradozaj de medicamente</DrugOverdose.label>
@@ -129,12 +136,12 @@
   
   <!-- EN: resurrection sickness -->
   <ResurrectionSickness.label>rău de înviere</ResurrectionSickness.label>
-  <!-- EN: After-effects of being resurrected by mechanite injection. Artificially-kickstarted body processes take time to rebalance themselves. -->
+  <!-- EN: After-effects of resurrection. Artificially-restarted body processes take time to rebalance themselves. -->
   <ResurrectionSickness.description>Urmările învierii prin injectare de mecanită. Procesele corpului pornite artificial au nevoie de timp pentru a se reechilibra.</ResurrectionSickness.description>
   
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>acumularea de substanțe toxice</ToxicBuildup.label>
-  <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nCreatures who die with toxic buildup cannot be eaten. -->
+  <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance. -->
   <ToxicBuildup.description>Otravă în fluxul sanguin. Aceasta poate proveni din diverse surse, inclusiv toxine din mediul înconjurător, mușcături veninoase sau arme otrăvite.\n\nLa doze mari, acumularea toxică este letală. Chiar și la doze mici, poate genera cancere.\n\nCreaturile care mor din cauza acumulării toxice nu pot fi mâncate.</ToxicBuildup.description>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-0.label>initial</ToxicBuildup.stages.initial-0.label>

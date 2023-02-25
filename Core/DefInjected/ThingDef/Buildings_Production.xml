@@ -108,7 +108,7 @@
   
   <!-- EN: butcher table -->
   <TableButcher.label>masă de măcelărie</TableButcher.label>
-  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
+  <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. Rotting or dessicated corpses cannot be butchered. -->
   <TableButcher.description>O masă grea pentru măcelărirea creaturilor moarte în bucăți de carne crudă.</TableButcher.description>
   
   <!-- EN: machining table -->

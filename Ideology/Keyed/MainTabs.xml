@@ -50,8 +50,6 @@
   <RandomizeName>Randomizează numele</RandomizeName>
   <!-- EN: Randomize precepts -->
   <RandomizePrecepts>Randomizează preceptele</RandomizePrecepts>
-  <!-- EN: Add precept -->
-  <AddPrecept>adaugă {0}</AddPrecept>
   <!-- EN: Randomize deities -->
   <RandomizeDeities>Randomizează zeii</RandomizeDeities>
   <!-- EN: Add deity -->
@@ -102,8 +100,6 @@
   <RandomizeSymbolsTooltip>Randomizează numele ideoligiei, icoana, narațiunea, titlul liderului și orice alte texte, cum ar fi numele ritualurilor sau numele rolurilor. Acest lucru nu afectează elementele de joc precum meme sau precepte.</RandomizeSymbolsTooltip>
   <!-- EN: Click any element to edit it -->
   <ClickAnyElementToEditIt>Faceți clic pe orice element pentru a-l edita</ClickAnyElementToEditIt>
-  <!-- EN: Click to edit -->
-  <ClickToEdit>Faceți clic pentru a edita</ClickToEdit>
   <!-- EN: Leader title -->
   <LeaderTitle>Titlul liderului</LeaderTitle>
   <!-- EN: Deity name -->
@@ -134,6 +130,8 @@
   <All>toate</All>
   <!-- EN: Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims, enhance rituals, and strengthen an ideoligion's ability to convert outsiders. -->
   <RelicTip>Relicvele sunt obiecte cu semnificație spirituală sau ideologică. Ele pot fi descoperite prin completarea unor misiuni lungi și periculoase. O relicvă poate fi instalată într-un relicvariu pentru a atrage pelerini, pentru a îmbunătăți ritualurile și pentru a întări capacitatea unei ideoligii de a converti străinii.</RelicTip>
+  <!-- EN: Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims and enhance rituals. -->
+  <RelicTipClassic>TODO</RelicTipClassic>
   <!-- EN: animal -->
   <Animal>animal</Animal>
   <!-- EN: Venerated animals -->

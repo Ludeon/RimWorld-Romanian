@@ -78,8 +78,13 @@
   
   <!-- EN: shelf -->
   <Shelf.label>raft</Shelf.label>
-  <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
+  <!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
   <Shelf.description>Un raft pentru depozitarea diverselor obiecte. Obiectele depozitate în acesta nu vor afecta frumusețea camerei și nu se vor deteriora, chiar dacă sunt afară.</Shelf.description>
+  
+  <!-- EN: small shelf -->
+  <ShelfSmall.label>TODO</ShelfSmall.label>
+  <!-- EN: A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
+  <ShelfSmall.description>TODO</ShelfSmall.description>
   
   <!-- EN: sleeping spot -->
   <SleepingSpot.label>loc de dormit</SleepingSpot.label>
@@ -87,24 +92,9 @@
   <SleepingSpot.description>Desemnează un loc pe sol unde oamenii ar trebui să doarmă. Nu este confortabil.</SleepingSpot.description>
   
   <!-- EN: standing lamp -->
-  <StandingLamp.label>lampă în picioare</StandingLamp.label>
+  <StandingLamp.label>TODO</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
-  <StandingLamp.description>O lampă electrică în picioare care luminează o zonă. Oamenii au nevoie de lumină pentru a se mișca și a lucra la viteză maximă.</StandingLamp.description>
-  
-  <!-- EN: standing lamp (blue) -->
-  <StandingLamp_Blue.label>lampă în picioare (albastră)</StandingLamp_Blue.label>
-  <!-- EN: A standing lamp that lights an area in blue. -->
-  <StandingLamp_Blue.description>O lampă în picioare care luminează o zonă în albastru.</StandingLamp_Blue.description>
-  
-  <!-- EN: standing lamp (green) -->
-  <StandingLamp_Green.label>lampă în picioare (verde)</StandingLamp_Green.label>
-  <!-- EN: A standing lamp that lights an area in green. -->
-  <StandingLamp_Green.description>O lampă în picioare care luminează o zonă în verde.</StandingLamp_Green.description>
-  
-  <!-- EN: standing lamp (red) -->
-  <StandingLamp_Red.label>lampă în picioare (roșu)</StandingLamp_Red.label>
-  <!-- EN: A standing lamp that lights an area in red. -->
-  <StandingLamp_Red.description>O lampă în picioare care luminează o zonă în roșu.</StandingLamp_Red.description>
+  <StandingLamp.description>TODO</StandingLamp.description>
   
   <!-- EN: stool -->
   <Stool.label>taburet</Stool.label>

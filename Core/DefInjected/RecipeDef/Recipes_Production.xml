@@ -26,6 +26,8 @@
   <Make_ChemfuelFromOrganics.label>produce carburant chimic din substanțe organice</Make_ChemfuelFromOrganics.label>
   <!-- EN: Make a batch of chemfuel by extracting biofuel from organic feedstocks. -->
   <Make_ChemfuelFromOrganics.description>Produce un lot de combustibil chimic prin extragerea biocombustibilului din materii prime organice.</Make_ChemfuelFromOrganics.description>
+  <!-- EN: feedstock -->
+  <Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>TODO</Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
   <!-- EN: Refining chemfuel from organics. -->
   <Make_ChemfuelFromOrganics.jobString>Rafinarea combustibilului chimic din substanțe organice.</Make_ChemfuelFromOrganics.jobString>
   

@@ -1,31 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: blue carpet -->
-  <CarpetBlue.label>covor albastru</CarpetBlue.label>
-  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
-  <CarpetBlue.description>Covor de pluș care se strânge pe degetele de la picioare într-o culoare albastră rece.</CarpetBlue.description>
-  
-  <!-- EN: cream carpet -->
-  <CarpetCream.label>covor crem</CarpetCream.label>
-  <!-- EN: Inviting cream-colored carpet. -->
-  <CarpetCream.description>Covor primitor de culoare crem.</CarpetCream.description>
-  
-  <!-- EN: dark carpet -->
-  <CarpetDark.label>covor închis</CarpetDark.label>
-  <!-- EN: Professional-looking dark gray carpet. -->
-  <CarpetDark.description>Covor gri închis cu aspect profesional.</CarpetDark.description>
-  
-  <!-- EN: green carpet -->
-  <CarpetGreen.label>covor verde</CarpetGreen.label>
-  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
-  <CarpetGreen.description>Covor verde cu aspect naturalist. Tonuri de pământ.</CarpetGreen.description>
-  
-  <!-- EN: red carpet -->
-  <CarpetRed.label>covor roșu</CarpetRed.label>
-  <!-- EN: Plush carpet in a lovely rose hue. -->
-  <CarpetRed.description>Covor plușat într-o nuanță frumoasă de roz.</CarpetRed.description>
-  
   <!-- EN: concrete -->
   <Concrete.label>beton</Concrete.label>
   <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
@@ -38,7 +13,7 @@
   
   <!-- EN: steel tile -->
   <MetalTile.label>țiglă de oțel</MetalTile.label>
-  <!-- EN: Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <!-- EN: Steel tiles, for that spaceship look. They are quick to clean and get a bonus to cleanliness for use in medical settings. -->
   <MetalTile.description>Gresie din oțel, pentru acel aspect de navă spațială. Sunt drăguțe, iar suprafața netedă a țiglei primește un bonus la curățenie.</MetalTile.description>
   
   <!-- EN: paved tile -->
@@ -48,12 +23,12 @@
   
   <!-- EN: silver tile -->
   <SilverTile.label>țiglă argintie</SilverTile.label>
-  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They are quick to clean and get a bonus to cleanliness. -->
   <SilverTile.description>Pentru un aspect futurist, dar regal, gresia argintie se potrivește perfect în camerele luxoase. Acestea primesc un bonus la curățenie.</SilverTile.description>
   
   <!-- EN: sterile tile -->
   <SterileTile.label>țiglă sterilă</SterileTile.label>
-  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
   <SterileTile.description>Plăci sterile cu proprietăți speciale de îmbunătățire a curățeniei. Camerele foarte curate îmbunătățesc rezultatele în spitale și laboratoare de cercetare. Această țiglă se construiește foarte lent.</SterileTile.description>
   
   <!-- EN: straw matting -->

@@ -13,6 +13,9 @@
   <!-- EN: deer -->
   <Deer.labelPlural>cerb</Deer.labelPlural>
   
+  <!-- EN: gazelle -->
+  <Gazelle.label>gazelă</Gazelle.label>
+  
   <!-- EN: ibex -->
   <Ibex.label>ibex</Ibex.label>
   <!-- EN: ibex doe -->
@@ -21,6 +24,13 @@
   <Ibex.labelMale>ibex berbec</Ibex.labelMale>
   <!-- EN: ibexes -->
   <Ibex.labelPlural>Ibeci</Ibex.labelPlural>
+  
+  <!-- EN: pig -->
+  <Pig.label>porc</Pig.label>
+  <!-- EN: sow -->
+  <Pig.labelFemale>scroafă</Pig.labelFemale>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>purceluș</Pig.lifeStages.piglet.label>
   
   <!-- EN: wild boar -->
   <WildBoar.label>mistreț sălbatic</WildBoar.label>

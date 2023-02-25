@@ -58,6 +58,17 @@
   <!-- EN: right hoof -->
   <Donkey.tools.right_hoof.label>copita dreaptă</Donkey.tools.right_hoof.label>
   
+  <!-- EN: dromedary -->
+  <Dromedary.label>dromedar</Dromedary.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed. -->
+  <Dromedary.description>Mamifer terestru de mari dimensiuni, adaptat la mediile aride. Domesticiți din cele mai vechi timpuri, lâna și pielea sa sunt extrem de bune pentru a izola de căldura deșertului, iar laptele său este foarte hrănitor. Poate fi folosit ca animal de povară, dar mersul său săltăreț îl face prea inconfortabil pentru a fi călărit pe orice distanță.\n\nPrin stocarea apei în cocoașele sale mari și recuperarea umidității din respirație atunci când expiră, poate rezista săptămâni întregi fără să bea.</Dromedary.description>
+  <!-- EN: left hoof -->
+  <Dromedary.tools.left_hoof.label>copita stângă</Dromedary.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Dromedary.tools.right_hoof.label>copita dreaptă</Dromedary.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Dromedary.tools.head.label>cap</Dromedary.tools.head.label>
+  
   <!-- EN: elephant -->
   <Elephant.label>elefant</Elephant.label>
   <!-- EN: The largest unmodified land animal. Elephants has a long trunk they use to manipulate objects, and sharp tusks they use to gore attackers. A dead elephant's valuable tusks can be recovered by butchering it.\n\nIntelligent creatures with complex social relationships, elephants can be used as pack animals or trained to carry out the most complex of tasks. They live a long time, and are known to remember events and relationships from many decades before. -->
@@ -101,6 +112,17 @@
   <Horse.tools.left_hoof.label>copita stângă</Horse.tools.left_hoof.label>
   <!-- EN: right hoof -->
   <Horse.tools.right_hoof.label>copita dreaptă</Horse.tools.right_hoof.label>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>muffalo</Muffalo.label>
+  <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
+  <Muffalo.description>Un erbivor de mari dimensiuni care pasc turme și care descinde din bivoli și este adaptat atât la mediile reci, cât și la cele calde. În timp ce muffalo furioși sunt mortali, muffalo îmblânziți sunt destul de docili și pot fi folosiți ca animale de povară.\n\nNimeni nu știe sigur de ce sunt albaștri - ar putea fi vorba chiar de un test de modificare genetică timpurie care nu a mai fost schimbat.</Muffalo.description>
+  <!-- EN: head -->
+  <Muffalo.tools.head.label>cap</Muffalo.tools.head.label>
+  <!-- EN: left hoof -->
+  <Muffalo.tools.left_hoof.label>copita stângă</Muffalo.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Muffalo.tools.right_hoof.label>copita dreaptă</Muffalo.tools.right_hoof.label>
   
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>rinoceron</Rhinoceros.label>

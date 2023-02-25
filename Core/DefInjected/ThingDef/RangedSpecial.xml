@@ -7,6 +7,8 @@
   <OrbitalTargeterBombardment.description>Un aparat de țintire antic pentru un sistem de bombardament orbital. Acest aparat desemnează o țintă și transmite coordonatele către o rețea de sateliți, care apoi bombardează zona țintă cu impactoare cinetice. Această unitate a fost reprogramată pentru a accepta utilizatori neautorizați, dar odată ce este folosită, rețeaua va detecta incursiunea și va tăia legătura permanent.</OrbitalTargeterBombardment.description>
   <!-- EN: charge -->
   <OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>încărcare</OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OrbitalTargeterBombardment.comps.CompReloadable.cooldownGerund>TODO</OrbitalTargeterBombardment.comps.CompReloadable.cooldownGerund>
   <!-- EN: orbital bombardment targeter -->
   <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>ochitor de bombardament orbital</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
   
@@ -16,6 +18,8 @@
   <OrbitalTargeterPowerBeam.description>O unitate de țintire antică pentru o rețea de sateliți de colectare a energiei. Odată țintită spre o țintă, aceasta dirijează sateliții antici să înceapă să emită energie într-o coloană masivă de energie electromagnetică. Această energie poate fi colectată în siguranță într-o antenă de absorbție gigantică. Deoarece nu aveți o antenă de absorbție, o veți îndrepta spre inamici, moment în care coloana de energie va transforma zona într-un infern de o mie de grade. Acest lucru va dura până când sateliții vor detecta țintirea nesigură, se vor opri și vor dezactiva permanent ținta.</OrbitalTargeterPowerBeam.description>
   <!-- EN: charge -->
   <OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>încărcare</OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OrbitalTargeterPowerBeam.comps.CompReloadable.cooldownGerund>TODO</OrbitalTargeterPowerBeam.comps.CompReloadable.cooldownGerund>
   <!-- EN: orbital power beam targeter -->
   <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>ochitor orbital de fascicul de putere</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
   
@@ -25,6 +29,8 @@
   <TornadoGenerator.description>O veche unitate de control pentru o rețea de sateliți de control al vremii. Acest dispozitiv a avut anumite măsuri de siguranță ocolite; este capabil să provoace o perturbare masivă a curentului de aer, care va genera o tornadă într-un loc ales. Rețeaua meteorologică va detecta această intruziune neautorizată și va bloca dispozitivul după utilizare, dar tornada va fi lăsată să își cheltuiască energia în mod normal.</TornadoGenerator.description>
   <!-- EN: charge -->
   <TornadoGenerator.comps.CompReloadable.chargeNoun>încărcare</TornadoGenerator.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <TornadoGenerator.comps.CompReloadable.cooldownGerund>TODO</TornadoGenerator.comps.CompReloadable.cooldownGerund>
   <!-- EN: tornado generator -->
   <TornadoGenerator.verbs.Verb_Spawn.label>generator de tornade</TornadoGenerator.verbs.Verb_Spawn.label>
   

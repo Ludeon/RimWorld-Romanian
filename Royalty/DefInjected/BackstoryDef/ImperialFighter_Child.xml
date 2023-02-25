@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood behind bars. Following an unsuccessful escape attempt, [PAWN_pronoun] was pressed into the military. -->
+  <Delinquent13.baseDesc>{PAWN_gender ? [PAWN_nameDef] și-a petrecut cea mai mare parte a copilăriei în spatele gratiilor. În urma unei încercări nereușite de evadare, a fost înrolat în armată. : [PAWN_nameDef] și-a petrecut cea mai mare parte a copilăriei în spatele gratiilor. În urma unei tentative de evadare nereușite, a fost recrutată în armată.}\n</Delinquent13.baseDesc>
+  <!-- EN: delinquent -->
+  <Delinquent13.title>delicvent</Delinquent13.title>
+  <Delinquent13.titleFemale>delicventă</Delinquent13.titleFemale>
+  <!-- EN: delinquent -->
+  <Delinquent13.titleShort>delicvent</Delinquent13.titleShort>
+  <Delinquent13.titleShortFemale>delicventă</Delinquent13.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] had a knack for machinery. [PAWN_pronoun] supplemented [PAWN_possessive] family's income by repairing and modifying black market weapons. -->
+  <Machinist56.baseDesc>{PAWN_gender ? [PAWN_nameDef] avea un talent deosebit pentru mașini. El a suplimentat veniturile familiei sale reparând și modificând arme de pe piața neagră. : [PAWN_nameDef] avea un talent deosebit pentru mașini. Ea a suplimentat veniturile familiei sale reparând și modificând arme de pe piața neagră.}\n</Machinist56.baseDesc>
+  <!-- EN: machinist -->
+  <Machinist56.title>mașinist</Machinist56.title>
+  <Machinist56.titleFemale>mașinistă</Machinist56.titleFemale>
+  <!-- EN: machinist -->
+  <Machinist56.titleShort>mașinist</Machinist56.titleShort>
+  <Machinist56.titleShortFemale>mașinistă</Machinist56.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was levied from [PAWN_possessive] family at a young age to become a soldier. [PAWN_pronoun] lived in barracks with other military kids, learning about duty, weapons, pain, and victory.\n\nThe trainers sometimes let the kids escape the base to enjoy the wider world. They wanted soldiers who can think independently. -->
+  <MilitaryCadet46.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost luat de la familia sa la o vârstă fragedă pentru a deveni soldat. A trăit în barăci cu alți copii militari, învățând despre datorie, arme, durere și victorie.\nÎnvățătorii îi lăsau uneori pe copii să evadeze din bază pentru a se bucura de lumea largă. Își doreau soldați care să poată gândi independent. : [PAWN_nameDef] a fost îndepărtată de familia ei la o vârstă fragedă pentru a deveni soldat. A trăit în barăci cu alți copii militari, învățând despre datorie, arme, durere și victorie.\n\nDresorii îi lăsau uneori pe copii să evadeze din bază pentru a se bucura de lumea largă. Își doreau soldați care să poată gândi independent.}\n</MilitaryCadet46.baseDesc>
+  <!-- EN: military cadet -->
+  <MilitaryCadet46.title>cadet militar</MilitaryCadet46.title>
+  <!-- EN: cadet -->
+  <MilitaryCadet46.titleShort>cadet</MilitaryCadet46.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was kidnapped by a rival family and held for ransom. To pass the time in captivity, [PAWN_pronoun] read books and practiced martial arts. [PAWN_nameDef] had few opportunities to develop [PAWN_possessive] social skills. -->
+  <PoliticalCaptive7.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost răpit de o familie rivală și ținut pentru răscumpărare. Pentru a trece timpul în captivitate, a citit cărți și a practicat artele marțiale. [PAWN_nameDef] a avut puține oportunități de a-și dezvolta abilitățile sociale. : [PAWN_nameDef] a fost răpită de o familie rivală și ținută pentru răscumpărare. Pentru a trece timpul în captivitate, a citit cărți și a practicat artele marțiale. [PAWN_nameDef] a avut puține oportunități de a-și dezvolta abilitățile sociale.}\n</PoliticalCaptive7.baseDesc>
+  <!-- EN: political captive -->
+  <PoliticalCaptive7.title>captiv politic</PoliticalCaptive7.title>
+  <!-- EN: captive -->
+  <PoliticalCaptive7.titleShort>captiv</PoliticalCaptive7.titleShort>
+  <PoliticalCaptive7.titleShortFemale>captivă</PoliticalCaptive7.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] came from a wealthy and influential bloodline. [PAWN_possessive] expensive education included lessons on dueling, leadership, and military strategy. -->
+  <RichKid61.baseDesc>{PAWN_gender ? [PAWN_nameDef] provenea dintr-o familie bogată și influentă. Educația sa costisitoare a inclus lecții de duel, leadership și strategie militară. : [PAWN_nameDef] provenea dintr-o familie bogată și influentă, iar educația ei costisitoare includea lecții de duel, leadership și strategie militară.}\n</RichKid61.baseDesc>
+  <!-- EN: rich kid -->
+  <RichKid61.title>copil bogat</RichKid61.title>
+  <!-- EN: rich kid -->
+  <RichKid61.titleShort>copil bogat</RichKid61.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born to low-ranked servants on an ancient starship. The ship's machine persona was like a third parent to [PAWN_objective], and the parts crafting crew [PAWN_pronoun] worked for was like a second family.\n\n[PAWN_nameDef] rarely saw plants or animals, and still finds them unnerving to touch. -->
+  <ShipBoy89.baseDesc>{PAWN_gender ? [PAWN_nameDef] s-a născut ca servitor de rang inferior pe o navă stelară antică. Personajul mașinii de pe navă era ca un al treilea părinte pentru el, iar echipajul de confecționare a pieselor pentru care lucra era ca o a doua familie.\n\n[PAWN_nameDef] a văzut rareori plante sau animale, și încă îi deranjează să le atingă. : [PAWN_nameDef] s-a născut ca servitoare de rang inferior pe o navă stelară antică. Personajul mașinii de pe navă a fost ca un al treilea părinte pentru ea, iar echipajul de confecționare a pieselor pentru care a lucrat a fost ca o a doua familie.\n\n[PAWN_nameDef] a văzut rar plante sau animale, și încă le găsește enervante la atingere.}\n</ShipBoy89.baseDesc>
+  <!-- EN: ship boy -->
+  <ShipBoy89.title>băiat de navă</ShipBoy89.title>
+  <!-- EN: ship girl -->
+  <ShipBoy89.titleFemale>fată de navă</ShipBoy89.titleFemale>
+  <!-- EN: ship boy -->
+  <ShipBoy89.titleShort>băiat de navă</ShipBoy89.titleShort>
+  <!-- EN: ship girl -->
+  <ShipBoy89.titleShortFemale>fată de navă</ShipBoy89.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was raised on the ancient starship where [PAWN_possessive] parents were stationed. [PAWN_pronoun] learned the basics of firearm operations and maintenance from the soldiers on board. [PAWN_nameDef] became accustomed to a strict routine and frequent discipline. -->
+  <SoldiersKid55.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost crescut pe vechea navă stelară pe care erau staționați părinții săi. A învățat noțiunile de bază privind funcționarea și întreținerea armelor de foc de la soldații de la bord. [PAWN_nameDef] s-a obișnuit cu o rutină strictă și cu o disciplină frecventă. : [PAWN_nameDef] a fost crescută pe vechea navă stelară pe care erau staționați părinții ei. A învățat de la soldații de la bord elementele de bază ale funcționării și întreținerii armelor de foc. [PAWN_nameDef] s-a obișnuit cu o rutină strictă și cu o disciplină frecventă.}\n</SoldiersKid55.baseDesc>
+  <!-- EN: soldier's kid -->
+  <SoldiersKid55.title>copil al unui soldat</SoldiersKid55.title>
+  <!-- EN: soldier kid -->
+  <SoldiersKid55.titleShort>copil soldat</SoldiersKid55.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] belonged to a gang of street thieves. [PAWN_possessive] days were spent picking pockets, settling disputes over territory, or high on whatever drugs [PAWN_pronoun] could get [PAWN_possessive] hands on. -->
+  <StreetRat81.baseDesc>{PAWN_gender ? [PAWN_nameDef] făcea parte dintr-o bandă de hoți de stradă. Își petrecea zilele furând din buzunare, rezolvând disputele pentru teritoriu sau drogându-se cu orice drog pe care putea pune mâna. : [PAWN_nameDef] făcea parte dintr-o bandă de hoți de stradă. Își petrecea zilele furând din buzunare, rezolvând conflicte legate de teritoriu sau drogându-se cu orice drog pe care reușea să pună mâna.}\n</StreetRat81.baseDesc>
+  <!-- EN: street rat -->
+  <StreetRat81.title>șobolan de stradă</StreetRat81.title>
+  <!-- EN: street rat -->
+  <StreetRat81.titleShort>șobolan de stradă</StreetRat81.titleShort>
+  
+</LanguageData>

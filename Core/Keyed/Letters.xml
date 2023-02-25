@@ -10,10 +10,12 @@
   <RejectLetter>Respingeți</RejectLetter>
   <!-- EN: Read more -->
   <ReadMore>Citește mai mult</ReadMore>
+  <!-- EN: You have {0} more letters -->
+  <MoreLetters>TODO</MoreLetters>
 
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Vară</LetterLabelFirstSummerWarning>
-  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
+  <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
   <FirstSummerWarning>Vara a început! Dar vine iarna.\n\nCulturile voastre nu vor crește în frigul iernii. Asigură-te că depozitezi suficientă mâncare pentru a supraviețui. Poți construi un frigider de tip walk-in pentru a preveni deteriorarea alimentelor.\n\nCumpărați, furați sau confecționați niște parka, altfel veți îngheța când veți ieși afară.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
@@ -45,7 +47,7 @@
   <!-- EN: Death -->
   <Death>Moarte</Death>
 
-  <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
+  <!-- EN: A {1_label} has short-circuited due to precipitation and started a fire. -->
   <ShortCircuitRain>O {1_label} a intrat în scurtcircuit în ploaie și a provocat un incendiu.</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
@@ -76,7 +78,9 @@
   <LetterLabelBirthday>Ziua de naștere</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>Astăzi este ziua de naștere cronologică a lui {0}! Din punct de vedere biologic, {1} are {3} ani.\n\nCronologic, {1} tocmai a împlinit {2}.\n\nNotează că, deoarece oamenii nu îmbătrânesc în timpul criptosomnului, ziua de naștere cronologică este separată de cea biologică.</BirthdayChronological>
-  <!-- EN: {0_nameFull} has reached the biological age of {1}.\n\nUnfortunately, {0_nameFull} has gained the following diseases due to aging:\n{2} -->
+  <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
+  <LetterBirthdayBiological>TODO</LetterBirthdayBiological>
+  <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
   <BirthdayBiologicalAgeInjuries>{0_nameFull} a ajuns la vârsta biologică de {1}.\n\nDin păcate, {0_nameFull} a căpătat următoarele boli din cauza îmbătrânirii:\n{2}</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
@@ -419,24 +423,12 @@
   <LetterPredatorHuntingColonist>{PREDATOR} îl vânează pe {PREY_definite} pentru hrană!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
-  <!-- EN: {0} blocked {1} on: {2}. -->
+  <!-- EN: {0} blocked {1} on -->
   <LetterDisease_Blocked>{0} a blocat {1} pe: {2}.</LetterDisease_Blocked>
   <!-- EN: Disease: {0} -->
   <LetterLabelTraitDisease>Boală: {0}</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>{PAWN_label} s-a îmbolnăvit de la {1}.\n\nAsigură-te că ai un pat medical și un doctor. Asigură-te că {PAWN_pronoun} primește un tratament adecvat și petrece cât mai mult timp posibil la pat.</LetterTraitDisease>
-
-  <!-- Surgery -->
-  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
-  <LetterLabelSurgeryFailed>Operația chirurgicală a eșuat la {PATIENT_labelShort}</LetterLabelSurgeryFailed>
-  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort} a eșuat într-un mod minor în timp ce opera pe {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureMinor>
-  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort} a eșuat în mod catastrofal în timp ce îl opera pe {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureCatastrophic>
-  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort} a eșuat într-un mod ridicol în timp ce opera pe {PATIENT_labelShort} ({RECIPE_label}).</MessageMedicalOperationFailureRidiculous>
-  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}. -->
-  <MessageMedicalOperationFailureFatal>{SURGEON_labelShort} a comis o eroare fatală în timpul operației pe {PATIENT_labelShort} din cauza provocărilor speciale ale: {2}.</MessageMedicalOperationFailureFatal>
 
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
@@ -552,5 +544,48 @@
   <LetterLabelSiteCountdownStarted>Caravana detectată</LetterLabelSiteCountdownStarted>
   <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
   <LetterTextSiteCountdownStarted>Caravana dumneavoastră a fost detectată. În {0}, întăriri {1} de la {2} vor începe să sosească în zonă.\n\nReformează-ți caravana și începe să te deplasezi pentru a evita {1}. Un cronometru care numără până la sosirea lor este acum vizibil.</LetterTextSiteCountdownStarted>
+
+  <!-- EN: Unwavering prisoner -->
+  <LetterLabelUnrecruitablePawnCaptured>TODO</LetterLabelUnrecruitablePawnCaptured>
+  <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
+  <LetterTextUnrecruitablePawnCaptured>TODO</LetterTextUnrecruitablePawnCaptured>
+  <!-- EN: enslave {PAWN_objective} -->
+  <OptionalEnslaveDesc>TODO</OptionalEnslaveDesc>
+
+  <!-- Lung rot -->
+  <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
+  <LetterTextLungRot>TODO</LetterTextLungRot>
+
+  <!-- Join Offer -->
+  <!-- EN: Join offer: {PAWN_nameDef} -->
+  <LetterJoinOfferLabel>Ofertă de alăturare: {PAWN_nameDef}</LetterJoinOfferLabel>
+  <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
+  <LetterJoinOfferTitle>{PAWN_nameDef} dorește să se alăture facțiunii voastre.</LetterJoinOfferTitle>
+  <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
+  <LetterJoinOfferText>{PAWN_nameDef} crede că {PAWN_pronoun} este fericit la {MAP_definite}. {PAWN_pronoun} dorește să vi se alăture permanent.</LetterJoinOfferText>
+  <!-- EN: Accept -->
+  <LetterJoinOfferAccept>Acceptă</LetterJoinOfferAccept>
+
+  <!-- Speeches -->
+  <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} a terminat discursul {ORGANIZER_possessive}.</LetterFinishedSpeech>
+  <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
+  <LetterTerribleSpeech>A fost cu adevărat atroce - ezitant, plin de glume ciudate și povești deprimante.</LetterTerribleSpeech>
+  <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
+  <LetterUninspiringSpeech>A fost neinspirat - lipsit de originalitate, monoton și lipsit de orice sentiment de pasiune.</LetterUninspiringSpeech>
+  <!-- EN: It was encouraging and well-delivered. -->
+  <LetterEncouragingSpeech>A fost încurajator și bine ținut.</LetterEncouragingSpeech>
+  <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
+  <LetterInspirationalSpeech>A fost remarcabil de inspirat, plin de intensitate și de scop.</LetterInspirationalSpeech>
+  <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
+  <LetterSpeechInspiredListeners>Următoarele persoane au fost deosebit de emoționate de discurs și sunt acum inspirate:</LetterSpeechInspiredListeners>
+  <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
+  <LetterSpeechInspiration>Datorită discursului remarcabil al lui {SPEAKER_nameIndef}, {PAWN_nameIndef} a experimentat o inspirație!</LetterSpeechInspiration>
+  <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
+  <LetterSpeechInterrupted>Deoarece discursul a fost întrerupt după ce a fost finalizat doar {0}, nu a fost la fel de eficient.</LetterSpeechInterrupted>
+  <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
+  <LetterSpeechCancelled>Discursul lui {ORGANIZER_bestRoyalTitleDef} a fost anulat înainte de a ajunge la 50% de finalizare. Acesta nu a avut niciun efect.</LetterSpeechCancelled>
+  <!-- EN: Speech cancelled -->
+  <LetterLabelSpeechCancelled>Discurs anulat</LetterLabelSpeechCancelled>
 
 </LanguageData>

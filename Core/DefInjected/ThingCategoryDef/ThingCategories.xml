@@ -13,6 +13,9 @@
   <!-- EN: armor -->
   <ApparelArmor.label>armură</ApparelArmor.label>
   
+  <!-- EN: misc -->
+  <ApparelMisc.label>TODO</ApparelMisc.label>
+  
   <!-- EN: noble apparel -->
   <ApparelNoble.label>îmbrăcăminte nobilă</ApparelNoble.label>
   
@@ -33,6 +36,9 @@
   
   <!-- EN: bionic -->
   <BodyPartsBionic.label>bionic</BodyPartsBionic.label>
+  
+  <!-- EN: mechtech -->
+  <BodyPartsMechtech.label>TODO</BodyPartsMechtech.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>natural</BodyPartsNatural.label>
@@ -127,6 +133,9 @@
   <!-- EN: items -->
   <Items.label>articole</Items.label>
   
+  <!-- EN: misc -->
+  <ItemsMisc.label>TODO</ItemsMisc.label>
+  
   <!-- EN: leathers -->
   <Leathers.label>pieili</Leathers.label>
   
@@ -171,6 +180,9 @@
   
   <!-- EN: stone chunks -->
   <StoneChunks.label>bolovani de piatră</StoneChunks.label>
+  
+  <!-- EN: stumps -->
+  <Stumps.label>TODO</Stumps.label>
   
   <!-- EN: techprints -->
   <Techprints.label>Techprint-uri</Techprints.label>

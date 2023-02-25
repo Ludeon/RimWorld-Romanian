@@ -6,7 +6,7 @@ http://ludeon.com/forums/index.php?topic=2933.0
 
 # Current status
 
-Version being translated: `1.3.3200`
+Version being translated: `1.4.3641`
 
 For an up-to-date translation progress report, [check this wiki page](https://github.com/Ludeon/RimWorld-Romanian/wiki/Translation-progress)
 

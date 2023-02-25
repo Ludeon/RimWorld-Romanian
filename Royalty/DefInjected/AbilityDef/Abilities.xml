@@ -28,7 +28,7 @@
   
   <!-- EN: skipshield -->
   <BulletShield.label>scut de deflecție</BulletShield.label>
-  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. -->
+  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. The process is forceful enough to detonate explosive projectiles. People and items are not affected. -->
   <BulletShield.description>Generează un scut sferic care trimite toate proiectilele care intră și ies de la nivelul solului către un loc îndepărtat. Persoanele și obiectele nu sunt afectate.</BulletShield.description>
   
   <!-- EN: burden -->
@@ -38,12 +38,12 @@
   
   <!-- EN: chaos skip -->
   <ChaosSkip.label>salt haotic</ChaosSkip.label>
-  <!-- EN: Teleport the target to a random position near where he started. -->
+  <!-- EN: Teleport the target to a random position near where it started. Objects above a certain size cannot be teleported. -->
   <ChaosSkip.description>Teleportează ținta într-o poziție aleatorie, aproape de locul de unde a pornit.</ChaosSkip.description>
   
   <!-- EN: chunk skip -->
   <Chunkskip.label>salt de bolovani</Chunkskip.label>
-  <!-- EN: Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
+  <!-- EN: Skip the closest 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
   <Chunkskip.description>Sari peste cele 5 bolovani de piatră sau zgură pentru a le împrăștia în apropierea punctului țintă. Acest lucru este util pentru a produce acoperire în timpul operațiunilor ofensive.</Chunkskip.description>
   
   <!-- EN: neural heat dump -->
@@ -53,7 +53,7 @@
   
   <!-- EN: farskip -->
   <Farskip.label>salt distant</Farskip.label>
-  <!-- EN: Skip the caster, along with anyone standing near him, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
+  <!-- EN: Skip the caster, along with anyone standing near them, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
   <Farskip.description>Saltă invocatorul, împreună cu oricine se află lângă el, către un aliat aflat într-o locație îndepărtată. Acest lucru poate trimite oamenii la mare distanță pe planetă, dar funcționează doar dacă există un aliat dispus să fie folosit ca far de navigație pe partea cealaltă. Oamenii săriți vor apărea întotdeauna lângă un aliat aleatoriu de pe harta țintă.</Farskip.description>
   
   <!-- EN: flashstorm -->
@@ -78,7 +78,7 @@
   
   <!-- EN: mass chaos skip -->
   <MassChaosSkip.label>salt haotic în masă</MassChaosSkip.label>
-  <!-- EN: Skip everyone near a target point to a random location nearby. -->
+  <!-- EN: Skip everyone in an area to random positions nearby. Objects which are too large cannot be teleported. -->
   <MassChaosSkip.description>Sari toată lumea din apropierea unui punct țintă către o locație aleatorie din apropiere.</MassChaosSkip.description>
   
   <!-- EN: neuroquake -->
@@ -95,7 +95,7 @@
   
   <!-- EN: skip -->
   <Skip.label>salt</Skip.label>
-  <!-- EN: Teleport the target to a desired position not too far from his starting point. -->
+  <!-- EN: Teleport the target to a desired position not too far from its starting point. Objects which are too large cannot be teleported. -->
   <Skip.description>Teleportează ținta într-o poziție dorită, nu prea departe de punctul său de plecare.</Skip.description>
   
   <!-- EN: smokepop -->
@@ -140,7 +140,7 @@
   
   <!-- EN: word of joy -->
   <WordOfJoy.label>cuvânt de bucurie</WordOfJoy.label>
-  <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in his mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
+  <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in their mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
   <WordOfJoy.description>Spuneți cuvinte vesele și liniștitoare cuiva în timp ce folosiți sugestia psihică pentru a implanta o buclă de joyfuzz în mintea sa. Joyfuzz va suprima gândurile și senzațiile inconfortabile din țintă pentru a îmbunătăți starea de spirit. Acest lucru are ca efect secundar opacifierea senzațiilor și a procesului de luare a deciziilor, ceea ce reduce gradul de conștiință.</WordOfJoy.description>
   
   <!-- EN: word of love -->
@@ -155,7 +155,7 @@
   
   <!-- EN: word of trust -->
   <WordOfTrust.label>cuvânt de încredere</WordOfTrust.label>
-  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce his resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit him. -->
+  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce their resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit them. -->
   <WordOfTrust.description>Vorbește cu prizonierul în timp ce folosești sugestia psihică pentru a-i reduce rezistența la recrutare. Acest lucru poate reduce doar rezistența unui prizonier, dar nu îl poate recruta.</WordOfTrust.description>
   
 </LanguageData>

@@ -45,6 +45,8 @@
   <CannotAttackSelf>nu se poate ataca pe sine</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
   <CannotAttackSameFactionMember>nu poate ataca aliatul facțiunii</CannotAttackSameFactionMember>
+  <!-- EN: Incapable of firefighting. -->
+  <IncapableOfFirefighting>TODO</IncapableOfFirefighting>
 
   <!-- EN: Man {1_labelShort} -->
   <OrderManThing>Omul {1_labelShort}</OrderManThing>
@@ -74,8 +76,10 @@
   <NoMergeTarget>nu există nici o grămadă disponibilă în care să fuzioneze</NoMergeTarget>
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>deja suficient de plin</AlreadyFilledLower>
-  <!-- EN: need material -->
+  <!-- EN: missing {0} -->
   <MissingMaterials>nevoie de material</MissingMaterials>
+  <!-- EN: No medicine for restriction '{CATEGORY}'. -->
+  <NoMedicineMatchingCategory>TODO</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
   <UnderRequiredSkill>sub nivelul de calificare necesar {0}</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
@@ -88,10 +92,14 @@
   <MissingRequiredSkillLevel>lipsește nivelul de calificare necesar</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
   <AnimalInteractedTooRecently>animalul a interacționat prea recent</AnimalInteractedTooRecently>
+  <!-- EN: interacted with too recently -->
+  <PrisonerInteractedTooRecently>TODO</PrisonerInteractedTooRecently>
   <!-- EN: no usable food -->
   <NoUsableFood>nu există alimente utilizabile</NoUsableFood>
   <!-- EN: no food -->
   <NoFood>fără hrană</NoFood>
+  <!-- EN: no food matching restrictions -->
+  <NoFoodMatchingRestrictions>TODO</NoFoodMatchingRestrictions>
   <!-- EN: No {0_label} -->
   <NoIngredient>TODO</NoIngredient>
   <!-- EN: below requirements of {0} -->
@@ -158,14 +166,24 @@
   <InstallImplantNotAllowedForNonColonists>nu este un colonist</InstallImplantNotAllowedForNonColonists>
   <!-- EN: already installed -->
   <InstallImplantAlreadyInstalled>deja instalat</InstallImplantAlreadyInstalled>
+  <!-- EN: requires an existing {0} -->
+  <InstallImplantHediffRequired>TODO</InstallImplantHediffRequired>
   <!-- EN: max level -->
   <InstallImplantAlreadyMaxLevel>nivel maxim</InstallImplantAlreadyMaxLevel>
+  <!-- EN: requires min level {0} -->
+  <InstallImplantMinLevel>TODO</InstallImplantMinLevel>
+  <!-- EN: psychically deaf -->
+  <InstallImplantPsychicallyDeaf>TODO</InstallImplantPsychicallyDeaf>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>Upgrade {0} la nivelul {1}</UpgradeImplant>
   <!-- EN: violation of faction ally -->
   <SurgeryViolationFellowFactionMember>Încălcarea unui aliat al facțiunii</SurgeryViolationFellowFactionMember>
   <!-- EN: being carried by {0_labelShort} -->
   <BeingCarriedBy>este transportat de {0_labelShort}</BeingCarriedBy>
+  <!-- EN: full -->
+  <ContainerFull>TODO</ContainerFull>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>TODO</AlreadyAssigned>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>Consumă {1_labelShort}</ConsumeThing>
@@ -188,9 +206,15 @@
   <Capture>Capturează {1_label}</Capture>
   <!-- EN: Cannot capture -->
   <CannotCapture>Nu se poate captura</CannotCapture>
+  <!-- EN: unwaveringly loyal -->
+  <Unrecruitable>TODO</Unrecruitable>
 
   <!-- EN: Rescue {1_label} -->
   <Rescue>Salvează pe {1_label}</Rescue>
+  <!-- EN: Put {1_label} somewhere safe -->
+  <PutSomewhereSafe>TODO</PutSomewhereSafe>
+  <!-- EN: Taking {0_labelShort} to bed. -->
+  <TakingToBed>TODO</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Nu se poate salva</CannotRescue>
 
@@ -231,6 +255,8 @@
   <Incapable>incapabil</Incapable>
   <!-- EN: incapable of {0} -->
   <IncapableOfCapacity>incapabil de {0}</IncapableOfCapacity>
+  <!-- EN: Must have {0_label} -->
+  <MustHaveHediff>TODO</MustHaveHediff>
 
   <!-- EN: min skill -->
   <MinSkill>aptitudine minimă</MinSkill>
@@ -261,13 +287,15 @@
   <ReloadFull>Plin</ReloadFull>
   <!-- EN: Too few -->
   <ReloadNotEnough>Prea puțin</ReloadNotEnough>
+  <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
+  <ReloadCannotCarryEnough>TODO</ReloadCannotCarryEnough>
   
-  <!-- EN: Cannot pick up {1_label} -->
+  <!-- EN: Cannot pick up {1_labelShort} -->
   <CannotPickUp>Nu se poate lua {1_label}</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
   <CannotPickUpAll>Nu se poate lua {1_label} (toate)</CannotPickUpAll>
-  <!-- EN: Pick up {1_label} -->
-  <PickUp>Ridică {1_label}</PickUp>
+  <!-- EN: Pick up {1_labelShort} x1 -->
+  <PickUpOne>TODO</PickUpOne>
   <!-- EN: Pick up {1_label} (all) -->
   <PickUpAll>Ia {1_label} (toate)</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
@@ -346,6 +374,10 @@
   <UseMedicalBed>Odihnire până la vindecare</UseMedicalBed>
   <!-- EN: not injured -->
   <NotInjured>nu este rănit</NotInjured>
+  <!-- EN: no doctor -->
+  <NoDoctor>TODO</NoDoctor>
+  <!-- EN: medical bed not for slaves -->
+  <NotForSlaves>TODO</NotForSlaves><!-- text_todo -->
   <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>Ocupat de {0}</SomeoneElseSleeping>
   
@@ -518,5 +550,18 @@
   <RepairThing>Repară {0}</RepairThing>
   <!-- EN: Cannot repair {0} -->
   <CannotRepair>Nu se poate repara {0}</CannotRepair>
-  
+
+  <!-- EN: Cannot enter -->
+  <CannotEnter>TODO</CannotEnter>
+
+  <!-- Romance partner -->
+  <!-- EN: Cannot romance {0} -->
+  <CannotRomance>TODO</CannotRomance>
+  <!-- EN: Romance {0} -->
+  <CanRomance>TODO</CanRomance>
+
+  <!-- Feeding -->
+  <!-- EN: disliked food -->
+  <WarningFoodDisliked>TODO</WarningFoodDisliked>
+
 </LanguageData>

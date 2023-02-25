@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
+  <Blacksmith72.baseDesc>{PAWN_gender ? În calitate de fierar într-o lume medievală, [PAWN_nameDef] și-a câștigat o reputație pentru calitatea înaltă a muncii sale. Nu era rău nici la folosirea săbiilor pe care le făurise. : În calitate de fierar într-o lume medievală, [PAWN_nameDef] și-a câștigat o reputație pentru calitatea înaltă a muncii sale. Nu era rea nici la folosirea săbiilor pe care le făurise.}\n</Blacksmith72.baseDesc>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.title>forjar</Blacksmith72.title>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.titleShort>forjar</Blacksmith72.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
+  <Herbalist54.baseDesc>{PAWN_gender ? [PAWN_nameDef] locuia în pădure, în apropierea unui sat. Deși mulți dintre săteni se temeau de el, sătenii bolnavi veneau la el pentru a cumpăra pansamente și cataplasme făcute din ierburile pe care le cultiva în grădina sa. El era fericit să-i ajute - pentru un preț. : [PAWN_nameDef] locuia în pădure, în apropierea unui sat. Deși mulți dintre săteni se temeau de ea, sătenii bolnavi veneau la ea pentru a cumpăra balsamuri și cataplasme făcute din ierburile pe care le cultiva în grădina ei. Ea era fericită să-i ajute - pentru un preț.}\n</Herbalist54.baseDesc>
+  <!-- EN: herbalist -->
+  <Herbalist54.title>herbalist</Herbalist54.title>
+  <!-- EN: herbalist -->
+  <Herbalist54.titleShort>herbalist</Herbalist54.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
+  <MedievalDoctor40.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat ca medic pe o planetă medievală. El crede cu tărie că majoritatea afecțiunilor pot fi vindecate cu puțină sângerare.\n\nEra, de asemenea, un maestru anestezist, dezvoltând o tehnică de specialitate care implica o lovitură puternică în cap. : [PAWN_nameDef] a lucrat ca medic pe o planetă medievală. Ea crede cu tărie că majoritatea afecțiunilor pot fi vindecate cu puțină sângerare.\n\nEra, de asemenea, un maestru anestezist, dezvoltând o tehnică de specialitate care implica o lovitură puternică la cap.}\n</MedievalDoctor40.baseDesc>
+  <!-- EN: medieval doctor -->
+  <MedievalDoctor40.title>doctor medieval</MedievalDoctor40.title>
+  <!-- EN: quack -->
+  <MedievalDoctor40.titleShort>șarlatan</MedievalDoctor40.titleShort>
+  <MedievalDoctor40.titleShortFemale>șarlatană</MedievalDoctor40.titleShortFemale>
+  
+  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life leaves one essentially incapable of participating in intellectual, technology-driven activities. -->
+  <MedievalFarmOaf58.baseDesc>{PAWN_gender ? Lucrul solului, plivitul, ghidarea căruțelor cu boi, împingerea roabelor. Săparea șanțurilor, plantarea semințelor, prezicerea recoltei.\n\nFermierii de nivel medieval nu sunt educați în sensul obișnuit, dar știu multe despre cultivarea plantelor fără tehnologie. Acestea fiind spuse, o astfel de viață te lasă în mod esențial incapabil să participi la activități intelectuale, bazate pe tehnologie. : Lucrul solului, plivitul, ghidarea căruțelor cu boi, împingerea roabelor. Săparea șanțurilor, plantarea semințelor, prezicerea recoltei.\n\nFermierii de nivel medieval nu sunt educați în sensul obișnuit, dar știu multe despre cultivarea plantelor fără tehnologie. Acestea fiind spuse, o astfel de viață te lasă în mod esențial incapabil să participi la activități intelectuale, bazate pe tehnologie.}\n</MedievalFarmOaf58.baseDesc>
+  <!-- EN: medieval farm oaf -->
+  <MedievalFarmOaf58.title>fermier medieval plebeu</MedievalFarmOaf58.title>
+  <MedievalFarmOaf58.titleFemale>fermieră medievală plebee</MedievalFarmOaf58.titleFemale>
+  <!-- EN: oaf -->
+  <MedievalFarmOaf58.titleShort>plebeu</MedievalFarmOaf58.titleShort>
+  <MedievalFarmOaf58.titleShortFemale>plebee</MedievalFarmOaf58.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a lord on a preindustrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a work tool during that entire time. [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
+  <MedievalLord57.baseDesc>{PAWN_gender ? [PAWN_nameDef] era un lord pe o planetă preindustrială. Mergea la petreceri, conducea subalternii și chiar a învățat să mânuiască sabia.\n\nMâinile lui moi nu au ținut în mână nicio unealtă de lucru în tot acest timp. El consideră că munca manuală este sub demnitatea sa. : [PAWN_nameDef] era un lord pe o planetă preindustrială. Mergea la petreceri, conducea subalternii și chiar a învățat să mânuiască sabia.Mâinile ei moi nu au ținut în mână nici un instrument de lucru în tot acest timp. Ea consideră că munca manuală nu este pentru ea.}\n</MedievalLord57.baseDesc>
+  <!-- EN: medieval lord -->
+  <MedievalLord57.title>domn medieval</MedievalLord57.title>
+  <MedievalLord57.titleFemale>doamnă medievală</MedievalLord57.titleFemale>
+  <!-- EN: noble -->
+  <MedievalLord57.titleShort>nobil</MedievalLord57.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world.\n\n[PAWN_pronoun] could always be found telling stories or singing songs, and is capable of protecting [PAWN_objective]self from the dangers of the road. However, [PAWN_pronoun] was always conspicuously absent whenever there was hard labour to be done. -->
+  <MedievalMinstrel95.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost un animator ambulant într-o lume medievală.\n\nEl putea fi găsit mereu spunând povești sau cântând cântece și este capabil să se protejeze singur de pericolele drumului. Cu toate acestea, el a fost întotdeauna vizibil absent ori de câte ori era vorba de o muncă grea. : [PAWN_nameDef] a fost o animatoare ambulantă într-o lume medievală.\n\nEa putea fi găsită mereu spunând povești sau cântând cântece și este capabilă să se protejeze singură de pericolele drumului. Cu toate acestea, ea era întotdeauna vizibil absentă ori de câte ori era nevoie de o muncă grea.}\n</MedievalMinstrel95.baseDesc>
+  <!-- EN: medieval minstrel -->
+  <MedievalMinstrel95.title>menestrel medieval</MedievalMinstrel95.title>
+  <!-- EN: minstrel -->
+  <MedievalMinstrel95.titleShort>menestrel</MedievalMinstrel95.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] collected. -->
+  <MedievalSailor97.baseDesc>{PAWN_gender ? [PAWN_nameDef] a explorat oceanele pe o corabie de lemn, căutând specimene de plante și animale din locuri exotice și, ocazional, luptând cu pirații. Iubea atât de mult marea încât a refuzat să facă orice altceva decât minimul de muncă pe uscat, cu excepția vânzării comorilor pe care le colecționa. : [PAWN_nameDef] a explorat oceanele pe o corabie de lemn, căutând specimene de plante și animale din locuri exotice și, ocazional, luptând cu pirații. Iubea atât de mult marea încât a refuzat să facă orice altceva în afară de munca minimă pe uscat, cu excepția vânzării comorilor pe care le colecționa.}\n</MedievalSailor97.baseDesc>
+  <!-- EN: medieval sailor -->
+  <MedievalSailor97.title>marinar medieval</MedievalSailor97.title>
+  <!-- EN: sailor -->
+  <MedievalSailor97.titleShort>marinar</MedievalSailor97.titleShort>
+  
+  <!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
+  <MessageCarrier77.baseDesc>{PAWN_gender ? Într-o lume medievală, cel mai rapid mod de a trimite un mesaj este să îl dai cuiva pe un cal și să speri că va supraviețui călătoriei. [PAWN_nameDef] era acel cineva. : Într-o lume medievală, cel mai rapid mod de a trimite un mesaj este să îl dai cuiva pe un cal și să speri că va supraviețui călătoriei. [PAWN_nameDef] era acel cineva.}\n</MessageCarrier77.baseDesc>
+  <!-- EN: message carrier -->
+  <MessageCarrier77.title>purtător de mesaje</MessageCarrier77.title>
+  <MessageCarrier77.titleFemale>purtătoare de mesaje</MessageCarrier77.titleFemale>
+  <!-- EN: messenger -->
+  <MessageCarrier77.titleShort>mesager</MessageCarrier77.titleShort>
+  
+  <!-- EN: As the taster for a medieval king, any dish served at the royal table had to be sampled first by [PAWN_nameDef]. [PAWN_pronoun] lived a decadent lifestyle at court, getting fat and doing very little work. -->
+  <Taster16.baseDesc>{PAWN_gender ? În calitate de degustător pentru un rege medieval, orice fel de mâncare servit la masa regală trebuia să fie gustat mai întâi de [PAWN_nameDef]. Acesta a dus un stil de viață decadent la curte, îngrășându-se și muncind foarte puțin. : În calitate de degustător pentru un rege medieval, orice fel de mâncare servit la masa regală trebuia să fie gustat mai întâi de [PAWN_nameDef]. Ea a dus un stil de viață decadent la curte, îngrășându-se și muncind foarte puțin.}\n</Taster16.baseDesc>
+  <!-- EN: taster -->
+  <Taster16.title>degustător</Taster16.title>
+  <Taster16.titleFemale>degustătoare</Taster16.titleFemale>
+  <!-- EN: taster -->
+  <Taster16.titleShort>degustător</Taster16.titleShort>
+  <Taster16.titleShortFemale>degustătoare</Taster16.titleShortFemale>
+  
+</LanguageData>

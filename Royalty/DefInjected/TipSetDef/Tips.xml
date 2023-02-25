@@ -13,7 +13,7 @@
   <RoyaltyTips.ChangeHeir>Puteți schimba moștenitorul unui deținător de titlu prin intermediul consolei de comunicații. Cu toate acestea, acest lucru necesită îndeplinirea unui ritual.</RoyaltyTips.ChangeHeir>
   <!-- EN: The Empire bestows a free level of psylink upon anyone who earns the title required to use it. -->
   <RoyaltyTips.FreePsychicAmplifier>Imperiul acordă un nivel gratuit de psylink tuturor celor care obțin titlul necesar pentru a-l folosi.</RoyaltyTips.FreePsychicAmplifier>
-  <!-- EN: Psylink neuroformers can be acquired through quests. -->
+  <!-- EN: Psylink neuroformers can be acquired through quests. These items can give a person psychic powers. -->
   <RoyaltyTips.IllegalImplantUse>Neuroformatorii psylink pot fi dobândiți prin misiuni.</RoyaltyTips.IllegalImplantUse>
   <!-- EN: Gaining a new level of psylink grants knowledge of one random psychic power. -->
   <RoyaltyTips.InstallingPsychicAmplifier>Obținerea unui nou nivel de psylink acordă cunoașterea unei puteri psihice aleatorii.</RoyaltyTips.InstallingPsychicAmplifier>

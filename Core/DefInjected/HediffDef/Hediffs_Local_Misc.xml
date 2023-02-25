@@ -20,6 +20,8 @@
   <ResurrectionPsychosis.label>psihoză de înviere</ResurrectionPsychosis.label>
   <!-- EN: Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.\n\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence. -->
   <ResurrectionPsychosis.description>Modele de gândire haotice cauzate de decoerența mecanismului de înviere. Psihoza de înviere progresează și, în cele din urmă, provoacă psihoză totală și moarte.\n\nOamenii înviați au nevoie de mecanite pentru a-și reconstrui funcțiile corporale la nivel celular. Mecanitii au întotdeauna șansa de a-și pierde coerența, iar dacă o fac, fac ravagii în sistemul nervos central. Cu cât cadavrul este mai bătrân, cu atât este nevoie de mai multă acțiune mecanită pentru a-l învia și cu atât mai mare este șansa unei eventuale decoerențe.</ResurrectionPsychosis.description>
+  <!-- EN: Chaotic thought patterns caused by after-effects of resurrection. Resurrection psychosis is progressive and eventually causes psychosis and death. -->
+  <ResurrectionPsychosis.descriptionShort>TODO</ResurrectionPsychosis.descriptionShort>
   <!-- EN: early -->
   <ResurrectionPsychosis.stages.early-0.label>devreme</ResurrectionPsychosis.stages.early-0.label>
   <!-- EN: early -->
@@ -39,6 +41,8 @@
   <Scaria.label>scaria</Scaria.label>
   <!-- EN: A disease which causes affected creatures to enter berserk rages. A creature with scaria can be cured through a special medical operation, but it must be downed first. If not treated, scaria kills its host about five days after infection. The disease poisons the flesh and rots the skin, so creatures killed with scaria have a chance of rotting upon death so they cannot be butchered for meat or leather. -->
   <Scaria.description>O boală care face ca creaturile afectate să intre în furie berserk. O creatură cu scaria poate fi vindecată printr-o operație medicală specială, dar trebuie mai întâi să fie doborâtă. Dacă nu este tratată, scaria își ucide gazda la aproximativ cinci zile de la infectare. Boala otrăvește carnea și putrezește pielea, așa că creaturile ucise cu scaria au șansa de a putrezi la moarte, astfel încât nu pot fi măcelărite pentru carne sau piele.</Scaria.description>
+  <!-- EN: A disease which causes affected creatures to enter berserk rages. If not treated, scaria kills its host about five days after infection. -->
+  <Scaria.descriptionShort>TODO</Scaria.descriptionShort>
   
   <!-- EN: sterilized -->
   <Sterilized.label>sterilizat</Sterilized.label>

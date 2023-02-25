@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education. -->
+  <ChildSpy47.baseDesc>{PAWN_gender ? Copiii sunt prezumați nevinovați, ceea ce îi face să fie niște spioni excelenți. [PAWN_nameDef] a fost antrenat în arta infiltrării încă de când era doar un copil mic.Anii petrecuți sub acoperire i-au dat experiență în manipularea socială și în minciună, dar nu a avut niciodată o educație normală. : Copiii sunt prezumați nevinovați, ceea ce îi face să fie niște spioni excelenți. [PAWN_nameDef] a fost antrenată în arta infiltrării când era doar un copil mic.Anii petrecuți sub acoperire i-au oferit experiență în manipularea socială și în minciună, dar nu a avut niciodată o educație normală.}\n</ChildSpy47.baseDesc>
+  <!-- EN: child spy -->
+  <ChildSpy47.title>copil spion</ChildSpy47.title>
+  <!-- EN: spy -->
+  <ChildSpy47.titleShort>spion</ChildSpy47.titleShort>
+  <ChildSpy47.titleShortFemale>spioancă</ChildSpy47.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
+  <ChildStar74.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost cunoscut în întreaga lume natală ca actor copil în filme și emisiuni TV. Faima sa l-a pus în contact cu multe tipuri diferite de oameni, dar, de asemenea, a avut tendința de a sta în calea educației sale. : [PAWN_nameDef] era foarte cunoscută în întreaga lume natală ca copil actor în filme și emisiuni de televiziune. faima ei a pus-o în contact cu multe tipuri de oameni, dar a avut și tendința de a o împiedica să își continue educația.}\n</ChildStar74.baseDesc>
+  <!-- EN: child star -->
+  <ChildStar74.title>copil vedetă</ChildStar74.title>
+  <!-- EN: star -->
+  <ChildStar74.titleShort>vedetă</ChildStar74.titleShort>
+  
+  <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn't wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
+  <ComaChild93.baseDesc>{PAWN_gender ? Un accident din copilărie l-a băgat pe [PAWN_nameDef] în comă. Nu s-a trezit decât la sfârșitul adolescenței. Corpul său nu și-a mai revenit niciodată după anii de inactivitate, dar oamenii tind să îi fie milă de el când îi aud povestea. : Un accident din copilărie a băgat-o pe [PAWN_nameDef] în comă. Nu s-a trezit decât la sfârșitul adolescenței. corpul ei nu și-a mai revenit niciodată după anii de inactivitate, dar oamenii tind să îi fie milă de ea când îi aud povestea.}\n</ComaChild93.baseDesc>
+  <!-- EN: coma child -->
+  <ComaChild93.title>copil în comă</ComaChild93.title>
+  <!-- EN: coma child -->
+  <ComaChild93.titleShort>copil în comă</ComaChild93.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was born into a powerful cult which shunned advanced technology and believed that all illness could be cured by cleansing the soul through sacred art.\n\nAfter [PAWN_possessive] first glimpse of the outside world, [PAWN_pronoun] decided to run away. -->
+  <CultChild3.baseDesc>{PAWN_gender ? [PAWN_nameDef] s-a născut într-un cult puternic care evita tehnologia avansată și credea că toate bolile pot fi vindecate prin curățarea sufletului prin intermediul artei sacre.\n\nDupă ce a văzut pentru prima dată lumea exterioară, a decis să fugă. : [PAWN_nameDef] s-a născut într-un cult puternic care evita tehnologia avansată și credea că toate bolile pot fi vindecate prin curățarea sufletului prin intermediul artei sacre.\n\nDupă ce a văzut pentru prima dată lumea exterioară, [PAWN_nameDef] a decis să fugă.}\n</CultChild3.baseDesc>
+  <!-- EN: cult child -->
+  <CultChild3.title>copil de sectă</CultChild3.title>
+  <!-- EN: cult kid -->
+  <CultChild3.titleShort>copil de sectă</CultChild3.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up with a laundry list of phobias and neuroses. [PAWN_pronoun] feared, among other things, doctors and foodborne pathogens.\n\nAs a result, [PAWN_pronoun] learned to cook and care for [PAWN_objective]self, but many of [PAWN_possessive] fears dog [PAWN_objective] in adulthood. -->
+  <FrightenedChild43.baseDesc>{PAWN_gender ? [PAWN_nameDef] a crescut cu o listă de fobii și nevroze. Se temea, printre altele, de doctori și de agenții patogeni de origine alimentară.\n\nCa urmare, a învățat să gătească și să aibă grijă de el însuși, dar multe dintre temerile sale l-au urmărit la vârsta adultă. : [PAWN_nameDef] a crescut cu o listă de fobii și nevroze. Se temea, printre altele, de doctori și de agenții patogeni de origine alimentară.\n\nCa urmare, a învățat să gătească și să se îngrijească singură, dar multe dintre temerile sale au afectat-o la vârsta adultă.}\n</FrightenedChild43.baseDesc>
+  <!-- EN: frightened child -->
+  <FrightenedChild43.title>copil înspăimântat</FrightenedChild43.title>
+  <!-- EN: scared -->
+  <FrightenedChild43.titleShort>speriat</FrightenedChild43.titleShort>
+  <FrightenedChild43.titleShortFemale>speriată</FrightenedChild43.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was born during a catastrophic war in which both sides used incendiary weapons. [PAWN_pronoun] grew up helping [PAWN_possessive] parents in an infirmary, treating the cascade of horrific burns from the battlefields. [PAWN_pronoun] was left with a lifelong fear of fire. -->
+  <MedicalAssistant12.baseDesc>{PAWN_gender ? [PAWN_nameDef] s-a născut în timpul unui război catastrofal în care ambele tabere au folosit arme incendiare. A crescut ajutându-și părinții într-o infirmerie, tratând cascada de arsuri îngrozitoare de pe câmpurile de luptă. A rămas cu o teamă de foc pe viață. : [PAWN_nameDef] s-a născut în timpul unui război catastrofal în care ambele tabere au folosit arme incendiare. A crescut ajutându-și părinții într-o infirmerie, tratând cascada de arsuri îngrozitoare de pe câmpurile de luptă. A rămas cu o teamă de foc pe viață.}\n</MedicalAssistant12.baseDesc>
+  <!-- EN: medical assistant -->
+  <MedicalAssistant12.title>asistent medical</MedicalAssistant12.title>
+  <MedicalAssistant12.titleFemale>asistentă medicală</MedicalAssistant12.titleFemale>
+  <!-- EN: medic -->
+  <MedicalAssistant12.titleShort>medic</MedicalAssistant12.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] had a talent for playing musical instruments and singing. [PAWN_pronoun] was given expert training and loved to perform in recitals and concerts, though the lavish praise [PAWN_pronoun] received made [PAWN_objective] a little self-obsessed. -->
+  <MusicalKid86.baseDesc>{PAWN_gender ? În copilărie, [PAWN_nameDef] a avut talent la cântat și cântat la instrumente muzicale. A fost instruit de experți și îi plăcea să cânte în recitaluri și concerte, deși laudele abundente pe care le primea îl făceau să fie puțin obsedat de sine. : În copilărie, [PAWN_nameDef] a avut talent la cântat și cântat la instrumente muzicale. A fost pregătită de experți și îi plăcea să cânte în recitaluri și concerte, deși laudele generoase pe care le primea o făceau să fie puțin obsedată de sine.}\n</MusicalKid86.baseDesc>
+  <!-- EN: musical kid -->
+  <MusicalKid86.title>copil muzical</MusicalKid86.title>
+  <!-- EN: musician -->
+  <MusicalKid86.titleShort>muzician</MusicalKid86.titleShort>
+  <MusicalKid86.titleShortFemale>muziciană</MusicalKid86.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was greatly affected by a traumatic event early in [PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to people, preferring instead to play with [PAWN_possessive] household's numerous pets. -->
+  <Mute34.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost foarte afectat de un eveniment traumatizant la începutul vieții sale. Timp de mulți ani a refuzat să vorbească cu oamenii, preferând să se joace cu numeroasele animale de companie din casa sa. : [PAWN_nameDef] a fost foarte afectată de un eveniment traumatic la începutul vieții sale. Timp de mulți ani a refuzat să vorbească cu oamenii, preferând să se joace cu numeroasele animale de companie din casa ei.}\n</Mute34.baseDesc>
+  <!-- EN: mute -->
+  <Mute34.title>mut</Mute34.title>
+  <Mute34.titleFemale>mută</Mute34.titleFemale>
+  <!-- EN: mute -->
+  <Mute34.titleShort>mut</Mute34.titleShort>
+  <Mute34.titleShortFemale>mută</Mute34.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was raised in an illegal underground organ farm. [PAWN_possessive] body was used to grow organic implants for wounded mercenaries. Though [PAWN_possessive] upbringing has left [PAWN_objective] haunted, it has also given [PAWN_objective] a unique understanding of human biology. -->
+  <OrganFarm67.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost crescut într-o fermă clandestină ilegală de organe. Corpul său a fost folosit pentru a crește implanturi organice pentru mercenarii răniți. Deși educația sa l-a lăsat bântuit, aceasta i-a oferit și o înțelegere unică a biologiei umane. : [PAWN_nameDef] a fost crescută într-o fermă subterană ilegală de organe. Corpul ei a fost folosit pentru a crește implanturi organice pentru mercenarii răniți. Deși educația ei a lăsat-o bântuită, i-a oferit, de asemenea, o înțelegere unică a biologiei umane.}\n</OrganFarm67.baseDesc>
+  <!-- EN: organ farm -->
+  <OrganFarm67.title>fermă de organe</OrganFarm67.title>
+  <!-- EN: organ farm -->
+  <OrganFarm67.titleShort>fermă de organe</OrganFarm67.titleShort>
+  
+  <!-- EN: From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. [PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the flames [PAWN_pronoun] would absent-mindedly burn [PAWN_objective]self.\n\nOne day while playing with matches, [PAWN_pronoun] carelessly burned down [PAWN_possessive] home. -->
+  <Pyromaniac18.baseDesc>{PAWN_gender ? De la o vârstă fragedă, [PAWN_nameDef] a avut o fascinație nesănătoasă pentru foc. Dădea foc la grămezile de gunoi și devenea atât de fascinat de flăcări încât se ardea singur în mod distrat.\n\nÎntr-o zi, în timp ce se juca cu chibriturile, și-a incendiat din neatenție casa. : De la o vârstă fragedă, [PAWN_nameDef] a avut o fascinație nesănătoasă pentru foc. Dădea foc la grămezile de gunoi și devenea atât de fascinată de flăcări încât se ardea singură, fără să se gândească.\n\nÎntr-o zi, în timp ce se juca cu chibriturile, și-a incendiat din neatenție casa.}\n</Pyromaniac18.baseDesc>
+  <!-- EN: pyromaniac -->
+  <Pyromaniac18.title>piromaniac</Pyromaniac18.title>
+  <!-- EN: pyro -->
+  <Pyromaniac18.titleShort>piroman</Pyromaniac18.titleShort>
+  
+  <!-- EN: [PAWN_nameDef]'s mother was often ill, and it fell to [PAWN_objective] to run the store which was their only source of income. [PAWN_pronoun] learned a little about the exotic artifacts which [PAWN_pronoun] sold, and a lot about the art of the deal. -->
+  <ShopKid36.baseDesc>{PAWN_gender ? Mama lui [PAWN_nameDef] era adesea bolnavă, iar el trebuia să se ocupe de magazinul care era singura lor sursă de venit. A învățat câte ceva despre artefactele exotice pe care le vindea și multe despre arta afacerii. : Mama lui [PAWN_nameDef] era deseori bolnavă, iar ea trebuia să se ocupe de magazinul care era singura lor sursă de venit. Ea a învățat câte ceva despre artefactele exotice pe care le vindea și multe despre arta afacerii.}\n</ShopKid36.baseDesc>
+  <!-- EN: shop kid -->
+  <ShopKid36.title>copil negustor</ShopKid36.title>
+  <!-- EN: shopkid -->
+  <ShopKid36.titleShort>copil negustor</ShopKid36.titleShort>
+  
+  <!-- EN: As a child, [PAWN_nameDef] suffered from a rare disease. Quarantined in a hospital, [PAWN_pronoun] had minimal human contact and got little physical exercise. In the sterile hospital environment, however, [PAWN_pronoun] became very familiar with science and medicine. -->
+  <SicklyChild55.baseDesc>{PAWN_gender ? În copilărie, [PAWN_nameDef] a suferit de o boală rară. Aflat în carantină într-un spital, a avut un contact uman minim și a făcut puține exerciții fizice. Cu toate acestea, în mediul steril al spitalului, [PAWN_nameDef] s-a familiarizat foarte bine cu știința și medicina. : În copilărie, [PAWN_nameDef] a suferit de o boală rară. Aflată în carantină într-un spital, a avut un contact uman minim și a făcut puține exerciții fizice. Cu toate acestea, în mediul steril al spitalului, [PAWN_nameDef] s-a familiarizat foarte bine cu știința și medicina.}\n</SicklyChild55.baseDesc>
+  <!-- EN: sickly child -->
+  <SicklyChild55.title>copil bolnăvicios</SicklyChild55.title>
+  <!-- EN: patient -->
+  <SicklyChild55.titleShort>pacient</SicklyChild55.titleShort>
+  <SicklyChild55.titleShortFemale>pacientă</SicklyChild55.titleShortFemale>
+  
+  <!-- EN: As a child, [PAWN_nameDef] was addicted to reading. [PAWN_pronoun] would spend all day in [PAWN_possessive] local library with [PAWN_possessive] nose in a book. When budget cuts forced the library to close, [PAWN_nameDef] was distraught. [PAWN_pronoun] decided to fill the gap by writing [PAWN_possessive] own stories instead. -->
+  <StoryWriter67.baseDesc>{PAWN_gender ? În copilărie, [PAWN_nameDef] era dependent de lectură. Își petrecea toată ziua în biblioteca sa locală cu nasul într-o carte. Când reducerile bugetare au forțat biblioteca să se închidă, [PAWN_nameDef] a fost foarte afectat. A decis să umple golul scriindu-și propriile povești. : În copilărie, [PAWN_nameDef] era dependentă de lectură. Își petrecea toată ziua în biblioteca locală, cu nasul într-o carte. Când reducerile de buget au forțat biblioteca să se închidă, [PAWN_nameDef] a fost distrusă. A decis să umple golul scriindu-și propriile povești.}\n</StoryWriter67.baseDesc>
+  <!-- EN: story writer -->
+  <StoryWriter67.title>scriitor de povești</StoryWriter67.title>
+  <StoryWriter67.titleFemale>scriitoare de povești</StoryWriter67.titleFemale>
+  <!-- EN: writer -->
+  <StoryWriter67.titleShort>scriitor</StoryWriter67.titleShort>
+  <StoryWriter67.titleShortFemale>scriitoare</StoryWriter67.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] wasn't made as a person, but as an instrument of destruction. Grown in a bioweapons facility and taught combat during [PAWN_possessive] accelerated growth, [PAWN_nameDef] still has a proclivity for combat of all kinds and an aversion to human contact. -->
+  <VatgrownSoldier8.baseDesc>{PAWN_gender ? [PAWN_nameDef] nu a fost creat ca persoană, ci ca instrument de distrugere. Crescut într-o instalație de arme biologice și învățat să lupte în timpul creșterii sale accelerate, [PAWN_nameDef] are în continuare o înclinație pentru lupte de orice fel și o aversiune față de contactul cu oamenii. : [PAWN_nameDef] nu a fost creată ca persoană, ci ca instrument de distrugere. Crescută într-o instalație de arme biologice și învățată să lupte în timpul creșterii sale accelerate, [PAWN_nameDef] are în continuare o înclinație pentru lupte de orice fel și o aversiune față de contactul cu oamenii.}\n</VatgrownSoldier8.baseDesc>
+  <!-- EN: vatgrown soldier -->
+  <VatgrownSoldier8.title>soldat modificat genetic</VatgrownSoldier8.title>
+  <!-- EN: vatgrown -->
+  <VatgrownSoldier8.titleShort>modificat genetic</VatgrownSoldier8.titleShort>
+  <VatgrownSoldier8.titleShortFemale>modificată genetic</VatgrownSoldier8.titleShortFemale>
+  
+  <!-- EN: War broke out in [PAWN_nameDef]'s home when [PAWN_pronoun] was a baby. [PAWN_possessive] parents fled with [PAWN_objective], seeking safety wherever they could find it. [PAWN_nameDef]'s earliest memories are of being taught how to defend [PAWN_objective]self.\n\nThe violence and destruction [PAWN_pronoun] witnessed left [PAWN_objective] scarred for life. -->
+  <WarRefugee51.baseDesc>{PAWN_gender ? Războiul a izbucnit în casa lui [PAWN_nameDef] când acesta era copil. Părinții lui au fugit cu el, căutând siguranță oriunde ar fi putut-o găsi. Primele amintiri ale lui [PAWN_nameDef] sunt cele în care a fost învățat cum să se apere singur.\n\nViolența și distrugerile la care a fost martor l-au lăsat marcat pe viață. : Războiul a izbucnit în casa lui [PAWN_nameDef] când aceasta era doar un copil. părinții ei au fugit cu ea, căutând siguranță oriunde ar fi putut-o găsi. Primele amintiri ale lui [PAWN_nameDef] sunt cele în care a fost învățată cum să se apere.\n\nViolența și distrugerile la care a fost martoră au lăsat-o marcată pe viață.}\n</WarRefugee51.baseDesc>
+  <!-- EN: war refugee -->
+  <WarRefugee51.title>refugiat de război</WarRefugee51.title>
+  <!-- EN: refugee -->
+  <WarRefugee51.titleShort>refugiat</WarRefugee51.titleShort>
+  <WarRefugee51.titleShortFemale>refugiată</WarRefugee51.titleShortFemale>
+  
+</LanguageData>

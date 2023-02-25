@@ -91,8 +91,17 @@
   <!-- EN: scanning at TargetA. -->
   <OperateScanner.reportString>scanează la TargetA.</OperateScanner.reportString>
   
+  <!-- EN: painting TargetA. -->
+  <PaintBuilding.reportString>TODO</PaintBuilding.reportString>
+  
+  <!-- EN: painting TargetA. -->
+  <PaintFloor.reportString>TODO</PaintFloor.reportString>
+  
   <!-- EN: building TargetA. -->
   <PlaceNoCostFrame.reportString>construiește TargetA.</PlaceNoCostFrame.reportString>
+  
+  <!-- EN: planting TargetA. -->
+  <PlantSeed.reportString>plantând TargetA.</PlantSeed.reportString>
   
   <!-- EN: attempting to recruit TargetA. -->
   <PrisonerAttemptRecruit.reportString>încearcă să recruteze TargetA.</PrisonerAttemptRecruit.reportString>
@@ -108,6 +117,12 @@
   
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>îndepărtează podeaua.</RemoveFloor.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintBuilding.reportString>TODO</RemovePaintBuilding.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintFloor.reportString>TODO</RemovePaintFloor.reportString>
   
   <!-- EN: removing roof. -->
   <RemoveRoof.reportString>îndepărtează acoperișul</RemoveRoof.reportString>
@@ -152,7 +167,7 @@
   <Steal.reportString>fură TargetA.</Steal.reportString>
   
   <!-- EN: Studying TargetA. -->
-  <StudyThing.reportString>studiind TargetA.</StudyThing.reportString>
+  <StudyBuilding.reportString>studiind TargetA.</StudyBuilding.reportString>
   
   <!-- EN: taking TargetA to bed. -->
   <TakeDownedPawnToBedDrafted.reportString>ducând pe TargetA la pat.</TakeDownedPawnToBedDrafted.reportString>

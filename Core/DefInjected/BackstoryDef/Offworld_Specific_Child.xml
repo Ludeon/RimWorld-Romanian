@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was born during a time of unrest on [PAWN_possessive] homeworld, as climate change threatened mass starvation and flooding. As [PAWN_pronoun] grew up the situation worsened - billions died and peaceful states descended into anarchy. [PAWN_nameDef] and [PAWN_possessive] parents did whatever they had to to survive. -->
+  <ApocalypseSurvivor23.baseDesc>{PAWN_gender ? [PAWN_nameDef] s-a născut în timpul unei perioade de neliniște pe planeta sa natală, în timp ce schimbările climatice amenințau cu foametea și inundațiile în masă. Pe măsură ce a crescut, situația s-a înrăutățit - miliarde de oameni au murit, iar statele pașnice au căzut în anarhie. [PAWN_nameDef] și părinții săi au făcut tot ce a trebuit pentru a supraviețui. : [PAWN_nameDef] s-a născut într-o perioadă de neliniște pe lumea ei natală, când schimbările climatice amenințau cu foamete în masă și inundații. Pe măsură ce a crescut, situația s-a înrăutățit - miliarde de oameni au murit, iar statele pașnice au căzut în anarhie. [PAWN_nameDef] și părinții ei au făcut tot ce a trebuit să facă pentru a supraviețui.}\n</ApocalypseSurvivor23.baseDesc>
+  <!-- EN: apocalypse survivor -->
+  <ApocalypseSurvivor23.title>supraviețuitor de apocalipsă</ApocalypseSurvivor23.title>
+  <!-- EN: survivor -->
+  <ApocalypseSurvivor23.titleShort>supraviețuitor</ApocalypseSurvivor23.titleShort>
+  <ApocalypseSurvivor23.titleShortFemale>supraviețuitoare</ApocalypseSurvivor23.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up in cave complex deep beneath the surface of an inhospitable world. [PAWN_pronoun] worked with the other children tending the tribe's fungus crops. -->
+  <CaveworldTender26.baseDesc>{PAWN_gender ? [PAWN_nameDef] a crescut într-un complex de peșteri aflat la adâncimea unei lumi inospitaliere. Împreună cu ceilalți copii a lucrat la culturile de ciuperci ale tribului. : [PAWN_nameDef] a crescut într-un complex de peșteri aflat la adâncimea unei lumi inospitaliere. Împreună cu ceilalți copii a lucrat la culturile de ciuperci ale tribului.}\n</CaveworldTender26.baseDesc>
+  <!-- EN: caveworld tender -->
+  <CaveworldTender26.title>copil al peșterilor</CaveworldTender26.title>
+  <!-- EN: cave kid -->
+  <CaveworldTender26.titleShort>copil</CaveworldTender26.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked as a digger in the massive underground cave complex.\n\n[PAWN_pronoun] knows rock so well that [PAWN_pronoun] can almost navigate caves by smell. -->
+  <CaveworldTunneler48.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat ca săpător în masivul complex de peșteri subterane.\n\nCunoaște atât de bine rocile, încât aproape că poate naviga prin peșteri după miros. : [PAWN_nameDef] a lucrat ca săpător în masivul complex de peșteri subterane.\n\nCunoaște atât de bine rocile, încât aproape că poate naviga prin peșteri după miros.}\n</CaveworldTunneler48.baseDesc>
+  <!-- EN: caveworld tunneler -->
+  <CaveworldTunneler48.title>săpător de tuneluri</CaveworldTunneler48.title>
+  <CaveworldTunneler48.titleFemale>săpătoare de tuneluri</CaveworldTunneler48.titleFemale>
+  <!-- EN: tunneler -->
+  <CaveworldTunneler48.titleShort>săpător</CaveworldTunneler48.titleShort>
+  <CaveworldTunneler48.titleShortFemale>săpătoare</CaveworldTunneler48.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] never knew [PAWN_possessive] parents. [PAWN_possessive] earliest memories were of drudgery in the mines and workhouses of [PAWN_possessive] industrial world.\n\nBecause of this, [PAWN_pronoun] never received a proper education. -->
+  <IndustrialOrphan13.baseDesc>{PAWN_gender ? [PAWN_nameDef] nu și-a cunoscut niciodată părinții. Primele sale amintiri au fost despre munca grea în minele și azilurile de muncă din lumea sa industrială.\n\nDin acest motiv, nu a primit niciodată o educație adecvată. : [PAWN_nameDef] nu și-a cunoscut niciodată părinții, iar primele ei amintiri sunt legate de munca grea din minele și azilurile de muncă din lumea ei industrială.\n\n Din această cauză, nu a primit niciodată o educație adecvată.}\n</IndustrialOrphan13.baseDesc>
+  <!-- EN: industrial orphan -->
+  <IndustrialOrphan13.title>orfan industrial</IndustrialOrphan13.title>
+  <!-- EN: orphan -->
+  <IndustrialOrphan13.titleShort>orfan</IndustrialOrphan13.titleShort>
+  <IndustrialOrphan13.titleShortFemale>orfană</IndustrialOrphan13.titleShortFemale>
+  
+  <!-- EN: Born to the administrators of a rimworld colony, [PAWN_nameDef] was enrolled in a youth program that taught military scouting skills.\n\n[PAWN_pronoun] learned to survive in the wilderness, to obey, and not to ask questions. -->
+  <Scout44.baseDesc>{PAWN_gender ? Născut printre administratorii unei colonii din lumea de pe margine, [PAWN_nameDef] a fost înscris într-un program de tineret care preda abilități de cercetaș militar.\n\nA învățat să supraviețuiască în sălbăticie, să se supună și să nu pună întrebări. : Născută de administratorii unei colonii din lumea de pe margine, [PAWN_nameDef] a fost înscrisă într-un program de tineret care preda abilități de cercetaș militar.\n\nA învățat să supraviețuiască în sălbăticie, să se supună și să nu pună întrebări.}\n</Scout44.baseDesc>
+  <!-- EN: scout -->
+  <Scout44.title>cercetaș</Scout44.title>
+  <!-- EN: scout -->
+  <Scout44.titleShort>cercetaș</Scout44.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in a shelter deep beneath a toxic world. [PAWN_pronoun] received a comprehensive education, but had no opportunity to do physical labour. -->
+  <ShelterChild50.baseDesc>{PAWN_gender ? [PAWN_nameDef] a crescut într-un adăpost aflat în adâncul unei lumi toxice. A primit o educație completă, dar nu a avut ocazia să facă muncă fizică. : [PAWN_nameDef] a crescut într-un adăpost aflat în adâncul unei lumi toxice. A primit o educație completă, dar nu a avut posibilitatea de a face muncă fizică.}\n</ShelterChild50.baseDesc>
+  <!-- EN: shelter child -->
+  <ShelterChild50.title>copil de adăpost</ShelterChild50.title>
+  <!-- EN: shelterkid -->
+  <ShelterChild50.titleShort>copil de adăpost</ShelterChild50.titleShort>
+  
+  <!-- EN: On the most corrupt urbworlds, scientists without a moral compass commit unspeakable atrocities in the name of research. [PAWN_nameDef] was kept alone in a sealed facility from birth and subjected to a variety of behavioural experiments in an attempt to turn [PAWN_objective] into a perfect super-soldier. -->
+  <TestSubject15.baseDesc>{PAWN_gender ? În cele mai corupte lumi urbane, oamenii de știință fără busolă morală comit atrocități de nedescris în numele cercetării. [PAWN_nameDef] a fost ținut singur într-o instalație sigilată încă de la naștere și a fost supus la o serie de experimente comportamentale în încercarea de a-l transforma într-un super-soldat perfect. : În cele mai corupte lumi urbane, oamenii de știință fără busolă morală comit atrocități de nedescris în numele cercetării. [PAWN_nameDef] a fost ținută singură într-o instalație sigilată încă de la naștere și a fost supusă la o serie de experimente comportamentale în încercarea de a o transforma într-un super-soldat perfect.}\n</TestSubject15.baseDesc>
+  <!-- EN: test subject -->
+  <TestSubject15.title>subiect de test</TestSubject15.title>
+  <!-- EN: testee -->
+  <TestSubject15.titleShort>testat</TestSubject15.titleShort>
+  <TestSubject15.titleShortFemale>testată</TestSubject15.titleShortFemale>
+  
+  <!-- EN: The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. [PAWN_nameDef] grew up in the dark, unwanted reaches of such a place. [PAWN_pronoun] had to fight for every scrap of food. -->
+  <UrbworldUrchin61.baseDesc>{PAWN_gender ? Meredith s-a născut în cele mai întunecate mahalale ale lumii sale natale urbane. Neglijat de mama sa, a învățat să supraviețuiască pe cont propriu, luptând pentru fiecare bucățică de hrană pe care o vedea.\n\nÎn cele din urmă, pe măsură ce talentele sale depășeau pe cele ale colegilor săi, a urcat din adâncuri pe străzile de la suprafață și și-a lăsat mama în urmă. : Meredith s-a născut în cele mai întunecate mahalale ale lumii sale natale urbane. Neglijată de mama ei, a învățat să supraviețuiască pe cont propriu, luptând pentru fiecare bucățică de hrană pe care o vedea.\n\nÎn cele din urmă, pe măsură ce talentele ei își depășeau colegii, a urcat din adâncuri pe străzile de la suprafață și și-a lăsat mama în urmă.}\n</UrbworldUrchin61.baseDesc>
+  <!-- EN: urbworld urchin -->
+  <UrbworldUrchin61.title>arici urban</UrbworldUrchin61.title>
+  <!-- EN: urchin -->
+  <UrbworldUrchin61.titleShort>arici</UrbworldUrchin61.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was tasked with watching [PAWN_possessive] family's herds, but often shirked [PAWN_possessive] duties to go exploring the crashed warships scattered around the planet. -->
+  <WreckageExplorer93.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost însărcinat cu supravegherea turmelor familiei sale, dar deseori se eschivase de la îndatoririle sale pentru a merge să exploreze navele de război prăbușite împrăștiate pe planetă. : [PAWN_nameDef] era însărcinată cu supravegherea turmelor familiei sale, dar deseori se sustrăgea de la îndatoriri pentru a merge să exploreze navele de război prăbușite împrăștiate pe planetă.}\n</WreckageExplorer93.baseDesc>
+  <!-- EN: wreckage explorer -->
+  <WreckageExplorer93.title>explorator de epave</WreckageExplorer93.title>
+  <WreckageExplorer93.titleFemale>exploare de epave</WreckageExplorer93.titleFemale>
+  <!-- EN: explorer -->
+  <WreckageExplorer93.titleShort>explorator</WreckageExplorer93.titleShort>
+  <WreckageExplorer93.titleShortFemale>exploratoare</WreckageExplorer93.titleShortFemale>
+  
+</LanguageData>

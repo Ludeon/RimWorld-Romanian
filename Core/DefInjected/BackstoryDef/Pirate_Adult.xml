@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was cold, calculating, and made a good profit. In this business, an utter lack of empathy was an asset. -->
+  <Assassin20.baseDesc>{PAWN_gender ? [PAWN_nameDef] era un asasin profesionist. Era rece, calculat și făcea un profit bun. În această afacere, lipsa totală de empatie era un avantaj. : [PAWN_nameDef] era o asasină profesionistă. Era rece, calculată și făcea un profit bun. În această afacere, o lipsă totală de empatie era un avantaj.}\n</Assassin20.baseDesc>
+  <!-- EN: assassin -->
+  <Assassin20.title>asasin</Assassin20.title>
+  <Assassin20.titleFemale>asasină</Assassin20.titleFemale>
+  <!-- EN: assassin -->
+  <Assassin20.titleShort>asasin</Assassin20.titleShort>
+  <Assassin20.titleShortFemale>asasină</Assassin20.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was used for [PAWN_possessive] body by hundreds of customers in brothels on several planets. [PAWN_pronoun] gained some mental marks and a special kind of street smarts. -->
+  <Gigolo30.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost folosit pentru corpul său de sute de clienți în bordelurile de pe mai multe planete. A căpătat câteva semne mentale și un fel special de inteligență de stradă. : [PAWN_nameDef] a fost folosită pentru corpul ei de sute de clienți în bordelurile de pe mai multe planete. A căpătat câteva semne mentale și un fel special de inteligență de stradă.}\n</Gigolo30.baseDesc>
+  <!-- EN: gigolo -->
+  <Gigolo30.title>gigolo</Gigolo30.title>
+  <!-- EN: gigolo -->
+  <Gigolo30.titleFemale>gigolo</Gigolo30.titleFemale>
+  <!-- EN: courtesean -->
+  <Gigolo30.titleShort>curtezan</Gigolo30.titleShort>
+  <!-- EN: courtesean -->
+  <Gigolo30.titleShortFemale>curtezană</Gigolo30.titleShortFemale>
+  
+  <!-- EN: There is a law that says that you're not allowed to put terawatt-range grasers on a cargo scow. Especially if you hide them under what looks like a communications dish for better ambush potential. [PAWN_nameDef] discovered that there is great profit to be made, however, from those who are uninterested in these laws. -->
+  <IllegalShipwright76.baseDesc>{PAWN_gender ? Există o lege care spune că nu ai voie să pui dispozitive de captare cu rază de acțiune de un terawatt pe o navă de marfă. Mai ales dacă le ascunzi sub ceea ce pare a fi o antenă de comunicații pentru un potențial mai bun de ambuscadă. [PAWN_nameDef] a descoperit că se pot obține profituri mari, totuși, de la cei care nu sunt interesați de aceste legi. : Există o lege care spune că nu ai voie să pui dispozitive de captare cu rază de acțiune de terawați pe o navă de marfă. Mai ales dacă le ascunzi sub ceea ce pare a fi o antenă de comunicații pentru un potențial mai bun de ambuscadă. [PAWN_nameDef] a descoperit că se pot obține profituri mari, totuși, de la cei care nu sunt interesați de aceste legi.}\n</IllegalShipwright76.baseDesc>
+  <!-- EN: illegal shipwright -->
+  <IllegalShipwright76.title>tâmplar în afara legii</IllegalShipwright76.title>
+  <!-- EN: shipwright -->
+  <IllegalShipwright76.titleShort>tâmplar</IllegalShipwright76.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was nine years old when [PAWN_pronoun] got in [PAWN_possessive] first fight. [PAWN_pronoun] won, but more important was the enjoyment of [PAWN_possessive] audience. Pit fighting turned out to be a lucrative career for those who could survive it. And it was even mostly legal. -->
+  <PitBrawler76.baseDesc>{PAWN_gender ? [PAWN_nameDef] avea nouă ani când a intrat în prima sa luptă. A câștigat, dar mai importantă a fost bucuria publicului său. Luptele în boxe s-au dovedit a fi o carieră profitabilă pentru cei care au putut supraviețui. Și era chiar în mare parte legal. : [PAWN_nameDef] avea nouă ani când a intrat în prima ei luptă. A câștigat, dar mai importantă a fost plăcerea publicului ei. Luptele în groapă s-au dovedit a fi o carieră profitabilă pentru cei care puteau supraviețui. Și era chiar în mare parte legal.}\n</PitBrawler76.baseDesc>
+  <!-- EN: pit brawler -->
+  <PitBrawler76.title>luptător de groapă</PitBrawler76.title>
+  <PitBrawler76.titleFemale>luptătoare de groapă</PitBrawler76.titleFemale>
+  <!-- EN: brawler -->
+  <PitBrawler76.titleShort>luptător</PitBrawler76.titleShort>
+  <PitBrawler76.titleShortFemale>luptătoare</PitBrawler76.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a warrior in an Imperial navy. [PAWN_possessive] job was to punch into enemy starships, gun down the crew, and capture the ship intact. And [PAWN_pronoun] was good at it. -->
+  <SpaceMarine16.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost un războinic în marina imperială. Treaba lui era să lovească navele inamice, să doboare echipajul și să captureze nava intactă. Și era bun la asta. : [PAWN_nameDef] era un războinic în marina imperială. Treaba ei era să lovească navele inamice, să doboare echipajul și să captureze nava intactă. Și era bună la asta.}\n</SpaceMarine16.baseDesc>
+  <!-- EN: space marine -->
+  <SpaceMarine16.title>soldat spațial</SpaceMarine16.title>
+  <!-- EN: marine -->
+  <SpaceMarine16.titleShort>soldat</SpaceMarine16.titleShort>
+  
+  <!-- EN: Piracy appears everywhere that governments are weak and society spread thin. [PAWN_nameDef] was part of this age-old part of human existence, extorting and smashing peaceful trade ships for profit. -->
+  <SpacePirate55.baseDesc>{PAWN_gender ? Pirateria apare peste tot unde guvernele sunt slabe și unde societatea este dispersată. [PAWN_nameDef] făcea parte din această parte străveche a existenței umane, extorcând și distrugând nave comerciale pașnice pentru profit. : Pirateria apare peste tot unde guvernele sunt slabe și unde societatea este dispersată. [PAWN_nameDef] făcea parte din această parte străveche a existenței umane, extorcând și distrugând nave comerciale pașnice pentru profit.}\n</SpacePirate55.baseDesc>
+  <!-- EN: space pirate -->
+  <SpacePirate55.title>pirat spațial</SpacePirate55.title>
+  <!-- EN: pirate -->
+  <SpacePirate55.titleShort>pirat</SpacePirate55.titleShort>
+  
+</LanguageData>

@@ -7,6 +7,8 @@
   <OnlyMembersCanBuild>Doar {0}s pot construi</OnlyMembersCanBuild>
   <!-- EN: {0} is already in progress. -->
   <CantStartRitualAlreadyInProgress>{0} este deja în desfășurare.</CantStartRitualAlreadyInProgress>
+  <!-- EN: One or more participants can't join due to extreme temperature. -->
+  <CantJoinRitualInExtremeWeather>TODO</CantJoinRitualInExtremeWeather>
   <!-- EN: {0} is already participating in a ritual. -->
   <CantStartRitualTargetIsAlreadyInRitual>{0} participă deja la un ritual.</CantStartRitualTargetIsAlreadyInRitual>
   <!-- EN: You must assign the role of {0} in order to start this ritual. -->
@@ -19,8 +21,12 @@
   <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} trebuie să fie un {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
   <!-- EN: {PAWN_nameDef} is psychically deaf. -->
   <CantStartRitualSelectedPawnPsychicallyDeaf>TODO</CantStartRitualSelectedPawnPsychicallyDeaf>
-  <!-- EN: Not enough space. There must be a clear circle of radius {MINRADIUS}. -->
-  <CantStartNotEnoughSpaceDuel>Nu este suficient spațiu. Trebuie să existe un cerc clar de rază {MINRADIUS}.</CantStartNotEnoughSpaceDuel>
+  <!-- EN: Not enough space for spectators. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required. -->
+  <CantStartNotEnoughSpaceDuelSpectators>TODO</CantStartNotEnoughSpaceDuelSpectators>
+  <!-- EN: Not enough space for duelists. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required. -->
+  <CantStartNotEnoughSpaceDuelDuelists>TODO</CantStartNotEnoughSpaceDuelDuelists>
+  <!-- EN: Not enough space for speaker. There must be a clear circle of radius {MINRADIUS}. -->
+  <CantStartNotEnoughSpaceDuelSpeaker>TODO</CantStartNotEnoughSpaceDuelSpeaker>
   <!-- EN: {0_labelShort} is a slave. Slaves don't get funerals. -->
   <CantStartFuneralForSlave>{0_labelShort} este un sclav. Sclavii nu au parte de înmormântări.</CantStartFuneralForSlave>
   <!-- EN: Need a slave bed that is reachable, not reserved, and in safe temperature. -->
@@ -68,8 +74,6 @@
   <RoleApparelRequirementIncompatibleAnyMemeRequired>TODO</RoleApparelRequirementIncompatibleAnyMemeRequired>
   <!-- EN: cannot be worn with assigned apparel -->
   <BodyPartAlreadyCovered>nu poate fi purtat cu îmbrăcămintea asignată</BodyPartAlreadyCovered>
-  <!-- EN: already assigned -->
-  <AlreadyAssigned>TODO</AlreadyAssigned>
   <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
   <NoteRoleApparelRequirementEffects>Oamenii sunt mulțumiți atunci când le sunt îndeplinite cerințele vestimentare și nefericiți atunci când acestea sunt încălcate.</NoteRoleApparelRequirementEffects>
   <!-- EN: supercharge not ready -->
@@ -168,7 +172,4 @@
   <BiosculpterAutoAgeReversalDescriptionNow>TODO</BiosculpterAutoAgeReversalDescriptionNow>
   <!-- EN: Collecting ingredients for biosculpter cycle -->
   <BiosculpterJobReportCollectIngredients>TODO</BiosculpterJobReportCollectIngredients>
-  <!-- UNUSED -->
-  <FactionOrIdeoIncompatible>incompatibil</FactionOrIdeoIncompatible>
-
 </LanguageData>

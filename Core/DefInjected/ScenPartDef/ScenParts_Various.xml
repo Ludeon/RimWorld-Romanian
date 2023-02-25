@@ -22,6 +22,9 @@
   <!-- EN: naked -->
   <Naked.label>gol</Naked.label>
   
+  <!-- EN: no possessions -->
+  <NoPossessions.label>TODO</NoPossessions.label>
+  
   <!-- EN: characters explode on death -->
   <OnPawnDeathExplode.label>personajele explodează la moarte</OnPawnDeathExplode.label>
   

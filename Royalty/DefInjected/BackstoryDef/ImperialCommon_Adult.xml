@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] worked on factory assembly lines, putting together products with the help of robots. -->
+  <Assembler69.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat pe liniile de asamblare din fabrici, asamblând produse cu ajutorul roboților. : [PAWN_nameDef] a lucrat pe liniile de asamblare din fabrici, asamblând produse cu ajutorul roboților.}\n</Assembler69.baseDesc>
+  <!-- EN: assembler -->
+  <Assembler69.title>asamblator</Assembler69.title>
+  <Assembler69.titleFemale>asamblatoare</Assembler69.titleFemale>
+  <!-- EN: assembler -->
+  <Assembler69.titleShort>asamblator</Assembler69.titleShort>
+  <Assembler69.titleShortFemale>asamblatoare</Assembler69.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a dancer in a traditional ballet troupe. [PAWN_pronoun] mastered the ancient motions and entertained thousands. -->
+  <BalletDancer81.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost dansator într-o trupă de balet tradițional. El a stăpânit mișcările antice și a distrat mii de oameni. : [PAWN_nameDef] a fost dansatoare într-o trupă de balet tradițional. Ea stăpânea mișcările antice și a distrat mii de oameni.}\n</BalletDancer81.baseDesc>
+  <!-- EN: ballet dancer -->
+  <BalletDancer81.title>dansator de balet</BalletDancer81.title>
+  <BalletDancer81.titleFemale>dansatoare de balet</BalletDancer81.titleFemale>
+  <!-- EN: dancer -->
+  <BalletDancer81.titleShort>dansator</BalletDancer81.titleShort>
+  <!-- EN: ballerina -->
+  <BalletDancer81.titleShortFemale>dansatoare</BalletDancer81.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] worked on construction sites, building everyday structures according to [PAWN_possessive] boss' instructions. -->
+  <Builder96.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat pe șantierele de construcții, construind structuri cotidiene conform instrucțiunilor șefului său. : [PAWN_nameDef] a lucrat pe șantierele de construcții, construind structuri obișnuite conform instrucțiunilor șefului ei.}\n</Builder96.baseDesc>
+  <!-- EN: builder -->
+  <Builder96.title>constructor</Builder96.title>
+  <Builder96.titleFemale>constructoare</Builder96.titleFemale>
+  <!-- EN: builder -->
+  <Builder96.titleShort>constructor</Builder96.titleShort>
+  <Builder96.titleShortFemale>constructoare</Builder96.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a psychic in the imperial church's psychic school.\n\n[PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought. -->
+  <ChurchPsychic98.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost medium în școala de mediumuri a bisericii imperiale.\n\n[PAWN_nameDef] și-a antrenat mintea pentru a simți emoțiile și impresiile colective ale oamenilor. Era o modalitate de a atinge spiritul imperiului. Era, de asemenea, o modalitate de a elimina tendințele eretice din gândire. : [PAWN_nameDef] a fost medium în școala de mediumuri a bisericii imperiale.\n\n[PAWN_nameDef] și-a antrenat mintea pentru a simți emoțiile și impresiile colective ale oamenilor. Era un mod de a atinge spiritul imperiului. Era, de asemenea, o modalitate de a elimina tendințele eretice din gândire.}\n</ChurchPsychic98.baseDesc>
+  <!-- EN: church psychic -->
+  <ChurchPsychic98.title>mediu bisericesc</ChurchPsychic98.title>
+  <!-- EN: psychic -->
+  <ChurchPsychic98.titleShort>mediu</ChurchPsychic98.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked in a very large office complex along with thousands of other suited drones.\n\nThe work itself consisted of endless organizational drudgery and pointless meetings, punctuated by the occasional performance review. -->
+  <CorporateDrone10.baseDesc>{PAWN_gender ? [PAWN_nameDef] lucra într-un complex de birouri foarte mare, alături de mii de alte trântori potriviți.\n\nLucrul în sine consta într-o nesfârșită corvoadă organizatorică și în ședințe inutile, punctate ocazional de o evaluare a performanțelor. : [PAWN_nameDef] lucra într-un complex de birouri foarte mare, alături de mii de alte trântori potriviți.\n\nLucrul în sine consta într-o nesfârșită corvoadă organizatorică și în ședințe inutile, punctate ocazional de o evaluare a performanțelor.}\n</CorporateDrone10.baseDesc>
+  <!-- EN: corporate drone -->
+  <CorporateDrone10.title>dronă corporatistă</CorporateDrone10.title>
+  <!-- EN: drone -->
+  <CorporateDrone10.titleShort>dronă</CorporateDrone10.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a fixer for an energy corporation. [PAWN_pronoun] work required knowing when to push, when to pull, when to back down and when to strike. The job fit [PAWN_possessive] natural lack of empathy.\n\nWhile violence was unusual, [PAWN_nameDef] stayed prepared for anything. -->
+  <CorporateFixer36.baseDesc>{PAWN_gender ? [PAWN_nameDef] era un reparator pentru o corporație energetică. Munca lui presupunea să știe când să împingă, când să tragă, când să dea înapoi și când să lovească. Slujba se potrivea cu lipsa lui naturală de empatie.\nÎn timp ce violența era neobișnuită, [PAWN_nameDef] a rămas pregătit pentru orice. : [PAWN_nameDef] a fost reparator pentru o corporație energetică. Munca ei presupunea să știe când să împingă, când să tragă, când să dea înapoi și când să lovească. Slujba se potrivea cu lipsa ei naturală de empatie.\n\nDeși violența era neobișnuită, [PAWN_nameDef] era pregătită pentru orice.}\n</CorporateFixer36.baseDesc>
+  <!-- EN: corporate fixer -->
+  <CorporateFixer36.title>reparator corporatist</CorporateFixer36.title>
+  <CorporateFixer36.titleFemale>reparatoare corporatistă</CorporateFixer36.titleFemale>
+  <!-- EN: fixer -->
+  <CorporateFixer36.titleShort>reparator</CorporateFixer36.titleShort>
+  <CorporateFixer36.titleShortFemale>reparatoare</CorporateFixer36.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was the head servant in a royal house.\n\n[PAWN_pronoun] managed the other servants to ensure the lord's will was done, even before the lord knew what it was. -->
+  <HeadButler50.baseDesc>{PAWN_gender ? [PAWN_nameDef] era servitorul șef al unei case regale.\n\nEl îi conducea pe ceilalți servitori pentru a se asigura că voința stăpânului este îndeplinită, chiar înainte ca acesta să știe care era. : [PAWN_nameDef] era servitoarea șefă a unei case regale.\n\nEa îi conducea pe ceilalți servitori pentru a se asigura că voința stăpânului era îndeplinită, chiar înainte ca acesta să știe care era.}\n</HeadButler50.baseDesc>
+  <!-- EN: head butler -->
+  <HeadButler50.title>majordom de vârf</HeadButler50.title>
+  <!-- EN: butler -->
+  <HeadButler50.titleShort>majordom</HeadButler50.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a low-level servant in a royal house.\n\n[PAWN_pronoun] cleaned rooms and moved items as directed by the senior staff, while attempting to remain invisible to the lords and ladies of the house. -->
+  <HouseServant86.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost un servitor de rang inferior într-o casă regală.\n\nEl a curățat camere și a mutat obiecte conform indicațiilor personalului superior, încercând în același timp să rămână invizibil pentru domni și doamne ale casei. : [PAWN_nameDef] a fost o servitoare de nivel inferior într-o casă regală.\n\nFăcea curat în camere și muta obiecte conform indicațiilor personalului superior, încercând în același timp să rămână invizibilă pentru stăpânii și doamnele casei.}\n</HouseServant86.baseDesc>
+  <!-- EN: house servant -->
+  <HouseServant86.title>servitor de casă</HouseServant86.title>
+  <HouseServant86.titleFemale>servitoare de casă</HouseServant86.titleFemale>
+  <!-- EN: servant -->
+  <HouseServant86.titleShort>servitor</HouseServant86.titleShort>
+  <HouseServant86.titleShortFemale>servitoare</HouseServant86.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was an inquisitor in the imperial church's anti-heresy school.\n\n[PAWN_nameDef] hunted unorthodox thoughts wherever they could be found - art, music, code, even private conversations. Upon finding deviance, [PAWN_pronoun] exposed it to bring on the punishment of the collective. And [PAWN_pronoun] could always find the deviance if [PAWN_pronoun] looked hard enough. -->
+  <ImperialInquisitor53.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost inchizitor în școala antierezie a bisericii imperiale.\n\n[PAWN_nameDef] vâna gândurile neortodoxe oriunde se găseau - artă, muzică, coduri, chiar și conversații private. Când găsea o devianță, o expunea pentru a aduce pedeapsa colectivă. Și întotdeauna putea găsi devianța dacă o căuta suficient de mult. : [PAWN_nameDef] a fost inchizitor în școala antierezie a bisericii imperiale.\n\n[PAWN_nameDef] vâna gândurile neortodoxe oriunde se găseau - artă, muzică, coduri, chiar și conversații private. Când găsea o deviație, ea o expunea pentru a aduce pedeapsa colectivă. Și ea putea găsi întotdeauna devianța dacă se uita suficient de atent.}\n</ImperialInquisitor53.baseDesc>
+  <!-- EN: imperial inquisitor -->
+  <ImperialInquisitor53.title>inchizitor imperial</ImperialInquisitor53.title>
+  <ImperialInquisitor53.titleFemale>inchizitoare imperială</ImperialInquisitor53.titleFemale>
+  <!-- EN: inquisitor -->
+  <ImperialInquisitor53.titleShort>inchizitor</ImperialInquisitor53.titleShort>
+  <!-- EN: inquisitress -->
+  <ImperialInquisitor53.titleShortFemale>inchizitoare</ImperialInquisitor53.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a priest in the imperial church.\n\n[PAWN_pronoun] spent half [PAWN_possessive] time studying books to understand the relationship between God's aspects and the facets of [PAWN_possessive] society. The other half was spent preaching the evils of sloth and drink. -->
+  <ImperialPriest24.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost preot în biserica imperială.\n\nÎși petrecea jumătate din timp studiind cărți pentru a înțelege relația dintre aspectele lui Dumnezeu și fațetele societății sale. Cealaltă jumătate o petrecea predicând despre relele lenei și ale băuturii. : [PAWN_nameDef] a fost preot în biserica imperială.\n\nÎși petrecea jumătate din timp studiind cărți pentru a înțelege relația dintre aspectele lui Dumnezeu și aspectele societății sale. Cealaltă jumătate și-o petrecea predicând despre relele lenei și ale băuturii.}\n</ImperialPriest24.baseDesc>
+  <!-- EN: imperial priest -->
+  <ImperialPriest24.title>preot imperial</ImperialPriest24.title>
+  <ImperialPriest24.titleFemale>preoteasă imperială</ImperialPriest24.titleFemale>
+  <!-- EN: priest -->
+  <ImperialPriest24.titleShort>preot</ImperialPriest24.titleShort>
+  <!-- EN: priestess -->
+  <ImperialPriest24.titleShortFemale>preoteasă</ImperialPriest24.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] carried mail on [PAWN_possessive] assigned routes. Sometimes [PAWN_pronoun] was even sent to deliver special packages to stylish corporate offices or mansions.\n\n[PAWN_nameDef] got pretty good at avoiding and fighting off angry dogs. -->
+  <Mailman2.baseDesc>{PAWN_gender ? [PAWN_nameDef] a transportat corespondența pe rutele care îi erau alocate. Uneori era chiar trimis să livreze pachete speciale la birouri corporative sau vile elegante.\n\n[PAWN_nameDef] a devenit destul de bun la evitarea și lupta cu câinii furioși. : [PAWN_nameDef] a transportat corespondența pe traseele care îi erau alocate. Uneori era chiar trimisă să livreze pachete speciale la birouri corporative sau vile elegante.\n\n[PAWN_nameDef] a devenit destul de bună la evitarea și lupta cu câinii furioși.}\n</Mailman2.baseDesc>
+  <!-- EN: mailman -->
+  <Mailman2.title>poștaș</Mailman2.title>
+  <!-- EN: mail carrier -->
+  <Mailman2.titleFemale>poștaș</Mailman2.titleFemale>
+  <!-- EN: mailman -->
+  <Mailman2.titleShort>poștaș</Mailman2.titleShort>
+  <!-- EN: mailwoman -->
+  <Mailman2.titleShortFemale>poștaș</Mailman2.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] managed the royal menagerie of a powerful family at their estate.\n\n[PAWN_nameDef]'s job saw [PAWN_pronoun] feeding elephants, tranquilizing lions, and training birds to display their plumage to titled visitors. -->
+  <MenagerieKeeper1.baseDesc>{PAWN_gender ? [PAWN_nameDef] a administrat menajeria regală a unei familii puternice de pe proprietatea lor.\n\nÎn cadrul slujbei lui [PAWN_nameDef], el hrănea elefanții, tranchiliza leii și dresa păsările pentru a-și etala penajul în fața vizitatorilor titrați. : [PAWN_nameDef] a administrat menajeria regală a unei familii puternice de la proprietatea lor.\n\nÎn slujba lui [PAWN_nameDef] a hrănit elefanți, a tranchilizat lei și a dresat păsări pentru a-și arăta penajul în fața vizitatorilor titrați.}\n</MenagerieKeeper1.baseDesc>
+  <!-- EN: menagerie keeper -->
+  <MenagerieKeeper1.title>îngrijitor de menajerie</MenagerieKeeper1.title>
+  <MenagerieKeeper1.titleFemale>îngrijitoare de menajerie</MenagerieKeeper1.titleFemale>
+  <!-- EN: zookeeper -->
+  <MenagerieKeeper1.titleShort>îngrijitor</MenagerieKeeper1.titleShort>
+  <MenagerieKeeper1.titleShortFemale>îngrijitoare</MenagerieKeeper1.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] crafted watches, medals, machined jewelry and other complex curios for royal patrons. -->
+  <OrnamentMaker56.baseDesc>{PAWN_gender ? [PAWN_nameDef] a realizat ceasuri, medalii, bijuterii prelucrate și alte curiozități complexe pentru patronii regali. : [PAWN_nameDef] a realizat ceasuri, medalii, bijuterii prelucrate și alte curiozități complexe pentru patronii regali.}\n</OrnamentMaker56.baseDesc>
+  <!-- EN: ornament maker -->
+  <OrnamentMaker56.title>creator de ornamente</OrnamentMaker56.title>
+  <OrnamentMaker56.titleFemale>creatoare de ornamente</OrnamentMaker56.titleFemale>
+  <!-- EN: ornamenter -->
+  <OrnamentMaker56.titleShort>ornamentor</OrnamentMaker56.titleShort>
+  <OrnamentMaker56.titleShortFemale>ornamentoare</OrnamentMaker56.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a mining engineer for a major planetary mining corporation. [PAWN_pronoun] work kept [PAWN_objective] underground for weeks at a time, and [PAWN_pronoun] grew to appreciate the darkness. -->
+  <PlanetaryMiner64.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost inginer minier pentru o mare corporație minieră planetară. Munca sa îl ținea sub pământ săptămâni întregi, iar el a ajuns să aprecieze întunericul. : [PAWN_nameDef] a fost inginer minier pentru o mare corporație minieră planetară. Munca ei o ținea sub pământ săptămâni întregi, iar ea a ajuns să aprecieze întunericul.}\n</PlanetaryMiner64.baseDesc>
+  <!-- EN: planetary miner -->
+  <PlanetaryMiner64.title>miner planetar</PlanetaryMiner64.title>
+  <!-- EN: miner -->
+  <PlanetaryMiner64.titleShort>miner</PlanetaryMiner64.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] made meals for [PAWN_possessive] aristocratic patrons.\n\nOnly the finest food was acceptable, so [PAWN_nameDef] tended a small garden on the mansion grounds to get the freshest herbs and vegetables. [PAWN_pronoun] fell in love with the food [PAWN_objective]self. -->
+  <RoyalCook18.baseDesc>{PAWN_gender ? [PAWN_nameDef] pregătea mese pentru patronii săi aristocrați.\n\nDoar cea mai bună mâncare era acceptabilă, așa că [PAWN_nameDef] a îngrijit o mică grădină pe terenul conacului pentru a obține cele mai proaspete ierburi și legume. El însuși s-a îndrăgostit de mâncare. : [PAWN_nameDef] pregătea mesele pentru patronii ei aristocrați.\n\nDoar cea mai bună mâncare era acceptabilă, așa că [PAWN_nameDef] îngrijea o mică grădină pe terenul conacului pentru a obține cele mai proaspete ierburi și legume. Ea însăși s-a îndrăgostit de mâncare.}\n</RoyalCook18.baseDesc>
+  <!-- EN: royal cook -->
+  <RoyalCook18.title>bucătar regal</RoyalCook18.title>
+  <RoyalCook18.titleFemale>bucătăreasă regală</RoyalCook18.titleFemale>
+  <!-- EN: cook -->
+  <RoyalCook18.titleShort>bucătar</RoyalCook18.titleShort>
+  <RoyalCook18.titleShortFemale>bucătăreasă</RoyalCook18.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] was a massage artist for an extended royal house. [PAWN_pronoun] serviced many members of the royal family, and their guests.\n\n[PAWN_nameDef] occasionally offered something extra, if the lord or lady was in the mood. Advancing in this line of work meant having refined social skills. -->
+  <RoyalMasseuse43.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost un artist de masaj pentru o casă regală extinsă. El a servit mulți membri ai familiei regale și oaspeții lor.\n\n[PAWN_nameDef] oferea ocazional ceva în plus, dacă domnul sau doamna avea chef. Pentru a avansa în acest domeniu de activitate, trebuia să aibă abilități sociale rafinate. : [PAWN_nameDef] a fost un artist de masaj pentru o casă regală extinsă. Ea a servit mulți membri ai familiei regale și oaspeții lor.\n\n[PAWN_nameDef] oferea ocazional ceva în plus, dacă domnul sau doamna avea chef. Pentru a avansa în acest domeniu de activitate trebuia să aibă abilități sociale rafinate.}\n</RoyalMasseuse43.baseDesc>
+  <!-- EN: royal masseuse -->
+  <RoyalMasseuse43.title>maseuz regal</RoyalMasseuse43.title>
+  <RoyalMasseuse43.titleFemale>maseuză regală</RoyalMasseuse43.titleFemale>
+  <!-- EN: masseuse -->
+  <RoyalMasseuse43.titleShort>maseuz</RoyalMasseuse43.titleShort>
+  <RoyalMasseuse43.titleShortFemale>maseuză</RoyalMasseuse43.titleShortFemale>
+  
+</LanguageData>

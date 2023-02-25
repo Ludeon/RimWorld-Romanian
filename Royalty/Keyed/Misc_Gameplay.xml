@@ -49,7 +49,7 @@
   <Psyfocus>Psyfocus</Psyfocus>
   <!-- EN: Psyfocus -->
   <PsyfocusLabelGizmo>Psyfocus</PsyfocusLabelGizmo>
-  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychics, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
+  <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychic powers, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
   <PsyfocusDesc>Psyfocus este un tip special de structurare mentală care este necesar pentru a folosi puterile psihice. Psyfocus-ul se disipează în timp și trebuie construit prin meditație regulată. Pierderea întregului psyfocus face ca cineva să nu poată folosi psihicul, dar nu are alte consecințe.\n\nNiveluri mai mari de psyfocus permit puteri de nivel mai înalt, dar cresc și rata de disipare a psyfocusului</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
   <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
@@ -96,16 +96,10 @@
   <AbilitySpeechDisabledNoThroneUndignified>tronul nu poate fi folosit pentru că este nedemn.</AbilitySpeechDisabledNoThroneUndignified>
   <!-- EN: already giving a speech. -->
   <AbilitySpeechDisabledAlreadyGivingSpeech>deja se ține un discurs.</AbilitySpeechDisabledAlreadyGivingSpeech>
-  <!-- EN: another gathering is in progress. -->
-  <AbilitySpeechDisabledAnotherGatheringInProgress>o altă adunare este în curs de desfășurare.</AbilitySpeechDisabledAnotherGatheringInProgress>
-  <!-- EN: Next speech ready in -->
-  <AbilitySpeechCooldown>Următorul discurs este gata în</AbilitySpeechCooldown>
   <!-- EN: Outcome chances -->
   <AbilitySpeechPossibleOutcomes>Șanse de rezultat</AbilitySpeechPossibleOutcomes>
   <!-- EN: {ORGANIZER_labelShort}'s {1} stat -->
   <AbilitySpeechStatInfo>Statistica {1} a lui {ORGANIZER_labelShort}</AbilitySpeechStatInfo>
-  <!-- EN: Initiated at -->
-  <AbilitySpeechTargetsLabel>Inițiat la</AbilitySpeechTargetsLabel>
   <!-- EN: Dignified throne -->
   <AbilitySpeechTargetDescThrone>Tron demn</AbilitySpeechTargetDescThrone>
   
@@ -157,7 +151,7 @@
   <RitualTargetAnimaTreeNoPawnsWithNatureFocus>Nu există coloniști cu tipul de focalizare a meditației naturale.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
   <!-- EN: Need at least {0} anima grass. -->
   <RitualTargetAnimaTreeNotEnoughAnimaGrass>Aveți nevoie de cel puțin {0} iarbă de anima.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
-  <!-- EN: An anima tree. -->
+  <!-- EN: an anima tree -->
   <RitualTargetAnimaTreeInfo>Un copac de anima.</RitualTargetAnimaTreeInfo>
   <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
   <RitualTargetAnimaTreeMustBeCapableOfNature>Trebuie să fie un colonist cu tipul de focalizare a meditației naturale care se află sub nivelul maxim de psylink.</RitualTargetAnimaTreeMustBeCapableOfNature>
@@ -171,5 +165,8 @@
 
   <!-- EN: no heat to dump. -->
   <AbilityNoEntropyToDump>Nu există căldură de descărcat.</AbilityNoEntropyToDump>
+
+  <!-- EN: level {0} -->
+  <LevelNum>TODO</LevelNum> <!-- Psylink level as reported in health tab-->
 
 </LanguageData>

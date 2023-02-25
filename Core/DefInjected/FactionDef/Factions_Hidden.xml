@@ -6,6 +6,8 @@
   <Ancients.description>persoane din zile îndepărtate.</Ancients.description>
   <!-- EN: Ancients -->
   <Ancients.fixedName>antici</Ancients.fixedName>
+  <!-- EN: leader -->
+  <Ancients.leaderTitle>TODO</Ancients.leaderTitle>
   <!-- EN: ancient -->
   <Ancients.pawnSingular>antic</Ancients.pawnSingular>
   <!-- EN: ancients -->
@@ -16,6 +18,8 @@
   <AncientsHostile.description>persoane ostile din zile îndepărtate.</AncientsHostile.description>
   <!-- EN: Ancients -->
   <AncientsHostile.fixedName>antici</AncientsHostile.fixedName>
+  <!-- EN: leader -->
+  <AncientsHostile.leaderTitle>TODO</AncientsHostile.leaderTitle>
   <!-- EN: ancient -->
   <AncientsHostile.pawnSingular>antic</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
@@ -27,6 +31,8 @@
   <Insect.description>Aceste creaturi gigantice asemănătoare insectelor trăiesc sub pământ și ies la suprafață pentru a ataca atunci când sunt atrase de zgomote sau semnale feromonale. Originare de pe planeta Sorne, antreprenorii interstelari au reușit să captureze, să modifice genetic și să crească în cuve coloniile de insecte pentru a le folosi ca arme. Nu este clar cine a plasat insectele Sorne pe această planetă, dar ele sunt aici și sunt la fel de periculoase ca întotdeauna.</Insect.description>
   <!-- EN: Sorne Geneline -->
   <Insect.fixedName>insecte</Insect.fixedName>
+  <!-- EN: leader -->
+  <Insect.leaderTitle>TODO</Insect.leaderTitle>
   <!-- EN: insect -->
   <Insect.pawnSingular>insectă</Insect.pawnSingular>
   <!-- EN: insects -->
@@ -36,6 +42,8 @@
   <Mechanoid.label>stup mecanoid</Mechanoid.label>
   <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
   <Mechanoid.description>Mașini ucigașe de origine necunoscută. Ascunși în structuri antice, sub mormane de praf sau pe fundul oceanului, mecanoizii se pot autoîntreține timp de mii de ani. Acest grup de mecanoizi pare să fie unit în scop, dar nu bine coordonat în acțiune. În timp ce savanții locali cred că sunt arme autonome rămase în urma unui război antic, legendele tribale îi descriu ca fiind servitorii demonici ai unui zeu adormit.</Mechanoid.description>
+  <!-- EN: leader -->
+  <Mechanoid.leaderTitle>TODO</Mechanoid.leaderTitle>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>mecanoid</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->

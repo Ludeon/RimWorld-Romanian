@@ -5,23 +5,23 @@
   <CustomizeIdeoligion>TODO</CustomizeIdeoligion>
   <!-- EN: Choose your ideoligion -->
   <ChooseYourIdeoligion>TODO</ChooseYourIdeoligion>
-  <!-- EN: Random -->
-  <Random>TODO</Random>
   <!-- EN: A random structure will be used for your ideoligion. -->
   <RandomStructureTip>TODO</RandomStructureTip>
   <!-- EN: A random style will be used for your ideoligion. -->
   <RandomStyleTip>TODO</RandomStyleTip>
-  <!-- EN: Customize -->
-  <Customize>TODO</Customize>
-  <!-- EN: Play classic -->
+  <!-- EN: Ideology system inactive -->
   <PlayClassic>TODO</PlayClassic>
-  <!-- EN: Create fluid... -->
-  <CreateFluid>TODO</CreateFluid>
+  <!-- EN: Create custom\n(fluid) -->
+  <CreateCustomFluid>TODO</CreateCustomFluid>
+  <!-- EN: Create custom\n(fixed) -->
+  <CreateCustomFixed>TODO</CreateCustomFixed>
+  <!-- EN: Custom ideoligions -->
+  <CustomIdeoligions>TODO</CustomIdeoligions>
   <!-- EN: Load saved -->
   <LoadSaved>TODO</LoadSaved>
   <!-- EN: Structure -->
   <Structure>TODO</Structure>
-  <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You’ll be able to recruit others to your beliefs, or take on their beliefs. -->
+  <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You'll be able to recruit others to your beliefs, or take on their beliefs. -->
   <ChooseYourIdeoligionDesc>TODO</ChooseYourIdeoligionDesc>
   <!-- EN: Create custom -->
   <CreateCustom>Creare customizată</CreateCustom>
@@ -77,14 +77,6 @@
   <VeneratedAnimalsBodySizePerColonist>Dimensiunea corporală totală din apropiere per colonist</VeneratedAnimalsBodySizePerColonist>
   <!-- EN: Expecting at least {0} body size per colonist. -->
   <MinAnimalBodySizePerColonist>Se așteaptă cel puțin {0} dimensiune corporală per colonist.</MinAnimalBodySizePerColonist>
-  <!-- EN: Plant {0_label} -->
-  <PlantThing>Plantează {0_label}</PlantThing>
-  <!-- EN: Plant a {0_label} in a chosen area. -->
-  <PlantThingDesc>Plantează un {0_label} într-o zonă aleasă.</PlantThingDesc>
-  <!-- EN: Cancel planting {0_label} -->
-  <CancelPlantThing>Anulează plantarea {0_label}</CancelPlantThing>
-  <!-- EN: Cancel planting the {0_label}. -->
-  <CancelPlantThingDesc>Anulează plantarea lui {0_label}.</CancelPlantThingDesc>
   <!-- EN: Disables -->
   <Disables>Dezactivează</Disables>
   <!-- EN: Requires one of precepts -->
@@ -93,16 +85,16 @@
   <RequiredPrecepts>Precepte necesare</RequiredPrecepts>
   <!-- EN: Required rituals -->
   <RequiredRituals>Ritualuri necesare</RequiredRituals>
-  <!-- EN: Disables precepts -->
-  <DisablesPrecepts>Dezactivează preceptele</DisablesPrecepts>
-  <!-- EN: Disables {0} precepts. -->
-  <DisablesPreceptsCount>Dezactivează {0} precepte.</DisablesPreceptsCount>
+  <!-- EN: Prevents precepts -->
+  <PreventsPrecepts>TODO</PreventsPrecepts>
   <!-- EN: Styles -->
   <Styles>Stiluri</Styles>
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>Șansa de a avea precept</ChanceToHavePrecept>
-  <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
+  <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
   <FavoriteColorTooltip>Culoarea preferată a lui {PAWN_labelShort}. Având mai mult de {PERCENTAGE} din hainele {PAWN_possessive} în această culoare, sau culoarea ideologiei {PAWN_possessive}, îl va face pe {PAWN_objective} ușor mai fericit.\n\nPoți modifica culorile hainelor la stația de styling folosind vopseaua tinctoria.</FavoriteColorTooltip>
+  <!-- EN: , or the color of {PAWN_possessive} ideoligion, -->
+  <OrIdeoColor>TODO</OrIdeoColor>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>Set ideo color</SetIdeoColor>
   <!-- EN: Set to favorite color -->
@@ -153,6 +145,8 @@
   <MealKindMeat>TODO</MealKindMeat>
   <!-- EN: Acceptable food for everyone -->
   <MealKindAny>TODO</MealKindAny>
+  <!-- EN: this outfit -->
+  <WearingDesiredApparelMulti>TODO</WearingDesiredApparelMulti>
 
   <!-- EN: Could not load ideoligion -->
   <UnableToLoadIdeoTitle>TODO</UnableToLoadIdeoTitle>
@@ -165,13 +159,15 @@
   <!-- EN: Precept {PRECEPT} is not allowed for non-player factions -->
   <UnableToLoadIdeoPreceptNotAllowed>TODO</UnableToLoadIdeoPreceptNotAllowed>
 
-  <!-- EN: A grave containing {PAWN_labelShort}'s corpse. -->
+  <!-- EN: Grave containing {PAWN_labelShort}'s corpse -->
   <RitualTargetGraveInfo>Un mormânt care conține cadavrul lui {PAWN_labelShort}.</RitualTargetGraveInfo>
-  <!-- EN: An empty grave to mourn {PAWN_labelShort}'s passing. -->
+  <!-- EN: Empty grave to mourn {PAWN_labelShort}'s passing -->
   <RitualTargetEmptyGraveInfo>Un mormânt gol pentru a deplânge moartea lui {PAWN_labelShort}.</RitualTargetEmptyGraveInfo>
-  <!-- EN: A grave containing {IDEO_memberNameIndef}'s corpse -->
+  <!-- EN: Grave containing {IDEO_memberNameIndef}'s corpse -->
   <RitualTargetGraveInfoAbstract>Un mormânt care conține cadavrul lui {IDEO_memberNameIndef}.</RitualTargetGraveInfoAbstract>
-  <!-- EN: An empty grave to mourn {IDEO_memberNameIndef}'s passing. -->
+  <!-- EN: Grave containing a corpse -->
+  <RitualTargetGraveInfoAbstractNoIdeo>TODO</RitualTargetGraveInfoAbstractNoIdeo>
+  <!-- EN: Empty grave to mourn {IDEO_memberNameIndef}'s passing -->
   <RitualTargetEmptyGraveInfoAbstract>Un mormânt gol pentru a deplânge moartea lui {IDEO_memberNameIndef}.</RitualTargetEmptyGraveInfoAbstract>
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
   <RitualTargetGraveInfoMustBeBuried>Corpul lui {PAWN_labelShort} trebuie să fie îngropat mai întâi</RitualTargetGraveInfoMustBeBuried>
@@ -181,8 +177,6 @@
   <RitualTargetGatherAltarOrRitualSpotInfo>Altar sau orice loc ritual.</RitualTargetGatherAltarOrRitualSpotInfo>
   <!-- EN: Altar, ideogram or any ritual spot. -->
   <RitualTargetGatherAltarIdeogramOrRitualSpotInfo>TODO</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
-  <!-- EN: A lightball or ritual spot. Lightball and loudspeakers must be powered. -->
-  <RitualTargetLightBallInfo>O bilă de lumină sau un punct ritual. Bila de lumină și difuzoarele trebuie să fie alimentate.</RitualTargetLightBallInfo>
   <!-- EN: Lightball is not powered. -->
   <RitualTargetLightBallIsNotPowered>Bila luminoasă nu este alimentată.</RitualTargetLightBallIsNotPowered>
   <!-- EN: No powered speakers. -->
@@ -195,11 +189,9 @@
   <RitualTargetNoDrum>Nu există o tobă în apropiere.</RitualTargetNoDrum>
   <!-- EN: Need at least {0} unroofed cells nearby. -->
   <RitualTargetNeedUnroofedCells>Ai nevoie de cel puțin {0} celule neacoperite în apropiere.</RitualTargetNeedUnroofedCells>
-  <!-- EN: A lit campfire or ritual spot. -->
+  <!-- EN: a lit campfire -->
   <RitualTargetCampfirePartyInfo>Un foc de tabără aprins sau un loc de ritual.</RitualTargetCampfirePartyInfo>
-  <!-- EN: A lit campfire or ritual spot. Spot must be unroofed with at least 25 unroofed cells in the area. -->
-  <RitualTargetCampfireSkylanternsInfo>Un foc de tabără aprins sau un loc de ritual. Locul trebuie să fie neacoperit, cu cel puțin 25 de celule neacoperite în zonă.</RitualTargetCampfireSkylanternsInfo>
-  <!-- EN: An unconnected Gauranlen tree. -->
+  <!-- EN: an unconnected Gauranlen tree -->
   <RitualTargetUnconnectedGaruanlenTreeInfo>Un copac Gauranlen neconectat.</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>Deja conectat la {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
@@ -207,14 +199,14 @@
   <RitualTargetConnectionTornGauranlenTree>TODO</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
   <RitualTargeWoodInfo>Ai nevoie de {0} lemn pentru fiecare participant ({2} în total). Aveți {1} lemn.</RitualTargeWoodInfo>
+  <!-- EN: {0} must be able to reach ritual target. -->
+  <RitualTargetUnreachable>TODO</RitualTargetUnreachable>
   <!-- EN: Accuse -->
   <Accuse>Acuză</Accuse>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified. -->
   <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort} nu crede în scarificarea ideoligioasă și nu-i va plăcea să fie scarificat.</RitualScarificationWarnNonScarificationIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being scarified. -->
   <RitualScarificationWarnWimp>{PAWN_labelShort} este un pămpălău și nu-i va plăcea să fie scarificat.</RitualScarificationWarnWimp>
-  <!-- EN: {PAWN_labelShort} does not believe in ideoligious blinding and will not like being blinded. -->
-  <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort} nu crede în orbirea ideoligioasă și nu-i va plăcea să fie orbit.</RitualBlindingWarnNonBlindingIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being blinded. -->
   <RitualBlindingWarnWimp>{PAWN_labelShort} este un fricos și nu-i va plăcea să fie orbit.</RitualBlindingWarnWimp>
   <!-- EN: Scarification is expected for {IDEOMEMBERPLURAL} as long as there are fewer than {0} scarified {IDEOMEMBERPLURAL}. -->
@@ -237,6 +229,8 @@
   
   <!-- EN: Due to the quality of the ritual, your development points have increased by {2} (from {0} to {1}). -->
   <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>TODO</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+  <!-- EN: Can't award development points beyond {0}. -->
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>TODO</RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>
   <!-- EN: Due to the poor quality of the ritual, no development points were gained. -->
   <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>TODO</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
 
@@ -279,24 +273,12 @@
   <IdeoBuildingVariationOf>Această clădire este o variație a</IdeoBuildingVariationOf>
   <!-- EN: Minimum expectations -->
   <IdeoBuildingMinimumExpectations>Așteptări minime</IdeoBuildingMinimumExpectations>
-  <!-- EN: size -->
-  <Size>dimensiune</Size>
-  <!-- EN: cost -->
-  <Cost>cost</Cost>
   <!-- EN: optional -->
   <Optional>opțional</Optional>
   <!-- EN: expectations -->
   <Expectations>așteptări</Expectations>
-  <!-- EN: Can start any time -->
-  <RitualStartAnyTime>Poate începe oricând</RitualStartAnyTime>
-  <!-- EN: Can start after event -->
-  <RitualStartEvent>Poate începe după un eveniment</RitualStartEvent>
-  <!-- EN: Focus objects -->
-  <RitualFocusObjects>Obiecte de focalizare</RitualFocusObjects>
   <!-- EN: Repeating a ritual within {0} days reduces its quality. {1} days have passed since the last ritual, so the current quality reduction is {2}. This penalty will fall to zero {3} days from now. -->
   <RitualRepeatPenaltyTip>Repetarea unui ritual în {0} zile reduce calitatea acestuia. Au trecut {1} zile de la ultimul ritual, așa că reducerea actuală a calității este de {2}. Această penalizare va scădea la zero {3} zile de acum încolo.</RitualRepeatPenaltyTip>
-  <!-- EN: Participating roles -->
-  <RitualParticipatingRoles>Roluri participante</RitualParticipatingRoles>
   <!-- EN: For best quality, start the {0} at {1}. -->
   <RitualOutcomeCompTip_RitualTargetDefsPart1>Pentru cea mai bună calitate, începeți {0} la {1}.</RitualOutcomeCompTip_RitualTargetDefsPart1>
   <!-- EN: Currently, the {0} is being started at {1_labelShortIndef}. -->
@@ -305,6 +287,8 @@
   <RitualDevelopmentPoints>TODO</RitualDevelopmentPoints>
   <!-- EN: Completing this ritual gives {0}-{1} development points depending on quality. -->
   <RitualDevelopmentPointsTip>TODO</RitualDevelopmentPointsTip>
+  <!-- EN: {0} needs to be powered. -->
+  <RitualOutcomeBlockedNoPower>TODO</RitualOutcomeBlockedNoPower>
 
   <!-- EN: For slave use -->
   <ForSlaveUse>Pentru uzul sclavilor</ForSlaveUse>
@@ -333,9 +317,9 @@
   <RoleRequirementLabelSameIdeo>Trebuie să fie {0}</RoleRequirementLabelSameIdeo>
   <!-- EN: Must be {0} -->
   <RoleRequirementLabelSupremeGender>Trebuie să fie {0}</RoleRequirementLabelSupremeGender>
+  <!-- EN: Cannot be child -->
+  <RoleRequirementCannotBe>TODO</RoleRequirementCannotBe>
 
-  <!-- EN: Disabled work -->
-  <RoleDisabledWorkLabel>Muncă dezactivată</RoleDisabledWorkLabel>
   <!-- EN: Abilities -->
   <RoleGrantedAbilitiesLabel>Abilități</RoleGrantedAbilitiesLabel>
   <!-- EN: Required apparel -->
@@ -358,6 +342,8 @@
   <AbilityDisabledNoAltarOrRitualsSpot>Niciun altar sau loc de ritualuri accesibil.</AbilityDisabledNoAltarOrRitualsSpot>
   <!-- EN: No reachable altar, ideogram or ritual spot. -->
   <AbilityDisabledNoAltarIdeogramOrRitualsSpot>TODO</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
+  <!-- EN: No reachable ritual spot. -->
+  <AbilityDisabledNoRitualSpot>TODO</AbilityDisabledNoRitualSpot>
 
   <!-- EN: Will\n{0} to {1} -->
   <TextMote_WillReduced>Va\n{0} la {1}</TextMote_WillReduced>
@@ -643,8 +629,10 @@
   <BiosculpterHealCompletedMessage>{PAWN_labelShort} a finalizat ciclul de vindecare.</BiosculpterHealCompletedMessage>
   <!-- EN: {PAWN_labelShort} completed healing cycle, and {PAWN_possessive} {HEDIFF_label} was cured. -->
   <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} a finalizat ciclul de vindecare, iar {HEDIFF_label} lor a fost vindecat.</BiosculpterHealCompletedWithCureMessage>
-  <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
+  <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. -->
   <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} a finalizat ciclul de inversare a vârstei {PAWN_possessive}. {PAWN_pronoun} așteaptă următoarea inversare a vârstei în {DEADLINE} zile.</BiosculpterAgeReversalCompletedMessage>
+  <!-- EN: {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
+  <AgeReversalExpectationDeadline>TODO</AgeReversalExpectationDeadline>
   <!-- EN: {PAWN_labelShort}'s pleasure cycle is complete. -->
   <BiosculpterPleasureCompletedMessage>Ciclul de plăcere al lui {PAWN_labelShort} s-a încheiat.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
@@ -663,5 +651,12 @@
   <OnCompletionOfCycle>TODO</OnCompletionOfCycle>
   <!-- EN: {PAWN_nameDef} does not have any conditions that can be healed by a {CYCLE} cycle.\n\nDo you want to continue? -->
   <BiosculpterNoCoditionsToHeal>TODO</BiosculpterNoCoditionsToHeal>
+
+  <!-- EN: basic -->
+  <Basic>TODO</Basic>
+  <!-- EN: Change the style this will be built in. This is purely visual and has no gameplay impact. -->
+  <ChangeStyleDesc>TODO</ChangeStyleDesc>
+  <!-- EN: No available styles. -->
+  <ChangeStyleDisabledNoCategories>TODO</ChangeStyleDisabledNoCategories>
 
 </LanguageData>

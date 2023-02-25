@@ -47,7 +47,7 @@
 
   <!-- EN: Need meditation spot -->
   <NeedMeditationSpotAlert>Trebuie loc de meditație</NeedMeditationSpotAlert>
-  <!-- EN: These colonists have a psyfocus need, but don't have any meditation spots available for them.\n\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use. -->
+  <!-- EN: These colonists have a psyfocus need or are sceheduled to meditate, but don't have any meditation spots available for them.\n\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use. -->
   <NeedMeditationSpotAlertDesc>Acești coloniști au nevoie de o focalizare psihică, dar nu au niciun loc de meditație disponibil pentru ei.\n\n{0}\n\nPlasează un loc de meditație și asigură-te că este accesibil și utilizabil. Coloniștii vor prefera locul de meditație în apropierea celui mai bun obiect de focalizare pe care îl pot folosi.</NeedMeditationSpotAlertDesc>
 
   <!-- EN: Unusable meditation focus -->

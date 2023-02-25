@@ -4,25 +4,16 @@
   <!-- EN: A story generator by Tynan Sylvester -->
   <MainPageCredit>Un generator de povești creat de Tynan Sylvester</MainPageCredit>
 
-  <!-- EN: Developers -->
+  <!-- EN: Engineering -->
   <Credits_Developers>Dezvoltatori</Credits_Developers>
   <!-- EN: Audio -->
   <Credit_MusicAndSound>Audio</Credit_MusicAndSound>
-  <!-- EN: Code -->
-  <Credit_Code>Cod</Credit_Code>
   <!-- EN: Art -->
   <Credit_GameArt>Artă</Credit_GameArt>
   <!-- EN: Menu art -->
   <Credit_MenuArt>Artă meniu</Credit_MenuArt>
-  <!-- EN: Additional code -->
-  <Credit_AdditionalCode>Cod adițional</Credit_AdditionalCode>
-  
-  <!-- EN: Additional development -->
+  <!-- EN: Additional engineering -->
   <Credits_AdditionalDevelopment>Dezvoltare adițională</Credits_AdditionalDevelopment>
-
-  <!-- EN: Special thanks -->
-  <Credit_SpecialThanks>Mulțumiri deosebite</Credit_SpecialThanks>
-
   <!-- EN: Community volunteers -->
   <Credits_TitleCommunity>Voluntari ai comunității</Credits_TitleCommunity>
   <!-- EN: Community testers -->
@@ -39,19 +30,13 @@
   <Credit_WikiMaster>Maistru al wikiului</Credit_WikiMaster>
   <!-- EN: Test lead -->
   <Credit_TestLead>Lider de test</Credit_TestLead>
-
   <!-- EN: {0} language -->
   <Credits_TitleLanguage>limba {0}</Credits_TitleLanguage>
-  <!-- EN: Writer -->
-  <Credit_Writer>Scriitor</Credit_Writer>
-  <!-- EN: Translator -->
-  <Credit_Translator>Traducător</Credit_Translator>
-  <!-- EN: Open source libraries -->
-  <Credit_OpenSourceLibraries>Biblioteci open source</Credit_OpenSourceLibraries>
-  <!-- EN: Noise generation -->
-  <Credit_NoiseGeneration>Generare zgomot</Credit_NoiseGeneration>
-
   <!-- EN: Thanks for playing! -->
   <ThanksForPlaying>Vă mulțumim pentru că ați jucat!</ThanksForPlaying>
+
+  <!-- Currently unused -->
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>Mulțumiri deosebite</Credit_SpecialThanks>
 
 </LanguageData>

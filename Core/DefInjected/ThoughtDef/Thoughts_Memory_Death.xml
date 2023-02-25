@@ -25,7 +25,7 @@
   <KnowColonistExecuted.stages.colonist_executed.description>Un colonist a fost ucis cu sânge rece. Ce diabolic!</KnowColonistExecuted.stages.colonist_executed.description>
   <!-- EN: colonist organ-harvested -->
   <KnowColonistExecuted.stages.colonist_organharvested.label>colonist recoltat de organe</KnowColonistExecuted.stages.colonist_organharvested.label>
-  <!-- EN: A colonist died because someone took body parts from him. It's horrible. -->
+  <!-- EN: A colonist died because someone took body parts from them. It's horrible. -->
   <KnowColonistExecuted.stages.colonist_organharvested.description>Un colonist a murit pentru că cineva a luat părți din corpul său. Mi se pare un lucru oribil... nici nu vreau sa mă mai gândesc la asta.</KnowColonistExecuted.stages.colonist_organharvested.description>
   
   <!-- EN: justified execution -->
@@ -42,7 +42,7 @@
   <KnowGuestExecuted.stages.someone_was_executed.description>Un prizonier sau un oaspete a fost ucis cu sânge rece. Ce diabolic!</KnowGuestExecuted.stages.someone_was_executed.description>
   <!-- EN: someone was organ-murdered -->
   <KnowGuestExecuted.stages.someone_was_organmurdered.label>cineva a fost omorât pentru organe</KnowGuestExecuted.stages.someone_was_organmurdered.label>
-  <!-- EN: A prisoner or guest died because the colony took body parts from him. It's horrible. -->
+  <!-- EN: A prisoner or guest died because the colony took body parts from them. It's horrible. -->
   <KnowGuestExecuted.stages.someone_was_organmurdered.description>Un prizonier sau un oaspete a murit pentru că i s-au luat părți din corpul său. E groaznic!</KnowGuestExecuted.stages.someone_was_organmurdered.description>
   
   <!-- EN: innocent prisoner died -->

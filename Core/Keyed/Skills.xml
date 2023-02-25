@@ -1,26 +1,40 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- EN: level -->
+  <!-- EN: Level -->
   <Level>Nivel</Level>
-  <!-- EN: Progress to next level -->
+  <!-- EN: Skill level -->
+  <SkillLevel>TODO</SkillLevel>
+  <!-- EN: Progress to next learned level -->
   <ProgressToNextLevel>Progres până la nivelul următor</ProgressToNextLevel>
   <!-- EN: Experience -->
   <Experience>Experiență</Experience>
   <!-- EN: Passion -->
   <Passion>Pasiune</Passion>
-  <!-- EN: None\n   -Learns {0} -->
+  <!-- EN: No passion -->
   <PassionNone>Nimic\n -Învață {0}</PassionNone>
-  <!-- EN: Interested\n   -Learns {0} -->
+  <!-- EN: Passion -->
   <PassionMinor>Interesat\n -Învăță {0}</PassionMinor>
-  <!-- EN: Burning\n   -Learns {0} -->
+  <!-- EN: Burning passion -->
   <PassionMajor>Ardent\n -Învață {0}</PassionMajor>
+  <!-- EN: Learning speed -->
+  <LearningSpeed>TODO</LearningSpeed>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>Învățat maxim astăzi ({0}/{1}, învățarea ulterioară înmulțită cu {2})</LearnedMaxToday>
+  <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
+  <ChildrenLearn>TODO</ChildrenLearn>
   <!-- EN: Effects at level {0} -->
   <EffectsAtLevel>Efecte la nivelul {0}</EffectsAtLevel>
   <!-- EN: MAX -->
   <SkillMax>MAX</SkillMax>
+  <!-- EN: Learned level -->
+  <LearnedLevel>TODO</LearnedLevel>
+  <!-- EN: Negative level adjusted to zero. -->
+  <NegativeLevelAdjustedToZero>TODO</NegativeLevelAdjustedToZero>
+  <!-- EN: Level capped at {0}. -->
+  <LevelCappedAtMax>TODO</LevelCappedAtMax>
+  <!-- EN: {GENE_label} gene -->
+  <GeneLabelWithDesc>TODO</GeneLabelWithDesc>
 
   <!-- EN: Barely heard of it -->
   <Skill0>Deabia am auzit de ea</Skill0>

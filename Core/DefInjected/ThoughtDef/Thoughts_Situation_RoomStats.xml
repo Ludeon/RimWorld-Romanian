@@ -34,38 +34,38 @@
   <!-- EN: My hospital is wonderful! It makes me feel better already. -->
   <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>Spitalul meu este minunat! Mă face să mă simt deja mai bine.</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
   
-  <!-- EN: awful barrack -->
-  <PrisonBarracks.stages.awful_barrack.label>baracă îngrozitoare</PrisonBarracks.stages.awful_barrack.label>
-  <!-- EN: My prison barrack is an awful place. -->
-  <PrisonBarracks.stages.awful_barrack.description>Baraca mea din închisoare este un loc îngrozitor.</PrisonBarracks.stages.awful_barrack.description>
-  <!-- EN: dull barrack -->
-  <PrisonBarracks.stages.dull_barrack.label>baracă plictisitoare</PrisonBarracks.stages.dull_barrack.label>
-  <!-- EN: I'm living in a dull barrack. -->
-  <PrisonBarracks.stages.dull_barrack.description>Locuiesc într-o baracă plictisitoare.</PrisonBarracks.stages.dull_barrack.description>
-  <!-- EN: slightly impressive barrack -->
-  <PrisonBarracks.stages.slightly_impressive_barrack.label>baracă ușor impresionantă</PrisonBarracks.stages.slightly_impressive_barrack.label>
-  <!-- EN: My prison barrack is slightly impressive. -->
-  <PrisonBarracks.stages.slightly_impressive_barrack.description>Baraca mea din închisoare este ușor impresionantă.</PrisonBarracks.stages.slightly_impressive_barrack.description>
-  <!-- EN: somewhat impressive barrack -->
-  <PrisonBarracks.stages.somewhat_impressive_barrack.label>baracă oarecum impresionantă</PrisonBarracks.stages.somewhat_impressive_barrack.label>
-  <!-- EN: My prison barrack is impressive. I like it. -->
-  <PrisonBarracks.stages.somewhat_impressive_barrack.description>Baraca mea din închisoare este impresionantă. Îmi place.</PrisonBarracks.stages.somewhat_impressive_barrack.description>
-  <!-- EN: very impressive barrack -->
-  <PrisonBarracks.stages.very_impressive_barrack.label>baracă foarte impresionantă</PrisonBarracks.stages.very_impressive_barrack.label>
-  <!-- EN: My prison barrack is very impressive. I like it. -->
-  <PrisonBarracks.stages.very_impressive_barrack.description>Baraca mea din închisoare este foarte impresionantă. Îmi place.</PrisonBarracks.stages.very_impressive_barrack.description>
-  <!-- EN: extremely impressive barrack -->
-  <PrisonBarracks.stages.extremely_impressive_barrack.label>baracă extrem de impresionantă</PrisonBarracks.stages.extremely_impressive_barrack.label>
-  <!-- EN: My prison barrack is extremely impressive. I can't believe they are keeping me in a place like this. -->
-  <PrisonBarracks.stages.extremely_impressive_barrack.description>Baraca mea din închisoare este extrem de impresionantă. Nu-mi vine să cred că mă țin într-un asemenea loc.</PrisonBarracks.stages.extremely_impressive_barrack.description>
-  <!-- EN: unbelievably impressive barrack -->
-  <PrisonBarracks.stages.unbelievably_impressive_barrack.label>baracă incredibil de impresionantă</PrisonBarracks.stages.unbelievably_impressive_barrack.label>
-  <!-- EN: My prison barrack is unbelievably impressive. I can't believe they are keeping me in a place like this. -->
-  <PrisonBarracks.stages.unbelievably_impressive_barrack.description>Baraca mea din închisoare este incredibil de impresionantă. Nu-mi vine să cred că mă țin într-un asemenea loc.</PrisonBarracks.stages.unbelievably_impressive_barrack.description>
-  <!-- EN: wondrously impressive barrack -->
-  <PrisonBarracks.stages.wondrously_impressive_barrack.label>baracă minunat de impresionantă</PrisonBarracks.stages.wondrously_impressive_barrack.label>
-  <!-- EN: My prison barrack is wonderful! I can't believe they are keeping me in a place like this. -->
-  <PrisonBarracks.stages.wondrously_impressive_barrack.description>Baraca mea din închisoare este minunată! Nu-mi vine să cred că mă țin într-un loc ca acesta.</PrisonBarracks.stages.wondrously_impressive_barrack.description>
+  <!-- EN: awful barracks -->
+  <PrisonBarracks.stages.awful_barracks.label>TODO</PrisonBarracks.stages.awful_barracks.label>
+  <!-- EN: My prison barracks is an awful place. -->
+  <PrisonBarracks.stages.awful_barracks.description>TODO</PrisonBarracks.stages.awful_barracks.description>
+  <!-- EN: dull barracks -->
+  <PrisonBarracks.stages.dull_barracks.label>TODO</PrisonBarracks.stages.dull_barracks.label>
+  <!-- EN: I'm living in a dull barracks. -->
+  <PrisonBarracks.stages.dull_barracks.description>TODO</PrisonBarracks.stages.dull_barracks.description>
+  <!-- EN: slightly impressive barracks -->
+  <PrisonBarracks.stages.slightly_impressive_barracks.label>TODO</PrisonBarracks.stages.slightly_impressive_barracks.label>
+  <!-- EN: My prison barracks is slightly impressive. -->
+  <PrisonBarracks.stages.slightly_impressive_barracks.description>TODO</PrisonBarracks.stages.slightly_impressive_barracks.description>
+  <!-- EN: somewhat impressive barracks -->
+  <PrisonBarracks.stages.somewhat_impressive_barracks.label>TODO</PrisonBarracks.stages.somewhat_impressive_barracks.label>
+  <!-- EN: My prison barracks is impressive. I like it. -->
+  <PrisonBarracks.stages.somewhat_impressive_barracks.description>TODO</PrisonBarracks.stages.somewhat_impressive_barracks.description>
+  <!-- EN: very impressive barracks -->
+  <PrisonBarracks.stages.very_impressive_barracks.label>TODO</PrisonBarracks.stages.very_impressive_barracks.label>
+  <!-- EN: My prison barracks is very impressive. I like it. -->
+  <PrisonBarracks.stages.very_impressive_barracks.description>TODO</PrisonBarracks.stages.very_impressive_barracks.description>
+  <!-- EN: extremely impressive barracks -->
+  <PrisonBarracks.stages.extremely_impressive_barracks.label>TODO</PrisonBarracks.stages.extremely_impressive_barracks.label>
+  <!-- EN: My prison barracks is extremely impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.extremely_impressive_barracks.description>TODO</PrisonBarracks.stages.extremely_impressive_barracks.description>
+  <!-- EN: unbelievably impressive barracks -->
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.label>TODO</PrisonBarracks.stages.unbelievably_impressive_barracks.label>
+  <!-- EN: My prison barracks is unbelievably impressive. I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.description>TODO</PrisonBarracks.stages.unbelievably_impressive_barracks.description>
+  <!-- EN: wondrously impressive barracks -->
+  <PrisonBarracks.stages.wondrously_impressive_barracks.label>TODO</PrisonBarracks.stages.wondrously_impressive_barracks.label>
+  <!-- EN: My prison barracks is wonderful! I can't believe they are keeping me in a place like this. -->
+  <PrisonBarracks.stages.wondrously_impressive_barracks.description>TODO</PrisonBarracks.stages.wondrously_impressive_barracks.description>
   
   <!-- EN: awful prison cell -->
   <PrisonCell.stages.awful_prison_cell.label>celulă de închisoare îngrozitoare</PrisonCell.stages.awful_prison_cell.label>

@@ -11,6 +11,16 @@
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
   <MaxNumberOfPlayerSettlements.helpText>Atenție: RimWorld a fost proiectat să fie jucat cu o singură colonie controlată de jucător la un moment dat. Sunt permise multiple colonii ale jucătorului doar ca un test experimental.\n\nJucarea cu mai multe colonii va cauza imbalansuri în joc și îți va fragmenta atenția, și de asemenea îți va cauza și degradări de performanță.\n\nÎți recomandăm să joci cu o singură colonie, așa cum a fost jocul, cel puțin pentru primele tale jucări.</MaxNumberOfPlayerSettlements.helpText>
   
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsGame.label>TODO</SteamDeckControlsGame.label>
+  <!-- EN: Press X to open the architect menu and {Key:TogglePause} to pause and resume the game. Use triggers for primary and secondary clicks. Zoom in and out and scroll through lists with {Key:MapZoom_In} and {Key:MapZoom_Out}. Press and hold the L5 back button to pan the camera with the touch screen and simulate secondary clicks. -->
+  <SteamDeckControlsGame.helpText>TODO</SteamDeckControlsGame.helpText>
+  
+  <!-- EN: Steam Deck controls -->
+  <SteamDeckControlsMainMenu.label>TODO</SteamDeckControlsMainMenu.label>
+  <!-- EN: Use the trackpad to move the cursor and the right trigger button to click. Press {Key:Accept} to accept and {Key:Cancel} to go back. -->
+  <SteamDeckControlsMainMenu.helpText>TODO</SteamDeckControlsMainMenu.helpText>
+  
   <!-- EN: Flick designations only designate -->
   <SwitchFlickingDesignation.label>Asignările de comutare doar asignează</SwitchFlickingDesignation.label>
   <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->

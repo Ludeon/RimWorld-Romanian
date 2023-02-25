@@ -38,6 +38,15 @@
   <!-- EN: donkey foal -->
   <Donkey.lifeStages.donkey_foal.label>mânz de măgar</Donkey.lifeStages.donkey_foal.label>
   
+  <!-- EN: dromedary -->
+  <Dromedary.label>dromader</Dromedary.label>
+  <!-- EN: dromedaries -->
+  <Dromedary.labelPlural>dromadari</Dromedary.labelPlural>
+  <!-- EN: dromedary calf -->
+  <Dromedary.lifeStages.dromedary_calf.label>vițel dromader</Dromedary.lifeStages.dromedary_calf.label>
+  <!-- EN: dromedary calves -->
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>viței de dromader</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  
   <!-- EN: elephant -->
   <Elephant.label>elefant</Elephant.label>
   <!-- EN: elephant calf -->
@@ -67,6 +76,13 @@
   <Horse.labelMale>armăsar</Horse.labelMale>
   <!-- EN: foal -->
   <Horse.lifeStages.foal.label>mânz</Horse.lifeStages.foal.label>
+  
+  <!-- EN: muffalo -->
+  <Muffalo.label>muffalo</Muffalo.label>
+  <!-- EN: muffalo calf -->
+  <Muffalo.lifeStages.muffalo_calf.label>vițel muffalo</Muffalo.lifeStages.muffalo_calf.label>
+  <!-- EN: muffalo calves -->
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>viței de muffalo</Muffalo.lifeStages.muffalo_calf.labelPlural>
   
   <!-- EN: rhinoceros -->
   <Rhinoceros.label>rinoceron</Rhinoceros.label>

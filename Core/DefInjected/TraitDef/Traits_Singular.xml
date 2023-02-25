@@ -33,7 +33,7 @@
   
   <!-- EN: body purist -->
   <BodyPurist.degreeDatas.body_purist.label>purist trupesc</BodyPurist.degreeDatas.body_purist.label>
-  <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting. -->
+  <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts and xenogenes are unethical and disgusting. -->
   <BodyPurist.degreeDatas.body_purist.description>{PAWN_gender ? [PAWN_nameDef] crede că trupul uman este limitat cu un motiv. Pentru el, părțile artificiale ale corpului sunt lipsite de etică și dezgustătoare. : [PAWN_nameDef] crede că trupul uman este limitat cu un motiv. Pentru ea, părțile artificiale ale corpului sunt lipsite de etică și dezgustătoare. }\n</BodyPurist.degreeDatas.body_purist.description>
   
   <!-- EN: brawler -->
@@ -93,7 +93,7 @@
   
   <!-- EN: kind -->
   <Kind.degreeDatas.kind.label>amabil</Kind.degreeDatas.kind.label>
-  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} never insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
+  <!-- EN: {PAWN_nameDef} is an exceptionally agreeable and giving person. {PAWN_pronoun} rarely insults others and will sometimes offer kind words to brighten the moods of those around {PAWN_objective}. {PAWN_pronoun} also never judges people by their appearance. {PAWN_possessive} agreeableness also makes {PAWN_objective} more likely to conform to prevailing opinions. -->
   <Kind.degreeDatas.kind.description>{PAWN_gender ? [PAWN_nameDef] este excepțional de amabil. El are un mod special de a folosi cuvinte frumoase pentru a înveseli ziua cuiva. Nu îi insultă niciodată pe ceilalți și nu judecă niciodată oamenii după aspectul lor. Agreabilitatea sa îl face, de asemenea, mai predispus să se conformeze opiniilor predominante. : [PAWN_nameDef] este excepțional de amabilă. Ea are un mod special de a folosi cuvinte frumoase pentru a înveseli ziua cuiva. Ea nu îi insultă niciodată pe ceilalți și nu judecă niciodată oamenii după aspectul lor. Agreabilitatea ei o face, de asemenea, mai predispusă să se conformeze opiniilor predominante. }\n</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
@@ -123,7 +123,7 @@
   
   <!-- EN: pyromaniac -->
   <Pyromaniac.degreeDatas.pyromaniac.label>piromanic</Pyromaniac.degreeDatas.pyromaniac.label>
-  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires. To relieve stress, {PAWN_pronoun} will occasionally go on random fire starting sprees. This happens more often if {PAWN_possessive} mood is low. -->
+  <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and will occasionally go on random fire starting sprees. {PAWN_pronoun} will be happy around flames, and happier when wielding an incendiary weapon. -->
   <Pyromaniac.degreeDatas.pyromaniac.description>{PAWN_gender ? [PAWN_nameDef] iubește focul. El nu va stinge niciodată focul. Pentru a scăpa de stres, va merge ocazional la întâmplări aleatorii de aprindere a focului. Acest lucru se întâmplă mai des dacă starea lui de spirit este scăzută. : [PAWN_nameDef] iubește focul. Ea nu va stinge niciodată focul. Pentru a scăpa de stres, ea va merge ocazional la focuri aleatorii. Acest lucru se întâmplă mai des dacă starea ei de spirit este scăzută. }\n</Pyromaniac.degreeDatas.pyromaniac.description>
   
   <!-- EN: quick sleeper -->
@@ -155,7 +155,7 @@
   
   <!-- EN: body modder -->
   <Transhumanist.degreeDatas.body_modder.label>modder trupesc</Transhumanist.degreeDatas.body_modder.label>
-  <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
+  <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced with artificial body parts or xenogenetics. -->
   <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef} se simte limitat în slabul {PAWN_possessive} corp uman. {PAWN_pronoun} visează la îmbunătățirea cu părți artificiale ale corpului.</Transhumanist.degreeDatas.body_modder.description>
   
   <!-- EN: undergrounder -->

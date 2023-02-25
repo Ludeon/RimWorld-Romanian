@@ -2,8 +2,6 @@
 <LanguageData>
 
   <!-- Misc -->
-  <!-- EN: add -->
-  <Add>adaugă</Add>
   <!-- EN: Trading animal products bonus -->
   <TradingAnimalProduceBonus>Bonus pentru comercializarea produselor de origine animală</TradingAnimalProduceBonus>
   <!-- EN: Slaves -->
@@ -14,6 +12,10 @@
   <Date>Data</Date>
   <!-- EN: The following development points will be awarded depending on the ritual outcome -->
   <RitualDevelopmentPointRewards>TODO</RitualDevelopmentPointRewards>
+  <!-- EN: Use global style -->
+  <UseGlobalStyle>TODO</UseGlobalStyle>
+  <!-- EN: No style variations available -->
+  <NoStylesAvailable>TODO</NoStylesAvailable>
 
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
   <ChooseStructureMemesInfo>Alege structura simbolică a ideoligiei tale. Acest lucru afectează doar simbolurile - nu afectează jocul.</ChooseStructureMemesInfo>
@@ -60,6 +62,8 @@
   <ChooseNewRole>TODO</ChooseNewRole>
   <!-- EN: No role assigned -->
   <NoRoleAssigned>Niciun rol atribuit</NoRoleAssigned>
+  <!-- EN: Children cannot take on roles -->
+  <ChildNoRoleAssigned>TODO</ChildNoRoleAssigned>
   <!-- EN: Remove {0} role -->
   <RemoveRole>TODO</RemoveRole>
   <!-- EN: You're about to assign the role of {ROLE_labelDef} to {PAWN_labelShort}. -->
@@ -164,8 +168,6 @@
   <LastHumanMeat>Ultima carne umană</LastHumanMeat>
   <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
   <LastHumanMeatDesc>Din cauza credinței lui {PAWN_possessive} în {IDEO_name}, {PAWN_nameDef} va deveni nefericit dacă {PAWN_pronoun} stă mai mult de {DURATION} zile fără să mănânce carne de om.</LastHumanMeatDesc>
-  <!-- EN: Last large animal slaughter -->
-  <LastAnimalSlaughter>Ultimul sacrificiu de animale mari</LastAnimalSlaughter>
 
   <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
   <ExectueNeutralFactionSlave>Executarea {PAWN_labelShort} va afecta negativ relațiile cu {FACTION_name}.</ExectueNeutralFactionSlave>
@@ -178,8 +180,6 @@
   <!-- Style -->
   <!-- EN: Style -->
   <StylePawn>Stil</StylePawn>
-  <!-- EN: Cancel -->
-  <Cancel>Anulează</Cancel>
   <!-- EN: hair -->
   <Hair>păr</Hair>
   <!-- EN: beard -->
@@ -238,14 +238,8 @@
   <EditAppearanceItems>Editează aspectul</EditAppearanceItems>
   <!-- EN: {0} in use -->
   <NumAvailable>{0} în uz</NumAvailable>
-  <!-- EN: Expand all -->
-  <ExpandAllCategories>Extinde toate</ExpandAllCategories>
-  <!-- EN: Collapse all -->
-  <CollapseAllCategories>Restrânge toate</CollapseAllCategories>
   <!-- EN: Resets all style items to their default values. -->
   <ResetButtonDesc>Resetează toate elementele de stil la valorile lor implicite.</ResetButtonDesc>
-  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
-  <TooltipDyeExplanation>TODO</TooltipDyeExplanation>
 
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->
@@ -328,4 +322,9 @@
   <FoodRestrictionCannibal>TODO</FoodRestrictionCannibal>
   <!-- EN: Insect meat -->
   <FoodRestrictionInsectMeat>TODO</FoodRestrictionInsectMeat>
+
+  <!-- EN: Styles in use -->
+  <StylesInUse>TODO</StylesInUse>
+  <!-- EN: Add a style. -->
+  <StyleCategoryAddDesc>TODO</StyleCategoryAddDesc>
 </LanguageData>

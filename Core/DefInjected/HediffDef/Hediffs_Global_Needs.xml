@@ -3,7 +3,7 @@
   
   <!-- EN: malnutrition -->
   <Malnutrition.label>malnutriție</Malnutrition.label>
-  <!-- EN: Abnormally low body fat and weight, typically caused by lack of food. Malnutrition is always very unpleaseant, but its initial effects are mild. Without food, though, a malnourished creature will waste away, losing muscle mass and capacities. Malnutrition ends with death.\n\nUpon re-feeding malnutrition naturally recovers over time. Malnourished creatures have larger appetites than normal. -->
+  <!-- EN: Abnormally low body fat and weight, typically caused by lack of food. Malnutrition is always very unpleasant, but its initial effects are mild. Without food, though, a malnourished creature will waste away, losing muscle mass and capacities. Malnutrition ends with death. Upon re-feeding malnutrition naturally recovers over time. Malnourished creatures have larger appetites than normal. -->
   <Malnutrition.description>Grăsime și greutate corporală anormal de scăzute, cauzate de obicei de lipsa de hrană. Malnutriția este întotdeauna foarte neplăcută, dar efectele sale inițiale sunt ușoare. Totuși, fără hrană, o creatură subnutrită se va irosi, pierzând din masa musculară și din capacități. Malnutriția se termină cu moartea.\n\nLa re-alimentarea, malnutriția se recuperează în mod natural în timp. Creaturile subnutrite au un apetit mai mare decât în mod normal.</Malnutrition.description>
   <!-- EN: trivial -->
   <Malnutrition.stages.trivial.label>trivială</Malnutrition.stages.trivial.label>

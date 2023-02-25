@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: shuttle (crashing) -->
-  <ShuttleCrashing.label>navetă (în prăbușire)</ShuttleCrashing.label>
-  
   <!-- EN: shuttle (incoming) -->
   <ShuttleIncoming.label>navetă (în sosire)</ShuttleIncoming.label>
   

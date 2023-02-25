@@ -112,23 +112,23 @@
   
   <!-- EN: body modder pleased -->
   <ProsthophileHappy.stages.body_modder_pleased.label>modder de corp mulțumit</ProsthophileHappy.stages.body_modder_pleased.label>
-  <!-- EN: This artificial part is cool. I want more. -->
+  <!-- EN: This artificial enhancement is cool. I want more. -->
   <ProsthophileHappy.stages.body_modder_pleased.description>Această parte artificială este mișto. Vreau mai mult.</ProsthophileHappy.stages.body_modder_pleased.description>
   <!-- EN: body modder quite pleased -->
   <ProsthophileHappy.stages.body_modder_quite_pleased.label>modder de corp destul de mulțumit</ProsthophileHappy.stages.body_modder_quite_pleased.label>
-  <!-- EN: Two artificial parts are better than one. I wish I had more. -->
+  <!-- EN: Two artificial enhancements are better than one. I wish I had more. -->
   <ProsthophileHappy.stages.body_modder_quite_pleased.description>Două părți artificiale sunt mai bune decât una. Mi-aș dori să am mai multe.</ProsthophileHappy.stages.body_modder_quite_pleased.description>
   <!-- EN: body modder delighted -->
   <ProsthophileHappy.stages.body_modder_delighted.label>modder de corp încântat</ProsthophileHappy.stages.body_modder_delighted.label>
-  <!-- EN: Three artificial parts, and my weak human flesh is receding. But I still want more machine power. -->
+  <!-- EN: Three artificial enhancements, and my weak human flesh is receding. But I still want more machine power. -->
   <ProsthophileHappy.stages.body_modder_delighted.description>Trei părți artificiale, iar carnea mea umană slabă se retrage. Dar tot îmi doresc mai multă putere de mașină.</ProsthophileHappy.stages.body_modder_delighted.description>
   <!-- EN: body modder enchanted -->
   <ProsthophileHappy.stages.body_modder_enchanted.label>modder de corp fermecat.</ProsthophileHappy.stages.body_modder_enchanted.label>
-  <!-- EN: Four artificial body parts and I am becoming more than human. But there's still some flesh that needs replacing. -->
+  <!-- EN: Four artificial enhancements and I am becoming more than human. But there's still some flesh that needs replacing. -->
   <ProsthophileHappy.stages.body_modder_enchanted.description>Patru părți artificiale ale corpului și devin mai mult decât om. Dar mai este încă ceva carne care trebuie înlocuită.</ProsthophileHappy.stages.body_modder_enchanted.description>
   <!-- EN: body modder overjoyed -->
   <ProsthophileHappy.stages.body_modder_overjoyed.label>modder de corp în extaz</ProsthophileHappy.stages.body_modder_overjoyed.label>
-  <!-- EN: Five artificial body parts! How could an enhanced being like me ever feel sad? -->
+  <!-- EN: Five artificial enhancements! How could an enhanced being like me ever feel sad? -->
   <ProsthophileHappy.stages.body_modder_overjoyed.description>Cinci părți artificiale ale corpului! Cum ar putea o ființă îmbunătățită ca mine să se simtă vreodată tristă?</ProsthophileHappy.stages.body_modder_overjoyed.description>
   <!-- EN: machine body is complete -->
   <ProsthophileHappy.stages.machine_body_is_complete.label>corpul mașinii este complet</ProsthophileHappy.stages.machine_body_is_complete.label>
@@ -142,23 +142,23 @@
   
   <!-- EN: body purist squeamish -->
   <ProsthophobeUnhappy.stages.body_purist_squeamish.label>purist al corpului scârbit</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
-  <!-- EN: I hate having this unnatural thing attached to me. It feels so filthy! -->
+  <!-- EN: I hate having this unnatural enhancement. I feel filthy! -->
   <ProsthophobeUnhappy.stages.body_purist_squeamish.description>Urăsc să am acest lucru nefiresc atașat de mine. Mă simt atât de murdar!</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
   <!-- EN: body purist disgusted -->
   <ProsthophobeUnhappy.stages.body_purist_disgusted.label>purist al corpului dezgustat</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
-  <!-- EN: Two artificial parts are sullying my natural, pure body. It makes me sick to think of it. -->
+  <!-- EN: Two artificial enhancements are sullying my natural, pure body. It makes me sick to think of it. -->
   <ProsthophobeUnhappy.stages.body_purist_disgusted.description>Două părți artificiale îmi murdăresc corpul natural și pur. Mi se face greață când mă gândesc la asta.</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
   <!-- EN: body purist violated -->
   <ProsthophobeUnhappy.stages.body_purist_violated.label>purist al corpului violat</ProsthophobeUnhappy.stages.body_purist_violated.label>
-  <!-- EN: Three artificial parts violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
+  <!-- EN: Three artificial enhancements violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
   <ProsthophobeUnhappy.stages.body_purist_violated.description>Trei părți artificiale îmi violează carnea pură a corpului. Mă cutremur când mă gândesc la asta... și aceste obiecte se cutremură odată cu mine.</ProsthophobeUnhappy.stages.body_purist_violated.description>
   <!-- EN: body purist horrified -->
   <ProsthophobeUnhappy.stages.body_purist_horrified.label>purist al corpului oripilat</ProsthophobeUnhappy.stages.body_purist_horrified.label>
-  <!-- EN: I have four artificial body parts; it's like I'm becoming a robot. What a horrifying sensation. -->
+  <!-- EN: I have four artificial enhancements; it's like I'm becoming a robot. What a horrifying sensation. -->
   <ProsthophobeUnhappy.stages.body_purist_horrified.description>Am patru părți artificiale ale corpului; e ca și cum aș deveni un robot. Ce senzație îngrozitoare.</ProsthophobeUnhappy.stages.body_purist_horrified.description>
   <!-- EN: body purist nightmare -->
   <ProsthophobeUnhappy.stages.body_purist_nightmare.label>coșmarul unui purist al corpului</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
-  <!-- EN: Five artificial body parts... Is there anything left of me? Or am I just a robot that thinks it's human? -->
+  <!-- EN: Five artificial enhancements... Is there anything left of me? Or am I just a robot that thinks it's human? -->
   <ProsthophobeUnhappy.stages.body_purist_nightmare.description>Cinci părți artificiale ale corpului... A mai rămas ceva din mine? Sau sunt doar un robot care se crede om?</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
   <!-- EN: I have become what I hate -->
   <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>Am devenit ceea ce urăsc</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
@@ -169,6 +169,11 @@
   <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>pyromaniac are o armă incendiară</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
   <!-- EN: It makes me think of flame and fire. I'm so happy. -->
   <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>Mă face să mă gândesc la flacără și la foc. Sunt atât de fericit.</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+  
+  <!-- EN: beautiful fire -->
+  <PyromaniacNearFire.stages.beautiful_fire.label>TODO</PyromaniacNearFire.stages.beautiful_fire.label>
+  <!-- EN: The sinuous flame dances, warm like love, bright like freedom, all-consuming. -->
+  <PyromaniacNearFire.stages.beautiful_fire.description>TODO</PyromaniacNearFire.stages.beautiful_fire.description>
   
   <!-- EN: undergrounder indoors -->
   <UndergrounderIndoors.stages.undergrounder_indoors.label>subteranofil în interior.</UndergrounderIndoors.stages.undergrounder_indoors.label>

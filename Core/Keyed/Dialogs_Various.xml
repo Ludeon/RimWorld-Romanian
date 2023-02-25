@@ -13,6 +13,22 @@
   <Close>Închide</Close>
   <!-- EN: Accept -->
   <Accept>Accept</Accept>
+  <!-- EN: Cancel -->
+  <Cancel>Anulează</Cancel>
+  <!-- EN: Reset -->
+  <Reset>Resetare</Reset>
+  <!-- EN: Reset all -->
+  <ResetAll>TODO</ResetAll>
+  <!-- EN: Disable -->
+  <Disable>TODO</Disable>
+  <!-- EN: Modify -->
+  <Modify>TODO</Modify>
+  <!-- EN: Settle here anyways? -->
+  <ConfirmSettle>TODO</ConfirmSettle>
+  <!-- EN: add -->
+  <Add>adaugă</Add>
+  <!-- EN: Cannot shoot -->
+  <CannotShoot>TODO</CannotShoot>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -25,6 +41,8 @@
   <GameUpdatedToNewVersionNonSteam>Deoarece aceasta este o copie fără DRM, puteți instala jocul de două ori în două foldere diferite, pentru a putea juca atât versiunea veche, cât și cea nouă.</GameUpdatedToNewVersionNonSteam>
   <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu. -->
   <GameUpdatedToNewVersionSteam>Dacă dorești să continui cu versiunea veche, poți opta folosind funcția "Betas" de pe Steam.\n\n 1. În biblioteca Steam, fă clic dreapta pe RimWorld.\n 2. În biblioteca Steam, fă clic dreapta pe RimWorld. Faceți clic pe Properties.\n 3. Faceți clic pe fila Betas.\n 4. Selectați versiunea pe care o doriți din meniul derulant.</GameUpdatedToNewVersionSteam>
+  <!-- EN: If you wish to continue with the old version, you can opt in using Steam's "Betas" feature. -->
+  <GameUpdatedToNewVersionSteamController>TODO</GameUpdatedToNewVersionSteamController>
   
   <!-- Recovered from errors caused by mods -->
   <!-- EN: Recovered from incompatible or corrupted mods errors -->
@@ -161,10 +179,28 @@
   <ZoneGainsName>Zona se numește acum {0}.</ZoneGainsName>
   
   <!-- Pawn naming -->
+  <!-- EN: Chosen name is invalid. -->
+  <NameInvalid>TODO</NameInvalid>
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
   <PawnGainsName>Porecla acestei persoane este acum {0}. Titlul {PAWN_possessive} este {PAWN_title}.</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>Numele animalului este acum {0}.</AnimalGainsName>
+  <!-- EN: rename person -->
+  <RenamePerson>TODO</RenamePerson>
+  <!-- EN: mother -->
+  <Mother>TODO</Mother>
+  <!-- EN: father -->
+  <Father>TODO</Father>
+  <!-- EN: unknown -->
+  <Unknown>TODO</Unknown>
+  <!-- EN: first name -->
+  <FirstName>TODO</FirstName>
+  <!-- EN: nickname -->
+  <NickName>TODO</NickName>
+  <!-- EN: last name -->
+  <LastName>TODO</LastName>
+  <!-- EN: suggested -->
+  <Suggested>TODO</Suggested>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
@@ -177,8 +213,12 @@
   <FileIncompatibleWarning>Acest fișier a fost salvat cu versiunea de joc {0}\nNoi rulăm versiunea de joc {1}\n\nÎncărcarea acestui fișier poate cauza erori și crash-uri.</FileIncompatibleWarning>
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Nepotrivire între moduri</ModsMismatchWarningTitle>
-  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1} -->
+  <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do. -->
   <ModsMismatchWarningText>Acest fișier a fost salvat cu un set diferit de moduri active față de cele pe care le rulăm în prezent. Acest lucru poate sau nu să cauzeze probleme, în funcție de ce anume fac aceste moduri.\n\nFișierul a fost salvat cu (în această ordine):\n\n{0}\n\nNoi rulăm cu (în această ordine):\n\n{1}</ModsMismatchWarningText>
+  <!-- EN: No mods have been added or removed, but the order of your mod list has changed. -->
+  <ModsMismatchOrderChanged>TODO</ModsMismatchOrderChanged>
+  <!-- EN: Are you sure you want to load the mod list from this save file? -->
+  <ConfirmLoadSaveList>TODO</ConfirmLoadSaveList>
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
@@ -191,7 +231,19 @@
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
   <ConfirmPermanentlyDisableDevMode>Chiar doriți să dezactivați permanent modul de dezvoltare pe acest computer?\n\nAceastă opțiune este pentru persoanele care doresc o experiență de joc pură, fără tentația de a folosi instrumentele de dezvoltare pentru a obține avantaje în jocul normal.\n\nModul de dezvoltare poate fi reactivat, dar pentru a face acest lucru este necesară editarea manuală a fișierelor de configurare. Va trebui să căutați pe internet pentru a afla cum.</ConfirmPermanentlyDisableDevMode>
-  
+
+  <!-- Confirm reset learning helper -->
+  <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
+  <ConfirmResetLearningHelper>TODO</ConfirmResetLearningHelper>
+
+  <!-- Backstory translation restart dialog -->
+  <!-- EN: Backstories are now implemented as a def and all legacy backstory translations have been imported into def translations. The file {0} has been imported and moved to {1}. It can now be deleted.\n\nRestart the game for changes to take effect. -->
+  <RestartAfterImportingLegacyBackstoryTanslations>TODO</RestartAfterImportingLegacyBackstoryTanslations>
+
+  <!-- Game start -->
+  <!-- EN: Must include exactly {SUMMARY} -->
+  <SelectedCharactersMustInclude>TODO</SelectedCharactersMustInclude>
+
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
   <MapTemperatureDangerWarning>Avertisment: Vei ateriza într-un mediu înghețat. Este posibil să fie greu sau aproape imposibil să supraviețuiești. Dacă nu intenționați să faceți față unei provocări extreme, alegeți un alt loc sau un alt anotimp.</MapTemperatureDangerWarning>
@@ -252,10 +304,10 @@
   <WorkAmount>Cantitatea de muncă</WorkAmount>
   <!-- EN: Minimum skills: -->
   <MinimumSkills>Competențe minime:</MinimumSkills>
-  <!-- EN: Requires {0} {1} -->
+  <!-- EN: Requires -->
   <BillRequires>Necesită {0} {1}</BillRequires>
-  <!-- EN: Requires {0} nutrition -->
-  <BillRequiresNutrition>Necesită {0} nutriție</BillRequiresNutrition>
+  <!-- EN: nutrition -->
+  <BillNutrition>TODO</BillNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
   <BillRequiresMayVary>Notă: Ingredientele de volum mic, cum ar fi aurul, necesită {0}x la fel de mult.</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
@@ -312,7 +364,7 @@
   <WarmupTime>Încălzire</WarmupTime>
   <!-- EN: Melee warmup -->
   <MeleeWarmupTime>Încălzire de luptă corp la corp</MeleeWarmupTime>
-  <!-- EN: Ranged warmup -->
+  <!-- EN: Aiming time -->
   <RangedWarmupTime>TODO</RangedWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>Cooldown</CooldownTime>
@@ -432,8 +484,12 @@
   <ToleranceFallRate>Rata de scădere a toleranței</ToleranceFallRate>
   <!-- EN: New addiction min tolerance -->
   <MinimumToleranceForAddiction>Noua toleranță minimă pentru dependență</MinimumToleranceForAddiction>
-  <!-- EN: Safe dose interval -->
+  <!-- EN: Safe dose interval for adults -->
   <SafeDoseInterval>Intervalul de doză sigură</SafeDoseInterval>
+  <!-- EN: age {0}-{1} -->
+  <AgeXToY>TODO</AgeXToY>
+  <!-- EN: age {0}+ -->
+  <AgePlus>TODO</AgePlus>
   <!-- EN: New addiction chance -->
   <Addictiveness>Șansa unei noi dependențe</Addictiveness>
   <!-- EN: Addiction initial severity -->
@@ -484,7 +540,7 @@
   <NuzzleIntervalExplanation>Cât de des un animal va mângâia coloniștii prietenoși, în medie.\n\nNMângâierea este un comportament împărtășit de multe specii de animale, în care animalul își apasă nasul sau botul pe un prieten în semn de afecțiune.\nMai toți oamenii găsesc acest lucru drăguț și îi va lăsa într-o stare de bună dispoziție pentru o perioadă de timp.</NuzzleIntervalExplanation>
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Șansa de răzbunare la vătămare</HarmedRevengeChance>
-  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that so slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
+  <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
   <HarmedRevengeChanceExplanation>Șansa ca această creatură să se răzbune după ce a fost rănită de un atacator la distanță de pușcă.\n\nAceastă șansă crește dacă atacatorul este mai aproape. Dacă este atacat de foarte aproape, șansa este de trei ori mai mare.\nAceastă șansă se aplică de fiecare dată când se provoacă daune, astfel că armele care trag mai încet, cu daune mai mari, au mai puține șanse să o declanșeze.\nPentru a minimiza șansa ca o creatură să caute răzbunare, atacați-o de la distanță de pușcă cu o armă care trage încet.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Șansă de răzbunare la eșecul îmblânzitor</TameFailedRevengeChance>
@@ -526,7 +582,7 @@
   <MeditationFocuses>Tipuri de focalizare a meditației</MeditationFocuses>
   <!-- EN: Unlocks meditation focus types -->
   <MeditationFocusesUnlocked>Deblochează tipurile de focalizare a meditației</MeditationFocusesUnlocked>
-  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an obejct to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
+  <!-- EN: The types of meditation focus this person can use. When meditating, a person can focus on an object to boost their psyfocus gain - but only if that object offers a focus type they can use. Each person's meditation types are determined by their background, traits, social position, and so on. -->
   <MeditationFocusesPawnDesc>Tipurile de focalizare a meditației pe care le poate folosi această persoană. Atunci când meditează, o persoană se poate concentra asupra unui obiect pentru a-și spori câștigul de psyfocus - dar numai dacă acel obiect oferă un tip de focus pe care îl poate folosi. Tipurile de meditație ale fiecărei persoane sunt determinate de trecutul, trăsăturile, poziția socială și așa mai departe.</MeditationFocusesPawnDesc>
   <!-- EN: The types of meditation focus this object offers. A meditating person can focus on this object to boost their psyfocus gain, but only if they are able to use one of its meditation types. Each person can use different meditation types depending on their background, traits, social position, and so on. -->
   <MeditationFocusesDesc>Tipurile de focalizare a meditației pe care le oferă acest obiect. O persoană care meditează se poate concentra pe acest obiect pentru a-și spori câștigul de psyfocus, dar numai dacă este capabilă să folosească unul dintre tipurile de meditație ale acestuia. Fiecare persoană poate folosi diferite tipuri de meditație în funcție de trecutul, trăsăturile, poziția socială și așa mai departe.</MeditationFocusesDesc>
@@ -788,6 +844,8 @@
   <TotalBodySize>Dimensiunea corporală totală</TotalBodySize>
   <!-- EN: Automatically select travel supplies -->
   <AutomaticallySelectTravelSupplies>Selectează automat proviziile de călătorie</AutomaticallySelectTravelSupplies>
+  <!-- EN: This animal is sick. It is suffering from the following illnesses -->
+  <CaravanAnimalSick>TODO</CaravanAnimalSick>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -928,6 +986,8 @@
   <!-- Food restriction management -->
   <!-- EN: Food restriction -->
   <FoodRestriction>Restr. alimentară</FoodRestriction>
+  <!-- EN: Food -->
+  <FoodRestrictionShort>TODO</FoodRestrictionShort>
   <!-- EN: Lavish -->
   <FoodRestrictionLavish>Somptuos</FoodRestrictionLavish>
   <!-- EN: Fine -->
@@ -950,6 +1010,8 @@
   <NoFoodRestrictionSelected>Nu este selectată nicio restricție alimentară</NoFoodRestrictionSelected>
 
   <!-- Medical settings -->
+  <!-- EN: Default medicine settings -->
+  <DefaultMedicineSettings>TODO</DefaultMedicineSettings>
   <!-- EN: Defaults -->
   <MedGroupDefaults>Defaults</MedGroupDefaults>
   <!-- EN: Colonist -->
@@ -998,7 +1060,7 @@
   <ConfirmSendNotCompletelyLoadedPods>Grupul de poduri nu este complet încărcat. {1_labelShort} lipsește. Lansați oricum?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
-  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days.\n\nSettle here anyways? -->
+  <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
   <ConfirmSettleNearFactionBase>Din moment ce această locație se află la {0} țigle de o altă bază a unei facțiuni, ei vor simți că le invadezi terenul și relațiile cu acele facțiuni se vor înrăutăți la fiecare {1} zile.\n\nVă așezați aici oricum?</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
@@ -1016,6 +1078,8 @@
   <ConfirmCancelMonumentMarker>Doriți cu adevărat să eliminați acest marcaj de monument?</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
+  <!-- EN: Cannot use {0} -->
+  <CannotUseAbility>TODO</CannotUseAbility>
   <!-- EN: Line of sight required -->
   <AbilityRequiresLOS>Linie de vedere necesară</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
@@ -1030,15 +1094,17 @@
   <AbilityCastingTime>Timpul de lansare</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
   <AbilityCannotHitTarget>Nu există linie de vedere către țintă.</AbilityCannotHitTarget>
+  <!-- EN: Target is out of range. -->
+  <AbilityOutOfRange>TODO</AbilityOutOfRange>
   <!-- EN: Can't reach the target. -->
   <AbilityCannotReachTarget>Nu se poate ajunge la țintă.</AbilityCannotReachTarget>
   <!-- EN: Not enough free space. -->
   <AbilityNotEnoughFreeSpace>Nu este suficient spațiu liber.</AbilityNotEnoughFreeSpace>
-  <!-- EN: {0} must target an empty area. -->
+  <!-- EN: Must target an empty area. -->
   <AbilityOccupiedCells>{0} trebuie să vizeze o zonă goală.</AbilityOccupiedCells>
-  <!-- EN: {0} must target a walkable area. -->
+  <!-- EN: Must target a walkable area. -->
   <AbilityUnwalkable>{0} trebuie să vizeze o zonă în care se poate merge pe jos.</AbilityUnwalkable>
-  <!-- EN: {0} must target an unroofed area. -->
+  <!-- EN: Must target an unroofed area. -->
   <AbilityRoofed>{0} trebuie să vizeze o zonă fără acoperiș.</AbilityRoofed>
   <!-- EN: {0_labelShort} is mentally broken. -->
   <AbilityCantApplyToMentallyBroken>{0_labelShort} este afectat mintal.</AbilityCantApplyToMentallyBroken>
@@ -1058,6 +1124,10 @@
   <AbilityCantApplyOnAsexual>Nu se poate utiliza: {0} este asexual.</AbilityCantApplyOnAsexual>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
   <AbilityCantApplyWrongAttractionGender>{1_labelShort} este genul greșit pentru {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: {0_labelShort} is too young. -->
+  <AbilityCantApplyTooYoung>TODO</AbilityCantApplyTooYoung>
+  <!-- EN: Cannot target a baby. -->
+  <AbilityCantApplyOnBaby>TODO</AbilityCantApplyOnBaby>
   <!-- EN: Psyfocus cost per mental break intensity -->
   <PsyfocusCostPerMentalBreakIntensity>Costul Psyfocus per intensitate de cădere nervoasă</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
@@ -1187,5 +1257,69 @@
   <RoomRequirementNoProductionFacilities>nu sunt permise facilități de lucru</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
   <RoomRequirementNoAltars>Nu sunt permise altarele</RoomRequirementNoAltars>
+
+  <!-- EN: Lifestage max food factor -->
+  <LifeStageMaxFood>TODO</LifeStageMaxFood>
+
+  <!-- EN: Expand all -->
+  <ExpandAllCategories>Extinde toate</ExpandAllCategories>
+  <!-- EN: Collapse all -->
+  <CollapseAllCategories>Restrânge toate</CollapseAllCategories>
+
+  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
+  <TooltipDyeExplanation>TODO</TooltipDyeExplanation>
+
+  <!-- EN: Zoom range {0} -->
+  <ZoomRange>TODO</ZoomRange>
+
+  <!-- Color picker -->
+  <!-- EN: color temperature -->
+  <ColorTemperature>TODO</ColorTemperature>
+  <!-- EN: choose a color -->
+  <ChooseAColor>TODO</ChooseAColor>
+  <!-- EN: red -->
+  <Red>TODO</Red>
+  <!-- EN: green -->
+  <Green>TODO</Green>
+  <!-- EN: blue -->
+  <Blue>TODO</Blue>
+  <!-- EN: hue -->
+  <Hue>TODO</Hue>
+  <!-- EN: sat -->
+  <Saturation>TODO</Saturation>
+  <!-- EN: value -->
+  <ColorValue>TODO</ColorValue>
+  <!-- EN: darklight -->
+  <Darklight>TODO</Darklight>
+  <!-- EN: not darklight -->
+  <NotDarklight>TODO</NotDarklight>
+  <!-- EN: current color -->
+  <CurrentColor>TODO</CurrentColor>
+  <!-- EN: old color -->
+  <OldColor>TODO</OldColor>
+  <!-- EN: Copy color -->
+  <CommandCopyColorLabel>TODO</CommandCopyColorLabel>
+  <!-- EN: Copy the current color to the clipboard. -->
+  <CommandCopyColorDesc>TODO</CommandCopyColorDesc>
+  <!-- EN: Paste color -->
+  <CommandPasteColorLabel>TODO</CommandPasteColorLabel>
+  <!-- EN: Overwrite the color with the color in the clipboard. -->
+  <CommandPasteColorDesc>TODO</CommandPasteColorDesc>
+  <!-- EN: The clipboard does not contain a valid color. -->
+  <ClipboardInvalidColor>TODO</ClipboardInvalidColor>
+  <!-- EN: Color copied to clipboard. -->
+  <ColorCopiedSuccessfully>TODO</ColorCopiedSuccessfully>
+  <!-- EN: Updated color from the clipboard. -->
+  <ColorPastedSuccessfully>TODO</ColorPastedSuccessfully>
+  <!-- EN: Change to normal light -->
+  <ToggleDarklightOff>TODO</ToggleDarklightOff>
+  <!-- EN: Change the light color to its normal color. -->
+  <ToggleDarklightOffDesc>TODO</ToggleDarklightOffDesc>
+  <!-- EN: Change to darklight -->
+  <ToggleDarklightOn>TODO</ToggleDarklightOn>
+  <!-- EN: Change the light color to darklight. -->
+  <ToggleDarklightOnDesc>TODO</ToggleDarklightOnDesc>
+  <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
+  <ColorTemperatureTooltip>TODO</ColorTemperatureTooltip>
 
 </LanguageData>
