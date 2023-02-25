@@ -2,26 +2,26 @@
 <LanguageData>
 
   <!-- EN: Autosaving -->
-  <Autosaving>Salvare Automată</Autosaving>
+  <Autosaving>TODO</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog> Sirenele de urgență răsună pe nava mamă in timp ce nava pare că se destramă. 3 dintre persoanele de pe navă reușesc să ajungă la capsulele de evacuare înainte ca nava să fie distrusă.\n\nCeva timp mai târziu, aterizați pe o planetă îndepărtată.\n\nBucăți din fosta navă se prăbușesc în apropiere, trebuie să concepi un plan pentru supraviețuire.</GameStartDialog>
+  <GameStartDialog>TODO</GameStartDialog>
   <!-- EN: Colony -->
-  <Colony>Colonie</Colony>
+  <Colony>TODO</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->
-  <ChangeLanguageFromMainMenu>Limba se poate schimba doar din meniul principal.</ChangeLanguageFromMainMenu>
+  <ChangeLanguageFromMainMenu>TODO</ChangeLanguageFromMainMenu>
   <!-- EN: and -->
-  <AndLower>și</AndLower>
+  <AndLower>TODO</AndLower>
   <!-- EN: disabled -->
-  <DisabledLower>dezactivat</DisabledLower>
+  <DisabledLower>TODO</DisabledLower>
 
   <!-- EN: Version {0} -->
-  <VersionIndicator>Versiunea {0}</VersionIndicator>
+  <VersionIndicator>TODO</VersionIndicator>
   <!-- EN: Game version -->
   <GameVersionIndicator>TODO</GameVersionIndicator>
   <!-- EN: development build -->
-  <DevelopmentBuildLower>versiune de dezvoltare</DevelopmentBuildLower>
+  <DevelopmentBuildLower>TODO</DevelopmentBuildLower>
   <!-- EN: Compiled {0} -->
-  <CompiledOn>Compilat {0}</CompiledOn>
+  <CompiledOn>TODO</CompiledOn>
   <!-- EN: Logged into Steam as {0} -->
   <LoggedIntoSteamAs>TODO</LoggedIntoSteamAs>
   
@@ -71,7 +71,7 @@
   <!-- EN: kg -->
   <kg>TODO</kg>
   <!-- EN: Day -->
-  <Day>Zi</Day>
+  <Day>TODO</Day>
   <!-- EN: day -->
   <day>TODO</day>
   <!-- EN: Default -->
@@ -88,9 +88,9 @@
   <!-- Content generation-->
   
   <!-- EN: {0} meat -->
-  <MeatLabel>Carne de {0}</MeatLabel>
+  <MeatLabel>TODO</MeatLabel>
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
-  <MeatDesc>Carne crudă de {0}.</MeatDesc>
+  <MeatDesc>TODO</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
   <MeatInsectDesc>TODO</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
@@ -107,29 +107,29 @@
   <Unlocks>TODO</Unlocks>
 
   <!-- EN: {0} corpse -->
-  <CorpseLabel>Cadavru de {0} </CorpseLabel>
+  <CorpseLabel>TODO</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
-  <CorpseDesc>Cadavru de{0}.</CorpseDesc>
+  <CorpseDesc>TODO</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
-  <DeadLabel>{0} (mort)</DeadLabel>
+  <DeadLabel>TODO</DeadLabel>
 
   <!-- EN: rough {0} -->
-  <RoughStoneTerrainLabel>{0} rugos</RoughStoneTerrainLabel>
+  <RoughStoneTerrainLabel>TODO</RoughStoneTerrainLabel>
   <!-- EN: Rough, natural {0} ground. -->
-  <RoughStoneTerrainDesc>Sol {0} natural, rugos.</RoughStoneTerrainDesc>
+  <RoughStoneTerrainDesc>TODO</RoughStoneTerrainDesc>
   <!-- EN: rough-hewn {0} -->
-  <RoughHewnStoneTerrainLabel>{0} rugos</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainLabel>TODO</RoughHewnStoneTerrainLabel>
   <!-- EN: Roughly cut natural {0} floor. -->
-  <RoughHewnStoneTerrainDesc>Podea de {0} șlefuit imperfect.</RoughHewnStoneTerrainDesc>
+  <RoughHewnStoneTerrainDesc>TODO</RoughHewnStoneTerrainDesc>
   <!-- EN: smooth {0} -->
-  <SmoothStoneTerrainLabel>{0} șlefuită</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainLabel>TODO</SmoothStoneTerrainLabel>
   <!-- EN: Smoothed natural {0} floor. -->
-  <SmoothStoneTerrainDesc>Podea de {0} natural, șlefuit.</SmoothStoneTerrainDesc>
+  <SmoothStoneTerrainDesc>TODO</SmoothStoneTerrainDesc>
 
   <!-- EN:  (blueprint) -->
-  <BlueprintLabelExtra> (schemă)</BlueprintLabelExtra>
+  <BlueprintLabelExtra>TODO</BlueprintLabelExtra>
   <!-- EN:  (building) -->
-  <FrameLabelExtra> (construcție)</FrameLabelExtra>
+  <FrameLabelExtra>TODO</FrameLabelExtra>
 
   <!-- EN: Unaffiliated -->
   <FactionUnaffiliated>TODO</FactionUnaffiliated>
@@ -137,19 +137,25 @@
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <!-- EN: {0} {1} -->
-  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+  <ThingMadeOfStuffLabel>TODO</ThingMadeOfStuffLabel>
 
   <!-- EN: {PAWN_labelShort}'s {1} -->
   <SomeonesRoom>TODO</SomeonesRoom>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
   <CouplesRoom>TODO</CouplesRoom>
   
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>TODO</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>TODO</DeepResourceRemaining>
+  
   <!-- EN: (various) -->
-  <VariousLabel>(variat)</VariousLabel>
+  <VariousLabel>TODO</VariousLabel>
 
   <!-- History events -->
   <!-- EN: Colonist died -->
-  <ColonistDied>Colonist decedat</ColonistDied>
+  <ColonistDied>TODO</ColonistDied>
   
   <!-- Rotation -->
   <!-- EN: North -->

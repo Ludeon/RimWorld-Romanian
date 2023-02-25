@@ -2,44 +2,44 @@
 <LanguageData>
   
   <!-- EN: blood filtration -->
-  <BloodFiltration.label>Blut (Imunsystem)</BloodFiltration.label>
+  <BloodFiltration.label>TODO</BloodFiltration.label>
   <!-- EN: fluid reprocessing -->
   <BloodFiltration.labelMechanoids>TODO</BloodFiltration.labelMechanoids>
   
   <!-- EN: blood pumping -->
-  <BloodPumping.label>Blut (Kreislauf)</BloodPumping.label>
+  <BloodPumping.label>TODO</BloodPumping.label>
   <!-- EN: power generation -->
   <BloodPumping.labelMechanoids>TODO</BloodPumping.labelMechanoids>
   
   <!-- EN: breathing -->
-  <Breathing.label>Atmen</Breathing.label>
+  <Breathing.label>TODO</Breathing.label>
   
   <!-- EN: consciousness -->
-  <Consciousness.label>Bewusstsein</Consciousness.label>
+  <Consciousness.label>TODO</Consciousness.label>
   <!-- EN: Data processing -->
-  <Consciousness.labelMechanoids>Datenverarbeitung</Consciousness.labelMechanoids>
+  <Consciousness.labelMechanoids>TODO</Consciousness.labelMechanoids>
   
   <!-- EN: eating -->
-  <Eating.label>Essen</Eating.label>
+  <Eating.label>TODO</Eating.label>
   
   <!-- EN: hearing -->
-  <Hearing.label>Hören</Hearing.label>
+  <Hearing.label>TODO</Hearing.label>
   
   <!-- EN: manipulation -->
-  <Manipulation.label>Arbeiten</Manipulation.label>
+  <Manipulation.label>TODO</Manipulation.label>
   
   <!-- EN: metabolism -->
-  <Metabolism.label>Metabolismus</Metabolism.label>
+  <Metabolism.label>TODO</Metabolism.label>
   
   <!-- EN: moving -->
-  <Moving.label>Bewegen</Moving.label>
+  <Moving.label>TODO</Moving.label>
   
   <!-- EN: sight -->
-  <Sight.label>Sehen</Sight.label>
+  <Sight.label>TODO</Sight.label>
   
   <!-- EN: talking -->
-  <Talking.label>Sprechen</Talking.label>
+  <Talking.label>TODO</Talking.label>
   <!-- EN: Communication -->
-  <Talking.labelMechanoids>Kommunizieren</Talking.labelMechanoids>
+  <Talking.labelMechanoids>TODO</Talking.labelMechanoids>
   
 </LanguageData>

@@ -26,7 +26,7 @@
   <Asthma.stages.major-1.label>TODO</Asthma.stages.major-1.label>
   
   <!-- EN: bad back -->
-  <BadBack.label>Rückenschmerzen</BadBack.label>
+  <BadBack.label>TODO</BadBack.label>
   <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
   <BadBack.description>TODO</BadBack.description>
   <!-- EN: a bad back -->
@@ -57,19 +57,19 @@
   <Carcinoma.stages.extreme-1.label>TODO</Carcinoma.stages.extreme-1.label>
   
   <!-- EN: cataract -->
-  <Cataract.label>Grauer Star</Cataract.label>
+  <Cataract.label>TODO</Cataract.label>
   <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
   <Cataract.description>TODO</Cataract.description>
   <!-- EN: a cataract -->
   <Cataract.labelNoun>TODO</Cataract.labelNoun>
   
   <!-- EN: dementia -->
-  <Dementia.label>Demenz</Dementia.label>
+  <Dementia.label>TODO</Dementia.label>
   <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
   <Dementia.description>TODO</Dementia.description>
   
   <!-- EN: frail -->
-  <Frail.label>Gebrechlich</Frail.label>
+  <Frail.label>TODO</Frail.label>
   <!-- EN: Generalized loss of muscle and bone density. -->
   <Frail.description>TODO</Frail.description>
   <!-- EN: frailty -->

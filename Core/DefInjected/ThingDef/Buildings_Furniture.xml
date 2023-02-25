@@ -17,14 +17,14 @@
   <AnimalSleepingSpot.description>TODO</AnimalSleepingSpot.description>
   
   <!-- EN: armchair -->
-  <Armchair.label>Sessel</Armchair.label>
+  <Armchair.label>TODO</Armchair.label>
   <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
-  <Armchair.description>Ein großer, weicher und bequemer Sitz. Sehr gut zum Entspannen.</Armchair.description>
+  <Armchair.description>TODO</Armchair.description>
   
   <!-- EN: bed -->
-  <Bed.label>Bett</Bed.label>
+  <Bed.label>TODO</Bed.label>
   <!-- EN: A cozy mattress and sheets on a frame for resting. -->
-  <Bed.description>Eine gemütliche Matratze mit Bettwäsche auf einem Rahmen. Ein guter Ort zum Ausruhen.</Bed.description>
+  <Bed.description>TODO</Bed.description>
   
   <!-- EN: bedroll -->
   <Bedroll.label>TODO</Bedroll.label>
@@ -37,9 +37,9 @@
   <BedrollDouble.description>TODO</BedrollDouble.description>
   
   <!-- EN: dining chair -->
-  <DiningChair.label>Esszimmer Stuhl</DiningChair.label>
+  <DiningChair.label>TODO</DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
-  <DiningChair.description>Ein komfortabler und gut aussehender Stuhl.</DiningChair.description>
+  <DiningChair.description>TODO</DiningChair.description>
   
   <!-- EN: double bed -->
   <DoubleBed.label>TODO</DoubleBed.label>
@@ -61,24 +61,20 @@
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
   <EndTable.description>TODO</EndTable.description>
   
-  <!-- UNUSED -->
-  <EquipmentRack.label>Regal</EquipmentRack.label>
-  <EquipmentRack.description>Hier gelagerte Ausrüstung verschlechtert sich nicht, auch nicht im Freien.</EquipmentRack.description>
-  
   <!-- EN: hospital bed -->
-  <HospitalBed.label>Krankenbett</HospitalBed.label>
+  <HospitalBed.label>TODO</HospitalBed.label>
   <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
-  <HospitalBed.description>Ein Bett, das speziell für die Behandlung verletzter Personen entworfen wurde. Verbessert die Wahrscheinlichkeit, medizinische Behandlungen sowie Operationen erfolgreich durchzuführen.</HospitalBed.description>
+  <HospitalBed.description>TODO</HospitalBed.description>
   
   <!-- EN: plant pot -->
-  <PlantPot.label>Blumentopf</PlantPot.label>
+  <PlantPot.label>TODO</PlantPot.label>
   <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
-  <PlantPot.description>Hier kann man dekorative Pflanzen anpflanzen, welche die Stimmung der Personen in der Umgebung verbessern.</PlantPot.description>
+  <PlantPot.description>TODO</PlantPot.description>
   
   <!-- EN: royal bed -->
-  <RoyalBed.label>Doppelbett</RoyalBed.label>
+  <RoyalBed.label>TODO</RoyalBed.label>
   <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
-  <RoyalBed.description>Ein großes Bett, in dem wirklich jeder genug Platz findet.</RoyalBed.description>
+  <RoyalBed.description>TODO</RoyalBed.description>
   
   <!-- EN: shelf -->
   <Shelf.label>TODO</Shelf.label>
@@ -86,39 +82,39 @@
   <Shelf.description>TODO</Shelf.description>
   
   <!-- EN: sleeping spot -->
-  <SleepingSpot.label>Schlafplatz</SleepingSpot.label>
+  <SleepingSpot.label>TODO</SleepingSpot.label>
   <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
-  <SleepingSpot.description>Definiert eine Stelle auf dem Boden, auf der Leute schlafen können. Nicht sonderlich bequem.</SleepingSpot.description>
+  <SleepingSpot.description>TODO</SleepingSpot.description>
   
   <!-- EN: standing lamp -->
-  <StandingLamp.label>Stehlampe</StandingLamp.label>
+  <StandingLamp.label>TODO</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
-  <StandingLamp.description>Stehlampe, die eine Fläche beleuchtet.</StandingLamp.description>
+  <StandingLamp.description>TODO</StandingLamp.description>
   
   <!-- EN: standing lamp (blue) -->
-  <StandingLamp_Blue.label>Stehlampe (blau)</StandingLamp_Blue.label>
+  <StandingLamp_Blue.label>TODO</StandingLamp_Blue.label>
   <!-- EN: A standing lamp that lights an area in blue. -->
-  <StandingLamp_Blue.description>Stehlampe, die eine Fläche blau beleuchtet.</StandingLamp_Blue.description>
+  <StandingLamp_Blue.description>TODO</StandingLamp_Blue.description>
   
   <!-- EN: standing lamp (green) -->
-  <StandingLamp_Green.label>Stehlampe (grün)</StandingLamp_Green.label>
+  <StandingLamp_Green.label>TODO</StandingLamp_Green.label>
   <!-- EN: A standing lamp that lights an area in green. -->
-  <StandingLamp_Green.description>Stehlampe, die eine Fläche grün beleuchtet.</StandingLamp_Green.description>
+  <StandingLamp_Green.description>TODO</StandingLamp_Green.description>
   
   <!-- EN: standing lamp (red) -->
-  <StandingLamp_Red.label>Stehlampe (rot)</StandingLamp_Red.label>
+  <StandingLamp_Red.label>TODO</StandingLamp_Red.label>
   <!-- EN: A standing lamp that lights an area in red. -->
-  <StandingLamp_Red.description>Stehlampe, die eine Fläche rot beleuchtet.</StandingLamp_Red.description>
+  <StandingLamp_Red.description>TODO</StandingLamp_Red.description>
   
   <!-- EN: stool -->
-  <Stool.label>Hocker</Stool.label>
+  <Stool.label>TODO</Stool.label>
   <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
-  <Stool.description>Eine einfache Oberfläche, auf der man sitzen kann.</Stool.description>
+  <Stool.description>TODO</Stool.description>
   
   <!-- EN: sun lamp -->
-  <SunLamp.label>Künstl. Sonne</SunLamp.label>
+  <SunLamp.label>TODO</SunLamp.label>
   <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
-  <SunLamp.description>Beleuchtet eine Fläche so stark, dass Pflanzen wachsen können.</SunLamp.description>
+  <SunLamp.description>TODO</SunLamp.description>
   <!-- EN: Off for plant resting period -->
   <SunLamp.comps.CompSchedule.offMessage>TODO</SunLamp.comps.CompSchedule.offMessage>
   
@@ -128,14 +124,14 @@
   <Table1x2c.description>TODO</Table1x2c.description>
   
   <!-- EN: table (2x2) -->
-  <Table2x2c.label>Tisch (klein)</Table2x2c.label>
+  <Table2x2c.label>TODO</Table2x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table2x2c.description>Kolonisten essen hier, sofern Stühle am Tisch stehen.</Table2x2c.description>
+  <Table2x2c.description>TODO</Table2x2c.description>
   
   <!-- EN: table (2x4) -->
-  <Table2x4c.label>Tisch (groß)</Table2x4c.label>
+  <Table2x4c.label>TODO</Table2x4c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table2x4c.description>Kolonisten essen hier, sofern Stühle am Tisch stehen.</Table2x4c.description>
+  <Table2x4c.description>TODO</Table2x4c.description>
   
   <!-- EN: table (3x3) -->
   <Table3x3c.label>TODO</Table3x3c.label>

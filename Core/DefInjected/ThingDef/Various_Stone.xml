@@ -2,94 +2,84 @@
 <LanguageData>
   
   <!-- EN: granite blocks -->
-  <BlocksGranite.label>Granitblöcke</BlocksGranite.label>
+  <BlocksGranite.label>TODO</BlocksGranite.label>
   <!-- EN: Blocks of solid granite. Granite is a very hard stone. -->
-  <BlocksGranite.description>Blöcke aus solidem Granit. Granit ist ein sehr harter Stein.</BlocksGranite.description>
-  <!-- EN: granite -->
-  <BlocksGranite.stuffProps.stuffAdjective>Granit</BlocksGranite.stuffProps.stuffAdjective>
+  <BlocksGranite.description>TODO</BlocksGranite.description>
   
   <!-- EN: limestone blocks -->
-  <BlocksLimestone.label>Kalksteinblöcke</BlocksLimestone.label>
+  <BlocksLimestone.label>TODO</BlocksLimestone.label>
   <!-- EN: Blocks of solid limestone. -->
-  <BlocksLimestone.description>Blöcke aus solidem Kalkstein.</BlocksLimestone.description>
-  <!-- EN: limestone -->
-  <BlocksLimestone.stuffProps.stuffAdjective>Kalkstein</BlocksLimestone.stuffProps.stuffAdjective>
+  <BlocksLimestone.description>TODO</BlocksLimestone.description>
   
   <!-- EN: marble blocks -->
-  <BlocksMarble.label>Marmorblöcke</BlocksMarble.label>
+  <BlocksMarble.label>TODO</BlocksMarble.label>
   <!-- EN: Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt. -->
-  <BlocksMarble.description>Blöcke aus solidem Marmor. Marmor ist ein sehr schöner, weicher Stein, der gerne von Bildhauern verwendet wird.</BlocksMarble.description>
-  <!-- EN: marble -->
-  <BlocksMarble.stuffProps.stuffAdjective>Marmor</BlocksMarble.stuffProps.stuffAdjective>
+  <BlocksMarble.description>TODO</BlocksMarble.description>
   
   <!-- EN: sandstone blocks -->
-  <BlocksSandstone.label>Sandsteinblöcke</BlocksSandstone.label>
+  <BlocksSandstone.label>TODO</BlocksSandstone.label>
   <!-- EN: Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily. -->
-  <BlocksSandstone.description>Blöcke aus solidem Sandstein. Sandstein ist ein relativ weiches Gestein und splittert leicht.</BlocksSandstone.description>
-  <!-- EN: sandstone -->
-  <BlocksSandstone.stuffProps.stuffAdjective>Sandstein</BlocksSandstone.stuffProps.stuffAdjective>
+  <BlocksSandstone.description>TODO</BlocksSandstone.description>
   
   <!-- EN: slate blocks -->
-  <BlocksSlate.label>Schieferblöcke</BlocksSlate.label>
+  <BlocksSlate.label>TODO</BlocksSlate.label>
   <!-- EN: Blocks of solid slate. A dull-looking rock that chips easily. -->
-  <BlocksSlate.description>Blöcke aus solidem Schiefer. Ein mattes Gestein, das leicht splittert.</BlocksSlate.description>
-  <!-- EN: slate -->
-  <BlocksSlate.stuffProps.stuffAdjective>Schiefer</BlocksSlate.stuffProps.stuffAdjective>
+  <BlocksSlate.description>TODO</BlocksSlate.description>
   
   <!-- EN: granite chunk -->
-  <ChunkGranite.label>Granitbrocken</ChunkGranite.label>
+  <ChunkGranite.label>TODO</ChunkGranite.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
   <ChunkGranite.description>TODO</ChunkGranite.description>
   
   <!-- EN: limestone chunk -->
-  <ChunkLimestone.label>Kalksteinbrocken</ChunkLimestone.label>
+  <ChunkLimestone.label>TODO</ChunkLimestone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
   <ChunkLimestone.description>TODO</ChunkLimestone.description>
   
   <!-- EN: marble chunk -->
-  <ChunkMarble.label>Marmorbrocken</ChunkMarble.label>
+  <ChunkMarble.label>TODO</ChunkMarble.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
   <ChunkMarble.description>TODO</ChunkMarble.description>
   
   <!-- EN: sandstone chunk -->
-  <ChunkSandstone.label>Sandsteinbrocken</ChunkSandstone.label>
+  <ChunkSandstone.label>TODO</ChunkSandstone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
   <ChunkSandstone.description>TODO</ChunkSandstone.description>
   
   <!-- EN: steel slag chunk -->
-  <ChunkSlagSteel.label>Stahlschlacke Brocken</ChunkSlagSteel.label>
+  <ChunkSlagSteel.label>TODO</ChunkSlagSteel.label>
   <!-- EN: A chunk of steel slag. While it's useless in its current form, it can be smelted to recover steel. -->
   <ChunkSlagSteel.description>TODO</ChunkSlagSteel.description>
   
   <!-- EN: slate chunk -->
-  <ChunkSlate.label>Schieferbrocken</ChunkSlate.label>
+  <ChunkSlate.label>TODO</ChunkSlate.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
   <ChunkSlate.description>TODO</ChunkSlate.description>
   
   <!-- EN: granite -->
-  <Granite.label>Granit</Granite.label>
+  <Granite.label>TODO</Granite.label>
   <!-- EN: A very hard igneous rock. -->
-  <Granite.description>Ein sehr hartes vulkanisches Gestein.</Granite.description>
+  <Granite.description>TODO</Granite.description>
   
   <!-- EN: limestone -->
-  <Limestone.label>Kalkstein</Limestone.label>
+  <Limestone.label>TODO</Limestone.label>
   <!-- EN: A sedimentary rock formed from the compacted remains of ancient seashells. -->
-  <Limestone.description>Ein Sedimentgestein, das aus den gepressten Überresten uralter Muscheln besteht.</Limestone.description>
+  <Limestone.description>TODO</Limestone.description>
   
   <!-- EN: marble -->
-  <Marble.label>Marmor</Marble.label>
+  <Marble.label>TODO</Marble.label>
   <!-- EN: A soft metamorphic rock. -->
-  <Marble.description>Ein weiches metamorphoses Gestein.</Marble.description>
+  <Marble.description>TODO</Marble.description>
   
   <!-- EN: sandstone -->
-  <Sandstone.label>Sandstein</Sandstone.label>
+  <Sandstone.label>TODO</Sandstone.label>
   <!-- EN: A sedimentary rock composed of sand particles compressed together. -->
-  <Sandstone.description>Ein Sedimentgestein, das aus gepressten Sandteilchen besteht.</Sandstone.description>
+  <Sandstone.description>TODO</Sandstone.description>
   
   <!-- EN: slate -->
-  <Slate.label>Schiefer</Slate.label>
+  <Slate.label>TODO</Slate.label>
   <!-- EN: A dark-colored metamorphic rock. Its fine layers are emblematic of slaty cleavage. -->
-  <Slate.description>Ein dunkelfarbenes metamorphoses Schichtgestein. Die feinen Schichten sorgen für die typische Schiefer-Spaltung.</Slate.description>
+  <Slate.description>TODO</Slate.description>
   
   <!-- EN: smoothed granite -->
   <SmoothedGranite.label>TODO</SmoothedGranite.label>

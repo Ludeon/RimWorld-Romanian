@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: install bionic arm -->
-  <InstallBionicArm.label>Implantiere bionischen Arm</InstallBionicArm.label>
+  <InstallBionicArm.label>TODO</InstallBionicArm.label>
   <!-- EN: Install a bionic arm. -->
-  <InstallBionicArm.description>Implantiere einen bionischen Arm.</InstallBionicArm.description>
+  <InstallBionicArm.description>TODO</InstallBionicArm.description>
   <!-- EN: Installing bionic arm. -->
-  <InstallBionicArm.jobString>Implantiert bionischen Arm.</InstallBionicArm.jobString>
+  <InstallBionicArm.jobString>TODO</InstallBionicArm.jobString>
   
   <!-- EN: install bionic ear -->
   <InstallBionicEar.label>TODO</InstallBionicEar.label>
@@ -16,11 +16,11 @@
   <InstallBionicEar.jobString>TODO</InstallBionicEar.jobString>
   
   <!-- EN: install bionic eye -->
-  <InstallBionicEye.label>Implantiere bionisches Auge</InstallBionicEye.label>
+  <InstallBionicEye.label>TODO</InstallBionicEye.label>
   <!-- EN: Install a bionic eye. -->
-  <InstallBionicEye.description>Implantiere ein bionisches Auge.</InstallBionicEye.description>
+  <InstallBionicEye.description>TODO</InstallBionicEye.description>
   <!-- EN: Installing bionic eye. -->
-  <InstallBionicEye.jobString>Implantiert bionisches Auge.</InstallBionicEye.jobString>
+  <InstallBionicEye.jobString>TODO</InstallBionicEye.jobString>
   
   <!-- EN: install bionic heart -->
   <InstallBionicHeart.label>TODO</InstallBionicHeart.label>
@@ -30,11 +30,11 @@
   <InstallBionicHeart.jobString>TODO</InstallBionicHeart.jobString>
   
   <!-- EN: install bionic leg -->
-  <InstallBionicLeg.label>Implantiere bionisches Bein</InstallBionicLeg.label>
+  <InstallBionicLeg.label>TODO</InstallBionicLeg.label>
   <!-- EN: Install a bionic leg. -->
-  <InstallBionicLeg.description>Implantiere ein bionisches Bein.</InstallBionicLeg.description>
+  <InstallBionicLeg.description>TODO</InstallBionicLeg.description>
   <!-- EN: Installing bionic leg. -->
-  <InstallBionicLeg.jobString>Implantiert bionisches Bein.</InstallBionicLeg.jobString>
+  <InstallBionicLeg.jobString>TODO</InstallBionicLeg.jobString>
   
   <!-- EN: install bionic spine -->
   <InstallBionicSpine.label>TODO</InstallBionicSpine.label>

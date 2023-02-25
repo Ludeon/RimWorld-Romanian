@@ -7,8 +7,8 @@
   <ExecutionCut.deathMessage>TODO</ExecutionCut.deathMessage>
   
   <!-- EN: surgical cut -->
-  <SurgicalCut.label>Operativer Eingriff</SurgicalCut.label>
+  <SurgicalCut.label>TODO</SurgicalCut.label>
   <!-- EN: {0} has died during surgery. -->
-  <SurgicalCut.deathMessage>{0} ist bei der Operation verstorben.</SurgicalCut.deathMessage>
+  <SurgicalCut.deathMessage>TODO</SurgicalCut.deathMessage>
   
 </LanguageData>

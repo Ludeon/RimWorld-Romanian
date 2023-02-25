@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: rest effectiveness -->
-  <BedRestEffectiveness.label>Ausruh-Effizienz</BedRestEffectiveness.label>
+  <BedRestEffectiveness.label>TODO</BedRestEffectiveness.label>
   <!-- EN: How fast people sleeping on this gain rest. -->
-  <BedRestEffectiveness.description>Wie effektiv das Ausruhen in diesem Bett ist.</BedRestEffectiveness.description>
+  <BedRestEffectiveness.description>TODO</BedRestEffectiveness.description>
   
   <!-- EN: door opening speed -->
-  <DoorOpenSpeed.label>Öffnen Geschwindigkeit</DoorOpenSpeed.label>
+  <DoorOpenSpeed.label>TODO</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
-  <DoorOpenSpeed.description>Die Geschwindigkeit der Tür sich zu öffnen.</DoorOpenSpeed.description>
+  <DoorOpenSpeed.description>TODO</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>TODO</ImmunityGainSpeedFactor.label>
@@ -41,14 +41,14 @@
   <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>TODO</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: trap melee damage -->
-  <TrapMeleeDamage.label>Falle: Nahkampfschaden</TrapMeleeDamage.label>
+  <TrapMeleeDamage.label>TODO</TrapMeleeDamage.label>
   <!-- EN: How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly. -->
-  <TrapMeleeDamage.description>Wie viel Schaden eine Falle normalerweise verursacht.</TrapMeleeDamage.description>
+  <TrapMeleeDamage.description>TODO</TrapMeleeDamage.description>
   
   <!-- EN: trap spring chance -->
-  <TrapSpringChance.label>Falle: Auslöswahrscheinlichkeit</TrapSpringChance.label>
+  <TrapSpringChance.label>TODO</TrapSpringChance.label>
   <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
-  <TrapSpringChance.description>Die Wahrscheinlichkeit, dass die Falle auslöst, wenn eine nichtsahnende Kreatur auf sie tritt.</TrapSpringChance.description>
+  <TrapSpringChance.description>TODO</TrapSpringChance.description>
   
   <!-- EN: work efficiency factor -->
   <WorkTableEfficiencyFactor.label>TODO</WorkTableEfficiencyFactor.label>

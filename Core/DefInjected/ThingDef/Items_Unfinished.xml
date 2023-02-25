@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: minified thing -->
-  <MinifiedThing.label>Skulptur</MinifiedThing.label>
+  <MinifiedThing.label>TODO</MinifiedThing.label>
   
   <!-- EN: unfinished apparel -->
-  <UnfinishedApparel.label>Unfertiges Kleidungsstück</UnfinishedApparel.label>
+  <UnfinishedApparel.label>TODO</UnfinishedApparel.label>
   <!-- EN: An unfinished piece of an apparel. -->
   <UnfinishedApparel.description>TODO</UnfinishedApparel.description>
   
@@ -44,8 +44,13 @@
   <!-- EN: An unfinished piece of metal armor. -->
   <UnfinishedMetallicTechArmor.description>TODO</UnfinishedMetallicTechArmor.description>
   
+  <!-- EN: unfinished pack -->
+  <UnfinishedPack.label>TODO</UnfinishedPack.label>
+  <!-- EN: An unfinished piece of a pack. -->
+  <UnfinishedPack.description>TODO</UnfinishedPack.description>
+  
   <!-- EN: unfinished sculpture -->
-  <UnfinishedSculpture.label>Unfertige Skulptur</UnfinishedSculpture.label>
+  <UnfinishedSculpture.label>TODO</UnfinishedSculpture.label>
   <!-- EN: An unfinished sculpture. -->
   <UnfinishedSculpture.description>TODO</UnfinishedSculpture.description>
   
@@ -55,7 +60,7 @@
   <UnfinishedTechArmor.description>TODO</UnfinishedTechArmor.description>
   
   <!-- EN: unfinished weapon -->
-  <UnfinishedWeapon.label>Unfertige Waffe</UnfinishedWeapon.label>
+  <UnfinishedWeapon.label>TODO</UnfinishedWeapon.label>
   <!-- EN: An unfinished weapon. -->
   <UnfinishedWeapon.description>TODO</UnfinishedWeapon.description>
   

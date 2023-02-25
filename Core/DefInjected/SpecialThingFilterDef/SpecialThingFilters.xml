@@ -14,14 +14,14 @@
   <AllowBurnableWeapons.label>TODO</AllowBurnableWeapons.label>
   
   <!-- EN: allow colonist corpses -->
-  <AllowCorpsesColonist.label>Erlaube Leichen von Kolonisten</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.label>TODO</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
-  <AllowCorpsesColonist.description>Erlaubt tote, ehemalige Kolonisten.</AllowCorpsesColonist.description>
+  <AllowCorpsesColonist.description>TODO</AllowCorpsesColonist.description>
   
   <!-- EN: allow stranger corpses -->
-  <AllowCorpsesStranger.label>Erlaube Leichen von Fremden</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.label>TODO</AllowCorpsesStranger.label>
   <!-- EN: Allow the dead bodies of strangers and enemies. -->
-  <AllowCorpsesStranger.description>Erlaubt tote Fremde und Gegner.</AllowCorpsesStranger.description>
+  <AllowCorpsesStranger.description>TODO</AllowCorpsesStranger.description>
   
   <!-- EN: allow tainted apparel -->
   <AllowDeadmansApparel.label>TODO</AllowDeadmansApparel.label>
@@ -62,9 +62,9 @@
   <AllowPlantFood.description>TODO</AllowPlantFood.description>
   
   <!-- EN: allow rotten -->
-  <AllowRotten.label>Erlaube Verrottendes</AllowRotten.label>
+  <AllowRotten.label>TODO</AllowRotten.label>
   <!-- EN: Allow organic things which have started to rot. -->
-  <AllowRotten.description>Erlaubt organische Materialien, die angefangen haben, zu verrotten.</AllowRotten.description>
+  <AllowRotten.description>TODO</AllowRotten.description>
   
   <!-- EN: allow smeltable -->
   <AllowSmeltable.label>TODO</AllowSmeltable.label>

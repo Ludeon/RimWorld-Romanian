@@ -2,37 +2,37 @@
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>Nimic</WorkTagNone>
+  <WorkTagNone>TODO</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>Muncă intelectuală</WorkTagIntellectual>
+  <WorkTagIntellectual>TODO</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>Muncă fizică</WorkTagManualDumb>
+  <WorkTagManualDumb>TODO</WorkTagManualDumb>
   <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>Muncă calificată</WorkTagManualSkilled>
+  <WorkTagManualSkilled>TODO</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>Violență</WorkTagViolent>
+  <WorkTagViolent>TODO</WorkTagViolent>
   <!-- EN: caring -->
-  <WorkTagCaring>Îngrijit</WorkTagCaring>
+  <WorkTagCaring>TODO</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>Socializare</WorkTagSocial>
+  <WorkTagSocial>TODO</WorkTagSocial>
   <!-- EN: animals -->
   <WorkTagAnimals>TODO</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>Artă</WorkTagArtistic>
+  <WorkTagArtistic>TODO</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>Meșteșugărit</WorkTagCrafting>
+  <WorkTagCrafting>TODO</WorkTagCrafting>
   <!-- EN: cooking -->
-  <WorkTagCooking>Gătit</WorkTagCooking>
+  <WorkTagCooking>TODO</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>Pompier</WorkTagFirefighting>
+  <WorkTagFirefighting>TODO</WorkTagFirefighting>
   <!-- EN: cleaning -->
-  <WorkTagCleaning>Curățat</WorkTagCleaning>
+  <WorkTagCleaning>TODO</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>Cărăuș</WorkTagHauling>
+  <WorkTagHauling>TODO</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>Grădinărit</WorkTagPlantWork>
+  <WorkTagPlantWork>TODO</WorkTagPlantWork>
   <!-- EN: mining -->
-  <WorkTagMining>Miner</WorkTagMining>
+  <WorkTagMining>TODO</WorkTagMining>
   <!-- EN: hunting -->
   <WorkTagHunting>TODO</WorkTagHunting>
   <!-- EN: commoner work -->

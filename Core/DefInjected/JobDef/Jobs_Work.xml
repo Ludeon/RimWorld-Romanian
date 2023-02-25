@@ -2,73 +2,73 @@
 <LanguageData>
   
   <!-- EN: arresting TargetA. -->
-  <Arrest.reportString>Nimmt TargetA gefangen.</Arrest.reportString>
+  <Arrest.reportString>TODO</Arrest.reportString>
   
   <!-- EN: building roof. -->
   <BuildRoof.reportString>TODO</BuildRoof.reportString>
   
   <!-- EN: capturing TargetA. -->
-  <Capture.reportString>Fängt TargetA.</Capture.reportString>
+  <Capture.reportString>TODO</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
   <CarryDownedPawnToExit.reportString>TODO</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasket.reportString>Trägt TargetA zur Kryoschlafkapsel.</CarryToCryptosleepCasket.reportString>
+  <CarryToCryptosleepCasket.reportString>TODO</CarryToCryptosleepCasket.reportString>
   
   <!-- EN: cleaning TargetA. -->
-  <Clean.reportString>Säubert TargetA.</Clean.reportString>
+  <Clean.reportString>TODO</Clean.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlant.reportString>Schneidet TargetA.</CutPlant.reportString>
+  <CutPlant.reportString>TODO</CutPlant.reportString>
   
   <!-- EN: cutting TargetA. -->
   <CutPlantDesignated.reportString>TODO</CutPlantDesignated.reportString>
   
   <!-- EN: deconstructing TargetA. -->
-  <Deconstruct.reportString>Reißt TargetA ab.</Deconstruct.reportString>
+  <Deconstruct.reportString>TODO</Deconstruct.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
-  <DeliverFood.reportString>Bringt TargetB zu TargetA.</DeliverFood.reportString>
+  <DeliverFood.reportString>TODO</DeliverFood.reportString>
   
   <!-- EN: doing bill at TargetA. -->
-  <DoBill.reportString>Macht Aufgabe am TargetA.</DoBill.reportString>
+  <DoBill.reportString>TODO</DoBill.reportString>
   
   <!-- EN: escorting prisoner TargetA. -->
-  <EscortPrisonerToBed.reportString>Eskortiert Gefangenen TargetA zum Bett.</EscortPrisonerToBed.reportString>
+  <EscortPrisonerToBed.reportString>TODO</EscortPrisonerToBed.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
-  <FeedPatient.reportString>Füttert TargetB mit TargetA.</FeedPatient.reportString>
+  <FeedPatient.reportString>TODO</FeedPatient.reportString>
   
   <!-- EN: building TargetA. -->
-  <FinishFrame.reportString>Baut TargetA.</FinishFrame.reportString>
+  <FinishFrame.reportString>TODO</FinishFrame.reportString>
   
   <!-- EN: replacing broken components in TargetA. -->
   <FixBrokenDownBuilding.reportString>TODO</FixBrokenDownBuilding.reportString>
   
   <!-- EN: harvesting TargetA. -->
-  <Harvest.reportString>Erntet TargetA.</Harvest.reportString>
+  <Harvest.reportString>TODO</Harvest.reportString>
   
   <!-- EN: harvesting TargetA. -->
   <HarvestDesignated.reportString>TODO</HarvestDesignated.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToCell.reportString>Trägt TargetA.</HaulToCell.reportString>
+  <HaulToCell.reportString>TODO</HaulToCell.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToContainer.reportString>Trägt TargetA.</HaulToContainer.reportString>
+  <HaulToContainer.reportString>TODO</HaulToContainer.reportString>
   
   <!-- EN: hunting TargetA. -->
-  <Hunt.reportString>Jagt TargetA.</Hunt.reportString>
+  <Hunt.reportString>TODO</Hunt.reportString>
   
   <!-- EN: kidnapping TargetA. -->
-  <Kidnap.reportString>Entführt TargetA.</Kidnap.reportString>
+  <Kidnap.reportString>TODO</Kidnap.reportString>
   
   <!-- EN: milking TargetA. -->
   <Milk.reportString>TODO</Milk.reportString>
   
   <!-- EN: digging at TargetA. -->
-  <Mine.reportString>Baut TargetA ab.</Mine.reportString>
+  <Mine.reportString>TODO</Mine.reportString>
   
   <!-- EN: drilling at TargetA. -->
   <OperateDeepDrill.reportString>TODO</OperateDeepDrill.reportString>
@@ -77,19 +77,16 @@
   <OperateScanner.reportString>TODO</OperateScanner.reportString>
   
   <!-- EN: building TargetA. -->
-  <PlaceNoCostFrame.reportString>Baut TargetA.</PlaceNoCostFrame.reportString>
+  <PlaceNoCostFrame.reportString>TODO</PlaceNoCostFrame.reportString>
   
   <!-- EN: attempting to recruit TargetA. -->
   <PrisonerAttemptRecruit.reportString>TODO</PrisonerAttemptRecruit.reportString>
   
   <!-- EN: executing TargetA. -->
-  <PrisonerExecution.reportString>Exekutiert TargetA.</PrisonerExecution.reportString>
-  
-  <!-- UNUSED -->
-  <PrisonerFriendlyChat.reportString>Redet mit Gefangenem TargetA.</PrisonerFriendlyChat.reportString>
+  <PrisonerExecution.reportString>TODO</PrisonerExecution.reportString>
   
   <!-- EN: releasing TargetA. -->
-  <ReleasePrisoner.reportString>Lässt TargetA frei.</ReleasePrisoner.reportString>
+  <ReleasePrisoner.reportString>TODO</ReleasePrisoner.reportString>
   
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>TODO</RemoveFloor.reportString>
@@ -98,13 +95,13 @@
   <RemoveRoof.reportString>TODO</RemoveRoof.reportString>
   
   <!-- EN: repairing TargetA. -->
-  <Repair.reportString>Repariert TargetA.</Repair.reportString>
+  <Repair.reportString>TODO</Repair.reportString>
   
   <!-- EN: rescuing TargetA. -->
-  <Rescue.reportString>Rettet TargetA.</Rescue.reportString>
+  <Rescue.reportString>TODO</Rescue.reportString>
   
   <!-- EN: researching. -->
-  <Research.reportString>Forscht.</Research.reportString>
+  <Research.reportString>TODO</Research.reportString>
   
   <!-- EN: shearing TargetA. -->
   <Shear.reportString>TODO</Shear.reportString>
@@ -113,22 +110,22 @@
   <Slaughter.reportString>TODO</Slaughter.reportString>
   
   <!-- EN: smoothing floor. -->
-  <SmoothFloor.reportString>Glättet Boden.</SmoothFloor.reportString>
+  <SmoothFloor.reportString>TODO</SmoothFloor.reportString>
   
   <!-- EN: smoothing wall. -->
   <SmoothWall.reportString>TODO</SmoothWall.reportString>
   
   <!-- EN: sowing TargetA. -->
-  <Sow.reportString>Sät TargetA.</Sow.reportString>
+  <Sow.reportString>TODO</Sow.reportString>
   
   <!-- EN: stealing TargetA. -->
   <Steal.reportString>TODO</Steal.reportString>
   
   <!-- EN: taking TargetA to bed. -->
-  <TakeToBedToOperate.reportString>Bringt TargetA ins Bett.</TakeToBedToOperate.reportString>
+  <TakeToBedToOperate.reportString>TODO</TakeToBedToOperate.reportString>
   
   <!-- EN: taking wounded prisoner TargetA. -->
-  <TakeWoundedPrisonerToBed.reportString>Bringt verwundeten Gefangenen TargetA weg.</TakeWoundedPrisonerToBed.reportString>
+  <TakeWoundedPrisonerToBed.reportString>TODO</TakeWoundedPrisonerToBed.reportString>
   
   <!-- EN: taming TargetA. -->
   <Tame.reportString>TODO</Tame.reportString>
@@ -139,13 +136,10 @@
   <!-- EN: training TargetA. -->
   <Train.reportString>TODO</Train.reportString>
   
-  <!-- UNUSED -->
-  <TreatPatient.reportString>Versorgt TargetA.</TreatPatient.reportString>
-  
   <!-- EN: uninstalling TargetA. -->
   <Uninstall.reportString>TODO</Uninstall.reportString>
   
   <!-- EN: using comms console. -->
-  <UseCommsConsole.reportString>Funkt.</UseCommsConsole.reportString>
+  <UseCommsConsole.reportString>TODO</UseCommsConsole.reportString>
   
 </LanguageData>

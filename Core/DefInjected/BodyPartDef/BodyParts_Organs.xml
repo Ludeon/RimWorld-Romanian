@@ -2,30 +2,18 @@
 <LanguageData>
   
   <!-- EN: heart -->
-  <Heart.label>inimă</Heart.label>
+  <Heart.label>TODO</Heart.label>
   
   <!-- EN: kidney -->
   <Kidney.label>TODO</Kidney.label>
   
-  <!-- UNUSED -->
-  <LeftKidney.label>rinichiul stâng</LeftKidney.label>
-  
-  <!-- UNUSED -->
-  <LeftLung.label>plămânul stâng</LeftLung.label>
-  
   <!-- EN: liver -->
-  <Liver.label>ficat</Liver.label>
+  <Liver.label>TODO</Liver.label>
   
   <!-- EN: lung -->
   <Lung.label>TODO</Lung.label>
   
-  <!-- UNUSED -->
-  <RightKidney.label>rinichiul drept</RightKidney.label>
-  
-  <!-- UNUSED -->
-  <RightLung.label>plămânul drept</RightLung.label>
-  
   <!-- EN: stomach -->
-  <Stomach.label>stomac</Stomach.label>
+  <Stomach.label>TODO</Stomach.label>
   
 </LanguageData>

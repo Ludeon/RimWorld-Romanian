@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: collapsed rocks -->
-  <CollapsedRocks.label>Eingestürzter Felsen</CollapsedRocks.label>
+  <CollapsedRocks.label>TODO</CollapsedRocks.label>
   <!-- EN: Collapsed rocks, packed tightly enough to hold up a roof. -->
-  <CollapsedRocks.description>Felsen, der zwar eingestürzt, aber immer noch fest genug ist, ein Dach zu tragen.</CollapsedRocks.description>
+  <CollapsedRocks.description>TODO</CollapsedRocks.description>
   
   <!-- EN: glow pod -->
   <GlowPod.label>TODO</GlowPod.label>
@@ -22,9 +22,9 @@
   <MineableComponentsIndustrial.description>TODO</MineableComponentsIndustrial.description>
   
   <!-- EN: gold ore -->
-  <MineableGold.label>Golderz</MineableGold.label>
+  <MineableGold.label>TODO</MineableGold.label>
   <!-- EN: Rock containing bits of gold. -->
-  <MineableGold.description>Gestein, das etwas Gold enthält.</MineableGold.description>
+  <MineableGold.description>TODO</MineableGold.description>
   
   <!-- EN: jade -->
   <MineableJade.label>TODO</MineableJade.label>
@@ -32,24 +32,24 @@
   <MineableJade.description>TODO</MineableJade.description>
   
   <!-- EN: compacted plasteel -->
-  <MineablePlasteel.label>Komprimierter Plastahl</MineablePlasteel.label>
+  <MineablePlasteel.label>TODO</MineablePlasteel.label>
   <!-- EN: Ancient compacted rubble rich in plasteel. -->
-  <MineablePlasteel.description>Antiker komprimierter Schrott, reich an Plastahl.</MineablePlasteel.description>
+  <MineablePlasteel.description>TODO</MineablePlasteel.description>
   
   <!-- EN: silver ore -->
-  <MineableSilver.label>Silbererz</MineableSilver.label>
+  <MineableSilver.label>TODO</MineableSilver.label>
   <!-- EN: Rock containing bits of silver. -->
-  <MineableSilver.description>Gestein, das etwas Silber enthält.</MineableSilver.description>
+  <MineableSilver.description>TODO</MineableSilver.description>
   
   <!-- EN: compacted steel -->
-  <MineableSteel.label>Komprimierter Stahl</MineableSteel.label>
+  <MineableSteel.label>TODO</MineableSteel.label>
   <!-- EN: The remains of some ancient, collapsed structure. Rich in steel. -->
-  <MineableSteel.description>Reste einer antiken, eingestürzten Struktur, reich an Stahl.</MineableSteel.description>
+  <MineableSteel.description>TODO</MineableSteel.description>
   
   <!-- EN: uranium ore -->
-  <MineableUranium.label>Uranerz</MineableUranium.label>
+  <MineableUranium.label>TODO</MineableUranium.label>
   <!-- EN: Rock containing bits of uranium. -->
-  <MineableUranium.description>Gestein, das etwas Uran enthält.</MineableUranium.description>
+  <MineableUranium.description>TODO</MineableUranium.description>
   
   <!-- EN: raised rocks -->
   <RaisedRocks.label>TODO</RaisedRocks.label>
@@ -57,8 +57,8 @@
   <RaisedRocks.description>TODO</RaisedRocks.description>
   
   <!-- EN: steam geyser -->
-  <SteamGeyser.label>Geysir</SteamGeyser.label>
+  <SteamGeyser.label>TODO</SteamGeyser.label>
   <!-- EN: A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook. -->
-  <SteamGeyser.description>Natürliche Dampfquelle</SteamGeyser.description>
+  <SteamGeyser.description>TODO</SteamGeyser.description>
   
 </LanguageData>

@@ -7,27 +7,19 @@
   <BiofuelRefinery.description>TODO</BiofuelRefinery.description>
   
   <!-- EN: brewery -->
-  <Brewery.label>Brauerei</Brewery.label>
+  <Brewery.label>TODO</Brewery.label>
   <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
-  <Brewery.description>Ein Arbeitsplatz mit allem, was zum Brauen benötigt wird.</Brewery.description>
+  <Brewery.description>TODO</Brewery.description>
   
   <!-- EN: butcher spot -->
   <ButcherSpot.label>TODO</ButcherSpot.label>
   <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
   <ButcherSpot.description>TODO</ButcherSpot.description>
   
-  <!-- UNUSED -->
-  <CookStove.label>Kochplatte</CookStove.label>
-  <CookStove.description>Ein einfacher Herd mit Arbeitsplatte für die Zubereitung von Mahlzeiten.</CookStove.description>
-  
   <!-- EN: crafting spot -->
   <CraftingSpot.label>TODO</CraftingSpot.label>
   <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
   <CraftingSpot.description>TODO</CraftingSpot.description>
-  
-  <!-- UNUSED -->
-  <Crematorium.label>Krematorium</Crematorium.label>
-  <Crematorium.description>Verbrennt Leichen.</Crematorium.description>
   
   <!-- EN: deep drill -->
   <DeepDrill.label>TODO</DeepDrill.label>
@@ -45,9 +37,9 @@
   <ElectricCrematorium.description>TODO</ElectricCrematorium.description>
   
   <!-- EN: electric smelter -->
-  <ElectricSmelter.label>Elektr. Schmelzofen</ElectricSmelter.label>
+  <ElectricSmelter.label>TODO</ElectricSmelter.label>
   <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
-  <ElectricSmelter.description>Extrahiert Metall aus Schlackebrocken und verschiedenen anderen metallenen Gegenständen. Benötigt sehr viel Strom.</ElectricSmelter.description>
+  <ElectricSmelter.description>TODO</ElectricSmelter.description>
   
   <!-- EN: electric smithy -->
   <ElectricSmithy.label>TODO</ElectricSmithy.label>
@@ -95,23 +87,19 @@
   <HiTechResearchBench.description>TODO</HiTechResearchBench.description>
   
   <!-- EN: hopper -->
-  <Hopper.label>Trichter</Hopper.label>
+  <Hopper.label>TODO</Hopper.label>
   <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
-  <Hopper.description>Lagert Rohstoffe für eine angeschlossene Maschine, wie z.B. dem Nährstoffspender.</Hopper.description>
+  <Hopper.description>TODO</Hopper.description>
   
   <!-- EN: hydroponics basin -->
-  <HydroponicsBasin.label>Hydrokultur Becken</HydroponicsBasin.label>
+  <HydroponicsBasin.label>TODO</HydroponicsBasin.label>
   <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
-  <HydroponicsBasin.description>Dies ermöglicht den Agrarbetrieb auch innerhalb von Gebäuden. In Hydrokulturbecken kann man schnell ein wenig Nahrung anbauen. Das Becken benötigt Strom zum Arbeiten. Bei unterbrochener Stromversorgung werden die Pflanzen absterben.</HydroponicsBasin.description>
+  <HydroponicsBasin.description>TODO</HydroponicsBasin.description>
   
   <!-- EN: nutrient paste dispenser -->
-  <NutrientPasteDispenser.label>Nährstoff Spender</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.label>TODO</NutrientPasteDispenser.label>
   <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
-  <NutrientPasteDispenser.description>Synthetisiert Nähstoffpaste von organischen Rohstoffen. Er benötigt weniger Zutaten und Zeit als andere Herstellungsarten - aber niemand mag Nährstoffpaste.</NutrientPasteDispenser.description>
-  
-  <!-- UNUSED -->
-  <ResearchBench.label>Labortisch</ResearchBench.label>
-  <ResearchBench.description>Forscher arbeiten hier, um fortschrittliche Technologien zu entdecken.</ResearchBench.description>
+  <NutrientPasteDispenser.description>TODO</NutrientPasteDispenser.description>
   
   <!-- EN: simple research bench -->
   <SimpleResearchBench.label>TODO</SimpleResearchBench.label>
@@ -119,31 +107,23 @@
   <SimpleResearchBench.description>TODO</SimpleResearchBench.description>
   
   <!-- EN: butcher table -->
-  <TableButcher.label>Schlachttisch</TableButcher.label>
+  <TableButcher.label>TODO</TableButcher.label>
   <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
-  <TableButcher.description>Ein schwerer Tisch, auf dem Tierleichen zu rohem Fleisch verarbeitet werden.</TableButcher.description>
+  <TableButcher.description>TODO</TableButcher.description>
   
   <!-- EN: machining table -->
-  <TableMachining.label>Mechanik Werkbank</TableMachining.label>
+  <TableMachining.label>TODO</TableMachining.label>
   <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
-  <TableMachining.description>Ein Tisch mit Werkzeug, an dem mechanische Geräte wie Mechanoiden und Munition gebaut und zerlegt werden können.</TableMachining.description>
+  <TableMachining.description>TODO</TableMachining.description>
   
   <!-- EN: art bench -->
-  <TableSculpting.label>Bildhauer Tisch</TableSculpting.label>
+  <TableSculpting.label>TODO</TableSculpting.label>
   <!-- EN: A workbench equipped for creating art. -->
-  <TableSculpting.description>Ein Arbeitsplatz für Künstler, ermöglicht die Fertigung von Skulpturen.</TableSculpting.description>
-  
-  <!-- UNUSED -->
-  <TableSmithing.label>Schmiede Werkbank</TableSmithing.label>
-  <TableSmithing.description>Ein Arbeitsplatz mit allem, was zur Herstellung von Werkzeugen und Waffen notwendig ist.</TableSmithing.description>
+  <TableSculpting.description>TODO</TableSculpting.description>
   
   <!-- EN: stonecutter's table -->
-  <TableStonecutter.label>Steinmetz Tisch</TableStonecutter.label>
+  <TableStonecutter.label>TODO</TableStonecutter.label>
   <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
-  <TableStonecutter.description>Ein Tisch, auf dem man Geröll zu nutzbarem Baumaterial verarbeiten kann.</TableStonecutter.description>
-  
-  <!-- UNUSED -->
-  <TableTailor.label>Schneider Tisch</TableTailor.label>
-  <TableTailor.description>Ein Tisch mit allem, was zum Herstellen und Verbessern von Kleidungsstücken notwendig ist.</TableTailor.description>
+  <TableStonecutter.description>TODO</TableStonecutter.description>
   
 </LanguageData>

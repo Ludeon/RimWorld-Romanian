@@ -7,10 +7,10 @@
   <Adaptation.valueFormat>TODO</Adaptation.valueFormat>
   
   <!-- EN: mood -->
-  <ColonistMood.label>Stimmung</ColonistMood.label>
+  <ColonistMood.label>TODO</ColonistMood.label>
   
   <!-- EN: free colonists -->
-  <FreeColonists.label>Freie Kolonisten</FreeColonists.label>
+  <FreeColonists.label>TODO</FreeColonists.label>
   
   <!-- EN: pop recovery -->
   <PopAdaptation.label>TODO</PopAdaptation.label>
@@ -23,7 +23,7 @@
   <PopIntent.valueFormat>TODO</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
-  <Prisoners.label>Gefangene</Prisoners.label>
+  <Prisoners.label>TODO</Prisoners.label>
   
   <!-- EN: fun points /10 -->
   <ThreatPoints.label>TODO</ThreatPoints.label>
@@ -31,15 +31,15 @@
   <ThreatPoints.valueFormat>TODO</ThreatPoints.valueFormat>
   
   <!-- EN: wealth (buildings) -->
-  <Wealth_Buildings.label>Wert (Gebäude)</Wealth_Buildings.label>
+  <Wealth_Buildings.label>TODO</Wealth_Buildings.label>
   
   <!-- EN: wealth (items) -->
-  <Wealth_Items.label>Wert (Gegenstände)</Wealth_Items.label>
+  <Wealth_Items.label>TODO</Wealth_Items.label>
   
   <!-- EN: wealth (creatures) -->
   <Wealth_Pawns.label>TODO</Wealth_Pawns.label>
   
   <!-- EN: wealth (total) -->
-  <Wealth_Total.label>Wert (Gesamt)</Wealth_Total.label>
+  <Wealth_Total.label>TODO</Wealth_Total.label>
   
 </LanguageData>

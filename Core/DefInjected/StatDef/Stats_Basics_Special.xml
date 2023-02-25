@@ -9,9 +9,9 @@
   <ConstructionSpeedFactor.labelForFullStatList>TODO</ConstructionSpeedFactor.labelForFullStatList>
   
   <!-- EN: medical potency -->
-  <MedicalPotency.label>Heilpotential</MedicalPotency.label>
+  <MedicalPotency.label>TODO</MedicalPotency.label>
   <!-- EN: How effective this is when used to tend wounds and diseases, or do surgery.\n\nHigher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery.\nMedical potency is just one factor in medical outcomes, among many others, including doctor ability, equipment, cleanliness, and luck. -->
-  <MedicalPotency.description>Wie effektiv dieser Gegenstand beim Heilen von Wunden und Krankheiten sowie bei Operationen ist. Ein höheres Heilpotential verbessert die Wahrscheinlichkeit, dass ein Arzt Wunden erfolgreich behandelt und reduziert gleichzeitig die Misserfolgswahrscheinlichkeit bei Operationen.</MedicalPotency.description>
+  <MedicalPotency.description>TODO</MedicalPotency.description>
   
   <!-- EN: medical tend quality maximum -->
   <MedicalQualityMax.label>TODO</MedicalQualityMax.label>
@@ -26,5 +26,10 @@
   <MeditationFocusStrength.formatString>TODO</MeditationFocusStrength.formatString>
   <!-- EN: {0} / day -->
   <MeditationFocusStrength.formatStringUnfinalized>TODO</MeditationFocusStrength.formatStringUnfinalized>
+  
+  <!-- EN: psychic sensitivity offset -->
+  <PsychicSensitivityOffset.label>TODO</PsychicSensitivityOffset.label>
+  <!-- EN: An offset applied to the user's psychic sensitivity. -->
+  <PsychicSensitivityOffset.description>TODO</PsychicSensitivityOffset.description>
   
 </LanguageData>

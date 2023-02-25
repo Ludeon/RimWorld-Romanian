@@ -7,23 +7,19 @@
   <ArrestSuccessChance.description>TODO</ArrestSuccessChance.description>
   
   <!-- EN: negotiation ability -->
-  <NegotiationAbility.label>Auswirkung diplomatischer Geschenke</NegotiationAbility.label>
+  <NegotiationAbility.label>TODO</NegotiationAbility.label>
   <!-- EN: How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
-  <NegotiationAbility.description>Wenn dieser Kolonist Geschenke an andere Fraktionen vergibt, ist dies der Multiplikator, der sich auf das Ergebnis dieser Handlung auswirkt.</NegotiationAbility.description>
+  <NegotiationAbility.description>TODO</NegotiationAbility.description>
   
   <!-- EN: beauty -->
   <PawnBeauty.label>TODO</PawnBeauty.label>
   <!-- EN: How physically attractive this person is. This affects social interactions. -->
   <PawnBeauty.description>TODO</PawnBeauty.description>
   
-  <!-- UNUSED -->
-  <RecruitPrisonerChance.label>Gefangene Rekrutieren</RecruitPrisonerChance.label>
-  <RecruitPrisonerChance.description>Die Grundwahrscheinlichkeit, mit der dieser Kolonist Gefangene rekrutiert.</RecruitPrisonerChance.description>
-  
   <!-- EN: social impact -->
-  <SocialImpact.label>Auswirkung sozialer Gespräche</SocialImpact.label>
+  <SocialImpact.label>TODO</SocialImpact.label>
   <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
-  <SocialImpact.description>Wenn der Kolonist sich mit anderen unterhält, ist dies der Effekt, den er auf die anderen ausübt.</SocialImpact.description>
+  <SocialImpact.description>TODO</SocialImpact.description>
   
   <!-- EN: tame animal chance -->
   <TameAnimalChance.label>TODO</TameAnimalChance.label>
@@ -31,9 +27,9 @@
   <TameAnimalChance.description>TODO</TameAnimalChance.description>
   
   <!-- EN: trade price improvement -->
-  <TradePriceImprovement.label>Handelspreisverbesserung</TradePriceImprovement.label>
+  <TradePriceImprovement.label>TODO</TradePriceImprovement.label>
   <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
-  <TradePriceImprovement.description>Wenn dieser Kolonist Preise aushandelt, werden die Kauf- und Verkaufspreise um diese Prozentzahl angepasst.</TradePriceImprovement.description>
+  <TradePriceImprovement.description>TODO</TradePriceImprovement.description>
   
   <!-- EN: train animal chance -->
   <TrainAnimalChance.label>TODO</TrainAnimalChance.label>

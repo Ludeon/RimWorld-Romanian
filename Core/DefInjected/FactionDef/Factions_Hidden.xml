@@ -2,24 +2,22 @@
 <LanguageData>
   
   <!-- EN: neutral ancients -->
-  <Ancients.label>Astronaut</Ancients.label>
-  <Ancients.description>Oamenii din spațiu</Ancients.description>
+  <Ancients.label>TODO</Ancients.label>
   <!-- EN: Ancients -->
   <Ancients.fixedName>TODO</Ancients.fixedName>
   <!-- EN: ancient -->
   <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <Ancients.pawnsPlural>Astronauți</Ancients.pawnsPlural>
+  <Ancients.pawnsPlural>TODO</Ancients.pawnsPlural>
   
   <!-- EN: hostile ancients -->
-  <AncientsHostile.label>Adversar din spațiu</AncientsHostile.label>
-  <AncientsHostile.description>Adversarii din spațiu.</AncientsHostile.description>
+  <AncientsHostile.label>TODO</AncientsHostile.label>
   <!-- EN: Ancients -->
   <AncientsHostile.fixedName>TODO</AncientsHostile.fixedName>
   <!-- EN: ancient -->
   <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
-  <AncientsHostile.pawnsPlural>Adversarii din spațiu</AncientsHostile.pawnsPlural>
+  <AncientsHostile.pawnsPlural>TODO</AncientsHostile.pawnsPlural>
   
   <!-- EN: insects -->
   <Insect.label>TODO</Insect.label>
@@ -31,12 +29,10 @@
   <Insect.pawnsPlural>TODO</Insect.pawnsPlural>
   
   <!-- EN: mechanoid hive -->
-  <Mechanoid.label>Mechanoiden Schwarm</Mechanoid.label>
-  <Mechanoid.description>Ein Schwarm uralter Roboter mit der Fähigkeit, neue herzustellen.</Mechanoid.description>
-  <Mechanoid.fixedName>Ein Mechanoiden Schwarm</Mechanoid.fixedName>
+  <Mechanoid.label>TODO</Mechanoid.label>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
-  <Mechanoid.pawnsPlural>Mechanoiden</Mechanoid.pawnsPlural>
+  <Mechanoid.pawnsPlural>TODO</Mechanoid.pawnsPlural>
   
 </LanguageData>

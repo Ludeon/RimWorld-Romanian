@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: aiming time -->
-  <AimingDelayFactor.label>Fernkampf Anvisierungsverzögerungsfaktor</AimingDelayFactor.label>
+  <AimingDelayFactor.label>TODO</AimingDelayFactor.label>
   <!-- EN: How long it takes to shoot after choosing a target. -->
-  <AimingDelayFactor.description>Wie lange das Zielen dauert, bevor geschossen wird.</AimingDelayFactor.description>
+  <AimingDelayFactor.description>TODO</AimingDelayFactor.description>
   
   <!-- EN: incoming damage multiplier -->
   <IncomingDamageFactor.label>TODO</IncomingDamageFactor.label>
@@ -27,18 +27,14 @@
   <MeleeDPS.description>TODO</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
-  <MeleeHitChance.label>Nahkampf Trefferwahrscheinlichkeit</MeleeHitChance.label>
+  <MeleeHitChance.label>TODO</MeleeHitChance.label>
   <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
-  <MeleeHitChance.description>Die Basiswahrscheinlichkeit, ein Ziel im Nahkampf zu treffen.</MeleeHitChance.description>
+  <MeleeHitChance.description>TODO</MeleeHitChance.description>
   
   <!-- EN: trap spring chance -->
   <PawnTrapSpringChance.label>TODO</PawnTrapSpringChance.label>
   <!-- EN: Chance to spring a trap the character is unaware of. -->
   <PawnTrapSpringChance.description>TODO</PawnTrapSpringChance.description>
-  
-  <!-- UNUSED -->
-  <ShootingAccuracy.label>Fernkampf Treffgenauigkeit</ShootingAccuracy.label>
-  <ShootingAccuracy.description>Die Basiswahrscheinlichkeit, pro Quadrat Entfernung ein Ziel nicht zu verfehlen.</ShootingAccuracy.description>
   
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyPawn.label>TODO</ShootingAccuracyPawn.label>

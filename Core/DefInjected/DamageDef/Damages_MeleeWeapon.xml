@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: bite -->
-  <Bite.label>Biss</Bite.label>
+  <Bite.label>TODO</Bite.label>
   <!-- EN: {0} has been bitten to death. -->
-  <Bite.deathMessage>{0} wurde totgebissen.</Bite.deathMessage>
+  <Bite.deathMessage>TODO</Bite.deathMessage>
   
   <!-- EN: blunt -->
-  <Blunt.label>Schlag</Blunt.label>
+  <Blunt.label>TODO</Blunt.label>
   <!-- EN: {0} has been beaten to death. -->
-  <Blunt.deathMessage>{0} wurde erschlagen.</Blunt.deathMessage>
+  <Blunt.deathMessage>TODO</Blunt.deathMessage>
   
   <!-- EN: crush -->
-  <Crush.label>Quetschung</Crush.label>
+  <Crush.label>TODO</Crush.label>
   <!-- EN: {0} has been crushed to death. -->
-  <Crush.deathMessage>{0} wurde zerquetscht.</Crush.deathMessage>
+  <Crush.deathMessage>TODO</Crush.deathMessage>
   
   <!-- EN: cut -->
-  <Cut.label>Schnitt</Cut.label>
+  <Cut.label>TODO</Cut.label>
   <!-- EN: {0} has been cut to death. -->
-  <Cut.deathMessage>{0} wurde zerschnitten</Cut.deathMessage>
+  <Cut.deathMessage>TODO</Cut.deathMessage>
   
   <!-- EN: blunt -->
   <Poke.label>TODO</Poke.label>
@@ -27,9 +27,9 @@
   <Poke.deathMessage>TODO</Poke.deathMessage>
   
   <!-- EN: scratch -->
-  <Scratch.label>Kratzer</Scratch.label>
+  <Scratch.label>TODO</Scratch.label>
   <!-- EN: {0} has been torn to death. -->
-  <Scratch.deathMessage>{0} wurde zerrissen.</Scratch.deathMessage>
+  <Scratch.deathMessage>TODO</Scratch.deathMessage>
   
   <!-- EN: toxic scratch -->
   <ScratchToxic.label>TODO</ScratchToxic.label>
@@ -37,9 +37,9 @@
   <ScratchToxic.deathMessage>TODO</ScratchToxic.deathMessage>
   
   <!-- EN: stab -->
-  <Stab.label>Stich</Stab.label>
+  <Stab.label>TODO</Stab.label>
   <!-- EN: {0} has been stabbed to death. -->
-  <Stab.deathMessage>{0} wurde erstochen.</Stab.deathMessage>
+  <Stab.deathMessage>TODO</Stab.deathMessage>
   
   <!-- EN: toxic bite -->
   <ToxicBite.label>TODO</ToxicBite.label>

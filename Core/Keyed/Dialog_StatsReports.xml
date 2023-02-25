@@ -9,27 +9,27 @@
   <SecondsPerAttackLower>TODO</SecondsPerAttackLower>
 
   <!-- EN: Base value -->
-  <StatsReport_BaseValue>Valoarea de bază</StatsReport_BaseValue>
+  <StatsReport_BaseValue>TODO</StatsReport_BaseValue>
   <!-- EN: Relevant traits -->
-  <StatsReport_RelevantTraits>Trăsături relevante</StatsReport_RelevantTraits>
+  <StatsReport_RelevantTraits>TODO</StatsReport_RelevantTraits>
   <!-- EN: Relevant gear -->
-  <StatsReport_RelevantGear>Echipament relevant</StatsReport_RelevantGear>
+  <StatsReport_RelevantGear>TODO</StatsReport_RelevantGear>
   <!-- EN: Relevant health conditions -->
   <StatsReport_RelevantHediffs>TODO</StatsReport_RelevantHediffs>
   <!-- EN: Life stage -->
   <StatsReport_LifeStage>TODO</StatsReport_LifeStage>
   <!-- EN: Material -->
-  <StatsReport_Material>Material</StatsReport_Material>
+  <StatsReport_Material>TODO</StatsReport_Material>
   <!-- EN: Character quality -->
-  <StatsReport_CharacterQuality>Calitatea caracterului</StatsReport_CharacterQuality>
+  <StatsReport_CharacterQuality>TODO</StatsReport_CharacterQuality>
   <!-- EN: Skills -->
-  <StatsReport_Skills>Abilități</StatsReport_Skills>
+  <StatsReport_Skills>TODO</StatsReport_Skills>
   <!-- EN: Post-process - other stats -->
-  <StatsReport_OtherStats>Alte statistici</StatsReport_OtherStats>
+  <StatsReport_OtherStats>TODO</StatsReport_OtherStats>
   <!-- EN: Health -->
   <StatsReport_Health>TODO</StatsReport_Health>
   <!-- EN: {0} importance -->
-  <HealthFactorPercentImpact>{0} importanță</HealthFactorPercentImpact>
+  <HealthFactorPercentImpact>TODO</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->
   <HealthOffsetScale>TODO</HealthOffsetScale>
   <!-- EN: {0} max -->
@@ -37,19 +37,23 @@
   <!-- EN: if below {0} -->
   <HealthFactorAllowedDefect>TODO</HealthFactorAllowedDefect>
   <!-- EN: Post-process curve -->
-  <StatsReport_PostProcessed>Procesare ulterioară curbată</StatsReport_PostProcessed>
+  <StatsReport_PostProcessed>TODO</StatsReport_PostProcessed>
   <!-- EN: Final value -->
-  <StatsReport_FinalValue>Valoare finală</StatsReport_FinalValue>
+  <StatsReport_FinalValue>TODO</StatsReport_FinalValue>
   <!-- EN: Materials and labor -->
-  <StatsReport_MarketValueFromStuffsAndWork>Valoarea de piață se calculează după materialele folosite și efortul depus.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_MarketValueFromStuffsAndWork>TODO</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
-  <StatsReport_QualityMultiplier>Multiplicator de calitate</StatsReport_QualityMultiplier>
+  <StatsReport_QualityMultiplier>TODO</StatsReport_QualityMultiplier>
   <!-- EN: Max gain -->
   <StatsReport_MaxGain>TODO</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
   <StatsReport_AgeMultiplier>TODO</StatsReport_AgeMultiplier>
   <!-- EN: Multiplier for health {0} -->
   <StatsReport_HealthMultiplier>TODO</StatsReport_HealthMultiplier>
+  <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
+  <StatsReport_ReloadMarketValue>TODO</StatsReport_ReloadMarketValue>
+  <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
+  <StatsReport_ReloadRemainingChargesMultipler>TODO</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
   <StatsReport_MoodMultiplier>TODO</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
@@ -142,6 +146,10 @@
   <Stat_MineableThing_Name>TODO</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
   <Stat_MineableThing_Desc>TODO</Stat_MineableThing_Desc>
+  <!-- EN: Mining yield -->
+  <Stat_MiningYield_Name>TODO</Stat_MiningYield_Name>
+  <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->
+  <Stat_MiningYield_Desc>TODO</Stat_MiningYield_Desc>
   <!-- EN: Source species -->
   <Stat_SourceSpecies_Name>TODO</Stat_SourceSpecies_Name>
   <!-- EN: The species of creature from which this was taken. -->
@@ -280,6 +288,26 @@
   <Stat_Thing_Terrain_Fine_Desc>TODO</Stat_Thing_Terrain_Fine_Desc>
   <!-- EN: The amount of power this building will draw from the power grid. -->
   <Stat_Thing_PowerConsumption_Desc>TODO</Stat_Thing_PowerConsumption_Desc>
+  <!-- EN: {CHARGENOUN_plural} remaining -->
+  <Stat_Thing_ReloadChargesRemaining_Name>TODO</Stat_Thing_ReloadChargesRemaining_Name>
+  <!-- EN: The number of {CHARGENOUN_plural} remaining on this object. If these run out, the special ability can no longer be used. -->
+  <Stat_Thing_ReloadChargesRemaining_Desc>TODO</Stat_Thing_ReloadChargesRemaining_Desc>
+  <!-- EN: {CHARGENOUN_plural} -->
+  <Stat_Thing_ReloadMaxCharges_Name>TODO</Stat_Thing_ReloadMaxCharges_Name>
+  <!-- EN: The maximum number of {CHARGENOUN_plural} this object has. -->
+  <Stat_Thing_ReloadMaxCharges_Desc>TODO</Stat_Thing_ReloadMaxCharges_Desc>
+  <!-- EN: {CHARGENOUN} reload cost -->
+  <Stat_Thing_ReloadRefill_Name>TODO</Stat_Thing_ReloadRefill_Name>
+  <!-- EN: The amount of items required to fully reload this object.\n\nThis object can be reloaded before it is empty, but the cost is the same as if it was empty. -->
+  <Stat_Thing_ReloadRefill_Desc>TODO</Stat_Thing_ReloadRefill_Desc>
+  <!-- EN: Reload cost per {CHARGENOUN} -->
+  <Stat_Thing_ReloadPerCharge_Name>TODO</Stat_Thing_ReloadPerCharge_Name>
+  <!-- EN: The amount of items required to reload one {CHARGENOUN}. Multiple {CHARGENOUN_plural} can be reloaded at once. -->
+  <Stat_Thing_ReloadPerCharge_Desc>TODO</Stat_Thing_ReloadPerCharge_Desc>
+  <!-- EN: Vanish on exhaust -->
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>TODO</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <!-- EN: This item will vanish when its last {CHARGENOUN} is used. -->
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>TODO</Stat_Thing_ReloadDestroyOnEmpty_Desc>
   <!-- EN: The overall efficiency of this body part. -->
   <Stat_Thing_BodyPartEfficiency_Desc>TODO</Stat_Thing_BodyPartEfficiency_Desc>
   <!-- EN: Biocoding -->

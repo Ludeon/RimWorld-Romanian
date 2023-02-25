@@ -9,13 +9,11 @@
   <!-- EN: eclipse -->
   <Eclipse.label>TODO</Eclipse.label>
   <!-- EN: Eclipse -->
-  <Eclipse.letterLabel>Sonnenfinsternis</Eclipse.letterLabel>
-  <Eclipse.letterText>Einer der Monde des Planeten verdeckt die Sonne. Eine Sonnenfinsternis hat begonnen.</Eclipse.letterText>
+  <Eclipse.letterLabel>TODO</Eclipse.letterLabel>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>TODO</SolarFlare.label>
   <!-- EN: Solar flare -->
-  <SolarFlare.letterLabel>Sonneneruption</SolarFlare.letterLabel>
-  <SolarFlare.letterText>Eine Sonneneruption hat begonnen.\n\nDie starke Strahlung macht alle elektrischen Geräte unbrauchbar.\n\nEs sollte in etwa einem Tag wieder vorbei sein.</SolarFlare.letterText>
+  <SolarFlare.letterLabel>TODO</SolarFlare.letterLabel>
   
 </LanguageData>

@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: assault rifle bullet -->
-  <Bullet_AssaultRifle.label>Gewehrkugel (Sturmgewehr)</Bullet_AssaultRifle.label>
+  <Bullet_AssaultRifle.label>TODO</Bullet_AssaultRifle.label>
   
   <!-- EN: autopistol bullet -->
   <Bullet_Autopistol.label>TODO</Bullet_Autopistol.label>
   
   <!-- EN: bolt-action rifle bullet -->
-  <Bullet_BoltActionRifle.label>Gewehrkugel</Bullet_BoltActionRifle.label>
+  <Bullet_BoltActionRifle.label>TODO</Bullet_BoltActionRifle.label>
   
   <!-- EN: EMP launcher shell -->
   <Bullet_EMPLauncher.label>TODO</Bullet_EMPLauncher.label>
   
   <!-- EN: heavy SMG bullet -->
-  <Bullet_HeavySMG.label>Kugel (SMP)</Bullet_HeavySMG.label>
+  <Bullet_HeavySMG.label>TODO</Bullet_HeavySMG.label>
   
   <!-- EN: incendiary bolt -->
-  <Bullet_IncendiaryLauncher.label>Brandgeschoss</Bullet_IncendiaryLauncher.label>
+  <Bullet_IncendiaryLauncher.label>TODO</Bullet_IncendiaryLauncher.label>
   
   <!-- EN: LMG bullet -->
-  <Bullet_LMG.label>Geschoss (LMG)</Bullet_LMG.label>
+  <Bullet_LMG.label>TODO</Bullet_LMG.label>
   
   <!-- EN: machine pistol bullet -->
   <Bullet_MachinePistol.label>TODO</Bullet_MachinePistol.label>
   
   <!-- EN: minigun bullet -->
-  <Bullet_Minigun.label>Geschoss einer Minigun</Bullet_Minigun.label>
+  <Bullet_Minigun.label>TODO</Bullet_Minigun.label>
   
   <!-- EN: revolver bullet -->
-  <Bullet_Revolver.label>Pistolenkugel</Bullet_Revolver.label>
+  <Bullet_Revolver.label>TODO</Bullet_Revolver.label>
   
   <!-- EN: shotgun blast -->
   <Bullet_Shotgun.label>TODO</Bullet_Shotgun.label>
@@ -38,12 +38,12 @@
   <Bullet_SmokeLauncher.label>TODO</Bullet_SmokeLauncher.label>
   
   <!-- EN: sniper rifle bullet -->
-  <Bullet_SniperRifle.label>Gewehrkugel (Scharfschützen)</Bullet_SniperRifle.label>
+  <Bullet_SniperRifle.label>TODO</Bullet_SniperRifle.label>
   
   <!-- EN: assault rifle -->
-  <Gun_AssaultRifle.label>Sturmgewehr</Gun_AssaultRifle.label>
+  <Gun_AssaultRifle.label>TODO</Gun_AssaultRifle.label>
   <!-- EN: A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy. -->
-  <Gun_AssaultRifle.description>Ein Sturmgewehr für Feld- und Stadtkämpfe. Es verschießt eine Salve bestehend aus drei Schüssen. Gute Reichweite, niedrige Durchschlagskraft, hohe Schussfrequenz.</Gun_AssaultRifle.description>
+  <Gun_AssaultRifle.description>TODO</Gun_AssaultRifle.description>
   <!-- EN: stock -->
   <Gun_AssaultRifle.tools.stock.label>TODO</Gun_AssaultRifle.tools.stock.label>
   <!-- EN: barrel -->
@@ -63,9 +63,9 @@
   <Gun_Autopistol.verbs.Verb_Shoot.label>TODO</Gun_Autopistol.verbs.Verb_Shoot.label>
   
   <!-- EN: bolt-action rifle -->
-  <Gun_BoltActionRifle.label>Überlebensgewehr</Gun_BoltActionRifle.label>
+  <Gun_BoltActionRifle.label>TODO</Gun_BoltActionRifle.label>
   <!-- EN: An ancient pattern bolt-action rifle. With its long range, and low fire rate, it is unlikely to drive animals to revenge, which makes it a favorite weapon for hunting. -->
-  <Gun_BoltActionRifle.description>Ein antikes Repetiergewehr. Gute Reichweite, gute Durchschlagskraft, niedrige Schussfrequenz.</Gun_BoltActionRifle.description>
+  <Gun_BoltActionRifle.description>TODO</Gun_BoltActionRifle.description>
   <!-- EN: stock -->
   <Gun_BoltActionRifle.tools.stock.label>TODO</Gun_BoltActionRifle.tools.stock.label>
   <!-- EN: barrel -->
@@ -96,9 +96,9 @@
   <Gun_EmpLauncher.verbs.Verb_Shoot.label>TODO</Gun_EmpLauncher.verbs.Verb_Shoot.label>
   
   <!-- EN: heavy SMG -->
-  <Gun_HeavySMG.label>Schwere MP</Gun_HeavySMG.label>
+  <Gun_HeavySMG.label>TODO</Gun_HeavySMG.label>
   <!-- EN: A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. -->
-  <Gun_HeavySMG.description>Ein kompakter Bleiwerfer mit großem Kaliber. Niedrige Reichweite, aber große Durchschlagkraft und gute Handhabung.</Gun_HeavySMG.description>
+  <Gun_HeavySMG.description>TODO</Gun_HeavySMG.description>
   <!-- EN: grip -->
   <Gun_HeavySMG.tools.grip.label>TODO</Gun_HeavySMG.tools.grip.label>
   <!-- EN: barrel -->
@@ -107,9 +107,9 @@
   <Gun_HeavySMG.verbs.Verb_Shoot.label>TODO</Gun_HeavySMG.verbs.Verb_Shoot.label>
   
   <!-- EN: incendiary launcher -->
-  <Gun_IncendiaryLauncher.label>Brandgeschosswerfer</Gun_IncendiaryLauncher.label>
+  <Gun_IncendiaryLauncher.label>TODO</Gun_IncendiaryLauncher.label>
   <!-- EN: A wide-barreled incendiary bolt launcher. The bolts create small incendiary explosions on impact, starting fires. -->
-  <Gun_IncendiaryLauncher.description>Ein Brandgeschosswerfer. Setzt das Ziel in Brand.</Gun_IncendiaryLauncher.description>
+  <Gun_IncendiaryLauncher.description>TODO</Gun_IncendiaryLauncher.description>
   <!-- EN: stock -->
   <Gun_IncendiaryLauncher.tools.stock.label>TODO</Gun_IncendiaryLauncher.tools.stock.label>
   <!-- EN: barrel -->
@@ -118,9 +118,9 @@
   <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>TODO</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
   
   <!-- EN: LMG -->
-  <Gun_LMG.label>LMG</Gun_LMG.label>
+  <Gun_LMG.label>TODO</Gun_LMG.label>
   <!-- EN: A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies. -->
-  <Gun_LMG.description>Ein leichtes Maschinengewehr.</Gun_LMG.description>
+  <Gun_LMG.description>TODO</Gun_LMG.description>
   <!-- EN: stock -->
   <Gun_LMG.tools.stock.label>TODO</Gun_LMG.tools.stock.label>
   <!-- EN: barrel -->
@@ -140,18 +140,18 @@
   <Gun_MachinePistol.verbs.Verb_Shoot.label>TODO</Gun_MachinePistol.verbs.Verb_Shoot.label>
   
   <!-- EN: minigun -->
-  <Gun_Minigun.label>Minigun</Gun_Minigun.label>
+  <Gun_Minigun.label>TODO</Gun_Minigun.label>
   <!-- EN: A multi-barrel machine gun. It's unwieldy, but once it starts firing it fires very fast. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor to rapidly cycle cartridges through the weapon. -->
-  <Gun_Minigun.description>Ein Maschinengewehr mit mehreren rotierenden Läufen. Sehr hohe Feuerrate. Hergestellt von Mechanoiden..</Gun_Minigun.description>
+  <Gun_Minigun.description>TODO</Gun_Minigun.description>
   <!-- EN: barrels -->
   <Gun_Minigun.tools.barrels.label>TODO</Gun_Minigun.tools.barrels.label>
   <!-- EN: minigun -->
   <Gun_Minigun.verbs.Verb_Shoot.label>TODO</Gun_Minigun.verbs.Verb_Shoot.label>
   
   <!-- EN: pump shotgun -->
-  <Gun_PumpShotgun.label>Schrotflinte</Gun_PumpShotgun.label>
+  <Gun_PumpShotgun.label>TODO</Gun_PumpShotgun.label>
   <!-- EN: An ancient design of shotgun that emits a tight-packed spray of pellets. Deadly, but short range. -->
-  <Gun_PumpShotgun.description>Ein antikes Design. Tödlich, aber sehr kurze Reichweite.</Gun_PumpShotgun.description>
+  <Gun_PumpShotgun.description>TODO</Gun_PumpShotgun.description>
   <!-- EN: stock -->
   <Gun_PumpShotgun.tools.stock.label>TODO</Gun_PumpShotgun.tools.stock.label>
   <!-- EN: barrel -->
@@ -160,9 +160,9 @@
   <Gun_PumpShotgun.verbs.Verb_Shoot.label>TODO</Gun_PumpShotgun.verbs.Verb_Shoot.label>
   
   <!-- EN: revolver -->
-  <Gun_Revolver.label>Pistole</Gun_Revolver.label>
+  <Gun_Revolver.label>TODO</Gun_Revolver.label>
   <!-- EN: An ancient pattern double-action revolver. It's not very powerful, but has a decent range for a pistol and is quick on the draw. -->
-  <Gun_Revolver.description>Eine antike automatische Pistole. Niedriger Schadensausstoß, kurze Reichweite, schießt aber schnell.</Gun_Revolver.description>
+  <Gun_Revolver.description>TODO</Gun_Revolver.description>
   <!-- EN: grip -->
   <Gun_Revolver.tools.grip.label>TODO</Gun_Revolver.tools.grip.label>
   <!-- EN: barrel -->
@@ -182,9 +182,9 @@
   <Gun_SmokeLauncher.verbs.Verb_Shoot.label>TODO</Gun_SmokeLauncher.verbs.Verb_Shoot.label>
   
   <!-- EN: sniper rifle -->
-  <Gun_SniperRifle.label>Scharfschützengewehr</Gun_SniperRifle.label>
+  <Gun_SniperRifle.label>TODO</Gun_SniperRifle.label>
   <!-- EN: An ancient design of precision sniper rifle. Bolt action. It has an exceptionally long range, great accuracy and good power. Because it's so unwieldy, other weapons outclass it at close range. -->
-  <Gun_SniperRifle.description>Ein antikes Militärscharfschützengewehr. Ein Einzelschussgewehr mit hoher Reichweite, Genauigkeit und Durchschlagskraft.</Gun_SniperRifle.description>
+  <Gun_SniperRifle.description>TODO</Gun_SniperRifle.description>
   <!-- EN: stock -->
   <Gun_SniperRifle.tools.stock.label>TODO</Gun_SniperRifle.tools.stock.label>
   <!-- EN: barrel -->

@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: butchery efficiency -->
-  <ButcheryFleshEfficiency.label>Schlachteffektivität</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.label>TODO</ButcheryFleshEfficiency.label>
   <!-- EN: The amount of meat produced when butchering flesh creatures.\n\nThe actual amount is also related to the creature's size. -->
-  <ButcheryFleshEfficiency.description>Ein Multiplikator auf die Menge an Fleisch, die der Kolonist beim Schlachten erzeugt.</ButcheryFleshEfficiency.description>
+  <ButcheryFleshEfficiency.description>TODO</ButcheryFleshEfficiency.description>
   
   <!-- EN: butchery speed -->
-  <ButcheryFleshSpeed.label>Schlachtgeschwindigkeit</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.label>TODO</ButcheryFleshSpeed.label>
   <!-- EN: The speed at which this person butchers flesh creatures. -->
-  <ButcheryFleshSpeed.description>Die Geschwindigkeit des Kolonisten, eine Kreatur zu schlachten.</ButcheryFleshSpeed.description>
+  <ButcheryFleshSpeed.description>TODO</ButcheryFleshSpeed.description>
   
   <!-- EN: mechanoid shredding efficiency -->
-  <ButcheryMechanoidEfficiency.label>Mechanoid Demontageeff.</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.label>TODO</ButcheryMechanoidEfficiency.label>
   <!-- EN: The amount of materials yielded when this person shreds a dead mechanoid for resources.\n\nThe actual amount is also related to the mechanoid's size. -->
-  <ButcheryMechanoidEfficiency.description>Ein Multiplikator auf die Menge an Material, die der Kolonist beim Zerlegen eines Mechanoiden erhält.</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.description>TODO</ButcheryMechanoidEfficiency.description>
   
   <!-- EN: mechanoid shredding speed -->
-  <ButcheryMechanoidSpeed.label>Mechanoid Demontagegeschw.</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.label>TODO</ButcheryMechanoidSpeed.label>
   <!-- EN: The speed at which this person can shred a mechanoid for resources. -->
-  <ButcheryMechanoidSpeed.description>Ein Multiplikator auf die Geschwindigkeit des Kolonisten, einen Mechanoiden zu zerlegen.</ButcheryMechanoidSpeed.description>
+  <ButcheryMechanoidSpeed.description>TODO</ButcheryMechanoidSpeed.description>
   
   <!-- EN: cooking speed -->
-  <CookSpeed.label>Kochgeschwindigkeit</CookSpeed.label>
+  <CookSpeed.label>TODO</CookSpeed.label>
   <!-- EN: The speed at which this person cooks meals. -->
-  <CookSpeed.description>Die Geschwindigkeit des Kolonisten, etwas zu kochen.</CookSpeed.description>
+  <CookSpeed.description>TODO</CookSpeed.description>
   
   <!-- EN: drug cooking speed -->
-  <DrugCookingSpeed.label>Braugeschwindigkeit</DrugCookingSpeed.label>
+  <DrugCookingSpeed.label>TODO</DrugCookingSpeed.label>
   <!-- EN: The speed at which this person brews beer and tea, or makes simple drug products like smokeleaf joints. -->
-  <DrugCookingSpeed.description>Die Geschwindigkeit des Kolonisten, Bier zu brauen.</DrugCookingSpeed.description>
+  <DrugCookingSpeed.description>TODO</DrugCookingSpeed.description>
   
   <!-- EN: drug synthesis speed -->
   <DrugSynthesisSpeed.label>TODO</DrugSynthesisSpeed.label>
@@ -37,9 +37,9 @@
   <DrugSynthesisSpeed.description>TODO</DrugSynthesisSpeed.description>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChance.label>Lebensmittelvergiftung</FoodPoisonChance.label>
+  <FoodPoisonChance.label>TODO</FoodPoisonChance.label>
   <!-- EN: The probability that this character will inadvertently poison a meal they cook.\n\nAnyone who eats a food-poisoned meal will be temporarily debilitated with pain, weakness, and vomiting. -->
-  <FoodPoisonChance.description>Die Wahrscheinlichkeit, mit der dieser Kolonist unbeabsichtigt die Lebensmittel vergiftet.</FoodPoisonChance.description>
+  <FoodPoisonChance.description>TODO</FoodPoisonChance.description>
   <!-- EN: food poison chance (chance to poison a meal) -->
   <FoodPoisonChance.labelForFullStatList>TODO</FoodPoisonChance.labelForFullStatList>
   
@@ -48,25 +48,9 @@
   <!-- EN: The speed at which this person carries out general labor like making stone blocks, making chemfuel at a refinery, burning items, tailoring clothes, creating art, smithing armor and weapons or smelting slag. This stat applies both to activities that involve no skill, as well as those where the skill affects the quality of the product instead of the speed of production. -->
   <GeneralLaborSpeed.description>TODO</GeneralLaborSpeed.description>
   
-  <!-- UNUSED -->
-  <SculptingSpeed.label>Bildhaugeschwindigkeit</SculptingSpeed.label>
-  <SculptingSpeed.description>Ein Multiplikator auf die Geschwindigkeit des Kolonisten, eine Skulptur anzufertigen. Dies wird nicht von der künstlerischen Fähigkeit beeinflusst. Erfahrenere Künstler arbeiten besser anstatt schneller.</SculptingSpeed.description>
-  
   <!-- EN: smelting speed -->
-  <SmeltingSpeed.label>Schmelzgeschwindigkeit</SmeltingSpeed.label>
+  <SmeltingSpeed.label>TODO</SmeltingSpeed.label>
   <!-- EN: The speed at which this person smelts things.\n\nSince smelting is dumb labor, smelting speed is not affected by any skill. -->
-  <SmeltingSpeed.description>Die Geschwindigkeit des Kolonisten, Objekte einzuschmelzen.</SmeltingSpeed.description>
-  
-  <!-- UNUSED -->
-  <SmithingSpeed.label>Schmiedengeschwindigkeit</SmithingSpeed.label>
-  <SmithingSpeed.description>Die Geschwindigkeit des Kolonisten, Waffen und Werkzeuge herzustellen.</SmithingSpeed.description>
-  
-  <!-- UNUSED -->
-  <StonecuttingSpeed.label>Steinhaugeschwindigkeit</StonecuttingSpeed.label>
-  <StonecuttingSpeed.description>Die Geschwindigkeit des Kolonisten, Felsen zu Steinblöcken zu verarbeiten.</StonecuttingSpeed.description>
-  
-  <!-- UNUSED -->
-  <TailoringSpeed.label>Schneiderngeschwindigkeit</TailoringSpeed.label>
-  <TailoringSpeed.description>Die Geschwindigkeit des Kolonisten, Kleidung herzustellen.</TailoringSpeed.description>
+  <SmeltingSpeed.description>TODO</SmeltingSpeed.description>
   
 </LanguageData>

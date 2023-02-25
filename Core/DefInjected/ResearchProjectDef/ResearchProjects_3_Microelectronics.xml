@@ -22,9 +22,9 @@
   <HeavyTurrets.description>TODO</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
-  <HospitalBed.label>Krankenbetten</HospitalBed.label>
+  <HospitalBed.label>TODO</HospitalBed.label>
   <!-- EN: Construct hospital beds which improve medical outcomes. -->
-  <HospitalBed.description>Schaltet spezielle Krankenbetten frei. Diese erhöhen die Wahrscheinlichkeit auf erfolgreiche Behandlungen und medizinische sowie operative Eingriffe.</HospitalBed.description>
+  <HospitalBed.description>TODO</HospitalBed.description>
   
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>TODO</LongRangeMineralScanner.label>
@@ -56,9 +56,9 @@
   <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
   <PrecisionRifling.description>TODO</PrecisionRifling.description>
   
-  <!-- EN: shield belt -->
+  <!-- EN: shields -->
   <ShieldBelt.label>TODO</ShieldBelt.label>
-  <!-- EN: Build shield belts, which use momentum-repulsion technology to block ranged attacks coming in or going out. -->
+  <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundry. -->
   <ShieldBelt.description>TODO</ShieldBelt.description>
   
   <!-- EN: transport pod -->

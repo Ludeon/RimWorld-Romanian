@@ -4,22 +4,22 @@
   <!-- EN: Animals will attack doors -->
   <AnimalsDontAttackDoors.label>TODO</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
-  <AnimalsDontAttackDoors.helpText>Angreifende Tiere werden keine Türen angreifen.\n\nDu kannst ihnen entkommen, indem du hinter eine Wand flüchtest. Aber sie werden auf dich warten.</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>TODO</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
   <BillsTab.label>TODO</BillsTab.label>
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
-  <BillsTab.helpText>Damit Kolonisten am Arbeitstisch arbeiten, wähle den Tisch aus und öffne den Aufgabenreiter. Hier kannst du auswählen, welche Mahlzeiten gekocht, welche Produkte erstellt oder welche Kreaturen geschlachtet werden sollen.</BillsTab.helpText>
+  <BillsTab.helpText>TODO</BillsTab.helpText>
   
   <!-- EN: Build orbital trade beacon -->
-  <BuildOrbitalTradeBeacon.label>Baue orbitales Funkfeuer</BuildOrbitalTradeBeacon.label>
+  <BuildOrbitalTradeBeacon.label>TODO</BuildOrbitalTradeBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
-  <BuildOrbitalTradeBeacon.helpText>Damit du Gegenstände oder Silber zu einem Händler schicken kannst, musst du ein ORBITALES FUNKFEUER platzieren und ein Lager mit Gegenständen zum Handeln in Reichweite des Funkfeuers erstellen.</BuildOrbitalTradeBeacon.helpText>
+  <BuildOrbitalTradeBeacon.helpText>TODO</BuildOrbitalTradeBeacon.helpText>
   
   <!-- EN: Capturing -->
   <Capturing.label>TODO</Capturing.label>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
-  <Capturing.helpText>Ein Gegner ist bewusstlos. Du kannst ihn fangen!</Capturing.helpText>
+  <Capturing.helpText>TODO</Capturing.helpText>
   
   <!-- EN: Door opening speeds -->
   <DoorOpenSpeed.label>TODO</DoorOpenSpeed.label>
@@ -29,7 +29,7 @@
   <!-- EN: Drafting for combat -->
   <Drafting.label>TODO</Drafting.label>
   <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
-  <Drafting.helpText>Um einen Kolonisten für einen Kampf direkt zu steuern, lass ihn die Waffe ziehen, indem du ihn anklickst und dann die 'Waffe ziehen'-Schaltfläche betätigst. Nun kannst du ihm durch Rechtsklicken direkte Bewegungsbefehle erteilen.</Drafting.helpText>
+  <Drafting.helpText>TODO</Drafting.helpText>
   
   <!-- EN: Drug addiction -->
   <DrugAddiction.label>TODO</DrugAddiction.label>
@@ -54,12 +54,12 @@
   <!-- EN: Using the comms console -->
   <OpeningComms.label>TODO</OpeningComms.label>
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
-  <OpeningComms.helpText>Um mit anderen Kolonien zu kommunizieren, wähle einen Kolonisten aus, selektiere die Kommunikationskonsole mit einem Rechtsklick und wähle im Kontextmenü die zu kontaktierende Fraktion aus.</OpeningComms.helpText>
+  <OpeningComms.helpText>TODO</OpeningComms.helpText>
   
   <!-- EN: Prisoner tab -->
-  <PrisonerTab.label>Erlerne den Reiter 'Gefangene'</PrisonerTab.label>
+  <PrisonerTab.label>TODO</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored or executed, whether they eat, and what kind of medical care they get.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>Öffne den 'Gefangenen'-Reiter, um zu sehen, wie sie behandelt werden.\n\nDu benötigst einen Aufseher, der sich um die Gefangenen kümmert.</PrisonerTab.helpText>
+  <PrisonerTab.helpText>TODO</PrisonerTab.helpText>
   
   <!-- EN: Order queueing -->
   <QueueOrders.label>TODO</QueueOrders.label>
@@ -74,12 +74,12 @@
   <!-- EN: Rescuing -->
   <Rescuing.label>TODO</Rescuing.label>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
-  <Rescuing.helpText>Um einen bewusstlosen Kolonisten zu retten, wähle zunächst einen gesunden Kolonisten aus. Selektiere dann den Bewusstlosen mit einem Rechtsklick und wähle ´Retten´ im Kontextmenü.\n\nDafür benötigst du ein Bett im Krankenbettmodus.</Rescuing.helpText>
+  <Rescuing.helpText>TODO</Rescuing.helpText>
   
   <!-- EN: Set what plant to grow -->
-  <SetGrowingZonePlant.label>Erlerne Konfiguration von Anbauzonen</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.label>TODO</SetGrowingZonePlant.label>
   <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
-  <SetGrowingZonePlant.helpText>Du kannst festlegen, was die Kolonisten in einer Anbauzone anbauen sollen, sogar Bäume sind möglich!\n\nWähle einfach eine Anbauzone aus, öffne den 'Anbauen'-Reiter und klicke auf die Schaltfläche 'Kartoffeln', um die Einstellung zu ändern.</SetGrowingZonePlant.helpText>
+  <SetGrowingZonePlant.helpText>TODO</SetGrowingZonePlant.helpText>
   
   <!-- EN: Shield belts -->
   <ShieldBelts.label>TODO</ShieldBelts.label>

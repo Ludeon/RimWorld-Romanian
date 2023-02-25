@@ -2,26 +2,24 @@
 <LanguageData>
   
   <!-- EN: cloth -->
-  <Cloth.label>Stoff</Cloth.label>
+  <Cloth.label>TODO</Cloth.label>
   <!-- EN: Cloth woven from organic fibers. -->
-  <Cloth.description>Einfacher Stoff, gewebt aus organischen Fasern.</Cloth.description>
+  <Cloth.description>TODO</Cloth.description>
   
   <!-- EN: devilstrand -->
-  <DevilstrandCloth.label>Teufelsgarn</DevilstrandCloth.label>
+  <DevilstrandCloth.label>TODO</DevilstrandCloth.label>
   <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
-  <DevilstrandCloth.description>Sehr strapazierfähiger Stoff aus Mikrofasern, die aus den seidenproduzierenden Teufelsgarnpilzen gewonnen wurden. Sehr zäh, aber isoliert nicht besser als Stoff.</DevilstrandCloth.description>
+  <DevilstrandCloth.description>TODO</DevilstrandCloth.description>
   
   <!-- EN: gold -->
-  <Gold.label>Gold</Gold.label>
+  <Gold.label>TODO</Gold.label>
   <!-- EN: The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold. -->
-  <Gold.description>Das verführerischste aller Metalle. Millionen sind in der endlosen Gier der Menschheit nach Gold gestorben. Das weiche Metall hat fast keinen eigenen Nutzen, ist aber sehr schön und selten.</Gold.description>
-  <!-- EN: golden -->
-  <Gold.stuffProps.stuffAdjective>Gold</Gold.stuffProps.stuffAdjective>
+  <Gold.description>TODO</Gold.description>
   
   <!-- EN: hyperweave -->
-  <Hyperweave.label>Nanofaser</Hyperweave.label>
+  <Hyperweave.label>TODO</Hyperweave.label>
   <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
-  <Hyperweave.description>High-Tech-Nano-Fasern, die zu einem Stoff verwoben wurden. Das Material ist etwas schwer, ist aber kaum zu zerstören.</Hyperweave.description>
+  <Hyperweave.description>TODO</Hyperweave.description>
   
   <!-- EN: jade -->
   <Jade.label>TODO</Jade.label>
@@ -29,39 +27,34 @@
   <Jade.description>TODO</Jade.description>
   
   <!-- EN: plasteel -->
-  <Plasteel.label>Plastahl</Plasteel.label>
+  <Plasteel.label>TODO</Plasteel.label>
   <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
-  <Plasteel.description>Fortschrittliches Material aus der Raumfahrttechnologie. Plastahl ist aufgrund der einzigartigen molekularen Struktur extrem stark und doch leicht.</Plasteel.description>
+  <Plasteel.description>TODO</Plasteel.description>
   
   <!-- EN: silver -->
-  <Silver.label>Silber</Silver.label>
+  <Silver.label>TODO</Silver.label>
   <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
-  <Silver.description>Wird hauptsächlich als Währung beim Handeln akzeptiert, kann aber auch für attraktive Dekorationen verwendet werden.</Silver.description>
-  <Silver.stuffProps.stuffAdjective>Silber</Silver.stuffProps.stuffAdjective>
+  <Silver.description>TODO</Silver.description>
   
   <!-- EN: steel -->
-  <Steel.label>Stahl</Steel.label>
+  <Steel.label>TODO</Steel.label>
   <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
-  <Steel.description>Eine Metall-Kohle-Legierung, die zum Bauen von Strukturen, Werkzeugen und Waffen verwendet wird.</Steel.description>
-  <Steel.stuffProps.stuffAdjective>Stahl</Steel.stuffProps.stuffAdjective>
+  <Steel.description>TODO</Steel.description>
   
   <!-- EN: synthread -->
-  <Synthread.label>Syngarn</Synthread.label>
+  <Synthread.label>TODO</Synthread.label>
   <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
-  <Synthread.description>Stoff aus der Raumfahrttechnik, der für normale Kleidung entwickelt wurde. Er ist weich, leicht, stark und isoliert gut.</Synthread.description>
+  <Synthread.description>TODO</Synthread.description>
   
   <!-- EN: uranium -->
-  <Uranium.label>Uran</Uranium.label>
+  <Uranium.label>TODO</Uranium.label>
   <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
-  <Uranium.description>Ein extrem hartes und kompaktes Material. Während der Einsatzzweck als Reaktormaterial am bekanntesten ist, machen die physikalischen Eigenschaften es zu einem hervorragenden Material für Werkzeuge, Waffen und auch Rüstungen.</Uranium.description>
-  <Uranium.stuffProps.stuffAdjective>Uran</Uranium.stuffProps.stuffAdjective>
+  <Uranium.description>TODO</Uranium.description>
   
   <!-- EN: wood -->
-  <WoodLog.label>Holz</WoodLog.label>
+  <WoodLog.label>TODO</WoodLog.label>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
-  <WoodLog.description>Holz von Bäumen oder anderen holzartigen Gewächsen. Brauchbar, um hölzerne Strukturen, Waffen oder einfache Prothesen zu bauen. Im Fall der Fälle kann ein Holzstock auch als Waffe eingesetzt werden.</WoodLog.description>
-  <!-- EN: wooden -->
-  <WoodLog.stuffProps.stuffAdjective>Holz</WoodLog.stuffProps.stuffAdjective>
+  <WoodLog.description>TODO</WoodLog.description>
   <!-- EN: log -->
   <WoodLog.tools.log.label>TODO</WoodLog.tools.log.label>
   

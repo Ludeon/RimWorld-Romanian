@@ -12,9 +12,9 @@
   <AnimalGatherYield.description>TODO</AnimalGatherYield.description>
   
   <!-- EN: construction speed -->
-  <ConstructionSpeed.label>Aufbaugeschwindigkeit</ConstructionSpeed.label>
+  <ConstructionSpeed.label>TODO</ConstructionSpeed.label>
   <!-- EN: The speed at which this person constructs and repairs buildings. -->
-  <ConstructionSpeed.description>Ein Multiplikator auf die Geschwindigkeit eines Kolonisten, etwas aufzubauen.</ConstructionSpeed.description>
+  <ConstructionSpeed.description>TODO</ConstructionSpeed.description>
   
   <!-- EN: construct success chance -->
   <ConstructSuccessChance.label>TODO</ConstructSuccessChance.label>
@@ -37,9 +37,9 @@
   <HuntingStealth.description>TODO</HuntingStealth.description>
   
   <!-- EN: mining speed -->
-  <MiningSpeed.label>Abbaugeschwindigkeit</MiningSpeed.label>
+  <MiningSpeed.label>TODO</MiningSpeed.label>
   <!-- EN: A speed at which this person mines away walls. -->
-  <MiningSpeed.description>Ein Multiplikator auf die Geschwindigkeit eines Kolonisten, Felsen abzubauen.</MiningSpeed.description>
+  <MiningSpeed.description>TODO</MiningSpeed.description>
   
   <!-- EN: mining yield -->
   <MiningYield.label>TODO</MiningYield.label>
@@ -52,23 +52,23 @@
   <PlantHarvestYield.description>TODO</PlantHarvestYield.description>
   
   <!-- EN: plant work speed -->
-  <PlantWorkSpeed.label>Feldarbeitsgeschwindigkeit</PlantWorkSpeed.label>
+  <PlantWorkSpeed.label>TODO</PlantWorkSpeed.label>
   <!-- EN: The speed at which this person sows and harvests plants. -->
-  <PlantWorkSpeed.description>Ein Multiplikator auf die Geschwindigkeit eines Kolonisten, etwas anzupflanzen oder zu ernten.</PlantWorkSpeed.description>
+  <PlantWorkSpeed.description>TODO</PlantWorkSpeed.description>
   
   <!-- EN: research speed -->
-  <ResearchSpeed.label>Forschungsgeschwindigkeit</ResearchSpeed.label>
+  <ResearchSpeed.label>TODO</ResearchSpeed.label>
   <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
-  <ResearchSpeed.description>Ein Multiplikator auf die Geschwindigkeit eines Kolonisten, Forschung zu betreiben.</ResearchSpeed.description>
+  <ResearchSpeed.description>TODO</ResearchSpeed.description>
   
   <!-- EN: smoothing speed -->
-  <SmoothingSpeed.label>Glättungsgeschwindigkeit</SmoothingSpeed.label>
+  <SmoothingSpeed.label>TODO</SmoothingSpeed.label>
   <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
-  <SmoothingSpeed.description>Ein Multiplikator auf die Geschwindigkeit eines Kolonisten, Böden zu glätten.</SmoothingSpeed.description>
+  <SmoothingSpeed.description>TODO</SmoothingSpeed.description>
   
   <!-- EN: global work speed -->
-  <WorkSpeedGlobal.label>Arbeitsgeschwindigkeit</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.label>TODO</WorkSpeedGlobal.label>
   <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
-  <WorkSpeedGlobal.description>Ein Multiplikator auf die Geschwindigkeit eines Kolonisten, Arbeiten zu verrichten.</WorkSpeedGlobal.description>
+  <WorkSpeedGlobal.description>TODO</WorkSpeedGlobal.description>
   
 </LanguageData>

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: blue carpet -->
-  <CarpetBlue.label>Blauer Teppich</CarpetBlue.label>
+  <CarpetBlue.label>TODO</CarpetBlue.label>
   <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
-  <CarpetBlue.description>Plüschteppich in einem kühlen Blau.</CarpetBlue.description>
+  <CarpetBlue.description>TODO</CarpetBlue.description>
   
   <!-- EN: cream carpet -->
   <CarpetCream.label>TODO</CarpetCream.label>
@@ -17,19 +17,19 @@
   <CarpetDark.description>TODO</CarpetDark.description>
   
   <!-- EN: green carpet -->
-  <CarpetGreen.label>Grüner Teppich</CarpetGreen.label>
+  <CarpetGreen.label>TODO</CarpetGreen.label>
   <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
-  <CarpetGreen.description>Ein Teppich in einem natürlichen Grün.</CarpetGreen.description>
+  <CarpetGreen.description>TODO</CarpetGreen.description>
   
   <!-- EN: red carpet -->
-  <CarpetRed.label>Roter Teppich</CarpetRed.label>
+  <CarpetRed.label>TODO</CarpetRed.label>
   <!-- EN: Plush carpet in a lovely rose hue. -->
-  <CarpetRed.description>Plüschteppich in einem schönen roten Farbton.</CarpetRed.description>
+  <CarpetRed.description>TODO</CarpetRed.description>
   
   <!-- EN: concrete -->
-  <Concrete.label>Beton</Concrete.label>
+  <Concrete.label>TODO</Concrete.label>
   <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
-  <Concrete.description>Schnell-festigender Beton. Man kann darauf schnell laufen, dafür ist er aber recht hässlich. Du musst in der Lage sein, Löcher in den Boden zu graben, damit du den Beton gießen kannst.</Concrete.description>
+  <Concrete.description>TODO</Concrete.description>
   
   <!-- EN: gold tile -->
   <GoldTile.label>TODO</GoldTile.label>
@@ -37,14 +37,14 @@
   <GoldTile.description>TODO</GoldTile.description>
   
   <!-- EN: steel tile -->
-  <MetalTile.label>Metallplatte</MetalTile.label>
+  <MetalTile.label>TODO</MetalTile.label>
   <!-- EN: Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
-  <MetalTile.description>Metallfliesen, für den Raumschiff-Look.</MetalTile.description>
+  <MetalTile.description>TODO</MetalTile.description>
   
   <!-- EN: paved tile -->
-  <PavedTile.label>Betonplatte</PavedTile.label>
+  <PavedTile.label>TODO</PavedTile.label>
   <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
-  <PavedTile.description>Gebrauchstaugliche Betonplatten. Man kann darauf schnell laufen, allerdings sehen sie nicht sonderlich schön aus.</PavedTile.description>
+  <PavedTile.description>TODO</PavedTile.description>
   
   <!-- EN: silver tile -->
   <SilverTile.label>TODO</SilverTile.label>
@@ -57,8 +57,8 @@
   <SterileTile.description>TODO</SterileTile.description>
   
   <!-- EN: wood floor -->
-  <WoodPlankFloor.label>Holzboden</WoodPlankFloor.label>
+  <WoodPlankFloor.label>TODO</WoodPlankFloor.label>
   <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
-  <WoodPlankFloor.description>Ein Holzfußboden. Ergibt einen gemütlichen Raum.</WoodPlankFloor.description>
+  <WoodPlankFloor.description>TODO</WoodPlankFloor.description>
   
 </LanguageData>

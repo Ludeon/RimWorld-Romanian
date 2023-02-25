@@ -2,39 +2,27 @@
 <LanguageData>
   
   <!-- EN: chemical consumption -->
-  <Chemical.label>chemisch</Chemical.label>
+  <Chemical.label>TODO</Chemical.label>
   
   <!-- EN: cerebral play -->
-  <Gaming_Cerebral.label>spielen (geistig)</Gaming_Cerebral.label>
+  <Gaming_Cerebral.label>TODO</Gaming_Cerebral.label>
   
   <!-- EN: dexterity play -->
-  <Gaming_Dexterity.label>spielen (geschick)</Gaming_Dexterity.label>
+  <Gaming_Dexterity.label>TODO</Gaming_Dexterity.label>
   
   <!-- EN: food consumption -->
-  <Gluttonous.label>gefräßig</Gluttonous.label>
-  
-  <!-- UNUSED -->
-  <Lewd.label>lüstern</Lewd.label>
+  <Gluttonous.label>TODO</Gluttonous.label>
   
   <!-- EN: solitary relaxation -->
-  <Meditative.label>meditativ</Meditative.label>
-  
-  <!-- UNUSED -->
-  <Passive.label>passiv</Passive.label>
+  <Meditative.label>TODO</Meditative.label>
   
   <!-- EN: social interaction -->
-  <Social.label>sozial</Social.label>
-  
-  <!-- UNUSED -->
-  <Study.label>lernen</Study.label>
+  <Social.label>TODO</Social.label>
   
   <!-- EN: telescope study -->
   <Telescope.label>TODO</Telescope.label>
   
   <!-- EN: television watching -->
   <Television.label>TODO</Television.label>
-  
-  <!-- UNUSED -->
-  <Work.label>arbeit</Work.label>
   
 </LanguageData>

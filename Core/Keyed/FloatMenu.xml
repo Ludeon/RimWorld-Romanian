@@ -2,19 +2,19 @@
 <LanguageData>
 
   <!-- EN: Call {0} -->
-  <CallOnRadio>Contactează {0}</CallOnRadio>
+  <CallOnRadio>TODO</CallOnRadio>
   <!-- EN: Cannot use: {0} -->
   <CannotUseReason>TODO</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
-  <CannotUseSolarFlare>Imposibil de utilizat (erupție solară)</CannotUseSolarFlare>
+  <CannotUseSolarFlare>TODO</CannotUseSolarFlare>
   <!-- EN: Cannot use: No power -->
-  <CannotUseNoPower>Imposibil de utilizat (nealimentat)</CannotUseNoPower>
+  <CannotUseNoPower>TODO</CannotUseNoPower>
   <!-- EN: Cannot use: No path -->
-  <CannotUseNoPath>Imposibil de utilizat (nu poate fi ajuns)</CannotUseNoPath>
+  <CannotUseNoPath>TODO</CannotUseNoPath>
   <!-- EN: Cannot use: Reserved -->
-  <CannotUseReserved>Imposibil de utilizat (rezervat)</CannotUseReserved>
+  <CannotUseReserved>TODO</CannotUseReserved>
   <!-- EN: Cannot use: full -->
-  <CannotUseFull>Imposibil de utilizat (plin)</CannotUseFull>
+  <CannotUseFull>TODO</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
   <LeaderUnavailable>TODO</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
@@ -23,14 +23,14 @@
   <NotAllowed>TODO</NotAllowed>
   
   <!-- EN: Fire at {1_label} -->
-  <FireAt>Trage în {0}</FireAt>
+  <FireAt>TODO</FireAt>
 
   <!-- EN: out of range -->
-  <OutOfRange>în afara razei de acțiune</OutOfRange>
+  <OutOfRange>TODO</OutOfRange>
   <!-- EN: too close -->
   <TooClose>TODO</TooClose>
   <!-- EN: Cannot hit target -->
-  <CannotHitTarget>nu se poate nimeri ținta</CannotHitTarget>
+  <CannotHitTarget>TODO</CannotHitTarget>
   <!-- EN: {1_labelShort} is incapable of violence -->
   <IsIncapableOfViolenceLower>TODO</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
@@ -41,35 +41,37 @@
   <CannotOrderNonControlledLower>TODO</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>TODO</CannotAttackSelf>
+  <!-- EN: cannot attack faction ally -->
+  <CannotAttackSameFactionMember>TODO</CannotAttackSameFactionMember>
 
   <!-- EN: Man {1_labelShort} -->
-  <OrderManThing>Om {0}</OrderManThing>
+  <OrderManThing>TODO</OrderManThing>
   
   <!-- EN: Melee attack {1_label} -->
-  <MeleeAttack>Atacă în meleu {0}</MeleeAttack>
+  <MeleeAttack>TODO</MeleeAttack>
   <!-- EN: Melee attack {1_label} to death -->
-  <MeleeAttackToDeath>Atacă {0} în meleu până la moarte</MeleeAttackToDeath>
+  <MeleeAttackToDeath>TODO</MeleeAttackToDeath>
   <!-- EN: no path -->
-  <NoPath>nu poate fi ajuns</NoPath>
+  <NoPath>TODO</NoPath>
   <!-- EN: burying -->
   <Burying>TODO</Burying>
 
   <!-- EN: forbidden -->
-  <ForbiddenLower>Interzis</ForbiddenLower>
+  <ForbiddenLower>TODO</ForbiddenLower>
   <!-- EN: outside allowed area -->
   <ForbiddenOutsideAllowedAreaLower>TODO</ForbiddenOutsideAllowedAreaLower>
   <!-- EN: not in home area -->
   <NotInHomeArea>TODO</NotInHomeArea>
   <!-- EN: burning -->
-  <BurningLower>arde</BurningLower>
+  <BurningLower>TODO</BurningLower>
   <!-- EN: no empty, accessible spot configured to store it -->
-  <NoEmptyPlaceLower>nu există un spațiu gol în care poate fi depozitat</NoEmptyPlaceLower>
+  <NoEmptyPlaceLower>TODO</NoEmptyPlaceLower>
   <!-- EN: no stack available to merge into -->
   <NoMergeTarget>TODO</NoMergeTarget>
   <!-- EN: already filled enough -->
-  <AlreadyFilledLower>deja suficient de plin</AlreadyFilledLower>
+  <AlreadyFilledLower>TODO</AlreadyFilledLower>
   <!-- EN: need material -->
-  <MissingMaterials>este nevoie de materiale</MissingMaterials>
+  <MissingMaterials>TODO</MissingMaterials>
   <!-- EN: under required skill {0} -->
   <UnderRequiredSkill>TODO</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
@@ -136,60 +138,64 @@
   <InstallImplantAlreadyMaxLevel>TODO</InstallImplantAlreadyMaxLevel>
   <!-- EN: Upgrade {0} to level {1} -->
   <UpgradeImplant>TODO</UpgradeImplant>
+  <!-- EN: violation of faction ally -->
+  <SurgeryViolationFellowFactionMember>TODO</SurgeryViolationFellowFactionMember>
   
   <!-- EN: Consume {1_labelShort} -->
   <ConsumeThing>TODO</ConsumeThing>
   
   <!-- EN: Cannot go here: no path -->
-  <CannotGoNoPath>Nu se poate merge acolo (nu poate fi ajuns)</CannotGoNoPath>
+  <CannotGoNoPath>TODO</CannotGoNoPath>
   <!-- EN: Go here -->
-  <GoHere>Du-te aici</GoHere>
+  <GoHere>TODO</GoHere>
   
   <!-- EN: Arrest {0} -->
-  <Arrest>Arestează-l pe {0}</Arrest>
+  <Arrest>TODO</Arrest>
   <!-- EN: Try to arrest {1_label} ({2} chance) -->
   <TryToArrest>TODO</TryToArrest>
   <!-- EN: Cannot arrest -->
-  <CannotArrest>Nu poate fi arestat</CannotArrest>
+  <CannotArrest>TODO</CannotArrest>
 
   <!-- EN: Capture {1_label} -->
-  <Capture>Capturează-l pe {0}</Capture>
+  <Capture>TODO</Capture>
   <!-- EN: Cannot capture -->
-  <CannotCapture>Nu poate fi capturat</CannotCapture>
+  <CannotCapture>TODO</CannotCapture>
 
   <!-- EN: Rescue {1_label} -->
-  <Rescue>Salvează-l pe {0}</Rescue>
+  <Rescue>TODO</Rescue>
   <!-- EN: Cannot rescue -->
-  <CannotRescue>Nu poate fi salvat</CannotRescue>
+  <CannotRescue>TODO</CannotRescue>
 
   <!-- EN: Carry {1_label} to cryptosleep casket -->
-  <CarryToCryptosleepCasket>Transportă-l pe {0} în camera de crypto-somn</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>TODO</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
-  <CannotCarryToCryptosleepCasket>Nu poate fi transportat în camera de crypto-somn</CannotCarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>TODO</CannotCarryToCryptosleepCasket>
 
   <!-- EN: Carry {0_label} to shuttle -->
   <CarryToShuttle>TODO</CarryToShuttle>
 
   <!-- EN: No available cryptosleep casket. -->
-  <NoCryptosleepCasket>Nu există o cameră de crypto-somn disponibilă.</NoCryptosleepCasket>
+  <NoCryptosleepCasket>TODO</NoCryptosleepCasket>
   <!-- EN: Temporary faction members not allowed. -->
   <CryptosleepCasketGuestsNotAllowed>TODO</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: Hosted prisoners not allowed. -->
   <CryptosleepCasketGuestPrisonersNotAllowed>TODO</CryptosleepCasketGuestPrisonersNotAllowed>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
-  <NoPrisonerBed>Nu este disponibil un pat izolat pentru prizonieri .</NoPrisonerBed>
+  <NoPrisonerBed>TODO</NoPrisonerBed>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
-  <NoNonPrisonerBed>Nu este disponibil un pat utilizabil.</NoNonPrisonerBed>
+  <NoNonPrisonerBed>TODO</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
   <NoAnimalBed>TODO</NoAnimalBed>
   <!-- EN: Reserved by someone else. -->
-  <Reserved>Rezervat de altcineva.</Reserved>
+  <Reserved>TODO</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
-  <ReservedBy>Rezervat de {0}</ReservedBy>
+  <ReservedBy>TODO</ReservedBy>
   <!-- EN: {0} is reserved by {1}. -->
-  <IsReservedBy>{0} este rezervat de {1}.</IsReservedBy>
+  <IsReservedBy>TODO</IsReservedBy>
   <!-- EN: Too heavy -->
   <TooHeavy>TODO</TooHeavy>
+  <!-- EN: {0_labelShort} is in the same faction. -->
+  <SameFaction>TODO</SameFaction>
 
   <!-- EN: incapable -->
   <Incapable>TODO</Incapable>
@@ -200,20 +206,31 @@
   <MinSkill>TODO</MinSkill>
   
   <!-- EN: Equip {0} -->
-  <Equip>Echipează {0}</Equip>
+  <Equip>TODO</Equip>
   <!-- EN: (brawler will be unhappy) -->
-  <EquipWarningBrawler>(bătăușul va fi nefericit)</EquipWarningBrawler>
+  <EquipWarningBrawler>TODO</EquipWarningBrawler>
   <!-- EN: Cannot equip {0} -->
-  <CannotEquip>Nu se poate echipa {0}</CannotEquip>
+  <CannotEquip>TODO</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
   <CannotManThing>TODO</CannotManThing>
   
   <!-- EN: Force wear {1_labelShort} -->
   <ForceWear>TODO</ForceWear>
   <!-- EN: Cannot wear {1_label} -->
-  <CannotWear>Nu se poate îmbrăca {0}</CannotWear>
+  <CannotWear>TODO</CannotWear>
+  <!-- EN: Force equip {1_labelShort} -->
+  <ForceEquipApparel>TODO</ForceEquipApparel>
+  <!-- EN: Cannot equip {1_label} -->
+  <CannotEquipApparel>TODO</CannotEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>TODO</CannotWearBecauseOfMissingBodyParts>
+  
+  <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <Reload>TODO</Reload>
+  <!-- EN: Full -->
+  <ReloadFull>TODO</ReloadFull>
+  <!-- EN: Too few -->
+  <ReloadNotEnough>TODO</ReloadNotEnough>
   
   <!-- EN: Cannot pick up {1_label} -->
   <CannotPickUp>TODO</CannotPickUp>
@@ -264,9 +281,9 @@
   <CarryToExitAndCapture>TODO</CarryToExitAndCapture>
   
   <!-- EN: Strip {1_label} -->
-  <Strip>Dezbracă {0}</Strip>
+  <Strip>TODO</Strip>
   <!-- EN: Cannot strip {1_label} -->
-  <CannotStrip>Nu se poate dezbrăca {0}</CannotStrip>
+  <CannotStrip>TODO</CannotStrip>
   <!-- EN: Cannot drop {1_label} -->
   <CannotDrop>TODO</CannotDrop>
   <!-- EN: temporary faction member -->
@@ -277,17 +294,17 @@
   <WouldReplaceLockedApparel>TODO</WouldReplaceLockedApparel>
 
   <!-- EN: Self-destruct here -->
-  <SelfDestructHere>Auto-distruge aici</SelfDestructHere>
+  <SelfDestructHere>TODO</SelfDestructHere>
   
   <!-- EN: Drop {1_label} -->
-  <Drop>Lasă {0}</Drop>
+  <Drop>TODO</Drop>
 
   <!-- EN: Rest until healed -->
-  <UseMedicalBed>Odihnă până la vindecare</UseMedicalBed>
+  <UseMedicalBed>TODO</UseMedicalBed>
   <!-- EN: not injured -->
-  <NotInjured>Nu este rănit</NotInjured>
+  <NotInjured>TODO</NotInjured>
   <!-- EN: occupied by {0} -->
-  <SomeoneElseSleeping>Ocupat</SomeoneElseSleeping>
+  <SomeoneElseSleeping>TODO</SomeoneElseSleeping>
   
   <!-- EN: Trade with {0} -->
   <TradeWith>TODO</TradeWith>
@@ -320,24 +337,24 @@
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
-  <EnterCryptosleepCasket>Folosește camera de crypto-somn</EnterCryptosleepCasket>
+  <EnterCryptosleepCasket>TODO</EnterCryptosleepCasket>
   <!-- EN: Open cryptosleep casket -->
-  <OpenCryptosleepCasket>Deschide camera de crypto-somn</OpenCryptosleepCasket>
+  <OpenCryptosleepCasket>TODO</OpenCryptosleepCasket>
   <!-- EN: Get in shuttle -->
   <EnterShuttle>TODO</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- EN: Cannot {0} {1} -->
-  <CannotGenericWork>Nu se poate {0} {1}</CannotGenericWork>
+  <CannotGenericWork>TODO</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>TODO</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize: incapable of {0} -->
-  <CannotMissingHealthActivities>Nu se poate prioritiza (Problemă de sănătate: {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>TODO</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
   <!-- EN: Already {0} {2_labelShort} -->
-  <CannotGenericAlreadyAm>Deja se {0} {1}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>TODO</CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>TODO</CannotGenericAlreadyAmCustom>
 
@@ -357,10 +374,10 @@
   <NotAssigned>TODO</NotAssigned>
 
   <!-- EN: Cannot prioritize: research is a long-term task -->
-  <CannotPrioritizeResearch>Nu se poate prioritiza (cercetarea este o sarcină pe termen lung)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>TODO</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize: {1_label} is forbidden -->
-  <CannotPrioritizeForbidden>Nu se poate prioritiza ({0} este interzis)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>TODO</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize: forbidden -->
   <CannotPrioritizeCellForbidden>TODO</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
@@ -368,12 +385,14 @@
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
-  <PrioritizeGeneric>Prioritizează {0} {1}</PrioritizeGeneric>
+  <PrioritizeGeneric>TODO</PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
   <DropAtEdge>TODO</DropAtEdge>
   <!-- EN: Drop in center -->
   <DropInCenter>TODO</DropInCenter>
+  <!-- EN: Attack {0} -->
+  <AttackShuttle>TODO</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
   <AttackAndDropAtEdge>TODO</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
@@ -420,5 +439,8 @@
 
   <!-- EN: apply {0} -->
   <ApplyTechprint>TODO</ApplyTechprint>
+
+  <!-- EN: Too dangerous -->
+  <EnterCooldownBlocksEntering>TODO</EnterCooldownBlocksEntering>
   
 </LanguageData>

@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: architect -->
-  <Architect.label>Architekt</Architect.label>
+  <Architect.label>TODO</Architect.label>
   <!-- EN: General-use controls for the architect mode menu. -->
-  <Architect.description>Allgemeingültige Tasten für das ARCHITEKT Menü.</Architect.description>
+  <Architect.description>TODO</Architect.description>
   
   <!-- EN: developer tools -->
-  <Development.label>Entwicklung</Development.label>
+  <Development.label>TODO</Development.label>
   <!-- EN: Controls for developers and modders. Active in development mode only. -->
-  <Development.description>Tasten für Entwickler und Modder. Nur im Entwicklungsmodus aktiv.</Development.description>
+  <Development.description>TODO</Development.description>
   
   <!-- EN: in-game global -->
-  <Game.label>Globale Befehle (In-Game)</Game.label>
+  <Game.label>TODO</Game.label>
   <!-- EN: Colony mode controls that apply in most situations. -->
-  <Game.description>Koloniesteuerungsbefehle, die fast immer aktiv sind.</Game.description>
+  <Game.description>TODO</Game.description>
   
   <!-- EN: camera -->
-  <GameMapCamera.label>Kamerasteuerung</GameMapCamera.label>
+  <GameMapCamera.label>TODO</GameMapCamera.label>
   <!-- EN: Controls for the camera. -->
-  <GameMapCamera.description>Die Steuerung der Kamera.</GameMapCamera.description>
+  <GameMapCamera.description>TODO</GameMapCamera.description>
   
   <!-- EN: main tabs -->
   <MainTabs.label>TODO</MainTabs.label>
@@ -32,13 +32,13 @@
   <Modifiers.description>TODO</Modifiers.description>
   
   <!-- EN: misc -->
-  <SelectionMisc.label>Verschiedenes</SelectionMisc.label>
+  <SelectionMisc.label>TODO</SelectionMisc.label>
   <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
-  <SelectionMisc.description>Generische Tasten, die von vielen Gegenständen und Objekten im Spiel verwendet werden.</SelectionMisc.description>
+  <SelectionMisc.description>TODO</SelectionMisc.description>
   
   <!-- EN: special -->
-  <SelectionSpecial.label>Spezielle Tasten</SelectionSpecial.label>
+  <SelectionSpecial.label>TODO</SelectionSpecial.label>
   <!-- EN: Special controls reserved for specific functions on specific objects. -->
-  <SelectionSpecial.description>Spezielle Tasten, die speziellen Funktionen an definierten Objekten dienen.</SelectionSpecial.description>
+  <SelectionSpecial.description>TODO</SelectionSpecial.description>
   
 </LanguageData>

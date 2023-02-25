@@ -2,16 +2,16 @@
 <LanguageData>
 
   <!-- EN: Time -->
-  <ClockTime>Ora</ClockTime>
+  <ClockTime>TODO</ClockTime>
   <!-- EN: Date -->
-  <ClockDate>Dată</ClockDate>
+  <ClockDate>TODO</ClockDate>
   <!-- EN: Year -->
-  <ClockYear>An</ClockYear>
+  <ClockYear>TODO</ClockYear>
   <!-- EN: Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5} -->
-  <DateReadoutTip>Zile au trecut de când ați ajuns aici: {0}\nSunt {1} de zile în fiecare lună.\nAnotimpul actual: {2}</DateReadoutTip>
+  <DateReadoutTip>TODO</DateReadoutTip>
 
   <!-- EN: {0} of {1}, {2} -->
-  <FullDate>{0} {1}, anul {2}</FullDate>
+  <FullDate>TODO</FullDate>
   <!-- EN: {0} {1} {2} -->
   <ShortDate>TODO</ShortDate>
   <!-- EN: {0} of {1}, {2} -->

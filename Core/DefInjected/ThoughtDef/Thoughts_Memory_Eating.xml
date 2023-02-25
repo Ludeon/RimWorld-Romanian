@@ -12,29 +12,29 @@
   <AteCorpse.stages.ate_corpse.description>TODO</AteCorpse.stages.ate_corpse.description>
   
   <!-- EN: ate fine meal -->
-  <AteFineMeal.stages.ate_fine_meal.label>Hat eine leckere Mahlzeit gegessen</AteFineMeal.stages.ate_fine_meal.label>
+  <AteFineMeal.stages.ate_fine_meal.label>TODO</AteFineMeal.stages.ate_fine_meal.label>
   <!-- EN: I ate a really tasty fine meal. Yum! -->
-  <AteFineMeal.stages.ate_fine_meal.description>Ich habe ein leckere Mahlzeit gegessen. Mmm, Yummy!</AteFineMeal.stages.ate_fine_meal.description>
+  <AteFineMeal.stages.ate_fine_meal.description>TODO</AteFineMeal.stages.ate_fine_meal.description>
   
   <!-- EN: cooked cannibalism -->
-  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>Kannibalismus (gekocht)</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>
+  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>TODO</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>
   <!-- EN: I ate a meal made from the meat of another human. This is horrible. -->
-  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>Ich habe eine Mahlzeit mit Menschenfleisch als Zutat gegessen. Das ist so furchtbar.</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>
+  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>TODO</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>
   
   <!-- EN: cooked cannibalism -->
-  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>Kannibalismus (gekocht)</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>
+  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>TODO</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>
   <!-- EN: I ate a meal made from the meat of another human. So pleasurable. If only I had some fava beans and a nice chianti. -->
-  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>Ich habe eine ein Essen aus Menschenfleisch gegessen. Soo lecker. Wenn ich doch nur ein paar dicke Bohnen und einen leckeren Chianti dazu hätte.</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>
+  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>TODO</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>
   
   <!-- EN: raw cannibalism -->
-  <AteHumanlikeMeatDirect.stages.raw_cannibalism.label>Kannibalismus (roh)</AteHumanlikeMeatDirect.stages.raw_cannibalism.label>
+  <AteHumanlikeMeatDirect.stages.raw_cannibalism.label>TODO</AteHumanlikeMeatDirect.stages.raw_cannibalism.label>
   <!-- EN: I ate the meat of another human, raw, like an animal. This is a nightmare. -->
-  <AteHumanlikeMeatDirect.stages.raw_cannibalism.description>Ich habe das Fleisch eines anderen Menschen gegessen, roh, wie ein Tier. Das ist ein Alptraum.</AteHumanlikeMeatDirect.stages.raw_cannibalism.description>
+  <AteHumanlikeMeatDirect.stages.raw_cannibalism.description>TODO</AteHumanlikeMeatDirect.stages.raw_cannibalism.description>
   
   <!-- EN: raw cannibalism -->
-  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>Kannibalismus (roh)</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>
+  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>TODO</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>
   <!-- EN: I ate the meat of another human, raw, like an animal. It was so... succulent. -->
-  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>Ich habe das Fleisch eines anderen Menschen gegessen, roh, wie ein Tier. Es war so... saftig.</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>
+  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>TODO</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>
   
   <!-- EN: ate cooked insect meat -->
   <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>TODO</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>
@@ -52,14 +52,14 @@
   <AteKibble.stages.ate_kibble.description>TODO</AteKibble.stages.ate_kibble.description>
   
   <!-- EN: ate lavish meal -->
-  <AteLavishMeal.stages.ate_lavish_meal.label>Hat eine üppige Mahlzeit gegessen</AteLavishMeal.stages.ate_lavish_meal.label>
+  <AteLavishMeal.stages.ate_lavish_meal.label>TODO</AteLavishMeal.stages.ate_lavish_meal.label>
   <!-- EN: That lavish meal was amazing. It nourished my body and my soul. -->
-  <AteLavishMeal.stages.ate_lavish_meal.description>Diese Mahlzeit war sehr üppig und so lecker. Sie nährt meinen Körper und meine Seele.</AteLavishMeal.stages.ate_lavish_meal.description>
+  <AteLavishMeal.stages.ate_lavish_meal.description>TODO</AteLavishMeal.stages.ate_lavish_meal.description>
   
   <!-- EN: ate raw food -->
-  <AteRawFood.stages.ate_raw_food.label>Hat rohe Nahrung gegessen</AteRawFood.stages.ate_raw_food.label>
+  <AteRawFood.stages.ate_raw_food.label>TODO</AteRawFood.stages.ate_raw_food.label>
   <!-- EN: I had to eat raw food. We should be cooking that kind of food before eating it. We're not animals. -->
-  <AteRawFood.stages.ate_raw_food.description>Ich musste rohe Nahrung essen. Können wir sie nicht kochen oder zumindest zu Nährstoffpaste verarbeiten?</AteRawFood.stages.ate_raw_food.description>
+  <AteRawFood.stages.ate_raw_food.description>TODO</AteRawFood.stages.ate_raw_food.description>
   
   <!-- EN: ate rotten food -->
   <AteRottenFood.stages.ate_rotten_food.label>TODO</AteRottenFood.stages.ate_rotten_food.label>

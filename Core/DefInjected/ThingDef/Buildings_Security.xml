@@ -7,9 +7,9 @@
   <Barricade.description>TODO</Barricade.description>
   
   <!-- EN: sandbags -->
-  <Sandbags.label>Sandsäcke</Sandbags.label>
+  <Sandbags.label>TODO</Sandbags.label>
   <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
-  <Sandbags.description>Gibt Deckung bei Beschuss.</Sandbags.description>
+  <Sandbags.description>TODO</Sandbags.description>
   
   <!-- EN: IED antigrain warhead trap -->
   <TrapIED_AntigrainWarhead.label>TODO</TrapIED_AntigrainWarhead.label>
@@ -27,14 +27,14 @@
   <TrapIED_Firefoam.description>TODO</TrapIED_Firefoam.description>
   
   <!-- EN: IED trap -->
-  <TrapIED_HighExplosive.label>Improv. Sprengsatz</TrapIED_HighExplosive.label>
+  <TrapIED_HighExplosive.label>TODO</TrapIED_HighExplosive.label>
   <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_HighExplosive.description>Ein Artilleriegeschoss mit einem selbstgebauten Auslöser. Wenn jemand den Auslöser betätigt explodiert das Geschoss. Der selbstgebaute Trigger hat eine zufällige Verzögerung, die es flinken Gegnern evtl. erlaubt zu entkommen.</TrapIED_HighExplosive.description>
+  <TrapIED_HighExplosive.description>TODO</TrapIED_HighExplosive.description>
   
   <!-- EN: IED incendiary trap -->
-  <TrapIED_Incendiary.label>Improv. Brandbombe</TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.label>TODO</TrapIED_Incendiary.label>
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Incendiary.description>Ein Explosivstoff wurde mit einer Brandbeschleunigerpaste vermischt und mit einem chemischen Auslöser verbunden. Wenn jemand den Auslöser betätigt, zündet das Gemisch und versprengt brennenden Treibstoff. Da es nicht notwenig ist etwas Hochexplosives zu zünden, ist der chemische Auslöser einfacher und zuverlässiger als manch anderer.</TrapIED_Incendiary.description>
+  <TrapIED_Incendiary.description>TODO</TrapIED_Incendiary.description>
   
   <!-- EN: IED Smoke trap -->
   <TrapIED_Smoke.label>TODO</TrapIED_Smoke.label>
@@ -42,8 +42,8 @@
   <TrapIED_Smoke.description>TODO</TrapIED_Smoke.description>
   
   <!-- EN: spike trap -->
-  <TrapSpike.label>Gewicht Falle</TrapSpike.label>
+  <TrapSpike.label>TODO</TrapSpike.label>
   <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapSpike.description>Ein frei hängendes, mit Stacheln versehendes Gewicht, das durch einen empfindlichen Auslöser gesichert ist. Wenn das Opfer den Auslöser berührt, wird das Gewicht gelöst und fällt auf den Kopf oder Körper des Opfers.</TrapSpike.description>
+  <TrapSpike.description>TODO</TrapSpike.description>
   
 </LanguageData>

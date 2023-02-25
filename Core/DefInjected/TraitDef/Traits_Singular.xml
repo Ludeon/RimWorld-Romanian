@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: abrasive -->
-  <Abrasive.degreeDatas.abrasive.label>Aggressiv</Abrasive.degreeDatas.abrasive.label>
+  <Abrasive.degreeDatas.abrasive.label>TODO</Abrasive.degreeDatas.abrasive.label>
   <!-- EN: {PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way. -->
-  <Abrasive.degreeDatas.abrasive.description>[PAWN_nameDef] sagt immer genau das, was [PAWN_pronoun] denkt, besonders dann, wenn [PAWN_pronoun] selbst davon betroffen ist. [PAWN_possessive]e Art tendiert allerdings dazu die Leute ständig zu verärgern.</Abrasive.degreeDatas.abrasive.description>
+  <Abrasive.degreeDatas.abrasive.description>TODO</Abrasive.degreeDatas.abrasive.description>
   
   <!-- EN: annoying voice -->
   <AnnoyingVoice.degreeDatas.annoying_voice.label>TODO</AnnoyingVoice.degreeDatas.annoying_voice.label>
@@ -27,28 +27,24 @@
   <Bisexual.degreeDatas.bisexual.description>TODO</Bisexual.degreeDatas.bisexual.description>
   
   <!-- EN: bloodlust -->
-  <Bloodlust.degreeDatas.bloodlust.label>Blutrünstig</Bloodlust.degreeDatas.bloodlust.label>
+  <Bloodlust.degreeDatas.bloodlust.label>TODO</Bloodlust.degreeDatas.bloodlust.label>
   <!-- EN: {PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others. -->
-  <Bloodlust.degreeDatas.bloodlust.description>[PAWN_nameDef] bekommt einen Kick, wenn [PAWN_pronoun] jemanden verletzt. Außerdem stört [PAWN_pronoun] sich nicht am Anblick von Blut und Tod.</Bloodlust.degreeDatas.bloodlust.description>
+  <Bloodlust.degreeDatas.bloodlust.description>TODO</Bloodlust.degreeDatas.bloodlust.description>
   
   <!-- EN: body purist -->
-  <BodyPurist.degreeDatas.body_purist.label>Prothesenphobie</BodyPurist.degreeDatas.body_purist.label>
+  <BodyPurist.degreeDatas.body_purist.label>TODO</BodyPurist.degreeDatas.body_purist.label>
   <!-- EN: {PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting. -->
-  <BodyPurist.degreeDatas.body_purist.description>[PAWN_nameDef] ist der Meinung, dass der menschliche Körper aus gutem Grund limitiert ist. [PAWN_pronoun] findet bionische Körperteile unethisch.</BodyPurist.degreeDatas.body_purist.description>
+  <BodyPurist.degreeDatas.body_purist.description>TODO</BodyPurist.degreeDatas.body_purist.description>
   
   <!-- EN: brawler -->
-  <Brawler.degreeDatas.brawler.label>Raufbold</Brawler.degreeDatas.brawler.label>
+  <Brawler.degreeDatas.brawler.label>TODO</Brawler.degreeDatas.brawler.label>
   <!-- EN: {PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon. -->
-  <Brawler.degreeDatas.brawler.description>[PAWN_nameDef] liebt es, wenn Kämpfe nah und persönlich sind. [PAWN_possessive]e Genauigkeit im Nahkampf ist unvergleichlich, aber [PAWN_pronoun] wird sehr unglücklich, wenn [PAWN_pronoun] eine Fernwaffe tragen soll.</Brawler.degreeDatas.brawler.description>
+  <Brawler.degreeDatas.brawler.description>TODO</Brawler.degreeDatas.brawler.description>
   
   <!-- EN: cannibal -->
-  <Cannibal.degreeDatas.cannibal.label>Kanibale</Cannibal.degreeDatas.cannibal.label>
+  <Cannibal.degreeDatas.cannibal.label>TODO</Cannibal.degreeDatas.cannibal.label>
   <!-- EN: {PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it. -->
-  <Cannibal.degreeDatas.cannibal.description>[PAWN_nameDef] wurde beigebracht, dass das Essen von Menschenfleisch schrecklich und falsch ist. Trotzdem hat [PAWN_pronoun] es einmal versucht... und es hat [PAWN_objective] geschmeckt.</Cannibal.degreeDatas.cannibal.description>
-  
-  <!-- UNUSED -->
-  <CarefulShooter.degreeDatas.0.label>Sorgfältiger Schütze</CarefulShooter.degreeDatas.0.label>
-  <CarefulShooter.degreeDatas.0.description>[PAWN_nameDef] ist ein recht guter Schütze, aber [PAWN_pronoun] braucht länger um [PAWN_possessive] Ziel anzuvisieren.</CarefulShooter.degreeDatas.0.description>
+  <Cannibal.degreeDatas.cannibal.description>TODO</Cannibal.degreeDatas.cannibal.description>
   
   <!-- EN: creepy breathing -->
   <CreepyBreathing.degreeDatas.creepy_breathing.label>TODO</CreepyBreathing.degreeDatas.creepy_breathing.label>
@@ -90,10 +86,6 @@
   <!-- EN: {PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants. -->
   <Greedy.degreeDatas.greedy.description>TODO</Greedy.degreeDatas.greedy.description>
   
-  <!-- UNUSED -->
-  <GreenThumb.degreeDatas.0.label>Grüner Daumen</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>[PAWN_nameDef] ist ein passionierter Pflanzenliebhaber. [PAWN_pronoun] bekommt bessere Laune bei jeder Pflanze die [PAWN_pronoun] anpflanzt.</GreenThumb.degreeDatas.0.description>
-  
   <!-- EN: jealous -->
   <Jealous.degreeDatas.jealous.label>TODO</Jealous.degreeDatas.jealous.label>
   <!-- EN: For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom. -->
@@ -105,9 +97,9 @@
   <Kind.degreeDatas.kind.description>TODO</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
-  <Masochist.degreeDatas.masochist.label>Masochist</Masochist.degreeDatas.masochist.label>
+  <Masochist.degreeDatas.masochist.label>TODO</Masochist.degreeDatas.masochist.label>
   <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
-  <Masochist.degreeDatas.masochist.description>Für [PAWN_nameDef] ist Schmerz empfinden etwas Verbotenes und gleichzeitig Erregendes. [PAWN_pronoun] weiß nicht warum, aber [PAWN_pronoun] ist halt einfach anders verdrahtet.</Masochist.degreeDatas.masochist.description>
+  <Masochist.degreeDatas.masochist.description>TODO</Masochist.degreeDatas.masochist.description>
   
   <!-- EN: night owl -->
   <NightOwl.degreeDatas.night_owl.label>TODO</NightOwl.degreeDatas.night_owl.label>
@@ -120,14 +112,14 @@
   <Nimble.degreeDatas.nimble.description>TODO</Nimble.degreeDatas.nimble.description>
   
   <!-- EN: nudist -->
-  <Nudist.degreeDatas.nudist.label>Nudist</Nudist.degreeDatas.nudist.label>
+  <Nudist.degreeDatas.nudist.label>TODO</Nudist.degreeDatas.nudist.label>
   <!-- EN: {PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it. -->
-  <Nudist.degreeDatas.nudist.description>[PAWN_nameDef] genießt das Gefühl der Freiheit, das er hat, wenn er unbekleidet ist. [PAWN_pronoun] kann Kleidung tragen, aber ohne ist [PAWN_pronoun] glücklicher.</Nudist.degreeDatas.nudist.description>
+  <Nudist.degreeDatas.nudist.description>TODO</Nudist.degreeDatas.nudist.description>
   
   <!-- EN: psychopath -->
-  <Psychopath.degreeDatas.psychopath.label>Psychopath</Psychopath.degreeDatas.psychopath.label>
+  <Psychopath.degreeDatas.psychopath.label>TODO</Psychopath.degreeDatas.psychopath.label>
   <!-- EN: {PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing. -->
-  <Psychopath.degreeDatas.psychopath.description>[PAWN_nameDef] kann nichts für andere empfinden. [PAWN_pronoun] stört sich nicht im geringsten am Leiden anderer. [PAWN_pronoun] findet auch nichts dabei, wenn andere geschlachtet werden, unbegraben in der Gegend herum liegen, gefangen sind oder in die Sklaverei verkauft werden - Außer [PAWN_pronoun] ist betroffen. [PAWN_pronoun] erhält auch keinerlei Stimmungsboost von Gesprächen mit anderen.</Psychopath.degreeDatas.psychopath.description>
+  <Psychopath.degreeDatas.psychopath.description>TODO</Psychopath.degreeDatas.psychopath.description>
   
   <!-- EN: pyromaniac -->
   <Pyromaniac.degreeDatas.pyromaniac.label>TODO</Pyromaniac.degreeDatas.pyromaniac.label>
@@ -145,9 +137,9 @@
   <SlowLearner.degreeDatas.slow_learner.description>TODO</SlowLearner.degreeDatas.slow_learner.description>
   
   <!-- EN: too smart -->
-  <TooSmart.degreeDatas.too_smart.label>Zu Klug</TooSmart.degreeDatas.too_smart.label>
+  <TooSmart.degreeDatas.too_smart.label>TODO</TooSmart.degreeDatas.too_smart.label>
   <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
-  <TooSmart.degreeDatas.too_smart.description>[PAWN_nameDef] ist zu intelligent für andere. [PAWN_pronoun] lernt wesentlich schneller als andere, kann aber auch ziemlich egozentrisch sein.</TooSmart.degreeDatas.too_smart.description>
+  <TooSmart.degreeDatas.too_smart.description>TODO</TooSmart.degreeDatas.too_smart.description>
   
   <!-- EN: tortured artist -->
   <TorturedArtist.degreeDatas.tortured_artist.label>TODO</TorturedArtist.degreeDatas.tortured_artist.label>
@@ -162,13 +154,9 @@
   <Tough.degreeDatas.tough.description>TODO</Tough.degreeDatas.tough.description>
   
   <!-- EN: transhumanist -->
-  <Transhumanist.degreeDatas.transhumanist.label>Prothesenbegeistert</Transhumanist.degreeDatas.transhumanist.label>
+  <Transhumanist.degreeDatas.transhumanist.label>TODO</Transhumanist.degreeDatas.transhumanist.label>
   <!-- EN: {PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts. -->
-  <Transhumanist.degreeDatas.transhumanist.description>[PAWN_nameDef] fühlt sich begrenzt in [PAWN_possessive]em zerbrechlichen menschlichen Körper. [PAWN_pronoun] träumt oft davon [PAWN_possessive]e natürlichen gegen bionische Körperteile auszutauschen.</Transhumanist.degreeDatas.transhumanist.description>
-  
-  <!-- UNUSED -->
-  <TriggerHappy.degreeDatas.0.label>Schiesswütig</TriggerHappy.degreeDatas.0.label>
-  <TriggerHappy.degreeDatas.0.description>Peng! Peng! Peng! [PAWN_nameDef] ist ein entsetzlicher Schütze, aber das fällt [PAWN_objective] nicht auf, weil.. Waffen sind einfach fantastisch!</TriggerHappy.degreeDatas.0.description>
+  <Transhumanist.degreeDatas.transhumanist.description>TODO</Transhumanist.degreeDatas.transhumanist.description>
   
   <!-- EN: undergrounder -->
   <Undergrounder.degreeDatas.undergrounder.label>TODO</Undergrounder.degreeDatas.undergrounder.label>

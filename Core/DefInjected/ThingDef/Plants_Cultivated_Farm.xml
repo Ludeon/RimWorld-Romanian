@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: corn plant -->
-  <Plant_Corn.label>Maispflanze</Plant_Corn.label>
+  <Plant_Corn.label>TODO</Plant_Corn.label>
   <!-- EN: A tall grain plant which produces ears of soft, edible seeds. While corn takes a long time to grow, it yields lots of food compared to other crops. Harvested corn takes a long time to spoil. -->
-  <Plant_Corn.description>Eine große Körnerpflanze, die leckere gelbe Samen produziert. Hat eine vergleichsweise lange Wachstumsdauer, wirft dafür aber sehr viel Nahrung ab, die lange haltbar ist und auch roh gegessen werden kann. Benötigt nährstoffreichen Boden um gut zu wachsen.</Plant_Corn.description>
+  <Plant_Corn.description>TODO</Plant_Corn.description>
   
   <!-- EN: cotton plant -->
-  <Plant_Cotton.label>Baumwollpflanze</Plant_Cotton.label>
+  <Plant_Cotton.label>TODO</Plant_Cotton.label>
   <!-- EN: A mid-size crop that yields fine white cotton fibers. These are used to make cloth. -->
-  <Plant_Cotton.description>Hier wächst Baumwolle. Eine gute Pflanzenfaser, aus der man Kleidung herstellen kann.</Plant_Cotton.description>
+  <Plant_Cotton.description>TODO</Plant_Cotton.description>
   
   <!-- EN: devilstrand -->
-  <Plant_Devilstrand.label>Teufelsgarnpilz</Plant_Devilstrand.label>
+  <Plant_Devilstrand.label>TODO</Plant_Devilstrand.label>
   <!-- EN: This fragile mushroom was genetically engineered to produce a silk net that is both difficult to tear and soft to the touch. While the mushroom takes a very long time to grow, only exotic ultra-tech fabrics outperform its devilstrand fibers.\n\nSome say it's called devilstrand because of its red color. Others think it owes its name to the greed it inspires in people. -->
-  <Plant_Devilstrand.description>Dieser empfindliche Pilz wurde genetisch modifiziert, um feinste Seidennetze herzustellen. Lange Zeit wurden ihm mystische Eigenschaften nachgesagt, aber sein Name kommt von dem Neid, den er in den Menschen weckt.</Plant_Devilstrand.description>
+  <Plant_Devilstrand.description>TODO</Plant_Devilstrand.description>
   
   <!-- EN: haygrass -->
   <Plant_Haygrass.label>TODO</Plant_Haygrass.label>
@@ -27,14 +27,14 @@
   <Plant_Healroot.description>TODO</Plant_Healroot.description>
   
   <!-- EN: hop plant -->
-  <Plant_Hops.label>Hopfenpflanze</Plant_Hops.label>
+  <Plant_Hops.label>TODO</Plant_Hops.label>
   <!-- EN: A flowering crop that yields hops, an essential ingredient in beer. -->
-  <Plant_Hops.description>Eine blühende Pflanze, die Hopfen hervorbringt, eine Grundzutat für Bier.</Plant_Hops.description>
+  <Plant_Hops.description>TODO</Plant_Hops.description>
   
   <!-- EN: potato plant -->
-  <Plant_Potato.label>Kartoffeln</Plant_Potato.label>
+  <Plant_Potato.label>TODO</Plant_Potato.label>
   <!-- EN: A highly nutritious tuber. Potatoes grow well even in somewhat poor soil, and form a delicious crispy outer coating when fried in oil. -->
-  <Plant_Potato.description>Eine einfache, sehr nahrhafte Knolle. Wächst auch in relativ nährstoffarmem Böden.</Plant_Potato.description>
+  <Plant_Potato.description>TODO</Plant_Potato.description>
   
   <!-- EN: psychoid plant -->
   <Plant_Psychoid.label>TODO</Plant_Psychoid.label>
@@ -42,9 +42,9 @@
   <Plant_Psychoid.description>TODO</Plant_Psychoid.description>
   
   <!-- EN: rice plant -->
-  <Plant_Rice.label>Reispflanze</Plant_Rice.label>
+  <Plant_Rice.label>TODO</Plant_Rice.label>
   <!-- EN: A short, fast-growing crop that yields small edible grains. Its great nutritional ouput and ease of cultivation has made it the economic core of many great civilizations. While rice grows quickly, it is sensitive to soil fertility and will not fare well in poor soil. -->
-  <Plant_Rice.description>Eine kleine Körnerpflanze, die in nährstoffreichem Boden schnell Nahrung produziert. Ungekochter Reis schmeckt allerdings nicht sehr gut.</Plant_Rice.description>
+  <Plant_Rice.description>TODO</Plant_Rice.description>
   
   <!-- EN: smokeleaf plant -->
   <Plant_Smokeleaf.label>TODO</Plant_Smokeleaf.label>
@@ -52,9 +52,9 @@
   <Plant_Smokeleaf.description>TODO</Plant_Smokeleaf.description>
   
   <!-- EN: strawberry plant -->
-  <Plant_Strawberry.label>Erdbeerpflanze</Plant_Strawberry.label>
+  <Plant_Strawberry.label>TODO</Plant_Strawberry.label>
   <!-- EN: A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw. -->
-  <Plant_Strawberry.description>Eine empfindliche, aber geschmackvolle Frucht. Selbst roh schmeckt sie sehr gut.</Plant_Strawberry.description>
+  <Plant_Strawberry.description>TODO</Plant_Strawberry.description>
   
   <!-- EN: cocoa tree -->
   <Plant_TreeCocoa.label>TODO</Plant_TreeCocoa.label>

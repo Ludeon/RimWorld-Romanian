@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: building snowman. -->
-  <BuildSnowman.reportString>Baut Schneemann.</BuildSnowman.reportString>
+  <BuildSnowman.reportString>TODO</BuildSnowman.reportString>
   
   <!-- EN: going for a walk. -->
-  <GoForWalk.reportString>Geht spazieren.</GoForWalk.reportString>
+  <GoForWalk.reportString>TODO</GoForWalk.reportString>
   
   <!-- EN: meditating. -->
-  <Meditate.reportString>Meditiert.</Meditate.reportString>
+  <Meditate.reportString>TODO</Meditate.reportString>
   
   <!-- EN: playing billiards. -->
-  <Play_Billiards.reportString>Spielt Billiard.</Play_Billiards.reportString>
+  <Play_Billiards.reportString>TODO</Play_Billiards.reportString>
   
   <!-- EN: playing chess. -->
-  <Play_Chess.reportString>Spielt Schach.</Play_Chess.reportString>
+  <Play_Chess.reportString>TODO</Play_Chess.reportString>
   
   <!-- EN: playing the game of Ur. -->
   <Play_GameOfUr.reportString>TODO</Play_GameOfUr.reportString>
@@ -23,22 +23,22 @@
   <Play_Hoopstone.reportString>TODO</Play_Hoopstone.reportString>
   
   <!-- EN: playing horseshoes. -->
-  <Play_Horseshoes.reportString>Spielt Hufeisenwerfen.</Play_Horseshoes.reportString>
+  <Play_Horseshoes.reportString>TODO</Play_Horseshoes.reportString>
   
   <!-- EN: playing poker. -->
   <Play_Poker.reportString>TODO</Play_Poker.reportString>
   
   <!-- EN: praying. -->
-  <Pray.reportString>Betet.</Pray.reportString>
+  <Pray.reportString>TODO</Pray.reportString>
   
   <!-- EN: skygazing. -->
-  <Skygaze.reportString>Beobachtet Himmel.</Skygaze.reportString>
+  <Skygaze.reportString>TODO</Skygaze.reportString>
   
   <!-- EN: relaxing socially. -->
-  <SocialRelax.reportString>Entspannt mit anderen.</SocialRelax.reportString>
+  <SocialRelax.reportString>TODO</SocialRelax.reportString>
   
   <!-- EN: using telescope. -->
-  <UseTelescope.reportString>Benutzt Teleskop.</UseTelescope.reportString>
+  <UseTelescope.reportString>TODO</UseTelescope.reportString>
   
   <!-- EN: viewing art. -->
   <ViewArt.reportString>TODO</ViewArt.reportString>
@@ -50,6 +50,6 @@
   <VisitSickPawn.reportString>TODO</VisitSickPawn.reportString>
   
   <!-- EN: watching television. -->
-  <WatchTelevision.reportString>Schaut Film.</WatchTelevision.reportString>
+  <WatchTelevision.reportString>TODO</WatchTelevision.reportString>
   
 </LanguageData>

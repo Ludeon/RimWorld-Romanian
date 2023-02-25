@@ -23,18 +23,18 @@
   <InstallPainstopper.jobString>TODO</InstallPainstopper.jobString>
   
   <!-- EN: install power claw -->
-  <InstallPowerClaw.label>Implantiere Power-Klaue</InstallPowerClaw.label>
+  <InstallPowerClaw.label>TODO</InstallPowerClaw.label>
   <!-- EN: Install a power claw. -->
-  <InstallPowerClaw.description>Implantiere eine Power-Klaue.</InstallPowerClaw.description>
+  <InstallPowerClaw.description>TODO</InstallPowerClaw.description>
   <!-- EN: Installing power claw. -->
-  <InstallPowerClaw.jobString>Implantiert Power-Klaue.</InstallPowerClaw.jobString>
+  <InstallPowerClaw.jobString>TODO</InstallPowerClaw.jobString>
   
   <!-- EN: install prosthetic arm -->
-  <InstallSimpleProstheticArm.label>Implantiere einfache Armprothese</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.label>TODO</InstallSimpleProstheticArm.label>
   <!-- EN: Install a prosthetic arm. -->
-  <InstallSimpleProstheticArm.description>Implantiere eine einfache Armprothese.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.description>TODO</InstallSimpleProstheticArm.description>
   <!-- EN: Installing prosthetic arm. -->
-  <InstallSimpleProstheticArm.jobString>Implantiert einfache Armprothese.</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticArm.jobString>TODO</InstallSimpleProstheticArm.jobString>
   
   <!-- EN: install prosthetic heart -->
   <InstallSimpleProstheticHeart.label>TODO</InstallSimpleProstheticHeart.label>
@@ -44,11 +44,11 @@
   <InstallSimpleProstheticHeart.jobString>TODO</InstallSimpleProstheticHeart.jobString>
   
   <!-- EN: install prosthetic leg -->
-  <InstallSimpleProstheticLeg.label>Implantiere einfache Beinprothese</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.label>TODO</InstallSimpleProstheticLeg.label>
   <!-- EN: Install a prosthetic leg. -->
-  <InstallSimpleProstheticLeg.description>Implantiere eine einfache Beinprothese.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.description>TODO</InstallSimpleProstheticLeg.description>
   <!-- EN: Installing prosthetic leg. -->
-  <InstallSimpleProstheticLeg.jobString>Implantiert einfache Beinprothese.</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticLeg.jobString>TODO</InstallSimpleProstheticLeg.jobString>
   
   <!-- EN: remove painstopper -->
   <RemovePainstopper.label>TODO</RemovePainstopper.label>

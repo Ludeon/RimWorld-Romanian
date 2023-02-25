@@ -3,37 +3,37 @@
 
   <!-- Glow -->
   <!-- EN: Dark -->
-  <Dark>Întunecat</Dark>
+  <Dark>TODO</Dark>
   <!-- EN: Lit -->
-  <Lit>Iluminat</Lit>
+  <Lit>TODO</Lit>
   <!-- EN: Brightly lit -->
-  <LitBrightly>Puternic Iluminat</LitBrightly>
+  <LitBrightly>TODO</LitBrightly>
 
   <!-- Price types -->
   <!-- EN: very cheap -->
-  <PriceTypeVeryCheap>foarte ieftin</PriceTypeVeryCheap>
+  <PriceTypeVeryCheap>TODO</PriceTypeVeryCheap>
   <!-- EN: cheap -->
-  <PriceTypeCheap>ieftin</PriceTypeCheap>
+  <PriceTypeCheap>TODO</PriceTypeCheap>
   <!-- EN: normal -->
-  <PriceTypeNormal>normal</PriceTypeNormal>
+  <PriceTypeNormal>TODO</PriceTypeNormal>
   <!-- EN: expensive -->
-  <PriceTypeExpensive>scump</PriceTypeExpensive>
+  <PriceTypeExpensive>TODO</PriceTypeExpensive>
   <!-- EN: exorbitant -->
-  <PriceTypeExorbitant>foarte scump</PriceTypeExorbitant>
+  <PriceTypeExorbitant>TODO</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
   <!-- EN: unstored -->
-  <StoragePriorityUnstored>Nestocat</StoragePriorityUnstored>
+  <StoragePriorityUnstored>TODO</StoragePriorityUnstored>
   <!-- EN: low -->
-  <StoragePriorityLow>Mică</StoragePriorityLow>
+  <StoragePriorityLow>TODO</StoragePriorityLow>
   <!-- EN: normal -->
-  <StoragePriorityNormal>Normală</StoragePriorityNormal>
+  <StoragePriorityNormal>TODO</StoragePriorityNormal>
   <!-- EN: preferred -->
-  <StoragePriorityPreferred>Preferat</StoragePriorityPreferred>
+  <StoragePriorityPreferred>TODO</StoragePriorityPreferred>
   <!-- EN: important -->
-  <StoragePriorityImportant>Important</StoragePriorityImportant>
+  <StoragePriorityImportant>TODO</StoragePriorityImportant>
   <!-- EN: critical -->
-  <StoragePriorityCritical>Critic</StoragePriorityCritical>
+  <StoragePriorityCritical>TODO</StoragePriorityCritical>
 
   <!-- Food type flags -->
   <!-- EN: vegetables -->
@@ -61,19 +61,19 @@
 
   <!-- Quality category -->
   <!-- EN: awful -->
-  <QualityCategory_Awful>oribil</QualityCategory_Awful>
+  <QualityCategory_Awful>TODO</QualityCategory_Awful>
   <!-- EN: poor -->
-  <QualityCategory_Poor>neîngrijit</QualityCategory_Poor>
+  <QualityCategory_Poor>TODO</QualityCategory_Poor>
   <!-- EN: normal -->
-  <QualityCategory_Normal>normal</QualityCategory_Normal>
+  <QualityCategory_Normal>TODO</QualityCategory_Normal>
   <!-- EN: good -->
-  <QualityCategory_Good>bun</QualityCategory_Good>
+  <QualityCategory_Good>TODO</QualityCategory_Good>
   <!-- EN: excellent -->
-  <QualityCategory_Excellent>excelent</QualityCategory_Excellent>
+  <QualityCategory_Excellent>TODO</QualityCategory_Excellent>
   <!-- EN: masterwork -->
-  <QualityCategory_Masterwork>capodoperă</QualityCategory_Masterwork>
+  <QualityCategory_Masterwork>TODO</QualityCategory_Masterwork>
   <!-- EN: legendary -->
-  <QualityCategory_Legendary>legendar</QualityCategory_Legendary>
+  <QualityCategory_Legendary>TODO</QualityCategory_Legendary>
   <!-- EN: awfl -->
   <QualityCategoryShort_Awful>TODO</QualityCategoryShort_Awful>
   <!-- EN: poor -->
@@ -312,4 +312,6 @@
   <ExtraFactionType_HomeFaction>TODO</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
   <ExtraFactionType_HostFaction>TODO</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>TODO</ExtraFactionType_MiniFaction>
 </LanguageData>

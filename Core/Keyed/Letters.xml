@@ -3,7 +3,7 @@
 
   <!-- Misc -->
   <!-- EN: Jump to location -->
-  <JumpToLocation>Arată locația!</JumpToLocation>
+  <JumpToLocation>TODO</JumpToLocation>
   <!-- EN: Postpone -->
   <PostponeLetter>TODO</PostponeLetter>
   <!-- EN: Reject -->
@@ -14,47 +14,58 @@
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>TODO</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nBuy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>Vara a început!\n\nTrebuie să te pregătești pentru iarnă deoarece culturile nu vor crește în frigul iernii. Strânge suficiente alimente pentru a supraviețui iernii.\n\nConstruiește o cameră frigorifică pentru a prezerva mâncarea.\n\nȘi obține câteva haine, fie că le furi sau faci, altminteri coloniștii vor îngheța de frig.</FirstSummerWarning>
+  <FirstSummerWarning>TODO</FirstSummerWarning>
 
-  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you.\n\nThey will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({1}) has fallen below {2}. In order to restore neutral relations, goodwill must reach {3} again. -->
-  <LetterRelationsChange_Hostile>TODO</LetterRelationsChange_Hostile>
-  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you.\n\nThis happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
+  <LetterRelationsChange_Hostile>TODO</LetterRelationsChange_Hostile>  
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription>TODO</LetterRelationsChange_HostileGoodwillDescription>  
+
+  <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
   <LetterRelationsChange_NeutralFromHostile>TODO</LetterRelationsChange_NeutralFromHostile>
-  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied.\n\nWhile they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>TODO</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
   <LetterRelationsChange_NeutralFromAlly>TODO</LetterRelationsChange_NeutralFromAlly>
-  <!-- EN: Relations with {0} have become very close. They now consider you an ally.\n\nAllies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({1}) has risen past {2}. If goodwill falls below {3}, relations will return to neutral. -->
+  <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>TODO</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  
+  <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
   <LetterRelationsChange_Ally>TODO</LetterRelationsChange_Ally>
+  <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
+  <LetterRelationsChange_AllyGoodwillDescription>TODO</LetterRelationsChange_AllyGoodwillDescription>
 
   <!-- EN: goodwill -->
   <goodwill>TODO</goodwill>
   <!-- EN: Neutral -->
-  <Neutral>Neutru</Neutral>
+  <Neutral>TODO</Neutral>
   <!-- EN: Death -->
   <Death>TODO</Death>
 
   <!-- EN: A {1_label} has short-circuited in the rain and started a fire. -->
-  <ShortCircuitRain>Un {0} a fost lăsat neprotejat și s-a produs un scurtcircuit, provocând un incendiu.</ShortCircuitRain>
+  <ShortCircuitRain>TODO</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
   <LetterLabelAreaRevealed>TODO</LetterLabelAreaRevealed>
   <!-- EN: A new area has been revealed. -->
-  <AreaRevealed>O nouă zonă a fost descoperită.</AreaRevealed>
+  <AreaRevealed>TODO</AreaRevealed>
   <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
   <AreaRevealedWithMechanoids>TODO</AreaRevealedWithMechanoids>
 
   <!-- EN: A roof has collapsed because it was too far from any support. -->
-  <RoofCollapsed>Tavanul s-a prăbușit pentru că era prea departe de un punct de sprijin.</RoofCollapsed>
+  <RoofCollapsed>TODO</RoofCollapsed>
   <!-- EN: These things were crushed: -->
-  <TheseThingsCrushed>Aceste lucruri au fost distruse:</TheseThingsCrushed>
+  <TheseThingsCrushed>TODO</TheseThingsCrushed>
   <!-- EN: Nothing was crushed. -->
-  <NothingCrushed>Nimic nu a fost distrus.</NothingCrushed>
+  <NothingCrushed>TODO</NothingCrushed>
   <!-- EN: Roof collapse -->
   <LetterLabelRoofCollapsed>TODO</LetterLabelRoofCollapsed>
 
   <!-- EN: {0} successfully recruited {1} ({2} chance). -->
-  <RecruitSuccess>{0} l-a recrutat cu succes pe {1} ({2} șansă).</RecruitSuccess>
+  <RecruitSuccess>TODO</RecruitSuccess>
   <!-- EN: {0} failed to recruit {1} ({2} chance). -->
-  <RecruitFail>{0} nu a reușit să îl recruteze pe {1} ({2} șansă).</RecruitFail>
+  <RecruitFail>TODO</RecruitFail>
 
   <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
   <RelatedPawnInvolvedInQuest>TODO</RelatedPawnInvolvedInQuest>
@@ -69,9 +80,9 @@
   <!-- EN: Disease -->
   <LetterLabelNewDisease>TODO</LetterLabelNewDisease>
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{0} s-a îmbolnăvit de la {1}.\n\nAsigură-te că există un pat medical și un doctor. Fii sigur că {0} primește îngrijiri medicale și stă cât este nevoie în pat.</NewDisease>
+  <NewDisease>TODO</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>Lui {0} i s-a infectat {1}.\n\nAsigură-te că există un pat medical și un doctor. Fii sigur că {0} primește îngrijiri medicale și stă cât este nevoie în pat.</NewPartDisease>
+  <NewPartDisease>TODO</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
   <NewDiseaseAnimal>TODO</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
@@ -118,13 +129,16 @@
 
   <!-- EN: {1} died: {0} -->
   <LetterLeadersDeathLabel>TODO</LetterLeadersDeathLabel>
-  <!-- EN: {OLDLEADER_nameFull}, {3} of {1}, has died.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
+  <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
   <LetterLeadersDeath>TODO</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
   <LetterLeaderChangedLabel>TODO</LetterLeaderChangedLabel>
-  <!-- EN: {OLDLEADER_nameFull} is no longer {3} of {1}.\n\nThe new {3} is {NEWLEADER_nameFull}. -->
+  <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
   <LetterLeaderChanged>TODO</LetterLeaderChanged>
+
+  <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
+  <LetterNewLeader>TODO</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>TODO</FinalStraw>
@@ -267,13 +281,15 @@
   <LetterLabelTransportPodsLandedInEnemyBase>TODO</LetterLabelTransportPodsLandedInEnemyBase>
   <!-- EN: Your transport pods have arrived at {0}. -->
   <LetterTransportPodsLandedInEnemyBase>TODO</LetterTransportPodsLandedInEnemyBase>
+  <!-- EN: The shuttle has arrived at {0}. -->
+  <LetterShuttleLandedInEnemyBase>TODO</LetterShuttleLandedInEnemyBase>
 
   <!-- Faction base defeated -->
   <!-- EN: Base destroyed -->
   <LetterLabelFactionBaseDefeated>TODO</LetterLabelFactionBaseDefeated>
-  <!-- EN: The enemy base {0} has been destroyed.\n\nIn {1}, the caravan will automatically be reformed. You can reform the caravan now in the World screen by selecting the destroyed base and choosing the "Reform caravan" option. -->
+  <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
   <LetterFactionBaseDefeated>TODO</LetterFactionBaseDefeated>
-  <!-- EN: This was the last base of {0}, which means this faction doesn't exist anymore. -->
+  <!-- EN: Since this was their last settlement, {0} has been defeated. -->
   <LetterFactionBaseDefeated_FactionDestroyed>TODO</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
@@ -385,7 +401,7 @@
   <!-- Caravans battlefield victory -->
   <!-- EN: Caravan battle won -->
   <LetterLabelCaravansBattlefieldVictory>TODO</LetterLabelCaravansBattlefieldVictory>
-  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, the caravan will be reformed automatically. -->
+  <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
   <LetterCaravansBattlefieldVictory>TODO</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
@@ -408,10 +424,22 @@
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
   <LetterTraitDisease>TODO</LetterTraitDisease>
 
+  <!-- Surgery -->
+  <!-- EN: Surgery failed on {PATIENT_labelShort} -->
+  <LetterLabelSurgeryFailed>TODO</LetterLabelSurgeryFailed>
+  <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureMinor>TODO</MessageMedicalOperationFailureMinor> <!-- NewTemp rename to LetterTextOperationFailureMinor globally-->
+  <!-- EN: {SURGEON_labelShort} has failed catastrophically while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureCatastrophic>TODO</MessageMedicalOperationFailureCatastrophic> <!-- NewTemp rename to LetterTextOperationFailureCatastrophic globally-->
+  <!-- EN: {SURGEON_labelShort} has failed in a ridiculous way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
+  <MessageMedicalOperationFailureRidiculous>TODO</MessageMedicalOperationFailureRidiculous> <!-- NewTemp rename to LetterTextOperationFailureRidiculous globally-->
+  <!-- EN: {SURGEON_labelShort} has committed a fatal error while operating on {PATIENT_labelShort} because of the special challenges of: {2}. -->
+  <MessageMedicalOperationFailureFatal>TODO</MessageMedicalOperationFailureFatal> <!-- NewTemp rename to LetterTextOperationFailureFatal globally-->
+
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
   <LetterQuestBecameAvailable>TODO</LetterQuestBecameAvailable>
-  <!-- EN: If you don’t accept the quest within {0}, it will expire. -->
+  <!-- EN: If you don't accept the quest within {0}, it will expire. -->
   <LetterQuestRequiresAcceptance>TODO</LetterQuestRequiresAcceptance>
   <!-- EN: A new quest has become active. It is called '{0}'. -->
   <LetterQuestBecameActive>TODO</LetterQuestBecameActive>
@@ -511,5 +539,10 @@
   <LetterLabelMechClusterArrived>TODO</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
   <LetterMechClusterArrived>TODO</LetterMechClusterArrived>
+
+  <!-- EN: Caravan detected -->
+  <LetterLabelSiteCountdownStarted>TODO</LetterLabelSiteCountdownStarted>
+  <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
+  <LetterTextSiteCountdownStarted>TODO</LetterTextSiteCountdownStarted>
 
 </LanguageData>

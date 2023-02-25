@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: beer brewing -->
-  <Brewing.label>Brauen</Brewing.label>
+  <Brewing.label>TODO</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
-  <Brewing.description>Schaltet die Brauerei frei. Angebauter Hopfen kann nun in leckeres Bier verwandeln werden.</Brewing.description>
+  <Brewing.description>TODO</Brewing.description>
   
   <!-- EN: carpet making -->
-  <CarpetMaking.label>Teppichherstellung</CarpetMaking.label>
+  <CarpetMaking.label>TODO</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
-  <CarpetMaking.description>Schaltet Teppiche frei. Hiermit kann die Umgebung der Kolonisten verschönert werden.</CarpetMaking.description>
+  <CarpetMaking.description>TODO</CarpetMaking.description>
   
   <!-- EN: cocoa -->
   <Cocoa.label>TODO</Cocoa.label>
@@ -92,9 +92,9 @@
   <Smithing.description>TODO</Smithing.description>
   
   <!-- EN: stonecutting -->
-  <Stonecutting.label>Steinhauerei</Stonecutting.label>
+  <Stonecutting.label>TODO</Stonecutting.label>
   <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
-  <Stonecutting.description>Schaltet den Arbeitstisch des Steinmetztes frei. Dies ermöglicht die Verarbeitung von Felsbrocken zu verwendbarem Baumaterial.</Stonecutting.description>
+  <Stonecutting.description>TODO</Stonecutting.description>
   
   <!-- EN: tree sowing -->
   <TreeSowing.label>TODO</TreeSowing.label>

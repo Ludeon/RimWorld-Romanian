@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: anything -->
-  <Anything.label>Alles</Anything.label>
+  <Anything.label>TODO</Anything.label>
   
   <!-- EN: recreation -->
-  <Joy.label>Freizeit</Joy.label>
+  <Joy.label>TODO</Joy.label>
   
   <!-- EN: sleep -->
-  <Sleep.label>Schlafen</Sleep.label>
+  <Sleep.label>TODO</Sleep.label>
   
   <!-- EN: work -->
-  <Work.label>Arbeiten</Work.label>
+  <Work.label>TODO</Work.label>
   
 </LanguageData>

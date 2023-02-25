@@ -1719,6 +1719,15 @@
     <desc>TODO</desc>
   </CultChild3>
   
+  <CuriousChild33>
+    <!-- EN: curious child -->
+    <title>TODO</title>
+    <!-- EN: curious -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] was more interested in the systems and patterns of the world rather than its inhabitants. [PAWN_possessive] social skills suffered.\n\n[PAWN_nameDef] came to understand that all things are part of the whole, and to destroy part would be to destroy all. -->
+    <desc>TODO</desc>
+  </CuriousChild33>
+  
   <DataDecoder39>
     <!-- EN: data decoder -->
     <title>TODO</title>
@@ -2839,14 +2848,14 @@
     <desc>TODO</desc>
   </HexCellArtist91>
   
-  <Hideaway9>
+  <Hideaway7>
     <!-- EN: hideaway -->
     <title>TODO</title>
     <!-- EN: hideaway -->
     <titleShort>TODO</titleShort>
-    <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though[PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
+    <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
     <desc>TODO</desc>
-  </Hideaway9>
+  </Hideaway7>
   
   <HighBaroness37>
     <!-- EN: high baroness -->
@@ -3800,6 +3809,15 @@
     <desc>TODO</desc>
   </Mercenary55>
   
+  <MercenaryCaptain98>
+    <!-- EN: Mercenary captain -->
+    <title>TODO</title>
+    <!-- EN: Captain -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_pronoun] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires. -->
+    <desc>TODO</desc>
+  </MercenaryCaptain98>
+  
   <MercenaryChef44>
     <!-- EN: mercenary chef -->
     <title>TODO</title>
@@ -4339,6 +4357,15 @@
     <!-- EN: Left alone in the world without parents, [PAWN_nameDef] did the best [PAWN_pronoun] could to adapt.\n\nHaving to take care both of [PAWN_objective]self and younger kids at the orphanage, [PAWN_pronoun] learned a lot about humans and how to interact with them. -->
     <desc>TODO</desc>
   </Orphan25>
+  
+  <OrphanedAcrobat84>
+    <!-- EN: Orphaned acrobat -->
+    <title>TODO</title>
+    <!-- EN: Acrobat -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: Born a quiet urbworld orphan, [PAWN_nameDef] was invited to join a traveling circus. [PAWN_possessive] small size and observant nature helped [PAWN_nameDef] become a noted acrobat.\n\nUnfortunately, [PAWN_possessive] violent tendencies brought [PAWN_possessive] acrobatic career to an early end. -->
+    <desc>TODO</desc>
+  </OrphanedAcrobat84>
   
   <OrphanOfWar60>
     <!-- EN: orphan of war -->
@@ -4967,14 +4994,14 @@
     <desc>TODO</desc>
   </ReconSniper89>
   
-  <Recruiter4>
+  <Recruiter14>
     <!-- EN: recruiter -->
     <title>TODO</title>
     <!-- EN: recruiter -->
     <titleShort>TODO</titleShort>
-    <!-- EN: [PAWN_nameDef] was part of an revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] travelled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
+    <!-- EN: [PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] travelled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
     <desc>TODO</desc>
-  </Recruiter4>
+  </Recruiter14>
   
   <ReEducatedYouth23>
     <!-- EN: re-educated youth -->
@@ -5038,6 +5065,15 @@
     <!-- EN: After leaving [PAWN_possessive] parents' vineyard, [PAWN_nameDef] traveled across much of known space, and learned many skills along the way.\n\n[PAWN_pronoun] spent most of [PAWN_possessive] time researching and interacting with reptile species. [PAWN_pronoun] was renowned for making several breakthroughs, and for discovering the "Thorny Devil". -->
     <desc>TODO</desc>
   </ReptileResearcher37>
+  
+  <Restorer70>
+    <!-- EN: restorer -->
+    <title>TODO</title>
+    <!-- EN: restorer -->
+    <titleShort>TODO</titleShort>
+    <!-- EN: [PAWN_nameDef] traveled the world, always looking for old and forgotten things to repair for the good of others, working to see the true beauty in all things. -->
+    <desc>TODO</desc>
+  </Restorer70>
   
   <RichBoy9>
     <!-- EN: rich boy -->

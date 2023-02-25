@@ -2,15 +2,17 @@
 <LanguageData>
 
   <!-- EN: Confirm -->
-  <Confirm>Confirmare</Confirm>
+  <Confirm>TODO</Confirm>
   <!-- EN: Go back -->
-  <GoBack>Înapoi</GoBack>
+  <GoBack>TODO</GoBack>
   <!-- EN: Do you want to continue? -->
   <WantToContinue>TODO</WantToContinue>
   <!-- EN: OK -->
-  <OK>OK</OK>
+  <OK>TODO</OK>
   <!-- EN: Close -->
   <Close>TODO</Close>
+  <!-- EN: Accept -->
+  <Accept>TODO</Accept>
   
   <!-- Game updated to new version -->
   <!-- EN: RimWorld has been updated from version {0} to version {1}. -->
@@ -84,21 +86,21 @@
   
   <!-- Save/load -->
   <!-- EN: Save -->
-  <SaveGameButton>Salvare</SaveGameButton>
+  <SaveGameButton>TODO</SaveGameButton>
   <!-- EN: Load -->
-  <LoadGameButton>Încărcare</LoadGameButton>
+  <LoadGameButton>TODO</LoadGameButton>
   <!-- EN: Overwrite -->
-  <OverwriteButton>Rescriere</OverwriteButton>
+  <OverwriteButton>TODO</OverwriteButton>
   <!-- EN: Really delete {0}? -->
-  <ConfirmDelete>Confirmă ștergerea {0}</ConfirmDelete>
+  <ConfirmDelete>TODO</ConfirmDelete>
   <!-- EN: Delete this savegame. -->
-  <DeleteThisSavegame>Șterge această salvare.</DeleteThisSavegame>
+  <DeleteThisSavegame>TODO</DeleteThisSavegame>
   <!-- EN: Saved as {0}. -->
-  <SavedAs>Salvat ca {0}.</SavedAs>
+  <SavedAs>TODO</SavedAs>
   <!-- EN: Please enter a name. -->
-  <NeedAName>Te rugăm introdu un nume.</NeedAName>
+  <NeedAName>TODO</NeedAName>
   <!-- EN: Loading -->
-  <LoadingLongEvent>Încărcare...</LoadingLongEvent>
+  <LoadingLongEvent>TODO</LoadingLongEvent>
   <!-- EN: Saving -->
   <SavingLongEvent>TODO</SavingLongEvent>
   <!-- EN: (Permadeath) -->
@@ -156,11 +158,11 @@
   <!-- EN: Name is already in use. -->
   <NameIsInUse>TODO</NameIsInUse>
   <!-- EN: The zone is now called {0}. -->
-  <ZoneGainsName>Această zonă se numește acum {0}.</ZoneGainsName>
+  <ZoneGainsName>TODO</ZoneGainsName>
   
   <!-- Pawn naming -->
   <!-- EN: This person's nickname is now {0}. {PAWN_possessive} title is {PAWN_title}. -->
-  <PawnGainsName>Porecla colonistului este acum {0}.</PawnGainsName>
+  <PawnGainsName>TODO</PawnGainsName>
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>TODO</AnimalGainsName>
 
@@ -168,7 +170,7 @@
   <!-- EN: Version mismatch -->
   <VersionMismatch>TODO</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>Versiuni diferite: Salvarea a fost facută în versiunea {0}, pe când cea actuală este {1}.\n\n Încărcarea acestei salvări ar putea cauza bug-uri sau închiderea neașteptată a jocului.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>TODO</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
   <WorldFileVersionMismatch>TODO</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
@@ -180,11 +182,11 @@
 
   <!-- Resolution change dialog -->
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
-  <ConfirmResolutionChange>Ai schimbat setările ecranului. Sunt setările actuale cele dorite?\n\nRevenire automată la setările precedente în {0}...</ConfirmResolutionChange>
+  <ConfirmResolutionChange>TODO</ConfirmResolutionChange>
   <!-- EN: Keep -->
-  <ResolutionKeep>Păstrează</ResolutionKeep>
+  <ResolutionKeep>TODO</ResolutionKeep>
   <!-- EN: Revert -->
-  <ResolutionRevert>Anulează</ResolutionRevert>
+  <ResolutionRevert>TODO</ResolutionRevert>
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
@@ -192,21 +194,21 @@
   
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>Atenție: vei ateriza într-un mediu înghețat. Supraviețuirea poate fi foarte dificilă sau chiar imposibilă. Dacă nu îți dorești o provocare extremă, alege un alt loc sau o altă lună.</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>TODO</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>Atenție: calitatea jocului scade o dată cu dimensiunea regiunii. Dimensiunea Uriaș nu este testată și este foarte posibil să nu funcționeze corespunzător.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>TODO</MapSizePerformanceWarning>
   <!-- EN: Map size -->
-  <MapSize>Dimensiunea regiunii</MapSize>
+  <MapSize>TODO</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
-  <MapSizeDesc>{0}x{0} ({1} pătrate)</MapSizeDesc>
+  <MapSizeDesc>TODO</MapSizeDesc>
   <!-- EN: Small -->
-  <MapSizeSmall>Mică</MapSizeSmall>
+  <MapSizeSmall>TODO</MapSizeSmall>
   <!-- EN: Medium -->
-  <MapSizeMedium>Medie</MapSizeMedium>
+  <MapSizeMedium>TODO</MapSizeMedium>
   <!-- EN: Large -->
-  <MapSizeLarge>Mare</MapSizeLarge>
+  <MapSizeLarge>TODO</MapSizeLarge>
   <!-- EN: Extreme (test) -->
-  <MapSizeExtreme>Uriașă</MapSizeExtreme>
+  <MapSizeExtreme>TODO</MapSizeExtreme>
   <!-- EN: Starting season -->
   <MapStartSeason>TODO</MapStartSeason>
   <!-- EN: Auto -->
@@ -216,25 +218,25 @@
 
   <!-- Bill config -->
   <!-- EN: Suspended -->
-  <Suspended>Suspendat</Suspended>
+  <Suspended>TODO</Suspended>
   <!-- EN: Not suspended -->
-  <NotSuspended>Nesuspendat</NotSuspended>
+  <NotSuspended>TODO</NotSuspended>
   <!-- EN: SUSPENDED -->
-  <SuspendedAllCaps>SUSPENDAT</SuspendedAllCaps>
+  <SuspendedAllCaps>TODO</SuspendedAllCaps>
   <!-- EN: Repeat: -->
-  <RepeatCount>Repetare: {0}</RepeatCount>
+  <RepeatCount>TODO</RepeatCount>
   <!-- EN: Forever -->
-  <Forever>Pentru totdeauna</Forever>
+  <Forever>TODO</Forever>
   <!-- EN: Details -->
   <Details>TODO</Details>
   <!-- EN: Ingredient radius -->
-  <IngredientSearchRadius>Raza de căutare</IngredientSearchRadius>
+  <IngredientSearchRadius>TODO</IngredientSearchRadius>
   <!-- EN: Currently have -->
   <CurrentlyHave>TODO</CurrentlyHave>
   <!-- EN: Counting -->
   <CountingProducts>TODO</CountingProducts>
   <!-- EN: Infinite -->
-  <Infinite>Infinit</Infinite>
+  <Infinite>TODO</Infinite>
   <!-- EN: Allowed {0} skill: -->
   <AllowedSkillRange>TODO</AllowedSkillRange>
   <!-- EN: incompatible -->
@@ -245,23 +247,23 @@
   <Unlimited>TODO</Unlimited>
   
   <!-- EN: (This recipe cannot have a target count because it has multiple or unpredictable products.) -->
-  <RecipeCannotHaveTargetCount>(Această operație nu poate avea un număr țintă de unități pentru că poate avea rezultate multiple sau imprevizibile.)</RecipeCannotHaveTargetCount>
+  <RecipeCannotHaveTargetCount>TODO</RecipeCannotHaveTargetCount>
   <!-- EN: Work amount -->
-  <WorkAmount>Cantitatea de muncă</WorkAmount>
+  <WorkAmount>TODO</WorkAmount>
   <!-- EN: Minimum skills: -->
-  <MinimumSkills>Abilități minime:</MinimumSkills>
+  <MinimumSkills>TODO</MinimumSkills>
   <!-- EN: Requires {0} {1} -->
-  <BillRequires>Este nevoie de {0} {1}</BillRequires>
+  <BillRequires>TODO</BillRequires>
   <!-- EN: Requires {0} nutrition -->
   <BillRequiresNutrition>TODO</BillRequiresNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
-  <BillRequiresMayVary>(Cantitățile pot varia atunci când sunt folosite materiale cu volum non-standard, ca aurul.)</BillRequiresMayVary>
+  <BillRequiresMayVary>TODO</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
   <ThisIsSmallVolume>TODO</ThisIsSmallVolume>
   <!-- EN: ingredients -->
-  <UsableIngredients>Ingrediente utilizabile</UsableIngredients>
+  <UsableIngredients>TODO</UsableIngredients>
   <!-- EN: To {0} -->
-  <BillRepeatTargetCountShort>Până la {0}</BillRepeatTargetCountShort>
+  <BillRepeatTargetCountShort>TODO</BillRepeatTargetCountShort>
 
   <!-- EN: Pause when satisfied -->
   <PauseWhenSatisfied>TODO</PauseWhenSatisfied>
@@ -285,21 +287,21 @@
   
   <!-- Info card -->
   <!-- EN: Damage -->
-  <Damage>Damage</Damage>
+  <Damage>TODO</Damage>
   <!-- EN: Armor penetration -->
   <ArmorPenetration>TODO</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
   <ArmorPenetrationExplanation>TODO</ArmorPenetrationExplanation>
   <!-- EN: Accuracy -->
-  <Accuracy>Acuratețe</Accuracy>
+  <Accuracy>TODO</Accuracy>
   <!-- EN: Burst shot count -->
-  <BurstShotCount>Număr de gloanțe în tragerea în rafală</BurstShotCount>
+  <BurstShotCount>TODO</BurstShotCount>
   <!-- EN: Warmup -->
-  <WarmupTime>Warmup</WarmupTime>
+  <WarmupTime>TODO</WarmupTime>
   <!-- EN: Melee warmup -->
   <MeleeWarmupTime>TODO</MeleeWarmupTime>
   <!-- EN: Cooldown -->
-  <CooldownTime>Cooldown</CooldownTime>
+  <CooldownTime>TODO</CooldownTime>
   <!-- EN: Disarmed -->
   <DisarmedTime>TODO</DisarmedTime>
   <!-- EN: Charging -->
@@ -309,9 +311,9 @@
   <!-- EN: Shut down -->
   <ShutDown>TODO</ShutDown>
   <!-- EN: Fire rate -->
-  <BurstShotFireRate>Rată de foc</BurstShotFireRate>
+  <BurstShotFireRate>TODO</BurstShotFireRate>
   <!-- EN: Range -->
-  <Range>Rază de acțiune</Range>
+  <Range>TODO</Range>
   <!-- EN: Stopping power -->
   <StoppingPower>TODO</StoppingPower>
   <!-- EN: Hits from this weapon will stagger targets, slowing their movement for several seconds.\n\nTargets with a body size larger than the stopping power will be unaffected. -->
@@ -321,13 +323,13 @@
   <!-- EN: Miss radius -->
   <MissRadius>TODO</MissRadius>
   <!-- EN: Grows wild -->
-  <GrowsWild>Devine sălbatic</GrowsWild>
+  <GrowsWild>TODO</GrowsWild>
   <!-- EN: Harvestable -->
-  <Harvestable>Poate fi cules</Harvestable>
+  <Harvestable>TODO</Harvestable>
   <!-- EN: Limited lifespan -->
-  <LimitedLifespan>Durată de viață limitată</LimitedLifespan>
+  <LimitedLifespan>TODO</LimitedLifespan>
   <!-- EN: Growing time -->
-  <GrowingTime>Timp de creștere</GrowingTime>
+  <GrowingTime>TODO</GrowingTime>
   <!-- EN: Harvest yield -->
   <HarvestYield>TODO</HarvestYield>
   <!-- EN: Min growth temperature -->
@@ -337,31 +339,31 @@
   <!-- EN: Plants only grow for part of the day, and only when lit.\n\nThis statistic measures the time the plant needs to spend actually growing to reach full size.\nThe actual real growing time will generally be about twice as long.\nLow temperatures also slow plant growth. -->
   <GrowingTimeDesc>TODO</GrowingTimeDesc>
   <!-- EN: days -->
-  <Days>zile</Days>
+  <Days>TODO</Days>
   <!-- EN: Minimum growing skill to sow -->
   <MinGrowingSkillToSow>TODO</MinGrowingSkillToSow>
   <!-- EN: Fertility requirement -->
-  <FertilityRequirement>Fertilitate necesară</FertilityRequirement>
+  <FertilityRequirement>TODO</FertilityRequirement>
   <!-- EN: Fertility sensitivity -->
   <FertilitySensitivity>TODO</FertilitySensitivity>
   <!-- EN: Light requirement -->
-  <LightRequirement>Iluminare necesară</LightRequirement>
+  <LightRequirement>TODO</LightRequirement>
   <!-- EN: Attributes -->
-  <Attributes>Atribute</Attributes>
+  <Attributes>TODO</Attributes>
   <!-- EN: Lifespan -->
-  <LifeSpan>Durata de viață</LifeSpan>
+  <LifeSpan>TODO</LifeSpan>
   <!-- EN: Nutrition -->
-  <Nutrition>Valoare nutritivă</Nutrition>
+  <Nutrition>TODO</Nutrition>
   <!-- EN: Recreation -->
   <Joy>TODO</Joy>
   <!-- EN: Food quality -->
-  <FoodQuality>Calitatea mâncării</FoodQuality>
+  <FoodQuality>TODO</FoodQuality>
   <!-- EN: Walk speed -->
-  <WalkSpeedProperty>Viteza de mers</WalkSpeedProperty>
+  <WalkSpeedProperty>TODO</WalkSpeedProperty>
   <!-- EN: Min. food quality -->
-  <MinFoodQuality>Calitatea minimă a mâncării</MinFoodQuality>
+  <MinFoodQuality>TODO</MinFoodQuality>
   <!-- EN: Diet -->
-  <Diet>Dietă</Diet>
+  <Diet>TODO</Diet>
   <!-- EN: Nutrition need per day -->
   <NutritationEatenPerDay>TODO</NutritationEatenPerDay>
   <!-- EN: Leather type -->
@@ -369,11 +371,11 @@
   <!-- EN: Body size -->
   <BodySize>TODO</BodySize>
   <!-- EN: Recruit difficulty -->
-  <RecruitDifficulty>Dificultate de recrutare</RecruitDifficulty>
+  <RecruitDifficulty>TODO</RecruitDifficulty>
   <!-- EN: Base price -->
-  <MarketValue>Preț de bază</MarketValue>
+  <MarketValue>TODO</MarketValue>
   <!-- EN: Covers -->
-  <Covers>Adăpost</Covers>
+  <Covers>TODO</Covers>
   <!-- EN: Created at -->
   <CreatedAt>TODO</CreatedAt>
   <!-- EN: Layer -->
@@ -531,33 +533,35 @@
   <!-- EN: Positive numbers buy.\nNegative numbers sell. -->
   <PositiveBuysNegativeSells>TODO</PositiveBuysNegativeSells>
   <!-- EN: Price you pay to buy this. -->
-  <BuyPriceDesc>Prețul pe care îl plătești pentru cumpărare.</BuyPriceDesc>
+  <BuyPriceDesc>TODO</BuyPriceDesc>
   <!-- EN: Price you receive for selling this. -->
-  <SellPriceDesc>Prețul care îți este plătit pentru vânzare.</SellPriceDesc>
+  <SellPriceDesc>TODO</SellPriceDesc>
   <!-- EN: For this item, this price is {0}. -->
-  <PriceTypeDesc>Prețul acestui lucru este {0}.</PriceTypeDesc>
+  <PriceTypeDesc>TODO</PriceTypeDesc>
   <!-- EN: How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are near an orbital trade beacon. -->
-  <ColonyCount>Câte unități sunt la dispoziția coloniei pentru comerț.\n\nPoți vinde lucruri doar dacă sunt afară și lângă o stație orbitală de comerț.</ColonyCount>
+  <ColonyCount>TODO</ColonyCount>
   <!-- EN: How many of this item the trader has to trade. -->
-  <TraderCount>Câte unități are comerciantul la dispoziție.</TraderCount>
+  <TraderCount>TODO</TraderCount>
   <!-- EN: Accept -->
-  <AcceptButton>Acceptă</AcceptButton>
+  <AcceptButton>TODO</AcceptButton>
+  <!-- EN: Load selected -->
+  <LoadSelected>TODO</LoadSelected>
   <!-- EN: Reset -->
-  <ResetButton>Resetează</ResetButton>
+  <ResetButton>TODO</ResetButton>
   <!-- EN: Cancel -->
-  <CancelButton>Anulează</CancelButton>
+  <CancelButton>TODO</CancelButton>
   <!-- EN: Close -->
-  <CloseButton>Închide</CloseButton>
+  <CloseButton>TODO</CloseButton>
   <!-- EN: Your tradeable silver: {0} -->
-  <YourTradeableSilver>Argint disponibil pentru comerț: {0}</YourTradeableSilver>
+  <YourTradeableSilver>TODO</YourTradeableSilver>
   <!-- EN: You can only trade with silver that is near an orbital trade beacon and not under a roof. -->
-  <YourTradeableSilverTip>Poți folosi argint în comerț dacă este lângă o stație orbitală de comerț și nu este sub un acoperiș.</YourTradeableSilverTip>
+  <YourTradeableSilverTip>TODO</YourTradeableSilverTip>
   <!-- EN: Trader has no more. -->
-  <TraderHasNoMore>Indisponibil.</TraderHasNoMore>
+  <TraderHasNoMore>TODO</TraderHasNoMore>
   <!-- EN: No more to sell. -->
-  <ColonyHasNoMore>Indisponibil.</ColonyHasNoMore>
+  <ColonyHasNoMore>TODO</ColonyHasNoMore>
   <!-- EN: Trader is not willing to buy this. -->
-  <TraderWillNotTrade>Comerciantul nu dorește comerț cu acest lucru.</TraderWillNotTrade>
+  <TraderWillNotTrade>TODO</TraderWillNotTrade>
   <!-- EN: Negotiator -->
   <Negotiator>TODO</Negotiator>
   <!-- EN: Negotiator: {0} (+{1}) -->
@@ -614,12 +618,16 @@
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
   <FormCaravan>TODO</FormCaravan>
+  <!-- EN: Send -->
+  <Send>TODO</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>TODO</FormCaravanColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>TODO</PawnsTab>
   <!-- EN: Items -->
   <ItemsTab>TODO</ItemsTab>
+  <!-- EN: Travel supplies -->
+  <FoodAndMedicineTab>TODO</FoodAndMedicineTab>
   <!-- EN: You must assign at least one non-downed colonist. -->
   <CaravanMustHaveAtLeastOneColonist>TODO</CaravanMustHaveAtLeastOneColonist>
   <!-- EN: The chosen exit location ({0}) is inaccessible. -->
@@ -712,6 +720,8 @@
   <AnimalsSection>TODO</AnimalsSection>
   <!-- EN: Choose route -->
   <ChooseRouteButton>TODO</ChooseRouteButton>
+  <!-- EN: Change route -->
+  <ChangeRouteButton>TODO</ChangeRouteButton>
   <!-- EN: Abandon -->
   <AbandonButton>TODO</AbandonButton>
   <!-- EN: Movement speed -->
@@ -742,6 +752,8 @@
   <FactionType>TODO</FactionType>
   <!-- EN: Total body size -->
   <TotalBodySize>TODO</TotalBodySize>
+  <!-- EN: Automatically select travel supplies -->
+  <AutomaticallySelectFoodAndMedicine>TODO</AutomaticallySelectFoodAndMedicine>
 
   <!-- Split caravan -->
   <!-- EN: Split caravan -->
@@ -778,30 +790,32 @@
   <TransporterItemIsUnreachableMulti>TODO</TransporterItemIsUnreachableMulti>
   <!-- EN: There is no path between the shuttle and {0}x {1}. -->
   <TransporterSingleItemIsUnreachableMulti>TODO</TransporterSingleItemIsUnreachableMulti>
+  <!-- EN: Only {0} colonists maximum allowed. -->
+  <TransporterSingleTooManyColonists>TODO</TransporterSingleTooManyColonists>
   
   <!-- Comms -->
   <!-- EN: Social skill: {0} -->
-  <SocialSkillIs>Abilități sociale: {0}</SocialSkillIs>
+  <SocialSkillIs>TODO</SocialSkillIs>
   
   <!--Research-->
   <!-- EN: Research finished: {0} -->
-  <ResearchFinished>Cercetare finalizată: {0}</ResearchFinished>
+  <ResearchFinished>TODO</ResearchFinished>
   <!-- EN: Research Screen -->
-  <ResearchScreen>Meniul de cercetare</ResearchScreen>
+  <ResearchScreen>TODO</ResearchScreen>
   
   <!--HistoryUpload-->
   <!-- EN: Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu. -->
-  <HistoryUploadMessage>Dorești să trimiți înregistrări ale jocurilor tale de RimWorld pentru a ajuta echipa de programatori în îmbunătățirea jocului? Dacă ești de acord, datele vor fi trimise o dată la {0} zile (sau în cazul unui final de joc). Preferințele adiționale pot fi schimbate în secțiunea setări.</HistoryUploadMessage>
+  <HistoryUploadMessage>TODO</HistoryUploadMessage>
   <!-- EN: Even though history is sent anonymously, you can attach your name. -->
-  <HistoryUploadMessagePlayerName>Deși istoricul este trimis anonim, poți atașa un nume.</HistoryUploadMessagePlayerName>
+  <HistoryUploadMessagePlayerName>TODO</HistoryUploadMessagePlayerName>
   <!-- EN: Allow uploading gameplay data -->
-  <HistoryUploadYes>Aprobă trimiterea datelor de joc</HistoryUploadYes>
+  <HistoryUploadYes>TODO</HistoryUploadYes>
   <!-- EN: Do not allow uploading gameplay data -->
-  <HistoryUploadNo>Refuză trimiterea datelor de joc</HistoryUploadNo>
+  <HistoryUploadNo>TODO</HistoryUploadNo>
   <!-- EN: Upload only this time -->
-  <HistoryUploadYesOnce>Trimite doar de această dată</HistoryUploadYesOnce>
+  <HistoryUploadYesOnce>TODO</HistoryUploadYesOnce>
   <!-- EN: Do not upload this time, ask me later -->
-  <HistoryUploadNoOnce>Nu trimite de această dată, întreabă-mă mai târziu</HistoryUploadNoOnce>
+  <HistoryUploadNoOnce>TODO</HistoryUploadNoOnce>
   
   <!-- Outfit management -->
   <!-- EN: Outfit -->
@@ -852,7 +866,7 @@
   <MoodThresholdColumnLabel>TODO</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
   <JoyThresholdColumnLabel>TODO</JoyThresholdColumnLabel>
-  <!-- EN: Take to inventory -->
+  <!-- EN: Keep in inventory -->
   <TakeToInventoryColumnLabel>TODO</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
   <NoDrugsBrackets>TODO</NoDrugsBrackets>
@@ -968,7 +982,7 @@
   <ConfirmCleanupTranslationFiles_Confirm>TODO</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
-  <!-- EN: The caravan will be immobile if you send the pods to an empty tile. Continue anyway? -->
+  <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
   <TransportersCaravanWillBeImmobile>TODO</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
@@ -990,13 +1004,60 @@
   <AbilityCastingTime>TODO</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
   <AbilityCannotHitTarget>TODO</AbilityCannotHitTarget>
+  <!-- EN: Can't reach the target. -->
+  <AbilityCannotReachTarget>TODO</AbilityCannotReachTarget>
+  <!-- EN: Not enough free space. -->
+  <AbilityNotEnoughFreeSpace>TODO</AbilityNotEnoughFreeSpace>
   <!-- EN: {0} must target an empty area. -->
   <AbilityOccupiedCells>TODO</AbilityOccupiedCells>
   <!-- EN: {0} must target a walkable area. -->
   <AbilityUnwalkable>TODO</AbilityUnwalkable>
   <!-- EN: {0} must target an unroofed area. -->
   <AbilityRoofed>TODO</AbilityRoofed>
-  <!-- EN: {0} is mentally broken. -->
+  <!-- EN: {0_labelShort} is mentally broken. -->
   <AbilityCantApplyToMentallyBroken>TODO</AbilityCantApplyToMentallyBroken>
+  <!-- EN: {0_labelShort} is not mentally broken. -->
+  <AbilityCanOnlyApplyToMentallyBroken>TODO</AbilityCanOnlyApplyToMentallyBroken>
+  <!-- EN: {0} doesn't work on the '{1}' mental state. -->
+  <AbilityDoesntWorkOnMentalState>TODO</AbilityDoesntWorkOnMentalState>
+  <!-- EN: {0_labelShort} has zero resistance. -->
+  <AbilityCantApplyNoResistance>TODO</AbilityCantApplyNoResistance>
+  <!-- EN: Cannot use: {0} is asexual. -->
+  <AbilityCantApplyOnAsexual>TODO</AbilityCantApplyOnAsexual>
+  <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
+  <AbilityCantApplyWrongAttractionGender>TODO</AbilityCantApplyWrongAttractionGender>
+  <!-- EN: Psyfocus cost per mental break intensity -->
+  <PsyfocusCostPerMentalBreakIntensity>TODO</PsyfocusCostPerMentalBreakIntensity>
+  <!-- EN: {0_labelShort} is already inspired. -->
+  <AbilityAlreadyInspired>TODO</AbilityAlreadyInspired>
+  <!-- EN: {0_labelShort} can't get an inspiration right now. -->
+  <AbilityCantGetInspiredNow>TODO</AbilityCantGetInspiredNow>
+  <!-- EN: {0_labelShort} is unconscious. -->
+  <AbilityCantApplyUnconscious>TODO</AbilityCantApplyUnconscious>
+  <!-- EN: {0_labelShort} is asleep. -->
+  <AbilityCantApplyAsleep>TODO</AbilityCantApplyAsleep>
+  <!-- EN: This tile is impassable. -->
+  <AbilityWorldTileImpassable>TODO</AbilityWorldTileImpassable>
+  <!-- EN: Skip to random ally -->
+  <AbilitySkipToRandomAlly>TODO</AbilitySkipToRandomAlly>
+  <!-- EN: Skip to join caravan -->
+  <AbilitySkipToJoinCaravan>TODO</AbilitySkipToJoinCaravan>
+  <!-- EN: Need ally at target for navigation -->
+  <AbilityNeedAllyToSkip>TODO</AbilityNeedAllyToSkip>
+  <!-- EN: No chunks to skip. -->
+  <AbilityNoChunkToSkip>TODO</AbilityNoChunkToSkip>
+  <!-- EN: Induce psychic love in -->
+  <PsychicLoveInduceIn>TODO</PsychicLoveInduceIn>
+  <!-- EN: Psychic love for -->
+  <PsychicLoveFor>TODO</PsychicLoveFor>
+  <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
+  <FarskipConfirmTeleportingLodger>TODO</FarskipConfirmTeleportingLodger>
+  
+  <!-- EN: minor -->
+  <MentalBreakIntensityMinor>TODO</MentalBreakIntensityMinor>
+  <!-- EN: major -->
+  <MentalBreakIntensityMajor>TODO</MentalBreakIntensityMajor>
+  <!-- EN: extreme -->
+  <MentalBreakIntensityExtreme>TODO</MentalBreakIntensityExtreme>
   
 </LanguageData>

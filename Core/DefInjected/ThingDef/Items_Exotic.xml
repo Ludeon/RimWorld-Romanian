@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: persona core -->
-  <AIPersonaCore.label>KI Kern</AIPersonaCore.label>
+  <AIPersonaCore.label>TODO</AIPersonaCore.label>
   <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
-  <AIPersonaCore.description>Ein hochentwickelter Computerkern, der eine übermenschliche KI beherbergt. In ihrem isolierten Zustand ist der Kern inaktiv. Aber in eine passende Hilfsstruktur eingebaut, wird daraus ein Verstand mit beängstigender Leistung.</AIPersonaCore.description>
+  <AIPersonaCore.description>TODO</AIPersonaCore.description>
   
   <!-- EN: elephant tusk -->
   <ElephantTusk.label>TODO</ElephantTusk.label>
@@ -21,10 +21,6 @@
   <MechSerumHealer.description>TODO</MechSerumHealer.description>
   <!-- EN: Use healer mech serum -->
   <MechSerumHealer.comps.CompUsable.useLabel>TODO</MechSerumHealer.comps.CompUsable.useLabel>
-  
-  <!-- UNUSED -->
-  <MechSerumNeurotrainer.label>Neurotrainer</MechSerumNeurotrainer.label>
-  <MechSerumNeurotrainer.description>Ein Gerät der Nanotechnologie für den Einmalgebrauch. Der Neurotrainer implantiert Nanotechnik in das Gehirn des Benutzers, welche die Fähigkeiten im festgelegten Bereich verbessern.</MechSerumNeurotrainer.description>
   
   <!-- EN: resurrector mech serum -->
   <MechSerumResurrector.label>TODO</MechSerumResurrector.label>

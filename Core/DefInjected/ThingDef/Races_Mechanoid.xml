@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: centipede -->
-  <Mech_Centipede.label>Raupe</Mech_Centipede.label>
+  <Mech_Centipede.label>TODO</Mech_Centipede.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carpace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
-  <Mech_Centipede.description>Schwerer Kampfmechanoid, der auf dutzenden kleinen Füßen dahingleitet. Ihre schwere Rüstung und starke Bewaffnung macht sie sehr effektiv gegen statische, eng beieinander stehende Ziele und Strukturen. Sie sind empfindlich gegen überfallartige Angriffe.</Mech_Centipede.description>
+  <Mech_Centipede.description>TODO</Mech_Centipede.description>
   <!-- EN: head -->
   <Mech_Centipede.tools.head.label>TODO</Mech_Centipede.tools.head.label>
   
@@ -31,9 +31,9 @@
   <Mech_Pikeman.tools.head.label>TODO</Mech_Pikeman.tools.head.label>
   
   <!-- EN: scyther -->
-  <Mech_Scyther.label>Sense</Mech_Scyther.label>
+  <Mech_Scyther.label>TODO</Mech_Scyther.label>
   <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but their mostly use two arm blades to lop off limbs or gut their victims alive. -->
-  <Mech_Scyther.description>Dürrer und schneller, menschenähnlicher Kampfmechanoid. Normalerweise tragen sie eine Fernkampfwaffe und ihr Körper ist übersäht mit kleinen messerartigen Auswüchsen, um sie im Nahkampf tödlich zu machen. Sie gehen nicht in Deckung. Am besten greift man sie mit einer Übermacht an.</Mech_Scyther.description>
+  <Mech_Scyther.description>TODO</Mech_Scyther.description>
   <!-- EN: left blade -->
   <Mech_Scyther.tools.left_blade.label>TODO</Mech_Scyther.tools.left_blade.label>
   <!-- EN: right blade -->
