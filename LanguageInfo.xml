@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Română</friendlyNameNative>
+  <friendlyNameEnglish>Romanian</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <languageWorkerClass>LanguageWorker_Romanian</languageWorkerClass>
+  <credits>
+  </credits>
+</LanguageInfo>
