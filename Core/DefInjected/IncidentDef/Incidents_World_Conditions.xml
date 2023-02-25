@@ -5,21 +5,17 @@
   <Aurora.label>TODO</Aurora.label>
   <!-- EN: Aurora -->
   <Aurora.letterLabel>TODO</Aurora.letterLabel>
-  <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
-  <Aurora.letterText>TODO</Aurora.letterText>
   
   <!-- EN: eclipse -->
   <Eclipse.label>TODO</Eclipse.label>
   <!-- EN: Eclipse -->
-  <Eclipse.letterLabel>TODO</Eclipse.letterLabel>
-  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
-  <Eclipse.letterText>TODO</Eclipse.letterText>
+  <Eclipse.letterLabel>Sonnenfinsternis</Eclipse.letterLabel>
+  <Eclipse.letterText>Einer der Monde des Planeten verdeckt die Sonne. Eine Sonnenfinsternis hat begonnen.</Eclipse.letterText>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>TODO</SolarFlare.label>
   <!-- EN: Solar flare -->
-  <SolarFlare.letterLabel>TODO</SolarFlare.letterLabel>
-  <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
-  <SolarFlare.letterText>TODO</SolarFlare.letterText>
+  <SolarFlare.letterLabel>Sonneneruption</SolarFlare.letterLabel>
+  <SolarFlare.letterText>Eine Sonneneruption hat begonnen.\n\nDie starke Strahlung macht alle elektrischen Geräte unbrauchbar.\n\nEs sollte in etwa einem Tag wieder vorbei sein.</SolarFlare.letterText>
   
 </LanguageData>

@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: destroy apparel -->
+  <DestroyApparel.label>TODO</DestroyApparel.label>
+  <!-- EN: Use heat to destroy unwanted apparels. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
+  <DestroyApparel.description>TODO</DestroyApparel.description>
+  <!-- EN: Destroying apparel. -->
+  <DestroyApparel.jobString>TODO</DestroyApparel.jobString>
+  
   <!-- EN: destroy weapon -->
   <DestroyWeapon.label>TODO</DestroyWeapon.label>
   <!-- EN: Use heat to destroy unwanted weapons. This process is faster than smelting, and works on non-smeltable items, but yields no resources. -->
@@ -9,11 +16,11 @@
   <DestroyWeapon.jobString>TODO</DestroyWeapon.jobString>
   
   <!-- EN: smelt metal from slag -->
-  <ExtractMetalFromSlag.label>TODO</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.label>Schmelze Schlacke</ExtractMetalFromSlag.label>
   <!-- EN: Use heat and strong electromagnets to extract useful metal from slag chunks. -->
-  <ExtractMetalFromSlag.description>TODO</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.description>Benutze Wärme und starke Elektromagnete, um nützliches Metall aus Schlackebrocken zu extrahieren.</ExtractMetalFromSlag.description>
   <!-- EN: Smelting metal from slag. -->
-  <ExtractMetalFromSlag.jobString>TODO</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.jobString>Verarbeitet Schlackebrocken zu Metall.</ExtractMetalFromSlag.jobString>
   
   <!-- EN: make chemfuel from organics -->
   <Make_ChemfuelFromOrganics.label>TODO</Make_ChemfuelFromOrganics.label>
@@ -57,11 +64,28 @@
   <!-- EN: Cutting stone blocks from chunk. -->
   <Make_StoneBlocksAny.jobString>TODO</Make_StoneBlocksAny.jobString>
   
+  <!-- UNUSED -->
+  <MakeArtilleryShell.label>Produziere Artilleriegeschoss</MakeArtilleryShell.label>
+  <MakeArtilleryShell.description>Produziere ein Geschoss für die Artillerie.</MakeArtilleryShell.description>
+  <MakeArtilleryShell.jobString>Produziert Artilleriegeschoss.</MakeArtilleryShell.jobString>
+  
+  <!-- UNUSED -->
+  <MakeStoneBlocks.label>Stelle Steinblöcke her</MakeStoneBlocks.label>
+  <MakeStoneBlocks.description>Verarbeite Felsbrocken zu nutzbaren Steinblöcken.</MakeStoneBlocks.description>
+  <MakeStoneBlocks.jobString>Verarbeitet Felsbrocken.</MakeStoneBlocks.jobString>
+  
+  <!-- EN: smelt apparel -->
+  <SmeltApparel.label>TODO</SmeltApparel.label>
+  <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
+  <SmeltApparel.description>TODO</SmeltApparel.description>
+  <!-- EN: Smelting apparel. -->
+  <SmeltApparel.jobString>TODO</SmeltApparel.jobString>
+  
   <!-- EN: smelt weapon -->
-  <SmeltWeapon.label>TODO</SmeltWeapon.label>
+  <SmeltWeapon.label>Schmelze Waffe</SmeltWeapon.label>
   <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
-  <SmeltWeapon.description>TODO</SmeltWeapon.description>
+  <SmeltWeapon.description>Benutzt Wärme und starke Elektromagnete um Waffen in Metall einzuschmelzen.</SmeltWeapon.description>
   <!-- EN: Smelting weapon. -->
-  <SmeltWeapon.jobString>TODO</SmeltWeapon.jobString>
+  <SmeltWeapon.jobString>Verarbeitet Waffe zu Metall.</SmeltWeapon.jobString>
   
 </LanguageData>

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: gladius -->
-  <MeleeWeapon_Gladius.label>TODO</MeleeWeapon_Gladius.label>
+  <MeleeWeapon_Gladius.label>Gladius</MeleeWeapon_Gladius.label>
   <!-- EN: A short sword of ancient design. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons. -->
-  <MeleeWeapon_Gladius.description>TODO</MeleeWeapon_Gladius.description>
+  <MeleeWeapon_Gladius.description>Ein antikes Kurzschwert. Gut zum Schlagen und Stechen.</MeleeWeapon_Gladius.description>
   <!-- EN: handle -->
   <MeleeWeapon_Gladius.tools.handle.label>TODO</MeleeWeapon_Gladius.tools.handle.label>
   <!-- EN: point -->
@@ -13,9 +13,9 @@
   <MeleeWeapon_Gladius.tools.edge.label>TODO</MeleeWeapon_Gladius.tools.edge.label>
   
   <!-- EN: longsword -->
-  <MeleeWeapon_LongSword.label>TODO</MeleeWeapon_LongSword.label>
+  <MeleeWeapon_LongSword.label>Langschwert</MeleeWeapon_LongSword.label>
   <!-- EN: The ancient weapon of kings, the longsword can be used for slashing or stabbing. -->
-  <MeleeWeapon_LongSword.description>TODO</MeleeWeapon_LongSword.description>
+  <MeleeWeapon_LongSword.description>Das antike Schwert der Könige kann zum Schlagen oder Stechen benutzt werden und ist in den richtigen Händen tödlich.</MeleeWeapon_LongSword.description>
   <!-- EN: handle -->
   <MeleeWeapon_LongSword.tools.handle.label>TODO</MeleeWeapon_LongSword.tools.handle.label>
   <!-- EN: point -->
@@ -24,9 +24,9 @@
   <MeleeWeapon_LongSword.tools.edge.label>TODO</MeleeWeapon_LongSword.tools.edge.label>
   
   <!-- EN: mace -->
-  <MeleeWeapon_Mace.label>TODO</MeleeWeapon_Mace.label>
+  <MeleeWeapon_Mace.label>Streitkolben</MeleeWeapon_Mace.label>
   <!-- EN: A refined club, engineered for efficient swinging and deadly impacts. -->
-  <MeleeWeapon_Mace.description>TODO</MeleeWeapon_Mace.description>
+  <MeleeWeapon_Mace.description>Ein verbesserter Knüppel, entwickelt für effiziente Schwünge und tödliche Einschläge.</MeleeWeapon_Mace.description>
   <!-- EN: handle -->
   <MeleeWeapon_Mace.tools.handle.label>TODO</MeleeWeapon_Mace.tools.handle.label>
   <!-- EN: head -->

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: arrow -->
-  <Arrow.label>TODO</Arrow.label>
+  <Arrow.label>Pfeil</Arrow.label>
   <!-- EN: {0} has been shot to death by an arrow. -->
-  <Arrow.deathMessage>TODO</Arrow.deathMessage>
+  <Arrow.deathMessage>{0} wurde erschossen.</Arrow.deathMessage>
   
   <!-- EN: arrow -->
   <ArrowHighVelocity.label>TODO</ArrowHighVelocity.label>
@@ -12,9 +12,9 @@
   <ArrowHighVelocity.deathMessage>TODO</ArrowHighVelocity.deathMessage>
   
   <!-- EN: bullet -->
-  <Bullet.label>TODO</Bullet.label>
+  <Bullet.label>Kugel</Bullet.label>
   <!-- EN: {0} has been shot to death. -->
-  <Bullet.deathMessage>TODO</Bullet.deathMessage>
+  <Bullet.deathMessage>{0} wurde erschossen.</Bullet.deathMessage>
   
   <!-- EN: stab -->
   <RangedStab.label>TODO</RangedStab.label>

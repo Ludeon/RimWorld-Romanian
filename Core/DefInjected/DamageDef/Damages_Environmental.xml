@@ -7,14 +7,14 @@
   <Burn.deathMessage>TODO</Burn.deathMessage>
   
   <!-- EN: flame -->
-  <Flame.label>TODO</Flame.label>
+  <Flame.label>Flamme</Flame.label>
   <!-- EN: {0} has burned to death. -->
-  <Flame.deathMessage>TODO</Flame.deathMessage>
+  <Flame.deathMessage>{0} ist verbrannt.</Flame.deathMessage>
   
   <!-- EN: frostbite -->
-  <Frostbite.label>TODO</Frostbite.label>
+  <Frostbite.label>Erfrierung</Frostbite.label>
   <!-- EN: {0} has succumbed to frostbite. -->
-  <Frostbite.deathMessage>TODO</Frostbite.deathMessage>
+  <Frostbite.deathMessage>{0} ist erfroren.</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
   <TornadoScratch.label>TODO</TornadoScratch.label>

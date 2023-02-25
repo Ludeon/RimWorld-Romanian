@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <CabinFever.stages.0.label>Lagerkoller (leicht)</CabinFever.stages.0.label>
+  <CabinFever.stages.0.description>Ich war jetzt schon seit Tagen nicht mehr draußen. Langsam muss ich mal wieder an die frische Luft.</CabinFever.stages.0.description>
+  <CabinFever.stages.1.label>Lagerkoller (schwer)</CabinFever.stages.1.label>
+  <CabinFever.stages.1.description>Ich bin hier wie eine Ratte eingesperrt. Ich muss unbedingt raus und an die frische Luft, oder ich drehe noch durch!</CabinFever.stages.1.description>
+  
+  <!-- UNUSED -->
+  <LowExpectations.stages.0.label>Mäßige Erwartungen</LowExpectations.stages.0.label>
+  <LowExpectations.stages.0.description>Dieser Ort nicht gerade reich. Ich kann nicht erwarten nur verhätschelt zu werden.</LowExpectations.stages.0.description>
+  <LowExpectations.stages.1.label>Niedrige Erwartungen</LowExpectations.stages.1.label>
+  <LowExpectations.stages.1.description>Dieser Ort ist nicht reich genug für viele Luxusartikel. Ich muss stark bleiben.</LowExpectations.stages.1.description>
+  <LowExpectations.stages.2.label>Sehr niedrige Erwartungen</LowExpectations.stages.2.label>
+  <LowExpectations.stages.2.description>Dieser Ort ist arm. Ich kann hier keinen Komfort erwarten und muss stark bleiben.</LowExpectations.stages.2.description>
+  <LowExpectations.stages.3.label>Extrem niedrige Erwartungen</LowExpectations.stages.3.label>
+  <LowExpectations.stages.3.description>Dieser Ort ist gerade genug um einen vor den Elementen zu schützen. Ich bereite mich besser drauf vor hier zu überleben.</LowExpectations.stages.3.description>
+  
+</LanguageData>

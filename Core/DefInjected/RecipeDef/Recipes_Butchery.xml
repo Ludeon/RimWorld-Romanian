@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: butcher creature -->
-  <ButcherCorpseFlesh.label>TODO</ButcherCorpseFlesh.label>
+  <ButcherCorpseFlesh.label>Schlachte Kreatur</ButcherCorpseFlesh.label>
   <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
-  <ButcherCorpseFlesh.description>TODO</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.description>Schlachtet eine Kreatur, um genießbares Fleisch zu erhalten.</ButcherCorpseFlesh.description>
   <!-- EN: Butchering. -->
-  <ButcherCorpseFlesh.jobString>TODO</ButcherCorpseFlesh.jobString>
+  <ButcherCorpseFlesh.jobString>Schlachtet Kreatur.</ButcherCorpseFlesh.jobString>
   
-  <!-- EN: disassemble mechanoid -->
-  <ButcherCorpseMechanoid.label>TODO</ButcherCorpseMechanoid.label>
-  <!-- EN: Disassemble a dead mechanoid into its component parts. -->
-  <ButcherCorpseMechanoid.description>TODO</ButcherCorpseMechanoid.description>
-  <!-- EN: Disassembling mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>TODO</ButcherCorpseMechanoid.jobString>
+  <!-- EN: shred mechanoid -->
+  <ButcherCorpseMechanoid.label>Zerlege Mechanoiden</ButcherCorpseMechanoid.label>
+  <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
+  <ButcherCorpseMechanoid.description>Zerlegt einen Mechanoiden in seine Einzelteile.</ButcherCorpseMechanoid.description>
+  <!-- EN: Shredding mechanoid. -->
+  <ButcherCorpseMechanoid.jobString>Zerlegt Mechanoiden.</ButcherCorpseMechanoid.jobString>
   
 </LanguageData>

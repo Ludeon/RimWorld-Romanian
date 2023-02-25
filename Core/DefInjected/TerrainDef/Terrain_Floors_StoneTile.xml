@@ -27,28 +27,28 @@
   <FlagstoneSlate.description>TODO</FlagstoneSlate.description>
   
   <!-- EN: granite tile -->
-  <TileGranite.label>TODO</TileGranite.label>
+  <TileGranite.label>Granit Platte</TileGranite.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileGranite.description>TODO</TileGranite.description>
+  <TileGranite.description>Solide Steinplatten, für das Burg-Feeling.</TileGranite.description>
   
   <!-- EN: limestone tile -->
-  <TileLimestone.label>TODO</TileLimestone.label>
+  <TileLimestone.label>Kalkstein Platte</TileLimestone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileLimestone.description>TODO</TileLimestone.description>
+  <TileLimestone.description>Solide Steinplatten, für das Burg-Feeling.</TileLimestone.description>
   
   <!-- EN: marble tile -->
-  <TileMarble.label>TODO</TileMarble.label>
+  <TileMarble.label>Marmor Platte</TileMarble.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileMarble.description>TODO</TileMarble.description>
+  <TileMarble.description>Solide Steinplatten, für das Burg-Feeling.</TileMarble.description>
   
   <!-- EN: sandstone tile -->
-  <TileSandstone.label>TODO</TileSandstone.label>
+  <TileSandstone.label>Sandstein Platte</TileSandstone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSandstone.description>TODO</TileSandstone.description>
+  <TileSandstone.description>Solide Steinplatten, für das Burg-Feeling.</TileSandstone.description>
   
   <!-- EN: slate tile -->
-  <TileSlate.label>TODO</TileSlate.label>
+  <TileSlate.label>Schiefer Platte</TileSlate.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSlate.description>TODO</TileSlate.description>
+  <TileSlate.description>Solide Steinplatten, für das Burg-Feeling.</TileSlate.description>
   
 </LanguageData>

@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: fabric -->
-  <Fabric.label>TODO</Fabric.label>
+  <Fabric.label>textil</Fabric.label>
   
   <!-- EN: leathery -->
-  <Leathery.label>TODO</Leathery.label>
+  <Leathery.label>ledern</Leathery.label>
   
   <!-- EN: metallic -->
-  <Metallic.label>TODO</Metallic.label>
+  <Metallic.label>metallisch</Metallic.label>
   
   <!-- EN: stony -->
-  <Stony.label>TODO</Stony.label>
+  <Stony.label>steinern</Stony.label>
   
   <!-- EN: woody -->
-  <Woody.label>TODO</Woody.label>
+  <Woody.label>hölzern</Woody.label>
   
 </LanguageData>

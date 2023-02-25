@@ -3,11 +3,11 @@
 
   <!-- Audiovisuals -->
   <!-- EN: Audiovisuals -->
-  <Audiovisuals>TODO</Audiovisuals>
+  <Audiovisuals>Audio-vizual</Audiovisuals>
   <!-- EN: Game volume -->
-  <GameVolume>TODO</GameVolume>
+  <GameVolume>Volum Joc</GameVolume>
   <!-- EN: Music volume -->
-  <MusicVolume>TODO</MusicVolume>
+  <MusicVolume>Volum Muzică</MusicVolume>
   <!-- EN: Ambient volume -->
   <AmbientVolume>TODO</AmbientVolume>
   <!-- EN: Anti-aliasing -->
@@ -15,39 +15,47 @@
 
   <!-- Gameplay -->
   <!-- EN: Screen-edge mouse scroll -->
-  <EdgeScreenScroll>TODO</EdgeScreenScroll>
+  <EdgeScreenScroll>Deplasare cameră cu mouse</EdgeScreenScroll>
   <!-- EN: Pause on load -->
   <PauseOnLoad>TODO</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>TODO</PauseOnUrgentLetter>
+  <!-- EN: Pause on -->
+  <AutomaticPauseModeSetting>TODO</AutomaticPauseModeSetting>
   <!-- EN: Custom cursor -->
-  <CustomCursor>TODO</CustomCursor>
+  <CustomCursor>Cursor special</CustomCursor>
   <!-- EN: Hats shown only on game map -->
   <HatsShownOnlyOnMap>TODO</HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
   <UIScale>TODO</UIScale>
   <!-- EN: Keyboard configuration -->
-  <KeyboardConfig>TODO</KeyboardConfig>
+  <KeyboardConfig>Configurare tastatură</KeyboardConfig>
   <!-- EN: Choose language -->
-  <ChooseLanguage>TODO</ChooseLanguage>
+  <ChooseLanguage>Alege limba</ChooseLanguage>
   <!-- EN: Reset learning helper -->
-  <ResetAdaptiveTutor>TODO</ResetAdaptiveTutor>
+  <ResetAdaptiveTutor>Resetare tutore</ResetAdaptiveTutor>
   <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
-  <AdaptiveTutorIsReset>TODO</AdaptiveTutorIsReset>
+  <AdaptiveTutorIsReset>Tutorele a fost resetat. O va lua de la început.</AdaptiveTutorIsReset>
   <!-- EN: Run in background -->
-  <RunInBackground>TODO</RunInBackground>
+  <RunInBackground>Continuă jocul minimizat</RunInBackground>
   <!-- EN: Development mode -->
-  <DevelopmentMode>TODO</DevelopmentMode>
+  <DevelopmentMode>Modul de depanare</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>TODO</ResetModsConfigOnCrash>
+  <!-- EN: Simulate not owning Royalty -->
+  <SimulateNotOwningRoyalty>TODO</SimulateNotOwningRoyalty>
   <!-- EN: Verbose logging -->
-  <LogVerbose>TODO</LogVerbose>
+  <LogVerbose>Înregistrare tip Verbose</LogVerbose>
   <!-- EN: Open save data folder -->
-  <OpenSaveGameDataFolder>TODO</OpenSaveGameDataFolder>
+  <OpenSaveGameDataFolder>Deschide fișierul cu salvări</OpenSaveGameDataFolder>
   <!-- EN: Show save data location -->
   <ShowSaveGameDataLocation>TODO</ShowSaveGameDataLocation>
+  <!-- EN: Open log file folder -->
+  <OpenLogFileFolder>TODO</OpenLogFileFolder>
+  <!-- EN: Show log file location -->
+  <ShowLogFileLocation>TODO</ShowLogFileLocation>
   <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
-  <NamesYouWantToSee>TODO</NamesYouWantToSee>
+  <NamesYouWantToSee>Numele de familie ale caracterelor ce vor apărea în joc:</NamesYouWantToSee>
   <!-- EN: Add name -->
   <AddName>TODO</AddName>
   <!-- EN: Type the first name, nickname, or last name. -->
@@ -55,7 +63,7 @@
   <!-- EN: This name is already on the preferred list. -->
   <MessageAlreadyPreferredName>TODO</MessageAlreadyPreferredName>
   <!-- EN: Storyteller settings -->
-  <ChangeStoryteller>TODO</ChangeStoryteller>
+  <ChangeStoryteller>Alege un povestitor</ChangeStoryteller>
   <!-- EN: Autosave interval -->
   <AutosaveInterval>TODO</AutosaveInterval>
   <!-- EN: Temperature mode -->
@@ -64,6 +72,8 @@
   <ShowRealtimeClock>TODO</ShowRealtimeClock>
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>TODO</MaxNumberOfPlayerSettlements>
+  <!-- EN: Map mouse drag sensitivity -->
+  <MapDragSensitivity>TODO</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
   <PlantWindSway>TODO</PlantWindSway>
   <!-- EN: Enable test map sizes -->
@@ -77,9 +87,9 @@
 
   <!-- Resolution -->
   <!-- EN: Resolution -->
-  <Resolution>TODO</Resolution>
+  <Resolution>Rezoluție</Resolution>
   <!-- EN: Fullscreen -->
-  <Fullscreen>TODO</Fullscreen>
+  <Fullscreen>Pe tot ecranul</Fullscreen>
 
   <!-- Mods -->
   <!-- EN: Select mod... -->
@@ -92,5 +102,7 @@
   <RestoreToDefaultSettings>TODO</RestoreToDefaultSettings>
   <!-- EN: Your options have been reset. The game will now restart automatically. -->
   <ResetAndRestart>TODO</ResetAndRestart>
+  <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
+  <ResetAndRestartConfirmationDialog>TODO</ResetAndRestartConfirmationDialog>
   
 </LanguageData>

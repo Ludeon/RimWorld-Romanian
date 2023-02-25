@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: bird -->
-  <Bird.label>TODO</Bird.label>
+  <Bird.label>Pasăre</Bird.label>
   <!-- EN: left lung -->
   <Bird.corePart.parts.left_lung.customLabel>TODO</Bird.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->

@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: beer brewing -->
-  <Brewing.label>TODO</Brewing.label>
+  <Brewing.label>Brauen</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
-  <Brewing.description>TODO</Brewing.description>
+  <Brewing.description>Schaltet die Brauerei frei. Angebauter Hopfen kann nun in leckeres Bier verwandeln werden.</Brewing.description>
   
   <!-- EN: carpet making -->
-  <CarpetMaking.label>TODO</CarpetMaking.label>
+  <CarpetMaking.label>Teppichherstellung</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
-  <CarpetMaking.description>TODO</CarpetMaking.description>
+  <CarpetMaking.description>Schaltet Teppiche frei. Hiermit kann die Umgebung der Kolonisten verschönert werden.</CarpetMaking.description>
   
   <!-- EN: cocoa -->
   <Cocoa.label>TODO</Cocoa.label>
@@ -63,7 +63,7 @@
   
   <!-- EN: penoxycyline production -->
   <PenoxycylineProduction.label>TODO</PenoxycylineProduction.label>
-  <!-- EN: Produce penoxycline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
   <PenoxycylineProduction.description>TODO</PenoxycylineProduction.description>
   
   <!-- EN: plate armor -->
@@ -92,9 +92,9 @@
   <Smithing.description>TODO</Smithing.description>
   
   <!-- EN: stonecutting -->
-  <Stonecutting.label>TODO</Stonecutting.label>
+  <Stonecutting.label>Steinhauerei</Stonecutting.label>
   <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
-  <Stonecutting.description>TODO</Stonecutting.description>
+  <Stonecutting.description>Schaltet den Arbeitstisch des Steinmetztes frei. Dies ermöglicht die Verarbeitung von Felsbrocken zu verwendbarem Baumaterial.</Stonecutting.description>
   
   <!-- EN: tree sowing -->
   <TreeSowing.label>TODO</TreeSowing.label>

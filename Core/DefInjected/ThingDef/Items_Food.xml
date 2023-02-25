@@ -7,29 +7,29 @@
   <Kibble.description>TODO</Kibble.description>
   
   <!-- EN: fine meal -->
-  <MealFine.label>TODO</MealFine.label>
+  <MealFine.label>Leckere Mahlzeit</MealFine.label>
   <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
-  <MealFine.description>TODO</MealFine.description>
+  <MealFine.description>Ein komplexes Gericht, mit einer großen Zutatenvariation.</MealFine.description>
   
   <!-- EN: lavish meal -->
-  <MealLavish.label>TODO</MealLavish.label>
+  <MealLavish.label>Üppige Mahlzeit</MealLavish.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
-  <MealLavish.description>TODO</MealLavish.description>
+  <MealLavish.description>Ein Meisterwerk der Kochkunst. Dieses Essen nährt Körper, Geist und Seele.</MealLavish.description>
   
   <!-- EN: nutrient paste meal -->
-  <MealNutrientPaste.label>TODO</MealNutrientPaste.label>
+  <MealNutrientPaste.label>Nährstoffpaste</MealNutrientPaste.label>
   <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
-  <MealNutrientPaste.description>TODO</MealNutrientPaste.description>
+  <MealNutrientPaste.description>Eine synthetische Mischung aus Proteinen, Vitaminen, Kohlenhydraten, Aminosäuren und Mineralien. Also kurz gesagt: Alles, was der Körper braucht. Aber auch verdammt widerlich.</MealNutrientPaste.description>
   
   <!-- EN: simple meal -->
-  <MealSimple.label>TODO</MealSimple.label>
+  <MealSimple.label>Einfache Mahlzeit</MealSimple.label>
   <!-- EN: A simple meal quickly cooked from one main ingredient. -->
-  <MealSimple.description>TODO</MealSimple.description>
+  <MealSimple.description>Eine einfache Mahlzeit, die schnell mit ein paar wenigen Zutaten zubereitet wurde.</MealSimple.description>
   
   <!-- EN: packaged survival meal -->
-  <MealSurvivalPack.label>TODO</MealSurvivalPack.label>
+  <MealSurvivalPack.label>Überlebensration</MealSurvivalPack.label>
   <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
-  <MealSurvivalPack.description>TODO</MealSurvivalPack.description>
+  <MealSurvivalPack.description>Eine Qualitätsmahlzeit in gepresster Form. Diese Mahlzeit soll im Notfall das Überleben sicherstellen.</MealSurvivalPack.description>
   
   <!-- EN: pemmican -->
   <Pemmican.label>TODO</Pemmican.label>

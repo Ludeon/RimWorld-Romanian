@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Capturing.helpTexts.1>Um jemanden gefangen zu nehmen, wähle zunächst einen Kolonisten aus. Selektiere dann den bewusstlosen Gegner mit einem Rechtsklick und wähle 'Fangen' im Kontextmenü.\n\nDafür benötigst du ein Bett im Gefangenenmodus.</Capturing.helpTexts.1>
+  
+  <!-- UNUSED -->
+  <Drafting.helpTexts.1>Kolonisten mit gezogener Waffe machen nur das, was du ihnen sagst und können nur kämpfen. Kolonisten mit Waffen benutzen diese auch.\n\nLasse Kolonisten nicht für immer mit gezogener Waffe herumlaufen - sie werden unglücklich und verhungern.</Drafting.helpTexts.1>
+  
+  <!-- UNUSED -->
+  <StorageTabCategories.helpText>Im Reiter 'Lager' kannst du die Kategorien erweitern und bestimmte Gegenstände erlauben oder verbieten. Klicke auf die Dreiecke links neben den Kategorienamen.</StorageTabCategories.helpText>
+  
+</LanguageData>

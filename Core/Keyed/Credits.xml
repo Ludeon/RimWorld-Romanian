@@ -9,13 +9,13 @@
   <!-- EN: Direction, design, code, art -->
   <Credit_DirectionVarious>TODO</Credit_DirectionVarious>
   <!-- EN: Audio -->
-  <Credit_MusicAndSound>TODO</Credit_MusicAndSound>
+  <Credit_MusicAndSound>Muzică și sunet</Credit_MusicAndSound>
   <!-- EN: Code -->
   <Credit_Code>TODO</Credit_Code>
   <!-- EN: Art -->
-  <Credit_GameArt>TODO</Credit_GameArt>
+  <Credit_GameArt>Arta jocului</Credit_GameArt>
   <!-- EN: Menu art -->
-  <Credit_MenuArt>TODO</Credit_MenuArt>
+  <Credit_MenuArt>Arta meniului</Credit_MenuArt>
   <!-- EN: Additional code -->
   <Credit_AdditionalCode>TODO</Credit_AdditionalCode>
   
@@ -28,7 +28,7 @@
   <!-- EN: Community volunteers -->
   <Credits_TitleCommunity>TODO</Credits_TitleCommunity>
   <!-- EN: Tester -->
-  <Credit_Tester>TODO</Credit_Tester>
+  <Credit_Tester>Tester</Credit_Tester>
   <!-- EN: Mod donor -->
   <Credit_ModDonation>TODO</Credit_ModDonation>
   <!-- EN: Writing donor -->
@@ -39,15 +39,15 @@
   <Credit_WikiMaster>TODO</Credit_WikiMaster>
 
   <!-- EN: {0} language -->
-  <Credits_TitleLanguage>TODO</Credits_TitleLanguage>
+  <Credits_TitleLanguage>{0} language</Credits_TitleLanguage>
   <!-- EN: Writer -->
-  <Credit_Writer>TODO</Credit_Writer>
+  <Credit_Writer>Autor</Credit_Writer>
   <!-- EN: Translator -->
-  <Credit_Translator>TODO</Credit_Translator>
+  <Credit_Translator>Traducător</Credit_Translator>
   <!-- EN: Open source libraries -->
-  <Credit_OpenSourceLibraries>TODO</Credit_OpenSourceLibraries>
+  <Credit_OpenSourceLibraries>Biblioteci OpenSource</Credit_OpenSourceLibraries>
   <!-- EN: Noise generation -->
-  <Credit_NoiseGeneration>TODO</Credit_NoiseGeneration>
+  <Credit_NoiseGeneration>Generare zgomot</Credit_NoiseGeneration>
 
   <!-- EN: Thanks for playing! -->
   <ThanksForPlaying>TODO</ThanksForPlaying>

@@ -8,7 +8,8 @@
   <Explosion.label>TODO</Explosion.label>
   
   <!-- EN: rect trigger -->
-  <RectTrigger.label>TODO</RectTrigger.label>
+  <RectTrigger.label>Rechteckauslöser</RectTrigger.label>
+  <RectTrigger.description>Ein rechteckiger Auslöser.</RectTrigger.description>
   
   <!-- EN: tornado -->
   <Tornado.label>TODO</Tornado.label>

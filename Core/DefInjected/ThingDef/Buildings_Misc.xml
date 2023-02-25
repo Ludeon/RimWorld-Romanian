@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: ancient cryptosleep casket -->
-  <AncientCryptosleepCasket.label>TODO</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.label>Antike Kryoschlafkapsel</AncientCryptosleepCasket.label>
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
-  <AncientCryptosleepCasket.description>TODO</AncientCryptosleepCasket.description>
+  <AncientCryptosleepCasket.description>Diese Kryoschlafkapsel sieht aus, als ob sie schon eine sehr lange Zeit hier ist. Was sie wohl enthalten mag?</AncientCryptosleepCasket.description>
   
   <!-- EN: caravan packing spot -->
   <CaravanPackingSpot.label>TODO</CaravanPackingSpot.label>
@@ -12,14 +12,14 @@
   <CaravanPackingSpot.description>TODO</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
-  <CommsConsole.label>TODO</CommsConsole.label>
+  <CommsConsole.label>Funkanlage</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
-  <CommsConsole.description>TODO</CommsConsole.description>
+  <CommsConsole.description>Kommuniziere mit nahen Raumschiffen oder anderen Fraktionen zum Tauschen und Handeln.</CommsConsole.description>
   
   <!-- EN: cryptosleep casket -->
-  <CryptosleepCasket.label>TODO</CryptosleepCasket.label>
+  <CryptosleepCasket.label>Kryoschlaf Kapsel</CryptosleepCasket.label>
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
-  <CryptosleepCasket.description>TODO</CryptosleepCasket.description>
+  <CryptosleepCasket.description>Eine selbstversorgende Kapsel, die darauf ausgelegt ist, die Insassen jahrzehntelang in einen künstlichen Winterschlaf zu versetzen.</CryptosleepCasket.description>
   
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>TODO</FirefoamPopper.label>
@@ -29,18 +29,18 @@
   <FirefoamPopper.comps.CompUsable.useLabel>TODO</FirefoamPopper.comps.CompUsable.useLabel>
   
   <!-- EN: grave -->
-  <Grave.label>TODO</Grave.label>
+  <Grave.label>Grab</Grave.label>
   <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
-  <Grave.description>TODO</Grave.description>
+  <Grave.description>Lege die Toten in Gräber und gib ihnen eine gebührende Ruhestätte.</Grave.description>
   
   <!-- EN: ground-penetrating scanner -->
   <GroundPenetratingScanner.label>TODO</GroundPenetratingScanner.label>
-  <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
+  <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
   <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>TODO</LongRangeMineralScanner.label>
-  <!-- EN: Can be used by researchers to detect a specific type of mineral across the planet. The time it takes to find the resource is somewhat random, and depends on researcher skill. -->
+  <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
   <LongRangeMineralScanner.description>TODO</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
@@ -59,9 +59,9 @@
   <MultiAnalyzer.description>TODO</MultiAnalyzer.description>
   
   <!-- EN: orbital trade beacon -->
-  <OrbitalTradeBeacon.label>TODO</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.label>Orbitales Funkfeuer</OrbitalTradeBeacon.label>
   <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
-  <OrbitalTradeBeacon.description>TODO</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon.description>Für orbitalen Handel benötigt.\nDu kannst nur Waren verkaufen, welche sich in der Lagerzone eines Funkfeuers befinden. Kann auch Innen plaziert werden.</OrbitalTradeBeacon.description>
   
   <!-- EN: party spot -->
   <PartySpot.label>TODO</PartySpot.label>
@@ -77,6 +77,16 @@
   <Sarcophagus.label>TODO</Sarcophagus.label>
   <!-- EN: An ornamented burial receptacle for the honored dead. -->
   <Sarcophagus.description>TODO</Sarcophagus.description>
+  
+  <!-- EN: grand stele -->
+  <SteleGrand.label>TODO</SteleGrand.label>
+  <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleGrand.description>TODO</SteleGrand.description>
+  
+  <!-- EN: large stele -->
+  <SteleLarge.label>TODO</SteleLarge.label>
+  <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
+  <SteleLarge.description>TODO</SteleLarge.description>
   
   <!-- EN: tool cabinet -->
   <ToolCabinet.label>TODO</ToolCabinet.label>

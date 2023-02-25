@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: billiards table -->
-  <BilliardsTable.label>TODO</BilliardsTable.label>
+  <BilliardsTable.label>Billardtisch</BilliardsTable.label>
   <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
-  <BilliardsTable.description>TODO</BilliardsTable.description>
+  <BilliardsTable.description>Ein Tisch mit einer weichen Oberfläche zum Spielen der verschiedenen Billardarten.</BilliardsTable.description>
   
   <!-- EN: chess table -->
-  <ChessTable.label>TODO</ChessTable.label>
+  <ChessTable.label>Schach Tisch</ChessTable.label>
   <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills. -->
-  <ChessTable.description>TODO</ChessTable.description>
+  <ChessTable.description>Das antike Spiel der Könige. Bringt Spaß für ein paar Stunden. Sogar dann, wenn man alleine spielt.</ChessTable.description>
   
   <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
   <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
   <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
   
-  <!-- EN: game-of-Ur board -->
+  <!-- EN: Game-of-Ur board -->
   <GameOfUrBoard.label>TODO</GameOfUrBoard.label>
   <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
   <GameOfUrBoard.description>TODO</GameOfUrBoard.description>
@@ -27,9 +27,9 @@
   <HoopstoneRing.description>TODO</HoopstoneRing.description>
   
   <!-- EN: horseshoes pin -->
-  <HorseshoesPin.label>TODO</HorseshoesPin.label>
+  <HorseshoesPin.label>Hufeisen Werfen</HorseshoesPin.label>
   <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
-  <HorseshoesPin.description>TODO</HorseshoesPin.description>
+  <HorseshoesPin.description>Ein einfaches antikes Spiel, das mit ein paar Hufeisen und einem großen Stab gespielt wird. Die Spieler werfen ihre Hufeisen über eine festgelegte Entfernung und versuchen, dass es so nah wie möglich am Stab landet. Es entspannt und ist nebenbei noch gut für die Auge-Hand-Koordination.</HorseshoesPin.description>
   
   <!-- EN: megascreen television -->
   <MegascreenTelevision.label>TODO</MegascreenTelevision.label>
@@ -42,9 +42,13 @@
   <PokerTable.description>TODO</PokerTable.description>
   
   <!-- EN: telescope -->
-  <Telescope.label>TODO</Telescope.label>
+  <Telescope.label>Teleskop</Telescope.label>
   <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
-  <Telescope.description>TODO</Telescope.description>
+  <Telescope.description>Ein Teleskop für den Amateur-Astronomen. Für bestimmte Arten von Personen ist es ein entspannendes Hobby, das ihnen Spaß macht.</Telescope.description>
+  
+  <!-- UNUSED -->
+  <Television.label>Fernseher</Television.label>
+  <Television.description>Ein Bildschirm mit einer Kathodenstrahlröhre, um die unterschiedlichsten beweglichen Bilder mit Ton darzustellen. Sogar auf den Randwelten gibt es oft einen alten Sender, der etwas sendet, was zumindest ansatzweise interessant ist.</Television.description>
   
   <!-- EN: tube television -->
   <TubeTelevision.label>TODO</TubeTelevision.label>

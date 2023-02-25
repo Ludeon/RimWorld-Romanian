@@ -24,12 +24,12 @@
   <!-- EN: Camera dolly -->
   <CameraDolly.label>TODO</CameraDolly.label>
   <!-- EN: Move the camera by clicking and dragging the MOUSE BUTTON 3 (middle button) or with the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys. -->
-  <CameraDolly.helpText>TODO</CameraDolly.helpText>
+  <CameraDolly.helpText>Bewege die Kamera durch Ziehen mit gedrückter MITTLERER MAUSTASTE oder mit den WASD-Tasten.</CameraDolly.helpText>
   
   <!-- EN: Camera zoom -->
-  <CameraZoom.label>TODO</CameraZoom.label>
+  <CameraZoom.label>Erlerne, die Kamera zu zoomen</CameraZoom.label>
   <!-- EN: Zoom in and out with the MOUSEWHEEL or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys. -->
-  <CameraZoom.helpText>TODO</CameraZoom.helpText>
+  <CameraZoom.helpText>Zoome rein und raus mit dem MAUSRAD oder den Tasten T und G.</CameraZoom.helpText>
   
   <!-- EN: Clicking messages -->
   <ClickingMessages.label>TODO</ClickingMessages.label>
@@ -44,12 +44,12 @@
   <!-- EN: Item deterioration -->
   <Deterioration.label>TODO</Deterioration.label>
   <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
-  <Deterioration.helpText>TODO</Deterioration.helpText>
+  <Deterioration.helpText>Gegenstände, die unter freiem Himmel liegen, werden langsam verfallen.\n\nWenn du dies verhindern möchtest, lagere diese stets unter einem Dach.</Deterioration.helpText>
   
   <!-- EN: Equipping weapons -->
-  <EquippingWeapons.label>TODO</EquippingWeapons.label>
+  <EquippingWeapons.label>Waffen ausrüsten</EquippingWeapons.label>
   <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
-  <EquippingWeapons.helpText>TODO</EquippingWeapons.helpText>
+  <EquippingWeapons.helpText>Damit Kolonisten eine Waffe ausrüsten, wähle den Kolonisten aus und rechtsklicke die Waffe.\n\nEs sind 3 Waffen an der Landungsstelle zu finden.</EquippingWeapons.helpText>
   
   <!-- EN: Fire preparation -->
   <FirePreparation.label>TODO</FirePreparation.label>
@@ -57,9 +57,9 @@
   <FirePreparation.helpText>TODO</FirePreparation.helpText>
   
   <!-- EN: Forbid and allow -->
-  <Forbidding.label>TODO</Forbidding.label>
+  <Forbidding.label>Erlaube Interaktion</Forbidding.label>
   <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
-  <Forbidding.helpText>TODO</Forbidding.helpText>
+  <Forbidding.helpText>Kolonisten werden nicht mit Gegenständen interagieren, die als VERBOTEN markiert sind.\n\nWähle das Metall und die Nahrung an deiner Landungsstelle aus und drücke F, um die Interaktion zu ERLAUBEN.</Forbidding.helpText>
   
   <!-- EN: Forbidding doors -->
   <ForbiddingDoors.label>TODO</ForbiddingDoors.label>
@@ -82,19 +82,19 @@
   <GettingMoreTraders.helpText>TODO</GettingMoreTraders.helpText>
   
   <!-- EN: Growing zones -->
-  <GrowingFood.label>TODO</GrowingFood.label>
+  <GrowingFood.label>Plaziere eine Anbauzone</GrowingFood.label>
   <!-- EN: To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground. -->
-  <GrowingFood.helpText>TODO</GrowingFood.helpText>
+  <GrowingFood.helpText>Um Nahrung anzubauen, platziere eine ANBAUZONE aus dem ARCHITEKT-Menü.\n\nDie Zone kann nur auf fruchtbarem Boden platziert werden.</GrowingFood.helpText>
   
   <!-- EN: History tab -->
-  <HistoryTab.label>TODO</HistoryTab.label>
+  <HistoryTab.label>Erlerne den Geschichts-Tab</HistoryTab.label>
   <!-- EN: You can see a record of your colony's fortunes over time in the HISTORY tab at the bottom of the screen. -->
-  <HistoryTab.helpText>TODO</HistoryTab.helpText>
+  <HistoryTab.helpText>Du kannst den zeitlichen Verlauf der Geschichte deiner Kolonie über die Schaltfläche GESCHICHTE oberhalb der ÜBERSICHT Schaltfläche aufrufen.</HistoryTab.helpText>
   
   <!-- EN: Home area -->
-  <HomeArea.label>TODO</HomeArea.label>
+  <HomeArea.label>Erlerne HEIMATGEBIETE erstellen</HomeArea.label>
   <!-- EN: The HOME AREA tells your colonists which area to clean and where to extinguish fires.\n\nDefine the HOME AREA with the Zones category under the Architect menu. -->
-  <HomeArea.helpText>TODO</HomeArea.helpText>
+  <HomeArea.helpText>HEIMATGEBIETE zeigen den Kolonisten, wo sie sauber machen und Feuer löschen sollen.\n\nPlaziere ein HEIMATGEBIET aus der Kategorie 'Gebiete' im Architekt Menü.</HomeArea.helpText>
   
   <!-- EN: Hostility response modes -->
   <HostilityResponse.label>TODO</HostilityResponse.label>
@@ -102,9 +102,9 @@
   <HostilityResponse.helpText>TODO</HostilityResponse.helpText>
   
   <!-- EN: Info card -->
-  <InfoCard.label>TODO</InfoCard.label>
+  <InfoCard.label>Öffne die Informationskarte</InfoCard.label>
   <!-- EN: The info card shows you detailed statistics about any item, person, or construction.\n\nSelect a person or item and open their info card with the 'i' button on the inspect pane. -->
-  <InfoCard.helpText>TODO</InfoCard.helpText>
+  <InfoCard.helpText>Die Informationskarte zeigt dir eine detaillierte Statistik über alle Bestandteile deiner Kolonie.\n\nWähle eine Person oder einen Gegenstand aus und öffne die zugehörige Informationskarte mit der Schaltfläche 'i' auf der Ansichtsseite links unten.</InfoCard.helpText>
   
   <!-- EN: Room stats inspector -->
   <InspectRoomStats.label>TODO</InspectRoomStats.label>
@@ -117,14 +117,14 @@
   <ManualWorkPriorities.helpText>TODO</ManualWorkPriorities.helpText>
   
   <!-- EN: Medical operations -->
-  <MedicalOperations.label>TODO</MedicalOperations.label>
+  <MedicalOperations.label>Erlerne medizinische Operationen</MedicalOperations.label>
   <!-- EN: To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab. -->
-  <MedicalOperations.helpText>TODO</MedicalOperations.helpText>
+  <MedicalOperations.helpText>Um eine medizinische Operation wie z.B. eine Organentnahme oder die Installation einer Prothese vorzunehmen, öffne den GESUNDHEIT-Reiter eines Kolonisten und wechsle zum Unterreiter OPERATIONEN.</MedicalOperations.helpText>
   
   <!-- EN: Mining -->
   <Mining.label>TODO</Mining.label>
   <!-- EN: You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.\n\nSome mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials. -->
-  <Mining.helpText>TODO</Mining.helpText>
+  <Mining.helpText>Du kannst befehlen, wo etwas abgebaut werden soll, indem du das ARCHITEKT Menü öffnest und das BEFEHLE Menü auswählst.\n\nAus einigen abbaubaren Blöcken bekommt man STAHL, GOLD, PLASTAHL und andere nützliche Materialien.</Mining.helpText>
   
   <!-- EN: Outfits -->
   <Outfits.label>TODO</Outfits.label>
@@ -147,14 +147,14 @@
   <SpoilageAndFreezers.helpText>TODO</SpoilageAndFreezers.helpText>
   
   <!-- EN: Stockpiles -->
-  <Stockpiles.label>TODO</Stockpiles.label>
+  <Stockpiles.label>Definiere Lagerplatz</Stockpiles.label>
   <!-- EN: Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.\n\nFind the stockpile in the ZONES section of the ARCHITECT menu in the lower-left. -->
-  <Stockpiles.helpText>TODO</Stockpiles.helpText>
+  <Stockpiles.helpText>Deine Kolonisten benötigen einen Ort, um Gegenstände zu lagern. Definiere einen LAGERPLATZ, auf dem sie Gegenstände lagern können.\n\nDu findest die LAGERZONEN im Abschnitt ZONEN im ARCHITEKT-Menü..</Stockpiles.helpText>
   
   <!-- EN: Storage tab -->
-  <StorageTab.label>TODO</StorageTab.label>
+  <StorageTab.label>Erlerne den Reiter 'Lager'</StorageTab.label>
   <!-- EN: You can configure stockpiles and storage buildings by selecting them and opening the STORAGE TAB above the bottom-left inspector pane.\n\nIn the storage tab of a stockpile, you can expand categories to allow or deny specific items. Click the triangles to the left of category names.\n\nYou can change the PRIORITY of storage. Colonists will fill higher-priority storage first, and move items from lower to higher priority. -->
-  <StorageTab.helpText>TODO</StorageTab.helpText>
+  <StorageTab.helpText>Du kannst Lager- und Abfallzonen durch den Reiter 'Lager' konfiguriere, um genau festzulegen, was dort eingelagert werden soll und was nicht.</StorageTab.helpText>
   
   <!-- EN: Time assignments -->
   <TimeAssignments.label>TODO</TimeAssignments.label>
@@ -162,9 +162,9 @@
   <TimeAssignments.helpText>TODO</TimeAssignments.helpText>
   
   <!-- EN: Time controls -->
-  <TimeControls.label>TODO</TimeControls.label>
+  <TimeControls.label>Erlerne die Zeitkontrolle</TimeControls.label>
   <!-- EN: You can speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
-  <TimeControls.helpText>TODO</TimeControls.helpText>
+  <TimeControls.helpText>Du kannst die Zeit beschleunigen, verlangsamen oder pausieren. Das machst du mit der Zeitsteuerung am rechten unteren Bildschirmrand.</TimeControls.helpText>
   
   <!-- EN: Work settings -->
   <WorkTab.label>TODO</WorkTab.label>

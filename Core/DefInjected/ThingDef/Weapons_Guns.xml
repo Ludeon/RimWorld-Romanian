@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Bullet_PDW.label>Kugel (PDW)</Bullet_PDW.label>
+  
+  <!-- UNUSED -->
+  <Bullet_PumpShotgun.label>Schrotflintenkugeln</Bullet_PumpShotgun.label>
+  
+  <!-- UNUSED -->
+  <Gun_PDW.label>PDW</Gun_PDW.label>
+  <Gun_PDW.description>Mikro-Maschinenpistole. Niedrige Reichweite und Durchschlagkraft, hohe Feuergeschwindigkeit. Sehr schnell beim Zielen und Abfeuern.</Gun_PDW.description>
+  
+</LanguageData>

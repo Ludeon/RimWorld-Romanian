@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: drifter -->
-  <Drifter.label>TODO</Drifter.label>
+  <Drifter.label>Wanderer</Drifter.label>
   
   <!-- EN: pirate gunner -->
-  <Pirate.label>TODO</Pirate.label>
+  <Pirate.label>Pirat</Pirate.label>
   
   <!-- EN: scavenger gunner -->
-  <Scavenger.label>TODO</Scavenger.label>
+  <Scavenger.label>Plünderer</Scavenger.label>
   
   <!-- EN: scavenger thrasher -->
-  <Thrasher.label>TODO</Thrasher.label>
+  <Thrasher.label>Schläger</Thrasher.label>
   
 </LanguageData>

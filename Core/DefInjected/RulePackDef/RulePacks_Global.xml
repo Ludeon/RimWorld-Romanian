@@ -1,56 +1,105 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN:
-    <li>Trans->of</li>
-    <li>Trans->for</li>
-    <li>Trans->by</li>
-    <li>Trans->with</li>
-    <li>Character(p=6)->[PersonJob]</li>
-    <li>Character(p=4)->[Animal]</li>
-    <li>Character(p=3)->[Enemy]</li>
-    <li>Character->[Mechanoid]</li>
-    <li>Quantity_adjphrase->two</li>
-    <li>Quantity_adjphrase->three</li>
-    <li>Quantity_adjphrase->four</li>
-    <li>Quantity_adjphrase->five</li>
-    <li>Quantity_adjphrase->six</li>
-    <li>Quantity_adjphrase->seven</li>
-    <li>Quantity_adjphrase->eight</li>
-    <li>Quantity_adjphrase->nine</li>
-    <li>Quantity_adjphrase->ten</li>
-    <li>Quantity_adjphrase->several</li>
-    <li>Quantity_adjphrase->a group of</li>
-    <li>Quantity_adjphrase->a large group of</li>
-    <li>Quantity_adjphrase->dozens of</li>
-    <li>Quantity_adjphrase->hundreds of</li>
-    <li>Quantity_adjphrase->a thousand</li>
-    <li>Quantity_adjphrase->thousands of</li>
-    <li>Shape->triangle</li>
-    <li>Shape->square</li>
-    <li>Shape->rectangle</li>
-    <li>Shape->cone</li>
-    <li>Shape->line</li>
-    <li>Shape->heart</li>
-    <li>Shape->star</li>
-    <li>Shape->circle</li>
-    <li>Shape->ellipse</li>
-    <li>AdjectiveAny->[AdjectiveBadass]</li>
-    <li>AdjectiveAny->[AdjectiveAngsty]</li>
-    <li>AdjectiveAny->[AdjectiveFriendly]</li>
-    <li>AdjectiveAny->[AdjectiveNatural]</li>
-    <li>ConceptAny->[ConceptPositive]</li>
-    <li>ConceptAny->[ConceptBadass]</li>
-    <li>ConceptAny->[ConceptAngsty]</li>
-    <li>PersonalCharacteristic(p=0.15)->genitals</li>
-    <li>PersonalCharacteristic(p=0.15)->pubic hair</li>
-    <li>PersonalCharacteristic(p=0.15)->body hair</li>
-    <li>PersonalCharacteristic(p=0.15)->toilet habits</li>
-    <li>PersonalCharacteristic(p=0.15)->sexual prowess</li>
-    <li>PersonalCharacteristic(p=0.15)->sexual preferences</li>
-    <li>PersonalCharacteristic(p=0.15)->sexual experience</li>
-  -->
-  <GlobalUtility.rulePack.rulesStrings>TODO</GlobalUtility.rulePack.rulesStrings>
+  <!-- UNUSED -->
+  <GlobalCircumstances.rulePack.rulesStrings.0>circumstance_group->[circumstance_phrase] [date_phrase]</GlobalCircumstances.rulePack.rulesStrings.0>
+  <GlobalCircumstances.rulePack.rulesStrings.1>circumstance_phrase-></GlobalCircumstances.rulePack.rulesStrings.1>
+  <GlobalCircumstances.rulePack.rulesStrings.2>date_phrase->am [date]</GlobalCircumstances.rulePack.rulesStrings.2>
+  
+  <!-- EN: Trans->of -->
+  <GlobalUtility.rulePack.rulesStrings.0>quantity_adjphrase->eine Gruppe</GlobalUtility.rulePack.rulesStrings.0>
+  <!-- EN: Trans->for -->
+  <GlobalUtility.rulePack.rulesStrings.1>quantity_adjphrase->einige</GlobalUtility.rulePack.rulesStrings.1>
+  <!-- EN: Trans->by -->
+  <GlobalUtility.rulePack.rulesStrings.2>quantity_adjphrase->dutzende</GlobalUtility.rulePack.rulesStrings.2>
+  <!-- EN: Trans->with -->
+  <GlobalUtility.rulePack.rulesStrings.3>quantity_adjphrase->zwei</GlobalUtility.rulePack.rulesStrings.3>
+  <!-- EN: Character(p=6)->[PersonJob] -->
+  <GlobalUtility.rulePack.rulesStrings.4>quantity_adjphrase->drei</GlobalUtility.rulePack.rulesStrings.4>
+  <!-- EN: Character(p=4)->[Animal] -->
+  <GlobalUtility.rulePack.rulesStrings.5>quantity_adjphrase->vier</GlobalUtility.rulePack.rulesStrings.5>
+  <!-- EN: Character(p=3)->[Enemy] -->
+  <GlobalUtility.rulePack.rulesStrings.6>quantity_adjphrase->fünf</GlobalUtility.rulePack.rulesStrings.6>
+  <!-- EN: Character->[Mechanoid] -->
+  <GlobalUtility.rulePack.rulesStrings.7>quantity_adjphrase->sechs</GlobalUtility.rulePack.rulesStrings.7>
+  <!-- EN: Quantity_adjphrase->two -->
+  <GlobalUtility.rulePack.rulesStrings.8>quantity_adjphrase->unzählige</GlobalUtility.rulePack.rulesStrings.8>
+  <!-- EN: Quantity_adjphrase->three -->
+  <GlobalUtility.rulePack.rulesStrings.9>quantity_adjphrase->viele</GlobalUtility.rulePack.rulesStrings.9>
+  <!-- EN: Quantity_adjphrase->four -->
+  <GlobalUtility.rulePack.rulesStrings.10>game->Poker</GlobalUtility.rulePack.rulesStrings.10>
+  <!-- EN: Quantity_adjphrase->five -->
+  <GlobalUtility.rulePack.rulesStrings.11>game->Schach</GlobalUtility.rulePack.rulesStrings.11>
+  <!-- EN: Quantity_adjphrase->six -->
+  <GlobalUtility.rulePack.rulesStrings.12>game->Karten</GlobalUtility.rulePack.rulesStrings.12>
+  <!-- EN: Quantity_adjphrase->seven -->
+  <GlobalUtility.rulePack.rulesStrings.13>game->Backgammon</GlobalUtility.rulePack.rulesStrings.13>
+  <!-- EN: Quantity_adjphrase->eight -->
+  <GlobalUtility.rulePack.rulesStrings.14>game->RimWorld</GlobalUtility.rulePack.rulesStrings.14>
+  <!-- EN: Quantity_adjphrase->nine -->
+  <GlobalUtility.rulePack.rulesStrings.15>game->Monopoly</GlobalUtility.rulePack.rulesStrings.15>
+  <!-- EN: Quantity_adjphrase->ten -->
+  <GlobalUtility.rulePack.rulesStrings.16>game->Roulett</GlobalUtility.rulePack.rulesStrings.16>
+  <!-- EN: Quantity_adjphrase->several -->
+  <GlobalUtility.rulePack.rulesStrings.17>game->Blackjack</GlobalUtility.rulePack.rulesStrings.17>
+  <!-- EN: Quantity_adjphrase->a group of -->
+  <GlobalUtility.rulePack.rulesStrings.18>TODO</GlobalUtility.rulePack.rulesStrings.18>
+  <!-- EN: Quantity_adjphrase->a large group of -->
+  <GlobalUtility.rulePack.rulesStrings.19>TODO</GlobalUtility.rulePack.rulesStrings.19>
+  <!-- EN: Quantity_adjphrase->dozens of -->
+  <GlobalUtility.rulePack.rulesStrings.20>TODO</GlobalUtility.rulePack.rulesStrings.20>
+  <!-- EN: Quantity_adjphrase->hundreds of -->
+  <GlobalUtility.rulePack.rulesStrings.21>TODO</GlobalUtility.rulePack.rulesStrings.21>
+  <!-- EN: Quantity_adjphrase->a thousand -->
+  <GlobalUtility.rulePack.rulesStrings.22>TODO</GlobalUtility.rulePack.rulesStrings.22>
+  <!-- EN: Quantity_adjphrase->thousands of -->
+  <GlobalUtility.rulePack.rulesStrings.23>TODO</GlobalUtility.rulePack.rulesStrings.23>
+  <!-- EN: Shape->triangle -->
+  <GlobalUtility.rulePack.rulesStrings.24>TODO</GlobalUtility.rulePack.rulesStrings.24>
+  <!-- EN: Shape->square -->
+  <GlobalUtility.rulePack.rulesStrings.25>TODO</GlobalUtility.rulePack.rulesStrings.25>
+  <!-- EN: Shape->rectangle -->
+  <GlobalUtility.rulePack.rulesStrings.26>TODO</GlobalUtility.rulePack.rulesStrings.26>
+  <!-- EN: Shape->cone -->
+  <GlobalUtility.rulePack.rulesStrings.27>TODO</GlobalUtility.rulePack.rulesStrings.27>
+  <!-- EN: Shape->line -->
+  <GlobalUtility.rulePack.rulesStrings.28>TODO</GlobalUtility.rulePack.rulesStrings.28>
+  <!-- EN: Shape->heart -->
+  <GlobalUtility.rulePack.rulesStrings.29>TODO</GlobalUtility.rulePack.rulesStrings.29>
+  <!-- EN: Shape->star -->
+  <GlobalUtility.rulePack.rulesStrings.30>TODO</GlobalUtility.rulePack.rulesStrings.30>
+  <!-- EN: Shape->circle -->
+  <GlobalUtility.rulePack.rulesStrings.31>TODO</GlobalUtility.rulePack.rulesStrings.31>
+  <!-- EN: Shape->ellipse -->
+  <GlobalUtility.rulePack.rulesStrings.32>TODO</GlobalUtility.rulePack.rulesStrings.32>
+  <!-- EN: AdjectiveAny->[AdjectiveBadass] -->
+  <GlobalUtility.rulePack.rulesStrings.33>TODO</GlobalUtility.rulePack.rulesStrings.33>
+  <!-- EN: AdjectiveAny->[AdjectiveAngsty] -->
+  <GlobalUtility.rulePack.rulesStrings.34>TODO</GlobalUtility.rulePack.rulesStrings.34>
+  <!-- EN: AdjectiveAny->[AdjectiveFriendly] -->
+  <GlobalUtility.rulePack.rulesStrings.35>TODO</GlobalUtility.rulePack.rulesStrings.35>
+  <!-- EN: AdjectiveAny->[AdjectiveNatural] -->
+  <GlobalUtility.rulePack.rulesStrings.36>TODO</GlobalUtility.rulePack.rulesStrings.36>
+  <!-- EN: ConceptAny->[ConceptPositive] -->
+  <GlobalUtility.rulePack.rulesStrings.37>TODO</GlobalUtility.rulePack.rulesStrings.37>
+  <!-- EN: ConceptAny->[ConceptBadass] -->
+  <GlobalUtility.rulePack.rulesStrings.38>TODO</GlobalUtility.rulePack.rulesStrings.38>
+  <!-- EN: ConceptAny->[ConceptAngsty] -->
+  <GlobalUtility.rulePack.rulesStrings.39>TODO</GlobalUtility.rulePack.rulesStrings.39>
+  <!-- EN: PersonalCharacteristic(p=0.15)->genitals -->
+  <GlobalUtility.rulePack.rulesStrings.40>TODO</GlobalUtility.rulePack.rulesStrings.40>
+  <!-- EN: PersonalCharacteristic(p=0.15)->pubic hair -->
+  <GlobalUtility.rulePack.rulesStrings.41>TODO</GlobalUtility.rulePack.rulesStrings.41>
+  <!-- EN: PersonalCharacteristic(p=0.15)->body hair -->
+  <GlobalUtility.rulePack.rulesStrings.42>TODO</GlobalUtility.rulePack.rulesStrings.42>
+  <!-- EN: PersonalCharacteristic(p=0.15)->toilet habits -->
+  <GlobalUtility.rulePack.rulesStrings.43>TODO</GlobalUtility.rulePack.rulesStrings.43>
+  <!-- EN: PersonalCharacteristic(p=0.15)->sexual prowess -->
+  <GlobalUtility.rulePack.rulesStrings.44>TODO</GlobalUtility.rulePack.rulesStrings.44>
+  <!-- EN: PersonalCharacteristic(p=0.15)->sexual preferences -->
+  <GlobalUtility.rulePack.rulesStrings.45>TODO</GlobalUtility.rulePack.rulesStrings.45>
+  <!-- EN: PersonalCharacteristic(p=0.15)->sexual experience -->
+  <GlobalUtility.rulePack.rulesStrings.46>TODO</GlobalUtility.rulePack.rulesStrings.46>
   
   <!-- EN:
     <li>TalkTopicAny->[TalkTopicLight]</li>

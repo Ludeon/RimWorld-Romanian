@@ -12,19 +12,19 @@
   <PsychoidLeaves.description>TODO</PsychoidLeaves.description>
   
   <!-- EN: agave fruit -->
-  <RawAgave.label>TODO</RawAgave.label>
+  <RawAgave.label>Agavefrucht</RawAgave.label>
   <!-- EN: Raw agave fruit. -->
-  <RawAgave.description>TODO</RawAgave.description>
+  <RawAgave.description>Rohe Früchte der Agave.</RawAgave.description>
   
   <!-- EN: berries -->
-  <RawBerries.label>TODO</RawBerries.label>
+  <RawBerries.label>Beere</RawBerries.label>
   <!-- EN: Assorted berries. Nice to eat, even when raw. -->
-  <RawBerries.description>TODO</RawBerries.description>
+  <RawBerries.description>Verschiedene Beeren. Sind auch roh genießbar.</RawBerries.description>
   
   <!-- EN: corn -->
-  <RawCorn.label>TODO</RawCorn.label>
+  <RawCorn.label>Mais</RawCorn.label>
   <!-- EN: Raw corn. -->
-  <RawCorn.description>TODO</RawCorn.description>
+  <RawCorn.description>Roher Mais. Schmeckt lecker und kann auch roh gegessen werden.</RawCorn.description>
   
   <!-- EN: raw fungus -->
   <RawFungus.label>TODO</RawFungus.label>
@@ -32,19 +32,19 @@
   <RawFungus.description>TODO</RawFungus.description>
   
   <!-- EN: hops -->
-  <RawHops.label>TODO</RawHops.label>
+  <RawHops.label>Hopfen</RawHops.label>
   <!-- EN: Raw hops. A flavoring and preserving agent that is necessary for making beer. -->
-  <RawHops.description>TODO</RawHops.description>
+  <RawHops.description>Roher Hopfen. Ein Aromastoff und Konservierungsmittel, das zum Herstellen von Bier benötigt wird.</RawHops.description>
   
   <!-- EN: potatoes -->
-  <RawPotatoes.label>TODO</RawPotatoes.label>
+  <RawPotatoes.label>Kartoffel</RawPotatoes.label>
   <!-- EN: Raw potatoes. -->
-  <RawPotatoes.description>TODO</RawPotatoes.description>
+  <RawPotatoes.description>Rohe Kartoffeln.</RawPotatoes.description>
   
   <!-- EN: rice -->
-  <RawRice.label>TODO</RawRice.label>
+  <RawRice.label>Reis</RawRice.label>
   <!-- EN: Raw rice. -->
-  <RawRice.description>TODO</RawRice.description>
+  <RawRice.description>Roher Reis.</RawRice.description>
   
   <!-- EN: smokeleaf leaves -->
   <SmokeleafLeaves.label>TODO</SmokeleafLeaves.label>

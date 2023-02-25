@@ -34,14 +34,19 @@
   <!-- EN: Change options, save, load, or quit the game. -->
   <Menu.description>TODO</Menu.description>
   
+  <!-- EN: quests -->
+  <Quests.label>TODO</Quests.label>
+  <!-- EN: View available, active, and historical quests. -->
+  <Quests.description>TODO</Quests.description>
+  
   <!-- EN: research -->
   <Research.label>TODO</Research.label>
   <!-- EN: Examine and decide on research projects. -->
   <Research.description>TODO</Research.description>
   
-  <!-- EN: restrict -->
+  <!-- EN: schedule -->
   <Restrict.label>TODO</Restrict.label>
-  <!-- EN: Restrict colonists to certain activities at certain times of day, or to specific allowed areas. -->
+  <!-- EN: Schedule colonists' activities to certain times of day, and set their allowed areas. -->
   <Restrict.description>TODO</Restrict.description>
   
   <!-- EN: wildlife -->

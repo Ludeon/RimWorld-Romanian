@@ -3,33 +3,33 @@
 
   <!-- ITab titles -->
   <!-- EN: Bills -->
-  <TabBills>TODO</TabBills>
+  <TabBills>Sarcini</TabBills>
   <!-- EN: Growing -->
-  <TabGrowing>TODO</TabGrowing>
+  <TabGrowing>Creștere</TabGrowing>
   <!-- EN: Bio -->
-  <TabCharacter>TODO</TabCharacter>
+  <TabCharacter>Caracter</TabCharacter>
   <!-- EN: Training -->
   <TabTraining>TODO</TabTraining>
   <!-- EN: Prisoner -->
-  <TabPrisoner>TODO</TabPrisoner>
+  <TabPrisoner>Prizonier</TabPrisoner>
   <!-- EN: Guest -->
   <TabGuest>TODO</TabGuest>
   <!-- EN: Gear -->
-  <TabGear>TODO</TabGear>
+  <TabGear>Inventar</TabGear>
   <!-- EN: Needs -->
   <TabNeeds>TODO</TabNeeds>
   <!-- EN: Storage -->
-  <TabStorage>TODO</TabStorage>
+  <TabStorage>Depozit</TabStorage>
   <!-- EN: Shells -->
   <TabShells>TODO</TabShells>
   <!-- EN: Health -->
-  <TabHealth>TODO</TabHealth>
+  <TabHealth>Sănătate</TabHealth>
   <!-- EN: Race -->
-  <TabRace>TODO</TabRace>
+  <TabRace>Rasă</TabRace>
   <!-- EN: Basics -->
-  <TabBasics>TODO</TabBasics>
+  <TabBasics>Elementar</TabBasics>
   <!-- EN: Stats -->
-  <TabStats>TODO</TabStats>
+  <TabStats>Date</TabStats>
   <!-- EN: Records -->
   <TabRecords>TODO</TabRecords>
   <!-- EN: Art -->
@@ -42,20 +42,22 @@
   <TabFormingCaravan>TODO</TabFormingCaravan>
   <!-- EN: Contents -->
   <TabTransporterContents>TODO</TabTransporterContents>
-
+  <!-- EN: Contents -->
+  <TabCasketContents>TODO</TabCasketContents>
+  
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
-  <AddBill>TODO</AddBill>
+  <AddBill>Adaugă sarcină</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>TODO</RecipeRequiresSkills>
+  <RecipeRequiresSkills>Sarcina {0} necesită abilitățile de mai jos. Nici unul din coloniștii tăi nu dețin aceste abilități, deci sarcina este imposibil de realizat.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
   <MinimumSkill>TODO</MinimumSkill>
   <!-- EN: SUSPENDED -->
-  <SuspendedCaps>TODO</SuspendedCaps>
+  <SuspendedCaps>SUSPENDAT</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
   <BoundWorkerIs>TODO</BoundWorkerIs>
   <!-- EN: Plant -->
-  <PlantVerb>TODO</PlantVerb>
+  <PlantVerb>Plantare</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here. -->
   <ClipboardBillNotAvailableHere>TODO</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
@@ -77,69 +79,93 @@
   <!-- EN: Resistance remaining -->
   <RecruitmentResistance>TODO</RecruitmentResistance>
   <!-- EN: Recruitment difficulty -->
-  <RecruitmentDifficulty>TODO</RecruitmentDifficulty>
+  <RecruitmentDifficulty>Dificultate de recrutare</RecruitmentDifficulty>
+  <!-- EN: Recruitment chance -->
+  <RecruitmentChance>TODO</RecruitmentChance>
+  <!-- EN: Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2} -->
+  <RecruitmentChanceExplanation>TODO</RecruitmentChanceExplanation>
+  <!-- EN: \n- - - - - - - - - -\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7} -->
+  <RecruitmentChanceWithLastRecruiterExplanationPart>TODO</RecruitmentChanceWithLastRecruiterExplanationPart>
+  <!-- EN: \nResistance reduction: {0} -->
+  <RecruitmentLastRecruiterResistanceReduceExplanationPart>TODO</RecruitmentLastRecruiterResistanceReduceExplanationPart>
+  <!-- EN: Relations gain on release -->
+  <PrisonerReleasePotentialRelationGains>TODO</PrisonerReleasePotentialRelationGains>
+  <!-- EN: The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition. -->
+  <PrisonerReleaseRelationGainsDesc>TODO</PrisonerReleaseRelationGainsDesc>
+  <!-- EN: Prison break interval -->
+  <PrisonBreakMTBDays>TODO</PrisonBreakMTBDays>
+  <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
+  <PrisonBreakMTBDaysDescription>TODO</PrisonBreakMTBDaysDescription>
+  <!-- EN: Never -->
+  <Never>Refuză</Never>
+  <!-- EN: Not while asleep -->
+  <NotWhileAsleep>TODO</NotWhileAsleep>
+  <!-- EN: Slave price -->
+  <SlavePrice>TODO</SlavePrice>
   <!-- EN: Gets food -->
   <GetsFood>TODO</GetsFood>
   <!-- EN: Doctors care -->
-  <DoctorsCare>TODO</DoctorsCare>
+  <DoctorsCare>Îngrijiri medicale</DoctorsCare>
   <!-- EN: Gets medicine -->
   <GetsMedicine>TODO</GetsMedicine>
   <!-- EN: Try to recruit -->
-  <ShouldTryToRecruit>TODO</ShouldTryToRecruit>
+  <ShouldTryToRecruit>Recrutare</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
   <ConsideredGuilty>TODO</ConsideredGuilty>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
-  <MoveSpeed>TODO</MoveSpeed>
+  <MoveSpeed>Viteză</MoveSpeed>
   <!-- EN: Efficiency -->
-  <Efficiency>TODO</Efficiency>
+  <Efficiency>Eficiență</Efficiency>
   <!-- EN: Part efficiency -->
   <PartEfficiency>TODO</PartEfficiency>
   <!-- EN: Body part efficiency -->
-  <BodyPartEfficiency>TODO</BodyPartEfficiency>
+  <BodyPartEfficiency>Eficacitatea părții corpului</BodyPartEfficiency>
   <!-- EN: Gone -->
-  <MissingBodyPart>TODO</MissingBodyPart>
+  <MissingBodyPart>Lipsă</MissingBodyPart>
   <!-- EN: Destroyed -->
-  <DestroyedBodyPart>TODO</DestroyedBodyPart>
+  <DestroyedBodyPart>Distrus</DestroyedBodyPart>
   <!-- EN: Shattered -->
-  <ShatteredBodyPart>TODO</ShatteredBodyPart>
+  <ShatteredBodyPart>Vătămat</ShatteredBodyPart>
   <!-- EN: Removed -->
-  <RemovedBodyPart>TODO</RemovedBodyPart>
+  <RemovedBodyPart>Amputat</RemovedBodyPart>
   <!-- EN: Healthy -->
-  <Healthy>TODO</Healthy>
+  <Healthy>Sănătos</Healthy>
   <!-- EN: In pain -->
-  <InPain>TODO</InPain>
+  <InPain>Suferind</InPain>
   <!-- EN: Pain -->
-  <PainLevel>TODO</PainLevel>
+  <PainLevel>Durere</PainLevel>
   <!-- EN: Injured -->
-  <Injured>TODO</Injured>
+  <Injured>Rănit</Injured>
+  <!-- EN: Untended injury -->
+  <UntendedInjury>TODO</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>TODO</NoHealthConditions>
   <!-- EN: Whole body -->
-  <WholeBody>TODO</WholeBody>
+  <WholeBody>Întregul corp</WholeBody>
   <!-- EN: Data processing -->
-  <DataProcessing>TODO</DataProcessing>
+  <DataProcessing>Procesare de date</DataProcessing>
   <!-- EN: Communication -->
-  <Communication>TODO</Communication>
+  <Communication>Comunicare</Communication>
   <!-- EN: Affects -->
   <Affects>TODO</Affects>
   <!-- EN: Bleeding -->
-  <BleedingRate>TODO</BleedingRate>
+  <BleedingRate>Sângerare</BleedingRate>
   <!-- EN: death in {0} -->
   <TimeToDeath>TODO</TimeToDeath>
   <!-- EN: no immediate danger -->
   <WontBleedOutSoon>TODO</WontBleedOutSoon>
   <!-- EN: Overview -->
-  <HealthOverview>TODO</HealthOverview>
+  <HealthOverview>Ansamblu</HealthOverview>
   <!-- EN: Operations ({0}) -->
-  <MedicalOperationsShort>TODO</MedicalOperationsShort>
+  <MedicalOperationsShort>Operații ({0})</MedicalOperationsShort>
   <!-- EN: Modifications ({0}) -->
-  <MedicalOperationsMechanoidsShort>TODO</MedicalOperationsMechanoidsShort>
+  <MedicalOperationsMechanoidsShort>Modificări ({0})</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
-  <MedicalOperations>TODO</MedicalOperations>
+  <MedicalOperations>Operații medicale</MedicalOperations>
   <!-- EN: amputate -->
-  <Amputate>TODO</Amputate>
+  <Amputate>Amputare</Amputate>
   <!-- EN: harvest -->
   <HarvestOrgan>TODO</HarvestOrgan>
   <!-- EN: remove -->
@@ -163,38 +189,38 @@
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
-  <None>TODO</None>
+  <None>Nimic</None>
   <!-- EN: Very poor -->
-  <VeryPoor>TODO</VeryPoor>
+  <VeryPoor>Foarte slabă</VeryPoor>
   <!-- EN: Poor -->
-  <Poor>TODO</Poor>
+  <Poor>Slabă</Poor>
   <!-- EN: Weakened -->
-  <Weakened>TODO</Weakened>
+  <Weakened>Slăbită</Weakened>
   <!-- EN: OK -->
-  <GoodCondition>TODO</GoodCondition>
+  <GoodCondition>OK</GoodCondition>
   <!-- EN: Enhanced -->
-  <Enhanced>TODO</Enhanced>
+  <Enhanced>Îmbunătățită</Enhanced>
   <!-- EN: Seriously impaired -->
-  <SeriouslyImpaired>TODO</SeriouslyImpaired>
+  <SeriouslyImpaired>Compromisă</SeriouslyImpaired>
   <!-- EN: Impaired -->
-  <Impaired>TODO</Impaired>
+  <Impaired>Deteriorată</Impaired>
   <!-- EN: Slightly impaired -->
-  <SlightlyImpaired>TODO</SlightlyImpaired>
+  <SlightlyImpaired>Puțin deteriorată</SlightlyImpaired>
   <!-- EN: None -->
-  <NoPain>TODO</NoPain>
+  <NoPain>Deloc</NoPain>
   <!-- EN: Little -->
-  <LittlePain>TODO</LittlePain>
+  <LittlePain>Puțină</LittlePain>
   <!-- EN: Medium -->
-  <MediumPain>TODO</MediumPain>
+  <MediumPain>Medie</MediumPain>
   <!-- EN: Severe -->
-  <SeverePain>TODO</SeverePain>
+  <SeverePain>Severă</SeverePain>
   <!-- EN: Extreme -->
-  <ExtremePain>TODO</ExtremePain>
+  <ExtremePain>Extremă</ExtremePain>
 
   <!-- Training tab -->
   <!-- EN: Trainability -->
   <Trainability>TODO</Trainability>
-  <!-- EN: Requires trainability {0}. -->
+  <!-- EN: Requires {0} trainability. -->
   <CannotTrainNotSmartEnough>TODO</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
   <CannotTrainTooSmall>TODO</CannotTrainTooSmall>
@@ -207,6 +233,8 @@
   <NoRelationships>TODO</NoRelationships>
   <!-- EN: Kidnapped -->
   <Kidnapped>TODO</Kidnapped>
+  <!-- EN: Lent to {FACTION_name}, returns in {1} -->
+  <Lent>TODO</Lent>
   <!-- EN: Missing -->
   <Missing>TODO</Missing>
   <!-- EN: Slave -->
@@ -287,7 +315,19 @@
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
   <RemoveSliderText>TODO</RemoveSliderText>
+  <!-- EN: Contained items -->
+  <ContainedItems>TODO</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->
   <ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
+  
+  <!-- Quests tab -->
+  <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
+  <DismissQuest>TODO</DismissQuest>
+  <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
+  <UnDismissQuest>TODO</UnDismissQuest>
+  <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
+  <QuestDismissed>TODO</QuestDismissed>
+  <!-- EN: Delete this quest and remove it from the quest list forever. -->
+  <DeleteQuest>TODO</DeleteQuest>
 
 </LanguageData>

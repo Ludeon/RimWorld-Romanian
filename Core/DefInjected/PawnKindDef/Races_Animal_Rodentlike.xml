@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: alphabeaver -->
-  <Alphabeaver.label>TODO</Alphabeaver.label>
+  <Alphabeaver.label>Alpha Biber</Alphabeaver.label>
   
   <!-- EN: boomrat -->
-  <Boomrat.label>TODO</Boomrat.label>
+  <Boomrat.label>Boomratte</Boomrat.label>
   
   <!-- EN: capybara -->
   <Capybara.label>TODO</Capybara.label>
@@ -20,6 +20,6 @@
   <Rat.label>TODO</Rat.label>
   
   <!-- EN: squirrel -->
-  <Squirrel.label>TODO</Squirrel.label>
+  <Squirrel.label>Eichhörnchen</Squirrel.label>
   
 </LanguageData>

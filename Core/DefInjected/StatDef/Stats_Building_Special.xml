@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: rest effectiveness -->
-  <BedRestEffectiveness.label>TODO</BedRestEffectiveness.label>
+  <BedRestEffectiveness.label>Ausruh-Effizienz</BedRestEffectiveness.label>
   <!-- EN: How fast people sleeping on this gain rest. -->
-  <BedRestEffectiveness.description>TODO</BedRestEffectiveness.description>
+  <BedRestEffectiveness.description>Wie effektiv das Ausruhen in diesem Bett ist.</BedRestEffectiveness.description>
   
   <!-- EN: door opening speed -->
-  <DoorOpenSpeed.label>TODO</DoorOpenSpeed.label>
-  <!-- EN: The speed at which the door opens. Slow doors will slow down everyone who uses them. -->
-  <DoorOpenSpeed.description>TODO</DoorOpenSpeed.description>
+  <DoorOpenSpeed.label>Öffnen Geschwindigkeit</DoorOpenSpeed.label>
+  <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
+  <DoorOpenSpeed.description>Die Geschwindigkeit der Tür sich zu öffnen.</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
   <ImmunityGainSpeedFactor.label>TODO</ImmunityGainSpeedFactor.label>
@@ -35,20 +35,20 @@
   
   <!-- EN: surgery success chance factor -->
   <SurgerySuccessChanceFactor.label>TODO</SurgerySuccessChanceFactor.label>
-  <!-- EN: A multiplier to the chance that a surgery will succeed when performed here. Surgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
+  <!-- EN: A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
   <SurgerySuccessChanceFactor.description>TODO</SurgerySuccessChanceFactor.description>
   <!-- EN: Room cleanliness -->
   <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>TODO</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: trap melee damage -->
-  <TrapMeleeDamage.label>TODO</TrapMeleeDamage.label>
-  <!-- EN: How much damage this trap does on average. The actual damage in any instance will vary randomly. -->
-  <TrapMeleeDamage.description>TODO</TrapMeleeDamage.description>
+  <TrapMeleeDamage.label>Falle: Nahkampfschaden</TrapMeleeDamage.label>
+  <!-- EN: How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly. -->
+  <TrapMeleeDamage.description>Wie viel Schaden eine Falle normalerweise verursacht.</TrapMeleeDamage.description>
   
   <!-- EN: trap spring chance -->
-  <TrapSpringChance.label>TODO</TrapSpringChance.label>
+  <TrapSpringChance.label>Falle: Auslöswahrscheinlichkeit</TrapSpringChance.label>
   <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
-  <TrapSpringChance.description>TODO</TrapSpringChance.description>
+  <TrapSpringChance.description>Die Wahrscheinlichkeit, dass die Falle auslöst, wenn eine nichtsahnende Kreatur auf sie tritt.</TrapSpringChance.description>
   
   <!-- EN: work efficiency factor -->
   <WorkTableEfficiencyFactor.label>TODO</WorkTableEfficiencyFactor.label>

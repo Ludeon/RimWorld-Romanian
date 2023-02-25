@@ -4,10 +4,17 @@
   <!-- EN: drop pod -->
   <ActiveDropPod.label>TODO</ActiveDropPod.label>
   
+  <!-- UNUSED -->
+  <DropPod.label>Landungskapsel</DropPod.label>
+  
   <!-- EN: fire -->
-  <Fire.label>TODO</Fire.label>
+  <Fire.label>Feuer</Fire.label>
+  
+  <!-- UNUSED -->
+  <Puddle_Fuel.label>Treibstoffpfütze</Puddle_Fuel.label>
+  <Puddle_Fuel.description>Eine brennbare Flüssigkeit.</Puddle_Fuel.description>
   
   <!-- EN: spark -->
-  <Spark.label>TODO</Spark.label>
+  <Spark.label>Funke</Spark.label>
   
 </LanguageData>

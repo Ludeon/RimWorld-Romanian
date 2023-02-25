@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: megascarab -->
-  <Megascarab.label>TODO</Megascarab.label>
+  <Megascarab.label>Riesen Skarabäus</Megascarab.label>
   <!-- EN: A large, genetically-engineered beetle. Once the worker caste of an artifical ecosystem of insectoids designed to fight mechanoid invasions, it is now often seen without its deadlier insectoid cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually. -->
-  <Megascarab.description>TODO</Megascarab.description>
+  <Megascarab.description>Ein großer, genetisch veränderter Käfer. Ursprünglich waren sie die Arbeiterklasse eines künstlichen Ökosystems von Insektoiden, das zum Kampf gegen die Mechanoideninvasion entwickelt wurde. Heute findet man sie normalerweise ohne ihre tödlicheren Insektoidencousins. Trotzdem sind sie durch ihre Größe, wie auch ihre harte Chitinpanzerung, noch gefährlich genug.</Megascarab.description>
   <!-- EN: mandibles -->
   <Megascarab.tools.mandibles.label>TODO</Megascarab.tools.mandibles.label>
   <!-- EN: head -->

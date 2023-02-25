@@ -2,39 +2,51 @@
 <LanguageData>
   
   <!-- EN: floors -->
-  <Floors.label>TODO</Floors.label>
+  <Floors.label>Böden</Floors.label>
+  <Floors.description>Unterschiedliche Fußböden.</Floors.description>
   
   <!-- EN: furniture -->
-  <Furniture.label>TODO</Furniture.label>
+  <Furniture.label>Möbel</Furniture.label>
+  <Furniture.description>Kleine wohnliche Gegenstände, welche auch zum Aussehen einer Umgebung beitragen.</Furniture.description>
   
   <!-- EN: recreation -->
-  <Joy.label>TODO</Joy.label>
+  <Joy.label>Vergnügen</Joy.label>
+  <Joy.description>Unterhaltung und Vergnügliches für das Wohlbefinden der Kolonisten.</Joy.description>
   
   <!-- EN: misc -->
-  <Misc.label>TODO</Misc.label>
+  <Misc.label>Diverses</Misc.label>
+  <Misc.description>Verschiedene Konstruktionen.</Misc.description>
   
   <!-- EN: orders -->
-  <Orders.label>TODO</Orders.label>
+  <Orders.label>Ordine</Orders.label>
+  <Orders.description>Markierungen, um bestimmte Aufgaben ausführen zu lassen.</Orders.description>
   
   <!-- EN: power -->
-  <Power.label>TODO</Power.label>
+  <Power.label>Strom</Power.label>
+  <Power.description>Erzeugung und Speicherung elektrischer Energie sowie deren Transport und Management.</Power.description>
   
   <!-- EN: production -->
-  <Production.label>TODO</Production.label>
+  <Production.label>Produktion</Production.label>
+  <Production.description>Gegenstände, die etwas produzieren wie z.B. Arbeitstische.</Production.description>
   
   <!-- EN: security -->
-  <Security.label>TODO</Security.label>
+  <Security.label>Sicherheit</Security.label>
+  <Security.description>Sicherheits- und kampforientierte Strukturen.</Security.description>
   
   <!-- EN: ship -->
-  <Ship.label>TODO</Ship.label>
+  <Ship.label>Raumschiff</Ship.label>
+  <Ship.description>Einzelne Komponenten für ein neues Raumschiff.</Ship.description>
   
   <!-- EN: structure -->
-  <Structure.label>TODO</Structure.label>
+  <Structure.label>Strukturen</Structure.label>
+  <Structure.description>Strukturen, wie z.B. Wände und Türen.</Structure.description>
   
   <!-- EN: temperature -->
-  <Temperature.label>TODO</Temperature.label>
+  <Temperature.label>Temperatur</Temperature.label>
+  <Temperature.description>Objekte zum Regulieren der Temperatur.</Temperature.description>
   
   <!-- EN: zone -->
-  <Zone.label>TODO</Zone.label>
+  <Zone.label>Zone/Gebiet</Zone.label>
+  <Zone.description>Verschiedenen Zonen und Gebiete, in denen Kolonisten bestimmte Aufgaben erledigen, bzw. in denen Objekte gelagert werden.</Zone.description>
   
 </LanguageData>

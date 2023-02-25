@@ -126,12 +126,12 @@ Von Neumann probes
 
 archotechnology
 archotechs
-AI personas
+machine personas
 the Johnson-Tanaka drive
 the Ordo Historia
 old Earth
-rim worlds
-core worlds
+rimworlds
+coreworlds
 cryptosleep
 cryptosleep tombs
 mechanoids

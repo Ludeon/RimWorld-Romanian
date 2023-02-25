@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: beer -->
-  <Beer.label>TODO</Beer.label>
+  <Beer.label>Bier</Beer.label>
   <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
-  <Beer.description>TODO</Beer.description>
+  <Beer.description>Das erste je von Menschen konsumierte Getränk, neben Wasser. Bier kann gut schmecken, aber der Hauptzweck liegt in der berauschenden Wirkung. Übermäßiger Konsum kann zur Abhängigkeit führen.</Beer.description>
   <!-- EN: Drink {0} -->
   <Beer.ingestible.ingestCommandString>TODO</Beer.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->

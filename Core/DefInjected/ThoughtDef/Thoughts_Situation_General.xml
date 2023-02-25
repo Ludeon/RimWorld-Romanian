@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: ratty apparel -->
-  <ApparelDamaged.stages.ratty_apparel.label>TODO</ApparelDamaged.stages.ratty_apparel.label>
+  <ApparelDamaged.stages.ratty_apparel.label>Trägt ausgefranste Kleidung</ApparelDamaged.stages.ratty_apparel.label>
   <!-- EN: The holes in my outfit are annoyingly large. Can't I get something new to wear? -->
-  <ApparelDamaged.stages.ratty_apparel.description>TODO</ApparelDamaged.stages.ratty_apparel.description>
+  <ApparelDamaged.stages.ratty_apparel.description>Meine Kleidung ist ziemlich ausgefranst. Kann ich nicht etwas vernünftiges zum Anziehen haben?</ApparelDamaged.stages.ratty_apparel.description>
   <!-- EN: tattered apparel -->
-  <ApparelDamaged.stages.tattered_apparel.label>TODO</ApparelDamaged.stages.tattered_apparel.label>
+  <ApparelDamaged.stages.tattered_apparel.label>Trägt zerrissene Kleidung</ApparelDamaged.stages.tattered_apparel.label>
   <!-- EN: This thing looks like it's about to fall apart. Can't I wear something that doesn't belong in a trash heap? -->
-  <ApparelDamaged.stages.tattered_apparel.description>TODO</ApparelDamaged.stages.tattered_apparel.description>
+  <ApparelDamaged.stages.tattered_apparel.description>Ich trage hier zerrissene Fetzen. Kann ich nicht etwas vernünftiges zum Anziehen haben?</ApparelDamaged.stages.tattered_apparel.description>
   
   <!-- EN: tainted {0} -->
   <DeadMansApparel.stages.tainted.label>TODO</DeadMansApparel.stages.tainted.label>
@@ -28,43 +28,43 @@
   <DeadMansApparel.stages.tainted_etc.description>TODO</DeadMansApparel.stages.tainted_etc.description>
   
   <!-- EN: chilly -->
-  <EnvironmentCold.stages.chilly.label>TODO</EnvironmentCold.stages.chilly.label>
+  <EnvironmentCold.stages.chilly.label>Kalt</EnvironmentCold.stages.chilly.label>
   <!-- EN: I'm uncomfortably cold. -->
-  <EnvironmentCold.stages.chilly.description>TODO</EnvironmentCold.stages.chilly.description>
+  <EnvironmentCold.stages.chilly.description>Hier ist es ungemütlich kalt.</EnvironmentCold.stages.chilly.description>
   <!-- EN: cold -->
-  <EnvironmentCold.stages.cold.label>TODO</EnvironmentCold.stages.cold.label>
+  <EnvironmentCold.stages.cold.label>Sehr kalt</EnvironmentCold.stages.cold.label>
   <!-- EN: I'm so cold, I'm shivering. -->
-  <EnvironmentCold.stages.cold.description>TODO</EnvironmentCold.stages.cold.description>
+  <EnvironmentCold.stages.cold.description>Mir ist so kalt. *Brrr* Mir wird einfach nicht warm.</EnvironmentCold.stages.cold.description>
   <!-- EN: numbing cold -->
-  <EnvironmentCold.stages.numbing_cold.label>TODO</EnvironmentCold.stages.numbing_cold.label>
+  <EnvironmentCold.stages.numbing_cold.label>Frierend</EnvironmentCold.stages.numbing_cold.label>
   <!-- EN: I can't stop shivering. My teeth are chattering. All I can think of is getting warm. -->
-  <EnvironmentCold.stages.numbing_cold.description>TODO</EnvironmentCold.stages.numbing_cold.description>
+  <EnvironmentCold.stages.numbing_cold.description>Meine Zähne klappern so stark, ich kann kaum noch sprechen. Meine Zehen sind taub. Ich muss unbedingt ins Warme.</EnvironmentCold.stages.numbing_cold.description>
   <!-- EN: absolutely freezing -->
   <EnvironmentCold.stages.absolutely_freezing.label>TODO</EnvironmentCold.stages.absolutely_freezing.label>
   <!-- EN: My teeth are chattering so hard I can barely speak. My toes are numb. I need to get warm. -->
   <EnvironmentCold.stages.absolutely_freezing.description>TODO</EnvironmentCold.stages.absolutely_freezing.description>
   
   <!-- EN: darkness -->
-  <EnvironmentDark.stages.darkness.label>TODO</EnvironmentDark.stages.darkness.label>
+  <EnvironmentDark.stages.darkness.label>In Dunkelheit</EnvironmentDark.stages.darkness.label>
   <!-- EN: I've been in the dark for a while. I don't like it. -->
-  <EnvironmentDark.stages.darkness.description>TODO</EnvironmentDark.stages.darkness.description>
+  <EnvironmentDark.stages.darkness.description>Ich war jetzt schon seit einiger Zeit im Dunkeln. Das mag ich nicht.</EnvironmentDark.stages.darkness.description>
   
   <!-- EN: sweaty -->
-  <EnvironmentHot.stages.sweaty.label>TODO</EnvironmentHot.stages.sweaty.label>
+  <EnvironmentHot.stages.sweaty.label>Heiß</EnvironmentHot.stages.sweaty.label>
   <!-- EN: It's too hot here. I'm sweating. -->
-  <EnvironmentHot.stages.sweaty.description>TODO</EnvironmentHot.stages.sweaty.description>
+  <EnvironmentHot.stages.sweaty.description>Diese Hitze ist unangenehm. Ich schwitze..</EnvironmentHot.stages.sweaty.description>
   <!-- EN: hot -->
-  <EnvironmentHot.stages.hot.label>TODO</EnvironmentHot.stages.hot.label>
+  <EnvironmentHot.stages.hot.label>Sehr heiß</EnvironmentHot.stages.hot.label>
   <!-- EN: It's way too hot here. If I could just have a breath of cool air... -->
-  <EnvironmentHot.stages.hot.description>TODO</EnvironmentHot.stages.hot.description>
+  <EnvironmentHot.stages.hot.description>Es ist eine richtige Gluthitze hier.</EnvironmentHot.stages.hot.description>
   <!-- EN: sweltering hot -->
-  <EnvironmentHot.stages.sweltering_hot.label>TODO</EnvironmentHot.stages.sweltering_hot.label>
+  <EnvironmentHot.stages.sweltering_hot.label>Sengende Hitze</EnvironmentHot.stages.sweltering_hot.label>
   <!-- EN: I feel like I'm in an oven! I'm not sure how long I can handle this. -->
-  <EnvironmentHot.stages.sweltering_hot.description>TODO</EnvironmentHot.stages.sweltering_hot.description>
+  <EnvironmentHot.stages.sweltering_hot.description>Hier ist es so heiß, wie im Backofen! Ich bin mir nicht sicher, wie lange ich das aushalte..</EnvironmentHot.stages.sweltering_hot.description>
   <!-- EN: blistering hot -->
-  <EnvironmentHot.stages.blistering_hot.label>TODO</EnvironmentHot.stages.blistering_hot.label>
+  <EnvironmentHot.stages.blistering_hot.label>Verbrennend</EnvironmentHot.stages.blistering_hot.label>
   <!-- EN: This place is searing hot. I think I could die from this heat! -->
-  <EnvironmentHot.stages.blistering_hot.description>TODO</EnvironmentHot.stages.blistering_hot.description>
+  <EnvironmentHot.stages.blistering_hot.description>Ich verbrenne. An dieser Hitze kann ich sterben!</EnvironmentHot.stages.blistering_hot.description>
   
   <!-- EN: human leather {0} -->
   <HumanLeatherApparelHappy.stages.human_leather.label>TODO</HumanLeatherApparelHappy.stages.human_leather.label>
@@ -101,8 +101,13 @@
   <HumanLeatherApparelSad.stages.human_leather_etc.description>TODO</HumanLeatherApparelSad.stages.human_leather_etc.description>
   
   <!-- EN: sick -->
-  <Sick.stages.sick.label>TODO</Sick.stages.sick.label>
+  <Sick.stages.sick.label>Krank</Sick.stages.sick.label>
   <!-- EN: I don't feel very well. -->
-  <Sick.stages.sick.description>TODO</Sick.stages.sick.description>
+  <Sick.stages.sick.description>Ich fühle mich nicht gut, ich bin krank..</Sick.stages.sick.description>
+  
+  <!-- EN: wearing {0} apparel -->
+  <WrongApparelGender.stages.wearing_apparel.label>TODO</WrongApparelGender.stages.wearing_apparel.label>
+  <!-- EN: I'm wearing apparel that was clearly made for {0}s! This is embarrassing. -->
+  <WrongApparelGender.stages.wearing_apparel.description>TODO</WrongApparelGender.stages.wearing_apparel.description>
   
 </LanguageData>

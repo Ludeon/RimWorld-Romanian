@@ -13,7 +13,6 @@ lawbreaker
 offender
 thug
 gangster
-thief
 soldier
 assassin
 banger
@@ -48,7 +47,7 @@ executioner
 
 cannibal
 violator
-deflier
+defiler
 despoiler
 attacker
 ravager
@@ -60,8 +59,5 @@ dominator
 conqueror
 vanquisher
 
-knight
 samurai
 hero
-king
-queen

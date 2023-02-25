@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: monkey -->
-  <Monkey.label>TODO</Monkey.label>
+  <Monkey.label>Maimuța</Monkey.label>
   <!-- EN: left clavicle -->
   <Monkey.corePart.parts.left_clavicle.customLabel>TODO</Monkey.corePart.parts.left_clavicle.customLabel>
   <!-- EN: right clavicle -->
@@ -101,7 +101,7 @@
   <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>TODO</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithClawsTailAndJowl.label>TODO</QuadrupedAnimalWithClawsTailAndJowl.label>
+  <QuadrupedAnimalWithClawsTailAndJowl.label>Animal patruped cu gheare și maxilar inferior cu colți</QuadrupedAnimalWithClawsTailAndJowl.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -168,7 +168,7 @@
   <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHooves.label>TODO</QuadrupedAnimalWithHooves.label>
+  <QuadrupedAnimalWithHooves.label>Animal patruped cu copite</QuadrupedAnimalWithHooves.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>TODO</QuadrupedAnimalWithHooves.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -203,7 +203,7 @@
   <QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>TODO</QuadrupedAnimalWithHooves.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHoovesAndHorn.label>TODO</QuadrupedAnimalWithHoovesAndHorn.label>
+  <QuadrupedAnimalWithHoovesAndHorn.label>Animal patruped cu copite și corn</QuadrupedAnimalWithHoovesAndHorn.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>TODO</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -238,7 +238,7 @@
   <QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>TODO</QuadrupedAnimalWithHoovesAndHorn.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHoovesAndHump.label>TODO</QuadrupedAnimalWithHoovesAndHump.label>
+  <QuadrupedAnimalWithHoovesAndHump.label>Animal patruped cu copite și cocoașă</QuadrupedAnimalWithHoovesAndHump.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>TODO</QuadrupedAnimalWithHoovesAndHump.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -273,7 +273,7 @@
   <QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>TODO</QuadrupedAnimalWithHoovesAndHump.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHoovesAndTusks.label>TODO</QuadrupedAnimalWithHoovesAndTusks.label>
+  <QuadrupedAnimalWithHoovesAndTusks.label>Animal patruped cu copite și colți din fildeș</QuadrupedAnimalWithHoovesAndTusks.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>TODO</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -312,7 +312,7 @@
   <QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>TODO</QuadrupedAnimalWithHoovesAndTusks.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>TODO</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>Animal patruped cu copite ,colti din fildeș și trompă</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>TODO</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -351,7 +351,7 @@
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>TODO</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithPaws.label>TODO</QuadrupedAnimalWithPaws.label>
+  <QuadrupedAnimalWithPaws.label>Animal patruped cu labe</QuadrupedAnimalWithPaws.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -386,7 +386,7 @@
   <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithPawsAndTail.label>TODO</QuadrupedAnimalWithPawsAndTail.label>
+  <QuadrupedAnimalWithPawsAndTail.label>Animal patruped cu labe și coadă</QuadrupedAnimalWithPawsAndTail.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>TODO</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -421,7 +421,7 @@
   <QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>TODO</QuadrupedAnimalWithPawsAndTail.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
   
   <!-- EN: turtle-like -->
-  <TurtleLike.label>TODO</TurtleLike.label>
+  <TurtleLike.label>Broască țestoasă</TurtleLike.label>
   <!-- EN: left lung -->
   <TurtleLike.corePart.parts.left_lung.customLabel>TODO</TurtleLike.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->

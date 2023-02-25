@@ -2,36 +2,42 @@
 <LanguageData>
 
   <!-- EN: none -->
-  <WorkTagNone>TODO</WorkTagNone>
+  <WorkTagNone>Nimic</WorkTagNone>
   <!-- EN: intellectual -->
-  <WorkTagIntellectual>TODO</WorkTagIntellectual>
+  <WorkTagIntellectual>Muncă intelectuală</WorkTagIntellectual>
   <!-- EN: dumb labor -->
-  <WorkTagManualDumb>TODO</WorkTagManualDumb>
+  <WorkTagManualDumb>Muncă fizică</WorkTagManualDumb>
   <!-- EN: skilled labor -->
-  <WorkTagManualSkilled>TODO</WorkTagManualSkilled>
+  <WorkTagManualSkilled>Muncă calificată</WorkTagManualSkilled>
   <!-- EN: violent -->
-  <WorkTagViolent>TODO</WorkTagViolent>
+  <WorkTagViolent>Violență</WorkTagViolent>
   <!-- EN: caring -->
-  <WorkTagCaring>TODO</WorkTagCaring>
+  <WorkTagCaring>Îngrijit</WorkTagCaring>
   <!-- EN: social -->
-  <WorkTagSocial>TODO</WorkTagSocial>
+  <WorkTagSocial>Socializare</WorkTagSocial>
   <!-- EN: animals -->
   <WorkTagAnimals>TODO</WorkTagAnimals>
   <!-- EN: artistic -->
-  <WorkTagArtistic>TODO</WorkTagArtistic>
+  <WorkTagArtistic>Artă</WorkTagArtistic>
   <!-- EN: crafting -->
-  <WorkTagCrafting>TODO</WorkTagCrafting>
+  <WorkTagCrafting>Meșteșugărit</WorkTagCrafting>
   <!-- EN: cooking -->
-  <WorkTagCooking>TODO</WorkTagCooking>
+  <WorkTagCooking>Gătit</WorkTagCooking>
   <!-- EN: firefighting -->
-  <WorkTagFirefighting>TODO</WorkTagFirefighting>
+  <WorkTagFirefighting>Pompier</WorkTagFirefighting>
   <!-- EN: cleaning -->
-  <WorkTagCleaning>TODO</WorkTagCleaning>
+  <WorkTagCleaning>Curățat</WorkTagCleaning>
   <!-- EN: hauling -->
-  <WorkTagHauling>TODO</WorkTagHauling>
+  <WorkTagHauling>Cărăuș</WorkTagHauling>
   <!-- EN: plant work -->
-  <WorkTagPlantWork>TODO</WorkTagPlantWork>
+  <WorkTagPlantWork>Grădinărit</WorkTagPlantWork>
   <!-- EN: mining -->
-  <WorkTagMining>TODO</WorkTagMining>
+  <WorkTagMining>Miner</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>TODO</WorkTagHunting>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>TODO</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>TODO</WorkTagAllWork>
 
 </LanguageData>

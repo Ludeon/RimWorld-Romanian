@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <InstallScytherBlade.label>Implantiere Sensen-Messerauswuchs</InstallScytherBlade.label>
+  <InstallScytherBlade.description>Implantiere den Messerauswuchs einer Sense.</InstallScytherBlade.description>
+  <InstallScytherBlade.jobString>Implantiere Sensen-Messerauswuchs.</InstallScytherBlade.jobString>
+  
+  <!-- UNUSED -->
+  <RemoveMechanoidBodyPart.label>Entferne mechanisches Teil</RemoveMechanoidBodyPart.label>
+  <RemoveMechanoidBodyPart.description>Entferne ein Teil eines Mechanoiden.</RemoveMechanoidBodyPart.description>
+  <RemoveMechanoidBodyPart.jobString>Entfernt mechanisches Teil.</RemoveMechanoidBodyPart.jobString>
+  
+  <!-- UNUSED -->
+  <ShutDownMechanoid.label>Abschalten</ShutDownMechanoid.label>
+  <ShutDownMechanoid.description>Schalte Mechanoid ab.</ShutDownMechanoid.description>
+  <ShutDownMechanoid.jobString>Schaltet ab.</ShutDownMechanoid.jobString>
+  
+</LanguageData>

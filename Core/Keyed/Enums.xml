@@ -3,37 +3,37 @@
 
   <!-- Glow -->
   <!-- EN: Dark -->
-  <Dark>TODO</Dark>
+  <Dark>Întunecat</Dark>
   <!-- EN: Lit -->
-  <Lit>TODO</Lit>
+  <Lit>Iluminat</Lit>
   <!-- EN: Brightly lit -->
-  <LitBrightly>TODO</LitBrightly>
+  <LitBrightly>Puternic Iluminat</LitBrightly>
 
   <!-- Price types -->
   <!-- EN: very cheap -->
-  <PriceTypeVeryCheap>TODO</PriceTypeVeryCheap>
+  <PriceTypeVeryCheap>foarte ieftin</PriceTypeVeryCheap>
   <!-- EN: cheap -->
-  <PriceTypeCheap>TODO</PriceTypeCheap>
+  <PriceTypeCheap>ieftin</PriceTypeCheap>
   <!-- EN: normal -->
-  <PriceTypeNormal>TODO</PriceTypeNormal>
+  <PriceTypeNormal>normal</PriceTypeNormal>
   <!-- EN: expensive -->
-  <PriceTypeExpensive>TODO</PriceTypeExpensive>
+  <PriceTypeExpensive>scump</PriceTypeExpensive>
   <!-- EN: exorbitant -->
-  <PriceTypeExorbitant>TODO</PriceTypeExorbitant>
+  <PriceTypeExorbitant>foarte scump</PriceTypeExorbitant>
 
   <!-- Storage priority labels -->
   <!-- EN: unstored -->
-  <StoragePriorityUnstored>TODO</StoragePriorityUnstored>
+  <StoragePriorityUnstored>Nestocat</StoragePriorityUnstored>
   <!-- EN: low -->
-  <StoragePriorityLow>TODO</StoragePriorityLow>
+  <StoragePriorityLow>Mică</StoragePriorityLow>
   <!-- EN: normal -->
-  <StoragePriorityNormal>TODO</StoragePriorityNormal>
+  <StoragePriorityNormal>Normală</StoragePriorityNormal>
   <!-- EN: preferred -->
-  <StoragePriorityPreferred>TODO</StoragePriorityPreferred>
+  <StoragePriorityPreferred>Preferat</StoragePriorityPreferred>
   <!-- EN: important -->
-  <StoragePriorityImportant>TODO</StoragePriorityImportant>
+  <StoragePriorityImportant>Important</StoragePriorityImportant>
   <!-- EN: critical -->
-  <StoragePriorityCritical>TODO</StoragePriorityCritical>
+  <StoragePriorityCritical>Critic</StoragePriorityCritical>
 
   <!-- Food type flags -->
   <!-- EN: vegetables -->
@@ -61,19 +61,19 @@
 
   <!-- Quality category -->
   <!-- EN: awful -->
-  <QualityCategory_Awful>TODO</QualityCategory_Awful>
+  <QualityCategory_Awful>oribil</QualityCategory_Awful>
   <!-- EN: poor -->
-  <QualityCategory_Poor>TODO</QualityCategory_Poor>
+  <QualityCategory_Poor>neîngrijit</QualityCategory_Poor>
   <!-- EN: normal -->
-  <QualityCategory_Normal>TODO</QualityCategory_Normal>
+  <QualityCategory_Normal>normal</QualityCategory_Normal>
   <!-- EN: good -->
-  <QualityCategory_Good>TODO</QualityCategory_Good>
+  <QualityCategory_Good>bun</QualityCategory_Good>
   <!-- EN: excellent -->
-  <QualityCategory_Excellent>TODO</QualityCategory_Excellent>
+  <QualityCategory_Excellent>excelent</QualityCategory_Excellent>
   <!-- EN: masterwork -->
-  <QualityCategory_Masterwork>TODO</QualityCategory_Masterwork>
+  <QualityCategory_Masterwork>capodoperă</QualityCategory_Masterwork>
   <!-- EN: legendary -->
-  <QualityCategory_Legendary>TODO</QualityCategory_Legendary>
+  <QualityCategory_Legendary>legendar</QualityCategory_Legendary>
   <!-- EN: awfl -->
   <QualityCategoryShort_Awful>TODO</QualityCategoryShort_Awful>
   <!-- EN: poor -->
@@ -140,8 +140,10 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>TODO</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
+  <!-- EN: official content -->
+  <ContentSource_OfficialModsFolder>TODO</ContentSource_OfficialModsFolder>
   <!-- EN: local folder -->
-  <ContentSource_LocalFolder>TODO</ContentSource_LocalFolder>
+  <ContentSource_ModsFolder>TODO</ContentSource_ModsFolder>
   <!-- EN: Steam Workshop -->
   <ContentSource_SteamWorkshop>TODO</ContentSource_SteamWorkshop>
   
@@ -286,5 +288,28 @@
   <PsychicDroneLevel_BadHigh>TODO</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
   <PsychicDroneLevel_BadExtreme>TODO</PsychicDroneLevel_BadExtreme>
+  
+  <!-- Automatic pause mode -->
+  <!-- EN: Never -->
+  <AutomaticPauseMode_Never>TODO</AutomaticPauseMode_Never>
+  <!-- EN: Major threats -->
+  <AutomaticPauseMode_MajorThreat>TODO</AutomaticPauseMode_MajorThreat>
+  <!-- EN: Any threat -->
+  <AutomaticPauseMode_AnyThreat>TODO</AutomaticPauseMode_AnyThreat>
+  <!-- EN: Any letter -->
+  <AutomaticPauseMode_AnyLetter>TODO</AutomaticPauseMode_AnyLetter>
 
+  <!-- Pain category -->
+  <!-- EN: itchy -->
+  <PainCategory_LowPain>TODO</PainCategory_LowPain>
+  <!-- EN: aching -->
+  <PainCategory_MediumPain>TODO</PainCategory_MediumPain>
+  <!-- EN: painful -->
+  <PainCategory_HighPain>TODO</PainCategory_HighPain>
+  
+  <!-- ExtraFactionType -->
+  <!-- EN: home faction -->
+  <ExtraFactionType_HomeFaction>TODO</ExtraFactionType_HomeFaction>
+  <!-- EN: remote host faction -->
+  <ExtraFactionType_HostFaction>TODO</ExtraFactionType_HostFaction>
 </LanguageData>

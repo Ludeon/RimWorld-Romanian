@@ -2,29 +2,34 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>TODO</Beauty.label>
+  <Beauty.label>Aussehen</Beauty.label>
   <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
-  <Beauty.description>TODO</Beauty.description>
+  <Beauty.description>Das Aussehen gibt an, wie die unmittelbare Umgebung in der letzten Zeit empfunden wird.</Beauty.description>
   
   <!-- EN: comfort -->
-  <Comfort.label>TODO</Comfort.label>
+  <Comfort.label>Komfort</Comfort.label>
   <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
-  <Comfort.description>TODO</Comfort.description>
+  <Comfort.description>Komfort erhöht sich durch die regelmäßige Verwendung bequemer Möbel.</Comfort.description>
+  
+  <!-- EN: chemical -->
+  <DrugDesire.label>TODO</DrugDesire.label>
+  <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
+  <DrugDesire.description>TODO</DrugDesire.description>
   
   <!-- EN: food -->
-  <Food.label>TODO</Food.label>
+  <Food.label>Nahrung</Food.label>
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
-  <Food.description>TODO</Food.description>
+  <Food.description>Die Nahrung gibt an, wie nahrhaft die letzten Mahlzeiten waren. Wenn sie auf Null sinkt, nimmt der Körper Schaden durch Verhungern.</Food.description>
   
   <!-- EN: recreation -->
-  <Joy.label>TODO</Joy.label>
+  <Joy.label>Vergnügen</Joy.label>
   <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
-  <Joy.description>TODO</Joy.description>
+  <Joy.description>Vergnügen stellt die Notwendigkeit dar, ab und zu die Arbeit einmal ruhen zu lassen und etwas Angenehmeres zu tun. Beachte, dass die Wiederholung von Aktivitäten gleicher Art weniger effektiv ist.</Joy.description>
   
   <!-- EN: mood -->
-  <Mood.label>TODO</Mood.label>
-  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may hide in his room for a day, or may go on a murder spree. -->
-  <Mood.description>TODO</Mood.description>
+  <Mood.label>Stimmung</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree. -->
+  <Mood.description>Die Stimmung zeigt an, wie glücklich oder gestresst jemand ist. Wenn sie zu tief sinkt, kann die Person einen Nervenzusammenbruch erleiden.</Mood.description>
   
   <!-- EN: outdoors -->
   <Outdoors.label>TODO</Outdoors.label>
@@ -32,11 +37,15 @@
   <Outdoors.description>TODO</Outdoors.description>
   
   <!-- EN: rest -->
-  <Rest.label>TODO</Rest.label>
+  <Rest.label>Erholung</Rest.label>
   <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
-  <Rest.description>TODO</Rest.description>
+  <Rest.description>Erholung gibt an, ob ausreichend Zeit für Schlaf gefunden werden konnte.</Rest.description>
   
   <!-- EN: room size -->
   <RoomSize.label>TODO</RoomSize.label>
+  
+  <!-- UNUSED -->
+  <Space.label>Freiraum</Space.label>
+  <Space.description>Der Freiraum stellt das Gefühl der physischen Freiheit und die Möglichkeit, frei herumzulaufen, dar. Er wird zudem durch längere Aufenthalte in engen Räumen reduziert.</Space.description>
   
 </LanguageData>

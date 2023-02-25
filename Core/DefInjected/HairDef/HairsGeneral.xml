@@ -2,75 +2,153 @@
 <LanguageData>
   
   <!-- EN: afro -->
-  <Afro.label>TODO</Afro.label>
+  <Afro.label>Afro</Afro.label>
   
   <!-- EN: bob -->
-  <Bob.label>TODO</Bob.label>
+  <Bob.label>Bob</Bob.label>
+  
+  <!-- EN: bowlcut -->
+  <Bowlcut.label>TODO</Bowlcut.label>
   
   <!-- EN: braided knot -->
-  <BraidedKnot.label>TODO</BraidedKnot.label>
+  <BraidedKnot.label>Geflochtener Knoten</BraidedKnot.label>
+  
+  <!-- EN: bravo -->
+  <Bravo.label>TODO</Bravo.label>
   
   <!-- EN: brief ponytail -->
-  <BriefPonytail.label>TODO</BriefPonytail.label>
+  <BriefPonytail.label>Kurzer Pferdeschwanz</BriefPonytail.label>
   
   <!-- EN: burgundy -->
-  <Burgundy.label>TODO</Burgundy.label>
+  <Burgundy.label>Burgund</Burgundy.label>
+  
+  <!-- EN: cleopatra -->
+  <Cleopatra.label>TODO</Cleopatra.label>
   
   <!-- EN: curly -->
-  <Curly.label>TODO</Curly.label>
+  <Curly.label>Lockig</Curly.label>
+  
+  <!-- EN: cute -->
+  <Cute.label>TODO</Cute.label>
+  
+  <!-- EN: decent -->
+  <Decent.label>TODO</Decent.label>
+  
+  <!-- EN: elder -->
+  <Elder.label>TODO</Elder.label>
+  
+  <!-- EN: fancy bun -->
+  <FancyBun.label>TODO</FancyBun.label>
   
   <!-- EN: firestarter -->
-  <Firestarter.label>TODO</Firestarter.label>
+  <Firestarter.label>Feuerteufel</Firestarter.label>
   
   <!-- EN: flowy -->
-  <Flowy.label>TODO</Flowy.label>
+  <Flowy.label>Gelockt</Flowy.label>
+  
+  <!-- EN: fringe -->
+  <Fringe.label>TODO</Fringe.label>
+  
+  <!-- EN: frozen -->
+  <Frozen.label>TODO</Frozen.label>
   
   <!-- EN: greasy swoop -->
-  <GreasySwoop.label>TODO</GreasySwoop.label>
+  <GreasySwoop.label>Schmalzlocke</GreasySwoop.label>
+  
+  <!-- EN: junkie -->
+  <Junkie.label>TODO</Junkie.label>
+  
+  <!-- EN: keeper -->
+  <Keeper.label>TODO</Keeper.label>
+  
+  <!-- EN: lackland -->
+  <Lackland.label>TODO</Lackland.label>
+  
+  <!-- EN: locks -->
+  <Locks.label>TODO</Locks.label>
   
   <!-- EN: long -->
-  <Long.label>TODO</Long.label>
+  <Long.label>Lang</Long.label>
   
   <!-- EN: messy -->
-  <Messy.label>TODO</Messy.label>
+  <Messy.label>Gestrubbelt</Messy.label>
   
   <!-- EN: mohawk -->
-  <Mohawk.label>TODO</Mohawk.label>
+  <Mohawk.label>Irokese</Mohawk.label>
   
   <!-- EN: mop -->
-  <Mop.label>TODO</Mop.label>
+  <Mop.label>Mop</Mop.label>
   
   <!-- EN: pigtails -->
-  <Pigtails.label>TODO</Pigtails.label>
+  <Pigtails.label>Zöpfe</Pigtails.label>
+  
+  <!-- EN: ponytails -->
+  <Ponytails.label>TODO</Ponytails.label>
+  
+  <!-- EN: primal -->
+  <Primal.label>TODO</Primal.label>
   
   <!-- EN: princess -->
-  <Princess.label>TODO</Princess.label>
+  <Princess.label>Prinzessin</Princess.label>
+  
+  <!-- EN: randy -->
+  <Randy.label>TODO</Randy.label>
+  
+  <!-- EN: recruit -->
+  <Recruit.label>TODO</Recruit.label>
+  
+  <!-- EN: revolt -->
+  <Revolt.label>TODO</Revolt.label>
+  
+  <!-- EN: rockstar -->
+  <Rockstar.label>TODO</Rockstar.label>
+  
+  <!-- EN: rookie -->
+  <Rookie.label>TODO</Rookie.label>
+  
+  <!-- EN: savage -->
+  <Savage.label>TODO</Savage.label>
   
   <!-- EN: scatman -->
-  <Scatman.label>TODO</Scatman.label>
+  <Scatman.label>Scatman</Scatman.label>
   
   <!-- EN: scorpion tail -->
-  <ScorpionTail.label>TODO</ScorpionTail.label>
+  <ScorpionTail.label>Skorpion-Schwanz</ScorpionTail.label>
+  
+  <!-- EN: scrapper -->
+  <Scrapper.label>TODO</Scrapper.label>
   
   <!-- EN: senorita -->
-  <Senorita.label>TODO</Senorita.label>
+  <Senorita.label>Senorita</Senorita.label>
   
   <!-- EN: shaved -->
-  <Shaved.label>TODO</Shaved.label>
+  <Shaved.label>Glatze</Shaved.label>
+  
+  <!-- EN: shave top braid -->
+  <ShaveTopBraid.label>TODO</ShaveTopBraid.label>
+  
+  <!-- EN: snazzy -->
+  <Snazzy.label>TODO</Snazzy.label>
   
   <!-- EN: spikes -->
-  <Spikes.label>TODO</Spikes.label>
+  <Spikes.label>Igel</Spikes.label>
+  
+  <!-- EN: sticky -->
+  <Sticky.label>TODO</Sticky.label>
   
   <!-- EN: topdog -->
-  <Topdog.label>TODO</Topdog.label>
+  <Topdog.label>Boss</Topdog.label>
   
   <!-- EN: troubadour -->
-  <Troubadour.label>TODO</Troubadour.label>
+  <Troubadour.label>Minnesänger</Troubadour.label>
   
   <!-- EN: tuft -->
-  <Tuft.label>TODO</Tuft.label>
+  <Tuft.label>Gestrubbelt</Tuft.label>
+  
+  <!-- EN: warden -->
+  <Warden.label>TODO</Warden.label>
   
   <!-- EN: wavy -->
-  <Wavy.label>TODO</Wavy.label>
+  <Wavy.label>Gewellt</Wavy.label>
   
 </LanguageData>

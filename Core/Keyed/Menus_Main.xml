@@ -5,55 +5,59 @@
   <!-- EN: Tutorial -->
   <Tutorial>TODO</Tutorial>
   <!-- EN: New colony -->
-  <NewColony>TODO</NewColony>
+  <NewColony>Colonie nouă</NewColony>
   <!-- EN: Back to game -->
-  <BackToGame>TODO</BackToGame>
+  <BackToGame>Continuare joc</BackToGame>
   <!-- EN: Review scenario -->
   <ReviewScenario>TODO</ReviewScenario>
   <!-- EN: Save -->
-  <Save>TODO</Save>
+  <Save>Salvare colonie</Save>
   <!-- EN: Load game -->
   <LoadGame>TODO</LoadGame>
   <!-- EN: Options -->
-  <Options>TODO</Options>
+  <Options>Setări</Options>
+  <!-- EN: Mod -->
+  <Mod>TODO</Mod>
   <!-- EN: Mods -->
-  <Mods>TODO</Mods>
+  <Mods>Îmbunătățiri</Mods>
   <!-- EN: Save translation report -->
   <SaveTranslationReport>TODO</SaveTranslationReport>
   <!-- EN: Generating translation report -->
   <GeneratingTranslationReport>TODO</GeneratingTranslationReport>
   <!-- EN: Cleanup translation files -->
   <CleanupTranslationFiles>TODO</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>TODO</TranslationFilesTKeyUpdate>
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>TODO</CleaningTranslationFiles>
   <!-- EN: Credits -->
-  <Credits>TODO</Credits>
+  <Credits>Credite</Credits>
   <!-- EN: Quit to main menu -->
-  <QuitToMainMenu>TODO</QuitToMainMenu>
+  <QuitToMainMenu>Întoarcere la meniul jocului</QuitToMainMenu>
   <!-- EN: Save and quit to menu -->
   <SaveAndQuitToMainMenu>TODO</SaveAndQuitToMainMenu>
   <!-- EN: Quit to OS -->
-  <QuitToOS>TODO</QuitToOS>
+  <QuitToOS>Închide joc</QuitToOS>
   <!-- EN: Save and quit to OS -->
   <SaveAndQuitToOS>TODO</SaveAndQuitToOS>
   <!-- EN: Fiction primer -->
-  <FictionPrimer>TODO</FictionPrimer>
+  <FictionPrimer>Fiction primer</FictionPrimer>
   <!-- EN: Ludeon blog -->
-  <LudeonBlog>TODO</LudeonBlog>
+  <LudeonBlog>Blog-ul Ludeon</LudeonBlog>
   <!-- EN: Forums -->
-  <Forums>TODO</Forums>
+  <Forums>Forum</Forums>
   <!-- EN: Official wiki -->
-  <OfficialWiki>TODO</OfficialWiki>
+  <OfficialWiki>Wiki oficial</OfficialWiki>
   <!-- EN: Tynan's twitter -->
-  <TynansTwitter>TODO</TynansTwitter>
+  <TynansTwitter>Pagina de twitter a lui Tynan</TynansTwitter>
   <!-- EN: Tynan's design book -->
-  <TynansDesignBook>TODO</TynansDesignBook>
+  <TynansDesignBook>Cartea de design a lui Tynan</TynansDesignBook>
   <!-- EN: Help translate RimWorld -->
-  <HelpTranslate>TODO</HelpTranslate>
+  <HelpTranslate>Participă la traducerea jocului!</HelpTranslate>
   <!-- EN: Buy soundtrack -->
   <BuySoundtrack>TODO</BuySoundtrack>
   <!-- EN: Create world -->
-  <CreateWorld>TODO</CreateWorld>
+  <CreateWorld>Creare lume</CreateWorld>
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
@@ -69,19 +73,21 @@
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
-  <ReviewWorld>TODO</ReviewWorld>
+  <ReviewWorld>Vizualizare lume</ReviewWorld>
   <!-- EN: Generate -->
-  <WorldGenerate>TODO</WorldGenerate>
+  <WorldGenerate>Generează lume</WorldGenerate>
   <!-- EN: Save and finish -->
-  <WorldSaveAndFinish>TODO</WorldSaveAndFinish>
+  <WorldSaveAndFinish>Salvează si finalizează</WorldSaveAndFinish>
   <!-- EN: Reset -->
-  <Reset>TODO</Reset>
+  <Reset>Resetare</Reset>
   <!-- EN: Globe coverage -->
   <PlanetCoverage>TODO</PlanetCoverage>
   <!-- EN: Overall rainfall -->
   <PlanetRainfall>TODO</PlanetRainfall>
   <!-- EN: Overall temperature -->
   <PlanetTemperature>TODO</PlanetTemperature>
+  <!-- EN: Population -->
+  <PlanetPopulation>TODO</PlanetPopulation>
   <!-- EN: Low -->
   <PlanetRainfall_Low>TODO</PlanetRainfall_Low>
   <!-- EN: Normal -->
@@ -94,10 +100,16 @@
   <PlanetTemperature_Normal>TODO</PlanetTemperature_Normal>
   <!-- EN: High -->
   <PlanetTemperature_High>TODO</PlanetTemperature_High>
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>TODO</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>TODO</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>TODO</PlanetPopulation_High>
   <!-- EN: Seed -->
-  <WorldSeed>TODO</WorldSeed>
+  <WorldSeed>Cod de generare</WorldSeed>
   <!-- EN: Randomize seed -->
-  <RandomizeSeed>TODO</RandomizeSeed>
+  <RandomizeSeed>Generare cod aleator</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
   <PlanetCoverageTip>TODO</PlanetCoverageTip>
   <!-- EN: Factions -->
@@ -105,25 +117,25 @@
 
   <!-- Select world -->
   <!-- EN: Select world -->
-  <SelectWorld>TODO</SelectWorld>
+  <SelectWorld>Selectare lume</SelectWorld>
   <!-- EN: Select -->
-  <WorldChooseButton>TODO</WorldChooseButton>
+  <WorldChooseButton>Selectează</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>TODO</NoWorldsFilesFound>
+  <NoWorldsFilesFound>Nu există nici o lume creată. Creează o lume nouă mai întâi.</NoWorldsFilesFound>
   
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
-  <BuildNowAvailable>TODO</BuildNowAvailable>
+  <BuildNowAvailable>Versiunea {0} este finalizată. Accesează www.ludeon.com pentru mai multe informații.</BuildNowAvailable>
   <!-- EN: This is the latest version. -->
-  <BuildUpToDate>TODO</BuildUpToDate>
+  <BuildUpToDate>Aceasta este cea mai nouă versiune.</BuildUpToDate>
   <!-- EN: Error getting version info: {0} -->
-  <ErrorGettingVersionInfo>TODO</ErrorGettingVersionInfo>
+  <ErrorGettingVersionInfo>Eroare în determinarea versiunii jocului: {0}</ErrorGettingVersionInfo>
   <!-- EN: Loading version info... -->
-  <LoadingVersionInfo>TODO</LoadingVersionInfo>
+  <LoadingVersionInfo>Informații versiune prezentă</LoadingVersionInfo>
 
   <!-- World generator -->
   <!-- EN: Generate world -->
-  <GenerateWorld>TODO</GenerateWorld>
+  <GenerateWorld>Generează lume</GenerateWorld>
 
   <!-- Mods config -->
   <!-- EN: Open Steam Workshop -->
@@ -131,19 +143,21 @@
   <!-- EN: Get mods from forum -->
   <GetModsFromForum>TODO</GetModsFromForum>
   <!-- EN: Open mods data folder -->
-  <OpenModsDataFolder>TODO</OpenModsDataFolder>
+  <OpenModsDataFolder>Deschide fișierul cu îmbunătățiri</OpenModsDataFolder>
   <!-- EN: Show mods data location -->
   <ShowModsDataLocation>TODO</ShowModsDataLocation>
   <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
-  <ConfirmDisableCoreMod>TODO</ConfirmDisableCoreMod>
+  <ConfirmDisableCoreMod>Ești sigur că vrei sa dezactivezi nucleul de bază? Jocul nu va mai funcționa deloc dacă nu există un alt mod care să înlocuiască toate funcțiile de nucleului.\n\nReține, alte mod-uri pot suprapune defs-uri in mod-ul de bază dacă folosesc același defName.</ConfirmDisableCoreMod>
   <!-- EN: Are you sure you want to delete all the content for {0}? -->
   <ConfirmDeleteMod>TODO</ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>TODO</ResolveModOrder>
   <!-- EN: Unsubscribe -->
   <Unsubscribe>TODO</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribe>TODO</ConfirmUnsubscribe>
   <!-- EN: Author -->
-  <Author>TODO</Author>
+  <Author>Autor</Author>
   <!-- EN: Workshop page -->
   <WorkshopPage>TODO</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
@@ -158,19 +172,63 @@
   <WorkshopUploadSucceeded>TODO</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
   <Downloading>TODO</Downloading>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>TODO</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>TODO</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>TODO</ModClickToGoToWebsite>
   <!-- EN: Source -->
   <Source>TODO</Source>
-  <!-- EN: For version(s): {0} -->
+  <!-- EN: For game version(s) -->
   <ModTargetVersion>TODO</ModTargetVersion>
+  <!-- EN: ID -->
+  <ModPackageId>TODO</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>TODO</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>TODO</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>TODO</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>TODO</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>TODO</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>TODO</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>TODO</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>TODO</ModCyclicDependency>
+  <!-- EN: This requires following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>TODO</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
   <ModNotMadeForThisVersion>TODO</ModNotMadeForThisVersion>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
   <ModNotMadeForThisVersion_Newer>TODO</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
   <MessageModNeedsWellFormattedTargetVersion>TODO</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>TODO</MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>TODO</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>TODO</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>TODO</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>TODO</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>TODO</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>TODO</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>TODO</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>TODO</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>TODO</DragToReorder>
-  
+
   <!-- Select scenario -->
   <!-- EN: Choose scenario -->
   <ChooseScenario>TODO</ChooseScenario>
@@ -187,7 +245,7 @@
   <!-- EN: seed -->
   <Seed>TODO</Seed>
   <!-- EN: Load -->
-  <Load>TODO</Load>
+  <Load>Încărcare colonie precedentă</Load>
   <!-- EN: edit mode -->
   <EditMode>TODO</EditMode>
   <!-- EN: Summary -->
@@ -209,9 +267,9 @@
   
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
-  <ChooseAIStoryteller>TODO</ChooseAIStoryteller>
+  <ChooseAIStoryteller>Alege un AI povestitor</ChooseAIStoryteller>
   <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
-  <HowStorytellersWork>TODO</HowStorytellersWork>
+  <HowStorytellersWork>AI-ul povestitor generează evenimente ca atacuri ale piraților, ale animalelor sau aterizări de resurse. Aceste alegeri vor afecta povestea coloniei tale.</HowStorytellersWork>
   <!-- EN: Please choose a difficulty setting. -->
   <MustChooseDifficulty>TODO</MustChooseDifficulty>
   <!-- EN: Difficulty -->
@@ -239,17 +297,17 @@
   <!-- EN: Select random site -->
   <SelectRandomSite>TODO</SelectRandomSite>
   <!-- EN: Select site -->
-  <SelectSite>TODO</SelectSite>
+  <SelectSite>Alege regiunea</SelectSite>
   <!-- EN: Please select a site. -->
   <MustSelectStartingSite>TODO</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>TODO</CannotLandBiome>
+  <CannotLandBiome>Nu poți ateriza în acest mediu: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>TODO</BiomeNotImplemented>
+  <BiomeNotImplemented>Mediul geografic nu este implementat</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
   <CannotLandImpassableMountains>TODO</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>TODO</BaseAlreadyThere>
+  <BaseAlreadyThere>{0} au deja o colonie acolo.</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
   <YourBaseAlreadyThere>TODO</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
@@ -257,37 +315,37 @@
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
   <FactionBaseAdjacent>TODO</FactionBaseAdjacent>
   <!-- EN: Biome -->
-  <Biome>TODO</Biome>
+  <Biome>Mediu</Biome>
   <!-- EN: Terrain -->
-  <Terrain>TODO</Terrain>
+  <Terrain>Relief</Terrain>
   <!-- EN: Road -->
   <Road>TODO</Road>
   <!-- EN: River -->
   <River>TODO</River>
   <!-- EN: Elevation -->
-  <Elevation>TODO</Elevation>
+  <Elevation>Altitudine</Elevation>
   <!-- EN: Fertility -->
-  <Fertility>TODO</Fertility>
+  <Fertility>Fertilitate</Fertility>
   <!-- EN: Average temperature -->
-  <AvgTemp>TODO</AvgTemp>
+  <AvgTemp>Temperatură medie</AvgTemp>
   <!-- EN: Rainfall -->
-  <Rainfall>TODO</Rainfall>
+  <Rainfall>Precipitații</Rainfall>
   <!-- EN: Special features -->
   <SpecialFeatures>TODO</SpecialFeatures>
   <!-- EN: northern coast -->
-  <HasCoast0>TODO</HasCoast0>
+  <HasCoast0>Coasta Nordică</HasCoast0>
   <!-- EN: eastern coast -->
-  <HasCoast1>TODO</HasCoast1>
+  <HasCoast1>Coasta Estică</HasCoast1>
   <!-- EN: southern coast -->
-  <HasCoast2>TODO</HasCoast2>
+  <HasCoast2>Coasta Sudică</HasCoast2>
   <!-- EN: western coast -->
-  <HasCoast3>TODO</HasCoast3>
+  <HasCoast3>Coasta Vestică</HasCoast3>
   <!-- EN: caves -->
   <HasCaves>TODO</HasCaves>
   <!-- EN: Faction base -->
-  <FactionBase>TODO</FactionBase>
+  <FactionBase>Capitala unei facțiuni</FactionBase>
   <!-- EN: Stone types -->
-  <StoneTypesHere>TODO</StoneTypesHere>
+  <StoneTypesHere>Tipuri de roci</StoneTypesHere>
   <!-- EN: Time zone -->
   <TimeZone>TODO</TimeZone>
   <!-- EN: Movement difficulty -->
@@ -305,47 +363,65 @@
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
-  <CreateCharacters>TODO</CreateCharacters>
+  <CreateCharacters>Creează personaje</CreateCharacters>
   <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
-  <FirstNameDesc>TODO</FirstNameDesc>
+  <FirstNameDesc>Prenumele personajului.\n\nAcesta este afișat doar în anumite meniuri.</FirstNameDesc>
   <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-  <ShortIdentifierDesc>TODO</ShortIdentifierDesc>
+  <ShortIdentifierDesc>Porecla personajului.\n\nAceasta este afișată mereu. Poate fi numele, prenumele sau cu totul altceva.</ShortIdentifierDesc>
   <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
-  <LastNameDesc>TODO</LastNameDesc>
+  <LastNameDesc>Numele personajului.\n\nAcesta este afișat doar în anumite meniuri.</LastNameDesc>
   <!-- EN: Randomize -->
-  <Randomize>TODO</Randomize>
+  <Randomize>Alege aleator</Randomize>
   <!-- EN: age {0} -->
-  <AgeIndicator>TODO</AgeIndicator>
+  <AgeIndicator>vârstă {0}</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>TODO</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>TODO</PawnSummaryWithGender>
   <!-- EN: Backstory -->
-  <Backstory>TODO</Backstory>
+  <Backstory>Poveste</Backstory>
   <!-- EN: Incapable of -->
-  <IncapableOf>TODO</IncapableOf>
+  <IncapableOf>Incapabil de</IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>TODO</Abilities>
+  <!-- EN: Caused by backstory: {0} -->
+  <IncapableOfTooltipBackstory>TODO</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title: {0} -->
+  <IncapableOfTooltipTitle>TODO</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait: {0} -->
+  <IncapableOfTooltipTrait>TODO</IncapableOfTooltipTrait>
+  <!-- EN: Caused by: {0} -->
+  <IncapableOfTooltipHediff>TODO</IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>TODO</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by quest status: {0} -->
+  <IncapableOfTooltipQuest>TODO</IncapableOfTooltipQuest>
   <!-- EN: Traits -->
-  <Traits>TODO</Traits>
+  <Traits>Trăsături</Traits>
   <!-- EN: Permanent mood effect -->
-  <PermanentMoodEffect>TODO</PermanentMoodEffect>
+  <PermanentMoodEffect>Efect permament asupra dispoziției</PermanentMoodEffect>
   <!-- EN: Skills -->
-  <Skills>TODO</Skills>
+  <Skills>Abilități</Skills>
   <!-- EN: none -->
-  <NoneLower>TODO</NoneLower>
+  <NoneLower>Nimic</NoneLower>
   <!-- EN: Adulthood -->
-  <Adulthood>TODO</Adulthood>
+  <Adulthood>Viață de adult</Adulthood>
   <!-- EN: Childhood -->
-  <Childhood>TODO</Childhood>
+  <Childhood>Copilărie</Childhood>
   <!-- EN: Current -->
   <Current>TODO</Current>
   <!-- EN: male -->
-  <Male>TODO</Male>
+  <Male>Mascul</Male>
   <!-- EN: female -->
-  <Female>TODO</Female>
+  <Female>Femelă</Female>
   <!-- EN: male -->
   <MaleAnimal>TODO</MaleAnimal>
   <!-- EN: female -->
   <FemaleAnimal>TODO</FemaleAnimal>
   <!-- EN: Pain -->
-  <Pain>TODO</Pain>
+  <Pain>Durere</Pain>
   <!-- EN: Health -->
-  <Health>TODO</Health>
+  <Health>Sănătate</Health>
   <!-- EN: Relations -->
   <Relations>TODO</Relations>
   <!-- EN: Team skills -->
@@ -357,19 +433,21 @@
   
   <!-- Misc -->
   <!-- EN: Start -->
-  <Start>TODO</Start>
+  <Start>Start</Start>
   <!-- EN: Advanced -->
-  <Advanced>TODO</Advanced>
+  <Advanced>Avansat</Advanced>
   <!-- EN: Next -->
-  <Next>TODO</Next>
+  <Next>Înainte</Next>
   <!-- EN: Back -->
-  <Back>TODO</Back>
+  <Back>Înapoi</Back>
+  <!-- EN: Show Materials -->
+  <ShowMaterials>TODO</ShowMaterials>
   <!-- EN: Gameplay -->
-  <Gameplay>TODO</Gameplay>
+  <Gameplay>Mecanici de joc</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>TODO</ConfirmQuit>
+  <ConfirmQuit>Sigur vrei să închizi? Conținutul nesalvat va fi pierdut.</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
-  <EveryoneNeedsValidName>TODO</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>Fiecare persoană are nevoie de un nume valid.</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->
   <RequiredWorkTypeDisabledForEveryone>TODO</RequiredWorkTypeDisabledForEveryone>
   <!-- EN: Quit -->
@@ -379,12 +457,17 @@
   
   <!-- Progress bar -->
   <!-- EN: Generating world -->
-  <GeneratingWorld>TODO</GeneratingWorld>
+  <GeneratingWorld>Generează lume...</GeneratingWorld>
   <!-- EN: Generating planet -->
   <GeneratingPlanet>TODO</GeneratingPlanet>
   <!-- EN: Generating map -->
-  <GeneratingMap>TODO</GeneratingMap>
+  <GeneratingMap>Generează hartă...</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
   <GeneratingMapForNewEncounter>TODO</GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info -->
+  <ClickForMoreInfo>TODO</ClickForMoreInfo>
+  <!-- EN: No more information is available. -->
+  <NoMoreInfoAvailable>TODO</NoMoreInfoAvailable>
 
 </LanguageData>

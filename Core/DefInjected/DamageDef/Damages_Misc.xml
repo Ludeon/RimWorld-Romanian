@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: bomb -->
-  <Bomb.label>TODO</Bomb.label>
+  <Bomb.label>Explosion</Bomb.label>
   <!-- EN: {0} has died in an explosion. -->
-  <Bomb.deathMessage>TODO</Bomb.deathMessage>
+  <Bomb.deathMessage>{0} ist in einer Explosion umgekommen.</Bomb.deathMessage>
   
   <!-- EN: bomb -->
   <BombSuper.label>TODO</BombSuper.label>
@@ -12,22 +12,22 @@
   <BombSuper.deathMessage>TODO</BombSuper.deathMessage>
   
   <!-- EN: deterioration -->
-  <Deterioration.label>TODO</Deterioration.label>
+  <Deterioration.label>Deteriorare</Deterioration.label>
   <!-- EN: {0} has been killed. -->
   <Deterioration.deathMessage>TODO</Deterioration.deathMessage>
   
   <!-- EN: extinguish -->
-  <Extinguish.label>TODO</Extinguish.label>
+  <Extinguish.label>Stinge</Extinguish.label>
   <!-- EN: {0} has been killed. -->
   <Extinguish.deathMessage>TODO</Extinguish.deathMessage>
   
   <!-- EN: mining -->
-  <Mining.label>TODO</Mining.label>
+  <Mining.label>Exploatare</Mining.label>
   <!-- EN: {0} has been killed. -->
   <Mining.deathMessage>TODO</Mining.deathMessage>
   
   <!-- EN: rotting -->
-  <Rotting.label>TODO</Rotting.label>
+  <Rotting.label>Putrezește</Rotting.label>
   <!-- EN: {0} has been killed. -->
   <Rotting.deathMessage>TODO</Rotting.deathMessage>
   

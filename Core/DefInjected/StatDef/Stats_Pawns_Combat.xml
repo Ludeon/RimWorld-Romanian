@@ -2,33 +2,49 @@
 <LanguageData>
   
   <!-- EN: aiming time -->
-  <AimingDelayFactor.label>TODO</AimingDelayFactor.label>
+  <AimingDelayFactor.label>Fernkampf Anvisierungsverzögerungsfaktor</AimingDelayFactor.label>
   <!-- EN: How long it takes to shoot after choosing a target. -->
-  <AimingDelayFactor.description>TODO</AimingDelayFactor.description>
+  <AimingDelayFactor.description>Wie lange das Zielen dauert, bevor geschossen wird.</AimingDelayFactor.description>
+  
+  <!-- EN: incoming damage multiplier -->
+  <IncomingDamageFactor.label>TODO</IncomingDamageFactor.label>
+  <!-- EN: A multiplier on all incoming damage. -->
+  <IncomingDamageFactor.description>TODO</IncomingDamageFactor.description>
   
   <!-- EN: melee armor penetration -->
   <MeleeArmorPenetration.label>TODO</MeleeArmorPenetration.label>
-  <!-- EN: Average armor penetration of all attacks in melee combat. This stat includes currently used weapon. -->
+  <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
   <MeleeArmorPenetration.description>TODO</MeleeArmorPenetration.description>
   
   <!-- EN: melee dodge chance -->
   <MeleeDodgeChance.label>TODO</MeleeDodgeChance.label>
-  <!-- EN: Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon. -->
+  <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
   <MeleeDodgeChance.description>TODO</MeleeDodgeChance.description>
   
   <!-- EN: melee DPS -->
   <MeleeDPS.label>TODO</MeleeDPS.label>
-  <!-- EN: Average damage per second in melee combat. This stat ignores target defenses like dodging and armor. -->
+  <!-- EN: Average damage per second in melee combat.\n\nThis stat ignores target defenses like dodging and armor. -->
   <MeleeDPS.description>TODO</MeleeDPS.description>
   
   <!-- EN: melee hit chance -->
-  <MeleeHitChance.label>TODO</MeleeHitChance.label>
-  <!-- EN: Chance to hit a target in melee. The target can still dodge even if we would've hit. -->
-  <MeleeHitChance.description>TODO</MeleeHitChance.description>
+  <MeleeHitChance.label>Nahkampf Trefferwahrscheinlichkeit</MeleeHitChance.label>
+  <!-- EN: Chance to hit a target in melee.\n\nThe target can still dodge even if we would've hit. -->
+  <MeleeHitChance.description>Die Basiswahrscheinlichkeit, ein Ziel im Nahkampf zu treffen.</MeleeHitChance.description>
+  
+  <!-- EN: trap spring chance -->
+  <PawnTrapSpringChance.label>TODO</PawnTrapSpringChance.label>
+  <!-- EN: Chance to spring a trap the character is unaware of. -->
+  <PawnTrapSpringChance.description>TODO</PawnTrapSpringChance.description>
+  
+  <!-- UNUSED -->
+  <ShootingAccuracy.label>Fernkampf Treffgenauigkeit</ShootingAccuracy.label>
+  <ShootingAccuracy.description>Die Basiswahrscheinlichkeit, pro Quadrat Entfernung ein Ziel nicht zu verfehlen.</ShootingAccuracy.description>
   
   <!-- EN: shooting accuracy -->
   <ShootingAccuracyPawn.label>TODO</ShootingAccuracyPawn.label>
-  <!-- EN: Base chance to not miss per cell of shot distance. Chance to hit is also affected by many other factors. A hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
+  <!-- EN: Base chance to not miss per cell of shot distance.\n\nChance to hit is also affected by many other factors.\n\nA hit chance explanation for any shot can be seen by selecting a shooter and mousing over a target. -->
   <ShootingAccuracyPawn.description>TODO</ShootingAccuracyPawn.description>
+  <!-- EN: shooting accuracy (people) -->
+  <ShootingAccuracyPawn.labelForFullStatList>TODO</ShootingAccuracyPawn.labelForFullStatList>
   
 </LanguageData>

@@ -1,27 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: ancients -->
-  <Ancients.label>TODO</Ancients.label>
+  <!-- EN: neutral ancients -->
+  <Ancients.label>Astronaut</Ancients.label>
+  <Ancients.description>Oamenii din spațiu</Ancients.description>
   <!-- EN: Ancients -->
   <Ancients.fixedName>TODO</Ancients.fixedName>
   <!-- EN: ancient -->
   <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <Ancients.pawnsPlural>TODO</Ancients.pawnsPlural>
+  <Ancients.pawnsPlural>Astronauți</Ancients.pawnsPlural>
   
-  <!-- EN: ancients -->
-  <AncientsHostile.label>TODO</AncientsHostile.label>
+  <!-- EN: hostile ancients -->
+  <AncientsHostile.label>Adversar din spațiu</AncientsHostile.label>
+  <AncientsHostile.description>Adversarii din spațiu.</AncientsHostile.description>
   <!-- EN: Ancients -->
   <AncientsHostile.fixedName>TODO</AncientsHostile.fixedName>
   <!-- EN: ancient -->
   <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
-  <AncientsHostile.pawnsPlural>TODO</AncientsHostile.pawnsPlural>
+  <AncientsHostile.pawnsPlural>Adversarii din spațiu</AncientsHostile.pawnsPlural>
   
   <!-- EN: insects -->
   <Insect.label>TODO</Insect.label>
-  <!-- EN: insects -->
+  <!-- EN: Sorne Geneline -->
   <Insect.fixedName>TODO</Insect.fixedName>
   <!-- EN: insect -->
   <Insect.pawnSingular>TODO</Insect.pawnSingular>
@@ -29,12 +31,12 @@
   <Insect.pawnsPlural>TODO</Insect.pawnsPlural>
   
   <!-- EN: mechanoid hive -->
-  <Mechanoid.label>TODO</Mechanoid.label>
-  <!-- EN: a mechanoid hive -->
-  <Mechanoid.fixedName>TODO</Mechanoid.fixedName>
+  <Mechanoid.label>Mechanoiden Schwarm</Mechanoid.label>
+  <Mechanoid.description>Ein Schwarm uralter Roboter mit der Fähigkeit, neue herzustellen.</Mechanoid.description>
+  <Mechanoid.fixedName>Ein Mechanoiden Schwarm</Mechanoid.fixedName>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
-  <Mechanoid.pawnsPlural>TODO</Mechanoid.pawnsPlural>
+  <Mechanoid.pawnsPlural>Mechanoiden</Mechanoid.pawnsPlural>
   
 </LanguageData>

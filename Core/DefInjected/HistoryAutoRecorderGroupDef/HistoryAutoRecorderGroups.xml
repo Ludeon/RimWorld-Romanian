@@ -2,15 +2,24 @@
 <LanguageData>
   
   <!-- EN: colonist mood -->
-  <ColonistMood.label>TODO</ColonistMood.label>
+  <ColonistMood.label>Stimmung der Kolonisten</ColonistMood.label>
+  
+  <!-- UNUSED -->
+  <ColonistMood.graphLabelY>Prozent</ColonistMood.graphLabelY>
   
   <!-- EN: debug -->
   <Debug.label>TODO</Debug.label>
   
   <!-- EN: population -->
-  <Population.label>TODO</Population.label>
+  <Population.label>Bevölkerung</Population.label>
+  
+  <!-- UNUSED -->
+  <Population.graphLabelY>Kolonisten</Population.graphLabelY>
   
   <!-- EN: wealth -->
-  <Wealth.label>TODO</Wealth.label>
+  <Wealth.label>Reichtum</Wealth.label>
+  
+  <!-- UNUSED -->
+  <Wealth.graphLabelY>Wert</Wealth.graphLabelY>
   
 </LanguageData>

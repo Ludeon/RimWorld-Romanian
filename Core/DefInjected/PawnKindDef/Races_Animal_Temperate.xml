@@ -11,7 +11,7 @@
   <Caribou.lifeStages.caribou_calf.labelPlural>TODO</Caribou.lifeStages.caribou_calf.labelPlural>
   
   <!-- EN: deer -->
-  <Deer.label>TODO</Deer.label>
+  <Deer.label>Rotwild</Deer.label>
   <!-- EN: doe -->
   <Deer.labelFemale>TODO</Deer.labelFemale>
   <!-- EN: buck -->
@@ -20,7 +20,7 @@
   <Deer.labelPlural>TODO</Deer.labelPlural>
   
   <!-- EN: elk -->
-  <Elk.label>TODO</Elk.label>
+  <Elk.label>Elch</Elk.label>
   <!-- EN: elk -->
   <Elk.labelPlural>TODO</Elk.labelPlural>
   <!-- EN: elk calf -->
@@ -34,13 +34,13 @@
   <Ibex.labelFemale>TODO</Ibex.labelFemale>
   <!-- EN: ibex ram -->
   <Ibex.labelMale>TODO</Ibex.labelMale>
-  <!-- EN: ibex -->
+  <!-- EN: ibexes -->
   <Ibex.labelPlural>TODO</Ibex.labelPlural>
   
   <!-- EN: tortoise -->
-  <Tortoise.label>TODO</Tortoise.label>
+  <Tortoise.label>Schildkröte</Tortoise.label>
   
   <!-- EN: wild boar -->
-  <WildBoar.label>TODO</WildBoar.label>
+  <WildBoar.label>Wildschwein</WildBoar.label>
   
 </LanguageData>

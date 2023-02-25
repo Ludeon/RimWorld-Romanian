@@ -2,108 +2,113 @@
 <LanguageData>
   
   <!-- EN: arms -->
-  <Arms.label>TODO</Arms.label>
+  <Arms.label>brațe</Arms.label>
   
   <!-- EN: beak -->
-  <Beak.label>TODO</Beak.label>
+  <Beak.label>cioc</Beak.label>
   
   <!-- EN: eyes -->
-  <Eyes.label>TODO</Eyes.label>
+  <Eyes.label>Ochi</Eyes.label>
   
   <!-- EN: feet -->
-  <Feet.label>TODO</Feet.label>
+  <Feet.label>tălpi</Feet.label>
   
   <!-- EN: front left claws -->
-  <FrontLeftClaws.label>TODO</FrontLeftClaws.label>
+  <FrontLeftClaws.label>Ghearele stângi din față</FrontLeftClaws.label>
   <!-- EN: claws -->
   <FrontLeftClaws.labelShort>TODO</FrontLeftClaws.labelShort>
   
   <!-- EN: front left leg -->
-  <FrontLeftLeg.label>TODO</FrontLeftLeg.label>
+  <FrontLeftLeg.label>Piciorul stâng din față</FrontLeftLeg.label>
   <!-- EN: leg -->
   <FrontLeftLeg.labelShort>TODO</FrontLeftLeg.labelShort>
   
   <!-- EN: front left paw -->
-  <FrontLeftPaw.label>TODO</FrontLeftPaw.label>
+  <FrontLeftPaw.label>Laba stângă din față</FrontLeftPaw.label>
   <!-- EN: paw -->
   <FrontLeftPaw.labelShort>TODO</FrontLeftPaw.labelShort>
   
   <!-- EN: front right claws -->
-  <FrontRightClaws.label>TODO</FrontRightClaws.label>
+  <FrontRightClaws.label>Ghearele drepte din față</FrontRightClaws.label>
   <!-- EN: claws -->
   <FrontRightClaws.labelShort>TODO</FrontRightClaws.labelShort>
   
   <!-- EN: front right leg -->
-  <FrontRightLeg.label>TODO</FrontRightLeg.label>
+  <FrontRightLeg.label>Piciorul drept din față</FrontRightLeg.label>
   <!-- EN: leg -->
   <FrontRightLeg.labelShort>TODO</FrontRightLeg.labelShort>
   
   <!-- EN: front right paw -->
-  <FrontRightPaw.label>TODO</FrontRightPaw.label>
+  <FrontRightPaw.label>Laba dreaptă din față</FrontRightPaw.label>
   <!-- EN: paw -->
   <FrontRightPaw.labelShort>TODO</FrontRightPaw.labelShort>
   
   <!-- EN: full head -->
-  <FullHead.label>TODO</FullHead.label>
+  <FullHead.label>Tot capul</FullHead.label>
   
   <!-- EN: hands -->
-  <Hands.label>TODO</Hands.label>
+  <Hands.label>mâini</Hands.label>
   
   <!-- EN: head -->
-  <HeadAttackTool.label>TODO</HeadAttackTool.label>
+  <HeadAttackTool.label>Cap</HeadAttackTool.label>
   
   <!-- EN: claw -->
-  <HeadClaw.label>TODO</HeadClaw.label>
+  <HeadClaw.label>gheară</HeadClaw.label>
   
   <!-- EN: horn -->
-  <HornAttackTool.label>TODO</HornAttackTool.label>
+  <HornAttackTool.label>Unealtă de atac din corn</HornAttackTool.label>
   
   <!-- EN: left blade -->
-  <LeftBlade.label>TODO</LeftBlade.label>
+  <LeftBlade.label>lama stângă</LeftBlade.label>
   <!-- EN: blade -->
   <LeftBlade.labelShort>TODO</LeftBlade.labelShort>
   
   <!-- EN: left fist -->
-  <LeftHand.label>TODO</LeftHand.label>
+  <LeftHand.label>pumnul stâng</LeftHand.label>
   <!-- EN: fist -->
   <LeftHand.labelShort>TODO</LeftHand.labelShort>
   
   <!-- EN: legs -->
-  <Legs.label>TODO</Legs.label>
+  <Legs.label>picioare</Legs.label>
+  
+  <!-- EN: middle finger -->
+  <MiddleFingers.label>TODO</MiddleFingers.label>
+  <!-- EN: finger -->
+  <MiddleFingers.labelShort>TODO</MiddleFingers.labelShort>
   
   <!-- EN: mouth -->
-  <Mouth.label>TODO</Mouth.label>
+  <Mouth.label>Gură</Mouth.label>
   
   <!-- EN: neck -->
   <Neck.label>TODO</Neck.label>
   
   <!-- EN: right blade -->
-  <RightBlade.label>TODO</RightBlade.label>
+  <RightBlade.label>lama dreaptă</RightBlade.label>
   <!-- EN: blade -->
   <RightBlade.labelShort>TODO</RightBlade.labelShort>
   
   <!-- EN: right fist -->
-  <RightHand.label>TODO</RightHand.label>
+  <RightHand.label>pumnul drept</RightHand.label>
   <!-- EN: fist -->
   <RightHand.labelShort>TODO</RightHand.labelShort>
   
   <!-- EN: shoulders -->
-  <Shoulders.label>TODO</Shoulders.label>
+  <Shoulders.label>umeri</Shoulders.label>
   
   <!-- EN: teeth -->
-  <Teeth.label>TODO</Teeth.label>
+  <Teeth.label>Dinți</Teeth.label>
   
   <!-- EN: torso -->
-  <Torso.label>TODO</Torso.label>
+  <Torso.label>Piept</Torso.label>
   
   <!-- EN: beak -->
-  <TurtleBeakAttackTool.label>TODO</TurtleBeakAttackTool.label>
+  <TurtleBeakAttackTool.label>Unealtă de atack din cioc de broasca</TurtleBeakAttackTool.label>
   
   <!-- EN: tusks -->
-  <TuskAttackTool.label>TODO</TuskAttackTool.label>
+  <TuskAttackTool.label>Unealtă de atac cu colți</TuskAttackTool.label>
   
   <!-- EN: upper head -->
-  <UpperHead.label>TODO</UpperHead.label>
+  <UpperHead.label>Partea de sus a capului</UpperHead.label>
   
   <!-- EN: waist -->
   <Waist.label>TODO</Waist.label>

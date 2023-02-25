@@ -52,7 +52,6 @@ eagle
 echidna
 eel
 elephant
-elephant seal
 elk
 emu
 falcon
@@ -72,7 +71,6 @@ gorilla
 goshawk
 grasshopper
 grouse
-guinea pig
 hamster
 hare
 hawk
@@ -123,7 +121,6 @@ opossum
 ostrich
 otter
 owl
-ox
 oyster
 panther
 parrot
@@ -133,10 +130,8 @@ penguin
 pheasant
 pig
 pigeon
-polar bear
 porcupine
 porpoise
-prairie dog
 quail
 rabbit
 raccoon
@@ -149,7 +144,6 @@ salamander
 salmon
 sardine
 scorpion
-sea lion
 seahorse
 seal
 shark

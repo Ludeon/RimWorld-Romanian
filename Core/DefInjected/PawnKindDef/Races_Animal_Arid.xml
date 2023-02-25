@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: dromedary -->
-  <Dromedary.label>TODO</Dromedary.label>
+  <Dromedary.label>Dromedar</Dromedary.label>
   <!-- EN: dromedaries -->
   <Dromedary.labelPlural>TODO</Dromedary.labelPlural>
   <!-- EN: dromedary calf -->
@@ -14,10 +14,10 @@
   <Gazelle.label>TODO</Gazelle.label>
   
   <!-- EN: iguana -->
-  <Iguana.label>TODO</Iguana.label>
+  <Iguana.label>Leguan</Iguana.label>
   
   <!-- EN: muffalo -->
-  <Muffalo.label>TODO</Muffalo.label>
+  <Muffalo.label>Muffalo</Muffalo.label>
   <!-- EN: muffalo calf -->
   <Muffalo.lifeStages.muffalo_calf.label>TODO</Muffalo.lifeStages.muffalo_calf.label>
   <!-- EN: muffalo calves -->

@@ -1,5 +1,4 @@
-﻿knife
-dagger
+﻿dagger
 blade
 shiv
 razor

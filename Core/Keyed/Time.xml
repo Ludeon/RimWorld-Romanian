@@ -9,20 +9,24 @@
   <LetterMinute>TODO</LetterMinute>
   <!-- EN: s -->
   <LetterSecond>TODO</LetterSecond>
-  
+  <!-- EN: y -->
+  <LetterYear>TODO</LetterYear>
+
   <!-- EN: days -->
-  <DaysLower>TODO</DaysLower>
+  <DaysLower>zile</DaysLower>
+  <!-- EN: hours -->
+  <HoursLower>TODO</HoursLower>
   <!-- EN: seconds -->
-  <SecondsLower>TODO</SecondsLower>
+  <SecondsLower>secunde</SecondsLower>
 
   <!-- EN: spring -->
-  <SeasonSpring>TODO</SeasonSpring>
+  <SeasonSpring>Primăvară</SeasonSpring>
   <!-- EN: summer -->
-  <SeasonSummer>TODO</SeasonSummer>
+  <SeasonSummer>Vară</SeasonSummer>
   <!-- EN: fall -->
-  <SeasonFall>TODO</SeasonFall>
+  <SeasonFall>Toamnă</SeasonFall>
   <!-- EN: winter -->
-  <SeasonWinter>TODO</SeasonWinter>
+  <SeasonWinter>Iarnă</SeasonWinter>
   <!-- EN: permanent summer -->
   <SeasonPermanentSummer>TODO</SeasonPermanentSummer>
   <!-- EN: permanent winter -->
@@ -36,6 +40,15 @@
   <QuadrumSeptober>TODO</QuadrumSeptober>
   <!-- EN: Decembary -->
   <QuadrumDecembary>TODO</QuadrumDecembary>
+
+  <!-- EN: Apr -->
+  <QuadrumAprimay_Short>TODO</QuadrumAprimay_Short>
+  <!-- EN: Jug -->
+  <QuadrumJugust_Short>TODO</QuadrumJugust_Short>
+  <!-- EN: Sep -->
+  <QuadrumSeptober_Short>TODO</QuadrumSeptober_Short>
+  <!-- EN: Dec -->
+  <QuadrumDecembary_Short>TODO</QuadrumDecembary_Short>
   
   <!-- EN: Born: {0} -->
   <Born>TODO</Born>

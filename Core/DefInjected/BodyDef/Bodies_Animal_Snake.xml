@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: snake -->
-  <Snake.label>TODO</Snake.label>
+  <Snake.label>Șarpe</Snake.label>
   <!-- EN: left lung -->
   <Snake.corePart.parts.left_lung.customLabel>TODO</Snake.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Apparel_KevlarHelmet.label>Kevlarhelm</Apparel_KevlarHelmet.label>
+  <Apparel_KevlarHelmet.description>Wichtiger Teil der persönlichen Schutzausrüstung. Hilft, den Schaden einer Granatenexplosion zu absorbieren.</Apparel_KevlarHelmet.description>
+  
+  <!-- UNUSED -->
+  <Apparel_MilitaryHelmet.label>Militärhelm</Apparel_MilitaryHelmet.label>
+  <Apparel_MilitaryHelmet.description>Ein schwerer, altertümlich aussehender Helm, der trotzdem bei feindlichen Angriffen sehr effektiv ist. Schützt vor langsamen Geschossen, Schrapnellen, fallenden Steinen und Schnitten.</Apparel_MilitaryHelmet.description>
+  
+</LanguageData>

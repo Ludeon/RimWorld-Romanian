@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cadavru de Alpha Biber  -->
+  <Corpse_Alphabeaver.label>Toter Biber</Corpse_Alphabeaver.label>
+  <!-- EN: Cadavru deAlpha Biber. -->
+  <Corpse_Alphabeaver.description>Die Leiche eines Bibers.</Corpse_Alphabeaver.description>
+  
+  <!-- EN: Cadavru de Boomratte  -->
+  <Corpse_Boomrat.label>Tote Boomratte</Corpse_Boomrat.label>
+  <!-- EN: Cadavru deBoomratte. -->
+  <Corpse_Boomrat.description>Die Leiche einer Boomratte.</Corpse_Boomrat.description>
+  
+  <!-- EN: Cadavru de Kobra  -->
+  <Corpse_Cobra.label>Tote Kobra</Corpse_Cobra.label>
+  <!-- EN: Cadavru deKobra. -->
+  <Corpse_Cobra.description>Die Leiche einer Kobra.</Corpse_Cobra.description>
+  
+  <!-- EN: Cadavru de Rotwild  -->
+  <Corpse_Deer.label>Totes Rotwild</Corpse_Deer.label>
+  <!-- EN: Cadavru deRotwild. -->
+  <Corpse_Deer.description>Die Leiche eines Rotwildes.</Corpse_Deer.description>
+  
+  <!-- EN: Cadavru de Dromedar  -->
+  <Corpse_Dromedary.label>Totes Dromedar</Corpse_Dromedary.label>
+  <!-- EN: Cadavru deDromedar. -->
+  <Corpse_Dromedary.description>Die Leiche eines Dromedars.</Corpse_Dromedary.description>
+  
+  <!-- EN: Cadavru de Elch  -->
+  <Corpse_Elk.label>Toter Elch</Corpse_Elk.label>
+  <!-- EN: Cadavru deElch. -->
+  <Corpse_Elk.description>Die Leiche eines Elchs.</Corpse_Elk.description>
+  
+  <!-- EN: Cadavru de Hase  -->
+  <Corpse_Hare.label>Toter Hase</Corpse_Hare.label>
+  <!-- EN: Cadavru deHase. -->
+  <Corpse_Hare.description>Die Leiche eines Hasen.</Corpse_Hare.description>
+  
+  <!-- EN: Cadavru de Mensch  -->
+  <Corpse_Human.label>Toter Mensch</Corpse_Human.label>
+  <!-- EN: Cadavru deMensch. -->
+  <Corpse_Human.description>Die Leiche eines Menschen.</Corpse_Human.description>
+  
+  <!-- EN: Cadavru de Leguan  -->
+  <Corpse_Iguana.label>Toter Hase</Corpse_Iguana.label>
+  <!-- EN: Cadavru deLeguan. -->
+  <Corpse_Iguana.description>Die Leiche eines Leguans.</Corpse_Iguana.description>
+  
+  <!-- EN: Cadavru de Raupe  -->
+  <Corpse_Mech_Centipede.label>Tote Raupe</Corpse_Mech_Centipede.label>
+  <!-- EN: Cadavru deRaupe. -->
+  <Corpse_Mech_Centipede.description>Ein deaktivierter Kampfmechanoid vom Typ Raupe.</Corpse_Mech_Centipede.description>
+  
+  <!-- EN: Cadavru de Sense  -->
+  <Corpse_Mech_Scyther.label>Tote Sense</Corpse_Mech_Scyther.label>
+  <!-- EN: Cadavru deSense. -->
+  <Corpse_Mech_Scyther.description>Ein deaktivierter Kampfmechanoid vom Typ Sense.</Corpse_Mech_Scyther.description>
+  
+  <!-- EN: Cadavru de Riesen Skarabäus  -->
+  <Corpse_Megascarab.label>Toter Skarabäus</Corpse_Megascarab.label>
+  <!-- EN: Cadavru deRiesen Skarabäus. -->
+  <Corpse_Megascarab.description>Die Leiche eines Skarabäus.</Corpse_Megascarab.description>
+  
+  <!-- EN: Cadavru de Affe  -->
+  <Corpse_Monkey.label>Toter Affe</Corpse_Monkey.label>
+  <!-- EN: Cadavru deAffe. -->
+  <Corpse_Monkey.description>Leiche eines Affen</Corpse_Monkey.description>
+  
+  <!-- EN: Cadavru de Muffalo  -->
+  <Corpse_Muffalo.label>Totes Muffalo</Corpse_Muffalo.label>
+  <!-- EN: Cadavru deMuffalo. -->
+  <Corpse_Muffalo.description>Die Leiche eines Muffalo.</Corpse_Muffalo.description>
+  
+  <!-- EN: Cadavru de Nashorn  -->
+  <Corpse_Rhinoceros.label>Totes Nashorn</Corpse_Rhinoceros.label>
+  <!-- EN: Cadavru deNashorn. -->
+  <Corpse_Rhinoceros.description>Die Leiche eines Nashorns.</Corpse_Rhinoceros.description>
+  
+  <!-- EN: Cadavru de Eichhörnchen  -->
+  <Corpse_Squirrel.label>Totes Eichhörnchen</Corpse_Squirrel.label>
+  <!-- EN: Cadavru deEichhörnchen. -->
+  <Corpse_Squirrel.description>Die Leiche eines Eichhörnchens.</Corpse_Squirrel.description>
+  
+  <!-- EN: Cadavru de Landschildkröte  -->
+  <Corpse_Tortoise.label>Tote Landschildkröte</Corpse_Tortoise.label>
+  <!-- EN: Cadavru deLandschildkröte. -->
+  <Corpse_Tortoise.description>Die Leiche einer Landschildkröte.</Corpse_Tortoise.description>
+  
+  <!-- EN: Cadavru de Warg  -->
+  <Corpse_Warg.label>Toter Warg</Corpse_Warg.label>
+  <!-- EN: Cadavru deWarg. -->
+  <Corpse_Warg.description>Die Leiche eines Warges.</Corpse_Warg.description>
+  
+  <!-- EN: Cadavru de Wildschwein  -->
+  <Corpse_WildBoar.label>Totes Wildschwein</Corpse_WildBoar.label>
+  <!-- EN: Cadavru deWildschwein. -->
+  <Corpse_WildBoar.description>Die Leiche eines Wildschweins.</Corpse_WildBoar.description>
+  
+  <!-- EN: Carne de Alpha Biber -->
+  <Meat_Alphabeaver.label>Biberfleisch</Meat_Alphabeaver.label>
+  <!-- EN: Carne crudă de Alpha Biber. -->
+  <Meat_Alphabeaver.description>Das Fleisch eines Bibers.</Meat_Alphabeaver.description>
+  
+  <!-- EN: Carne de Boomratte -->
+  <Meat_Boomrat.label>Boomrattenfleisch</Meat_Boomrat.label>
+  <!-- EN: Carne crudă de Boomratte. -->
+  <Meat_Boomrat.description>Das Fleisch einer Boomratte.</Meat_Boomrat.description>
+  
+  <!-- EN: cobra meat -->
+  <Meat_Cobra.label>Schlangenfleisch</Meat_Cobra.label>
+  <!-- EN: Carne crudă de Kobra. -->
+  <Meat_Cobra.description>Das Fleisch einer Kobra.</Meat_Cobra.description>
+  
+  <!-- EN: venison -->
+  <Meat_Deer.label>Wildfleisch</Meat_Deer.label>
+  <!-- EN: Carne crudă de Rotwild. -->
+  <Meat_Deer.description>Das Fleisch eines Rotwildes.</Meat_Deer.description>
+  
+  <!-- EN: Carne de Dromedar -->
+  <Meat_Dromedary.label>Dromedarfleisch</Meat_Dromedary.label>
+  <!-- EN: Carne crudă de Dromedar. -->
+  <Meat_Dromedary.description>Das Fleisch eines Dromedars.</Meat_Dromedary.description>
+  
+  <!-- EN: Carne de Elch -->
+  <Meat_Elk.label>Elchfleisch</Meat_Elk.label>
+  <!-- EN: Carne crudă de Elch. -->
+  <Meat_Elk.description>Das Fleisch eines Elchs.</Meat_Elk.description>
+  
+  <!-- EN: Carne de Hase -->
+  <Meat_Hare.label>Hasenfleisch</Meat_Hare.label>
+  <!-- EN: Carne crudă de Hase. -->
+  <Meat_Hare.description>Das Fleisch eines Hasen.</Meat_Hare.description>
+  
+  <!-- EN: Carne de Mensch -->
+  <Meat_Human.label>Menschenfleisch</Meat_Human.label>
+  <!-- EN: Ràẅ þùṭçĥèṟèð Ƒſèșĥ. Càƞ þè çòòкèð ìƞṭò ṁèàſș òṟ èàṭèƞ ṟàẅ, àſṭĥòùğĥ ṁòșṭ ĥùṁàƞș ðìșſìкè ṭĥè ìðèà. -->
+  <Meat_Human.description>Das Fleisch eines Menschen.</Meat_Human.description>
+  
+  <!-- EN: Carne de Leguan -->
+  <Meat_Iguana.label>Leguanfleisch</Meat_Iguana.label>
+  <!-- EN: Carne crudă de Leguan. -->
+  <Meat_Iguana.description>Das Fleisch eines Leguans.</Meat_Iguana.description>
+  
+  <!-- EN: Carne de Affe -->
+  <Meat_Monkey.label>Affenfleisch</Meat_Monkey.label>
+  <!-- EN: Carne crudă de Affe. -->
+  <Meat_Monkey.description>Das Fleisch eines Affens.</Meat_Monkey.description>
+  
+  <!-- EN: Carne de Muffalo -->
+  <Meat_Muffalo.label>Muffalofleisch</Meat_Muffalo.label>
+  <!-- EN: Carne crudă de Muffalo. -->
+  <Meat_Muffalo.description>Das Fleisch eines Muffalo.</Meat_Muffalo.description>
+  
+  <!-- EN: Carne de Nashorn -->
+  <Meat_Rhinoceros.label>Nashornfleisch</Meat_Rhinoceros.label>
+  <!-- EN: Carne crudă de Nashorn. -->
+  <Meat_Rhinoceros.description>Das Fleisch eines Nashorns.</Meat_Rhinoceros.description>
+  
+  <!-- EN: Carne de Eichhörnchen -->
+  <Meat_Squirrel.label>Eichhörnchenfleisch</Meat_Squirrel.label>
+  <!-- EN: Carne crudă de Eichhörnchen. -->
+  <Meat_Squirrel.description>Das Fleisch eines Eichhörnchens.</Meat_Squirrel.description>
+  
+  <!-- EN: Carne de Landschildkröte -->
+  <Meat_Tortoise.label>Schildkrötenfleisch</Meat_Tortoise.label>
+  <!-- EN: Carne crudă de Landschildkröte. -->
+  <Meat_Tortoise.description>Das Fleisch einer Landschildkröte.</Meat_Tortoise.description>
+  
+  <!-- EN: Carne de Warg -->
+  <Meat_Warg.label>Wargfleisch</Meat_Warg.label>
+  <!-- EN: Carne crudă de Warg. -->
+  <Meat_Warg.description>Das Fleisch eines Warges.</Meat_Warg.description>
+  
+</LanguageData>

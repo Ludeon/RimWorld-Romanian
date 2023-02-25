@@ -2,18 +2,23 @@
 <LanguageData>
   
   <!-- EN: autodoor -->
-  <Autodoor.label>TODO</Autodoor.label>
+  <Autodoor.label>Autotür</Autodoor.label>
   <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
-  <Autodoor.description>TODO</Autodoor.description>
+  <Autodoor.description>Trennt Räume. Stromgebundene Variante. Kolonisten können passieren, ohne verlangsamt zu werden.</Autodoor.description>
+  
+  <!-- EN: column -->
+  <Column.label>TODO</Column.label>
+  <!-- EN: A column capable of holding a roof. Does not block sight or movement and looks quite nice. -->
+  <Column.description>TODO</Column.description>
   
   <!-- EN: door -->
-  <Door.label>TODO</Door.label>
+  <Door.label>Tür</Door.label>
   <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
-  <Door.description>TODO</Door.description>
+  <Door.description>Trennt Räume. Muss von Hand geöffnet und geschlossen werden, wodurch die Kolonisten verlangsamt werden.</Door.description>
   
   <!-- EN: wall -->
-  <Wall.label>TODO</Wall.label>
+  <Wall.label>Wand</Wall.label>
   <!-- EN: An impassable wall. Capable of holding up a roof. -->
-  <Wall.description>TODO</Wall.description>
+  <Wall.description>Eine unpassierbare Wand, die ein Dach tragen kann.</Wall.description>
   
 </LanguageData>

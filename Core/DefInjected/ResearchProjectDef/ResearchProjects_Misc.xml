@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Cremation.label>Feuerbestattung</Cremation.label>
+  <Cremation.description>Schaltet das Krematorium frei. Hier können Leichen und Gegenstände verbrannt werden.</Cremation.description>
+  
+  <!-- UNUSED -->
+  <ElectricSmelting.label>Elektr. Schmelzofen</ElectricSmelting.label>
+  <ElectricSmelting.description>Schaltet den elektrische Schmelzofen frei. Dieser ermöglichen durch die Verwendung von Wärme und starken Elektromagneten, selbst Schlackebrocken in wertvolles Baumaterial zu verwandeln.</ElectricSmelting.description>
+  
+  <!-- UNUSED -->
+  <GunTurretCooling.label>Kühlung Autom. Gewehr</GunTurretCooling.label>
+  <GunTurretCooling.description>Schaltet eine Weiterentwicklung der Selbstschussanlage frei. Diese feuern nun mit 4 Schüssen pro Salve, anstatt mit 3.</GunTurretCooling.description>
+  
+  <!-- UNUSED -->
+  <IEDIncendiary.label>Improvisierte Brandbombe</IEDIncendiary.label>
+  <IEDIncendiary.description>Schaltet den improvisierten Brandsatz frei. Dieses ist eine selbstgebaute Falle aus Artilleriegeschossen</IEDIncendiary.description>
+  
+  <!-- UNUSED -->
+  <NutrientResynthesis.label>Nährstoff Resynthese</NutrientResynthesis.label>
+  <NutrientResynthesis.description>Schaltet eine Weiterentwicklung des Nährstoffpastenspenders frei. Dieser verbraucht fortan 10% weniger Nahrung pro Mahlzeit.</NutrientResynthesis.description>
+  
+  <!-- UNUSED -->
+  <PneumaticPicks.label>Pneumatische Spitzhacken</PneumaticPicks.label>
+  <PneumaticPicks.description>Erleichtert Bergarbeiteraufgaben, indem die Effizienz von Spitzhacken um 20% erhöht wird.</PneumaticPicks.description>
+  
+</LanguageData>

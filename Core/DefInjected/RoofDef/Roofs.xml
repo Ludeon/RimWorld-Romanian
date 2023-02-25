@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: constructed roof -->
-  <RoofConstructed.label>TODO</RoofConstructed.label>
+  <RoofConstructed.label>Errichtetes Dach</RoofConstructed.label>
   
   <!-- EN: overhead mountain -->
-  <RoofRockThick.label>TODO</RoofRockThick.label>
+  <RoofRockThick.label>Überhängendes Gebirge</RoofRockThick.label>
   
   <!-- EN: rock roof (thin) -->
-  <RoofRockThin.label>TODO</RoofRockThin.label>
+  <RoofRockThin.label>Steindecke (dünn)</RoofRockThin.label>
   
 </LanguageData>

@@ -1,25 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: colored lights -->
-  <ColoredLights.label>TODO</ColoredLights.label>
-  <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
-  <ColoredLights.description>TODO</ColoredLights.description>
+  <!-- EN: deep drilling -->
+  <DeepDrilling.label>TODO</DeepDrilling.label>
+  <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
+  <DeepDrilling.description>TODO</DeepDrilling.description>
   
   <!-- EN: flatscreen television -->
   <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
   <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
   <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
   
+  <!-- EN: ground-penetrating scanner -->
+  <GroundPenetratingScanner.label>TODO</GroundPenetratingScanner.label>
+  <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct. -->
+  <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
+  
   <!-- EN: autocannon turret -->
   <HeavyTurrets.label>TODO</HeavyTurrets.label>
-  <!-- EN: Produce the heavy, long-ranged autocannon turret. -->
+  <!-- EN: Produce the heavy autocannon turret. -->
   <HeavyTurrets.description>TODO</HeavyTurrets.description>
   
   <!-- EN: hospital bed -->
-  <HospitalBed.label>TODO</HospitalBed.label>
+  <HospitalBed.label>Krankenbetten</HospitalBed.label>
   <!-- EN: Construct hospital beds which improve medical outcomes. -->
-  <HospitalBed.description>TODO</HospitalBed.description>
+  <HospitalBed.description>Schaltet spezielle Krankenbetten frei. Diese erhöhen die Wahrscheinlichkeit auf erfolgreiche Behandlungen und medizinische sowie operative Eingriffe.</HospitalBed.description>
   
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>TODO</LongRangeMineralScanner.label>
@@ -53,7 +58,7 @@
   
   <!-- EN: shield belt -->
   <ShieldBelt.label>TODO</ShieldBelt.label>
-  <!-- EN: Build shield belts, which use momentun-repulsion technology to block ranged attacks coming in or going out. -->
+  <!-- EN: Build shield belts, which use momentum-repulsion technology to block ranged attacks coming in or going out. -->
   <ShieldBelt.description>TODO</ShieldBelt.description>
   
   <!-- EN: transport pod -->

@@ -14,9 +14,8 @@
   <!-- EN: cold snap -->
   <ColdSnap.label>TODO</ColdSnap.label>
   <!-- EN: Cold snap -->
-  <ColdSnap.letterLabel>TODO</ColdSnap.letterLabel>
-  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
-  <ColdSnap.letterText>TODO</ColdSnap.letterText>
+  <ColdSnap.letterLabel>Kältewelle</ColdSnap.letterLabel>
+  <ColdSnap.letterText>Eine ungewöhnliche Kältewelle hat begonnen. Achte auf Erfrierungen und Ernteausfälle.</ColdSnap.letterText>
   
   <!-- EN: crop blight -->
   <CropBlight.label>TODO</CropBlight.label>
@@ -28,15 +27,12 @@
   <Flashstorm.label>TODO</Flashstorm.label>
   <!-- EN: Flashstorm -->
   <Flashstorm.letterLabel>TODO</Flashstorm.letterLabel>
-  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
-  <Flashstorm.letterText>TODO</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
   <HeatWave.label>TODO</HeatWave.label>
   <!-- EN: Heat wave -->
-  <HeatWave.letterLabel>TODO</HeatWave.letterLabel>
-  <!-- EN: An unusual heat wave has begun.\n\nHeat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain. -->
-  <HeatWave.letterText>TODO</HeatWave.letterText>
+  <HeatWave.letterLabel>Hitzewelle</HeatWave.letterLabel>
+  <HeatWave.letterText>Eine ungewöhnliche Hitzewelle hat begonnen. Achte auf Hitzschläge.</HeatWave.letterText>
   
   <!-- EN: herd migration -->
   <HerdMigration.label>TODO</HerdMigration.label>
@@ -63,9 +59,6 @@
   <!-- EN: Ransom demand -->
   <RansomDemand.letterLabel>TODO</RansomDemand.letterLabel>
   
-  <!-- EN: chased refugee -->
-  <RefugeeChased.label>TODO</RefugeeChased.label>
-  
   <!-- EN: transport pod crash -->
   <RefugeePodCrash.label>TODO</RefugeePodCrash.label>
   
@@ -84,22 +77,20 @@
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>TODO</ToxicFallout.label>
   <!-- EN: Toxic fallout -->
-  <ToxicFallout.letterLabel>TODO</ToxicFallout.letterLabel>
-  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a season. -->
-  <ToxicFallout.letterText>TODO</ToxicFallout.letterText>
+  <ToxicFallout.letterLabel>Giftiger Niederschlag</ToxicFallout.letterLabel>
+  <ToxicFallout.letterText>Ein entferntes chemisches Feuer hat eine Giftwolke über die ganze Region verbreitet.\n\nJede Person und Kreatur, die nicht von einem Dach geschützt wird, wird sich langsam an dem Staub in der Atmosphäre vergiften.\n\nEs wird für ein paar Tage oder bis über einen Monat anhalten.</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>TODO</VolcanicWinter.label>
   <!-- EN: Volcanic winter -->
-  <VolcanicWinter.letterLabel>TODO</VolcanicWinter.letterLabel>
-  <!-- EN: A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
-  <VolcanicWinter.letterText>TODO</VolcanicWinter.letterText>
+  <VolcanicWinter.letterLabel>Volkanischer Winter</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterText>Ein entfernter Supervulkan ist ausgebrochen und speit millionen Tonnen Asche in die Atmosphäre.\n\nAtmosphärische Asche reflektiert einen Teil der Sonneneinstrahlung, was einen Temperatursturz zur folge hat. Pflanzen werden aufgrund des fehlenden Sonnenlichts leiden und evtl. eingehen. Dieser Zustand kann in ein paar Wochen wieder vorbei sein, oder er hält mehrere Monate an.</VolcanicWinter.letterText>
   
   <!-- EN: wanderer join -->
   <WandererJoin.label>TODO</WandererJoin.label>
-  <!-- EN: Wanderer joins -->
+  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
   <WandererJoin.letterLabel>TODO</WandererJoin.letterLabel>
-  <!-- EN: A {PAWN_kind} named {PAWN_nameDef} has arrived and is joining the colony. {PAWN_pronoun} is a {PAWN_title}.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
   <WandererJoin.letterText>TODO</WandererJoin.letterText>
   
   <!-- EN: wild man wanders in -->

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: dromedary -->
-  <Dromedary.label>TODO</Dromedary.label>
+  <Dromedary.label>Dromedar</Dromedary.label>
   <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but its bouncing gait makes it too uncomfortable to ride for any distance.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
-  <Dromedary.description>TODO</Dromedary.description>
+  <Dromedary.description>Angepasst an die trockenen Bedingungen der Savannen kann dieser entfernte Verwandte des Pferdes bis zu eine Woche lang ohne Wasser auskommen.</Dromedary.description>
   <!-- EN: left hoof -->
   <Dromedary.tools.left_hoof.label>TODO</Dromedary.tools.left_hoof.label>
   <!-- EN: right hoof -->
@@ -24,9 +24,9 @@
   <Gazelle.tools.head.label>TODO</Gazelle.tools.head.label>
   
   <!-- EN: iguana -->
-  <Iguana.label>TODO</Iguana.label>
+  <Iguana.label>Leguan</Iguana.label>
   <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
-  <Iguana.description>TODO</Iguana.description>
+  <Iguana.description>Diese großen Echsen ernähren sich normalerweise von Pflanzen. Wenn man sie verärgert, stellen sie aufgrund ihrer zähen Haut und scharfen Krallen eine ziemliche Gefahr dar.</Iguana.description>
   <!-- EN: left claw -->
   <Iguana.tools.left_claw.label>TODO</Iguana.tools.left_claw.label>
   <!-- EN: right claw -->
@@ -35,9 +35,9 @@
   <Iguana.tools.head.label>TODO</Iguana.tools.head.label>
   
   <!-- EN: muffalo -->
-  <Muffalo.label>TODO</Muffalo.label>
+  <Muffalo.label>Muffalo</Muffalo.label>
   <!-- EN: A large herding herbivore descended from buffalo and adapted for both cold and warm environments. While enraged muffalo are deadly, tamed muffalo are quite docile and can be used as pack animals.\n\nNobody is quite sure why they're blue - it might even be some early genetic modification test that just never got changed. -->
-  <Muffalo.description>TODO</Muffalo.description>
+  <Muffalo.description>Ein großes pflanzenfressendes, vom Büffel abstammendes Herdentier, welches sich an außergewöhnliche Umgebungen anepasst hat. Friedlich, solange man es nicht stört.</Muffalo.description>
   <!-- EN: head -->
   <Muffalo.tools.head.label>TODO</Muffalo.tools.head.label>
   <!-- EN: left hoof -->
