@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Character -->
+  <!-- EN: Overrides some precepts related to -->
+  <OverridesSomePrecepts>Anulează unele precepte legate de</OverridesSomePrecepts>
+  <!-- EN: Agrees with memes -->
+  <AgreeableMemes>Agreează meme-urile</AgreeableMemes>
+  <!-- EN: Conflicts with memes -->
+  <DisagreeableMemes>Intră în conflict cu meme-urile</DisagreeableMemes>
+
+  <!-- ITab titles -->
+  <!-- EN: Slave -->
+  <TabSlave>Sclav</TabSlave>
+  <!-- EN: The faction goodwill you will gain if you release a slave. This is affected by the slaves's physical and mental health. -->
+  <SlaveReleaseRelationGainsDesc>Bunăvoința facțiunii pe care o vei câștiga dacă eliberezi un sclav. Aceasta este afectată de sănătatea fizică și mentală a sclavilor.</SlaveReleaseRelationGainsDesc>
+  <!-- EN: Relations gain on release -->
+  <SlaveReleasePotentialRelationGains>Relațiile câștigate la eliberare</SlaveReleasePotentialRelationGains>
+  <!-- EN: Slave rebellion interval -->
+  <SlaveRebellionMTBDays>Intervalul de rebeliune a sclavilor</SlaveRebellionMTBDays>
+  <!-- EN: The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by suppression, mood, health, proximity to weapons, the number of slaves on the map, and the presence of colonists on the map. -->
+  <SlaveRebellionMTBDaysDescription>Numărul mediu de zile dintre tentativele de rebeliune ale sclavilor. Se ia în considerare doar timpul petrecut în stare de veghe. Acesta este afectat de suprimare, dispoziție, sănătate, apropierea de arme, numărul de sclavi de pe hartă și prezența coloniștilor pe hartă.</SlaveRebellionMTBDaysDescription>
+
+  <!-- Slave tab -->
+  <!-- EN: Suppression -->
+  <Suppression>Subjugare</Suppression>
+  <!-- EN: Suppression is the psychological effect of fear and control on a slave. If suppression is low, slaves are more likely to rebel. -->
+  <SuppressionDesc>Subjugarea este efectul psihologic al fricii și al controlului asupra unui sclav. Dacă subjugarea este scăzută, este mai probabil ca sclavii să se răzvrătească.</SuppressionDesc>
+  <!-- EN: Suppression fall rate -->
+  <SuppressionFallRate>Rata de scădere a subjugării</SuppressionFallRate>
+  <!-- EN: Suppression falls over time depending on its current level:\n\n- {1}+ suppression: {0} per day\n- {4}-{3} suppression: {2} per day\n- {6}- suppression: {5} per day\n\nApparel and terror can also affect the suppression fall rate. This slave's fall rate calculation is -->
+  <SuppressionFallRateDesc>Subjugarea scade în timp, în funcție de nivelul său actual:\n\n- {1}+ subjugare: {0} pe zi\n- {4}-{3} subjugare: {2} pe zi\n- {6}- subjugare: {5} pe zi\n\nȚinute și teroarea pot afecta, de asemenea, rata de scădere a subjugării. Rata de scădere a acestui sclav se calculează astfel</SuppressionFallRateDesc>
+  <!-- EN: Cannot emancipate -->
+  <CannotEmancipate>Nu se poate emancipa</CannotEmancipate>
+  <!-- EN: Cannot imprison -->
+  <CannotImprison>Nu se poate încarcera</CannotImprison>
+  <!-- EN: Current suppression -->
+  <CurrentSuppression>Subjugarea actuală</CurrentSuppression>
+  <!-- EN: Terror -->
+  <Terror>Teroare</Terror>
+  <!-- EN: Terror is a way to keep slaves suppressed. It rises when the slave spends time near terrifying things like terror sculptures. A slave can only be affected by three terror sources at a time.\n\nWhile terror is high, suppression falls slower as follows -->
+  <TerrorDescription>Teroarea este o modalitate de a menține sclavii suprimați. Aceasta crește atunci când sclavul petrece timp în apropierea unor lucruri terifiante, cum ar fi sculpturile terorii. Un sclav poate fi afectat doar de trei surse de teroare în același timp.\n\nÎn timp ce teroarea este ridicată, subjugarea scade mai încet, după cum urmează</TerrorDescription>
+  <!-- EN: Recent terrifying observations -->
+  <TerrorCurrentThoughts>Observații terifiante recente</TerrorCurrentThoughts>
+
+  <!-- EN: Base interval -->
+  <SuppressionBaseInterval>Intervalul de bază</SuppressionBaseInterval>
+  <!-- EN: Moving capacity -->
+  <SuppressionMovingCapacityFactor>Capacitatea de mișcare</SuppressionMovingCapacityFactor>
+  <!-- EN: Suppression -->
+  <SuppressionFactor>Subjugare</SuppressionFactor>
+  <!-- EN: Mood -->
+  <SuppressionMoodFactor>Dispoziție</SuppressionMoodFactor>
+  <!-- EN: Slave count -->
+  <SuppressionSlaveCountFactor>TODO</SuppressionSlaveCountFactor>
+  <!-- EN: Escape route -->
+  <SuppressionEscapeFactor>Traseu de evadare</SuppressionEscapeFactor>
+  <!-- EN: Weapon proximity -->
+  <SuppressionWeaponProximityFactor>Proximitatea armei</SuppressionWeaponProximityFactor>
+  <!-- EN: Final interval -->
+  <SuppressionFinalInterval>Intervalul final</SuppressionFinalInterval>
+  <!-- EN: Unattended -->
+  <SuppressionUnattendedByColonists>Nesupravegheat</SuppressionUnattendedByColonists>
+  <!-- EN: At least one of the {0} slaves on this map is expected rebel on average every {1}. -->
+  <SuppressionRebellionAnySlave>TODO</SuppressionRebellionAnySlave>
+
+  <!-- EN: Will -->
+  <WillLevel>Voință</WillLevel>
+  <!-- EN: How much the prisoner is determined not to submit. When this reaches zero, they can be enslaved. -->
+  <WillLevelDesc>Cât de mult este determinat deținutul să nu se supună. Când acesta ajunge la zero, poate fi înrobit.</WillLevelDesc>
+  <!-- EN: {0} base will -->
+  <WillFromPawnKind>{0} voință de bază</WillFromPawnKind>
+  <!-- EN: Target ideoligion -->
+  <IdeoConversionTarget>Ideoligie țintă</IdeoConversionTarget>
+  <!-- EN: The ideoligion your wardens will attempt to convert this prisoner to. -->
+  <IdeoConversionTargetDesc>Ideoligia la care gardienii tăi vor încerca să convertească acest prizonier.</IdeoConversionTargetDesc>
+
+  <!-- Social -->
+  <!-- EN: Change per day due to mood -->
+  <CertaintyChangePerDay>Schimbarea pe zi datorată dispoziției</CertaintyChangePerDay>
+  <!-- EN: Change rate based on mood -->
+  <MoodChangeRate>Rata de schimbare în funcție de dispoziție</MoodChangeRate>
+  <!-- EN: {PAWN_nameDef}'s certainty in {IDEO_name} -->
+  <CertaintyInIdeo>Certitudinea lui {PAWN_nameDef} în {IDEO_name}</CertaintyInIdeo>
+  <!-- EN: A special status this person holds in their ideoligion. If you change or take away this role, they will become unhappy. -->
+  <RoleDesc>Un statut special pe care această persoană îl deține în ideoligia sa. Dacă schimbi sau îi iei acest rol, va deveni nefericită.</RoleDesc>
+  <!-- EN: Changing roles requires a role change ritual. Select any ritual spot or altar and press 'Begin role change'. -->
+  <RoleAssignmentTip>TODO</RoleAssignmentTip>
+  <!-- EN: Conversion attempts will be weaker because of trait/meme agreement -->
+  <ConversionWeakerDueToTraitAgreements>Încercările de conversie vor fi mai slabe din cauza acordului de trăsătură/meme</ConversionWeakerDueToTraitAgreements>
+  <!-- EN: Conversion attempts will be stronger because of trait/meme conflict -->
+  <ConversionStrongerDueToTraitAgreements>Încercările de conversie vor fi mai puternice din cauza conflictului trăsătură/meme</ConversionStrongerDueToTraitAgreements>
+
+  <!-- EN: Cut -->
+  <Cut>Taie</Cut>
+  <!-- EN: Cut both eyes -->
+  <CutBothEyes>Taie ambii ochi</CutBothEyes>
+
+</LanguageData>

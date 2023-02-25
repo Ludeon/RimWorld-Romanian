@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: denture -->
-  <Denture.label>TODO</Denture.label>
+  <Denture.label>proteză dentară</Denture.label>
   <!-- EN: An installed denture. -->
-  <Denture.description>TODO</Denture.description>
+  <Denture.description>O proteză dentară instalată.</Denture.description>
   <!-- EN: a denture -->
-  <Denture.labelNoun>TODO</Denture.labelNoun>
+  <Denture.labelNoun>o proteză dentară</Denture.labelNoun>
   
   <!-- EN: peg leg -->
-  <PegLeg.label>TODO</PegLeg.label>
+  <PegLeg.label>picior de lemn</PegLeg.label>
   <!-- EN: An installed peg leg. -->
-  <PegLeg.description>TODO</PegLeg.description>
+  <PegLeg.description>Un picior de lemn instalat.</PegLeg.description>
   <!-- EN: a peg leg -->
-  <PegLeg.labelNoun>TODO</PegLeg.labelNoun>
+  <PegLeg.labelNoun>un picior de lemn</PegLeg.labelNoun>
   
   <!-- EN: wooden foot -->
-  <WoodenFoot.label>TODO</WoodenFoot.label>
+  <WoodenFoot.label>talpă de lemn</WoodenFoot.label>
   <!-- EN: An installed wooden foot. -->
-  <WoodenFoot.description>TODO</WoodenFoot.description>
+  <WoodenFoot.description>O talpă de lemn instalată.</WoodenFoot.description>
   <!-- EN: a wooden foot -->
-  <WoodenFoot.labelNoun>TODO</WoodenFoot.labelNoun>
+  <WoodenFoot.labelNoun>o talpă de lemn</WoodenFoot.labelNoun>
   
   <!-- EN: wooden hand -->
-  <WoodenHand.label>TODO</WoodenHand.label>
+  <WoodenHand.label>mână de lemn</WoodenHand.label>
   <!-- EN: An installed wooden hand. -->
-  <WoodenHand.description>TODO</WoodenHand.description>
+  <WoodenHand.description>O mână de lemn instalată.</WoodenHand.description>
   <!-- EN: a wooden hand -->
-  <WoodenHand.labelNoun>TODO</WoodenHand.labelNoun>
+  <WoodenHand.labelNoun>o mână de lemn</WoodenHand.labelNoun>
   
 </LanguageData>

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Animal calm -->
+  <AnimalCalm.label>Calm pentru animale</AnimalCalm.label>
+  <!-- EN: Use unique methods of connecting with animals to calm a maddened beast. -->
+  <AnimalCalm.description>Folosește metode unice de conectare cu animalele pentru a calma o fiară înnebunită.</AnimalCalm.description>
+  <!-- EN: {INITIATOR_labelShort} successfully calmed {RECIPIENT_labelShort}. -->
+  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort} a calmat cu succes {RECIPIENT_labelShort}.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+  
+  <!-- EN: berserk trance -->
+  <BerserkTrance.label>transă berserk</BerserkTrance.label>
+  <!-- EN: The caster fills himself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
+  <BerserkTrance.description>Casterul se umple de furie din cauza unor nemulțumiri ideologice. Acest lucru îi întărește corpul dincolo de limitele normale, dar înseamnă și pierderea controlului și atacarea oricărui inamic din apropiere într-o furie de neoprit. Starea de berserk va dura 3 ore.</BerserkTrance.description>
+  
+  <!-- EN: combat command -->
+  <CombatCommand.label>comandă de luptă</CombatCommand.label>
+  <!-- EN: Create an aura that boosts the combat skills of everyone nearby. The effect lasts 24 hours and remains attached to the leader for the duration. -->
+  <CombatCommand.description>Creează o aură care stimulează abilitățile de luptă ale tuturor celor din apropiere. Efectul durează 24 de ore și rămâne atașat liderului pe toată durata acestuia.</CombatCommand.description>
+  
+  <!-- EN: conversion ritual -->
+  <ConversionRitual.label>ritual de conversie</ConversionRitual.label>
+  <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
+  <ConversionRitual.description>Încearcă să convingi pe cineva să adopte convingerile tale. Dacă merge bine, aceștia își vor pierde o parte din certitudinea ideoligiei lor și s-ar putea converti. Dacă eșuează, vor câștiga o certitudine în vechile lor credințe.\n\nPentru a începe acest ritual într-un loc anume, selectați un loc de ritual sau un altar/ideogramă corespunzătoare.</ConversionRitual.description>
+  
+  <!-- EN: convert -->
+  <Convert.label>convertește</Convert.label>
+  <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
+  <Convert.description>Încercarea de a converti pe cineva la ideoligia vorbitorului. Acest lucru va reduce certitudinea țintei în propriile convingeri. Reducerea certitudinii depinde de capacitatea de negociere a vorbitorului.</Convert.description>
+  <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} nu a reușit să convertească {RECIPIENT_labelShort}. {RECIPIENT_labelShort} a fost supărat de încercare, dar certitudinea {RECIPIENT_possessive} a scăzut de la {CERTAINTYBEFORE} la {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
+  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} a convertit {RECIPIENT_labelShort} în {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  
+  <!-- EN: Counsel -->
+  <Counsel.label>Consiliere</Counsel.label>
+  <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
+  <Counsel.description>Oferă un sfat unei persoane pentru a anula efectul unei amintiri triste. Șansele de reușită depind de abilitățile sociale ale vorbitorului și de relația acestuia cu ascultătorul.</Counsel.description>
+  <!-- EN: {INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset. -->
+  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} a rasolit încercarea de a-l consilia pe {RECIPIENT_labelShort}. {RECIPIENT_labelShort} s-a supărat.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
+  <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}. -->
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} l-a consiliat cu succes pe {RECIPIENT_labelShort}, anulând impactul dispoziției {2}.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
+  <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}. -->
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} l-a consiliat cu succes pe {RECIPIENT_labelShort}, crescând dispoziția {RECIPIENT_possessive} cu {MOODBONUS}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  
+  <!-- EN: farming command -->
+  <FarmingCommand.label>comandă agricolă</FarmingCommand.label>
+  <!-- EN: Offer guidance on farming techniques, boosting the farming abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <FarmingCommand.description>Oferă îndrumare privind tehnicile agricole, sporind abilitățile agricole pentru toți cei din apropiere. Efectul rămâne atașat de cel care l-a lansat timp de 24 de ore.</FarmingCommand.description>
+  
+  <!-- EN: Immunity drive -->
+  <ImmunityDrive.label>Impuls de imunitate</ImmunityDrive.label>
+  <!-- EN: Offer moral support that energizes the body, boosting someone's immunity gain for one day. -->
+  <ImmunityDrive.description>Oferă sprijin moral care energizează corpul, sporind câștigul de imunitate al cuiva pentru o zi.</ImmunityDrive.description>
+  
+  <!-- EN: leader speech -->
+  <LeaderSpeech.label>discurs de lider</LeaderSpeech.label>
+  <!-- EN: Initiate a leader speech. If it goes well, listeners will gain improved mood, respect for the speaker, and possibly new inspirations. If it goes poorly, social damage will occur. -->
+  <LeaderSpeech.description>Inițiați un discurs de lider. Dacă acesta merge bine, ascultătorii vor obține o stare de spirit îmbunătățită, respect pentru vorbitor și, eventual, noi inspirații. Dacă merge prost, se vor produce daune sociale.</LeaderSpeech.description>
+  
+  <!-- EN: marksman command -->
+  <MarksmanCommand.label>comandă de trăgător de elită</MarksmanCommand.label>
+  <!-- EN: Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <MarksmanCommand.description>Strigă focuri de armă și stimulează abilitățile de tragere ale tuturor celor din apropiere. Efectul rămâne atașat de cel care l-a lansat timp de 24 de ore.</MarksmanCommand.description>
+  
+  <!-- EN: mining command -->
+  <MiningCommand.label>comandă de minerit</MiningCommand.label>
+  <!-- EN: Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <MiningCommand.description>Oferă îndrumare privind tehnicile de minerit, sporind viteza de minerit pentru toți cei din apropiere. Efectul rămâne atașat de lansator timp de 24 de ore.</MiningCommand.description>
+  
+  <!-- EN: preach health -->
+  <PreachHealth.label>predică sănătate</PreachHealth.label>
+  <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
+  <PreachHealth.description>Predică puterea morală unei persoane bolnave sau rănite prin intermediul conceptelor ideologiei tale. Acest lucru îi va îmbunătăți rata de vindecare a rănilor și câștigarea imunității.</PreachHealth.description>
+  
+  <!-- EN: production command -->
+  <ProductionCommand.label>comandă de producție</ProductionCommand.label>
+  <!-- EN: Offer guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <ProductionCommand.description>Oferă îndrumări privind tehnicile de construcție, sporind abilitățile de construcție și meșteșugărit pentru toți cei din apropiere. Efectul rămâne atașat de cel care l-a lansat timp de 24 de ore.</ProductionCommand.description>
+  
+  <!-- EN: reassure -->
+  <Reassure.label>reasigură</Reassure.label>
+  <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability. -->
+  <Reassure.description>Crește siguranța cuiva în propriile convingeri. Certitudinea recâștigată se bazează pe capacitatea de negociere a vorbitorului.</Reassure.description>
+  <!-- EN: {INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}. -->
+  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} l-a liniștit pe {RECIPIENT_labelShort}, crescând certitudinea {RECIPIENT_possessive} în {IDEO} de la {BEFORECERTAINTY} la {AFTERCERTAINTY}.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  
+  <!-- EN: research command -->
+  <ResearchCommand.label>comandă de cercetare</ResearchCommand.label>
+  <!-- EN: Provide suggestions and mental support, boosting the research speed of everyone nearby. The effect remains attached to the caster for 24 hours. -->
+  <ResearchCommand.description>Oferă sugestii și sprijin mental, stimulând viteza de cercetare a tuturor celor din apropiere. Efectul rămâne atașat de cel care l-a lansat timp de 24 de ore.</ResearchCommand.description>
+  
+  <!-- EN: trial -->
+  <Trial.label>judecată</Trial.label>
+  <!-- EN: Charge someone with a terrible wrongdoing and initiate a trial where they will be either convicted or exonerated. If the target is convicted, they can be freely imprisoned, executed or banished without penalty. The chance of conviction depends on the social abilities of the accuser and accused. -->
+  <Trial.description>Acuză pe cineva de o faptă teribilă și inițiază un proces în care va fi fie condamnat, fie exonerat. Dacă ținta este condamnată, aceasta poate fi întemnițată, executată sau alungată în mod liber, fără penalizare. Șansele de condamnare depind de abilitățile sociale ale acuzatorului și ale acuzatului.</Trial.description>
+  
+  <!-- EN: work drive -->
+  <WorkDrive.label>work drive</WorkDrive.label>
+  <!-- EN: Call on a person to work harder for some time. -->
+  <WorkDrive.description>Solicită unei persoane să muncească mai mult pentru o perioadă de timp.</WorkDrive.description>
+  
+</LanguageData>

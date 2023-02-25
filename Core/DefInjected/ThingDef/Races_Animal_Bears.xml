@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: grizzly bear -->
-  <Bear_Grizzly.label>TODO</Bear_Grizzly.label>
+  <Bear_Grizzly.label>urs grizzly</Bear_Grizzly.label>
   <!-- EN: A huge omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the grizzly is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
-  <Bear_Grizzly.description>TODO</Bear_Grizzly.description>
+  <Bear_Grizzly.description>Un mamifer omnivor uriaș, adaptat la climatele reci. Grăsimea groasă și blana groasă a urșilor le ține de cald iarna.\n\nÎn timp ce dieta lor obișnuită constă în pește, fructe de pădure, miere și carne scotocită, ursul grizzly este capabil să își folosească forța masivă și ghearele mortale pentru a ucide prada vie. Ei sunt surprinzător de rapizi pentru niște creaturi atât de greoaie.</Bear_Grizzly.description>
   <!-- EN: bear meat -->
-  <Bear_Grizzly.race.meatLabel>TODO</Bear_Grizzly.race.meatLabel>
+  <Bear_Grizzly.race.meatLabel>carne de urs</Bear_Grizzly.race.meatLabel>
   <!-- EN: left claw -->
-  <Bear_Grizzly.tools.left_claw.label>TODO</Bear_Grizzly.tools.left_claw.label>
+  <Bear_Grizzly.tools.left_claw.label>gheara stângă</Bear_Grizzly.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Bear_Grizzly.tools.right_claw.label>TODO</Bear_Grizzly.tools.right_claw.label>
+  <Bear_Grizzly.tools.right_claw.label>gheara dreaptă</Bear_Grizzly.tools.right_claw.label>
   <!-- EN: head -->
-  <Bear_Grizzly.tools.head.label>TODO</Bear_Grizzly.tools.head.label>
+  <Bear_Grizzly.tools.head.label>cap</Bear_Grizzly.tools.head.label>
   
   <!-- EN: polar bear -->
-  <Bear_Polar.label>TODO</Bear_Polar.label>
+  <Bear_Polar.label>urs polar</Bear_Polar.label>
   <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
-  <Bear_Polar.description>TODO</Bear_Polar.description>
+  <Bear_Polar.description>Un mare urs alb adaptat pentru climatul înghețat. Grăsimea și blana groasă îi țin de cald iarna.\n\nÎn timp ce dieta lor obișnuită constă din pește și carne scotocită, ursul polar își poate folosi, de asemenea, forța sa masivă și ghearele mortale pentru a ucide prada vie. Sunt surprinzător de rapizi pentru niște creaturi atât de greoaie.</Bear_Polar.description>
   <!-- EN: left claw -->
-  <Bear_Polar.tools.left_claw.label>TODO</Bear_Polar.tools.left_claw.label>
+  <Bear_Polar.tools.left_claw.label>gheara stângă</Bear_Polar.tools.left_claw.label>
   <!-- EN: right claw -->
-  <Bear_Polar.tools.right_claw.label>TODO</Bear_Polar.tools.right_claw.label>
+  <Bear_Polar.tools.right_claw.label>gheara dreaptă</Bear_Polar.tools.right_claw.label>
   <!-- EN: head -->
-  <Bear_Polar.tools.head.label>TODO</Bear_Polar.tools.head.label>
+  <Bear_Polar.tools.head.label>cap</Bear_Polar.tools.head.label>
   
 </LanguageData>

@@ -2,6 +2,13 @@
 <LanguageData>
   
   <!-- EN: You can choose one of your {0} to receive {1} {2} from {3_name}.\n\nBy receiving {2}, you gain titles. Titles bring psylink rewards and special permits like military aid. However, {0} with higher titles will also need specific apparel and bedroom furnishings. -->
-  <RoyalFavorTip>TODO</RoyalFavorTip>
+  <RoyalFavorTip>Poți alege unul dintre {0} pentru a primi {1}. {2} de la {3_name}.\n\nPrin primirea de {2}, câștigi titluri. Titlurile aduc recompense psylink și permise speciale, cum ar fi ajutorul militar. Cu toate acestea, {0} cu titluri mai mari vor avea nevoie și de îmbrăcăminte și mobilier de dormitor specifice.</RoyalFavorTip>
+  
+  <!-- Work tab -->
+  <!-- EN: Disabled by royal title {0} -->
+  <WorkDisabledByRoyalTitle>Dezactivat prin titlu regal {0}</WorkDisabledByRoyalTitle>
+
+  <!-- EN: Spacedrone self-destructs in {0} -->
+  <SpacedroneSelfDestructsIn>Spacedrone se autodistruge în {0}</SpacedroneSelfDestructsIn>
 
 </LanguageData>

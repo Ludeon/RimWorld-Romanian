@@ -2,46 +2,51 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>TODO</Beauty.label>
+  <Beauty.label>frumusețe</Beauty.label>
   <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
-  <Beauty.description>TODO</Beauty.description>
+  <Beauty.description>Frumusețea reflectă cât de plăcut din punct de vedere vizual a găsit o persoană mediul înconjurător în ultima vreme. Lucrurile frumoase, cum ar fi obiectele de artă, îmbunătățesc frumusețea atunci când sunt privite, în timp ce lucrurile urâte, cum ar fi murdăria și suprafețele aspre din piatră, o reduc.</Beauty.description>
   
   <!-- EN: comfort -->
-  <Comfort.label>TODO</Comfort.label>
+  <Comfort.label>confort</Comfort.label>
   <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
-  <Comfort.description>TODO</Comfort.description>
+  <Comfort.description>Confortul se obține stând sau dormind pe un mobilier confortabil. Se dobândește în timp ce se stă în pat, se stă pe un scaun în timp ce se lucrează sau în alte momente.</Comfort.description>
   
   <!-- EN: chemical -->
-  <DrugDesire.label>TODO</DrugDesire.label>
+  <DrugDesire.label>chimic</DrugDesire.label>
   <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
-  <DrugDesire.description>TODO</DrugDesire.description>
+  <DrugDesire.description>Chimicul exprimă dorința de a ingera droguri. Atunci când depășește un anumit nivel, va crea o stare de bună dispoziție, dar atunci când este sub un anumit nivel va crea o stare de spirit din ce în ce mai proastă.</DrugDesire.description>
   
   <!-- EN: food -->
-  <Food.label>TODO</Food.label>
+  <Food.label>hrană</Food.label>
   <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
-  <Food.description>TODO</Food.description>
+  <Food.description>Hrana reprezintă cantitatea de hrană pe care o creatură a consumat-o recent. Dacă este la zero, o creatură va deveni din ce în ce mai subnutrită și în cele din urmă va muri.</Food.description>
+  
+  <!-- EN: indoors -->
+  <Indoors.label>interior</Indoors.label>
+  <!-- EN: Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof. -->
+  <Indoors.description>Interior exprimă nevoia de a fi între pereți și sub un acoperiș. Îi dăunează petrecerea timpului în spații exterioare sau care nu se află sub acoperișuri. Pentru a ridica această nevoie peste 50%, o persoană trebuie să se afle sub un munte suspendat, nu doar sub un acoperiș normal.</Indoors.description>
   
   <!-- EN: recreation -->
-  <Joy.label>TODO</Joy.label>
+  <Joy.label>recreere</Joy.label>
   <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
-  <Joy.description>TODO</Joy.description>
+  <Joy.description>Recreerea este nevoia de a se distra. Repetarea aceluiași tip de activitate o face mai puțin distractivă, așa că este necesară varietatea.</Joy.description>
   
   <!-- EN: mood -->
-  <Mood.label>TODO</Mood.label>
+  <Mood.label>dispoziție</Mood.label>
   <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree. -->
-  <Mood.description>TODO</Mood.description>
+  <Mood.description>Dispoziția reprezintă cât de fericit sau stresat este cineva. Dacă starea de spirit devine prea scăzută, persoana poate suferi o cădere psihică. În funcție de cât de scăzută este starea sa de spirit, o persoană care suferă o cădere psihică poate avea o cădere minoră, cum ar fi să se ascundă în camera sa timp de o zi, sau o cădere majoră, cum ar fi să intre într-o serie de crime.</Mood.description>
   
   <!-- EN: outdoors -->
-  <Outdoors.label>TODO</Outdoors.label>
+  <Outdoors.label>exterior</Outdoors.label>
   <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
-  <Outdoors.description>TODO</Outdoors.description>
+  <Outdoors.description>Exterior exprimă nevoia de a nu fi închis în casă. Îi dăunează perioadele lungi petrecute în interior, mai ales sub pământ. Se îmbunătățește atunci când cineva petrece timp sub cerul liber, mai ales în aer liber. Nu este vorba de mărimea camerelor, ci de nevoia de a fi afară din când în când. Lipsa timpului petrecut în aer liber este o provocare semnificativă pentru persoanele care locuiesc în baze subterane.</Outdoors.description>
   
   <!-- EN: rest -->
-  <Rest.label>TODO</Rest.label>
+  <Rest.label>odihnă</Rest.label>
   <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
-  <Rest.description>TODO</Rest.description>
+  <Rest.description>Odihna reprezintă cât de mult a dormit o creatură în ultima vreme. Dacă este la zero, o creatură va adormi în cele din urmă pe loc.</Rest.description>
   
   <!-- EN: room size -->
-  <RoomSize.label>TODO</RoomSize.label>
+  <RoomSize.label>mărimea camerei</RoomSize.label>
   
 </LanguageData>

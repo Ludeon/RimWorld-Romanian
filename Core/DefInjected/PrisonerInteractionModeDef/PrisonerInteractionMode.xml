@@ -2,18 +2,28 @@
 <LanguageData>
   
   <!-- EN: recruit -->
-  <AttemptRecruit.label>TODO</AttemptRecruit.label>
+  <AttemptRecruit.label>recrutează</AttemptRecruit.label>
+  <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
+  <AttemptRecruit.description>Gardienii vor încerca să recruteze deținutul. Dacă prizonierul încă opune rezistență, gardienii vor vorbi cu el pentru a o reduce.</AttemptRecruit.description>
   
   <!-- EN: execute -->
-  <Execution.label>TODO</Execution.label>
+  <Execution.label>execută</Execution.label>
+  <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
+  <Execution.description>Un gardian va executa prizonierul pe loc prin tăiere. Acest lucru poate afecta starea de spirit a celorlalți prizonieri și coloniști.</Execution.description>
   
   <!-- EN: no interaction -->
-  <NoInteraction.label>TODO</NoInteraction.label>
+  <NoInteraction.label>fără interacțiune</NoInteraction.label>
+  <!-- EN: Wardens will not interact with the prisoner. -->
+  <NoInteraction.description>Gardienii nu vor interacționa cu prizonierul.</NoInteraction.description>
   
   <!-- EN: reduce resistance -->
-  <ReduceResistance.label>TODO</ReduceResistance.label>
+  <ReduceResistance.label>redu rezistența</ReduceResistance.label>
+  <!-- EN: If the prisoner still has resistance, wardens will speak to them to reduce it. No recruit attempts will be made. -->
+  <ReduceResistance.description>Dacă prizonierul încă mai are rezistență, gardienii vor vorbi cu el pentru a o reduce. Nu se vor face încercări de recrutare.</ReduceResistance.description>
   
   <!-- EN: release -->
-  <Release.label>TODO</Release.label>
+  <Release.label>eliberează</Release.label>
+  <!-- EN: A warden will release the prisoner. -->
+  <Release.description>Un gardian va elibera prizonierul.</Release.description>
   
 </LanguageData>

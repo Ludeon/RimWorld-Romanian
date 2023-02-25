@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gave gift -->
+  <GaveGift.label>a dat cadou</GaveGift.label>
+  
+  <!-- EN: peace talks backfired -->
+  <PeaceTalksBackfire.label>negocierile de pace au eșuat</PeaceTalksBackfire.label>
+  
+  <!-- EN: peace talks disaster -->
+  <PeaceTalksDisaster.label>dezastru în negocierile de pace</PeaceTalksDisaster.label>
+  
+  <!-- EN: peace talks success -->
+  <PeaceTalksSuccess.label>succes în negocierile de pace</PeaceTalksSuccess.label>
+  
+  <!-- EN: peace talks triumph -->
+  <PeaceTalksTriumph.label>triumf în discuțiile de pace</PeaceTalksTriumph.label>
+  
+  <!-- EN: requested military aid -->
+  <RequestedMilitaryAid.label>ajutor militar solicitat</RequestedMilitaryAid.label>
+  
+  <!-- EN: requested trader -->
+  <RequestedTrader.label>comerciant solicitat</RequestedTrader.label>
+  
+  <!-- EN: traded -->
+  <Traded.label>tranzacționat</Traded.label>
+  
+</LanguageData>

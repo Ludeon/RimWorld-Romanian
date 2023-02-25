@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: barkskin -->
+  <Barkskin.label>piele-scorțoasă</Barkskin.label>
+  <!-- EN: A dryad caste specialized in absorbing hits during combat. Barkskin dryads are covered by a thick bark-like hide which is partly formed by the Gauranlen tree itself. Under human influence, it can act as a damage-absorbing fighter. -->
+  <Barkskin.description>O castă de driade specializată în absorbția loviturilor în timpul luptei. Driadele piele-scorțoasă sunt acoperite de o piele groasă, asemănătoare unei scoarțe, care este parțial formată de însuși copacul Gauranlen. Sub influența umană, poate acționa ca un luptător care absoarbe daunele.</Barkskin.description>
+  
+  <!-- EN: berrymaker -->
+  <Berrymaker.label>făcător-de-mure</Berrymaker.label>
+  <!-- EN: A dryad caste specialized in food production. Together with its Gauranlen tree, this dryad can generate nourishing berries on an ongoing basis. However, it is slow and ineffective at work or combat. -->
+  <Berrymaker.description>O castă de driade specializată în producția de hrană. Împreună cu arborele său Gauranlen, această driadă poate genera fructe de pădure hrănitoare în mod continuu. Cu toate acestea, este lentă și ineficientă la muncă sau în luptă.</Berrymaker.description>
+  
+  <!-- EN: carrier -->
+  <Carrier.label>cărăuș</Carrier.label>
+  <!-- EN: A dryad caste specialized in carrying items. Under human influence, it can help haul things where they need to go. -->
+  <Carrier.description>O castă de driade specializată în transportul obiectelor. Sub influența oamenilor, poate ajuta la transportarea lucrurilor acolo unde trebuie să ajungă.</Carrier.description>
+  
+  <!-- EN: clawer -->
+  <Clawer.label>gherar</Clawer.label>
+  <!-- EN: A dryad caste specialized in aggression and damage-dealing attacks. The clawer dryad is named for its massive claws. Though it can do tremendous damage, it is vulnerable to attacks itself. -->
+  <Clawer.description>O castă de driade specializată în agresiune și atacuri care provoacă pagube. Driada gherar este numit astfel datorită ghearelor sale masive. Deși poate face pagube uriașe, este vulnerabilă însăși la atacuri.</Clawer.description>
+  
+  <!-- EN: gaumaker -->
+  <Gaumaker.label>făcător-de-gau</Gaumaker.label>
+  <!-- EN: A dryad caste with the unique ability to produce new Gauranlen pods and reproduce the Gauranlen tree along with its symbiote, the dryad queen. To do this, three gaumaker dryads must slowly merge. -->
+  <Gaumaker.description>O castă de driade cu abilitatea unică de a produce noi păstăi de Gauranlen și de a reproduce copacul Gauranlen împreună cu simbiotul său, regina driadă. Pentru a face acest lucru, trei driade făcători-de-gau trebuie să fuzioneze încet.</Gaumaker.description>
+  
+  <!-- EN: medicinemaker -->
+  <Medicinemaker.label>făcător de medicamente</Medicinemaker.label>
+  <!-- EN: A dryad caste specialized in medicine production. Together with its Gauranlen tree, this dryad can generate medicinal herbs on an ongoing basis. However, it is slow and ineffective at work or combat. -->
+  <Medicinemaker.description>O castă de driade specializată în producerea de medicamente. Împreună cu arborele său Gauranlen, această driadă poate genera ierburi medicinale în mod continuu. Cu toate acestea, este lentă și ineficientă la muncă sau în luptă.</Medicinemaker.description>
+  
+  <!-- EN: woodmaker -->
+  <Woodmaker.label>făcător-de-lemne</Woodmaker.label>
+  <!-- EN: A slow, bumbling caste of dryad which specializes in wood production. Together with its Gauranlen tree, this dryad can generate a wood-like material on an ongoing basis. However, it is slow and ineffective at work or combat. -->
+  <Woodmaker.description>O castă de dryade lentă și neîndemânatică care este specializată în producția de lemn. Împreună cu arborele său Gauranlen, această driadă poate genera un material asemănător lemnului în mod continuu. Cu toate acestea, este lentă și ineficientă la muncă sau în luptă.</Woodmaker.description>
+  
+</LanguageData>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animal chat -->
-  <AnimalChat.label>TODO</AnimalChat.label>
+  <AnimalChat.label>vorbă cu animalele</AnimalChat.label>
   <!-- EN:
     <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
@@ -27,10 +27,33 @@
     <li>tamed->sat patiently near</li>
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
-  <AnimalChat.logRulesInitiator.rulesStrings>TODO</AnimalChat.logRulesInitiator.rulesStrings>
+  <AnimalChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a stat lângă [RECIPIENT_nameDef] și a vorbit către [INITIATOR_objective] însăși despre [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] s-a apropriat de [RECIPIENT_nameDef] în timp ce șoptea către [INITIATOR_objective] însăși despre [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] s-a apropriat de [RECIPIENT_nameDef] în timp ce vorbea către [INITIATOR_objective] însăși despre [TalkTopicAny].</li>
+    <li>tamed->a făcut zgomote liniștitoare către</li>
+    <li>tamed->a făcut gesturi lente și prietenoase către</li>
+    <li>tamed->a făcut zgomote de liniște către</li>
+    <li>tamed->a făcut zgomote vesele cu clicuri la</li>
+    <li>tamed->a făcut gesturi blânde și s-a apropiat</li>
+    <li>tamed->s-a apropiat încet</li>
+    <li>tamed->a atins ușor</li>
+    <li>tamed->a calmat și a încurajat</li>
+    <li>tamed->a potrivit respirația cu</li>
+    <li>tamed->a adoptat o poziție joasă în timp ce se apropia</li>
+    <li>tamed->nu a arătat teamă sau furie față de</li>
+    <li>tamed->a simulat neatenție față de</li>
+    <li>tamed->a fredonat ușor un cântec la</li>
+    <li>tamed->a cântat un vechi cântec de leagăn la</li>
+    <li>tamed->a atins cu fermitate, dar cu blândețe</li>
+    <li>tamed->a manifestat o atitudine relaxată față de</li>
+    <li>tamed->a stat cu răbdare lângă</li>
+    <li>tamed->a șoptit o poveste despre [TalkTopicAny] către</li>
+  </AnimalChat.logRulesInitiator.rulesStrings>
   
   <!-- EN: nuzzle -->
-  <Nuzzle.label>TODO</Nuzzle.label>
+  <Nuzzle.label>giugiulire</Nuzzle.label>
   <!-- EN:
     <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
@@ -57,10 +80,64 @@
     <li>rubbedpart->side</li>
     <li>rubbedpart->arm</li>
   -->
-  <Nuzzle.logRulesInitiator.rulesStrings>TODO</Nuzzle.logRulesInitiator.rulesStrings>
+  <Nuzzle.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] și-a frecat [nuzzleadverb] nasul [INITIATOR_possessive] de [rubbedpart] lui [RECIPIENT_nameDef].</li>
+    <li>nuzzled(p=2)->a giugiulit pe</li>
+    <li>nuzzled->s-a ghemuit în</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->gentil</li>
+    <li>nuzzleadverb->încurajator</li>
+    <li>nuzzleadverb->cu plăcere</li>
+    <li>nuzzleadverb->cu blândețe</li>
+    <li>nuzzleadverb->cu susținere</li>
+    <li>nuzzleadverb->ușor</li>
+    <li>nuzzleadverb->cu căldură</li>
+    <li>nuzzleadverb->plăpând</li>
+    <li>nuzzleadverb->cu dragoste</li>
+    <li>nuzzleadverb->cu afecțiune</li>
+    <li>rubbedpart->piciorul</li>
+    <li>rubbedpart->genunchiul</li>
+    <li>rubbedpart->talpa</li>
+    <li>rubbedpart->cotul</li>
+    <li>rubbedpart->șoldul</li>
+    <li>rubbedpart->umărul</li>
+    <li>rubbedpart->mâna</li>
+    <li>rubbedpart->partea laterală a</li>
+    <li>rubbedpart->brațul</li>
+  </Nuzzle.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: release to the wild -->
+  <ReleaseToWild.label>eliberare în sălbăticie</ReleaseToWild.label>
+  <!-- EN:
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] gently pet [RECIPIENT_nameDef] one last time</li>
+    <li>farewell->[INITIATOR_nameDef] said some warm words to [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] removed [RECIPIENT_nameDef]'s collar</li>
+    <li>farewell->[INITIATOR_nameDef] reminisced about the good time [INITIATOR_pronoun] had with [RECIPIENT_nameDef]</li>
+    <li>released->and released [RECIPIENT_objective] to the wild.</li>
+    <li>released->and set [RECIPIENT_objective] free.</li>
+    <li>released->and sent [RECIPIENT_objective] off.</li>
+    <li>released->and let [RECIPIENT_objective] go.</li>
+    <li>released->then turned away and let [RECIPIENT_objective] leave the colony.</li>
+    <li>released->before letting [RECIPIENT_objective] go to live in freedom.</li>
+  -->
+  <ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] mângâie cu blândețe pe [RECIPIENT_nameDef] pentru ultima oară</li>
+    <li>farewell->[INITIATOR_nameDef] i-a spus câteva cuvinte calde lui [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] a îndepărtat zgarda lui [RECIPIENT_nameDef].</li>
+    <li>farewell->[INITIATOR_nameDef] și-a amintit de momentele frumoase pe care [INITIATOR_pronoun] le-a petrecut cu [RECIPIENT_nameDef]</li>
+    <li>released->și a eliberat [RECIPIENT_objective] în natură.</li>
+    <li>released->și a eliberat [RECIPIENT_objective].</li>
+    <li>released->și a trimis [RECIPIENT_objective] în libertate.</li>
+    <li>released->și a dat drumul [RECIPIENT_objective].</li>
+    <li>released->apoi s-a îndepărtat și l-a lăsat pe [RECIPIENT_objective] să părăsească colonia.</li>
+    <li>released->înainte de a-l lăsa pe [RECIPIENT_objective] să plece să trăiască în libertate.</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
   
   <!-- EN: tame attempt -->
-  <TameAttempt.label>TODO</TameAttempt.label>
+  <TameAttempt.label>încercare de îmblânzire</TameAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</li>
@@ -78,10 +155,26 @@
     <li>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</li>
     <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   -->
-  <TameAttempt.logRulesInitiator.rulesStrings>TODO</TameAttempt.logRulesInitiator.rulesStrings>
+  <TameAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] a încercat să îmblânzească [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a încercat să aducă [RECIPIENT_nameDef] sub control.</li>
+    <li>r_logentry->[INITIATOR_nameDef] a încercat să îl prindă în guler pe [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a cerut supunere de la [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] l-a chemat pe [RECIPIENT_nameDef] să vină la [INITIATOR_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a încercat să-l facă pe [RECIPIENT_nameDef] să stea nemișcat.</li>
+    <li>r_logentry->[INITIATOR_nameDef] l-a apucat brusc pe [RECIPIENT_nameDef] și a lătrat o comandă.</li>
+    <li>r_logentry->[INITIATOR_nameDef] a încercat să-l țină pe [RECIPIENT_nameDef] nemișcat.</li>
+    <li>r_logentry->[INITIATOR_nameDef] a strigat o comandă către [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] l-a pălmuit pe [RECIPIENT_nameDef] în semn de dominare.</li>
+    <li>r_logentry->[INITIATOR_nameDef] a îndrumat [RECIPIENT_nameDef] înapoi spre comunitate.</li>
+    <li>r_logentry->[INITIATOR_nameDef] l-a chemat pe [RECIPIENT_nameDef] să se întoarcă în comunitate.</li>
+    <li>r_logentry->[INITIATOR_nameDef] a atins o parte vulnerabilă a corpului lui [RECIPIENT_nameDef], cerându-i supunere.</li>
+    <li>r_logentry->[INITIATOR_nameDef] a arătat cu degetul spre pământ, cerând ca [RECIPIENT_nameDef] să vină.</li>
+    <li>r_logentry->[INITIATOR_nameDef] i-a dat [RECIPIENT_nameDef] o primă comandă.</li>
+  </TameAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: train attempt -->
-  <TrainAttempt.label>TODO</TrainAttempt.label>
+  <TrainAttempt.label>încercare de dresaj</TrainAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
     <li>trained(p=2)->[tried] to train</li>
@@ -94,6 +187,15 @@
     <li>tried->tried</li>
     <li>tried->attempted</li>
   -->
-  <TrainAttempt.logRulesInitiator.rulesStrings>TODO</TrainAttempt.logRulesInitiator.rulesStrings>
+  <TrainAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
+    <li>trained(p=2)->a încercat să dreseze pe</li>
+    <li>trained->a încercat să arate un nou truc pentru</li>
+    <li>trained->a încercat să disciplineze pe</li>
+    <li>trained->a încercat să instruiască pe</li>
+    <li>trained->a încercat să încurajeze o nouă aptitudine în</li>
+    <li>trained->a demonstrat o abilitate către</li>
+    <li>trained->încurajat un nou răspuns de la</li>
+  </TrainAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

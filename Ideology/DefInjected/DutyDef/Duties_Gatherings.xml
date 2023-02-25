@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: party -->
+  <PartyCloseWander.label>petrecere</PartyCloseWander.label>
+  
+  <!-- EN: dance party -->
+  <PartyDance.label>petrecere de dans</PartyDance.label>
+  
+  <!-- EN: playing music -->
+  <PlayTargetInstrument.label>cântând muzică</PlayTargetInstrument.label>
+  
+</LanguageData>

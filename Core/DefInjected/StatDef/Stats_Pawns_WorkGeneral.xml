@@ -2,73 +2,78 @@
 <LanguageData>
   
   <!-- EN: animal gather speed -->
-  <AnimalGatherSpeed.label>TODO</AnimalGatherSpeed.label>
+  <AnimalGatherSpeed.label>viteza de adunare a animalelor</AnimalGatherSpeed.label>
   <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
-  <AnimalGatherSpeed.description>TODO</AnimalGatherSpeed.description>
+  <AnimalGatherSpeed.description>Viteza cu care această persoană mulge, tunde și adună în alt mod resurse de la animale.</AnimalGatherSpeed.description>
   
   <!-- EN: animal gather yield -->
-  <AnimalGatherYield.label>TODO</AnimalGatherYield.label>
+  <AnimalGatherYield.label>randament colectare animale</AnimalGatherYield.label>
   <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product. -->
-  <AnimalGatherYield.description>TODO</AnimalGatherYield.description>
+  <AnimalGatherYield.description>Randamentul procentual pe care îl primește o persoană atunci când tunde, mulge sau adună în alt mod resurse de la un animal viu.\n\nProcentaje mai mari reduc șansele de a irosi produsul.</AnimalGatherYield.description>
   
   <!-- EN: construction speed -->
-  <ConstructionSpeed.label>TODO</ConstructionSpeed.label>
+  <ConstructionSpeed.label>viteza de construcție</ConstructionSpeed.label>
   <!-- EN: The speed at which this person constructs and repairs buildings. -->
-  <ConstructionSpeed.description>TODO</ConstructionSpeed.description>
+  <ConstructionSpeed.description>Viteza cu care această persoană construiește și repară clădirile.</ConstructionSpeed.description>
   
   <!-- EN: construct success chance -->
-  <ConstructSuccessChance.label>TODO</ConstructSuccessChance.label>
+  <ConstructSuccessChance.label>șansa de reușită a construcției</ConstructSuccessChance.label>
   <!-- EN: The chance that this person will succeed in constructing something.\nFailing means wasting time and resources. -->
-  <ConstructSuccessChance.description>TODO</ConstructSuccessChance.description>
+  <ConstructSuccessChance.description>Șansa ca această persoană să reușească să construiască ceva.\nEșecul înseamnă pierdere de timp și resurse.</ConstructSuccessChance.description>
   
   <!-- EN: deep drilling speed -->
-  <DeepDrillingSpeed.label>TODO</DeepDrillingSpeed.label>
+  <DeepDrillingSpeed.label>viteza de forare în adâncime</DeepDrillingSpeed.label>
   <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
-  <DeepDrillingSpeed.description>TODO</DeepDrillingSpeed.description>
+  <DeepDrillingSpeed.description>Viteza cu care această persoană folosește o foreză de adâncime pentru a extrage resurse subterane.</DeepDrillingSpeed.description>
+  
+  <!-- EN: drug crop harvest yield -->
+  <DrugHarvestYield.label>randamentul recoltei de droguri</DrugHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
+  <DrugHarvestYield.description>Randamentul pe care această persoană îl obține atunci când recoltează culturile de droguri.\n\nUn randament scăzut oferă șansa ca această persoană să irosească accidental recolta. Randamentele mari cresc randamentul din fiecare plantă.</DrugHarvestYield.description>
   
   <!-- EN: repair success chance -->
-  <FixBrokenDownBuildingSuccessChance.label>TODO</FixBrokenDownBuildingSuccessChance.label>
+  <FixBrokenDownBuildingSuccessChance.label>șansa de reușită a reparației</FixBrokenDownBuildingSuccessChance.label>
   <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
-  <FixBrokenDownBuildingSuccessChance.description>TODO</FixBrokenDownBuildingSuccessChance.description>
+  <FixBrokenDownBuildingSuccessChance.description>Șansa ca această persoană să reușească să repare cu succes o clădire avariată folosind o componentă.\n\nEșecul înseamnă pierdere de timp și resurse.\nRețineți că acest lucru se aplică doar la repararea avariilor, care este diferită de repararea daunelor.</FixBrokenDownBuildingSuccessChance.description>
   
   <!-- EN: hunting stealth -->
-  <HuntingStealth.label>TODO</HuntingStealth.label>
+  <HuntingStealth.label>vânătoare ascunsă</HuntingStealth.label>
   <!-- EN: This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack. -->
-  <HuntingStealth.description>TODO</HuntingStealth.description>
+  <HuntingStealth.description>Această statistică reduce șansele ca animalele vânate să atace vânătorul.\nUn scor de 0% nu înseamnă nicio reducere.\nUn scor de 100% înseamnă că animalele nu atacă niciodată.</HuntingStealth.description>
   
   <!-- EN: mining speed -->
-  <MiningSpeed.label>TODO</MiningSpeed.label>
+  <MiningSpeed.label>viteza de exploatare minieră</MiningSpeed.label>
   <!-- EN: A speed at which this person mines away walls. -->
-  <MiningSpeed.description>TODO</MiningSpeed.description>
+  <MiningSpeed.description>Viteza cu care această persoană minează pereții.</MiningSpeed.description>
   
   <!-- EN: mining yield -->
-  <MiningYield.label>TODO</MiningYield.label>
+  <MiningYield.label>randament minier</MiningYield.label>
   <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
-  <MiningYield.description>TODO</MiningYield.description>
+  <MiningYield.description>Procentul de resurse minate pe care îl va produce un miner.\nAceasta se aplică atât la mineritul de pereți, cât și la mineritul prin foraje adânci.\nAceasta nu afectează rata de producție a bucăților de rocă din foraje adânci.</MiningYield.description>
   
   <!-- EN: plant harvest yield -->
-  <PlantHarvestYield.label>TODO</PlantHarvestYield.label>
+  <PlantHarvestYield.label>randament recoltare plante</PlantHarvestYield.label>
   <!-- EN: The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest. -->
-  <PlantHarvestYield.description>TODO</PlantHarvestYield.description>
+  <PlantHarvestYield.description>Randamentul pe care această persoană îl obține atunci când recoltează plante.\n\nUn randament scăzut oferă o șansă ca această persoană să irosească accidental recolta.</PlantHarvestYield.description>
   
   <!-- EN: plant work speed -->
-  <PlantWorkSpeed.label>TODO</PlantWorkSpeed.label>
+  <PlantWorkSpeed.label>viteza de lucru a plantelor</PlantWorkSpeed.label>
   <!-- EN: The speed at which this person sows and harvests plants. -->
-  <PlantWorkSpeed.description>TODO</PlantWorkSpeed.description>
+  <PlantWorkSpeed.description>Viteza cu care această persoană însămânțează și recoltează plantele.</PlantWorkSpeed.description>
   
   <!-- EN: research speed -->
-  <ResearchSpeed.label>TODO</ResearchSpeed.label>
+  <ResearchSpeed.label>viteza de cercetare</ResearchSpeed.label>
   <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
-  <ResearchSpeed.description>TODO</ResearchSpeed.description>
+  <ResearchSpeed.description>Viteza cu care această persoană efectuează cercetări și cât de repede poate găsi lucruri folosind echipamente de scanare.</ResearchSpeed.description>
   
   <!-- EN: smoothing speed -->
-  <SmoothingSpeed.label>TODO</SmoothingSpeed.label>
+  <SmoothingSpeed.label>viteza de netezire</SmoothingSpeed.label>
   <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
-  <SmoothingSpeed.description>TODO</SmoothingSpeed.description>
+  <SmoothingSpeed.description>Un multiplicator al vitezei cu care această persoană netezește podelele și pereții de piatră aspră.</SmoothingSpeed.description>
   
   <!-- EN: global work speed -->
-  <WorkSpeedGlobal.label>TODO</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.label>viteza globală de lucru</WorkSpeedGlobal.label>
   <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
-  <WorkSpeedGlobal.description>TODO</WorkSpeedGlobal.description>
+  <WorkSpeedGlobal.description>Un multiplicator asupra vitezei cu care un personaj face orice fel de muncă.</WorkSpeedGlobal.description>
   
 </LanguageData>

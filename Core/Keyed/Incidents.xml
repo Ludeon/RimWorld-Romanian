@@ -2,244 +2,245 @@
 <LanguageData>
 
   <!-- EN: Mad {ANIMAL_labelShort} -->
-  <LetterLabelAnimalInsanitySingle>TODO</LetterLabelAnimalInsanitySingle>
+  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} înnebunit</LetterLabelAnimalInsanitySingle>
   <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
-  <AnimalInsanitySingle>TODO</AnimalInsanitySingle>
+  <AnimalInsanitySingle>O {ANIMAL_label} a înnebunit. Va ataca pe oricine vede.</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->
-  <LetterLabelAnimalInsanityMultiple>TODO</LetterLabelAnimalInsanityMultiple>
+  <LetterLabelAnimalInsanityMultiple>{0} înnebunit</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
-  <AnimalInsanityMultiple>TODO</AnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Un fel de val psihic a trecut peste regiune. Coloniștii nu au pățit nimic, însă...\n\nSe pare că {0} din zonă au înnebunit.</AnimalInsanityMultiple>
 
   <!-- EN: Blight: {PLANTDEF_labelPlural} -->
-  <LetterLabelCropBlight>TODO</LetterLabelCropBlight>
+  <LetterLabelCropBlight>Molimă: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
   <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
 \nYou should cut or burn the affected plants before the blight spreads. -->
-  <LetterCropBlight>TODO</LetterCropBlight>
+  <LetterCropBlight>Molimă a fost descoperită pe {PLANTDEF_labelPlural}!\n\nAr trebui să tăiați sau să ardeți plantele afectate înainte ca molima să se răspândească.</LetterCropBlight>
 
   <!-- EN: Miracle -->
-  <LetterLabelMiracleHeal>TODO</LetterLabelMiracleHeal>
+  <LetterLabelMiracleHeal>Miracol</LetterLabelMiracleHeal>
   <!-- EN: {0} has experienced a miraculous recovery! -->
-  <MiracleHeal>TODO</MiracleHeal>
+  <MiracleHeal>{0} s-a însănătoșit ca prin miracol!</MiracleHeal>
 
   <!-- Enemy raids -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <EnemyRaidLeaderPresent>TODO</EnemyRaidLeaderPresent>
+  <EnemyRaidLeaderPresent>Unul dintre {LEADER_factionPawnsPlural} - {LEADER_labelShort}, este liderul facțiunii.</EnemyRaidLeaderPresent>
 
   <!-- Friendly raids -->
   <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
-  <FriendlyRaidLeaderPresent>TODO</FriendlyRaidLeaderPresent>
+  <FriendlyRaidLeaderPresent>Unul dintre pionii {LEADER_factionPawnsPlural} - {LEADER_labelShort}, este liderul facțiunii.</FriendlyRaidLeaderPresent>
 
   <!-- EN: Transport pod crash -->
-  <LetterLabelRefugeePodCrash>TODO</LetterLabelRefugeePodCrash>
+  <LetterLabelRefugeePodCrash>Accident de capsulă de transport</LetterLabelRefugeePodCrash>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
-  <RefugeePodCrash>TODO</RefugeePodCrash>
+  <RefugeePodCrash>{PAWN_titleIndef} numit {PAWN_nameDef} se prăbușește într-o navetă de transport din apropiere. Dacă {PAWN_pronoun} supraviețuiește impactului, {PAWN_pronoun} va fi grav rănit.</RefugeePodCrash>  
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Factionless>TODO</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} nu este afiliat cu nicio facțiune. Poți salva {PAWN_objective} și spera ca {PAWN_pronoun} să se alăture liber, sau poți captura {PAWN_objective} în scopul recrutării sau al sclaviei.</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Hostile>TODO</RefugeePodCrash_Hostile>
+  <RefugeePodCrash_Hostile>{PAWN_nameDef} este de la inamicul tău {PAWN_factionName}. Poți captura {PAWN_objective} în scopuri de recrutare sau sclavie.</RefugeePodCrash_Hostile>
   <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
-  <RefugeePodCrash_NonHostile>TODO</RefugeePodCrash_NonHostile>
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} este din {PAWN_factionName}. Dacă salvezi {PAWN_objective}, {PAWN_pronoun} se poate alătura liber. În caz contrar, {PAWN_pronoun} se va întoarce acasă și va răspândi bunăvoința între facțiunile voastre.\n\nDe asemenea, îl puteți captura pe {PAWN_objective} în scopul recrutării sau al sclaviei, dar acest lucru va înfuria facțiunea {PAWN_possessive}.</RefugeePodCrash_NonHostile>
+
+  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
+  <LetterLabelWandererJoins>Rătăcitor se alătură: {PAWN_nameDef}</LetterLabelWandererJoins>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and wants to join the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily, claiming to have nowhere else to go. You can choose to turn {PAWN_objective} down and send {PAWN_objective} away. However, your colonists will be disturbed at sending someone away in need. -->
+  <LetterWandererJoins>Un {PAWN_title} numit {PAWN_nameDef} a sosit și dorește să se alăture coloniei.\n\n[PAWN_pronoun] este dispus să contribuie, dar nu va pleca de bună voie, susținând că nu are unde să se ducă. Puteți alege să îl refuzați pe {PAWN_objective} și să îl trimiteți pe {PAWN_objective} departe. Cu toate acestea, coloniștii tăi vor fi deranjați de faptul că vor trimite departe pe cineva în nevoie.</LetterWandererJoins>
 
   <!-- EN: Cargo pods -->
-  <LetterLabelCargoPodCrash>TODO</LetterLabelCargoPodCrash>
+  <LetterLabelCargoPodCrash>Capsule de marfă</LetterLabelCargoPodCrash>
   <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
-  <CargoPodCrash>TODO</CargoPodCrash>
+  <CargoPodCrash>Un grup de capsule cu mărfuri s-a prăbușit în apropiere.\n\nS-ar putea să aibă câte ceva folositor.</CargoPodCrash>
 
   <!-- EN: an electrical conduit -->
-  <AnElectricalConduit>TODO</AnElectricalConduit>
+  <AnElectricalConduit>un cablu electric</AnElectricalConduit>
   <!-- EN: A fault in {0} has caused a short circuit. -->
-  <ShortCircuit>TODO</ShortCircuit>
+  <ShortCircuit>O defecțiune în {0} a cauzat un scurt-circuit.\n\nToți {1} Wd de energie stocați în bateriile aferente au fost descărcați într-o explozie.</ShortCircuit>
   <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
-  <ShortCircuitStartedFire>TODO</ShortCircuitStartedFire>
+  <ShortCircuitStartedFire>O defecțiune în {0} a provocat un scurtcircuit care a declanșat un incendiu.</ShortCircuitStartedFire>
   <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
-  <ShortCircuitDischargedEnergy>TODO</ShortCircuitDischargedEnergy>
+  <ShortCircuitDischargedEnergy>Toată energia de {0} Wz din bateriile conectate a fost descărcată într-o explozie electrică.</ShortCircuitDischargedEnergy>
   <!-- EN: This large amount of power has created an explosion of considerable size. -->
-  <ShortCircuitWasLarge>TODO</ShortCircuitWasLarge>
+  <ShortCircuitWasLarge>Cantitatea mare de energie a creat o explozie puternică.</ShortCircuitWasLarge>
   <!-- EN: That really is a huge explosion. Wow. -->
-  <ShortCircuitWasHuge>TODO</ShortCircuitWasHuge>
+  <ShortCircuitWasHuge>Într-adevăr asta a fost o explozie uriașă.</ShortCircuitWasHuge>
 
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
-  <TraderArrival>TODO</TraderArrival>
+  <TraderArrival>O navă comercială trece prin apropiere.\n\nEi sunt cunoscuți sub numele de {0}. Ei sunt un {1}.\n\n{2}</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
-  <TraderArrivalFromFaction>TODO</TraderArrivalFromFaction>
+  <TraderArrivalFromFaction>Sunt afiliați cu {FACTION_name}.</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
-  <TraderArrivalNoFaction>TODO</TraderArrivalNoFaction>
+  <TraderArrivalNoFaction>Nu sunt afiliați cu nicio facțiune.</TraderArrivalNoFaction>
 
   <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
-  <SingleTravelerPassing>TODO</SingleTravelerPassing>
+  <SingleTravelerPassing>Un {PAWN_title} din {1} trece pe lângă. {PAWN_pronoun} se numește {PAWN_nameFull}.</SingleTravelerPassing>
   <!-- EN: A group of travelers from {0} are passing by. -->
-  <GroupTravelersPassing>TODO</GroupTravelersPassing>
+  <GroupTravelersPassing>Un grup de călători din {0} trec prin apropiere.</GroupTravelersPassing>
 
   <!-- EN: Visitor -->
-  <LetterLabelSingleVisitorArrives>TODO</LetterLabelSingleVisitorArrives>
+  <LetterLabelSingleVisitorArrives>Vizitator</LetterLabelSingleVisitorArrives>
   <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
-  <SingleVisitorArrives>TODO</SingleVisitorArrives>
+  <SingleVisitorArrives>{PAWN_titleIndef} din {1} vizitează colonia.\n\n{PAWN_pronoun} se numește {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
   <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
-  <SingleVisitorArrivesTraderInfo>TODO</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesTraderInfo>{PAWN_pronoun} pare să aibă câteva obiecte de tranzacționat.</SingleVisitorArrivesTraderInfo>
   <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
-  <SingleVisitorArrivesLeaderInfo>TODO</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrivesLeaderInfo>{PAWN_pronoun} este liderul facțiunii.</SingleVisitorArrivesLeaderInfo>
   <!-- EN: Visitors -->
-  <LetterLabelGroupVisitorsArrive>TODO</LetterLabelGroupVisitorsArrive>
+  <LetterLabelGroupVisitorsArrive>Vizitatori</LetterLabelGroupVisitorsArrive>
   <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
-  <GroupVisitorsArrive>TODO</GroupVisitorsArrive>
+  <GroupVisitorsArrive>Un grup din {0} vizitează colonia.{1}{2}</GroupVisitorsArrive>
   <!-- EN: They seem to have a few items to trade. -->
-  <GroupVisitorsArriveTraderInfo>TODO</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveTraderInfo>Se pare că au câteva obiecte de vândut.</GroupVisitorsArriveTraderInfo>
   <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
-  <GroupVisitorsArriveLeaderInfo>TODO</GroupVisitorsArriveLeaderInfo>
+  <GroupVisitorsArriveLeaderInfo>Unul dintre vizitatori - {1_labelShort}, este liderul facțiunii.</GroupVisitorsArriveLeaderInfo>
   <!-- EN: Visitors from {0} are leaving. -->
-  <VisitorsLeaving>TODO</VisitorsLeaving>
+  <VisitorsLeaving>Vizitatorii din {0} pleacă.</VisitorsLeaving>
 
   <!-- EN: Manhunter pack -->
-  <LetterLabelManhunterPackArrived>TODO</LetterLabelManhunterPackArrived>
+  <LetterLabelManhunterPackArrived>Haită de vânători de oameni</LetterLabelManhunterPackArrived>
   <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
-  <ManhunterPackArrived>TODO</ManhunterPackArrived>
+  <ManhunterPackArrived>O haită de {0} vânători de oameni a intrat în zonă! Înnebuniți de boala cunoscută sub numele de scaria, aceștia vor cutreiera regiunea, vânând carne umanoidă.\n\nNu vor ataca ușile decât dacă văd pe cineva intrând pe ușă. Ascundeți-vă înăuntru și veți fi în siguranță. De asemenea, nu vor ataca turnulețele dezactivate, așa că dezactivați-vă turnulețele pentru a le salva.\n\n{0} vor părăsi zona în una sau două zile. Vă puteți ascunde și aștepta să plece sau puteți lupta cu ei.</ManhunterPackArrived>
   
   <!-- Crashed ship part-->
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
-  <MessageAnimalInsanityPulse>TODO</MessageAnimalInsanityPulse>
+  <MessageAnimalInsanityPulse>{SOURCE_label} a emis un puls psihic care a înnebunit animalele din apropiere.</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
-  <LetterShipPartDroveColonistInsane>TODO</LetterShipPartDroveColonistInsane>
+  <LetterShipPartDroveColonistInsane>Nava prăbușită a emis un fascicol psihic focusat ce i-a luat mințile lui {0}.</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
-  <AwokeDaysAgo>TODO</AwokeDaysAgo>
+  <AwokeDaysAgo>Treaz de acum {0} zile</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
-  <ActivatedDaysAgo>TODO</ActivatedDaysAgo>
+  <ActivatedDaysAgo>Activat {0} zile în urmă</ActivatedDaysAgo>
   <!-- EN: Opened {0} days ago -->
-  <OpenedDaysAgo>TODO</OpenedDaysAgo>
+  <OpenedDaysAgo>Deschis {0} zile în urmă</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
-  <PsychicDroneLevel>TODO</PsychicDroneLevel>
+  <PsychicDroneLevel>Nivelul câmpului psihic: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
-  <LetterLabelPsychicDroneLevelIncreased>TODO</LetterLabelPsychicDroneLevelIncreased>
+  <LetterLabelPsychicDroneLevelIncreased>Dronele se intensifică</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>TODO</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Partea de navă prăbușită emană acum un fel de dronă psihică mai puternică. Fiecare {0} om din zonă se simte acum mai tulburat, mai îngrozit și mai paranoic.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
-  <LetterLabelAgentRevealed>TODO</LetterLabelAgentRevealed>
+  <LetterLabelAgentRevealed>Agent</LetterLabelAgentRevealed>
   <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
-  <LetterAgentRevealed>TODO</LetterAgentRevealed>
+  <LetterAgentRevealed>{0} a fost descoperit ca fiind agentul inamicului tău {1}.\n\nAcum vor încerca să scape.</LetterAgentRevealed>
 
   <!-- Beavers -->
   <!-- EN: Beavers! -->
-  <LetterLabelBeaversArrived>TODO</LetterLabelBeaversArrived>
+  <LetterLabelBeaversArrived>Castorii!</LetterLabelBeaversArrived>
   <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
-  <BeaversArrived>TODO</BeaversArrived>
+  <BeaversArrived>Un grup de alpha-castori înfometați a sosit.\n\nElimină-i înainte de a distruge toți copacii din regiune.</BeaversArrived>
   
   <!-- Self-tame -->
   <!-- EN: {1_kind} self-tamed -->
-  <LetterLabelAnimalSelfTame>TODO</LetterLabelAnimalSelfTame>
+  <LetterLabelAnimalSelfTame>{1_kind} s-a îmblânzit singur</LetterLabelAnimalSelfTame>
   <!-- EN: {0} has become tame. -->
-  <LetterAnimalSelfTame>TODO</LetterAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} s-a îmblânzit.</LetterAnimalSelfTame>
   <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndNameNumerical>TODO</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndNameNumerical>{0} s-a îmblânzit. Acum este numit {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
   <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndName>TODO</LetterAnimalSelfTameAndName>
+  <LetterAnimalSelfTameAndName>{0} s-a îmblânzit. Coloniștii au decis să îl numească {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
   <!-- EN: {0} join -->
-  <LetterLabelFarmAnimalsWanderIn>TODO</LetterLabelFarmAnimalsWanderIn>
+  <LetterLabelFarmAnimalsWanderIn>{0} se alătură</LetterLabelFarmAnimalsWanderIn>
   <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
-  <LetterFarmAnimalsWanderIn>TODO</LetterFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Un grup de {0}, abandonați sau rătăciți, s-au rătăcit în zonă.\n\nSe pare că sunt obișnuiți cu contactul uman și se alătură coloniei.</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
   <!-- EN: Rare thrumbos -->
-  <LetterLabelThrumboPasses>TODO</LetterLabelThrumboPasses>
+  <LetterLabelThrumboPasses>Thrumbori rari</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
-  <LetterThrumboPasses>TODO</LetterThrumboPasses>
+  <LetterThrumboPasses>O mică turmă de thrumbo a intrat în zonă.\n\nPătimașe prin natura lor, aceste creaturi rare sunt extrem de periculoase atunci când sunt confruntate. Unii negustori sunt dispuși să plătească o grămadă de bani pentru pielea și cornul lor prețios.\n\nThrumborii vor părăsi zona în câteva zile.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
-  <LetterLabelTraderCaravanArrival>TODO</LetterLabelTraderCaravanArrival>
+  <LetterLabelTraderCaravanArrival>{1} din {0}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
-  <LetterTraderCaravanArrival>TODO</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>O caravană din {0} se apropie. Ei sunt un {1}.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
-  <LetterCaravanArrivalCommonWarning>TODO</LetterCaravanArrivalCommonWarning>
+  <LetterCaravanArrivalCommonWarning>Ei vor mai rămâne în jurul coloniei pentru o perioadă de timp înainte de a pleca. Îi poți ataca - dar acest lucru va înfuria facțiunea lor!</LetterCaravanArrivalCommonWarning>
     
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->
-  <RansomDemandTitle>TODO</RansomDemandTitle>
+  <RansomDemandTitle>Cererea de răscumpărare la {0}</RansomDemandTitle>
   <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
-  <RansomDemand>TODO</RansomDemand>
+  <RansomDemand>{1} vă contactează la radio. Îl rețin pe fostul colonist {PAWN_labelShort} pentru răscumpărare.\n\nEi sunt dispuși să ți-l elibereze pe {PAWN_objective} înapoi în schimbul a {2} argint.</RansomDemand>
   <!-- EN: Accept -->
-  <RansomDemand_Accept>TODO</RansomDemand_Accept>
+  <RansomDemand_Accept>Acceptă</RansomDemand_Accept>
   <!-- EN: Reject -->
-  <RansomDemand_Reject>TODO</RansomDemand_Reject>
+  <RansomDemand_Reject>Refuză</RansomDemand_Reject>
   
   <!-- Journey-related -->
   <!-- EN: Ship found -->
-  <EscapeShipFoundLabel>TODO</EscapeShipFoundLabel>
+  <EscapeShipFoundLabel>Navă găsită</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <EscapeShipFound>TODO</EscapeShipFound>
+  <EscapeShipFound>Ați ajuns la coordonatele trimise de (*Name)Charlon Whitestone(/Name) și ați descoperit nava ascunsă.\n\nReactorul navei este încă în modul de hibernare profundă, așa că nu poate zbura încă. O puteți porni interacționând cu miezul computerului.\n\n(*Nume)Charlon Whitestone(/Nume) vă avertizează că procesul de pornire va dura aproximativ 15 zile, iar semnătura energetică va putea fi detectată de la o distanță mare. Acest tip de semnătură energetică indică o capacitate de zbor interstelar și va atrage bande de jefuitori disperați și roiuri de mecanoizi mortali.\n\nVoi fi asaltat cu o intensitate pe care nu ați mai văzut-o niciodată. Asigură-te că apărarea ta este pregătită mai întâi.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
-  <EscapeShipFoundPeaceful>TODO</EscapeShipFoundPeaceful>
-  <!-- EN: Ship destroyed -->
-  <EscapeShipLostLabel>TODO</EscapeShipLostLabel>
-  <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>TODO</EscapeShipLost>
+  <EscapeShipFoundPeaceful>Ați ajuns la coordonatele trimise de (*Name)Charlon Whitestone(/Name) și ați descoperit nava ascunsă.\n\nReactorul navei este încă în modul de hibernare profundă, așa că nu poate zbura încă. O puteți porni interacționând cu nucleul computerului.\n\n(*Nume)Charlon Whitestone(/Nume) vă avertizează că procesul de pornire va dura aproximativ 15 zile.</EscapeShipFoundPeaceful>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
-  <CaravanMeetingTitle>TODO</CaravanMeetingTitle>
+  <CaravanMeetingTitle>Întâlnirea caravanei de către {0}</CaravanMeetingTitle>
   <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
-  <CaravanMeeting>TODO</CaravanMeeting>
+  <CaravanMeeting>{0} s-a întâlnit pașnic cu o caravană din {1}. Cealaltă caravană este compusă din:\n\n{2}</CaravanMeeting>
   <!-- EN: Trade -->
-  <CaravanMeeting_Trade>TODO</CaravanMeeting_Trade>
+  <CaravanMeeting_Trade>Comerț</CaravanMeeting_Trade>
   <!-- EN: Attack -->
-  <CaravanMeeting_Attack>TODO</CaravanMeeting_Attack>
+  <CaravanMeeting_Attack>Atac</CaravanMeeting_Attack>
   <!-- EN: Move on -->
-  <CaravanMeeting_MoveOn>TODO</CaravanMeeting_MoveOn>
+  <CaravanMeeting_MoveOn>Treceți mai departe</CaravanMeeting_MoveOn>
   <!-- EN: no caravan members capable of trading -->
-  <CaravanMeeting_TradeIncapable>TODO</CaravanMeeting_TradeIncapable>
+  <CaravanMeeting_TradeIncapable>niciun membru al caravanei nu este capabil să facă comerț</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
-  <CaravanMeeting_NoPermit>TODO</CaravanMeeting_NoPermit>
+  <CaravanMeeting_NoPermit>aveți nevoie de un comerciant cu titlul de {0} din {1_name}</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
-  <LetterLabelCaravanRequest>TODO</LetterLabelCaravanRequest>
+  <LetterLabelCaravanRequest>Cerere de caravană</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>TODO</LetterCaravanRequest>
+  <LetterCaravanRequest>O așezare din apropiere, {0}, vă contactează cu o cerere specială de comerț. Ar dori să cumpere:\n\n {1} (în valoare de {2})\n\nÎn schimb, ei oferă:\n\n {3} (în valoare de {4})\n\nAceastă cerere expiră după: {5}\n\nDacă doriți să faceți acest schimb, trimiteți o caravană cu proviziile cerute. Durata estimată a călătoriei este de {6}. Puteți revizui această ofertă selectând {0} pe harta lumii.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
-  <CaravanRequestInfo>TODO</CaravanRequestInfo>
+  <CaravanRequestInfo>Solicitare: {0} ({2}) ({1} rămas)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
-  <NormalQualityOrBetter>TODO</NormalQualityOrBetter>
+  <NormalQualityOrBetter>calitate normală sau mai bună</NormalQualityOrBetter>
   <!-- EN: not tainted -->
-  <NotTainted>TODO</NotTainted>
+  <NotTainted>nepătat</NotTainted>
 
   <!-- Caravan demand -->
   <!-- EN: Caravan demand by {0} -->
-  <CaravanDemandTitle>TODO</CaravanDemandTitle>
+  <CaravanDemandTitle>Caravana cerută de {0}</CaravanDemandTitle>
   <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
-  <CaravanDemand>TODO</CaravanDemand>
+  <CaravanDemand>{0} a fost prins într-o ambuscadă de un grup de {2}. {4} din {1}. Ei vor ataca dacă nu le cedezi:\n\n{3}</CaravanDemand>
   <!-- EN: Give and pass -->
-  <CaravanDemand_Give>TODO</CaravanDemand_Give>
+  <CaravanDemand_Give>Cedează și treci</CaravanDemand_Give>
   <!-- EN: Refuse and fight -->
-  <CaravanDemand_Fight>TODO</CaravanDemand_Fight>
+  <CaravanDemand_Fight>Refuză și luptă</CaravanDemand_Fight>
 
   <!-- Site no longer hostile -->
   <!-- EN: Quest no longer available -->
-  <LetterLabelSiteNoLongerHostile>TODO</LetterLabelSiteNoLongerHostile>
+  <LetterLabelSiteNoLongerHostile>Misiunea nu mai este disponibilă</LetterLabelSiteNoLongerHostile>
   <!-- EN: Quests no longer available -->
-  <LetterLabelSiteNoLongerHostileMulti>TODO</LetterLabelSiteNoLongerHostileMulti>
+  <LetterLabelSiteNoLongerHostileMulti>Misiunile nu mai sunt disponibile</LetterLabelSiteNoLongerHostileMulti>
   <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
-  <LetterSiteNoLongerHostile>TODO</LetterSiteNoLongerHostile>
+  <LetterSiteNoLongerHostile>Deoarece nu mai sunteți ostil cu {0}, site-ul {1} nu mai este disponibil.</LetterSiteNoLongerHostile>
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
-  <LetterSiteNoLongerHostileMulti>TODO</LetterSiteNoLongerHostileMulti>
+  <LetterSiteNoLongerHostileMulti>Deoarece nu mai sunteți ostil cu {0}, următoarele site-uri nu mai sunt disponibile</LetterSiteNoLongerHostileMulti>
 
   <!-- Quest asker faction hostile -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerFactionHostile>TODO</LetterLabelQuestAskerFactionHostile>
+  <LetterLabelQuestAskerFactionHostile>Misiunea a eșuat</LetterLabelQuestAskerFactionHostile>
   <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
-  <LetterQuestAskerFactionHostile>TODO</LetterQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>Misiunea este acum incompletă deoarece {FACTION_name} este ostilă.</LetterQuestAskerFactionHostile>
 
   <!-- Quest asker captured -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerCaptured>TODO</LetterLabelQuestAskerCaptured>
+  <LetterLabelQuestAskerCaptured>Misiunea a eșuat</LetterLabelQuestAskerCaptured>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
-  <LetterQuestAskerCaptured>TODO</LetterQuestAskerCaptured>
+  <LetterQuestAskerCaptured>Misiunea este acum incompletă deoarece {SUBJECT_definite} a fost capturat.</LetterQuestAskerCaptured>
 
   <!-- Quest asker died -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerDied>TODO</LetterLabelQuestAskerDied>
+  <LetterLabelQuestAskerDied>Misiunea a eșuat</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
-  <LetterQuestAskerDied>TODO</LetterQuestAskerDied>
+  <LetterQuestAskerDied>Misiunea este acum incompletă deoarece {SUBJECT_definite} a murit.</LetterQuestAskerDied>
 
 </LanguageData>

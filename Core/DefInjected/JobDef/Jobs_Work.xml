@@ -2,144 +2,183 @@
 <LanguageData>
   
   <!-- EN: arresting TargetA. -->
-  <Arrest.reportString>TODO</Arrest.reportString>
+  <Arrest.reportString>arestează TargetA.</Arrest.reportString>
   
   <!-- EN: building roof. -->
-  <BuildRoof.reportString>TODO</BuildRoof.reportString>
+  <BuildRoof.reportString>construiește acoperișul.</BuildRoof.reportString>
   
   <!-- EN: capturing TargetA. -->
-  <Capture.reportString>TODO</Capture.reportString>
+  <Capture.reportString>capturează TargetA.</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnToExit.reportString>TODO</CarryDownedPawnToExit.reportString>
+  <CarryDownedPawnDrafted.reportString>transportând TargetA.</CarryDownedPawnDrafted.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToExit.reportString>transportă TargetA.</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasket.reportString>TODO</CarryToCryptosleepCasket.reportString>
+  <CarryToCryptosleepCasket.reportString>transportă TargetA în sicriul de criptosomn.</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasketDrafted.reportString>transportând TargetA în coșciugul de criptosleep.</CarryToCryptosleepCasketDrafted.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <CarryToPrisonerBedDrafted.reportString>arestarea lui TargetA.</CarryToPrisonerBedDrafted.reportString>
   
   <!-- EN: cleaning TargetA. -->
-  <Clean.reportString>TODO</Clean.reportString>
+  <Clean.reportString>curăță TargetA.</Clean.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlant.reportString>TODO</CutPlant.reportString>
+  <CutPlant.reportString>taie TargetA.</CutPlant.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlantDesignated.reportString>TODO</CutPlantDesignated.reportString>
+  <CutPlantDesignated.reportString>taie TargetA.</CutPlantDesignated.reportString>
   
   <!-- EN: deconstructing TargetA. -->
-  <Deconstruct.reportString>TODO</Deconstruct.reportString>
+  <Deconstruct.reportString>deconstruiește TargetA.</Deconstruct.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
-  <DeliverFood.reportString>TODO</DeliverFood.reportString>
+  <DeliverFood.reportString>hrănește TargetA către TargetB.</DeliverFood.reportString>
   
   <!-- EN: doing bill at TargetA. -->
-  <DoBill.reportString>TODO</DoBill.reportString>
+  <DoBill.reportString>efectuează factura la TargetA.</DoBill.reportString>
   
   <!-- EN: escorting prisoner TargetA. -->
-  <EscortPrisonerToBed.reportString>TODO</EscortPrisonerToBed.reportString>
+  <EscortPrisonerToBed.reportString>escortează prizonierul TargetA.</EscortPrisonerToBed.reportString>
+  
+  <!-- EN: extracting TargetA. -->
+  <ExtractTree.reportString>extrage TargetA.</ExtractTree.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
-  <FeedPatient.reportString>TODO</FeedPatient.reportString>
+  <FeedPatient.reportString>hrănește TargetA la TargetB.</FeedPatient.reportString>
   
   <!-- EN: building TargetA. -->
-  <FinishFrame.reportString>TODO</FinishFrame.reportString>
+  <FinishFrame.reportString>construiește TargetA.</FinishFrame.reportString>
   
   <!-- EN: replacing broken components in TargetA. -->
-  <FixBrokenDownBuilding.reportString>TODO</FixBrokenDownBuilding.reportString>
-  
-  <!-- EN: harvesting TargetA. -->
-  <Harvest.reportString>TODO</Harvest.reportString>
-  
-  <!-- EN: harvesting TargetA. -->
-  <HarvestDesignated.reportString>TODO</HarvestDesignated.reportString>
-  
-  <!-- EN: hauling TargetA. -->
-  <HaulToCell.reportString>TODO</HaulToCell.reportString>
-  
-  <!-- EN: hauling TargetA. -->
-  <HaulToContainer.reportString>TODO</HaulToContainer.reportString>
-  
-  <!-- EN: hunting TargetA. -->
-  <Hunt.reportString>TODO</Hunt.reportString>
-  
-  <!-- EN: kidnapping TargetA. -->
-  <Kidnap.reportString>TODO</Kidnap.reportString>
-  
-  <!-- EN: milking TargetA. -->
-  <Milk.reportString>TODO</Milk.reportString>
-  
-  <!-- EN: digging at TargetA. -->
-  <Mine.reportString>TODO</Mine.reportString>
-  
-  <!-- EN: drilling at TargetA. -->
-  <OperateDeepDrill.reportString>TODO</OperateDeepDrill.reportString>
-  
-  <!-- EN: scanning at TargetA. -->
-  <OperateScanner.reportString>TODO</OperateScanner.reportString>
-  
-  <!-- EN: building TargetA. -->
-  <PlaceNoCostFrame.reportString>TODO</PlaceNoCostFrame.reportString>
-  
-  <!-- EN: attempting to recruit TargetA. -->
-  <PrisonerAttemptRecruit.reportString>TODO</PrisonerAttemptRecruit.reportString>
+  <FixBrokenDownBuilding.reportString>înlocuiește componentele stricate din TargetA.</FixBrokenDownBuilding.reportString>
   
   <!-- EN: executing TargetA. -->
-  <PrisonerExecution.reportString>TODO</PrisonerExecution.reportString>
+  <GuiltyColonistExecution.reportString>execuția lui TargetA.</GuiltyColonistExecution.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <Harvest.reportString>recoltă TargetA.</Harvest.reportString>
+  
+  <!-- EN: harvesting TargetA. -->
+  <HarvestDesignated.reportString>recoltă TargetA.</HarvestDesignated.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToCell.reportString>transportă TargetA.</HaulToCell.reportString>
+  
+  <!-- EN: hauling TargetA. -->
+  <HaulToContainer.reportString>transportă TargetA.</HaulToContainer.reportString>
+  
+  <!-- EN: hunting TargetA. -->
+  <Hunt.reportString>vânează TargetA.</Hunt.reportString>
+  
+  <!-- EN: kidnapping TargetA. -->
+  <Kidnap.reportString>răpește TargetA.</Kidnap.reportString>
+  
+  <!-- EN: milking TargetA. -->
+  <Milk.reportString>mulge TargetA.</Milk.reportString>
+  
+  <!-- EN: digging at TargetA. -->
+  <Mine.reportString>sapă la TargetA.</Mine.reportString>
+  
+  <!-- EN: drilling at TargetA. -->
+  <OperateDeepDrill.reportString>forează la TargetA.</OperateDeepDrill.reportString>
+  
+  <!-- EN: scanning at TargetA. -->
+  <OperateScanner.reportString>scanează la TargetA.</OperateScanner.reportString>
+  
+  <!-- EN: building TargetA. -->
+  <PlaceNoCostFrame.reportString>construiește TargetA.</PlaceNoCostFrame.reportString>
+  
+  <!-- EN: attempting to recruit TargetA. -->
+  <PrisonerAttemptRecruit.reportString>încearcă să recruteze TargetA.</PrisonerAttemptRecruit.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <PrisonerExecution.reportString>execută TargetA.</PrisonerExecution.reportString>
+  
+  <!-- EN: releasing TargetA into the wild. -->
+  <ReleaseAnimalToWild.reportString>eliberând TargetA în sălbăticie.</ReleaseAnimalToWild.reportString>
   
   <!-- EN: releasing TargetA. -->
-  <ReleasePrisoner.reportString>TODO</ReleasePrisoner.reportString>
+  <ReleasePrisoner.reportString>eliberează TargetA.</ReleasePrisoner.reportString>
   
   <!-- EN: removing floor. -->
-  <RemoveFloor.reportString>TODO</RemoveFloor.reportString>
+  <RemoveFloor.reportString>îndepărtează podeaua.</RemoveFloor.reportString>
   
   <!-- EN: removing roof. -->
-  <RemoveRoof.reportString>TODO</RemoveRoof.reportString>
+  <RemoveRoof.reportString>îndepărtează acoperișul</RemoveRoof.reportString>
   
   <!-- EN: repairing TargetA. -->
-  <Repair.reportString>TODO</Repair.reportString>
+  <Repair.reportString>repară TargetA..</Repair.reportString>
+  
+  <!-- EN: replanting TargetA. -->
+  <Replant.reportString>replantând TargetA.</Replant.reportString>
   
   <!-- EN: rescuing TargetA. -->
-  <Rescue.reportString>TODO</Rescue.reportString>
+  <Rescue.reportString>salvează TargetA.</Rescue.reportString>
   
   <!-- EN: researching. -->
-  <Research.reportString>TODO</Research.reportString>
+  <Research.reportString>cercetează.</Research.reportString>
+  
+  <!-- EN: leading TargetA to hitching spot. -->
+  <RopeRoamerToHitchingPost.reportString>conducând TargetA către locul de acostare.</RopeRoamerToHitchingPost.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeRoamerToUnenclosedPen.reportString>conducând TargetA către TargetC.</RopeRoamerToUnenclosedPen.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeToPen.reportString>conducând TargetA către TargetC.</RopeToPen.reportString>
   
   <!-- EN: shearing TargetA. -->
-  <Shear.reportString>TODO</Shear.reportString>
+  <Shear.reportString>tunde TargetA.</Shear.reportString>
   
   <!-- EN: slaughtering TargetA. -->
-  <Slaughter.reportString>TODO</Slaughter.reportString>
+  <Slaughter.reportString>măcelărește TargetA.</Slaughter.reportString>
   
   <!-- EN: smoothing floor. -->
-  <SmoothFloor.reportString>TODO</SmoothFloor.reportString>
+  <SmoothFloor.reportString>netezește podelei.</SmoothFloor.reportString>
   
   <!-- EN: smoothing wall. -->
-  <SmoothWall.reportString>TODO</SmoothWall.reportString>
+  <SmoothWall.reportString>netezește peretelui.</SmoothWall.reportString>
   
   <!-- EN: sowing TargetA. -->
-  <Sow.reportString>TODO</Sow.reportString>
+  <Sow.reportString>însămânțează TargetA.</Sow.reportString>
   
   <!-- EN: stealing TargetA. -->
-  <Steal.reportString>TODO</Steal.reportString>
+  <Steal.reportString>fură TargetA.</Steal.reportString>
+  
+  <!-- EN: Studying TargetA. -->
+  <StudyThing.reportString>studiind TargetA.</StudyThing.reportString>
   
   <!-- EN: taking TargetA to bed. -->
-  <TakeToBedToOperate.reportString>TODO</TakeToBedToOperate.reportString>
+  <TakeDownedPawnToBedDrafted.reportString>ducând pe TargetA la pat.</TakeDownedPawnToBedDrafted.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeToBedToOperate.reportString>ia TargetA la culcare.</TakeToBedToOperate.reportString>
   
   <!-- EN: taking wounded prisoner TargetA. -->
-  <TakeWoundedPrisonerToBed.reportString>TODO</TakeWoundedPrisonerToBed.reportString>
+  <TakeWoundedPrisonerToBed.reportString>ia prizonierul rănit TargetA.</TakeWoundedPrisonerToBed.reportString>
   
   <!-- EN: taming TargetA. -->
-  <Tame.reportString>TODO</Tame.reportString>
+  <Tame.reportString>îmblânzește TargetA.</Tame.reportString>
   
   <!-- EN: tending to TargetA. -->
-  <TendPatient.reportString>TODO</TendPatient.reportString>
+  <TendPatient.reportString>îngrijește pe TargetA.</TendPatient.reportString>
   
   <!-- EN: training TargetA. -->
-  <Train.reportString>TODO</Train.reportString>
+  <Train.reportString>antrenează pe TargetA.</Train.reportString>
   
   <!-- EN: uninstalling TargetA. -->
-  <Uninstall.reportString>TODO</Uninstall.reportString>
+  <Uninstall.reportString>dezinstalează TargetA.</Uninstall.reportString>
+  
+  <!-- EN: unroping TargetA. -->
+  <Unrope.reportString>dezlegând pe TargetA.</Unrope.reportString>
   
   <!-- EN: using comms console. -->
-  <UseCommsConsole.reportString>TODO</UseCommsConsole.reportString>
+  <UseCommsConsole.reportString>utilizează consola de comunicații.</UseCommsConsole.reportString>
   
 </LanguageData>

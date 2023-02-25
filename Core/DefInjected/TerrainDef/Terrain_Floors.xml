@@ -2,63 +2,68 @@
 <LanguageData>
   
   <!-- EN: blue carpet -->
-  <CarpetBlue.label>TODO</CarpetBlue.label>
+  <CarpetBlue.label>covor albastru</CarpetBlue.label>
   <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
-  <CarpetBlue.description>TODO</CarpetBlue.description>
+  <CarpetBlue.description>Covor de pluș care se strânge pe degetele de la picioare într-o culoare albastră rece.</CarpetBlue.description>
   
   <!-- EN: cream carpet -->
-  <CarpetCream.label>TODO</CarpetCream.label>
+  <CarpetCream.label>covor crem</CarpetCream.label>
   <!-- EN: Inviting cream-colored carpet. -->
-  <CarpetCream.description>TODO</CarpetCream.description>
+  <CarpetCream.description>Covor primitor de culoare crem.</CarpetCream.description>
   
   <!-- EN: dark carpet -->
-  <CarpetDark.label>TODO</CarpetDark.label>
+  <CarpetDark.label>covor închis</CarpetDark.label>
   <!-- EN: Professional-looking dark gray carpet. -->
-  <CarpetDark.description>TODO</CarpetDark.description>
+  <CarpetDark.description>Covor gri închis cu aspect profesional.</CarpetDark.description>
   
   <!-- EN: green carpet -->
-  <CarpetGreen.label>TODO</CarpetGreen.label>
+  <CarpetGreen.label>covor verde</CarpetGreen.label>
   <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
-  <CarpetGreen.description>TODO</CarpetGreen.description>
+  <CarpetGreen.description>Covor verde cu aspect naturalist. Tonuri de pământ.</CarpetGreen.description>
   
   <!-- EN: red carpet -->
-  <CarpetRed.label>TODO</CarpetRed.label>
+  <CarpetRed.label>covor roșu</CarpetRed.label>
   <!-- EN: Plush carpet in a lovely rose hue. -->
-  <CarpetRed.description>TODO</CarpetRed.description>
+  <CarpetRed.description>Covor plușat într-o nuanță frumoasă de roz.</CarpetRed.description>
   
   <!-- EN: concrete -->
-  <Concrete.label>TODO</Concrete.label>
+  <Concrete.label>beton</Concrete.label>
   <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
-  <Concrete.description>TODO</Concrete.description>
+  <Concrete.description>Beton brut. Este ieftin și rapid de construit, dar este și destul de urât.</Concrete.description>
   
   <!-- EN: gold tile -->
-  <GoldTile.label>TODO</GoldTile.label>
+  <GoldTile.label>țiglă aurie</GoldTile.label>
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
-  <GoldTile.description>TODO</GoldTile.description>
+  <GoldTile.description>Pentru o extravaganță debordantă, nimic nu se compară cu gresia aurie. Sunt excepțional de scumpe și excepțional de frumoase, iar oamenii vor crede că ești excepțional de snob dacă trăiești pe ele.</GoldTile.description>
   
   <!-- EN: steel tile -->
-  <MetalTile.label>TODO</MetalTile.label>
+  <MetalTile.label>țiglă de oțel</MetalTile.label>
   <!-- EN: Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
-  <MetalTile.description>TODO</MetalTile.description>
+  <MetalTile.description>Gresie din oțel, pentru acel aspect de navă spațială. Sunt drăguțe, iar suprafața netedă a țiglei primește un bonus la curățenie.</MetalTile.description>
   
   <!-- EN: paved tile -->
-  <PavedTile.label>TODO</PavedTile.label>
+  <PavedTile.label>țiglă pavată</PavedTile.label>
   <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
-  <PavedTile.description>TODO</PavedTile.description>
+  <PavedTile.description>Plăci de beton. Ieftine, dar neutre din punct de vedere al aspectului și greu de construit.</PavedTile.description>
   
   <!-- EN: silver tile -->
-  <SilverTile.label>TODO</SilverTile.label>
+  <SilverTile.label>țiglă argintie</SilverTile.label>
   <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
-  <SilverTile.description>TODO</SilverTile.description>
+  <SilverTile.description>Pentru un aspect futurist, dar regal, gresia argintie se potrivește perfect în camerele luxoase. Acestea primesc un bonus la curățenie.</SilverTile.description>
   
   <!-- EN: sterile tile -->
-  <SterileTile.label>TODO</SterileTile.label>
+  <SterileTile.label>țiglă sterilă</SterileTile.label>
   <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
-  <SterileTile.description>TODO</SterileTile.description>
+  <SterileTile.description>Plăci sterile cu proprietăți speciale de îmbunătățire a curățeniei. Camerele foarte curate îmbunătățesc rezultatele în spitale și laboratoare de cercetare. Această țiglă se construiește foarte lent.</SterileTile.description>
+  
+  <!-- EN: straw matting -->
+  <StrawMatting.label>așternut de paie</StrawMatting.label>
+  <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
+  <StrawMatting.description>Covoraș de paie brute pentru utilizare în grajdurile de animale. Este ieftină și acceptă foarte puțină murdărie.</StrawMatting.description>
   
   <!-- EN: wood floor -->
-  <WoodPlankFloor.label>TODO</WoodPlankFloor.label>
+  <WoodPlankFloor.label>podea din lemn</WoodPlankFloor.label>
   <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
-  <WoodPlankFloor.description>TODO</WoodPlankFloor.description>
+  <WoodPlankFloor.description>Podele din scândură de lemn pentru acea senzație de căldură, de casă. Deși se așează rapid, este, de asemenea, foarte inflamabil.</WoodPlankFloor.description>
   
 </LanguageData>

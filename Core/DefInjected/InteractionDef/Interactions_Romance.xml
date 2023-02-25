@@ -2,26 +2,35 @@
 <LanguageData>
   
   <!-- EN: breakup -->
-  <Breakup.label>TODO</Breakup.label>
+  <Breakup.label>despărțire</Breakup.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break.</li>
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
-  <Breakup.logRulesInitiator.rulesStrings>TODO</Breakup.logRulesInitiator.rulesStrings>
+  <Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] i-a cerut lui [RECIPIENT_nameDef] s-o lase moartă.</li>
+    <li>r_logentry->[INITIATOR_nameDef] i-a cerut lui [RECIPIENT_nameDef] niște spațiu.</li>
+    <li>r_logentry->[INITIATOR_nameDef] i-a spus lui [RECIPIENT_nameDef] că nu prea merge.</li>
+    <li>r_logentry->[INITIATOR_nameDef] i-a spus lui [RECIPIENT_nameDef] că ar fi mai bine să se vadă cu alți oameni.</li>
+  </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
-  <MarriageProposal.label>TODO</MarriageProposal.label>
+  <MarriageProposal.label>cerere în căsătorie</MarriageProposal.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] proposed marriage to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
-  <MarriageProposal.logRulesInitiator.rulesStrings>TODO</MarriageProposal.logRulesInitiator.rulesStrings>
+  <MarriageProposal.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] a cerut în căsătorie pe [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a propus o comitere de o viață către [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a spus lui [RECIPIENT_nameDef] că [INITIATOR_pronoun] vrea să petreacă viața [INITIATOR_possessive] cu [RECIPIENT_objective].</li>
+  </MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->
-  <RomanceAttempt.label>TODO</RomanceAttempt.label>
+  <RomanceAttempt.label>încercare de romantism</RomanceAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
     <li>wooed->tried to flirt with</li>
@@ -84,6 +93,66 @@
     <li>romantic_noun(p=2)->[TerrainFeature]</li>
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
-  <RomanceAttempt.logRulesInitiator.rulesStrings>TODO</RomanceAttempt.logRulesInitiator.rulesStrings>
+  <RomanceAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] a [wooed] [RECIPIENT_nameDef] prin a [wootactic].</li>
+    <li>wooed->încercat să flirteze cu</li>
+    <li>wooed->flirtat cu</li>
+    <li>wooed->încercat să atragă pe</li>
+    <li>wooed->încercat să atragă pe</li>
+    <li>wooed->încercat să curteze pe</li>
+    <li>wooed->urmărit pe</li>
+    <li>wooed->fermecat pe</li>
+    <li>wooed->curtat pe</li>
+    <li>wootactic(p=4)->[complimenting] [PersonalCharacteristic] [RECIPIENT_possessive]</li>
+    <li>wootactic(p=2)->[boasting] propriile [INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>wootactic->spunând o poveste despre [TalkTopicAny]</li>
+    <li>wootactic->spunând o poveste despre [TalkTopicAny]</li>
+    <li>wootactic->glumind despre [TalkTopicAny]</li>
+    <li>wootactic->a face o observație despre [TalkTopicAny]</li>
+    <li>wootactic->comparând [RECIPIENT_objective] cu [romantic_noun] [romantic_adj]</li>
+    <li>wootactic->descriind [RECIPIENT_objective] ca fiind [romantic_noun] [romantic_adj]</li>
+    <li>boasting->lăudându-se cu</li>
+    <li>boasting->menționând</li>
+    <li>boasting->insinuând lucruri bune despre</li>
+    <li>boasting->exagerând</li>
+    <li>boasting->vorbind despre</li>
+    <li>boasting->atrăgând atenția spre</li>
+    <li>complimenting(p=3)->complimentând</li>
+    <li>complimenting(p=2)->făcând haz de necaz</li>
+    <li>complimenting->complimentând subtil</li>
+    <li>complimenting->lăudând</li>
+    <li>complimenting->felicitând</li>
+    <li>complimenting->spunând lucruri bune despre</li>
+    <li>complimenting->făcând glume pe seama</li>
+    <li>complimenting->complimentând pe jumătate în glumă</li>
+    <li>complimenting->punând întrebări obraznice</li>
+    <li>complimenting->făcând haz de necaz în mod vesel</li>
+    <li>romantic_adj->frumos</li>
+    <li>romantic_adj->strălucitor</li>
+    <li>romantic_adj->sclipitor</li>
+    <li>romantic_adj->ceresc</li>
+    <li>romantic_adj->auriu</li>
+    <li>romantic_adj->luminos</li>
+    <li>romantic_adj->uluitor</li>
+    <li>romantic_adj->fermecător</li>
+    <li>romantic_adj->orbitor</li>
+    <li>romantic_adj->delicat</li>
+    <li>romantic_adj->fin</li>
+    <li>romantic_adj->magnific</li>
+    <li>romantic_adj->drăguț</li>
+    <li>romantic_adj->minunat</li>
+    <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+    <li>romantic_noun->o floare</li>
+    <li>romantic_noun->un izvor</li>
+    <li>romantic_noun->un râu</li>
+    <li>romantic_noun->o stea</li>
+    <li>romantic_noun->o lună</li>
+    <li>romantic_noun->un soare</li>
+    <li>romantic_noun->o casă</li>
+    <li>romantic_noun->o auroră</li>
+    <li>romantic_noun->un copac [TreeType]</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  </RomanceAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

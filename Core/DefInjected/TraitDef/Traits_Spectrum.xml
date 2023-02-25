@@ -2,141 +2,141 @@
 <LanguageData>
   
   <!-- EN: beautiful -->
-  <Beauty.degreeDatas.beautiful.label>TODO</Beauty.degreeDatas.beautiful.label>
+  <Beauty.degreeDatas.beautiful.label>frumos</Beauty.degreeDatas.beautiful.label>
   <!-- EN: [PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth. -->
-  <Beauty.degreeDatas.beautiful.description>TODO</Beauty.degreeDatas.beautiful.description>
+  <Beauty.degreeDatas.beautiful.description>{PAWN_gender ? [PAWN_nameDef] este excepțional de frumos, cu o structură facială exotică și totuși familiară și cu o privire care impresionează. Oamenii sunt atrași de el chiar înainte ca el să deschidă gura. : [PAWN_nameDef] este excepțional de frumoasă, cu o structură facială exotică și totuși familiară și cu o privire care impresionează. Oamenii sunt atrași de ea chiar înainte ca ea să deschidă gura. }\n</Beauty.degreeDatas.beautiful.description>
   <!-- EN: pretty -->
-  <Beauty.degreeDatas.pretty.label>TODO</Beauty.degreeDatas.pretty.label>
+  <Beauty.degreeDatas.pretty.label>drăguț</Beauty.degreeDatas.pretty.label>
   <!-- EN: [PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective]. -->
-  <Beauty.degreeDatas.pretty.description>TODO</Beauty.degreeDatas.pretty.description>
+  <Beauty.degreeDatas.pretty.description>{PAWN_gender ? [PAWN_nameDef] are o față frumoasă, ceea ce îi predispune pe oameni să îl placă. : [PAWN_nameDef] are o față frumoasă, ceea ce îi predispune pe oameni să o placă. }\n</Beauty.degreeDatas.pretty.description>
   <!-- EN: ugly -->
-  <Beauty.degreeDatas.ugly.label>TODO</Beauty.degreeDatas.ugly.label>
+  <Beauty.degreeDatas.ugly.label>urât</Beauty.degreeDatas.ugly.label>
   <!-- EN: [PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions. -->
-  <Beauty.degreeDatas.ugly.description>TODO</Beauty.degreeDatas.ugly.description>
+  <Beauty.degreeDatas.ugly.description>{PAWN_gender ? [PAWN_nameDef] este oarecum urât. Acest lucru îi respinge subtil pe ceilalți în timpul interacțiunilor sociale. : [PAWN_nameDef] este oarecum urâtă. Acest lucru îi respinge subtil pe ceilalți în timpul interacțiunilor sociale. }\n</Beauty.degreeDatas.ugly.description>
   <!-- EN: staggeringly ugly -->
-  <Beauty.degreeDatas.staggeringly_ugly.label>TODO</Beauty.degreeDatas.staggeringly_ugly.label>
+  <Beauty.degreeDatas.staggeringly_ugly.label>uluitor de urât</Beauty.degreeDatas.staggeringly_ugly.label>
   <!-- EN: [PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing. -->
-  <Beauty.degreeDatas.staggeringly_ugly.description>TODO</Beauty.degreeDatas.staggeringly_ugly.description>
+  <Beauty.degreeDatas.staggeringly_ugly.description>{PAWN_gender ? [PAWN_nameDef] este uluitor de urât. Fața lui arată ca o încrucișare între un desen făcut de un copil lipsit de talent, un făt malformat într-un borcan de formaldehidă și o operă de artă modernă. Ceilalți trebuie să depună un efort conștient pentru a se uita la el în timpul conversației. : [PAWN_nameDef] este uluitor de urâtă. Fața ei arată ca o încrucișare între un desen făcut de un copil lipsit de talent, un fetus malformat într-un borcan de formaldehidă și o operă de artă modernă. Ceilalți trebuie să depună un efort conștient pentru a se uita la ea în timpul conversației. }\n</Beauty.degreeDatas.staggeringly_ugly.description>
   
   <!-- EN: chemical fascination -->
-  <DrugDesire.degreeDatas.chemical_fascination.label>TODO</DrugDesire.degreeDatas.chemical_fascination.label>
+  <DrugDesire.degreeDatas.chemical_fascination.label>fascinație chimică</DrugDesire.degreeDatas.chemical_fascination.label>
   <!-- EN: [PAWN_nameDef] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
-  <DrugDesire.degreeDatas.chemical_fascination.description>TODO</DrugDesire.degreeDatas.chemical_fascination.description>
+  <DrugDesire.degreeDatas.chemical_fascination.description>{PAWN_gender ? [PAWN_nameDef] este complet fascinat de sursele chimice de plăcere. Consumul de droguri recreaționale îi va crea o stare de bună dispoziție, în timp ce abținerea va duce la o frustrare tot mai mare în timp și, eventual, la chefuri de droguri. El va ignora directivele de a nu consuma droguri recreaționale și va consuma mai mult decât o persoană normală. : [PAWN_nameDef] este complet fascinată de sursele chimice de plăcere. Consumul de droguri recreaționale îi va crea o stare de bună dispoziție, în timp ce abținerea va duce la o frustrare tot mai mare în timp și, eventual, la chefuri de droguri. Ea va ignora directivele de a nu consuma droguri recreaționale și va consuma mai mult decât o persoană normală. }\n</DrugDesire.degreeDatas.chemical_fascination.description>
   <!-- EN: chemical interest -->
-  <DrugDesire.degreeDatas.chemical_interest.label>TODO</DrugDesire.degreeDatas.chemical_interest.label>
+  <DrugDesire.degreeDatas.chemical_interest.label>interes chimic</DrugDesire.degreeDatas.chemical_interest.label>
   <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
-  <DrugDesire.degreeDatas.chemical_interest.description>TODO</DrugDesire.degreeDatas.chemical_interest.description>
+  <DrugDesire.degreeDatas.chemical_interest.description>{PAWN_gender ? [PAWN_nameDef] are un interes neobișnuit pentru sursele chimice de plăcere. Consumul de droguri recreaționale îi va crea o stare de bună dispoziție, în timp ce abținerea va duce la o frustrare tot mai mare în timp și la posibile chefuri de droguri. El va ignora directivele de a nu consuma droguri recreative și va consuma mai mult decât o persoană normală. : [PAWN_nameDef] are un interes neobișnuit pentru sursele chimice de plăcere. Consumul de droguri recreaționale îi va crea o stare de bună dispoziție, în timp ce abținerea va duce la o frustrare tot mai mare în timp și la posibile chefuri de droguri. Ea va ignora directivele de a nu consuma droguri recreative și va consuma mai mult decât o persoană normală. }\n</DrugDesire.degreeDatas.chemical_interest.description>
   <!-- EN: teetotaler -->
-  <DrugDesire.degreeDatas.teetotaler.label>TODO</DrugDesire.degreeDatas.teetotaler.label>
+  <DrugDesire.degreeDatas.teetotaler.label>abstinent la băutură</DrugDesire.degreeDatas.teetotaler.label>
   <!-- EN: [PAWN_nameDef] abhors the idea of gaining pleasure from chemicals. [PAWN_pronoun] strictly avoids alcohol and recreational drugs. -->
-  <DrugDesire.degreeDatas.teetotaler.description>TODO</DrugDesire.degreeDatas.teetotaler.description>
+  <DrugDesire.degreeDatas.teetotaler.description>{PAWN_gender ? [PAWN_nameDef] detestă ideea de a obține plăcere din substanțe chimice. El evită cu strictețe alcoolul și drogurile recreaționale. : [PAWN_nameDef] detestă ideea de a obține plăcere din substanțe chimice. Ea evită cu strictețe alcoolul și drogurile recreative. }\n</DrugDesire.degreeDatas.teetotaler.description>
   
   <!-- EN: super-immune -->
-  <Immunity.degreeDatas.superimmune.label>TODO</Immunity.degreeDatas.superimmune.label>
+  <Immunity.degreeDatas.superimmune.label>super-imunitate</Immunity.degreeDatas.superimmune.label>
   <!-- EN: [PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others. -->
-  <Immunity.degreeDatas.superimmune.description>TODO</Immunity.degreeDatas.superimmune.description>
+  <Immunity.degreeDatas.superimmune.description>{PAWN_gender ? [PAWN_nameDef] are un sistem imunitar puternic în mod natural. El va dobândi imunitate mult mai repede decât o persoană normală și poate supraviețui unor boli care i-ar ucide pe alții. : [PAWN_nameDef] are un sistem imunitar puternic în mod natural. Ea va căpăta imunitate mult mai repede decât o persoană normală și poate supraviețui unor boli care i-ar ucide pe alții. }\n</Immunity.degreeDatas.superimmune.description>
   <!-- EN: sickly -->
-  <Immunity.degreeDatas.sickly.label>TODO</Immunity.degreeDatas.sickly.label>
+  <Immunity.degreeDatas.sickly.label>bolnăvicios</Immunity.degreeDatas.sickly.label>
   <!-- EN: [PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by. -->
-  <Immunity.degreeDatas.sickly.description>TODO</Immunity.degreeDatas.sickly.description>
+  <Immunity.degreeDatas.sickly.description>{PAWN_gender ? [PAWN_nameDef] are un sistem imunitar îngrozitor. Se îmbolnăvește mai des decât de obicei, frecvent de boli de care nimeni din colonie nu a fost afectat. : [PAWN_nameDef] are un sistem imunitar îngrozitor. Se îmbolnăvește mai des decât de obicei, frecvent cu boli de care nimeni din colonie nu a fost afectat. }\n</Immunity.degreeDatas.sickly.description>
   
   <!-- EN: industrious -->
-  <Industriousness.degreeDatas.industrious.label>TODO</Industriousness.degreeDatas.industrious.label>
+  <Industriousness.degreeDatas.industrious.label>industrious</Industriousness.degreeDatas.industrious.label>
   <!-- EN: [PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person. -->
-  <Industriousness.degreeDatas.industrious.description>TODO</Industriousness.degreeDatas.industrious.description>
+  <Industriousness.degreeDatas.industrious.description>{PAWN_gender ? Lui [PAWN_nameDef] îi este foarte ușor să rămână concentrat și concentrat, iar lucrurile se rezolvă mult mai repede decât o persoană obișnuită. : Lui [PAWN_nameDef] îi este foarte ușor să rămână concentrată și concentrată, iar lucrurile se rezolvă mult mai repede decât o persoană obișnuită. }\n</Industriousness.degreeDatas.industrious.description>
   <!-- EN: hard worker -->
-  <Industriousness.degreeDatas.hard_worker.label>TODO</Industriousness.degreeDatas.hard_worker.label>
+  <Industriousness.degreeDatas.hard_worker.label>muncitor harnic</Industriousness.degreeDatas.hard_worker.label>
   <!-- EN: [PAWN_nameDef] is a natural hard worker and will finish tasks faster than most. -->
-  <Industriousness.degreeDatas.hard_worker.description>TODO</Industriousness.degreeDatas.hard_worker.description>
+  <Industriousness.degreeDatas.hard_worker.description>{PAWN_gender ? [PAWN_nameDef] este un muncitor înnăscut și va termina sarcinile mai repede decât majoritatea. : [PAWN_nameDef] este o muncitoare înnăscută și va termina sarcinile mai repede decât majoritatea. }\n</Industriousness.degreeDatas.hard_worker.description>
   <!-- EN: lazy -->
-  <Industriousness.degreeDatas.lazy.label>TODO</Industriousness.degreeDatas.lazy.label>
+  <Industriousness.degreeDatas.lazy.label>leneș</Industriousness.degreeDatas.lazy.label>
   <!-- EN: [PAWN_nameDef] is a little bit lazy. -->
-  <Industriousness.degreeDatas.lazy.description>TODO</Industriousness.degreeDatas.lazy.description>
+  <Industriousness.degreeDatas.lazy.description>{PAWN_gender ? [PAWN_nameDef] este un pic leneș. : [PAWN_nameDef] este un pic leneșă. }\n</Industriousness.degreeDatas.lazy.description>
   <!-- EN: slothful -->
-  <Industriousness.degreeDatas.slothful.label>TODO</Industriousness.degreeDatas.slothful.label>
+  <Industriousness.degreeDatas.slothful.label>leneș</Industriousness.degreeDatas.slothful.label>
   <!-- EN: [PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task. -->
-  <Industriousness.degreeDatas.slothful.description>TODO</Industriousness.degreeDatas.slothful.description>
+  <Industriousness.degreeDatas.slothful.description>{PAWN_gender ? [PAWN_nameDef] iubește lenea și urăște orice lucru productiv. Se mișcă încet și rareori rămâne concentrat asupra unei sarcini. : [PAWN_nameDef] iubește lenea și urăște orice lucru productiv. Ea se mișcă încet și rareori rămâne concentrată asupra unei sarcini. }\n</Industriousness.degreeDatas.slothful.description>
   
   <!-- EN: sanguine -->
-  <NaturalMood.degreeDatas.sanguine.label>TODO</NaturalMood.degreeDatas.sanguine.label>
+  <NaturalMood.degreeDatas.sanguine.label>sangvin</NaturalMood.degreeDatas.sanguine.label>
   <!-- EN: [PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is. -->
-  <NaturalMood.degreeDatas.sanguine.description>TODO</NaturalMood.degreeDatas.sanguine.description>
+  <NaturalMood.degreeDatas.sanguine.description>{PAWN_gender ? [PAWN_nameDef] este în mod natural optimist în legătură cu situația sa, cam tot timpul, indiferent despre ce este vorba. : [PAWN_nameDef] este în mod natural optimistă în legătură cu situația ei, cam tot timpul, indiferent de ce este. }\n</NaturalMood.degreeDatas.sanguine.description>
   <!-- EN: optimist -->
-  <NaturalMood.degreeDatas.optimist.label>TODO</NaturalMood.degreeDatas.optimist.label>
+  <NaturalMood.degreeDatas.optimist.label>optimist</NaturalMood.degreeDatas.optimist.label>
   <!-- EN: [PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down. -->
-  <NaturalMood.degreeDatas.optimist.description>TODO</NaturalMood.degreeDatas.optimist.description>
+  <NaturalMood.degreeDatas.optimist.description>{PAWN_gender ? [PAWN_nameDef] este în mod natural optimist în ceea ce privește viața. Este greu să îl deprimăm. : [PAWN_nameDef] este în mod natural optimistă în ceea ce privește viața. Este greu să o deprimăm. }\n</NaturalMood.degreeDatas.optimist.description>
   <!-- EN: pessimist -->
-  <NaturalMood.degreeDatas.pessimist.label>TODO</NaturalMood.degreeDatas.pessimist.label>
+  <NaturalMood.degreeDatas.pessimist.label>pesimist</NaturalMood.degreeDatas.pessimist.label>
   <!-- EN: [PAWN_nameDef] tends to look on the bad side of life. -->
-  <NaturalMood.degreeDatas.pessimist.description>TODO</NaturalMood.degreeDatas.pessimist.description>
+  <NaturalMood.degreeDatas.pessimist.description>{PAWN_gender ? [PAWN_nameDef] tinde să privească partea proastă a vieții. : [PAWN_nameDef] tinde să privească partea proastă a vieții. }\n</NaturalMood.degreeDatas.pessimist.description>
   <!-- EN: depressive -->
-  <NaturalMood.degreeDatas.depressive.label>TODO</NaturalMood.degreeDatas.depressive.label>
+  <NaturalMood.degreeDatas.depressive.label>depresiv</NaturalMood.degreeDatas.depressive.label>
   <!-- EN: [PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine. -->
-  <NaturalMood.degreeDatas.depressive.description>TODO</NaturalMood.degreeDatas.depressive.description>
+  <NaturalMood.degreeDatas.depressive.description>{PAWN_gender ? [PAWN_nameDef] este permanent nefericit. Are dificultăți în a menține o stare de bună dispoziție chiar și atunci când totul este bine. : [PAWN_nameDef] este permanent nefericită. Îi este greu să mențină o stare de bună dispoziție chiar și atunci când totul este bine. }\n</NaturalMood.degreeDatas.depressive.description>
   
   <!-- EN: iron-willed -->
-  <Nerves.degreeDatas.ironwilled.label>TODO</Nerves.degreeDatas.ironwilled.label>
+  <Nerves.degreeDatas.ironwilled.label>voință de fier</Nerves.degreeDatas.ironwilled.label>
   <!-- EN: [PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before. -->
-  <Nerves.degreeDatas.ironwilled.description>TODO</Nerves.degreeDatas.ironwilled.description>
+  <Nerves.degreeDatas.ironwilled.description>{PAWN_gender ? Voința lui [PAWN_nameDef] este un scut de fier. El continuă să meargă la bine și la greu, când alții au cedat cu mult timp înainte. : Voința lui [PAWN_nameDef] este un scut de fier. Ea continuă să meargă la bine și la rău, când alții au cedat cu mult timp înainte. }\n</Nerves.degreeDatas.ironwilled.description>
   <!-- EN: steadfast -->
-  <Nerves.degreeDatas.steadfast.label>TODO</Nerves.degreeDatas.steadfast.label>
+  <Nerves.degreeDatas.steadfast.label>fermitate</Nerves.degreeDatas.steadfast.label>
   <!-- EN: [PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people. -->
-  <Nerves.degreeDatas.steadfast.description>TODO</Nerves.degreeDatas.steadfast.description>
+  <Nerves.degreeDatas.steadfast.description>{PAWN_gender ? [PAWN_nameDef] este rezistent din punct de vedere mental și nu cedează în fața unor stresuri care i-ar face pe majoritatea oamenilor să cedeze. : [PAWN_nameDef] este rezistentă din punct de vedere mental și nu cedează în fața unor stresuri care i-ar face pe majoritatea oamenilor să cedeze. }\n</Nerves.degreeDatas.steadfast.description>
   <!-- EN: nervous -->
-  <Nerves.degreeDatas.nervous.label>TODO</Nerves.degreeDatas.nervous.label>
+  <Nerves.degreeDatas.nervous.label>tensionat</Nerves.degreeDatas.nervous.label>
   <!-- EN: [PAWN_nameDef] tends to crack under pressure. -->
-  <Nerves.degreeDatas.nervous.description>TODO</Nerves.degreeDatas.nervous.description>
+  <Nerves.degreeDatas.nervous.description>{PAWN_gender ? [PAWN_nameDef] are tendința de a ceda sub presiune. : [PAWN_nameDef] are tendința de a ceda sub presiune. }\n</Nerves.degreeDatas.nervous.description>
   <!-- EN: volatile -->
-  <Nerves.degreeDatas.volatile.label>TODO</Nerves.degreeDatas.volatile.label>
+  <Nerves.degreeDatas.volatile.label>Volatil</Nerves.degreeDatas.volatile.label>
   <!-- EN: [PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation. -->
-  <Nerves.degreeDatas.volatile.description>TODO</Nerves.degreeDatas.volatile.description>
+  <Nerves.degreeDatas.volatile.description>{PAWN_gender ? [PAWN_nameDef] este tot timpul pe muchie de cuțit. El este primul care cedează în orice situație dificilă. : [PAWN_nameDef] este tot timpul pe muchie de cuțit. Ea este prima care cedează în orice situație dificilă. }\n</Nerves.degreeDatas.volatile.description>
   
   <!-- EN: neurotic -->
-  <Neurotic.degreeDatas.neurotic.label>TODO</Neurotic.degreeDatas.neurotic.label>
+  <Neurotic.degreeDatas.neurotic.label>nevrotic</Neurotic.degreeDatas.neurotic.label>
   <!-- EN: [PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective]. -->
-  <Neurotic.degreeDatas.neurotic.description>TODO</Neurotic.degreeDatas.neurotic.description>
+  <Neurotic.degreeDatas.neurotic.description>{PAWN_gender ? Lui [PAWN_nameDef] îi place să aibă lucrurile puse la punct. El va munci mai mult decât majoritatea pentru a atinge această stare de lucruri, dar nervii săi pot să îl copleșească. : Lui [PAWN_nameDef] îi place să aibă lucrurile în ordine. Ea va munci mai mult decât majoritatea pentru a atinge această stare de lucruri, dar nervii ei pot să o copleșească. }\n</Neurotic.degreeDatas.neurotic.description>
   <!-- EN: very neurotic -->
-  <Neurotic.degreeDatas.very_neurotic.label>TODO</Neurotic.degreeDatas.very_neurotic.label>
+  <Neurotic.degreeDatas.very_neurotic.label>foarte nevrotic</Neurotic.degreeDatas.very_neurotic.label>
   <!-- EN: [PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective]. -->
-  <Neurotic.degreeDatas.very_neurotic.description>TODO</Neurotic.degreeDatas.very_neurotic.description>
+  <Neurotic.degreeDatas.very_neurotic.description>{PAWN_gender ? [PAWN_nameDef] se simte în permanență nervos în legătură cu tot ceea ce trebuie să facă. El va munci extrem de mult pentru a atinge această stare de lucruri, dar nervii săi pot obține cu ușurință ce e mai bun din el. : [PAWN_nameDef] se simte în permanență nervoasă în legătură cu tot ceea ce trebuie să facă. Ea va munci extrem de mult pentru a atinge această stare de lucruri, dar nervii ei pot obține cu ușurință ce e mai bun din ea. }\n</Neurotic.degreeDatas.very_neurotic.description>
   
   <!-- EN: psychically hypersensitive -->
-  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>TODO</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>hipersensibil psihic</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>TODO</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>{PAWN_gender ? Mintea lui [PAWN_nameDef] este ca un diapazon psihic. El este extrem de sensibil la fenomenele psihice. : Mintea lui [PAWN_nameDef] este ca un diapazon psihic. Ea este extrem de sensibilă la fenomenele psihice. }\n</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
   <!-- EN: psychically sensitive -->
-  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>TODO</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>sensibil psihic</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>TODO</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>{PAWN_gender ? Mintea lui [PAWN_nameDef] este neobișnuit de sensibilă la fenomenele psihice. : Mintea lui [PAWN_nameDef] este neobișnuit de sensibilă la fenomenele psihice. }\n</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
   <!-- EN: psychically dull -->
-  <PsychicSensitivity.degreeDatas.psychically_dull.label>TODO</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>psihic anost</PsychicSensitivity.degreeDatas.psychically_dull.label>
   <!-- EN: [PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_dull.description>TODO</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>{PAWN_gender ? Mintea lui [PAWN_nameDef] nu este în ton cu ceilalți din punct de vedere psihic. El nu este la fel de afectat de fenomenele psihice. : Mintea lui [PAWN_nameDef] nu este în ton cu ceilalți din punct de vedere psihic. Ea nu este la fel de afectată de fenomenele psihice. }\n</PsychicSensitivity.degreeDatas.psychically_dull.description>
   <!-- EN: psychically deaf -->
-  <PsychicSensitivity.degreeDatas.psychically_deaf.label>TODO</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>psihic surd</PsychicSensitivity.degreeDatas.psychically_deaf.label>
   <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_deaf.description>TODO</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>{PAWN_gender ? Mintea lui [PAWN_nameDef] funcționează pe o frecvență psihică diferită de a celorlalți. Pur și simplu nu este afectat de fenomenele psihice. : Mintea lui [PAWN_nameDef] funcționează pe o frecvență psihică diferită de a celorlalți. Ea nu este afectată de fenomenele psihice. }\n</PsychicSensitivity.degreeDatas.psychically_deaf.description>
   
   <!-- EN: careful shooter -->
-  <ShootingAccuracy.degreeDatas.careful_shooter.label>TODO</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>trăgător atent</ShootingAccuracy.degreeDatas.careful_shooter.label>
   <!-- EN: [PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy. -->
-  <ShootingAccuracy.degreeDatas.careful_shooter.description>TODO</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>{PAWN_gender ? Lui [PAWN_nameDef] îi ia mai mult timp să țintească atunci când trage. El trage mai rar decât ceilalți, dar cu mai multă precizie. : [PAWN_nameDef] are nevoie de mai mult timp pentru a ținti atunci când trage. Ea trage mai rar decât ceilalți, dar cu mai multă precizie. }\n</ShootingAccuracy.degreeDatas.careful_shooter.description>
   <!-- EN: trigger-happy -->
-  <ShootingAccuracy.degreeDatas.triggerhappy.label>TODO</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>trăgător-gargară</ShootingAccuracy.degreeDatas.triggerhappy.label>
   <!-- EN: Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately. -->
-  <ShootingAccuracy.degreeDatas.triggerhappy.description>TODO</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>{PAWN_gender ? Pew! Pew! Pew! Lui [PAWN_nameDef] îi place să apese pe trăgaci. Trage mai repede decât ceilalți, dar cu mai puțină precizie. : Pew! Pew! Pew! Lui [PAWN_nameDef] îi place să apese pe trăgaci. Trage mai repede decât ceilalți, dar cu mai puțină precizie. }\n</ShootingAccuracy.degreeDatas.triggerhappy.description>
   
   <!-- EN: slowpoke -->
-  <SpeedOffset.degreeDatas.slowpoke.label>TODO</SpeedOffset.degreeDatas.slowpoke.label>
+  <SpeedOffset.degreeDatas.slowpoke.label>lent</SpeedOffset.degreeDatas.slowpoke.label>
   <!-- EN: [PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere. -->
-  <SpeedOffset.degreeDatas.slowpoke.description>TODO</SpeedOffset.degreeDatas.slowpoke.description>
+  <SpeedOffset.degreeDatas.slowpoke.description>{PAWN_gender ? [PAWN_nameDef] rămâne mereu în urma grupului ori de câte ori merge undeva. : [PAWN_nameDef] rămâne mereu în urma grupului ori de câte ori merge undeva. }\n</SpeedOffset.degreeDatas.slowpoke.description>
   <!-- EN: fast walker -->
-  <SpeedOffset.degreeDatas.fast_walker.label>TODO</SpeedOffset.degreeDatas.fast_walker.label>
+  <SpeedOffset.degreeDatas.fast_walker.label>mers rapid</SpeedOffset.degreeDatas.fast_walker.label>
   <!-- EN: [PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people. -->
-  <SpeedOffset.degreeDatas.fast_walker.description>TODO</SpeedOffset.degreeDatas.fast_walker.description>
+  <SpeedOffset.degreeDatas.fast_walker.description>{PAWN_gender ? Lui [PAWN_nameDef] îi place să fie acolo unde se duce. Merge mai repede decât majoritatea oamenilor. : Lui [PAWN_nameDef] îi place să fie acolo unde se duce. Ea merge mai repede decât majoritatea oamenilor. }\n</SpeedOffset.degreeDatas.fast_walker.description>
   <!-- EN: jogger -->
-  <SpeedOffset.degreeDatas.jogger.label>TODO</SpeedOffset.degreeDatas.jogger.label>
+  <SpeedOffset.degreeDatas.jogger.label>alergător</SpeedOffset.degreeDatas.jogger.label>
   <!-- EN: [PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up. -->
-  <SpeedOffset.degreeDatas.jogger.description>TODO</SpeedOffset.degreeDatas.jogger.description>
+  <SpeedOffset.degreeDatas.jogger.description>{PAWN_gender ? [PAWN_nameDef] se mișcă întotdeauna cu un sentiment de urgență - atât de mult încât ceilalți adesea nu reușesc să țină pasul. : [PAWN_nameDef] se mișcă întotdeauna cu un sentiment de urgență - atât de mult încât ceilalți adesea nu reușesc să țină pasul. }</SpeedOffset.degreeDatas.jogger.description>
   
 </LanguageData>

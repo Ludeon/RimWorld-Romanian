@@ -2,39 +2,44 @@
 <LanguageData>
   
   <!-- EN: brain -->
-  <Brain.label>TODO</Brain.label>
+  <Brain.label>creier</Brain.label>
   
   <!-- EN: ear -->
-  <Ear.label>TODO</Ear.label>
+  <Ear.label>ureche</Ear.label>
   
   <!-- EN: eye -->
-  <Eye.label>TODO</Eye.label>
+  <Eye.label>ochi</Eye.label>
   
   <!-- EN: foot -->
-  <Foot.label>TODO</Foot.label>
+  <Foot.label>talpă</Foot.label>
   
   <!-- EN: head -->
-  <Head.label>TODO</Head.label>
+  <Head.label>cap</Head.label>
   
   <!-- EN: jaw -->
-  <Jaw.label>TODO</Jaw.label>
+  <Jaw.label>maxilar</Jaw.label>
   
   <!-- EN: leg -->
-  <Leg.label>TODO</Leg.label>
+  <Leg.label>picior</Leg.label>
   
   <!-- EN: neck -->
-  <Neck.label>TODO</Neck.label>
+  <Neck.label>gât</Neck.label>
   
   <!-- EN: nose -->
-  <Nose.label>TODO</Nose.label>
+  <Nose.label>nas</Nose.label>
   
   <!-- EN: ribcage -->
-  <Ribcage.label>TODO</Ribcage.label>
+  <Ribcage.label>cutie toracică</Ribcage.label>
   
   <!-- EN: skull -->
-  <Skull.label>TODO</Skull.label>
+  <Skull.label>craniu</Skull.label>
   
   <!-- EN: spine -->
-  <Spine.label>TODO</Spine.label>
+  <Spine.label>coloană vertebrală</Spine.label>
+  
+  <!-- EN: tongue -->
+  <Tongue.label>limbă</Tongue.label>
+  <!-- EN: remove -->
+  <Tongue.removeRecipeLabelOverride>extrage</Tongue.removeRecipeLabelOverride>
   
 </LanguageData>

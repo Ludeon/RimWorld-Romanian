@@ -2,67 +2,67 @@
 <LanguageData>
   
   <!-- EN: rest effectiveness -->
-  <BedRestEffectiveness.label>TODO</BedRestEffectiveness.label>
+  <BedRestEffectiveness.label>eficiența odihnei</BedRestEffectiveness.label>
   <!-- EN: How fast people sleeping on this gain rest. -->
-  <BedRestEffectiveness.description>TODO</BedRestEffectiveness.description>
+  <BedRestEffectiveness.description>Cât de repede se odihnesc persoanele care dorm pe acest pat.</BedRestEffectiveness.description>
   
   <!-- EN: door opening speed -->
-  <DoorOpenSpeed.label>TODO</DoorOpenSpeed.label>
+  <DoorOpenSpeed.label>viteza de deschidere a ușii</DoorOpenSpeed.label>
   <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
-  <DoorOpenSpeed.description>TODO</DoorOpenSpeed.description>
+  <DoorOpenSpeed.description>Viteza cu care se deschide ușa atunci când nu este alimentată.\n\nUșile lente vor încetini pe toți cei care le folosesc.</DoorOpenSpeed.description>
   
   <!-- EN: immunity gain speed factor -->
-  <ImmunityGainSpeedFactor.label>TODO</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.label>factor de viteză de imunizare</ImmunityGainSpeedFactor.label>
   <!-- EN: Immunity gain speed is multiplied by this value. -->
-  <ImmunityGainSpeedFactor.description>TODO</ImmunityGainSpeedFactor.description>
+  <ImmunityGainSpeedFactor.description>Viteza de câștig a imunității este înmulțită cu această valoare.</ImmunityGainSpeedFactor.description>
   
   <!-- EN: recreation power -->
-  <JoyGainFactor.label>TODO</JoyGainFactor.label>
+  <JoyGainFactor.label>puterea de recreere</JoyGainFactor.label>
   <!-- EN: How effectively this item entertains people and fulfills the need for recreation. -->
-  <JoyGainFactor.description>TODO</JoyGainFactor.description>
+  <JoyGainFactor.description>Cât de eficient este acest obiect pentru a distra oamenii și pentru a satisface nevoia de recreere.</JoyGainFactor.description>
   
   <!-- EN: medical tend quality offset -->
-  <MedicalTendQualityOffset.label>TODO</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.label>decalaj de calitate pentru îngrijirea medicală</MedicalTendQualityOffset.label>
   <!-- EN: Medical tend quality is offset by this value. -->
-  <MedicalTendQualityOffset.description>TODO</MedicalTendQualityOffset.description>
+  <MedicalTendQualityOffset.description>Calitatea îngrijirii medicale este compensată cu această valoare.</MedicalTendQualityOffset.description>
   
   <!-- EN: research speed factor -->
-  <ResearchSpeedFactor.label>TODO</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.label>factor de viteză de cercetare</ResearchSpeedFactor.label>
   <!-- EN: The speed at which people do research is multiplied by this value. -->
-  <ResearchSpeedFactor.description>TODO</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.description>Viteza cu care oamenii fac cercetare este înmulțită cu această valoare.</ResearchSpeedFactor.description>
   <!-- EN: Room cleanliness -->
-  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>TODO</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Curățenia camerei</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: surgery success chance factor -->
-  <SurgerySuccessChanceFactor.label>TODO</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.label>factor de șansă de succes al operației</SurgerySuccessChanceFactor.label>
   <!-- EN: A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
-  <SurgerySuccessChanceFactor.description>TODO</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.description>Un multiplicator al șansei ca o operație să reușească atunci când este efectuată aici.\n\nȘansele de succes ale unei operații chirurgicale sunt afectate și de mulți alți factori, inclusiv de abilitatea chirurgului și de medicamentele folosite.</SurgerySuccessChanceFactor.description>
   <!-- EN: Room cleanliness -->
-  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>TODO</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
+  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>Curățenia camerei</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
   
   <!-- EN: trap melee damage -->
-  <TrapMeleeDamage.label>TODO</TrapMeleeDamage.label>
+  <TrapMeleeDamage.label>Daune corp la corp ale capcanei</TrapMeleeDamage.label>
   <!-- EN: How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly. -->
-  <TrapMeleeDamage.description>TODO</TrapMeleeDamage.description>
+  <TrapMeleeDamage.description>Câte pagube face în medie această capcană.\nPagubele reale în orice caz vor varia aleatoriu.</TrapMeleeDamage.description>
   
   <!-- EN: trap spring chance -->
-  <TrapSpringChance.label>TODO</TrapSpringChance.label>
+  <TrapSpringChance.label>șansa de declanșare a capcanei</TrapSpringChance.label>
   <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
-  <TrapSpringChance.description>TODO</TrapSpringChance.description>
+  <TrapSpringChance.description>Probabilitatea ca această capcană să se declanșeze atunci când o creatură neștiutoare trece peste ea.</TrapSpringChance.description>
   
   <!-- EN: work efficiency factor -->
-  <WorkTableEfficiencyFactor.label>TODO</WorkTableEfficiencyFactor.label>
+  <WorkTableEfficiencyFactor.label>factor de eficiență a muncii</WorkTableEfficiencyFactor.label>
   <!-- EN: Work efficiency is multiplied by this value. -->
-  <WorkTableEfficiencyFactor.description>TODO</WorkTableEfficiencyFactor.description>
+  <WorkTableEfficiencyFactor.description>Eficiența muncii se înmulțește cu această valoare.</WorkTableEfficiencyFactor.description>
   
   <!-- EN: work speed factor -->
-  <WorkTableWorkSpeedFactor.label>TODO</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.label>factor de viteză de lucru</WorkTableWorkSpeedFactor.label>
   <!-- EN: Work speed is multiplied by this value. -->
-  <WorkTableWorkSpeedFactor.description>TODO</WorkTableWorkSpeedFactor.description>
+  <WorkTableWorkSpeedFactor.description>Viteza de lucru se înmulțește cu această valoare.</WorkTableWorkSpeedFactor.description>
   
   <!-- EN: work to build -->
-  <WorkToBuild.label>TODO</WorkToBuild.label>
-  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
-  <WorkToBuild.description>TODO</WorkToBuild.description>
+  <WorkToBuild.label>muncă pentru construcție</WorkToBuild.label>
+  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered.\n\nThe work required to deconstruct the structure is also based on this. -->
+  <WorkToBuild.description>Cantitatea de bază de muncă necesară pentru a construi o structură, odată ce toate materialele sunt adunate.\n\nLucrările necesare pentru a deconstrui structura se bazează, de asemenea, pe acest lucru.</WorkToBuild.description>
   
 </LanguageData>

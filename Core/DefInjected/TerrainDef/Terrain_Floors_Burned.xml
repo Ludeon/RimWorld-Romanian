@@ -2,13 +2,18 @@
 <LanguageData>
   
   <!-- EN: burned carpet -->
-  <BurnedCarpet.label>TODO</BurnedCarpet.label>
+  <BurnedCarpet.label>covor ars</BurnedCarpet.label>
   <!-- EN: Burned-out carpet. -->
-  <BurnedCarpet.description>TODO</BurnedCarpet.description>
+  <BurnedCarpet.description>Covor ars.</BurnedCarpet.description>
+  
+  <!-- EN: burned straw matting -->
+  <BurnedStrawMatting.label>așternut de paie arse</BurnedStrawMatting.label>
+  <!-- EN: Straw matting that has been burned in a fire. -->
+  <BurnedStrawMatting.description>Covor de paie care a fost ars într-un incendiu.</BurnedStrawMatting.description>
   
   <!-- EN: burned wood floor -->
-  <BurnedWoodPlankFloor.label>TODO</BurnedWoodPlankFloor.label>
+  <BurnedWoodPlankFloor.label>podea din lemn arsă</BurnedWoodPlankFloor.label>
   <!-- EN: Burned-out wood plank flooring. -->
-  <BurnedWoodPlankFloor.description>TODO</BurnedWoodPlankFloor.description>
+  <BurnedWoodPlankFloor.description>Podele din scândură de lemn arse.</BurnedWoodPlankFloor.description>
   
 </LanguageData>

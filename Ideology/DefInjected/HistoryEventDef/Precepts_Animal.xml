@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate venerated animal meat -->
+  <AteVeneratedAnimalMeat.label>a mâncat carne de animale venerate</AteVeneratedAnimalMeat.label>
+  
+  <!-- EN: hunted venerated animal -->
+  <HuntedVeneratedAnimal.label>a vânat animal venerat</HuntedVeneratedAnimal.label>
+  
+  <!-- EN: slaughtered venerated animal -->
+  <SlaughteredVeneratedAnimal.label>a sacrificat animal venerat</SlaughteredVeneratedAnimal.label>
+  
+  <!-- EN: tame venerated animal died -->
+  <TameVeneratedAnimalDied.label>animal venerat îmblânzit a murit</TameVeneratedAnimalDied.label>
+  
+</LanguageData>

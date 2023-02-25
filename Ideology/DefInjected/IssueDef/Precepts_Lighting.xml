@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: combat in darkness -->
+  <DarknessCombat.label>luptă în întuneric</DarknessCombat.label>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>eclipsă</Eclipse.label>
+  
+  <!-- EN: lighting -->
+  <Lighting.label>iluminare</Lighting.label>
+  
+</LanguageData>

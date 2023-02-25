@@ -2,64 +2,64 @@
 <LanguageData>
   
   <!-- EN: climate adjustment -->
-  <ClimateAdjustment.label>TODO</ClimateAdjustment.label>
+  <ClimateAdjustment.label>ajustare climatică</ClimateAdjustment.label>
   <!-- EN: A nearby climate adjuster is shifting the temperature. -->
-  <ClimateAdjustment.description>TODO</ClimateAdjustment.description>
+  <ClimateAdjustment.description>Un ajustor climatic din apropiere schimbă temperatura.</ClimateAdjustment.description>
   <!-- EN: A climate adjuster machine has begun shifting the temperature. -->
-  <ClimateAdjustment.letterText>TODO</ClimateAdjustment.letterText>
+  <ClimateAdjustment.letterText>O mașină de reglare a climei a început să schimbe temperatura.</ClimateAdjustment.letterText>
   
   <!-- EN: EMI field -->
-  <EMIField.label>TODO</EMIField.label>
+  <EMIField.label>câmp EMI</EMIField.label>
   <!-- EN: An electromagnetic interference dynamo is projecting an EM interference field, disabling electrical devices. -->
-  <EMIField.description>TODO</EMIField.description>
+  <EMIField.description>Un dinam de interferență electromagnetică proiectează un câmp de interferență EM, dezactivând dispozitivele electrice.</EMIField.description>
   <!-- EN: a distant EMI dynamo will blast [map_definite] with an EMI field, shutting down electrical devices for [gameConditionDuration_duration] -->
-  <EMIField.descriptionFuture>TODO</EMIField.descriptionFuture>
+  <EMIField.descriptionFuture>un dinam de interferențe electromagnetice îndepărtate va arunca în aer [map_definite] cu un câmp de interferențe electromagnetice, oprind dispozitivele electrice pentru [gameConditionDuration_duration].</EMIField.descriptionFuture>
   <!-- EN: The EMI field has disappeared. -->
-  <EMIField.endMessage>TODO</EMIField.endMessage>
+  <EMIField.endMessage>Câmpul EMI a dispărut.</EMIField.endMessage>
   <!-- EN: An EMI field has been generated. It is disabling electrical devices. -->
-  <EMIField.letterText>TODO</EMIField.letterText>
+  <EMIField.letterText>A fost generat un câmp EMI. Acesta dezactivează dispozitivele electrice.</EMIField.letterText>
   
   <!-- EN: giant smoke cloud -->
-  <GiantSmokeCloud.label>TODO</GiantSmokeCloud.label>
+  <GiantSmokeCloud.label>nor de fum uriaș</GiantSmokeCloud.label>
   <!-- EN: A nearby smoke spewer is reducing sunlight in this region. -->
-  <GiantSmokeCloud.description>TODO</GiantSmokeCloud.description>
+  <GiantSmokeCloud.description>O gură de fum din apropiere reduce lumina soarelui în această regiune.</GiantSmokeCloud.description>
   <!-- EN: A smoke spewer machine has begun obscuring the sun. -->
-  <GiantSmokeCloud.letterText>TODO</GiantSmokeCloud.letterText>
+  <GiantSmokeCloud.letterText>Un utilaj care aruncă fum a început să întunece soarele.</GiantSmokeCloud.letterText>
   
   <!-- EN: psychic suppression -->
-  <PsychicSuppression.label>TODO</PsychicSuppression.label>
+  <PsychicSuppression.label>suprimare psihică</PsychicSuppression.label>
   <!-- EN: A psychic suppression field is affecting {0}s and reducing their consciousness. The effect is modulated by an individual's psychic sensitivity. -->
-  <PsychicSuppression.description>TODO</PsychicSuppression.description>
+  <PsychicSuppression.description>Un câmp de suprimare psihică afectează {0}s și le reduce conștiința. Efectul este modulat de sensibilitatea psihică a individului.</PsychicSuppression.description>
   <!-- EN: a psychic suppression wave will reduce the consciousness of all [psychicSuppressorGender]s around [map_definite] for [gameConditionDuration_duration] -->
-  <PsychicSuppression.descriptionFuture>TODO</PsychicSuppression.descriptionFuture>
+  <PsychicSuppression.descriptionFuture>un val de suprimare psihică va reduce conștiința tuturor [psychicSuppressorGender]ilor din jurul [map_definite] pentru [gameConditionDuration_duration].</PsychicSuppression.descriptionFuture>
   <!-- EN: The psychic suppressor field has dissipated. -->
-  <PsychicSuppression.endMessage>TODO</PsychicSuppression.endMessage>
+  <PsychicSuppression.endMessage>Câmpul supresorului psihic s-a disipat.</PsychicSuppression.endMessage>
   <!-- EN: A psychic suppressor field has begun reducing the consciousness of {0}s across the whole region. The effect is modulated by an individual's psychic sensitivity. -->
-  <PsychicSuppression.letterText>TODO</PsychicSuppression.letterText>
+  <PsychicSuppression.letterText>Un câmp de suprimare psihică a început să reducă conștiința celor {0} din întreaga regiune. Efectul este modulat de sensibilitatea psihică a unui individ.</PsychicSuppression.letterText>
   
   <!-- EN: sun blocked -->
-  <SunBlocker.label>TODO</SunBlocker.label>
+  <SunBlocker.label>soare blocat</SunBlocker.label>
   <!-- EN: A nearby sun blocker machine is turning the upper atmosphere opaque, blocking the sun. -->
-  <SunBlocker.description>TODO</SunBlocker.description>
+  <SunBlocker.description>O mașină de blocare a soarelui din apropiere face ca atmosfera superioară să devină opacă, blocând soarele.</SunBlocker.description>
   <!-- EN: A sun blocker machine has begun blocking the sun. -->
-  <SunBlocker.letterText>TODO</SunBlocker.letterText>
+  <SunBlocker.letterText>Un aparat de blocare a soarelui a început să blocheze soarele.</SunBlocker.letterText>
   
   <!-- EN: toxic spewer -->
-  <ToxicSpewer.label>TODO</ToxicSpewer.label>
+  <ToxicSpewer.label>deversor toxic</ToxicSpewer.label>
   <!-- EN: A nearby toxic spewer is blanketing this whole region with poison. -->
-  <ToxicSpewer.description>TODO</ToxicSpewer.description>
+  <ToxicSpewer.description>Un torent toxic din apropiere acoperă întreaga regiune cu otravă.</ToxicSpewer.description>
   <!-- EN: A toxic spewer machine has begun blanketing the whole region with poison. -->
-  <ToxicSpewer.letterText>TODO</ToxicSpewer.letterText>
+  <ToxicSpewer.letterText>Un utilaj de vărsare toxică a început să acopere întreaga regiune cu otravă.</ToxicSpewer.letterText>
   
   <!-- EN: forced weather -->
-  <WeatherController.label>TODO</WeatherController.label>
+  <WeatherController.label>vreme forțată</WeatherController.label>
   <!-- EN: A nearby weather controller is forcing the weather into this configuration. -->
-  <WeatherController.description>TODO</WeatherController.description>
+  <WeatherController.description>Un controlor meteo din apropiere forțează vremea în această configurație.</WeatherController.description>
   <!-- EN: a weather-control system will force the weather around [map_definite] to be [forcedWeather_indefinite] for [gameConditionDuration_duration] -->
-  <WeatherController.descriptionFuture>TODO</WeatherController.descriptionFuture>
+  <WeatherController.descriptionFuture>un sistem de control al vremii va forța vremea din jurul [map_definite] să fie [forcedWeather_indefinite] pentru [gameConditionDuration_duration].</WeatherController.descriptionFuture>
   <!-- EN: The weather controller is no longer changing the weather. -->
-  <WeatherController.endMessage>TODO</WeatherController.endMessage>
+  <WeatherController.endMessage>Controlerul meteo nu mai modifică vremea.</WeatherController.endMessage>
   <!-- EN: A weather controller machine has begun affecting the weather. -->
-  <WeatherController.letterText>TODO</WeatherController.letterText>
+  <WeatherController.letterText>O mașinărie de control al vremii a început să afecteze vremea.</WeatherController.letterText>
   
 </LanguageData>

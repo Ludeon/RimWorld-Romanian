@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: infinite chemreactor -->
-  <InfiniteChemreactor.label>TODO</InfiniteChemreactor.label>
+  <InfiniteChemreactor.label>chimereactor infinit</InfiniteChemreactor.label>
   <!-- EN: Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air. -->
-  <InfiniteChemreactor.description>TODO</InfiniteChemreactor.description>
+  <InfiniteChemreactor.description>Generează lent combustibil chimic printr-o serie complexă de reacții chimice, folosind atomi extrași din aer.</InfiniteChemreactor.description>
   
   <!-- EN: psychic emanator -->
-  <PsychicEmanator.label>TODO</PsychicEmanator.label>
+  <PsychicEmanator.label>emanator psihic</PsychicEmanator.label>
   <!-- EN: An ancient device that projects a soothing psychic field around itself. This improves the mood of anyone nearby. Works through walls. -->
-  <PsychicEmanator.description>TODO</PsychicEmanator.description>
+  <PsychicEmanator.description>Un dispozitiv antic care proiectează un câmp psihic liniștitor în jurul său. Acesta îmbunătățește starea de spirit a tuturor celor din apropiere. Funcționează prin pereți.</PsychicEmanator.description>
   
   <!-- EN: vanometric power cell -->
-  <VanometricPowerCell.label>TODO</VanometricPowerCell.label>
+  <VanometricPowerCell.label>celulă de energie vanometrică</VanometricPowerCell.label>
   <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
-  <VanometricPowerCell.description>TODO</VanometricPowerCell.description>
+  <VanometricPowerCell.description>Generează energie gratuită, pentru totdeauna, fără a folosi combustibil. Această tehnologie este dezvoltată de către archotechs și depășește chiar și cele mai multe societăți ale lumii centrale. Deși nimeni nu știe exact cum funcționează, cercetătorii cred că extrage cumva energia direct din fluctuațiile din spuma cuantică.</VanometricPowerCell.description>
   
 </LanguageData>

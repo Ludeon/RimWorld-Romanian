@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Create or select an ideoligion for your faction. -->
+  <MessageMustChooseIdeo>Creează sau selectează o ideoligie pentru facțiunea ta.</MessageMustChooseIdeo>
+  <!-- EN: The ideoligion name can't be empty. -->
+  <MessageIdeoNameCantBeEmpty>Numele ideoligiei nu poate fi gol.</MessageIdeoNameCantBeEmpty>
+  <!-- EN: {PRECEPT1} and {PRECEPT2} are incompatible. -->
+  <MessageIdeoIncompatiblePrecepts>{PRECEPT1} și {PRECEPT2} sunt incompatibile.</MessageIdeoIncompatiblePrecepts>
+  <!-- EN: {DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement. -->
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>TODO</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <!-- EN: {DESIREDAPPAREL} overlaps with {ROLE} apparel requirement ({ROLEAPPAREL}). This will make it impossible for {ROLE}s to wear the required and desired apparel together. -->
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>TODO</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <!-- EN: {PRECEPT} needs one of these buildings -->
+  <MessageRitualMissingTarget>{PRECEPT} are nevoie de una dintre aceste clădiri</MessageRitualMissingTarget>
+  <!-- EN: {PRECEPT} needs an associated ritual. -->
+  <MessageBuildingMissingRitual>{PRECEPT} are nevoie de un ritual asociat.</MessageBuildingMissingRitual>
+  <!-- EN: {0_labelShort} refuses to do this because of {0_possessive} ideoligion. -->
+  <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} refuză să facă acest lucru din cauza ideoligiei {0_possessive}.</MessagePawnUnwillingToDoDueToIdeo>
+  <!-- EN: {INITIATOR_nameDef} tried to convert {RECIPIENT_nameDef} to {INITIATOR_possessive} ideoligion. {RECIPIENT_nameDef}'s certainty has fallen from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. {RECIPIENT_pronoun} resents the conversion attempt. -->
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} a încercat să-l convertească pe {RECIPIENT_nameDef} la ideoligia {INITIATOR_possessive}. Certitudinea lui {RECIPIENT_nameDef} a scăzut de la {CERTAINTYBEFORE} la {CERTAINTYAFTER}. {RECIPIENT_pronoun} resimte încercarea de convertire.</MessageFailedConvertIdeoAttempt>
+  <!-- EN: {PAWN1_nameDef} tried to convert {PAWN2_nameDef} to {PAWN1_possessive} ideoligion. This led to a social fight! -->
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} a încercat să convertească {PAWN2_nameDef} la ideoligia {PAWN1_possessive}. Acest lucru a dus la o luptă socială!</MessageFailedConvertIdeoAttemptSocialFight>
+  <!-- EN: You must choose at least {0} memes. -->
+  <MessageNotEnoughMemes>Trebuie să alegi cel puțin {0} meme-uri.</MessageNotEnoughMemes>
+  <!-- EN: You can't choose more than {0} memes. -->
+  <MessageTooManyMemes>Nu poți alege mai mult de {0} meme-uri.</MessageTooManyMemes>
+  <!-- EN: You must choose a structure meme. -->
+  <MessageNotEnoughStructureMemes>Trebuie să alegi un meme de structură.</MessageNotEnoughStructureMemes>
+  <!-- EN: {0_label} and {1_label} are incompatible with each other. -->
+  <MessageIncompatibleMemes>{0_label} și {1_label} sunt incompatibile între ele.</MessageIncompatibleMemes>
+  <!-- EN: You need {0} to start the {1}. -->
+  <MessageNoRequiredRolePawnToBeginRitual>Ai nevoie de {0} pentru a începe {1}.</MessageNoRequiredRolePawnToBeginRitual>
+  <!-- EN: At least {0} spectator(s) are required to start the {1}. -->
+  <MessageNotEnoughSpectators>TODO</MessageNotEnoughSpectators>
+  <!-- EN: You must choose a role. -->
+  <MessageRoleChangeChooseDifferentRole>TODO</MessageRoleChangeChooseDifferentRole>
+  <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
+  <MessageNeedAssignedRoleToBeginRitual>Înainte de a începe {1}, trebuie să atribuiți cuiva rolul de {0}.</MessageNeedAssignedRoleToBeginRitual>
+  <!-- EN: Need at least one {0} participating. -->
+  <MessageNeedAtLeastOneParticipantOfIdeo>TODO</MessageNeedAtLeastOneParticipantOfIdeo>
+  
+  <!-- EN: {0_labelShort} now holds the role of {1}. -->
+  <MessageRoleAssigned>{0_labelShort} deține acum rolul de {1}.</MessageRoleAssigned>
+  <!-- EN: Since {0_labelShort} became a prisoner, {0_pronoun} no longer can hold the role of {1}. -->
+  <MessageRoleUnassignedPrisoner>Din moment ce {0_labelShort} a devenit prizonier, {0_pronoun} nu mai poate deține rolul lui {1}.</MessageRoleUnassignedPrisoner>
+  <!-- EN: Warning: {0} will be upset if a tree is cut. -->
+  <MessageWarningPlayerDesignatedTreeChopped>Avertisment: {0} va fi supărat dacă un copac este tăiat.</MessageWarningPlayerDesignatedTreeChopped>
+  <!-- EN: Warning: {0} will be upset if mining occurs. -->
+  <MessageWarningPlayerDesignatedMining>Avertisment: {0} va fi supărat dacă are loc minarea.</MessageWarningPlayerDesignatedMining>
+  <!-- EN: The {TREE_label} has had its connection with {PAWN_nameDef} torn. It must recover for {DURATION} before it can reconnect again. -->
+  <MessageConnectedPawnDied>Conexiunea dintre {TREE_label} și {PAWN_nameDef} a fost ruptă. Acesta trebuie să se recupereze timp de {DURATION} înainte de a se putea reconecta din nou.</MessageConnectedPawnDied>
+
+  <!-- Slave interactions -->
+  <!-- EN: {0_nameDef} has been emancipated by {1_nameDef}. -->
+  <MessageSlaveEmancipated>{0_nameDef} a fost emancipat de {1_nameDef}.</MessageSlaveEmancipated>
+  <!-- EN: {0_nameDef} has been enslaved by {1_nameDef}. -->
+  <MessagePrisonerEnslaved>{0_nameDef} a fost înrobit de {1_nameDef}.</MessagePrisonerEnslaved>
+  <!-- EN: Prisoner {1_nameDef}'s will has been broken by {0_nameDef}. -->
+  <MessagePrisonerWillBroken>Voința prizonierului {1_nameDef} a fost frântă de către {0_nameDef}.</MessagePrisonerWillBroken>
+  <!-- EN: Enslavement will follow. -->
+  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>Va urma înrobirea.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+
+  <!-- Prisoner interactions -->
+  <!-- EN: No warden is capable of this enslavement. -->
+  <MessageNoWardenCapableOfEnslavement>Niciun gardian nu este capabil de această înrobire.</MessageNoWardenCapableOfEnslavement>
+  <!-- EN: You have no {MEMBERNAME} wardens to convert {PRISONER_nameDef}. {PRISONER_possessive} interaction mode has reverted to "No interaction". -->
+  <MessageNoWardenOfIdeo>Nu aveți niciun gardian {MEMBERNAME} pentru a converti {PRISONER_nameDef}. Modul de interacțiune al lui {PRISONER_possessive} a revenit la "Fără interacțiune".</MessageNoWardenOfIdeo>
+
+  <!-- Camps -->
+  <!-- EN: You've detected a {CAMP_label} nearby controlled by {FACTION_name}. -->
+  <MessageCampDetected>Ați detectat un {CAMP_label} în apropiere, controlat de {FACTION_name}.</MessageCampDetected>
+
+  <!-- Charity -->
+  <!-- EN: Charity refused -->
+  <MessageCharityEventRefused>Caritate refuzată</MessageCharityEventRefused>
+  <!-- EN: Charity fulfilled -->
+  <MessageCharityEventFulfilled>Caritate îndeplinită</MessageCharityEventFulfilled>
+  <!-- EN: {0} are leaving empty-handed. -->
+  <MessageBeggarsLeavingWithNoItems>{0} pleacă cu mâinile goale.</MessageBeggarsLeavingWithNoItems>
+  <!-- EN: {0} have accepted the requested items and are leaving. -->
+  <MessageBeggarsLeavingWithItems>{0} pleacă cu obiectele solicitate.</MessageBeggarsLeavingWithItems>
+  <!-- EN: {0_nameDef} died without any treatment. -->
+  <MessageWandererLeftToDie>{0_nameDef} a murit fără niciun tratament.</MessageWandererLeftToDie>
+  <!-- EN: {0_nameDef} was recruited. -->
+  <MessageWandererRecruited>{0_nameDef} a fost recrutat.</MessageWandererRecruited>
+  <!-- EN: {0_nameDef} left healthy. -->
+  <MessageWandererLeftHealthy>{0_nameDef} a plecat sănătos.</MessageWandererLeftHealthy>
+  <!-- EN: {0} has been failed. -->
+  <MessageCharityQuestEndedFailed>{0} a eșuat.</MessageCharityQuestEndedFailed>
+  <!-- EN: {0} has been successfully completed. -->
+  <MessageCharityQuestEndedSuccess>{0} finalizată cu succes.</MessageCharityQuestEndedSuccess>
+
+  <!-- Ideo UI -->
+  <!-- EN: Cannot remove -->
+  <CannotRemove>Nu se poate elimina</CannotRemove>
+  <!-- EN: Cannot remove {MEME} -->
+  <CannotRemoveMemeRequired>Nu se poate elimina {MEME}</CannotRemoveMemeRequired>
+  <!-- EN: Cannot remove {MEME}: Required by player faction. -->
+  <CannotRemoveMemeRequiredPlayer>Nu se poate elimina {MEME}: Necesar pentru facțiunea jucătorului.</CannotRemoveMemeRequiredPlayer>
+  <!-- EN: Required by {FACTION_name}. -->
+  <RequiredByFaction>Necesar pentru {FACTION_name}.</RequiredByFaction>
+  <!-- EN: Roles cannot have overlapping apparel requirements. -->
+  <OverlappingRoleApparel>TODO</OverlappingRoleApparel>
+  
+  <!-- EN: {0_label} will self-destruct in {1}. -->
+  <SelfDestructCountdown>{0_label} se va autodistruge în {1}.</SelfDestructCountdown>
+  <!-- EN: Precept name is too long (maximum {0} letters) -->
+  <PreceptNameTooLong>TODO</PreceptNameTooLong>
+
+  <!-- Ancient complex -->
+  <!-- EN: You've discovered an ancient terminal with info about the {0}! -->
+  <MessageAncientTerminalDiscovered>Ai descoperit un terminal antic cu informații despre {0}!</MessageAncientTerminalDiscovered>
+  <!-- EN: You've discovered secret information about {0}! Get back on the shuttle to launch it. -->
+  <MessageAncientComplexBackToShuttle>Ai descoperit informații secrete despre {0}! Întoarce-te pe navetă pentru a o lansa.</MessageAncientComplexBackToShuttle>
+  <!-- EN: An ancient supply satellite has been activated. Supplies will drop nearby. -->
+  <MessageAncientSignalActivated>Un satelit antic de aprovizionare a fost activat. Proviziile vor cădea în apropiere.</MessageAncientSignalActivated>
+  <!-- EN: {0} from the {1} have detected the supply signal and are attacking. -->
+  <MessageAncientSignalHostileDetected>{0} de la {1} au detectat semnalul de aprovizionare și atacă.</MessageAncientSignalHostileDetected>
+
+  <!-- Ancient altar -->
+  <!-- EN: All security systems are waking up! -->
+  <MessageAncientAltarThreatsWokenUp>Toate sistemele de securitate se trezesc!</MessageAncientAltarThreatsWokenUp>
+  <!-- EN: All security systems are alerted to your presence. -->
+  <MessageAncientAltarThreatsAlerted>Toate sistemele de securitate sunt alertate de prezența ta.</MessageAncientAltarThreatsAlerted>
+
+  <!-- Animals -->
+  <!-- EN: Warning: {PAWNKINDLABELPLURAL} are venerated by all {PAWNS}, and will not be harmed. -->
+  <MessageAnimalIsVeneratedForAllColonists>Avertisment: {PAWNKINDLABELPLURAL} sunt venerate de toți {PAWNS} și nu vor fi rănite.</MessageAnimalIsVeneratedForAllColonists>
+
+  <!-- Archonexus -->
+  <!-- EN: Select at most {0} {1} to bring to the new colony. -->
+  <MessageNewColonyMax>Selectați cel mult {0} {1} pentru a aduce în noua colonie.</MessageNewColonyMax>
+  <!-- EN: You must select at least 1 colonist. -->
+  <MessageNewColoyRequiresOneColonist>Trebuie să selectați cel puțin 1 colonist.</MessageNewColoyRequiresOneColonist>
+
+  <!-- Fuel node -->
+  <!-- EN: A {0} has been ignited and is going to explode! -->
+  <MessageFuelNodeTriggered>Un {0} a fost aprins și urmează să explodeze!</MessageFuelNodeTriggered>
+
+  <!-- Ancient complex -->
+  <!-- EN: {0_pawnsPlural} will wake up in {1}. -->
+  <MessageSleepingThreatDelayActivated>{0_pawnsPlural} se va trezi în {1}.</MessageSleepingThreatDelayActivated>
+  <!-- EN: Infestation arriving. -->
+  <MessageInfestationDelayActivated>Infestarea sosește.</MessageInfestationDelayActivated>
+  <!-- EN: {0} was disturbed and might explode soon! -->
+  <MessageFuelNodeDelayActivated>{0} a fost deranjat și ar putea exploda în curând!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
+
+  <!-- Fluid ideo messages -->
+  <!-- EN: Development points changed from {0} to {1} ({2}). -->
+  <MessageDevelopmentPointsEarned>TODO</MessageDevelopmentPointsEarned>
+  <!-- EN: Only one change to structures, memes and styles is allowed. -->
+  <MessageFluidIdeoOneChangeAllowed>TODO</MessageFluidIdeoOneChangeAllowed>
+
+</LanguageData>

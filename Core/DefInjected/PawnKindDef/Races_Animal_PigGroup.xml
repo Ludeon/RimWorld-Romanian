@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>chinchilla</Chinchilla.label>
+  
+  <!-- EN: deer -->
+  <Deer.label>căprioară</Deer.label>
+  <!-- EN: doe -->
+  <Deer.labelFemale>căprioară</Deer.labelFemale>
+  <!-- EN: buck -->
+  <Deer.labelMale>cerb</Deer.labelMale>
+  <!-- EN: deer -->
+  <Deer.labelPlural>cerb</Deer.labelPlural>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>gazelă</Gazelle.label>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>ibex</Ibex.label>
+  <!-- EN: ibex doe -->
+  <Ibex.labelFemale>căprioară ibex</Ibex.labelFemale>
+  <!-- EN: ibex ram -->
+  <Ibex.labelMale>ibex berbec</Ibex.labelMale>
+  <!-- EN: ibexes -->
+  <Ibex.labelPlural>Ibeci</Ibex.labelPlural>
+  
+  <!-- EN: pig -->
+  <Pig.label>porc</Pig.label>
+  <!-- EN: sow -->
+  <Pig.labelFemale>scroafă</Pig.labelFemale>
+  <!-- EN: piglet -->
+  <Pig.lifeStages.piglet.label>purceluș</Pig.lifeStages.piglet.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>mistreț sălbatic</WildBoar.label>
+  
+</LanguageData>

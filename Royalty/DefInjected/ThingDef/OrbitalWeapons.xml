@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: orbital mech cluster targeter -->
-  <OrbitalTargeterMechCluster.label>TODO</OrbitalTargeterMechCluster.label>
+  <OrbitalTargeterMechCluster.label>țintator de orbital mech cluster</OrbitalTargeterMechCluster.label>
   <!-- EN: An ancient military targeting device. It signals an orbital platform to drop a mechanoid combat cluster at the targeted point. The cluster may include any mixture of mechanoids and mech defense structures.\n\nThough they may have once had some allegiance to the ancient army that created this unit, any mechs dropped now will indiscriminately attack any human they see - including the one that summoned them.\n\nThe unit only contains one usage code, so it can only be used once. -->
-  <OrbitalTargeterMechCluster.description>TODO</OrbitalTargeterMechCluster.description>
+  <OrbitalTargeterMechCluster.description>Un dispozitiv militar antic de țintire. Semnalizează unei platforme orbitale să arunce un grup de luptă mecanoid în punctul vizat. Gruparea poate include orice amestec de mecanoizi și structuri de apărare mecanoide.\n\nDeși este posibil ca aceștia să fi avut cândva o oarecare loialitate față de armata antică care a creat această unitate, orice mecanoizi lansați acum vor ataca fără discriminare orice om pe care îl văd - inclusiv pe cel care i-a chemat.\n\nUnitatea conține doar un singur cod de utilizare, deci poate fi folosită o singură dată.</OrbitalTargeterMechCluster.description>
   <!-- EN: charge -->
-  <OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>TODO</OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>
+  <OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>încărcare</OrbitalTargeterMechCluster.comps.CompReloadable.chargeNoun>
   <!-- EN: orbital mech cluster targeter -->
-  <OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>TODO</OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>
+  <OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>țintator de orbital mech cluster</OrbitalTargeterMechCluster.verbs.Verb_MechCluster.label>
   
 </LanguageData>

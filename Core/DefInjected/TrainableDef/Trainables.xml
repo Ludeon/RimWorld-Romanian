@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: haul -->
-  <Haul.label>TODO</Haul.label>
+  <Haul.label>transportă</Haul.label>
   <!-- EN: The animal will randomly haul items from time to time (though it can't be directed to haul specific items). -->
-  <Haul.description>TODO</Haul.description>
+  <Haul.description>Animalul va transporta la întâmplare obiecte din când în când (deși nu poate fi direcționat să transporte anumite obiecte).</Haul.description>
   
   <!-- EN: guard -->
-  <Obedience.label>TODO</Obedience.label>
+  <Obedience.label>gardă</Obedience.label>
   <!-- EN: The animal can be assigned a master whom it will follow and defend. -->
-  <Obedience.description>TODO</Obedience.description>
+  <Obedience.description>Animalului i se poate atribui un stăpân pe care îl va urma și apăra.</Obedience.description>
   
   <!-- EN: attack -->
-  <Release.label>TODO</Release.label>
+  <Release.label>atac</Release.label>
   <!-- EN: The animal can be released to attack distant targets instead of just guarding its master. -->
-  <Release.description>TODO</Release.description>
+  <Release.description>Animalul poate fi eliberat pentru a ataca ținte îndepărtate în loc să își păzească doar stăpânul.</Release.description>
   
   <!-- EN: rescue -->
-  <Rescue.label>TODO</Rescue.label>
+  <Rescue.label>salvare</Rescue.label>
   <!-- EN: The animal will rescue wounded allies and drag them to safety. -->
-  <Rescue.description>TODO</Rescue.description>
+  <Rescue.description>Animalul va salva aliații răniți și îi va trage în siguranță.</Rescue.description>
   
   <!-- EN: tameness -->
-  <Tameness.label>TODO</Tameness.label>
+  <Tameness.label>blândețe</Tameness.label>
   <!-- EN: The animal can learn to consider itself a member of your colony. -->
-  <Tameness.description>TODO</Tameness.description>
+  <Tameness.description>Animalul poate învăța să se considere un membru al coloniei tale.</Tameness.description>
   
 </LanguageData>

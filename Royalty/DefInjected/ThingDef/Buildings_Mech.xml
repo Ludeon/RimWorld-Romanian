@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: defoliator -->
-  <Defoliator.label>TODO</Defoliator.label>
+  <Defoliator.label>defoliator</Defoliator.label>
   <!-- EN: An area-denial device which annihilates nearby plants without affecting animals.\n\nIn planetary wars, these weapons are scattered across farmlands or jungles to deny the enemy food or cover. They're usually associated with orbital-drop mechanoid swarms. -->
-  <Defoliator.description>TODO</Defoliator.description>
+  <Defoliator.description>Un dispozitiv de negare a zonei care anihilează plantele din apropiere fără a afecta animalele.\nÎn războaiele planetare, aceste arme sunt împrăștiate pe terenurile agricole sau în jungle pentru a interzice inamicului hrana sau acoperirea. De obicei, sunt asociate cu roiurile de mecanoizi cu lansare orbitală.</Defoliator.description>
   
-  <!-- EN: gloomlight -->
-  <Gloomlight.label>TODO</Gloomlight.label>
-  <!-- EN: A self-powered mechanoid light. Gloomlights can be deconstructed to yield valuable resources, or used as lights - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
-  <Gloomlight.description>TODO</Gloomlight.description>
+  <!-- EN: mech node -->
+  <Gloomlight.label>nod mech</Gloomlight.label>
+  <!-- EN: A self-powered mechanoid node of unknown function. Mech nodes can be deconstructed to yield valuable resources - but only if they are captured intact. The internal micro power cell will flame out and ruin the materials if the unit takes too much damage. -->
+  <Gloomlight.description>Un nod mecanoid autoalimentat cu funcție necunoscută. Nodurile mecanoidale pot fi deconstruite pentru a obține resurse valoroase - dar numai dacă sunt capturate intacte. Celula internă de microenergie se va arde și va distruge materialele dacă unitatea este prea mult avariată.</Gloomlight.description>
   
   <!-- EN: unstable power cell -->
-  <UnstablePowerCell.label>TODO</UnstablePowerCell.label>
+  <UnstablePowerCell.label>celulă de energie instabilă</UnstablePowerCell.label>
   <!-- EN: A mechanoid power generation unit. The vanometric power core will run forever, extracting energy from quantum foam fluctuations.\n\nAn internal amplifier system makes it unstable. If damaged, the unit will generate a massive explosion.\n\nSome brave humans steal these from mechanoids for their own use as power plants or defensive bombs. However, an unintentional detonation can be devastating. -->
-  <UnstablePowerCell.description>TODO</UnstablePowerCell.description>
+  <UnstablePowerCell.description>O unitate mecanoidă de generare a energiei. Miezul energetic vanometric va funcționa la nesfârșit, extrăgând energie din fluctuațiile spumei cuantice.\n\nUn sistem intern de amplificare îl face instabil. Dacă este avariată, unitatea va genera o explozie masivă.\n\nCâțiva oameni curajoși fură aceste unități de la mecanoizi pentru a le folosi ca centrale electrice sau ca bombe defensive. Cu toate acestea, o detonare neintenționată poate fi devastatoare.</UnstablePowerCell.description>
   
 </LanguageData>

@@ -2,38 +2,48 @@
 <LanguageData>
   
   <!-- EN: Arrest success chance -->
-  <ArrestSuccessChance.label>TODO</ArrestSuccessChance.label>
+  <ArrestSuccessChance.label>șansa de reușită a arestării</ArrestSuccessChance.label>
   <!-- EN: How effective this person is in arresting people. This affects chance that this person will be able to arrest someone without resistance. -->
-  <ArrestSuccessChance.description>TODO</ArrestSuccessChance.description>
+  <ArrestSuccessChance.description>Cât de eficientă este această persoană în arestarea oamenilor. Aceasta afectează șansa ca această persoană să poată aresta pe cineva fără rezistență.</ArrestSuccessChance.description>
+  
+  <!-- EN: bond chance factor -->
+  <BondAnimalChanceFactor.label>Factorul de șansă de legătură</BondAnimalChanceFactor.label>
+  <!-- EN: A multiplier on the chance to bond with an animal when interacting with it. -->
+  <BondAnimalChanceFactor.description>Un multiplicator al șansei de a crea o legătură cu un animal atunci când interacționați cu acesta.</BondAnimalChanceFactor.description>
+  
+  <!-- EN: drug sell price improvement -->
+  <DrugSellPriceImprovement.label>îmbunătățirea prețului de vânzare a drogurilor</DrugSellPriceImprovement.label>
+  <!-- EN: When this person sells non-medical drugs, prices are improved by this percentage. -->
+  <DrugSellPriceImprovement.description>Atunci când această persoană vinde droguri, prețurile sunt îmbunătățite cu acest procent.</DrugSellPriceImprovement.description>
   
   <!-- EN: negotiation ability -->
-  <NegotiationAbility.label>TODO</NegotiationAbility.label>
+  <NegotiationAbility.label>capacitatea de negociere</NegotiationAbility.label>
   <!-- EN: How effective this person is as a negotiator.\n\nThis affects the speed of prisoner recruitment, impact on faction relations when giving gifts, and the outcome of peace talks. -->
-  <NegotiationAbility.description>TODO</NegotiationAbility.description>
+  <NegotiationAbility.description>Cât de eficientă este această persoană ca negociator.\nAceasta afectează viteza de recrutare a prizonierilor, impactul asupra relațiilor dintre facțiuni atunci când oferă cadouri și rezultatul negocierilor de pace.</NegotiationAbility.description>
   
   <!-- EN: beauty -->
-  <PawnBeauty.label>TODO</PawnBeauty.label>
+  <PawnBeauty.label>frumusețe</PawnBeauty.label>
   <!-- EN: How physically attractive this person is. This affects social interactions. -->
-  <PawnBeauty.description>TODO</PawnBeauty.description>
+  <PawnBeauty.description>Cât de atractivă din punct de vedere fizic este această persoană. Acest lucru afectează interacțiunile sociale.</PawnBeauty.description>
   
   <!-- EN: social impact -->
-  <SocialImpact.label>TODO</SocialImpact.label>
+  <SocialImpact.label>impact social</SocialImpact.label>
   <!-- EN: A multiplier on how much other people are affected by this person's social interactions. -->
-  <SocialImpact.description>TODO</SocialImpact.description>
+  <SocialImpact.description>Un multiplicator privind cât de mult sunt afectați ceilalți oameni de interacțiunile sociale ale acestei persoane.</SocialImpact.description>
   
   <!-- EN: tame animal chance -->
-  <TameAnimalChance.label>TODO</TameAnimalChance.label>
+  <TameAnimalChance.label>șansa de a îmblânzi un animal</TameAnimalChance.label>
   <!-- EN: The base chance this person will successfully tame an animal on any given attempt.\n\nThe actual chance is also affected by the animal's wildness.\nFailed tame attempt can induce animal attacks, especially for more vicious animals. -->
-  <TameAnimalChance.description>TODO</TameAnimalChance.description>
+  <TameAnimalChance.description>Șansa de bază ca această persoană să reușească să îmblânzească cu succes un animal la o anumită încercare.\n\nȘansa reală este afectată și de sălbăticia animalului.\nIncercarea eșuată de îmblânzire poate induce atacuri ale animalelor, în special pentru animalele mai vicioase.</TameAnimalChance.description>
   
   <!-- EN: trade price improvement -->
-  <TradePriceImprovement.label>TODO</TradePriceImprovement.label>
+  <TradePriceImprovement.label>îmbunătățirea prețurilor comerciale</TradePriceImprovement.label>
   <!-- EN: When this person acts as a trade negotiator, buy and sell prices are improved by this percentage. -->
-  <TradePriceImprovement.description>TODO</TradePriceImprovement.description>
+  <TradePriceImprovement.description>Atunci când această persoană acționează ca negociator comercial, prețurile de vânzare și de cumpărare sunt îmbunătățite cu acest procent.</TradePriceImprovement.description>
   
   <!-- EN: train animal chance -->
-  <TrainAnimalChance.label>TODO</TrainAnimalChance.label>
+  <TrainAnimalChance.label>antrenează șansa animalelor</TrainAnimalChance.label>
   <!-- EN: The base chance this person will make progress training an animal on a given attempt.\n\nThe actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on. -->
-  <TrainAnimalChance.description>TODO</TrainAnimalChance.description>
+  <TrainAnimalChance.description>Șansa de bază ca această persoană să facă progrese în dresarea unui animal la o anumită încercare.\n\nȘansa reală pentru o anumită încercare va depinde, de asemenea, de sălbăticia animalului, dacă este sau nu legat de dresor și așa mai departe.</TrainAnimalChance.description>
   
 </LanguageData>

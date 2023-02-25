@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: Arresting worsens faction relations -->
-  <ArrestingCreatesEnemies.label>TODO</ArrestingCreatesEnemies.label>
+  <ArrestingCreatesEnemies.label>Arestarea înrăutățeste relațiile între facțiuni</ArrestingCreatesEnemies.label>
   <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
-  <ArrestingCreatesEnemies.helpText>TODO</ArrestingCreatesEnemies.helpText>
+  <ArrestingCreatesEnemies.helpText>Atenție: Persoana pe care încercați să o arestați s-ar putea să nu se supună.\n\nDacă arestați un non-colonist sau un colonist al unei alte facțiuni, e posibil ca acea facțiune să devină inamicul vostru. \n\nPe baza aptitudinii sociale a arestorului, acest arest are {0} șanse de succes.</ArrestingCreatesEnemies.helpText>
   
   <!-- EN: Maximum number of player colonies -->
-  <MaxNumberOfPlayerSettlements.label>TODO</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.label>Număr maxim de colonii ale jucătorului</MaxNumberOfPlayerSettlements.label>
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
-  <MaxNumberOfPlayerSettlements.helpText>TODO</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.helpText>Atenție: RimWorld a fost proiectat să fie jucat cu o singură colonie controlată de jucător la un moment dat. Sunt permise multiple colonii ale jucătorului doar ca un test experimental.\n\nJucarea cu mai multe colonii va cauza imbalansuri în joc și îți va fragmenta atenția, și de asemenea îți va cauza și degradări de performanță.\n\nÎți recomandăm să joci cu o singură colonie, așa cum a fost jocul, cel puțin pentru primele tale jucări.</MaxNumberOfPlayerSettlements.helpText>
   
   <!-- EN: Flick designations only designate -->
-  <SwitchFlickingDesignation.label>TODO</SwitchFlickingDesignation.label>
+  <SwitchFlickingDesignation.label>Asignările de comutare doar asignează</SwitchFlickingDesignation.label>
   <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
-  <SwitchFlickingDesignation.helpText>TODO</SwitchFlickingDesignation.helpText>
+  <SwitchFlickingDesignation.helpText>Notă: Asta doar designează că un colonist ar trebui să comuteze întrerupătorul.\n\nNimic nu se va întâmpla până un colonist vine și comutează întrerupătorul manual.</SwitchFlickingDesignation.helpText>
   
   <!-- EN: Trade goods and trade beacons -->
-  <TradeGoodsMustBeNearBeacon.label>TODO</TradeGoodsMustBeNearBeacon.label>
+  <TradeGoodsMustBeNearBeacon.label>Bunuri pentru comerț și balize de comerț</TradeGoodsMustBeNearBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
-  <TradeGoodsMustBeNearBeacon.helpText>TODO</TradeGoodsMustBeNearBeacon.helpText>
+  <TradeGoodsMustBeNearBeacon.helpText>Pentru a trimite obiecte sau argint către negustori comerciali, trebuie să construiți o BALIZĂ DE COMERȚ și să amplasați un stoc de obiecte lângă acesta</TradeGoodsMustBeNearBeacon.helpText>
   
   <!-- EN: Trading permit requirements -->
-  <TradingRequiresPermit.label>TODO</TradingRequiresPermit.label>
+  <TradingRequiresPermit.label>Necesități pentru permisul de comerț</TradingRequiresPermit.label>
   <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
-  <TradingRequiresPermit.helpText>TODO</TradingRequiresPermit.helpText>
+  <TradingRequiresPermit.helpText>Comercializare în acest loc necesită titlul de {0}.\n\nAsigurați-vă că orice caravană de comerț trimisă are pe cineva cu titlul de {0} sau mai înalt.</TradingRequiresPermit.helpText>
   
 </LanguageData>

@@ -2,145 +2,145 @@
 <LanguageData>
   
   <!-- EN: animal bed -->
-  <AnimalBed.label>TODO</AnimalBed.label>
+  <AnimalBed.label>pat pentru animale</AnimalBed.label>
   <!-- EN: A soft bed for animals to sleep on. Fits any animal. -->
-  <AnimalBed.description>TODO</AnimalBed.description>
+  <AnimalBed.description>Un pat moale pe care pot dormi animalele. Se potrivește oricărui animal.</AnimalBed.description>
   
   <!-- EN: animal sleeping box -->
-  <AnimalSleepingBox.label>TODO</AnimalSleepingBox.label>
+  <AnimalSleepingBox.label>cutie de dormit pentru animale</AnimalSleepingBox.label>
   <!-- EN: A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. -->
-  <AnimalSleepingBox.description>TODO</AnimalSleepingBox.description>
+  <AnimalSleepingBox.description>O cutie mică în care pot dormi animalele. Se potrivește animalelor mai mici, cum ar fi găinile, pisicile sau câinii mici.</AnimalSleepingBox.description>
   
   <!-- EN: animal sleeping spot -->
-  <AnimalSleepingSpot.label>TODO</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.label>loc de dormit pentru animale</AnimalSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where animals should sleep. -->
-  <AnimalSleepingSpot.description>TODO</AnimalSleepingSpot.description>
+  <AnimalSleepingSpot.description>Desemnează un loc pe sol unde animalele ar trebui să doarmă.</AnimalSleepingSpot.description>
   
   <!-- EN: armchair -->
-  <Armchair.label>TODO</Armchair.label>
+  <Armchair.label>fotoliu</Armchair.label>
   <!-- EN: A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere. -->
-  <Armchair.description>TODO</Armchair.description>
+  <Armchair.description>Un scaun mare, moale și confortabil. Ideal pentru relaxare. Poate fi folosit la mese, la posturile de lucru și în alte locuri.</Armchair.description>
   
   <!-- EN: bed -->
-  <Bed.label>TODO</Bed.label>
+  <Bed.label>pat</Bed.label>
   <!-- EN: A cozy mattress and sheets on a frame for resting. -->
-  <Bed.description>TODO</Bed.description>
+  <Bed.description>O saltea confortabilă și cearceafuri pe un cadru pentru odihnă.</Bed.description>
   
   <!-- EN: bedroll -->
-  <Bedroll.label>TODO</Bedroll.label>
+  <Bedroll.label>rulou de pat</Bedroll.label>
   <!-- EN: A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
-  <Bedroll.description>TODO</Bedroll.description>
+  <Bedroll.description>Un pat simplu care se așează pe podea, de obicei confecționat din pânză sau piele, adesea căptușit cu blană. Este ușor și poate fi rulat pentru a fi transportat ușor, dar nu este la fel de confortabil ca un pat obișnuit. Caravanele pot folosi rulouri de pat în timpul călătoriei pentru un somn mai bun.</Bedroll.description>
   
   <!-- EN: double bedroll -->
-  <BedrollDouble.label>TODO</BedrollDouble.label>
+  <BedrollDouble.label>rulou de pat dublu</BedrollDouble.label>
   <!-- EN: A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep. -->
-  <BedrollDouble.description>TODO</BedrollDouble.description>
+  <BedrollDouble.description>Un pat simplu de două lățimi care se așează pe podea, de obicei confecționat din pânză sau piele, adesea căptușit cu blană. Este ușor și poate fi rulat pentru a fi transportat ușor, dar nu este la fel de confortabil ca un pat obișnuit. Caravanele pot folosi rulouri de pat în timpul călătoriei pentru un somn mai bun.</BedrollDouble.description>
   
   <!-- EN: dining chair -->
-  <DiningChair.label>TODO</DiningChair.label>
+  <DiningChair.label>scaun de sufragerie</DiningChair.label>
   <!-- EN: A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere. -->
-  <DiningChair.description>TODO</DiningChair.description>
+  <DiningChair.description>Un scaun confortabil și atractiv. Poate fi folosit la mese, la posturile de lucru și în alte locuri.</DiningChair.description>
   
   <!-- EN: double bed -->
-  <DoubleBed.label>TODO</DoubleBed.label>
+  <DoubleBed.label>pat dublu</DoubleBed.label>
   <!-- EN: A simple double-wide bed that fits two people. -->
-  <DoubleBed.description>TODO</DoubleBed.description>
+  <DoubleBed.description>Un pat simplu, cu lățime dublă, în care încap două persoane.</DoubleBed.description>
   
   <!-- EN: double sleeping spot -->
-  <DoubleSleepingSpot.label>TODO</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.label>loc de dormit dublu</DoubleSleepingSpot.label>
   <!-- EN: Designates a spot on the ground where two people should sleep together. Not comfortable. -->
-  <DoubleSleepingSpot.description>TODO</DoubleSleepingSpot.description>
+  <DoubleSleepingSpot.description>Desemnează un loc pe pământ unde două persoane ar trebui să doarmă împreună. Nu este confortabil.</DoubleSleepingSpot.description>
   
   <!-- EN: dresser -->
-  <Dresser.label>TODO</Dresser.label>
+  <Dresser.label>comodă</Dresser.label>
   <!-- EN: A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect. -->
-  <Dresser.description>TODO</Dresser.description>
+  <Dresser.description>O comodă. Conferă un mic bonus de confort tuturor paturilor din apropiere. Amplasarea mai multor comode în apropierea aceluiași pat nu are niciun efect.</Dresser.description>
   
   <!-- EN: end table -->
-  <EndTable.label>TODO</EndTable.label>
+  <EndTable.label>noptieră</EndTable.label>
   <!-- EN: A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect. -->
-  <EndTable.description>TODO</EndTable.description>
+  <EndTable.description>O mică noptieră care face ca paturile din apropiere să fie un pic mai confortabile. Trebuie să fie plasată direct lângă capul patului. Amplasarea mai multor noptiere lângă același pat nu are niciun efect.</EndTable.description>
   
   <!-- EN: hospital bed -->
-  <HospitalBed.label>TODO</HospitalBed.label>
+  <HospitalBed.label>pat de spital</HospitalBed.label>
   <!-- EN: A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds. -->
-  <HospitalBed.description>TODO</HospitalBed.description>
+  <HospitalBed.description>Un pat special conceput pentru a fi utilizat în spitale. Reglabil pentru un pacient și dotat cu echipamente încorporate, acesta îmbunătățește rezultatele medicale față de paturile normale.</HospitalBed.description>
   
   <!-- EN: plant pot -->
-  <PlantPot.label>TODO</PlantPot.label>
+  <PlantPot.label>ghiveci de plante</PlantPot.label>
   <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
-  <PlantPot.description>TODO</PlantPot.description>
+  <PlantPot.description>Plantează aici flori decorative pentru a îmbunătăți starea de spirit a oamenilor din apropiere.</PlantPot.description>
   
   <!-- EN: royal bed -->
-  <RoyalBed.label>TODO</RoyalBed.label>
+  <RoyalBed.label>pat regal</RoyalBed.label>
   <!-- EN: A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two. -->
-  <RoyalBed.description>TODO</RoyalBed.description>
+  <RoyalBed.description>Un pat luxos, încrustat cu aur, potrivit pentru cei de rang înalt. Foarte confortabil și frumos, este o operă de artă în sine. Se potrivește pentru două persoane.</RoyalBed.description>
   
   <!-- EN: shelf -->
-  <Shelf.label>TODO</Shelf.label>
+  <Shelf.label>raft</Shelf.label>
   <!-- EN: A shelf for storing miscellaneous items. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
-  <Shelf.description>TODO</Shelf.description>
+  <Shelf.description>Un raft pentru depozitarea diverselor obiecte. Obiectele depozitate în acesta nu vor afecta frumusețea camerei și nu se vor deteriora, chiar dacă sunt afară.</Shelf.description>
   
   <!-- EN: sleeping spot -->
-  <SleepingSpot.label>TODO</SleepingSpot.label>
+  <SleepingSpot.label>loc de dormit</SleepingSpot.label>
   <!-- EN: Designates a spot on the ground where people should sleep. Not comfortable. -->
-  <SleepingSpot.description>TODO</SleepingSpot.description>
+  <SleepingSpot.description>Desemnează un loc pe sol unde oamenii ar trebui să doarmă. Nu este confortabil.</SleepingSpot.description>
   
   <!-- EN: standing lamp -->
-  <StandingLamp.label>TODO</StandingLamp.label>
+  <StandingLamp.label>lampă în picioare</StandingLamp.label>
   <!-- EN: An electrical standing lamp that lights an area. People need light to move and work at full speed. -->
-  <StandingLamp.description>TODO</StandingLamp.description>
+  <StandingLamp.description>O lampă electrică în picioare care luminează o zonă. Oamenii au nevoie de lumină pentru a se mișca și a lucra la viteză maximă.</StandingLamp.description>
   
   <!-- EN: standing lamp (blue) -->
-  <StandingLamp_Blue.label>TODO</StandingLamp_Blue.label>
+  <StandingLamp_Blue.label>lampă în picioare (albastră)</StandingLamp_Blue.label>
   <!-- EN: A standing lamp that lights an area in blue. -->
-  <StandingLamp_Blue.description>TODO</StandingLamp_Blue.description>
+  <StandingLamp_Blue.description>O lampă în picioare care luminează o zonă în albastru.</StandingLamp_Blue.description>
   
   <!-- EN: standing lamp (green) -->
-  <StandingLamp_Green.label>TODO</StandingLamp_Green.label>
+  <StandingLamp_Green.label>lampă în picioare (verde)</StandingLamp_Green.label>
   <!-- EN: A standing lamp that lights an area in green. -->
-  <StandingLamp_Green.description>TODO</StandingLamp_Green.description>
+  <StandingLamp_Green.description>O lampă în picioare care luminează o zonă în verde.</StandingLamp_Green.description>
   
   <!-- EN: standing lamp (red) -->
-  <StandingLamp_Red.label>TODO</StandingLamp_Red.label>
+  <StandingLamp_Red.label>lampă în picioare (roșu)</StandingLamp_Red.label>
   <!-- EN: A standing lamp that lights an area in red. -->
-  <StandingLamp_Red.description>TODO</StandingLamp_Red.description>
+  <StandingLamp_Red.description>O lampă în picioare care luminează o zonă în roșu.</StandingLamp_Red.description>
   
   <!-- EN: stool -->
-  <Stool.label>TODO</Stool.label>
+  <Stool.label>taburet</Stool.label>
   <!-- EN: A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere. -->
-  <Stool.description>TODO</Stool.description>
+  <Stool.description>O platformă simplă pe care să te așezi. Nu foarte confortabilă, dar mult mai bună decât nimic. Poate fi folosit la mese, la posturi de lucru și în alte locuri.</Stool.description>
   
   <!-- EN: sun lamp -->
-  <SunLamp.label>TODO</SunLamp.label>
+  <SunLamp.label>lampă solară</SunLamp.label>
   <!-- EN: An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night. -->
-  <SunLamp.description>TODO</SunLamp.description>
+  <SunLamp.description>O lampă industrială care luminează o zonă suficient de puternic pentru a crește culturi, dar care consumă o cantitate uriașă de energie. Se stinge automat pe timp de noapte.</SunLamp.description>
   <!-- EN: Off for plant resting period -->
-  <SunLamp.comps.CompSchedule.offMessage>TODO</SunLamp.comps.CompSchedule.offMessage>
+  <SunLamp.comps.CompSchedule.offMessage>Oprită pentru perioada de repaus a plantelor</SunLamp.comps.CompSchedule.offMessage>
   
   <!-- EN: table (1x2) -->
-  <Table1x2c.label>TODO</Table1x2c.label>
+  <Table1x2c.label>masă (1x2)</Table1x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table1x2c.description>TODO</Table1x2c.description>
+  <Table1x2c.description>Oamenii mănâncă de pe mese atunci când scaunele sunt așezate cu fața la ele.</Table1x2c.description>
   
   <!-- EN: table (2x2) -->
-  <Table2x2c.label>TODO</Table2x2c.label>
+  <Table2x2c.label>masă (2x2)</Table2x2c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table2x2c.description>TODO</Table2x2c.description>
+  <Table2x2c.description>Oamenii mănâncă de pe mese atunci când scaunele sunt așezate cu fața la ele.</Table2x2c.description>
   
   <!-- EN: table (2x4) -->
-  <Table2x4c.label>TODO</Table2x4c.label>
+  <Table2x4c.label>masă (2x4)</Table2x4c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table2x4c.description>TODO</Table2x4c.description>
+  <Table2x4c.description>Oamenii mănâncă de pe mese atunci când scaunele sunt așezate cu fața la ele.</Table2x4c.description>
   
   <!-- EN: table (3x3) -->
-  <Table3x3c.label>TODO</Table3x3c.label>
+  <Table3x3c.label>masă (3x3)</Table3x3c.label>
   <!-- EN: People eat off tables when chairs are placed facing them. -->
-  <Table3x3c.description>TODO</Table3x3c.description>
+  <Table3x3c.description>Oamenii mănâncă de pe mese atunci când scaunele sunt așezate cu fața la ele.</Table3x3c.description>
   
   <!-- EN: torch lamp -->
-  <TorchLamp.label>TODO</TorchLamp.label>
+  <TorchLamp.label>lampă torță</TorchLamp.label>
   <!-- EN: A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <TorchLamp.description>TODO</TorchLamp.description>
+  <TorchLamp.description>O torță din lemn pentru iluminarea unei zone. Oamenii au nevoie de lumină pentru a se mișca și a lucra la viteză maximă. Poate fi realimentată automat cu lemn. Produce o cantitate mică de căldură.</TorchLamp.description>
   
 </LanguageData>

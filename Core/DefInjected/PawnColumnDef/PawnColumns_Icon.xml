@@ -2,9 +2,12 @@
 <LanguageData>
   
   <!-- EN: Bond -->
-  <Bond.headerTip>TODO</Bond.headerTip>
+  <Bond.headerTip>Legătură</Bond.headerTip>
   
   <!-- EN: Info -->
-  <Info.headerTip>TODO</Info.headerTip>
+  <Info.headerTip>Info</Info.headerTip>
+  
+  <!-- EN: Life stage -->
+  <LifeStage.label>Stadiul de viață</LifeStage.label>
   
 </LanguageData>

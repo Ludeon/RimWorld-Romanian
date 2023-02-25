@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: luciferium -->
-  <Chemical_Luciferium.label>TODO</Chemical_Luciferium.label>
+  <Chemical_Luciferium.label>luciferium</Chemical_Luciferium.label>
   <!-- EN: This person's body is enhanced by luciferium mechanites.\n\nWithout regular doses of luciferium, the mechanites will lose cohesion. If this happens, the user becomes continuously, violently insane and eventually dies.\n\nThis addiction never goes away. -->
-  <Chemical_Luciferium.description>TODO</Chemical_Luciferium.description>
+  <Chemical_Luciferium.description>Corpul acestei persoane este îmbunătățit de mecanitele de luciferium.\n\nFără doze regulate de luciferium, mecanitele își vor pierde coeziunea. Dacă se întâmplă acest lucru, utilizatorul devine continuu, violent nebun și în cele din urmă moare.\n\nAceastă dependență nu dispare niciodată.</Chemical_Luciferium.description>
   
 </LanguageData>

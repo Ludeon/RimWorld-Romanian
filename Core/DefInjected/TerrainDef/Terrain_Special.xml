@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: bridge -->
-  <Bridge.label>TODO</Bridge.label>
+  <Bridge.label>pod</Bridge.label>
   <!-- EN: A flat wooden surface on supportive beams which can be built over water. You can build light structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well. -->
-  <Bridge.description>TODO</Bridge.description>
+  <Bridge.description>Suprafață plană de lemn pe grinzi de susținere care poate fi construită peste apă. Puteți construi structuri ușoare pe poduri, dar aveți grijă - podurile sunt fragile. Dacă un pod cade, cad și clădirile de deasupra lui.</Bridge.description>
   
   <!-- EN: underwall -->
-  <Underwall.label>TODO</Underwall.label>
+  <Underwall.label>sub zid</Underwall.label>
   
 </LanguageData>

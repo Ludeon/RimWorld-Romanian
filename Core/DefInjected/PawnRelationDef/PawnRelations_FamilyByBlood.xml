@@ -2,75 +2,75 @@
 <LanguageData>
   
   <!-- EN: son -->
-  <Child.label>TODO</Child.label>
+  <Child.label>fiu</Child.label>
   <!-- EN: daughter -->
-  <Child.labelFemale>TODO</Child.labelFemale>
+  <Child.labelFemale>fiică</Child.labelFemale>
   
   <!-- EN: cousin -->
-  <Cousin.label>TODO</Cousin.label>
+  <Cousin.label>verișoară</Cousin.label>
   
   <!-- EN: cousin once removed -->
-  <CousinOnceRemoved.label>TODO</CousinOnceRemoved.label>
+  <CousinOnceRemoved.label>verișoară înlăturată o dată</CousinOnceRemoved.label>
   
   <!-- EN: grandson -->
-  <Grandchild.label>TODO</Grandchild.label>
+  <Grandchild.label>nepot</Grandchild.label>
   <!-- EN: granddaughter -->
-  <Grandchild.labelFemale>TODO</Grandchild.labelFemale>
+  <Grandchild.labelFemale>nepoată</Grandchild.labelFemale>
   
   <!-- EN: grandnephew -->
-  <GrandnephewOrGrandniece.label>TODO</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.label>strănepot</GrandnephewOrGrandniece.label>
   <!-- EN: grandniece -->
-  <GrandnephewOrGrandniece.labelFemale>TODO</GrandnephewOrGrandniece.labelFemale>
+  <GrandnephewOrGrandniece.labelFemale>nepoată</GrandnephewOrGrandniece.labelFemale>
   
   <!-- EN: grandfather -->
-  <Grandparent.label>TODO</Grandparent.label>
+  <Grandparent.label>bunic</Grandparent.label>
   <!-- EN: grandmother -->
-  <Grandparent.labelFemale>TODO</Grandparent.labelFemale>
+  <Grandparent.labelFemale>bunică</Grandparent.labelFemale>
   
   <!-- EN: granduncle -->
-  <GranduncleOrGrandaunt.label>TODO</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.label>străunchi</GranduncleOrGrandaunt.label>
   <!-- EN: grandaunt -->
-  <GranduncleOrGrandaunt.labelFemale>TODO</GranduncleOrGrandaunt.labelFemale>
+  <GranduncleOrGrandaunt.labelFemale>strămătușă</GranduncleOrGrandaunt.labelFemale>
   
   <!-- EN: great grandson -->
-  <GreatGrandchild.label>TODO</GreatGrandchild.label>
+  <GreatGrandchild.label>strănepot</GreatGrandchild.label>
   <!-- EN: great granddaughter -->
-  <GreatGrandchild.labelFemale>TODO</GreatGrandchild.labelFemale>
+  <GreatGrandchild.labelFemale>strănepoată</GreatGrandchild.labelFemale>
   
   <!-- EN: great grandfather -->
-  <GreatGrandparent.label>TODO</GreatGrandparent.label>
+  <GreatGrandparent.label>străbunic</GreatGrandparent.label>
   <!-- EN: great grandmother -->
-  <GreatGrandparent.labelFemale>TODO</GreatGrandparent.labelFemale>
+  <GreatGrandparent.labelFemale>străbunică</GreatGrandparent.labelFemale>
   
   <!-- EN: brother -->
-  <HalfSibling.label>TODO</HalfSibling.label>
+  <HalfSibling.label>frate</HalfSibling.label>
   <!-- EN: sister -->
-  <HalfSibling.labelFemale>TODO</HalfSibling.labelFemale>
+  <HalfSibling.labelFemale>soră</HalfSibling.labelFemale>
   
   <!-- EN: kin -->
-  <Kin.label>TODO</Kin.label>
+  <Kin.label>rudă</Kin.label>
   
   <!-- EN: nephew -->
-  <NephewOrNiece.label>TODO</NephewOrNiece.label>
+  <NephewOrNiece.label>nepot</NephewOrNiece.label>
   <!-- EN: niece -->
-  <NephewOrNiece.labelFemale>TODO</NephewOrNiece.labelFemale>
+  <NephewOrNiece.labelFemale>nepoată</NephewOrNiece.labelFemale>
   
   <!-- EN: father -->
-  <Parent.label>TODO</Parent.label>
+  <Parent.label>tată</Parent.label>
   <!-- EN: mother -->
-  <Parent.labelFemale>TODO</Parent.labelFemale>
+  <Parent.labelFemale>mamă</Parent.labelFemale>
   
   <!-- EN: second cousin -->
-  <SecondCousin.label>TODO</SecondCousin.label>
+  <SecondCousin.label>văr de-al doilea</SecondCousin.label>
   
   <!-- EN: brother -->
-  <Sibling.label>TODO</Sibling.label>
+  <Sibling.label>frate</Sibling.label>
   <!-- EN: sister -->
-  <Sibling.labelFemale>TODO</Sibling.labelFemale>
+  <Sibling.labelFemale>soră</Sibling.labelFemale>
   
   <!-- EN: uncle -->
-  <UncleOrAunt.label>TODO</UncleOrAunt.label>
+  <UncleOrAunt.label>unchi</UncleOrAunt.label>
   <!-- EN: aunt -->
-  <UncleOrAunt.labelFemale>TODO</UncleOrAunt.labelFemale>
+  <UncleOrAunt.labelFemale>mătușă</UncleOrAunt.labelFemale>
   
 </LanguageData>

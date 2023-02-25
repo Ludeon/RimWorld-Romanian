@@ -2,48 +2,53 @@
 <LanguageData>
   
   <!-- EN: manhunter -->
-  <Manhunter.label>TODO</Manhunter.label>
+  <Manhunter.label>vânător de oameni</Manhunter.label>
   <!-- EN: Maddened: Manhunter -->
-  <Manhunter.baseInspectLine>TODO</Manhunter.baseInspectLine>
+  <Manhunter.baseInspectLine>Înnebunit: Vânător de oameni</Manhunter.baseInspectLine>
   <!-- EN: {0} has become a manhunter! -->
-  <Manhunter.beginLetter>TODO</Manhunter.beginLetter>
+  <Manhunter.beginLetter>{0} a devenit un vânător de oameni!</Manhunter.beginLetter>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <Manhunter.recoveryMessage>TODO</Manhunter.recoveryMessage>
+  <Manhunter.recoveryMessage>Pofta de sânge a vânătorului de oameni {0} a ajuns la final.</Manhunter.recoveryMessage>
   
   <!-- EN: manhunter -->
-  <ManhunterPermanent.label>TODO</ManhunterPermanent.label>
+  <ManhunterPermanent.label>vânător de oameni</ManhunterPermanent.label>
   <!-- EN: Maddened: Manhunter -->
-  <ManhunterPermanent.baseInspectLine>TODO</ManhunterPermanent.baseInspectLine>
+  <ManhunterPermanent.baseInspectLine>Înnebunit: Vânător de oameni</ManhunterPermanent.baseInspectLine>
   <!-- EN: {0} has become a manhunter! -->
-  <ManhunterPermanent.beginLetter>TODO</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.beginLetter>{0} a devenit un vânător de oameni!</ManhunterPermanent.beginLetter>
   <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
-  <ManhunterPermanent.recoveryMessage>TODO</ManhunterPermanent.recoveryMessage>
+  <ManhunterPermanent.recoveryMessage>Pofta de sânge a vânătorului de oameni {0} a luat sfârșit.</ManhunterPermanent.recoveryMessage>
   
   <!-- EN: panic fleeing -->
-  <PanicFlee.label>TODO</PanicFlee.label>
+  <PanicFlee.label>panică în fugă</PanicFlee.label>
   <!-- EN: Mental state: Fleeing in panic -->
-  <PanicFlee.baseInspectLine>TODO</PanicFlee.baseInspectLine>
+  <PanicFlee.baseInspectLine>Stare mentală: Fuge în panică</PanicFlee.baseInspectLine>
   <!-- EN: {0} is fleeing in panic. -->
-  <PanicFlee.beginLetter>TODO</PanicFlee.beginLetter>
+  <PanicFlee.beginLetter>{0} fuge în panică.</PanicFlee.beginLetter>
   <!-- EN: flee -->
-  <PanicFlee.beginLetterLabel>TODO</PanicFlee.beginLetterLabel>
+  <PanicFlee.beginLetterLabel>fuge</PanicFlee.beginLetterLabel>
   <!-- EN: {0} is no longer fleeing in panic. -->
-  <PanicFlee.recoveryMessage>TODO</PanicFlee.recoveryMessage>
+  <PanicFlee.recoveryMessage>{0} nu mai fuge în panică.</PanicFlee.recoveryMessage>
+  
+  <!-- EN: roaming -->
+  <Roaming.label>hoinăreală</Roaming.label>
+  <!-- EN: Mental state: Roaming -->
+  <Roaming.baseInspectLine>Stare mentală: Hoinăreală</Roaming.baseInspectLine>
   
   <!-- EN: social fighting -->
-  <SocialFighting.label>TODO</SocialFighting.label>
+  <SocialFighting.label>luptă socială</SocialFighting.label>
   <!-- EN: Mental state: Social fighting -->
-  <SocialFighting.baseInspectLine>TODO</SocialFighting.baseInspectLine>
+  <SocialFighting.baseInspectLine>Stare mentală: Luptă socială</SocialFighting.baseInspectLine>
   
   <!-- EN: confused wandering -->
-  <WanderConfused.label>TODO</WanderConfused.label>
+  <WanderConfused.label>rătăcire confuză</WanderConfused.label>
   <!-- EN: Mental state: Confused and wandering -->
-  <WanderConfused.baseInspectLine>TODO</WanderConfused.baseInspectLine>
+  <WanderConfused.baseInspectLine>Stare mentală: Confuzie și rătăcire</WanderConfused.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around confused. -->
-  <WanderConfused.beginLetter>TODO</WanderConfused.beginLetter>
+  <WanderConfused.beginLetter>{0} a avut o cădere psihică și rătăcește confuz.</WanderConfused.beginLetter>
   <!-- EN: confusion -->
-  <WanderConfused.beginLetterLabel>TODO</WanderConfused.beginLetterLabel>
+  <WanderConfused.beginLetterLabel>confuzie</WanderConfused.beginLetterLabel>
   <!-- EN: {0} is no longer confused. -->
-  <WanderConfused.recoveryMessage>TODO</WanderConfused.recoveryMessage>
+  <WanderConfused.recoveryMessage>{0} nu mai este confuz.</WanderConfused.recoveryMessage>
   
 </LanguageData>

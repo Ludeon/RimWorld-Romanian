@@ -2,21 +2,14 @@
 <LanguageData>
   
   <!-- EN: concert -->
-  <Concert.label>TODO</Concert.label>
+  <Concert.label>concert</Concert.label>
   <!-- EN: The concert has been cancelled. -->
-  <Concert.calledOffMessage>TODO</Concert.calledOffMessage>
+  <Concert.calledOffMessage>Concertul a fost anulat.</Concert.calledOffMessage>
   <!-- EN: The concert has concluded. -->
-  <Concert.finishedMessage>TODO</Concert.finishedMessage>
+  <Concert.finishedMessage>Concertul s-a încheiat.</Concert.finishedMessage>
   <!-- EN: {ORGANIZER_labelShort} is holding a concert! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost, both from social contact and from the music itself. -->
-  <Concert.letterText>TODO</Concert.letterText>
+  <Concert.letterText>{ORGANIZER_labelShort} organizează un concert! Toți cei care vor merge vor avea parte de recreere și energie socială, precum și de o stare de spirit pozitivă de durată, atât din contactul social, cât și din muzica în sine.</Concert.letterText>
   <!-- EN: Concert -->
-  <Concert.letterTitle>TODO</Concert.letterTitle>
-  
-  <!-- EN: ThroneSpeech -->
-  <ThroneSpeech.label>TODO</ThroneSpeech.label>
-  <!-- EN: {ORGANIZER_labelShort} is giving a speech from the throne.\n\nIf all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <ThroneSpeech.letterText>TODO</ThroneSpeech.letterText>
-  <!-- EN: Speech from the throne -->
-  <ThroneSpeech.letterTitle>TODO</ThroneSpeech.letterTitle>
+  <Concert.letterTitle>Concert</Concert.letterTitle>
   
 </LanguageData>

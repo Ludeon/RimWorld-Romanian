@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: laying egg. -->
-  <LayEgg.reportString>TODO</LayEgg.reportString>
+  <LayEgg.reportString>depune ouă.</LayEgg.reportString>
   
   <!-- EN: maintaining TargetA. -->
-  <Maintain.reportString>TODO</Maintain.reportString>
+  <Maintain.reportString>menține TargetA.</Maintain.reportString>
   
   <!-- EN: mating with TargetA. -->
-  <Mate.reportString>TODO</Mate.reportString>
+  <Mate.reportString>Împerechere cu TargetA.</Mate.reportString>
   
   <!-- EN: nuzzling TargetA. -->
-  <Nuzzle.reportString>TODO</Nuzzle.reportString>
+  <Nuzzle.reportString>se giugiulește cu TargetA.</Nuzzle.reportString>
   
   <!-- EN: hunting TargetA. -->
-  <PredatorHunt.reportString>TODO</PredatorHunt.reportString>
+  <PredatorHunt.reportString>vânează TargetA.</PredatorHunt.reportString>
   
 </LanguageData>

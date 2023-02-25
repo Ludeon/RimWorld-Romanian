@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: burn -->
-  <Burn.label>TODO</Burn.label>
+  <Burn.label>arsură</Burn.label>
   <!-- EN: {0} has burned to death. -->
-  <Burn.deathMessage>TODO</Burn.deathMessage>
+  <Burn.deathMessage>{0} a ars de viu</Burn.deathMessage>
   
   <!-- EN: flame -->
-  <Flame.label>TODO</Flame.label>
+  <Flame.label>flacără</Flame.label>
   <!-- EN: {0} has burned to death. -->
-  <Flame.deathMessage>TODO</Flame.deathMessage>
+  <Flame.deathMessage>{0} a ars de viu</Flame.deathMessage>
   
   <!-- EN: frostbite -->
-  <Frostbite.label>TODO</Frostbite.label>
+  <Frostbite.label>degerătură</Frostbite.label>
   <!-- EN: {0} has succumbed to frostbite. -->
-  <Frostbite.deathMessage>TODO</Frostbite.deathMessage>
+  <Frostbite.deathMessage>{0} a murit prin degerături</Frostbite.deathMessage>
   
   <!-- EN: scratch -->
-  <TornadoScratch.label>TODO</TornadoScratch.label>
+  <TornadoScratch.label>zgârâietură</TornadoScratch.label>
   <!-- EN: {0} has been killed by a tornado. -->
-  <TornadoScratch.deathMessage>TODO</TornadoScratch.deathMessage>
+  <TornadoScratch.deathMessage>{0} a fost ucis de o tornadă</TornadoScratch.deathMessage>
   
 </LanguageData>

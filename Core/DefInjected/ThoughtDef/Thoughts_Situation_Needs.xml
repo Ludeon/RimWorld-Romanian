@@ -2,190 +2,211 @@
 <LanguageData>
   
   <!-- EN: chemical want -->
-  <DrugDesireFascination.stages.chemical_want.label>TODO</DrugDesireFascination.stages.chemical_want.label>
+  <DrugDesireFascination.stages.chemical_want.label>dorință chimică</DrugDesireFascination.stages.chemical_want.label>
   <!-- EN: I'm fascinated by drugs. I want to experience them more. -->
-  <DrugDesireFascination.stages.chemical_want.description>TODO</DrugDesireFascination.stages.chemical_want.description>
+  <DrugDesireFascination.stages.chemical_want.description>Sunt fascinat de droguri. Vreau să le experimentez mai mult.</DrugDesireFascination.stages.chemical_want.description>
   <!-- EN: chemical hunger -->
-  <DrugDesireFascination.stages.chemical_hunger.label>TODO</DrugDesireFascination.stages.chemical_hunger.label>
+  <DrugDesireFascination.stages.chemical_hunger.label>foame chimică</DrugDesireFascination.stages.chemical_hunger.label>
   <!-- EN: I'm fascinated by drugs. I want to experience them a lot harder. -->
-  <DrugDesireFascination.stages.chemical_hunger.description>TODO</DrugDesireFascination.stages.chemical_hunger.description>
+  <DrugDesireFascination.stages.chemical_hunger.description>Sunt fascinat de droguri. Vreau să le experimentez mult mai mult.</DrugDesireFascination.stages.chemical_hunger.description>
   <!-- EN: chemical starvation -->
-  <DrugDesireFascination.stages.chemical_starvation.label>TODO</DrugDesireFascination.stages.chemical_starvation.label>
+  <DrugDesireFascination.stages.chemical_starvation.label>înfometare chimică</DrugDesireFascination.stages.chemical_starvation.label>
   <!-- EN: I'm fascinated by drugs. I want them! More intensity! -->
-  <DrugDesireFascination.stages.chemical_starvation.description>TODO</DrugDesireFascination.stages.chemical_starvation.description>
+  <DrugDesireFascination.stages.chemical_starvation.description>Sunt fascinat de droguri. Le doresc! Mai multă intensitate!</DrugDesireFascination.stages.chemical_starvation.description>
   
   <!-- EN: chemical comfort -->
-  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>TODO</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>confort chimic</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
   <!-- EN: I'm fascinated by drugs, and I love satisfying my desires. -->
-  <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>TODO</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>Sunt fascinat de droguri și îmi place să-mi satisfac dorințele.</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
   <!-- EN: chemical satisfaction -->
-  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>TODO</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>satisfacție chimică</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
   <!-- EN: I'm fascinated by drugs, and I am fully satisfied with my drug consumption. -->
-  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>TODO</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>Sunt fascinat de droguri și sunt pe deplin satisfăcut de consumul meu de droguri.</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
   
   <!-- EN: chemical want -->
-  <DrugDesireInterest.stages.chemical_want.label>TODO</DrugDesireInterest.stages.chemical_want.label>
+  <DrugDesireInterest.stages.chemical_want.label>dorință chimică</DrugDesireInterest.stages.chemical_want.label>
   <!-- EN: I'm interested in drugs. I want to try more. -->
-  <DrugDesireInterest.stages.chemical_want.description>TODO</DrugDesireInterest.stages.chemical_want.description>
+  <DrugDesireInterest.stages.chemical_want.description>Sunt interesat de droguri. Vreau să încerc mai multe.</DrugDesireInterest.stages.chemical_want.description>
   <!-- EN: chemical hunger -->
-  <DrugDesireInterest.stages.chemical_hunger.label>TODO</DrugDesireInterest.stages.chemical_hunger.label>
+  <DrugDesireInterest.stages.chemical_hunger.label>foame chimică</DrugDesireInterest.stages.chemical_hunger.label>
   <!-- EN: I'm interested in drugs. I want to experience a lot more. -->
-  <DrugDesireInterest.stages.chemical_hunger.description>TODO</DrugDesireInterest.stages.chemical_hunger.description>
+  <DrugDesireInterest.stages.chemical_hunger.description>Sunt interesat de droguri. Vreau să experimentez mult mai multe.</DrugDesireInterest.stages.chemical_hunger.description>
   <!-- EN: chemical starvation -->
-  <DrugDesireInterest.stages.chemical_starvation.label>TODO</DrugDesireInterest.stages.chemical_starvation.label>
+  <DrugDesireInterest.stages.chemical_starvation.label>foamete chimică</DrugDesireInterest.stages.chemical_starvation.label>
   <!-- EN: I'm interested in drugs. I want to consume drugs really badly. -->
-  <DrugDesireInterest.stages.chemical_starvation.description>TODO</DrugDesireInterest.stages.chemical_starvation.description>
+  <DrugDesireInterest.stages.chemical_starvation.description>Sunt interesat de droguri. Îmi doresc foarte mult să consum droguri.</DrugDesireInterest.stages.chemical_starvation.description>
   
   <!-- EN: chemical comfort -->
-  <DrugDesireInterestSatisfied.stages.chemical_comfort.label>TODO</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.label>confort chimic</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
   <!-- EN: I'm interested in drugs. I enjoyed satisfying my desire. -->
-  <DrugDesireInterestSatisfied.stages.chemical_comfort.description>TODO</DrugDesireInterestSatisfied.stages.chemical_comfort.description>
+  <DrugDesireInterestSatisfied.stages.chemical_comfort.description>Sunt interesat de droguri. M-am bucurat de satisfacerea dorinței mele.</DrugDesireInterestSatisfied.stages.chemical_comfort.description>
   <!-- EN: chemical satisfaction -->
-  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>TODO</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>satisfacție chimică</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
   <!-- EN: I'm interested in drugs. I am really satisfied with all the drugs I've gotten recently. -->
-  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>TODO</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
+  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>Sunt interesat de droguri. Sunt foarte mulțumit de toate drogurile pe care le-am obținut recent.</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
   
   <!-- EN: hideous environment -->
-  <NeedBeauty.stages.hideous_environment.label>TODO</NeedBeauty.stages.hideous_environment.label>
+  <NeedBeauty.stages.hideous_environment.label>Mediu odios</NeedBeauty.stages.hideous_environment.label>
   <!-- EN: This place is unbearably grotesque. I can't look at this any more. -->
-  <NeedBeauty.stages.hideous_environment.description>TODO</NeedBeauty.stages.hideous_environment.description>
+  <NeedBeauty.stages.hideous_environment.description>Acest loc este insuportabil de grotesc. Nu mă mai pot uita la el.</NeedBeauty.stages.hideous_environment.description>
   <!-- EN: ugly environment -->
-  <NeedBeauty.stages.ugly_environment.label>TODO</NeedBeauty.stages.ugly_environment.label>
+  <NeedBeauty.stages.ugly_environment.label>mediu urât</NeedBeauty.stages.ugly_environment.label>
   <!-- EN: This place is really ugly. I wish I didn't have to look at this any more. -->
-  <NeedBeauty.stages.ugly_environment.description>TODO</NeedBeauty.stages.ugly_environment.description>
+  <NeedBeauty.stages.ugly_environment.description>Locul ăsta este foarte urât. Mi-aș dori să nu mai trebuiască să mă uit la asta.</NeedBeauty.stages.ugly_environment.description>
   <!-- EN: unsightly environment -->
-  <NeedBeauty.stages.unsightly_environment.label>TODO</NeedBeauty.stages.unsightly_environment.label>
+  <NeedBeauty.stages.unsightly_environment.label>mediu inestetic</NeedBeauty.stages.unsightly_environment.label>
   <!-- EN: This place is kind of unsightly. I wish I didn't have to look at all this. -->
-  <NeedBeauty.stages.unsightly_environment.description>TODO</NeedBeauty.stages.unsightly_environment.description>
+  <NeedBeauty.stages.unsightly_environment.description>Locul ăsta e cam inestetic. Mi-aș dori să nu trebuiască să mă uit la toate astea.</NeedBeauty.stages.unsightly_environment.description>
   <!-- EN: pretty environment -->
-  <NeedBeauty.stages.pretty_environment.label>TODO</NeedBeauty.stages.pretty_environment.label>
+  <NeedBeauty.stages.pretty_environment.label>mediu frumos</NeedBeauty.stages.pretty_environment.label>
   <!-- EN: This place looks nice. -->
-  <NeedBeauty.stages.pretty_environment.description>TODO</NeedBeauty.stages.pretty_environment.description>
+  <NeedBeauty.stages.pretty_environment.description>Locul ăsta arată frumos.</NeedBeauty.stages.pretty_environment.description>
   <!-- EN: beautiful environment -->
-  <NeedBeauty.stages.beautiful_environment.label>TODO</NeedBeauty.stages.beautiful_environment.label>
+  <NeedBeauty.stages.beautiful_environment.label>mediu frumos</NeedBeauty.stages.beautiful_environment.label>
   <!-- EN: I really like this place. It's beautiful. -->
-  <NeedBeauty.stages.beautiful_environment.description>TODO</NeedBeauty.stages.beautiful_environment.description>
+  <NeedBeauty.stages.beautiful_environment.description>Îmi place foarte mult acest loc. Este frumos.</NeedBeauty.stages.beautiful_environment.description>
   <!-- EN: gorgeous environment -->
-  <NeedBeauty.stages.gorgeous_environment.label>TODO</NeedBeauty.stages.gorgeous_environment.label>
+  <NeedBeauty.stages.gorgeous_environment.label>mediu superb</NeedBeauty.stages.gorgeous_environment.label>
   <!-- EN: This place is beautiful. It lifts me up and makes me love life. -->
-  <NeedBeauty.stages.gorgeous_environment.description>TODO</NeedBeauty.stages.gorgeous_environment.description>
+  <NeedBeauty.stages.gorgeous_environment.description>Acest loc este frumos. Mă înalță și mă face să iubesc viața.</NeedBeauty.stages.gorgeous_environment.description>
   
   <!-- EN: uncomfortable -->
-  <NeedComfort.stages.uncomfortable.label>TODO</NeedComfort.stages.uncomfortable.label>
+  <NeedComfort.stages.uncomfortable.label>inconfortabil</NeedComfort.stages.uncomfortable.label>
   <!-- EN: I've been kind of uncomfortable recently. We need to get something soft to sit on around here. -->
-  <NeedComfort.stages.uncomfortable.description>TODO</NeedComfort.stages.uncomfortable.description>
+  <NeedComfort.stages.uncomfortable.description>În ultima vreme am fost cam inconfortabil. Trebuie să găsim ceva moale pe care să stăm aici.</NeedComfort.stages.uncomfortable.description>
   <!-- EN: comfortable -->
-  <NeedComfort.stages.comfortable.label>TODO</NeedComfort.stages.comfortable.label>
+  <NeedComfort.stages.comfortable.label>confortabil</NeedComfort.stages.comfortable.label>
   <!-- EN: I've been comfortable recently. -->
-  <NeedComfort.stages.comfortable.description>TODO</NeedComfort.stages.comfortable.description>
+  <NeedComfort.stages.comfortable.description>Am fost confortabil în ultima vreme.</NeedComfort.stages.comfortable.description>
   <!-- EN: quite comfortable -->
-  <NeedComfort.stages.quite_comfortable.label>TODO</NeedComfort.stages.quite_comfortable.label>
+  <NeedComfort.stages.quite_comfortable.label>destul de confortabil</NeedComfort.stages.quite_comfortable.label>
   <!-- EN: I've been very comfortable recently. -->
-  <NeedComfort.stages.quite_comfortable.description>TODO</NeedComfort.stages.quite_comfortable.description>
+  <NeedComfort.stages.quite_comfortable.description>Am fost foarte confortabil în ultima vreme.</NeedComfort.stages.quite_comfortable.description>
   <!-- EN: extremely comfortable -->
-  <NeedComfort.stages.extremely_comfortable.label>TODO</NeedComfort.stages.extremely_comfortable.label>
+  <NeedComfort.stages.extremely_comfortable.label>extrem de confortabil</NeedComfort.stages.extremely_comfortable.label>
   <!-- EN: I've been extremely comfortable recently. This place is so cushy! -->
-  <NeedComfort.stages.extremely_comfortable.description>TODO</NeedComfort.stages.extremely_comfortable.description>
+  <NeedComfort.stages.extremely_comfortable.description>Am fost extrem de confortabil în ultima vreme. Acest loc este atât de confortabil!</NeedComfort.stages.extremely_comfortable.description>
   <!-- EN: luxuriantly comfortable -->
-  <NeedComfort.stages.luxuriantly_comfortable.label>TODO</NeedComfort.stages.luxuriantly_comfortable.label>
+  <NeedComfort.stages.luxuriantly_comfortable.label>luxuriant de confortabil</NeedComfort.stages.luxuriantly_comfortable.label>
   <!-- EN: I am resting on clouds of heaven. -->
-  <NeedComfort.stages.luxuriantly_comfortable.description>TODO</NeedComfort.stages.luxuriantly_comfortable.description>
+  <NeedComfort.stages.luxuriantly_comfortable.description>Mă odihnesc pe nori de rai.</NeedComfort.stages.luxuriantly_comfortable.description>
   
   <!-- EN: hungry -->
-  <NeedFood.stages.hungry.label>TODO</NeedFood.stages.hungry.label>
+  <NeedFood.stages.hungry.label>flămând</NeedFood.stages.hungry.label>
   <!-- EN: I'm really hungry. -->
-  <NeedFood.stages.hungry.description>TODO</NeedFood.stages.hungry.description>
+  <NeedFood.stages.hungry.description>Mi-e foarte foame.</NeedFood.stages.hungry.description>
   <!-- EN: ravenously hungry -->
-  <NeedFood.stages.ravenously_hungry.label>TODO</NeedFood.stages.ravenously_hungry.label>
+  <NeedFood.stages.ravenously_hungry.label>foarte înfometat</NeedFood.stages.ravenously_hungry.label>
   <!-- EN: These hunger pangs are hard to ignore. -->
-  <NeedFood.stages.ravenously_hungry.description>TODO</NeedFood.stages.ravenously_hungry.description>
+  <NeedFood.stages.ravenously_hungry.description>Aceste senzații de foame sunt greu de ignorat.</NeedFood.stages.ravenously_hungry.description>
   <!-- EN: malnourished -->
-  <NeedFood.stages.malnourished.label>TODO</NeedFood.stages.malnourished.label>
+  <NeedFood.stages.malnourished.label>malnutrit</NeedFood.stages.malnourished.label>
   <!-- EN: It's been so long since I ate. I'm all fuzzy and it's hard to focus. My body is starting to waste away. -->
-  <NeedFood.stages.malnourished.description>TODO</NeedFood.stages.malnourished.description>
+  <NeedFood.stages.malnourished.description>A trecut atât de mult timp de când nu am mai mâncat. Sunt amețit și mi-e greu să mă concentrez. Corpul meu începe să se risipească.</NeedFood.stages.malnourished.description>
   <!-- EN: badly malnourished -->
-  <NeedFood.stages.badly_malnourished.label>TODO</NeedFood.stages.badly_malnourished.label>
+  <NeedFood.stages.badly_malnourished.label>malnutriție gravă</NeedFood.stages.badly_malnourished.label>
   <!-- EN: I can feel my body wasting away. My stomach hurts like never before. -->
-  <NeedFood.stages.badly_malnourished.description>TODO</NeedFood.stages.badly_malnourished.description>
+  <NeedFood.stages.badly_malnourished.description>Simt cum corpul meu se epuizează. Mă doare stomacul ca niciodată.</NeedFood.stages.badly_malnourished.description>
   <!-- EN: starving -->
-  <NeedFood.stages.starving.label>TODO</NeedFood.stages.starving.label>
+  <NeedFood.stages.starving.label>înfometat</NeedFood.stages.starving.label>
   <!-- EN: I can barely think about anything but food. My skin is stretching over my bones. Am I going to die? -->
-  <NeedFood.stages.starving.description>TODO</NeedFood.stages.starving.description>
+  <NeedFood.stages.starving.description>Abia mă pot gândi la altceva decât la mâncare. Pielea mi se întinde peste oasele mele. Oare o să mor?</NeedFood.stages.starving.description>
   <!-- EN: advanced starvation -->
-  <NeedFood.stages.advanced_starvation.label>TODO</NeedFood.stages.advanced_starvation.label>
+  <NeedFood.stages.advanced_starvation.label>înfometare avansată</NeedFood.stages.advanced_starvation.label>
   <!-- EN: I can barely move or think about anything but food. My stomach hurts like never before. I feel like I'm going to pass out. -->
-  <NeedFood.stages.advanced_starvation.description>TODO</NeedFood.stages.advanced_starvation.description>
+  <NeedFood.stages.advanced_starvation.description>Abia mă pot mișca sau mă pot gândi la altceva în afară de mâncare. Mă doare stomacul ca niciodată. Simt că o să leșin.</NeedFood.stages.advanced_starvation.description>
   <!-- EN: extreme starvation -->
-  <NeedFood.stages.extreme_starvation.label>TODO</NeedFood.stages.extreme_starvation.label>
+  <NeedFood.stages.extreme_starvation.label>înfometare extremă</NeedFood.stages.extreme_starvation.label>
   <!-- EN: Food... food... anything... please... -->
-  <NeedFood.stages.extreme_starvation.description>TODO</NeedFood.stages.extreme_starvation.description>
+  <NeedFood.stages.extreme_starvation.description>Mâncare... mâncare... orice... te rog...</NeedFood.stages.extreme_starvation.description>
+  
+  <!-- EN: just outdoors -->
+  <NeedIndoors.stages.just_outdoors.label>doar în aer liber</NeedIndoors.stages.just_outdoors.label>
+  <!-- EN: I shouldn’t be outdoors. -->
+  <NeedIndoors.stages.just_outdoors.description>Nu ar trebui să fiu în aer liber.</NeedIndoors.stages.just_outdoors.description>
+  <!-- EN: outdoors -->
+  <NeedIndoors.stages.outdoors.label>în aer liber</NeedIndoors.stages.outdoors.label>
+  <!-- EN: I’ve been outside too much recently. -->
+  <NeedIndoors.stages.outdoors.description>Am stat prea mult afară în ultima vreme.</NeedIndoors.stages.outdoors.description>
+  <!-- EN: long outdoors -->
+  <NeedIndoors.stages.long_outdoors.label>mult timp în aer liber</NeedIndoors.stages.long_outdoors.label>
+  <!-- EN: Being outside so much is wrong for me. -->
+  <NeedIndoors.stages.long_outdoors.description>Să stau atât de mult afară nu e bine pentru mine.</NeedIndoors.stages.long_outdoors.description>
+  <!-- EN: very long outdoors -->
+  <NeedIndoors.stages.very_long_outdoors.label>foarte mult timp în aer liber</NeedIndoors.stages.very_long_outdoors.label>
+  <!-- EN: I’ve been outside way too much recently. This open space is so disturbing. -->
+  <NeedIndoors.stages.very_long_outdoors.description>Am stat mult prea mult afară în ultima vreme. Acest spațiu deschis este atât de tulburător.</NeedIndoors.stages.very_long_outdoors.description>
+  <!-- EN: brutal outdoors -->
+  <NeedIndoors.stages.brutal_outdoors.label>brutal de mult în aer liber</NeedIndoors.stages.brutal_outdoors.label>
+  <!-- EN: These open spaces are driving me insane! -->
+  <NeedIndoors.stages.brutal_outdoors.description>Aceste spații deschise mă înnebunesc!</NeedIndoors.stages.brutal_outdoors.description>
   
   <!-- EN: recreation-starved -->
-  <NeedJoy.stages.recreationstarved.label>TODO</NeedJoy.stages.recreationstarved.label>
+  <NeedJoy.stages.recreationstarved.label>înfometat de recreere</NeedJoy.stages.recreationstarved.label>
   <!-- EN: It's been so long since I did anything for fun on my own time. -->
-  <NeedJoy.stages.recreationstarved.description>TODO</NeedJoy.stages.recreationstarved.description>
+  <NeedJoy.stages.recreationstarved.description>A trecut atât de mult timp de când nu am mai făcut nimic pentru distracție în timpul meu liber.</NeedJoy.stages.recreationstarved.description>
   <!-- EN: recreation-deprived -->
-  <NeedJoy.stages.recreationdeprived.label>TODO</NeedJoy.stages.recreationdeprived.label>
+  <NeedJoy.stages.recreationdeprived.label>lipsit de recreere</NeedJoy.stages.recreationdeprived.label>
   <!-- EN: We need more variation in recreation activities, and I need time to enjoy them. This place is really dull. -->
-  <NeedJoy.stages.recreationdeprived.description>TODO</NeedJoy.stages.recreationdeprived.description>
+  <NeedJoy.stages.recreationdeprived.description>Avem nevoie de mai multă variație în activitățile de recreere și am nevoie de timp pentru a mă bucura de ele. Acest loc este foarte plictisitor.</NeedJoy.stages.recreationdeprived.description>
   <!-- EN: recreation unfulfilled -->
-  <NeedJoy.stages.recreation_unfulfilled.label>TODO</NeedJoy.stages.recreation_unfulfilled.label>
+  <NeedJoy.stages.recreation_unfulfilled.label>recreație neîmplinită</NeedJoy.stages.recreation_unfulfilled.label>
   <!-- EN: We need more variation in the recreation activities, and I need time to enjoy them. -->
-  <NeedJoy.stages.recreation_unfulfilled.description>TODO</NeedJoy.stages.recreation_unfulfilled.description>
+  <NeedJoy.stages.recreation_unfulfilled.description>Avem nevoie de mai multă variație în activitățile de recreere și am nevoie de timp pentru a mă bucura de ele.</NeedJoy.stages.recreation_unfulfilled.description>
   <!-- EN: recreation satisfied -->
-  <NeedJoy.stages.recreation_satisfied.label>TODO</NeedJoy.stages.recreation_satisfied.label>
+  <NeedJoy.stages.recreation_satisfied.label>recreație satisfăcută</NeedJoy.stages.recreation_satisfied.label>
   <!-- EN: I've been having a great time doing various things I like to do. -->
-  <NeedJoy.stages.recreation_satisfied.description>TODO</NeedJoy.stages.recreation_satisfied.description>
+  <NeedJoy.stages.recreation_satisfied.description>M-am simțit foarte bine făcând diverse lucruri care îmi place să le fac.</NeedJoy.stages.recreation_satisfied.description>
   <!-- EN: recreation fully satisfied -->
-  <NeedJoy.stages.recreation_fully_satisfied.label>TODO</NeedJoy.stages.recreation_fully_satisfied.label>
+  <NeedJoy.stages.recreation_fully_satisfied.label>recreație pe deplin satisfăcută</NeedJoy.stages.recreation_fully_satisfied.label>
   <!-- EN: I've been enjoying myself so much, I love it! -->
-  <NeedJoy.stages.recreation_fully_satisfied.description>TODO</NeedJoy.stages.recreation_fully_satisfied.description>
+  <NeedJoy.stages.recreation_fully_satisfied.description>M-am bucurat atât de mult, îmi place!</NeedJoy.stages.recreation_fully_satisfied.description>
   
   <!-- EN: entombed underground -->
-  <NeedOutdoors.stages.entombed_underground.label>TODO</NeedOutdoors.stages.entombed_underground.label>
+  <NeedOutdoors.stages.entombed_underground.label>îngropat sub pământ</NeedOutdoors.stages.entombed_underground.label>
   <!-- EN: I've been underground too long. I feel like the weight of this mountain is crushing me. I need to see the sky and feel the wind. -->
-  <NeedOutdoors.stages.entombed_underground.description>TODO</NeedOutdoors.stages.entombed_underground.description>
+  <NeedOutdoors.stages.entombed_underground.description>Am stat prea mult timp sub pământ. Simt că greutatea acestui munte mă strivește. Am nevoie să văd cerul și să simt vântul.</NeedOutdoors.stages.entombed_underground.description>
   <!-- EN: trapped underground -->
-  <NeedOutdoors.stages.trapped_underground.label>TODO</NeedOutdoors.stages.trapped_underground.label>
+  <NeedOutdoors.stages.trapped_underground.label>prins sub pământ</NeedOutdoors.stages.trapped_underground.label>
   <!-- EN: How long have I been underground? I need to get out in the fresh air and spend some time under the sky. -->
-  <NeedOutdoors.stages.trapped_underground.description>TODO</NeedOutdoors.stages.trapped_underground.description>
+  <NeedOutdoors.stages.trapped_underground.description>Cât timp am stat sub pământ? Am nevoie să ies la aer curat și să petrec ceva timp sub cer.</NeedOutdoors.stages.trapped_underground.description>
   <!-- EN: cabin fever -->
-  <NeedOutdoors.stages.cabin_fever.label>TODO</NeedOutdoors.stages.cabin_fever.label>
+  <NeedOutdoors.stages.cabin_fever.label>febra cabanei</NeedOutdoors.stages.cabin_fever.label>
   <!-- EN: I've spent so long indoors I feel like the roof is pressing in. I need to get out and see the sky. -->
-  <NeedOutdoors.stages.cabin_fever.description>TODO</NeedOutdoors.stages.cabin_fever.description>
+  <NeedOutdoors.stages.cabin_fever.description>Am petrecut atât de mult timp în casă încât simt că mă apasă acoperișul. Am nevoie să ies afară și să văd cerul.</NeedOutdoors.stages.cabin_fever.description>
   <!-- EN: trapped indoors -->
-  <NeedOutdoors.stages.trapped_indoors.label>TODO</NeedOutdoors.stages.trapped_indoors.label>
+  <NeedOutdoors.stages.trapped_indoors.label>prins în capcană în interior</NeedOutdoors.stages.trapped_indoors.label>
   <!-- EN: It's been too long since I've seen the sky. -->
-  <NeedOutdoors.stages.trapped_indoors.description>TODO</NeedOutdoors.stages.trapped_indoors.description>
+  <NeedOutdoors.stages.trapped_indoors.description>A trecut prea mult timp de când nu am mai văzut cerul.</NeedOutdoors.stages.trapped_indoors.description>
   <!-- EN: stuck indoors -->
-  <NeedOutdoors.stages.stuck_indoors.label>TODO</NeedOutdoors.stages.stuck_indoors.label>
+  <NeedOutdoors.stages.stuck_indoors.label>blocat în interior</NeedOutdoors.stages.stuck_indoors.label>
   <!-- EN: I'd like to go outside and get some fresh air. -->
-  <NeedOutdoors.stages.stuck_indoors.description>TODO</NeedOutdoors.stages.stuck_indoors.description>
+  <NeedOutdoors.stages.stuck_indoors.description>Aș vrea să ies afară și să iau puțin aer curat.</NeedOutdoors.stages.stuck_indoors.description>
   
   <!-- EN: drowsy -->
-  <NeedRest.stages.drowsy.label>TODO</NeedRest.stages.drowsy.label>
+  <NeedRest.stages.drowsy.label>somnolent</NeedRest.stages.drowsy.label>
   <!-- EN: I haven't slept in a while. It's hard to keep focus. -->
-  <NeedRest.stages.drowsy.description>TODO</NeedRest.stages.drowsy.description>
+  <NeedRest.stages.drowsy.description>Nu am mai dormit de ceva vreme. Este greu să mă concentrez.</NeedRest.stages.drowsy.description>
   <!-- EN: tired -->
-  <NeedRest.stages.tired.label>TODO</NeedRest.stages.tired.label>
+  <NeedRest.stages.tired.label>obosit</NeedRest.stages.tired.label>
   <!-- EN: I'm so tired. I just want to lay down and rest for a few minutes... -->
-  <NeedRest.stages.tired.description>TODO</NeedRest.stages.tired.description>
+  <NeedRest.stages.tired.description>Sunt foarte obosit. Vreau doar să mă întind și să mă odihnesc pentru câteva minute...</NeedRest.stages.tired.description>
   <!-- EN: exhausted -->
-  <NeedRest.stages.exhausted.label>TODO</NeedRest.stages.exhausted.label>
+  <NeedRest.stages.exhausted.label>epuizat</NeedRest.stages.exhausted.label>
   <!-- EN: I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep... -->
-  <NeedRest.stages.exhausted.description>TODO</NeedRest.stages.exhausted.description>
+  <NeedRest.stages.exhausted.description>Sunt atât de epuizat încât abia mă mai pot ține pe picioare. Pleoapele mele au greutăți de plumb pe ele. Lasă-mă să dorm...</NeedRest.stages.exhausted.description>
   
   <!-- EN: confined interior -->
-  <NeedRoomSize.stages.confined_interior.label>TODO</NeedRoomSize.stages.confined_interior.label>
+  <NeedRoomSize.stages.confined_interior.label>interior închis</NeedRoomSize.stages.confined_interior.label>
   <!-- EN: This space is so tiny. I feel like a rat in a cage. -->
-  <NeedRoomSize.stages.confined_interior.description>TODO</NeedRoomSize.stages.confined_interior.description>
+  <NeedRoomSize.stages.confined_interior.description>Acest spațiu este atât de mic. Mă simt ca un șobolan într-o cușcă.</NeedRoomSize.stages.confined_interior.description>
   <!-- EN: cramped interior -->
-  <NeedRoomSize.stages.cramped_interior.label>TODO</NeedRoomSize.stages.cramped_interior.label>
+  <NeedRoomSize.stages.cramped_interior.label>interior înghesuit</NeedRoomSize.stages.cramped_interior.label>
   <!-- EN: This room is too small. I wish I had more space to move around and breathe. -->
-  <NeedRoomSize.stages.cramped_interior.description>TODO</NeedRoomSize.stages.cramped_interior.description>
+  <NeedRoomSize.stages.cramped_interior.description>Această cameră este prea mică. Mi-aș dori să am mai mult spațiu pentru a mă mișca și a respira.</NeedRoomSize.stages.cramped_interior.description>
   <!-- EN: spacious interior -->
-  <NeedRoomSize.stages.spacious_interior.label>TODO</NeedRoomSize.stages.spacious_interior.label>
+  <NeedRoomSize.stages.spacious_interior.label>interior spațios</NeedRoomSize.stages.spacious_interior.label>
   <!-- EN: This room is so expansive, I feel free. -->
-  <NeedRoomSize.stages.spacious_interior.description>TODO</NeedRoomSize.stages.spacious_interior.description>
+  <NeedRoomSize.stages.spacious_interior.description>Această cameră este atât de spațioasă, încât mă simt liber.</NeedRoomSize.stages.spacious_interior.description>
   
 </LanguageData>

@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: go-juice -->
-  <GoJuice.label>TODO</GoJuice.label>
+  <GoJuice.label>go-juice</GoJuice.label>
   <!-- EN: A synthetic performance-enhancing drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain, increases movement speed, and improves the user's melee and shooting abilities. For psycasters, the drug also instantly increases psyfocus without meditation.\n\nThe military chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit. -->
-  <GoJuice.description>TODO</GoJuice.description>
+  <GoJuice.description>Un drog sintetic de îmbunătățire a performanțelor dezvoltat pentru pușcașii marini spațiali în primele zile ale războiului interplanetar. Go-juice blochează durerea, crește viteza de mișcare și îmbunătățește abilitățile de luptă corp la corp și de tragere ale utilizatorului. Pentru cei care se ocupă de psihic, drogul crește instantaneu concentrarea psihică fără meditație.\n\nChimiștii militari care l-au creat nu au reușit niciodată să-i înlăture dependența. Unii au văzut acest lucru ca pe un dezavantaj, alții l-au văzut ca pe un beneficiu.</GoJuice.description>
   <!-- EN: Inject {0} -->
-  <GoJuice.ingestible.ingestCommandString>TODO</GoJuice.ingestible.ingestCommandString>
+  <GoJuice.ingestible.ingestCommandString>Injectează {0}</GoJuice.ingestible.ingestCommandString>
   <!-- EN: Injecting {0}. -->
-  <GoJuice.ingestible.ingestReportString>TODO</GoJuice.ingestible.ingestReportString>
+  <GoJuice.ingestible.ingestReportString>Injectează {0}.</GoJuice.ingestible.ingestReportString>
   
 </LanguageData>

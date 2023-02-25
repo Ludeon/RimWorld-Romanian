@@ -2,591 +2,654 @@
 <LanguageData>
   
   <!-- EN: release prisoners -->
-  <BasicReleasePrisoner.label>TODO</BasicReleasePrisoner.label>
+  <BasicReleasePrisoner.label>eliberează deținuți</BasicReleasePrisoner.label>
   <!-- EN: releasing -->
-  <BasicReleasePrisoner.gerund>TODO</BasicReleasePrisoner.gerund>
+  <BasicReleasePrisoner.gerund>eliberând</BasicReleasePrisoner.gerund>
   <!-- EN: release -->
-  <BasicReleasePrisoner.verb>TODO</BasicReleasePrisoner.verb>
+  <BasicReleasePrisoner.verb>eliberează</BasicReleasePrisoner.verb>
   
   <!-- EN: build roofs -->
-  <BuildRoofs.label>TODO</BuildRoofs.label>
+  <BuildRoofs.label>construiește acoperișuri</BuildRoofs.label>
   <!-- EN: building roof -->
-  <BuildRoofs.gerund>TODO</BuildRoofs.gerund>
+  <BuildRoofs.gerund>construind acoperișuri</BuildRoofs.gerund>
   <!-- EN: build roof -->
-  <BuildRoofs.verb>TODO</BuildRoofs.verb>
+  <BuildRoofs.verb>construiește acoperișuri</BuildRoofs.verb>
   
   <!-- EN: chat with prisoners -->
-  <ChatWithPrisoner.label>TODO</ChatWithPrisoner.label>
+  <ChatWithPrisoner.label>discută cu deținuții</ChatWithPrisoner.label>
   <!-- EN: chatting with -->
-  <ChatWithPrisoner.gerund>TODO</ChatWithPrisoner.gerund>
+  <ChatWithPrisoner.gerund>discutând cu</ChatWithPrisoner.gerund>
   <!-- EN: chat with -->
-  <ChatWithPrisoner.verb>TODO</ChatWithPrisoner.verb>
+  <ChatWithPrisoner.verb>discută cu</ChatWithPrisoner.verb>
   
   <!-- EN: clear snow -->
-  <CleanClearSnow.label>TODO</CleanClearSnow.label>
+  <CleanClearSnow.label>curăță zăpada</CleanClearSnow.label>
   <!-- EN: clearing snow -->
-  <CleanClearSnow.gerund>TODO</CleanClearSnow.gerund>
+  <CleanClearSnow.gerund>curățând zăpada</CleanClearSnow.gerund>
   <!-- EN: clear snow -->
-  <CleanClearSnow.verb>TODO</CleanClearSnow.verb>
+  <CleanClearSnow.verb>curăță zăpada</CleanClearSnow.verb>
   
   <!-- EN: clean filth -->
-  <CleanFilth.label>TODO</CleanFilth.label>
+  <CleanFilth.label>curăță murdăria</CleanFilth.label>
   <!-- EN: cleaning -->
-  <CleanFilth.gerund>TODO</CleanFilth.gerund>
+  <CleanFilth.gerund>curățând</CleanFilth.gerund>
   <!-- EN: clean -->
-  <CleanFilth.verb>TODO</CleanFilth.verb>
+  <CleanFilth.verb>curăță</CleanFilth.verb>
   
   <!-- EN: deliver resources to blueprints -->
-  <ConstructDeliverResourcesToBlueprints.label>TODO</ConstructDeliverResourcesToBlueprints.label>
+  <ConstructDeliverResourcesToBlueprints.label>livrează resurse către planuri</ConstructDeliverResourcesToBlueprints.label>
   <!-- EN: working on -->
-  <ConstructDeliverResourcesToBlueprints.gerund>TODO</ConstructDeliverResourcesToBlueprints.gerund>
+  <ConstructDeliverResourcesToBlueprints.gerund>lucrând la</ConstructDeliverResourcesToBlueprints.gerund>
   <!-- EN: work on -->
-  <ConstructDeliverResourcesToBlueprints.verb>TODO</ConstructDeliverResourcesToBlueprints.verb>
+  <ConstructDeliverResourcesToBlueprints.verb>lucrează la</ConstructDeliverResourcesToBlueprints.verb>
   
   <!-- EN: deliver resources to frames -->
-  <ConstructDeliverResourcesToFrames.label>TODO</ConstructDeliverResourcesToFrames.label>
+  <ConstructDeliverResourcesToFrames.label>livrează resurse la cadre</ConstructDeliverResourcesToFrames.label>
   <!-- EN: working on -->
-  <ConstructDeliverResourcesToFrames.gerund>TODO</ConstructDeliverResourcesToFrames.gerund>
+  <ConstructDeliverResourcesToFrames.gerund>lucrând la</ConstructDeliverResourcesToFrames.gerund>
   <!-- EN: work on -->
-  <ConstructDeliverResourcesToFrames.verb>TODO</ConstructDeliverResourcesToFrames.verb>
+  <ConstructDeliverResourcesToFrames.verb>lucrează la</ConstructDeliverResourcesToFrames.verb>
   
   <!-- EN: construct placed frames -->
-  <ConstructFinishFrames.label>TODO</ConstructFinishFrames.label>
+  <ConstructFinishFrames.label>construiește cadre plasate</ConstructFinishFrames.label>
   <!-- EN: constructing -->
-  <ConstructFinishFrames.gerund>TODO</ConstructFinishFrames.gerund>
+  <ConstructFinishFrames.gerund>construind</ConstructFinishFrames.gerund>
   <!-- EN: construct -->
-  <ConstructFinishFrames.verb>TODO</ConstructFinishFrames.verb>
+  <ConstructFinishFrames.verb>construiește</ConstructFinishFrames.verb>
   
   <!-- EN: remove floors -->
-  <ConstructRemoveFloors.label>TODO</ConstructRemoveFloors.label>
+  <ConstructRemoveFloors.label>înlătură podele</ConstructRemoveFloors.label>
   <!-- EN: removing floor -->
-  <ConstructRemoveFloors.gerund>TODO</ConstructRemoveFloors.gerund>
+  <ConstructRemoveFloors.gerund>înlăturând podeaua</ConstructRemoveFloors.gerund>
   <!-- EN: remove floor -->
-  <ConstructRemoveFloors.verb>TODO</ConstructRemoveFloors.verb>
+  <ConstructRemoveFloors.verb>înlătură podeaua</ConstructRemoveFloors.verb>
   
   <!-- EN: smooth floors -->
-  <ConstructSmoothFloors.label>TODO</ConstructSmoothFloors.label>
+  <ConstructSmoothFloors.label>netezește podelele</ConstructSmoothFloors.label>
   <!-- EN: smoothing -->
-  <ConstructSmoothFloors.gerund>TODO</ConstructSmoothFloors.gerund>
+  <ConstructSmoothFloors.gerund>netezind</ConstructSmoothFloors.gerund>
   <!-- EN: smooth -->
-  <ConstructSmoothFloors.verb>TODO</ConstructSmoothFloors.verb>
+  <ConstructSmoothFloors.verb>netezește</ConstructSmoothFloors.verb>
   
   <!-- EN: smooth walls -->
-  <ConstructSmoothWalls.label>TODO</ConstructSmoothWalls.label>
+  <ConstructSmoothWalls.label>netezește pereți</ConstructSmoothWalls.label>
   <!-- EN: smoothing -->
-  <ConstructSmoothWalls.gerund>TODO</ConstructSmoothWalls.gerund>
+  <ConstructSmoothWalls.gerund>netezând</ConstructSmoothWalls.gerund>
   <!-- EN: smooth -->
-  <ConstructSmoothWalls.verb>TODO</ConstructSmoothWalls.verb>
+  <ConstructSmoothWalls.verb>netezește</ConstructSmoothWalls.verb>
   
   <!-- EN: fill food hoppers -->
-  <CookFillHopper.label>TODO</CookFillHopper.label>
+  <CookFillHopper.label>umple pâlnia alimentară</CookFillHopper.label>
   <!-- EN: filling -->
-  <CookFillHopper.gerund>TODO</CookFillHopper.gerund>
+  <CookFillHopper.gerund>umplând</CookFillHopper.gerund>
   <!-- EN: fill -->
-  <CookFillHopper.verb>TODO</CookFillHopper.verb>
+  <CookFillHopper.verb>umple</CookFillHopper.verb>
   
   <!-- EN: deconstruct structures -->
-  <Deconstruct.label>TODO</Deconstruct.label>
+  <Deconstruct.label>deconstruiește structuri</Deconstruct.label>
   <!-- EN: deconstructing -->
-  <Deconstruct.gerund>TODO</Deconstruct.gerund>
+  <Deconstruct.gerund>deconstruind</Deconstruct.gerund>
   <!-- EN: deconstruct -->
-  <Deconstruct.verb>TODO</Deconstruct.verb>
+  <Deconstruct.verb>deconstruiește</Deconstruct.verb>
   
   <!-- EN: deliver food to prisoners -->
-  <DeliverFoodToPrisoner.label>TODO</DeliverFoodToPrisoner.label>
+  <DeliverFoodToPrisoner.label>livrează mâncare deținuților</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
-  <DeliverFoodToPrisoner.gerund>TODO</DeliverFoodToPrisoner.gerund>
+  <DeliverFoodToPrisoner.gerund>livrând alimente pentru</DeliverFoodToPrisoner.gerund>
   <!-- EN: deliver food for -->
-  <DeliverFoodToPrisoner.verb>TODO</DeliverFoodToPrisoner.verb>
+  <DeliverFoodToPrisoner.verb>livrează alimente pentru</DeliverFoodToPrisoner.verb>
   
   <!-- EN: deliver resources to blueprints -->
-  <DeliverResourcesToBlueprints.label>TODO</DeliverResourcesToBlueprints.label>
+  <DeliverResourcesToBlueprints.label>livrează resurse pentru schițe</DeliverResourcesToBlueprints.label>
   <!-- EN: delivering to -->
-  <DeliverResourcesToBlueprints.gerund>TODO</DeliverResourcesToBlueprints.gerund>
+  <DeliverResourcesToBlueprints.gerund>livrând către</DeliverResourcesToBlueprints.gerund>
   <!-- EN: deliver to -->
-  <DeliverResourcesToBlueprints.verb>TODO</DeliverResourcesToBlueprints.verb>
+  <DeliverResourcesToBlueprints.verb>livrează către</DeliverResourcesToBlueprints.verb>
   
   <!-- EN: deliver resources to frames -->
-  <DeliverResourcesToFrames.label>TODO</DeliverResourcesToFrames.label>
+  <DeliverResourcesToFrames.label>livrează resurse la cadre</DeliverResourcesToFrames.label>
   <!-- EN: delivering to -->
-  <DeliverResourcesToFrames.gerund>TODO</DeliverResourcesToFrames.gerund>
+  <DeliverResourcesToFrames.gerund>livrând către</DeliverResourcesToFrames.gerund>
   <!-- EN: deliver to -->
-  <DeliverResourcesToFrames.verb>TODO</DeliverResourcesToFrames.verb>
+  <DeliverResourcesToFrames.verb>livrează către</DeliverResourcesToFrames.verb>
   
   <!-- EN: brew liquors -->
-  <DoBillsBrew.label>TODO</DoBillsBrew.label>
+  <DoBillsBrew.label>prepară băuturi alcoolice</DoBillsBrew.label>
   <!-- EN: brewing at -->
-  <DoBillsBrew.gerund>TODO</DoBillsBrew.gerund>
+  <DoBillsBrew.gerund>fabricând bere la</DoBillsBrew.gerund>
   <!-- EN: brew -->
-  <DoBillsBrew.verb>TODO</DoBillsBrew.verb>
+  <DoBillsBrew.verb>fabrică bere</DoBillsBrew.verb>
   
   <!-- EN: butcher creatures -->
-  <DoBillsButcherFlesh.label>TODO</DoBillsButcherFlesh.label>
+  <DoBillsButcherFlesh.label>măcelărește creaturi</DoBillsButcherFlesh.label>
   <!-- EN: butchering at -->
-  <DoBillsButcherFlesh.gerund>TODO</DoBillsButcherFlesh.gerund>
+  <DoBillsButcherFlesh.gerund>măcelărind la</DoBillsButcherFlesh.gerund>
   <!-- EN: butcher -->
-  <DoBillsButcherFlesh.verb>TODO</DoBillsButcherFlesh.verb>
+  <DoBillsButcherFlesh.verb>măcelărește</DoBillsButcherFlesh.verb>
   
   <!-- EN: cook meals at stove -->
-  <DoBillsCook.label>TODO</DoBillsCook.label>
+  <DoBillsCook.label>gătește mese la aragaz</DoBillsCook.label>
   <!-- EN: cooking at -->
-  <DoBillsCook.gerund>TODO</DoBillsCook.gerund>
+  <DoBillsCook.gerund>gătind la</DoBillsCook.gerund>
   <!-- EN: cook -->
-  <DoBillsCook.verb>TODO</DoBillsCook.verb>
+  <DoBillsCook.verb>gătește</DoBillsCook.verb>
   
   <!-- EN: cook meals at campfire -->
-  <DoBillsCookCampfire.label>TODO</DoBillsCookCampfire.label>
+  <DoBillsCookCampfire.label>gătește mese la foc de tabără</DoBillsCookCampfire.label>
   <!-- EN: cooking at -->
-  <DoBillsCookCampfire.gerund>TODO</DoBillsCookCampfire.gerund>
+  <DoBillsCookCampfire.gerund>gătind la</DoBillsCookCampfire.gerund>
   <!-- EN: cook -->
-  <DoBillsCookCampfire.verb>TODO</DoBillsCookCampfire.verb>
+  <DoBillsCookCampfire.verb>gătește</DoBillsCookCampfire.verb>
   
   <!-- EN: do cremation bills -->
-  <DoBillsCremate.label>TODO</DoBillsCremate.label>
+  <DoBillsCremate.label>fă slujbe de cremare la</DoBillsCremate.label>
   <!-- EN: cremating at -->
-  <DoBillsCremate.gerund>TODO</DoBillsCremate.gerund>
+  <DoBillsCremate.gerund>cremând la</DoBillsCremate.gerund>
   <!-- EN: cremate -->
-  <DoBillsCremate.verb>TODO</DoBillsCremate.verb>
+  <DoBillsCremate.verb>cremează</DoBillsCremate.verb>
   
   <!-- EN: fabricate things -->
-  <DoBillsFabricationBench.label>TODO</DoBillsFabricationBench.label>
+  <DoBillsFabricationBench.label>fabrică lucruri</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
-  <DoBillsFabricationBench.gerund>TODO</DoBillsFabricationBench.gerund>
-  <!-- EN: fabricating things -->
-  <DoBillsFabricationBench.verb>TODO</DoBillsFabricationBench.verb>
+  <DoBillsFabricationBench.gerund>fabricând lucruri la</DoBillsFabricationBench.gerund>
+  <!-- EN: fabricate -->
+  <DoBillsFabricationBench.verb>fabrică lucruri</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
-  <DoBillsHaulCampfire.label>TODO</DoBillsHaulCampfire.label>
+  <DoBillsHaulCampfire.label>fă slujbe la focul de tabără</DoBillsHaulCampfire.label>
   <!-- EN: working at -->
-  <DoBillsHaulCampfire.gerund>TODO</DoBillsHaulCampfire.gerund>
+  <DoBillsHaulCampfire.gerund>lucrând la</DoBillsHaulCampfire.gerund>
   <!-- EN: work at -->
-  <DoBillsHaulCampfire.verb>TODO</DoBillsHaulCampfire.verb>
+  <DoBillsHaulCampfire.verb>lucrează la</DoBillsHaulCampfire.verb>
   
   <!-- EN: make things at machining table -->
-  <DoBillsMachiningTable.label>TODO</DoBillsMachiningTable.label>
+  <DoBillsMachiningTable.label>fă lucruri la masa de prelucrare</DoBillsMachiningTable.label>
   <!-- EN: working at -->
-  <DoBillsMachiningTable.gerund>TODO</DoBillsMachiningTable.gerund>
+  <DoBillsMachiningTable.gerund>lucrând la</DoBillsMachiningTable.gerund>
   <!-- EN: work -->
-  <DoBillsMachiningTable.verb>TODO</DoBillsMachiningTable.verb>
+  <DoBillsMachiningTable.verb>lucrează la</DoBillsMachiningTable.verb>
   
   <!-- EN: make apparel -->
-  <DoBillsMakeApparel.label>TODO</DoBillsMakeApparel.label>
+  <DoBillsMakeApparel.label>croitorește îmbrăcăminte</DoBillsMakeApparel.label>
   <!-- EN: tailoring at -->
-  <DoBillsMakeApparel.gerund>TODO</DoBillsMakeApparel.gerund>
+  <DoBillsMakeApparel.gerund>croitorind la</DoBillsMakeApparel.gerund>
   <!-- EN: tailor -->
-  <DoBillsMakeApparel.verb>TODO</DoBillsMakeApparel.verb>
+  <DoBillsMakeApparel.verb>croiește</DoBillsMakeApparel.verb>
   
   <!-- EN: make weapons -->
-  <DoBillsMakeWeapons.label>TODO</DoBillsMakeWeapons.label>
+  <DoBillsMakeWeapons.label>fă arme</DoBillsMakeWeapons.label>
   <!-- EN: smithing at -->
-  <DoBillsMakeWeapons.gerund>TODO</DoBillsMakeWeapons.gerund>
+  <DoBillsMakeWeapons.gerund>forjând la</DoBillsMakeWeapons.gerund>
   <!-- EN: smith -->
-  <DoBillsMakeWeapons.verb>TODO</DoBillsMakeWeapons.verb>
+  <DoBillsMakeWeapons.verb>forjare</DoBillsMakeWeapons.verb>
   
   <!-- EN: operate on animals -->
-  <DoBillsMedicalAnimalOperation.label>TODO</DoBillsMedicalAnimalOperation.label>
+  <DoBillsMedicalAnimalOperation.label>operează pe animale</DoBillsMedicalAnimalOperation.label>
   <!-- EN: operating on -->
-  <DoBillsMedicalAnimalOperation.gerund>TODO</DoBillsMedicalAnimalOperation.gerund>
+  <DoBillsMedicalAnimalOperation.gerund>operând pe</DoBillsMedicalAnimalOperation.gerund>
   <!-- EN: operate on -->
-  <DoBillsMedicalAnimalOperation.verb>TODO</DoBillsMedicalAnimalOperation.verb>
+  <DoBillsMedicalAnimalOperation.verb>operează pe</DoBillsMedicalAnimalOperation.verb>
   
   <!-- EN: operate on humanlikes -->
-  <DoBillsMedicalHumanOperation.label>TODO</DoBillsMedicalHumanOperation.label>
+  <DoBillsMedicalHumanOperation.label>operează pe oameni</DoBillsMedicalHumanOperation.label>
   <!-- EN: operating on -->
-  <DoBillsMedicalHumanOperation.gerund>TODO</DoBillsMedicalHumanOperation.gerund>
+  <DoBillsMedicalHumanOperation.gerund>operând pe</DoBillsMedicalHumanOperation.gerund>
   <!-- EN: operate on -->
-  <DoBillsMedicalHumanOperation.verb>TODO</DoBillsMedicalHumanOperation.verb>
+  <DoBillsMedicalHumanOperation.verb>operează pe</DoBillsMedicalHumanOperation.verb>
   
   <!-- EN: synthesize drugs -->
-  <DoBillsProduceDrugs.label>TODO</DoBillsProduceDrugs.label>
+  <DoBillsProduceDrugs.label>sintetizează droguri</DoBillsProduceDrugs.label>
   <!-- EN: producing drugs at -->
-  <DoBillsProduceDrugs.gerund>TODO</DoBillsProduceDrugs.gerund>
+  <DoBillsProduceDrugs.gerund>producând droguri la</DoBillsProduceDrugs.gerund>
   <!-- EN: produce drugs -->
-  <DoBillsProduceDrugs.verb>TODO</DoBillsProduceDrugs.verb>
+  <DoBillsProduceDrugs.verb>produ droguri</DoBillsProduceDrugs.verb>
   
   <!-- EN: work at refinery -->
-  <DoBillsRefinery.label>TODO</DoBillsRefinery.label>
+  <DoBillsRefinery.label>lucrează la rafinărie</DoBillsRefinery.label>
   <!-- EN: refining chemicals at -->
-  <DoBillsRefinery.gerund>TODO</DoBillsRefinery.gerund>
+  <DoBillsRefinery.gerund>rafinând chimicale la</DoBillsRefinery.gerund>
   <!-- EN: refine chemicals -->
-  <DoBillsRefinery.verb>TODO</DoBillsRefinery.verb>
+  <DoBillsRefinery.verb>rafinează chimicale</DoBillsRefinery.verb>
   
   <!-- EN: make things at art bench -->
-  <DoBillsSculpt.label>TODO</DoBillsSculpt.label>
+  <DoBillsSculpt.label>fă lucruri la banca de artă</DoBillsSculpt.label>
   <!-- EN: sculpting at -->
-  <DoBillsSculpt.gerund>TODO</DoBillsSculpt.gerund>
+  <DoBillsSculpt.gerund>sculptând la</DoBillsSculpt.gerund>
   <!-- EN: sculpt -->
-  <DoBillsSculpt.verb>TODO</DoBillsSculpt.verb>
+  <DoBillsSculpt.verb>sculptează</DoBillsSculpt.verb>
   
   <!-- EN: smelt items -->
-  <DoBillsSmelter.label>TODO</DoBillsSmelter.label>
+  <DoBillsSmelter.label>topind obiecte</DoBillsSmelter.label>
   <!-- EN: refining at -->
-  <DoBillsSmelter.gerund>TODO</DoBillsSmelter.gerund>
+  <DoBillsSmelter.gerund>rafinând la</DoBillsSmelter.gerund>
   <!-- EN: refine -->
-  <DoBillsSmelter.verb>TODO</DoBillsSmelter.verb>
+  <DoBillsSmelter.verb>rafinează</DoBillsSmelter.verb>
   
   <!-- EN: make stone blocks -->
-  <DoBillsStonecut.label>TODO</DoBillsStonecut.label>
+  <DoBillsStonecut.label>fă blocuri de piatră</DoBillsStonecut.label>
   <!-- EN: cutting stone blocks at -->
-  <DoBillsStonecut.gerund>TODO</DoBillsStonecut.gerund>
+  <DoBillsStonecut.gerund>tăiând blocuri de piatră la</DoBillsStonecut.gerund>
   <!-- EN: stonecut -->
-  <DoBillsStonecut.verb>TODO</DoBillsStonecut.verb>
+  <DoBillsStonecut.verb>taie blocuri de piatră</DoBillsStonecut.verb>
   
   <!-- EN: make things at crafting spot -->
-  <DoBillsUseCraftingSpot.label>TODO</DoBillsUseCraftingSpot.label>
+  <DoBillsUseCraftingSpot.label>fă lucruri la locul de artizanat</DoBillsUseCraftingSpot.label>
   <!-- EN: crafting at -->
-  <DoBillsUseCraftingSpot.gerund>TODO</DoBillsUseCraftingSpot.gerund>
+  <DoBillsUseCraftingSpot.gerund>artizanând la</DoBillsUseCraftingSpot.gerund>
   <!-- EN: craft -->
-  <DoBillsUseCraftingSpot.verb>TODO</DoBillsUseCraftingSpot.verb>
+  <DoBillsUseCraftingSpot.verb>artizanează</DoBillsUseCraftingSpot.verb>
   
   <!-- EN: feed animals -->
-  <DoctorFeedAnimals.label>TODO</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.label>hrănește animalele</DoctorFeedAnimals.label>
   <!-- EN: feeding -->
-  <DoctorFeedAnimals.gerund>TODO</DoctorFeedAnimals.gerund>
+  <DoctorFeedAnimals.gerund>hrănind</DoctorFeedAnimals.gerund>
   <!-- EN: feed -->
-  <DoctorFeedAnimals.verb>TODO</DoctorFeedAnimals.verb>
+  <DoctorFeedAnimals.verb>hrănește</DoctorFeedAnimals.verb>
   
   <!-- EN: feed patients -->
-  <DoctorFeedHumanlikes.label>TODO</DoctorFeedHumanlikes.label>
+  <DoctorFeedHumanlikes.label>hrănește pacienții</DoctorFeedHumanlikes.label>
   <!-- EN: feeding -->
-  <DoctorFeedHumanlikes.gerund>TODO</DoctorFeedHumanlikes.gerund>
+  <DoctorFeedHumanlikes.gerund>hrănind</DoctorFeedHumanlikes.gerund>
   <!-- EN: feed -->
-  <DoctorFeedHumanlikes.verb>TODO</DoctorFeedHumanlikes.verb>
+  <DoctorFeedHumanlikes.verb>hrănește</DoctorFeedHumanlikes.verb>
   
   <!-- EN: rescue downed allies to bed -->
-  <DoctorRescue.label>TODO</DoctorRescue.label>
+  <DoctorRescue.label>salvează aliații doborâți spre un pat</DoctorRescue.label>
   <!-- EN: rescuing -->
-  <DoctorRescue.gerund>TODO</DoctorRescue.gerund>
+  <DoctorRescue.gerund>salvând</DoctorRescue.gerund>
   <!-- EN: rescue -->
-  <DoctorRescue.verb>TODO</DoctorRescue.verb>
+  <DoctorRescue.verb>salvează</DoctorRescue.verb>
   
   <!-- EN: tend to patients with urgent needs -->
-  <DoctorTendEmergency.label>TODO</DoctorTendEmergency.label>
+  <DoctorTendEmergency.label>tratează pacienți cu nevoi urgente</DoctorTendEmergency.label>
   <!-- EN: tending to -->
-  <DoctorTendEmergency.gerund>TODO</DoctorTendEmergency.gerund>
+  <DoctorTendEmergency.gerund>tratând</DoctorTendEmergency.gerund>
   <!-- EN: tend to -->
-  <DoctorTendEmergency.verb>TODO</DoctorTendEmergency.verb>
+  <DoctorTendEmergency.verb>tratează pe</DoctorTendEmergency.verb>
   
   <!-- EN: tend to animals -->
-  <DoctorTendToAnimals.label>TODO</DoctorTendToAnimals.label>
+  <DoctorTendToAnimals.label>tratează animale</DoctorTendToAnimals.label>
   <!-- EN: tending to -->
-  <DoctorTendToAnimals.gerund>TODO</DoctorTendToAnimals.gerund>
+  <DoctorTendToAnimals.gerund>tratând pe</DoctorTendToAnimals.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToAnimals.verb>TODO</DoctorTendToAnimals.verb>
+  <DoctorTendToAnimals.verb>tratează pe</DoctorTendToAnimals.verb>
   
   <!-- EN: tend to patients -->
-  <DoctorTendToHumanlikes.label>TODO</DoctorTendToHumanlikes.label>
+  <DoctorTendToHumanlikes.label>tratează pacienți</DoctorTendToHumanlikes.label>
   <!-- EN: tending to -->
-  <DoctorTendToHumanlikes.gerund>TODO</DoctorTendToHumanlikes.gerund>
+  <DoctorTendToHumanlikes.gerund>tratând pe</DoctorTendToHumanlikes.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToHumanlikes.verb>TODO</DoctorTendToHumanlikes.verb>
+  <DoctorTendToHumanlikes.verb>tratează pe</DoctorTendToHumanlikes.verb>
   
   <!-- EN: tend to self -->
-  <DoctorTendToSelf.label>TODO</DoctorTendToSelf.label>
+  <DoctorTendToSelf.label>tratează pe sine</DoctorTendToSelf.label>
   <!-- EN: tending to -->
-  <DoctorTendToSelf.gerund>TODO</DoctorTendToSelf.gerund>
+  <DoctorTendToSelf.gerund>tratând pe</DoctorTendToSelf.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToSelf.verb>TODO</DoctorTendToSelf.verb>
+  <DoctorTendToSelf.verb>tratează pe</DoctorTendToSelf.verb>
   
   <!-- EN: tend to self -->
-  <DoctorTendToSelfEmergency.label>TODO</DoctorTendToSelfEmergency.label>
+  <DoctorTendToSelfEmergency.label>tratează pe sine</DoctorTendToSelfEmergency.label>
   <!-- EN: tending to -->
-  <DoctorTendToSelfEmergency.gerund>TODO</DoctorTendToSelfEmergency.gerund>
+  <DoctorTendToSelfEmergency.gerund>tratând pe</DoctorTendToSelfEmergency.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToSelfEmergency.verb>TODO</DoctorTendToSelfEmergency.verb>
+  <DoctorTendToSelfEmergency.verb>tratează pe</DoctorTendToSelfEmergency.verb>
   
   <!-- EN: execute prisoners -->
-  <DoExecution.label>TODO</DoExecution.label>
-  <!-- EN: doing execution on -->
-  <DoExecution.gerund>TODO</DoExecution.gerund>
-  <!-- EN: do execution on -->
-  <DoExecution.verb>TODO</DoExecution.verb>
+  <DoExecution.label>execută prizonieri</DoExecution.label>
+  <!-- EN: executing -->
+  <DoExecution.gerund>executând pe</DoExecution.gerund>
+  <!-- EN: execute -->
+  <DoExecution.verb>execută pe</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
-  <Drill.label>TODO</Drill.label>
+  <Drill.label>forează la foraj adânc</Drill.label>
   <!-- EN: drilling -->
-  <Drill.gerund>TODO</Drill.gerund>
+  <Drill.gerund>forând</Drill.gerund>
   <!-- EN: drill -->
-  <Drill.verb>TODO</Drill.verb>
+  <Drill.verb>forează</Drill.verb>
+  
+  <!-- EN: empty egg box -->
+  <EmptyEggBox.label>cutie de ouă goală</EmptyEggBox.label>
+  <!-- EN: emptying -->
+  <EmptyEggBox.gerund>golire</EmptyEggBox.gerund>
+  <!-- EN: empty -->
+  <EmptyEggBox.verb>gol</EmptyEggBox.verb>
+  
+  <!-- EN: execute guilty colonists -->
+  <ExecuteGuiltyColonist.label>execută coloniștii vinovați</ExecuteGuiltyColonist.label>
+  <!-- EN: executing -->
+  <ExecuteGuiltyColonist.gerund>executând</ExecuteGuiltyColonist.gerund>
+  <!-- EN: execute -->
+  <ExecuteGuiltyColonist.verb>execută</ExecuteGuiltyColonist.verb>
+  
+  <!-- EN: extract trees -->
+  <ExtractTree.label>extrage copaci</ExtractTree.label>
+  <!-- EN: extracting -->
+  <ExtractTree.gerund>extrăgând</ExtractTree.gerund>
+  <!-- EN: extract -->
+  <ExtractTree.verb>extrage</ExtractTree.verb>
   
   <!-- EN: feed prisoners -->
-  <FeedPrisoner.label>TODO</FeedPrisoner.label>
+  <FeedPrisoner.label>hrănește prizonieri</FeedPrisoner.label>
   <!-- EN: feeding -->
-  <FeedPrisoner.gerund>TODO</FeedPrisoner.gerund>
+  <FeedPrisoner.gerund>hrănind</FeedPrisoner.gerund>
   <!-- EN: feed -->
-  <FeedPrisoner.verb>TODO</FeedPrisoner.verb>
+  <FeedPrisoner.verb>hrănește</FeedPrisoner.verb>
   
   <!-- EN: fight fires -->
-  <FightFires.label>TODO</FightFires.label>
+  <FightFires.label>luptă împotriva incendiilor</FightFires.label>
   <!-- EN: extinguishing -->
-  <FightFires.gerund>TODO</FightFires.gerund>
+  <FightFires.gerund>stingând</FightFires.gerund>
   <!-- EN: extinguish -->
-  <FightFires.verb>TODO</FightFires.verb>
+  <FightFires.verb>stinge</FightFires.verb>
   
   <!-- EN: fill fermenting barrels -->
-  <FillFermentingBarrel.label>TODO</FillFermentingBarrel.label>
+  <FillFermentingBarrel.label>umple butoaie de fermentare</FillFermentingBarrel.label>
   <!-- EN: filling -->
-  <FillFermentingBarrel.gerund>TODO</FillFermentingBarrel.gerund>
+  <FillFermentingBarrel.gerund>umplând</FillFermentingBarrel.gerund>
   <!-- EN: fill -->
-  <FillFermentingBarrel.verb>TODO</FillFermentingBarrel.verb>
+  <FillFermentingBarrel.verb>umple</FillFermentingBarrel.verb>
   
   <!-- EN: fix broken-down buildings -->
-  <FixBrokenDownBuilding.label>TODO</FixBrokenDownBuilding.label>
+  <FixBrokenDownBuilding.label>repară clădirile avariate</FixBrokenDownBuilding.label>
   <!-- EN: replacing broken components in -->
-  <FixBrokenDownBuilding.gerund>TODO</FixBrokenDownBuilding.gerund>
+  <FixBrokenDownBuilding.gerund>înlocuind componentele stricate în</FixBrokenDownBuilding.gerund>
   <!-- EN: replace broken components in -->
-  <FixBrokenDownBuilding.verb>TODO</FixBrokenDownBuilding.verb>
+  <FixBrokenDownBuilding.verb>înlocuiește componentele stricate în</FixBrokenDownBuilding.verb>
   
   <!-- EN: flick switches -->
-  <Flick.label>TODO</Flick.label>
+  <Flick.label>comută întrerupătoarele</Flick.label>
   <!-- EN: flicking switch on -->
-  <Flick.gerund>TODO</Flick.gerund>
+  <Flick.gerund>apăsând întrerupătorul</Flick.gerund>
   <!-- EN: flick switch on -->
-  <Flick.verb>TODO</Flick.verb>
+  <Flick.verb>apasă pe întrerupător</Flick.verb>
   
   <!-- EN: operate ground penetrating scanner -->
-  <GroundPenetratingScan.label>TODO</GroundPenetratingScan.label>
+  <GroundPenetratingScan.label>operează scanerul de penetrare a solului</GroundPenetratingScan.label>
   <!-- EN: scanning at -->
-  <GroundPenetratingScan.gerund>TODO</GroundPenetratingScan.gerund>
+  <GroundPenetratingScan.gerund>scanând la</GroundPenetratingScan.gerund>
   <!-- EN: scan -->
-  <GroundPenetratingScan.verb>TODO</GroundPenetratingScan.verb>
+  <GroundPenetratingScan.verb>scanează</GroundPenetratingScan.verb>
   
   <!-- EN: harvest crops -->
-  <GrowerHarvest.label>TODO</GrowerHarvest.label>
+  <GrowerHarvest.label>recoltează culturile</GrowerHarvest.label>
   <!-- EN: harvesting -->
-  <GrowerHarvest.gerund>TODO</GrowerHarvest.gerund>
+  <GrowerHarvest.gerund>recoltând</GrowerHarvest.gerund>
   <!-- EN: harvest -->
-  <GrowerHarvest.verb>TODO</GrowerHarvest.verb>
+  <GrowerHarvest.verb>recoltează</GrowerHarvest.verb>
   
   <!-- EN: sow crops -->
-  <GrowerSow.label>TODO</GrowerSow.label>
+  <GrowerSow.label>seamănă culturi</GrowerSow.label>
   <!-- EN: sowing -->
-  <GrowerSow.gerund>TODO</GrowerSow.gerund>
+  <GrowerSow.gerund>semănând</GrowerSow.gerund>
   <!-- EN: sow -->
-  <GrowerSow.verb>TODO</GrowerSow.verb>
+  <GrowerSow.verb>seamănă</GrowerSow.verb>
   
   <!-- EN: feed animals -->
-  <HandlingFeedPatientAnimals.label>TODO</HandlingFeedPatientAnimals.label>
+  <HandlingFeedPatientAnimals.label>hrănește animalele</HandlingFeedPatientAnimals.label>
   <!-- EN: feeding -->
-  <HandlingFeedPatientAnimals.gerund>TODO</HandlingFeedPatientAnimals.gerund>
+  <HandlingFeedPatientAnimals.gerund>hrănind</HandlingFeedPatientAnimals.gerund>
   <!-- EN: feed -->
-  <HandlingFeedPatientAnimals.verb>TODO</HandlingFeedPatientAnimals.verb>
+  <HandlingFeedPatientAnimals.verb>hrănește</HandlingFeedPatientAnimals.verb>
   
   <!-- EN: haul corpses -->
-  <HaulCorpses.label>TODO</HaulCorpses.label>
+  <HaulCorpses.label>transportă cadavrele</HaulCorpses.label>
   <!-- EN: hauling -->
-  <HaulCorpses.gerund>TODO</HaulCorpses.gerund>
+  <HaulCorpses.gerund>transportând</HaulCorpses.gerund>
   <!-- EN: haul -->
-  <HaulCorpses.verb>TODO</HaulCorpses.verb>
+  <HaulCorpses.verb>transportă</HaulCorpses.verb>
   
   <!-- EN: haul general things -->
-  <HaulGeneral.label>TODO</HaulGeneral.label>
+  <HaulGeneral.label>transportă lucruri generale</HaulGeneral.label>
   <!-- EN: hauling -->
-  <HaulGeneral.gerund>TODO</HaulGeneral.gerund>
+  <HaulGeneral.gerund>transportând</HaulGeneral.gerund>
   <!-- EN: haul -->
-  <HaulGeneral.verb>TODO</HaulGeneral.verb>
+  <HaulGeneral.verb>transportă</HaulGeneral.verb>
   
   <!-- EN: merge things -->
-  <HaulMerge.label>TODO</HaulMerge.label>
+  <HaulMerge.label>unește lucrurile</HaulMerge.label>
   <!-- EN: merging -->
-  <HaulMerge.gerund>TODO</HaulMerge.gerund>
+  <HaulMerge.gerund>unind</HaulMerge.gerund>
   <!-- EN: merge -->
-  <HaulMerge.verb>TODO</HaulMerge.verb>
+  <HaulMerge.verb>unește</HaulMerge.verb>
   
   <!-- EN: load caravan -->
-  <HelpGatheringItemsForCaravan.label>TODO</HelpGatheringItemsForCaravan.label>
+  <HelpGatheringItemsForCaravan.label>încarcă caravana</HelpGatheringItemsForCaravan.label>
   <!-- EN: loading -->
-  <HelpGatheringItemsForCaravan.gerund>TODO</HelpGatheringItemsForCaravan.gerund>
+  <HelpGatheringItemsForCaravan.gerund>încărcând</HelpGatheringItemsForCaravan.gerund>
   <!-- EN: load -->
-  <HelpGatheringItemsForCaravan.verb>TODO</HelpGatheringItemsForCaravan.verb>
+  <HelpGatheringItemsForCaravan.verb>încarcă</HelpGatheringItemsForCaravan.verb>
   
   <!-- EN: hunt -->
-  <HunterHunt.label>TODO</HunterHunt.label>
+  <HunterHunt.label>vânează</HunterHunt.label>
   <!-- EN: hunting -->
-  <HunterHunt.gerund>TODO</HunterHunt.gerund>
+  <HunterHunt.gerund>vânând</HunterHunt.gerund>
   <!-- EN: hunt -->
-  <HunterHunt.verb>TODO</HunterHunt.verb>
+  <HunterHunt.verb>vânează</HunterHunt.verb>
   
   <!-- EN: load transporters -->
-  <LoadTransporters.label>TODO</LoadTransporters.label>
+  <LoadTransporters.label>încarcă transportatori</LoadTransporters.label>
   <!-- EN: loading -->
-  <LoadTransporters.gerund>TODO</LoadTransporters.gerund>
+  <LoadTransporters.gerund>încărcând</LoadTransporters.gerund>
   <!-- EN: load -->
-  <LoadTransporters.verb>TODO</LoadTransporters.verb>
+  <LoadTransporters.verb>încarcă</LoadTransporters.verb>
   
   <!-- EN: operate long range scanner -->
-  <LongRangeScan.label>TODO</LongRangeScan.label>
+  <LongRangeScan.label>operează scanerul cu rază lungă de acțiune</LongRangeScan.label>
   <!-- EN: scanning at -->
-  <LongRangeScan.gerund>TODO</LongRangeScan.gerund>
+  <LongRangeScan.gerund>scanează la</LongRangeScan.gerund>
   <!-- EN: scan -->
-  <LongRangeScan.verb>TODO</LongRangeScan.verb>
+  <LongRangeScan.verb>scanează</LongRangeScan.verb>
   
   <!-- EN: milk animals -->
-  <Milk.label>TODO</Milk.label>
+  <Milk.label>mulge animale</Milk.label>
   <!-- EN: milking -->
-  <Milk.gerund>TODO</Milk.gerund>
+  <Milk.gerund>mulgând</Milk.gerund>
   <!-- EN: milk -->
-  <Milk.verb>TODO</Milk.verb>
+  <Milk.verb>mulge</Milk.verb>
   
   <!-- EN: mine -->
-  <Mine.label>TODO</Mine.label>
+  <Mine.label>minează</Mine.label>
   <!-- EN: mining -->
-  <Mine.gerund>TODO</Mine.gerund>
+  <Mine.gerund>minând</Mine.gerund>
   <!-- EN: mine -->
-  <Mine.verb>TODO</Mine.verb>
+  <Mine.verb>minează</Mine.verb>
   
   <!-- EN: open containers -->
-  <Open.label>TODO</Open.label>
+  <Open.label>deschide containere</Open.label>
   <!-- EN: opening -->
-  <Open.gerund>TODO</Open.gerund>
+  <Open.gerund>deschizând</Open.gerund>
   <!-- EN: open -->
-  <Open.verb>TODO</Open.verb>
+  <Open.verb>deschide</Open.verb>
   
   <!-- EN: go to bed for emergency treatment -->
-  <PatientGoToBedEmergencyTreatment.label>TODO</PatientGoToBedEmergencyTreatment.label>
+  <PatientGoToBedEmergencyTreatment.label>mergi la pat pentru tratament de urgență</PatientGoToBedEmergencyTreatment.label>
   <!-- EN: receiving treatment in -->
-  <PatientGoToBedEmergencyTreatment.gerund>TODO</PatientGoToBedEmergencyTreatment.gerund>
+  <PatientGoToBedEmergencyTreatment.gerund>primind tratament în</PatientGoToBedEmergencyTreatment.gerund>
   <!-- EN: receive treatment in -->
-  <PatientGoToBedEmergencyTreatment.verb>TODO</PatientGoToBedEmergencyTreatment.verb>
+  <PatientGoToBedEmergencyTreatment.verb>primește tratament în</PatientGoToBedEmergencyTreatment.verb>
   
   <!-- EN: recuperate in bed -->
-  <PatientGoToBedRecuperate.label>TODO</PatientGoToBedRecuperate.label>
+  <PatientGoToBedRecuperate.label>recuperează-te în pat</PatientGoToBedRecuperate.label>
   <!-- EN: getting bed rest in -->
-  <PatientGoToBedRecuperate.gerund>TODO</PatientGoToBedRecuperate.gerund>
+  <PatientGoToBedRecuperate.gerund>odihnindu-se în pat</PatientGoToBedRecuperate.gerund>
   <!-- EN: get bed rest in -->
-  <PatientGoToBedRecuperate.verb>TODO</PatientGoToBedRecuperate.verb>
+  <PatientGoToBedRecuperate.verb>odihnindu-se în pat</PatientGoToBedRecuperate.verb>
   
   <!-- EN: go to bed for treatment -->
-  <PatientGoToBedTreatment.label>TODO</PatientGoToBedTreatment.label>
+  <PatientGoToBedTreatment.label>mergi la pat pentru tratament</PatientGoToBedTreatment.label>
   <!-- EN: receiving treatment in -->
-  <PatientGoToBedTreatment.gerund>TODO</PatientGoToBedTreatment.gerund>
+  <PatientGoToBedTreatment.gerund>primind tratament în</PatientGoToBedTreatment.gerund>
   <!-- EN: receive treatment in -->
-  <PatientGoToBedTreatment.verb>TODO</PatientGoToBedTreatment.verb>
+  <PatientGoToBedTreatment.verb>primește tratament în</PatientGoToBedTreatment.verb>
   
   <!-- EN: cut plants -->
-  <PlantsCut.label>TODO</PlantsCut.label>
+  <PlantsCut.label>taie plante</PlantsCut.label>
   <!-- EN: cutting -->
-  <PlantsCut.gerund>TODO</PlantsCut.gerund>
+  <PlantsCut.gerund>tăind</PlantsCut.gerund>
   <!-- EN: cut -->
-  <PlantsCut.verb>TODO</PlantsCut.verb>
+  <PlantsCut.verb>taie</PlantsCut.verb>
   
   <!-- EN: rearm turrets -->
-  <RearmTurrets.label>TODO</RearmTurrets.label>
+  <RearmTurrets.label>reînarmează turele</RearmTurrets.label>
   <!-- EN: rearming -->
-  <RearmTurrets.gerund>TODO</RearmTurrets.gerund>
+  <RearmTurrets.gerund>reînarmând</RearmTurrets.gerund>
   <!-- EN: rearm -->
-  <RearmTurrets.verb>TODO</RearmTurrets.verb>
+  <RearmTurrets.verb>reînarmează</RearmTurrets.verb>
+  
+  <!-- EN: rebalance penned animals -->
+  <RebalanceAnimalsInPens.label>reechilibrarea animalelor din țarc</RebalanceAnimalsInPens.label>
+  <!-- EN: roping -->
+  <RebalanceAnimalsInPens.gerund>legând în frânghie</RebalanceAnimalsInPens.gerund>
+  <!-- EN: rope -->
+  <RebalanceAnimalsInPens.verb>leagă cu funie</RebalanceAnimalsInPens.verb>
   
   <!-- EN: refuel fuelable buildings -->
-  <Refuel.label>TODO</Refuel.label>
+  <Refuel.label>alimentează clădirile cu combustibil</Refuel.label>
   <!-- EN: refueling -->
-  <Refuel.gerund>TODO</Refuel.gerund>
+  <Refuel.gerund>realimentând</Refuel.gerund>
   <!-- EN: refuel -->
-  <Refuel.verb>TODO</Refuel.verb>
+  <Refuel.verb>realimentează</Refuel.verb>
   
   <!-- EN: release prisoners -->
-  <ReleasePrisoner.label>TODO</ReleasePrisoner.label>
+  <ReleasePrisoner.label>eliberează prizonieri</ReleasePrisoner.label>
   <!-- EN: releasing -->
-  <ReleasePrisoner.gerund>TODO</ReleasePrisoner.gerund>
+  <ReleasePrisoner.gerund>eliberând</ReleasePrisoner.gerund>
   <!-- EN: release -->
-  <ReleasePrisoner.verb>TODO</ReleasePrisoner.verb>
+  <ReleasePrisoner.verb>eliberează</ReleasePrisoner.verb>
+  
+  <!-- EN: release to wild -->
+  <ReleaseToWild.label>eliberează în sălbăticie</ReleaseToWild.label>
+  <!-- EN: releasing -->
+  <ReleaseToWild.gerund>eliberând</ReleaseToWild.gerund>
+  <!-- EN: release -->
+  <ReleaseToWild.verb>eliberează</ReleaseToWild.verb>
   
   <!-- EN: remove roofs -->
-  <RemoveRoofs.label>TODO</RemoveRoofs.label>
+  <RemoveRoofs.label>îndepărtează acoperișuri</RemoveRoofs.label>
   <!-- EN: removing roof -->
-  <RemoveRoofs.gerund>TODO</RemoveRoofs.gerund>
+  <RemoveRoofs.gerund>îndepărtând acoperiș</RemoveRoofs.gerund>
   <!-- EN: remove roof -->
-  <RemoveRoofs.verb>TODO</RemoveRoofs.verb>
+  <RemoveRoofs.verb>îndepărtează acoperișul</RemoveRoofs.verb>
   
   <!-- EN: repair damaged things -->
-  <Repair.label>TODO</Repair.label>
+  <Repair.label>repară lucruri avariate</Repair.label>
   <!-- EN: repairing -->
-  <Repair.gerund>TODO</Repair.gerund>
+  <Repair.gerund>reparând</Repair.gerund>
   <!-- EN: repair -->
-  <Repair.verb>TODO</Repair.verb>
+  <Repair.verb>repară</Repair.verb>
+  
+  <!-- EN: replant tree -->
+  <Replant.label>replantează copac</Replant.label>
+  <!-- EN: replanting -->
+  <Replant.gerund>replantând</Replant.gerund>
+  <!-- EN: replant -->
+  <Replant.verb>replantează</Replant.verb>
   
   <!-- EN: do research -->
-  <Research.label>TODO</Research.label>
+  <Research.label>cercetează</Research.label>
   <!-- EN: researching at -->
-  <Research.gerund>TODO</Research.gerund>
+  <Research.gerund>cercetând la</Research.gerund>
   <!-- EN: research -->
-  <Research.verb>TODO</Research.verb>
+  <Research.verb>cercetează</Research.verb>
   
   <!-- EN: shear animals -->
-  <Shear.label>TODO</Shear.label>
+  <Shear.label>tunde animale</Shear.label>
   <!-- EN: shearing -->
-  <Shear.gerund>TODO</Shear.gerund>
+  <Shear.gerund>tunzând</Shear.gerund>
   <!-- EN: shear -->
-  <Shear.verb>TODO</Shear.verb>
+  <Shear.verb>tunde</Shear.verb>
   
   <!-- EN: slaughter animals -->
-  <Slaughter.label>TODO</Slaughter.label>
+  <Slaughter.label>măcelărește animale</Slaughter.label>
   <!-- EN: slaughtering -->
-  <Slaughter.gerund>TODO</Slaughter.gerund>
+  <Slaughter.gerund>măcelărind la</Slaughter.gerund>
   <!-- EN: slaughter -->
-  <Slaughter.verb>TODO</Slaughter.verb>
+  <Slaughter.verb>măcelărește</Slaughter.verb>
   
   <!-- EN: strip corpses -->
-  <Strip.label>TODO</Strip.label>
+  <Strip.label>dezbracă cadavrele</Strip.label>
   <!-- EN: stripping -->
-  <Strip.gerund>TODO</Strip.gerund>
+  <Strip.gerund>dezbrăcând</Strip.gerund>
   <!-- EN: strip -->
-  <Strip.verb>TODO</Strip.verb>
+  <Strip.verb>dezbracă</Strip.verb>
+  
+  <!-- EN: study -->
+  <StudyThing.label>studiază</StudyThing.label>
+  <!-- EN: studying -->
+  <StudyThing.gerund>studiind</StudyThing.gerund>
+  <!-- EN: research -->
+  <StudyThing.verb>cercetează</StudyThing.verb>
   
   <!-- EN: take beer out of fermenting barrels -->
-  <TakeBeerOutOfFermentingBarrel.label>TODO</TakeBeerOutOfFermentingBarrel.label>
+  <TakeBeerOutOfFermentingBarrel.label>scoate berea din butoaiele de fermentare</TakeBeerOutOfFermentingBarrel.label>
   <!-- EN: taking beer from -->
-  <TakeBeerOutOfFermentingBarrel.gerund>TODO</TakeBeerOutOfFermentingBarrel.gerund>
+  <TakeBeerOutOfFermentingBarrel.gerund>luând berea din</TakeBeerOutOfFermentingBarrel.gerund>
   <!-- EN: take beer -->
-  <TakeBeerOutOfFermentingBarrel.verb>TODO</TakeBeerOutOfFermentingBarrel.verb>
+  <TakeBeerOutOfFermentingBarrel.verb>ia berea din</TakeBeerOutOfFermentingBarrel.verb>
   
   <!-- EN: take prisoners to bed -->
-  <TakePrisonerToBed.label>TODO</TakePrisonerToBed.label>
+  <TakePrisonerToBed.label>du prizonierii la pat</TakePrisonerToBed.label>
   <!-- EN: taking to bed -->
-  <TakePrisonerToBed.gerund>TODO</TakePrisonerToBed.gerund>
+  <TakePrisonerToBed.gerund>ducând la pat pe</TakePrisonerToBed.gerund>
   <!-- EN: take to bed -->
-  <TakePrisonerToBed.verb>TODO</TakePrisonerToBed.verb>
+  <TakePrisonerToBed.verb>du la culcare pe</TakePrisonerToBed.verb>
+  
+  <!-- EN: rope roaming animals -->
+  <TakeRoamingAnimalsToPen.label>leagă cu frânghia animalele hoinare</TakeRoamingAnimalsToPen.label>
+  <!-- EN: roping -->
+  <TakeRoamingAnimalsToPen.gerund>legând cu funia</TakeRoamingAnimalsToPen.gerund>
+  <!-- EN: rope -->
+  <TakeRoamingAnimalsToPen.verb>leagă cu funie</TakeRoamingAnimalsToPen.verb>
   
   <!-- EN: take patients to bed for operations -->
-  <TakeToBedToOperate.label>TODO</TakeToBedToOperate.label>
+  <TakeToBedToOperate.label>du pacienții la pat pentru operații</TakeToBedToOperate.label>
   <!-- EN: taking to operate -->
-  <TakeToBedToOperate.gerund>TODO</TakeToBedToOperate.gerund>
+  <TakeToBedToOperate.gerund>ducând spre operație</TakeToBedToOperate.gerund>
   <!-- EN: take to operate -->
-  <TakeToBedToOperate.verb>TODO</TakeToBedToOperate.verb>
+  <TakeToBedToOperate.verb>du pentru operație</TakeToBedToOperate.verb>
+  
+  <!-- EN: rope animals -->
+  <TakeToPen.label>leagă cu funie animalele</TakeToPen.label>
+  <!-- EN: roping -->
+  <TakeToPen.gerund>legând cu funia</TakeToPen.gerund>
+  <!-- EN: rope -->
+  <TakeToPen.verb>leagă cu funia</TakeToPen.verb>
   
   <!-- EN: tame animals -->
-  <Tame.label>TODO</Tame.label>
+  <Tame.label>îmblânzește animalele</Tame.label>
   <!-- EN: taming -->
-  <Tame.gerund>TODO</Tame.gerund>
+  <Tame.gerund>îmblânzind</Tame.gerund>
   <!-- EN: tame -->
-  <Tame.verb>TODO</Tame.verb>
+  <Tame.verb>îmblânzește</Tame.verb>
   
   <!-- EN: train animals -->
-  <Train.label>TODO</Train.label>
+  <Train.label>antrenează animale</Train.label>
   <!-- EN: training -->
-  <Train.gerund>TODO</Train.gerund>
+  <Train.gerund>antrenând</Train.gerund>
   <!-- EN: train -->
-  <Train.verb>TODO</Train.verb>
+  <Train.verb>antrenează</Train.verb>
   
   <!-- EN: uninstall structures -->
-  <Uninstall.label>TODO</Uninstall.label>
+  <Uninstall.label>dezinstalrează structuri</Uninstall.label>
   <!-- EN: uninstalling -->
-  <Uninstall.gerund>TODO</Uninstall.gerund>
+  <Uninstall.gerund>dezinstalând</Uninstall.gerund>
   <!-- EN: uninstall -->
-  <Uninstall.verb>TODO</Uninstall.verb>
+  <Uninstall.verb>dezinstalează</Uninstall.verb>
   
   <!-- EN: unload carriers -->
-  <UnloadCarriers.label>TODO</UnloadCarriers.label>
+  <UnloadCarriers.label>descarcă transportatorii</UnloadCarriers.label>
   <!-- EN: unloading -->
-  <UnloadCarriers.gerund>TODO</UnloadCarriers.gerund>
+  <UnloadCarriers.gerund>descărcând</UnloadCarriers.gerund>
   <!-- EN: unload -->
-  <UnloadCarriers.verb>TODO</UnloadCarriers.verb>
+  <UnloadCarriers.verb>descarcă</UnloadCarriers.verb>
   
   <!-- EN: visit sick people -->
-  <VisitSickPawn.label>TODO</VisitSickPawn.label>
+  <VisitSickPawn.label>vizitează bolnavii</VisitSickPawn.label>
   <!-- EN: visiting -->
-  <VisitSickPawn.gerund>TODO</VisitSickPawn.gerund>
+  <VisitSickPawn.gerund>vizitând</VisitSickPawn.gerund>
   <!-- EN: visit -->
-  <VisitSickPawn.verb>TODO</VisitSickPawn.verb>
+  <VisitSickPawn.verb>vizitează</VisitSickPawn.verb>
   
 </LanguageData>

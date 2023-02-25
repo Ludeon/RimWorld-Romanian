@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: town councilman -->
-  <Town_Councilman.label>TODO</Town_Councilman.label>
+  <Town_Councilman.label>consilier municipal</Town_Councilman.label>
   <!-- EN: town councilmen -->
-  <Town_Councilman.labelPlural>TODO</Town_Councilman.labelPlural>
+  <Town_Councilman.labelPlural>consilier municipal</Town_Councilman.labelPlural>
   
   <!-- EN: town guard -->
-  <Town_Guard.label>TODO</Town_Guard.label>
+  <Town_Guard.label>paznic al orașului</Town_Guard.label>
   
   <!-- EN: town trader -->
-  <Town_Trader.label>TODO</Town_Trader.label>
+  <Town_Trader.label>negustor de oraș</Town_Trader.label>
   
   <!-- EN: villager -->
-  <Villager.label>TODO</Villager.label>
+  <Villager.label>sătean</Villager.label>
   
 </LanguageData>

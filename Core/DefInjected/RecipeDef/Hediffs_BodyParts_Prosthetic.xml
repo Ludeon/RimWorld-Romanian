@@ -2,59 +2,59 @@
 <LanguageData>
   
   <!-- EN: install cochlear implant -->
-  <InstallCochlearImplant.label>TODO</InstallCochlearImplant.label>
+  <InstallCochlearImplant.label>Instalează un implant cohlear</InstallCochlearImplant.label>
   <!-- EN: Install a cochlear implant. -->
-  <InstallCochlearImplant.description>TODO</InstallCochlearImplant.description>
+  <InstallCochlearImplant.description>Instalează un implant cohlear.</InstallCochlearImplant.description>
   <!-- EN: Installing cochlear implant. -->
-  <InstallCochlearImplant.jobString>TODO</InstallCochlearImplant.jobString>
+  <InstallCochlearImplant.jobString>Instalează un implant cohlear.</InstallCochlearImplant.jobString>
   
   <!-- EN: install joywire -->
-  <InstallJoywire.label>TODO</InstallJoywire.label>
+  <InstallJoywire.label>instalează Joywire</InstallJoywire.label>
   <!-- EN: Install a joywire. -->
-  <InstallJoywire.description>TODO</InstallJoywire.description>
+  <InstallJoywire.description>Instalează un joywire.</InstallJoywire.description>
   <!-- EN: Installing joywire. -->
-  <InstallJoywire.jobString>TODO</InstallJoywire.jobString>
+  <InstallJoywire.jobString>Instalează joywire.</InstallJoywire.jobString>
   
   <!-- EN: install painstopper -->
-  <InstallPainstopper.label>TODO</InstallPainstopper.label>
+  <InstallPainstopper.label>instalează Paininstopper</InstallPainstopper.label>
   <!-- EN: Install a painstopper. -->
-  <InstallPainstopper.description>TODO</InstallPainstopper.description>
+  <InstallPainstopper.description>Instalează un paintopper.</InstallPainstopper.description>
   <!-- EN: Installing painstopper. -->
-  <InstallPainstopper.jobString>TODO</InstallPainstopper.jobString>
+  <InstallPainstopper.jobString>Instalează paininstopper.</InstallPainstopper.jobString>
   
   <!-- EN: install power claw -->
-  <InstallPowerClaw.label>TODO</InstallPowerClaw.label>
+  <InstallPowerClaw.label>instalează gheara de putere</InstallPowerClaw.label>
   <!-- EN: Install a power claw. -->
-  <InstallPowerClaw.description>TODO</InstallPowerClaw.description>
+  <InstallPowerClaw.description>Instalează o gheară de putere.</InstallPowerClaw.description>
   <!-- EN: Installing power claw. -->
-  <InstallPowerClaw.jobString>TODO</InstallPowerClaw.jobString>
+  <InstallPowerClaw.jobString>Instalează gheara de putere.</InstallPowerClaw.jobString>
   
   <!-- EN: install prosthetic arm -->
-  <InstallSimpleProstheticArm.label>TODO</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.label>instalează un braț protetic</InstallSimpleProstheticArm.label>
   <!-- EN: Install a prosthetic arm. -->
-  <InstallSimpleProstheticArm.description>TODO</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.description>Instalează un braț protetic.</InstallSimpleProstheticArm.description>
   <!-- EN: Installing prosthetic arm. -->
-  <InstallSimpleProstheticArm.jobString>TODO</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticArm.jobString>Instalează brațul protetic.</InstallSimpleProstheticArm.jobString>
   
   <!-- EN: install prosthetic heart -->
-  <InstallSimpleProstheticHeart.label>TODO</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.label>Instalează o inimă protetică</InstallSimpleProstheticHeart.label>
   <!-- EN: Install a prosthetic heart. -->
-  <InstallSimpleProstheticHeart.description>TODO</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.description>Instalează o inimă protetică.</InstallSimpleProstheticHeart.description>
   <!-- EN: Installing prosthetic heart. -->
-  <InstallSimpleProstheticHeart.jobString>TODO</InstallSimpleProstheticHeart.jobString>
+  <InstallSimpleProstheticHeart.jobString>Instalează inima protetică.</InstallSimpleProstheticHeart.jobString>
   
   <!-- EN: install prosthetic leg -->
-  <InstallSimpleProstheticLeg.label>TODO</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.label>instalează un picior protetic</InstallSimpleProstheticLeg.label>
   <!-- EN: Install a prosthetic leg. -->
-  <InstallSimpleProstheticLeg.description>TODO</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.description>Instalează un picior protetic.</InstallSimpleProstheticLeg.description>
   <!-- EN: Installing prosthetic leg. -->
-  <InstallSimpleProstheticLeg.jobString>TODO</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticLeg.jobString>Instalează piciorul protetic.</InstallSimpleProstheticLeg.jobString>
   
   <!-- EN: remove painstopper -->
-  <RemovePainstopper.label>TODO</RemovePainstopper.label>
+  <RemovePainstopper.label>scoateți Paininstopper</RemovePainstopper.label>
   <!-- EN: Remove the painstopper. -->
-  <RemovePainstopper.description>TODO</RemovePainstopper.description>
+  <RemovePainstopper.description>Scoateți Paininstopper.</RemovePainstopper.description>
   <!-- EN: Removing painstopper. -->
-  <RemovePainstopper.jobString>TODO</RemovePainstopper.jobString>
+  <RemovePainstopper.jobString>Scoateți Paininstopper.</RemovePainstopper.jobString>
   
 </LanguageData>

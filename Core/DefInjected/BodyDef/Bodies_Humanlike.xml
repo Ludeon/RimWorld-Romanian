@@ -2,102 +2,102 @@
 <LanguageData>
   
   <!-- EN: human -->
-  <Human.label>TODO</Human.label>
+  <Human.label>Om</Human.label>
   <!-- EN: left lung -->
-  <Human.corePart.parts.left_lung.customLabel>TODO</Human.corePart.parts.left_lung.customLabel>
+  <Human.corePart.parts.left_lung.customLabel>plămân stâng</Human.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
-  <Human.corePart.parts.right_lung.customLabel>TODO</Human.corePart.parts.right_lung.customLabel>
+  <Human.corePart.parts.right_lung.customLabel>plămânul drept</Human.corePart.parts.right_lung.customLabel>
   <!-- EN: left kidney -->
-  <Human.corePart.parts.left_kidney.customLabel>TODO</Human.corePart.parts.left_kidney.customLabel>
+  <Human.corePart.parts.left_kidney.customLabel>rinichi stâng</Human.corePart.parts.left_kidney.customLabel>
   <!-- EN: right kidney -->
-  <Human.corePart.parts.right_kidney.customLabel>TODO</Human.corePart.parts.right_kidney.customLabel>
+  <Human.corePart.parts.right_kidney.customLabel>rinichi drept</Human.corePart.parts.right_kidney.customLabel>
   <!-- EN: left eye -->
-  <Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>TODO</Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ochiul stâng</Human.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>TODO</Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ochiul drept</Human.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
   <!-- EN: left ear -->
-  <Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>TODO</Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>urechea stângă</Human.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
   <!-- EN: right ear -->
-  <Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>TODO</Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>urechea dreaptă</Human.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
   <!-- EN: left shoulder -->
-  <Human.corePart.parts.left_shoulder.customLabel>TODO</Human.corePart.parts.left_shoulder.customLabel>
+  <Human.corePart.parts.left_shoulder.customLabel>umărul stâng</Human.corePart.parts.left_shoulder.customLabel>
   <!-- EN: left clavicle -->
-  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>TODO</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>clavicula stângă</Human.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
   <!-- EN: left arm -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>TODO</Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>brațul stâng</Human.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left humerus -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>TODO</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>humerus stâng</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
   <!-- EN: left radius -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>TODO</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>radius stâng</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
   <!-- EN: left hand -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>TODO</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>mâna stângă</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>TODO</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>degetul mic stâng</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
   <!-- EN: left ring finger -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>TODO</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>degetul inelar stâng</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
   <!-- EN: left middle finger -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>TODO</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>degetul mijlociu stâng</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
   <!-- EN: left index finger -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>TODO</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>degetul arătător stâng</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
   <!-- EN: left thumb -->
-  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>TODO</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>degetul mare stâng</Human.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right shoulder -->
-  <Human.corePart.parts.right_shoulder.customLabel>TODO</Human.corePart.parts.right_shoulder.customLabel>
+  <Human.corePart.parts.right_shoulder.customLabel>umărul drept</Human.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right clavicle -->
-  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>clavicula dreaptă</Human.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
   <!-- EN: right arm -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>brațul drept</Human.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right humerus -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>humerus drept</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
   <!-- EN: right radius -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>radius drept</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
   <!-- EN: right hand -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>mâna dreaptă</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>degetul mic drept</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right ring finger -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>degetul inelar drept</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
   <!-- EN: right middle finger -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>degetul mijlociu drept</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>degetul arătător drept</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
   <!-- EN: right thumb -->
-  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>TODO</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>degetul mare drept</Human.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
   <!-- EN: left leg -->
-  <Human.corePart.parts.left_leg.customLabel>TODO</Human.corePart.parts.left_leg.customLabel>
+  <Human.corePart.parts.left_leg.customLabel>piciorul stâng</Human.corePart.parts.left_leg.customLabel>
   <!-- EN: left femur -->
-  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_femur.customLabel>femur stâng</Human.corePart.parts.left_leg.parts.left_femur.customLabel>
   <!-- EN: left tibia -->
-  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_tibia.customLabel>tibia stângă</Human.corePart.parts.left_leg.parts.left_tibia.customLabel>
   <!-- EN: left foot -->
-  <Human.corePart.parts.left_leg.parts.left_foot.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.customLabel>talpa stângă</Human.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: left little toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>degetul mic stâng</Human.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
   <!-- EN: left fourth toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>al patrulea deget de la piciorul stâng</Human.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
   <!-- EN: left middle toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>degetul mijlociu al piciorului stâng</Human.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
   <!-- EN: left second toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>al doilea deget de la piciorul stâng</Human.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
   <!-- EN: left big toe -->
-  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>TODO</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>degetul mare de la piciorul stâng</Human.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
   <!-- EN: right leg -->
-  <Human.corePart.parts.right_leg.customLabel>TODO</Human.corePart.parts.right_leg.customLabel>
+  <Human.corePart.parts.right_leg.customLabel>piciorul drept</Human.corePart.parts.right_leg.customLabel>
   <!-- EN: right femur -->
-  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_femur.customLabel>femur drept</Human.corePart.parts.right_leg.parts.right_femur.customLabel>
   <!-- EN: right tibia -->
-  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_tibia.customLabel>tibia dreaptă</Human.corePart.parts.right_leg.parts.right_tibia.customLabel>
   <!-- EN: right foot -->
-  <Human.corePart.parts.right_leg.parts.right_foot.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.customLabel>talpa dreaptă</Human.corePart.parts.right_leg.parts.right_foot.customLabel>
   <!-- EN: right little toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>degetul mic al piciorului drept</Human.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
   <!-- EN: right fourth toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>al patrulea deget de la piciorul drept</Human.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
   <!-- EN: right middle toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>degetul mijlociu al piciorului drept</Human.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
   <!-- EN: right second toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>al doilea deget al piciorului drept</Human.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
   <!-- EN: right big toe -->
-  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>TODO</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  <Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>degetul mare al piciorului drept</Human.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
   
 </LanguageData>

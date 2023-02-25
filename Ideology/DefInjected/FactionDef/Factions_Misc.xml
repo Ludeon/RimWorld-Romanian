@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beggars -->
+  <Beggars.label>cerșetori</Beggars.label>
+  <!-- EN: A group of beggars seeking charity. -->
+  <Beggars.description>Un grup de cerșetori care caută caritate.</Beggars.description>
+  <!-- EN: beggar -->
+  <Beggars.pawnSingular>cerșetor</Beggars.pawnSingular>
+  <!-- EN: beggars -->
+  <Beggars.pawnsPlural>cerșetori</Beggars.pawnsPlural>
+  
+  <!-- EN: cannibal pirate gang -->
+  <CannibalPirate.label>bandă de pirați canibali</CannibalPirate.label>
+  <!-- EN: A loose confederation of pirate groups who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range.\n\nThis particular gang of pirates are cannibals. -->
+  <CannibalPirate.description>O confederație laxă de grupuri de pirați care au fost de acord să se lupte mai mult cu străinii în loc să se lupte între ei.\n\nPirații nu seamănă, nu construiesc și rareori fac comerț. Conduși de o cultură a sângelui și a onoarei, care apreciază puterea personală și cruzimea, ei se îmbogățesc prin raiduri și jafuri asupra vecinilor lor mai productivi.\n\nNivelul lor tehnologic depinde mai ales de la cine au reușit să fure recent. De cele mai multe ori poartă arme cu praf de pușcă, deși unii preferă să înjunghie victimele de la mică distanță.\n\nAceastă bandă de pirați este canibală.</CannibalPirate.description>
+  <!-- EN: pirate -->
+  <CannibalPirate.pawnSingular>pirat</CannibalPirate.pawnSingular>
+  <!-- EN: pirates -->
+  <CannibalPirate.pawnsPlural>pirați</CannibalPirate.pawnsPlural>
+  
+  <!-- EN: nudist tribe -->
+  <NudistTribe.label>trib nudist</NudistTribe.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe believes that covering one's body is wrong. -->
+  <NudistTribe.description>Acești oameni sunt aici de foarte mult timp. Poate că strămoșii lor s-au prăbușit aici acum o mie de ani. Poate că au supraviețuit unui cataclism care a distrus o civilizație tehnologică aici. În orice caz, tribalii sunt în mare parte oameni nomazi care trăiesc din pământ, folosind unelte și arme primitive.\n\nÎn ciuda slăbiciunii lor tehnologice aparente, tribalii pot fi inamici periculoși datorită abilității lor în războiul cu tehnologie primitivă, numărului și rezistenței lor.\n\nAcest trib special crede că acoperirea corpului este greșită.</NudistTribe.description>
+  <!-- EN: tribesman -->
+  <NudistTribe.pawnSingular>tribal</NudistTribe.pawnSingular>
+  <!-- EN: tribespeople -->
+  <NudistTribe.pawnsPlural>tribali</NudistTribe.pawnsPlural>
+  
+  <!-- EN: pilgrims -->
+  <Pilgrims.label>pelerini</Pilgrims.label>
+  <!-- EN: A group of pilgrims seeking to venerate an ancient relic. -->
+  <Pilgrims.description>Un grup de pelerini care caută să venereze o relicvă străveche.</Pilgrims.description>
+  <!-- EN: pilgrim -->
+  <Pilgrims.pawnSingular>pelerin</Pilgrims.pawnSingular>
+  <!-- EN: pilgrims -->
+  <Pilgrims.pawnsPlural>pelerini</Pilgrims.pawnsPlural>
+  
+  <!-- EN: cannibal tribe -->
+  <TribeCannibal.label>trib canibal</TribeCannibal.label>
+  <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particularly vicious tribe believes eating the flesh of their enemies is a great honor. -->
+  <TribeCannibal.description>Acești oameni sunt aici de foarte mult timp. Poate că strămoșii lor s-au prăbușit aici acum o mie de ani. Poate că au supraviețuit unui cataclism care a distrus o civilizație tehnologică aici. În orice caz, tribalii sunt în mare parte oameni nomazi care trăiesc de pe pământ, folosind unelte și arme primitive.\n\nÎn ciuda slăbiciunii lor tehnologice aparente, tribalii pot fi inamici periculoși datorită abilității lor în războiul cu tehnologie primitivă, a numărului lor și a rezistenței lor.\n\nAcest trib deosebit de vicios crede că a mânca carnea dușmanilor lor este o mare onoare.</TribeCannibal.description>
+  <!-- EN: tribesman -->
+  <TribeCannibal.pawnSingular>tribal</TribeCannibal.pawnSingular>
+  <!-- EN: tribespeople -->
+  <TribeCannibal.pawnsPlural>tribali</TribeCannibal.pawnsPlural>
+  
+</LanguageData>

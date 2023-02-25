@@ -2,123 +2,128 @@
 <LanguageData>
   
   <!-- EN: bonded animal {0} lost -->
-  <BondedAnimalLost.stages.bonded_animal_lost.label>TODO</BondedAnimalLost.stages.bonded_animal_lost.label>
+  <BondedAnimalLost.stages.bonded_animal_lost.label>animal legat de {0} pierdut</BondedAnimalLost.stages.bonded_animal_lost.label>
   <!-- EN: Such a tender, unique animal. This universe is evil! -->
-  <BondedAnimalLost.stages.bonded_animal_lost.description>TODO</BondedAnimalLost.stages.bonded_animal_lost.description>
+  <BondedAnimalLost.stages.bonded_animal_lost.description>Un animal atât de tandru și unic. Acest univers este malefic!</BondedAnimalLost.stages.bonded_animal_lost.description>
+  
+  <!-- EN: bonded animal {0} released -->
+  <BondedAnimalReleased.stages.bonded_animal_released.label>animal legat {0} eliberat</BondedAnimalReleased.stages.bonded_animal_released.label>
+  <!-- EN: Such a tender, unique animal. Why did it have to go? -->
+  <BondedAnimalReleased.stages.bonded_animal_released.description>Un animal atât de tandru și unic. De ce a trebuit să plece?</BondedAnimalReleased.stages.bonded_animal_released.description>
   
   <!-- EN: colonist lost -->
-  <ColonistLost.stages.colonist_lost.label>TODO</ColonistLost.stages.colonist_lost.label>
+  <ColonistLost.stages.colonist_lost.label>colonist pierdut</ColonistLost.stages.colonist_lost.label>
   <!-- EN: We just lost someone of our colony in a tragic way. -->
-  <ColonistLost.stages.colonist_lost.description>TODO</ColonistLost.stages.colonist_lost.description>
+  <ColonistLost.stages.colonist_lost.description>Tocmai am pierdut pe cineva din colonia noastră într-un mod tragic.</ColonistLost.stages.colonist_lost.description>
   
   <!-- EN: my aunt {0} lost -->
-  <MyAuntLost.stages.my_aunt_lost.label>TODO</MyAuntLost.stages.my_aunt_lost.label>
+  <MyAuntLost.stages.my_aunt_lost.label>mătușa mea {0} a pierdut</MyAuntLost.stages.my_aunt_lost.label>
   <!-- EN: My aunt has gone lost. I hope she will get back to us someday. -->
-  <MyAuntLost.stages.my_aunt_lost.description>TODO</MyAuntLost.stages.my_aunt_lost.description>
+  <MyAuntLost.stages.my_aunt_lost.description>Mătușa mea s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyAuntLost.stages.my_aunt_lost.description>
   
   <!-- EN: my brother {0} lost -->
-  <MyBrotherLost.stages.my_brother_lost.label>TODO</MyBrotherLost.stages.my_brother_lost.label>
+  <MyBrotherLost.stages.my_brother_lost.label>fratele meu {0} s-a pierdut</MyBrotherLost.stages.my_brother_lost.label>
   <!-- EN: My brother has gone lost. I hope he will get back to us someday. -->
-  <MyBrotherLost.stages.my_brother_lost.description>TODO</MyBrotherLost.stages.my_brother_lost.description>
+  <MyBrotherLost.stages.my_brother_lost.description>Fratele meu s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyBrotherLost.stages.my_brother_lost.description>
   
   <!-- EN: my cousin {0} lost -->
-  <MyCousinLost.stages.my_cousin_lost.label>TODO</MyCousinLost.stages.my_cousin_lost.label>
+  <MyCousinLost.stages.my_cousin_lost.label>vărul meu {0} s-a pierdut</MyCousinLost.stages.my_cousin_lost.label>
   <!-- EN: My cousin has gone lost. -->
-  <MyCousinLost.stages.my_cousin_lost.description>TODO</MyCousinLost.stages.my_cousin_lost.description>
+  <MyCousinLost.stages.my_cousin_lost.description>Vărul meu s-a pierdut.</MyCousinLost.stages.my_cousin_lost.description>
   
   <!-- EN: my daughter {0} lost -->
-  <MyDaughterLost.stages.my_daughter_lost.label>TODO</MyDaughterLost.stages.my_daughter_lost.label>
+  <MyDaughterLost.stages.my_daughter_lost.label>fiica mea {0} s-a pierdut</MyDaughterLost.stages.my_daughter_lost.label>
   <!-- EN: My daughter has gone lost. I hope she will get back to us someday. -->
-  <MyDaughterLost.stages.my_daughter_lost.description>TODO</MyDaughterLost.stages.my_daughter_lost.description>
+  <MyDaughterLost.stages.my_daughter_lost.description>Fiica mea s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyDaughterLost.stages.my_daughter_lost.description>
   
   <!-- EN: my father {0} lost -->
-  <MyFatherLost.stages.my_father_lost.label>TODO</MyFatherLost.stages.my_father_lost.label>
+  <MyFatherLost.stages.my_father_lost.label>tatăl meu {0} s-a pierdut</MyFatherLost.stages.my_father_lost.label>
   <!-- EN: My father has gone lost. I hope he will get back to us someday. -->
-  <MyFatherLost.stages.my_father_lost.description>TODO</MyFatherLost.stages.my_father_lost.description>
+  <MyFatherLost.stages.my_father_lost.description>Tatăl meu s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyFatherLost.stages.my_father_lost.description>
   
   <!-- EN: my fiancée {0} lost -->
-  <MyFianceeLost.stages.my_fiance_lost.label>TODO</MyFianceeLost.stages.my_fiance_lost.label>
+  <MyFianceeLost.stages.my_fiance_lost.label>logodnica mea {0} s-a pierdut</MyFianceeLost.stages.my_fiance_lost.label>
   <!-- EN: My fiancée has gone lost. I hope she will get back to us someday. -->
-  <MyFianceeLost.stages.my_fiance_lost.description>TODO</MyFianceeLost.stages.my_fiance_lost.description>
+  <MyFianceeLost.stages.my_fiance_lost.description>Logodnica mea s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyFianceeLost.stages.my_fiance_lost.description>
   
   <!-- EN: my fiance {0} lost -->
-  <MyFianceLost.stages.my_fiance_lost.label>TODO</MyFianceLost.stages.my_fiance_lost.label>
+  <MyFianceLost.stages.my_fiance_lost.label>logodnica mea {0} s-a pierdut</MyFianceLost.stages.my_fiance_lost.label>
   <!-- EN: My fiance has gone lost. I hope he will get back to us someday. -->
-  <MyFianceLost.stages.my_fiance_lost.description>TODO</MyFianceLost.stages.my_fiance_lost.description>
+  <MyFianceLost.stages.my_fiance_lost.description>Logodnicul meu s-a pierdut. Sper că se va întoarce la noi într-o zi.</MyFianceLost.stages.my_fiance_lost.description>
   
   <!-- EN: my grandchild {0} lost -->
-  <MyGrandchildLost.stages.my_grandchild_lost.label>TODO</MyGrandchildLost.stages.my_grandchild_lost.label>
+  <MyGrandchildLost.stages.my_grandchild_lost.label>nepotul meu {0} s-a pierdut</MyGrandchildLost.stages.my_grandchild_lost.label>
   <!-- EN: My grandchild has gone lost. I hope they will get back to us someday. -->
-  <MyGrandchildLost.stages.my_grandchild_lost.description>TODO</MyGrandchildLost.stages.my_grandchild_lost.description>
+  <MyGrandchildLost.stages.my_grandchild_lost.description>Nepotul meu s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyGrandchildLost.stages.my_grandchild_lost.description>
   
   <!-- EN: my grandparent {0} lost -->
-  <MyGrandparentLost.stages.my_grandparent_lost.label>TODO</MyGrandparentLost.stages.my_grandparent_lost.label>
+  <MyGrandparentLost.stages.my_grandparent_lost.label>bunicul meu {0} s-a pierdut</MyGrandparentLost.stages.my_grandparent_lost.label>
   <!-- EN: My grandparent has gone lost. -->
-  <MyGrandparentLost.stages.my_grandparent_lost.description>TODO</MyGrandparentLost.stages.my_grandparent_lost.description>
+  <MyGrandparentLost.stages.my_grandparent_lost.description>Bunicul meu s-a pierdut.</MyGrandparentLost.stages.my_grandparent_lost.description>
   
   <!-- EN: my half-sibling {0} lost -->
-  <MyHalfSiblingLost.stages.my_halfsibling_lost.label>TODO</MyHalfSiblingLost.stages.my_halfsibling_lost.label>
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.label>fratele meu vitreg {0} s-a pierdut</MyHalfSiblingLost.stages.my_halfsibling_lost.label>
   <!-- EN: My half-sibling has gone lost. -->
-  <MyHalfSiblingLost.stages.my_halfsibling_lost.description>TODO</MyHalfSiblingLost.stages.my_halfsibling_lost.description>
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.description>Fratele meu vitreg s-a pierdut.</MyHalfSiblingLost.stages.my_halfsibling_lost.description>
   
   <!-- EN: my husband {0} lost -->
-  <MyHusbandLost.stages.my_husband_lost.label>TODO</MyHusbandLost.stages.my_husband_lost.label>
+  <MyHusbandLost.stages.my_husband_lost.label>soțul meu {0} s-a pierdut</MyHusbandLost.stages.my_husband_lost.label>
   <!-- EN: My husband has gone lost. I hope he will get back to us someday. -->
-  <MyHusbandLost.stages.my_husband_lost.description>TODO</MyHusbandLost.stages.my_husband_lost.description>
+  <MyHusbandLost.stages.my_husband_lost.description>Soțul meu s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyHusbandLost.stages.my_husband_lost.description>
   
   <!-- EN: my kin {0} lost -->
-  <MyKinLost.stages.my_kin_lost.label>TODO</MyKinLost.stages.my_kin_lost.label>
+  <MyKinLost.stages.my_kin_lost.label>ruda mea {0} s-a pierdut</MyKinLost.stages.my_kin_lost.label>
   <!-- EN: My kin has gone lost. -->
-  <MyKinLost.stages.my_kin_lost.description>TODO</MyKinLost.stages.my_kin_lost.description>
+  <MyKinLost.stages.my_kin_lost.description>Ruda mea s-a pierdut.</MyKinLost.stages.my_kin_lost.description>
   
   <!-- EN: my lover {0} lost -->
-  <MyLoverLost.stages.my_lover_lost.label>TODO</MyLoverLost.stages.my_lover_lost.label>
+  <MyLoverLost.stages.my_lover_lost.label>iubitul meu {0} pierdut</MyLoverLost.stages.my_lover_lost.label>
   <!-- EN: My lover has gone lost. I hope he will get back to us someday. -->
-  <MyLoverLost.stages.my_lover_lost.description>TODO</MyLoverLost.stages.my_lover_lost.description>
+  <MyLoverLost.stages.my_lover_lost.description>Iubitul meu s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyLoverLost.stages.my_lover_lost.description>
   
   <!-- EN: my mother {0} lost -->
-  <MyMotherLost.stages.my_mother_lost.label>TODO</MyMotherLost.stages.my_mother_lost.label>
+  <MyMotherLost.stages.my_mother_lost.label>mama mea {0} a dispărut</MyMotherLost.stages.my_mother_lost.label>
   <!-- EN: My mother has gone lost. I hope she will get back to us someday. -->
-  <MyMotherLost.stages.my_mother_lost.description>TODO</MyMotherLost.stages.my_mother_lost.description>
+  <MyMotherLost.stages.my_mother_lost.description>Mama mea s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyMotherLost.stages.my_mother_lost.description>
   
   <!-- EN: my nephew {0} lost -->
-  <MyNephewLost.stages.my_nephew_lost.label>TODO</MyNephewLost.stages.my_nephew_lost.label>
+  <MyNephewLost.stages.my_nephew_lost.label>nepotul meu {0} s-a pierdut</MyNephewLost.stages.my_nephew_lost.label>
   <!-- EN: My nephew has gone lost. I hope he will get back to us someday. -->
-  <MyNephewLost.stages.my_nephew_lost.description>TODO</MyNephewLost.stages.my_nephew_lost.description>
+  <MyNephewLost.stages.my_nephew_lost.description>Nepotul meu s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyNephewLost.stages.my_nephew_lost.description>
   
   <!-- EN: my niece {0} lost -->
-  <MyNieceLost.stages.my_niece_lost.label>TODO</MyNieceLost.stages.my_niece_lost.label>
+  <MyNieceLost.stages.my_niece_lost.label>nepoata mea {0} s-a pierdut</MyNieceLost.stages.my_niece_lost.label>
   <!-- EN: My niece has gone lost. I hope she will get back to us someday. -->
-  <MyNieceLost.stages.my_niece_lost.description>TODO</MyNieceLost.stages.my_niece_lost.description>
+  <MyNieceLost.stages.my_niece_lost.description>Nepoata mea s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyNieceLost.stages.my_niece_lost.description>
   
   <!-- EN: my sister {0} lost -->
-  <MySisterLost.stages.my_sister_lost.label>TODO</MySisterLost.stages.my_sister_lost.label>
+  <MySisterLost.stages.my_sister_lost.label>sora mea {0} s-a pierdut</MySisterLost.stages.my_sister_lost.label>
   <!-- EN: My sister has gone lost. I hope she will get back to us someday. -->
-  <MySisterLost.stages.my_sister_lost.description>TODO</MySisterLost.stages.my_sister_lost.description>
+  <MySisterLost.stages.my_sister_lost.description>Sora mea s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MySisterLost.stages.my_sister_lost.description>
   
   <!-- EN: my son {0} lost -->
-  <MySonLost.stages.my_son_lost.label>TODO</MySonLost.stages.my_son_lost.label>
+  <MySonLost.stages.my_son_lost.label>fiul meu {0} s-a pierdut</MySonLost.stages.my_son_lost.label>
   <!-- EN: My son has gone lost. I hope he will get back to us someday. -->
-  <MySonLost.stages.my_son_lost.description>TODO</MySonLost.stages.my_son_lost.description>
+  <MySonLost.stages.my_son_lost.description>Fiul meu s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MySonLost.stages.my_son_lost.description>
   
   <!-- EN: my uncle {0} lost -->
-  <MyUncleLost.stages.my_uncle_lost.label>TODO</MyUncleLost.stages.my_uncle_lost.label>
+  <MyUncleLost.stages.my_uncle_lost.label>unchiul meu {0} s-a pierdut</MyUncleLost.stages.my_uncle_lost.label>
   <!-- EN: My uncle has gone lost. I hope he will get back to us someday. -->
-  <MyUncleLost.stages.my_uncle_lost.description>TODO</MyUncleLost.stages.my_uncle_lost.description>
+  <MyUncleLost.stages.my_uncle_lost.description>Unchiul meu s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyUncleLost.stages.my_uncle_lost.description>
   
   <!-- EN: my wife {0} lost -->
-  <MyWifeLost.stages.my_wife_lost.label>TODO</MyWifeLost.stages.my_wife_lost.label>
+  <MyWifeLost.stages.my_wife_lost.label>soția mea {0} s-a pierdut</MyWifeLost.stages.my_wife_lost.label>
   <!-- EN: My wife has gone lost. I hope she will get back to us someday. -->
-  <MyWifeLost.stages.my_wife_lost.description>TODO</MyWifeLost.stages.my_wife_lost.description>
+  <MyWifeLost.stages.my_wife_lost.description>Soția mea s-a pierdut. Sper că se va întoarce la noi într-o bună zi.</MyWifeLost.stages.my_wife_lost.description>
   
   <!-- EN: my rival {0} lost -->
-  <PawnWithBadOpinionLost.stages.my_rival_lost.label>TODO</PawnWithBadOpinionLost.stages.my_rival_lost.label>
+  <PawnWithBadOpinionLost.stages.my_rival_lost.label>rivalul meu {0} a pierdut</PawnWithBadOpinionLost.stages.my_rival_lost.label>
   <!-- EN: Serves them right. At least there's some justice in this world. -->
-  <PawnWithBadOpinionLost.stages.my_rival_lost.description>TODO</PawnWithBadOpinionLost.stages.my_rival_lost.description>
+  <PawnWithBadOpinionLost.stages.my_rival_lost.description>Le stă bine. Măcar există puțină dreptate în lumea asta.</PawnWithBadOpinionLost.stages.my_rival_lost.description>
   
   <!-- EN: my friend {0} lost -->
-  <PawnWithGoodOpinionLost.stages.my_friend_lost.label>TODO</PawnWithGoodOpinionLost.stages.my_friend_lost.label>
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.label>prietenul meu {0} a pierdut</PawnWithGoodOpinionLost.stages.my_friend_lost.label>
   <!-- EN: Such a wonderful person, lost. The universe gets darker every day. -->
-  <PawnWithGoodOpinionLost.stages.my_friend_lost.description>TODO</PawnWithGoodOpinionLost.stages.my_friend_lost.description>
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.description>O persoană atât de minunată, pierdută. Universul devine mai întunecat în fiecare zi.</PawnWithGoodOpinionLost.stages.my_friend_lost.description>
   
 </LanguageData>

@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: beer -->
-  <Beer.label>TODO</Beer.label>
+  <Beer.label>bere</Beer.label>
   <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
-  <Beer.description>TODO</Beer.description>
+  <Beer.description>Prima băutură, în afară de apă, consumată vreodată de omenire. Berea poate avea un gust bun, dar principalul său efect este intoxicarea. Consumul excesiv poate duce la pierderea cunoștinței de alcool și, în timp, la dependență.</Beer.description>
   <!-- EN: Drink {0} -->
-  <Beer.ingestible.ingestCommandString>TODO</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestCommandString>Bea {0}</Beer.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <Beer.ingestible.ingestReportString>TODO</Beer.ingestible.ingestReportString>
+  <Beer.ingestible.ingestReportString>Beți {0}.</Beer.ingestible.ingestReportString>
   <!-- EN: bottle -->
-  <Beer.tools.bottle.label>TODO</Beer.tools.bottle.label>
+  <Beer.tools.bottle.label>sticlă</Beer.tools.bottle.label>
   <!-- EN: neck -->
-  <Beer.tools.neck.label>TODO</Beer.tools.neck.label>
+  <Beer.tools.neck.label>gât</Beer.tools.neck.label>
   
   <!-- EN: wort -->
-  <Wort.label>TODO</Wort.label>
+  <Wort.label>must</Wort.label>
   <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
-  <Wort.description>TODO</Wort.description>
+  <Wort.description>Bere nefermentată. Această substanță trebuie să fermenteze într-un butoi de fermentare înainte de a deveni bere potabilă.</Wort.description>
   
 </LanguageData>

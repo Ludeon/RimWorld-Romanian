@@ -160,7 +160,6 @@ stork
 swan
 tapir
 tarsier
-termite
 tiger
 toad
 trout

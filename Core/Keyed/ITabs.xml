@@ -3,325 +3,402 @@
 
   <!-- ITab titles -->
   <!-- EN: Bills -->
-  <TabBills>TODO</TabBills>
+  <TabBills>Sarcini</TabBills>
   <!-- EN: Growing -->
-  <TabGrowing>TODO</TabGrowing>
+  <TabGrowing>Creștere</TabGrowing>
   <!-- EN: Bio -->
-  <TabCharacter>TODO</TabCharacter>
+  <TabCharacter>Caracter</TabCharacter>
   <!-- EN: Training -->
-  <TabTraining>TODO</TabTraining>
+  <TabTraining>Antrenare</TabTraining>
   <!-- EN: Prisoner -->
-  <TabPrisoner>TODO</TabPrisoner>
+  <TabPrisoner>Prizonier</TabPrisoner>
   <!-- EN: Guest -->
-  <TabGuest>TODO</TabGuest>
+  <TabGuest>Musafir</TabGuest>
   <!-- EN: Gear -->
-  <TabGear>TODO</TabGear>
+  <TabGear>Inventar</TabGear>
   <!-- EN: Needs -->
-  <TabNeeds>TODO</TabNeeds>
+  <TabNeeds>Nevoi</TabNeeds>
   <!-- EN: Storage -->
-  <TabStorage>TODO</TabStorage>
+  <TabStorage>Depozit</TabStorage>
   <!-- EN: Shells -->
-  <TabShells>TODO</TabShells>
+  <TabShells>Obuze</TabShells>
   <!-- EN: Health -->
-  <TabHealth>TODO</TabHealth>
+  <TabHealth>Sănătate</TabHealth>
   <!-- EN: Race -->
-  <TabRace>TODO</TabRace>
+  <TabRace>Rasă</TabRace>
   <!-- EN: Basics -->
-  <TabBasics>TODO</TabBasics>
+  <TabBasics>Noțiuni de bază</TabBasics>
   <!-- EN: Stats -->
-  <TabStats>TODO</TabStats>
+  <TabStats>Statistici</TabStats>
   <!-- EN: Records -->
-  <TabRecords>TODO</TabRecords>
+  <TabRecords>Înregistrări</TabRecords>
   <!-- EN: Art -->
-  <TabArt>TODO</TabArt>
+  <TabArt>Artă</TabArt>
   <!-- EN: Social -->
-  <TabSocial>TODO</TabSocial>
+  <TabSocial>Social</TabSocial>
   <!-- EN: Log -->
-  <TabLog>TODO</TabLog>
+  <TabLog>Jurnal</TabLog>
+  <!-- EN: Animals -->
+  <TabPenAnimals>Animale</TabPenAnimals>
+  <!-- EN: Food -->
+  <TabPenFood>Alimente</TabPenFood>
+  <!-- EN: Auto-cut -->
+  <TabPenAutoCut>Tăiere automată</TabPenAutoCut>
   <!-- EN: Caravan -->
-  <TabFormingCaravan>TODO</TabFormingCaravan>
+  <TabFormingCaravan>Caravană</TabFormingCaravan>
   <!-- EN: Contents -->
-  <TabTransporterContents>TODO</TabTransporterContents>
+  <TabTransporterContents>Conținut</TabTransporterContents>
   <!-- EN: Contents -->
-  <TabCasketContents>TODO</TabCasketContents>
+  <TabCasketContents>Conținut</TabCasketContents>
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
-  <AddBill>TODO</AddBill>
+  <AddBill>Adaugă sarcină</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>TODO</RecipeRequiresSkills>
+  <RecipeRequiresSkills>Rețeta {0} necesită aptitudinile de mai jos. Niciunul dintre coloniștii tăi nu are aceste abilități, așa că nimeni nu va face această sarcină.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
-  <MinimumSkill>TODO</MinimumSkill>
+  <MinimumSkill>Aptitudine minimă</MinimumSkill>
   <!-- EN: SUSPENDED -->
-  <SuspendedCaps>TODO</SuspendedCaps>
+  <SuspendedCaps>SUSPENDAT</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
-  <BoundWorkerIs>TODO</BoundWorkerIs>
+  <BoundWorkerIs>Muncitor: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
-  <PlantVerb>TODO</PlantVerb>
-  <!-- EN: Copied bill cannot be pasted here. -->
-  <ClipboardBillNotAvailableHere>TODO</ClipboardBillNotAvailableHere>
+  <PlantVerb>Plantează</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here -->
+  <ClipboardBillNotAvailableHere>Factura copiată nu poate fi lipită aici.</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
-  <ReorderBillUpTip>TODO</ReorderBillUpTip>
+  <ReorderBillUpTip>Mută în sus</ReorderBillUpTip>
   <!-- EN: Move down -->
-  <ReorderBillDownTip>TODO</ReorderBillDownTip>
+  <ReorderBillDownTip>Mută în jos</ReorderBillDownTip>
   <!-- EN: Delete -->
-  <DeleteBillTip>TODO</DeleteBillTip>
+  <DeleteBillTip>Șterge</DeleteBillTip>
   <!-- EN: Copy to the clipboard -->
-  <CopyBillTip>TODO</CopyBillTip>
+  <CopyBillTip>Copie în clipboard</CopyBillTip>
   <!-- EN: Suspend -->
-  <SuspendBillTip>TODO</SuspendBillTip>
+  <SuspendBillTip>Suspendă</SuspendBillTip>
   <!-- EN: Paste -->
-  <PasteBillTip>TODO</PasteBillTip>
+  <PasteBillTip>Lipire</PasteBillTip>
   <!-- EN: can't add more -->
-  <PasteBillTip_LimitReached>TODO</PasteBillTip_LimitReached>
+  <PasteBillTip_LimitReached>nu se mai poate adăuga</PasteBillTip_LimitReached>
 
   <!-- Guest/prisoner tab -->
-  <!-- EN: Resistance remaining -->
-  <RecruitmentResistance>TODO</RecruitmentResistance>
-  <!-- EN: Recruitment difficulty -->
-  <RecruitmentDifficulty>TODO</RecruitmentDifficulty>
-  <!-- EN: Recruitment chance -->
-  <RecruitmentChance>TODO</RecruitmentChance>
-  <!-- EN: Recruit difficulty factor: {0}\nMood factor: {1}\nCombined base chance: {2} -->
-  <RecruitmentChanceExplanation>TODO</RecruitmentChanceExplanation>
-  <!-- EN: \n- - - - - - - - - -\nLast recruitment attempt\nRecruiter: {3}\nNegotiation ability factor: {4}\nOpinion factor: {5} ({6})\nFinal chance for {3}: {7} -->
-  <RecruitmentChanceWithLastRecruiterExplanationPart>TODO</RecruitmentChanceWithLastRecruiterExplanationPart>
-  <!-- EN: \nResistance reduction: {0} -->
-  <RecruitmentLastRecruiterResistanceReduceExplanationPart>TODO</RecruitmentLastRecruiterResistanceReduceExplanationPart>
+  <!-- EN: Resistance -->
+  <RecruitmentResistance>Rezistența rămasă</RecruitmentResistance>
+  <!-- EN: How much doubt this prisoner has about joining your faction. When this reaches zero, they can be recruited. -->
+  <RecruitmentResistanceDesc>Câte îndoieli are acest prizonier în legătură cu aderarea la facțiunea ta. Atunci când ajunge la zero, acesta poate fi recrutat.</RecruitmentResistanceDesc>
+  <!-- EN: {0} base resistance -->
+  <RecruitmentResistanceFromPawnKind>{0} rezistență de bază</RecruitmentResistanceFromPawnKind>
   <!-- EN: Relations gain on release -->
-  <PrisonerReleasePotentialRelationGains>TODO</PrisonerReleasePotentialRelationGains>
-  <!-- EN: The faction relations improvement you will get from the prisoner's faction if you release them. This is affected by the prisoner's health and mental condition. -->
-  <PrisonerReleaseRelationGainsDesc>TODO</PrisonerReleaseRelationGainsDesc>
+  <PrisonerReleasePotentialRelationGains>Câștig de relații la eliberare</PrisonerReleasePotentialRelationGains>
+  <!-- EN: The faction goodwill you will get from the prisoner's faction if you release them. This is affected by the prisoner's identity, health, and mental condition. -->
+  <PrisonerReleaseRelationGainsDesc>Îmbunătățirea relațiilor de facțiune pe care o veți obține de la facțiunea prizonierului dacă îl eliberați. Aceasta este afectată de starea de sănătate și de starea mentală a prizonierului.</PrisonerReleaseRelationGainsDesc>
   <!-- EN: Prison break interval -->
-  <PrisonBreakMTBDays>TODO</PrisonBreakMTBDays>
-  <!-- EN: The mean number of days of time awake between prison break attempts. Affected by mood, mobility and time since the last prison break.\n\nThis number ignores time spent sleeping, so the actual average prison break interval will usually be longer. -->
-  <PrisonBreakMTBDaysDescription>TODO</PrisonBreakMTBDaysDescription>
+  <PrisonBreakMTBDays>Intervalul de evadare din închisoare</PrisonBreakMTBDays>
+  <!-- EN: The average days awake between prison breaks. This is affected by mood, mobility, the number of prison doors, and time since the last prison break.\n\nNote that this does not include time spent asleep. -->
+  <PrisonBreakMTBDaysDescription>Numărul mediu de zile de timp petrecut treaz între încercările de evadare din închisoare. Afectat de starea de spirit, de mobilitate și de timpul scurs de la ultima evadare.\n\nAcest număr nu ține cont de timpul petrecut dormind, astfel încât intervalul mediu real de evadare din închisoare va fi de obicei mai lung.</PrisonBreakMTBDaysDescription>
   <!-- EN: Never -->
-  <Never>TODO</Never>
+  <Never>Niciodată</Never>
   <!-- EN: Not while asleep -->
-  <NotWhileAsleep>TODO</NotWhileAsleep>
+  <NotWhileAsleep>Nu în timp ce dormi</NotWhileAsleep>
+  <!-- EN: Breaking out now -->
+  <CurrentlyPrisonBreaking>Evadat acum</CurrentlyPrisonBreaking>
+  <!-- EN: Multiplier for door count -->
+  <FactorForDoorCount>Multiplicator pentru numărul de uși</FactorForDoorCount>
+  <!-- EN: Multiplier for movement -->
+  <FactorForMovement>Multiplicator pentru mișcare</FactorForMovement>
   <!-- EN: Slave price -->
-  <SlavePrice>TODO</SlavePrice>
+  <SlavePrice>Preț de sclav</SlavePrice>
+  <!-- EN: The base market value of this {0} if sold. -->
+  <SlavePriceDescription>Valoarea de piață de bază a acestui {0} în cazul în care este vândut.</SlavePriceDescription>
   <!-- EN: Gets food -->
-  <GetsFood>TODO</GetsFood>
+  <GetsFood>Primește mâncare</GetsFood>
   <!-- EN: Doctors care -->
-  <DoctorsCare>TODO</DoctorsCare>
+  <DoctorsCare>Îngrijirea doctorilor</DoctorsCare>
   <!-- EN: Gets medicine -->
-  <GetsMedicine>TODO</GetsMedicine>
+  <GetsMedicine>Primește medicamente</GetsMedicine>
   <!-- EN: Try to recruit -->
-  <ShouldTryToRecruit>TODO</ShouldTryToRecruit>
+  <ShouldTryToRecruit>Încearcă să recruteze</ShouldTryToRecruit>
   <!-- EN: Considered guilty (expires in {0}) -->
-  <ConsideredGuilty>TODO</ConsideredGuilty>
+  <ConsideredGuilty>Considerat vinovat (expiră în {0})</ConsideredGuilty>
   <!-- EN: Considered guilty -->
-  <ConsideredGuiltyNoTimer>TODO</ConsideredGuiltyNoTimer>
+  <ConsideredGuiltyNoTimer>Considerat vinovat</ConsideredGuiltyNoTimer>
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
-  <MoveSpeed>TODO</MoveSpeed>
+  <MoveSpeed>Viteza de deplasare</MoveSpeed>
   <!-- EN: Efficiency -->
-  <Efficiency>TODO</Efficiency>
+  <Efficiency>Eficiență</Efficiency>
   <!-- EN: Part efficiency -->
-  <PartEfficiency>TODO</PartEfficiency>
+  <PartEfficiency>Eficiența părții</PartEfficiency>
   <!-- EN: Body part efficiency -->
-  <BodyPartEfficiency>TODO</BodyPartEfficiency>
+  <BodyPartEfficiency>Eficiența părții corpului</BodyPartEfficiency>
   <!-- EN: Gone -->
-  <MissingBodyPart>TODO</MissingBodyPart>
+  <MissingBodyPart>Lipsă</MissingBodyPart>
   <!-- EN: Destroyed -->
-  <DestroyedBodyPart>TODO</DestroyedBodyPart>
+  <DestroyedBodyPart>Distrus</DestroyedBodyPart>
   <!-- EN: Shattered -->
-  <ShatteredBodyPart>TODO</ShatteredBodyPart>
+  <ShatteredBodyPart>Spulberat</ShatteredBodyPart>
   <!-- EN: Removed -->
-  <RemovedBodyPart>TODO</RemovedBodyPart>
+  <RemovedBodyPart>Îndepărtat</RemovedBodyPart>
   <!-- EN: Healthy -->
-  <Healthy>TODO</Healthy>
+  <Healthy>Sănătos</Healthy>
   <!-- EN: In pain -->
-  <InPain>TODO</InPain>
+  <InPain>În durere</InPain>
   <!-- EN: Pain -->
-  <PainLevel>TODO</PainLevel>
+  <PainLevel>Durere</PainLevel>
   <!-- EN: Injured -->
-  <Injured>TODO</Injured>
+  <Injured>Rănit</Injured>
   <!-- EN: Untended injury -->
-  <UntendedInjury>TODO</UntendedInjury>
+  <UntendedInjury>Rană netratată</UntendedInjury>
   <!-- EN: no health conditions -->
-  <NoHealthConditions>TODO</NoHealthConditions>
+  <NoHealthConditions>fără condiții de sănătate</NoHealthConditions>
   <!-- EN: Whole body -->
-  <WholeBody>TODO</WholeBody>
+  <WholeBody>Întreg corpul</WholeBody>
   <!-- EN: Data processing -->
-  <DataProcessing>TODO</DataProcessing>
+  <DataProcessing>Prelucrarea datelor</DataProcessing>
   <!-- EN: Communication -->
-  <Communication>TODO</Communication>
+  <Communication>Comunicare</Communication>
   <!-- EN: Affects -->
-  <Affects>TODO</Affects>
+  <Affects>Afectează</Affects>
   <!-- EN: Bleeding -->
-  <BleedingRate>TODO</BleedingRate>
+  <BleedingRate>Sângerare</BleedingRate>
   <!-- EN: death in {0} -->
-  <TimeToDeath>TODO</TimeToDeath>
+  <TimeToDeath>moarte în {0}</TimeToDeath>
   <!-- EN: no immediate danger -->
-  <WontBleedOutSoon>TODO</WontBleedOutSoon>
+  <WontBleedOutSoon>fără pericol imediat</WontBleedOutSoon>
   <!-- EN: Overview -->
-  <HealthOverview>TODO</HealthOverview>
+  <HealthOverview>Sumar</HealthOverview>
   <!-- EN: Operations ({0}) -->
-  <MedicalOperationsShort>TODO</MedicalOperationsShort>
+  <MedicalOperationsShort>Operațiuni ({0})</MedicalOperationsShort>
   <!-- EN: Modifications ({0}) -->
-  <MedicalOperationsMechanoidsShort>TODO</MedicalOperationsMechanoidsShort>
+  <MedicalOperationsMechanoidsShort>Modificări ({0})</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
-  <MedicalOperations>TODO</MedicalOperations>
+  <MedicalOperations>Operațiuni medicale</MedicalOperations>
   <!-- EN: amputate -->
-  <Amputate>TODO</Amputate>
+  <Amputate>amputare</Amputate>
   <!-- EN: harvest -->
-  <HarvestOrgan>TODO</HarvestOrgan>
+  <HarvestOrgan>recoltare</HarvestOrgan>
   <!-- EN: remove -->
-  <RemoveOrgan>TODO</RemoveOrgan>
+  <RemoveOrgan>înlătură</RemoveOrgan>
   <!-- EN: memory -->
-  <MemoryLower>TODO</MemoryLower>
+  <MemoryLower>memorie</MemoryLower>
   <!-- EN: social interactions -->
-  <SocialInteractionsLower>TODO</SocialInteractionsLower>
+  <SocialInteractionsLower>interacțiuni sociale</SocialInteractionsLower>
   <!-- EN: Hunger rate -->
-  <HungerRate>TODO</HungerRate>
+  <HungerRate>Rata foamei</HungerRate>
   <!-- EN: Tiredness -->
-  <Tiredness>TODO</Tiredness>
+  <Tiredness>Oboseală</Tiredness>
   <!-- EN: Pain -->
-  <PainFactor>TODO</PainFactor>
+  <PainFactor>Durere</PainFactor>
   <!-- EN: Prevents infection -->
-  <PreventsInfection>TODO</PreventsInfection>
+  <PreventsInfection>Previne infecția</PreventsInfection>
   <!-- EN: Self-tend -->
-  <SelfTend>TODO</SelfTend>
+  <SelfTend>Auto-tratare</SelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <SelfTendTip>TODO</SelfTendTip>
+  <SelfTendTip>{0} cu auto-tratarea activată se va trata automat pe loc la {1} din eficiența normală.</SelfTendTip>
+  <!-- EN: death in {0} -->
+  <DeathIn>moarte în {0}</DeathIn>
   
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
-  <None>TODO</None>
+  <None>Nimic</None>
   <!-- EN: Very poor -->
-  <VeryPoor>TODO</VeryPoor>
+  <VeryPoor>Foarte slab</VeryPoor>
   <!-- EN: Poor -->
-  <Poor>TODO</Poor>
+  <Poor>Slabă</Poor>
   <!-- EN: Weakened -->
-  <Weakened>TODO</Weakened>
+  <Weakened>Slăbit</Weakened>
   <!-- EN: OK -->
-  <GoodCondition>TODO</GoodCondition>
+  <GoodCondition>OK</GoodCondition>
   <!-- EN: Enhanced -->
-  <Enhanced>TODO</Enhanced>
+  <Enhanced>Îmbunătățit</Enhanced>
   <!-- EN: Seriously impaired -->
-  <SeriouslyImpaired>TODO</SeriouslyImpaired>
+  <SeriouslyImpaired>Serios afectat</SeriouslyImpaired>
   <!-- EN: Impaired -->
-  <Impaired>TODO</Impaired>
+  <Impaired>Afectat</Impaired>
   <!-- EN: Slightly impaired -->
-  <SlightlyImpaired>TODO</SlightlyImpaired>
+  <SlightlyImpaired>Ușor afectat</SlightlyImpaired>
   <!-- EN: None -->
-  <NoPain>TODO</NoPain>
+  <NoPain>Nimic</NoPain>
   <!-- EN: Little -->
-  <LittlePain>TODO</LittlePain>
+  <LittlePain>Mică</LittlePain>
   <!-- EN: Medium -->
-  <MediumPain>TODO</MediumPain>
+  <MediumPain>Medie</MediumPain>
   <!-- EN: Severe -->
-  <SeverePain>TODO</SeverePain>
+  <SeverePain>Severă</SeverePain>
   <!-- EN: Extreme -->
-  <ExtremePain>TODO</ExtremePain>
+  <ExtremePain>Extremă</ExtremePain>
 
   <!-- Training tab -->
   <!-- EN: Trainability -->
-  <Trainability>TODO</Trainability>
+  <Trainability>Instruibilitate</Trainability>
   <!-- EN: Requires {0} trainability. -->
-  <CannotTrainNotSmartEnough>TODO</CannotTrainNotSmartEnough>
+  <CannotTrainNotSmartEnough>Necesită {0} capacitate de instruire.</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
-  <CannotTrainTooSmall>TODO</CannotTrainTooSmall>
+  <CannotTrainTooSmall>{1_labelShort} este prea mică pentru a putea fi antrenată.</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
-  <TrainingNeedsPrerequisite>TODO</TrainingNeedsPrerequisite>
+  <TrainingNeedsPrerequisite>Precondiție necesară: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
   <!-- EN: (no relationships) -->
-  <NoRelationships>TODO</NoRelationships>
+  <NoRelationships>(fără relații)</NoRelationships>
   <!-- EN: Kidnapped -->
-  <Kidnapped>TODO</Kidnapped>
+  <Kidnapped>Răpit</Kidnapped>
   <!-- EN: Lent to {FACTION_name}, returns in {1} -->
-  <Lent>TODO</Lent>
+  <Lent>A plecat la {FACTION_name}, se întoarce în {1}.</Lent>
   <!-- EN: Missing -->
-  <Missing>TODO</Missing>
+  <Missing>Dispărut</Missing>
   <!-- EN: Slave -->
-  <Slave>TODO</Slave>
+  <Slave>Slave</Slave>
   <!-- EN: Faction leader -->
-  <FactionLeader>TODO</FactionLeader>
+  <FactionLeader>Lider de facțiune</FactionLeader>
   <!-- EN: Opinion of {1_labelShort} -->
-  <OpinionOf>TODO</OpinionOf>
+  <OpinionOf>Opinia lui {1_labelShort}</OpinionOf>
   <!-- EN: {1_labelShort}'s opinion of me -->
-  <SomeonesOpinionOfMe>TODO</SomeonesOpinionOfMe>
+  <SomeonesOpinionOfMe>Opinia despre mine a {1_labelShort}</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
-  <IAmDead>TODO</IAmDead>
+  <IAmDead>Sunt mort</IAmDead>
   <!-- EN: I'm a psychopath -->
-  <IAmPsychopath>TODO</IAmPsychopath>
+  <IAmPsychopath>Sunt un psihopat</IAmPsychopath>
   
   <!-- Gear tab -->
   <!-- EN: Overall armor -->
-  <OverallArmor>TODO</OverallArmor>
+  <OverallArmor>Armura totală</OverallArmor>
   <!-- EN: Mass carried: {0} / {1} kg -->
-  <MassCarried>TODO</MassCarried>
+  <MassCarried>Masa transportată: {0} / {1} kg</MassCarried>
   <!-- EN: Comfortable temperature range -->
-  <ComfyTemperatureRange>TODO</ComfyTemperatureRange>
+  <ComfyTemperatureRange>Interval de temperatură confortabilă</ComfyTemperatureRange>
   <!-- EN: Blunt -->
-  <ArmorBlunt>TODO</ArmorBlunt>
+  <ArmorBlunt>Ciocnit</ArmorBlunt>
   <!-- EN: Sharp -->
-  <ArmorSharp>TODO</ArmorSharp>
+  <ArmorSharp>Ascuțit</ArmorSharp>
   <!-- EN: Heat -->
-  <ArmorHeat>TODO</ArmorHeat>
+  <ArmorHeat>Căldură</ArmorHeat>
   
   <!-- Log tab -->
   <!-- EN: Show all -->
-  <ShowAll>TODO</ShowAll>
+  <ShowAll>Arată tot</ShowAll>
   <!-- EN: Show combat -->
-  <ShowCombat>TODO</ShowCombat>
+  <ShowCombat>Arată lupta</ShowCombat>
   <!-- EN: Show social -->
-  <ShowSocial>TODO</ShowSocial>
+  <ShowSocial>Afișează social</ShowSocial>
   <!-- EN: no recent entries -->
-  <NoRecentEntries>TODO</NoRecentEntries>
+  <NoRecentEntries>fără intrări recente</NoRecentEntries>
   <!-- EN: Copy log to the clipboard. -->
-  <CopyLogTip>TODO</CopyLogTip>
+  <CopyLogTip>Copiază jurnalul în clipboard.</CopyLogTip>
 
   <!-- Forming caravan tab -->
+  <!-- EN: Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals>Adunarea animalelor</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause>Adunarea animalelor (în așteptare)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
-  <FormingCaravanStatus_GatheringItems>TODO</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems>Colectare de obiecte</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
-  <FormingCaravanStatus_GatheringItems_Pause>TODO</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringItems_Pause>Adunare de obiecte (în așteptare)</FormingCaravanStatus_GatheringItems_Pause>
   <!-- EN: Gathering downed people -->
-  <FormingCaravanStatus_GatheringDownedPawns>TODO</FormingCaravanStatus_GatheringDownedPawns>
+  <FormingCaravanStatus_GatheringDownedPawns>Strângere de oameni doborâți</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>TODO</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Strângere de oameni doborâți (în așteptare)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
-  <FormingCaravanStatus_Leaving>TODO</FormingCaravanStatus_Leaving>
+  <FormingCaravanStatus_Leaving>Plecare</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
-  <FormingCaravanStatus_Leaving_Pause>TODO</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Leaving_Pause>Plecare (în așteptare)</FormingCaravanStatus_Leaving_Pause>
   <!-- EN: Waiting -->
-  <FormingCaravanStatus_Waiting>TODO</FormingCaravanStatus_Waiting>
+  <FormingCaravanStatus_Waiting>În așteptare</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->
-  <CaravanMembers>TODO</CaravanMembers>
+  <CaravanMembers>Membri</CaravanMembers>
   <!-- EN: Animals -->
-  <CaravanAnimals>TODO</CaravanAnimals>
+  <CaravanAnimals>Animale</CaravanAnimals>
   <!-- EN: To load -->
-  <ItemsToLoad>TODO</ItemsToLoad>
+  <ItemsToLoad>De încărcat</ItemsToLoad>
   <!-- EN: Loaded -->
-  <LoadedItems>TODO</LoadedItems>
+  <LoadedItems>Încărcate</LoadedItems>
   <!-- EN: pack animals -->
-  <PackAnimalsCountLower>TODO</PackAnimalsCountLower>
+  <PackAnimalsCountLower>animale în haită</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
-  <InMentalStateCountLower>TODO</InMentalStateCountLower>
+  <InMentalStateCountLower>afectat mental</InMentalStateCountLower>
 
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
-  <RemoveSliderText>TODO</RemoveSliderText>
+  <RemoveSliderText>Eliminați {{0}}x {0}</RemoveSliderText>
   <!-- EN: Contained items -->
-  <ContainedItems>TODO</ContainedItems>
+  <ContainedItems>Elemente conținute</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->
-  <ConfirmRemoveItemDialog>TODO</ConfirmRemoveItemDialog>
+  <ConfirmRemoveItemDialog>Chiar doriți să eliminați {0}?</ConfirmRemoveItemDialog>
   
   <!-- Quests tab -->
   <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
-  <DismissQuest>TODO</DismissQuest>
+  <DismissQuest>Renunță la această misiune și mut-o în fila Istoric.\n\nMisiunea poate fi anulată în orice moment. Efectele și timpii de expirare a acesteia vor continua în mod normal. Nu veți primi notificări despre misiunile respinse.</DismissQuest>
   <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
-  <UnDismissQuest>TODO</UnDismissQuest>
+  <UnDismissQuest>Readu această misiune.\n\nMisiunea va fi readusă în fila disponibilă sau activă, iar notificările vor fi reactivate.</UnDismissQuest>
   <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
-  <QuestDismissed>TODO</QuestDismissed>
+  <QuestDismissed>Această misiune se află aici pentru că a fost renunțată.\n\nPoți să o readuci până când expiră.</QuestDismissed>
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
-  <DeleteQuest>TODO</DeleteQuest>
+  <DeleteQuest>Șterge această misiune și elimin-o din lista de misiuni pentru totdeauna.</DeleteQuest>
+
+  <!-- Animal pen food tab -->
+  <!-- EN: enclose the pen marker to calculate food information -->
+  <PenFoodTab_NotEnclosed>Închideți marcajul cu pixul pentru a calcula informațiile privind hrana</PenFoodTab_NotEnclosed>
+
+  <!-- EN: Nutrition stockpiled -->
+  <PenFoodTab_StockpileTotal>Hrană stocată</PenFoodTab_StockpileTotal>
+  <!-- EN: The total nutrition of stockpiled food in the pen. -->
+  <PenFoodTab_StockpileTotalDescription>Nutriția totală a alimentelor stocate în pix.</PenFoodTab_StockpileTotalDescription>
+  <!-- EN: Days to stockpile exhaustion -->
+  <PenFoodTab_StockpileEmptyDays>Zile până la epuizarea stocului</PenFoodTab_StockpileEmptyDays>
+  <!-- EN: Nutrition consumption exceeds nutrition growth rate in this pen. The animals will eventually eat all the stockpiled food and starve. -->
+  <PenFoodTab_StockpileEmptyDaysDescription>Consumul de hrană depășește rata de creștere a nutriției în acest țarc. Animalele vor mânca în cele din urmă toată hrana stocată și vor muri de foame.</PenFoodTab_StockpileEmptyDaysDescription>
+
+  <!-- EN: Animal type -->
+  <PenFoodTab_AnimalType>Tipul de animal</PenFoodTab_AnimalType>
+  <!-- EN: Count -->
+  <PenFoodTab_Count>Număr</PenFoodTab_Count>
+  <!-- EN: Today -->
+  <PenFoodTab_CurrentDay>Astăzi</PenFoodTab_CurrentDay>
+  <!-- EN: nutrition -->
+  <PenFoodTab_Nutrition_Unit>nutriție</PenFoodTab_Nutrition_Unit>
+  <!-- EN: per day -->
+  <PenFoodTab_NutritionPerDay_Unit>pe zi</PenFoodTab_NutritionPerDay_Unit>
+  <!-- EN: Force display animal... -->
+  <PenFoodTab_AddAnimal>Forțați afișarea animalului...</PenFoodTab_AddAnimal>
+
+  <!-- EN: Nutrition growth -->
+  <PenFoodTab_NaturalNutritionGrowthRate>Creșterea nutriției</PenFoodTab_NaturalNutritionGrowthRate>
+  <!-- EN: Growth per season -->
+  <PenFoodTab_GrowthPerSeason>Creștere pe sezon</PenFoodTab_GrowthPerSeason>
+  <!-- EN: Nutrition consumption -->
+  <PenFoodTab_TotalNutritionConsumptionRate>Consumul de nutriție</PenFoodTab_TotalNutritionConsumptionRate>
+  <!-- EN: The average nutrition provided by edible plants in this pen. -->
+  <PenFoodTab_NaturalNutritionGrowthRateDescription>Nutriția medie asigurată de plantele comestibile din acest țarc.</PenFoodTab_NaturalNutritionGrowthRateDescription>
+  <!-- EN: The nutrition needed by animals currently in this pen.\n\nTo get more food, expand the pen to cover more wild plant growth, or deliver stockpiled food like haygrass to the pen. -->
+  <PenFoodTab_NutritionConsumptionDescription>Nutriția de care au nevoie animalele aflate în prezent în acest țarc.\n\nPentru a obține mai multă hrană, extindeți țarcurile pentru a acoperi mai multe plante sălbatice sau livrați în țarc hrană depozitată, cum ar fi iarba de fân.</PenFoodTab_NutritionConsumptionDescription>
+  <!-- EN: Note: Plant growth rate varies due to seasons, weather, theft by wild animals, and other factors. These calculations are approximations. -->
+  <PenFoodTab_NaturalNutritionGrowthRateSeasonal>Notă: Rata de creștere a plantelor variază în funcție de anotimpuri, de vreme, de furtul de către animalele sălbatice și de alți factori. Aceste calcule sunt aproximative.</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
+
+  <!-- EN: Total consumption -->
+  <PenFoodTab_NutritionConsumedPerDay_ColumLabel>Consum total</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
+  <!-- EN: The total nutrition that will be consumed each day by each type of animal in this pen. -->
+  <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>Nutriția totală care va fi consumată în fiecare zi de fiecare tip de animal din acest țarc.</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
+  <!-- EN: Daily consumption per {ANIMALDEF_label} -->
+  <PenFoodTab_NutritionConsumedPerDay>Consumul zilnic pe {ANIMALDEF_label}</PenFoodTab_NutritionConsumedPerDay>
+  <!-- EN: each {CONSUMEDAMOUNT} -->
+  <PenFoodTab_NutritionConsumedEachAnimalLabel>fiecare {CONSUMEDAMOUNT}</PenFoodTab_NutritionConsumedEachAnimalLabel>
+  <!-- EN: Count that could be supported with no other animals in the pen -->
+  <PenFoodTab_AnimalTypeAnimalCapacity>Numărul de animale care ar putea fi suportate fără alte animale în țarc</PenFoodTab_AnimalTypeAnimalCapacity>
+
+  <!-- EN: Edible now -->
+  <PenFoodTab_EdibleNow>Comestibil acum</PenFoodTab_EdibleNow>
+
+  <!-- EN: Auto-cut plants in pen -->
+  <PenAutoCut_EnabledCheckbox>Auto-taie plante în țarc</PenAutoCut_EnabledCheckbox>
+  <!-- EN: Automatically mark certain inedible plants to be cut. This makes room for edible plants to grow, which your animals can then eat.\n\nThis auto-designation happens periodically and only applies to certain plants.\n\nThis only works when the pen is enclosed. -->
+  <PenAutoCut_EnabledCheckboxTip>Marcați automat anumite plante necomestibile pentru a fi tăiate. Acest lucru face loc pentru ca plantele comestibile să crească, pe care animalele dvs. le pot mânca apoi.\n\nAceastă autodesemnare se întâmplă periodic și se aplică doar anumitor plante.\n\nAcest lucru funcționează doar atunci când țarcurile sunt închise.</PenAutoCut_EnabledCheckboxTip>
+
+  <!-- EN: Pen is not enclosed -->
+  <AutocutUnenclosedPen>Țarc nu este închis</AutocutUnenclosedPen>
+  <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
+  <AutocutUnenclosedPenTip>Țarcul nu este închis acum, deci tăierea automată nu va avea loc.</AutocutUnenclosedPenTip>
 
 </LanguageData>

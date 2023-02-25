@@ -56,7 +56,6 @@ skunk
 snake
 spider
 squid
-termite
 tiger
 toad
 trout

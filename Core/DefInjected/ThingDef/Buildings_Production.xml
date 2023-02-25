@@ -2,128 +2,128 @@
 <LanguageData>
   
   <!-- EN: biofuel refinery -->
-  <BiofuelRefinery.label>TODO</BiofuelRefinery.label>
+  <BiofuelRefinery.label>rafinărie de biocombustibil</BiofuelRefinery.label>
   <!-- EN: Refines biological matter like wood or plant matter into chemfuel. -->
-  <BiofuelRefinery.description>TODO</BiofuelRefinery.description>
+  <BiofuelRefinery.description>Rafinează materia biologică, cum ar fi lemnul sau materia vegetală, pentru a o transforma în combustibil chimic.</BiofuelRefinery.description>
   
   <!-- EN: brewery -->
-  <Brewery.label>TODO</Brewery.label>
+  <Brewery.label>fabrică de bere</Brewery.label>
   <!-- EN: A work station with all the equipment needed to mix wort for beer production. Wort must be fermented to finally become beer. -->
-  <Brewery.description>TODO</Brewery.description>
+  <Brewery.description>Un post de lucru cu toate echipamentele necesare pentru a amesteca mustul pentru producția de bere. Mustul trebuie să fie fermentat pentru a deveni în final bere.</Brewery.description>
   
   <!-- EN: butcher spot -->
-  <ButcherSpot.label>TODO</ButcherSpot.label>
+  <ButcherSpot.label>loc de măcelărit</ButcherSpot.label>
   <!-- EN: A place for butchering animals. Due to the lack of equipment, butchering here yields only 70% of the meat and leather of each creature. -->
-  <ButcherSpot.description>TODO</ButcherSpot.description>
+  <ButcherSpot.description>Un loc pentru măcelărirea animalelor. Din cauza lipsei de echipament, măcelărirea de aici produce doar 70% din carnea și pielea fiecărei creaturi.</ButcherSpot.description>
   
   <!-- EN: crafting spot -->
-  <CraftingSpot.label>TODO</CraftingSpot.label>
+  <CraftingSpot.label>loc de meșteșugărit</CraftingSpot.label>
   <!-- EN: A place for crafting simple items like knives or bows. Production here is slow because of the lack of tools. -->
-  <CraftingSpot.description>TODO</CraftingSpot.description>
+  <CraftingSpot.description>Un loc pentru meșteșugărit obiecte simple, precum cuțite sau arcuri. Producția aici este lentă din cauza lipsei de unelte.</CraftingSpot.description>
   
   <!-- EN: deep drill -->
-  <DeepDrill.label>TODO</DeepDrill.label>
+  <DeepDrill.label>burghiu adânc</DeepDrill.label>
   <!-- EN: A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources. This drill will yield stone chunks if no resources are present. Can be repositioned freely. -->
-  <DeepDrill.description>TODO</DeepDrill.description>
+  <DeepDrill.description>O instalație de foraj de adâncime pentru extragerea mineralelor de la mare adâncime sub suprafață. Folosește un scaner de penetrare a solului pentru a detecta resursele. Acest burghiu va produce bucăți de piatră dacă nu sunt prezente resurse. Poate fi repoziționată în mod liber.</DeepDrill.description>
   
   <!-- EN: drug lab -->
-  <DrugLab.label>TODO</DrugLab.label>
+  <DrugLab.label>laborator de droguri</DrugLab.label>
   <!-- EN: A work bench equipped with containers, heaters, and measurement devices for producing various drugs. -->
-  <DrugLab.description>TODO</DrugLab.description>
+  <DrugLab.description>O bancă de lucru echipată cu recipiente, încălzitoare și dispozitive de măsurare pentru producerea diferitelor medicamente.</DrugLab.description>
   
   <!-- EN: electric crematorium -->
-  <ElectricCrematorium.label>TODO</ElectricCrematorium.label>
+  <ElectricCrematorium.label>crematoriu electric</ElectricCrematorium.label>
   <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
-  <ElectricCrematorium.description>TODO</ElectricCrematorium.description>
+  <ElectricCrematorium.description>Un crematoriu imens din piatră care vaporizează cadavrele la temperaturi extrem de ridicate.</ElectricCrematorium.description>
   
   <!-- EN: electric smelter -->
-  <ElectricSmelter.label>TODO</ElectricSmelter.label>
+  <ElectricSmelter.label>topitor electric</ElectricSmelter.label>
   <!-- EN: Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power. -->
-  <ElectricSmelter.description>TODO</ElectricSmelter.description>
+  <ElectricSmelter.description>Extrage metalul utilizabil din bucăți de zgură și alte obiecte metalice amestecate. Consumă multă energie.</ElectricSmelter.description>
   
   <!-- EN: electric smithy -->
-  <ElectricSmithy.label>TODO</ElectricSmithy.label>
+  <ElectricSmithy.label>fierărie electrică</ElectricSmithy.label>
   <!-- EN: An electric-powered station for smithing non-mechanical weapons and tools. -->
-  <ElectricSmithy.description>TODO</ElectricSmithy.description>
+  <ElectricSmithy.description>O stație alimentată cu energie electrică pentru forjarea de arme și unelte nemecanice.</ElectricSmithy.description>
   
   <!-- EN: electric stove -->
-  <ElectricStove.label>TODO</ElectricStove.label>
+  <ElectricStove.label>sobă electrică</ElectricStove.label>
   <!-- EN: An electrically-powered stove with an attached countertop for preparing meals. -->
-  <ElectricStove.description>TODO</ElectricStove.description>
+  <ElectricStove.description>Un aragaz alimentat cu energie electrică cu un blat atașat pentru pregătirea meselor.</ElectricStove.description>
   
   <!-- EN: electric tailor bench -->
-  <ElectricTailoringBench.label>TODO</ElectricTailoringBench.label>
+  <ElectricTailoringBench.label>bancă de croitorie electrică</ElectricTailoringBench.label>
   <!-- EN: A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 50% of normal speed. -->
-  <ElectricTailoringBench.description>TODO</ElectricTailoringBench.description>
+  <ElectricTailoringBench.description>Un banc de lucru cu o mașină de cusut pentru croirea rapidă a hainelor. Poate funcționa fără electricitate la 50% din viteza normală.</ElectricTailoringBench.description>
   
   <!-- EN: fabrication bench -->
-  <FabricationBench.label>TODO</FabricationBench.label>
+  <FabricationBench.label>banc de fabricație</FabricationBench.label>
   <!-- EN: A workbench equipped with advanced tools for producing technological marvels from simpler materials. -->
-  <FabricationBench.description>TODO</FabricationBench.description>
+  <FabricationBench.description>Un banc de lucru echipat cu unelte avansate pentru producerea de minuni tehnologice din materiale mai simple.</FabricationBench.description>
   
   <!-- EN: fermenting barrel -->
-  <FermentingBarrel.label>TODO</FermentingBarrel.label>
+  <FermentingBarrel.label>butoi de fermentare</FermentingBarrel.label>
   <!-- EN: A barrel for fermenting raw wort into beer. -->
-  <FermentingBarrel.description>TODO</FermentingBarrel.description>
+  <FermentingBarrel.description>Un butoi pentru fermentarea mustului brut în bere.</FermentingBarrel.description>
   
   <!-- EN: fueled smithy -->
-  <FueledSmithy.label>TODO</FueledSmithy.label>
+  <FueledSmithy.label>fierărie alimentată</FueledSmithy.label>
   <!-- EN: A wood-fueled station for smithing non-mechanical weapons and tools. -->
-  <FueledSmithy.description>TODO</FueledSmithy.description>
+  <FueledSmithy.description>O stație alimentată cu lemne pentru forjarea armelor și uneltelor nemecanice.</FueledSmithy.description>
   
   <!-- EN: fueled stove -->
-  <FueledStove.label>TODO</FueledStove.label>
+  <FueledStove.label>sobă cu combustibil</FueledStove.label>
   <!-- EN: A wood-fueled stove with an attached countertop for preparing meals. -->
-  <FueledStove.description>TODO</FueledStove.description>
+  <FueledStove.description>O sobă alimentată cu lemne cu un blat atașat pentru pregătirea meselor.</FueledStove.description>
   
   <!-- EN: hand tailor bench -->
-  <HandTailoringBench.label>TODO</HandTailoringBench.label>
+  <HandTailoringBench.label>bancă de croitorie manuală</HandTailoringBench.label>
   <!-- EN: A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench. -->
-  <HandTailoringBench.description>TODO</HandTailoringBench.description>
+  <HandTailoringBench.description>O bancă de lucru pentru croitorie manuală a hainelor. Funcționează la 50% din viteza unui banc de croitorie electric.</HandTailoringBench.description>
   
   <!-- EN: hi-tech research bench -->
-  <HiTechResearchBench.label>TODO</HiTechResearchBench.label>
+  <HiTechResearchBench.label>bancă de cercetare de înaltă tehnologie</HiTechResearchBench.label>
   <!-- EN: A high-tech bench with computers and electronic measurement equipment. Allows more rapid research, and unlocks advanced research projects. -->
-  <HiTechResearchBench.description>TODO</HiTechResearchBench.description>
+  <HiTechResearchBench.description>O bancă de înaltă tehnologie cu calculatoare și echipamente electronice de măsurare. Permite o cercetare mai rapidă și deblochează proiecte de cercetare avansate.</HiTechResearchBench.description>
   
   <!-- EN: hopper -->
-  <Hopper.label>TODO</Hopper.label>
+  <Hopper.label>pâlnie de încărcare</Hopper.label>
   <!-- EN: Holds resources for use by machines like nutrient paste dispensers. -->
-  <Hopper.description>TODO</Hopper.description>
+  <Hopper.description>Păstrează resurse pentru a fi utilizate de mașini precum distribuitoarele de pastă nutritivă.</Hopper.description>
   
   <!-- EN: hydroponics basin -->
-  <HydroponicsBasin.label>TODO</HydroponicsBasin.label>
+  <HydroponicsBasin.label>bazin hidroponic</HydroponicsBasin.label>
   <!-- EN: An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. -->
-  <HydroponicsBasin.description>TODO</HydroponicsBasin.description>
+  <HydroponicsBasin.description>O baie de nutrienți artificiali pentru cultivarea plantelor. Pompele de nutrienți trebuie să funcționeze continuu; plantele vor muri dacă se întrerupe alimentarea cu energie electrică.</HydroponicsBasin.description>
   
   <!-- EN: nutrient paste dispenser -->
-  <NutrientPasteDispenser.label>TODO</NutrientPasteDispenser.label>
+  <NutrientPasteDispenser.label>distribuitor de pastă nutritivă</NutrientPasteDispenser.label>
   <!-- EN: A machine that synthesizes edible nutrient paste from organic feedstocks placed in adjacent hoppers. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay. -->
-  <NutrientPasteDispenser.description>TODO</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.description>O mașină care sintetizează pasta nutritivă comestibilă din materii prime organice plasate în buncăruri adiacente. Consumă mai puține ingrediente și mai puțin timp decât orice altă metodă de producere a hranei - dar nimănui nu-i place să mănânce pastă nutritivă. Acceptă alimente crude, dar nu și materie vegetală brută, cum ar fi fânul.</NutrientPasteDispenser.description>
   
   <!-- EN: simple research bench -->
-  <SimpleResearchBench.label>TODO</SimpleResearchBench.label>
+  <SimpleResearchBench.label>bancă de cercetare simplă</SimpleResearchBench.label>
   <!-- EN: A simple bench with writing implements and simple measurement devices. Researchers work here to discover new things. -->
-  <SimpleResearchBench.description>TODO</SimpleResearchBench.description>
+  <SimpleResearchBench.description>O bancă simplă cu instrumente de scris și dispozitive simple de măsurare. Cercetătorii lucrează aici pentru a descoperi lucruri noi.</SimpleResearchBench.description>
   
   <!-- EN: butcher table -->
-  <TableButcher.label>TODO</TableButcher.label>
+  <TableButcher.label>masă de măcelărie</TableButcher.label>
   <!-- EN: A heavy table for butchering dead creatures into pieces of raw meat. -->
-  <TableButcher.description>TODO</TableButcher.description>
+  <TableButcher.description>O masă grea pentru măcelărirea creaturilor moarte în bucăți de carne crudă.</TableButcher.description>
   
   <!-- EN: machining table -->
-  <TableMachining.label>TODO</TableMachining.label>
+  <TableMachining.label>masă de mașinărie</TableMachining.label>
   <!-- EN: A work station for assembling machinery like guns and ammunition, or breaking down dead mechanoids. -->
-  <TableMachining.description>TODO</TableMachining.description>
+  <TableMachining.description>O stație de lucru pentru asamblarea mașinilor, cum ar fi armele și muniția, sau pentru descompunerea mecanoizilor morți.</TableMachining.description>
   
   <!-- EN: art bench -->
-  <TableSculpting.label>TODO</TableSculpting.label>
+  <TableSculpting.label>bancă de artă</TableSculpting.label>
   <!-- EN: A workbench equipped for creating art. -->
-  <TableSculpting.description>TODO</TableSculpting.description>
+  <TableSculpting.description>O bancă de lucru echipată pentru a crea artă.</TableSculpting.description>
   
   <!-- EN: stonecutter's table -->
-  <TableStonecutter.label>TODO</TableStonecutter.label>
+  <TableStonecutter.label>masă de tăiat pietre</TableStonecutter.label>
   <!-- EN: A work table with saws and chisels for cutting stone chunks into usable blocks. -->
-  <TableStonecutter.description>TODO</TableStonecutter.description>
+  <TableStonecutter.description>O masă de lucru cu ferăstraie și dălți pentru tăierea bucăților de piatră în blocuri utilizabile.</TableStonecutter.description>
   
 </LanguageData>

@@ -2,75 +2,90 @@
 <LanguageData>
   
   <!-- EN: Ability -->
-  <Ability.label>TODO</Ability.label>
+  <Ability.label>Abilitate</Ability.label>
+  
+  <!-- EN: animal productivity -->
+  <AnimalProductivity.label>productivitate animală</AnimalProductivity.label>
   
   <!-- EN: Apparel -->
-  <Apparel.label>TODO</Apparel.label>
+  <Apparel.label>Îmbrăcăminte</Apparel.label>
   
   <!-- EN: Basics -->
-  <Basics.label>TODO</Basics.label>
+  <Basics.label>Noțiuni de bază</Basics.label>
   
   <!-- EN: Basics -->
-  <BasicsImportant.label>TODO</BasicsImportant.label>
+  <BasicsImportant.label>Noțiuni de bază</BasicsImportant.label>
   
   <!-- EN: Basics -->
-  <BasicsNonPawn.label>TODO</BasicsNonPawn.label>
+  <BasicsNonPawn.label>Noțiuni de bază</BasicsNonPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsNonPawnImportant.label>TODO</BasicsNonPawnImportant.label>
+  <BasicsNonPawnImportant.label>Noțiuni de bază</BasicsNonPawnImportant.label>
   
   <!-- EN: Basics -->
-  <BasicsPawn.label>TODO</BasicsPawn.label>
+  <BasicsPawn.label>Noțiuni de bază</BasicsPawn.label>
   
   <!-- EN: Basics -->
-  <BasicsPawnImportant.label>TODO</BasicsPawnImportant.label>
+  <BasicsPawnImportant.label>Noțiuni de bază</BasicsPawnImportant.label>
   
   <!-- EN: Building -->
-  <Building.label>TODO</Building.label>
+  <Building.label>Clădire</Building.label>
   
   <!-- EN: effects -->
-  <CapacityEffects.label>TODO</CapacityEffects.label>
+  <CapacityEffects.label>efecte</CapacityEffects.label>
   
   <!-- EN: Drug -->
-  <Drug.label>TODO</Drug.label>
+  <Drug.label>Drog</Drug.label>
   
   <!-- EN: drug addiction -->
-  <DrugAddiction.label>TODO</DrugAddiction.label>
+  <DrugAddiction.label>dependență de droguri</DrugAddiction.label>
   
   <!-- EN: Offsets when equipped -->
-  <EquippedStatOffsets.label>TODO</EquippedStatOffsets.label>
+  <EquippedStatOffsets.label>Decalaje atunci când este echipat</EquippedStatOffsets.label>
   
   <!-- EN: Implant -->
-  <Implant.label>TODO</Implant.label>
+  <Implant.label>Implant</Implant.label>
   
   <!-- EN: Meditation -->
-  <Meditation.label>TODO</Meditation.label>
+  <Meditation.label>Meditație</Meditation.label>
   
   <!-- EN: Combat -->
-  <PawnCombat.label>TODO</PawnCombat.label>
+  <PawnCombat.label>Luptă</PawnCombat.label>
   
   <!-- EN: Misc -->
-  <PawnMisc.label>TODO</PawnMisc.label>
+  <PawnMisc.label>Diverse</PawnMisc.label>
   
   <!-- EN: Social -->
-  <PawnSocial.label>TODO</PawnSocial.label>
+  <PawnSocial.label>Social</PawnSocial.label>
   
   <!-- EN: Work -->
-  <PawnWork.label>TODO</PawnWork.label>
+  <PawnWork.label>Muncă</PawnWork.label>
+  
+  <!-- EN: content source -->
+  <Source.label>sursă conținut</Source.label>
   
   <!-- EN: Multipliers when equipment made of this -->
-  <StuffOfEquipmentStatFactors.label>TODO</StuffOfEquipmentStatFactors.label>
+  <StuffOfEquipmentStatFactors.label>Multiplicatori atunci când echipamentul este făcut din asta</StuffOfEquipmentStatFactors.label>
   
   <!-- EN: Multipliers when made of this -->
-  <StuffStatFactors.label>TODO</StuffStatFactors.label>
+  <StuffStatFactors.label>Multiplicatori atunci când echipamentul este făcut din asta</StuffStatFactors.label>
   
   <!-- EN: Offsets when made of this -->
-  <StuffStatOffsets.label>TODO</StuffStatOffsets.label>
+  <StuffStatOffsets.label>Decalaje în cazul în care echipamentul este făcut din asta</StuffStatOffsets.label>
   
   <!-- EN: Surgical -->
-  <Surgery.label>TODO</Surgery.label>
+  <Surgery.label>Chirurgie</Surgery.label>
+  
+  <!-- EN: terrain -->
+  <Terrain.label>teren</Terrain.label>
   
   <!-- EN: Weapon -->
-  <Weapon.label>TODO</Weapon.label>
+  <Weapon.label>Armă</Weapon.label>
+  
+  <!-- EN: Weapon (melee) -->
+  <Weapon_Melee.label>Armă (crop la corp)</Weapon_Melee.label>
+  
+  <!-- EN: Weapon (ranged) -->
+  <Weapon_Ranged.label>Armă (de distanță)</Weapon_Ranged.label>
   
 </LanguageData>

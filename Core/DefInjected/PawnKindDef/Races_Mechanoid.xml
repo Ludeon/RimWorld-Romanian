@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: centipede -->
-  <Mech_Centipede.label>TODO</Mech_Centipede.label>
+  <Mech_Centipede.label>centipede</Mech_Centipede.label>
   
   <!-- EN: lancer -->
-  <Mech_Lancer.label>TODO</Mech_Lancer.label>
+  <Mech_Lancer.label>lăncier</Mech_Lancer.label>
   
   <!-- EN: pikeman -->
-  <Mech_Pikeman.label>TODO</Mech_Pikeman.label>
+  <Mech_Pikeman.label>pikeman</Mech_Pikeman.label>
   <!-- EN: pikemen -->
-  <Mech_Pikeman.labelPlural>TODO</Mech_Pikeman.labelPlural>
+  <Mech_Pikeman.labelPlural>pikemen</Mech_Pikeman.labelPlural>
   
   <!-- EN: scyther -->
-  <Mech_Scyther.label>TODO</Mech_Scyther.label>
+  <Mech_Scyther.label>scyther</Mech_Scyther.label>
   
 </LanguageData>

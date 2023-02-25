@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN: charge lance shot -->
-  <Bullet_ChargeLance.label>TODO</Bullet_ChargeLance.label>
+  <Bullet_ChargeLance.label>împușcat cu lance-încărcată</Bullet_ChargeLance.label>
   
   <!-- EN: charge shot -->
-  <Bullet_ChargeRifle.label>TODO</Bullet_ChargeRifle.label>
+  <Bullet_ChargeRifle.label>lovitură de armă cu impuls</Bullet_ChargeRifle.label>
   
   <!-- EN: charge lance -->
-  <Gun_ChargeLance.label>TODO</Gun_ChargeLance.label>
+  <Gun_ChargeLance.label>lance-încărcată</Gun_ChargeLance.label>
   <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
-  <Gun_ChargeLance.description>TODO</Gun_ChargeLance.description>
+  <Gun_ChargeLance.description>O armă cu lance cu încărcare cu impulsuri și asistată de șine. Trage o singură lovitură la viteză mare, încărcând-o cu energie instabilă în momentul în care părăsește șina de accelerație.</Gun_ChargeLance.description>
   <!-- EN: barrel -->
-  <Gun_ChargeLance.tools.barrel.label>TODO</Gun_ChargeLance.tools.barrel.label>
+  <Gun_ChargeLance.tools.barrel.label>țeavă</Gun_ChargeLance.tools.barrel.label>
   <!-- EN: charge lance -->
-  <Gun_ChargeLance.verbs.Verb_Shoot.label>TODO</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>lance-încărcată</Gun_ChargeLance.verbs.Verb_Shoot.label>
   
   <!-- EN: charge rifle -->
-  <Gun_ChargeRifle.label>TODO</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.label>carabină-încărcată</Gun_ChargeRifle.label>
   <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
-  <Gun_ChargeRifle.description>TODO</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.description>O pușcă de asalt cu focuri încărcate. Tehnologia de încărcare cu impulsuri încarcă fiecare lovitură cu energie instabilă în momentul în care părăsește țeava. Eliberată în momentul impactului, energia încărcată mărește considerabil daunele provocate.</Gun_ChargeRifle.description>
   <!-- EN: stock -->
-  <Gun_ChargeRifle.tools.stock.label>TODO</Gun_ChargeRifle.tools.stock.label>
+  <Gun_ChargeRifle.tools.stock.label>pat de pușcă</Gun_ChargeRifle.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_ChargeRifle.tools.barrel.label>TODO</Gun_ChargeRifle.tools.barrel.label>
+  <Gun_ChargeRifle.tools.barrel.label>țeavă</Gun_ChargeRifle.tools.barrel.label>
   <!-- EN: charge rifle -->
-  <Gun_ChargeRifle.verbs.Verb_Shoot.label>TODO</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>carabină-încărcată</Gun_ChargeRifle.verbs.Verb_Shoot.label>
   
 </LanguageData>

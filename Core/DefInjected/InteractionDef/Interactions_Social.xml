@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: chitchat -->
-  <Chitchat.label>TODO</Chitchat.label>
+  <Chitchat.label>taclale</Chitchat.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
@@ -20,10 +20,26 @@
     <li>commentedabout->commented about</li>
     <li>commentedabout->told a joke about</li>
   -->
-  <Chitchat.logRulesInitiator.rulesStrings>TODO</Chitchat.logRulesInitiator.rulesStrings>
+  <Chitchat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] și [RECIPIENT_nameDef] a [talkedabout] despre [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a [talkedabout] despre [TalkTopicLight] cu [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] a [commentedabout] despre [TalkTopicLight] către [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->vorbit</li>
+    <li>talkedabout->împărtășit un cuvânt</li>
+    <li>talkedabout->vorbit</li>
+    <li>talkedabout->trăncănit</li>
+    <li>talkedabout->discutat</li>
+    <li>talkedabout->glumit</li>
+    <li>talkedabout->chicotit</li>
+    <li>commentedabout->spus ceva</li>
+    <li>commentedabout->spus un cuvânt</li>
+    <li>commentedabout->făcut un comentariu</li>
+    <li>commentedabout->comentat</li>
+    <li>commentedabout->spus o glumă</li>
+  </Chitchat.logRulesInitiator.rulesStrings>
   
   <!-- EN: deep talk -->
-  <DeepTalk.label>TODO</DeepTalk.label>
+  <DeepTalk.label>discuție profundă</DeepTalk.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</li>
@@ -39,10 +55,24 @@
     <li>talkedabout->connected on the topic of</li>
     <li>subject->[TalkTopicHeavy]</li>
   -->
-  <DeepTalk.logRulesInitiator.rulesStrings>TODO</DeepTalk.logRulesInitiator.rulesStrings>
+  <DeepTalk.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] și [RECIPIENT_nameDef] au [talkedabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a [talkedabout] [subject] cu [RECIPIENT_nameDef].</li>
+    <li>talkedabout->comunicat gânduri despre</li>
+    <li>talkedabout->făcut schimb de gânduri despre</li>
+    <li>talkedabout->schimbat idei despre</li>
+    <li>talkedabout->împărtășit opinii cu privire la</li>
+    <li>talkedabout->împărtășit convingeri comune cu privire la</li>
+    <li>talkedabout->discutat subiectul</li>
+    <li>talkedabout->avut o conversație sinceră despre</li>
+    <li>talkedabout->vorbit în liniște despre</li>
+    <li>talkedabout->vorbit profund despre</li>
+    <li>talkedabout->avut o legătură pe tema</li>
+    <li>subject->[TalkTopicHeavy]</li>
+  </DeepTalk.logRulesInitiator.rulesStrings>
   
   <!-- EN: insult -->
-  <Insult.label>TODO</Insult.label>
+  <Insult.label>insultă</Insult.label>
   <!-- EN:
     <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
     <li>r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
@@ -62,10 +92,28 @@
     <li>insultcomparison(p=2)->[Animal]</li>
     <li>insultcomparison->[Enemy]</li>
   -->
-  <Insult.logRulesInitiator.rulesStrings>TODO</Insult.logRulesInitiator.rulesStrings>
+  <Insult.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] a [insulted] [PersonalCharacteristic] lui [target].</li>
+    <li>r_logentry->[INITIATOR_nameDef] a comparat [target] cu un [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] l-a numit pe [target] un [insultcomparison].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[PersonFamily] lui [RECIPIENT_nameDef]</li>
+    <li>insulted(p=3)->insultat</li>
+    <li>insulted->insultat în mod deschis</li>
+    <li>insulted->insultat cu voce tare</li>
+    <li>insulted->insultat în mod flagrant</li>
+    <li>insulted->insultat în mod direct</li>
+    <li>insulted->insultat cu răutate</li>
+    <li>insulted->jignit în mod flagrant</li>
+    <li>insulted->defăimat</li>
+    <li>insulted->aruncat cu invective despre</li>
+    <li>insulted->batjocorit</li>
+    <li>insultcomparison(p=2)->[Animal]</li>
+    <li>insultcomparison->[Enemy]</li>
+  </Insult.logRulesInitiator.rulesStrings>
   
   <!-- EN: kind words -->
-  <KindWords.label>TODO</KindWords.label>
+  <KindWords.label>cuvinte frumoase</KindWords.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
     <li>complimented(p=3)->complimented</li>
@@ -82,10 +130,25 @@
     <li>complimented->expressed appreciation for</li>
     <li>complimented->said good things about</li>
   -->
-  <KindWords.logRulesInitiator.rulesStrings>TODO</KindWords.logRulesInitiator.rulesStrings>
+  <KindWords.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] a [complimented] [PersonalCharacteristic] a lui [RECIPIENT_nameDef].</li>
+    <li>complimented(p=3)->complimentat</li>
+    <li>complimented->lăudat</li>
+    <li>complimented->felicitat</li>
+    <li>complimented->elogiat</li>
+    <li>complimented->aplaudat</li>
+    <li>complimented->celebrat</li>
+    <li>complimented->salutat</li>
+    <li>complimented->vorbit cu amabilitate</li>
+    <li>complimented->spus lucruri bune despre</li>
+    <li>complimented->oferit cuvinte frumoase despre</li>
+    <li>complimented->apreciat verbal</li>
+    <li>complimented->exprimat apreciere pentru</li>
+    <li>complimented->spus lucruri bune despre</li>
+  </KindWords.logRulesInitiator.rulesStrings>
   
   <!-- EN: slight -->
-  <Slight.label>TODO</Slight.label>
+  <Slight.label>jignire</Slight.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [PersonalCharacteristic].</li>
     <li>target(p=4)->[RECIPIENT_nameDef]</li>
@@ -103,6 +166,22 @@
     <li>madefunof->made a contemptuous remark about</li>
     <li>madefunof->offered a backhanded compliment about</li>
   -->
-  <Slight.logRulesInitiator.rulesStrings>TODO</Slight.logRulesInitiator.rulesStrings>
+  <Slight.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] a [madefunof] [PersonalCharacteristic] lui [target].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[PersonFamily] lui [RECIPIENT_nameDef]</li>
+    <li>madefunof->făcut mișto de</li>
+    <li>madefunof->nerespectat</li>
+    <li>madefunof->batjocorit în mod subtil</li>
+    <li>madefunof->rușinat în mod subtil</li>
+    <li>madefunof->vorbit de rău</li>
+    <li>madefunof->vorbit în mod negativ</li>
+    <li>madefunof->râs de</li>
+    <li>madefunof->hohotit de</li>
+    <li>madefunof->insinuat lucruri negative despre</li>
+    <li>madefunof->denigrat</li>
+    <li>madefunof->făcut o remarcă disprețuitoare despre</li>
+    <li>madefunof->făcut un compliment răutăcios despre</li>
+  </Slight.logRulesInitiator.rulesStrings>
   
 </LanguageData>

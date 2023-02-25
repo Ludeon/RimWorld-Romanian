@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked caravan -->
+  <AttackedCaravan.label>caravană atacată</AttackedCaravan.label>
+  
+  <!-- EN: attacked settlement -->
+  <AttackedSettlement.label>a atacat așezarea</AttackedSettlement.label>
+  
+  <!-- EN: destroyed enemy base -->
+  <DestroyedEnemyBase.label>bază inamică distrusă</DestroyedEnemyBase.label>
+  
+  <!-- EN: settlement proximity -->
+  <SettlementProximity.label>proximitatea așezării</SettlementProximity.label>
+  
+</LanguageData>

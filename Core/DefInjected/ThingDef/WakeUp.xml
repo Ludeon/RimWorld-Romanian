@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: wake-up -->
-  <WakeUp.label>TODO</WakeUp.label>
+  <WakeUp.label>wake-up</WakeUp.label>
   <!-- EN: A synthetic stimulant. Wake-up fills the user's need for rest, allowing them to work for extended periods without getting tired. Psycasters on wake-up gain more psyfocus from meditation than they otherwise would. However, taking wake-up runs the risk of developing an addiction.\n\nIn the most competitive universities and companies of many worlds, high-achievers are sometimes called 'wake-ups' because of the association with this drug. -->
-  <WakeUp.description>TODO</WakeUp.description>
+  <WakeUp.description>Un stimulent sintetic. Wake-up satisface nevoia de odihnă a utilizatorului, permițându-i să lucreze perioade îndelungate fără a obosi. Psihologii care iau wake-up obțin mai multă concentrare psihică din meditație decât ar face-o altfel. Cu toate acestea, luând wake-up există riscul de a dezvolta o dependență.\nÎn cele mai competitive universități și companii din multe lumi, cei cu performanțe înalte sunt uneori numiți "wake-up" din cauza asocierii cu acest drog.</WakeUp.description>
   <!-- EN: Take {0} -->
-  <WakeUp.ingestible.ingestCommandString>TODO</WakeUp.ingestible.ingestCommandString>
+  <WakeUp.ingestible.ingestCommandString>Ia {0}</WakeUp.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <WakeUp.ingestible.ingestReportString>TODO</WakeUp.ingestible.ingestReportString>
+  <WakeUp.ingestible.ingestReportString>Ia {0}.</WakeUp.ingestible.ingestReportString>
   
 </LanguageData>

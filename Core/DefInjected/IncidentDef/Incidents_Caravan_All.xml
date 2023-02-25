@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: ambush -->
-  <Ambush.label>TODO</Ambush.label>
+  <Ambush.label>ambuscadă</Ambush.label>
   <!-- EN: Caravan ambushed -->
-  <Ambush.letterLabel>TODO</Ambush.letterLabel>
+  <Ambush.letterLabel>Caravana ambuscată</Ambush.letterLabel>
   <!-- EN: {0} has been ambushed by {1} from {2}! -->
-  <Ambush.letterText>TODO</Ambush.letterText>
+  <Ambush.letterText>{0} a fost prins într-o ambuscadă de către {1} din {2}!</Ambush.letterText>
   
   <!-- EN: payment demand -->
-  <CaravanDemand.label>TODO</CaravanDemand.label>
+  <CaravanDemand.label>cerere de plată</CaravanDemand.label>
   
   <!-- EN: caravan meeting -->
-  <CaravanMeeting.label>TODO</CaravanMeeting.label>
+  <CaravanMeeting.label>întâlnire în caravană</CaravanMeeting.label>
   
   <!-- EN: manhunter ambush -->
-  <ManhunterAmbush.label>TODO</ManhunterAmbush.label>
+  <ManhunterAmbush.label>ambuscadă de vânători de oameni</ManhunterAmbush.label>
   <!-- EN: Caravan ambushed (manhunters) -->
-  <ManhunterAmbush.letterLabel>TODO</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterLabel>Caravana ambuscată (vânători de oameni)</ManhunterAmbush.letterLabel>
   <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
-  <ManhunterAmbush.letterText>TODO</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterText>{0} a fost prinsă într-o ambuscadă de către vânătorii de oameni infectați cu scaria {1}!</ManhunterAmbush.letterText>
   
 </LanguageData>

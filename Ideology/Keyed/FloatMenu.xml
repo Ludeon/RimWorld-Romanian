@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Ideoligion forbids -->
+  <IdeoligionForbids>Ideoligia interzice</IdeoligionForbids>
+  <!-- EN: Only {0}s can build -->
+  <OnlyMembersCanBuild>Doar {0}s pot construi</OnlyMembersCanBuild>
+  <!-- EN: {0} is already in progress. -->
+  <CantStartRitualAlreadyInProgress>{0} este deja în desfășurare.</CantStartRitualAlreadyInProgress>
+  <!-- EN: {0} is already participating in a ritual. -->
+  <CantStartRitualTargetIsAlreadyInRitual>{0} participă deja la un ritual.</CantStartRitualTargetIsAlreadyInRitual>
+  <!-- EN: You must assign the role of {0} in order to start this ritual. -->
+  <CantStartRitualRoleNotAssigned>Trebuie să atribuiți rolul lui {0} pentru a putea începe acest ritual.</CantStartRitualRoleNotAssigned>
+  <!-- EN: There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion. -->
+  <CantStartRitualNoConvertee>Nu există nimeni care să se convertească la {0}. Aveți nevoie de un colonist, prizonier sau sclav de o ideoligie diferită.</CantStartRitualNoConvertee>
+  <!-- EN: {PAWN_nameDef} cannot be {ROLE}. -->
+  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} nu poate fi {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
+  <!-- EN: {PAWN_nameDef} must be a {IDEO_memberName}. -->
+  <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} trebuie să fie un {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
+  <!-- EN: {PAWN_nameDef} is psychically deaf. -->
+  <CantStartRitualSelectedPawnPsychicallyDeaf>TODO</CantStartRitualSelectedPawnPsychicallyDeaf>
+  <!-- EN: Not enough space. There must be a clear circle of radius {MINRADIUS}. -->
+  <CantStartNotEnoughSpaceDuel>Nu este suficient spațiu. Trebuie să existe un cerc clar de rază {MINRADIUS}.</CantStartNotEnoughSpaceDuel>
+  <!-- EN: {0_labelShort} is a slave. Slaves don't get funerals. -->
+  <CantStartFuneralForSlave>{0_labelShort} este un sclav. Sclavii nu au parte de înmormântări.</CantStartFuneralForSlave>
+  <!-- EN: Need a slave bed that is reachable, not reserved, and in safe temperature. -->
+  <NoSlaveBed>Are nevoie de un pat de sclav care să fie accesibil, să nu fie rezervat și să aibă o temperatură sigură.</NoSlaveBed>
+  <!-- EN: Return to slave bed -->
+  <ReturnToSlaveBed>Întoarce-te la patul de sclav</ReturnToSlaveBed>
+  <!-- EN: not allowed for faction -->
+  <NotAllowedForFaction>Nu este permis pentru facțiune</NotAllowedForFaction>
+
+  <!-- EN: Remove -->
+  <Remove>Elimină</Remove>
+  <!-- EN: Remove precept -->
+  <RemovePrecept>Înlătură preceptul</RemovePrecept>
+  <!-- EN: Regenerate -->
+  <Regenerate>Regenerare</Regenerate>
+  <!-- EN: Cannot edit -->
+  <CannotEdit>Nu se poate edita</CannotEdit>
+  <!-- EN: No choices available -->
+  <NoChoicesAvailable>Nu există opțiuni disponibile</NoChoicesAvailable>
+  <!-- EN: Required by meme {0} -->
+  <RequiredByMeme>Necesitat de mema {0}</RequiredByMeme>
+  <!-- EN: Required -->
+  <Required>Necesar</Required>
+  <!-- EN: Style category -->
+  <StyleCategory>Categoria de stil</StyleCategory>
+  <!-- EN: Add style category -->
+  <AddStyleCategory>Adaugă categoria de stil</AddStyleCategory>
+  <!-- EN: Can't add more than {0} rituals. -->
+  <MaxRitualCount>Nu se pot adăuga mai mult de {0} ritualuri.</MaxRitualCount>
+  <!-- EN: Can't add more than {0} relics. -->
+  <MaxRelicCount>Nu se pot adăuga mai mult de {0} relicve.</MaxRelicCount>
+  <!-- EN: can't have more than {0} specialists. -->
+  <MaxMultiRolesCount>nu poate avea mai mult de {0} specialiști.</MaxMultiRolesCount>
+  <!-- EN: max {0} -->
+  <MaxPreceptCount>max {0}</MaxPreceptCount>
+  <!-- EN: Set gender -->
+  <SetTargetGender>Setează genul</SetTargetGender>
+  <!-- EN: must be {0} faction -->
+  <RoleApparelRequirementIncompatibleFaction>TODO</RoleApparelRequirementIncompatibleFaction>
+  <!-- EN: tribal -->
+  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>TODO</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+  <!-- EN: non-tribal -->
+  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>TODO</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+  <!-- EN: requires any of these memes -->
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>TODO</RoleApparelRequirementIncompatibleAnyMemeRequired>
+  <!-- EN: cannot be worn with assigned apparel -->
+  <BodyPartAlreadyCovered>nu poate fi purtat cu îmbrăcămintea asignată</BodyPartAlreadyCovered>
+  <!-- EN: already assigned -->
+  <AlreadyAssigned>TODO</AlreadyAssigned>
+  <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
+  <NoteRoleApparelRequirementEffects>Oamenii sunt mulțumiți atunci când le sunt îndeplinite cerințele vestimentare și nefericiți atunci când acestea sunt încălcate.</NoteRoleApparelRequirementEffects>
+  <!-- EN: supercharge not ready -->
+  <NeuralSuperchargeNotReady>supraîncărcare nu este gata</NeuralSuperchargeNotReady>
+  <!-- EN: already getting -->
+  <NeuralSuperchargeAlreadyGetting>deja se primește</NeuralSuperchargeAlreadyGetting>
+  <!-- EN: Set type -->
+  <SetApparelType>Tipul de set</SetApparelType>
+
+  <!-- EN: change style -->
+  <ChangeStyle>Schimbă stilul</ChangeStyle>
+  <!-- EN: {0} {DEITYNOUN} required -->
+  <DeitiesRequired>{0} {DEITYNOUN} necesar</DeitiesRequired>
+  <!-- EN: deity -->
+  <Deity>deity</Deity>
+  <!-- EN: requires meme -->
+  <RequiresMeme>necesită memă</RequiresMeme>
+  <!-- EN: requires one of -->
+  <RequiresOneOfMemes>necesită unul dintre</RequiresOneOfMemes>
+  <!-- EN: conflicts with meme -->
+  <ConflictsWithMeme>conflicte cu meme</ConflictsWithMeme>
+  <!-- EN: conflicts with memes -->
+  <ConflictsWithMemes>conflicte cu meme-uri</ConflictsWithMemes>
+  <!-- EN: can only have one altar/ideogram -->
+  <IdeoAlreadyHasAltar>nu poate avea decât un singur altar/ideogramă</IdeoAlreadyHasAltar>
+  <!-- EN: recolor apparel -->
+  <RecolorApparel>recolorează îmbrăcămintea</RecolorApparel>
+
+  <!-- EN: Hack {0} -->
+  <Hack>Hackuiește {0}</Hack>
+  <!-- EN: Cannot hack {0} -->
+  <CannotHack>Nu se poate hackeri {0}</CannotHack>
+  <!-- EN: Already hacked -->
+  <AlreadyHacked>Deja hackuit</AlreadyHacked>
+  <!-- EN: Incapable of hacking -->
+  <IncapableOfHacking>Incapabil de hacking</IncapableOfHacking>
+  <!-- EN: to drop supplies -->
+  <ToDropSupplies>Pentru a arunca provizii</ToDropSupplies>
+
+  <!-- EN: Install {0} -->
+  <InstallRelic>Instalați {0}</InstallRelic>
+  <!-- EN: Extract {0} -->
+  <ExtractRelic>Extrage {0}</ExtractRelic>
+  <!-- EN: Extract {0} to inventory ({1}) -->
+  <ExtractRelicToInventory>Extrage {0} în inventar ({1})</ExtractRelicToInventory>
+  <!-- EN: No relic to install -->
+  <NoRelicToInstall>Nici o relicvă de instalat</NoRelicToInstall>
+  <!-- EN: Install in reliquary -->
+  <InstallInReliquary>Se instalează în relicvariu</InstallInReliquary>
+  <!-- EN: no empty accessible reliquary -->
+  <NoEmptyReliquary>Nu există un relicvariu gol accesibil</NoEmptyReliquary>
+
+  <!-- EN: No {MEMBERNAME} warden -->
+  <NoWardenOfIdeo>Nu există un paznic {MEMBERNAME}.</NoWardenOfIdeo>
+
+  <!-- EN: Remove current role -->
+  <RemoveCurrentRole>Îndepărtarea rolului actual</RemoveCurrentRole>
+
+  <!-- EN: Enter biosculpter pod for {0} cycle ({1}) -->
+  <EnterBiosculpterPod>Intră în modulul biosculptor pentru ciclul {0} ({1})</EnterBiosculpterPod>
+  <!-- EN: Biotuned to someone else. -->
+  <BiosculpterBiotunedToAnother>Biotunat la altcineva.</BiosculpterBiotunedToAnother>
+  <!-- EN: Must be {0} years old for age reversal. -->
+  <UnderMinBiosculpterAgeReversalAge>TODO</UnderMinBiosculpterAgeReversalAge>
+  <!-- EN: Carry {PAWN_labelShort} to biosculpter ({CYCLE} cycle) -->
+  <CarryToBiosculpterPod>Transportați {PAWN_labelShort} la biosculptor (ciclul {CYCLE})</CarryToBiosculpterPod>
+  <!-- EN: Cannot carry to biosculpter pod -->
+  <CannotCarryToBiosculpterPod>Nu se poate transporta la capsula de biosculptură</CannotCarryToBiosculpterPod>
+  <!-- EN: No available biosculpter pod. -->
+  <NoBiosculpterPod>Nu există nicio capsulă biosculptoare disponibilă.</NoBiosculpterPod>
+  <!-- EN: Nutrition not loaded -->
+  <BiosculpterNutritionNotLoaded>TODO</BiosculpterNutritionNotLoaded>
+  <!-- EN: Occupied -->
+  <BiosculpterOccupied>TODO</BiosculpterOccupied>
+  <!-- EN: Cannot enter -->
+  <CannotEnter>TODO</CannotEnter>
+  <!-- EN: Cannot start {0} cycle -->
+  <BiosculpterCannotStartCycle>TODO</BiosculpterCannotStartCycle>
+  <!-- EN: Cannot find cycle ingredients ({INGREDIENTS}) -->
+  <BiosculpterMissingIngredients>TODO</BiosculpterMissingIngredients>
+  <!-- EN: Nobody around can use this -->
+  <BiosculpterNoEligiblePawns>TODO</BiosculpterNoEligiblePawns>
+  <!-- EN: Biotuned to {PAWN_labelShort} and {PAWN_pronoun} isn't around -->
+  <BiosculpterNoEligiblePawnsBiotuned>TODO</BiosculpterNoEligiblePawnsBiotuned>
+  <!-- EN: Auto load nutrition -->
+  <BiosculpterAutoLoadNutritionLabel>TODO</BiosculpterAutoLoadNutritionLabel>
+  <!-- EN: Automatically load the nutrition required to run a cycle -->
+  <BiosculpterAutoLoadNutritionDescription>TODO</BiosculpterAutoLoadNutritionDescription>
+  <!-- EN: Auto age reversal for {PAWN_labelShort} -->
+  <BiosculpterAutoAgeReversalLabel>TODO</BiosculpterAutoAgeReversalLabel>
+  <!-- EN: Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT} -->
+  <BiosculpterAutoAgeReversalDescription>TODO</BiosculpterAutoAgeReversalDescription>
+  <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready. -->
+  <BiosculpterAutoAgeReversalDescriptionFuture>TODO</BiosculpterAutoAgeReversalDescriptionFuture>
+  <!-- EN: {PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled. -->
+  <BiosculpterAutoAgeReversalDescriptionNow>TODO</BiosculpterAutoAgeReversalDescriptionNow>
+  <!-- EN: Collecting ingredients for biosculpter cycle -->
+  <BiosculpterJobReportCollectIngredients>TODO</BiosculpterJobReportCollectIngredients>
+</LanguageData>

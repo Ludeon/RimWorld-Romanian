@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: relic destroyed -->
+  <RelicDestroyed.label>relicvă distrusă</RelicDestroyed.label>
+  
+  <!-- EN: relic lost -->
+  <RelicLost.label>relicvă pierdută</RelicLost.label>
+  
+</LanguageData>

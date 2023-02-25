@@ -2,39 +2,39 @@
 <LanguageData>
   
   <!-- EN: charge blaster shot -->
-  <Bullet_ChargeBlasterHeavy.label>TODO</Bullet_ChargeBlasterHeavy.label>
+  <Bullet_ChargeBlasterHeavy.label>împușcătură cu încărcătură blaster</Bullet_ChargeBlasterHeavy.label>
   
   <!-- EN: inferno cannon shell -->
-  <Bullet_InfernoCannon.label>TODO</Bullet_InfernoCannon.label>
+  <Bullet_InfernoCannon.label>proiectil de tun infernal</Bullet_InfernoCannon.label>
   
   <!-- EN: needle shot -->
-  <Bullet_NeedleGun.label>TODO</Bullet_NeedleGun.label>
+  <Bullet_NeedleGun.label>împușcătură de ac</Bullet_NeedleGun.label>
   
   <!-- EN: heavy charge blaster -->
-  <Gun_ChargeBlasterHeavy.label>TODO</Gun_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.label>tunul cu încărcătură grea</Gun_ChargeBlasterHeavy.label>
   <!-- EN: A pulse-charged rapid-fire blaster for area suppressive fire. Heavy cooling allows long, deadly bursts. -->
-  <Gun_ChargeBlasterHeavy.description>TODO</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.description>Un blaster cu încărcătură cu impulsuri și foc rapid pentru foc de suprimare în zonă. Răcirea puternică permite rafale lungi și letale.</Gun_ChargeBlasterHeavy.description>
   <!-- EN: barrel -->
-  <Gun_ChargeBlasterHeavy.tools.barrel.label>TODO</Gun_ChargeBlasterHeavy.tools.barrel.label>
+  <Gun_ChargeBlasterHeavy.tools.barrel.label>țeavă</Gun_ChargeBlasterHeavy.tools.barrel.label>
   <!-- EN: heavy charge blaster -->
-  <Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>TODO</Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>
+  <Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>blaster cu încărcătură grea</Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>
   
   <!-- EN: inferno cannon -->
-  <Gun_InfernoCannon.label>TODO</Gun_InfernoCannon.label>
+  <Gun_InfernoCannon.label>tun infernal</Gun_InfernoCannon.label>
   <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
-  <Gun_InfernoCannon.description>TODO</Gun_InfernoCannon.description>
+  <Gun_InfernoCannon.description>Un dispozitiv de mini-artilerie cu focuri incendiare. Trage un focos incendiar de mari dimensiuni.</Gun_InfernoCannon.description>
   <!-- EN: barrel -->
-  <Gun_InfernoCannon.tools.barrel.label>TODO</Gun_InfernoCannon.tools.barrel.label>
+  <Gun_InfernoCannon.tools.barrel.label>țeavă</Gun_InfernoCannon.tools.barrel.label>
   <!-- EN: inferno cannon -->
-  <Gun_InfernoCannon.verbs.Verb_Shoot.label>TODO</Gun_InfernoCannon.verbs.Verb_Shoot.label>
+  <Gun_InfernoCannon.verbs.Verb_Shoot.label>tun infernal</Gun_InfernoCannon.verbs.Verb_Shoot.label>
   
   <!-- EN: needle gun -->
-  <Gun_Needle.label>TODO</Gun_Needle.label>
+  <Gun_Needle.label>tun cu ac</Gun_Needle.label>
   <!-- EN: A long-range weapon used by mechanoids. Named after its needle-like projectiles, it fires single shots with great accuracy. While it does less damage than charge weapons, it can reach over very long distances. -->
-  <Gun_Needle.description>TODO</Gun_Needle.description>
+  <Gun_Needle.description>O armă cu rază lungă de acțiune folosită de mecanoizi. Numită după proiectilele sale asemănătoare cu ace, trage cu o singură lovitură cu mare precizie. Deși face mai puține pagube decât armele cu încărcătură, poate ajunge pe distanțe foarte mari.</Gun_Needle.description>
   <!-- EN: barrel -->
-  <Gun_Needle.tools.barrel.label>TODO</Gun_Needle.tools.barrel.label>
+  <Gun_Needle.tools.barrel.label>țeavă</Gun_Needle.tools.barrel.label>
   <!-- EN: needle gun -->
-  <Gun_Needle.verbs.Verb_Shoot.label>TODO</Gun_Needle.verbs.Verb_Shoot.label>
+  <Gun_Needle.verbs.Verb_Shoot.label>pistol cu ac</Gun_Needle.verbs.Verb_Shoot.label>
   
 </LanguageData>

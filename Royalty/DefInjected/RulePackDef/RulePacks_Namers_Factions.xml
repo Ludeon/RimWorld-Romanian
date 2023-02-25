@@ -22,6 +22,26 @@
     <li>adj->dogged</li>
     <li>adj->tenacious</li>
   -->
-  <NamerFactionRefugee.rulePack.rulesStrings>TODO</NamerFactionRefugee.rulePack.rulesStrings>
+  <NamerFactionRefugee.rulePack.rulesStrings>
+    <li>r_name->[group] [adj]</li>
+    <li>group->supraviețuitori</li>
+    <li>group->refugiați</li>
+    <li>group->fugari</li>
+    <li>group->naufragiați</li>
+    <li>group->drumeți</li>
+    <li>group->vagabonzi</li>
+    <li>group->rătăcitori</li>
+    <li>group->călători</li>
+    <li>group->nomazi</li>
+    <li>adj->istoviți</li>
+    <li>adj->epuizați</li>
+    <li>adj->obosiți</li>
+    <li>adj->epuizați</li>
+    <li>adj->strămutați</li>
+    <li>adj->rezilienți</li>
+    <li>adj->puternici</li>
+    <li>adj->îndărătniciți</li>
+    <li>adj->tenaci</li>
+  </NamerFactionRefugee.rulePack.rulesStrings>
   
 </LanguageData>

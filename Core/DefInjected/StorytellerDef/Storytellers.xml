@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: Cassandra Classic -->
-  <Cassandra.label>TODO</Cassandra.label>
+  <Cassandra.label>Cassandra Clasic</Cassandra.label>
   <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
-  <Cassandra.description>TODO</Cassandra.description>
+  <Cassandra.description>Cassandra creează evenimente de poveste pe o curbă clasică de provocare și tensiune în creștere. Ea te va presa cu evenimente periculoase, apoi îți va lăsa spațiu de răsuflare, apoi va reveni pentru a te presa din nou.</Cassandra.description>
   
   <!-- EN: Phoebe Chillax -->
-  <Phoebe.label>TODO</Phoebe.label>
+  <Phoebe.label>Phoebe Relax</Phoebe.label>
   <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
-  <Phoebe.description>TODO</Phoebe.description>
+  <Phoebe.description>Phoebe oferă mult timp între dezastre pentru a vă construi colonia. Dar aveți grijă - la dificultăți ridicate, ea va lovi la fel de tare ca oricine.</Phoebe.description>
   
   <!-- EN: Randy Random -->
-  <Randy.label>TODO</Randy.label>
+  <Randy.label>Randy la-nimereală</Randy.label>
   <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
-  <Randy.description>TODO</Randy.description>
+  <Randy.description>Randy nu respectă regulile. El va genera evenimente aleatoare și nu-i pasă dacă acestea vor crea o poveste de triumf sau de deznădejde totală. Pentru el, totul este dramă.\n\nAtenție: Din moment ce Randy este cu adevărat aleatoriu, el îți va trimite uneori grupuri de evenimente extrem de dificile sau nedrepte. Aceasta face ca drama să fie mare - și sacrificiile inevitabile.</Randy.description>
   
   <!-- EN: Tutor Hidden -->
-  <Tutor.label>TODO</Tutor.label>
+  <Tutor.label>Tutor Ascuns</Tutor.label>
   
 </LanguageData>

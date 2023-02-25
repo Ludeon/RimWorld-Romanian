@@ -2,26 +2,26 @@
 <LanguageData>
   
   <!-- EN: ambrosia addiction -->
-  <AmbrosiaAddiction.label>TODO</AmbrosiaAddiction.label>
+  <AmbrosiaAddiction.label>dependență de ambrozie</AmbrosiaAddiction.label>
   <!-- EN: A chemical addiction to ambrosia. Long-term presence of ambrosia has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of ambrosia, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <AmbrosiaAddiction.description>TODO</AmbrosiaAddiction.description>
+  <AmbrosiaAddiction.description>O dependență chimică de ambrozie. Prezența îndelungată a ambroziei a provocat adaptări neurologice la nivel celular, astfel încât creierul nu mai poate funcționa corect fără acest drog.\n\nFără doze regulate de ambrozie, vor începe simptomele de sevraj. Cu toate acestea, abstinența prelungită va forța creierul să se adapteze la starea sa normală, rezolvând dependența.</AmbrosiaAddiction.description>
   <!-- EN: withdrawal -->
-  <AmbrosiaAddiction.stages.withdrawal.label>TODO</AmbrosiaAddiction.stages.withdrawal.label>
+  <AmbrosiaAddiction.stages.withdrawal.label>sevraj</AmbrosiaAddiction.stages.withdrawal.label>
   
   <!-- EN: ambrosia warmth -->
-  <AmbrosiaHigh.label>TODO</AmbrosiaHigh.label>
+  <AmbrosiaHigh.label>căldură de ambrozie</AmbrosiaHigh.label>
   <!-- EN: Ambrosia chemicals in the bloodstream. It lifts the mood. -->
-  <AmbrosiaHigh.description>TODO</AmbrosiaHigh.description>
+  <AmbrosiaHigh.description>Substanțe chimice de ambrozie în fluxul sanguin. Ridică starea de spirit.</AmbrosiaHigh.description>
   
   <!-- EN: ambrosia tolerance -->
-  <AmbrosiaTolerance.label>TODO</AmbrosiaTolerance.label>
+  <AmbrosiaTolerance.label>toleranță la ambrozie</AmbrosiaTolerance.label>
   <!-- EN: A built-up tolerance to ambrosia. The more severe this tolerance is, the more ambrosia it takes to get the same effect. -->
-  <AmbrosiaTolerance.description>TODO</AmbrosiaTolerance.description>
+  <AmbrosiaTolerance.description>O toleranță acumulată la ambrozie. Cu cât această toleranță este mai severă, cu atât este nevoie de mai multă ambrozie pentru a obține același efect.</AmbrosiaTolerance.description>
   <!-- EN: small -->
-  <AmbrosiaTolerance.stages.small.label>TODO</AmbrosiaTolerance.stages.small.label>
+  <AmbrosiaTolerance.stages.small.label>mică</AmbrosiaTolerance.stages.small.label>
   <!-- EN: large -->
-  <AmbrosiaTolerance.stages.large.label>TODO</AmbrosiaTolerance.stages.large.label>
+  <AmbrosiaTolerance.stages.large.label>mare</AmbrosiaTolerance.stages.large.label>
   <!-- EN: massive -->
-  <AmbrosiaTolerance.stages.massive.label>TODO</AmbrosiaTolerance.stages.massive.label>
+  <AmbrosiaTolerance.stages.massive.label>masivă</AmbrosiaTolerance.stages.massive.label>
   
 </LanguageData>

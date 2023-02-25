@@ -2,44 +2,44 @@
 <LanguageData>
   
   <!-- EN: son-in-law -->
-  <ChildInLaw.label>TODO</ChildInLaw.label>
+  <ChildInLaw.label>ginere</ChildInLaw.label>
   <!-- EN: daughter-in-law -->
-  <ChildInLaw.labelFemale>TODO</ChildInLaw.labelFemale>
+  <ChildInLaw.labelFemale>noră</ChildInLaw.labelFemale>
   
   <!-- EN: ex-lover -->
-  <ExLover.label>TODO</ExLover.label>
+  <ExLover.label>fost iubit</ExLover.label>
   
   <!-- EN: ex-husband -->
-  <ExSpouse.label>TODO</ExSpouse.label>
+  <ExSpouse.label>fost soț</ExSpouse.label>
   <!-- EN: ex-wife -->
-  <ExSpouse.labelFemale>TODO</ExSpouse.labelFemale>
+  <ExSpouse.labelFemale>fostă soție</ExSpouse.labelFemale>
   
   <!-- EN: fiance -->
-  <Fiance.label>TODO</Fiance.label>
+  <Fiance.label>logodnic</Fiance.label>
   <!-- EN: fiancée -->
-  <Fiance.labelFemale>TODO</Fiance.labelFemale>
+  <Fiance.labelFemale>logodnică</Fiance.labelFemale>
   
   <!-- EN: lover -->
-  <Lover.label>TODO</Lover.label>
+  <Lover.label>amant</Lover.label>
   
   <!-- EN: father-in-law -->
-  <ParentInLaw.label>TODO</ParentInLaw.label>
+  <ParentInLaw.label>socru</ParentInLaw.label>
   <!-- EN: mother-in-law -->
-  <ParentInLaw.labelFemale>TODO</ParentInLaw.labelFemale>
+  <ParentInLaw.labelFemale>soacră</ParentInLaw.labelFemale>
   
   <!-- EN: husband -->
-  <Spouse.label>TODO</Spouse.label>
+  <Spouse.label>soț</Spouse.label>
   <!-- EN: wife -->
-  <Spouse.labelFemale>TODO</Spouse.labelFemale>
+  <Spouse.labelFemale>soție</Spouse.labelFemale>
   
   <!-- EN: stepson -->
-  <Stepchild.label>TODO</Stepchild.label>
+  <Stepchild.label>Fiu vitreg</Stepchild.label>
   <!-- EN: stepdaughter -->
-  <Stepchild.labelFemale>TODO</Stepchild.labelFemale>
+  <Stepchild.labelFemale>fiică vitregă</Stepchild.labelFemale>
   
   <!-- EN: stepfather -->
-  <Stepparent.label>TODO</Stepparent.label>
+  <Stepparent.label>tată vitreg</Stepparent.label>
   <!-- EN: stepmother -->
-  <Stepparent.labelFemale>TODO</Stepparent.labelFemale>
+  <Stepparent.labelFemale>mamă vitregă</Stepparent.labelFemale>
   
 </LanguageData>

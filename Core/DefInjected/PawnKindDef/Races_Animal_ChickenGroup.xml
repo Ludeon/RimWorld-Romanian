@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>pui</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>găină</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>cocoș</Chicken.labelMale>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>Pui</Chicken.lifeStages.chick.label>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>cocoș</Chicken.lifeStages.cockerel.labelMale>
+  
+  <!-- EN: duck -->
+  <Duck.label>rață</Duck.label>
+  <!-- EN: duckling -->
+  <Duck.lifeStages.duckling.label>rățușcă</Duck.lifeStages.duckling.label>
+  
+  <!-- EN: goose -->
+  <Goose.label>gâscă</Goose.label>
+  <!-- EN: geese -->
+  <Goose.labelPlural>gâște</Goose.labelPlural>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>curcan</Turkey.label>
+  
+</LanguageData>

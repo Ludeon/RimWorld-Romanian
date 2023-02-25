@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate fungus -->
+  <AteFungus.label>a mâncat ciuperci</AteFungus.label>
+  
+  <!-- EN: ate meal with fungus -->
+  <AteFungusAsIngredient.label>a mâncat mâncare cu ciuperci</AteFungusAsIngredient.label>
+  
+  <!-- EN: ate non-fungus plant meal -->
+  <AteNonFungusMealWithPlants.label>a mâncat făină de plante fără ciuperci</AteNonFungusMealWithPlants.label>
+  
+  <!-- EN: ate non-fungus crop -->
+  <AteNonFungusPlant.label>a mâncat o cultură fără ciuperci</AteNonFungusPlant.label>
+  
+</LanguageData>

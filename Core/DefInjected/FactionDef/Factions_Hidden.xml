@@ -2,37 +2,43 @@
 <LanguageData>
   
   <!-- EN: neutral ancients -->
-  <Ancients.label>TODO</Ancients.label>
+  <Ancients.label>antici neutrii</Ancients.label>
+  <Ancients.description>persoane din zile îndepărtate.</Ancients.description>
   <!-- EN: Ancients -->
-  <Ancients.fixedName>TODO</Ancients.fixedName>
+  <Ancients.fixedName>antici</Ancients.fixedName>
   <!-- EN: ancient -->
-  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <Ancients.pawnSingular>antic</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <Ancients.pawnsPlural>TODO</Ancients.pawnsPlural>
+  <Ancients.pawnsPlural>anticii</Ancients.pawnsPlural>
   
   <!-- EN: hostile ancients -->
-  <AncientsHostile.label>TODO</AncientsHostile.label>
+  <AncientsHostile.label>antici ostili</AncientsHostile.label>
+  <AncientsHostile.description>persoane ostile din zile îndepărtate.</AncientsHostile.description>
   <!-- EN: Ancients -->
-  <AncientsHostile.fixedName>TODO</AncientsHostile.fixedName>
+  <AncientsHostile.fixedName>antici</AncientsHostile.fixedName>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnSingular>antic</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
-  <AncientsHostile.pawnsPlural>TODO</AncientsHostile.pawnsPlural>
+  <AncientsHostile.pawnsPlural>anticii</AncientsHostile.pawnsPlural>
   
-  <!-- EN: insects -->
-  <Insect.label>TODO</Insect.label>
+  <!-- EN: insect geneline -->
+  <Insect.label>linia genealogică de insecte</Insect.label>
+  <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
+  <Insect.description>Aceste creaturi gigantice asemănătoare insectelor trăiesc sub pământ și ies la suprafață pentru a ataca atunci când sunt atrase de zgomote sau semnale feromonale. Originare de pe planeta Sorne, antreprenorii interstelari au reușit să captureze, să modifice genetic și să crească în cuve coloniile de insecte pentru a le folosi ca arme. Nu este clar cine a plasat insectele Sorne pe această planetă, dar ele sunt aici și sunt la fel de periculoase ca întotdeauna.</Insect.description>
   <!-- EN: Sorne Geneline -->
-  <Insect.fixedName>TODO</Insect.fixedName>
+  <Insect.fixedName>insecte</Insect.fixedName>
   <!-- EN: insect -->
-  <Insect.pawnSingular>TODO</Insect.pawnSingular>
+  <Insect.pawnSingular>insectă</Insect.pawnSingular>
   <!-- EN: insects -->
-  <Insect.pawnsPlural>TODO</Insect.pawnsPlural>
+  <Insect.pawnsPlural>insecte</Insect.pawnsPlural>
   
   <!-- EN: mechanoid hive -->
-  <Mechanoid.label>TODO</Mechanoid.label>
+  <Mechanoid.label>stup mecanoid</Mechanoid.label>
+  <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
+  <Mechanoid.description>Mașini ucigașe de origine necunoscută. Ascunși în structuri antice, sub mormane de praf sau pe fundul oceanului, mecanoizii se pot autoîntreține timp de mii de ani. Acest grup de mecanoizi pare să fie unit în scop, dar nu bine coordonat în acțiune. În timp ce savanții locali cred că sunt arme autonome rămase în urma unui război antic, legendele tribale îi descriu ca fiind servitorii demonici ai unui zeu adormit.</Mechanoid.description>
   <!-- EN: mechanoid -->
-  <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
+  <Mechanoid.pawnSingular>mecanoid</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
-  <Mechanoid.pawnsPlural>TODO</Mechanoid.pawnsPlural>
+  <Mechanoid.pawnsPlural>mecanoizi</Mechanoid.pawnsPlural>
   
 </LanguageData>

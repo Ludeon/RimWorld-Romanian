@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administered drug -->
+  <AdministeredDrug.label>medicament administrat</AdministeredDrug.label>
+  
+  <!-- EN: administered hard drug -->
+  <AdministeredHardDrug.label>drog dur administrat</AdministeredHardDrug.label>
+  
+  <!-- EN: administered recreational drug -->
+  <AdministeredRecreationalDrug.label>drog recreațional administrat</AdministeredRecreationalDrug.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat.label>mâncat carne umană</AteHumanMeat.label>
+  
+  <!-- EN: cut tree -->
+  <CutTree.label>tăiat copac</CutTree.label>
+  
+  <!-- EN: destroyed natural wall -->
+  <DestroyedMineable.label>zid natural distrus</DestroyedMineable.label>
+  
+  <!-- EN: used drug -->
+  <IngestedDrug.label>folosit droguri</IngestedDrug.label>
+  
+  <!-- EN: used hard drug -->
+  <IngestedHardDrug.label>drog greu folosit</IngestedHardDrug.label>
+  
+  <!-- EN: used recreational drug -->
+  <IngestedRecreationalDrug.label>drog recreativ folosit</IngestedRecreationalDrug.label>
+  
+  <!-- EN: installed prosthetic -->
+  <InstalledProsthetic.label>proteză instalată</InstalledProsthetic.label>
+  
+  <!-- EN: mined -->
+  <Mined.label>minat</Mined.label>
+  
+  <!-- EN: tree died -->
+  <MinifiedTreeDied.label>copac mort</MinifiedTreeDied.label>
+  
+  <!-- EN: researching -->
+  <Researching.label>cercetare</Researching.label>
+  
+  <!-- EN: sowed food plant -->
+  <SowedHumanFoodPlant.label>plantă de hrană umană semănată</SowedHumanFoodPlant.label>
+  
+  <!-- EN: sowed plant -->
+  <SowedPlant.label>plantă însămânțată</SowedPlant.label>
+  
+</LanguageData>

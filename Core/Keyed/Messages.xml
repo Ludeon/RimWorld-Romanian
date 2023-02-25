@@ -2,626 +2,751 @@
 <LanguageData>
 
   <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
-  <MessageSiegersAssaulting>TODO</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>Asaltatorii {0} din {1} asaltează colonia.</MessageSiegersAssaulting>
 
   <!-- EN: {0} from {1} are beginning their assault. -->
-  <MessageRaidersBeginningAssault>TODO</MessageRaidersBeginningAssault>
+  <MessageRaidersBeginningAssault>{0} din {1} își încep asaltul.</MessageRaidersBeginningAssault>
   <!-- EN: {0} from {1} have detected you and begun their assault early. -->
-  <MessageRaidersDetectedEarlyAssault>TODO</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} din {1} te-au detectat și au început atacul mai devreme.</MessageRaidersDetectedEarlyAssault>
   <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
-  <MessageRaidersKidnapping>TODO</MessageRaidersKidnapping>
+  <MessageRaidersKidnapping>{0} din {1} au decis să răpească pe cine pot și să plece.</MessageRaidersKidnapping>
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
-  <MessageRaidersStealing>TODO</MessageRaidersStealing>
+  <MessageRaidersStealing>{0} din {1} au decis să fure ce pot și să plece.</MessageRaidersStealing>
 
-  <!-- EN: {0} from {1} have arrived in the area of your caravan and are attacking. More are on the way and will arrive in {2}. -->
-  <MessageCaravanDetectedRaidArrived>TODO</MessageCaravanDetectedRaidArrived>
+  <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
+  <MessageCaravanDetectedRaidArrived>{0} din {1} au ajuns în zona caravanei tale și atacă. Alții sunt pe drum și vor sosi în {2}.</MessageCaravanDetectedRaidArrived>
 
   <!-- EN: {0} from {1} are leaving. -->
-  <MessageRaidersLeaving>TODO</MessageRaidersLeaving>
+  <MessageRaidersLeaving>{0} din {1} pleacă.</MessageRaidersLeaving>
   <!-- EN: {0} from {1} have given up and are leaving. -->
-  <MessageRaidersGivenUpLeaving>TODO</MessageRaidersGivenUpLeaving>
+  <MessageRaidersGivenUpLeaving>{0} din {1} au renunțat și pleacă.</MessageRaidersGivenUpLeaving>
   <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
-  <MessageRaidersSatisfiedLeaving>TODO</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} din {1} sunt mulțumiți de pagubele produse și pleacă.</MessageRaidersSatisfiedLeaving>
 
   <!-- EN: {0} from {1} are fleeing. -->
-  <MessageFightersFleeing>TODO</MessageFightersFleeing>
+  <MessageFightersFleeing>{0} din {1} au luat-o la fugă.</MessageFightersFleeing>
   <!-- EN: Friendly {0} from {1} are leaving. -->
-  <MessageFriendlyFightersLeaving>TODO</MessageFriendlyFightersLeaving>
+  <MessageFriendlyFightersLeaving>Prietenii {0} din {1} pleacă.</MessageFriendlyFightersLeaving>
 
   <!-- EN: {0} from {1} are taking a wounded guest. -->
-  <MessageVisitorsTakingWounded>TODO</MessageVisitorsTakingWounded>
+  <MessageVisitorsTakingWounded>{0} din {1} iau un oaspete rănit.</MessageVisitorsTakingWounded>
   <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
-  <MessageVisitorsTrappedLeaving>TODO</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsTrappedLeaving>{0} din {1} au fost prinși și sapă pentru a scăpa.</MessageVisitorsTrappedLeaving>
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
-  <MessageVisitorsDangerousTemperature>TODO</MessageVisitorsDangerousTemperature>
+  <MessageVisitorsDangerousTemperature>{0} din {1} părăsesc harta din cauza temperaturii periculoase.</MessageVisitorsDangerousTemperature>
 
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
-  <MessageWornApparelDeterioratedAway>TODO</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>{0} purtat de {1_nameFull} s-a deteriorat până la dispariție.</MessageWornApparelDeterioratedAway>
   <!-- EN: {0} has deteriorated away in storage. -->
-  <MessageDeterioratedAway>TODO</MessageDeterioratedAway>
+  <MessageDeterioratedAway>{0} s-a deteriorat în depozit.</MessageDeterioratedAway>
 
   <!-- EN: {0} has begun. -->
-  <MessageSeasonBegun>TODO</MessageSeasonBegun>
+  <MessageSeasonBegun>{0} a început.</MessageSeasonBegun>
 
   <!-- EN: {0} has left comms range. -->
-  <MessageShipHasLeftCommsRange>TODO</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>{0} a ieșit din raza de comunicație.</MessageShipHasLeftCommsRange>
 
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
-  <MessageNeedBeaconToTradeWithShip>TODO</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>Aveți nevoie de o baliză de comerț orbital alimentată pentru a face comerț cu o navă.</MessageNeedBeaconToTradeWithShip>
   <!-- EN: Caller must have the title of {0_label} or higher. -->
-  <MessageNeedRoyalTitleToCallWithShip>TODO</MessageNeedRoyalTitleToCallWithShip>
+  <MessageNeedRoyalTitleToCallWithShip>Apelantul trebuie să aibă titlul de {0_label} sau mai mare.</MessageNeedRoyalTitleToCallWithShip>
 
   <!-- EN: {0} has been destroyed. -->
-  <MessageConditionCauserDespawned>TODO</MessageConditionCauserDespawned>
+  <MessageConditionCauserDespawned>{0} a fost distrus.</MessageConditionCauserDespawned>
   
   <!-- EN: Bill complete: {0}. -->
-  <MessageBillComplete>TODO</MessageBillComplete>
+  <MessageBillComplete>Slujba este completă: {0}.</MessageBillComplete>
 
   <!-- EN: {1_label} is fully healed. -->
-  <MessageFullyHealed>TODO</MessageFullyHealed>
+  <MessageFullyHealed>{1_label} este complet vindecat.</MessageFullyHealed>
 
   <!-- EN: Prisoner {1_labelShort} is escaping. -->
-  <MessagePrisonerIsEscaping>TODO</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>Prizonierul {1_labelShort} evadează.</MessagePrisonerIsEscaping>
 
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
-  <MessageOutOfNearbyShellsFor>TODO</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} nu a găsit cartușe nerezervate în apropiere pentru {GUN_label}.</MessageOutOfNearbyShellsFor>
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
+  <MessageOutOfNearbyFuelFor>{PAWN_labelShort} nu a găsit niciun {FUEL} nerezervat în apropiere pentru {GUN_label}.</MessageOutOfNearbyFuelFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
-  <MessageAnimalsGoPsychoHunted>TODO</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>Avertizare: {ANIMAL_kindBasePlural} au o șansă de bază de {1} de a ataca atunci când sunt răniți. Șansa depinde de raza de acțiune și de statistica stealth a vânătorului.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>TODO</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>Avertizare: {ANIMAL_kindBasePlural} poate ataca de la încercările eșuate de îmblânzire ({1} șanse).</MessageAnimalManhuntsOnTameFailed>
+  <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
+  <MessageInsectTameDesignated>Numai cei care au trăsătura de simpatie pentru insecte pot îmblânzi {INSECT_indefinite}.</MessageInsectTameDesignated>
+
+  <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
+  <MessageInsectsHostileOnTaming>TODO</MessageInsectsHostileOnTaming>
   
   <!-- EN: New recruit -->
-  <LetterLabelMessageRecruitSuccess>TODO</LetterLabelMessageRecruitSuccess>
-  <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull} ({2} chance). -->
-  <MessageRecruitSuccess>TODO</MessageRecruitSuccess>
-  <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). -->
-  <MessageTameSuccess>TODO</MessageTameSuccess>
-  <!-- EN: {RECRUITER_labelShort} successfully tamed {1} ({2} chance). It is now called {RECRUITEE_nameFull}. -->
-  <MessageTameAndNameSuccess>TODO</MessageTameAndNameSuccess>
+  <LetterLabelMessageRecruitSuccess>Nou recrut</LetterLabelMessageRecruitSuccess>
+  <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull}. -->
+  <MessageRecruitSuccess>{RECRUITER_nameFull} a recrutat cu succes {RECRUITEE_nameFull} ({2} șanse).</MessageRecruitSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. -->
+  <MessageTameSuccess>{RECRUITER_labelShort} a îmblânzit cu succes {1} ({2} șanse).</MessageTameSuccess>
+  <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. It is now called {RECRUITEE_nameFull}. -->
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort} a îmblânzit cu succes {1} ({2} șanse). Acum se numește {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
+  <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
+  <MessageTameNoSuitablePens>Nu există un țarc adecvat pentru {ANIMAL_labelShort}. În cele din urmă, acesta se va îndepărta.</MessageTameNoSuitablePens>
   <!-- EN: {RECRUITEE} has joined your colony. -->
-  <MessageRecruitJoinOfferAccepted>TODO</MessageRecruitJoinOfferAccepted>
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE} s-a alăturat coloniei dumneavoastră.</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
-  <MessageColonyCannotAfford>TODO</MessageColonyCannotAfford>
+  <MessageColonyCannotAfford>Colonia nu își poate permite această tranzacție.</MessageColonyCannotAfford>
   <!-- EN: You do not have enough silver ready to trade. -->
-  <MessageColonyNotEnoughSilver>TODO</MessageColonyNotEnoughSilver>
+  <MessageColonyNotEnoughSilver>Nu aveți suficient argint disponibil pentru negoț.</MessageColonyNotEnoughSilver>
 
   <!-- EN: Critical alert: {0} -->
-  <MessageCriticalAlert>TODO</MessageCriticalAlert>
+  <MessageCriticalAlert>Alertă critică: {0}</MessageCriticalAlert>
 
   <!-- EN: Must designate harvestable sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestable>TODO</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestable>Trebuie desemnate plante recoltabile suficient de bine crescute.</MessageMustDesignateHarvestable>
   <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestableWood>TODO</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignateHarvestableWood>Trebuie desemnate plante care produc lemn și care au crescut suficient.</MessageMustDesignateHarvestableWood>
   <!-- EN: Must designate plants. -->
-  <MessageMustDesignatePlants>TODO</MessageMustDesignatePlants>
+  <MessageMustDesignatePlants>Trebuie desemnate plante.</MessageMustDesignatePlants>
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
-  <MessageMustDesignateHaulable>TODO</MessageMustDesignateHaulable>
+  <MessageMustDesignateHaulable>Trebuie desemnate obiectele care pot fi transportate. Unele elemente sunt întotdeauna transportabile și nu pot fi desemnate.</MessageMustDesignateHaulable>
   <!-- EN: Must designate impassable mineable rocks. -->
-  <MessageMustDesignateMineable>TODO</MessageMustDesignateMineable>
+  <MessageMustDesignateMineable>Trebuie desemnate roci impracticabile de minat.</MessageMustDesignateMineable>
   <!-- EN: Must designate huntable animals. -->
-  <MessageMustDesignateHuntable>TODO</MessageMustDesignateHuntable>
+  <MessageMustDesignateHuntable>Trebuie desemnate animalele care pot fi vânate.</MessageMustDesignateHuntable>
   <!-- EN: Must designate tameable animals. -->
-  <MessageMustDesignateTameable>TODO</MessageMustDesignateTameable>
+  <MessageMustDesignateTameable>Trebuie desemnate animale îmblânzibile.</MessageMustDesignateTameable>
   <!-- EN: Must designate abandoned artificial structures. -->
-  <MessageMustDesignateClaimable>TODO</MessageMustDesignateClaimable>
+  <MessageMustDesignateClaimable>Trebuie desemnate structurile artificiale abandonate.</MessageMustDesignateClaimable>
   <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
-  <MessageMustDesignateDeconstructibleMechCluster>TODO</MessageMustDesignateDeconstructibleMechCluster>
+  <MessageMustDesignateDeconstructibleMechCluster>Trebuie să învingi un cluster mech înainte de a-l putea deconstrui.</MessageMustDesignateDeconstructibleMechCluster>
   <!-- EN: Must designate rough stone surfaces. -->
-  <MessageMustDesignateSmoothableSurface>TODO</MessageMustDesignateSmoothableSurface>
+  <MessageMustDesignateSmoothableSurface>Trebuie desemnate suprafețe de piatră rugoase.</MessageMustDesignateSmoothableSurface>
   <!-- EN: Nothing can remove thick roofs. -->
-  <MessageNothingCanRemoveThickRoofs>TODO</MessageNothingCanRemoveThickRoofs>
+  <MessageNothingCanRemoveThickRoofs>Nimic nu poate îndepărta acoperișurile groase.</MessageNothingCanRemoveThickRoofs>
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
-  <MessageAlreadyInStorage>TODO</MessageAlreadyInStorage>
+  <MessageAlreadyInStorage>Acest lucru se află deja în depozit și va fi mutat în depozitul cu prioritate ridicată, după cum este necesar.</MessageAlreadyInStorage>
   <!-- EN: Must designate corpse or downed character with strippable apparel. -->
-  <MessageMustDesignateStrippable>TODO</MessageMustDesignateStrippable>
+  <MessageMustDesignateStrippable>Trebuie desemnat un cadavru sau un personaj doborât cu îmbrăcăminte care poate fi dezbrăcată.</MessageMustDesignateStrippable>
   <!-- EN: Must designate tame animal that belongs to the colony. -->
-  <MessageMustDesignateSlaughterable>TODO</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateSlaughterable>Trebuie desemnate animale domestice care aparțin coloniei.</MessageMustDesignateSlaughterable>
   <!-- EN: Must designate full graves or containers. -->
-  <MessageMustDesignateOpenable>TODO</MessageMustDesignateOpenable>
+  <MessageMustDesignateOpenable>Trebuie desemnate morminte sau containere pline.</MessageMustDesignateOpenable>
   <!-- EN: Must designate unforbidden items. -->
-  <MessageMustDesignateForbiddable>TODO</MessageMustDesignateForbiddable>
+  <MessageMustDesignateForbiddable>Trebuie desemnate articolele neinterzise.</MessageMustDesignateForbiddable>
   <!-- EN: Must designate forbidden items. -->
-  <MessageMustDesignateUnforbiddable>TODO</MessageMustDesignateUnforbiddable>
+  <MessageMustDesignateUnforbiddable>Trebuie desemnate articolele interzise.</MessageMustDesignateUnforbiddable>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
-  <MessageRefusedArrest>TODO</MessageRefusedArrest>
+  <MessageRefusedArrest>{1_labelShort} a refuzat să fie arestat!</MessageRefusedArrest>
   
   <!-- EN: There are no medical beds available. -->
-  <MessageNoMedicalBeds>TODO</MessageNoMedicalBeds>
+  <MessageNoMedicalBeds>Nu există paturi medicale disponibile.</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
-  <MessageNoAnimalBeds>TODO</MessageNoAnimalBeds>
+  <MessageNoAnimalBeds>Nu există paturi pentru animale disponibile.</MessageNoAnimalBeds>
   <!-- EN: Operation requires {0} or better, but {PAWN_labelShort}'s current medical care mode is "{2}". -->
-  <MessageTooLowMedCare>TODO</MessageTooLowMedCare>
+  <MessageTooLowMedCare>Operațiunea necesită {0} sau mai mare, dar modul actual de îngrijire medicală al lui {PAWN_labelShort} este "{2}".</MessageTooLowMedCare>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
-  <PawnDiedBecauseOf>TODO</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>{PAWN_labelShort} a murit. Cauza: {1}.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
-  <PawnDied>TODO</PawnDied>
+  <PawnDied>{1_labelShort} a murit.</PawnDied>
 
   <!-- EN: {1_label} is no longer incapable of walking. -->
-  <MessageNoLongerDowned>TODO</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{1_label} nu mai este incapabil să meargă.</MessageNoLongerDowned>
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep>TODO</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>{1_labelShort} a leșinat din cauza epuizării extreme.</MessageInvoluntarySleep>
 
   <!-- EN: This operation will anger {0}. -->
-  <MessageMedicalOperationWillAngerFaction>TODO</MessageMedicalOperationWillAngerFaction>
+  <MessageMedicalOperationWillAngerFaction>Această operație îl va înfuria pe {0}.</MessageMedicalOperationWillAngerFaction>
 
+  <!-- EN: {PAWN_nameDef} is pregnant! -->
+  <MessageAnimalIsPregnant>{PAWN_nameDef} este însărcinată!</MessageAnimalIsPregnant>
   <!-- EN: {0} has miscarried due to starvation. -->
-  <MessageMiscarriedStarvation>TODO</MessageMiscarriedStarvation>
+  <MessageMiscarriedStarvation>{0} a pierdut sarcina din cauza foametei.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
-  <MessageMiscarriedPoorHealth>TODO</MessageMiscarriedPoorHealth>
+  <MessageMiscarriedPoorHealth>{0} a pierdut sarcina din cauza sănătății precare.</MessageMiscarriedPoorHealth>
   <!-- EN: {0} has given birth. -->
-  <MessageGaveBirth>TODO</MessageGaveBirth>
+  <MessageGaveBirth>{0} a născut.</MessageGaveBirth>
   
   <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
-  <MessagePsylinkNoSensitivity>TODO</MessagePsylinkNoSensitivity>
+  <MessagePsylinkNoSensitivity>{PAWN_labelShort} nu va putea folosi psylink-ul cât timp {PAWN_pronoun} are sensibilitate psihică zero.</MessagePsylinkNoSensitivity>
   <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
-  <MessageLostImplantLevelFromHediff>TODO</MessageLostImplantLevelFromHediff>
+  <MessageLostImplantLevelFromHediff>{PAWN_labelShort} a pierdut un {1} nivel de implant din cauza lui {2}.</MessageLostImplantLevelFromHediff>
   <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
-  <MessageReceivedBrainDamageFromHediff>TODO</MessageReceivedBrainDamageFromHediff>
+  <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort} a suferit {1} puncte de leziuni cerebrale din cauza lui {2}.</MessageReceivedBrainDamageFromHediff>
   <!-- EN: {PAWN_labelShort} has exceeded the normal limit of neural heat. -->
-  <MessageWentOverPsychicEntropyLimit>TODO</MessageWentOverPsychicEntropyLimit>
-
-  <!-- EN: {NAMER_nameFull} has named {1} {NAMEE_nameFull} after being nuzzled. -->
-  <MessageNuzzledPawnGaveNameTo>TODO</MessageNuzzledPawnGaveNameTo>
+  <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort} a depășit limita normală a căldurii neuronale.</MessageWentOverPsychicEntropyLimit>
 
   <!-- EN: No handler can tame {ANIMAL_kindBase} (requires level {1} in {2}, best handler {HANDLER_labelShort} has {4}). -->
-  <MessageNoHandlerSkilledEnough>TODO</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>Niciun manipulator nu poate îmblânzi {ANIMAL_kindBase} (necesită nivelul {1} în {2}, cel mai bun manipulator {HANDLER_labelShort} are {4}).</MessageNoHandlerSkilledEnough>
   
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
-  <MessageEatenByPredator>TODO</MessageEatenByPredator>
+  <MessageEatenByPredator>{EATEN_labelShort} a fost mâncat de {PREDATOR}.</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
-  <MessageAttackedByPredator>TODO</MessageAttackedByPredator>
-  
+  <MessageAttackedByPredator>{PREY_labelShort} este atacat de {PREDATOR}!</MessageAttackedByPredator>
+
+  <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
+  <MessageRoamerLeaving>{PAWN_labelShort} a început să rătăcească! {PAWN_pronoun} va părăsi harta dacă un îngrijitor de animale nu îl va lega pe {PAWN_objective} înapoi la un țarc.</MessageRoamerLeaving>
+
   <!-- EN: A bug hive has reproduced itself. -->
-  <MessageHiveReproduced>TODO</MessageHiveReproduced>
+  <MessageHiveReproduced>Un stup de insecte s-a reprodus.</MessageHiveReproduced>
   
   <!-- EN: The trade caravan from {0} is leaving. -->
-  <MessageTraderCaravanLeaving>TODO</MessageTraderCaravanLeaving>
+  <MessageTraderCaravanLeaving>Caravana comercială din {0} pleacă.</MessageTraderCaravanLeaving>
   
   <!-- EN: {1_labelShort} is dead. -->
-  <MessageCantSelectDeadPawn>TODO</MessageCantSelectDeadPawn>
+  <MessageCantSelectDeadPawn>{1_labelShort} este mort.</MessageCantSelectDeadPawn>
   <!-- EN: {1_labelShort} is off the map. -->
-  <MessageCantSelectOffMapPawn>TODO</MessageCantSelectOffMapPawn>
+  <MessageCantSelectOffMapPawn>{1_labelShort} este în afara hărții.</MessageCantSelectOffMapPawn>
   
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
-  <MessageSocialFight>TODO</MessageSocialFight>
+  <MessageSocialFight>{PAWN1_labelShort} a început o luptă socială cu {PAWN2_labelShort}.</MessageSocialFight>
   
   <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
-  <MessageNewMarriageCeremony>TODO</MessageNewMarriageCeremony>
+  <MessageNewMarriageCeremony>Coloniștii se adună pentru a sărbători căsătoria lui {PAWN1_labelShort} și a lui {PAWN2_labelShort}.</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
-  <MessageMarriageCeremonyStarts>TODO</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} și {PAWN2_labelShort} își încep ceremonia de căsătorie!</MessageMarriageCeremonyStarts>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
-  <MessageMarriageCeremonyCalledOff>TODO</MessageMarriageCeremonyCalledOff>
+  <MessageMarriageCeremonyCalledOff>Ceremonia de căsătorie pentru {PAWN1_labelShort} și {PAWN2_labelShort} a fost anulată.</MessageMarriageCeremonyCalledOff>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
-  <MessageNewlyMarried>TODO</MessageNewlyMarried>
+  <MessageNewlyMarried>{PAWN1_labelShort} și {PAWN2_labelShort} s-au căsătorit. Coloniștii sărbătoresc acum această ocazie.</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
-  <MessageMarriageCeremonyAfterPartyFinished>TODO</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageMarriageCeremonyAfterPartyFinished>Ceremonia de căsătorie pentru {PAWN1_labelShort} și {PAWN2_labelShort} s-a încheiat.</MessageMarriageCeremonyAfterPartyFinished>
   
   <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
-  <MessageNewBondRelation>TODO</MessageNewBondRelation>
+  <MessageNewBondRelation>{HUMAN_labelShort} și {ANIMAL_labelShort} au format o legătură.</MessageNewBondRelation>
   <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
-  <MessageNewBondRelationNewName>TODO</MessageNewBondRelationNewName>
+  <MessageNewBondRelationNewName>{HUMAN_labelShort} și {1} au format o legătură. {HUMAN_labelShort} a numit {ANIMAL_objective} {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
   
   <!-- EN: {ANIMAL} has had a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalMentalBreak>TODO</MessageBondedAnimalMentalBreak>
+  <MessageBondedAnimalMentalBreak>{ANIMAL} a avut o cădere nervoasă din cauza morții lui {HUMAN_labelShort}.</MessageBondedAnimalMentalBreak>
   <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has had a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageNamedBondedAnimalMentalBreak>TODO</MessageNamedBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef} numit {ANIMAL_label} a avut o cădere nervoasă din cauza morții lui {HUMAN_labelShort}.</MessageNamedBondedAnimalMentalBreak>
   <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalsMentalBreak>TODO</MessageBondedAnimalsMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} animale au o cădere nervoasă din cauza morții lui {HUMAN_labelShort}.</MessageBondedAnimalsMentalBreak>
   
   <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
-  <MessageSuccessfullyRemovedHediff>TODO</MessageSuccessfullyRemovedHediff>
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} a îndepărtat cu succes {HEDIFF} al {PATIENT_labelShort}.</MessageSuccessfullyRemovedHediff>
   
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
-  <MessageShipChunkDrop>TODO</MessageShipChunkDrop>
+  <MessageShipChunkDrop>Bucăți ale unei nave spațiale au căzut în apropiere. Le puteți deconstrui pentru a obține resurse.</MessageShipChunkDrop>
 
   <!-- EN: Some items cannot be traded because of:  -->
-  <MessageCannotSellItemsReason>TODO</MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>Unele elemente nu pot fi comercializate din cauza:</MessageCannotSellItemsReason>
 
   <!-- EN: {WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted. -->
-  <MessageConstructionFailed>TODO</MessageConstructionFailed>
+  <MessageConstructionFailed>{WORKER_labelShort} a eșuat în timp ce construia un {0}. Unele resurse au fost irosite.</MessageConstructionFailed>
 
   <!-- EN: Screenshot saved as: {0} -->
-  <MessageScreenshotSavedAs>TODO</MessageScreenshotSavedAs>
+  <MessageScreenshotSavedAs>Captură de ecran salvată ca: {0}</MessageScreenshotSavedAs>
   
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
-  <MessageNoLongerSocialFighting>TODO</MessageNoLongerSocialFighting>
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort} și {PAWN2_labelShort} nu se mai luptă social.</MessageNoLongerSocialFighting>
   
   <!-- EN: {2_labelShort} is no longer binging on {1}. -->
-  <MessageNoLongerBingingOnDrug>TODO</MessageNoLongerBingingOnDrug>
+  <MessageNoLongerBingingOnDrug>{2_labelShort} nu se mai îndoapă cu {1}.</MessageNoLongerBingingOnDrug>
 
   <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
-  <MessageNoLongerOnTargetedInsultingSpree>TODO</MessageNoLongerOnTargetedInsultingSpree>
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} nu se mai află într-o criză de insulte împotriva {TARGET_label}.</MessageNoLongerOnTargetedInsultingSpree>
 
   <!-- EN: {1_label} has rotted away in storage. -->
-  <MessageRottedAwayInStorage>TODO</MessageRottedAwayInStorage>
+  <MessageRottedAwayInStorage>{1_label} a putrezit în depozit.</MessageRottedAwayInStorage>
   
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
-  <MessageFoodPoisoning>TODO</MessageFoodPoisoning>
+  <MessageFoodPoisoning>{PAWN_labelShort} s-a intoxicat cu mâncare de la: {FOOD_labelShort}. Cauza: {2}.</MessageFoodPoisoning>
   
   <!-- EN: {0} has been removed from the caravan. -->
-  <MessagePawnLostWhileFormingCaravan>TODO</MessagePawnLostWhileFormingCaravan>
+  <MessagePawnLostWhileFormingCaravan>{0} a fost eliminat din caravană.</MessagePawnLostWhileFormingCaravan>
   <!-- EN: The caravan formation process has been terminated. -->
-  <MessagePawnLostWhileFormingCaravan_AllLost>TODO</MessagePawnLostWhileFormingCaravan_AllLost>
+  <MessagePawnLostWhileFormingCaravan_AllLost>Procesul de formare a caravanei a fost încheiat.</MessagePawnLostWhileFormingCaravan_AllLost>
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
-  <MessageCaravanFormationPaused>TODO</MessageCaravanFormationPaused>
+  <MessageCaravanFormationPaused>Procesul de formare a caravanei va continua atunci când toți își vor reveni din pauza mentală.</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
-  <MessageCaravanFormationUnpaused>TODO</MessageCaravanFormationUnpaused>
+  <MessageCaravanFormationUnpaused>Coloniștii tăi vor continua acum să formeze o caravană.</MessageCaravanFormationUnpaused>
   
   <!-- EN: One of the caravan members has had a mental break. -->
-  <MessageCaravanMemberHasExtremeMentalBreak>TODO</MessageCaravanMemberHasExtremeMentalBreak>
+  <MessageCaravanMemberHasExtremeMentalBreak>Unul dintre membrii caravanei a avut o cădere psihică.</MessageCaravanMemberHasExtremeMentalBreak>
   
   <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
-  <MessageMaxPlanetCoveragePerformanceWarning>TODO</MessageMaxPlanetCoveragePerformanceWarning>
+  <MessageMaxPlanetCoveragePerformanceWarning>Avertizare: Poate dura foarte mult timp pentru a genera o întreagă planetă.</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
-  <MessagePlantDiedOfCold>TODO</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfCold>{0} a murit din cauza frigului.</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
-  <MessagePlantDiedOfRot_LeftUnharvested>TODO</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_LeftUnharvested>{0} a murit de putrefacție din cauza faptului că a fost lăsată nerecoltată.</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
-  <MessagePlantDiedOfRot_ExposedToLight>TODO</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot_ExposedToLight>{0} a murit din cauza expunerii la lumină.</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
-  <MessagePlantDiedOfRot>TODO</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>{0} a murit din cauza putregaiului.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
-  <MessagePlantDiedOfPoison>TODO</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfPoison>{0} a murit din cauza otrăvii.</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
-  <MessagePlantDiedOfBlight>TODO</MessagePlantDiedOfBlight>
+  <MessagePlantDiedOfBlight>{1_label} a murit din cauza molimei.</MessagePlantDiedOfBlight>
 
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
-  <MessagePawnBeingBurned>TODO</MessagePawnBeingBurned>
+  <MessagePawnBeingBurned>{1_labelShort} este ars de un aer supraîncălzit!</MessagePawnBeingBurned>
 
   <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
-  <MessageAccidentalOverdose>TODO</MessageAccidentalOverdose>
+  <MessageAccidentalOverdose>{INGESTER} a făcut supradoză accidentală în timp ce consuma {DRUG_labelShort}!</MessageAccidentalOverdose>
   
   <!-- EN: {0} has arrived at its destination. -->
-  <MessageCaravanArrivedAtDestination>TODO</MessageCaravanArrivedAtDestination>
+  <MessageCaravanArrivedAtDestination>{0} a ajuns la destinație.</MessageCaravanArrivedAtDestination>
   
   <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
-  <MessagePawnLeftMapAndCreatedCaravan>TODO</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} a părăsit zona și a format o caravană.</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
-  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>TODO</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Animalele tale se deplasează pentru a se alătura.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
   
   <!-- EN: You have successfully settled in a new area. -->
-  <MessageSettledInExistingMap>TODO</MessageSettledInExistingMap>
+  <MessageSettledInExistingMap>V-ați stabilit cu succes într-o zonă nouă.</MessageSettledInExistingMap>
   
   <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
-  <MessagePermanentWoundHealed>TODO</MessagePermanentWoundHealed>
+  <MessagePermanentWoundHealed>Rana {2} a lui {PAWN_labelShort} s-a vindecat. Cauză: {0}</MessagePermanentWoundHealed>
   
   <!-- EN: [PAWN_nameDef] has recovered and decided to leave. -->
-  <MessageRescueeDidntJoin>TODO</MessageRescueeDidntJoin>
+  <MessageRescueeDidntJoin>[PAWN_nameDef] s-a recuperat și a decis să plece.</MessageRescueeDidntJoin>
   
   <!-- EN: Some transport pods are unreachable. -->
-  <MessageTransporterUnreachable>TODO</MessageTransporterUnreachable>
+  <MessageTransporterUnreachable>Unele capsule de transport sunt inaccesibile.</MessageTransporterUnreachable>
   <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
-  <MessageTransportersNotAdjacent>TODO</MessageTransportersNotAdjacent>
+  <MessageTransportersNotAdjacent>Toate lansatoarele de capsule conectate la capsulele de transport selectate trebuie să fie adiacente.</MessageTransportersNotAdjacent>
   
   <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
-  <MessageTransportersLoadCanceled_TransporterDestroyed>TODO</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_TransporterDestroyed>Procesul de încărcare a fost anulat deoarece una dintre navetele de transport a fost distrusă.</MessageTransportersLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because the shuttle has been destroyed. -->
-  <MessageTransporterSingleLoadCanceled_TransporterDestroyed>TODO</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
+  <MessageTransporterSingleLoadCanceled_TransporterDestroyed>Procesul de încărcare a fost anulat deoarece naveta a fost distrusă.</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
-  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>TODO</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Procesul de încărcare a fost anulat deoarece unul dintre lansatoarele de capsule a fost distrus.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
   
   <!-- EN: Assigned items and people will now be loaded into the transport pods. -->
-  <MessageTransportersLoadingProcessStarted>TODO</MessageTransportersLoadingProcessStarted>
+  <MessageTransportersLoadingProcessStarted>Articolele și persoanele alocate vor fi acum încărcate în capsulele de transport.</MessageTransportersLoadingProcessStarted>
   <!-- EN: Assigned items and people will now be loaded into the shuttle. -->
-  <MessageTransporterSingleLoadingProcessStarted>TODO</MessageTransporterSingleLoadingProcessStarted>
+  <MessageTransporterSingleLoadingProcessStarted>Obiectele și oamenii repartizați vor fi acum încărcați în navetă.</MessageTransporterSingleLoadingProcessStarted>
   
   <!-- EN: Your transport pods have arrived. -->
-  <MessageTransportPodsArrived>TODO</MessageTransportPodsArrived>
+  <MessageTransportPodsArrived>Navetele de transport au sosit.</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
-  <MessageTransportPodsArrivedAndLost>TODO</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndLost>Navetele de transport au sosit, dar, deoarece nu au fost coloniști înăuntru, conținutul a fost pierdut.</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
-  <MessageTransportPodsArrivedAndAddedToCaravan>TODO</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrivedAndAddedToCaravan>Au sosit capsulele de transport. Conținutul lor a fost adăugat la {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
   
   <!-- EN: Transport pod loading complete. Launch when ready. -->
-  <MessageFinishedLoadingTransporters>TODO</MessageFinishedLoadingTransporters>
+  <MessageFinishedLoadingTransporters>Încărcarea navetei de transport s-a încheiat. Se lansează când este gata.</MessageFinishedLoadingTransporters>
   <!-- EN: Shuttle is loaded with required cargo and can launch when ready. -->
-  <MessageFinishedLoadingTransporterSingle>TODO</MessageFinishedLoadingTransporterSingle>
+  <MessageFinishedLoadingTransporterSingle>Naveta este încărcată cu încărcătura necesară și poate fi lansată atunci când este gata.</MessageFinishedLoadingTransporterSingle>
 
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoTransporters>TODO</MessageCantLoadMoreIntoTransporters>
+  <MessageCantLoadMoreIntoTransporters>{1} dvs. nu poate termina de încărcat capsulele de transport deoarece unele elemente sau persoane au devenit indisponibile ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
   
   <!-- EN: Selected destination is invalid. -->
-  <MessageTransportPodsDestinationIsInvalid>TODO</MessageTransportPodsDestinationIsInvalid>
+  <MessageTransportPodsDestinationIsInvalid>Destinația selectată nu este valabilă.</MessageTransportPodsDestinationIsInvalid>
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
-  <MessageTransportPodsDestinationIsTooFar>TODO</MessageTransportPodsDestinationIsTooFar>
+  <MessageTransportPodsDestinationIsTooFar>Fiecare lansator de capsule ar avea nevoie de cel puțin {0}x combustibil chimic pentru a trimite capsulele de transport atât de departe.</MessageTransportPodsDestinationIsTooFar>
   
   <!-- EN: The caravan has been reformed. -->
-  <MessageReformedCaravan>TODO</MessageReformedCaravan>
+  <MessageReformedCaravan>Caravana a fost reformată.</MessageReformedCaravan>
   
   <!-- EN: You can't banish the last colonist. -->
-  <MessageCantBanishLastColonist>TODO</MessageCantBanishLastColonist>
+  <MessageCantBanishLastColonist>Nu poți alunga ultimul colonist.</MessageCantBanishLastColonist>
 
   <!-- EN: Cannot equip: {0}. -->
-  <MessageCantEquipCustom>TODO</MessageCantEquipCustom>
+  <MessageCantEquipCustom>Nu se poate echipa: {0}.</MessageCantEquipCustom>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
-  <MessageCantEquipIncapableOfViolence>TODO</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfViolence>Nu se poate echipa: {1_labelShort} este incapabil de violență.</MessageCantEquipIncapableOfViolence>
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
+  <MessageCantEquipIncapableOfShooting>Nu se poate echipa: {1_labelShort} este incapabil să tragă.</MessageCantEquipIncapableOfShooting>
   <!-- EN: Cannot equip: Incapable. -->
-  <MessageCantEquipIncapableOfManipulation>TODO</MessageCantEquipIncapableOfManipulation>
+  <MessageCantEquipIncapableOfManipulation>Nu se poate echipa: Incapabil.</MessageCantEquipIncapableOfManipulation>
   <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
-  <MessageCantWearApparelMissingBodyParts>TODO</MessageCantWearApparelMissingBodyParts>
+  <MessageCantWearApparelMissingBodyParts>Nu poate purta: {1_labelShort} îi lipsesc părți ale corpului necesare.</MessageCantWearApparelMissingBodyParts>
   <!-- EN: This person refuses to remove this. -->
-  <MessageCantUnequipLockedApparel>TODO</MessageCantUnequipLockedApparel>
+  <MessageCantUnequipLockedApparel>Această persoană refuză să îndepărteze acest lucru.</MessageCantUnequipLockedApparel>
   <!-- EN: Cannot wear: This would replace apparel {1_labelShort} refues to remove. -->
-  <MessageWouldReplaceLockedApparel>TODO</MessageWouldReplaceLockedApparel>
+  <MessageWouldReplaceLockedApparel>Nu se poate purta: Acest lucru ar înlocui îmbrăcămintea pe care {1_labelShort} refuză să o înlăture.</MessageWouldReplaceLockedApparel>
   
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageSlaughteringBondedAnimal>TODO</MessageSlaughteringBondedAnimal>
+  <MessageSlaughteringBondedAnimal>Deoarece sunt legați, sacrificarea lui {DESIGNATED_labelShort} îl va face nefericit pe {BONDED_labelShort}.</MessageSlaughteringBondedAnimal>
+  <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageReleaseBondedAnimal>Deoarece sunt legați, eliberarea lui {DESIGNATED_labelShort} îl va face pe {BONDED_labelShort} nefericit.</MessageReleaseBondedAnimal>
   
-  <!-- EN: {0} has run out of food ({PAWN_label}). -->
-  <MessageCaravanRanOutOfFood>TODO</MessageCaravanRanOutOfFood>
+  <!-- EN: {0} has run out of food. -->
+  <MessageCaravanRanOutOfFood>{0} a rămas fără mâncare.</MessageCaravanRanOutOfFood>
   <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
-  <MessageCaravanDeathCorpseAddedToInventory>TODO</MessageCaravanDeathCorpseAddedToInventory>
+  <MessageCaravanDeathCorpseAddedToInventory>Cadavrul lui {PAWN_definite} a fost preluat de caravană. Este greu și poate imobiliza caravana, dar poate fi lăsat în urmă în fila de obiecte a caravanei.</MessageCaravanDeathCorpseAddedToInventory>
 
   <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
-  <MessageSelectOwnBaseToFormCaravan>TODO</MessageSelectOwnBaseToFormCaravan>
+  <MessageSelectOwnBaseToFormCaravan>Pentru a forma o caravană, selectați propria colonie sau un loc unde aveți oameni.</MessageSelectOwnBaseToFormCaravan>
 
   <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
-  <MessageScreenResTooSmallForUIScale>TODO</MessageScreenResTooSmallForUIScale>
+  <MessageScreenResTooSmallForUIScale>La această rezoluție și la această scară UI, interfața jocului nu ar încăpea pe ecran. Vă rugăm să reduceți scala UI sau să măriți rezoluția.</MessageScreenResTooSmallForUIScale>
   
   <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
-  <MessageYouHaveToReformCaravanNow>TODO</MessageYouHaveToReformCaravanNow>
+  <MessageYouHaveToReformCaravanNow>Trebuie să reformezi caravana acum. Toți cei rămași în urmă vor fi abandonați.</MessageYouHaveToReformCaravanNow>
   
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <MessageDefendersAttacking>TODO</MessageDefendersAttacking>
+  <MessageDefendersAttacking>{0} din {1} vă atacă {2}.</MessageDefendersAttacking>
   <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
-  <MessageMechanoidsAssembled>TODO</MessageMechanoidsAssembled>
+  <MessageMechanoidsAssembled>Mechanoizii au fost asamblați și își vor apăra grupul.</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to assemble -->
-  <MessageMechanoidsLeftToAssemble>TODO</MessageMechanoidsLeftToAssemble>
+  <MessageMechanoidsLeftToAssemble>Restul de mecanoizi care trebuie asamblați</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
-  <MessageMechanoidsReinforcementsDrop>TODO</MessageMechanoidsReinforcementsDrop>
+  <MessageMechanoidsReinforcementsDrop>Baliza de lansare a mecanoizilor a chemat întăriri în capsulele de lansare din apropiere.</MessageMechanoidsReinforcementsDrop>
 
   <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
-  <MessageSelfTendUnsatisfied>TODO</MessageSelfTendUnsatisfied>
+  <MessageSelfTendUnsatisfied>Pentru a se trata pe sine, {1_labelShort} trebuie să fie, de asemenea, desemnat să facă muncă de doctor.</MessageSelfTendUnsatisfied>
   <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
-  <MessageCannotSelfTendEver>TODO</MessageCannotSelfTendEver>
+  <MessageCannotSelfTendEver>{1_labelShort} este incapabil să facă munca de doctor și, prin urmare, nu se poate trata pe sine niciodată.</MessageCannotSelfTendEver>
   
   <!-- EN: This tile is impassable. -->
-  <MessageCantAddWaypointBecauseImpassable>TODO</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseImpassable>Această țiglă este impracticabilă.</MessageCantAddWaypointBecauseImpassable>
   <!-- EN: It's not possible to reach this tile from the last waypoint. -->
-  <MessageCantAddWaypointBecauseUnreachable>TODO</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseUnreachable>Nu este posibil să se ajungă la această plăcuță de la ultimul punct intermediar.</MessageCantAddWaypointBecauseUnreachable>
   <!-- EN: You can't add more than {0} waypoints. -->
-  <MessageCantAddWaypointBecauseLimit>TODO</MessageCantAddWaypointBecauseLimit>
+  <MessageCantAddWaypointBecauseLimit>Nu puteți adăuga mai mult de {0} puncte de parcurs.</MessageCantAddWaypointBecauseLimit>
   <!-- EN: You can't remove this waypoint. -->
-  <MessageCantRemoveWaypointBecauseFirst>TODO</MessageCantRemoveWaypointBecauseFirst>
+  <MessageCantRemoveWaypointBecauseFirst>Nu puteți elimina acest punct de trecere.</MessageCantRemoveWaypointBecauseFirst>
   
   <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
-  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>TODO</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Nici unul dintre gardienii tăi nu este capabil de violență. Execuția nu va fi efectuată.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
-  <!-- EN: You have defeated all enemies. In {0}, the caravan will automatically be reformed. -->
-  <MessageSiteCountdownBecauseNoMoreEnemies>TODO</MessageSiteCountdownBecauseNoMoreEnemies>
-  <!-- EN: In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen. -->
-  <MessageSiteCountdownBecauseNoEnemiesInitially>TODO</MessageSiteCountdownBecauseNoEnemiesInitially>
+  <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemies>Zona este acum sigură. Puteți reforma caravana pe harta lumii.</MessageCanReformCaravanNowNoMoreEnemies>
+  <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>Zona este acum sigură, dar au mai rămas câteva camere neexplorate. Puteți explora mai departe sau puteți reforma caravana pe harta lumii.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
-  <MessageCantBanishDownedPawn>TODO</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>Nu poate fi alungat {1_labelShort} deoarece {1_pronoun} nu poate merge.</MessageCantBanishDownedPawn>
 
   <!-- EN: {0} have woken up. -->
-  <MessageSleepingPawnsWokenUp>TODO</MessageSleepingPawnsWokenUp>
+  <MessageSleepingPawnsWokenUp>{0} s-au trezit.</MessageSleepingPawnsWokenUp>
   <!-- EN: Mech cluster buildings have been defeated. -->
-  <MessageMechClusterDefeated>TODO</MessageMechClusterDefeated>
+  <MessageMechClusterDefeated>Clădirile Mech Cluster au fost înfrânte.</MessageMechClusterDefeated>
 
   <!-- EN: Item produced: {0}. -->
-  <MessageCompSpawnerSpawnedItem>TODO</MessageCompSpawnerSpawnedItem>
+  <MessageCompSpawnerSpawnedItem>Obiect produs: {0}.</MessageCompSpawnerSpawnedItem>
 
   <!-- EN: Health condition healed: {0}. -->
-  <MessageHediffCuredByItem>TODO</MessageHediffCuredByItem>
+  <MessageHediffCuredByItem>Stare de sănătate vindecată: {0}.</MessageHediffCuredByItem>
   <!-- EN: Body part restored: {0}. -->
-  <MessageBodyPartCuredByItem>TODO</MessageBodyPartCuredByItem>
+  <MessageBodyPartCuredByItem>Parte a corpului restaurată: {0}.</MessageBodyPartCuredByItem>
   <!-- EN: Technology given: {0}. -->
-  <MessageResearchProjectFinishedByItem>TODO</MessageResearchProjectFinishedByItem>
+  <MessageResearchProjectFinishedByItem>Tehnologie dată: {0}.</MessageResearchProjectFinishedByItem>
 
   <!-- EN: {0} has been brought back to life! -->
-  <MessagePawnResurrected>TODO</MessagePawnResurrected>
+  <MessagePawnResurrected>{0} a fost readus la viață!</MessagePawnResurrected>
 
   <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
-  <MessageFailedToRescueRelative>TODO</MessageFailedToRescueRelative>
+  <MessageFailedToRescueRelative>Nu ați reușit să îl salvați pe {PAWN_labelShort}. Acest lucru îl va întrista pe {RELATIVE_labelShort}.</MessageFailedToRescueRelative>
   <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
-  <MessageRescuedRelative>TODO</MessageRescuedRelative>
+  <MessageRescuedRelative>L-ați salvat pe {PAWN_labelShort}. Acest lucru îl va face fericit pe {RELATIVE_labelShort}.</MessageRescuedRelative>
 
   <!-- EN: The tornado has left the map. -->
-  <MessageTornadoLeftMap>TODO</MessageTornadoLeftMap>
+  <MessageTornadoLeftMap>Tornada a părăsit harta.</MessageTornadoLeftMap>
   <!-- EN: The tornado has dissipated. -->
-  <MessageTornadoDissipated>TODO</MessageTornadoDissipated>
+  <MessageTornadoDissipated>Tornada s-a disipat.</MessageTornadoDissipated>
 
   <!-- EN: No conscious, capable diplomat. -->
-  <MessagePeaceTalksNoDiplomat>TODO</MessagePeaceTalksNoDiplomat>
+  <MessagePeaceTalksNoDiplomat>Niciun diplomat conștient și capabil.</MessagePeaceTalksNoDiplomat>
 
   <!-- EN: Warning: {0} cannot live when exposed to light. -->
-  <MessageWarningCavePlantsExposedToLight>TODO</MessageWarningCavePlantsExposedToLight>
+  <MessageWarningCavePlantsExposedToLight>Avertisment: {0} nu poate trăi atunci când este expus la lumină.</MessageWarningCavePlantsExposedToLight>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedTantrumChangedTarget>TODO</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} nu a putut ajunge la {OLDTARGET_label} așa că {PAWN_pronoun} a decis să redirecționeze furia {PAWN_possessive} către {TARGET_label}.</MessageTargetedTantrumChangedTarget>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedInsultingSpreeChangedTarget>TODO</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} nu a putut ajunge la {OLDTARGET_label}, așa că {PAWN_pronoun} a decis să redirecționeze furia {PAWN_possessive} către {TARGET_label}.</MessageTargetedInsultingSpreeChangedTarget>
 
   <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageMurderousRageChangedTarget>TODO</MessageMurderousRageChangedTarget>
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort} a decis să redirecționeze furia {PAWN_possessive} către {TARGET_label}.</MessageMurderousRageChangedTarget>
 
   <!-- EN: {0} cannot grow underneath a roof. -->
-  <MessagePlantIncompatibleWithRoof>TODO</MessagePlantIncompatibleWithRoof>
+  <MessagePlantIncompatibleWithRoof>{0} nu poate crește sub un acoperiș.</MessagePlantIncompatibleWithRoof>
   <!-- EN: Cannot build a roof over {0}. -->
-  <MessageRoofIncompatibleWithPlant>TODO</MessageRoofIncompatibleWithPlant>
+  <MessageRoofIncompatibleWithPlant>Nu se poate construi un acoperiș peste {0}.</MessageRoofIncompatibleWithPlant>
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>TODO</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Pentru a părăsi zona, folosiți butonul "reformare caravană" din vederea lumii.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>TODO</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Nu poți părăsi harta acum.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
   <!-- EN: Relations with {0} have changed from {1} to {2}. -->
-  <MessageGoodwillChanged>TODO</MessageGoodwillChanged>
+  <MessageGoodwillChanged>Relațiile cu {0} s-au schimbat de la {1} la {2}.</MessageGoodwillChanged>
   <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
-  <MessageGoodwillChangedWithReason>TODO</MessageGoodwillChangedWithReason>
+  <MessageGoodwillChangedWithReason>Relațiile cu {0} s-au schimbat de la {1} la {2} ({3}).</MessageGoodwillChangedWithReason>
   <!-- EN: attacked {1_labelShort} -->
-  <GoodwillChangedReason_AttackedPawn>TODO</GoodwillChangedReason_AttackedPawn>
+  <GoodwillChangedReason_AttackedPawn>a atacat {1_labelShort}</GoodwillChangedReason_AttackedPawn>
   <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
-  <GoodwillChangedReason_UsedItem>TODO</GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_UsedItem>folosit {ITEM_labelShort} pe {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
   <!-- EN: used {0} on {1} -->
-  <GoodwillChangedReason_UsedAbility>TODO</GoodwillChangedReason_UsedAbility>
+  <GoodwillChangedReason_UsedAbility>folosit {0} pe {1}</GoodwillChangedReason_UsedAbility>
   <!-- EN: harvested {0} -->
-  <GoodwillChangedReason_RemovedBodyPart>TODO</GoodwillChangedReason_RemovedBodyPart>
+  <GoodwillChangedReason_RemovedBodyPart>recoltat {0}</GoodwillChangedReason_RemovedBodyPart>
   <!-- EN: removed {0} -->
-  <GoodwillChangedReason_RemovedImplant>TODO</GoodwillChangedReason_RemovedImplant>
+  <GoodwillChangedReason_RemovedImplant>îndepărtat {0}</GoodwillChangedReason_RemovedImplant>
   <!-- EN: downgraded {0} -->
-  <GoodwillChangedReason_DowngradedImplant>TODO</GoodwillChangedReason_DowngradedImplant>
+  <GoodwillChangedReason_DowngradedImplant>retrogradat {0}</GoodwillChangedReason_DowngradedImplant>
   <!-- EN: needlessly installed {0} -->
-  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>TODO</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>a instalat inutil {0}</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
   <!-- EN: captured {1_labelShort} -->
-  <GoodwillChangedReason_CapturedPawn>TODO</GoodwillChangedReason_CapturedPawn>
+  <GoodwillChangedReason_CapturedPawn>capturat {1_labelShort}</GoodwillChangedReason_CapturedPawn>
   <!-- EN: {1_labelShort} crushed -->
-  <GoodwillChangedReason_PawnCrushed>TODO</GoodwillChangedReason_PawnCrushed>
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort} a fost strivit</GoodwillChangedReason_PawnCrushed>
   <!-- EN: {1_labelShort} died -->
-  <GoodwillChangedReason_PawnDied>TODO</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_PawnDied>{1_labelShort} a murit</GoodwillChangedReason_PawnDied>
   <!-- EN: {0_labelShort} stripped -->
-  <GoodwillChangedReason_PawnStripped>TODO</GoodwillChangedReason_PawnStripped>
+  <GoodwillChangedReason_PawnStripped>dezbrăcat pe {0_labelShort}</GoodwillChangedReason_PawnStripped>
   <!-- EN: traded -->
-  <GoodwillChangedReason_Traded>TODO</GoodwillChangedReason_Traded>
+  <GoodwillChangedReason_Traded>a făcut comerț</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
-  <GoodwillChangedReason_AttackedCaravan>TODO</GoodwillChangedReason_AttackedCaravan>
-  <!-- EN: natural tendency to reach {0} over time -->
-  <GoodwillChangedReason_NaturallyOverTime>TODO</GoodwillChangedReason_NaturallyOverTime>
+  <GoodwillChangedReason_AttackedCaravan>a atacat o caravană</GoodwillChangedReason_AttackedCaravan>
   <!-- EN: {1_labelShort} exited the map healthy -->
-  <GoodwillChangedReason_ExitedMapHealthy>TODO</GoodwillChangedReason_ExitedMapHealthy>
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} a ieșit de pe hartă sănătos</GoodwillChangedReason_ExitedMapHealthy>
   <!-- EN: tended to {1_labelShort} -->
-  <GoodwillChangedReason_Tended>TODO</GoodwillChangedReason_Tended>
+  <GoodwillChangedReason_Tended>l-a tratat pe {1_labelShort}</GoodwillChangedReason_Tended>
   <!-- EN: received a gift -->
-  <GoodwillChangedReason_ReceivedGift>TODO</GoodwillChangedReason_ReceivedGift>
+  <GoodwillChangedReason_ReceivedGift>a primit un cadou</GoodwillChangedReason_ReceivedGift>
   <!-- EN: fulfilled a trade offer -->
-  <GoodwillChangedReason_FulfilledTradeRequest>TODO</GoodwillChangedReason_FulfilledTradeRequest>
+  <GoodwillChangedReason_FulfilledTradeRequest>a îndeplinit o ofertă comercială</GoodwillChangedReason_FulfilledTradeRequest>
   <!-- EN: finished a quest -->
-  <GoodwillChangedReason_FinishedQuest>TODO</GoodwillChangedReason_FinishedQuest>
+  <GoodwillChangedReason_FinishedQuest>a terminat o misiune</GoodwillChangedReason_FinishedQuest>
   <!-- EN: {PAWN_labelShort} used {CULPRIT} -->
-  <GoodwillChangedReason_UsedForbiddenThing>TODO</GoodwillChangedReason_UsedForbiddenThing>
+  <GoodwillChangedReason_UsedForbiddenThing>{PAWN_labelShort} folosit {CULPRIT}</GoodwillChangedReason_UsedForbiddenThing>
   <!-- EN: sold {0_labelShort} -->
-  <GoodwillChangedReason_SoldPawn>TODO</GoodwillChangedReason_SoldPawn>
+  <GoodwillChangedReason_SoldPawn>vândut {0_labelShort}</GoodwillChangedReason_SoldPawn>
   <!-- EN: euthanized {PAWN_labelShort} -->
-  <GoodwillChangedReason_EuthanizedPawn>TODO</GoodwillChangedReason_EuthanizedPawn>
+  <GoodwillChangedReason_EuthanizedPawn>eutanasiat {PAWN_labelShort}</GoodwillChangedReason_EuthanizedPawn>
   <!-- EN: requested military aid -->
-  <GoodwillChangedReason_RequestedMilitaryAid>TODO</GoodwillChangedReason_RequestedMilitaryAid>
+  <GoodwillChangedReason_RequestedMilitaryAid>a solicitat ajutor militar</GoodwillChangedReason_RequestedMilitaryAid>
   <!-- EN: requested trader caravan -->
-  <GoodwillChangedReason_RequestedTrader>TODO</GoodwillChangedReason_RequestedTrader>
+  <GoodwillChangedReason_RequestedTrader>a solicitat o caravană de comercianți</GoodwillChangedReason_RequestedTrader>
   <!-- EN: caused neuroquake echo -->
-  <GoodwillChangedReason_CausedNeuroquakeEcho>TODO</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <GoodwillChangedReason_CausedNeuroquakeEcho>a provocat un ecou de neurocutremur</GoodwillChangedReason_CausedNeuroquakeEcho>
   <!-- EN: caused berserk on {PAWN_labelShort} -->
-  <GoodwillChangedReason_CausedBerserk>TODO</GoodwillChangedReason_CausedBerserk>
+  <GoodwillChangedReason_CausedBerserk>a cauzat berserk pe {PAWN_labelShort}</GoodwillChangedReason_CausedBerserk>
   <!-- EN: attacked {0_name} -->
-  <GoodwillChangeReason_AttackedFaction>TODO</GoodwillChangeReason_AttackedFaction>
+  <GoodwillChangeReason_AttackedFaction>atacat {0_name}</GoodwillChangeReason_AttackedFaction>
   <!-- EN: shuttle destroyed -->
-  <GoodwillChangeReason_ShuttleDestroyed>TODO</GoodwillChangeReason_ShuttleDestroyed>
+  <GoodwillChangeReason_ShuttleDestroyed>navetă distrusă</GoodwillChangeReason_ShuttleDestroyed>
   <!-- EN: civilians lost -->
-  <GoodwillChangeReason_CiviliansLost>TODO</GoodwillChangeReason_CiviliansLost>
+  <GoodwillChangeReason_CiviliansLost>civili pierduți</GoodwillChangeReason_CiviliansLost>
   <!-- EN: commander lost -->
-  <GoodwillChangeReason_CommanderLost>TODO</GoodwillChangeReason_CommanderLost>
+  <GoodwillChangeReason_CommanderLost>comandant pierdut</GoodwillChangeReason_CommanderLost>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
-  <MessageGiftGivenButNotAppreciated>TODO</MessageGiftGivenButNotAppreciated>
+  <MessageGiftGivenButNotAppreciated>{0} acceptă cadoul tău, dar nu îl apreciază.</MessageGiftGivenButNotAppreciated>
 
   <!-- EN: The caravan is already encumbered and can't carry anything else. -->
-  <MessageCantGiveGiftBecauseCantCarryEncumbered>TODO</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>Caravana este deja împovărată și nu mai poate căra nimic altceva.</MessageCantGiveGiftBecauseCantCarryEncumbered>
   <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
-  <MessageCantGiveGiftBecauseCantCarry>TODO</MessageCantGiveGiftBecauseCantCarry>
+  <MessageCantGiveGiftBecauseCantCarry>Caravana nu poate transporta atât de mult. Cadourile cântăresc {0}, dar caravana poate transporta doar încă {1}.</MessageCantGiveGiftBecauseCantCarry>
 
   <!-- EN: {0} has formed and is now traveling on the world map. -->
-  <MessageFormedCaravan>TODO</MessageFormedCaravan>
+  <MessageFormedCaravan>{0} s-a format și se deplasează acum pe harta lumii.</MessageFormedCaravan>
   <!-- EN: Orders -->
-  <MessageFormedCaravan_Orders>TODO</MessageFormedCaravan_Orders>
+  <MessageFormedCaravan_Orders>Comenzi</MessageFormedCaravan_Orders>
 
   <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
-  <MessageBillValidationStoreZoneDeleted>TODO</MessageBillValidationStoreZoneDeleted>
+  <MessageBillValidationStoreZoneDeleted>"{0}" al lui {1} nu mai poate livra către depozitul {2} eliminat.</MessageBillValidationStoreZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer deliver to unavailable stockpile {2}. -->
-  <MessageBillValidationStoreZoneUnavailable>TODO</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationStoreZoneUnavailable>"{0}" al lui {1} nu mai poate livra la depozitul indisponibil {2}.</MessageBillValidationStoreZoneUnavailable>
   <!-- EN: {0} can no longer work on "{1}" at {2}. The restriction has been removed. -->
-  <MessageBillValidationPawnUnavailable>TODO</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationPawnUnavailable>{0} nu mai poate lucra la "{1}" la {2}. Restricția a fost eliminată.</MessageBillValidationPawnUnavailable>
   <!-- EN: {1}'s "{0}" can no longer count items in deleted stockpile {2}. -->
-  <MessageBillValidationIncludeZoneDeleted>TODO</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeZoneDeleted>"{0}" a lui {1} nu mai poate număra articolele din stocul eliminat {2}.</MessageBillValidationIncludeZoneDeleted>
   <!-- EN: {1}'s "{0}" can no longer count items in unavailable stockpile {2}. -->
-  <MessageBillValidationIncludeZoneUnavailable>TODO</MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationIncludeZoneUnavailable>"{0}" a lui {1} nu mai poate număra produsele din stocul indisponibil {2}.</MessageBillValidationIncludeZoneUnavailable>
   <!-- EN: {1}'s "{0}" can no longer deliver all products to stockpile {2}. -->
-  <MessageBillValidationStoreZoneInsufficient>TODO</MessageBillValidationStoreZoneInsufficient>
+  <MessageBillValidationStoreZoneInsufficient>"{0}" a lui {1} nu mai poate livra toate produsele către depozitul {2}.</MessageBillValidationStoreZoneInsufficient>
 
   <!-- EN: Because of a lack of taming maintenance, {1_labelShort} has returned to the wild. -->
-  <MessageAnimalReturnedWild>TODO</MessageAnimalReturnedWild>
+  <MessageAnimalReturnedWild>Din cauza unei lipse de întreținere a îmblânzirilor, {1_labelShort} s-a întors în sălbăticie.</MessageAnimalReturnedWild>
+  <!-- EN: {1_labelShort} has been returned to the wild. -->
+  <MessageAnimalReturnedWildReleased>{1_labelShort} a fost returnat în sălbăticie.</MessageAnimalReturnedWildReleased>
   <!-- EN: Due to a lack of maintenance training, {ANIMAL_labelShort} has lost a skill: {1} -->
-  <MessageAnimalLostSkill>TODO</MessageAnimalLostSkill>
+  <MessageAnimalLostSkill>Din cauza unei lipse de pregătire pentru întreținere, {ANIMAL_labelShort} a pierdut o aptitudine: {1}</MessageAnimalLostSkill>
 
   <!-- EN: Translation report written to {0} -->
-  <MessageTranslationReportSaved>TODO</MessageTranslationReportSaved>
+  <MessageTranslationReportSaved>Raport de traducere scris în {0}.</MessageTranslationReportSaved>
 
   <!-- EN: {0} couldn't reach its destination. -->
-  <MessageCaravanArrivalActionNoLongerValid>TODO</MessageCaravanArrivalActionNoLongerValid>
+  <MessageCaravanArrivalActionNoLongerValid>{0} nu a putut ajunge la destinație.</MessageCaravanArrivalActionNoLongerValid>
 
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <MessageEnterCooldownBlocksEntering>TODO</MessageEnterCooldownBlocksEntering>
+  <MessageEnterCooldownBlocksEntering>Prea periculos să reintri pentru {0}.</MessageEnterCooldownBlocksEntering>
 
   <!-- EN: {0_labelShort} can now freely use "{1}". -->
-  <MessagePermitCooldownFinished>TODO</MessagePermitCooldownFinished>
+  <MessagePermitCooldownFinished>{0_labelShort} poate folosi acum la liber "{1}".</MessagePermitCooldownFinished>
 
   <!-- EN: {PREDATOR} is hunting {PREY_definite} ({PREY_kindBase}) for food! -->
-  <MessagePredatorHuntingPlayerAnimal>TODO</MessagePredatorHuntingPlayerAnimal>
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} îl vânează pe {PREY_definite} ({PREY_kindBase}) pentru hrană!</MessagePredatorHuntingPlayerAnimal>
 
   <!-- EN: Prisoner {PRISONER_labelShort}'s resistance has been broken by {WARDEN_labelShort}. -->
-  <MessagePrisonerResistanceBroken>TODO</MessagePrisonerResistanceBroken>
+  <MessagePrisonerResistanceBroken>Rezistența prizonierului {PRISONER_labelShort} a fost frântă de către {WARDEN_labelShort}.</MessagePrisonerResistanceBroken>
   <!-- EN: Recruitment attempts will begin. -->
-  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>TODO</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>Încercările de recrutare vor începe.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
 
   <!-- EN: Another mod with the package ID {0} is already active. Deactivate {1} before trying to activate this. -->
-  <MessageModWithPackageIdAlreadyEnabled>TODO</MessageModWithPackageIdAlreadyEnabled>
+  <MessageModWithPackageIdAlreadyEnabled>Un alt mod cu ID-ul de pachet {0} este deja activ. Dezactivați {1} înainte de a încerca să activați acesta.</MessageModWithPackageIdAlreadyEnabled>
   <!-- EN: Disable all mods before using this tool. -->
-  <MessageDisableModsBeforeCleaningTranslationFiles>TODO</MessageDisableModsBeforeCleaningTranslationFiles>
+  <MessageDisableModsBeforeCleaningTranslationFiles>Dezactivați toate modurile înainte de a utiliza acest instrument.</MessageDisableModsBeforeCleaningTranslationFiles>
   <!-- EN: Unpack and then delete all compressed translation files for this language before using this tool. -->
-  <MessageUnpackBeforeCleaningTranslationFiles>TODO</MessageUnpackBeforeCleaningTranslationFiles>
+  <MessageUnpackBeforeCleaningTranslationFiles>Despachetați și apoi ștergeți toate fișierele de traducere comprimate pentru această limbă înainte de a utiliza acest instrument.</MessageUnpackBeforeCleaningTranslationFiles>
   <!-- EN: Done. Affected folders: {0} -->
-  <MessageTranslationFilesCleanupDone>TODO</MessageTranslationFilesCleanupDone>
+  <MessageTranslationFilesCleanupDone>Terminat. Dosare afectate: {0}</MessageTranslationFilesCleanupDone>
 
   <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
-  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>TODO</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Unul dintre fișierele de traducere ({0}) nu a putut fi încărcat. Toate erorile de analiză XML trebuie să fie rezolvate mai întâi.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
-  <MessageCapturingWillAngerFaction>TODO</MessageCapturingWillAngerFaction>
+  <MessageCapturingWillAngerFaction>Avertisment: Capturarea lui {PAWN_nameDef} va înfuria facțiunea {PAWN_possessive} {PAWN_factionName}.</MessageCapturingWillAngerFaction>
 
   <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
-  <MessageStrippingWillAngerFaction>TODO</MessageStrippingWillAngerFaction>
+  <MessageStrippingWillAngerFaction>Avertizare: Dezbrăcarea lui {PAWN_nameDef} va înfuria {PAWN_factionName}.</MessageStrippingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
-  <MessageCantShootInMelee>TODO</MessageCantShootInMelee>
+  <MessageCantShootInMelee>Nu poți trage în luptă corp la corp.</MessageCantShootInMelee>
 
   <!-- EN: None of your {0} can accept this quest now. -->
-  <MessageNoColonistCanAcceptQuest>TODO</MessageNoColonistCanAcceptQuest>
+  <MessageNoColonistCanAcceptQuest>Niciunul dintre {0} nu poate accepta această misiune acum.</MessageNoColonistCanAcceptQuest>
   <!-- EN: Cannot accept this quest. -->
-  <MessageCannotAcceptQuest>TODO</MessageCannotAcceptQuest>
+  <MessageCannotAcceptQuest>Nu poate accepta această misiune.</MessageCannotAcceptQuest>
   <!-- EN: {0_definite} has accepted a quest: {1} -->
-  <MessageQuestAccepted>TODO</MessageQuestAccepted>
+  <MessageQuestAccepted>{0_definite} a acceptat o misiune: {1}</MessageQuestAccepted>
   <!-- EN: {0} is leaving. -->
-  <MessagePawnLeaving>TODO</MessagePawnLeaving>
+  <MessagePawnLeaving>{0} pleacă.</MessagePawnLeaving>
   <!-- EN: {0} are leaving. -->
-  <MessagePawnsLeaving>TODO</MessagePawnsLeaving>
+  <MessagePawnsLeaving>{0} pleacă.</MessagePawnsLeaving>
 
   <!-- EN: The monument has been destroyed because you've built a disallowed building inside. -->
-  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>TODO</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
+  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>Monumentul a fost distrus pentru că ați construit o clădire nepermisă în interior.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
 
   <!-- EN: Cannot apply: No reachable, un-reserved research bench available. -->
-  <MessageNoResearchBenchForTechprint>TODO</MessageNoResearchBenchForTechprint>
+  <MessageNoResearchBenchForTechprint>Nu se poate aplica: Nu este disponibilă nicio bancă de cercetare accesibilă și nerezervată.</MessageNoResearchBenchForTechprint>
 
   <!-- EN: No valid destination found for {0} -->
-  <NoValidDestinationFound>TODO</NoValidDestinationFound>
+  <NoValidDestinationFound>Nu s-a găsit nicio destinație validă pentru {0}</NoValidDestinationFound>
+
+  <!-- EN: An extracted tree just died. -->
+  <MessageMinifiedTreeDied>TODO</MessageMinifiedTreeDied>
   
   <!-- Research -->
   <!-- EN: Warning: Research will not begin until you build a research bench. -->
-  <MessageResearchMenuWithoutBench>TODO</MessageResearchMenuWithoutBench>
+  <MessageResearchMenuWithoutBench>Avertizare: Cercetarea nu va începe până când nu construiți o bancă de cercetare.</MessageResearchMenuWithoutBench>
 
   <!-- EN: {0_indefinite} has triggered a proximity activator. -->
-  <MessageActivatorProximityTriggered>TODO</MessageActivatorProximityTriggered>
+  <MessageActivatorProximityTriggered>{0_indefinite} a declanșat un activator de proximitate.</MessageActivatorProximityTriggered>
 
   <!-- EN: {0_label} is currently hidden. -->
-  <MessageCannotSelectInvisibleStat>TODO</MessageCannotSelectInvisibleStat>
+  <MessageCannotSelectInvisibleStat>{0_label} este în prezent ascuns.</MessageCannotSelectInvisibleStat>
 
   <!-- EN: {PAWN_nameDef} is a prisoner -->
-  <MessagePrisonerCannotEquipWeapon>TODO</MessagePrisonerCannotEquipWeapon>
+  <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} este un prizonier</MessagePrisonerCannotEquipWeapon>
+
+  <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
+  <MessageIdeoOpposedWorkTypeSelected>Atenție! Credințele lui {0_nameDef} se opun lucrării {1}. {0_pronoun} poate deveni nefericit.</MessageIdeoOpposedWorkTypeSelected>
+
+  <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
+  <MessageBedLostAssignment>{0} nu mai este atribuit lui {1_nameDef}.</MessageBedLostAssignment>
+  <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
+  <MessageBedDestroyed>{0} atribuit lui {1_nameDef} a fost distrus.</MessageBedDestroyed>
+
+  <!-- Rituals -->
+  <!-- EN: spectate -->
+  <Spectate>spectate</Spectate>
+  <!-- EN: Assign to {0} -->
+  <AssignToRole>Atribuie la {0}</AssignToRole>
+  <!-- EN: {0} has begun. -->
+  <RitualBegun>{0} a început.</RitualBegun>
+  <!-- EN: The maximum number of {0}s is {1}. -->
+  <MaxPawnsPerRole>Numărul maxim de {0} este {1}.</MaxPawnsPerRole>
+  <!-- EN: Role of {0} is locked. -->
+  <RoleIsLocked>TODO</RoleIsLocked>
+  <!-- EN: You need at least one participant. -->
+  <MessageRitualNeedsAtLeastOnePerson>Ai nevoie de cel puțin un participant.</MessageRitualNeedsAtLeastOnePerson>
+  <!-- EN: You need at least one spectator. -->
+  <MessageRitualNeedsAtLeastOneSpectator>Aveți nevoie de cel puțin un spectator.</MessageRitualNeedsAtLeastOneSpectator>
+  <!-- EN: You need a {0}. -->
+  <MessageRitualNeedsAtLeastOneRolePawn>Ai nevoie de un {0}.</MessageRitualNeedsAtLeastOneRolePawn>
+  <!-- EN: You need at least {1} {0}. -->
+  <MessageRitualNeedsAtLeastNumRolePawn>Ai nevoie de cel puțin {1} {0}.</MessageRitualNeedsAtLeastNumRolePawn>
+  <!-- EN: {0_labelShort} is downed. -->
+  <MessageRitualPawnDowned>{0_labelShort} este doborât.</MessageRitualPawnDowned>
+  <!-- EN: {0_labelShort} is currently escaping. -->
+  <MessageRitualPawnPrisonerNotSecured>{0_labelShort} este în curs de evadare.</MessageRitualPawnPrisonerNotSecured>
+  <!-- EN: {0_labelShort} is currently rebelling. -->
+  <MessageRitualPawnSlaveNotSecured>{0_labelShort} se răzvrătește în prezent.</MessageRitualPawnSlaveNotSecured>
+  <!-- EN: {0_labelShort} is being released. -->
+  <MessageRitualPawnReleased>{0_labelShort} este în curs de eliberare.</MessageRitualPawnReleased>
+  <!-- EN: {0_labelShort} is injured. -->
+  <MessageRitualPawnInjured>{0_labelShort} este rănit.</MessageRitualPawnInjured>
+  <!-- EN: {0_labelShort} must hold one of these roles -->
+  <MessageRitualRoleRequired>{0_labelShort} trebuie să dețină unul dintre aceste roluri</MessageRitualRoleRequired>
+  <!-- EN: {0} must be a prisoner. -->
+  <MessageRitualRoleMustBePrisoner>{0} trebuie să fie un prizonier.</MessageRitualRoleMustBePrisoner>
+  <!-- EN: {0} must be an animal. -->
+  <MessageRitualRoleMustBeAnimal>{0} trebuie să fie un animal.</MessageRitualRoleMustBeAnimal>
+  <!-- EN: {0} must be a human. -->
+  <MessageRitualRoleMustBeHumanlike>{0} trebuie să fie un om.</MessageRitualRoleMustBeHumanlike>
+  <!-- EN: No roles available for {0_labelShort}. -->
+  <MessageRitualNoRolesAvailable>TODO</MessageRitualNoRolesAvailable>
+  <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
+  <MessageRitualNotOfPlayerIdeo>TODO</MessageRitualNotOfPlayerIdeo>
+  <!-- EN: {0} must have eyes -->
+  <MessageRitualRoleMustHaveEyes>{0} trebuie să aibă ochi</MessageRitualRoleMustHaveEyes>
+  <!-- EN: {0_labelShort} does not require further scarification. -->
+  <MessageRitualRoleMustRequireScarification>{0_labelShort} nu necesită scarificare suplimentară.</MessageRitualRoleMustRequireScarification>
+  <!-- EN: {0} must be a prisoner or slave. -->
+  <MessageRitualRoleMustBePrisonerOrSlave>{0} trebuie să fie un prizonier sau un sclav.</MessageRitualRoleMustBePrisonerOrSlave>
+  <!-- EN: {0_labelShort} must be capable of fighting. -->
+  <MessageRitualRoleMustBeCapableOfFighting>{0_labelShort} trebuie să fie capabil să lupte.</MessageRitualRoleMustBeCapableOfFighting>
+  <!-- EN: this role cannot be played by someone else. -->
+  <MessageRitualRoleCannotReplaceRequiredPawn>acest rol nu poate fi jucat de altcineva.</MessageRitualRoleCannotReplaceRequiredPawn>
+  <!-- EN: {0_labelShort} cannot connect to a Gauranlen tree because {0_possessive} connection was recently torn. -->
+  <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort} nu se poate conecta la un arbore de gauranlen deoarece conexiunea {0_possessive} a fost ruptă recent.</MessageRitualRolePawnRecentlyTornConnection>
+  <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
+  <MessageRitualRolePawnHasSameIdeo>{0_labelShort} are aceeași ideoligie ca și convertorul.</MessageRitualRolePawnHasSameIdeo>
+  <!-- EN: {0_labelShort} must be capable of wardening. -->
+  <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort} trebuie să fie capabil să facă wardening.</MessageRitualRoleMustBeCapableOfWardening>
+  <!-- EN: {0} must be capable of {1}. -->
+  <MessageRitualRoleMustBeCapableOfGeneric>{0} trebuie să fie capabil de {1}.</MessageRitualRoleMustBeCapableOfGeneric>
+  <!-- EN: prisoners cannot {0}. -->
+  <MessageRitualRoleMustNotBePrisonerToSpectate>prizonierii nu pot {0}.</MessageRitualRoleMustNotBePrisonerToSpectate>
+  <!-- EN: only {0} can {1}. -->
+  <MessageRitualRoleMustHaveIdeoToSpectate>numai {0} poate {1}.</MessageRitualRoleMustHaveIdeoToSpectate>
+  <!-- EN: only {0} can fill the role of {1}. -->
+  <MessageRitualRoleMustHaveIdeoToDoRole>numai {0} poate îndeplini rolul lui {1}.</MessageRitualRoleMustHaveIdeoToDoRole>
+  <!-- EN: must be colonist for the {0} role. -->
+  <MessageRitualRoleMustBeColonist>trebuie să fie colonist pentru rolul {0}.</MessageRitualRoleMustBeColonist>
+  <!-- EN: {0} must have an animal with min body size of {1}. -->
+  <MessageRitualRoleMustHaveLargerBodySize>{0} trebuie să aibă un animal cu o dimensiune minimă a corpului de {1}.</MessageRitualRoleMustHaveLargerBodySize>
+  <!-- EN: {0_labelShort} is in a mental state. -->
+  <MessageRitualPawnMentalState>{0_labelShort} se află într-o stare mentală.</MessageRitualPawnMentalState>
+  <!-- EN: {0_labelShort} is already {1}. -->
+  <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} este deja {1}.</MessageRitualPawnIsAlreadyBelievingIdeo>
+  <!-- EN: {0_labelShort} cannot take any other role than spectator. -->
+  <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort} nu își poate asuma alt rol decât cel de spectator.</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <!-- EN: {0} cannot be an imprisoned wild man/woman. -->
+  <MessageRitualRoleMustNotBeImprisonedWildMan>TODO</MessageRitualRoleMustNotBeImprisonedWildMan>
+  <!-- EN: {0} must be free. -->
+  <MessageRitualRoleMustNotBeImprisoned>TODO</MessageRitualRoleMustNotBeImprisoned>
+
+  <!-- EN: You must select a site to continue. -->
+  <MessagePlayerMustSelectTile>Trebuie să selectezi o locație pentru a continua.</MessagePlayerMustSelectTile>
+
+  <!-- EN: Cannot plant {0_labelShort} -->
+  <CannotPlantThing>Nu se poate planta {0_labelShort}</CannotPlantThing>
+  <!-- EN: Need more fertile terrain. -->
+  <MessageWarningNotEnoughFertility>Aveți nevoie de un teren mai fertil.</MessageWarningNotEnoughFertility>
+  <!-- EN: blocked by {0_label}. -->
+  <BlockedBy>Blocat de {0_label}.</BlockedBy>
+  <!-- EN: Cannot be planted next to {0_label}. -->
+  <AdjacentSowBlocker>Nu poate fi plantat lângă {0_label}.</AdjacentSowBlocker>
+  <!-- EN: Too close to {0_label}. -->
+  <TooCloseToOtherPlant>Prea aproape de {0_label}.</TooCloseToOtherPlant>
+  <!-- EN: Too close to {0}'s planting location. -->
+  <TooCloseToOtherSeedPlantCell>Prea aproape de locul de plantare a lui {0}.</TooCloseToOtherSeedPlantCell>
+
+  <!-- EN: Warning: {0} has been marked for cutting. -->
+  <MessageWarningCutImportantPlant>TODO</MessageWarningCutImportantPlant>
 
 </LanguageData>

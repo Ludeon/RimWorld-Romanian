@@ -2,113 +2,113 @@
 <LanguageData>
   
   <!-- EN: aurora -->
-  <Aurora.label>TODO</Aurora.label>
+  <Aurora.label>auroră</Aurora.label>
   <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
-  <Aurora.description>TODO</Aurora.description>
+  <Aurora.description>O auroră luminează cerul. Spectacolul care îți taie răsuflarea va spori starea de spirit a tuturor celor care se află afară pentru a o vedea.</Aurora.description>
   <!-- EN: The aurora is ending. -->
-  <Aurora.endMessage>TODO</Aurora.endMessage>
+  <Aurora.endMessage>Aurorele se termină.</Aurora.endMessage>
   <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
-  <Aurora.letterText>TODO</Aurora.letterText>
+  <Aurora.letterText>O frumoasă auroră luminează cerul.\nCu culorile ondulate vor ridica starea de spirit a tuturor celor care se află afară pentru a le vedea și vor face noaptea mai luminoasă.</Aurora.letterText>
   
   <!-- EN: climate cycle -->
-  <ClimateCycle.label>TODO</ClimateCycle.label>
+  <ClimateCycle.label>ciclu climatic</ClimateCycle.label>
   <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
-  <ClimateCycle.description>TODO</ClimateCycle.description>
+  <ClimateCycle.description>Un ciclu climatic multianual datorat unei orbite eliptice.</ClimateCycle.description>
   
   <!-- EN: cold snap -->
-  <ColdSnap.label>TODO</ColdSnap.label>
+  <ColdSnap.label>val de frig</ColdSnap.label>
   <!-- EN: An unusual cold snap is freezing the region. -->
-  <ColdSnap.description>TODO</ColdSnap.description>
+  <ColdSnap.description>Un val de frig neobișnuit îngheață regiunea.</ColdSnap.description>
   <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
-  <ColdSnap.descriptionFuture>TODO</ColdSnap.descriptionFuture>
+  <ColdSnap.descriptionFuture>un front de aer rece va răci zona din jurul [map_definite] pentru [gameConditionDuration_duration], dăunând culturilor și oricărei persoane sau animale fără protecție adecvată</ColdSnap.descriptionFuture>
   <!-- EN: The cold snap is over. -->
-  <ColdSnap.endMessage>TODO</ColdSnap.endMessage>
+  <ColdSnap.endMessage>Valul de frig s-a încheiat.</ColdSnap.endMessage>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
-  <ColdSnap.letterText>TODO</ColdSnap.letterText>
+  <ColdSnap.letterText>Un val de frig neobișnuit s-a instalat.\n\nAcestea pot ucide rapid prin hipotermie. Asigurați-vă că vă construiți un spațiu încălzit pentru a supraviețui, purtați îmbrăcăminte adecvată și încercați să recoltați culturile înainte ca acestea să înghețe și să moară.</ColdSnap.letterText>
   
   <!-- EN: eclipse -->
-  <Eclipse.label>TODO</Eclipse.label>
+  <Eclipse.label>eclipsă</Eclipse.label>
   <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
-  <Eclipse.description>TODO</Eclipse.description>
+  <Eclipse.description>O eclipsă umbrește suprafața. Va fi întuneric, chiar și în timpul zilei.</Eclipse.description>
   <!-- EN: The eclipse is ending. -->
-  <Eclipse.endMessage>TODO</Eclipse.endMessage>
+  <Eclipse.endMessage>Eclipsa se încheie.</Eclipse.endMessage>
   <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
-  <Eclipse.letterText>TODO</Eclipse.letterText>
+  <Eclipse.letterText>Unul dintre sateliții acestei planete a orbitat în fața soarelui. A început o eclipsă.</Eclipse.letterText>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>TODO</Flashstorm.label>
+  <Flashstorm.label>Furtună fulgerătoare</Flashstorm.label>
   <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
-  <Flashstorm.description>TODO</Flashstorm.description>
+  <Flashstorm.description>O furtună bizară localizată lovește o zonă mică cu fulgere repetate.</Flashstorm.description>
   <!-- EN: The flashstorm is over. -->
-  <Flashstorm.endMessage>TODO</Flashstorm.endMessage>
+  <Flashstorm.endMessage>Furtuna fulgerătoare s-a încheiat.</Flashstorm.endMessage>
   <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
-  <Flashstorm.letterText>TODO</Flashstorm.letterText>
+  <Flashstorm.letterText>O furtună ciudată localizată lovește cu fulgere o zonă mică. Acest lucru poate provoca incendii masive.</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
-  <HeatWave.label>TODO</HeatWave.label>
+  <HeatWave.label>val de căldură</HeatWave.label>
   <!-- EN: An extreme wave of heat is baking the area. -->
-  <HeatWave.description>TODO</HeatWave.description>
+  <HeatWave.description>Un val de căldură extremă coace zona.</HeatWave.description>
   <!-- EN: a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas -->
-  <HeatWave.descriptionFuture>TODO</HeatWave.descriptionFuture>
+  <HeatWave.descriptionFuture>un val de căldură va coace zona din jurul [map_definite] pentru [gameConditionDuration_duration], dăunând culturilor și posibil omorând oamenii sau animalele din zonele nerăcite</HeatWave.descriptionFuture>
   <!-- EN: The heat wave is over. -->
-  <HeatWave.endMessage>TODO</HeatWave.endMessage>
+  <HeatWave.endMessage>Valul de căldură s-a încheiat.</HeatWave.endMessage>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
-  <HeatWave.letterText>TODO</HeatWave.letterText>
+  <HeatWave.letterText>A început un val de căldură neobișnuit.\n\nUndele de căldură pot induce insolație mortală. Rămâneți răcoroși construind fie un răcitor pasiv sau electric, fie intrând în subteran, unde rocile sunt răcoroase în mod natural.</HeatWave.letterText>
   
   <!-- EN: planetkiller -->
-  <Planetkiller.label>TODO</Planetkiller.label>
+  <Planetkiller.label>distrugător de planete</Planetkiller.label>
   <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
-  <Planetkiller.description>TODO</Planetkiller.description>
+  <Planetkiller.description>O armă interstelară distrugătoare de planete se apropie de această planetă. Aceasta va sfărâma planeta ca un glonț de pușcă care lovește un ou, anihilând orice formă de viață.</Planetkiller.description>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>TODO</PsychicDrone.label>
+  <PsychicDrone.label>dronă psihică</PsychicDrone.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
-  <PsychicDrone.description>TODO</PsychicDrone.description>
+  <PsychicDrone.description>Un arhotech îndepărtat emite semnale psihice printr-un amplificator orbital, împingând oamenii spre nebunie.</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
-  <PsychicDrone.descriptionFuture>TODO</PsychicDrone.descriptionFuture>
+  <PsychicDrone.descriptionFuture>o dronă psihică [psychicDroneLevel] va bâzâi zona din jurul [map_definite] pentru [gameConditionDuration_duration], împingând toți oamenii de genul [psychicDroneGender] spre nebunie</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
-  <PsychicDrone.endMessage>TODO</PsychicDrone.endMessage>
+  <PsychicDrone.endMessage>Drona psihică se termină.</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <PsychicDrone.letterText>TODO</PsychicDrone.letterText>
+  <PsychicDrone.letterText>Fiecare {0} colonist simte un val de anxietate și furie!\n\nUn motor îndepărtat de ură se agită. Acesta proiectează o dronă psihică pe acest sit prin intermediul unui amplificator orbital, reglat pentru a-i afecta doar pe {0}s. Timp de câteva zile, starea de spirit a unora se va înrăutăți.\n\nNivelul dronei este {1}.</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>TODO</PsychicSoothe.label>
+  <PsychicSoothe.label>calmare psihică</PsychicSoothe.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>TODO</PsychicSoothe.description>
+  <PsychicSoothe.description>Un arhotech îndepărtat emite semnale psihice printr-un amplificator orbital, calmând oamenii și stabilizându-le mintea.</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
-  <PsychicSoothe.endMessage>TODO</PsychicSoothe.endMessage>
+  <PsychicSoothe.endMessage>Calmarea psihică se încheie.</PsychicSoothe.endMessage>
   <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
-  <PsychicSoothe.letterText>TODO</PsychicSoothe.letterText>
+  <PsychicSoothe.letterText>Fiecare colonist zâmbește de fericire! Un motor îndepărtat al fericirii se agită. Acesta proiectează o dronă psihică pe acest loc printr-un amplificator orbital, reglat să afecteze doar {0}s. Pentru câteva zile, starea de spirit a unora va fi mai bună.</PsychicSoothe.letterText>
   
   <!-- EN: solar flare -->
-  <SolarFlare.label>TODO</SolarFlare.label>
+  <SolarFlare.label>erupție solară</SolarFlare.label>
   <!-- EN: A solar flare is blasting the planet. The electromagnetic interference will prevent most electrical devices from working. -->
-  <SolarFlare.description>TODO</SolarFlare.description>
+  <SolarFlare.description>O erupție solară aruncă în aer planeta. Interferențele electromagnetice vor împiedica majoritatea dispozitivelor electrice să funcționeze.</SolarFlare.description>
   <!-- EN: The solar flare is ending. -->
-  <SolarFlare.endMessage>TODO</SolarFlare.endMessage>
+  <SolarFlare.endMessage>Erupția solară se încheie.</SolarFlare.endMessage>
   <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
-  <SolarFlare.letterText>TODO</SolarFlare.letterText>
+  <SolarFlare.letterText>A început o erupție solară.\n\nRadiațiile intense vor opri toate dispozitivele electrice.\n\nAr trebui să treacă în aproximativ o zi.</SolarFlare.letterText>
   
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>TODO</ToxicFallout.label>
+  <ToxicFallout.label>precipitații toxice</ToxicFallout.label>
   <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
-  <ToxicFallout.description>TODO</ToxicFallout.description>
+  <ToxicFallout.description>Un nor de praf toxic provenit dintr-o sursă îndepărtată se așează încet peste întreaga regiune. Orice ființă vie care nu se află sub un acoperiș va fi otrăvită încet, iar obiectele lăsate afară se vor coroda.</ToxicFallout.description>
   <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
-  <ToxicFallout.descriptionFuture>TODO</ToxicFallout.descriptionFuture>
+  <ToxicFallout.descriptionFuture>un nor de precipitații toxice va acoperi zona din jurul [map_definite] pentru [gameConditionDuration_duration], ucigând plantele și animalele din exterior.</ToxicFallout.descriptionFuture>
   <!-- EN: The worst of the toxic fallout has settled. -->
-  <ToxicFallout.endMessage>TODO</ToxicFallout.endMessage>
+  <ToxicFallout.endMessage>Cea mai gravă parte a precipitațiilor toxice s-a instalat.</ToxicFallout.endMessage>
   <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a quadrum. -->
-  <ToxicFallout.letterText>TODO</ToxicFallout.letterText>
+  <ToxicFallout.letterText>Un incendiu chimic îndepărtat a eliberat o coloană de otravă peste întreaga regiune.\n\nOrice persoană sau creatură care nu se află sub un acoperiș va fi îmbolnăvită încet de praful toxic care se depune în atmosferă.\n\nVa dura între câteva zile și peste un quadrum.</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>TODO</VolcanicWinter.label>
+  <VolcanicWinter.label>iarnă vulcanică</VolcanicWinter.label>
   <!-- EN: Some distant volcano or fire is choking the atmosphere with ash, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
-  <VolcanicWinter.description>TODO</VolcanicWinter.description>
+  <VolcanicWinter.description>Un vulcan sau un incendiu îndepărtat sufocă atmosfera cu cenușă, reducând semnificativ cantitatea de lumină care ajunge la suprafață. Temperaturile vor fi mai reci, iar plantele vor crește mai încet.</VolcanicWinter.description>
   <!-- EN: a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
-  <VolcanicWinter.descriptionFuture>TODO</VolcanicWinter.descriptionFuture>
+  <VolcanicWinter.descriptionFuture>un strat de cenușă va fi depus în partea superioară a atmosferei, reducând lumina solară în jurul [map_definite] pentru [gameConditionDuration_duration], afectând grav ecosistemul local</VolcanicWinter.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->
-  <VolcanicWinter.endMessage>TODO</VolcanicWinter.endMessage>
+  <VolcanicWinter.endMessage>Cea mai mare parte a cenușii s-a depus.</VolcanicWinter.endMessage>
   <!-- EN: Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
-  <VolcanicWinter.letterText>TODO</VolcanicWinter.letterText>
+  <VolcanicWinter.letterText>Un vulcan sau un incendiu îndepărtat a început să arunce cantități masive de cenușă în atmosferă.\n\nCerul din atmosferă va întuneca soarele. Temperaturile vor scădea, iar plantele vor avea de suferit din cauza lipsei luminii solare. Ar putea trece în câteva săptămâni, sau ar putea dura mai multe quadrumuri.</VolcanicWinter.letterText>
   
 </LanguageData>

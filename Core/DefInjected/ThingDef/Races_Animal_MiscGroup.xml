@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeaver -->
+  <Alphabeaver.label>alfacastor</Alphabeaver.label>
+  <!-- EN: A large beaver-like creature genetically engineered to harvest wood with machine-like efficiency. In the absence of specialized feed, these animals will enter a manic state that compels them to eat trees whole, and are likely to attack if disturbed. -->
+  <Alphabeaver.description>O creatură mare, asemănătoare castorului, proiectată genetic pentru a recolta lemnul cu o eficiență asemănătoare cu cea a unei mașini. În absența hranei specializate, aceste animale vor intra într-o stare maniacă care le obligă să mănânce copacii întregi și sunt predispuse să atace dacă sunt deranjate.</Alphabeaver.description>
+  <!-- EN: left claw -->
+  <Alphabeaver.tools.left_claw.label>gheara stângă</Alphabeaver.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Alphabeaver.tools.right_claw.label>gheara dreaptă</Alphabeaver.tools.right_claw.label>
+  <!-- EN: head -->
+  <Alphabeaver.tools.head.label>cap</Alphabeaver.tools.head.label>
+  
+  <!-- EN: cobra -->
+  <Cobra.label>cobra</Cobra.label>
+  <!-- EN: A large predatory snake. Cobras can be highly aggressive if provoked, and their bite injects toxic venom into the victim. -->
+  <Cobra.description>Un șarpe prădător de mari dimensiuni. Cobrele pot fi foarte agresive dacă sunt provocate, iar mușcătura lor injectează venin toxic în victimă.</Cobra.description>
+  <!-- EN: cobra meat -->
+  <Cobra.race.meatLabel>carne de cobră</Cobra.race.meatLabel>
+  <!-- EN: venom-fangs -->
+  <Cobra.tools.venomfangs.label>colți veninoși</Cobra.tools.venomfangs.label>
+  <!-- EN: head -->
+  <Cobra.tools.head.label>cap</Cobra.tools.head.label>
+  
+  <!-- EN: thrumbo -->
+  <Thrumbo.label>thrumbo</Thrumbo.label>
+  <!-- EN: A gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak. -->
+  <Thrumbo.description>O creatură gigantică și grațioasă de origine necunoscută. Thrumbo este blând prin natura sa, dar extrem de periculos atunci când este furios. În timp ce blana sa lungă este excepțional de frumoasă, pielea sa este, de asemenea, incredibil de rezistentă la daune. Cornul său ascuțit ca un bricior are un preț uriaș.\n\nLegendele spun că un thrumbo bătrân este cea mai înțeleaptă creatură din univers - pur și simplu alege să nu vorbească.</Thrumbo.description>
+  <!-- EN: horn -->
+  <Thrumbo.tools.horn.label>corn</Thrumbo.tools.horn.label>
+  <!-- EN: left foot -->
+  <Thrumbo.tools.left_foot.label>piciorul stâng</Thrumbo.tools.left_foot.label>
+  <!-- EN: right foot -->
+  <Thrumbo.tools.right_foot.label>piciorul drept</Thrumbo.tools.right_foot.label>
+  <!-- EN: head -->
+  <Thrumbo.tools.head.label>cap</Thrumbo.tools.head.label>
+  
+  <!-- EN: tortoise -->
+  <Tortoise.label>broască țestoasă</Tortoise.label>
+  <!-- EN: This heavily armored land-dwelling reptile is known for its slow moving speed and surprisingly vicious bite. Because of its natural armor, it is tough to kill and can do serious damage during drawn-out melee fights. -->
+  <Tortoise.description>Această reptilă terestră puternic blindată este cunoscută pentru viteza cu care se deplasează încet și pentru mușcătura surprinzător de periculoasă. Datorită armurii sale naturale, este greu de ucis și poate provoca daune serioase în timpul luptelor corp la corp prelungite.</Tortoise.description>
+  <!-- EN: beak -->
+  <Tortoise.tools.beak.label>cioc</Tortoise.tools.beak.label>
+  <!-- EN: head -->
+  <Tortoise.tools.head.label>cap</Tortoise.tools.head.label>
+  
+</LanguageData>

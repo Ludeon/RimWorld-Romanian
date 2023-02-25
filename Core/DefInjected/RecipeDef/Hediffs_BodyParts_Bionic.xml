@@ -2,59 +2,66 @@
 <LanguageData>
   
   <!-- EN: install bionic arm -->
-  <InstallBionicArm.label>TODO</InstallBionicArm.label>
+  <InstallBionicArm.label>instalează un braț bionic</InstallBionicArm.label>
   <!-- EN: Install a bionic arm. -->
-  <InstallBionicArm.description>TODO</InstallBionicArm.description>
+  <InstallBionicArm.description>Instalează un braț bionic.</InstallBionicArm.description>
   <!-- EN: Installing bionic arm. -->
-  <InstallBionicArm.jobString>TODO</InstallBionicArm.jobString>
+  <InstallBionicArm.jobString>Instalează brațul bionic.</InstallBionicArm.jobString>
   
   <!-- EN: install bionic ear -->
-  <InstallBionicEar.label>TODO</InstallBionicEar.label>
+  <InstallBionicEar.label>instalează o ureche bionică</InstallBionicEar.label>
   <!-- EN: Install a bionic ear. -->
-  <InstallBionicEar.description>TODO</InstallBionicEar.description>
+  <InstallBionicEar.description>Instalează o ureche bionică.</InstallBionicEar.description>
   <!-- EN: Installing bionic ear. -->
-  <InstallBionicEar.jobString>TODO</InstallBionicEar.jobString>
+  <InstallBionicEar.jobString>Instalează urechea bionică.</InstallBionicEar.jobString>
   
   <!-- EN: install bionic eye -->
-  <InstallBionicEye.label>TODO</InstallBionicEye.label>
+  <InstallBionicEye.label>instalează un ochi bionic</InstallBionicEye.label>
   <!-- EN: Install a bionic eye. -->
-  <InstallBionicEye.description>TODO</InstallBionicEye.description>
+  <InstallBionicEye.description>Instalează un ochi bionic.</InstallBionicEye.description>
   <!-- EN: Installing bionic eye. -->
-  <InstallBionicEye.jobString>TODO</InstallBionicEye.jobString>
+  <InstallBionicEye.jobString>Instalează ochiul bionic.</InstallBionicEye.jobString>
   
   <!-- EN: install bionic heart -->
-  <InstallBionicHeart.label>TODO</InstallBionicHeart.label>
+  <InstallBionicHeart.label>instalează inima bionică</InstallBionicHeart.label>
   <!-- EN: Install a bionic heart. -->
-  <InstallBionicHeart.description>TODO</InstallBionicHeart.description>
+  <InstallBionicHeart.description>Instalează o inimă bionică.</InstallBionicHeart.description>
   <!-- EN: Installing bionic heart. -->
-  <InstallBionicHeart.jobString>TODO</InstallBionicHeart.jobString>
+  <InstallBionicHeart.jobString>Instalează inima bionică.</InstallBionicHeart.jobString>
   
   <!-- EN: install bionic leg -->
-  <InstallBionicLeg.label>TODO</InstallBionicLeg.label>
+  <InstallBionicLeg.label>instalează un picior bionic</InstallBionicLeg.label>
   <!-- EN: Install a bionic leg. -->
-  <InstallBionicLeg.description>TODO</InstallBionicLeg.description>
+  <InstallBionicLeg.description>Instalează un picior bionic.</InstallBionicLeg.description>
   <!-- EN: Installing bionic leg. -->
-  <InstallBionicLeg.jobString>TODO</InstallBionicLeg.jobString>
+  <InstallBionicLeg.jobString>Instalează piciorul bionic.</InstallBionicLeg.jobString>
   
   <!-- EN: install bionic spine -->
-  <InstallBionicSpine.label>TODO</InstallBionicSpine.label>
+  <InstallBionicSpine.label>instalează coloana vertebrală bionică</InstallBionicSpine.label>
   <!-- EN: Install a bionic spine. -->
-  <InstallBionicSpine.description>TODO</InstallBionicSpine.description>
+  <InstallBionicSpine.description>Instalează o coloană vertebrală bionică.</InstallBionicSpine.description>
   <!-- EN: Installing bionic spine. -->
-  <InstallBionicSpine.jobString>TODO</InstallBionicSpine.jobString>
+  <InstallBionicSpine.jobString>Instalează coloana vertebrală bionică.</InstallBionicSpine.jobString>
   
   <!-- EN: install bionic stomach -->
-  <InstallBionicStomach.label>TODO</InstallBionicStomach.label>
+  <InstallBionicStomach.label>instalează stomacul bionic</InstallBionicStomach.label>
   <!-- EN: Install a bionic stomach. -->
-  <InstallBionicStomach.description>TODO</InstallBionicStomach.description>
+  <InstallBionicStomach.description>Instalează un stomac bionic.</InstallBionicStomach.description>
   <!-- EN: Installing bionic stomach. -->
-  <InstallBionicStomach.jobString>TODO</InstallBionicStomach.jobString>
+  <InstallBionicStomach.jobString>Instalează stomacul bionic.</InstallBionicStomach.jobString>
+  
+  <!-- EN: install bionic tongue -->
+  <InstallBionicTongue.label>instalează limbă bionică</InstallBionicTongue.label>
+  <!-- EN: Install a bionic tongue. -->
+  <InstallBionicTongue.description>Instalează o limbă bionică</InstallBionicTongue.description>
+  <!-- EN: Installing bionic tongue. -->
+  <InstallBionicTongue.jobString>Instalează limba bionică</InstallBionicTongue.jobString>
   
   <!-- EN: install death acidifier -->
-  <InstallDeathAcidifier.label>TODO</InstallDeathAcidifier.label>
+  <InstallDeathAcidifier.label>instalează un acidificator al morții</InstallDeathAcidifier.label>
   <!-- EN: Install a death acidifier. -->
-  <InstallDeathAcidifier.description>TODO</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.description>Instalează un acidificator al morții.</InstallDeathAcidifier.description>
   <!-- EN: Installing death acidifier. -->
-  <InstallDeathAcidifier.jobString>TODO</InstallDeathAcidifier.jobString>
+  <InstallDeathAcidifier.jobString>Instalează acidificatorul morții.</InstallDeathAcidifier.jobString>
   
 </LanguageData>

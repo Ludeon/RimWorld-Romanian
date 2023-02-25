@@ -2,79 +2,81 @@
 <LanguageData>
   
   <!-- EN: entropy link -->
-  <EntropyLink.label>TODO</EntropyLink.label>
+  <EntropyLink.label>legătură entropică</EntropyLink.label>
   <!-- EN: A psychic link with another individual. Gain or loss of neural heat incurred by one will be shared equally between both. -->
-  <EntropyLink.description>TODO</EntropyLink.description>
+  <EntropyLink.description>O legătură psihică cu un alt individ. Câștigul sau pierderea de căldură neuronală suferită de unul dintre ei va fi împărțită în mod egal între cei doi.</EntropyLink.description>
   
   <!-- EN: joyfuzz -->
-  <Joyfuzz.label>TODO</Joyfuzz.label>
+  <Joyfuzz.label>joyfuzz</Joyfuzz.label>
   <!-- EN: Psychically-induced feelings of warmth, comfort, and acceptance. This improves mood, but the lack of negative stimulation induces a mild stupor and reduces consciousness. -->
-  <Joyfuzz.description>TODO</Joyfuzz.description>
+  <Joyfuzz.description>Sentimente de căldură, confort și acceptare induse psihic. Aceasta îmbunătățește starea de spirit, dar lipsa stimulării negative induce o ușoară stupoare și reduce starea de conștiență.</Joyfuzz.description>
   
   <!-- EN: psylink -->
-  <PsychicAmplifier.label>TODO</PsychicAmplifier.label>
+  <PsychicAmplifier.label>psylink</PsychicAmplifier.label>
   <!-- EN: An organic connection to a larger psychic field. This allows a person to use specific psychic powers that they have learned to influence reality in ways that seem impossible.\n\nHigher levels of psylink permit the use of more powers. Regardless of psylink level, a person can only use specific powers that they have learned.\n\nPsylink comes from a variety of sources. Single-use psylink neuroformer devices can create a psylink. Tribal peoples also know how to develop it through ritual linking with psychically-connected lifeforms.\n\nAs a physical phenomenon in the brain, psylink is poorly-understood by scientists, not least because it seems to actively conceal itself if studied too closely. One thing most agree on is that it somehow connects people to archotechs and harnesses their power, possibly through some sort of negotiation or sympathy mechanism. -->
-  <PsychicAmplifier.description>TODO</PsychicAmplifier.description>
+  <PsychicAmplifier.description>O conexiune organică la un câmp psihic mai mare. Acest lucru permite unei persoane să folosească anumite puteri psihice pe care le-a învățat pentru a influența realitatea în moduri care par imposibile.\n\nNiveluri mai ridicate de psylink permit folosirea mai multor puteri. Indiferent de nivelul psylink, o persoană poate folosi doar puterile specifice pe care le-a învățat.\n\nPylink provine dintr-o varietate de surse. Dispozitivele neuroformatoare psylink de unică folosință pot crea un psylink. Popoarele tribale știu, de asemenea, cum să o dezvolte prin legături rituale cu forme de viață conectate psihic.\n\nÎn calitate de fenomen fizic în creier, psylink-ul este slab înțeles de oamenii de știință, nu în ultimul rând pentru că pare să se ascundă în mod activ dacă este studiat prea îndeaproape. Un lucru asupra căruia cei mai mulți sunt de acord este faptul că conectează cumva oamenii cu arhetipurile și le exploatează puterea, posibil printr-un mecanism de negociere sau de simpatie.</PsychicAmplifier.description>
   
   <!-- EN: psychic anesthesia -->
-  <PsychicAnesthesia.label>TODO</PsychicAnesthesia.label>
+  <PsychicAnesthesia.label>anestezie psihică</PsychicAnesthesia.label>
   <!-- EN: Psychically-induced pain insensitivity. -->
-  <PsychicAnesthesia.description>TODO</PsychicAnesthesia.description>
+  <PsychicAnesthesia.description>Insensibilitate la durere indusă psihic.</PsychicAnesthesia.description>
   
   <!-- EN: psychic blindness -->
-  <PsychicBlindness.label>TODO</PsychicBlindness.label>
+  <PsychicBlindness.label>orbire psihică</PsychicBlindness.label>
   <!-- EN: Psychically-induced partial blindness. -->
-  <PsychicBlindness.description>TODO</PsychicBlindness.description>
+  <PsychicBlindness.description>Orbire parțială indusă psihic.</PsychicBlindness.description>
   
   <!-- EN: psychic breakdown -->
-  <PsychicBreakdown.label>TODO</PsychicBreakdown.label>
+  <PsychicBreakdown.label>cădere psihică</PsychicBreakdown.label>
   <!-- EN: Deep psychic destabilization of the mind. Psychic breakdown last for days, causing mental disturbances of various kinds. It resolves itself with time. -->
-  <PsychicBreakdown.description>TODO</PsychicBreakdown.description>
+  <PsychicBreakdown.description>Destabilizare psihică profundă a minții. Depresia psihică durează zile întregi, provocând tulburări psihice de diferite tipuri. Se rezolvă de la sine cu timpul.</PsychicBreakdown.description>
   <!-- EN: minor -->
-  <PsychicBreakdown.stages.minor.label>TODO</PsychicBreakdown.stages.minor.label>
+  <PsychicBreakdown.stages.minor.label>minoră</PsychicBreakdown.stages.minor.label>
   <!-- EN: major -->
-  <PsychicBreakdown.stages.major.label>TODO</PsychicBreakdown.stages.major.label>
+  <PsychicBreakdown.stages.major.label>majoră</PsychicBreakdown.stages.major.label>
   <!-- EN: total -->
-  <PsychicBreakdown.stages.total.label>TODO</PsychicBreakdown.stages.total.label>
+  <PsychicBreakdown.stages.total.label>totală</PsychicBreakdown.stages.total.label>
   
   <!-- EN: psychic burden -->
-  <PsychicBurden.label>TODO</PsychicBurden.label>
+  <PsychicBurden.label>povară psihică</PsychicBurden.label>
   <!-- EN: Psychically-induced difficulty in locomotion. -->
-  <PsychicBurden.description>TODO</PsychicBurden.description>
+  <PsychicBurden.description>Dificultate de locomoție indusă psihic.</PsychicBurden.description>
   
   <!-- EN: neural heat -->
-  <PsychicEntropy.label>TODO</PsychicEntropy.label>
+  <PsychicEntropy.label>căldură neuronală</PsychicEntropy.label>
   <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which is built up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage. -->
-  <PsychicEntropy.description>TODO</PsychicEntropy.description>
+  <PsychicEntropy.description>În ciuda faptului că este numită "căldură", căldura neuronală nu este o măsură a temperaturii. Ea se referă la un tip de energie psihică haotică din minte, care se acumulează atunci când se folosesc puterile psihice și se disipează în decursul a câteva secunde sau minute.\n\nDacă căldura neurală este împinsă dincolo de limitele normale, poate provoca o cădere psihică temporară și pierderea cunoștinței din cauza șocului psihic. Aceste condiții nu provoacă daune permanente.</PsychicEntropy.description>
   <!-- EN: safe -->
-  <PsychicEntropy.stages.safe.label>TODO</PsychicEntropy.stages.safe.label>
+  <PsychicEntropy.stages.safe.label>sigură</PsychicEntropy.stages.safe.label>
   <!-- EN: overloaded -->
-  <PsychicEntropy.stages.overloaded.label>TODO</PsychicEntropy.stages.overloaded.label>
+  <PsychicEntropy.stages.overloaded.label>supraîncărcată</PsychicEntropy.stages.overloaded.label>
   <!-- EN: very overloaded -->
-  <PsychicEntropy.stages.very_overloaded.label>TODO</PsychicEntropy.stages.very_overloaded.label>
+  <PsychicEntropy.stages.very_overloaded.label>tare supraîncărcată</PsychicEntropy.stages.very_overloaded.label>
   <!-- EN: extreme -->
-  <PsychicEntropy.stages.extreme.label>TODO</PsychicEntropy.stages.extreme.label>
+  <PsychicEntropy.stages.extreme.label>extremă</PsychicEntropy.stages.extreme.label>
   <!-- EN: overwhelming -->
-  <PsychicEntropy.stages.overwhelming.label>TODO</PsychicEntropy.stages.overwhelming.label>
+  <PsychicEntropy.stages.overwhelming.label>copleșitoare</PsychicEntropy.stages.overwhelming.label>
   
   <!-- EN: psychic focus -->
-  <PsychicFocus.label>TODO</PsychicFocus.label>
+  <PsychicFocus.label>focalizare psihică</PsychicFocus.label>
   <!-- EN: Psychically-induced mental focus, increasing sight, hearing and movement capactities. -->
-  <PsychicFocus.description>TODO</PsychicFocus.description>
+  <PsychicFocus.description>Focalizare mentală indusă psihic, care crește capacitățile de vedere, auz și mișcare.</PsychicFocus.description>
   
   <!-- EN: psychic invisibility -->
-  <PsychicInvisibility.label>TODO</PsychicInvisibility.label>
+  <PsychicInvisibility.label>invizibilitate psihică</PsychicInvisibility.label>
   <!-- EN: Psychically-induced invisibility. This actually affects others nearby, making their brains unable to perceive the sight of this individual, even if the eyes are unaffected. -->
-  <PsychicInvisibility.description>TODO</PsychicInvisibility.description>
+  <PsychicInvisibility.description>Invizibilitate indusă psihic. Acest lucru îi afectează de fapt pe cei din apropiere, făcându-le creierul incapabil să perceapă vederea acestui individ, chiar dacă ochii nu sunt afectați.</PsychicInvisibility.description>
   
   <!-- EN: psychic love -->
-  <PsychicLove.label>TODO</PsychicLove.label>
+  <PsychicLove.label>dragoste psihică</PsychicLove.label>
   <!-- EN: Psychically-induced romantic desire. This increases an individual's opinion of someone else, and increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup. -->
-  <PsychicLove.description>TODO</PsychicLove.description>
+  <PsychicLove.description>Dorință romantică indusă psihic. Acest lucru sporește părerea unui individ despre o altă persoană și crește probabilitatea unor avansuri romantice și a unor cereri în căsătorie, reducând în același timp șansele unei despărțiri.</PsychicLove.description>
+  <!-- EN: for -->
+  <PsychicLove.targetPrefix>pentru</PsychicLove.targetPrefix>
   
   <!-- EN: psychic vertigo -->
-  <PsychicVertigo.label>TODO</PsychicVertigo.label>
+  <PsychicVertigo.label>vertij psihic</PsychicVertigo.label>
   <!-- EN: Psychically-induced loss of spatial orientation. This will cause flesh creatures to vomit. -->
-  <PsychicVertigo.description>TODO</PsychicVertigo.description>
+  <PsychicVertigo.description>Pierdere a orientării spațiale indusă psihic. Acest lucru va determina creaturile de carne să vomite.</PsychicVertigo.description>
   
 </LanguageData>

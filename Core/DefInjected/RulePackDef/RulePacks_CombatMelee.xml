@@ -31,7 +31,36 @@
     <li>deflecting->bouncing</li>
     <li>deflecting->glancing</li>
   -->
-  <Combat_Deflect.rulePack.rulesStrings>TODO</Combat_Deflect.rulePack.rulesStrings>
+  <Combat_Deflect.rulePack.rulesStrings>
+    <li>r_logentry(p=0.5)->[INITIATOR_label] a [damaged_past] pe [RECIPIENT_label] în [recipient_part0_label] [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_label] a [damaged_past] [skillAdvMaybe] pe [RECIPIENT_label] cu [implement] [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_label] a [damaged_past] [skillAdvMaybe] pe [RECIPIENT_label] [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_label], [skillDescMelee], a [damaged_past] pe [RECIPIENT_label] în [recipient_part0_label] [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_label] a folosit [implement] pentru a [damaged_inf] pe [RECIPIENT_label] [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_label] a folosit [skillAdvMaybe] [implement] pentru a [damaged_inf] pe [RECIPIENT_label] [deflected_result].</li>
+    <li>skillAdvMaybe-></li>
+    <li>skillAdvMaybe->[skillAdv]</li>
+    <li>atMaybe-></li>
+    <li>atMaybe->at</li>
+    <li>deflected_result->, dar [TOOL_definite] [deflected] [harmlessly_opt]</li>
+    <li>deflected_result->, [deflecting] de pe armura [RECIPIENT_possessive] [harmlessly_opt]</li>
+    <li>harmlessly_opt(p=4)-></li>
+    <li>harmlessly_opt->[harmlessly]</li>
+    <li>harmlessly->inofensiv</li>
+    <li>harmlessly->inutil</li>
+    <li>deflected->a deviat</li>
+    <li>deflected->a răzuit</li>
+    <li>deflected->a alunecat</li>
+    <li>deflected->doar a atins</li>
+    <li>deflected->a sărit</li>
+    <li>deflected->a reculat</li>
+    <li>deflecting->deviind</li>
+    <li>deflecting->răzuind</li>
+    <li>deflecting->alunecând</li>
+    <li>deflecting->atingând</li>
+    <li>deflecting->sărind</li>
+    <li>deflecting->reculând</li>
+  </Combat_Deflect.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry(p=0.5)->[RECIPIENT_definite] [skillAdvMaybe] dodged [INITIATOR_definite]'s [damaged_inf] from [implement].</li>
@@ -42,7 +71,15 @@
     <li>result->but was deceived by [RECIPIENT_definite]'s feint</li>
     <li>result->but the attack was cleverly avoided</li>
   -->
-  <Combat_Dodge.rulePack.rulesStrings>TODO</Combat_Dodge.rulePack.rulesStrings>
+  <Combat_Dodge.rulePack.rulesStrings>
+    <li>r_logentry(p=0.5)->[RECIPIENT_label] [skillAdvMaybe] a evitat [damaged_subst] cu [implement] a lui [INITIATOR_label].</li>
+    <li>r_logentry(p=0.5)->[RECIPIENT_label] [skillAdvMaybe] a evitat [damaged_subst] lui [INITIATOR_label].</li>
+    <li>skillAdvMaybe-></li>
+    <li>skillAdvMaybe->[skillAdv]</li>
+    <li>result->dar [RECIPIENT_label] a sărit din cale</li>
+    <li>result->dar a fost înșelat de prefăcătoria lui [RECIPIENT_label]</li>
+    <li>result->dar atacul a fost evitat cu iscusință</li>
+  </Combat_Dodge.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry(p=1.0)->[INITIATOR_definite] [damaged_past] [RECIPIENT_definite] in the [recipient_part0_label].</li>
@@ -66,7 +103,28 @@
     <li>action(p=0.3)->[INITIATOR_definite] used [implement] to [damaged_inf] [RECIPIENT_definite]</li>
     <li>action(p=0.3)->[INITIATOR_definite] used [implement] [skillAdv] to [damaged_inf] [RECIPIENT_definite]</li>
   -->
-  <Combat_Hit.rulePack.rulesStrings>TODO</Combat_Hit.rulePack.rulesStrings>
+  <Combat_Hit.rulePack.rulesStrings>
+    <li>r_logentry(p=1.0)->[INITIATOR_label] a [damaged_past] pe [RECIPIENT_label] în [recipient_part0_label].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] a [damaged_past] pe [RECIPIENT_label] în [recipient_part0_label] [strikeAdv].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] a [damaged_past] pe [RECIPIENT_label] în [recipient_part0_label], [flavortext_consequence].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label], [skillDescMelee], a [damaged_past] pe [RECIPIENT_label] în [recipient_part0_label].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_label], [skillDescMelee], a [damaged_past] [strikeAdv] pe [RECIPIENT_label] în [recipient_part0_label].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] a [destroyed_past] [destroyed_targets] lui [RECIPIENT_label].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] a [destroyed_past] [destroyed_targets] [destroyed_suffix] lui [RECIPIENT_label].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_label] a [destroyed_past] [destroyed_targets] cu [implement] lui [RECIPIENT_label].</li>
+    <li>r_logentry(p=1,recipient_part_count==0)->[INITIATOR_label] a [damaged_past] pe [RECIPIENT_label] cu [implement].</li>
+    <li>r_logentry(p=0.4,recipient_part_count==0)->[INITIATOR_label] a [damaged_past] [skillAdv] pe [RECIPIENT_label] cu [implement].</li>
+    <li>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [destroyed_targets] [RECIPIENT_possessive]</li>
+    <li>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [damaged_targets] [RECIPIENT_possessive]</li>
+    <li>result(p=1)->[destroyed_present] [destroyed_targets] [RECIPIENT_possessive] și [damaged_present] [damaged_targets] [RECIPIENT_possessive]</li>
+    <li>action(p=1.0)->[INITIATOR_label] a [damaged_past] pe [RECIPIENT_label] with [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_label] a [damaged_past] pe [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label], [skillDescMelee], a [damaged_past] [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[RECIPIENT_label] a suferit [damaged_subst] de la [implement] lui [INITIATOR_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label], [skillDescMelee], a [damaged_past] pe [RECIPIENT_label] cu [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_label] a folosit [implement] să [damaged_conj] pe [RECIPIENT_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label] a folosit [implement] să [damaged_conj] [skillAdv] pe [RECIPIENT_label]</li>
+  </Combat_Hit.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry(p=0.3)->[RECIPIENT_definite] avoided [INITIATOR_definite]'s [WEAPON_label] [damaged_inf].</li>
@@ -87,6 +145,24 @@
     <li>result->but stumbled at the last second</li>
     <li>result(initiator_flesh!=Mechanoid)->but hesitated at the last second</li>
   -->
-  <Combat_Miss.rulePack.rulesStrings>TODO</Combat_Miss.rulePack.rulesStrings>
+  <Combat_Miss.rulePack.rulesStrings>
+    <li>r_logentry(p=0.3)->[RECIPIENT_label] a evitat [damaged_subst] de la [WEAPON_definite] lui [INITIATOR_label].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_label] a ratat pe [RECIPIENT_label] cu [damaged_subst] de la [implement].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_label] [failtype] în timp ce încerca să [damaged_conj] pe [RECIPIENT_label] cu [implement].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_label] [failtype] în timp ce încerca să [damaged_conj] pe [RECIPIENT_label].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_label] a încercat [skillAdvMaybe] să [damaged_conj] pe [RECIPIENT_label], dar [failtype].</li>
+    <li>skillAdvMaybe-></li>
+    <li>skillAdvMaybe->[skillAdv]</li>
+    <li>failtype(p=5)->a ratat</li>
+    <li>failtype->s-a încâlcit</li>
+    <li>failtype->s-a împiedicat</li>
+    <li>failtype->s-a fâlfâit</li>
+    <li>failtype->s-a încurcat</li>
+    <li>result(p=4)->dar a ratat</li>
+    <li>result->dar a lovit doar aerul</li>
+    <li>result->dar elanul a fost larg</li>
+    <li>result->dar s-a împiedicat în ultima secundă.</li>
+    <li>result(initiator_flesh!=Mechanoid)->dar a ezitat în ultima secundă.</li>
+  </Combat_Miss.rulePack.rulesStrings>
   
 </LanguageData>

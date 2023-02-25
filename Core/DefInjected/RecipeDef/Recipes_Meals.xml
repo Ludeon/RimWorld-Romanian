@@ -2,59 +2,115 @@
 <LanguageData>
   
   <!-- EN: cook fine meal -->
-  <CookMealFine.label>TODO</CookMealFine.label>
+  <CookMealFine.label>gătește mâncare fină</CookMealFine.label>
   <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
-  <CookMealFine.description>TODO</CookMealFine.description>
+  <CookMealFine.description>Gătește o mâncare oarecum complexă dintr-o combinație de ingrediente din carne și plante.</CookMealFine.description>
   <!-- EN: Cooking fine meal. -->
-  <CookMealFine.jobString>TODO</CookMealFine.jobString>
+  <CookMealFine.jobString>Gătește mâncare fină.</CookMealFine.jobString>
+  
+  <!-- EN: cook carnivore fine meal -->
+  <CookMealFine_Meat.label>Gătește masă fină carnivoră</CookMealFine_Meat.label>
+  <!-- EN: Cook a somewhat complex meal from meat ingredients. -->
+  <CookMealFine_Meat.description>Gătește o mâncare oarecum complexă din ingrediente din carne.</CookMealFine_Meat.description>
+  <!-- EN: Cooking carnivore fine meal. -->
+  <CookMealFine_Meat.jobString>Gătește masă fină carnivoră.</CookMealFine_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal -->
+  <CookMealFine_Veg.label>Gătește masă fină vegetariană</CookMealFine_Veg.label>
+  <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
+  <CookMealFine_Veg.description>Gătește o masă oarecum complexă din ingrediente vegetale.</CookMealFine_Veg.description>
+  <!-- EN: Cooking vegetarian fine meal. -->
+  <CookMealFine_Veg.jobString>Gătește masă vegetariană fină.</CookMealFine_Veg.jobString>
   
   <!-- EN: cook fine meal x4 -->
-  <CookMealFineBulk.label>TODO</CookMealFineBulk.label>
-  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. -->
-  <CookMealFineBulk.description>TODO</CookMealFineBulk.description>
+  <CookMealFineBulk.label>gătește mâncare fină x4</CookMealFineBulk.label>
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
+  <CookMealFineBulk.description>Gătește 4 mese oarecum complexe dintr-o combinație de carne și ingrediente vegetale. Unele dintre ingrediente sunt irosite pentru a crea o experiență culinară bună.</CookMealFineBulk.description>
   <!-- EN: Cooking 4 fine meals. -->
-  <CookMealFineBulk.jobString>TODO</CookMealFineBulk.jobString>
+  <CookMealFineBulk.jobString>Gătește 4 mese fine.</CookMealFineBulk.jobString>
+  
+  <!-- EN: cook carnivore fine meal x4 -->
+  <CookMealFineBulk_Meat.label>Gătește masă fină carnivoră x4</CookMealFineBulk_Meat.label>
+  <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Meat.description>Gătește 4 mese oarecum complexe din ingrediente din carne. Unele dintre ingrediente sunt irosite pentru a crea o experiență culinară bună. Producerea de arome variate doar cu carne introduce ineficiențe suplimentare.</CookMealFineBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore fine meals. -->
+  <CookMealFineBulk_Meat.jobString>Gătește 4 mese fine carnivore.</CookMealFineBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal x4 -->
+  <CookMealFineBulk_Veg.label>Gătește masă fină vegetariană x4</CookMealFineBulk_Veg.label>
+  <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Veg.description>Gătește 4 mese oarecum complexe din ingrediente vegetale. Unele dintre ingrediente sunt irosite pentru a crea o experiență culinară bună. Producerea de arome variate doar cu plante introduce ineficiențe suplimentare.</CookMealFineBulk_Veg.description>
+  <!-- EN: Cooking 4 vegetarian fine meals. -->
+  <CookMealFineBulk_Veg.jobString>Gătește 4 mese fine vegetariene.</CookMealFineBulk_Veg.jobString>
   
   <!-- EN: cook lavish meal -->
-  <CookMealLavish.label>TODO</CookMealLavish.label>
-  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavish.description>TODO</CookMealLavish.description>
+  <CookMealLavish.label>Gătește o masă somptuoasă</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealLavish.description>Gătește o masă foarte complexă dintr-o combinație de ingrediente din carne și plante. O mare parte din ingrediente sunt irosite pentru a crea cea mai bună experiență culinară.</CookMealLavish.description>
   <!-- EN: Cooking lavish meal. -->
-  <CookMealLavish.jobString>TODO</CookMealLavish.jobString>
+  <CookMealLavish.jobString>Gătește o masă somptuoasă.</CookMealLavish.jobString>
+  
+  <!-- EN: cook carnivore lavish meal -->
+  <CookMealLavish_Meat.label>gătește masă somptuoasă carnivoră</CookMealLavish_Meat.label>
+  <!-- EN: Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavish_Meat.description>Gătește o masă foarte complexă din ingrediente din carne. O mare parte din ingrediente sunt irosite pentru a crea cea mai bună experiență culinară. Producerea unor arome variate doar cu carne introduce ineficiențe suplimentare.</CookMealLavish_Meat.description>
+  <!-- EN: Cooking carnivore lavish meal. -->
+  <CookMealLavish_Meat.jobString>Gătește masă somptuoasă carnivoră.</CookMealLavish_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal -->
+  <CookMealLavish_Veg.label>Gătește masă somptuoasă vegetariană.</CookMealLavish_Veg.label>
+  <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavish_Veg.description>Gătește o masă foarte complexă din ingrediente vegetale. O mare parte din ingrediente sunt irosite pentru a crea cea mai bună experiență culinară. Producerea de arome variate doar cu plante introduce ineficiențe suplimentare.</CookMealLavish_Veg.description>
+  <!-- EN: Cooking vegetarian lavish meal. -->
+  <CookMealLavish_Veg.jobString>Gătește masă somptuoasă vegetariană.</CookMealLavish_Veg.jobString>
   
   <!-- EN: cook lavish meal x4 -->
-  <CookMealLavishBulk.label>TODO</CookMealLavishBulk.label>
-  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted. -->
-  <CookMealLavishBulk.description>TODO</CookMealLavishBulk.description>
+  <CookMealLavishBulk.label>Gătește o masă somptuoasă x4</CookMealLavishBulk.label>
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealLavishBulk.description>Gătește 4 mese foarte complexe dintr-o combinație de carne și ingrediente vegetale. O mare parte din ingrediente sunt irosite pentru a crea cea mai bună experiență culinară.</CookMealLavishBulk.description>
   <!-- EN: Cooking 4 lavish meals. -->
-  <CookMealLavishBulk.jobString>TODO</CookMealLavishBulk.jobString>
+  <CookMealLavishBulk.jobString>Gătește 4 mese somptuoase.</CookMealLavishBulk.jobString>
+  
+  <!-- EN: cook carnivore lavish meal x4 -->
+  <CookMealLavishBulk_Meat.label>Gătește masă somptuoasă carnivoră x4</CookMealLavishBulk_Meat.label>
+  <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Meat.description>Gătește 4 mese foarte complexe din ingrediente din carne. O mare parte din ingrediente sunt irosite pentru a crea cea mai bună experiență culinară. Producerea de arome variate doar cu carne introduce ineficiențe suplimentare.</CookMealLavishBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore lavish meals. -->
+  <CookMealLavishBulk_Meat.jobString>Gătește 4 mese somptuoase carnivore.</CookMealLavishBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal x4 -->
+  <CookMealLavishBulk_Veg.label>Gătește masă somptuoasă vegetariană x4</CookMealLavishBulk_Veg.label>
+  <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Veg.description>Gătește 4 mese foarte complexe din ingrediente vegetale. O mare parte din ingrediente sunt irosite pentru a crea cea mai bună experiență culinară. Producerea de arome variate doar cu plante introduce ineficiențe suplimentare.</CookMealLavishBulk_Veg.description>
+  <!-- EN: Cooking 4 vegetarian lavish meals. -->
+  <CookMealLavishBulk_Veg.jobString>Gătește 4 mese somptuoase vegetariene.</CookMealLavishBulk_Veg.jobString>
   
   <!-- EN: cook simple meal -->
-  <CookMealSimple.label>TODO</CookMealSimple.label>
+  <CookMealSimple.label>Gătește o masă simplă</CookMealSimple.label>
   <!-- EN: Cook a straightforward meal from one ingredient. -->
-  <CookMealSimple.description>TODO</CookMealSimple.description>
+  <CookMealSimple.description>Gătește o masă simplă dintr-un singur ingredient.</CookMealSimple.description>
   <!-- EN: Cooking simple meal. -->
-  <CookMealSimple.jobString>TODO</CookMealSimple.jobString>
+  <CookMealSimple.jobString>Gătește o masă simplă.</CookMealSimple.jobString>
   
   <!-- EN: cook simple meal x4 -->
-  <CookMealSimpleBulk.label>TODO</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.label>Gătește o masă simplă x4</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
-  <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.description>Gătește 4 mese simple dintr-un singur ingredient.</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
-  <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.jobString>Gătește 4 mese simple.</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
-  <CookMealSurvival.label>TODO</CookMealSurvival.label>
+  <CookMealSurvival.label>Gătește o masă de supraviețuire la pachet</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvival.description>TODO</CookMealSurvival.description>
+  <CookMealSurvival.description>Pregătiți o masă de supraviețuire ambalată dintr-o combinație de ingrediente din carne și plante. O mare parte din ingrediente se irosesc în procesul de conservare.</CookMealSurvival.description>
   <!-- EN: Cooking survival meal. -->
-  <CookMealSurvival.jobString>TODO</CookMealSurvival.jobString>
+  <CookMealSurvival.jobString>Gătește masa de supraviețuire.</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
-  <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.label>Gătește mâncare de supraviețuire ambalată x4</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.description>Pregătește 4 mese de supraviețuire ambalate dintr-o combinație de ingrediente din carne și plante. O mare parte din ingrediente se irosesc în procesul de conservare.</CookMealSurvivalBulk.description>
   <!-- EN: Cooking 4 survival meals. -->
-  <CookMealSurvivalBulk.jobString>TODO</CookMealSurvivalBulk.jobString>
+  <CookMealSurvivalBulk.jobString>Gătește 4 mese de supraviețuire.</CookMealSurvivalBulk.jobString>
   
 </LanguageData>

@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: slave -->
-  <Slave.label>TODO</Slave.label>
+  <Slave.label>sclav</Slave.label>
   
   <!-- EN: stranger in black -->
-  <StrangerInBlack.label>TODO</StrangerInBlack.label>
+  <StrangerInBlack.label>străin în negru</StrangerInBlack.label>
   <!-- EN: woman in black -->
-  <StrangerInBlack.labelFemale>TODO</StrangerInBlack.labelFemale>
+  <StrangerInBlack.labelFemale>femeie în negru</StrangerInBlack.labelFemale>
   <!-- EN: man in black -->
-  <StrangerInBlack.labelMale>TODO</StrangerInBlack.labelMale>
+  <StrangerInBlack.labelMale>bărbat în negru</StrangerInBlack.labelMale>
   <!-- EN: strangers in black -->
-  <StrangerInBlack.labelPlural>TODO</StrangerInBlack.labelPlural>
+  <StrangerInBlack.labelPlural>Străini în negru</StrangerInBlack.labelPlural>
   
   <!-- EN: wild man -->
-  <WildMan.label>TODO</WildMan.label>
+  <WildMan.label>om sălbatic</WildMan.label>
   <!-- EN: wild woman -->
-  <WildMan.labelFemale>TODO</WildMan.labelFemale>
+  <WildMan.labelFemale>femeie sălbatică</WildMan.labelFemale>
   <!-- EN: wild women -->
-  <WildMan.labelFemalePlural>TODO</WildMan.labelFemalePlural>
+  <WildMan.labelFemalePlural>femei sălbatice</WildMan.labelFemalePlural>
   <!-- EN: wild men -->
-  <WildMan.labelPlural>TODO</WildMan.labelPlural>
+  <WildMan.labelPlural>bărbați sălbatici</WildMan.labelPlural>
   
 </LanguageData>

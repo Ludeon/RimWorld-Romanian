@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: bandit camp -->
-  <BanditCamp.label>TODO</BanditCamp.label>
+  <BanditCamp.label>tabără de bandiți</BanditCamp.label>
   <!-- EN: A bandit camp. -->
-  <BanditCamp.description>TODO</BanditCamp.description>
+  <BanditCamp.description>O tabără de bandiți.</BanditCamp.description>
   <!-- EN: Attacking {0} -->
-  <BanditCamp.approachingReportString>TODO</BanditCamp.approachingReportString>
+  <BanditCamp.approachingReportString>Atacă {0}</BanditCamp.approachingReportString>
   <!-- EN: Attack {0} -->
-  <BanditCamp.approachOrderString>TODO</BanditCamp.approachOrderString>
+  <BanditCamp.approachOrderString>Atacă {0}</BanditCamp.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->
-  <BanditCamp.arrivedLetter>TODO</BanditCamp.arrivedLetter>
+  <BanditCamp.arrivedLetter>Există un avanpost inamic în această zonă.</BanditCamp.arrivedLetter>
   
 </LanguageData>

@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: animus stone -->
-  <AnimusStone.label>TODO</AnimusStone.label>
+  <AnimusStone.label>piatră animus</AnimusStone.label>
   <!-- EN: An ancient jade stone marked with sacred tribal carvings. Tribal psycasters can focus on these stones during meditation to increase their psyfocus gain more than a typical nature shrine.\n\nDifferent tribal cultures tell different stories about these stones, but most agree that they were crafted by an ancient world spirit during a time of great power. Since they look like natural objects to unobservant outsiders, raiders will generally ignore them. -->
-  <AnimusStone.description>TODO</AnimusStone.description>
+  <AnimusStone.description>O piatră veche de jad marcată cu sculpturi tribale sacre. Psihologii tribali se pot concentra pe aceste pietre în timpul meditației pentru a-și crește câștigul de psihofocalizare mai mult decât un altar tipic al naturii.\n\nDiferite culturi tribale spun povești diferite despre aceste pietre, dar majoritatea sunt de acord că au fost lucrate de un spirit al lumii antice în timpul unei perioade de mare putere. Din moment ce arată ca niște obiecte naturale pentru străinii neobservatori, jefuitorii le vor ignora în general.</AnimusStone.description>
   
   <!-- EN: meditation spot -->
-  <MeditationSpot.label>TODO</MeditationSpot.label>
+  <MeditationSpot.label>loc de meditație</MeditationSpot.label>
   <!-- EN: Designates a spot for meditation. Psycasters can meditate here to gain psyfocus. If a focus object like a sculpture is nearby, the psycaster will be able to focus on it to boost their psyfocus gain. However, different people are able to use different focus objects. -->
-  <MeditationSpot.description>TODO</MeditationSpot.description>
+  <MeditationSpot.description>Desemnează un loc pentru meditație. Psycasterii pot medita aici pentru a se concentra psihic. Dacă un obiect de focalizare, cum ar fi o sculptură, se află în apropiere, psycasterul se va putea concentra pe el pentru a-și spori câștigul de psyfocus. Cu toate acestea, persoane diferite pot folosi obiecte de focalizare diferite.</MeditationSpot.description>
   
   <!-- EN: large nature shrine -->
-  <NatureShrine_Large.label>TODO</NatureShrine_Large.label>
+  <NatureShrine_Large.label>sanctuar natural mare</NatureShrine_Large.label>
   <!-- EN: A large shrine for honoring spiritual beings. Tribal psycasters can focus on this shrine while meditating to increase psyfocus gain. Nature shrines lose their power if they are close to artificial structures, so they are always built in nature. Since they look like natural objects to unobservant outsiders, raiders will generally ignore them. -->
-  <NatureShrine_Large.description>TODO</NatureShrine_Large.description>
+  <NatureShrine_Large.description>Un altar mare pentru a onora ființele spirituale. Psycasterii tribali se pot concentra pe acest altar în timp ce meditează pentru a crește câștigul de psyfocus. Sanctuarele naturii își pierd puterea dacă se află în apropierea unor structuri artificiale, așa că sunt construite întotdeauna în natură. Deoarece arată ca niște obiecte naturale pentru străinii neobservatori, jefuitorii le vor ignora în general.</NatureShrine_Large.description>
   
   <!-- EN: small nature shrine -->
-  <NatureShrine_Small.label>TODO</NatureShrine_Small.label>
+  <NatureShrine_Small.label>sanctuar natural mic</NatureShrine_Small.label>
   <!-- EN: A small shrine for honoring spiritual beings. Tribal psycasters can focus on this shrine while meditating to increase psyfocus gain. Nature shrines lose their power if they are close to artificial structures, so they are always built in nature. Since they look like natural objects to unobservant outsiders, raiders will generally ignore them. -->
-  <NatureShrine_Small.description>TODO</NatureShrine_Small.description>
+  <NatureShrine_Small.description>Un mic altar pentru a onora ființele spirituale. Psycasterii tribali se pot concentra asupra acestui altar în timp ce meditează pentru a crește câștigul de psyfocus. Sanctuarele naturii își pierd puterea dacă se află în apropierea unor structuri artificiale, așa că sunt construite întotdeauna în natură. Deoarece arată ca niște obiecte naturale pentru străinii neobservatori, jefuitorii le vor ignora în general.</NatureShrine_Small.description>
   
   <!-- EN: ship landing beacon -->
-  <ShipLandingBeacon.label>TODO</ShipLandingBeacon.label>
+  <ShipLandingBeacon.label>baliză de aterizare a navelor</ShipLandingBeacon.label>
   <!-- EN: Marks the corner of a landing area. Four of these placed at the corners of a clear area (minimum 9x9) create a landing pad. Spacecraft usually land on pads if possible. -->
-  <ShipLandingBeacon.description>TODO</ShipLandingBeacon.description>
+  <ShipLandingBeacon.description>Marchează colțul unei zone de aterizare. Patru dintre acestea plasate la colțurile unei zone libere (minim 9x9) creează o platformă de aterizare. Navele spațiale aterizează de obicei pe platforme, dacă este posibil.</ShipLandingBeacon.description>
   
 </LanguageData>

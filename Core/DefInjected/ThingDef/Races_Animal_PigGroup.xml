@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chinchilla -->
+  <Chinchilla.label>chinchilla</Chinchilla.label>
+  <!-- EN: A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
+  <Chinchilla.description>O rozătoare mică și agilă. Blana sa este mai moale decât aproape orice altceva din univers, ceea ce o face foarte valoroasă ca bun comercial.</Chinchilla.description>
+  <!-- EN: left claw -->
+  <Chinchilla.tools.left_claw.label>gheara stângă</Chinchilla.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Chinchilla.tools.right_claw.label>gheara dreaptă</Chinchilla.tools.right_claw.label>
+  <!-- EN: head -->
+  <Chinchilla.tools.head.label>cap</Chinchilla.tools.head.label>
+  
+  <!-- EN: deer -->
+  <Deer.label>cerb</Deer.label>
+  <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
+  <Deer.description>Un erbivor de talie medie, care preferă să trăiască în păduri și câmpii mixte. Cerbii sunt foarte rapizi.</Deer.description>
+  <!-- EN: venison -->
+  <Deer.race.meatLabel>carne de vânat</Deer.race.meatLabel>
+  <!-- EN: left hoof -->
+  <Deer.tools.left_hoof.label>copita stângă</Deer.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Deer.tools.right_hoof.label>copita dreaptă</Deer.tools.right_hoof.label>
+  <!-- EN: teeth -->
+  <Deer.tools.teeth.label>dinți</Deer.tools.teeth.label>
+  <!-- EN: head -->
+  <Deer.tools.head.label>cap</Deer.tools.head.label>
+  
+  <!-- EN: gazelle -->
+  <Gazelle.label>gazelă</Gazelle.label>
+  <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
+  <Gazelle.description>O antilopă mică, extrem de rapidă, cunoscută pentru saltul său uimitor de lung.</Gazelle.description>
+  <!-- EN: left hoof -->
+  <Gazelle.tools.left_hoof.label>copita stângă</Gazelle.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Gazelle.tools.right_hoof.label>copita dreaptă</Gazelle.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Gazelle.tools.head.label>cap</Gazelle.tools.head.label>
+  
+  <!-- EN: ibex -->
+  <Ibex.label>ibex</Ibex.label>
+  <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
+  <Ibex.description>Strămoșul sălbatic al caprei domestice. Ibexul trăiește pe un teritoriu marginal, unde majoritatea antilopelor nu ar putea supraviețui, mâncând licheni și plante rare de munte. Sunt renumiți pentru că țopăie cu dexteritate peste stânci goale - și pentru atacul lor violent cu lovituri de berbec.</Ibex.description>
+  <!-- EN: left hoof -->
+  <Ibex.tools.left_hoof.label>copita stângă</Ibex.tools.left_hoof.label>
+  <!-- EN: right hoof -->
+  <Ibex.tools.right_hoof.label>copita dreaptă</Ibex.tools.right_hoof.label>
+  <!-- EN: head -->
+  <Ibex.tools.head.label>cap</Ibex.tools.head.label>
+  
+  <!-- EN: pig -->
+  <Pig.label>porc</Pig.label>
+  <!-- EN: Pigs were one of the first animals domesticated by humans. They are an efficient source of meat, and are easy to feed because they will eat almost anything. -->
+  <Pig.description>Porcul a fost unul dintre primele animale domesticite de către oameni. Este crescut în mod obișnuit pentru carne și este ușor de hrănit datorită regimului său omnivor. Deși porcii sunt egoiști din fire, pot fi antrenați în sarcini complexe.</Pig.description>
+  <!-- EN: pork -->
+  <Pig.race.meatLabel>carne de porc</Pig.race.meatLabel>
+  <!-- EN: head -->
+  <Pig.tools.head.label>cap</Pig.tools.head.label>
+  
+  <!-- EN: wild boar -->
+  <WildBoar.label>mistreț sălbatic</WildBoar.label>
+  <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
+  <WildBoar.description>Acest omnivor păros este descendent al porcilor scăpați și a evoluat pentru a trăi în sălbăticie.\n\nCu colții săi îl fac un luptător mai bun decât verii săi domesticiți porci. Din păcate, este prea indisciplinat pentru a fi antrenat în cele mai complexe sarcini.</WildBoar.description>
+  <!-- EN: tusk -->
+  <WildBoar.tools.tusk.label>colț</WildBoar.tools.tusk.label>
+  <!-- EN: head -->
+  <WildBoar.tools.head.label>head</WildBoar.tools.head.label>
+  
+</LanguageData>

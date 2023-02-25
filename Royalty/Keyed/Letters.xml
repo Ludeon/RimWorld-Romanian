@@ -3,181 +3,199 @@
 
   <!-- Royal titles -->
   <!-- EN: {TITLE} title lost: {PAWN_labelShort} -->
-  <LetterLabelLostRoyalTitle>TODO</LetterLabelLostRoyalTitle>
+  <LetterLabelLostRoyalTitle>titlul {TITLE} pierdut: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
   <!-- EN: {TITLE} title gained: {PAWN_labelShort} -->
-  <LetterLabelGainedRoyalTitle>TODO</LetterLabelGainedRoyalTitle>
+  <LetterLabelGainedRoyalTitle>titlul {TITLE} obținut: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
 
   <!-- EN: Permit points awarded: {0}. -->
-  <PermitPointsAwarded>TODO</PermitPointsAwarded>
+  <PermitPointsAwarded>Punctele de permis acordate: {0}.</PermitPointsAwarded>
 
   <!-- EN: This title requires apparel of {1} quality or better. -->
-  <LetterRoyalTitleApparelQualityRequirement>TODO</LetterRoyalTitleApparelQualityRequirement>
+  <LetterRoyalTitleApparelQualityRequirement>Acest titlu necesită îmbrăcăminte de calitate {1} sau mai bună.</LetterRoyalTitleApparelQualityRequirement>
   <!-- EN: This title requires apparel appropriate to {PAWN_possessive} title: -->
-  <LetterRoyalTitleApparelRequirement>TODO</LetterRoyalTitleApparelRequirement>
+  <LetterRoyalTitleApparelRequirement>Acest titlu necesită îmbrăcăminte corespunzătoare titlului {PAWN_possessive}:</LetterRoyalTitleApparelRequirement>
   <!-- EN: {PAWN_possessive} expectations will never be less than {1}. -->
-  <LetterRoyalTitleExpectation>TODO</LetterRoyalTitleExpectation>
+  <LetterRoyalTitleExpectation>Așteptările {PAWN_possessive} nu vor fi niciodată mai mici de {1}.</LetterRoyalTitleExpectation>
   
   <!-- EN: Because {PAWN_labelShort} is {1}, {PAWN_pronoun} will demand that this title's privileges be fully respected. {PAWN_pronoun} may refuse to do certain work types, eat low-class food and will issue decrees. -->
-  <LetterRoyalTitleConceitedTrait>TODO</LetterRoyalTitleConceitedTrait>
+  <LetterRoyalTitleConceitedTrait>Pentru că {PAWN_labelShort} este {1}, {PAWN_pronoun} va cere ca privilegiile acestui titlu să fie pe deplin respectate. {PAWN_pronoun} poate refuza să facă anumite tipuri de muncă, va mânca mâncare de clasă inferioară și va emite decrete.</LetterRoyalTitleConceitedTrait>
 
   <!-- EN: {PAWN_labelShort} received the title of {TITLE} from {FACTION_name}! -->
-  <LetterGainedRoyalTitle>TODO</LetterGainedRoyalTitle>
+  <LetterGainedRoyalTitle>{PAWN_labelShort} a primit titlul de {TITLE} de la {FACTION_name}!</LetterGainedRoyalTitle>
   <!-- EN: {PAWN_labelShort} no longer holds the title of {TITLE} with {FACTION_name}. -->
-  <LetterLostRoyalTitle>TODO</LetterLostRoyalTitle>
+  <LetterLostRoyalTitle>{PAWN_labelShort} nu mai deține titlul de {TITLE} cu {FACTION_name}.</LetterLostRoyalTitle>
   <!-- EN: Title rewards -->
-  <LetterLabelRewardsForNewTitle>TODO</LetterLabelRewardsForNewTitle>
+  <LetterLabelRewardsForNewTitle>Recompense pentru titlu</LetterLabelRewardsForNewTitle>
   <!-- EN: To honor {PAWN_labelShort} advancing to the title of {TITLE}, {FACTION_name} has sent {PAWN_objective} the following reward(s): -->
-  <LetterRewardsForNewTitle>TODO</LetterRewardsForNewTitle>
+  <LetterRewardsForNewTitle>În onoarea avansării lui {PAWN_labelShort} la titlul de {TITLE}, {FACTION_name} i-a trimis {PAWN_objective} următoarea (următoarele) recompensă(e):</LetterRewardsForNewTitle>
   <!-- EN: Rewards have arrived to your colony via transport pods. -->
-  <LetterRewardsForNewTitleDeliveryBase>TODO</LetterRewardsForNewTitleDeliveryBase>
+  <LetterRewardsForNewTitleDeliveryBase>Recompensele au ajuns în colonia ta prin intermediul capsulelor de transport.</LetterRewardsForNewTitleDeliveryBase>
   <!-- EN: Rewards were delivered directly to {PAWN_labelShort}'s inventory. -->
-  <LetterRewardsForNewTitleDeliveryDirect>TODO</LetterRewardsForNewTitleDeliveryDirect>
+  <LetterRewardsForNewTitleDeliveryDirect>Recompensele au fost livrate direct în inventarul lui {PAWN_labelShort}.</LetterRewardsForNewTitleDeliveryDirect>
 
   <!-- EN: {PAWN_pronoun} has these permissions: -->
-  <LetterRoyalTitlePermits>TODO</LetterRoyalTitlePermits>
+  <LetterRoyalTitlePermits>{PAWN_pronoun} are aceste permisiuni:</LetterRoyalTitlePermits>
   <!-- EN: {PAWN_pronoun} lost these permissions: -->
-  <LetterRoyalTitleLostPermits>TODO</LetterRoyalTitleLostPermits>
+  <LetterRoyalTitleLostPermits>{PAWN_pronoun} a pierdut aceste permisiuni:</LetterRoyalTitleLostPermits>
 
   <!-- EN: {PAWN_pronoun} is not willing to do these work types:\n{1} -->
-  <LetterRoyalTitleDisabledWorkTag>TODO</LetterRoyalTitleDisabledWorkTag>
+  <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} nu este dispus să facă aceste tipuri de muncă:\n{1}</LetterRoyalTitleDisabledWorkTag>
 
   <!-- EN: {PAWN_pronoun} can now use this recreation: -->
-  <LetterRoyalTitleEnabledJoyKind>TODO</LetterRoyalTitleEnabledJoyKind>
+  <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun} poate folosi acum această recreere:</LetterRoyalTitleEnabledJoyKind>
   <!-- EN: This title forbids using this recreation: -->
-  <LetterRoyalTitleDisabledJoyKind>TODO</LetterRoyalTitleDisabledJoyKind>
+  <LetterRoyalTitleDisabledJoyKind>Acest titlu interzice utilizarea acestei recreații:</LetterRoyalTitleDisabledJoyKind>
 
   <!-- EN: {PAWN_pronoun} is allowed to use these implants:{1} -->
-  <LetterRoyalTitleAllowedImplants>TODO</LetterRoyalTitleAllowedImplants>
+  <LetterRoyalTitleAllowedImplants>{PAWN_pronoun} are voie să folosească aceste implanturi:{1}</LetterRoyalTitleAllowedImplants>
   <!-- EN: {PAWN_pronoun} is no longer allowed to use these implants:{1} -->
-  <LetterRoyalTitleImplantsMustBeRemoved>TODO</LetterRoyalTitleImplantsMustBeRemoved>
+  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} nu mai are voie să folosească aceste implanturi:{1}</LetterRoyalTitleImplantsMustBeRemoved>
   <!-- EN: The implants must be extracted within a five-day grace period to avoid diplomatic consequences. -->
-  <LetterRoyalTitleImplantGracePeriod>TODO</LetterRoyalTitleImplantGracePeriod>
+  <LetterRoyalTitleImplantGracePeriod>Implanturile trebuie să fie extrase în termen de cinci zile de grație pentru a evita consecințele diplomatice.</LetterRoyalTitleImplantGracePeriod>
   <!-- EN: {PAWN_pronoun} can now give speeches from the throne. If it goes well, listeners will feel inspired. If it goes poorly, the speech will do social damage. The outcome depends on {PAWN_labelShort}'s social abilities. -->
-  <LetterRoyalTitleSpeechAbilityGained>TODO</LetterRoyalTitleSpeechAbilityGained>
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun} poate acum să țină discursuri de pe tron. Dacă va merge bine, ascultătorii se vor simți inspirați. Dacă merge prost, discursul va face pagube sociale. Rezultatul depinde de abilitățile sociale ale lui {PAWN_labelShort}.</LetterRoyalTitleSpeechAbilityGained>
   <!-- EN: This title requires a throneroom that meets these requirements:{1} -->
-  <LetterRoyalTitleThroneroomRequirements>TODO</LetterRoyalTitleThroneroomRequirements>
+  <LetterRoyalTitleThroneroomRequirements>Acest titlu are nevoie de o cameră de tron care să îndeplinească aceste cerințe:{1}</LetterRoyalTitleThroneroomRequirements>
   <!-- EN: This title requires a bedroom that meets these requirements:{1} -->
-  <LetterRoyalTitleBedroomRequirements>TODO</LetterRoyalTitleBedroomRequirements>
+  <LetterRoyalTitleBedroomRequirements>Acest titlu cere un dormitor care să îndeplinească aceste cerințe:{1}</LetterRoyalTitleBedroomRequirements>
   <!-- EN: This title says that {PAWN_pronoun} should only eat these foods:{1} -->
-  <LetterRoyalTitleFoodRequirements>TODO</LetterRoyalTitleFoodRequirements>
+  <LetterRoyalTitleFoodRequirements>Acest titlu spune că {PAWN_pronoun} trebuie să mănânce doar aceste alimente:{1}</LetterRoyalTitleFoodRequirements>
 
   <!-- EN: {PAWN_pronoun} will receive the following items via transport pod:{1} -->
-  <LetterRoyalTitleRewardGranted>TODO</LetterRoyalTitleRewardGranted>
+  <LetterRoyalTitleRewardGranted>{PAWN_pronoun} va primi următoarele obiecte prin intermediul capsulei de transport:{1}</LetterRoyalTitleRewardGranted>
   <!-- EN: {PAWN_labelShort} has gained {1} {FACTION_royalFavorLabel} from {FACTION_name}. -->
-  <PeaceTalksRoyalFavorGain>TODO</PeaceTalksRoyalFavorGain>
+  <PeaceTalksRoyalFavorGain>{PAWN_labelShort} a câștigat {1} {FACTION_royalFavorLabel} de la {FACTION_name}.</PeaceTalksRoyalFavorGain>
 
   <!-- Royal heritage-->
   <!-- EN: If {PAWN_pronoun} dies, this title will be inherited by {HEIR_nameFull}. -->
-  <LetterRoyalTitleHeir>TODO</LetterRoyalTitleHeir>
+  <LetterRoyalTitleHeir>În cazul în care {PAWN_pronoun} moare, acest titlu va fi moștenit de {HEIR_nameFull}.</LetterRoyalTitleHeir>
   <!-- EN: If {PAWN_pronoun} dies, no one will inherit this title. -->
-  <LetterRoyalTitleNoHeir>TODO</LetterRoyalTitleNoHeir>
+  <LetterRoyalTitleNoHeir>Dacă {PAWN_pronoun} moare, nimeni nu va moșteni acest titlu.</LetterRoyalTitleNoHeir>
   <!-- EN: {PAWN_nameFull} is a member of {FACTION_name}. -->
-  <LetterRoyalTitleHeirFactionWarning>TODO</LetterRoyalTitleHeirFactionWarning>
+  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull} este un membru al {FACTION_name}.</LetterRoyalTitleHeirFactionWarning>
   <!-- EN: A new heir can be chosen by contacting {FACTION_name} through a comms console. -->
-  <LetterRoyalTitleChangingHeir>TODO</LetterRoyalTitleChangingHeir>
+  <LetterRoyalTitleChangingHeir>Un nou moștenitor poate fi ales contactând {FACTION_name} prin intermediul unei console de comunicații.</LetterRoyalTitleChangingHeir>
   <!-- EN: Heir lost -->
-  <LetterTitleHeirLostLabel>TODO</LetterTitleHeirLostLabel>
+  <LetterTitleHeirLostLabel>Moștenitor pierdut</LetterTitleHeirLostLabel>
   <!-- EN: {HEIR_nameFull} has died, leaving {HOLDER_labelShort} with no heir for the title received from {FACTION_name}. You can contact {FACTION_name} through a comms console to designate a new heir. -->
-  <LetterTitleHeirLost>TODO</LetterTitleHeirLost>
+  <LetterTitleHeirLost>{HEIR_nameFull} a decedat, lăsându-l pe {HOLDER_labelShort} fără moștenitor pentru titlul primit de la {FACTION_name}. Puteți contacta {FACTION_name} prin intermediul unei console de comunicații pentru a desemna un nou moștenitor.</LetterTitleHeirLost>
   <!-- EN: The title of {TITLE} cannot be inherited. -->
-  <LetterRoyalTitleCantBeInherited>TODO</LetterRoyalTitleCantBeInherited>
+  <LetterRoyalTitleCantBeInherited>Titlul de {TITLE} nu poate fi moștenit.</LetterRoyalTitleCantBeInherited>
 
 
   <!-- EN: Title inheritance -->
-  <LetterTitleInheritance>TODO</LetterTitleInheritance>
+  <LetterTitleInheritance>Moștenirea titlurilor</LetterTitleInheritance>
   <!-- EN: Since {PAWN_nameFull} died, {PAWN_possessive} titles will be transferred to {PAWN_possessive} heirs. -->
-  <LetterTitleInheritance_Base>TODO</LetterTitleInheritance_Base>
+  <LetterTitleInheritance_Base>Deoarece {PAWN_nameFull} a murit, titlurile {PAWN_possessive} vor fi transferate moștenitorilor {PAWN_possessive}.</LetterTitleInheritance_Base>
   <!-- EN: {PAWN_possessive} {TITLE} title was inherited by {HEIR_nameFull}, according to the succession laws of {FACTION_name}. It will replace {HEIR_possessive} {REPLACEDTITLE} title upon completion of a bestowing ceremony. -->
-  <LetterTitleInheritance_AsReplacement>TODO</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_AsReplacement>Titlul {PAWN_possessive} de {TITLE} a fost moștenit de {HEIR_nameFull}, în conformitate cu legile de succesiune ale {FACTION_name}. Acesta va înlocui {HEIR_possessive} titlul {REPLACEDTITLE} la încheierea unei ceremonii de acordare.</LetterTitleInheritance_AsReplacement>
   <!-- EN: {PAWN_possessive} {TITLE} title would have been inherited by {HEIR_nameFull} according to the succession laws of {FACTION_name}, but {HEIR_pronoun} already had a {HIGHERTITLE} title. -->
-  <LetterTitleInheritance_NoEffectHigherTitle>TODO</LetterTitleInheritance_NoEffectHigherTitle>
+  <LetterTitleInheritance_NoEffectHigherTitle>Titlul {PAWN_possessive} de {TITLE} ar fi fost moștenit de către {HEIR_nameFull} în conformitate cu legile succesorale ale {FACTION_name}, dar {HEIR_pronoun} avea deja un titlu {HIGHERTITLE}.</LetterTitleInheritance_NoEffectHigherTitle>
   <!-- EN: {PAWN_possessive} {TITLE} title will be inherited by {HEIR_nameFull} upon completion of a bestowing ceremony, according to the succession laws of {FACTION_name}. -->
-  <LetterTitleInheritance_WasInherited>TODO</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_WasInherited>Titlul {PAWN_possessive} de {TITLE} va fi moștenit de către {HEIR_nameFull} la finalizarea unei ceremonii de acordare, în conformitate cu legile de succesiune din {FACTION_name}.</LetterTitleInheritance_WasInherited>
   <!-- EN: {PAWN_possessive} {TITLE} title was not inherited by anyone, since {PAWN_pronoun} had no designated heir for this title. -->
-  <LetterTitleInheritance_NoHeirFound>TODO</LetterTitleInheritance_NoHeirFound>
+  <LetterTitleInheritance_NoHeirFound>Titlul {PAWN_possessive} de {TITLE} nu a fost moștenit de nimeni, deoarece {PAWN_pronoun} nu a avut un moștenitor desemnat pentru acest titlu.</LetterTitleInheritance_NoHeirFound>
 
   <!-- Royal implant violations -->
   <!-- EN: Lawbreaker: {PAWN_labelShort} -->
-  <LetterLawViolationDetectedLabel>TODO</LetterLawViolationDetectedLabel>
+  <LetterLawViolationDetectedLabel>Încălcător al legii: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
   <!-- EN: {FACTION_name} has detected {PAWN_labelShort}'s illegal use of: {CULPRIT} (detection chance {CHANCE}).\n\nAccording to the laws of {FACTION_name}, only those who hold the title of {TITLE} are allowed to use {CULPRIT}.\n\nAs a penalty, your faction relations have fallen by {GOODWILL}. -->
-  <LetterLawViolationDetectedForbiddenThingUse>TODO</LetterLawViolationDetectedForbiddenThingUse>
+  <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name} a detectat utilizarea ilegală de către {PAWN_labelShort} a: {CULPRIT} (șansa de detectare {CHANCE}).\n\nConform legilor {FACTION_name}, numai cei care dețin titlul de {TITLE} au voie să folosească {CULPRIT}.\n\nCa pedeapsă, relațiile cu facțiunea ta au scăzut cu {GOODWILL}.</LetterLawViolationDetectedForbiddenThingUse>
 
   <!-- Throne Speech -->
   <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
-  <LetterFinishedSpeech>TODO</LetterFinishedSpeech>
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} a terminat discursul {ORGANIZER_possessive}.</LetterFinishedSpeech>
   <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
-  <LetterTerribleSpeech>TODO</LetterTerribleSpeech>
+  <LetterTerribleSpeech>A fost cu adevărat atroce - ezitant, plin de glume ciudate și povești deprimante.</LetterTerribleSpeech>
   <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
-  <LetterUninspiringSpeech>TODO</LetterUninspiringSpeech>
+  <LetterUninspiringSpeech>A fost neinspirat - lipsit de originalitate, monoton și lipsit de orice sentiment de pasiune.</LetterUninspiringSpeech>
   <!-- EN: It was encouraging and well-delivered. -->
-  <LetterEncouragingSpeech>TODO</LetterEncouragingSpeech>
+  <LetterEncouragingSpeech>A fost încurajator și bine ținut.</LetterEncouragingSpeech>
   <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
-  <LetterInspirationalSpeech>TODO</LetterInspirationalSpeech>
+  <LetterInspirationalSpeech>A fost remarcabil de inspirat, plin de intensitate și de scop.</LetterInspirationalSpeech>
   <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
-  <LetterSpeechInspiredListeners>TODO</LetterSpeechInspiredListeners>
+  <LetterSpeechInspiredListeners>Următoarele persoane au fost deosebit de emoționate de discurs și sunt acum inspirate:</LetterSpeechInspiredListeners>
   <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterSpeechInspiration>TODO</LetterSpeechInspiration>
+  <LetterSpeechInspiration>Datorită discursului remarcabil al lui {SPEAKER_nameIndef}, {PAWN_nameIndef} a experimentat o inspirație!</LetterSpeechInspiration>
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
-  <LetterSpeechInterrupted>TODO</LetterSpeechInterrupted>
-  <!-- EN: {ORGANIZER_bestRoyalTitleDef}'s speech was cancelled before reaching 50% completion. It had no effect. -->
-  <LetterSpeechCancelled>TODO</LetterSpeechCancelled>
+  <LetterSpeechInterrupted>Deoarece discursul a fost întrerupt după ce a fost finalizat doar {0}, nu a fost la fel de eficient.</LetterSpeechInterrupted>
+  <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
+  <LetterSpeechCancelled>Discursul lui {ORGANIZER_bestRoyalTitleDef} a fost anulat înainte de a ajunge la 50% de finalizare. Acesta nu a avut niciun efect.</LetterSpeechCancelled>
   <!-- EN: Speech cancelled -->
-  <LetterLabelSpeechCancelled>TODO</LetterLabelSpeechCancelled>
+  <LetterLabelSpeechCancelled>Discurs anulat</LetterLabelSpeechCancelled>
 
   <!-- Wild decree mental break -->
   <!-- EN: Wild decree -->
-  <WildDecree>TODO</WildDecree>
+  <WildDecree>decret sălbatic</WildDecree>
   <!-- EN: {0_nameIndef} issues decree -->
-  <LetterLabelRandomDecree>TODO</LetterLabelRandomDecree>
+  <LetterLabelRandomDecree>{0_nameIndef} emite un decret</LetterLabelRandomDecree>
   <!-- EN: {0_nameIndef}, in an attempt to release {0_possessive} stress, has issued a wild royal decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterDecreeMentalBreak>TODO</LetterDecreeMentalBreak>
+  <LetterDecreeMentalBreak>{0_nameIndef}, în încercarea de a elibera {0_possessive} de stres, a emis un decret regal sălbatic și cere acum ca acesta să fie pus în aplicare.\n\nDacă nu este executat la timp, {0_nameIndef} va deveni foarte nefericit.</LetterDecreeMentalBreak>
   <!-- EN: {0_nameIndef}, in order to affirm {0_possessive} title of {0_bestRoyalTitleIndef}, has issued a decree and is now demanding that it be carried out.
     \nIf it isn't carried out in good time, {0_nameIndef} will become very unhappy. -->
-  <LetterRandomDecree>TODO</LetterRandomDecree>
+  <LetterRandomDecree>{0_nameIndef}, pentru a afirma titlul {0_possessive} de {0_bestRoyalTitleIndef}, a emis un decret și cere acum ca acesta să fie îndeplinit.\n\nDacă nu este executat la timp, {0_nameIndef} va fi foarte nemulțumit.</LetterRandomDecree>
   <!-- EN: The decree is titled "{0}". -->
-  <LetterDecree_Quest>TODO</LetterDecree_Quest>
+  <LetterDecree_Quest>Decretul se numește "{0}".</LetterDecree_Quest>
   
   <!-- Lent colonist died -->
   <!-- EN: {PAWN_nameDef} was lent to {FACTION}. They will return the body of {PAWN_nameDef} shortly. -->
-  <LentColonistDied>TODO</LentColonistDied>  
+  <LentColonistDied>{PAWN_nameDef} a fost împrumutat la {FACTION}. Aceștia vor returna corpul lui {PAWN_nameDef} în scurt timp.</LentColonistDied>  
 
   <!-- Psylink -->
   <!-- EN: Psylink gained -->
-  <LetterLabelPsylinkLevelGained>TODO</LetterLabelPsylinkLevelGained>
+  <LetterLabelPsylinkLevelGained>Psylink câștigat</LetterLabelPsylinkLevelGained>
   <!-- EN: {USER_labelShort} has gained {USER_possessive} first level of psylink! {USER_pronoun} is now a psycaster.\n\nTo use psychic powers, {USER_labelShort} must build up psyfocus through meditation. The effectiveness of this meditation is increased if the person can focus on a specific object while meditating.\n\nDifferent people are able to focus on different objects. This depend on the person's backstories, traits, and titles. For example:\n\n- Psycasters with royal titles meditate on their thrones.\n- Psycasters with tribal childhoods meditate to anima trees and nature shrines.\n- Ascetic psycasters meditate to blank walls.\n- Psychopathic psycasters meditate to graves, ideally with a loved one inside.\n\nYou can see someone's meditation focus types by looking at their info card with the 'i' button. -->
-  <LetterPsylinkLevelGained_First>TODO</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_First>{USER_labelShort} a câștigat {USER_possessive} primul nivel de psylink! {USER_pronoun} este acum un psycaster.\n\nPentru a folosi puterile psihice, {USER_labelShort} trebuie să acumuleze psyfocus prin meditație. Eficacitatea acestei meditații este crescută dacă persoana se poate concentra pe un obiect specific în timp ce meditează.\n\nDiferite persoane sunt capabile să se concentreze pe obiecte diferite. Acest lucru depinde de trecutul, trăsăturile și titlurile persoanei. De exemplu:\n\n- Psycasterii cu titluri regale meditează pe tronurile lor.\n- Psycasterii cu copilării tribale meditează la copacii anima și la sanctuarele din natură.\n- Psycasterii ascetici meditează la pereții goi.\n- Psycasterii psihopați meditează la morminte, în mod ideal cu o persoană iubită înăuntru.\n\n- Poți vedea tipurile de meditație ale cuiva care se concentrează uitându-te la fișa lor de informații cu butonul "i".</LetterPsylinkLevelGained_First>
   <!-- EN: {USER_labelShort} has gained a new level of psylink! {USER_pronoun} can now use psychic powers of that higher level, but {USER_pronoun} needs to learn them first. -->
-  <LetterPsylinkLevelGained_NotFirst>TODO</LetterPsylinkLevelGained_NotFirst>
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort} a câștigat un nou nivel de psylink! {USER_pronoun} poate folosi acum puterile psihice de acest nivel superior, dar {USER_pronoun} trebuie să le învețe mai întâi.</LetterPsylinkLevelGained_NotFirst>
   <!-- EN: Upon gaining the new psylink level, {USER_labelShort} automatically learned these psychic powers: {2} -->
-  <LetterPsylinkLevelGained_PsycastLearned>TODO</LetterPsylinkLevelGained_PsycastLearned>
+  <LetterPsylinkLevelGained_PsycastLearned>La câștigarea noului nivel de psylink, {USER_labelShort} a învățat automat aceste puteri psihice: {2}</LetterPsylinkLevelGained_PsycastLearned>
   
   <!-- Abilities -->
   <!-- EN: Thanks to {CASTER_nameIndef}'s psychic suggestion, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterPsychicInspiration>TODO</LetterPsychicInspiration>
+  <LetterPsychicInspiration>Mulțumită sugestiei psihice a lui {CASTER_nameIndef}, {PAWN_nameIndef} a resimțit o inspirație!</LetterPsychicInspiration>
 
   <!-- Join Offer -->
   <!-- EN: Join offer: {PAWN_nameDef} -->
-  <LetterJoinOfferLabel>TODO</LetterJoinOfferLabel>
+  <LetterJoinOfferLabel>Ofertă de alăturare: {PAWN_nameDef}</LetterJoinOfferLabel>
   <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
-  <LetterJoinOfferTitle>TODO</LetterJoinOfferTitle>
+  <LetterJoinOfferTitle>{PAWN_nameDef} dorește să se alăture facțiunii voastre.</LetterJoinOfferTitle>
   <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
-  <LetterJoinOfferText>TODO</LetterJoinOfferText>
+  <LetterJoinOfferText>{PAWN_nameDef} crede că {PAWN_pronoun} este fericit la {MAP_definite}. {PAWN_pronoun} dorește să vi se alăture permanent.</LetterJoinOfferText>
   <!-- EN: Accept -->
-  <LetterJoinOfferAccept>TODO</LetterJoinOfferAccept>
+  <LetterJoinOfferAccept>Acceptă</LetterJoinOfferAccept>
 
   <!-- EN: Bestowing ceremony expired -->
-  <LetterLabelBestowingCeremonyExpired>TODO</LetterLabelBestowingCeremonyExpired>
+  <LetterLabelBestowingCeremonyExpired>Ceremonia de acordare a distincțiilor a expirat</LetterLabelBestowingCeremonyExpired>
   <!-- EN: {TARGET_definite} did not show up to the bestowing ceremony. The ceremony has been cancelled. -->
-  <LetterTextBestowingCeremonyExpired>TODO</LetterTextBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite} nu s-a prezentat la ceremonia de acordare a distincțiilor. Ceremonia a fost anulată.</LetterTextBestowingCeremonyExpired>
+
+  <!-- EN: {TARGET_definite}'s title changed -->
+  <LetterLabelBestowingCeremonyTitleUpdated>Titlul lui {TARGET_definite} a fost schimbat.</LetterLabelBestowingCeremonyTitleUpdated>
+  <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} a dobândit un nou titlu de când a fost programată ceremonia de acordare a distincțiilor. Pentru ca ceremonia de acordare să se potrivească cu noul titlu, o altă ceremonie va fi programată în curând.\n\nNÎn noua ceremonie de acordare va include recompensele psylink pentru toate titlurile care nu au fost încă acordate.</LetterTextBestowingCeremonyTitleUpdated>
+  
+  <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort} a primit {1} onoare în semn de respect din partea {FACTION_name}, pentru că a adunat {3} spectatori.</LetterPartBestowingExtraHonor>
+  <!-- EN: {PAWN_labelShort} received no extra honor since there weren't many spectators. -->
+  <LetterPartNoExtraHonor>{PAWN_labelShort} nu a primit nicio onoare în plus, deoarece nu au fost mulți spectatori.</LetterPartNoExtraHonor>
+  <!-- EN: All viewers of the ceremony received a mood bonus. -->
+  <LetterPartMoodBonus>Toți spectatorii ceremoniei au primit un bonus de dispoziție.</LetterPartMoodBonus>
 
   <!-- EN: Who should be credited with {0} for defeating the bandit camp? -->
-  <LetterTextHonorAward_BanditCamp>TODO</LetterTextHonorAward_BanditCamp>
+  <LetterTextHonorAward_BanditCamp>Cine ar trebui să fie creditat cu {0} pentru că a învins tabăra de bandiți?</LetterTextHonorAward_BanditCamp>
 
   <!-- Shuttle crash -->
   <!-- EN: Shuttle crashed -->
-  <LetterLabelShuttleCrashed>TODO</LetterLabelShuttleCrashed>
+  <LetterLabelShuttleCrashed>Naveta s-a prăbușit</LetterLabelShuttleCrashed>
   <!-- EN: A shuttle has crashed nearby -->
-  <LetterTextShuttleCrashed>TODO</LetterTextShuttleCrashed>
+  <LetterTextShuttleCrashed>O navetă s-a prăbușit în apropiere</LetterTextShuttleCrashed>
+
+  <!-- Wanderer joins -->
+  <!-- EN: Transport pod crash: {0_nameDef} -->
+  <LetterLabelWandererJoinsAbasia>Accident în naveta de transport: {0_nameDef}</LetterLabelWandererJoinsAbasia>
+  <!-- EN: A {0_title} named {0_nameDef} is crashing in a transport pod nearby.\n\n{0_nameDef} is suffering from {1_label} and will be unable to walk.\n\n{0_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {1_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n{0_pronoun} is willing to contribute once {0_pronoun} has recovered, but will not leave voluntarily. If you don't want {0_nameDef}, you can banish {0_objective}, sell {0_objective} into slavery or leave {0_objective} to die. However, your other colonists may find this disturbing. -->
+  <LetterTextWandererJoinsAbasia>TODO</LetterTextWandererJoinsAbasia>
 
 </LanguageData>

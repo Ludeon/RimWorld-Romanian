@@ -2,208 +2,210 @@
 <LanguageData>
   
   <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
-  <AcceptStartingPawns.text>TODO</AcceptStartingPawns.text>
+  <AcceptStartingPawns.text>Grozav!\n\nReordonați și randomizați mai mult dacă doriți - dar nu încercați să obțineți caracterele perfecte. Toată lumea are defecte, iar asta face povestea mai interesantă!\n\nPuteți, de asemenea, redenumi personajele dând click pe numele lor.\n\nClick pe START când sunteți gata.</AcceptStartingPawns.text>
   
   <!-- EN: Select this -->
-  <AddBillSimpleMeal.onMapInstruction>TODO</AddBillSimpleMeal.onMapInstruction>
+  <AddBillSimpleMeal.onMapInstruction>Selectați acest lucru</AddBillSimpleMeal.onMapInstruction>
   <!-- EN: Please add a bill to cook simple meals at your cook stove. -->
-  <AddBillSimpleMeal.rejectInputMessage>TODO</AddBillSimpleMeal.rejectInputMessage>
+  <AddBillSimpleMeal.rejectInputMessage>Vă rugăm să adăugați o factură pentru a găti mese simple la soba dumneavoastră.</AddBillSimpleMeal.rejectInputMessage>
   <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it. -->
-  <AddBillSimpleMeal.text>TODO</AddBillSimpleMeal.text>
+  <AddBillSimpleMeal.text>Coloniștilor trebuie să li se spună ce să gătească.\n\nOrdinele de gătit sunt adăugate chiar pe sobă. Odată ce o factură a fost creată, coloniștii vor face munca în mod automat.\n\n1. Așteptați ca soba să fie construită.\n2. Faceți clic pe sobă pentru a o selecta.\n3. Deschideți fila SLUJBE.\n4. Faceți click pe ADAUGĂ SLUJBĂ.\n5. Selectați GĂTEȘTE MESAJ SIMPLU din meniul contextual.\n6. Faceți click pe butonul + pentru a crește numărul la 10.\n\nRețineți că puteți accelera timpul dacă construcția durează prea mult.\n\nDe asemenea, puteți selecta un colonist și face click dreapta pe sobă pentru a prioritiza construcția acesteia.</AddBillSimpleMeal.text>
   
   <!-- EN: Build an animal sleeping spot\ninside the room -->
-  <BuildAnimalSleepingSpot.onMapInstruction>TODO</BuildAnimalSleepingSpot.onMapInstruction>
+  <BuildAnimalSleepingSpot.onMapInstruction>Construiți un loc de dormit pentru animale\nîn interiorul camerei</BuildAnimalSleepingSpot.onMapInstruction>
   <!-- EN: Please place an animal sleeping spot inside the room. -->
-  <BuildAnimalSleepingSpot.rejectInputMessage>TODO</BuildAnimalSleepingSpot.rejectInputMessage>
+  <BuildAnimalSleepingSpot.rejectInputMessage>Vă rugăm să plasați un loc de dormit pentru animale în interiorul camerei.</BuildAnimalSleepingSpot.rejectInputMessage>
   <!-- EN: So your pet will sleep inside with you, place an ANIMAL SLEEPING SPOT inside the room.\n\nSleeping spots aren't real buildings - they're just spots on the ground designated for a sleeping. -->
-  <BuildAnimalSleepingSpot.text>TODO</BuildAnimalSleepingSpot.text>
+  <BuildAnimalSleepingSpot.text>Pentru ca animalul tău de companie să doarmă înăuntru cu tine, plasează și tu un LOC DE DORMIRE PENTRU ANIMALE în interiorul camerei.\n\nLocurile de dormit nu sunt clădiri reale - sunt doar locuri pe pământ desemnate pentru un animal de dormit.</BuildAnimalSleepingSpot.text>
   
   <!-- EN: Build three beds inside the room -->
-  <BuildBeds.onMapInstruction>TODO</BuildBeds.onMapInstruction>
+  <BuildBeds.onMapInstruction>Construiți trei paturi în interiorul camerei</BuildBeds.onMapInstruction>
   <!-- EN: Please build wooden beds inside the room. -->
-  <BuildBeds.rejectInputMessage>TODO</BuildBeds.rejectInputMessage>
+  <BuildBeds.rejectInputMessage>Vă rugăm să construiți paturi din lemn în interiorul camerei.</BuildBeds.rejectInputMessage>
   <!-- EN: Your colonists will now build the room!\n\nNow they need somewhere to sleep. Place three BEDS inside the room.\n\nFind them in the FURNITURE category.\n\nYou can use the {Key:Designator_RotateLeft} and {Key:Designator_RotateRight} keys to rotate the building. -->
-  <BuildBeds.text>TODO</BuildBeds.text>
+  <BuildBeds.text>Coloniștii tăi vor construi acum camera!\n\nAcum au nevoie de un loc unde să doarmă. Plasați trei PATURI în interiorul camerei.\n\nGăsește-le în categoria MOBILĂ.\n\nVă puteți folosi tastele {Key:Designator_RotateLeft} și {Key:Designator_RotateRight} pentru a roti clădirea.</BuildBeds.text>
   
   <!-- EN: Build a fueled stove inside the room -->
-  <BuildFueledStove.onMapInstruction>TODO</BuildFueledStove.onMapInstruction>
+  <BuildFueledStove.onMapInstruction>Construiți o sobă cu combustibil în interiorul camerei</BuildFueledStove.onMapInstruction>
   <!-- EN: Please build the fueled stove inside the room you built earlier. -->
-  <BuildFueledStove.rejectInputMessage>TODO</BuildFueledStove.rejectInputMessage>
+  <BuildFueledStove.rejectInputMessage>Vă rugăm să construiți soba cu combustibil în interiorul camerei pe care ați construit-o mai devreme.</BuildFueledStove.rejectInputMessage>
   <!-- EN: Excellent!\n\nNow you'll need to make a stove to cook food.\n\nBuild a FUELED STOVE inside the room. -->
-  <BuildFueledStove.text>TODO</BuildFueledStove.text>
+  <BuildFueledStove.text>Excelent!\n\nAcum va trebui să construiți o sobă pentru a găti mâncare.\n\nConstruiți o sobă cu combustibil în interiorul camerei.</BuildFueledStove.text>
   
   <!-- EN: Build a horseshoes pin\noutside the room -->
-  <BuildHorseshoesPin.onMapInstruction>TODO</BuildHorseshoesPin.onMapInstruction>
+  <BuildHorseshoesPin.onMapInstruction>Construiți un ac de potcoave în afara camerei</BuildHorseshoesPin.onMapInstruction>
   <!-- EN: Please place a horseshoes pin somewhere near the room. -->
-  <BuildHorseshoesPin.rejectInputMessage>TODO</BuildHorseshoesPin.rejectInputMessage>
+  <BuildHorseshoesPin.rejectInputMessage>Vă rugăm să plasați un ac de potcoave undeva lângă cameră.</BuildHorseshoesPin.rejectInputMessage>
   <!-- EN: Your colonists need sources of recreation or they'll get sad over time.\n\nBuild a HORSESHOES pin outside, near the room. -->
-  <BuildHorseshoesPin.text>TODO</BuildHorseshoesPin.text>
+  <BuildHorseshoesPin.text>Coloniștii dvs. au nevoie de surse de recreere, altfel vor deveni triști în timp.\n\nConstruiți un AC DE POTCOAVE afară, lângă cameră.</BuildHorseshoesPin.text>
   
   <!-- EN: Build a door over one wall -->
-  <BuildRoomDoor.onMapInstruction>TODO</BuildRoomDoor.onMapInstruction>
+  <BuildRoomDoor.onMapInstruction>Construiți o ușă peste un perete</BuildRoomDoor.onMapInstruction>
   <!-- EN: Please build a wooden door over one of your room walls. -->
-  <BuildRoomDoor.rejectInputMessage>TODO</BuildRoomDoor.rejectInputMessage>
+  <BuildRoomDoor.rejectInputMessage>Vă rugăm să construiți o ușă din lemn peste unul dintre pereții camerei.</BuildRoomDoor.rejectInputMessage>
   <!-- EN: Now just place a DOOR over any one of the room walls.\n\nDOOR is right beside WALL in the ARCHITECT menu. -->
-  <BuildRoomDoor.text>TODO</BuildRoomDoor.text>
+  <BuildRoomDoor.text>Acum trebuie doar să plasați o UȘĂ peste oricare dintre pereții camerei. \n\nUȘĂ este chiar lângă PERETE în meniul ARHITECT.</BuildRoomDoor.text>
   
   <!-- EN: Build walls -->
-  <BuildRoomWalls.onMapInstruction>TODO</BuildRoomWalls.onMapInstruction>
+  <BuildRoomWalls.onMapInstruction>Construiți pereții</BuildRoomWalls.onMapInstruction>
   <!-- EN: Please build wooden walls along the edges of the highlighted rectangle. -->
-  <BuildRoomWalls.rejectInputMessage>TODO</BuildRoomWalls.rejectInputMessage>
+  <BuildRoomWalls.rejectInputMessage>Vă rugăm să construiți pereți din lemn de-a lungul marginilor dreptunghiului evidențiat.</BuildRoomWalls.rejectInputMessage>
   <!-- EN: Awesome! Next, we'll build a room.\n\n1. Click ARCHITECT.\n2. Click STRUCTURE.\n3. Select WALL.\n4. Select WOOD as the material.\n5. Drag out four walls to form the shape indicated on the map. -->
-  <BuildRoomWalls.text>TODO</BuildRoomWalls.text>
+  <BuildRoomWalls.text>Minunat! În continuare, vom construi o cameră.\n\n1. Faceți clic pe ARCHITECT.\n2. Faceți clic pe STRUCTURĂ.\n3. Selectați PARETE.\n4. Selectați LEMN ca material.\n5. Trageți patru pereți pentru a forma forma indicată pe hartă.</BuildRoomWalls.text>
   
   <!-- EN: Build sandbags here -->
-  <BuildSandbags.onMapInstruction>TODO</BuildSandbags.onMapInstruction>
+  <BuildSandbags.onMapInstruction>Construiți sacii de nisip aici</BuildSandbags.onMapInstruction>
   <!-- EN: Please build sandbags in the highlighted area. -->
-  <BuildSandbags.rejectInputMessage>TODO</BuildSandbags.rejectInputMessage>
+  <BuildSandbags.rejectInputMessage>Vă rugăm să construiți saci de nisip în zona evidențiată.</BuildSandbags.rejectInputMessage>
   <!-- EN: Great! You've now got a basic colony running! Eventually, enemies will raid your colony. It's time to prepare for that.\n\nSelect the SANDBAGS designator and drag the sandbags out at the designated area. -->
-  <BuildSandbags.text>TODO</BuildSandbags.text>
+  <BuildSandbags.text>Grozav! Acum aveți o colonie de bază în funcțiune! În cele din urmă, inamicii vor face un raid asupra coloniei tale. Este timpul să vă pregătiți pentru asta.\n\nSelectați desemnatorul SANDBAGS și trageți sacii de nisip în zona desemnată.</BuildSandbags.text>
   
   <!-- EN: Build a wooden simple research bench\ninside the room -->
-  <BuildSimpleResearchBench.onMapInstruction>TODO</BuildSimpleResearchBench.onMapInstruction>
+  <BuildSimpleResearchBench.onMapInstruction>Construiește o bancă de cercetare simplă din lemn\nîn interiorul camerei</BuildSimpleResearchBench.onMapInstruction>
   <!-- EN: Please place a wooden simple research bench inside the room you built earlier. -->
-  <BuildSimpleResearchBench.rejectInputMessage>TODO</BuildSimpleResearchBench.rejectInputMessage>
+  <BuildSimpleResearchBench.rejectInputMessage>Vă rugăm să plasați o bancă de cercetare simplă din lemn în interiorul camerei pe care ați construit-o mai devreme.</BuildSimpleResearchBench.rejectInputMessage>
   <!-- EN: To advance, you'll need to research new technologies.\n\nBuild a wooden SIMPLE RESEARCH BENCH inside your room. -->
-  <BuildSimpleResearchBench.text>TODO</BuildSimpleResearchBench.text>
+  <BuildSimpleResearchBench.text>Pentru a avansa, va trebui să cercetezi noi tehnologii.\n\nConstruiește o BANCĂ DE CERCETARE SIMPLĂ din lemn în interiorul camerei tale.</BuildSimpleResearchBench.text>
   
   <!-- EN: Build a torch lamp inside the room -->
-  <BuildTorchLamp.onMapInstruction>TODO</BuildTorchLamp.onMapInstruction>
+  <BuildTorchLamp.onMapInstruction>Construiți o lampă cu torță în interiorul camerei</BuildTorchLamp.onMapInstruction>
   <!-- EN: Please build a torch lamp inside the room. -->
-  <BuildTorchLamp.rejectInputMessage>TODO</BuildTorchLamp.rejectInputMessage>
+  <BuildTorchLamp.rejectInputMessage>Vă rugăm să construiți o lampă cu torță în interiorul camerei.</BuildTorchLamp.rejectInputMessage>
   <!-- EN: You'll also want some light inside, or your colonists will get grumpy in the dark.\n\nBuild a TORCH LAMP inside the room. -->
-  <BuildTorchLamp.text>TODO</BuildTorchLamp.text>
+  <BuildTorchLamp.text>Veți dori, de asemenea, puțină lumină înăuntru, altfel coloniștii dvs. vor deveni morocănoși în întuneric.\n\nConstruiți o LAMPĂ TORȚĂ în interiorul camerei.</BuildTorchLamp.text>
   
   <!-- EN: Please open the 'Work' tab and change some settings. -->
-  <ChangeWorkSettings.rejectInputMessage>TODO</ChangeWorkSettings.rejectInputMessage>
+  <ChangeWorkSettings.rejectInputMessage>Vă rugăm să deschideți fila "Muncă" și să schimbați câteva setări.</ChangeWorkSettings.rejectInputMessage>
   <!-- EN: You can control who does what kinds of work using the checkboxes. Colonists will do tasks in order, from left to right.\n\nTry changing some settings now.\n\nBeware - Colonists always follow their work priorities, even if this makes them do dumb things! Setting up a smart work regime is an important skill in RimWorld. So set the work settings carefully, and review them often! -->
-  <ChangeWorkSettings.text>TODO</ChangeWorkSettings.text>
+  <ChangeWorkSettings.text>Puteți controla cine face ce tipuri de muncă cu ajutorul căsuțelor de selectare. Coloniștii vor face sarcinile în ordine, de la stânga la dreapta.\n\nÎncercați să schimbați acum câteva setări.\n\nAtenție - Coloniștii își urmează întotdeauna prioritățile de lucru, chiar dacă acest lucru îi face să facă lucruri stupide! Stabilirea unui regim de lucru inteligent este o abilitate importantă în RimWorld. Așa că setați setările de lucru cu atenție și revizuiți-le des!</ChangeWorkSettings.text>
   
   <!-- EN: Please choose a temperate forest site with no hills (light green with no brown dots). -->
-  <ChooseLandingSite.rejectInputMessage>TODO</ChooseLandingSite.rejectInputMessage>
+  <ChooseLandingSite.rejectInputMessage>Vă rugăm să alegeți un sit de pădure temperată fără dealuri (verde deschis fără puncte maro).</ChooseLandingSite.rejectInputMessage>
   <!-- EN: Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
-  <ChooseLandingSite.text>TODO</ChooseLandingSite.text>
+  <ChooseLandingSite.text>Aici vă alegeți locul de pornire.\n\nClick pe o pădure temperată (verde deschis) fără dealuri maro. Apoi faceți clic pe NEXT.\n\nOpțional, puteți utiliza fila TERRAIN pentru a vizualiza informații despre parcela selectată.</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
-  <ChooseStoryteller.rejectInputMessage>TODO</ChooseStoryteller.rejectInputMessage>
+  <ChooseStoryteller.rejectInputMessage>Vă rugăm să alegeți un povestitor în meniul Opțiuni pentru a încheia tutorialul.</ChooseStoryteller.rejectInputMessage>
   <!-- EN: This is the end of the tutorial!\n\nThere's still tons more to learn, including prisoners, hunting, trade, animal taming, and much more. But you've got the basics down.\n\nRandom incidents were disabled during this tutorial. To begin the real game:\n\n1. Open the MENU tab in the bottom-right.\n2. Select OPTIONS.\n3. Click STORYTELLER SETTINGS.\n4. Select a storyteller and playstyle that appeals to you.\n\nGood luck, and have fun. -->
-  <ChooseStoryteller.text>TODO</ChooseStoryteller.text>
+  <ChooseStoryteller.text>Acesta este sfârșitul tutorialului!\n\nÎncă mai sunt tone de învățat, inclusiv prizonieri, vânătoare, comerț, îmblânzirea animalelor și multe altele. Dar ai învățat noțiunile de bază.\n\nIncidentele aleatorii au fost dezactivate în timpul acestui tutorial. Pentru a începe jocul real:\n\n1. Deschideți fila MENIU din dreapta jos.\n2. Selectați OPȚIUNI.\n3. Faceți clic pe SETĂRILE POVESTITORULUI.\n4. Selectați un povestitor și un stil de joc care să vă placă.\n\nBun succes și distracție plăcută.</ChooseStoryteller.text>
   
   <!-- EN: Please drag the 'chop wood' designator over some trees. -->
-  <ChopTrees.rejectInputMessage>TODO</ChopTrees.rejectInputMessage>
+  <ChopTrees.rejectInputMessage>Vă rugăm să trageți indicatorul "taie lemn" peste câțiva copaci.</ChopTrees.rejectInputMessage>
   <!-- EN: You'll want to harvest some wood. Designate some trees to be chopped.\n\nSelect the CHOP WOOD designator and designate 10 trees to be chopped down.\n\n(Pro tip: You can drag a box over trees to designate several at once.) -->
-  <ChopTrees.text>TODO</ChopTrees.text>
+  <ChopTrees.text>Veți dori să recoltați niște lemn. Desemnați câțiva copaci care să fie tăiați.\n\nSelectați desemnatorul TAIE LEMN și desemnați 10 copaci care să fie tăiați.\n\n(Sfat pro: Puteți trage un chenar peste copaci pentru a desemna mai mulți deodată).</ChopTrees.text>
   
-  <!-- EN: Welcome to RimWorld! This tutorial will teach you how to play the game.\n\nThe first step is to generate a world to play in.\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
-  <CreateWorldParams.text>TODO</CreateWorldParams.text>
+  <!-- EN: Click GENERATE to generate your world. -->
+  <CreateWorldParams.rejectInputMessage>Faceți clic pe GENEREAZĂ pentru a vă genera lumea.</CreateWorldParams.rejectInputMessage>
+  <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
+  <CreateWorldParams.text>Bine ați venit în RimWorld! Acest tutorial vă va învăța cum să jucați jocul.\n\nPrimul pas este să generați o lume în care să vă jucați.\n\nAceastă pagină configurează modul în care lumea dvs. ar trebui să fie generată.\n\nSetările implicite de aici sunt bune - mergeți mai departe și faceți clic pe GENERARE!</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
-  <DownRaider.onMapInstruction>TODO</DownRaider.onMapInstruction>
+  <DownRaider.onMapInstruction>Trimiteți coloniștii aici\nlângă sacii de nisip pentru acoperire</DownRaider.onMapInstruction>
   <!-- EN: Please focus on winning the fight! -->
-  <DownRaider.rejectInputMessage>TODO</DownRaider.rejectInputMessage>
-  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
-  <DownRaider.text>TODO</DownRaider.text>
+  <DownRaider.rejectInputMessage>Vă rugăm să vă concentrați pe câștigarea luptei!</DownRaider.rejectInputMessage>
+  <!-- EN: I've now sent a raider to attack your colony!\n\n1. Pause the game by hitting {Key:TogglePause}!\n2. Read the red letter in the bottom-right of the screen.\n3. DRAFT your colonists by selecting them and hitting the DRAFT command.\n4. Right-click to send them to positions inside the sandbag square, touching the sandbags.\n5. Unpause.\n\nColonists must be touching cover to benefit from it. Once you're in cover, wait for the attacker to approach. Your colonists will shoot automatically. -->
+  <DownRaider.text>Am trimis acum un raider să atace colonia ta!\n\n1. Puneți jocul pe pauză apăsând {Key:TogglePause}!\n2. Citește scrisoarea roșie din partea dreaptă jos a ecranului.\n3. RECRUTEAZĂ coloniștii dvs. selectându-i și apăsând comanda DRAFT.\n4. Dați click dreapta pe ei pentru a-i poziționa în interiorul pătratului cu saci de nisip, atingând sacii de nisip.\n5. Dezactivează pauza.\n\nColoniștii trebuie să atingă acoperirea pentru a beneficia de ea. Odată ce vă aflați la adăpost, așteptați ca atacatorul să se apropie. Coloniștii dvs. vor trage automat.</DownRaider.text>
   
   <!-- EN: Right-click to get out of stockpile designating mode. -->
-  <EndStockpileDesignating.text>TODO</EndStockpileDesignating.text>
+  <EndStockpileDesignating.text>Faceți clic dreapta pentru a ieși din modul de desemnare a stocurilor.</EndStockpileDesignating.text>
   
   <!-- EN: Equip this -->
-  <EquipWeapons.onMapInstruction>TODO</EquipWeapons.onMapInstruction>
+  <EquipWeapons.onMapInstruction>Echipează asta</EquipWeapons.onMapInstruction>
   <!-- EN: Please have your colonists equip weapons. -->
-  <EquipWeapons.rejectInputMessage>TODO</EquipWeapons.rejectInputMessage>
+  <EquipWeapons.rejectInputMessage>Vă rugăm să le cereți coloniștilor dvs. să echipeze arme.</EquipWeapons.rejectInputMessage>
   <!-- EN: Have your colonists equip the starting weapons. To equip a weapon:\n\n1. Click a colonist to select them.\n2. Right-click the weapon you want to equip.\n3. Click 'equip weapon' on the context menu.\n\nDo this for each colonist. -->
-  <EquipWeapons.text>TODO</EquipWeapons.text>
+  <EquipWeapons.text>Pune-ți coloniștii să echipeze armele de început. Pentru a echipa o armă:\n\n1. Faceți clic pe un colonist pentru a-l selecta.\n2. Faceți clic dreapta pe arma pe care doriți să o echipați.\n3. Faceți clic pe "Echipare armă" din meniul contextual.\n\nFaceți acest lucru pentru fiecare colonist.</EquipWeapons.text>
   
   <!-- EN: Please expand the build roof area a bit, just for practice. -->
-  <ExpandAreaBuildRoof.rejectInputMessage>TODO</ExpandAreaBuildRoof.rejectInputMessage>
+  <ExpandAreaBuildRoof.rejectInputMessage>Vă rugăm să extindeți puțin zona de construire a acoperișului, doar pentru exercițiu.</ExpandAreaBuildRoof.rejectInputMessage>
   <!-- EN: The BUILD ROOF AREA defines where your colonists will try to build roofs.\n\nIt auto-fills when you enclose a new room.\n\nSelect the EXPAND BUILD ROOF AREA tool and drag out the shape of a porch roof on the front of the house. -->
-  <ExpandAreaBuildRoof.text>TODO</ExpandAreaBuildRoof.text>
+  <ExpandAreaBuildRoof.text>ZONA DE CONSTRUIRE A COPERIȘULUI definește locul în care coloniștii dumneavoastră vor încerca să construiască acoperișuri.\n\nSe completează automat atunci când îngrădiți o nouă cameră.\n\nSelectați instrumentul EXTINDERE ZONA DE CONSTRUIRE A COPERIȘULUI și trageți forma unui acoperiș de verandă în partea din față a casei.</ExpandAreaBuildRoof.text>
   
   <!-- EN: Please expand the home area a bit, just for practice. -->
-  <ExpandAreaHome.rejectInputMessage>TODO</ExpandAreaHome.rejectInputMessage>
+  <ExpandAreaHome.rejectInputMessage>Vă rugăm să extindeți puțin zona de acasă, doar pentru practică.</ExpandAreaHome.rejectInputMessage>
   <!-- EN: Next, you'll learn to expand the HOME AREA.\n\nColonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.\n\nThe home area is added automatically when you build things - but you can also expand it manually.\n\nSelect the EXPAND HOME AREA tool and drag out a new area on the map. -->
-  <ExpandAreaHome.text>TODO</ExpandAreaHome.text>
+  <ExpandAreaHome.text>În continuare, veți învăța să extindeți ZONA ACASĂ.\n\nColoniștii vor curăța podelele și vor stinge incendiile doar în zona casei și vor ignora incendiile sau mizeria din afara acesteia.\n\nZona casă este adăugată automat atunci când construiți lucruri - dar o puteți extinde și manual.\n\nSelectați instrumentul EXTINDEȚI ZONA ACASĂ și trageți o nouă zonă pe hartă.</ExpandAreaHome.text>
   
   <!-- EN: Please wait for your colonists to finish building the sandbags. -->
-  <FinishSandbags.rejectInputMessage>TODO</FinishSandbags.rejectInputMessage>
+  <FinishSandbags.rejectInputMessage>Vă rugăm să așteptați ca coloniștii dvs. să termine de construit sacii de nisip.</FinishSandbags.rejectInputMessage>
   <!-- EN: Let's just wait for all your constructions to be built.\n\nConsider using the WORK tab to assign more colonists to Construct.\n\nAlso, you can speed up time to shorten the wait.\n\nOnce everything's built, I'll send an attacker to test your defenses! -->
-  <FinishSandbags.text>TODO</FinishSandbags.text>
+  <FinishSandbags.text>Să așteptăm ca toate construcțiile voastre să fie construite.\n\nConsiderați să folosiți fila WORK pentru a atribui mai mulți coloniști la Construct.\n\nDe asemenea, puteți accelera timpul pentru a scurta așteptarea.\n\nOdată ce totul este construit, voi trimite un atacator pentru a vă testa apărarea!</FinishSandbags.text>
   
   <!-- EN: Place growing zone here\n(drag corner-to-corner) -->
-  <MakeGrowingZone.onMapInstruction>TODO</MakeGrowingZone.onMapInstruction>
+  <MakeGrowingZone.onMapInstruction>Plasați zona de creștere aici\n(trageți din colț în colț)</MakeGrowingZone.onMapInstruction>
   <!-- EN: Please make a growing zone on the indicated area. -->
-  <MakeGrowingZone.rejectInputMessage>TODO</MakeGrowingZone.rejectInputMessage>
+  <MakeGrowingZone.rejectInputMessage>Vă rugăm să faceți o zonă de creștere în zona indicată.</MakeGrowingZone.rejectInputMessage>
   <!-- EN: The house is being built!\n\nYour colonists will need something to eat, so place a GROWING ZONE as indicated on the map.\n\nThis is where your colonists will sow crops. -->
-  <MakeGrowingZone.text>TODO</MakeGrowingZone.text>
+  <MakeGrowingZone.text>Se construiește casa!\n\nColoniștii dvs. vor avea nevoie de ceva de mâncare, așa că plasați o Zonă de Cultivare așa cum este indicat pe hartă.\n\nAceasta este locul unde coloniștii dvs. vor semăna culturi.</MakeGrowingZone.text>
   
   <!-- EN: Place stockpile here\n(drag corner-to-corner) -->
-  <MakeStockpile.onMapInstruction>TODO</MakeStockpile.onMapInstruction>
+  <MakeStockpile.onMapInstruction>Plasează stocul de provizii aici\n(trage de la un colț la altul)</MakeStockpile.onMapInstruction>
   <!-- EN: Please make a stockpile on the indicated area. -->
-  <MakeStockpile.rejectInputMessage>TODO</MakeStockpile.rejectInputMessage>
+  <MakeStockpile.rejectInputMessage>Vă rugăm să faceți un stoc pe zona indicată.</MakeStockpile.rejectInputMessage>
   <!-- EN: Great!\n\nNow, make a stockpile so your colonists know where to keep items.\n\n1. Click ARCHITECT tab in the bottom left.\n2. Click the ZONE/AREA category.\n3. Select the CREATE STOCKPILE tool.\n4. Click and drag out a square as indicated on the map. -->
-  <MakeStockpile.text>TODO</MakeStockpile.text>
+  <MakeStockpile.text>Grozav!\n\nAcum, fă un stoc pentru ca coloniștii tăi să știe unde să țină obiectele.\n\n1. Faceți clic pe fila ARHITECT din stânga jos.\n2. Faceți clic pe categoria ZONE/AREA.\n3. Selectați instrumentul CREEAZĂ DEPOZIT.\n4. Faceți clic și trageți un pătrat așa cum este indicat pe hartă.</MakeStockpile.text>
   
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
-  <MapCameraDolly.text>TODO</MapCameraDolly.text>
+  <MapCameraDolly.text>Aici ești pe suprafață!\n\nAcum încearcă să muți camera în jurul tău.\n\nUtilizează tastele {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}, sau fă clic și trage cu butonul din mijloc al mouse-ului.\n\nÎncearcă acum!</MapCameraDolly.text>
   
   <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
-  <MapCameraZoom.text>TODO</MapCameraZoom.text>
+  <MapCameraZoom.text>Grozav!\n\nDe asemenea, puteți mări și micșora imaginea cu rotița mouse-ului sau cu tastele {Key:MapZoom_In} și {Key:MapZoom_Out}.\n\nÎncercați acum!</MapCameraZoom.text>
   
   <!-- EN: Designate all this\nfor mining -->
-  <MineSteel.onMapInstruction>TODO</MineSteel.onMapInstruction>
+  <MineSteel.onMapInstruction>Desigilează toate acestea\npentru minerit</MineSteel.onMapInstruction>
   <!-- EN: Please use the 'mine' designator on the compacted steel. -->
-  <MineSteel.rejectInputMessage>TODO</MineSteel.rejectInputMessage>
+  <MineSteel.rejectInputMessage>Vă rugăm să folosiți indicativul "minează" pe oțelul compactat.</MineSteel.rejectInputMessage>
   <!-- EN: Now your colonists will cook some food! Tasty!\n\nNext, you'll want to mine some minerals. I've spawned some mineable steel near your base.\n\nSelect the MINE designator and drag over the steel to designate it for mining. -->
-  <MineSteel.text>TODO</MineSteel.text>
+  <MineSteel.text>Acum coloniștii tăi vor găti ceva de mâncare! Gustos!\n\nÎn continuare, veți dori să extrageți niște minerale. Am generat niște oțel minabil în apropierea bazei tale.\n\nSelectează desemnatorul MINEAZĂ și trage-l peste oțel pentru a-l desemna pentru minerit.</MineSteel.text>
   
   <!-- EN: Please open the 'Research' tab. -->
-  <OpenMainTabResearch.rejectInputMessage>TODO</OpenMainTabResearch.rejectInputMessage>
+  <OpenMainTabResearch.rejectInputMessage>Vă rugăm să deschideți fila "Research" (Cercetare).</OpenMainTabResearch.rejectInputMessage>
   <!-- EN: Excellent! Next, you'll want to select what you want to be researched.\n\nOpen the RESEARCH tab. -->
-  <OpenMainTabResearch.text>TODO</OpenMainTabResearch.text>
+  <OpenMainTabResearch.text>Excelent! În continuare, veți dori să selectați ceea ce doriți să fie cercetat.\n\nDeschideți fila RESEARCH.</OpenMainTabResearch.text>
   
   <!-- EN: Please open the 'Work' tab. -->
-  <OpenMainTabWork.rejectInputMessage>TODO</OpenMainTabWork.rejectInputMessage>
+  <OpenMainTabWork.rejectInputMessage>Vă rugăm să deschideți fila 'Work'.</OpenMainTabWork.rejectInputMessage>
   <!-- EN: You can control which colonist does what kind of work.\n\nOpen the WORK tab at the bottom of the screen. -->
-  <OpenMainTabWork.text>TODO</OpenMainTabWork.text>
+  <OpenMainTabWork.text>Puteți controla ce colonist face ce fel de muncă.\n\nDeschideți fila WORK din partea de jos a ecranului.</OpenMainTabWork.text>
   
   <!-- EN: You can pause time.\n\nThis means you never need to rush. You can always pause and take your time to issue orders.\n\nTry pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right. -->
-  <Pause.text>TODO</Pause.text>
+  <Pause.text>Puteți pune timpul pe pauză.\n\nAceasta înseamnă că nu trebuie să vă grăbiți niciodată. Poți oricând să faci o pauză și să nu te grăbești să dai ordine.\n\nÎncercați să faceți o pauză cu tasta {Key:TogglePause}, sau folosind comenzile de timp din dreapta jos.</Pause.text>
   
   <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
-  <RandomizeCharacter.rejectInputMessage>TODO</RandomizeCharacter.rejectInputMessage>
+  <RandomizeCharacter.rejectInputMessage>Vă rugăm să faceți clic pe butonul RANDOMIZARE pentru a randomiza personajul.</RandomizeCharacter.rejectInputMessage>
   <!-- EN: If you don't like a character, you can regenerate them!\n\nClick the RANDOMIZE button to randomize the character. -->
-  <RandomizeCharacter.text>TODO</RandomizeCharacter.text>
+  <RandomizeCharacter.text>Dacă nu vă place un personaj, îl puteți regenera!\n\nClick pe butonul RANDOMIZARE pentru a randomiza personajul.</RandomizeCharacter.text>
   
   <!-- EN: Please drag a character from the "left behind" group (at the bottom-left) into the "selected" group (at the upper-left). -->
-  <ReorderCharacters.rejectInputMessage>TODO</ReorderCharacters.rejectInputMessage>
+  <ReorderCharacters.rejectInputMessage>Vă rugăm să trageți un personaj din grupul "rămas în urmă" (în partea de jos-stânga) în grupul "selectat" (în partea de sus-stânga).</ReorderCharacters.rejectInputMessage>
   <!-- EN: Now you choose which characters you want to use.\n\nDRAG a character from the "left behind" part of the character list (at the bottom) into the "selected" part (at the top).\n\nOptionally, clicking a character will allow you inspect him or her. -->
-  <ReorderCharacters.text>TODO</ReorderCharacters.text>
+  <ReorderCharacters.text>Acum alegeți ce personaje doriți să folosiți.\n\nTRAGEȚI un personaj din partea "rămasă în urmă" a listei de personaje (în partea de jos) în partea "selectată" (în partea de sus).\n\nOpțional, dacă dați clic pe un personaj vă va permite să îl inspectați.</ReorderCharacters.text>
   
   <!-- EN: Please choose a research project. -->
-  <SelectResearchProject.rejectInputMessage>TODO</SelectResearchProject.rejectInputMessage>
+  <SelectResearchProject.rejectInputMessage>Vă rugăm să alegeți un proiect de cercetare.</SelectResearchProject.rejectInputMessage>
   <!-- EN: Now just choose whatever you want to be researched first.\n\nYou might have to wait for the research bench to be constructed, or for trees to be chopped for wood.\n\nIf it's taking too long, use the WORK tab to assign more colonists to Construct. -->
-  <SelectResearchProject.text>TODO</SelectResearchProject.text>
+  <SelectResearchProject.text>Acum alege ceea ce vrei să fie cercetat mai întâi.\n\nS-ar putea să trebuiască să aștepți ca banca de cercetare să fie construită, sau ca copacii să fie tăiați pentru lemn.\n\nDacă durează prea mult, folosește fila MUNCĂ pentru a repartiza mai mulți coloniști la Construcție.</SelectResearchProject.text>
   
   <!-- EN: Set this growing zone to grow rice -->
-  <SetToGrowRice.onMapInstruction>TODO</SetToGrowRice.onMapInstruction>
+  <SetToGrowRice.onMapInstruction>Setați această zonă de creștere pentru a cultiva orez</SetToGrowRice.onMapInstruction>
   <!-- EN: Please set your growing zone to grow rice. -->
-  <SetToGrowRice.rejectInputMessage>TODO</SetToGrowRice.rejectInputMessage>
+  <SetToGrowRice.rejectInputMessage>Vă rugăm să vă setați zona de creștere pentru a cultiva orez.</SetToGrowRice.rejectInputMessage>
   <!-- EN: You can decide what plant your colonists should sow in a growing zone.\n\n1. Right-click to exit architect mode.\n2. Click your growing zone to select it.\n3. Click the plant selector at the bottom and change it to rice. -->
-  <SetToGrowRice.text>TODO</SetToGrowRice.text>
+  <SetToGrowRice.text>Poți decide ce plantă trebuie să semene coloniștii tăi într-o zonă de cultivare.\n\n1. Faceți clic dreapta pentru a ieși din modul arhitect.\n2. Faceți clic pe zona de creștere pentru a o selecta.\n3. Faceți clic pe selectorul de plante din partea de jos și schimbați-l în orez.</SetToGrowRice.text>
   
   <!-- EN: You can also speed up time.\n\nTry controlling time with the {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast}, and {Key:TimeSpeed_Superfast} keys, or with the time controls in the bottom right. -->
-  <TimeControls.text>TODO</TimeControls.text>
+  <TimeControls.text>Puteți, de asemenea, să accelerați timpul.\n\nÎncercați să controlați timpul cu tastele {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} și {Key:TimeSpeed_Superfast}, sau cu comenzile de timp din dreapta jos.</TimeControls.text>
   
   <!-- EN: Please un-draft your colonists. -->
-  <UndraftAll.rejectInputMessage>TODO</UndraftAll.rejectInputMessage>
+  <UndraftAll.rejectInputMessage>Vă rugăm să vă desființați recruții.</UndraftAll.rejectInputMessage>
   <!-- EN: Success! Now UNDRAFT all your colonists using the same command as before.\n\nThis will let them return to their own schedules. -->
-  <UndraftAll.text>TODO</UndraftAll.text>
+  <UndraftAll.text>Succes! Acum desființează-ți toți coloniștii folosind aceeași comandă ca și înainte.\n\nAceasta le va permite să se întoarcă la propriile programe.</UndraftAll.text>
   
   <!-- EN: Allow this -->
-  <UnforbidStartingResources.onMapInstruction>TODO</UnforbidStartingResources.onMapInstruction>
+  <UnforbidStartingResources.onMapInstruction>Permiteți acest lucru</UnforbidStartingResources.onMapInstruction>
   <!-- EN: Please allow your starting items. -->
-  <UnforbidStartingResources.rejectInputMessage>TODO</UnforbidStartingResources.rejectInputMessage>
-  <!-- EN: Now, to allow your colonists to bring your items to the stockpile, you must remove their "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.) -->
-  <UnforbidStartingResources.text>TODO</UnforbidStartingResources.text>
+  <UnforbidStartingResources.rejectInputMessage>Vă rugăm să permiteți elementele de pornire.</UnforbidStartingResources.rejectInputMessage>
+  <!-- EN: To allow your colonists to bring your items to the stockpile, you must remove the items' "forbidden" designation.\n\n1. Clicking your starting items to select them.\n2. Click the ALLOW toggle button to allow them.\n\n(Pro tip: Double-click an item to select all on screen of the same type.)\n\nAlternatively, you can:\n1. Click ARCHITECT.\n2. Click ORDERS.\n3. Click ALLOW.\n4. Drag out a shape covering all forbidden items to allow them. -->
+  <UnforbidStartingResources.text>Acum, pentru a le permite coloniștilor tăi să aducă obiectele tale în stoc, trebuie să le elimini desemnarea "interzis".\n\n1. Făcând clic pe obiectele tale de pornire pentru a le selecta.\n2. Faceți clic pe butonul de comutare PERMITE pentru a le permite.\n\n(Sfat profesional: Faceți dublu clic pe un element pentru a le selecta pe toate cele de pe ecran de același tip).</UnforbidStartingResources.text>
   
 </LanguageData>

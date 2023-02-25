@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: category -->
-  <Category.label>TODO</Category.label>
+  <Category.label>categorie</Category.label>
   
   <!-- EN: hit points percentage -->
-  <HitPointsPercentage.label>TODO</HitPointsPercentage.label>
+  <HitPointsPercentage.label>procentajul de hitpoints</HitPointsPercentage.label>
   
   <!-- EN: market value -->
-  <MarketValue.label>TODO</MarketValue.label>
+  <MarketValue.label>valoarea de piață</MarketValue.label>
   
   <!-- EN: mass -->
-  <Mass.label>TODO</Mass.label>
+  <Mass.label>masă</Mass.label>
   
   <!-- EN: name -->
-  <Name.label>TODO</Name.label>
+  <Name.label>nume</Name.label>
   
   <!-- EN: none -->
-  <None.label>TODO</None.label>
+  <None.label>nimic</None.label>
   
   <!-- EN: quality -->
-  <Quality.label>TODO</Quality.label>
+  <Quality.label>calitate</Quality.label>
   
 </LanguageData>

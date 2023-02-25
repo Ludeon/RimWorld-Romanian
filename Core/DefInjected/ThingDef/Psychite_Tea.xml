@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: psychite tea -->
-  <PsychiteTea.label>TODO</PsychiteTea.label>
+  <PsychiteTea.label>ceai de psihită</PsychiteTea.label>
   <!-- EN: A fragrant tea infused with leaves of the psychoid plant. Drinking it induces a subtle psychite euphoria. This tea is easy to produce at cooking facilities, but can produce psychite addiction if consumed too often.\n\nMany tribes use psychoid tea, both as a daily energizer and as part of social and religious rituals. -->
-  <PsychiteTea.description>TODO</PsychiteTea.description>
+  <PsychiteTea.description>Un ceai parfumat infuzat cu frunze de plantă psihoidă. Băutura acestuia induce o subtilă euforie de tip psihit. Acest ceai este ușor de produs în instalații de gătit, dar poate produce dependență de psihită dacă este consumat prea des.\n\nMulte triburi folosesc ceaiul psihoid, atât ca energizant zilnic, cât și ca parte a ritualurilor sociale și religioase.</PsychiteTea.description>
   <!-- EN: Drink {0} -->
-  <PsychiteTea.ingestible.ingestCommandString>TODO</PsychiteTea.ingestible.ingestCommandString>
+  <PsychiteTea.ingestible.ingestCommandString>Bea {0}</PsychiteTea.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <PsychiteTea.ingestible.ingestReportString>TODO</PsychiteTea.ingestible.ingestReportString>
+  <PsychiteTea.ingestible.ingestReportString>Bea {0}.</PsychiteTea.ingestible.ingestReportString>
   
 </LanguageData>

@@ -2,98 +2,98 @@
 <LanguageData>
   
   <!-- EN: hunger pangs -->
-  <HungerMaker.label>TODO</HungerMaker.label>
+  <HungerMaker.label>foamete</HungerMaker.label>
   <!-- EN: This weapon's persona loves food, and transmits that onto whoever bonds with it. The bonded person's hunger rate will be 50% higher. -->
-  <HungerMaker.description>TODO</HungerMaker.description>
+  <HungerMaker.description>Persoana acestei arme iubește mâncarea și transmite acest lucru oricui se leagă de ea. Rata de foame a persoanei legate va fi cu 50% mai mare.</HungerMaker.description>
   
   <!-- EN: jealous -->
-  <Jealous.label>TODO</Jealous.label>
+  <Jealous.label>gelos</Jealous.label>
   <!-- EN: This weapon's persona becomes angry when the bonded individual uses another weapon, thus reducing their mood. -->
-  <Jealous.description>TODO</Jealous.description>
+  <Jealous.description>Persona acestei arme devine furioasă atunci când persoana legată folosește o altă armă, reducându-i astfel starea de spirit.</Jealous.description>
   
   <!-- EN: kill thirst -->
-  <NeedKill.label>TODO</NeedKill.label>
+  <NeedKill.label>sete de moarte</NeedKill.label>
   <!-- EN: This weapon's persona find purpose in bloodshed. If it does not kill for 20 days, it will become angry and psychically complain to whoever is bonded to it. -->
-  <NeedKill.description>TODO</NeedKill.description>
+  <NeedKill.description>Personajul acestei arme găsește un scop în vărsarea de sânge. Dacă nu ucide timp de 20 de zile, aceasta va deveni furioasă și se va plânge psihic celui care este legat de ea.</NeedKill.description>
   
   <!-- EN: neural cooling -->
-  <NeuralHeatRecoveryGain.label>TODO</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.label>răcire neurală</NeuralHeatRecoveryGain.label>
   <!-- EN: This weapon's persona has the ability to help dissipate the wielder's neural heat. The wielder's neural heat dissipation is improved by 0.15 per second. -->
-  <NeuralHeatRecoveryGain.description>TODO</NeuralHeatRecoveryGain.description>
+  <NeuralHeatRecoveryGain.description>Personajul acestei arme are capacitatea de a ajuta la disiparea căldurii neuronale a celui care o mânuiește. Disiparea căldurii neuronale a mânuitorului este îmbunătățită cu 0,15 pe secundă.</NeuralHeatRecoveryGain.description>
   
   <!-- EN: freewielder -->
-  <NeverBond.label>TODO</NeverBond.label>
+  <NeverBond.label>purtare la liber</NeverBond.label>
   <!-- EN: This weapon's persona does not form bonds in the normal way. Anyone can pick it up and use it. -->
-  <NeverBond.description>TODO</NeverBond.description>
+  <NeverBond.description>Personajul acestei arme nu formează legături în mod normal. Oricine o poate lua și o poate folosi.</NeverBond.description>
   
   <!-- EN: painless -->
-  <NoPain.label>TODO</NoPain.label>
+  <NoPain.label>Fără durere</NoPain.label>
   <!-- EN: This weapon's persona has some method of psychically disabling pain. The one holding the weapon will feel no pain of any kind. -->
-  <NoPain.description>TODO</NoPain.description>
+  <NoPain.description>Personajul acestei arme are o metodă de a dezactiva psihic durerea. Cel care ține arma în mână nu va simți nici un fel de durere.</NoPain.description>
   
   <!-- EN: kill-focused -->
-  <OnKill_PsyfocusGain.label>TODO</OnKill_PsyfocusGain.label>
+  <OnKill_PsyfocusGain.label>focalizat pe ucidere</OnKill_PsyfocusGain.label>
   <!-- EN: This weapon's persona focuses on deaths. If the weapon kills someone, the wielder will instantly gain 20% psyfocus. -->
-  <OnKill_PsyfocusGain.description>TODO</OnKill_PsyfocusGain.description>
+  <OnKill_PsyfocusGain.description>Persoana acestei arme se concentrează pe morți. Dacă arma ucide pe cineva, cel care o mânuiește va câștiga instantaneu 20% psyfocus.</OnKill_PsyfocusGain.description>
   
   <!-- EN: kill sorrow -->
-  <OnKill_ThoughtBad.label>TODO</OnKill_ThoughtBad.label>
+  <OnKill_ThoughtBad.label>tristețe de la ucidere</OnKill_ThoughtBad.label>
   <!-- EN: This weapon's persona hates killing. If this weapon kills someone, its sorrow will transmit psychically to the wielder, reducing their mood for a few days. -->
-  <OnKill_ThoughtBad.description>TODO</OnKill_ThoughtBad.description>
+  <OnKill_ThoughtBad.description>Personajul acestei arme urăște să ucidă. Dacă această armă ucide pe cineva, tristețea sa se va transmite psihic celui care o mânuiește, reducându-i starea de spirit pentru câteva zile.</OnKill_ThoughtBad.description>
   
   <!-- EN: kill-happy -->
-  <OnKill_ThoughtGood.label>TODO</OnKill_ThoughtGood.label>
+  <OnKill_ThoughtGood.label>fericire de la ucidere</OnKill_ThoughtGood.label>
   <!-- EN: This weapon's persona loves to kill. If this weapon kills someone, its joy will transmit psychically to the wielder, making them happier for a few days. -->
-  <OnKill_ThoughtGood.description>TODO</OnKill_ThoughtGood.description>
+  <OnKill_ThoughtGood.description>Persoana acestei arme iubește să ucidă. Dacă această armă ucide pe cineva, bucuria sa se va transmite psihic celui care o mânuiește, făcându-l mai fericit pentru câteva zile.</OnKill_ThoughtGood.description>
   
   <!-- EN: psychic fog -->
-  <PsychicSensitivityDownMajor.label>TODO</PsychicSensitivityDownMajor.label>
+  <PsychicSensitivityDownMajor.label>ceață psihică</PsychicSensitivityDownMajor.label>
   <!-- EN: This weapon suppresses the wielder's psychic sensitivity by 30%. This only applies while the weapon is held. -->
-  <PsychicSensitivityDownMajor.description>TODO</PsychicSensitivityDownMajor.description>
+  <PsychicSensitivityDownMajor.description>Această armă suprimă sensibilitatea psihică a celui care o mânuiește cu 30%. Acest lucru se aplică doar în timp ce arma este ținută în mână.</PsychicSensitivityDownMajor.description>
   
   <!-- EN: psychic quiet -->
-  <PsychicSensitivityDownMinor.label>TODO</PsychicSensitivityDownMinor.label>
+  <PsychicSensitivityDownMinor.label>liniște psihică</PsychicSensitivityDownMinor.label>
   <!-- EN: This weapon suppresses the wielder's psychic sensitivity by 15%. This only applies while the weapon is held. -->
-  <PsychicSensitivityDownMinor.description>TODO</PsychicSensitivityDownMinor.description>
+  <PsychicSensitivityDownMinor.description>Această armă suprimă sensibilitatea psihică a celui care o mânuiește cu 15%. Acest lucru se aplică doar în timp ce arma este ținută în mână.</PsychicSensitivityDownMinor.description>
   
   <!-- EN: psychic hypersensitizer -->
-  <PsychicSensitivityUpMajor.label>TODO</PsychicSensitivityUpMajor.label>
+  <PsychicSensitivityUpMajor.label>hipersensibilizator psihic</PsychicSensitivityUpMajor.label>
   <!-- EN: This weapon amplifies the wielder's psychic sensitivity by 40%. This only applies while the weapon is held. -->
-  <PsychicSensitivityUpMajor.description>TODO</PsychicSensitivityUpMajor.description>
+  <PsychicSensitivityUpMajor.description>Această armă amplifică sensibilitatea psihică a celui care o mânuiește cu 40%. Acest lucru se aplică doar în timp ce arma este ținută în mână.</PsychicSensitivityUpMajor.description>
   
   <!-- EN: psychic sensitizer -->
-  <PsychicSensitivityUpMinor.label>TODO</PsychicSensitivityUpMinor.label>
+  <PsychicSensitivityUpMinor.label>Sensibilizator psihic</PsychicSensitivityUpMinor.label>
   <!-- EN: This weapon amplifies the wielder's psychic sensitivity by 20%. This only applies while the weapon is held. -->
-  <PsychicSensitivityUpMinor.description>TODO</PsychicSensitivityUpMinor.description>
+  <PsychicSensitivityUpMinor.description>Această armă amplifică sensibilitatea psihică a celui care o mânuiește cu 20%. Acest lucru se aplică doar în timp ce arma este ținută în mână.</PsychicSensitivityUpMinor.description>
   
   <!-- EN: psy-meditative -->
-  <PsyfocusMeditationBonus.label>TODO</PsyfocusMeditationBonus.label>
+  <PsyfocusMeditationBonus.label>psiho-meditație</PsyfocusMeditationBonus.label>
   <!-- EN: This weapon's persona is naturally meditative and helps its wielder focus in psychic meditation. The wielder gains an extra 10% psyfocus per day of meditation, as long as the weapon is held. -->
-  <PsyfocusMeditationBonus.description>TODO</PsyfocusMeditationBonus.description>
+  <PsyfocusMeditationBonus.description>Persoana acestei arme este în mod natural meditativă și îl ajută pe cel care o mânuiește să se concentreze în meditație psihică. Cel care o mânuiește câștigă un plus de 10% psyfocus pe zi de meditație, atâta timp cât arma este ținută în mână.</PsyfocusMeditationBonus.description>
   
   <!-- EN: fast mover -->
-  <SpeedBoost.label>TODO</SpeedBoost.label>
+  <SpeedBoost.label>mișcare rapidă</SpeedBoost.label>
   <!-- EN: This weapon's persona has a sense of motion. It confers this onto the wielder, making them move 15% faster as long as the weapon is held. -->
-  <SpeedBoost.description>TODO</SpeedBoost.description>
+  <SpeedBoost.description>Personajul acestei arme are un simț al mișcării. Ea conferă acest lucru celui care o mânuiește, făcându-l să se miște cu 15% mai repede atâta timp cât arma este ținută în mână.</SpeedBoost.description>
   
   <!-- EN: calm thoughts -->
-  <ThoughtCalm.label>TODO</ThoughtCalm.label>
+  <ThoughtCalm.label>gânduri calme</ThoughtCalm.label>
   <!-- EN: This weapon's persona is relaxed and steady. It whispers calming thoughts to whoever it is bonded with, increasing their mood. -->
-  <ThoughtCalm.description>TODO</ThoughtCalm.description>
+  <ThoughtCalm.description>Persona acestei arme este relaxată și constantă. Ea șoptește gânduri liniștitoare celui cu care este legată, sporindu-i starea de spirit.</ThoughtCalm.description>
   
   <!-- EN: kind thoughts -->
-  <ThoughtKind.label>TODO</ThoughtKind.label>
+  <ThoughtKind.label>gânduri bune</ThoughtKind.label>
   <!-- EN: This weapon's persona is kind and supportive. It whispers kind thoughts to whoever it is bonded with, increasing their mood. -->
-  <ThoughtKind.description>TODO</ThoughtKind.description>
+  <ThoughtKind.description>Persoana acestei arme este amabilă și solidară. Ea șoptește gânduri bune celui cu care este legată, sporindu-i starea de spirit.</ThoughtKind.description>
   
   <!-- EN: mad muttering -->
-  <ThoughtMuttering.label>TODO</ThoughtMuttering.label>
+  <ThoughtMuttering.label>murmur nebunesc</ThoughtMuttering.label>
   <!-- EN: This weapon's persona is neurotic and unstable. It mutters mad thoughts to whoever it is bonded with, reducing their mood. -->
-  <ThoughtMuttering.description>TODO</ThoughtMuttering.description>
+  <ThoughtMuttering.description>Persoana acestei arme este nevrotică și instabilă. Ea murmură gânduri nebunești oricui este legată de ea, reducându-i starea de spirit.</ThoughtMuttering.description>
   
   <!-- EN: mad wailing -->
-  <ThoughtWailing.label>TODO</ThoughtWailing.label>
+  <ThoughtWailing.label>Plâns nebunesc</ThoughtWailing.label>
   <!-- EN: This weapon's persona is highly disturbed and won't shut up about it. It wails mad notions to whoever it is bonded with, suppressing their mood. -->
-  <ThoughtWailing.description>TODO</ThoughtWailing.description>
+  <ThoughtWailing.description>Personajul acestei arme este foarte tulburat și nu vrea să tacă din gură. Ea se plânge de noțiuni nebunești celui de care este legată, reducându-i starea de spirit.</ThoughtWailing.description>
   
 </LanguageData>

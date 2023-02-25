@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: scarification -->
+  <Scarification.label>cicatrizare</Scarification.label>
+  <!-- EN: An artistic scar carefully carved into the flesh for ritual or artistic purposes. -->
+  <Scarification.description>O cicatrice artistică sculptată cu grijă în carne în scopuri ritualistice sau artistice.</Scarification.description>
+  <!-- EN: scarification -->
+  <Scarification.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Scarification.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: a scarification -->
+  <Scarification.labelNoun>o cicatrizare</Scarification.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <Scarification.labelNounPretty>{0} în {1}</Scarification.labelNounPretty>
+  
+</LanguageData>

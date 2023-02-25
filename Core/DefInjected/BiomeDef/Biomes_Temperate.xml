@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: temperate forest -->
-  <TemperateForest.label>TODO</TemperateForest.label>
+  <TemperateForest.label>pădure temperată</TemperateForest.label>
   <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
-  <TemperateForest.description>TODO</TemperateForest.description>
+  <TemperateForest.description>Păduri de foioase intercalate cu zone fertile. Multe specii de animale se deplasează printre copaci și plaiuri.</TemperateForest.description>
   
   <!-- EN: temperate swamp -->
-  <TemperateSwamp.label>TODO</TemperateSwamp.label>
+  <TemperateSwamp.label>mlaștină temperată</TemperateSwamp.label>
   <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
-  <TemperateSwamp.description>TODO</TemperateSwamp.description>
+  <TemperateSwamp.description>Terenuri umede pline de vegetație și boli. Densa supracreștere face deplasarea dificilă, și eliberarea zonelor pentru construcții durează mult timp. O mare parte din teren e prea mlăștinoasă ca să suporte structuri grele.</TemperateSwamp.description>
   
 </LanguageData>

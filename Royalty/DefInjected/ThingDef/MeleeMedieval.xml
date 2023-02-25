@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: axe -->
-  <MeleeWeapon_Axe.label>TODO</MeleeWeapon_Axe.label>
+  <MeleeWeapon_Axe.label>topor</MeleeWeapon_Axe.label>
   <!-- EN: An advanced form of one of mankind's oldest weapons, the war axe is a short blade attached to a shaft. The simple, ancient design concentrates cutting power generated from strong overhand swings. -->
-  <MeleeWeapon_Axe.description>TODO</MeleeWeapon_Axe.description>
+  <MeleeWeapon_Axe.description>O formă avansată a uneia dintre cele mai vechi arme ale omenirii, toporul de război este o lamă scurtă atașată de un arbore. Designul simplu și străvechi concentrează puterea de tăiere generată de lovituri puternice cu mâna deasupra capului.</MeleeWeapon_Axe.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Axe.tools.handle.label>TODO</MeleeWeapon_Axe.tools.handle.label>
+  <MeleeWeapon_Axe.tools.handle.label>mâner</MeleeWeapon_Axe.tools.handle.label>
   <!-- EN: edge -->
-  <MeleeWeapon_Axe.tools.edge.label>TODO</MeleeWeapon_Axe.tools.edge.label>
+  <MeleeWeapon_Axe.tools.edge.label>margine</MeleeWeapon_Axe.tools.edge.label>
   
   <!-- EN: warhammer -->
-  <MeleeWeapon_Warhammer.label>TODO</MeleeWeapon_Warhammer.label>
+  <MeleeWeapon_Warhammer.label>warhammer</MeleeWeapon_Warhammer.label>
   <!-- EN: A long polearm topped with a brutal hammer. The powerful blunt impacts can pulverize an enemy's insides, even through armor. -->
-  <MeleeWeapon_Warhammer.description>TODO</MeleeWeapon_Warhammer.description>
+  <MeleeWeapon_Warhammer.description>O armă lungă cu paloș, încununată cu un ciocan brutal. Impactul puternic și contondent poate pulveriza interiorul unui inamic, chiar și prin armură.</MeleeWeapon_Warhammer.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Warhammer.tools.handle.label>TODO</MeleeWeapon_Warhammer.tools.handle.label>
+  <MeleeWeapon_Warhammer.tools.handle.label>mâner</MeleeWeapon_Warhammer.tools.handle.label>
   <!-- EN: head -->
-  <MeleeWeapon_Warhammer.tools.head.label>TODO</MeleeWeapon_Warhammer.tools.head.label>
+  <MeleeWeapon_Warhammer.tools.head.label>cap</MeleeWeapon_Warhammer.tools.head.label>
   
 </LanguageData>

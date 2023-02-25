@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: marriage ceremony -->
-  <MarriageCeremony.label>TODO</MarriageCeremony.label>
+  <MarriageCeremony.label>ceremonie de căsătorie</MarriageCeremony.label>
   
   <!-- EN: party -->
-  <Party.label>TODO</Party.label>
+  <Party.label>petrecere</Party.label>
   <!-- EN: The party has been called off. -->
-  <Party.calledOffMessage>TODO</Party.calledOffMessage>
+  <Party.calledOffMessage>Petrecerea a fost anulată.</Party.calledOffMessage>
   <!-- EN: The party has finished. -->
-  <Party.finishedMessage>TODO</Party.finishedMessage>
+  <Party.finishedMessage>Petrecerea s-a încheiat.</Party.finishedMessage>
   <!-- EN: {ORGANIZER_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
-  <Party.letterText>TODO</Party.letterText>
+  <Party.letterText>{ORGANIZER_labelShort} organizează o petrecere! Toți cei care vor merge vor avea parte de recreere și energie socială, precum și de o creștere pozitivă de durată a dispoziției.</Party.letterText>
   <!-- EN: Party -->
-  <Party.letterTitle>TODO</Party.letterTitle>
+  <Party.letterTitle>Petrecere</Party.letterTitle>
   
 </LanguageData>

@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: install heart -->
-  <InstallNaturalHeart.label>TODO</InstallNaturalHeart.label>
+  <InstallNaturalHeart.label>Instalează inima</InstallNaturalHeart.label>
   <!-- EN: Install a biological heart. -->
-  <InstallNaturalHeart.description>TODO</InstallNaturalHeart.description>
+  <InstallNaturalHeart.description>Instalează o inimă biologică.</InstallNaturalHeart.description>
   <!-- EN: Installing heart. -->
-  <InstallNaturalHeart.jobString>TODO</InstallNaturalHeart.jobString>
+  <InstallNaturalHeart.jobString>Instalează inima.</InstallNaturalHeart.jobString>
   
   <!-- EN: install kidney -->
-  <InstallNaturalKidney.label>TODO</InstallNaturalKidney.label>
+  <InstallNaturalKidney.label>Instalează rinichiul</InstallNaturalKidney.label>
   <!-- EN: Install a biological kidney. -->
-  <InstallNaturalKidney.description>TODO</InstallNaturalKidney.description>
+  <InstallNaturalKidney.description>Instalează un rinichi biologic.</InstallNaturalKidney.description>
   <!-- EN: Installing kidney. -->
-  <InstallNaturalKidney.jobString>TODO</InstallNaturalKidney.jobString>
+  <InstallNaturalKidney.jobString>Instalează rinichiul.</InstallNaturalKidney.jobString>
   
   <!-- EN: install liver -->
-  <InstallNaturalLiver.label>TODO</InstallNaturalLiver.label>
+  <InstallNaturalLiver.label>Instalează ficatul</InstallNaturalLiver.label>
   <!-- EN: Install a biological liver. -->
-  <InstallNaturalLiver.description>TODO</InstallNaturalLiver.description>
+  <InstallNaturalLiver.description>Instalează un ficat biologic.</InstallNaturalLiver.description>
   <!-- EN: Installing liver. -->
-  <InstallNaturalLiver.jobString>TODO</InstallNaturalLiver.jobString>
+  <InstallNaturalLiver.jobString>Instalează ficatul.</InstallNaturalLiver.jobString>
   
   <!-- EN: install lung -->
-  <InstallNaturalLung.label>TODO</InstallNaturalLung.label>
+  <InstallNaturalLung.label>Instalează plămânul</InstallNaturalLung.label>
   <!-- EN: Install a lung. -->
-  <InstallNaturalLung.description>TODO</InstallNaturalLung.description>
+  <InstallNaturalLung.description>Instalează un plămân.</InstallNaturalLung.description>
   <!-- EN: Installing lung. -->
-  <InstallNaturalLung.jobString>TODO</InstallNaturalLung.jobString>
+  <InstallNaturalLung.jobString>Instalează plămânul.</InstallNaturalLung.jobString>
   
 </LanguageData>

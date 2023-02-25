@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: changing dryad caste of TargetA. -->
+  <ChangeTreeMode.reportString>schimbând casta de driade la TargetA.</ChangeTreeMode.reportString>
+  
+  <!-- EN: creating cocoon. -->
+  <CreateAndEnterCocoon.reportString>creând coconul.</CreateAndEnterCocoon.reportString>
+  
+  <!-- EN: creating healing pod. -->
+  <CreateAndEnterHealingPod.reportString>TODO</CreateAndEnterHealingPod.reportString>
+  
+  <!-- EN: extracting skull from TargetA. -->
+  <ExtractSkull.reportString>extrăgând craniul de la TargetA.</ExtractSkull.reportString>
+  
+  <!-- EN: hacking TargetA. -->
+  <Hack.reportString>hackuind TargetA.</Hack.reportString>
+  
+  <!-- EN: merging into TargetB. -->
+  <MergeIntoGaumakerPod.reportString>îmbinând cu TargetB.</MergeIntoGaumakerPod.reportString>
+  
+  <!-- EN: planting TargetA. -->
+  <PlantSeed.reportString>plantând TargetA.</PlantSeed.reportString>
+  
+  <!-- EN: converting TargetA. -->
+  <PrisonerConvert.reportString>transformând TargetA.</PrisonerConvert.reportString>
+  
+  <!-- EN: enslaving TargetA. -->
+  <PrisonerEnslave.reportString>înrobind TargetA.</PrisonerEnslave.reportString>
+  
+  <!-- EN: pruning TargetA. -->
+  <PruneGauranlenTree.reportString>TODO</PruneGauranlenTree.reportString>
+  
+  <!-- EN: returning to TargetA. -->
+  <ReturnToGauranlenTree.reportString>întoarcându-se la TargetA.</ReturnToGauranlenTree.reportString>
+  
+  <!-- EN: emancipating TargetA. -->
+  <SlaveEmancipation.reportString>emancipând pe TargetA.</SlaveEmancipation.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <SlaveExecution.reportString>executând TargetA.</SlaveExecution.reportString>
+  
+  <!-- EN: suppressing TargetA. -->
+  <SlaveSuppress.reportString>subjugând TargetA.</SlaveSuppress.reportString>
+  
+</LanguageData>

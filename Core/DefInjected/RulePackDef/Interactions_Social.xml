@@ -4,6 +4,8 @@
   <!-- EN:
     <li>sent->This drove [RECIPIENT_nameDef] into a rage and [RECIPIENT_pronoun] began a fight!</li>
   -->
-  <Sentence_SocialFightStarted.rulePack.rulesStrings>TODO</Sentence_SocialFightStarted.rulePack.rulesStrings>
+  <Sentence_SocialFightStarted.rulePack.rulesStrings>
+    <li>sent->Asta l-a lansat pe [RECIPIENT_nameDef] într-o furie și [RECIPIENT_pronoun] a început o bătaie!</li>
+  </Sentence_SocialFightStarted.rulePack.rulesStrings>
   
 </LanguageData>

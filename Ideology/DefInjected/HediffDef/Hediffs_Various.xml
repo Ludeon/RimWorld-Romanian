@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Biosculpting sickness -->
+  <BiosculptingSickness.label>Boală de biosculptură</BiosculptingSickness.label>
+  <!-- EN: The after-effects of an incomplete biosculpting cycle. It causes nausea, dizziness, and fuzzy thinking. -->
+  <BiosculptingSickness.description>Urmările unui ciclu de biosculptură incomplet. Provoacă greață, amețeli și gândire neclară.</BiosculptingSickness.description>
+  
+  <!-- EN: blindfolded -->
+  <Blindfold.label>legat la ochi</Blindfold.label>
+  <!-- EN: A blindfold is blocking this person's vision. -->
+  <Blindfold.description>O legătură la ochi blochează vederea acestei persoane.</Blindfold.description>
+  
+  <!-- EN: neural supercharge -->
+  <NeuralSupercharge.label>supraîncărcare neuronală</NeuralSupercharge.label>
+  <!-- EN: An externally-induced increase in sensitivity and synchronicity of neurons. This boosts consciousness and learning rate at the cost of increased hunger. -->
+  <NeuralSupercharge.description>O creștere indusă din exterior a sensibilității și sincronizării neuronilor. Acest lucru stimulează conștiința și rata de învățare cu prețul creșterii foamei.</NeuralSupercharge.description>
+  
+  <!-- EN: torture crown -->
+  <TortureCrown.label>coroană torționară</TortureCrown.label>
+  <!-- EN: A crown-like headpiece with stubby spikes that poke the head uncomfortably. It is used to put the wearer in pain. -->
+  <TortureCrown.description>O cască asemănătoare unei coroane cu țepi butucănoși care împung capul în mod incomod. Este folosită pentru a provoca dureri celui care o poartă.</TortureCrown.description>
+  
+  <!-- EN: work focus -->
+  <WorkFocus.label>focalizare pe muncă</WorkFocus.label>
+  <!-- EN: This person was energized by a ritual or event they participated in. The energy means they can now work harder. -->
+  <WorkFocus.description>Această persoană a fost energizată de un ritual sau de un eveniment la care a participat. Energia înseamnă că acum pot munci mai mult.</WorkFocus.description>
+  
+</LanguageData>

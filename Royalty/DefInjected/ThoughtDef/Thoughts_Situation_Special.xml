@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: anima scream -->
-  <AnimaScream.stages.anima_scream.label>TODO</AnimaScream.stages.anima_scream.label>
+  <AnimaScream.stages.anima_scream.label>țipăt anima</AnimaScream.stages.anima_scream.label>
   <!-- EN: Such a pain in my head when the tree died. And it keeps echoing... -->
-  <AnimaScream.stages.anima_scream.description>TODO</AnimaScream.stages.anima_scream.description>
+  <AnimaScream.stages.anima_scream.description>Ce durere în cap am simțit când a murit copacul. Și se tot aude ecoul...</AnimaScream.stages.anima_scream.description>
   
   <!-- EN: decree ignored -->
-  <DecreeUnmet.stages.decree_ignored.label>TODO</DecreeUnmet.stages.decree_ignored.label>
+  <DecreeUnmet.stages.decree_ignored.label>decret ignorat</DecreeUnmet.stages.decree_ignored.label>
   <!-- EN: My decree has been ignored for far too long {0}. -->
-  <DecreeUnmet.stages.decree_ignored.description>TODO</DecreeUnmet.stages.decree_ignored.description>
+  <DecreeUnmet.stages.decree_ignored.description>Decretul meu a fost ignorat de mult prea mult timp {0}.</DecreeUnmet.stages.decree_ignored.description>
   
   <!-- EN: joyfuzz -->
-  <Joyfuzz.stages.joyfuzz.label>TODO</Joyfuzz.stages.joyfuzz.label>
+  <Joyfuzz.stages.joyfuzz.label>joyfuzz</Joyfuzz.stages.joyfuzz.label>
   <!-- EN: No matter what happens, I feel like I'm okay with it for some reason. -->
-  <Joyfuzz.stages.joyfuzz.description>TODO</Joyfuzz.stages.joyfuzz.description>
+  <Joyfuzz.stages.joyfuzz.description>Indiferent ce se întâmplă, simt că sunt de acord cu asta dintr-un motiv oarecare.</Joyfuzz.stages.joyfuzz.description>
   
   <!-- EN: minor psychic breakdown -->
-  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>TODO</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>cădere psihică minoră</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>
   <!-- EN: There's an electrical pain behind my eyes. It's hard to focus; hard to think. -->
-  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>TODO</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>Am o durere electrică în spatele ochilor. Îmi este greu să mă concentrez; greu să gândesc.</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>
   <!-- EN: major psychic breakdown -->
-  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>TODO</PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>cădere psihică majoră</PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>
   <!-- EN: My mind has been stir-fried. Dizzy, fuzzy, can't think, always aching. -->
-  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>TODO</PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>Mintea mea a fost prăjită. Amețită, neclară, nu pot gândi, mă doare mereu.</PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>
   <!-- EN: total psychic breakdown -->
-  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>TODO</PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>cădere psihică totală</PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>
   <!-- EN: I'm spinning, it hurts, I'm dizzy, think, can't think, can't think... -->
-  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>TODO</PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>Mă învârt, mă doare, mă amețesc, gândesc, nu pot gândi, nu pot gândi, nu pot gândi...</PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>
   
   <!-- EN: psychic love -->
-  <PsychicLove.stages.psychic_love.label>TODO</PsychicLove.stages.psychic_love.label>
+  <PsychicLove.stages.psychic_love.label>dragoste psihică</PsychicLove.stages.psychic_love.label>
   
 </LanguageData>

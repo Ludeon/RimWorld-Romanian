@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: shattered empire -->
-  <Empire.label>TODO</Empire.label>
-  <!-- EN: An ultratech refugee society from another planet, organized along feudal lines.\n\nThey lived for thousands of years in a stable multi-planet empire with a strict caste system, an intricate code of warrior ethics, and enforced cultural stasis. Invaded by powerful outsiders, they fled. Despite losing almost all of their people, their fleet and technology still make them powerful.\n\nThey will refuse to trade with anyone who lacks the appropriate royal title. -->
-  <Empire.description>TODO</Empire.description>
+  <Empire.label>imperiu sfărâmat</Empire.label>
+  <!-- EN: An ultratech refugee society from the planet Sophiamunda. Their culture is based on a code of honor, a strict class system, and enforced social stasis.\n\nThese are the survivors of a great calamity that tore apart Sophian society. They fled to the rimworld using the remnants of their fleet. Despite losing so much, their ships and technology still make them powerful.\n\nThey will refuse to trade with anyone who lacks the appropriate royal title. -->
+  <Empire.description>O societate de refugiați ultratehnologici de pe planeta Sophiamunda. Cultura lor se bazează pe un cod al onoarei, un sistem strict de clase și o stază socială impusă.\n\nAceștia sunt supraviețuitorii unei mari calamități care a sfâșiat societatea Sophian. Au fugit pe lumea de pe margine folosind rămășițele flotei lor. În ciuda faptului că au pierdut atât de mult, navele și tehnologia lor îi fac încă puternici.\n\nEi vor refuza să facă comerț cu oricine nu are titlul regal corespunzător.</Empire.description>
   <!-- EN: high stellarch -->
-  <Empire.leaderTitle>TODO</Empire.leaderTitle>
+  <Empire.leaderTitle>mare stelarh</Empire.leaderTitle>
   <!-- EN: imperial -->
-  <Empire.pawnSingular>TODO</Empire.pawnSingular>
+  <Empire.pawnSingular>imperial</Empire.pawnSingular>
   <!-- EN: imperials -->
-  <Empire.pawnsPlural>TODO</Empire.pawnsPlural>
+  <Empire.pawnsPlural>imperiali</Empire.pawnsPlural>
   <!-- EN: honor -->
-  <Empire.royalFavorLabel>TODO</Empire.royalFavorLabel>
+  <Empire.royalFavorLabel>onoare</Empire.royalFavorLabel>
   
 </LanguageData>

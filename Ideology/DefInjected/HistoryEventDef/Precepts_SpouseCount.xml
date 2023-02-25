@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: married to five or more spouses -->
+  <GotMarried_SpouseCount_FiveOrMore.label>căsătorit cu cinci sau mai mulți soți</GotMarried_SpouseCount_FiveOrMore.label>
+  
+  <!-- EN: married to four or more spouses -->
+  <GotMarried_SpouseCount_Four.label>căsătorit cu patru sau mai mulți soți</GotMarried_SpouseCount_Four.label>
+  
+  <!-- EN: married to three or more spouses -->
+  <GotMarried_SpouseCount_Three.label>căsătorit cu trei sau mai mulți soți</GotMarried_SpouseCount_Three.label>
+  
+</LanguageData>

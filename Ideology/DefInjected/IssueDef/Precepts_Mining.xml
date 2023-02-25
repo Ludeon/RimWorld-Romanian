@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mining -->
+  <Mining.label>minerit</Mining.label>
+  
+  <!-- EN: mining yield -->
+  <MiningYield.label>randament minier</MiningYield.label>
+  
+</LanguageData>

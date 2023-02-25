@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: first body ring -->
+  <MechanicalTermiteBodyFirstRing.label>primul inel al corpului</MechanicalTermiteBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodyFirstRing.labelShort>inel de corp</MechanicalTermiteBodyFirstRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalTermiteBodySecondRing.label>al doilea inel de corp</MechanicalTermiteBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodySecondRing.labelShort>inel de corp</MechanicalTermiteBodySecondRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalTermiteBodyThirdRing.label>al treilea inel de corp</MechanicalTermiteBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodyThirdRing.labelShort>inel de corp</MechanicalTermiteBodyThirdRing.labelShort>
+  
+</LanguageData>

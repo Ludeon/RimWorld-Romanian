@@ -1,68 +1,68 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- EN: Level -->
-  <Level>TODO</Level>
+  <!-- EN: level -->
+  <Level>Nivel</Level>
   <!-- EN: Progress to next level -->
-  <ProgressToNextLevel>TODO</ProgressToNextLevel>
+  <ProgressToNextLevel>Progres până la nivelul următor</ProgressToNextLevel>
   <!-- EN: Experience -->
-  <Experience>TODO</Experience>
+  <Experience>Experiență</Experience>
   <!-- EN: Passion -->
-  <Passion>TODO</Passion>
+  <Passion>Pasiune</Passion>
   <!-- EN: None\n   -Learns {0} -->
-  <PassionNone>TODO</PassionNone>
+  <PassionNone>Nimic\n -Învață {0}</PassionNone>
   <!-- EN: Interested\n   -Learns {0} -->
-  <PassionMinor>TODO</PassionMinor>
+  <PassionMinor>Interesat\n -Învăță {0}</PassionMinor>
   <!-- EN: Burning\n   -Learns {0} -->
-  <PassionMajor>TODO</PassionMajor>
+  <PassionMajor>Ardent\n -Învață {0}</PassionMajor>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
-  <LearnedMaxToday>TODO</LearnedMaxToday>
+  <LearnedMaxToday>Învățat maxim astăzi ({0}/{1}, învățarea ulterioară înmulțită cu {2})</LearnedMaxToday>
   <!-- EN: Effects at level {0} -->
-  <EffectsAtLevel>TODO</EffectsAtLevel>
+  <EffectsAtLevel>Efecte la nivelul {0}</EffectsAtLevel>
   <!-- EN: MAX -->
-  <SkillMax>TODO</SkillMax>
+  <SkillMax>MAX</SkillMax>
 
   <!-- EN: Barely heard of it -->
-  <Skill0>TODO</Skill0>
+  <Skill0>Deabia am auzit de ea</Skill0>
   <!-- EN: Utter beginner -->
-  <Skill1>TODO</Skill1>
+  <Skill1>Începător total</Skill1>
   <!-- EN: Beginner -->
-  <Skill2>TODO</Skill2>
+  <Skill2>Începător</Skill2>
   <!-- EN: Basic familiarity -->
-  <Skill3>TODO</Skill3>
+  <Skill3>Familiaritate de bază</Skill3>
   <!-- EN: Some familiarity -->
-  <Skill4>TODO</Skill4>
+  <Skill4>O oarecare familiaritate</Skill4>
   <!-- EN: Significant familiarity -->
-  <Skill5>TODO</Skill5>
+  <Skill5>Familiaritate semnificativă</Skill5>
   <!-- EN: Capable amateur -->
-  <Skill6>TODO</Skill6>
+  <Skill6>Amator capabil</Skill6>
   <!-- EN: Weak professional -->
-  <Skill7>TODO</Skill7>
+  <Skill7>Profesionist slab</Skill7>
   <!-- EN: Employable professional -->
-  <Skill8>TODO</Skill8>
+  <Skill8>Profesionist angajabil</Skill8>
   <!-- EN: Solid professional -->
-  <Skill9>TODO</Skill9>
+  <Skill9>Profesionist solid</Skill9>
   <!-- EN: Skilled professional -->
-  <Skill10>TODO</Skill10>
+  <Skill10>Profesionist calificat</Skill10>
   <!-- EN: Very skilled professional -->
-  <Skill11>TODO</Skill11>
+  <Skill11>Profesionist înalt calificat</Skill11>
   <!-- EN: Expert -->
-  <Skill12>TODO</Skill12>
+  <Skill12>Expert</Skill12>
   <!-- EN: Strong expert -->
-  <Skill13>TODO</Skill13>
+  <Skill13>Foarte expert</Skill13>
   <!-- EN: Master -->
-  <Skill14>TODO</Skill14>
+  <Skill14>Maestru</Skill14>
   <!-- EN: Strong master -->
-  <Skill15>TODO</Skill15>
+  <Skill15>Stăpân puternic</Skill15>
   <!-- EN: Region-known master -->
-  <Skill16>TODO</Skill16>
+  <Skill16>Maestru cunoscut regional</Skill16>
   <!-- EN: Region-leading master -->
-  <Skill17>TODO</Skill17>
+  <Skill17>Maestru lider regional</Skill17>
   <!-- EN: Planet-known master -->
-  <Skill18>TODO</Skill18>
+  <Skill18>Maestru cunoscut planetar</Skill18>
   <!-- EN: Planet-leading master -->
-  <Skill19>TODO</Skill19>
+  <Skill19>Maestru de frunte planetar</Skill19>
   <!-- EN: Legendary master -->
-  <Skill20>TODO</Skill20>
+  <Skill20>Maestru legendar</Skill20>
   
 </LanguageData>

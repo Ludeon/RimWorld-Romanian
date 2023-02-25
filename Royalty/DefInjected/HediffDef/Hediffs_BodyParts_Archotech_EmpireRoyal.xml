@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: psychic harmonizer -->
-  <PsychicHarmonizer.label>TODO</PsychicHarmonizer.label>
+  <PsychicHarmonizer.label>armonizator psihic</PsychicHarmonizer.label>
   <!-- EN: An installed psychic harmonizer implant. -->
-  <PsychicHarmonizer.description>TODO</PsychicHarmonizer.description>
+  <PsychicHarmonizer.description>Un implant de armonizator psihic instalat.</PsychicHarmonizer.description>
   <!-- EN: a psychic harmonizer -->
-  <PsychicHarmonizer.labelNoun>TODO</PsychicHarmonizer.labelNoun>
+  <PsychicHarmonizer.labelNoun>un armonizator psihic</PsychicHarmonizer.labelNoun>
   
   <!-- EN: psychic reader -->
-  <PsychicReader.label>TODO</PsychicReader.label>
+  <PsychicReader.label>cititor psihic</PsychicReader.label>
   <!-- EN: An installed psychic reader implant. -->
-  <PsychicReader.description>TODO</PsychicReader.description>
+  <PsychicReader.description>Un implant de cititor psihic instalat.</PsychicReader.description>
   <!-- EN: a psychic reader -->
-  <PsychicReader.labelNoun>TODO</PsychicReader.labelNoun>
+  <PsychicReader.labelNoun>un cititor psihic</PsychicReader.labelNoun>
   
   <!-- EN: psychic sensitizer -->
-  <PsychicSensitizer.label>TODO</PsychicSensitizer.label>
+  <PsychicSensitizer.label>sensibilizator psihic</PsychicSensitizer.label>
   <!-- EN: An installed psychic sensitizer implant. -->
-  <PsychicSensitizer.description>TODO</PsychicSensitizer.description>
+  <PsychicSensitizer.description>Un implant sensibilizator psihic instalat.</PsychicSensitizer.description>
   <!-- EN: a psychic sensitizer -->
-  <PsychicSensitizer.labelNoun>TODO</PsychicSensitizer.labelNoun>
+  <PsychicSensitizer.labelNoun>un sensibilizator psihic</PsychicSensitizer.labelNoun>
   
 </LanguageData>

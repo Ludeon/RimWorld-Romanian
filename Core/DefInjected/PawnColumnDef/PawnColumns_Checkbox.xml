@@ -2,18 +2,21 @@
 <LanguageData>
   
   <!-- EN: Follow master while the master is drafted. -->
-  <FollowDrafted.headerTip>TODO</FollowDrafted.headerTip>
+  <FollowDrafted.headerTip>Urmează stăpânul în timp ce stăpânul este recrutat.</FollowDrafted.headerTip>
   
   <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
-  <FollowFieldwork.headerTip>TODO</FollowFieldwork.headerTip>
+  <FollowFieldwork.headerTip>Urmărește-l pe stăpân în timp ce stăpânul face muncă de teren (vânează sau îmblânzește animale).</FollowFieldwork.headerTip>
   
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <Hunt.headerTip>TODO</Hunt.headerTip>
+  <Hunt.headerTip>Marchează animalele care urmează să fie vânate de vânătorii tăi.</Hunt.headerTip>
+  
+  <!-- EN: Release to wild -->
+  <ReleaseAnimalToWild.headerTip>Eliberează în sălbăticie</ReleaseAnimalToWild.headerTip>
   
   <!-- EN: Slaughter -->
-  <Slaughter.headerTip>TODO</Slaughter.headerTip>
+  <Slaughter.headerTip>Sacrifică</Slaughter.headerTip>
   
   <!-- EN: Tame a wild animal. -->
-  <Tame.headerTip>TODO</Tame.headerTip>
+  <Tame.headerTip>Îmblânzește un animal sălbatic.</Tame.headerTip>
   
 </LanguageData>

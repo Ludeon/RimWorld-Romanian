@@ -2,220 +2,220 @@
 <LanguageData>
   
   <!-- EN: install aesthetic nose -->
-  <InstallAestheticNose.label>TODO</InstallAestheticNose.label>
+  <InstallAestheticNose.label>instalează nasul estetic</InstallAestheticNose.label>
   <!-- EN: Install an aesthetic nose. -->
-  <InstallAestheticNose.description>TODO</InstallAestheticNose.description>
+  <InstallAestheticNose.description>Instalarea unui nas estetic.</InstallAestheticNose.description>
   <!-- EN: Installing aesthetic nose. -->
-  <InstallAestheticNose.jobString>TODO</InstallAestheticNose.jobString>
+  <InstallAestheticNose.jobString>Instalare nas estetic.</InstallAestheticNose.jobString>
   
   <!-- EN: install aesthetic shaper -->
-  <InstallAestheticShaper.label>TODO</InstallAestheticShaper.label>
+  <InstallAestheticShaper.label>instalează un modelator estetic</InstallAestheticShaper.label>
   <!-- EN: Install an aesthetic shaper. -->
-  <InstallAestheticShaper.description>TODO</InstallAestheticShaper.description>
+  <InstallAestheticShaper.description>Instalează un modelator estetic.</InstallAestheticShaper.description>
   <!-- EN: Installing aesthetic shaper. -->
-  <InstallAestheticShaper.jobString>TODO</InstallAestheticShaper.jobString>
+  <InstallAestheticShaper.jobString>Instalarea unui shaper estetic.</InstallAestheticShaper.jobString>
   
   <!-- EN: install armorskin gland -->
-  <InstallArmorskinGland.label>TODO</InstallArmorskinGland.label>
+  <InstallArmorskinGland.label>instalează o glandă de piele de armură</InstallArmorskinGland.label>
   <!-- EN: Install an armorskin gland. -->
-  <InstallArmorskinGland.description>TODO</InstallArmorskinGland.description>
+  <InstallArmorskinGland.description>Instalează o glandă din piele de armură.</InstallArmorskinGland.description>
   <!-- EN: Installing armorskin gland. -->
-  <InstallArmorskinGland.jobString>TODO</InstallArmorskinGland.jobString>
+  <InstallArmorskinGland.jobString>Instalarea unei glande din piele de armură.</InstallArmorskinGland.jobString>
   
   <!-- EN: install circadian assistant -->
-  <InstallCircadianAssistant.label>TODO</InstallCircadianAssistant.label>
+  <InstallCircadianAssistant.label>instalează un asistent circadian</InstallCircadianAssistant.label>
   <!-- EN: Install a circadian assistant. -->
-  <InstallCircadianAssistant.description>TODO</InstallCircadianAssistant.description>
+  <InstallCircadianAssistant.description>Instalează un asistent circadian.</InstallCircadianAssistant.description>
   <!-- EN: Installing circadian assistant. -->
-  <InstallCircadianAssistant.jobString>TODO</InstallCircadianAssistant.jobString>
+  <InstallCircadianAssistant.jobString>Instalarea unui asistent circadian.</InstallCircadianAssistant.jobString>
   
   <!-- EN: install circadian half-cycler -->
-  <InstallCircadianHalfCycler.label>TODO</InstallCircadianHalfCycler.label>
+  <InstallCircadianHalfCycler.label>instalează un semiciclator circadian</InstallCircadianHalfCycler.label>
   <!-- EN: Install a circadian half-cycler. -->
-  <InstallCircadianHalfCycler.description>TODO</InstallCircadianHalfCycler.description>
+  <InstallCircadianHalfCycler.description>Instalează un semiciclator circadian.</InstallCircadianHalfCycler.description>
   <!-- EN: Installing circadian half-cycler. -->
-  <InstallCircadianHalfCycler.jobString>TODO</InstallCircadianHalfCycler.jobString>
+  <InstallCircadianHalfCycler.jobString>Instalarea semiciclomerului circadian.</InstallCircadianHalfCycler.jobString>
   
   <!-- EN: install coagulator -->
-  <InstallCoagulator.label>TODO</InstallCoagulator.label>
+  <InstallCoagulator.label>install coagulator</InstallCoagulator.label>
   <!-- EN: Install a coagulator. -->
-  <InstallCoagulator.description>TODO</InstallCoagulator.description>
+  <InstallCoagulator.description>Instalarea unui coagulator.</InstallCoagulator.description>
   <!-- EN: Installing coagulator. -->
-  <InstallCoagulator.jobString>TODO</InstallCoagulator.jobString>
+  <InstallCoagulator.jobString>Instalarea coagulatorului.</InstallCoagulator.jobString>
   
   <!-- EN: install detoxifier stomach -->
-  <InstallDetoxifierStomach.label>TODO</InstallDetoxifierStomach.label>
+  <InstallDetoxifierStomach.label>instalează un stomac detoxifiant</InstallDetoxifierStomach.label>
   <!-- EN: Install a detoxifier stomach. -->
-  <InstallDetoxifierStomach.description>TODO</InstallDetoxifierStomach.description>
+  <InstallDetoxifierStomach.description>Instalați un stomac detoxifiant.</InstallDetoxifierStomach.description>
   <!-- EN: Installing detoxifier stomach. -->
-  <InstallDetoxifierStomach.jobString>TODO</InstallDetoxifierStomach.jobString>
+  <InstallDetoxifierStomach.jobString>Instalarea unui stomac detoxifiant.</InstallDetoxifierStomach.jobString>
   
   <!-- EN: install gastro-analyzer -->
-  <InstallGastroAnalyzer.label>TODO</InstallGastroAnalyzer.label>
+  <InstallGastroAnalyzer.label>instalează gastro-analizatorul</InstallGastroAnalyzer.label>
   <!-- EN: Install a gastro-analyzer. -->
-  <InstallGastroAnalyzer.description>TODO</InstallGastroAnalyzer.description>
+  <InstallGastroAnalyzer.description>Instalarea unui gastro-analizator.</InstallGastroAnalyzer.description>
   <!-- EN: Installing gastro-analyzer. -->
-  <InstallGastroAnalyzer.jobString>TODO</InstallGastroAnalyzer.jobString>
+  <InstallGastroAnalyzer.jobString>Instalarea gastro-analizatorului.</InstallGastroAnalyzer.jobString>
   
   <!-- EN: install healing enhancer -->
-  <InstallHealingEnhancer.label>TODO</InstallHealingEnhancer.label>
+  <InstallHealingEnhancer.label>instalează un amplificator de vindecare</InstallHealingEnhancer.label>
   <!-- EN: Install a healing enhancer. -->
-  <InstallHealingEnhancer.description>TODO</InstallHealingEnhancer.description>
+  <InstallHealingEnhancer.description>Instalarea unui potențiator de vindecare.</InstallHealingEnhancer.description>
   <!-- EN: Installing healing enhancer. -->
-  <InstallHealingEnhancer.jobString>TODO</InstallHealingEnhancer.jobString>
+  <InstallHealingEnhancer.jobString>Instalarea unui ameliorator de vindecare.</InstallHealingEnhancer.jobString>
   
   <!-- EN: install immunoenhancer -->
-  <InstallImmunoenhancer.label>TODO</InstallImmunoenhancer.label>
+  <InstallImmunoenhancer.label>instalează imunoenhancer</InstallImmunoenhancer.label>
   <!-- EN: Install an immunoenhancer. -->
-  <InstallImmunoenhancer.description>TODO</InstallImmunoenhancer.description>
+  <InstallImmunoenhancer.description>Instalarea unui imunoamplificator.</InstallImmunoenhancer.description>
   <!-- EN: Installing immunoenhancer. -->
-  <InstallImmunoenhancer.jobString>TODO</InstallImmunoenhancer.jobString>
+  <InstallImmunoenhancer.jobString>Instalarea unui imunoenhancer.</InstallImmunoenhancer.jobString>
   
   <!-- EN: install learning assistant -->
-  <InstallLearningAssistant.label>TODO</InstallLearningAssistant.label>
+  <InstallLearningAssistant.label>instalează un asistent de învățare</InstallLearningAssistant.label>
   <!-- EN: Install a learning assistant. -->
-  <InstallLearningAssistant.description>TODO</InstallLearningAssistant.description>
+  <InstallLearningAssistant.description>Instalarea unui asistent de învățare.</InstallLearningAssistant.description>
   <!-- EN: Installing learning assistant. -->
-  <InstallLearningAssistant.jobString>TODO</InstallLearningAssistant.jobString>
+  <InstallLearningAssistant.jobString>Instalarea unui asistent de învățare.</InstallLearningAssistant.jobString>
   
   <!-- EN: install love enhancer -->
-  <InstallLoveEnhancer.label>TODO</InstallLoveEnhancer.label>
+  <InstallLoveEnhancer.label>instalează love enhancer</InstallLoveEnhancer.label>
   <!-- EN: Install a love enhancer. -->
-  <InstallLoveEnhancer.description>TODO</InstallLoveEnhancer.description>
+  <InstallLoveEnhancer.description>Instalarea unui love enhancer.</InstallLoveEnhancer.description>
   <!-- EN: Installing love enhancer. -->
-  <InstallLoveEnhancer.jobString>TODO</InstallLoveEnhancer.jobString>
+  <InstallLoveEnhancer.jobString>Instalare love enhancer.</InstallLoveEnhancer.jobString>
   
   <!-- EN: install neurocalculator -->
-  <InstallNeurocalculator.label>TODO</InstallNeurocalculator.label>
+  <InstallNeurocalculator.label>instalează neurocalculator</InstallNeurocalculator.label>
   <!-- EN: Install a neurocalculator. -->
-  <InstallNeurocalculator.description>TODO</InstallNeurocalculator.description>
+  <InstallNeurocalculator.description>Instalarea unui neurocalculator.</InstallNeurocalculator.description>
   <!-- EN: Installing neurocalculator. -->
-  <InstallNeurocalculator.jobString>TODO</InstallNeurocalculator.jobString>
+  <InstallNeurocalculator.jobString>Instalarea neurocalculatorului.</InstallNeurocalculator.jobString>
   
   <!-- EN: install nuclear stomach -->
-  <InstallNuclearStomach.label>TODO</InstallNuclearStomach.label>
+  <InstallNuclearStomach.label>instalează stomacul nuclear</InstallNuclearStomach.label>
   <!-- EN: Install a nuclear stomach. -->
-  <InstallNuclearStomach.description>TODO</InstallNuclearStomach.description>
+  <InstallNuclearStomach.description>Instalarea unui stomac nuclear.</InstallNuclearStomach.description>
   <!-- EN: Installing nuclear stomach. -->
-  <InstallNuclearStomach.jobString>TODO</InstallNuclearStomach.jobString>
+  <InstallNuclearStomach.jobString>Instalarea stomacului nuclear.</InstallNuclearStomach.jobString>
   
   <!-- EN: install reprocessor stomach -->
-  <InstallReprocessorStomach.label>TODO</InstallReprocessorStomach.label>
+  <InstallReprocessorStomach.label>instalează un stomac reprocesor</InstallReprocessorStomach.label>
   <!-- EN: Install a reprocessor stomach. -->
-  <InstallReprocessorStomach.description>TODO</InstallReprocessorStomach.description>
+  <InstallReprocessorStomach.description>Instalează un stomac reprocesor.</InstallReprocessorStomach.description>
   <!-- EN: Installing reprocessor stomach. -->
-  <InstallReprocessorStomach.jobString>TODO</InstallReprocessorStomach.jobString>
+  <InstallReprocessorStomach.jobString>Instalare stomac reprocesor.</InstallReprocessorStomach.jobString>
   
   <!-- EN: install stoneskin gland -->
-  <InstallStoneskinGland.label>TODO</InstallStoneskinGland.label>
+  <InstallStoneskinGland.label>instalează o glandă cu piele de piatră</InstallStoneskinGland.label>
   <!-- EN: Install a stoneskin gland. -->
-  <InstallStoneskinGland.description>TODO</InstallStoneskinGland.description>
+  <InstallStoneskinGland.description>Instalează o glandă stoneskin.</InstallStoneskinGland.description>
   <!-- EN: Installing stoneskin gland. -->
-  <InstallStoneskinGland.jobString>TODO</InstallStoneskinGland.jobString>
+  <InstallStoneskinGland.jobString>Instalare glandă stoneskin.</InstallStoneskinGland.jobString>
   
   <!-- EN: install toughskin gland -->
-  <InstallToughskinGland.label>TODO</InstallToughskinGland.label>
+  <InstallToughskinGland.label>instalează glanda toughskin</InstallToughskinGland.label>
   <!-- EN: Install a toughskin gland. -->
-  <InstallToughskinGland.description>TODO</InstallToughskinGland.description>
+  <InstallToughskinGland.description>Instalează o glandă toughskin.</InstallToughskinGland.description>
   <!-- EN: Installing toughskin gland. -->
-  <InstallToughskinGland.jobString>TODO</InstallToughskinGland.jobString>
+  <InstallToughskinGland.jobString>Instalarea glandei toughskin.</InstallToughskinGland.jobString>
   
   <!-- EN: remove aesthetic nose -->
-  <RemoveAestheticNose.label>TODO</RemoveAestheticNose.label>
+  <RemoveAestheticNose.label>Îndepărtarea nasului estetic</RemoveAestheticNose.label>
   <!-- EN: Remove aesthetic nose. -->
-  <RemoveAestheticNose.description>TODO</RemoveAestheticNose.description>
+  <RemoveAestheticNose.description>Îndepărtarea nasului estetic.</RemoveAestheticNose.description>
   <!-- EN: Removing aesthetic nose. -->
-  <RemoveAestheticNose.jobString>TODO</RemoveAestheticNose.jobString>
+  <RemoveAestheticNose.jobString>Îndepărtarea nasului estetic.</RemoveAestheticNose.jobString>
   
   <!-- EN: remove aesthetic shaper -->
-  <RemoveAestheticShaper.label>TODO</RemoveAestheticShaper.label>
+  <RemoveAestheticShaper.label>Îndepărtare modelator estetic</RemoveAestheticShaper.label>
   <!-- EN: Remove aesthetic shaper. -->
-  <RemoveAestheticShaper.description>TODO</RemoveAestheticShaper.description>
+  <RemoveAestheticShaper.description>Îndepărtare shaper estetic.</RemoveAestheticShaper.description>
   <!-- EN: Removing aesthetic shaper. -->
-  <RemoveAestheticShaper.jobString>TODO</RemoveAestheticShaper.jobString>
+  <RemoveAestheticShaper.jobString>Îndepărtarea modelatorului estetic.</RemoveAestheticShaper.jobString>
   
   <!-- EN: remove armorskin gland -->
-  <RemoveArmorskinGland.label>TODO</RemoveArmorskinGland.label>
+  <RemoveArmorskinGland.label>Îndepărtarea glandei de piele de armură</RemoveArmorskinGland.label>
   <!-- EN: Remove armorskin gland. -->
-  <RemoveArmorskinGland.description>TODO</RemoveArmorskinGland.description>
+  <RemoveArmorskinGland.description>Îndepărtarea glandei de piele de armură.</RemoveArmorskinGland.description>
   <!-- EN: Removing armorskin gland. -->
-  <RemoveArmorskinGland.jobString>TODO</RemoveArmorskinGland.jobString>
+  <RemoveArmorskinGland.jobString>Îndepărtarea glandei de piele de armură.</RemoveArmorskinGland.jobString>
   
   <!-- EN: remove circadian assistant -->
-  <RemoveCircadianAssistant.label>TODO</RemoveCircadianAssistant.label>
+  <RemoveCircadianAssistant.label>Eliminarea asistentului circadian</RemoveCircadianAssistant.label>
   <!-- EN: Remove circadian assistant. -->
-  <RemoveCircadianAssistant.description>TODO</RemoveCircadianAssistant.description>
+  <RemoveCircadianAssistant.description>Îndepărtarea asistentului circadian.</RemoveCircadianAssistant.description>
   <!-- EN: Removing circadian assistant. -->
-  <RemoveCircadianAssistant.jobString>TODO</RemoveCircadianAssistant.jobString>
+  <RemoveCircadianAssistant.jobString>Îndepărtarea asistentului circadian.</RemoveCircadianAssistant.jobString>
   
   <!-- EN: remove circadian half-cycler -->
-  <RemoveCircadianHalfCycler.label>TODO</RemoveCircadianHalfCycler.label>
+  <RemoveCircadianHalfCycler.label>Îndepărtarea semiciclistului circadian</RemoveCircadianHalfCycler.label>
   <!-- EN: Remove circadian half-cycler. -->
-  <RemoveCircadianHalfCycler.description>TODO</RemoveCircadianHalfCycler.description>
+  <RemoveCircadianHalfCycler.description>Îndepărtarea semiciclistului circadian.</RemoveCircadianHalfCycler.description>
   <!-- EN: Removing circadian half-cycler. -->
-  <RemoveCircadianHalfCycler.jobString>TODO</RemoveCircadianHalfCycler.jobString>
+  <RemoveCircadianHalfCycler.jobString>Îndepărtarea semiciclomerului circadian.</RemoveCircadianHalfCycler.jobString>
   
   <!-- EN: remove coagulator -->
-  <RemoveCoagulator.label>TODO</RemoveCoagulator.label>
+  <RemoveCoagulator.label>Remove coagulator</RemoveCoagulator.label>
   <!-- EN: Remove coagulator. -->
-  <RemoveCoagulator.description>TODO</RemoveCoagulator.description>
+  <RemoveCoagulator.description>Îndepărtarea coagulatorului.</RemoveCoagulator.description>
   <!-- EN: Removing coagulator. -->
-  <RemoveCoagulator.jobString>TODO</RemoveCoagulator.jobString>
+  <RemoveCoagulator.jobString>Îndepărtarea coagulatorului.</RemoveCoagulator.jobString>
   
   <!-- EN: remove gastro-analyzer -->
-  <RemoveGastroAnalyzer.label>TODO</RemoveGastroAnalyzer.label>
+  <RemoveGastroAnalyzer.label>Îndepărtarea gastro-analizatorului</RemoveGastroAnalyzer.label>
   <!-- EN: Remove gastro-analyzer. -->
-  <RemoveGastroAnalyzer.description>TODO</RemoveGastroAnalyzer.description>
+  <RemoveGastroAnalyzer.description>Îndepărtarea gastro-analizatorului.</RemoveGastroAnalyzer.description>
   <!-- EN: Removing gastro-analyzer. -->
-  <RemoveGastroAnalyzer.jobString>TODO</RemoveGastroAnalyzer.jobString>
+  <RemoveGastroAnalyzer.jobString>Îndepărtarea gastro-analizatorului.</RemoveGastroAnalyzer.jobString>
   
   <!-- EN: remove healing enhancer -->
-  <RemoveHealingEnhancer.label>TODO</RemoveHealingEnhancer.label>
+  <RemoveHealingEnhancer.label>Îndepărtarea amelioratorului de vindecare</RemoveHealingEnhancer.label>
   <!-- EN: Remove healing enhancer. -->
-  <RemoveHealingEnhancer.description>TODO</RemoveHealingEnhancer.description>
+  <RemoveHealingEnhancer.description>Îndepărtarea amelioratorului de vindecare.</RemoveHealingEnhancer.description>
   <!-- EN: Removing healing enhancer. -->
-  <RemoveHealingEnhancer.jobString>TODO</RemoveHealingEnhancer.jobString>
+  <RemoveHealingEnhancer.jobString>Îndepărtarea amelioratorului de vindecare.</RemoveHealingEnhancer.jobString>
   
   <!-- EN: remove immunoenhancer -->
-  <RemoveImmunoenhancer.label>TODO</RemoveImmunoenhancer.label>
+  <RemoveImmunoenhancer.label>Îndepărtarea imunoamplificatorului</RemoveImmunoenhancer.label>
   <!-- EN: Remove immunoenhancer. -->
-  <RemoveImmunoenhancer.description>TODO</RemoveImmunoenhancer.description>
+  <RemoveImmunoenhancer.description>Îndepărtarea imunoamplificatorului.</RemoveImmunoenhancer.description>
   <!-- EN: Removing immunoenhancer. -->
-  <RemoveImmunoenhancer.jobString>TODO</RemoveImmunoenhancer.jobString>
+  <RemoveImmunoenhancer.jobString>Îndepărtarea immunoenhancer.</RemoveImmunoenhancer.jobString>
   
   <!-- EN: remove learning assistant -->
-  <RemoveLearningAssistant.label>TODO</RemoveLearningAssistant.label>
+  <RemoveLearningAssistant.label>Eliminarea asistentului de învățare</RemoveLearningAssistant.label>
   <!-- EN: Remove learning assistant. -->
-  <RemoveLearningAssistant.description>TODO</RemoveLearningAssistant.description>
+  <RemoveLearningAssistant.description>Îndepărtarea asistentului de învățare.</RemoveLearningAssistant.description>
   <!-- EN: Removing learning assistant. -->
-  <RemoveLearningAssistant.jobString>TODO</RemoveLearningAssistant.jobString>
+  <RemoveLearningAssistant.jobString>Îndepărtarea asistentului de învățare.</RemoveLearningAssistant.jobString>
   
   <!-- EN: remove love enhancer -->
-  <RemoveLoveEnhancer.label>TODO</RemoveLoveEnhancer.label>
+  <RemoveLoveEnhancer.label>Îndepărtarea love enhancer</RemoveLoveEnhancer.label>
   <!-- EN: Remove love enhancer. -->
-  <RemoveLoveEnhancer.description>TODO</RemoveLoveEnhancer.description>
+  <RemoveLoveEnhancer.description>Îndepărtarea love enhancer.</RemoveLoveEnhancer.description>
   <!-- EN: Removing love enhancer. -->
-  <RemoveLoveEnhancer.jobString>TODO</RemoveLoveEnhancer.jobString>
+  <RemoveLoveEnhancer.jobString>Îndepărtarea love enhancer.</RemoveLoveEnhancer.jobString>
   
   <!-- EN: remove neurocalculator -->
-  <RemoveNeurocalculator.label>TODO</RemoveNeurocalculator.label>
+  <RemoveNeurocalculator.label>Eliminarea neurocalculatorului</RemoveNeurocalculator.label>
   <!-- EN: Remove neurocalculator. -->
-  <RemoveNeurocalculator.description>TODO</RemoveNeurocalculator.description>
+  <RemoveNeurocalculator.description>Îndepărtarea neurocalculatorului.</RemoveNeurocalculator.description>
   <!-- EN: Removing neurocalculator. -->
-  <RemoveNeurocalculator.jobString>TODO</RemoveNeurocalculator.jobString>
+  <RemoveNeurocalculator.jobString>Îndepărtarea neurocalculatorului.</RemoveNeurocalculator.jobString>
   
   <!-- EN: remove stoneskin gland -->
-  <RemoveStoneskinGland.label>TODO</RemoveStoneskinGland.label>
+  <RemoveStoneskinGland.label>Îndepărtarea glandei de piele de piatră</RemoveStoneskinGland.label>
   <!-- EN: Remove stoneskin gland. -->
-  <RemoveStoneskinGland.description>TODO</RemoveStoneskinGland.description>
+  <RemoveStoneskinGland.description>Îndepărtarea glandei stoneskin.</RemoveStoneskinGland.description>
   <!-- EN: Removing stoneskin gland. -->
-  <RemoveStoneskinGland.jobString>TODO</RemoveStoneskinGland.jobString>
+  <RemoveStoneskinGland.jobString>Îndepărtarea glandei stoneskin.</RemoveStoneskinGland.jobString>
   
   <!-- EN: remove toughskin gland -->
-  <RemoveToughskinGland.label>TODO</RemoveToughskinGland.label>
+  <RemoveToughskinGland.label>Îndepărtarea glandei toughskin</RemoveToughskinGland.label>
   <!-- EN: Remove toughskin gland. -->
-  <RemoveToughskinGland.description>TODO</RemoveToughskinGland.description>
+  <RemoveToughskinGland.description>Îndepărtarea glandei toughskin.</RemoveToughskinGland.description>
   <!-- EN: Removing toughskin gland. -->
-  <RemoveToughskinGland.jobString>TODO</RemoveToughskinGland.jobString>
+  <RemoveToughskinGland.jobString>Îndepărtarea glandei toughskin.</RemoveToughskinGland.jobString>
   
 </LanguageData>

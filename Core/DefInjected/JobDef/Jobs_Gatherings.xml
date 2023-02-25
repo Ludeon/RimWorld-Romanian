@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: talking. -->
-  <GiveSpeech.reportString>TODO</GiveSpeech.reportString>
+  <GiveSpeech.reportString>vorbind.</GiveSpeech.reportString>
   
   <!-- EN: marrying TargetA. -->
-  <MarryAdjacentPawn.reportString>TODO</MarryAdjacentPawn.reportString>
+  <MarryAdjacentPawn.reportString>căsătorindu-se cu TargetA.</MarryAdjacentPawn.reportString>
   
   <!-- EN: spectating. -->
-  <SpectateCeremony.reportString>TODO</SpectateCeremony.reportString>
+  <SpectateCeremony.reportString>spectând.</SpectateCeremony.reportString>
   
   <!-- EN: relaxing socially. -->
-  <StandAndBeSociallyActive.reportString>TODO</StandAndBeSociallyActive.reportString>
+  <StandAndBeSociallyActive.reportString>relaxându-se social.</StandAndBeSociallyActive.reportString>
   
 </LanguageData>

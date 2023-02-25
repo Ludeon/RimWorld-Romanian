@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: drill arm -->
-  <DrillArm.label>TODO</DrillArm.label>
+  <DrillArm.label>braț bormașină</DrillArm.label>
   <!-- EN: A mechanical arm replacement for speeding up mining. It has a built-in snake drill, which allows the miner to rapidly find and exploit weak lines in the rock. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
-  <DrillArm.description>TODO</DrillArm.description>
+  <DrillArm.description>Un înlocuitor de braț mecanic pentru accelerarea exploatării miniere. Are un burghiu-șarpe încorporat, care permite minerului să găsească și să exploateze rapid liniile slabe din rocă. De asemenea, dispune de un manipulator de uz general. Este oarecum neîndemânatic, ceea ce încetinește ușor mișcarea.</DrillArm.description>
   
   <!-- EN: elbow blade -->
-  <ElbowBlade.label>TODO</ElbowBlade.label>
+  <ElbowBlade.label>lamă de cot</ElbowBlade.label>
   <!-- EN: A razor-sharp blade that extends at will from a hidden opening at the end of the ulna. Appearing without warning, it can be used for devastating slice attacks. -->
-  <ElbowBlade.description>TODO</ElbowBlade.description>
+  <ElbowBlade.description>O lamă ascuțită ca un briceag care se extinde în voie dintr-o deschidere ascunsă la capătul ulnei. Apărând fără avertisment, poate fi folosită pentru atacuri devastatoare de feliere.</ElbowBlade.description>
   
   <!-- EN: field hand -->
-  <FieldHand.label>TODO</FieldHand.label>
+  <FieldHand.label>mână de teren</FieldHand.label>
   <!-- EN: This mechanical hand replacement is made to speed up the sowing and harvesting tasks of a farmer. Multiple telescoping finger-like protrusions can simultaneously harvest from several points on the same plant, or precisely sow several holes at once. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
-  <FieldHand.description>TODO</FieldHand.description>
+  <FieldHand.description>Această mână mecanică de înlocuire a mâinii este realizată pentru a accelera sarcinile de semănat și recoltat ale unui fermier. Multiplele proeminențe telescopice asemănătoare unor degete pot recolta simultan din mai multe puncte de pe aceeași plantă sau semăna cu precizie mai multe găuri deodată. De asemenea, dispune de un manipulator de uz general. Este oarecum neîndemânatic, ceea ce încetinește ușor mișcarea.</FieldHand.description>
   
   <!-- EN: hand talon -->
-  <HandTalon.label>TODO</HandTalon.label>
+  <HandTalon.label>talon de mână</HandTalon.label>
   <!-- EN: A razor-sharp talon which extends from a hidden opening between the middle and ring fingers. The talon is longer than the palm, but it becomes flexible upon retracting, allowing the user to curl it up and conceal it inside the hand. It can perform rapid slashing attacks, but is poor at penetrating armor. -->
-  <HandTalon.description>TODO</HandTalon.description>
+  <HandTalon.description>Un gheară ascuțită ca un brici care se extinde dintr-o deschidere ascunsă între degetele mijlociu și inelar. Talonul este mai lung decât palma, dar devine flexibil la retragere, permițând utilizatorului să îl încolăcească și să îl ascundă în interiorul mâinii. Poate efectua atacuri rapide de tăiere, dar este slab la penetrarea armurii.</HandTalon.description>
   
   <!-- EN: knee spike -->
-  <KneeSpike.label>TODO</KneeSpike.label>
+  <KneeSpike.label>țepușă de genunchi</KneeSpike.label>
   <!-- EN: A spike that extends at will from a hidden opening on the front of the knee. Appearing without warning, it can be used for devastating stabbing attacks which penetrate even thick armor. -->
-  <KneeSpike.description>TODO</KneeSpike.description>
+  <KneeSpike.description>O țepușă care se extinde în voie dintr-o deschidere ascunsă în partea din față a genunchiului. Apărând fără avertisment, poate fi folosit pentru atacuri devastatoare de înjunghiere care penetrează chiar și armurile groase.</KneeSpike.description>
   
   <!-- EN: mindscrew -->
-  <Mindscrew.label>TODO</Mindscrew.label>
+  <Mindscrew.label>șurub mental</Mindscrew.label>
   <!-- EN: Inflicts continuous pain on the user. Mindscrews are used by some authorities as a long-term punishment. Some even install them voluntarily as a demonstration of ideological or religious devotion. -->
-  <Mindscrew.description>TODO</Mindscrew.description>
+  <Mindscrew.description>Provoacă o durere continuă asupra utilizatorului. Șuruburile mentale sunt folosite de unele autorități ca pedeapsă pe termen lung. Unii le instalează chiar în mod voluntar, ca o demonstrație de devotament ideologic sau religios.</Mindscrew.description>
   
   <!-- EN: venom fangs -->
-  <VenomFangs.label>TODO</VenomFangs.label>
+  <VenomFangs.label>colți de venin</VenomFangs.label>
   <!-- EN: A pair of injectors implanted through the canine teeth, connected to a venom pump. The user can bite an enemy, extend the injectors, and pump venom into the target. -->
-  <VenomFangs.description>TODO</VenomFangs.description>
+  <VenomFangs.description>O pereche de injectoare implantate prin dinții canini, conectate la o pompă de venin. Utilizatorul poate mușca un inamic, extinde injectoarele și pompează venin în țintă.</VenomFangs.description>
   
   <!-- EN: venom talon -->
-  <VenomTalon.label>TODO</VenomTalon.label>
+  <VenomTalon.label>talon cu venin</VenomTalon.label>
   <!-- EN: A retractable finger talon connected to a venom pump in the lower arm. The user can scratch an enemy while squirting venom into the wound. The talon is designed to be installed in the middle finger. It's fast, but poor at penetrating armor. -->
-  <VenomTalon.description>TODO</VenomTalon.description>
+  <VenomTalon.description>Un talon retractabil pentru degete conectat la o pompă de venin în partea inferioară a brațului. Utilizatorul poate zgâria un inamic în timp ce aruncă venin în rană. Talonul este conceput pentru a fi instalat în degetul mijlociu. Este rapid, dar slab la penetrarea armurii.</VenomTalon.description>
   
 </LanguageData>
