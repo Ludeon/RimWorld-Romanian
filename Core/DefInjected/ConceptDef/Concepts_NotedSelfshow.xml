@@ -80,7 +80,7 @@
   <!-- EN: Friendly fire safety -->
   <FriendlyFireSafety.label>Siguranța focului prietenos</FriendlyFireSafety.label>
   <!-- EN: Friendly fire never occurs if the shooter is close to their ally.\n\nFor example, you can safely put a sword-wielding colonist directly in front of a gun-wielding one. The shooter will fire over their friend's shoulder.\n\nThis is a good way to combine ranged and melee fighters. -->
-  <FriendlyFireSafety.helpText>Focul prietenesc nu are loc niciodată dacă trăgătorul este aproape de aliatul său.\n\nDe exemplu, puteți pune în siguranță un colonist care mânuiește sabia direct în fața unuia care mânuiește arma. Trăgătorul va trage peste umărul prietenului său.\n\nAceasta este o modalitate bună de a combina luptătorii de la distanță cu cei de corp la corp.</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.helpText>Focul prietenesc nu are loc niciodată dacă trăgătorul este aproape de aliatul său.\n\nDe exemplu, puteți pune în siguranță un colonist care mânuiește sabia direct în fața unuia care mânuiește pușca. Trăgătorul va trage peste umărul prietenului său.\n\nAceasta este o modalitate bună de a combina luptătorii de la distanță cu cei de corp la corp.</FriendlyFireSafety.helpText>
   
   <!-- EN: Getting more traders -->
   <GettingMoreTraders.label>Obținerea mai multor comercianți</GettingMoreTraders.label>

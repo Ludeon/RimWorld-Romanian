@@ -149,15 +149,15 @@
   
   <!-- Medical care category -->
   <!-- EN: no medical care -->
-  <MedicalCareCategory_NoCare>Fără îngrijire medicală</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoCare>fără îngrijire medicală</MedicalCareCategory_NoCare>
   <!-- EN: doctor care, but no medicine -->
-  <MedicalCareCategory_NoMeds>Îngrijire medicală, dar fără medicamente</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_NoMeds>îngrijire medicală, dar fără medicamente</MedicalCareCategory_NoMeds>
   <!-- EN: herbal medicine or worse -->
-  <MedicalCareCategory_HerbalOrWorse>Medicină pe bază de plante sau mai rău</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_HerbalOrWorse>medicină pe bază de plante sau mai rău</MedicalCareCategory_HerbalOrWorse>
   <!-- EN: industrial-tech medicine or worse -->
-  <MedicalCareCategory_NormalOrWorse>Medicină de tehnologie industrială sau mai rău</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>medicină de tehnologie industrială sau mai rău</MedicalCareCategory_NormalOrWorse>
   <!-- EN: best quality medicine -->
-  <MedicalCareCategory_Best>Medicină de cea mai bună calitate</MedicalCareCategory_Best>
+  <MedicalCareCategory_Best>medicină de cea mai bună calitate</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->

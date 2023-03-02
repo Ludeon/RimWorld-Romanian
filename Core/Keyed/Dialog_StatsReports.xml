@@ -305,9 +305,9 @@
   <!-- EN: Rest fall rate -->
   <Stat_Hediff_TirednessOffset_Name>Rata de cădere a odihnei</Stat_Hediff_TirednessOffset_Name>
   <!-- EN: An offset applied to the rate at which the creature's sleep need falls. -->
-  <Stat_Hediff_TirednessOffset_Desc>Un decalaj aplicat la rata la care scade nevoia de odihnă a creaturilor.</Stat_Hediff_TirednessOffset_Desc>
+  <Stat_Hediff_TirednessOffset_Desc>Un decalaj aplicat la rata la care scade nevoia de somn a creaturii.</Stat_Hediff_TirednessOffset_Desc>
   <!-- EN: A multiplier applied to the rate at which the creature's sleep need falls. -->
-  <Stat_Hediff_TirednessFactor_Desc>Un multiplicator aplicat la rata la care nevoia de odihnă a creaturilor cade.</Stat_Hediff_TirednessFactor_Desc>
+  <Stat_Hediff_TirednessFactor_Desc>Un multiplicator aplicat la rata la care scade nevoia de somn a creaturii.</Stat_Hediff_TirednessFactor_Desc>
   <!-- EN: Whether or not this will prevent infections. -->
   <Stat_Hediff_PreventsInfection_Desc>Dacă acest teren va preveni sau nu infecțiile.</Stat_Hediff_PreventsInfection_Desc>
   <!-- EN: The things this terrain supports. -->
@@ -395,7 +395,7 @@
   <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
   <Stat_Thing_Drug_MinToleranceForAddiction_Desc>Toleranța minimă necesară pentru a deveni nou dependent de acest drog.\n\nDacă un utilizator se află sub acest nivel de toleranță, nu poate deveni nou dependent de la administrarea unei doze.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
   <!-- EN: An adult will only become addicted if they take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay. Some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.\n\nNote that the safe dose interval depends on a person's body size. -->
-  <Stat_Thing_Drug_SafeDoseInterval_Desc>Un utilizator nu va deveni niciodată dependent dacă nu ia niciodată drogul mai des decât atât.\n\nSe calculează din toleranța minimă a drogului pentru a deveni dependent, câștigul de toleranță pe doză și rata de scădere a toleranței.\n\nRețineți că unele droguri nu au un interval sigur. Astfel de medicamente pot crea dependență la orice doză, chiar și la prima.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>Un adult va deveni dependent doar dacă ia drogul mai des decât atât.\n\nAceasta se calculează din toleranța minimă a drogului pentru dependent, din creșterea toleranței pe doză și din rata de scădere a toleranței. Unele droguri nu au un intervale fără riscuri. Astfel de medicamente pot crea dependență la orice doză, chiar și la prima.\n\nRețineți că intervalul prudent de dozaj depinde de mărimea corporală a unei persoane.</Stat_Thing_Drug_SafeDoseInterval_Desc>
   <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
   <Stat_Thing_Drug_RandomODChance_Desc>Șansa de supradozaj aleatoriu atunci când se ia acest medicament. Supradozele aleatorii se pot întâmpla la orice doză, indiferent dacă este prima încercare a unui nou consumator sau a suta lovitură a unui dependent experimentat.</Stat_Thing_Drug_RandomODChance_Desc>
   <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->

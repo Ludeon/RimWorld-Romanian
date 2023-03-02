@@ -90,8 +90,8 @@
   <!-- EN: wild man wanders in -->
   <WildManWandersIn.label>un om sălbatic rătăcește prin zonă</WildManWandersIn.label>
   <!-- EN: {0} wanders in -->
-  <WildManWandersIn.letterLabel>{PAWN_kind} rătăcește prin apropiere</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterLabel>{0} rătăcește prin apropiere</WildManWandersIn.letterLabel>
   <!-- EN: A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
-  <WildManWandersIn.letterText>O persoană care trăiește printre animalele sălbatice s-a rătăcit în zonă. {PAWN_pronoun} se numește {0}.\n\nPuteți încerca să îmblânziți sau să arestați pe {PAWN_objective}.</WildManWandersIn.letterText>
+  <WildManWandersIn.letterText>Un {1} care trăiește printre animalele sălbatice s-a rătăcit prin zonă. {PAWN_pronoun} se numește {0}. Puteți încerca să îl îmblânziți pe {PAWN_objective}.</WildManWandersIn.letterText>
   
 </LanguageData>

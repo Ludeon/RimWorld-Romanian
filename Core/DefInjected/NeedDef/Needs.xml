@@ -42,9 +42,9 @@
   <Outdoors.description>Exterior exprimă nevoia de a nu fi închis în casă. Îi dăunează perioadele lungi petrecute în interior, mai ales sub pământ. Se îmbunătățește atunci când cineva petrece timp sub cerul liber, mai ales în aer liber. Nu este vorba de mărimea camerelor, ci de nevoia de a fi afară din când în când. Lipsa timpului petrecut în aer liber este o provocare semnificativă pentru persoanele care locuiesc în baze subterane.</Outdoors.description>
   
   <!-- EN: sleep -->
-  <Rest.label>odihnă</Rest.label>
+  <Rest.label>somn</Rest.label>
   <!-- EN: Sleep is how much time a creature has spent sleeping recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
-  <Rest.description>Odihna reprezintă cât de mult a dormit o creatură în ultima vreme. Dacă este la zero, o creatură va adormi în cele din urmă pe loc.</Rest.description>
+  <Rest.description>Somnul reprezintă cât de mult a dormit o creatură în ultima vreme. Dacă este la zero, o creatură va adormi în cele din urmă pe loc.</Rest.description>
   
   <!-- EN: room size -->
   <RoomSize.label>mărimea camerei</RoomSize.label>

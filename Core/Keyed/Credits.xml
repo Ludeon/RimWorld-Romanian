@@ -5,7 +5,7 @@
   <MainPageCredit>Un generator de povești creat de Tynan Sylvester</MainPageCredit>
 
   <!-- EN: Engineering -->
-  <Credits_Developers>Dezvoltatori</Credits_Developers>
+  <Credits_Developers>Tehnică</Credits_Developers>
   <!-- EN: Audio -->
   <Credit_MusicAndSound>Audio</Credit_MusicAndSound>
   <!-- EN: Art -->
@@ -13,7 +13,7 @@
   <!-- EN: Menu art -->
   <Credit_MenuArt>Artă meniu</Credit_MenuArt>
   <!-- EN: Additional engineering -->
-  <Credits_AdditionalDevelopment>Dezvoltare adițională</Credits_AdditionalDevelopment>
+  <Credits_AdditionalDevelopment>Tehnică suplimentară</Credits_AdditionalDevelopment>
   <!-- EN: Community volunteers -->
   <Credits_TitleCommunity>Voluntari ai comunității</Credits_TitleCommunity>
   <!-- EN: Community testers -->

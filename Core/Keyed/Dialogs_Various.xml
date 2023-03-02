@@ -214,7 +214,7 @@
   <!-- EN: Mods mismatch -->
   <ModsMismatchWarningTitle>Nepotrivire între moduri</ModsMismatchWarningTitle>
   <!-- EN: This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do. -->
-  <ModsMismatchWarningText>Acest fișier a fost salvat cu un set diferit de moduri active față de cele pe care le rulăm în prezent. Acest lucru poate sau nu să cauzeze probleme, în funcție de ce anume fac aceste moduri.\n\nFișierul a fost salvat cu (în această ordine):\n\n{0}\n\nNoi rulăm cu (în această ordine):\n\n{1}</ModsMismatchWarningText>
+  <ModsMismatchWarningText>Acest fișier a fost salvat cu un set diferit de moduri active față de cele pe care le rulăm în prezent. Acest lucru poate sau nu să cauzeze probleme, în funcție de ce anume fac aceste moduri.</ModsMismatchWarningText>
   <!-- EN: No mods have been added or removed, but the order of your mod list has changed. -->
   <ModsMismatchOrderChanged>TODO</ModsMismatchOrderChanged>
   <!-- EN: Are you sure you want to load the mod list from this save file? -->
@@ -305,9 +305,9 @@
   <!-- EN: Minimum skills: -->
   <MinimumSkills>Competențe minime:</MinimumSkills>
   <!-- EN: Requires -->
-  <BillRequires>Necesită {0} {1}</BillRequires>
+  <BillRequires>Necesită</BillRequires>
   <!-- EN: nutrition -->
-  <BillNutrition>TODO</BillNutrition>
+  <BillNutrition>nutriție</BillNutrition>
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
   <BillRequiresMayVary>Notă: Ingredientele de volum mic, cum ar fi aurul, necesită {0}x la fel de mult.</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
@@ -365,7 +365,7 @@
   <!-- EN: Melee warmup -->
   <MeleeWarmupTime>Încălzire de luptă corp la corp</MeleeWarmupTime>
   <!-- EN: Aiming time -->
-  <RangedWarmupTime>TODO</RangedWarmupTime>
+  <RangedWarmupTime>Timp de țintire</RangedWarmupTime>
   <!-- EN: Cooldown -->
   <CooldownTime>Cooldown</CooldownTime>
   <!-- EN: Disarmed -->
@@ -485,7 +485,7 @@
   <!-- EN: New addiction min tolerance -->
   <MinimumToleranceForAddiction>Noua toleranță minimă pentru dependență</MinimumToleranceForAddiction>
   <!-- EN: Safe dose interval for adults -->
-  <SafeDoseInterval>Intervalul de doză sigură</SafeDoseInterval>
+  <SafeDoseInterval>Interval de doză-sigură pentru adulți</SafeDoseInterval>
   <!-- EN: age {0}-{1} -->
   <AgeXToY>TODO</AgeXToY>
   <!-- EN: age {0}+ -->
@@ -541,7 +541,7 @@
   <!-- EN: Revenge chance on harm -->
   <HarmedRevengeChance>Șansa de răzbunare la vătămare</HarmedRevengeChance>
   <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
-  <HarmedRevengeChanceExplanation>Șansa ca această creatură să se răzbune după ce a fost rănită de un atacator la distanță de pușcă.\n\nAceastă șansă crește dacă atacatorul este mai aproape. Dacă este atacat de foarte aproape, șansa este de trei ori mai mare.\nAceastă șansă se aplică de fiecare dată când se provoacă daune, astfel că armele care trag mai încet, cu daune mai mari, au mai puține șanse să o declanșeze.\nPentru a minimiza șansa ca o creatură să caute răzbunare, atacați-o de la distanță de pușcă cu o armă care trage încet.</HarmedRevengeChanceExplanation>
+  <HarmedRevengeChanceExplanation>Șansa ca această creatură să atace atunci când este rănită.\n\nAceastă șansă crește de până la trei ori dacă atacatorul este mai aproape.\n\nAceastă șansă se aplică de fiecare dată când primește daune. Acest lucru înseamnă că armele cu tragere mai lentă și cu pagube mai mari au mai puține șanse să o declanșeze în timpul vânătorii.</HarmedRevengeChanceExplanation>
   <!-- EN: Revenge chance on tame fail -->
   <TameFailedRevengeChance>Șansă de răzbunare la eșecul îmblânzitor</TameFailedRevengeChance>
   <!-- EN: Terrain requirement -->
@@ -1061,7 +1061,7 @@
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
-  <ConfirmSettleNearFactionBase>Din moment ce această locație se află la {0} țigle de o altă bază a unei facțiuni, ei vor simți că le invadezi terenul și relațiile cu acele facțiuni se vor înrăutăți la fiecare {1} zile.\n\nVă așezați aici oricum?</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>Din moment ce această locație se află la {0} țigle de o altă bază a unei facțiuni, ei vor simți că le invadezi terenul și relațiile cu acele facțiuni se vor înrăutăți la fiecare {1} zile.</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
@@ -1101,11 +1101,11 @@
   <!-- EN: Not enough free space. -->
   <AbilityNotEnoughFreeSpace>Nu este suficient spațiu liber.</AbilityNotEnoughFreeSpace>
   <!-- EN: Must target an empty area. -->
-  <AbilityOccupiedCells>{0} trebuie să vizeze o zonă goală.</AbilityOccupiedCells>
+  <AbilityOccupiedCells>Trebuie să vizeze o zonă goală.</AbilityOccupiedCells>
   <!-- EN: Must target a walkable area. -->
-  <AbilityUnwalkable>{0} trebuie să vizeze o zonă în care se poate merge pe jos.</AbilityUnwalkable>
+  <AbilityUnwalkable>Trebuie să vizeze o zonă în care se poate merge pe jos.</AbilityUnwalkable>
   <!-- EN: Must target an unroofed area. -->
-  <AbilityRoofed>{0} trebuie să vizeze o zonă fără acoperiș.</AbilityRoofed>
+  <AbilityRoofed>Trebuie să vizeze o zonă fără acoperiș.</AbilityRoofed>
   <!-- EN: {0_labelShort} is mentally broken. -->
   <AbilityCantApplyToMentallyBroken>{0_labelShort} este afectat mintal.</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->

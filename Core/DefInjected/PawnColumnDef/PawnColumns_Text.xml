@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting. -->
-  <ManhunterOnDamageChance.headerTip>Șansa ca această creatură să atace atunci când este rănită.Această șansă crește de până la trei ori dacă atacatorul este mai aproape.Această șansă se aplică de fiecare dată când este rănită. Acest lucru înseamnă că armele cu tragere mai lentă și cu pagube mai mari au mai puține șanse să o declanșeze în timpul vânătorii.</ManhunterOnDamageChance.headerTip>
+  <ManhunterOnDamageChance.headerTip>Șansa ca această creatură să atace atunci când este rănită.\n\nAceastă șansă crește de până la trei ori dacă atacatorul este mai aproape.\n\nAceastă șansă se aplică de fiecare dată când suferă daune. Acest lucru înseamnă că armele cu tragere mai lentă și cu pagube mai mari au mai puține șanse să o declanșeze în timpul vânătorii.</ManhunterOnDamageChance.headerTip>
   
   <!-- EN: The chance that this creature will attack when a tamer tries to tame it and fails. -->
   <ManhunterOnTameFailChance.headerTip>Șansa ca această creatură să atace atunci când un îmblânzitor încearcă să o îmblânzească și nu reușește.</ManhunterOnTameFailChance.headerTip>

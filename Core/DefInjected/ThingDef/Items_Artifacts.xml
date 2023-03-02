@@ -6,13 +6,13 @@
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
   <PsychicAnimalPulser.description>Un efector psihic cu undă largă cu o singură utilizare. Impulsul psihic umple mințile inferioare cu imagini terifiante, determinând toate animalele din regiune să intre în furie de vânătoare de oameni. Animalele aflate în prezent sub controlul tău nu vor fi afectate.</PsychicAnimalPulser.description>
   <!-- EN: Activate {0_label} -->
-  <PsychicAnimalPulser.comps.CompUsable.useLabel>Activează</PsychicAnimalPulser.comps.CompUsable.useLabel>
+  <PsychicAnimalPulser.comps.CompUsable.useLabel>Activează {0_label}</PsychicAnimalPulser.comps.CompUsable.useLabel>
   
   <!-- EN: psychic soothe pulser -->
   <PsychicSoothePulser.label>pulsator de calmare psihică</PsychicSoothePulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->
   <PsychicSoothePulser.description>Un efector psihic cu unde largi, cu o singură utilizare. Impulsul psihic induce distorsiuni perceptuale autosatisfăcătoare, dând o creștere temporară a dispoziției tuturor celor din regiune.</PsychicSoothePulser.description>
   <!-- EN: Activate {0_label} -->
-  <PsychicSoothePulser.comps.CompUsable.useLabel>Activează</PsychicSoothePulser.comps.CompUsable.useLabel>
+  <PsychicSoothePulser.comps.CompUsable.useLabel>Activează {0_label}</PsychicSoothePulser.comps.CompUsable.useLabel>
   
 </LanguageData>

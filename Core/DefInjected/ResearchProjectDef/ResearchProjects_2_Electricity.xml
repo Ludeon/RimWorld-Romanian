@@ -27,9 +27,9 @@
   <BlowbackOperation.description>Construiește arme de mică putere cu funcționare blowback, cum ar fi pistoale automate și pistoale mitralieră.</BlowbackOperation.description>
   
   <!-- EN: advanced lights -->
-  <ColoredLights.label>lumini colorate</ColoredLights.label>
+  <ColoredLights.label>lumini avansate</ColoredLights.label>
   <!-- EN: Change the color of standard electric lamps, and reduce their power consumption by half. This does not affect sun lamps. -->
-  <ColoredLights.description>Construiește lumini colorate în scopuri decorative. Doar cosmetice.</ColoredLights.description>
+  <ColoredLights.description>Schimbați culoarea lămpilor electrice standard și reduceți consumul de energie la jumătate. Acest lucru nu afectează lămpile solare.</ColoredLights.description>
   
   <!-- EN: electricity -->
   <Electricity.label>electricitate</Electricity.label>

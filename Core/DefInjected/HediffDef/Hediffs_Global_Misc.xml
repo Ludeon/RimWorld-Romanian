@@ -137,12 +137,12 @@
   <!-- EN: resurrection sickness -->
   <ResurrectionSickness.label>rău de înviere</ResurrectionSickness.label>
   <!-- EN: After-effects of resurrection. Artificially-restarted body processes take time to rebalance themselves. -->
-  <ResurrectionSickness.description>Urmările învierii prin injectare de mecanită. Procesele corpului pornite artificial au nevoie de timp pentru a se reechilibra.</ResurrectionSickness.description>
+  <ResurrectionSickness.description>Urmările resuscitării. Procesele corpului repornit artificial au nevoie de timp pentru a se reechilibra.</ResurrectionSickness.description>
   
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>acumularea de substanțe toxice</ToxicBuildup.label>
   <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance. -->
-  <ToxicBuildup.description>Otravă în fluxul sanguin. Aceasta poate proveni din diverse surse, inclusiv toxine din mediul înconjurător, mușcături veninoase sau arme otrăvite.\n\nLa doze mari, acumularea toxică este letală. Chiar și la doze mici, poate genera cancere.\n\nCreaturile care mor din cauza acumulării toxice nu pot fi mâncate.</ToxicBuildup.description>
+  <ToxicBuildup.description>Otravă în sistemul sanguin. Aceasta poate proveni din diverse surse, inclusiv toxine din mediu, mușcături veninoase sau arme otrăvite.\n\nÎn doze mari, acumularea de toxine este letală. Chiar și la doze mici, poate genera cancere.\n\nDacă o creatură moare cu acumulări toxice, există o șansă ca aceasta să nu poată fi mâncată. Cu cât acumularea toxică este mai mare, cu atât mai mare este șansa.</ToxicBuildup.description>
   <!-- EN: initial -->
   <ToxicBuildup.stages.initial-0.label>initial</ToxicBuildup.stages.initial-0.label>
   <!-- EN: initial -->

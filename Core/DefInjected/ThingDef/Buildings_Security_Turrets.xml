@@ -67,7 +67,7 @@
   <!-- EN: Shots until barrel change -->
   <Turret_Autocannon.comps.CompRefuelable.fuelLabel>Trage până la schimbarea țevii</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
   <!-- EN: Needs new barrel -->
-  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>Nu poate trage: Are nevoie de o nouă țeavă</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
+  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>Nevoie de o nouă țeavă</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: foam turret -->
   <Turret_FoamTurret.label>TODO</Turret_FoamTurret.label>
@@ -91,9 +91,9 @@
   <!-- EN: Barrel durability -->
   <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilitatea țevii</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shots until barrel change -->
-  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>Împușcă până la schimbarea butoiului</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>Împușcă până la schimbarea țevii</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
   <!-- EN: Needs new barrel -->
-  <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>Nu poate trage: Are nevoie de un nou butoi</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
+  <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>Nevoie de o nouă țeavă</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: mortar -->
   <Turret_Mortar.label>mortier</Turret_Mortar.label>
@@ -104,7 +104,7 @@
   <!-- EN: Shots until barrel change -->
   <Turret_Mortar.comps.CompRefuelable.fuelLabel>Împușcă până la schimbarea țevii</Turret_Mortar.comps.CompRefuelable.fuelLabel>
   <!-- EN: Needs new reinforced barrel -->
-  <Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>Nu poate trage: Are nevoie de o nouă țeavă întărită</Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>
+  <Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>Nevoie de o nouă țeavă întărită</Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: rocketswarm launcher -->
   <Turret_RocketswarmLauncher.label>TODO</Turret_RocketswarmLauncher.label>
@@ -130,6 +130,6 @@
   <!-- EN: Shots until rearm -->
   <Turret_Sniper.comps.CompRefuelable.fuelLabel>Împușcă până la reînarmare</Turret_Sniper.comps.CompRefuelable.fuelLabel>
   <!-- EN: No slugs -->
-  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>Nu poate trage: gloanțe insuficiente</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>Gloanțe insuficiente</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
   
 </LanguageData>

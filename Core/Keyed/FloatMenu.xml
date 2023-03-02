@@ -77,7 +77,7 @@
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>deja suficient de plin</AlreadyFilledLower>
   <!-- EN: missing {0} -->
-  <MissingMaterials>nevoie de material</MissingMaterials>
+  <MissingMaterials>lipsă de {0}</MissingMaterials>
   <!-- EN: No medicine for restriction '{CATEGORY}'. -->
   <NoMedicineMatchingCategory>TODO</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
@@ -291,7 +291,7 @@
   <ReloadCannotCarryEnough>TODO</ReloadCannotCarryEnough>
   
   <!-- EN: Cannot pick up {1_labelShort} -->
-  <CannotPickUp>Nu se poate lua {1_label}</CannotPickUp>
+  <CannotPickUp>Nu se poate lua {1_labelShort}</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
   <CannotPickUpAll>Nu se poate lua {1_label} (toate)</CannotPickUpAll>
   <!-- EN: Pick up {1_labelShort} x1 -->

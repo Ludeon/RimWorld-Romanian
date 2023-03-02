@@ -73,7 +73,7 @@
   <!-- EN: Hunter lacks ranged weapon -->
   <HunterLacksWeapon>Vânătorul nu are armă</HunterLacksWeapon>
   <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.\n\nThe following colonists are assigned as hunters and need ranged weapons -->
-  <HunterLacksWeaponDesc>Un colonist a fost desemnat ca vânător dar nu are o armă. Acesta nu va vâna până nu are o armă.\n\nPentru a reduce daunele, este recomandată o armă ce poate trage la distanță.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>Un colonist este desemnat să lucreze ca vânător, dar nu are o armă de vânătoare.\n\nEl nu va vâna până când nu va avea o armă de vânătoare.\n\nUrmătorii coloniști sunt desemnați ca vânători și au nevoie de arme de distanță.</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>Haine zdrănțuite</AlertTatteredApparel>
@@ -131,7 +131,7 @@
   <!-- EN: Need batteries -->
   <NeedBatteries>Trebuie baterii</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
-  <NeedBatteriesDesc>Momentan ai doar panouri solare, dar nu ai unde stoca electricitatea. De îndată ce soarele apune, panourile nu vor mai produce electricitate.\n\nConstruiește cel puțin o baterie pentru a stoca electricitate.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Aveți un generator solar sau eolian, dar nu aveți baterii. Veți pierde energie de fiecare dată când soarele apune sau vântul se calmează.</NeedBatteriesDesc>
   <!-- EN: Build a battery or two to guarantee sustained power. -->
   <NeedBatteriesResearchedDesc>TODO</NeedBatteriesResearchedDesc>
   <!-- EN: Research batteries and build a couple to guarantee sustained power. -->
@@ -163,9 +163,9 @@
   <CaravanIdleDesc>Aceste caravane sunt în așteptarea ta pentru a desemna următoarea destinație:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Medical treatment needed -->
-  <ColonistNeedsTreatment>Un colonist are nevoie de tratament</ColonistNeedsTreatment>
+  <ColonistNeedsTreatment>Tratament medical necesar</ColonistNeedsTreatment>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>Acești coloniști au nevoie de îngrijiri medicale. Fără aceasta, ar putea muri din cauza rănilor sau acestea ar putea deveni permanente.\n\n{0}\nÎngrijește-i trimițându-i într-un pat medical.\n\n(Mai întâi, desemnează un pat normal drept unul medical. Apoi, selectează colonistul rănit și dă click dreapta pe pat pentru a deveni pacient.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Acești oameni au nevoie de îngrijiri medicale. Fără aceasta, ar putea muri din cauza rănilor sau acestea ar putea deveni permanente.\n\n{0}\nÎngrijește-i trimițându-i într-un pat medical.\n\n(Mai întâi, desemnează un pat normal drept unul medical. Apoi, selectează persoana rănită și dă click dreapta pe pat pentru a-i face pacient.)</ColonistNeedsTreatmentDesc>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
   <ColonistNeedsTreatmentDescController>TODO</ColonistNeedsTreatmentDescController>
 

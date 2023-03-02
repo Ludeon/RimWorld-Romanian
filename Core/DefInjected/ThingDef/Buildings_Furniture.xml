@@ -79,7 +79,7 @@
   <!-- EN: shelf -->
   <Shelf.label>raft</Shelf.label>
   <!-- EN: A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses. -->
-  <Shelf.description>Un raft pentru depozitarea diverselor obiecte. Obiectele depozitate în acesta nu vor afecta frumusețea camerei și nu se vor deteriora, chiar dacă sunt afară.</Shelf.description>
+  <Shelf.description>Un raft cu trei etajere, care conține de trei ori mai mult decât un raft gol. Obiectele depozitate înăuntru nu se vor deteriora niciodată și nu afectează frumusețea împrejurimilor lor.\n\nDin moment ce spațiul pe raft este limitat, rafturile nu pot conține bucăți, clădiri, plante și cadavre mari.</Shelf.description>
   
   <!-- EN: small shelf -->
   <ShelfSmall.label>TODO</ShelfSmall.label>

@@ -31,7 +31,7 @@
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
   <FirefoamPopper.description>Atunci când detectează un incendiu, acest dispozitiv de siguranță explodează și pulverizează o spumă ignifugă într-un câmp circular în jurul său. Poate fi declanșat și manual.</FirefoamPopper.description>
   <!-- EN: Trigger {0_label} -->
-  <FirefoamPopper.comps.CompUsable.useLabel>Declanșează bomba cu spumă ignifugă</FirefoamPopper.comps.CompUsable.useLabel>
+  <FirefoamPopper.comps.CompUsable.useLabel>Declanșează {0_label}</FirefoamPopper.comps.CompUsable.useLabel>
   
   <!-- EN: grave -->
   <Grave.label>mormânt</Grave.label>

@@ -58,7 +58,7 @@
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>Interacțiunea cu comercianții</InteractingWithTraders.label>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head. -->
-  <InteractingWithTraders.helpText>Poți vorbi cu oamenii care au ? deasupra capului.\n\nSelectează un colonist și dă click dreapta pe personajul cu ? atașat la cap.</InteractingWithTraders.helpText>
+  <InteractingWithTraders.helpText>Poți vorbi cu oamenii care au ? deasupra capului.\n\nSelectează un colonist și dă click dreapta pe personajul cu ? atașat capului lor.</InteractingWithTraders.helpText>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to their head. -->
   <InteractingWithTraders.helpTextController>TODO</InteractingWithTraders.helpTextController>
   

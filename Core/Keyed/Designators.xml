@@ -103,11 +103,11 @@
   <DesignatorAreaIgnoreRoofExpandDesc>Coloniștii vor ignora acoperișurile din această zonă.</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Snow removal area -->
-  <DesignatorAreaSnowClearExpand>Extinde zona de înlăturare zăpadă</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpand>Zona de deszăpezire</DesignatorAreaSnowClearExpand>
   <!-- EN: Create an area which colonists will try to keep clear of snow. -->
   <DesignatorAreaSnowClearExpandDesc>Creează o zonă pe care coloniștii vor încerca să o păstreze curată de zăpadă.</DesignatorAreaSnowClearExpandDesc>
   <!-- EN: Clear snow removal area -->
-  <DesignatorAreaSnowClearClear>Șterge zona de înlăturare zăpadă</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClear>Șterge zona de deszăpezire</DesignatorAreaSnowClearClear>
   <!-- EN: Removes a snow removal area. Colonists will no longer try to keep this area clear of snow. -->
   <DesignatorAreaSnowClearClearDesc>Îndepărtează o zonă de deszăpezire. Coloniștii nu vor mai încerca să mențină această zonă liberă de zăpadă.</DesignatorAreaSnowClearClearDesc>
 

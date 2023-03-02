@@ -25,7 +25,7 @@
   <!-- EN: Shield max energy -->
   <EnergyShieldEnergyMax.label>Energia maximă a scutului</EnergyShieldEnergyMax.label>
   <!-- EN: The maximum energy a shield can have at one time.\n\nMore energy absorbs more damage. -->
-  <EnergyShieldEnergyMax.description>Energia maximă pe care o poate avea o centură de scut la un moment dat.\nMai multă energie absoarbe mai multe pagube.</EnergyShieldEnergyMax.description>
+  <EnergyShieldEnergyMax.description>Energia maximă pe care o poate avea un scut la un moment dat.\n\nMai multă energie absoarbe mai multe daune.</EnergyShieldEnergyMax.description>
   
   <!-- EN: Shield recharge rate -->
   <EnergyShieldRechargeRate.label>Rata de reîncărcare a scutului</EnergyShieldRechargeRate.label>
