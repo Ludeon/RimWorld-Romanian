@@ -111,7 +111,7 @@
   <!-- EN: Slave price -->
   <SlavePrice>Preț de sclav</SlavePrice>
   <!-- EN: The base market value of this slave if sold. -->
-  <SlavePriceDescription>Valoarea de piață de bază a acestui {0} în cazul în care este vândut.</SlavePriceDescription>
+  <SlavePriceDescription>Valoarea de piață de bază a acestui sclav dacă este vândut.</SlavePriceDescription>
   <!-- EN: Gets food -->
   <GetsFood>Primește mâncare</GetsFood>
   <!-- EN: Doctors care -->
@@ -168,7 +168,7 @@
   <!-- EN: Injured -->
   <Injured>Rănit</Injured>
   <!-- EN: untended injury -->
-  <UntendedInjury>Rană netratată</UntendedInjury>
+  <UntendedInjury>rană netratată</UntendedInjury>
   <!-- EN: no health conditions -->
   <NoHealthConditions>fără condiții de sănătate</NoHealthConditions>
   <!-- EN: Whole body -->
@@ -188,9 +188,9 @@
   <!-- EN: Overview -->
   <HealthOverview>Sumar</HealthOverview>
   <!-- EN: Operations -->
-  <MedicalOperationsShort>Operațiuni ({0})</MedicalOperationsShort>
+  <MedicalOperationsShort>Operațiuni</MedicalOperationsShort>
   <!-- EN: Modifications -->
-  <MedicalOperationsMechanoidsShort>Modificări ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperationsMechanoidsShort>Modificări</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
   <MedicalOperations>Operațiuni medicale</MedicalOperations>
   <!-- EN: amputate -->
@@ -273,9 +273,9 @@
   <!-- EN: Faction leader -->
   <FactionLeader>Lider de facțiune</FactionLeader>
   <!-- EN: Opinion of {0} -->
-  <OpinionOf>Opinia lui {1_labelShort}</OpinionOf>
+  <OpinionOf>Opinia lui {0}</OpinionOf>
   <!-- EN: {0}'s opinion of me -->
-  <SomeonesOpinionOfMe>Opinia despre mine a {1_labelShort}</SomeonesOpinionOfMe>
+  <SomeonesOpinionOfMe>Opinia lui {0} despre mine</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
   <IAmDead>Sunt mort</IAmDead>
   <!-- EN: I'm a psychopath -->

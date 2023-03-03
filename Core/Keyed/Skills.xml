@@ -12,13 +12,13 @@
   <!-- EN: Passion -->
   <Passion>Pasiune</Passion>
   <!-- EN: No passion -->
-  <PassionNone>Nimic\n -Învață {0}</PassionNone>
+  <PassionNone>Fără pasiune</PassionNone>
   <!-- EN: Passion -->
-  <PassionMinor>Interesat\n -Învăță {0}</PassionMinor>
+  <PassionMinor>Pasiune</PassionMinor>
   <!-- EN: Burning passion -->
-  <PassionMajor>Ardent\n -Învață {0}</PassionMajor>
+  <PassionMajor>Pasiune arzătoare</PassionMajor>
   <!-- EN: Learning speed -->
-  <LearningSpeed>TODO</LearningSpeed>
+  <LearningSpeed>Viteza de învățare</LearningSpeed>
   <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
   <LearnedMaxToday>Învățat maxim astăzi ({0}/{1}, învățarea ulterioară înmulțită cu {2})</LearnedMaxToday>
   <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->

@@ -37,11 +37,11 @@
   <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
   <PawnFactionInfo>{0}\n\nFacțiunea de care aparține în prezent e {1_nameDef}.\n\nClick pentru a vedea facțiunea.</PawnFactionInfo>
   <!-- EN: Disabled by {0} backstory -->
-  <WorkDisabledByBackstory>Dezactivată de biografia: {0}</WorkDisabledByBackstory>
+  <WorkDisabledByBackstory>Dezactivată de biografia {0}</WorkDisabledByBackstory>
   <!-- EN: Disabled by {0} trait -->
-  <WorkDisabledByTrait>Dezactivată de trăsătură: {0}</WorkDisabledByTrait>
+  <WorkDisabledByTrait>Dezactivată de trăsătura {0}</WorkDisabledByTrait>
   <!-- EN: Disabled by quest '{0}' -->
-  <WorkDisabledByQuest>Dezactivată de misiune: {0}</WorkDisabledByQuest>
+  <WorkDisabledByQuest>Dezactivată de misiunea '{0}'</WorkDisabledByQuest>
   
   <!-- Assign tab -->
   <!-- EN: Manage outfits -->

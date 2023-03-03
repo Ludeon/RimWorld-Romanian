@@ -44,11 +44,11 @@
   <Coagulator.labelNoun>un coagulator</Coagulator.labelNoun>
   
   <!-- EN: sterilizing stomach -->
-  <DetoxifierStomach.label>stomac detoxifiant</DetoxifierStomach.label>
+  <DetoxifierStomach.label>stomac sterilizator</DetoxifierStomach.label>
   <!-- EN: An installed sterilizing stomach. -->
-  <DetoxifierStomach.description>Un stomac detoxifiant instalat.</DetoxifierStomach.description>
+  <DetoxifierStomach.description>Un stomac sterilizator instalat.</DetoxifierStomach.description>
   <!-- EN: a sterilizing stomach -->
-  <DetoxifierStomach.labelNoun>un stomac detoxifiant</DetoxifierStomach.labelNoun>
+  <DetoxifierStomach.labelNoun>un stomac sterilizator</DetoxifierStomach.labelNoun>
   
   <!-- EN: gastro-analyzer -->
   <GastroAnalyzer.label>gastro-analizator</GastroAnalyzer.label>

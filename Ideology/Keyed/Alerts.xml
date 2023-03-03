@@ -22,7 +22,7 @@
   <!-- EN: {0} opportunity for {1} -->
   <RitualOpportunityFor>TODO</RitualOpportunityFor>
   <!-- EN: Expires in {0}, on {1}. -->
-  <RitualExpiresIn>Expiră în</RitualExpiresIn>
+  <RitualExpiresIn>Expiră în {0}, pe {1}.</RitualExpiresIn>
   <!-- EN: To begin the ritual, select a {FOCUS} and click the 'Begin {RITUAL_label}' command. -->
   <RitualSingleTargetDesc>TODO</RitualSingleTargetDesc>
   <!-- EN: To begin the ritual, select one of the following and click the 'Begin {RITUAL_label}' command -->
@@ -37,7 +37,7 @@
   <!-- EN: {0} desired -->
   <IdeoBuildingMissing>{0} dorit</IdeoBuildingMissing>
   <!-- EN: {IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\n{0} is a variant of {BASEBUILDING_label}.{BUILDINGINFO}\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
-  <IdeoBuildingMissingDesc>{IDEO_name} necesită să ai un {0} în colonia ta atâta timp cât {2} sau mai mare.\n\nAceastă cerință este activă doar dacă {IDEO_name} este ideoligia principală a facțiunii tale, sau dacă există credincioși {MINBELIEVERS} în facțiunea ta.{4}\n\n\nDacă cerința nu este îndeplinită, acești credincioși vor deveni nefericiți:\n{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingMissingDesc>{IDEO_name} necesită să aveți un {0} în colonie atâta timp cât {2} sau mai mare.\n\n{0} este o variantă a {BASEBUILDING_label}. {BUILDINGINFO}\n\nAceastă cerință este activă doar dacă {IDEO_name} este ideoligia principală a facțiunii tale, sau dacă există credincioși {MINBELIEVERS} în facțiunea ta.{4}\n\nDacă cerința nu este îndeplinită, acești credincioși vor deveni nefericiți:\n{3}</IdeoBuildingMissingDesc>
   <!-- EN:  You can find it by opening the '{TABNAME}' tab of the architect menu. -->
   <IdeoBuildingArchitectTabDesc>TODO</IdeoBuildingArchitectTabDesc>
   <!-- EN:  It can be created at:\n{0}. -->
@@ -76,7 +76,7 @@
   <!-- EN: Opportunities expire after {0} days, and reoccur on the same day each year. -->
   <AlertRitualComingExtra>Oportunitățile expiră după {0} zile și se repetă în aceeași zi în fiecare an.</AlertRitualComingExtra>
   <!-- EN: {0} on {1}, {2} before opportunity arises -->
-  <AlertRitualComingEntry>{0} pe {1}, {2} rămas</AlertRitualComingEntry>
+  <AlertRitualComingEntry>{0} pe {1}, {2} înainte să apară ocazia</AlertRitualComingEntry>
 
   <!-- EN: Age reversal demanded -->
   <AlertAgeReversalDemandNear>Se cere inversarea vârstei</AlertAgeReversalDemandNear>

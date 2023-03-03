@@ -50,7 +50,7 @@
   <!-- EN: Psyfocus -->
   <PsyfocusLabelGizmo>Psyfocus</PsyfocusLabelGizmo>
   <!-- EN: Psyfocus is a special type of mental structuring which is necessary to use psychic powers. Psyfocus dissipates over time, and must be built by regular meditation. Losing all psyfocus makes someone unable to use psychic powers, but has no other consequences.\n\nHigher levels of psyfocus permit higher-level powers, but also increase the rate of psyfocus dissipation -->
-  <PsyfocusDesc>Psyfocus este un tip special de structurare mentală care este necesar pentru a folosi puterile psihice. Psyfocus-ul se disipează în timp și trebuie construit prin meditație regulată. Pierderea întregului psyfocus face ca cineva să nu poată folosi psihicul, dar nu are alte consecințe.\n\nNiveluri mai mari de psyfocus permit puteri de nivel mai înalt, dar cresc și rata de disipare a psyfocusului</PsyfocusDesc>
+  <PsyfocusDesc>Psyfocus este un tip special de structurare mentală care este necesar pentru a folosi puterile psihice. Psyfocus-ul se disipează în timp și trebuie construit prin meditație regulată. Pierderea întregului psyfocus face ca cineva să nu poată folosi puteri psihice, dar nu are alte consecințe.\n\nNiveluri mai mari de psyfocus permit puteri de nivel mai înalt, dar cresc și rata de disipare a psyfocusului</PsyfocusDesc>
   <!-- EN: {0}-{1}% -->
   <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
   <!-- EN: Up to level {0} powers. -->
@@ -146,20 +146,20 @@
   <BestowingOutcomeQualitySpecific>Calitatea totală a ceremoniei de acordare a fost {0}, determinată de acești factori</BestowingOutcomeQualitySpecific>
   
   <!-- EN: No colonists that can link with anima tree right now. -->
-  <RitualTargetAnimaTreeNoPawnsToLink>Nu există coloniști care să se poată lega cu arborele de anima în acest moment.</RitualTargetAnimaTreeNoPawnsToLink>
+  <RitualTargetAnimaTreeNoPawnsToLink>Nu există coloniști care să se poată lega cu arborele anima în acest moment.</RitualTargetAnimaTreeNoPawnsToLink>
   <!-- EN: No colonists with the natural meditation focus type. -->
   <RitualTargetAnimaTreeNoPawnsWithNatureFocus>Nu există coloniști cu tipul de focalizare a meditației naturale.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
   <!-- EN: Need at least {0} anima grass. -->
-  <RitualTargetAnimaTreeNotEnoughAnimaGrass>Aveți nevoie de cel puțin {0} iarbă de anima.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>Aveți nevoie de cel puțin {0} iarbă anima.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
   <!-- EN: an anima tree -->
-  <RitualTargetAnimaTreeInfo>Un copac de anima.</RitualTargetAnimaTreeInfo>
+  <RitualTargetAnimaTreeInfo>un arbore anima.</RitualTargetAnimaTreeInfo>
   <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
   <RitualTargetAnimaTreeMustBeCapableOfNature>Trebuie să fie un colonist cu tipul de focalizare a meditației naturale care se află sub nivelul maxim de psylink.</RitualTargetAnimaTreeMustBeCapableOfNature>
   <!-- EN: Must not be psychically deaf. -->
   <RitualTargetAnimaTreeMustBePsychicallySensitive>TODO</RitualTargetAnimaTreeMustBePsychicallySensitive>
 
   <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
-  <AnimaLinkingExplanationBase>Ceremonia de legare a anima este mai puternică cu mai mulți participanți. Cu cât participă mai mulți oameni, cu atât mai puțin timp durează ceremonia și cu atât mai multă iarbă de anima va crește.\n\nCu {0} participanți suplimentari, {1} iarbă de anima va fi restaurată la sfârșitul ceremoniei.</AnimaLinkingExplanationBase>
+  <AnimaLinkingExplanationBase>Ceremonia de legare de anima este mai puternică cu mai mulți participanți. Cu cât participă mai mulți oameni, cu atât mai puțin timp durează ceremonia și cu atât mai multă iarbă de anima va crește.\n\nCu {0} participanți suplimentari, {1} iarbă de anima va fi restaurată la sfârșitul ceremoniei.</AnimaLinkingExplanationBase>
   <!-- EN: Not all required cargo is loaded yet! -->
   <ShuttleRequiredItemsNotSatisfied>Nu toată încărcătura necesară este încă încărcată!</ShuttleRequiredItemsNotSatisfied>
 

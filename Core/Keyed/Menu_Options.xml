@@ -11,9 +11,9 @@
   <!-- EN: Music volume -->
   <MusicVolume>Volum Muzică</MusicVolume>
   <!-- EN: Ambience volume -->
-  <AmbientVolume>Volum ambiant</AmbientVolume>
+  <AmbientVolume>Volum ambiental</AmbientVolume>
   <!-- EN: UI volume -->
-  <UIVolume>TODO</UIVolume>
+  <UIVolume>Volum UI</UIVolume>
   <!-- EN: Affects all sounds. -->
   <MasterVolumeTooltip>TODO</MasterVolumeTooltip>
   <!-- EN: Affects all in world sounds, e.g. chopping trees, building walls. -->
@@ -35,11 +35,11 @@
   <!-- EN: Pause on urgent letter -->
   <PauseOnUrgentLetter>Pune pauză la o scrisoare urgentă</PauseOnUrgentLetter>
   <!-- EN: Pause on letter -->
-  <AutomaticPauseModeSetting>Pune pauză la</AutomaticPauseModeSetting>
+  <AutomaticPauseModeSetting>Pune pauză la scrisoare</AutomaticPauseModeSetting>
   <!-- EN: Disable game-specific cursor -->
-  <CustomCursor>Cursor special</CustomCursor>
+  <CustomCursor>Dezactivează cursorul specific jocului</CustomCursor>
   <!-- EN: Hide hats on UI -->
-  <HatsShownOnlyOnMap>Pălării afișate doar pe harta jocului</HatsShownOnlyOnMap>
+  <HatsShownOnlyOnMap>Ascundeți pălăriile de pe UI</HatsShownOnlyOnMap>
   <!-- EN: UI scale -->
   <UIScale>Scala UI</UIScale>
   <!-- EN: Keyboard configuration -->
@@ -145,13 +145,13 @@
   
   <!-- Options reset -->
   <!-- EN: Restore all settings to default -->
-  <RestoreToDefaultSettingsLabel>TODO</RestoreToDefaultSettingsLabel>
+  <RestoreToDefaultSettingsLabel>Restaurează toate setările la setările implicite</RestoreToDefaultSettingsLabel>
   <!-- EN: Restore defaults -->
   <RestoreToDefaultSettings>Restaurează setările implicite</RestoreToDefaultSettings>
   <!-- EN: All settings have been reset. The game will now restart automatically. -->
-  <ResetAndRestart>Opțiunile dvs. au fost resetate. Jocul va reporni acum automat.</ResetAndRestart>
+  <ResetAndRestart>Toate setările au fost resetate. Jocul va reporni acum automat.</ResetAndRestart>
   <!-- EN: All settings will be reset to the default and the game will be restarted. Unsaved progress will be lost,\n\nContinue? -->
-  <ResetAndRestartConfirmationDialog>Toate setările dvs. vor fi resetate la setările implicite și jocul va fi repornit. Toate progresele nesalvate vor fi pierdute!\n\nContinuați?</ResetAndRestartConfirmationDialog>
+  <ResetAndRestartConfirmationDialog>Toate setările vor fi resetate la setările implicite și jocul va fi repornit. Toate progresele nesalvate vor fi pierdute,\n\nContinuați?</ResetAndRestartConfirmationDialog>
   <!-- EN: Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue? -->
   <ChangedTextureCompressionRestart>TODO</ChangedTextureCompressionRestart>
   

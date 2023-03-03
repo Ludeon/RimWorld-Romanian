@@ -249,11 +249,11 @@
   <!-- EN: Entering {0}. -->
   <CaravanEntering>Intrând în {0}.</CaravanEntering>
   <!-- EN: Attacking {0}. -->
-  <CaravanAttacking>Atacarea lui {0}.</CaravanAttacking>
+  <CaravanAttacking>Atacând {0}.</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
   <CaravanOfferingGifts>Oferind cadouri lui {0}.</CaravanOfferingGifts>
   <!-- EN: Trading with {0}. -->
-  <CaravanTrading>Comerț cu {0}</CaravanTrading>
+  <CaravanTrading>Comercializând cu {0}.</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
   <WasWornByCorpse>Pătat din cauza faptului că a fost purtat de un cadavru.</WasWornByCorpse>
   <!-- EN: T -->
@@ -263,17 +263,17 @@
   <!-- EN: outdoors -->
   <DeterioratingOutdoors>în aer liber</DeterioratingOutdoors>
   <!-- EN: raining -->
-  <DeterioratingRaining>TODO</DeterioratingRaining> 
+  <DeterioratingRaining>plouă</DeterioratingRaining> 
   <!-- EN: protected -->
-  <Protected>TODO</Protected>
+  <Protected>protejat</Protected>
   <!-- EN: Deteriorating -->
-  <DeterioratingBecauseOf>Deteriorarea din cauza</DeterioratingBecauseOf>
+  <DeterioratingBecauseOf>În deteriorare</DeterioratingBecauseOf>
   <!-- EN: Will deteriorate in {0}. -->
-  <DeteriorateInDuration>TODO</DeteriorateInDuration>
+  <DeteriorateInDuration>Se va deteriora în {0}.</DeteriorateInDuration>
   <!-- EN: Map -->
   <Map>Hartă</Map>
   <!-- EN: {0} until enemies arrive -->
-  <CaravanDetectedRaidCountdown>{0} până la sosirea dușmanilor</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdown>{0} până la sosirea inamicilor</CaravanDetectedRaidCountdown>
   <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
   <CaravanDetectedRaidCountdownTip>Întăririle inamice vor sosi în această zonă în {0}.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
@@ -281,15 +281,15 @@
   <!-- EN: Beauty here -->
   <BeautyHere>Frumusețe aici</BeautyHere>
   <!-- EN: no power -->
-  <NoPower>Fără putere</NoPower>
+  <NoPower>fără energie</NoPower>
   <!-- EN: Work speed -->
-  <WorkSpeedPenalty>Penalizare pentru viteza de lucru</WorkSpeedPenalty>
+  <WorkSpeedPenalty>Viteză de lucru</WorkSpeedPenalty>
   <!-- EN: Disabled -->
-  <DisabledCommand>DEZACTIVAT</DisabledCommand>
+  <DisabledCommand>Dezactivat</DisabledCommand>
   <!-- EN: Ready for launch. -->
   <ReadyForLaunch>Gata de lansare.</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
-  <NotReadyForLaunch>Nu este pregătit pentru lansare</NotReadyForLaunch>
+  <NotReadyForLaunch>Nu e gata de lansare</NotReadyForLaunch>
   <!-- EN: no fueling port -->
   <NotAllInGroupConnectedToFuelingPort>niciun port de alimentare</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
@@ -463,7 +463,7 @@
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>Detonează în {0} zile</DetonationCountdown>
   <!-- EN: Large fire explosion if damaged. -->
-  <ExplosionOnDamageWarning>Explozie mare în caz de avarie</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>Explozie mare de foc în caz de avarie.</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
   <MechCluster>Cluster Mech</MechCluster>
   <!-- EN: Spawning in {0} -->
@@ -751,17 +751,17 @@
 
   <!-- Snow -->
   <!-- EN: Snow -->
-  <Snow>TODO</Snow>
+  <Snow>Zăpadă</Snow>
   <!-- EN: No snow -->
   <SnowNone>Fără zăpada</SnowNone>
   <!-- EN: dusting -->
-  <SnowDusting>Zăpadă (puțină)</SnowDusting>
+  <SnowDusting>așternut</SnowDusting>
   <!-- EN: thin -->
-  <SnowThin>Zăpadă (strat mic)</SnowThin>
+  <SnowThin>subțire</SnowThin>
   <!-- EN: medium -->
-  <SnowMedium>Zăpadă (strat mediu)</SnowMedium>
+  <SnowMedium>mediu</SnowMedium>
   <!-- EN: thick -->
-  <SnowThick>Zăpadă (strat gros)</SnowThick>
+  <SnowThick>gros</SnowThick>
 
   <!-- Turrets -->
   <!-- EN: Installed -->
@@ -1013,7 +1013,7 @@
   <!-- EN: Unroofed -->
   <IndoorsUnroofed>Neacoperit</IndoorsUnroofed>
   <!-- EN: outdoors -->
-  <Outdoors>Afară</Outdoors>
+  <Outdoors>afată</Outdoors>
 
   <!-- Rotting -->
   <!-- EN: Fresh -->
@@ -1501,7 +1501,7 @@
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>Căldura neuronală: {0} / {1}\nRata de scădere: {2} / s ({3}s până la zero)</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyStats>Rata de cădere: {0} / s ({1}s până la zero)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>Căldura neuronală crește după utilizarea unei puteri psihice. Depășirea limitei normale poate provoca o cădere psihică care durează zile întregi.\n\nCăldura neuronală se disipează în mod natural în timp. Acest proces poate fi accelerat de purtarea de îmbrăcăminte din eltex sau de durere.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->

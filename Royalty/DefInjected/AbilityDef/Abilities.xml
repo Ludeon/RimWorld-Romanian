@@ -29,7 +29,7 @@
   <!-- EN: skipshield -->
   <BulletShield.label>scut de deflecție</BulletShield.label>
   <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. The process is forceful enough to detonate explosive projectiles. People and items are not affected. -->
-  <BulletShield.description>Generează un scut sferic care trimite toate proiectilele care intră și ies de la nivelul solului către un loc îndepărtat. Persoanele și obiectele nu sunt afectate.</BulletShield.description>
+  <BulletShield.description>Generați o poartă de salt sferică care trimite toate proiectilele care intră și ies de la nivelul solului către un loc îndepărtat. Procesul este suficient de puternic pentru a detona proiectile explozive. Persoanele și obiectele nu sunt afectate.</BulletShield.description>
   
   <!-- EN: burden -->
   <Burden.label>încărcare</Burden.label>
@@ -39,12 +39,12 @@
   <!-- EN: chaos skip -->
   <ChaosSkip.label>salt haotic</ChaosSkip.label>
   <!-- EN: Teleport the target to a random position near where it started. Objects above a certain size cannot be teleported. -->
-  <ChaosSkip.description>Teleportează ținta într-o poziție aleatorie, aproape de locul de unde a pornit.</ChaosSkip.description>
+  <ChaosSkip.description>Teleportează ținta într-o poziție aleatorie, aproape de locul de unde a pornit. Obiectele care depășesc o anumită dimensiune nu pot fi teleportate.</ChaosSkip.description>
   
   <!-- EN: chunk skip -->
   <Chunkskip.label>salt de bolovani</Chunkskip.label>
   <!-- EN: Skip the closest 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
-  <Chunkskip.description>Sari peste cele 5 bolovani de piatră sau zgură pentru a le împrăștia în apropierea punctului țintă. Acest lucru este util pentru a produce acoperire în timpul operațiunilor ofensive.</Chunkskip.description>
+  <Chunkskip.description>Sari peste cele mai apropiate 5 bucăți de piatră sau zgură pentru a le împrăștia în apropierea punctului țintă. Acest lucru este util pentru a obține acoperire în timpul operațiunilor ofensive.</Chunkskip.description>
   
   <!-- EN: neural heat dump -->
   <EntropyDump.label>descărcare de căldură neuronală</EntropyDump.label>
@@ -79,7 +79,7 @@
   <!-- EN: mass chaos skip -->
   <MassChaosSkip.label>salt haotic în masă</MassChaosSkip.label>
   <!-- EN: Skip everyone in an area to random positions nearby. Objects which are too large cannot be teleported. -->
-  <MassChaosSkip.description>Sari toată lumea din apropierea unui punct țintă către o locație aleatorie din apropiere.</MassChaosSkip.description>
+  <MassChaosSkip.description>Trimiteți fiecare persoană dintr-o zonă către poziții aleatorii din apropiere. Obiectele care sunt prea mari nu pot fi teleportate.</MassChaosSkip.description>
   
   <!-- EN: neuroquake -->
   <Neuroquake.label>cutremur neuronal</Neuroquake.label>
@@ -96,7 +96,7 @@
   <!-- EN: skip -->
   <Skip.label>salt</Skip.label>
   <!-- EN: Teleport the target to a desired position not too far from its starting point. Objects which are too large cannot be teleported. -->
-  <Skip.description>Teleportează ținta într-o poziție dorită, nu prea departe de punctul său de plecare.</Skip.description>
+  <Skip.description>Teleportează ținta într-o poziție dorită, nu prea departe de punctul de plecare. Obiectele care sunt prea mari nu pot fi teleportate.</Skip.description>
   
   <!-- EN: smokepop -->
   <Smokepop.label>fumigenă</Smokepop.label>

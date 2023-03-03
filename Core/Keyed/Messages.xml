@@ -114,7 +114,7 @@
   <!-- EN: Must designate tameable animals. -->
   <MessageMustDesignateTameable>Trebuie desemnate animale îmblânzibile.</MessageMustDesignateTameable>
   <!-- EN: Must designate abandoned claimable structures or items. -->
-  <MessageMustDesignateClaimable>Trebuie desemnate structurile artificiale abandonate.</MessageMustDesignateClaimable>
+  <MessageMustDesignateClaimable>Trebuie desemnate structurile sau obiectele abandonate care pot fi revendicate.</MessageMustDesignateClaimable>
   <!-- EN: Must designate paintable buildings not already painted {0_label}. -->
   <MessageMustDesignatePaintableBuildings>TODO</MessageMustDesignatePaintableBuildings>
   <!-- EN: Must designate paintable floors which are not already painted {0_label}. -->

@@ -69,7 +69,7 @@
   <!-- EN: Set owner -->
   <CommandThingSetOwnerLabel>Setează proprietarul</CommandThingSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific {0}. -->
-  <CommandBedSetOwnerDesc>Oferă acest pat unui colonist spre a-l folosi.</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerDesc>Atribuie acest pat în folosință unui anumit {0}.</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
   <CommandThroneSetOwnerDesc>Atribuie acest tron să fie deținut de un anumit colonist.</CommandThroneSetOwnerDesc>
   <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
@@ -129,12 +129,12 @@
   <!-- EN: Copy settings -->
   <CommandCopyZoneSettingsLabel>Copiază setările</CommandCopyZoneSettingsLabel>
   <!-- EN: Copy this storage's settings to the clipboard so you can paste them onto another zone. -->
-  <CommandCopyZoneSettingsDesc>Copiază setările acestei zone în clipboard pentru a le putea lipi pe o altă zonă.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>Copiați setările acestei magazii în clipboard pentru a le putea lipi pe o altă zonă.</CommandCopyZoneSettingsDesc>
 
   <!-- EN: Paste settings -->
   <CommandPasteZoneSettingsLabel>Lipește setările</CommandPasteZoneSettingsLabel>
   <!-- EN: Overwrite this storage's settings with those previously copied to the clipboard. -->
-  <CommandPasteZoneSettingsDesc>Suprascrie setările acestei zone cu cele copiate anterior în clipboard.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsDesc>Suprascrie setările acestei magazii cu cele copiate anterior în clipboard.</CommandPasteZoneSettingsDesc>
 
   <!-- EN: Allow sowing -->
   <CommandAllowSow>Permite însămânțarea</CommandAllowSow>
@@ -144,7 +144,7 @@
   <!-- EN: Allow cutting -->
   <CommandAllowCut>Permiteți tăierea</CommandAllowCut>
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest plants matching the growing zone plant type. -->
-  <CommandAllowCutDesc>Când este dezactivat, coloniștii nu vor tăia niciodată plantele din această zonă. Ei vor semăna în continuare plante noi în spațiile care sunt deja goale și vor recolta.</CommandAllowCutDesc>
+  <CommandAllowCutDesc>Atunci când este dezactivată, coloniștii nu vor tăia niciodată plantele din această zonă. Ei vor semăna în continuare plante noi în spațiile care sunt deja goale și vor recolta plante care corespund tipului de plantă din zona de creștere.</CommandAllowCutDesc>
   
   <!-- EN: Select {0_label} -->
   <CommandSelectStoredThing>TODO</CommandSelectStoredThing>

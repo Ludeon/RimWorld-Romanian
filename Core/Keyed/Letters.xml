@@ -16,7 +16,7 @@
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Vară</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>Vara a început! Dar vine iarna.\n\nCulturile voastre nu vor crește în frigul iernii. Asigură-te că depozitezi suficientă mâncare pentru a supraviețui. Poți construi un frigider de tip walk-in pentru a preveni deteriorarea alimentelor.\n\nCumpărați, furați sau confecționați niște parka, altfel veți îngheța când veți ieși afară.</FirstSummerWarning>
+  <FirstSummerWarning>Vara a început! Dar vine iarna.\n\nCulturile voastre nu vor crește în frigul iernii. Asigură-te că depozitezi suficientă mâncare pentru a supraviețui. Poți construi un frigider de tip walk-in pentru a preveni deteriorarea alimentelor.\n\nPentru a vă pregăti de iarnă, cumpărați, furați sau confecționați niște hanorace, altfel veți îngheța când veți ieși afară.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
   <LetterRelationsChange_Hostile>Relațiile cu {0} s-au rupt complet. Ei sunt acum ostili față de dumneavoastră.</LetterRelationsChange_Hostile>  
@@ -48,7 +48,7 @@
   <Death>Moarte</Death>
 
   <!-- EN: A {1_label} has short-circuited due to precipitation and started a fire. -->
-  <ShortCircuitRain>O {1_label} a intrat în scurtcircuit în ploaie și a provocat un incendiu.</ShortCircuitRain>
+  <ShortCircuitRain>O {1_label} a intrat în scurtcircuit din cauza precipitației și a provocat un incendiu.</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
   <LetterLabelAreaRevealed>Zona dezvăluită</LetterLabelAreaRevealed>
@@ -79,9 +79,9 @@
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
   <BirthdayChronological>Astăzi este ziua de naștere cronologică a lui {0}! Din punct de vedere biologic, {1} are {3} ani.\n\nCronologic, {1} tocmai a împlinit {2}.\n\nNotează că, deoarece oamenii nu îmbătrânesc în timpul criptosomnului, ziua de naștere cronologică este separată de cea biologică.</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
-  <LetterBirthdayBiological>TODO</LetterBirthdayBiological>
+  <LetterBirthdayBiological>{0_nameFull} a ajuns la vârsta biologică de {1}.</LetterBirthdayBiological>
   <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
-  <BirthdayBiologicalAgeInjuries>{0_nameFull} a ajuns la vârsta biologică de {1}.\n\nDin păcate, {0_nameFull} a căpătat următoarele boli din cauza îmbătrânirii:\n{2}</BirthdayBiologicalAgeInjuries>
+  <BirthdayBiologicalAgeInjuries>Din păcate, {0_nameFull} a căpătat următoarele boli din cauza îmbătrânirii</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
   <LetterLabelNewDisease>Boala</LetterLabelNewDisease>
@@ -424,7 +424,7 @@
 
   <!-- Disease -->
   <!-- EN: {0} blocked {1} on -->
-  <LetterDisease_Blocked>{0} a blocat {1} pe: {2}.</LetterDisease_Blocked>
+  <LetterDisease_Blocked>{0} a blocat {1} pe</LetterDisease_Blocked>
   <!-- EN: Disease: {0} -->
   <LetterLabelTraitDisease>Boală: {0}</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->

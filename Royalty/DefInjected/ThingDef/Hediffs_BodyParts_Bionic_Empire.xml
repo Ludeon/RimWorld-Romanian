@@ -32,9 +32,9 @@
   <Coagulator.description>Eliberează factori de coagulare ca răspuns la pierderea de sânge, reducând semnificativ ratele de sângerare.</Coagulator.description>
   
   <!-- EN: sterilizing stomach -->
-  <DetoxifierStomach.label>detoxifiant stomac</DetoxifierStomach.label>
+  <DetoxifierStomach.label>stomac sterilizator</DetoxifierStomach.label>
   <!-- EN: An artificial stomach replacement with a broad-spectrum filtration and sterilization system. It allows the user to eat almost anything without ever worrying about food poisoning. -->
-  <DetoxifierStomach.description>Un înlocuitor de stomac artificial cu un sistem de filtrare și neutralizare a toxinelor cu spectru larg. Acesta permite utilizatorului să mănânce aproape orice fără să se îngrijoreze vreodată de otrăvirea alimentară.</DetoxifierStomach.description>
+  <DetoxifierStomach.description>Un înlocuitor de stomac artificial cu un sistem de filtrare și sterilizare cu spectru larg. Acesta permite utilizatorului să mănânce aproape orice fără a se îngrijora vreodată de intoxicații alimentare.</DetoxifierStomach.description>
   
   <!-- EN: gastro-analyzer -->
   <GastroAnalyzer.label>gastro-analizator</GastroAnalyzer.label>

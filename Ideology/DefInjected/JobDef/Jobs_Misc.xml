@@ -23,10 +23,10 @@
   <ExtractRelic.reportString>extragând TargetB din TargetA.</ExtractRelic.reportString>
   
   <!-- EN: extracting TargetB to inventory. -->
-  <ExtractToInventory.reportString>extragerea ȚinteiA în inventar.</ExtractToInventory.reportString>
+  <ExtractToInventory.reportString>extragând TargetB către inventar.</ExtractToInventory.reportString>
   
   <!-- EN: getting neural supercharge from TargetA -->
-  <GetNeuralSupercharge.reportString>Obținerea supraîncărcării neuronale de la TargetA.</GetNeuralSupercharge.reportString>
+  <GetNeuralSupercharge.reportString>obținând supraîncărcării neuronale de la TargetA.</GetNeuralSupercharge.reportString>
   
   <!-- EN: giving TargetA to TargetB. -->
   <GiveToPawn.reportString>dând TargetA către TargetB.</GiveToPawn.reportString>

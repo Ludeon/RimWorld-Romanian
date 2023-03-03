@@ -165,7 +165,7 @@
   <!-- EN: Unsubscribe -->
   <Unsubscribe>Dezabonare</Unsubscribe>
   <!-- EN: Are you sure you want to unsubscribe? -->
-  <ConfirmUnsubscribe>Ești sigur că vrei să te dezabonezi de la {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Sunteți sigur(ă) că vreți să vă dezabonați?</ConfirmUnsubscribe>
   <!-- EN: Are you sure you want to unsubscribe from {0}? -->
   <ConfirmUnsubscribeFrom>TODO</ConfirmUnsubscribeFrom>
   <!-- EN: Are you sure you want to unsubscribe from:\n\n{0} -->
@@ -229,7 +229,7 @@
   <!-- EN: Downloading -->
   <Downloading>În descărcare</Downloading>
   <!-- EN: Workshop ID -->
-  <WorkshopId>TODO</WorkshopId>
+  <WorkshopId>ID de Workshop</WorkshopId>
   <!-- EN: Display fulfilled requirements -->
   <ModDisplayFulfilledRequirements>Afișează cerințele îndeplinite</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
@@ -239,9 +239,9 @@
   <!-- EN: Source -->
   <Source>Sursa</Source>
   <!-- EN: Game versions -->
-  <ModTargetVersion>Pentru versiunea (versiunile) de joc</ModTargetVersion>
+  <ModTargetVersion>Versiunile de joc</ModTargetVersion>
   <!-- EN: Mod version -->
-  <ModVersion>TODO</ModVersion>
+  <ModVersion>Versiunea Mod-ului</ModVersion>
   <!-- EN: ID -->
   <ModPackageId>ID</ModPackageId>
   <!-- EN: This must be loaded before: {0}. -->
@@ -627,21 +627,21 @@
   <!-- EN: Abilities -->
   <Abilities>Abilități</Abilities>
   <!-- EN: Caused by -->
-  <IncapableOfTooltipHediff>Cauzat de: {0}</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>Cauzat de</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
   <IncapableOfTooltipWorkTypes>Tipuri de lucru dezactivate:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by backstory -->
-  <IncapableOfTooltipBackstory>Cauzat de biografia: {0}</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipBackstory>Cauzat de biografie</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title -->
-  <IncapableOfTooltipTitle>Cauzat de titlu: {0}</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>Cauzat de titlu</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait -->
-  <IncapableOfTooltipTrait>Cauzat de trăsătura: {0}</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>Cauzat de trăsătură</IncapableOfTooltipTrait>
   <!-- EN: Caused by quest status -->
-  <IncapableOfTooltipQuest>Cauzat de statutul misiunii: {0}</IncapableOfTooltipQuest>
+  <IncapableOfTooltipQuest>Cauzat de statutul misiunii</IncapableOfTooltipQuest>
   <!-- EN: Caused by role -->
-  <IncapableOfTooltipRole>Cauzat de rolul: {0}</IncapableOfTooltipRole>
+  <IncapableOfTooltipRole>Cauzat de rol</IncapableOfTooltipRole>
   <!-- EN: Caused by gene -->
-  <IncapableOfTooltipGene>TODO</IncapableOfTooltipGene>
+  <IncapableOfTooltipGene>Cauzat de genă</IncapableOfTooltipGene>
   <!-- EN: Traits -->
   <Traits>Trăsături</Traits>
   <!-- EN: Permanent mood effect -->
@@ -724,9 +724,9 @@
   <!-- EN: Factions -->
   <Factions>Facțiuni</Factions>
   <!-- EN: max {0} basic factions allowed -->
-  <TotalFactionsAllowed>Maximum {0} facțiuni vizibile permise.</TotalFactionsAllowed>
+  <TotalFactionsAllowed>maxim {0} facțiuni de bază permise</TotalFactionsAllowed>
   <!-- EN: max {0} -->
-  <MaxFactionsForType>Nu pot exista mai mult de {0} {1}.</MaxFactionsForType>
+  <MaxFactionsForType>maxim {0}</MaxFactionsForType>
   <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
   <FactionSelectionDesc>Selectați facțiunile din lume. Puteți selecta până la {0} facțiuni în total.</FactionSelectionDesc>
   <!-- EN: Disabling {0} means less quest variety and other reduced content. -->

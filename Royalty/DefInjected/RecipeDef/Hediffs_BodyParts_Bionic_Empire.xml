@@ -44,11 +44,11 @@
   <InstallCoagulator.jobString>Instalarea coagulatorului.</InstallCoagulator.jobString>
   
   <!-- EN: install sterilizing stomach -->
-  <InstallDetoxifierStomach.label>instalează un stomac detoxifiant</InstallDetoxifierStomach.label>
+  <InstallDetoxifierStomach.label>instalează un stomac sterilizator</InstallDetoxifierStomach.label>
   <!-- EN: Install a sterilizing stomach. -->
-  <InstallDetoxifierStomach.description>Instalați un stomac detoxifiant.</InstallDetoxifierStomach.description>
+  <InstallDetoxifierStomach.description>Instalați un stomac sterilizator.</InstallDetoxifierStomach.description>
   <!-- EN: Installing sterilizing stomach. -->
-  <InstallDetoxifierStomach.jobString>Instalarea unui stomac detoxifiant.</InstallDetoxifierStomach.jobString>
+  <InstallDetoxifierStomach.jobString>Instalarea unui stomac sterilizator.</InstallDetoxifierStomach.jobString>
   
   <!-- EN: install gastro-analyzer -->
   <InstallGastroAnalyzer.label>instalează gastro-analizatorul</InstallGastroAnalyzer.label>

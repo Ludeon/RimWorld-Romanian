@@ -92,7 +92,7 @@
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>Șansa de a avea precept</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color{ORIDEO} will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>Culoarea preferată a lui {PAWN_labelShort}. Având mai mult de {PERCENTAGE} din hainele {PAWN_possessive} în această culoare, sau culoarea ideologiei {PAWN_possessive}, îl va face pe {PAWN_objective} ușor mai fericit.\n\nPoți modifica culorile hainelor la stația de styling folosind vopseaua tinctoria.</FavoriteColorTooltip>
+  <FavoriteColorTooltip>Culoarea preferată a lui {PAWN_labelShort}. Dacă aveți mai mult de {PERCENTAGE} din hainele {PAWN_possessive} în această culoare{ORIDEO}, {PAWN_objective} va fi puțin mai fericit.\n\nPuteți modifica culorile hainelor la stația de coafură folosind vopseaua tinctoria.</FavoriteColorTooltip>
   <!-- EN: , or the color of {PAWN_possessive} ideoligion, -->
   <OrIdeoColor>TODO</OrIdeoColor>
   <!-- EN: Set ideo color -->
@@ -160,15 +160,15 @@
   <UnableToLoadIdeoPreceptNotAllowed>TODO</UnableToLoadIdeoPreceptNotAllowed>
 
   <!-- EN: Grave containing {PAWN_labelShort}'s corpse -->
-  <RitualTargetGraveInfo>Un mormânt care conține cadavrul lui {PAWN_labelShort}.</RitualTargetGraveInfo>
+  <RitualTargetGraveInfo>Mormânt care conține cadavrul lui {PAWN_labelShort}.</RitualTargetGraveInfo>
   <!-- EN: Empty grave to mourn {PAWN_labelShort}'s passing -->
-  <RitualTargetEmptyGraveInfo>Un mormânt gol pentru a deplânge moartea lui {PAWN_labelShort}.</RitualTargetEmptyGraveInfo>
+  <RitualTargetEmptyGraveInfo>Mormânt gol pentru a deplânge moartea lui {PAWN_labelShort}.</RitualTargetEmptyGraveInfo>
   <!-- EN: Grave containing {IDEO_memberNameIndef}'s corpse -->
-  <RitualTargetGraveInfoAbstract>Un mormânt care conține cadavrul lui {IDEO_memberNameIndef}.</RitualTargetGraveInfoAbstract>
+  <RitualTargetGraveInfoAbstract>Mormânt cu cadavrul lui {IDEO_memberNameIndef}.</RitualTargetGraveInfoAbstract>
   <!-- EN: Grave containing a corpse -->
-  <RitualTargetGraveInfoAbstractNoIdeo>TODO</RitualTargetGraveInfoAbstractNoIdeo>
+  <RitualTargetGraveInfoAbstractNoIdeo>Mormânt cu un cadavru</RitualTargetGraveInfoAbstractNoIdeo>
   <!-- EN: Empty grave to mourn {IDEO_memberNameIndef}'s passing -->
-  <RitualTargetEmptyGraveInfoAbstract>Un mormânt gol pentru a deplânge moartea lui {IDEO_memberNameIndef}.</RitualTargetEmptyGraveInfoAbstract>
+  <RitualTargetEmptyGraveInfoAbstract>Mormânt gol pentru a jeli moartea lui {IDEO_memberNameIndef}.</RitualTargetEmptyGraveInfoAbstract>
   <!-- EN: {PAWN_labelShort}'s body must be buried first -->
   <RitualTargetGraveInfoMustBeBuried>Corpul lui {PAWN_labelShort} trebuie să fie îngropat mai întâi</RitualTargetGraveInfoMustBeBuried>
   <!-- EN: Any gathering spot, like a table -->
@@ -190,9 +190,9 @@
   <!-- EN: Need at least {0} unroofed cells nearby. -->
   <RitualTargetNeedUnroofedCells>Ai nevoie de cel puțin {0} celule neacoperite în apropiere.</RitualTargetNeedUnroofedCells>
   <!-- EN: a lit campfire -->
-  <RitualTargetCampfirePartyInfo>Un foc de tabără aprins sau un loc de ritual.</RitualTargetCampfirePartyInfo>
+  <RitualTargetCampfirePartyInfo>un foc de tabără aprins</RitualTargetCampfirePartyInfo>
   <!-- EN: an unconnected Gauranlen tree -->
-  <RitualTargetUnconnectedGaruanlenTreeInfo>Un copac Gauranlen neconectat.</RitualTargetUnconnectedGaruanlenTreeInfo>
+  <RitualTargetUnconnectedGaruanlenTreeInfo>un copac Gauranlen neconectat</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>Deja conectat la {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
   <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
@@ -630,9 +630,9 @@
   <!-- EN: {PAWN_labelShort} completed healing cycle, and {PAWN_possessive} {HEDIFF_label} was cured. -->
   <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} a finalizat ciclul de vindecare, iar {HEDIFF_label} lor a fost vindecat.</BiosculpterHealCompletedWithCureMessage>
   <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. -->
-  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} a finalizat ciclul de inversare a vârstei {PAWN_possessive}. {PAWN_pronoun} așteaptă următoarea inversare a vârstei în {DEADLINE} zile.</BiosculpterAgeReversalCompletedMessage>
+  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} a finalizat ciclul {PAWN_possessive} de inversare a vârstei.</BiosculpterAgeReversalCompletedMessage>
   <!-- EN: {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
-  <AgeReversalExpectationDeadline>TODO</AgeReversalExpectationDeadline>
+  <AgeReversalExpectationDeadline>{PAWN_pronoun} se așteaptă la următoarea inversare a vârstei în {DEADLINE} zile.</AgeReversalExpectationDeadline>
   <!-- EN: {PAWN_labelShort}'s pleasure cycle is complete. -->
   <BiosculpterPleasureCompletedMessage>Ciclul de plăcere al lui {PAWN_labelShort} s-a încheiat.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
