@@ -72,9 +72,9 @@
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>O intervenție chirurgicală neautorizată, violatoare, a fost efectuată asupra lui {SUBJECT_definite}, pe care ai fost însărcinat să îl protejezi. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>TODO</EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>TODO</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the assigned settlement. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>TODO</EndGame_RoyalAscent.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestLost.slateRef>TODO</EndGame_RoyalAscent.LetterTextGuestLost.slateRef>
   <!-- EN: Shuttle destroyed -->
   <EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>Oaspete pierdut: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
   <!-- EN: The shuttle sent to collect the [asker_faction_leaderTitle] has been destroyed. [failLetterEndingCommon] -->
@@ -84,8 +84,8 @@
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon] -->
   <EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>Naveta trimisă pentru a-l colecta pe [asker_faction_leaderTitle] a fost distrusă. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <EndGame_RoyalAscent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>TODO</EndGame_RoyalAscent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>TODO</EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>
   <!-- EN: The shuttle sent to collect the [asker_faction_leaderTitle] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <EndGame_RoyalAscent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>TODO</EndGame_RoyalAscent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>TODO</EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>
   
 </LanguageData>
