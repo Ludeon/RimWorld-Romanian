@@ -44,6 +44,8 @@ This non-exhaustive table is for keeping consistent translations of certain word
 |botched                               |rasolit                                |
 |bestower                              |emisar                                 |
 |coreworld                             |lumea centrală                         |
+|midworld                              |lumea mediană                          |
+|rimworld                              |lumea marginală                        |
 |withdrawl                             |sevraj                                 |
 |orbital trade beacon                  |baliză de comerț orbital               |
 |bill                                  |slujbă                                 |

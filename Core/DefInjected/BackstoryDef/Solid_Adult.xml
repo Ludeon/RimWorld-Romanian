@@ -2120,12 +2120,12 @@
   <!-- EN: techie -->
   <Technician9.titleShort>tehnician</Technician9.titleShort>
   
-  <!-- EN: [PAWN_nameDef] performed research into propulsive fuels and energy generation.\n\n[PAWN_pronoun] loved technology research, and hoped to improve human life by doing it. -->
-  <TechnologyDoctor35.baseDesc>{PAWN_gender ? [PAWN_nameDef] a efectuat cercetări în domeniul combustibililor propulsoare și al generării de energie.\n\nIubea cercetarea tehnologică și spera să îmbunătățească viața oamenilor prin aceasta. : [PAWN_nameDef] a efectuat cercetări în domeniul combustibililor propulsoare și al generării de energie.\n\nÎi plăcea cercetarea tehnologică și spera să îmbunătățească viața oamenilor prin aceasta.}\n</TechnologyDoctor35.baseDesc>
-  <!-- EN: technology doctor -->
-  <TechnologyDoctor35.title>doctor în tehnologie</TechnologyDoctor35.title>
-  <!-- EN: tech doc -->
-  <TechnologyDoctor35.titleShort>dr. tehnologic</TechnologyDoctor35.titleShort>
+  <!-- EN: [PAWN_nameDef] was a farmer on [PAWN_possessive] midworld, and spent [PAWN_possessive] free time practicing with guns. [PAWN_pronoun] knew how important the skills of farming and shooting would be in hard times, and trained to serve in a local militia. -->
+  <TechnologyDoctor35.baseDesc>[PAWN_nameDef] a fost {PAWN_gender ? un fermier : o fermieră} pe lumea [PAWN_possessive] mediană, și a petrecut timpul [PAWN_possessive] liber exersând trasul cu puști. [PAWN_pronoun] a știut cât de important poate fi pricepera în creșterea plantelor și arme va fi de folos în vremuri grele, și s-a antrenat pentru a servi într-o miliție locală.</TechnologyDoctor35.baseDesc>
+  <!-- EN: soldier-farmer -->
+  <TechnologyDoctor35.title>soldat-fermier</TechnologyDoctor35.title>
+  <!-- EN: soldier -->
+  <TechnologyDoctor35.titleShort>soldat</TechnologyDoctor35.titleShort>
   
   <!-- EN: [PAWN_nameDef] enrolled in a scientific study that promised it could make [PAWN_objective] smarter. Unfortunately, the side effects were very different than [PAWN_pronoun] expected.[PAWN_pronoun] went insane and killed a number of people before escaping. -->
   <TestSubject39.baseDesc>{PAWN_gender ? [PAWN_nameDef] s-a înscris într-un studiu științific care promitea că îl poate face mai inteligent. Din nefericire, efectele secundare au fost foarte diferite de cele la care se aștepta.A înnebunit și a ucis mai mulți oameni înainte de a scăpa. : [PAWN_nameDef] s-a înscris într-un studiu științific care promitea că o poate face mai inteligentă. Din nefericire, efectele secundare au fost foarte diferite de cele la care se aștepta.A înnebunit și a ucis mai mulți oameni înainte de a scăpa.}\n</TestSubject39.baseDesc>

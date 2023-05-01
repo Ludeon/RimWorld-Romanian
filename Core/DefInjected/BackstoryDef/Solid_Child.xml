@@ -2073,14 +2073,14 @@
   <!-- EN: tech kid -->
   <TechnicalKid1.titleShort>copil tehnic</TechnicalKid1.titleShort>
   
-  <!-- EN: [PAWN_nameDef] was a youth scholar of the world of science and technology.\n\n[PAWN_pronoun] strived every day to expand [PAWN_possessive] intellectual abilities. -->
-  <TechScholar75.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost un tânăr erudit în lumea științei și a tehnologiei.\n\nSe străduia în fiecare zi să-și extindă abilitățile intelectuale. : [PAWN_nameDef] a fost o tânără cercetătoare a lumii științei și tehnologiei.\n\nSe străduia în fiecare zi să își extindă abilitățile intelectuale.}\n</TechScholar75.baseDesc>
-  <!-- EN: tech scholar -->
-  <TechScholar75.title>școlar tehnologic</TechScholar75.title>
-  <TechScholar75.titleFemale>școlară technologică</TechScholar75.titleFemale>
-  <!-- EN: scholar -->
-  <TechScholar75.titleShort>școlar</TechScholar75.titleShort>
-  <TechScholar75.titleShortFemale>școlară</TechScholar75.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] hung around a group of local luddite farmers on [PAWN_possessive] midworld. They helped [PAWN_objective] practice shooting every single day, and passed on some basic farming skills. They also taught [PAWN_nameDef] how to focus on working hard with your hands instead of getting distracted by highfalutin' ideas and clever machines. -->
+  <TechScholar75.baseDesc>[PAWN_nameDef] și-a petrecut timpul în jurul unui grup local de fermieri ludiți pe lumea [PAWN_possessive] mediană. Ei {PAWN_gender ? l-au ajutat : au ajutat-o} să exerseze trasul cu pușca zi de zi, și i-au arătat și cum se face niște agricultură. Ei de asemenea {PAWN_gender ? l-au învățat : au învățat-o} cum să se concentreze pe a lucra spornic cu proprile mâini în loc să se lase {PAWN_gender ? distras : distrasă} de idei complexe și mașini inteligente.</TechScholar75.baseDesc>
+  <!-- EN: farm kid -->
+  <TechScholar75.title>puștan de fermă</TechScholar75.title>
+  <TechScholar75.titleFemale>fată de fermă</TechScholar75.titleFemale>
+  <!-- EN: farm kid -->
+  <TechScholar75.titleShort>puștan</TechScholar75.titleShort>
+  <TechScholar75.titleShortFemale>fetișcană</TechScholar75.titleShortFemale>
   
   <!-- EN: Test subject #11,529,914 of experiment #56,048 spent [PAWN_possessive] childhood in white rooms performing mental and physical tests.\n\n[PAWN_possessive] only companion was a voice that called itself Mother. Mother rewarded success with praise - and failure with harsh punishment. -->
   <TestSubject82.baseDesc>{PAWN_gender ? Subiectul nr. 11.529.914 din experimentul nr. 56.048 și-a petrecut copilăria în camere albe, efectuând teste mentale și fizice.Singurul său companion era o voce care își spunea Mama. Mama răsplătea succesul cu laude, iar eșecul cu pedepse aspre. : Subiectul nr. 11.529.914 din experimentul nr. 56.048 și-a petrecut copilăria în camere albe, efectuând teste mentale și fizice.Singurul ei companion era o voce care își spunea Mama. Mama răsplătea succesul cu laude, iar eșecul cu pedepse aspre.}\n</TestSubject82.baseDesc>

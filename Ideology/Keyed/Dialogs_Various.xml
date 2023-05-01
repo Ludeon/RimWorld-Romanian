@@ -307,7 +307,7 @@
   <!-- EN: Your colony was sold. Its purchasers are ready for you to choose where to land next. -->
   <SoldColonyDescription>TODO</SoldColonyDescription>
 
-  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do really want to hack {0}? -->
+  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do you really want to hack {0}? -->
   <ConfirmHackEnenyTerminal>Hackuirea acestui {0} va alerta inamicii și îi va determina să atace. Chiar vreți să hackuiți {0}?</ConfirmHackEnenyTerminal>
 
   <!-- EN: Relics -->
