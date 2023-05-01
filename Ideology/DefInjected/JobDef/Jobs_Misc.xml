@@ -26,7 +26,7 @@
   <ExtractToInventory.reportString>extragând TargetB către inventar.</ExtractToInventory.reportString>
   
   <!-- EN: getting neural supercharge from TargetA -->
-  <GetNeuralSupercharge.reportString>obținând supraîncărcării neuronale de la TargetA.</GetNeuralSupercharge.reportString>
+  <GetNeuralSupercharge.reportString>obținând supraîncărcări neuronale de la TargetA.</GetNeuralSupercharge.reportString>
   
   <!-- EN: giving TargetA to TargetB. -->
   <GiveToPawn.reportString>dând TargetA către TargetB.</GiveToPawn.reportString>
