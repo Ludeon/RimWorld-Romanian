@@ -215,13 +215,13 @@
   <RitualBlindingTriggerExtraDesc>TODO</RitualBlindingTriggerExtraDesc>
   
   <!-- EN: Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)! -->
-  <RitualOutcomeExtraDesc_DancePartyWorkFocus>Toți cei care au participat la ritual au câștigat un buff de concentrare pe muncă de o zi ({PERCENTAJ} viteza globală de lucru)!</RitualOutcomeExtraDesc_DancePartyWorkFocus>
+  <RitualOutcomeExtraDesc_DancePartyWorkFocus>Toți cei care au participat la ritual au câștigat un buff de concentrare pe muncă de o zi ({PERCENTAGE} viteza globală de lucru)!</RitualOutcomeExtraDesc_DancePartyWorkFocus>
   <!-- EN: Thanks to a satisfying blinding ritual, {PAWN_labelShort} gained a psylink level! -->
   <RitualOutcomeExtraDesc_BlindingPsylink>Mulțumită unui ritual de orbire satisfăcător, {PAWN_labelShort} a câștigat un nivel de psylink!</RitualOutcomeExtraDesc_BlindingPsylink>
   <!-- EN: With a new pyslink level {PAWN_pronoun} gained a {0} psycast. -->
   <RitualOutcomeExtraDesc_BlindingPsylinkAbility>Cu un nou nivel de pyslink {PAWN_pronoun} a câștigat un psycast {0}.</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
   <!-- EN: Thanks to a satisfying {RITUAL}, {PAWN_labelShort} gained {INSPIRATION}! -->
-  <RitualOutcomeExtraDesc_ConsumableInspiration>Mulțumită unui {RITUAL} satisfăcător, {PAWN_labelShort} a câștigat {INSPIRAȚIE}!</RitualOutcomeExtraDesc_ConsumableInspiration>
+  <RitualOutcomeExtraDesc_ConsumableInspiration>Mulțumită unui {RITUAL} satisfăcător, {PAWN_labelShort} a câștigat {INSPIRATION}!</RitualOutcomeExtraDesc_ConsumableInspiration>
   <!-- EN: Your skylanterns have attracted some friendly travelers. They will visit and leave a gift. -->
   <RitualOutcomeExtraDesc_SkylanternWanderers>Felinarele tale au atras niște călători prietenoși. Aceștia vă vor vizita și vă vor lăsa un cadou.</RitualOutcomeExtraDesc_SkylanternWanderers>
   <!-- EN: All participating slaves were shaken by the sight of death. Their suppression has been raised to its maximum level. -->
@@ -480,7 +480,7 @@
   <!-- EN: Desired -->
   <DesiredConnectionStrength>Dorită</DesiredConnectionStrength>
   <!-- EN: {CONNECTEDPAWN_nameDef} will prune {TREE_definite} often enough to keep connection strength above this level.\n\nHigher connection strength allows supporting more dryads, but also falls faster and thus takes more frequent pruning to maintain.\n\nYou can click on the bar to adjust the desired target connection strength.\n\nConnection strength fall per day: {FALL}\n\nConnection strength is affected by nearby buildings. -->
-  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef} va tăia {TREE_definite} suficient de des pentru a menține puterea de conectare peste acest nivel.\n\nO putere de conectare mai mare permite susținerea mai multor dryade, dar, de asemenea, scade mai repede și, prin urmare, este nevoie de o tăiere mai frecventă pentru a o menține.\n\nPuteți face clic pe bară pentru a ajusta puterea de conectare dorită.\n\nPuterea de conectare scade pe zi: {Puterea de conectare este afectată de clădirile din apropiere.</DesiredConnectionStrengthDesc>
+  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef} va tăia {TREE_definite} suficient de des pentru a menține puterea de conectare peste acest nivel.\n\nO putere de conectare mai mare permite susținerea mai multor dryade, dar, de asemenea, scade mai repede și, prin urmare, este nevoie de o tăiere mai frecventă pentru a o menține.\n\nPuteți face clic pe bară pentru a ajusta puterea de conectare dorită.\n\nPuterea de conectare scade pe zi: {FALL}\n\nPuterea de conectare este afectată de clădirile din apropiere.</DesiredConnectionStrengthDesc>
   <!-- EN: Waiting for {CONNECTEDPAWN_nameDef} to change dryad caste. -->
   <WaitingForConnectorToChangeCaste>Așteptând ca {CONNECTEDPAWN_nameDef} să schimbe casta dryad.</WaitingForConnectorToChangeCaste>
   <!-- EN: Dryad caste -->
@@ -498,7 +498,7 @@
   <!-- EN: {0} hours every other day -->
   <HoursEveryOtherDay>{0} ore la fiecare două zile</HoursEveryOtherDay>
   <!-- EN: {DRYAD_labelPlural} produce {RESOURCES} every {DURATION}. -->
-  <DryadProducesResourcesDesc>{DRYAD_labelPlural} produce {RESURSE} la fiecare {DURATA}.</DryadProducesResourcesDesc>
+  <DryadProducesResourcesDesc>{DRYAD_labelPlural} produce {RESOURCES} la fiecare {DURATION}.</DryadProducesResourcesDesc>
   <!-- EN: {ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} Gauranlen tree. {ANIMAL_possessive} master cannot be changed. -->
   <DryadCannotChangeMaster>{ANIMAL_nameDef} este conectat la {MASTER_nameDef} prin arborele Gauranlen al {ANIMAL_possessive}. Maestrul {ANIMAL_possessive} nu poate fi schimbat.</DryadCannotChangeMaster>
   <!-- EN: Connection strength too low to create Gauranlen pod. -->

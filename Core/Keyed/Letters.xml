@@ -584,7 +584,7 @@
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
   <LetterSpeechInterrupted>Deoarece discursul a fost întrerupt după ce a fost finalizat doar {0}, nu a fost la fel de eficient.</LetterSpeechInterrupted>
   <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
-  <LetterSpeechCancelled>Discursul lui {ORGANIZER_bestRoyalTitleDef} a fost anulat înainte de a ajunge la 50% de finalizare. Acesta nu a avut niciun efect.</LetterSpeechCancelled>
+  <LetterSpeechCancelled>Discursul lui {0} a fost anulat înainte de a ajunge la 50% de finalizare. Acesta nu a avut niciun efect.</LetterSpeechCancelled>
   <!-- EN: Speech cancelled -->
   <LetterLabelSpeechCancelled>Discurs anulat</LetterLabelSpeechCancelled>
 

@@ -17,7 +17,7 @@
   <ShuttleCannotLand_Unwalkable>Zona trebuie să fie circulabilă.</ShuttleCannotLand_Unwalkable>
 
   <!-- EN: Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony. -->
-  <MessageBestowerWaiting>Selectați {TARGET_definite} și faceți clic dreapta pe emisar pentru a începe ceremonia de acordare.</MessageBestowerWaiting>
+  <MessageBestowerWaiting>Selectați {BESTOWER_definite} și faceți clic dreapta pe emisar pentru a începe ceremonia de acordare.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
   <MessageBestowerUnreachable>Nu se poate ajunge la emisar!</MessageBestowerUnreachable>
   <!-- EN: {0} is busy. -->

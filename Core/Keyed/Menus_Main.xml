@@ -31,7 +31,7 @@
   <!-- EN: Cleaning translation files -->
   <CleaningTranslationFiles>Curățarea fișierelor de traducere</CleaningTranslationFiles>
   <!-- EN: Dev quicktest -->
-  <DevQuickTest>TODO</DevQuickTest>
+  <DevQuickTest>Test dezvoltator rapid</DevQuickTest>
   <!-- EN: Credits -->
   <Credits>Credite</Credits>
   <!-- EN: Quit to main menu -->
@@ -81,7 +81,7 @@
   <!-- EN: Save and finish -->
   <WorldSaveAndFinish>Salvează si finalizează</WorldSaveAndFinish>
   <!-- EN: Reset factions -->
-  <ResetFactions>TODO</ResetFactions>
+  <ResetFactions>Resetare facțiuni</ResetFactions>
   <!-- EN: Globe coverage -->
   <PlanetCoverage>Acoperirea globului</PlanetCoverage>
   <!-- EN: Overall rainfall -->
@@ -91,9 +91,9 @@
   <!-- EN: Population -->
   <PlanetPopulation>Populația</PlanetPopulation>
   <!-- EN: Low -->
-  <PlanetRainfall_Low>Mic</PlanetRainfall_Low>
+  <PlanetRainfall_Low>Mică</PlanetRainfall_Low>
   <!-- EN: Normal -->
-  <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+  <PlanetRainfall_Normal>Normală</PlanetRainfall_Normal>
   <!-- EN: High -->
   <PlanetRainfall_High>Mare</PlanetRainfall_High>
   <!-- EN: Low -->

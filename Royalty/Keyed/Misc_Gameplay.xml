@@ -135,7 +135,7 @@
   <MessageShuttleDestinationIsTooFar>Destinația este în afara razei de acțiune.</MessageShuttleDestinationIsTooFar>
 
   <!-- EN: Start bestowing ceremony for {0_labelShort} -->
-  <BeginCeremony>Ceremonia de acordare</BeginCeremony>
+  <BeginCeremony>Ceremonia de acordare pentru {0_labelShort}</BeginCeremony>
   <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
   <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>Throneroom-ul lui {PAWN_definite} nu satisface cerințele titlului de {TITLE}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
   <!-- EN: The bestower is offended that {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. The bestowing ceremony has been cancelled. -->

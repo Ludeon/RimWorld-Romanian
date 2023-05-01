@@ -92,7 +92,7 @@
   <AlertAgeReversalDemandDesc_Overdue>Tratamentul lui {PAWN} este întârziat cu {DURATION}.</AlertAgeReversalDemandDesc_Overdue>
 
   <!-- EN: {PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}. -->
-  <AlertRoyalTitleNoVeneratedAnimalMeat>Credința lui {PAWN_nameDef} în {IDEO_name} îl împiedică pe {PAWN_objective} să mănânce carne de {ANIMALE}.</AlertRoyalTitleNoVeneratedAnimalMeat>
+  <AlertRoyalTitleNoVeneratedAnimalMeat>Credința lui {PAWN_nameDef} în {IDEO_name} îl împiedică pe {PAWN_objective} să mănânce carne de {ANIMALS}.</AlertRoyalTitleNoVeneratedAnimalMeat>
 
   <!-- EN: Dryad caste not set -->
   <AlertGauranlenTreeWithoutDryadTypeLabel>Dryad caste not set</AlertGauranlenTreeWithoutDryadTypeLabel>
