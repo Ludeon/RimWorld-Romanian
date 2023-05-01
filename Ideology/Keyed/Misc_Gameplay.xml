@@ -554,7 +554,7 @@
 
   <!-- Archonexus -->
   <!-- EN: You've invoked the archonexus core. The world fills with a blinding light and time seems to slow...\n\n -->
-  <GameOverArchotechInvokedIntro>Ai invocat nucleul arhicunoscut. Lumea se umple de o lumină orbitoare și timpul pare să încetinească...\n\n</GameOverArchotechInvokedIntro>
+  <GameOverArchotechInvokedIntro>Ai invocat nucleul arhicunoscut. Lumea se umple de o lumină orbitoare și timpul pare să încetinească...\n</GameOverArchotechInvokedIntro>
   <!-- EN: The machine god has noticed you. Nobody can predict what happens next. It may destroy you, or communicate with you directly, or transport your consciousness to another plane of reality.\n\nYou sense a vast, inhuman structure of infinite fractal complexity flowing into your mind. Time and scale begin to dissolve. It's terrifying. It's beautiful... -->
   <GameOverArchotechInvokedEnding>Zeul mașinilor te-a observat. Nimeni nu poate prezice ce se va întâmpla în continuare. Poate să te distrugă, sau să comunice direct cu tine, sau să-ți transporte conștiința într-un alt plan al realității.\n\nSimți o structură vastă, inumană, de o complexitate fractală infinită, care curge în mintea ta. Timpul și scara încep să se dizolve. Este înspăimântător. Este frumos...</GameOverArchotechInvokedEnding>
   <!-- EN: These colonists have transcended:\n\n{0} -->

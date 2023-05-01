@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] loaded shells and aimed artillery to pound [PAWN_possessive] army's enemies from afar. -->
-  <Artilleryman28.baseDesc>{PAWN_gender ? [PAWN_nameDef] a încărcat obuze și a îndreptat artileria pentru a lovi de departe dușmanii armatei Sale. : [PAWN_nameDef] a încărcat obuze și a îndreptat artileria pentru a-i lovi de la distanță pe inamicii armatei sale.}\n</Artilleryman28.baseDesc>
+  <Artilleryman28.baseDesc>{PAWN_gender ? [PAWN_nameDef] a încărcat obuze și a îndreptat artileria pentru a lovi de departe dușmanii armatei Sale. : [PAWN_nameDef] a încărcat obuze și a îndreptat artileria pentru a-i lovi de la distanță pe inamicii armatei sale.}</Artilleryman28.baseDesc>
   <!-- EN: artilleryman -->
   <Artilleryman28.title>artilerist</Artilleryman28.title>
   <!-- EN: artillerywoman -->
@@ -12,14 +12,14 @@
   <Artilleryman28.titleShortFemale>artileristă</Artilleryman28.titleShortFemale>
   
   <!-- EN: [PAWN_pronoun] was a strong soldier in a long war of succession. In [PAWN_possessive] final battle, [PAWN_possessive] unit was sacrified to cover a retreat. [PAWN_nameDef] watched [PAWN_possessive] comrades die and was the only survivor.\n\nThe experience broke [PAWN_objective] inside, leaving [PAWN_objective] without the coping strategies to moderate [PAWN_possessive] emotions.\n\n[PAWN_nameDef] learned to draw in the hospital. -->
-  <BrokenSoldier29.baseDesc>{PAWN_gender ? A fost un soldat puternic într-un lung război de succesiune. În ultima sa bătălie, unitatea sa a fost sacrificată pentru a acoperi o retragere. [PAWN_nameDef] și-a privit camarazii murind și a fost singurul supraviețuitor.\n\nExperiența l-a frânt pe dinăuntru, lăsându-l fără strategii de adaptare pentru a-și modera emoțiile.\n\n[PAWN_nameDef] a învățat să deseneze în spital. : A fost un soldat puternic într-un lung război de succesiune. În ultima bătălie, unitatea ei a fost sacrificată pentru a acoperi o retragere. [PAWN_nameDef] și-a privit camarazii murind și a fost singura supraviețuitoare.\n\nAceastă experiență a distrus-o pe dinăuntru, lăsând-o fără strategii de adaptare pentru a-și modera emoțiile.\n\n[PAWN_nameDef] a învățat să deseneze în spital.}\n</BrokenSoldier29.baseDesc>
+  <BrokenSoldier29.baseDesc>{PAWN_gender ? A fost un soldat puternic într-un lung război de succesiune. În ultima sa bătălie, unitatea sa a fost sacrificată pentru a acoperi o retragere. [PAWN_nameDef] și-a privit camarazii murind și a fost singurul supraviețuitor.\n\nExperiența l-a frânt pe dinăuntru, lăsându-l fără strategii de adaptare pentru a-și modera emoțiile.\n\n[PAWN_nameDef] a învățat să deseneze în spital. : A fost un soldat puternic într-un lung război de succesiune. În ultima bătălie, unitatea ei a fost sacrificată pentru a acoperi o retragere. [PAWN_nameDef] și-a privit camarazii murind și a fost singura supraviețuitoare.\n\nAceastă experiență a distrus-o pe dinăuntru, lăsând-o fără strategii de adaptare pentru a-și modera emoțiile.\n\n[PAWN_nameDef] a învățat să deseneze în spital.}</BrokenSoldier29.baseDesc>
   <!-- EN: broken soldier -->
   <BrokenSoldier29.title>soldat rănit</BrokenSoldier29.title>
   <!-- EN: soldier -->
   <BrokenSoldier29.titleShort>soldat</BrokenSoldier29.titleShort>
   
   <!-- EN: [PAWN_nameDef] manufactured and planted explosives used to breach enemy defenses. Dealing with explosives every day taught [PAWN_objective] to keep a level head and steady hand. -->
-  <Demolitionist39.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fabricat și a plantat explozibili folosiți pentru a sparge apărarea inamicului. Faptul că avea de-a face cu explozibili în fiecare zi l-a învățat să își păstreze capul drept și mâna sigură. : [PAWN_nameDef] a fabricat și a plantat explozibili folosiți pentru a sparge apărarea inamicului. Faptul că avea de-a face cu explozibili în fiecare zi a învățat-o să își păstreze capul drept și mâna sigură.}\n</Demolitionist39.baseDesc>
+  <Demolitionist39.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fabricat și a plantat explozibili folosiți pentru a sparge apărarea inamicului. Faptul că avea de-a face cu explozibili în fiecare zi l-a învățat să își păstreze capul drept și mâna sigură. : [PAWN_nameDef] a fabricat și a plantat explozibili folosiți pentru a sparge apărarea inamicului. Faptul că avea de-a face cu explozibili în fiecare zi a învățat-o să își păstreze capul drept și mâna sigură.}</Demolitionist39.baseDesc>
   <!-- EN: demolitionist -->
   <Demolitionist39.title>demoliționist</Demolitionist39.title>
   <Demolitionist39.titleFemale>demoliționistă</Demolitionist39.titleFemale>
@@ -28,7 +28,7 @@
   <Demolitionist39.titleShortFemale>demoliționistă</Demolitionist39.titleShortFemale>
   
   <!-- EN: After countless battles for a cause [PAWN_pronoun] did not believe in, [PAWN_nameDef] threw down [PAWN_possessive] arms and deserted. [PAWN_nameDef] lived in isolation, hunted by those [PAWN_pronoun] had deserted. -->
-  <Deserter65.baseDesc>{PAWN_gender ? După nenumărate bătălii pentru o cauză în care nu credea, [PAWN_nameDef] și-a aruncat armele și a dezertat. [PAWN_nameDef] a trăit izolat, vânat de cei pe care îi părăsise. : După nenumărate bătălii pentru o cauză în care nu credea, [PAWN_nameDef] a aruncat armele și a dezertat. [PAWN_nameDef] a trăit izolată, vânată de cei pe care i-a părăsit.}\n</Deserter65.baseDesc>
+  <Deserter65.baseDesc>{PAWN_gender ? După nenumărate bătălii pentru o cauză în care nu credea, [PAWN_nameDef] și-a aruncat armele și a dezertat. [PAWN_nameDef] a trăit izolat, vânat de cei pe care îi părăsise. : După nenumărate bătălii pentru o cauză în care nu credea, [PAWN_nameDef] a aruncat armele și a dezertat. [PAWN_nameDef] a trăit izolată, vânată de cei pe care i-a părăsit.}</Deserter65.baseDesc>
   <!-- EN: deserter -->
   <Deserter65.title>dezertor</Deserter65.title>
   <Deserter65.titleFemale>dezertoare</Deserter65.titleFemale>
@@ -37,21 +37,21 @@
   <Deserter65.titleShortFemale>dezertoare</Deserter65.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was an officer in an imperial battalion. [PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men.\n\nWhen [PAWN_possessive] unit came under direct fire for the first time, [PAWN_nameDef] fled to a bunker and hid. [PAWN_pronoun] was demoted and never escaped the disgrace. -->
-  <DisgracedOfficer19.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost ofițer într-un batalion imperial. Și-a dezvoltat abilitățile sociale și de luptă pentru a-și face bine treaba și a fost respectat de oameni.\n\nCând unitatea sa a intrat pentru prima dată sub foc direct, [PAWN_nameDef] a fugit într-un buncăr și s-a ascuns. A fost retrogradat și nu a mai scăpat de rușine. : [PAWN_nameDef] a fost ofițer într-un batalion imperial. Și-a dezvoltat abilitățile sociale și de luptă pentru a-și face bine treaba și a fost respectată de bărbați.\n\nCând unitatea ei a intrat pentru prima dată sub foc direct, [PAWN_nameDef] a fugit într-un buncăr și s-a ascuns. A fost retrogradată și nu a mai scăpat de rușine.}\n</DisgracedOfficer19.baseDesc>
+  <DisgracedOfficer19.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost ofițer într-un batalion imperial. Și-a dezvoltat abilitățile sociale și de luptă pentru a-și face bine treaba și a fost respectat de oameni.\n\nCând unitatea sa a intrat pentru prima dată sub foc direct, [PAWN_nameDef] a fugit într-un buncăr și s-a ascuns. A fost retrogradat și nu a mai scăpat de rușine. : [PAWN_nameDef] a fost ofițer într-un batalion imperial. Și-a dezvoltat abilitățile sociale și de luptă pentru a-și face bine treaba și a fost respectată de bărbați.\n\nCând unitatea ei a intrat pentru prima dată sub foc direct, [PAWN_nameDef] a fugit într-un buncăr și s-a ascuns. A fost retrogradată și nu a mai scăpat de rușine.}</DisgracedOfficer19.baseDesc>
   <!-- EN: disgraced officer -->
   <DisgracedOfficer19.title>ofițer dezonorat</DisgracedOfficer19.title>
   <!-- EN: officer -->
   <DisgracedOfficer19.titleShort>ofițer</DisgracedOfficer19.titleShort>
   
   <!-- EN: [PAWN_nameDef] piloted a small fighter-bomber design specialized in spreading incendiary gel on flammable targets.\n\nConditioned to love the sight of a target lighting up, [PAWN_pronoun] grew to love fire in all its forms - war, cooking, and even for cauterizing wounds in the hospital. -->
-  <Firebomber51.baseDesc>{PAWN_gender ? [PAWN_nameDef] a pilotat un mic avion de vânătoare-bombardament specializat în împrăștierea de gel incendiar pe ținte inflamabile.\n\nCondiționat să iubească vederea unei ținte care se aprinde, a ajuns să iubească focul în toate formele sale - război, gătit și chiar pentru cauterizarea rănilor în spital. : [PAWN_nameDef] a pilotat un mic avion de vânătoare-bombardament specializat în răspândirea de gel incendiar pe ținte inflamabile.\n\nCondiționată să iubească priveliștea unei ținte care se aprinde, a ajuns să iubească focul în toate formele sale - război, gătit și chiar pentru cauterizarea rănilor în spital.}\n</Firebomber51.baseDesc>
+  <Firebomber51.baseDesc>{PAWN_gender ? [PAWN_nameDef] a pilotat un mic avion de vânătoare-bombardament specializat în împrăștierea de gel incendiar pe ținte inflamabile.\n\nCondiționat să iubească vederea unei ținte care se aprinde, a ajuns să iubească focul în toate formele sale - război, gătit și chiar pentru cauterizarea rănilor în spital. : [PAWN_nameDef] a pilotat un mic avion de vânătoare-bombardament specializat în răspândirea de gel incendiar pe ținte inflamabile.\n\nCondiționată să iubească priveliștea unei ținte care se aprinde, a ajuns să iubească focul în toate formele sale - război, gătit și chiar pentru cauterizarea rănilor în spital.}</Firebomber51.baseDesc>
   <!-- EN: firebomber -->
   <Firebomber51.title>bombardier</Firebomber51.title>
   <!-- EN: firebomber -->
   <Firebomber51.titleShort>bombardier</Firebomber51.titleShort>
   
   <!-- EN: Despite being in an infantry battalion, [PAWN_nameDef] rarely fired a gun. [PAWN_possessive] specialty was the rapid construction of defenses, traps, defensive installations, and sapping tunnels. -->
-  <InfantryEngineer46.baseDesc>{PAWN_gender ? În ciuda faptului că era într-un batalion de infanterie, [PAWN_nameDef] a tras rar cu arma. Specialitatea sa era construirea rapidă de apărări, capcane, instalații de apărare și tuneluri de sapă. : În ciuda faptului că făcea parte dintr-un batalion de infanterie, [PAWN_nameDef] a tras foarte rar cu arma. specialitatea ei era construirea rapidă de apărări, capcane, instalații de apărare și tuneluri de asanare.}\n</InfantryEngineer46.baseDesc>
+  <InfantryEngineer46.baseDesc>{PAWN_gender ? În ciuda faptului că era într-un batalion de infanterie, [PAWN_nameDef] a tras rar cu arma. Specialitatea sa era construirea rapidă de apărări, capcane, instalații de apărare și tuneluri de sapă. : În ciuda faptului că făcea parte dintr-un batalion de infanterie, [PAWN_nameDef] a tras foarte rar cu arma. specialitatea ei era construirea rapidă de apărări, capcane, instalații de apărare și tuneluri de asanare.}</InfantryEngineer46.baseDesc>
   <!-- EN: infantry engineer -->
   <InfantryEngineer46.title>inginer de infanterie</InfantryEngineer46.title>
   <InfantryEngineer46.titleFemale>ingineră de infanterie</InfantryEngineer46.titleFemale>
@@ -60,21 +60,21 @@
   <InfantryEngineer46.titleShortFemale>ingineră</InfantryEngineer46.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] treated the combat wounds of [PAWN_possessive] fallen comrades. -->
-  <InfantryMedic6.baseDesc>{PAWN_gender ? [PAWN_nameDef] a tratat rănile de luptă ale camarazilor săi căzuți la datorie. : [PAWN_nameDef] a tratat rănile de luptă ale camarazilor ei căzuți la datorie.}\n</InfantryMedic6.baseDesc>
+  <InfantryMedic6.baseDesc>{PAWN_gender ? [PAWN_nameDef] a tratat rănile de luptă ale camarazilor săi căzuți la datorie. : [PAWN_nameDef] a tratat rănile de luptă ale camarazilor ei căzuți la datorie.}</InfantryMedic6.baseDesc>
   <!-- EN: infantry medic -->
   <InfantryMedic6.title>medic de infanterie</InfantryMedic6.title>
   <!-- EN: medic -->
   <InfantryMedic6.titleShort>medic</InfantryMedic6.titleShort>
   
   <!-- EN: [PAWN_nameDef] was an officer in an imperial battalion. [PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men. -->
-  <InfantryOfficer49.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost ofițer într-un batalion imperial. Și-a dezvoltat abilitățile sociale și de luptă pentru a-și face bine treaba și a fost respectat de oameni. : [PAWN_nameDef] a fost ofițer într-un batalion imperial. Și-a dezvoltat abilitățile sociale și de luptă pentru a-și face bine treaba și a fost respectată de bărbați.}\n</InfantryOfficer49.baseDesc>
+  <InfantryOfficer49.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost ofițer într-un batalion imperial. Și-a dezvoltat abilitățile sociale și de luptă pentru a-și face bine treaba și a fost respectat de oameni. : [PAWN_nameDef] a fost ofițer într-un batalion imperial. Și-a dezvoltat abilitățile sociale și de luptă pentru a-și face bine treaba și a fost respectată de bărbați.}</InfantryOfficer49.baseDesc>
   <!-- EN: infantry officer -->
   <InfantryOfficer49.title>ofițer de infanterie</InfantryOfficer49.title>
   <!-- EN: officer -->
   <InfantryOfficer49.titleShort>ofițer</InfantryOfficer49.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a high-ranking counterintelligence agent tasked with thwarting enemy spies. -->
-  <IntelligenceAgent21.baseDesc>{PAWN_gender ? [PAWN_nameDef] era un agent de contrainformații de rang înalt, însărcinat cu contracararea spionilor inamici. : [PAWN_nameDef] era un agent de contrainformații de rang înalt, însărcinat cu contracararea spionilor inamici.}\n</IntelligenceAgent21.baseDesc>
+  <IntelligenceAgent21.baseDesc>{PAWN_gender ? [PAWN_nameDef] era un agent de contrainformații de rang înalt, însărcinat cu contracararea spionilor inamici. : [PAWN_nameDef] era un agent de contrainformații de rang înalt, însărcinat cu contracararea spionilor inamici.}</IntelligenceAgent21.baseDesc>
   <!-- EN: intelligence agent -->
   <IntelligenceAgent21.title>agent de informații</IntelligenceAgent21.title>
   <IntelligenceAgent21.titleFemale>agentă de informații</IntelligenceAgent21.titleFemale>
@@ -83,35 +83,35 @@
   <IntelligenceAgent21.titleShortFemale>agentă</IntelligenceAgent21.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was an ordinary infanteer in an imperial battalion.\n\nConscripted at a young age to add bodies the army, [PAWN_nameDef] learned the methods of fighting well enough to satisfy [PAWN_possessive] officers. However, [PAWN_pronoun] never quite understood what was going on around [PAWN_objective] enough to really believe in it. -->
-  <LineInfanteer20.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost un infanterist obișnuit într-un batalion imperial.\n\nConsemnat la o vârstă fragedă pentru a adăuga corpuri la armată, [PAWN_nameDef] a învățat metodele de luptă suficient de bine pentru a-și satisface ofițerii. Cu toate acestea, el nu a înțeles niciodată suficient de bine ce se întâmpla în jurul său pentru a crede cu adevărat în el. : [PAWN_nameDef] a fost o infanteristă obișnuită într-un batalion imperial.\n\nConsemnată la o vârstă fragedă pentru a adăuga corpuri la armată, [PAWN_nameDef] a învățat metodele de luptă suficient de bine pentru a-și satisface ofițerii. Cu toate acestea, ea nu a înțeles niciodată suficient de bine ce se întâmpla în jurul ei pentru a crede cu adevărat în ea.}\n</LineInfanteer20.baseDesc>
+  <LineInfanteer20.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost un infanterist obișnuit într-un batalion imperial.\n\nConsemnat la o vârstă fragedă pentru a adăuga corpuri la armată, [PAWN_nameDef] a învățat metodele de luptă suficient de bine pentru a-și satisface ofițerii. Cu toate acestea, el nu a înțeles niciodată suficient de bine ce se întâmpla în jurul său pentru a crede cu adevărat în el. : [PAWN_nameDef] a fost o infanteristă obișnuită într-un batalion imperial.\n\nConsemnată la o vârstă fragedă pentru a adăuga corpuri la armată, [PAWN_nameDef] a învățat metodele de luptă suficient de bine pentru a-și satisface ofițerii. Cu toate acestea, ea nu a înțeles niciodată suficient de bine ce se întâmpla în jurul ei pentru a crede cu adevărat în ea.}</LineInfanteer20.baseDesc>
   <!-- EN: line infanteer -->
   <LineInfanteer20.title>infantier de linie</LineInfanteer20.title>
   <!-- EN: infanteer -->
   <LineInfanteer20.titleShort>infantier</LineInfanteer20.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a janissary in a great lord's army. Even more than the other troops, [PAWN_pronoun] felt a sense of duty, and [PAWN_pronoun] drew [PAWN_possessive] life's meaning from the effort [PAWN_pronoun] put to fulfilling [PAWN_possessive] duty. -->
-  <LoyalJanissary59.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost jandarm în armata unui mare stăpân. Chiar mai mult decât celelalte trupe, el simțea un sentiment de datorie și își trăgea sensul vieții sale din efortul pe care îl depunea pentru a-și îndeplini datoria. : [PAWN_nameDef] a fost jandarm în armata unui mare lord. Chiar mai mult decât celelalte trupe, ea simțea un sentiment de datorie și își trăgea sensul vieții din efortul pe care îl depunea pentru a-și îndeplini datoria.}\n</LoyalJanissary59.baseDesc>
+  <LoyalJanissary59.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost jandarm în armata unui mare stăpân. Chiar mai mult decât celelalte trupe, el simțea un sentiment de datorie și își trăgea sensul vieții sale din efortul pe care îl depunea pentru a-și îndeplini datoria. : [PAWN_nameDef] a fost jandarm în armata unui mare lord. Chiar mai mult decât celelalte trupe, ea simțea un sentiment de datorie și își trăgea sensul vieții din efortul pe care îl depunea pentru a-și îndeplini datoria.}</LoyalJanissary59.baseDesc>
   <!-- EN: loyal janissary -->
   <LoyalJanissary59.title>ienicer loial</LoyalJanissary59.title>
   <!-- EN: janissary -->
   <LoyalJanissary59.titleShort>ienicer</LoyalJanissary59.titleShort>
   
   <!-- EN: [PAWN_nameDef] stayed with the troops in training and in combat, administering to the dying and reinforcing the faith of the living.\n\nLike all imperial chaplains, [PAWN_pronoun] vowed never to fight [PAWN_objective]self. However, [PAWN_pronoun] acted as a medic and treated the wounded. -->
-  <MilitaryChaplain10.baseDesc>{PAWN_gender ? [PAWN_nameDef] a rămas alături de trupe în timpul antrenamentelor și în luptă, îngrijind muribunzii și consolidând credința celor vii.\n\nCa toți capelanii imperiali, a jurat să nu lupte niciodată el însuși. Cu toate acestea, a acționat ca medic și a tratat răniții. : [PAWN_nameDef] a rămas alături de trupe în timpul antrenamentelor și în luptă, îngrijind muribunzii și consolidând credința celor vii.\n\nCa toți capelanii imperiali, [PAWN_nameDef] a jurat să nu lupte niciodată ea însăși. Cu toate acestea, ea a acționat ca medic și a tratat răniții.}\n</MilitaryChaplain10.baseDesc>
+  <MilitaryChaplain10.baseDesc>{PAWN_gender ? [PAWN_nameDef] a rămas alături de trupe în timpul antrenamentelor și în luptă, îngrijind muribunzii și consolidând credința celor vii.\n\nCa toți capelanii imperiali, a jurat să nu lupte niciodată el însuși. Cu toate acestea, a acționat ca medic și a tratat răniții. : [PAWN_nameDef] a rămas alături de trupe în timpul antrenamentelor și în luptă, îngrijind muribunzii și consolidând credința celor vii.\n\nCa toți capelanii imperiali, [PAWN_nameDef] a jurat să nu lupte niciodată ea însăși. Cu toate acestea, ea a acționat ca medic și a tratat răniții.}</MilitaryChaplain10.baseDesc>
   <!-- EN: military chaplain -->
   <MilitaryChaplain10.title>capelan militar</MilitaryChaplain10.title>
   <!-- EN: chaplain -->
   <MilitaryChaplain10.titleShort>capelan</MilitaryChaplain10.titleShort>
   
   <!-- EN: [PAWN_nameDef] was an internal spymaster in an imperial army battalion. [PAWN_pronoun] made sure that the men were loyal, and did not fall back unless ordered. This made [PAWN_objective] unpopular, but [PAWN_pronoun] gained great skill at detecting the slightest dishonesty. -->
-  <MilitaryCommissar71.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost șef de spionaj intern într-un batalion al armatei imperiale. El se asigura că oamenii sunt loiali și că nu se retrag decât la ordin. Acest lucru l-a făcut nepopular, dar a dobândit o mare pricepere în a detecta cea mai mică necinste. : [PAWN_nameDef] a fost șefă de spionaj intern într-un batalion al armatei imperiale. Ea se asigura că oamenii sunt loiali și că nu se retrag decât la ordin. Acest lucru a făcut-o nepopulară, dar a dobândit o mare pricepere în a detecta cea mai mică necinste.}\n</MilitaryCommissar71.baseDesc>
+  <MilitaryCommissar71.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost șef de spionaj intern într-un batalion al armatei imperiale. El se asigura că oamenii sunt loiali și că nu se retrag decât la ordin. Acest lucru l-a făcut nepopular, dar a dobândit o mare pricepere în a detecta cea mai mică necinste. : [PAWN_nameDef] a fost șefă de spionaj intern într-un batalion al armatei imperiale. Ea se asigura că oamenii sunt loiali și că nu se retrag decât la ordin. Acest lucru a făcut-o nepopulară, dar a dobândit o mare pricepere în a detecta cea mai mică necinste.}</MilitaryCommissar71.baseDesc>
   <!-- EN: military commissar -->
   <MilitaryCommissar71.title>comisar militar</MilitaryCommissar71.title>
   <!-- EN: commissar -->
   <MilitaryCommissar71.titleShort>comisar</MilitaryCommissar71.titleShort>
   
   <!-- EN: They say an army marches on its stomach. [PAWN_nameDef]'s job was to prepared chow to keep [PAWN_possessive] unit marching, no matter the conditions.\n\nThe job required [PAWN_objective] to pay attention to both the nutritional and psychological needs of the troops. -->
-  <MilitaryCook18.baseDesc>{PAWN_gender ? Se spune că o armată mărșăluiește pe stomac. Treaba lui [PAWN_nameDef] era să pregătească mâncarea pentru ca unitatea sa să continue să mărșăluiască, indiferent de condiții.\n\nSlujba îi cerea să fie atent atât la nevoile nutriționale, cât și la cele psihologice ale trupelor. : Se spune că o armată mărșăluiește pe stomac. Treaba lui [PAWN_nameDef] era să pregătească mâncarea pentru ca unitatea sa să continue să mărșăluiască, indiferent de condiții.\n\nTrebuia să fie atentă atât la nevoile nutriționale, cât și la cele psihologice ale trupelor.}\n</MilitaryCook18.baseDesc>
+  <MilitaryCook18.baseDesc>{PAWN_gender ? Se spune că o armată mărșăluiește pe stomac. Treaba lui [PAWN_nameDef] era să pregătească mâncarea pentru ca unitatea sa să continue să mărșăluiască, indiferent de condiții.\n\nSlujba îi cerea să fie atent atât la nevoile nutriționale, cât și la cele psihologice ale trupelor. : Se spune că o armată mărșăluiește pe stomac. Treaba lui [PAWN_nameDef] era să pregătească mâncarea pentru ca unitatea sa să continue să mărșăluiască, indiferent de condiții.\n\nTrebuia să fie atentă atât la nevoile nutriționale, cât și la cele psihologice ale trupelor.}</MilitaryCook18.baseDesc>
   <!-- EN: military cook -->
   <MilitaryCook18.title>bucătar militar</MilitaryCook18.title>
   <MilitaryCook18.titleFemale>bucătăreasă militar</MilitaryCook18.titleFemale>
@@ -120,14 +120,14 @@
   <MilitaryCook18.titleShortFemale>bucătăreasă militar</MilitaryCook18.titleShortFemale>
   
   <!-- EN: When not training or combat, [PAWN_nameDef] was often at the chaplain's side. [PAWN_pronoun] dedicated [PAWN_possessive] life to serving both [PAWN_possessive] lord and [PAWN_possessive] religion. -->
-  <PiousSoldier67.baseDesc>{PAWN_gender ? Când nu se antrena sau nu lupta, [PAWN_nameDef] era adesea alături de capelan. Și-a dedicat viața slujirii atât domnului său, cât și religiei sale. : Când nu se antrena sau nu lupta, [PAWN_nameDef] era adesea alături de capelan. Și-a dedicat viața slujirii atât domnului, cât și religiei sale.}\n</PiousSoldier67.baseDesc>
+  <PiousSoldier67.baseDesc>{PAWN_gender ? Când nu se antrena sau nu lupta, [PAWN_nameDef] era adesea alături de capelan. Și-a dedicat viața slujirii atât domnului său, cât și religiei sale. : Când nu se antrena sau nu lupta, [PAWN_nameDef] era adesea alături de capelan. Și-a dedicat viața slujirii atât domnului, cât și religiei sale.}</PiousSoldier67.baseDesc>
   <!-- EN: pious soldier -->
   <PiousSoldier67.title>soldat pios</PiousSoldier67.title>
   <!-- EN: pious soldier -->
   <PiousSoldier67.titleShort>soldat pios</PiousSoldier67.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a skilled artist and military propagandist. [PAWN_pronoun] created works of art depicting [PAWN_possessive] lords and armies fovourably. -->
-  <Propagandist86.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost un artist și un propagandist militar priceput. El a creat opere de artă care îi înfățișează foare bine domniile și armatele. : [PAWN_nameDef] a fost o artistă și o propagandistă militară pricepută. Ea a creat opere de artă care îi înfățișează foare bine pe domnii și armatele sale.}\n</Propagandist86.baseDesc>
+  <Propagandist86.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost un artist și un propagandist militar priceput. El a creat opere de artă care îi înfățișează foare bine domniile și armatele. : [PAWN_nameDef] a fost o artistă și o propagandistă militară pricepută. Ea a creat opere de artă care îi înfățișează foare bine pe domnii și armatele sale.}</Propagandist86.baseDesc>
   <!-- EN: propagandist -->
   <Propagandist86.title>propagandist</Propagandist86.title>
   <Propagandist86.titleFemale>propagandistă</Propagandist86.titleFemale>
@@ -136,7 +136,7 @@
   <Propagandist86.titleShortFemale>propagandistă</Propagandist86.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a professional military sniper. [PAWN_pronoun] was trained to rapidly reach into unexpected firing positions, snipe key targets, and escape before enemies could pinpoint [PAWN_possessive] location. -->
-  <ReconSniper89.baseDesc>{PAWN_gender ? [PAWN_nameDef] era un lunetist militar profesionist. A fost antrenat să ajungă rapid în poziții de tragere neașteptate, să tragă în ținte cheie și să scape înainte ca inamicii să-i poată localiza locația. : [PAWN_nameDef] a fost lunetist militar profesionist. Fusese antrenată să ajungă rapid în poziții de tragere neașteptate, să tragă în ținte cheie și să scape înainte ca inamicii să îi poată localiza poziția.}\n</ReconSniper89.baseDesc>
+  <ReconSniper89.baseDesc>{PAWN_gender ? [PAWN_nameDef] era un lunetist militar profesionist. A fost antrenat să ajungă rapid în poziții de tragere neașteptate, să tragă în ținte cheie și să scape înainte ca inamicii să-i poată localiza locația. : [PAWN_nameDef] a fost lunetist militar profesionist. Fusese antrenată să ajungă rapid în poziții de tragere neașteptate, să tragă în ținte cheie și să scape înainte ca inamicii să îi poată localiza poziția.}</ReconSniper89.baseDesc>
   <!-- EN: recon sniper -->
   <ReconSniper89.title>lunetist de recunoaștere</ReconSniper89.title>
   <ReconSniper89.titleFemale>lunetistă de recunoaștere</ReconSniper89.titleFemale>
@@ -145,7 +145,7 @@
   <ReconSniper89.titleShortFemale>lunetistă</ReconSniper89.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] guarded the personal palace of a powerful lord.\n\nWhile violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work taught [PAWN_pronoun] to handle both words and guns. -->
-  <RoyalGuard51.baseDesc>{PAWN_gender ? [PAWN_nameDef] păzea palatul personal al unui lord puternic.\n\nÎn timp ce violența era rară, intrigile de palat erau constante. Munca lui [PAWN_nameDef] l-a învățat să mânuiască atât cuvintele cât și armele. : [PAWN_nameDef] păzea palatul personal al unui lord puternic.\n\nÎn timp ce violența era rară, intrigile de la palat erau constante. Munca lui [PAWN_nameDef] a învățat-o să mânuiască atât cuvintele cât și armele.}\n</RoyalGuard51.baseDesc>
+  <RoyalGuard51.baseDesc>{PAWN_gender ? [PAWN_nameDef] păzea palatul personal al unui lord puternic.\n\nÎn timp ce violența era rară, intrigile de palat erau constante. Munca lui [PAWN_nameDef] l-a învățat să mânuiască atât cuvintele cât și armele. : [PAWN_nameDef] păzea palatul personal al unui lord puternic.\n\nÎn timp ce violența era rară, intrigile de la palat erau constante. Munca lui [PAWN_nameDef] a învățat-o să mânuiască atât cuvintele cât și armele.}</RoyalGuard51.baseDesc>
   <!-- EN: royal guard -->
   <RoyalGuard51.title>gardă regală</RoyalGuard51.title>
   <!-- EN: guard -->
@@ -153,14 +153,14 @@
   <RoyalGuard51.titleShortFemale>gardiană</RoyalGuard51.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s role was to launch through the vacuum of space, land on the enemy ship's hull, punch holes to the interior, and conquer it in room-to-room combat. [PAWN_pronoun] became very good at wielding heavy cataphract weapons to cut both steel and flesh.\n\n[PAWN_pronoun] also developed a taste for the drugs [PAWN_pronoun] used to cope with the overwhelming stress. -->
-  <Shipcracker37.baseDesc>{PAWN_gender ? Rolul lui [PAWN_nameDef] era de a se lansa prin vidul spațial, de a ateriza pe corpul navei inamice, de a face găuri în interior și de a o cuceri în lupta de la cameră la cameră. A devenit foarte bun la mânuirea armelor grele de catafracție pentru a tăia atât oțelul, cât și carnea.\n\nA de asemenea, a dezvoltat un gust pentru drogurile pe care le folosea pentru a face față stresului copleșitor. : Rolul lui [PAWN_nameDef] era de a se lansa prin vidul din spațiu, de a ateriza pe corpul navei inamice, de a face găuri în interior și de a o cuceri în lupta de la cameră la cameră. A devenit foarte bună la mânuirea armelor grele de catafracție pentru a tăia atât oțelul, cât și carnea.\n\nA de asemenea, a dezvoltat un gust pentru drogurile pe care le folosea pentru a face față stresului copleșitor.}\n</Shipcracker37.baseDesc>
+  <Shipcracker37.baseDesc>{PAWN_gender ? Rolul lui [PAWN_nameDef] era de a se lansa prin vidul spațial, de a ateriza pe corpul navei inamice, de a face găuri în interior și de a o cuceri în lupta de la cameră la cameră. A devenit foarte bun la mânuirea armelor grele de catafracție pentru a tăia atât oțelul, cât și carnea.\n\nA de asemenea, a dezvoltat un gust pentru drogurile pe care le folosea pentru a face față stresului copleșitor. : Rolul lui [PAWN_nameDef] era de a se lansa prin vidul din spațiu, de a ateriza pe corpul navei inamice, de a face găuri în interior și de a o cuceri în lupta de la cameră la cameră. A devenit foarte bună la mânuirea armelor grele de catafracție pentru a tăia atât oțelul, cât și carnea.\n\nA de asemenea, a dezvoltat un gust pentru drogurile pe care le folosea pentru a face față stresului copleșitor.}</Shipcracker37.baseDesc>
   <!-- EN: shipcracker -->
   <Shipcracker37.title>spărgător de nave</Shipcracker37.title>
   <!-- EN: shipcracker -->
   <Shipcracker37.titleShort>spărgător de nave</Shipcracker37.titleShort>
   
   <!-- EN: [PAWN_nameDef] revelled in bloodshed. Soldiers who served with [PAWN_objective] were terrified of [PAWN_possessive] ferocity. They rarely socialized with [PAWN_nameDef], and [PAWN_pronoun] did not mind the isolation. -->
-  <Warmonger35.baseDesc>{PAWN_gender ? [PAWN_nameDef] se delecta cu vărsarea de sânge. Soldații care au servit alături de el erau îngroziți de ferocitatea sa. Rareori socializau cu [PAWN_nameDef], iar pe el nu-l deranja izolarea. : [PAWN_nameDef] se delecta cu vărsarea de sânge. Soldații care au servit alături de ea erau îngroziți de ferocitatea ei. Rareori socializau cu [PAWN_nameDef], iar pe ea nu o deranja izolarea.}\n</Warmonger35.baseDesc>
+  <Warmonger35.baseDesc>{PAWN_gender ? [PAWN_nameDef] se delecta cu vărsarea de sânge. Soldații care au servit alături de el erau îngroziți de ferocitatea sa. Rareori socializau cu [PAWN_nameDef], iar pe el nu-l deranja izolarea. : [PAWN_nameDef] se delecta cu vărsarea de sânge. Soldații care au servit alături de ea erau îngroziți de ferocitatea ei. Rareori socializau cu [PAWN_nameDef], iar pe ea nu o deranja izolarea.}</Warmonger35.baseDesc>
   <!-- EN: warmonger -->
   <Warmonger35.title>belicos</Warmonger35.title>
   <Warmonger35.titleFemale>belicoasă</Warmonger35.titleFemale>

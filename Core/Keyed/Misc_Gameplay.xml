@@ -1335,7 +1335,7 @@
   <!-- EN: These colonists were left behind:\n\n{0} -->
   <GameOverColonistsLeft>Acești coloniști au fost lăsați în urmă:\n\n{0}</GameOverColonistsLeft>
   <!-- EN: In memory of:\n -->
-  <GameOverInMemoryOf>În memoria lui:\n</GameOverInMemoryOf>
+  <GameOverInMemoryOf>În memoria lui:</GameOverInMemoryOf>
   <!-- EN: Keep playing -->
   <GameOverKeepPlaying>Continuă jocul</GameOverKeepPlaying>
   <!-- EN: Main menu -->

@@ -10,14 +10,14 @@
   <AbandonedChild23.titleShortFemale>abandonată</AbandonedChild23.titleShortFemale>
   
   <!-- EN: Rather than socialize with the other children, [PAWN_nameDef] preferred to get lost in literature. [PAWN_pronoun] taught [PAWN_objective]self to read at an early age with books bought from passing traders. -->
-  <Bookworm19.baseDesc>{PAWN_gender ? În loc să socializeze cu ceilalți copii, [PAWN_nameDef] prefera să se piardă în literatură. A învățat singur să citească de la o vârstă fragedă cu ajutorul cărților cumpărate de la comercianții care treceau prin zonă. : În loc să socializeze cu ceilalți copii, [PAWN_nameDef] prefera să se piardă în literatură. A învățat să citească de la o vârstă fragedă cu ajutorul cărților cumpărate de la comercianții care treceau prin zonă.}\n</Bookworm19.baseDesc>
+  <Bookworm19.baseDesc>{PAWN_gender ? În loc să socializeze cu ceilalți copii, [PAWN_nameDef] prefera să se piardă în literatură. A învățat singur să citească de la o vârstă fragedă cu ajutorul cărților cumpărate de la comercianții care treceau prin zonă. : În loc să socializeze cu ceilalți copii, [PAWN_nameDef] prefera să se piardă în literatură. A învățat să citească de la o vârstă fragedă cu ajutorul cărților cumpărate de la comercianții care treceau prin zonă.}</Bookworm19.baseDesc>
   <!-- EN: bookworm -->
   <Bookworm19.title>șoarece de bibliotecă</Bookworm19.title>
   <!-- EN: bookworm -->
   <Bookworm19.titleShort>șoarece de bibliotecă</Bookworm19.titleShort>
   
   <!-- EN: [PAWN_nameDef] had a knack for art. Traders and collectors from many different societies sought to buy [PAWN_possessive] creations. -->
-  <BuddingArtist44.baseDesc>{PAWN_gender ? [PAWN_nameDef] avea un talent pentru artă. Comercianți și colecționari din multe societăți diferite căutau să-i cumpere creațiile. : [PAWN_nameDef] avea un talent deosebit pentru artă. Comercianți și colecționari din multe societăți diferite căutau să-i cumpere creațiile.}\n</BuddingArtist44.baseDesc>
+  <BuddingArtist44.baseDesc>{PAWN_gender ? [PAWN_nameDef] avea un talent pentru artă. Comercianți și colecționari din multe societăți diferite căutau să-i cumpere creațiile. : [PAWN_nameDef] avea un talent deosebit pentru artă. Comercianți și colecționari din multe societăți diferite căutau să-i cumpere creațiile.}</BuddingArtist44.baseDesc>
   <!-- EN: budding artist -->
   <BuddingArtist44.title>artist în devenire</BuddingArtist44.title>
   <BuddingArtist44.titleFemale>artistă în devenire</BuddingArtist44.titleFemale>
@@ -26,7 +26,7 @@
   <BuddingArtist44.titleShortFemale>artistă</BuddingArtist44.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] tormented other children for fun. To keep [PAWN_objective] busy, an elder assigned [PAWN_objective] to a hunting party at an early age. -->
-  <Bully70.baseDesc>{PAWN_gender ? [PAWN_nameDef] îi chinuia pe alți copii pentru a se distra. Pentru a-l ține ocupat, un bătrân l-a repartizat la o partidă de vânătoare la o vârstă fragedă. : [PAWN_nameDef] îi chinuia pe alți copii pentru a se distra. Pentru a o ține ocupată, un bătrân a repartizat-o la o partidă de vânătoare la o vârstă fragedă.}\n</Bully70.baseDesc>
+  <Bully70.baseDesc>{PAWN_gender ? [PAWN_nameDef] îi chinuia pe alți copii pentru a se distra. Pentru a-l ține ocupat, un bătrân l-a repartizat la o partidă de vânătoare la o vârstă fragedă. : [PAWN_nameDef] îi chinuia pe alți copii pentru a se distra. Pentru a o ține ocupată, un bătrân a repartizat-o la o partidă de vânătoare la o vârstă fragedă.}</Bully70.baseDesc>
   <!-- EN: bully -->
   <Bully70.title>bătăuș</Bully70.title>
   <Bully70.titleFemale>bătăușă</Bully70.titleFemale>
@@ -35,14 +35,14 @@
   <Bully70.titleShortFemale>bătăușă</Bully70.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
-  <CaveChild30.baseDesc>{PAWN_gender ? [PAWN_nameDef] a crescut într-un complex de peșteri mare și complicat, care se întindea adânc pe versantul unui munte. El i-a ajutat pe adulți să întrețină și să îmbunătățească peșterile adânci. : [PAWN_nameDef] a crescut într-un complex de peșteri mare și complicat, care se întindea adânc pe versantul unui munte. Ea i-a ajutat pe adulți să întrețină și să îmbunătățească peșterile adânci.}\n</CaveChild30.baseDesc>
+  <CaveChild30.baseDesc>{PAWN_gender ? [PAWN_nameDef] a crescut într-un complex de peșteri mare și complicat, care se întindea adânc pe versantul unui munte. El i-a ajutat pe adulți să întrețină și să îmbunătățească peșterile adânci. : [PAWN_nameDef] a crescut într-un complex de peșteri mare și complicat, care se întindea adânc pe versantul unui munte. Ea i-a ajutat pe adulți să întrețină și să îmbunătățească peșterile adânci.}</CaveChild30.baseDesc>
   <!-- EN: cave child -->
   <CaveChild30.title>copil al peșterilor</CaveChild30.title>
   <!-- EN: cave child -->
   <CaveChild30.titleShort>copil</CaveChild30.titleShort>
   
   <!-- EN: As a baby, [PAWN_nameDef] was the only survivor of a deadly spacecraft crash. A passing tribe discovered [PAWN_objective] in the wreckage and adopted [PAWN_objective]. -->
-  <CrashBaby32.baseDesc>{PAWN_gender ? Pe când era copil, [PAWN_nameDef] a fost singurul supraviețuitor al unei prăbușiri mortale a unei nave spațiale. Un trib aflat în trecere l-a descoperit în epavă și l-a adoptat. : Când era copil, [PAWN_nameDef] a fost singura supraviețuitoare a unui accident mortal de navă spațială. Un trib aflat în trecere a descoperit-o în epavă și a adoptat-o.}\n</CrashBaby32.baseDesc>
+  <CrashBaby32.baseDesc>{PAWN_gender ? Pe când era copil, [PAWN_nameDef] a fost singurul supraviețuitor al unei prăbușiri mortale a unei nave spațiale. Un trib aflat în trecere l-a descoperit în epavă și l-a adoptat. : Când era copil, [PAWN_nameDef] a fost singura supraviețuitoare a unui accident mortal de navă spațială. Un trib aflat în trecere a descoperit-o în epavă și a adoptat-o.}</CrashBaby32.baseDesc>
   <!-- EN: crash baby -->
   <CrashBaby32.title>bebeluș supraviețuitor</CrashBaby32.title>
   <!-- EN: crashbaby -->
@@ -50,7 +50,7 @@
   <CrashBaby32.titleShortFemale>supraviețuitoare</CrashBaby32.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was responsible for keeping the tribe's fire going. [PAWN_pronoun] took this responsibility very seriously. -->
-  <FireKeeper44.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost responsabil pentru menținerea focului tribului. A luat această responsabilitate foarte în serios. : [PAWN_nameDef] a fost responsabilă pentru menținerea focului tribului. Ea a luat această responsabilitate foarte în serios.}\n</FireKeeper44.baseDesc>
+  <FireKeeper44.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost responsabil pentru menținerea focului tribului. A luat această responsabilitate foarte în serios. : [PAWN_nameDef] a fost responsabilă pentru menținerea focului tribului. Ea a luat această responsabilitate foarte în serios.}</FireKeeper44.baseDesc>
   <!-- EN: fire keeper -->
   <FireKeeper44.title>Păstrător de foc</FireKeeper44.title>
   <FireKeeper44.titleFemale>Păstrătoare de foc</FireKeeper44.titleFemale>
@@ -59,14 +59,14 @@
   <FireKeeper44.titleShortFemale>gardiană a focului</FireKeeper44.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] tended the muffalo herds, keeping them safe from predators and treating sick animals. It was quiet work, but [PAWN_pronoun] enjoyed being away from people. -->
-  <Herder19.baseDesc>{PAWN_gender ? [PAWN_nameDef] se ocupa de turmele de muflon, protejându-le de prădători și tratând animalele bolnave. Era o muncă liniștită, dar îi plăcea să fie departe de oameni. : [PAWN_nameDef] a îngrijit turmele de muflon, protejându-le de prădători și tratând animalele bolnave. Era o muncă liniștită, dar îi plăcea să fie departe de oameni.}\n</Herder19.baseDesc>
+  <Herder19.baseDesc>{PAWN_gender ? [PAWN_nameDef] se ocupa de turmele de muflon, protejându-le de prădători și tratând animalele bolnave. Era o muncă liniștită, dar îi plăcea să fie departe de oameni. : [PAWN_nameDef] a îngrijit turmele de muflon, protejându-le de prădători și tratând animalele bolnave. Era o muncă liniștită, dar îi plăcea să fie departe de oameni.}</Herder19.baseDesc>
   <!-- EN: herder -->
   <Herder19.title>cioban</Herder19.title>
   <!-- EN: herder -->
   <Herder19.titleShort>cioban</Herder19.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s overprotective parents encouraged [PAWN_objective] to stay at home nearly every day. Though [PAWN_pronoun] had a lot of time to read and pursue crafting hobbies, [PAWN_pronoun] never developed normal social skills. -->
-  <Hideaway7.baseDesc>{PAWN_gender ? Părinții supraprotectori ai lui [PAWN_nameDef] l-au încurajat să stea acasă aproape în fiecare zi. Deși a avut mult timp să citească și să se ocupe de hobby-uri de artizanat, nu și-a dezvoltat niciodată abilități sociale normale. : Părinții supraprotectori ai lui [PAWN_nameDef] au încurajat-o să stea acasă aproape în fiecare zi. Deși a avut mult timp să citească și să se ocupe de hobby-uri de artizanat, nu și-a dezvoltat niciodată abilități sociale normale.}\n</Hideaway7.baseDesc>
+  <Hideaway7.baseDesc>{PAWN_gender ? Părinții supraprotectori ai lui [PAWN_nameDef] l-au încurajat să stea acasă aproape în fiecare zi. Deși a avut mult timp să citească și să se ocupe de hobby-uri de artizanat, nu și-a dezvoltat niciodată abilități sociale normale. : Părinții supraprotectori ai lui [PAWN_nameDef] au încurajat-o să stea acasă aproape în fiecare zi. Deși a avut mult timp să citească și să se ocupe de hobby-uri de artizanat, nu și-a dezvoltat niciodată abilități sociale normale.}</Hideaway7.baseDesc>
   <!-- EN: hideaway -->
   <Hideaway7.title>protejat</Hideaway7.title>
   <Hideaway7.titleFemale>protejată</Hideaway7.titleFemale>
@@ -75,21 +75,21 @@
   <Hideaway7.titleShortFemale>protejată</Hideaway7.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] didn't learn to speak until [PAWN_pronoun] was nearly five years old. Even then [PAWN_pronoun] preferred to keep to [PAWN_objective]self.\n\nTo the chagrin of [PAWN_possessive] caretakers, [PAWN_pronoun] made a habit of wandering off to live in the wilderness for weeks at a time. -->
-  <ReclusiveChild81.baseDesc>{PAWN_gender ? [PAWN_nameDef] nu a învățat să vorbească decât la aproape cinci ani. Chiar și atunci a preferat să rămână singur.\nÎn ciuda celor care îl îngrijeau, [PAWN_nameDef] și-a făcut un obicei din a se rătăci și a trăi în pustiu săptămâni întregi. : [PAWN_nameDef] a învățat să vorbească abia la vârsta de aproape cinci ani. Chiar și atunci, a preferat să rămână singură.\n\nPentru supărarea celor care o îngrijeau, și-a făcut un obicei din a pleca să trăiască în sălbăticie timp de săptămâni întregi.}\n</ReclusiveChild81.baseDesc>
+  <ReclusiveChild81.baseDesc>{PAWN_gender ? [PAWN_nameDef] nu a învățat să vorbească decât la aproape cinci ani. Chiar și atunci a preferat să rămână singur.\nÎn ciuda celor care îl îngrijeau, [PAWN_nameDef] și-a făcut un obicei din a se rătăci și a trăi în pustiu săptămâni întregi. : [PAWN_nameDef] a învățat să vorbească abia la vârsta de aproape cinci ani. Chiar și atunci, a preferat să rămână singură.\n\nPentru supărarea celor care o îngrijeau, și-a făcut un obicei din a pleca să trăiască în sălbăticie timp de săptămâni întregi.}</ReclusiveChild81.baseDesc>
   <!-- EN: reclusive child -->
   <ReclusiveChild81.title>copil singuratic</ReclusiveChild81.title>
   <!-- EN: reclusive -->
   <ReclusiveChild81.titleShort>reclusiv</ReclusiveChild81.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood escaping grunt work to go digging through wrecks and ruins for treasures. [PAWN_possessive] natural curiosity got [PAWN_objective] into a lot of trouble, but it also yielded many interesting finds. -->
-  <Scavenger22.baseDesc>{PAWN_gender ? [PAWN_nameDef] și-a petrecut copilăria evitând munca de jos pentru a săpa prin epave și ruine în căutare de comori. Curiozitatea sa naturală l-a băgat în multe necazuri, dar i-a adus și multe descoperiri interesante. : [PAWN_nameDef] și-a petrecut copilăria evitând munca de jos pentru a săpa prin epave și ruine în căutare de comori. curiozitatea ei naturală a băgat-o într-o mulțime de necazuri, dar i-a adus și multe descoperiri interesante.}\n</Scavenger22.baseDesc>
+  <Scavenger22.baseDesc>{PAWN_gender ? [PAWN_nameDef] și-a petrecut copilăria evitând munca de jos pentru a săpa prin epave și ruine în căutare de comori. Curiozitatea sa naturală l-a băgat în multe necazuri, dar i-a adus și multe descoperiri interesante. : [PAWN_nameDef] și-a petrecut copilăria evitând munca de jos pentru a săpa prin epave și ruine în căutare de comori. curiozitatea ei naturală a băgat-o într-o mulțime de necazuri, dar i-a adus și multe descoperiri interesante.}</Scavenger22.baseDesc>
   <!-- EN: scavenger -->
   <Scavenger22.title>scormonitor</Scavenger22.title>
   <!-- EN: scavenger -->
   <Scavenger22.titleShort>scormonitor</Scavenger22.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s entire tribe was wiped out in a raid. Though [PAWN_pronoun] was adopted by another group, [PAWN_pronoun] was emotionally scarred, and preferred to stay near home, cooking and tending crops. -->
-  <SoleSurvivor21.baseDesc>{PAWN_gender ? Întregul trib al lui [PAWN_nameDef] a fost distrus într-un raid. Deși a fost adoptat de un alt grup, a rămas marcat emoțional și a preferat să rămână lângă casă, să gătească și să îngrijească recoltele. : Întregul trib al lui [PAWN_nameDef] a fost distrus într-un raid. Deși a fost adoptată de un alt grup, a rămas marcată emoțional și a preferat să rămână lângă casă, să gătească și să îngrijească recoltele.}\n</SoleSurvivor21.baseDesc>
+  <SoleSurvivor21.baseDesc>{PAWN_gender ? Întregul trib al lui [PAWN_nameDef] a fost distrus într-un raid. Deși a fost adoptat de un alt grup, a rămas marcat emoțional și a preferat să rămână lângă casă, să gătească și să îngrijească recoltele. : Întregul trib al lui [PAWN_nameDef] a fost distrus într-un raid. Deși a fost adoptată de un alt grup, a rămas marcată emoțional și a preferat să rămână lângă casă, să gătească și să îngrijească recoltele.}</SoleSurvivor21.baseDesc>
   <!-- EN: sole survivor -->
   <SoleSurvivor21.title>unic supraviețuitor</SoleSurvivor21.title>
   <!-- EN: survivor -->
@@ -97,7 +97,7 @@
   <SoleSurvivor21.titleShortFemale>supraviețuitoare</SoleSurvivor21.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up in a tribe, running around the village, moving with the muffalo herds, learning essential skills from [PAWN_possessive] parents.\n\n[PAWN_pronoun] never learned to read and never saw a machine that wasn't an ancient ruin. -->
-  <TribeChild40.baseDesc>{PAWN_gender ? [PAWN_nameDef] a crescut într-un trib, alergând în jurul satului, mișcându-se cu turmele de muffalo, învățând abilități esențiale de la părinții săi.\n\nNu a învățat niciodată să citească și nu a văzut niciodată o mașină care să nu fie o ruină antică. : [PAWN_nameDef] a crescut într-un trib, alergând în jurul satului, mergând cu turmele de muffalo, învățând abilități esențiale de la părinții ei.\n\nNu a învățat niciodată să citească și nu a văzut niciodată o mașină care să nu fie o ruină antică.}\n</TribeChild40.baseDesc>
+  <TribeChild40.baseDesc>{PAWN_gender ? [PAWN_nameDef] a crescut într-un trib, alergând în jurul satului, mișcându-se cu turmele de muffalo, învățând abilități esențiale de la părinții săi.\n\nNu a învățat niciodată să citească și nu a văzut niciodată o mașină care să nu fie o ruină antică. : [PAWN_nameDef] a crescut într-un trib, alergând în jurul satului, mergând cu turmele de muffalo, învățând abilități esențiale de la părinții ei.\n\nNu a învățat niciodată să citească și nu a văzut niciodată o mașină care să nu fie o ruină antică.}</TribeChild40.baseDesc>
   <!-- EN: tribe child -->
   <TribeChild40.title>copil de trib</TribeChild40.title>
   <!-- EN: tribal -->
@@ -105,7 +105,7 @@
   <TribeChild40.titleShortFemale>tribală</TribeChild40.titleShortFemale>
   
   <!-- EN: As a child, [PAWN_nameDef] returned to [PAWN_possessive] village to find that it had been wiped out by bandits. [PAWN_pronoun] swore revenge on the attackers and began a violent rampage across the wilderness. -->
-  <VengefulChild43.baseDesc>{PAWN_gender ? În copilărie, [PAWN_nameDef] s-a întors în satul său și a constatat că acesta fusese distrus de bandiți. El a jurat să se răzbune pe atacatori și a început o cursă violentă prin sălbăticie. : În copilărie, [PAWN_nameDef] s-a întors în satul ei și a constatat că acesta fusese distrus de bandiți. Ea a jurat să se răzbune pe atacatori și a început o cursă violentă prin sălbăticie.}\n</VengefulChild43.baseDesc>
+  <VengefulChild43.baseDesc>{PAWN_gender ? În copilărie, [PAWN_nameDef] s-a întors în satul său și a constatat că acesta fusese distrus de bandiți. El a jurat să se răzbune pe atacatori și a început o cursă violentă prin sălbăticie. : În copilărie, [PAWN_nameDef] s-a întors în satul ei și a constatat că acesta fusese distrus de bandiți. Ea a jurat să se răzbune pe atacatori și a început o cursă violentă prin sălbăticie.}</VengefulChild43.baseDesc>
   <!-- EN: vengeful child -->
   <VengefulChild43.title>copil răzbunător</VengefulChild43.title>
   <!-- EN: vengeful -->

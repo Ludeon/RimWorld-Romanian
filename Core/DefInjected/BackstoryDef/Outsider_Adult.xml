@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Worn out by the pressures of social interaction, [PAWN_nameDef] left [PAWN_possessive] crowded city to live a simple life in the wilderness. There, [PAWN_pronoun] spent [PAWN_possessive] days alone, tending [PAWN_possessive] garden and crafting the simple tools [PAWN_pronoun] needed to survive. -->
-  <Hermit82.baseDesc>{PAWN_gender ? Epuizat de presiunea interacțiunii sociale, [PAWN_nameDef] a părăsit orașul său aglomerat pentru a trăi o viață simplă în sălbăticie. Acolo, și-a petrecut zilele singur, îngrijindu-și grădina și confecționând uneltele simple de care avea nevoie pentru a supraviețui. : Epuizată de presiunile interacțiunii sociale, [PAWN_nameDef] a părăsit orașul aglomerat pentru a trăi o viață simplă în sălbăticie. Acolo, și-a petrecut zilele singură, îngrijindu-și grădina și confecționând uneltele simple de care avea nevoie pentru a supraviețui.}\n</Hermit82.baseDesc>
+  <Hermit82.baseDesc>{PAWN_gender ? Epuizat de presiunea interacțiunii sociale, [PAWN_nameDef] a părăsit orașul său aglomerat pentru a trăi o viață simplă în sălbăticie. Acolo, și-a petrecut zilele singur, îngrijindu-și grădina și confecționând uneltele simple de care avea nevoie pentru a supraviețui. : Epuizată de presiunile interacțiunii sociale, [PAWN_nameDef] a părăsit orașul aglomerat pentru a trăi o viață simplă în sălbăticie. Acolo, și-a petrecut zilele singură, îngrijindu-și grădina și confecționând uneltele simple de care avea nevoie pentru a supraviețui.}</Hermit82.baseDesc>
   <!-- EN: hermit -->
   <Hermit82.title>pustnic</Hermit82.title>
   <!-- EN: hermit -->

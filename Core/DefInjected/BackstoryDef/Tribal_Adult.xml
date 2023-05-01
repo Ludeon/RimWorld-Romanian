@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] fought for [PAWN_possessive] tribe. [PAWN_pronoun] and specialized in the use of bows, pila, and other ranged weapons. -->
-  <Archer25.baseDesc>{PAWN_gender ? [PAWN_nameDef] a luptat pentru tribul său. El și s-a specializat în folosirea arcurilor, pila și a altor arme de distanță. : [PAWN_nameDef] a luptat pentru tribul ei. Ea s-a specializat în folosirea arcurilor, pila și a altor arme de distanță.}\n</Archer25.baseDesc>
+  <Archer25.baseDesc>{PAWN_gender ? [PAWN_nameDef] a luptat pentru tribul său. El și s-a specializat în folosirea arcurilor, pila și a altor arme de distanță. : [PAWN_nameDef] a luptat pentru tribul ei. Ea s-a specializat în folosirea arcurilor, pila și a altor arme de distanță.}</Archer25.baseDesc>
   <!-- EN: archer -->
   <Archer25.title>arcaș</Archer25.title>
   <Archer25.titleFemale>arcașă</Archer25.titleFemale>
@@ -11,7 +11,7 @@
   <Archer25.titleShortFemale>arcașă</Archer25.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s tribe banished [PAWN_objective] following a bloody dispute. [PAWN_pronoun] survived in the wilds alone for a long time. -->
-  <Banished68.baseDesc>{PAWN_gender ? Tribul lui [PAWN_nameDef] l-a alungat în urma unei dispute sângeroase. A supraviețuit singur în sălbăticie pentru o lungă perioadă de timp. : Tribul lui [PAWN_nameDef] a alungat-o în urma unei dispute sângeroase. Ea a supraviețuit singură în sălbăticie pentru o lungă perioadă de timp.}\n</Banished68.baseDesc>
+  <Banished68.baseDesc>{PAWN_gender ? Tribul lui [PAWN_nameDef] l-a alungat în urma unei dispute sângeroase. A supraviețuit singur în sălbăticie pentru o lungă perioadă de timp. : Tribul lui [PAWN_nameDef] a alungat-o în urma unei dispute sângeroase. Ea a supraviețuit singură în sălbăticie pentru o lungă perioadă de timp.}</Banished68.baseDesc>
   <!-- EN: banished -->
   <Banished68.title>alungat</Banished68.title>
   <Banished68.titleFemale>alungată</Banished68.titleFemale>
@@ -20,7 +20,7 @@
   <Banished68.titleShortFemale>alungată</Banished68.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] wielded ikwa, axes, clubs, and other close-ranged weapons in battles for [PAWN_possessive] tribe. -->
-  <Brave88.baseDesc>{PAWN_gender ? [PAWN_nameDef] a mânuit ikwa, topoare, topoare, bâte și alte arme cu rază scurtă de acțiune în luptele pentru tribul său. : [PAWN_nameDef] a mânuit ikwa, topoare, bâte și alte arme cu rază scurtă de acțiune în luptele pentru tribul ei.}\n</Brave88.baseDesc>
+  <Brave88.baseDesc>{PAWN_gender ? [PAWN_nameDef] a mânuit ikwa, topoare, topoare, bâte și alte arme cu rază scurtă de acțiune în luptele pentru tribul său. : [PAWN_nameDef] a mânuit ikwa, topoare, bâte și alte arme cu rază scurtă de acțiune în luptele pentru tribul ei.}</Brave88.baseDesc>
   <!-- EN: brave -->
   <Brave88.title>curajos</Brave88.title>
   <Brave88.titleFemale>curajoasă</Brave88.titleFemale>
@@ -29,14 +29,14 @@
   <Brave88.titleShortFemale>curajoasă</Brave88.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s main job in the hunting party was the butchering of animals. [PAWN_pronoun] became a master with the knife, able to extract every bit of value from a carcass in a short time. -->
-  <Butcher40.baseDesc>{PAWN_gender ? Principala sarcină a lui [PAWN_nameDef] în cadrul grupului de vânătoare era măcelărirea animalelor. A devenit un maestru cu cuțitul, capabil să extragă fiecare bucățică de valoare dintr-o carcasă într-un timp scurt. : Principala sarcină a lui [PAWN_nameDef] în grupul de vânătoare era măcelărirea animalelor. Ea a devenit o maestră cu cuțitul, capabilă să extragă fiecare bucățică de valoare dintr-o carcasă într-un timp scurt.}\n</Butcher40.baseDesc>
+  <Butcher40.baseDesc>{PAWN_gender ? Principala sarcină a lui [PAWN_nameDef] în cadrul grupului de vânătoare era măcelărirea animalelor. A devenit un maestru cu cuțitul, capabil să extragă fiecare bucățică de valoare dintr-o carcasă într-un timp scurt. : Principala sarcină a lui [PAWN_nameDef] în grupul de vânătoare era măcelărirea animalelor. Ea a devenit o maestră cu cuțitul, capabilă să extragă fiecare bucățică de valoare dintr-o carcasă într-un timp scurt.}</Butcher40.baseDesc>
   <!-- EN: butcher -->
   <Butcher40.title>măcelar</Butcher40.title>
   <!-- EN: butcher -->
   <Butcher40.titleShort>măcelar</Butcher40.titleShort>
   
   <!-- EN: [PAWN_nameDef] carved artworks for [PAWN_possessive] tribe from wood, stone, and occasionally, more exotic materials. The work was sometimes sold, and sometimes kept to beautify settlements and provide a focus for rituals. -->
-  <Carver1.baseDesc>{PAWN_gender ? [PAWN_nameDef] a sculptat opere de artă pentru tribul său din lemn, piatră și, ocazional, din materiale mai exotice. Lucrările erau uneori vândute, iar alteori erau păstrate pentru a înfrumuseța așezările și pentru a oferi un punct central pentru ritualuri. : [PAWN_nameDef] a sculptat opere de artă pentru tribul ei din lemn, piatră și, ocazional, din materiale mai exotice. Lucrările erau uneori vândute, iar alteori păstrate pentru a înfrumuseța așezările și pentru a oferi un punct de atracție pentru ritualuri.}\n</Carver1.baseDesc>
+  <Carver1.baseDesc>{PAWN_gender ? [PAWN_nameDef] a sculptat opere de artă pentru tribul său din lemn, piatră și, ocazional, din materiale mai exotice. Lucrările erau uneori vândute, iar alteori erau păstrate pentru a înfrumuseța așezările și pentru a oferi un punct central pentru ritualuri. : [PAWN_nameDef] a sculptat opere de artă pentru tribul ei din lemn, piatră și, ocazional, din materiale mai exotice. Lucrările erau uneori vândute, iar alteori păstrate pentru a înfrumuseța așezările și pentru a oferi un punct de atracție pentru ritualuri.}</Carver1.baseDesc>
   <!-- EN: carver -->
   <Carver1.title>sculptor</Carver1.title>
   <Carver1.titleFemale>sculptoare</Carver1.titleFemale>
@@ -45,7 +45,7 @@
   <Carver1.titleShortFemale>sculptoare</Carver1.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] specialized in cave complex excavation and construction. -->
-  <CaveBuilder81.baseDesc>{PAWN_gender ? [PAWN_nameDef] era specializat în excavarea și construcția de complexe de peșteri. : [PAWN_nameDef] era specializată în excavarea și construcția de complexe de peșteri.}\n</CaveBuilder81.baseDesc>
+  <CaveBuilder81.baseDesc>{PAWN_gender ? [PAWN_nameDef] era specializat în excavarea și construcția de complexe de peșteri. : [PAWN_nameDef] era specializată în excavarea și construcția de complexe de peșteri.}</CaveBuilder81.baseDesc>
   <!-- EN: cave builder -->
   <CaveBuilder81.title>constructor de peșteri</CaveBuilder81.title>
   <CaveBuilder81.titleFemale>constructoare de peșteri</CaveBuilder81.titleFemale>
@@ -54,7 +54,7 @@
   <CaveBuilder81.titleShortFemale>constructoare</CaveBuilder81.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] labored in mines and caves, digging out spaces for storing items and hiding from threats. [PAWN_possessive] work provided hiding spots for [PAWN_possessive] friends on many occasions. -->
-  <Digger31.baseDesc>{PAWN_gender ? [PAWN_nameDef] a muncit în mine și peșteri, săpând spații pentru a depozita obiecte și pentru a se ascunde de amenințări. munca sa a oferit de multe ori ascunzători pentru prietenii săi. : [PAWN_nameDef] a muncit în mine și peșteri, săpând spații pentru depozitarea obiectelor și ascunzându-se de amenințări. Munca ei a oferit ascunzători pentru prietenii ei în multe ocazii.}\n</Digger31.baseDesc>
+  <Digger31.baseDesc>{PAWN_gender ? [PAWN_nameDef] a muncit în mine și peșteri, săpând spații pentru a depozita obiecte și pentru a se ascunde de amenințări. munca sa a oferit de multe ori ascunzători pentru prietenii săi. : [PAWN_nameDef] a muncit în mine și peșteri, săpând spații pentru depozitarea obiectelor și ascunzându-se de amenințări. Munca ei a oferit ascunzători pentru prietenii ei în multe ocazii.}</Digger31.baseDesc>
   <!-- EN: digger -->
   <Digger31.title>săpător</Digger31.title>
   <Digger31.titleFemale>săpătoare</Digger31.titleFemale>
@@ -63,7 +63,7 @@
   <Digger31.titleShortFemale>săpătoare</Digger31.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
-  <Digger66.baseDesc>{PAWN_gender ? [PAWN_nameDef] a sculptat spații de locuit și a extras minerale de pe versanții dealurilor și munților. A învățat să se simtă ca acasă, să scotocească prin piatră și să consolideze pereții peșterilor. : [PAWN_nameDef] a sculptat spații de locuit și a extras minerale de pe versanții dealurilor și munților. A învățat să se simtă ca acasă, să scotocească prin piatră și să consolideze pereții peșterilor.}\n</Digger66.baseDesc>
+  <Digger66.baseDesc>{PAWN_gender ? [PAWN_nameDef] a sculptat spații de locuit și a extras minerale de pe versanții dealurilor și munților. A învățat să se simtă ca acasă, să scotocească prin piatră și să consolideze pereții peșterilor. : [PAWN_nameDef] a sculptat spații de locuit și a extras minerale de pe versanții dealurilor și munților. A învățat să se simtă ca acasă, să scotocească prin piatră și să consolideze pereții peșterilor.}</Digger66.baseDesc>
   <!-- EN: digger -->
   <Digger66.title>săpător</Digger66.title>
   <Digger66.titleFemale>săpătoare</Digger66.titleFemale>
@@ -72,21 +72,21 @@
   <Digger66.titleShortFemale>săpătoare</Digger66.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] worked at dig sites, extracting valuable items and materials from ancient compacted ruins. [PAWN_pronoun] learned how to spot valuables in the ground and use a variety of excavating tools. -->
-  <Excavator55.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat la săpături, extrăgând obiecte și materiale valoroase din ruinele vechi compactate. A învățat cum să identifice obiectele de valoare în pământ și să folosească o varietate de instrumente de excavare. : [PAWN_nameDef] a lucrat la săpături, extrăgând obiecte și materiale valoroase din ruine vechi compactate. A învățat cum să identifice obiectele de valoare în pământ și să folosească o varietate de instrumente de excavare.}\n</Excavator55.baseDesc>
+  <Excavator55.baseDesc>{PAWN_gender ? [PAWN_nameDef] a lucrat la săpături, extrăgând obiecte și materiale valoroase din ruinele vechi compactate. A învățat cum să identifice obiectele de valoare în pământ și să folosească o varietate de instrumente de excavare. : [PAWN_nameDef] a lucrat la săpături, extrăgând obiecte și materiale valoroase din ruine vechi compactate. A învățat cum să identifice obiectele de valoare în pământ și să folosească o varietate de instrumente de excavare.}</Excavator55.baseDesc>
   <!-- EN: excavator -->
   <Excavator55.title>excavator</Excavator55.title>
   <!-- EN: excavator -->
   <Excavator55.titleShort>excavator</Excavator55.titleShort>
   
   <!-- EN: [PAWN_nameDef] was responsible for erecting structures for [PAWN_possessive] fellow tribespeople to live in. This included both temporary structures for nomadic travel, and permanent settlements. Gathering building materials from local plant life was part of the job. -->
-  <Framer37.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost responsabil pentru ridicarea structurilor în care să locuiască membrii tribului său. Aceasta includea atât structuri temporare pentru călătoriile nomade, cât și așezări permanente. Strângerea materialelor de construcție din plantele locale făcea parte din munca sa. : [PAWN_nameDef] a fost responsabilă pentru ridicarea structurilor în care să locuiască membrii tribului ei. Aceasta includea atât structuri temporare pentru călătoriile nomade, cât și așezări permanente. Colectarea materialelor de construcție din plantele locale făcea parte din munca sa.}\n</Framer37.baseDesc>
+  <Framer37.baseDesc>{PAWN_gender ? [PAWN_nameDef] a fost responsabil pentru ridicarea structurilor în care să locuiască membrii tribului său. Aceasta includea atât structuri temporare pentru călătoriile nomade, cât și așezări permanente. Strângerea materialelor de construcție din plantele locale făcea parte din munca sa. : [PAWN_nameDef] a fost responsabilă pentru ridicarea structurilor în care să locuiască membrii tribului ei. Aceasta includea atât structuri temporare pentru călătoriile nomade, cât și așezări permanente. Colectarea materialelor de construcție din plantele locale făcea parte din munca sa.}</Framer37.baseDesc>
   <!-- EN: framer -->
   <Framer37.title>tâmplar</Framer37.title>
   <!-- EN: framer -->
   <Framer37.titleShort>tâmplar</Framer37.titleShort>
   
   <!-- EN: Using [PAWN_possessive] knowledge of plants, roots, and berries, [PAWN_nameDef] could find food in even the most barren landscapes. [PAWN_pronoun] stayed away from animals. -->
-  <Gatherer70.baseDesc>{PAWN_gender ? Folosindu-și cunoștințele despre plante, rădăcini și fructe de pădure, [PAWN_nameDef] putea găsi hrană chiar și în cele mai pustii peisaje. A stat departe de animale. : Folosindu-și cunoștințele despre plante, rădăcini și fructe de pădure, [PAWN_nameDef] putea găsi hrană chiar și în cele mai pustii peisaje. A stat departe de animale.}\n</Gatherer70.baseDesc>
+  <Gatherer70.baseDesc>{PAWN_gender ? Folosindu-și cunoștințele despre plante, rădăcini și fructe de pădure, [PAWN_nameDef] putea găsi hrană chiar și în cele mai pustii peisaje. A stat departe de animale. : Folosindu-și cunoștințele despre plante, rădăcini și fructe de pădure, [PAWN_nameDef] putea găsi hrană chiar și în cele mai pustii peisaje. A stat departe de animale.}</Gatherer70.baseDesc>
   <!-- EN: gatherer -->
   <Gatherer70.title>culegător</Gatherer70.title>
   <Gatherer70.titleFemale>culegătoare</Gatherer70.titleFemale>
@@ -95,7 +95,7 @@
   <Gatherer70.titleShortFemale>culegătoare</Gatherer70.titleShortFemale>
   
   <!-- EN: After [PAWN_possessive] tribe's elder healer was killed in a raid, [PAWN_nameDef] took on the role. [PAWN_pronoun] spent [PAWN_possessive] days scrounging up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies. -->
-  <Healer46.baseDesc>{PAWN_gender ? După ce bătrânul vindecător al tribului său a fost ucis într-un raid, [PAWN_nameDef] a preluat acest rol. Și-a petrecut zilele adunând ierburi și compuși minerali din zona din apropiere pentru a le folosi în remedii surprinzător de eficiente. : După ce bătrânul vindecător al tribului ei a fost ucis într-un raid, [PAWN_nameDef] a preluat rolul. Și-a petrecut zilele adunând ierburi și compuși minerali din zona din apropiere pentru a le folosi în remedii surprinzător de eficiente.}\n</Healer46.baseDesc>
+  <Healer46.baseDesc>{PAWN_gender ? După ce bătrânul vindecător al tribului său a fost ucis într-un raid, [PAWN_nameDef] a preluat acest rol. Și-a petrecut zilele adunând ierburi și compuși minerali din zona din apropiere pentru a le folosi în remedii surprinzător de eficiente. : După ce bătrânul vindecător al tribului ei a fost ucis într-un raid, [PAWN_nameDef] a preluat rolul. Și-a petrecut zilele adunând ierburi și compuși minerali din zona din apropiere pentru a le folosi în remedii surprinzător de eficiente.}</Healer46.baseDesc>
   <!-- EN: healer -->
   <Healer46.title>vindecător</Healer46.title>
   <Healer46.titleFemale>vindecătoare</Healer46.titleFemale>
@@ -104,7 +104,7 @@
   <Healer46.titleShortFemale>vindecătoare</Healer46.titleShortFemale>
   
   <!-- EN: While the others were out hunting and foraging, [PAWN_nameDef] would stay at home to cook and take care of the young and sick. -->
-  <HearthTender66.baseDesc>{PAWN_gender ? În timp ce ceilalți erau plecați la vânătoare și la căutarea hranei, [PAWN_nameDef] rămânea acasă pentru a găti și a avea grijă de cei tineri și bolnavi. : În timp ce ceilalți erau plecați la vânătoare și la căutarea hranei, [PAWN_nameDef] rămânea acasă pentru a găti și a avea grijă de cei tineri și bolnavi.}\n</HearthTender66.baseDesc>
+  <HearthTender66.baseDesc>{PAWN_gender ? În timp ce ceilalți erau plecați la vânătoare și la căutarea hranei, [PAWN_nameDef] rămânea acasă pentru a găti și a avea grijă de cei tineri și bolnavi. : În timp ce ceilalți erau plecați la vânătoare și la căutarea hranei, [PAWN_nameDef] rămânea acasă pentru a găti și a avea grijă de cei tineri și bolnavi.}</HearthTender66.baseDesc>
   <!-- EN: hearth tender -->
   <HearthTender66.title>proprietar de locuințe</HearthTender66.title>
   <HearthTender66.titleFemale>proprietară de locuințe</HearthTender66.titleFemale>
@@ -113,14 +113,14 @@
   <HearthTender66.titleShortFemale>îngrijitoare</HearthTender66.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] herded a variety of animals to help feed and clothe [PAWN_possessive] tribe while on the move. [PAWN_nameDef] learned how to calm and direct the beasts, and how to hunt [PAWN_possessive] own meals on the trail. -->
-  <Herder33.baseDesc>{PAWN_gender ? [PAWN_nameDef] a păstorit o varietate de animale pentru a ajuta la hrănirea și îmbrăcarea tribului său în timp ce era în mișcare. [PAWN_nameDef] a învățat cum să calmeze și să dirijeze animalele și cum să își vâneze propriile mese pe traseu. : [PAWN_nameDef] a păstorit o varietate de animale pentru a ajuta la hrănirea și îmbrăcarea tribului ei în timp ce era în mișcare. [PAWN_nameDef] a învățat cum să calmeze și să dirijeze animalele și cum să își vâneze singură mâncarea pe traseu.}\n</Herder33.baseDesc>
+  <Herder33.baseDesc>{PAWN_gender ? [PAWN_nameDef] a păstorit o varietate de animale pentru a ajuta la hrănirea și îmbrăcarea tribului său în timp ce era în mișcare. [PAWN_nameDef] a învățat cum să calmeze și să dirijeze animalele și cum să își vâneze propriile mese pe traseu. : [PAWN_nameDef] a păstorit o varietate de animale pentru a ajuta la hrănirea și îmbrăcarea tribului ei în timp ce era în mișcare. [PAWN_nameDef] a învățat cum să calmeze și să dirijeze animalele și cum să își vâneze singură mâncarea pe traseu.}</Herder33.baseDesc>
   <!-- EN: herder -->
   <Herder33.title>cioban</Herder33.title>
   <!-- EN: herder -->
   <Herder33.titleShort>cioban</Herder33.titleShort>
   
   <!-- EN: [PAWN_nameDef] tracked, trapped and killed animals for their meat and leather.\n\n[PAWN_nameDef] used both ranged and melee weapons. Sometimes, [PAWN_pronoun] hunted alongside animals. -->
-  <Hunter74.baseDesc>{PAWN_gender ? [PAWN_nameDef] a urmărit, a prins în capcane și a ucis animale pentru carne și piele.\n\n[PAWN_nameDef] a folosit atât arme de distanță, cât și arme de luptă corp la corp. Uneori, a vânat alături de animale. : [PAWN_nameDef] a urmărit, a prins și a ucis animale pentru carne și piele.\n\n[PAWN_nameDef] a folosit atât arme de distanță, cât și arme de corp la corp. Uneori, ea vâna alături de animale.}\n</Hunter74.baseDesc>
+  <Hunter74.baseDesc>{PAWN_gender ? [PAWN_nameDef] a urmărit, a prins în capcane și a ucis animale pentru carne și piele.\n\n[PAWN_nameDef] a folosit atât arme de distanță, cât și arme de luptă corp la corp. Uneori, a vânat alături de animale. : [PAWN_nameDef] a urmărit, a prins și a ucis animale pentru carne și piele.\n\n[PAWN_nameDef] a folosit atât arme de distanță, cât și arme de corp la corp. Uneori, ea vâna alături de animale.}</Hunter74.baseDesc>
   <!-- EN: hunter -->
   <Hunter74.title>vânător</Hunter74.title>
   <Hunter74.titleFemale>vânătoare</Hunter74.titleFemale>
@@ -129,7 +129,7 @@
   <Hunter74.titleShortFemale>vânătoare</Hunter74.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] chopped trees and hauled their lumber back to the tribe. [PAWN_pronoun] wielded [PAWN_possessive] axe with the finesse of an artist and the force of a charging muffalo. -->
-  <Logger16.baseDesc>{PAWN_gender ? [PAWN_nameDef] a tăiat copaci și a transportat lemnul înapoi în trib. Își mânuia toporul cu finețea unui artist și cu forța unui muflon care atacă. : [PAWN_nameDef] a tăiat copaci și a transportat lemnul înapoi în trib. Își mânuia toporul cu finețea unui artist și cu forța unui muflon care atacă.}\n</Logger16.baseDesc>
+  <Logger16.baseDesc>{PAWN_gender ? [PAWN_nameDef] a tăiat copaci și a transportat lemnul înapoi în trib. Își mânuia toporul cu finețea unui artist și cu forța unui muflon care atacă. : [PAWN_nameDef] a tăiat copaci și a transportat lemnul înapoi în trib. Își mânuia toporul cu finețea unui artist și cu forța unui muflon care atacă.}</Logger16.baseDesc>
   <!-- EN: logger -->
   <Logger16.title>registrator</Logger16.title>
   <Logger16.titleFemale>registratoare</Logger16.titleFemale>
@@ -138,7 +138,7 @@
   <Logger16.titleShortFemale>registratoare</Logger16.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] never much liked the tribal council or the yearly festivals. [PAWN_pronoun] preferred the open plain and the whistle of wind through the rocks.\n\n[PAWN_pronoun] visited [PAWN_possessive] tribe from time to time, but mostly took care of [PAWN_objective]self using [PAWN_possessive] own survival skills. -->
-  <Loner61.baseDesc>{PAWN_gender ? Lui [PAWN_nameDef] nu i-a plăcut niciodată consiliul tribal sau festivalurile anuale. El prefera câmpia deschisă și șuieratul vântului printre stânci.\nÎși vizita tribul din când în când, dar în cea mai mare parte își purta singur de grijă folosind propriile abilități de supraviețuire. : Lui [PAWN_nameDef] nu i-au plăcut niciodată consiliul tribal sau festivalurile anuale. Ea prefera câmpia deschisă și șuieratul vântului printre stânci.\n\nȘi-a vizitat tribul din când în când, dar în cea mai mare parte a avut grijă de ea însăși folosind propriile abilități de supraviețuire.}\n</Loner61.baseDesc>
+  <Loner61.baseDesc>{PAWN_gender ? Lui [PAWN_nameDef] nu i-a plăcut niciodată consiliul tribal sau festivalurile anuale. El prefera câmpia deschisă și șuieratul vântului printre stânci.\nÎși vizita tribul din când în când, dar în cea mai mare parte își purta singur de grijă folosind propriile abilități de supraviețuire. : Lui [PAWN_nameDef] nu i-au plăcut niciodată consiliul tribal sau festivalurile anuale. Ea prefera câmpia deschisă și șuieratul vântului printre stânci.\n\nȘi-a vizitat tribul din când în când, dar în cea mai mare parte a avut grijă de ea însăși folosind propriile abilități de supraviețuire.}</Loner61.baseDesc>
   <!-- EN: loner -->
   <Loner61.title>singuratic</Loner61.title>
   <Loner61.titleFemale>singuratică</Loner61.titleFemale>
@@ -147,7 +147,7 @@
   <Loner61.titleShortFemale>singuratică</Loner61.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was one of a long line of lore keepers in [PAWN_possessive] tribe. Every night around the fire, [PAWN_pronoun] would pass on ancient knowledge and helpful wisdom through stories. -->
-  <LoreKeeper51.baseDesc>{PAWN_gender ? [PAWN_nameDef] făcea parte dintr-un lung șir de păstrători de tradiții în tribul său. În fiecare seară, în jurul focului, el transmitea cunoștințe străvechi și înțelepciune utilă prin intermediul poveștilor. : [PAWN_nameDef] făcea parte dintr-un lung șir de păstrători de tradiții în tribul ei. În fiecare seară, în jurul focului, ea transmitea cunoștințe străvechi și înțelepciune utilă prin intermediul poveștilor.}\n</LoreKeeper51.baseDesc>
+  <LoreKeeper51.baseDesc>{PAWN_gender ? [PAWN_nameDef] făcea parte dintr-un lung șir de păstrători de tradiții în tribul său. În fiecare seară, în jurul focului, el transmitea cunoștințe străvechi și înțelepciune utilă prin intermediul poveștilor. : [PAWN_nameDef] făcea parte dintr-un lung șir de păstrători de tradiții în tribul ei. În fiecare seară, în jurul focului, ea transmitea cunoștințe străvechi și înțelepciune utilă prin intermediul poveștilor.}</LoreKeeper51.baseDesc>
   <!-- EN: lore keeper -->
   <LoreKeeper51.title>păstrător de cunoștințe</LoreKeeper51.title>
   <LoreKeeper51.titleFemale>păstrătoare de tradiții</LoreKeeper51.titleFemale>
@@ -155,7 +155,7 @@
   <LoreKeeper51.titleShort>paznic</LoreKeeper51.titleShort>
   
   <!-- EN: [PAWN_nameDef] often feigned sickness in order to avoid [PAWN_possessive] responsibilities. While resting in the sick hut, [PAWN_pronoun] told stories to the children. -->
-  <Malingerer28.baseDesc>{PAWN_gender ? [PAWN_nameDef] se prefăcea adesea bolnav pentru a se sustrage responsabilităților sale. În timp ce se odihnea în coliba bolnavilor, le spunea povești copiilor. : [PAWN_nameDef] se prefăcea adesea bolnavă pentru a se sustrage responsabilităților sale. În timp ce se odihnea în coliba bolnavilor, ea le spunea povești copiilor.}\n</Malingerer28.baseDesc>
+  <Malingerer28.baseDesc>{PAWN_gender ? [PAWN_nameDef] se prefăcea adesea bolnav pentru a se sustrage responsabilităților sale. În timp ce se odihnea în coliba bolnavilor, le spunea povești copiilor. : [PAWN_nameDef] se prefăcea adesea bolnavă pentru a se sustrage responsabilităților sale. În timp ce se odihnea în coliba bolnavilor, ea le spunea povești copiilor.}</Malingerer28.baseDesc>
   <!-- EN: malingerer -->
   <Malingerer28.title>simulator</Malingerer28.title>
   <Malingerer28.titleFemale>simulatoare</Malingerer28.titleFemale>
@@ -164,14 +164,14 @@
   <Malingerer28.titleShortFemale>simulatoare</Malingerer28.titleShortFemale>
   
   <!-- EN: Because of [PAWN_possessive] quiet wisdom and great strength, [PAWN_nameDef] became the spiritual guide for [PAWN_possessive] tribe. [PAWN_pronoun] had a special connection with the great spirit of the muffalo. -->
-  <MuffaloShaman95.baseDesc>{PAWN_gender ? Datorită înțelepciunii sale liniștite și a forței sale mari, [PAWN_nameDef] a devenit ghidul spiritual al tribului său. Avea o legătură specială cu marele spirit al muflonului. : Datorită înțelepciunii sale tăcute și a forței sale mari, [PAWN_nameDef] a devenit ghidul spiritual al tribului său. Avea o legătură specială cu marele spirit al muflonului.}\n</MuffaloShaman95.baseDesc>
+  <MuffaloShaman95.baseDesc>{PAWN_gender ? Datorită înțelepciunii sale liniștite și a forței sale mari, [PAWN_nameDef] a devenit ghidul spiritual al tribului său. Avea o legătură specială cu marele spirit al muflonului. : Datorită înțelepciunii sale tăcute și a forței sale mari, [PAWN_nameDef] a devenit ghidul spiritual al tribului său. Avea o legătură specială cu marele spirit al muflonului.}</MuffaloShaman95.baseDesc>
   <!-- EN: muffalo shaman -->
   <MuffaloShaman95.title>șaman de muffalo</MuffaloShaman95.title>
   <!-- EN: shaman -->
   <MuffaloShaman95.titleShort>șaman</MuffaloShaman95.titleShort>
   
   <!-- EN: [PAWN_nameDef] helped [PAWN_possessive] tribe build huge wooden structures by cutting trees into sturdy planks. [PAWN_nameDef] developed a fine understanding of how wood grows and splits. -->
-  <PlankCutter72.baseDesc>{PAWN_gender ? [PAWN_nameDef] și-a ajutat tribul să construiască structuri uriașe din lemn, tăind copaci în scânduri solide. [PAWN_nameDef] a dezvoltat o înțelegere fină a modului în care crește și se despică lemnul. : [PAWN_nameDef] și-a ajutat tribul să construiască structuri uriașe din lemn, tăind copaci în scânduri solide. [PAWN_nameDef] a dezvoltat o înțelegere fină a modului în care crește și se despică lemnul.}\n</PlankCutter72.baseDesc>
+  <PlankCutter72.baseDesc>{PAWN_gender ? [PAWN_nameDef] și-a ajutat tribul să construiască structuri uriașe din lemn, tăind copaci în scânduri solide. [PAWN_nameDef] a dezvoltat o înțelegere fină a modului în care crește și se despică lemnul. : [PAWN_nameDef] și-a ajutat tribul să construiască structuri uriașe din lemn, tăind copaci în scânduri solide. [PAWN_nameDef] a dezvoltat o înțelegere fină a modului în care crește și se despică lemnul.}</PlankCutter72.baseDesc>
   <!-- EN: plank cutter -->
   <PlankCutter72.title>tăietor de scânduri</PlankCutter72.title>
   <PlankCutter72.titleFemale>tăietoare de scânduri</PlankCutter72.titleFemale>
@@ -180,21 +180,21 @@
   <PlankCutter72.titleShortFemale>tăietoare de scânduri</PlankCutter72.titleShortFemale>
   
   <!-- EN: Since [PAWN_possessive] tribe made contact with local outlanders, [PAWN_nameDef] contracted [PAWN_possessive] services out as a guide. Frequent contact with ancient technology made [PAWN_objective] comfortable with the lost machines. -->
-  <Scout59.baseDesc>{PAWN_gender ? De când tribul său a intrat în contact cu străinii din zonă, [PAWN_nameDef] și-a contractat serviciile de ghid. Contactul frecvent cu tehnologia antică l-a făcut să se simtă bine cu mașinile pierdute. : De când tribul ei a intrat în contact cu localnicii de peste hotare, [PAWN_nameDef] și-a contractat serviciile de ghid. Contactul frecvent cu tehnologia antică a făcut-o să se simtă confortabil cu mașinile pierdute.}\n</Scout59.baseDesc>
+  <Scout59.baseDesc>{PAWN_gender ? De când tribul său a intrat în contact cu străinii din zonă, [PAWN_nameDef] și-a contractat serviciile de ghid. Contactul frecvent cu tehnologia antică l-a făcut să se simtă bine cu mașinile pierdute. : De când tribul ei a intrat în contact cu localnicii de peste hotare, [PAWN_nameDef] și-a contractat serviciile de ghid. Contactul frecvent cu tehnologia antică a făcut-o să se simtă confortabil cu mașinile pierdute.}</Scout59.baseDesc>
   <!-- EN: scout -->
   <Scout59.title>cercetaș</Scout59.title>
   <!-- EN: scout -->
   <Scout59.titleShort>cercetaș</Scout59.titleShort>
   
   <!-- EN: [PAWN_nameDef] prepared meals from the plants and animals brought in by gatherers, farmers, and hunters of [PAWN_possessive] tribe. [PAWN_pronoun] had to make sure it was calorie-efficient, long-lasting, and healthy. [PAWN_pronoun] often processed and sometime gathered plants [PAWN_objective]self. -->
-  <StewKeeper95.baseDesc>{PAWN_gender ? [PAWN_nameDef] a pregătit mese din plantele și animalele aduse de culegătorii, fermierii și vânătorii din tribul său. Trebuia să se asigure că era eficientă din punct de vedere caloric, de lungă durată și sănătoasă. Adesea prelucra și uneori culegea el însuși plantele. : [PAWN_nameDef] pregătea mâncăruri din plantele și animalele aduse de culegătorii, fermierii și vânătorii din tribul ei. Trebuia să se asigure că era eficientă din punct de vedere caloric, de lungă durată și sănătoasă. Deseori, ea însăși prelucra și uneori culegea plantele.}\n</StewKeeper95.baseDesc>
+  <StewKeeper95.baseDesc>{PAWN_gender ? [PAWN_nameDef] a pregătit mese din plantele și animalele aduse de culegătorii, fermierii și vânătorii din tribul său. Trebuia să se asigure că era eficientă din punct de vedere caloric, de lungă durată și sănătoasă. Adesea prelucra și uneori culegea el însuși plantele. : [PAWN_nameDef] pregătea mâncăruri din plantele și animalele aduse de culegătorii, fermierii și vânătorii din tribul ei. Trebuia să se asigure că era eficientă din punct de vedere caloric, de lungă durată și sănătoasă. Deseori, ea însăși prelucra și uneori culegea plantele.}</StewKeeper95.baseDesc>
   <!-- EN: stew keeper -->
   <StewKeeper95.title>tocător de tocană</StewKeeper95.title>
   <!-- EN: stewkeeper -->
   <StewKeeper95.titleShort>tocător</StewKeeper95.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s role in [PAWN_possessive] tribe was to connect with the natural world around - especially the world of animals. In addition to fulfilling a spiritual role, [PAWN_pronoun] also tamed wild beasts and cared for them as they served the tribe. -->
-  <Tamer79.baseDesc>{PAWN_gender ? Rolul lui [PAWN_nameDef] în tribul Său era de a se conecta cu lumea naturală din jur - în special cu lumea animalelor. Pe lângă faptul că îndeplinea un rol spiritual, el a îmblânzit și fiarele sălbatice și a avut grijă de ele în timp ce acestea serveau tribul. : Rolul lui [PAWN_nameDef] în tribul său era de a se conecta cu lumea naturală din jur - în special cu lumea animalelor. Pe lângă faptul că îndeplinea un rol spiritual, ea a îmblânzit și fiarele sălbatice și a avut grijă de ele în timp ce acestea serveau tribul.}\n</Tamer79.baseDesc>
+  <Tamer79.baseDesc>{PAWN_gender ? Rolul lui [PAWN_nameDef] în tribul Său era de a se conecta cu lumea naturală din jur - în special cu lumea animalelor. Pe lângă faptul că îndeplinea un rol spiritual, el a îmblânzit și fiarele sălbatice și a avut grijă de ele în timp ce acestea serveau tribul. : Rolul lui [PAWN_nameDef] în tribul său era de a se conecta cu lumea naturală din jur - în special cu lumea animalelor. Pe lângă faptul că îndeplinea un rol spiritual, ea a îmblânzit și fiarele sălbatice și a avut grijă de ele în timp ce acestea serveau tribul.}</Tamer79.baseDesc>
   <!-- EN: tamer -->
   <Tamer79.title>dresor</Tamer79.title>
   <Tamer79.titleFemale>dresoare</Tamer79.titleFemale>
@@ -203,7 +203,7 @@
   <Tamer79.titleShortFemale>dresoare</Tamer79.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] built houses among, and sometimes suspended in, the trees for [PAWN_possessive] people to use while traveling or foraging. [PAWN_nameDef] learned how to best find and use wild plants, and how to fight off wild animals. -->
-  <TreehouseBuilder86.baseDesc>{PAWN_gender ? [PAWN_nameDef] a construit case printre copaci, și uneori suspendate în copaci, pentru ca oamenii lui să le folosească în timp ce călătoreau sau căutau hrană. [PAWN_nameDef] a învățat cum să găsească și să folosească cel mai bine plantele sălbatice și cum să se lupte cu animalele sălbatice. : [PAWN_nameDef] a construit case printre copaci, și uneori suspendate în copaci, pentru ca oamenii ei să le folosească în timp ce călătoresc sau caută hrană. [PAWN_nameDef] a învățat cum să găsească și să folosească cel mai bine plantele sălbatice și cum să se lupte cu animalele sălbatice.}\n</TreehouseBuilder86.baseDesc>
+  <TreehouseBuilder86.baseDesc>{PAWN_gender ? [PAWN_nameDef] a construit case printre copaci, și uneori suspendate în copaci, pentru ca oamenii lui să le folosească în timp ce călătoreau sau căutau hrană. [PAWN_nameDef] a învățat cum să găsească și să folosească cel mai bine plantele sălbatice și cum să se lupte cu animalele sălbatice. : [PAWN_nameDef] a construit case printre copaci, și uneori suspendate în copaci, pentru ca oamenii ei să le folosească în timp ce călătoresc sau caută hrană. [PAWN_nameDef] a învățat cum să găsească și să folosească cel mai bine plantele sălbatice și cum să se lupte cu animalele sălbatice.}</TreehouseBuilder86.baseDesc>
   <!-- EN: treehouse builder -->
   <TreehouseBuilder86.title>constructor de case în copaci</TreehouseBuilder86.title>
   <TreehouseBuilder86.titleFemale>constructoare de case în copaci</TreehouseBuilder86.titleFemale>
@@ -212,7 +212,7 @@
   <TreehouseBuilder86.titleShortFemale>constructoare</TreehouseBuilder86.titleShortFemale>
   
   <!-- EN: Following the death of a close friend by animal attack, [PAWN_nameDef] hunted the beast responsible. [PAWN_pronoun] tracked it to a nearby village, only to find one of the villagers wearing its pelt. -->
-  <VengefulHunter32.baseDesc>{PAWN_gender ? În urma morții unui prieten apropiat în urma atacului unui animal, [PAWN_nameDef] a vânat bestia responsabilă. A urmărit-o până într-un sat din apropiere, doar pentru a găsi unul dintre săteni purtându-i blana. : În urma morții unui prieten apropiat în urma atacului unui animal, [PAWN_nameDef] a vânat bestia responsabilă. L-a urmărit până într-un sat din apropiere, doar pentru a găsi unul dintre săteni purtând blana acestuia.}\n</VengefulHunter32.baseDesc>
+  <VengefulHunter32.baseDesc>{PAWN_gender ? În urma morții unui prieten apropiat în urma atacului unui animal, [PAWN_nameDef] a vânat bestia responsabilă. A urmărit-o până într-un sat din apropiere, doar pentru a găsi unul dintre săteni purtându-i blana. : În urma morții unui prieten apropiat în urma atacului unui animal, [PAWN_nameDef] a vânat bestia responsabilă. L-a urmărit până într-un sat din apropiere, doar pentru a găsi unul dintre săteni purtând blana acestuia.}</VengefulHunter32.baseDesc>
   <!-- EN: vengeful hunter -->
   <VengefulHunter32.title>vânător răzbunător</VengefulHunter32.title>
   <VengefulHunter32.titleFemale>vânătoară răzbunătoare</VengefulHunter32.titleFemale>
@@ -221,14 +221,14 @@
   <VengefulHunter32.titleShortFemale>răzbunătoare</VengefulHunter32.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a fearsome warrior, proficient with many weapons. [PAWN_pronoun] participated in many battles. -->
-  <Warrior94.baseDesc>{PAWN_gender ? [PAWN_nameDef] era un războinic de temut, priceput la multe arme. A participat la multe bătălii. : [PAWN_nameDef] era o războinică de temut, pricepută la multe arme. A participat la multe bătălii.}\n</Warrior94.baseDesc>
+  <Warrior94.baseDesc>{PAWN_gender ? [PAWN_nameDef] era un războinic de temut, priceput la multe arme. A participat la multe bătălii. : [PAWN_nameDef] era o războinică de temut, pricepută la multe arme. A participat la multe bătălii.}</Warrior94.baseDesc>
   <!-- EN: warrior -->
   <Warrior94.title>războinic</Warrior94.title>
   <!-- EN: warrior -->
   <Warrior94.titleShort>războinic</Warrior94.titleShort>
   
   <!-- EN: [PAWN_nameDef] was an expert at working wool, plant fibers and natural dyes into beautiful clothing for [PAWN_possessive] kin. [PAWN_possessive] handicrafts were traded frequently with other settlements. -->
-  <Weaver63.baseDesc>{PAWN_gender ? [PAWN_nameDef] era un expert în prelucrarea lânii, a fibrelor vegetale și a vopselelor naturale pentru a obține haine frumoase pentru rudele sale. Meșteșugurile sale erau comercializate frecvent cu alte așezări. : [PAWN_nameDef] era o expertă în prelucrarea lânii, a fibrelor vegetale și a vopselurilor naturale pentru a crea haine frumoase pentru rudele sale, iar obiectele sale de artizanat erau comercializate frecvent cu alte așezări.}\n</Weaver63.baseDesc>
+  <Weaver63.baseDesc>{PAWN_gender ? [PAWN_nameDef] era un expert în prelucrarea lânii, a fibrelor vegetale și a vopselelor naturale pentru a obține haine frumoase pentru rudele sale. Meșteșugurile sale erau comercializate frecvent cu alte așezări. : [PAWN_nameDef] era o expertă în prelucrarea lânii, a fibrelor vegetale și a vopselurilor naturale pentru a crea haine frumoase pentru rudele sale, iar obiectele sale de artizanat erau comercializate frecvent cu alte așezări.}</Weaver63.baseDesc>
   <!-- EN: weaver -->
   <Weaver63.title>țesător</Weaver63.title>
   <Weaver63.titleFemale>țesătoare</Weaver63.titleFemale>
