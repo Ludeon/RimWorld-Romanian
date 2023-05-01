@@ -27,7 +27,7 @@
   <CallMilitaryAidSmall.description>Cheamă un grup de 4 soldați ușori pentru a te ajuta în luptă.</CallMilitaryAidSmall.description>
   
   <!-- EN: call aerodrone salvo -->
-  <CallOrbitalSalvo.label>cheamă aerodronă salvo </CallOrbitalSalvo.label>
+  <CallOrbitalSalvo.label>cheamă aerodronă salvo</CallOrbitalSalvo.label>
   <!-- EN: Call a salvo of aerodrone strikes around a target position. -->
   <CallOrbitalSalvo.description>Cheamă o salvo de lovituri de aerodrone în jurul unei poziții țintă.</CallOrbitalSalvo.description>
   

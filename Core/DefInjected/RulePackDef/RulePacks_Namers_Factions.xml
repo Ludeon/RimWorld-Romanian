@@ -151,7 +151,7 @@
     <li>r_name->[Enemy_PluArt] [NamePerson]</li>
     <li>r_name->[AnimalBadass_PluArt] [NamePerson]</li>
     <li>r_name->[Weapon_PluArt] [NamePerson]</li>
-    <li>r_name->[GroupName_PluArt]-[Weapon_SglNom] </li>
+    <li>r_name->[GroupName_PluArt]-[Weapon_SglNom]</li>
     <li>r_name->[GroupName_PluArt]-[ConceptBadass_SglNom]</li>
   </NamerFactionPirate.rulePack.rulesStrings>
   

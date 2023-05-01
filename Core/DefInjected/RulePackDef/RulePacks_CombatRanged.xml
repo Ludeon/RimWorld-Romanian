@@ -38,11 +38,11 @@
     <li>prefix->[blast] [fromof] [WEAPON_label] lui [INITIATOR_label]</li>
     <li>prefix->[blast] [fromof] [WEAPON_projectile_definite] lui [INITIATOR_label]</li>
     <li>prefix->[blast] [fromof] [WEAPON_label] lui [INITIATOR_label]</li>
-    <li>prefix->[blast] lui [INITIATOR_label] </li>
-    <li>prefix->[blast] de [WEAPON_projectile_definite] lui [INITIATOR_label] </li>
-    <li>prefix->[blast] de [WEAPON_label] a lui [INITIATOR_label] </li>
-    <li>prefix->[WEAPON_projectile_definite] lui [INITIATOR_label] </li>
-    <li>prefix->[WEAPON_label] lui [INITIATOR_label] </li>
+    <li>prefix->[blast] lui [INITIATOR_label]</li>
+    <li>prefix->[blast] de [WEAPON_projectile_definite] lui [INITIATOR_label]</li>
+    <li>prefix->[blast] de [WEAPON_label] a lui [INITIATOR_label]</li>
+    <li>prefix->[WEAPON_projectile_definite] lui [INITIATOR_label]</li>
+    <li>prefix->[WEAPON_label] lui [INITIATOR_label]</li>
     <li>r_logentry->[prefix] [injured] [RECIPIENT_label].</li>
     <li>r_logentry->[prefix] a [destroyed_past] [destroyed_targets] lui [RECIPIENT_label].</li>
     <li>r_logentry->[prefix] a [destroyed_past] [strikeAdv] [destroyed_targets] lui [RECIPIENT_label].</li>
@@ -235,7 +235,7 @@
     <li>adverb_deflected->inofensiv</li>
     <li>adverb_deflected->într-un mod inutil</li>
     <li>deflected_consequence->dar a [scraped_past] [adverb_deflected_opt]</li>
-    <li>deflected_consequence->[scraped_present] [adverb_deflected_opt] de pe armura [RECIPIENT_possessive] </li>
+    <li>deflected_consequence->[scraped_present] [adverb_deflected_opt] de pe armura [RECIPIENT_possessive]</li>
     <li>scraped_past->ricoșat</li>
     <li>scraped_present->ricoșând</li>
     <li>missed->ratat</li>

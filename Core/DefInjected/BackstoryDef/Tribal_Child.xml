@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents exposed [PAWN_objective] to the elements. Somehow, [PAWN_pronoun] survived. -->
-  <AbandonedChild23.baseDesc>[PAWN_nameDef] s-a născut bolnăvici{PAWN_gender ? os : oasă}. Gândindu-se că [PAWN_pronoun] nu-i decât o povară pentru trib, părinții [PAWN_possessive] {PAWN_gender ? l-au expus : au expus-o} elementelor. Cumva, [PAWN_pronoun] a supraviețuit </AbandonedChild23.baseDesc>
+  <AbandonedChild23.baseDesc>[PAWN_nameDef] s-a născut bolnăvici{PAWN_gender ? os : oasă}. Gândindu-se că [PAWN_pronoun] nu-i decât o povară pentru trib, părinții [PAWN_possessive] {PAWN_gender ? l-au expus : au expus-o} elementelor. Cumva, [PAWN_pronoun] a supraviețuit.</AbandonedChild23.baseDesc>
   <!-- EN: abandoned child -->
   <AbandonedChild23.title>copil abandonat</AbandonedChild23.title>
   <!-- EN: abandoned -->

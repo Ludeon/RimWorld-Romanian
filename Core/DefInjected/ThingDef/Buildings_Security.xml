@@ -32,12 +32,12 @@
   <TrapIED_HighExplosive.description>O pereche de proiectile cu explozibil înalt conectate la un declanșator care detonează la atingere sau la impactul cu un glonț. Deoarece este ascunsă în terenul înconjurător, nu poate fi plasată lângă alte capcane. Animalele le pot simți atunci când sunt calme.</TrapIED_HighExplosive.description>
   
   <!-- EN: IED incendiary trap -->
-  <TrapIED_Incendiary.label>Capcană IED incendiară </TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.label>Capcană IED incendiară</TrapIED_Incendiary.label>
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Incendiary.description>O pereche de proiectile incendiare conectate la un declanșator care detonează la atingere sau la impactul cu un glonț. Deoarece este ascunsă în terenul înconjurător, nu poate fi plasată adiacent altor capcane. Animalele le pot simți atunci când sunt calme.</TrapIED_Incendiary.description>
   
   <!-- EN: IED Smoke trap -->
-  <TrapIED_Smoke.label>Capcană IED de fum </TrapIED_Smoke.label>
+  <TrapIED_Smoke.label>Capcană IED de fum</TrapIED_Smoke.label>
   <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
   <TrapIED_Smoke.description>O pereche de proiectile de fum conectate la un declanșator care explodează la atingere sau la impactul cu un glonț. Deoarece este ascunsă în terenul înconjurător, nu poate fi plasată adiacent altor capcane. Animalele le pot simți atunci când sunt calme.</TrapIED_Smoke.description>
   

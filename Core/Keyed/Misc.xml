@@ -119,7 +119,7 @@
   <Unlocks>Unlocks</Unlocks>
 
   <!-- EN: {0} corpse -->
-  <CorpseLabel>Cadavru de {0} </CorpseLabel>
+  <CorpseLabel>Cadavru de {0}</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
   <CorpseDesc>Trupul mort al unui {0}.</CorpseDesc>
   <!-- EN: {1_label} (dead) -->

@@ -313,7 +313,7 @@
   <!-- EN: The things this terrain supports. -->
   <Stat_Thing_Terrain_Supports_Desc>Lucrurile pe care le suportă acest teren.</Stat_Thing_Terrain_Supports_Desc>
   <!-- EN: This can only be placed on terrain of these types. -->
-  <Stat_Thing_TerrainRequirement_Desc>Un obiect sau o structură poate fi plasată numai pe terenuri de un anumit fel. De exemplu, un perete de piatră nu va putea fi construit decât pe terenuri care nu sunt mlăștinoase, noroioase sau foarte nisipoase. </Stat_Thing_TerrainRequirement_Desc>
+  <Stat_Thing_TerrainRequirement_Desc>Un obiect sau o structură poate fi plasată numai pe terenuri de un anumit fel. De exemplu, un perete de piatră nu va putea fi construit decât pe terenuri care nu sunt mlăștinoase, noroioase sau foarte nisipoase.</Stat_Thing_TerrainRequirement_Desc>
   <!-- EN: Considered -->
   <Stat_Thing_Terrain_Fine_Name>Considerat</Stat_Thing_Terrain_Fine_Name>
   <!-- EN: Fine -->

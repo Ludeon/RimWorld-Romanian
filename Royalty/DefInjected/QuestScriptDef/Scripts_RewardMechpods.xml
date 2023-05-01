@@ -34,7 +34,7 @@
     <li>questName->[menace] de cluster</li>
     <li>questName->[menace] de capsule</li>
     <li>questName->[nameBased]</li>
-    <li>nameBased->mech-urile lui [asker_nameDef] </li>
+    <li>nameBased->mech-urile lui [asker_nameDef]</li>
     <li>nameBased->mechanoizii lui [asker_nameDef]</li>
     <li>nameBased->clusterul mech a lui [asker_nameDef]</li>
     <li>nameBased->[menace] de mech-uri a lui [asker_nameDef]</li>
