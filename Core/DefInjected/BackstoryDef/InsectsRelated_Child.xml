@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] grew up in the sludge-smeared sewers of a polluted industrial world.\n\n[PAWN_pronoun] befriended the strange insects in the darkness, and learned to love them. -->
-  <SewerKid57.baseDesc>{PAWN_gender ? [PAWN_nameDef] a crescut în canalele pline de noroi ale unei lumi industriale poluate.S-a împrietenit cu insectele ciudate din întuneric și a învățat să le iubească. : [PAWN_nameDef] a crescut în canalele pline de noroi ale unei lumi industriale poluate.\n\nS-a împrietenit cu insectele ciudate din întuneric și a învățat să le iubească.}</SewerKid57.baseDesc>
+  <SewerKid57.baseDesc>{PAWN_gender ? [PAWN_nameDef] a crescut în canalele pline de noroi ale unei lumi industriale poluate. S-a împrietenit cu insectele ciudate din întuneric și a învățat să le iubească. : [PAWN_nameDef] a crescut în canalele pline de noroi ale unei lumi industriale poluate.\n\nS-a împrietenit cu insectele ciudate din întuneric și a învățat să le iubească.}</SewerKid57.baseDesc>
   <!-- EN: sewer kid -->
   <SewerKid57.title>copil al canalizării</SewerKid57.title>
   <!-- EN: sewer girl -->
